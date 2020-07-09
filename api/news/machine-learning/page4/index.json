@@ -2,57 +2,13 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
-      "title": "Artificial intelligence chips benefit from a good night's sleep",
-      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
-      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial intelligence chips benefit from a good night's sleep",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
-      "publishedDateTime": "2020-06-08T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics.md",
       "title": "Machine learning predicts nanoparticles' structure and dynamics",
       "excerpt": "Machine learning methods, once trained to model the systems reliably, can speed up the simulations by several orders of magnitude. The new method allowed simulations to be run on a laptop or desktop",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics/index.json",
       "webUrl": "https://www.sciencedaily.com/releases/2020/06/200609104305.htm",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -90,7 +46,10 @@
       "path": "_news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip.md",
       "title": "MIT fit tens of thousands of artificial brain synapses on a single chip",
       "excerpt": "MIT engineers put tens of thousands of artificial brain synapses on a single chip that's smaller than a piece of confetti.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-mit-fit-tens-of-thousands-of-artificial-brain-synapses-on-a-single-chip/index.json",
       "webUrl": "https://www.engadget.com/mit-brain-on-a-chip-silver-copper-memristors-183405642.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 206,
       "tags": null,
       "images": [
@@ -138,7 +97,10 @@
       "path": "_news/2020-06-08-a-uniform-interface-to-run-deep-learning-models-from-multiple-frameworks.md",
       "title": "A uniform interface to run deep learning models from multiple frameworks",
       "excerpt": "Neuropod is a library that provides a uniform interface to run deep learning models from multiple frameworks in C++ and Python. Neuropod makes it easy for researchers to build models in a framework of their choosing while also simplifying productionization of these models.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-a-uniform-interface-to-run-deep-learning-models-from-multiple-frameworks/index.json",
       "webUrl": "https://github.com/uber/neuropod",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -176,7 +138,10 @@
       "path": "_news/2020-06-08-secure-privacy-preserving-and-federated-machine-learning-in-medical-imaging.md",
       "title": "Secure, privacy-preserving and federated machine learning in medical imaging",
       "excerpt": "Nat. Commun. 10, 764 (2019). Kaissis, G. et al. A machine learning algorithm predicts molecular subtypes in pancreatic ductal adenocarcinoma with differential response to gemcitabine-based versus ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-secure-privacy-preserving-and-federated-machine-learning-in-medical-imaging/index.json",
       "webUrl": "https://www.nature.com/articles/s42256-020-0186-1",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -214,7 +179,10 @@
       "path": "_news/2020-06-08-a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension.md",
       "title": "A Comprehensive Study Exploring Artificial Neural Networks Market | Key PlayersOracle, Ward Systems, Alyuda Research, NeuroDimension",
       "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension-2020-06-08",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -261,7 +229,10 @@
       "path": "_news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning.md",
       "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
       "excerpt": "The latest machine-learning, deep-learning, and workflow automation technology can accelerate interpretation, improve accuracy, and reduce repetition for radiologists and other specialties. The truth is that most departmental picture archiving and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning/index.json",
       "webUrl": "https://www.mddionline.com/radiological/consider-promises-and-challenges-medical-image-analyses-using-machine-learning",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -299,7 +270,10 @@
       "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
       "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
       "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 103,
       "tags": null,
       "images": [
@@ -347,7 +321,10 @@
       "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
       "title": "Here's how a new machine learning software can beef up cloud-based databases",
       "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/index.json",
       "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -394,7 +371,10 @@
       "path": "_news/2020-06-05-covid-19-impact-on-neural-network-software-market.md",
       "title": "COVID-19 Impact on Neural Network Software Market",
       "excerpt": "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-covid-19-impact-on-neural-network-software-market/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-neural-network-software-market-2020-06-05",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -441,7 +421,10 @@
       "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
       "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
       "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/index.json",
       "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -489,7 +472,10 @@
       "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
       "title": "AI, machine learning to support digital lending landscape in post-covid era",
       "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/index.json",
       "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -528,7 +514,10 @@
       "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
       "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
       "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40/index.json",
       "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -566,7 +555,10 @@
       "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
       "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
       "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm/index.json",
       "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -604,7 +596,10 @@
       "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
       "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
       "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -633,7 +628,10 @@
       "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
       "title": "Robot chef uses machine learning to perfect its omelette-making skills",
       "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills/index.json",
       "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -680,7 +678,10 @@
       "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
       "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
       "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/index.json",
       "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -718,7 +719,10 @@
       "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
       "title": "All you need to know about symbolic artificial intelligence",
       "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -766,7 +770,10 @@
       "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
       "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
       "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/index.json",
       "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -813,7 +820,10 @@
       "path": "_news/2020-05-31-thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind.md",
       "title": "Thanks To Renewables And Machine Learning, Google Now Forecasts The Wind",
       "excerpt": "Using machine learning, they have been able to better predict wind production, better predict electricity supply and demand, and as a result, reduce operating costs. “What we've been doing is working in partnership with the DeepMind team to use machine learning to take the weather data that's available publicly, actually forecast what we ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-31-thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/index.json",
       "webUrl": "https://www.forbes.com/sites/jeffmcmahon/2020/05/31/thanks-to-renewables-and-machine-learning-google-now-forecasts-the-wind/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -860,7 +870,10 @@
       "path": "_news/2020-05-29-machine-learning-helps-map-global-ocean-communities.md",
       "title": "Machine learning helps map global ocean communities",
       "excerpt": "On land, it’s fairly obvious where one ecological region ends and another begins, for instance at the boundary between a desert and savanna. In the ocean,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-machine-learning-helps-map-global-ocean-communities/index.json",
       "webUrl": "https://scienceblog.com/516672/machine-learning-helps-map-global-ocean-communities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -898,7 +911,10 @@
       "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
       "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
       "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration/index.json",
       "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -937,7 +953,10 @@
       "path": "_news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence.md",
       "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
       "excerpt": "The Indian Institute of Technology (IIT-Ropar) and TSW, the executive education division of Times Professional Learning have launched a post graduate (PG) certificate programme in Artificial Intelligence and Deep Learning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence/index.json",
       "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=266700",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -975,7 +994,10 @@
       "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
       "title": "Apple buys machine-learning startup to improve data used in Siri",
       "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri/index.json",
       "webUrl": "https://www.dig-in.com/articles/apple-buys-machine-learning-startup-to-improve-data-used-in-siri",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1013,7 +1035,10 @@
       "path": "_news/2020-05-29-apple-grabs-machine-learning-startup-inductiv.md",
       "title": "Apple Grabs Machine-Learning Startup Inductiv",
       "excerpt": "Apple just confirmed the acquisition of machine-learning startup Inductiv, Bloomberg reports. “The engineering team from Waterloo, Ontario-based Inductiv joined Apple in recent weeks to work on Siri,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-apple-grabs-machine-learning-startup-inductiv/index.json",
       "webUrl": "https://www.mediapost.com/publications/article/351904/apple-grabs-machine-learning-startup-inductiv.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1042,7 +1067,10 @@
       "path": "_news/2020-05-28-apple-acquires-machine-learning-startup-inductiv.md",
       "title": "Apple Acquires Machine Learning Startup Inductiv",
       "excerpt": "Apple (NASDAQ:AAPL) has acquired Inductiv, a machine-learning (ML) start-up that uses artificial intelligence (AI) to automatically identify and correct errors that may be lurking",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-apple-acquires-machine-learning-startup-inductiv/index.json",
       "webUrl": "https://www.fool.com/investing/2020/05/28/apple-acquires-machine-learning-startup-inductiv.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1089,7 +1117,10 @@
       "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
       "title": "Apple acquires Inductiv, machine-learning specialists",
       "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists/index.json",
       "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1127,7 +1158,10 @@
       "path": "_news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics.md",
       "title": "AWS Uses Machine Learning to Create New Soccer Statistics",
       "excerpt": "Amazon Web Services has introduced two new soccer metrics that measure a team’s on-field positioning strategy and the likelihood of scoring a goal based on a shooter’s location. The stats debuted during Tuesday’s broadcast of Borussia Dortmund vs.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-aws-uses-machine-learning-to-create-new-soccer-statistics/index.json",
       "webUrl": "https://www.sporttechie.com/aws-bundesliga-machine-learning-soccer-statistics",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1165,7 +1199,10 @@
       "path": "_news/2020-05-28-interpretable-multimodal-deep-learning-for-real-time-pan-tissue-pan-disease-pathology-search-on-social-media.md",
       "title": "Interpretable multimodal deep learning for real-time pan-tissue pan-disease pathology search on social media",
       "excerpt": "We develop machine learning and deep learning models to (i) accurately identify histopathology stains, (ii) discriminate between tissues, and (iii) differentiate disease states. Area Under ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-interpretable-multimodal-deep-learning-for-real-time-pan-tissue-pan-disease-pathology-search-on-social-media/index.json",
       "webUrl": "https://www.nature.com/articles/s41379-020-0540-1",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1203,7 +1240,10 @@
       "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
       "title": "Baidu releases homegrown quantum machine learning toolkit",
       "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit/index.json",
       "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -1237,6 +1277,47 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects.md",
+      "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
+      "excerpt": "Adding to a mounting number of artificial intelligence-related acquisitions, Apple in the past few weeks purchased Ontario-based Inductiv to work on Siri and machine learning initiatives.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/index.json",
+      "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/35976-66479-200527-Siri-xl.jpg",
+          "width": 1092,
+          "height": 692,
+          "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/amp/",
+      "publishedDateTime": "2020-05-27T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

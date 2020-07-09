@@ -2,10 +2,64 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show.md",
+      "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
+      "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/index.json",
+      "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/2Q_ri_ZUN6kPKtzEKdXD3Zr0LpA=/756x567/2019/01/28/1f3bfd0e-d868-48de-a97a-eb86ec05927b/microsoft-logo-msft-1090.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
+      "publishedDateTime": "2020-06-17T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
       "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
       "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/index.json",
       "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 179,
       "tags": null,
       "images": [
@@ -52,7 +106,10 @@
       "path": "_news/2020-06-17-deep-learnings-climate-change-problem.md",
       "title": "Deep Learning’s Climate Change Problem",
       "excerpt": "The “bigger is better” ethos that currently dominates the AI research agenda threatens to inflict major environmental damage in the years ahead.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-deep-learnings-climate-change-problem/index.json",
       "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -99,7 +156,10 @@
       "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
       "title": "China's Tencent to use facial recognition to curb young video gamers",
       "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers/index.json",
       "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -137,7 +197,10 @@
       "path": "_news/2020-06-17-facebook-open-sources-ai-for-clinical-trial-eligibility.md",
       "title": "Facebook open-sources AI for clinical trial eligibility",
       "excerpt": "Facebook researchers open-sourced a family of models that parse, extract, and transform clinical trial data to make it easier to understand.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-facebook-open-sources-ai-for-clinical-trial-eligibility/index.json",
       "webUrl": "https://venturebeat.com/2020/06/17/facebook-open-sources-ai-for-clinical-trial-eligibility/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -184,7 +247,10 @@
       "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
       "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
       "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/index.json",
       "webUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -231,7 +297,10 @@
       "path": "_news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now.md",
       "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
       "excerpt": "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now/index.json",
       "webUrl": "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 129,
       "tags": null,
       "images": [
@@ -278,7 +347,10 @@
       "path": "_news/2020-06-17-microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream.md",
       "title": "Microsoft CTO Kevin Scott Believes Artificial Intelligence Will Help Reprogram The American Dream",
       "excerpt": "Kevin Scott's interest in technology as a boy lit a spark that would take him from rural Virginia to key roles at Google and LinkedIn before joining Microsoft as its chief technology officer. Now, he wants to inspire kids who are like he was to pursue their dreams in their own communities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/index.json",
       "webUrl": "https://www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -325,7 +397,10 @@
       "path": "_news/2020-06-17-ai-risks-and-covid-19-five-lessons-managers-need-to-address.md",
       "title": "AI Risks And Covid-19: Five Lessons Managers Need To Address",
       "excerpt": "In order for AI to live up to its potential, its risks must be visible and actively managed. This article provides five actionable advice for managers to do so effectively at this pivotal movement.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-ai-risks-and-covid-19-five-lessons-managers-need-to-address/index.json",
       "webUrl": "https://www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -371,7 +446,10 @@
       "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
       "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
       "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -418,7 +496,10 @@
       "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
       "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
       "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform/index.json",
       "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -456,7 +537,10 @@
       "path": "_news/2020-06-17-mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art.md",
       "title": "MIT researchers train AI to predict how humans paint works of art",
       "excerpt": "MIT researchers created an AI model that generates time-lapse videos to predict how people paint still life and landscape art.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/index.json",
       "webUrl": "https://venturebeat.com/2020/06/17/mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -502,7 +586,10 @@
       "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
       "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
       "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/index.json",
       "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 160,
       "tags": null,
       "images": [
@@ -549,7 +636,10 @@
       "path": "_news/2020-06-17-enhancing-robotic-process-automation-with-ai.md",
       "title": "Enhancing robotic process automation with AI",
       "excerpt": "Seth Siegel, North American head of AI consulting at Infosys, tells Tonya Hall about a new industry for enhancing the robotic process automation with AI and why this new industry is already worth billions in market value.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-enhancing-robotic-process-automation-with-ai/index.json",
       "webUrl": "https://www.zdnet.com/video/enhancing-robotic-process-automation-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -595,7 +685,10 @@
       "path": "_news/2020-06-17-speech-recognition-market-size-growth-share-industry-analysis.md",
       "title": "Speech Recognition Market Size | Growth, Share, Industry Analysis",
       "excerpt": "The global Speech Recognition market size is projected to reach USD 10390 million by 2026 from USD 9461 8 million in 2020 at a CAGR of 9 1 during 2021 2026 Speech recognition technology is a high technology that enables",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-speech-recognition-market-size-growth-share-industry-analysis/index.json",
       "webUrl": "https://www.openpr.com/news/2076276/speech-recognition-market-size-growth-share-industry",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -624,7 +717,10 @@
       "path": "_news/2020-06-17-deepfacedrawing-ai-can-turn-simple-sketches-into-detailed-photo-portraits.md",
       "title": "'DeepFaceDrawing' AI can turn simple sketches into detailed photo portraits",
       "excerpt": "Researchers have found a way to turn simple line drawings into photo-realistic facial images. Developed by a team at the Chinese Academy of Sciences in Beijing, DeepFaceDrawing uses artificial intelligence to help “users with little training in drawing to produce high-quality images from rough or even incomplete freehand sketches.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-deepfacedrawing-ai-can-turn-simple-sketches-into-detailed-photo-portraits/index.json",
       "webUrl": "https://www.engadget.com/ai-can-produce-detailed-photos-of-faces-from-simple-sketches-122924655.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -670,7 +766,10 @@
       "path": "_news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system.md",
       "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
       "excerpt": "Seattle startup Proprio has raised more cash to help build out its surgical technology that some investors believe will be just as transformative as the X-ray. The 4-year-old company announced a",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system/index.json",
       "webUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -717,7 +816,10 @@
       "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
       "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
       "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/index.json",
       "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 241,
       "tags": null,
       "images": [
@@ -765,7 +867,10 @@
       "path": "_news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g.md",
       "title": "Qualcomm’s Robotics RB5 Platform combines AI acceleration with 5G",
       "excerpt": "Qualcomm's new robotics development platform -- RB5 -- accelerates AI workloads while providing support for 5G connectivity.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/index.json",
       "webUrl": "https://venturebeat.com/2020/06/17/qualcomms-robotics-rb5-platform-combines-ai-acceleration-with-5g/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -812,7 +917,10 @@
       "path": "_news/2020-06-17-coronavirus-turmoil-fuels-the-rise-of-ai-powered-companies.md",
       "title": "Coronavirus turmoil fuels the rise of AI-powered companies",
       "excerpt": "For the past seven years, a Munich-based firm called riskmethods has tried to interest companies in buying software that allows them to track all their suppliers in a way that minimizes risks in operating globally spread supply chains.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-coronavirus-turmoil-fuels-the-rise-of-ai-powered-companies/index.json",
       "webUrl": "https://www.reuters.com/article/us-health-coronavirus-automation-idUSKBN23O1NQ",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -858,7 +966,10 @@
       "path": "_news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19.md",
       "title": "Tempus: Health start-up backed by Groupon co-founder joins the fight against Covid-19",
       "excerpt": "Groupon co-founder Eric Lefkofsky discovered the health-care system's flawed approach to data when his wife was diagnosed with cancer. Tempus is now on the front lines of the coronavirus fight. It made the CNBC 2020 Disruptor 50 list,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-tempus-health-start-up-backed-by-groupon-co-founder-joins-the-fight-against-covid-19/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/17/tempus-ai-health-firm-backed-by-groupon-co-founder-hunts-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -905,7 +1016,10 @@
       "path": "_news/2020-06-17-us-israeli-fintech-firm-pagaya-raises-102-million-in-funds.md",
       "title": "US-Israeli fintech firm Pagaya raises $102 million in funds",
       "excerpt": "Pagaya manages over $1.6 billion of assets for banks, insurance companies, pensions funds, asset managers, and sovereign wealth funds using AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-us-israeli-fintech-firm-pagaya-raises-102-million-in-funds/index.json",
       "webUrl": "https://www.jpost.com/israel-news/us-israeli-fintech-firm-pagaya-raises-102-million-in-funds-631792",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -943,7 +1057,10 @@
       "path": "_news/2020-06-17-zellis-to-build-hcm-solution-on-microsoft-azure.md",
       "title": "Zellis to Build HCM Solution on Microsoft Azure",
       "excerpt": "Zellis will use Microsoft cloud, data, and AI technologies to build new capabilities that extend and enhance its award-winning, market-leading",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-zellis-to-build-hcm-solution-on-microsoft-azure/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/zellis-to-build-hcm-solution-on-microsoft-azure-1029316477",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -981,7 +1098,10 @@
       "path": "_news/2020-06-17-aws-is-preferred-cloud-provider-for-genesys-cloud-customer-experience-and-contact-center-platform.md",
       "title": "AWS Is Preferred Cloud Provider for Genesys Cloud Customer Experience and Contact Center Platform",
       "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-aws-is-preferred-cloud-provider-for-genesys-cloud-customer-experience-and-contact-center-platform/index.json",
       "webUrl": "https://www.oaoa.com/news/business/article_4a6e1658-9265-53b9-b192-7d0f8907a56e.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1010,7 +1130,10 @@
       "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
       "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
       "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets/index.json",
       "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1049,7 +1172,10 @@
       "path": "_news/2020-06-17-self-driving-cars-and-the-future-of-personal-injury-law.md",
       "title": "Self-driving cars and the future of personal injury law",
       "excerpt": "Your article was successfully shared with the contacts you provided. Uber self-driving SUV that flipped on its side in a collision in Tempe, Arizona on March 24, 2017. (Photo: Tempe Police ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-self-driving-cars-and-the-future-of-personal-injury-law/index.json",
       "webUrl": "https://www.propertycasualty360.com/2020/06/17/self-driving-cars-and-the-future-of-personal-injury-law-414-181048/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1087,7 +1213,10 @@
       "path": "_news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds.md",
       "title": "U.S.-Israel Israeli fintech firm Pagaya raises $102 mln in funds",
       "excerpt": "U.S.-Israeli Pagaya, which uses artificial intelligence (AI) to manage institutional money, said on Wednesday it raised $102 million in a private funding round.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-us-israel-israeli-fintech-firm-pagaya-raises-102-mln-in-funds/index.json",
       "webUrl": "https://www.reuters.com/article/tech-pagaya-fundraising-idUSL8N2DU1DP",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1125,7 +1254,10 @@
       "path": "_news/2020-06-17-pagaya-raises-102-million-to-manage-assets-with-ai.md",
       "title": "Pagaya raises $102 million to manage assets with AI",
       "excerpt": "Pagaya, a startup that taps AI to manage asset-backed securities, has raised over $100 million in venture capital financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-pagaya-raises-102-million-to-manage-assets-with-ai/index.json",
       "webUrl": "https://venturebeat.com/2020/06/17/pagaya-raises-102-million-to-manage-assets-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 147,
       "tags": null,
       "images": [
@@ -1171,7 +1303,10 @@
       "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
       "title": "Slamcore wants to give mobile robots better spatial intelligence",
       "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/index.json",
       "webUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -1218,7 +1353,10 @@
       "path": "_news/2020-06-17-global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027.md",
       "title": "Global Deep Learning Chip Market Set to Progress at CAGR of 30.0% to Accrue USD 21.31 by 2027",
       "excerpt": "Selbyville, Delaware, Global Deep Learning Chip Market report added by Market Study Report that gives meticulous investigation of current scenario of the market size, share, demand, growth, trends, companies active in the industry and forecasts for the coming years.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-chip-market-set-to-progress-at-cagr-of-300-to-accrue-usd-2131-by-2027-2020-06-17",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -1258,44 +1396,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-aws-marketplace-and-aws-data-exchange-launch-in-uae.md",
-      "title": "AWS Marketplace and AWS Data Exchange launch in UAE",
-      "excerpt": "This expansion unlocks new business opportunities for UAE-based partners, enabling customers from around the world to discover and subscribe to software from UAE ISVs and Consulting Partners.\"",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AWS_Marketplace_and_AWS_Data_Exchange_launch_in_UAE-ZAWYA20200617075308/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "AWS Marketplace and AWS Data Exchange launch in UAE",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

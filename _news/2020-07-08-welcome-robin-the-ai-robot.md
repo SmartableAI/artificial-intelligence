@@ -7,7 +7,7 @@ webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
@@ -18,6 +18,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
 
 related:
   - title: "UCLA launches an AI robot to support the emotional needs of children"
@@ -65,6 +71,6 @@ related:
         height: 960
         isCached: true
 
-secured: "CGuaITSpDnY+UKL5o9z+Fo7W1ihhjU0vd3vgByciX3cbfRCRlVn4P3MxlYcPDx26oUXVczB0PeGSEn/5/IG87W8YXmvG9AE9kELhseEIq4zmh/gLu8q0q+rpkDBYB8DL9GPyuxmb1kDUlXjhKfvYK/23ZFkaAVgwLdkJiwosLNz7WelP7n+0PcToKREKtEhOBu+9bD4lZ4F3V0eHpBwI7IoEdB846ho/82ZBDeQdwl3QmnRNjUmu3pxIlRd0sn7765OjQRcdyZHEPOH3Kre/jPjiGKpDM9JA5UA54l85wScTGTycFb1fZG9g/6qVpjVuluHZhCQfZe8H1Fyn7s6wlw==;6S4mxbRI1LjyppC0BjG70A=="
+secured: "+xnmDjoS0T92ZgRgFpmX/Dw6MmgvnwO/xxLccrECDTGxUAz21MxLrr7OA1CgOx1jOA4+oii8+To+YA/18DjdUgk9olujqqpuQ83Y0/rpflxOPcz5V9+eNl+P66zdwzST0Ryigqsmw3/prJiEvdrTAWroskNzMGZGKrFfVynRPGpJeIuoCl6Ly5mFofzsckpMN4j6vdrPYZj1ty+GIs3cSryF0CcZ7sEOfgWlvEf7K9Sk6XtqqVw1ntvPv0GWQ4A1abiXY9UZVBRC5e2FADtL5qH9eERVhSHm8VrdRdLflvKRKNRR8sZSkX0jbvsuKR3zqF5mx3sKdamLzQDCyG7Yow==;QviJjV+PKLtmoOMfJnCoGA=="
 ---
 

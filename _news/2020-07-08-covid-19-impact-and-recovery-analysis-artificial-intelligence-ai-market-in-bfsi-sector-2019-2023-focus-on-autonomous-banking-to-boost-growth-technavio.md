@@ -24,15 +24,15 @@ images:
     title: "COVID-19 Impact and Recovery Analysis | Artificial Intelligence (AI) Market In BFSI Sector 2019-2023 | Focus On Autonomous Banking to Boost Growth | Technavio"
 
 related:
-  - title: "Automotive Radar Market Share, Trends, Growth, Sales, Demand, Revenue, Size, Forecast and COVID-19 Impacts to 2014-2026"
-    excerpt: "This report covers the recent COVID-19 and its impact on Automotive Radar Market. Furthermore, it sheds light on"
-    publishedDateTime: 2020-07-08T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-radar-market-share-trends-growth-sales-demand-revenue-size-forecast-and-covid-19-impacts-to-2014-2026-2020-07-08"
+  - title: "Artificial Intelligence in Retail Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029"
+    excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Retail Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
+    publishedDateTime: 2020-07-09T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

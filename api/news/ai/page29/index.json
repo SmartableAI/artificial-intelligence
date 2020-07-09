@@ -2,10 +2,54 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-06-11-power-bi-june-update-brings-new-ui-and-ai-assisted-graphics.md",
+      "title": "Power BI June update brings new UI and AI assisted graphics",
+      "excerpt": "Microsoft announced the new Power BI June update for the desktop application. It comes with new UI features and AI assisted graphics. Read more!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-power-bi-june-update-brings-new-ui-and-ai-assisted-graphics/index.json",
+      "webUrl": "https://windowsreport.com/power-bi-june-update/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2020/06/Power-BI-June-update-brings-new-UI-and-AI-assisted-graphics.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Power BI June update brings new UI and AI assisted graphics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/power-bi-june-update/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/power-bi-june-update/?amp",
+      "publishedDateTime": "2020-06-11T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
       "title": "How to become a TensorFlow developer",
       "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-how-to-become-a-tensorflow-developer/index.json",
       "webUrl": "https://www.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -44,7 +88,10 @@
       "path": "_news/2020-06-11-amazon-halts-police-use-of-its-facial-recognition-tech.md",
       "title": "Amazon halts police use of its facial recognition tech",
       "excerpt": "Amazon is to pause the police use of its AWS facial recognition software Rekognition following two weeks of intense protests against police brutality and the murder of George Floyd on 25 May. The tech giant announced that it would be implementing a one-year moratorium on the technology,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-amazon-halts-police-use-of-its-facial-recognition-tech/index.json",
       "webUrl": "https://www.itpro.co.uk/security/biometrics/356023/amazon-halts-police-use-of-its-facial-recognition-tech",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 204,
       "tags": null,
       "images": [
@@ -91,7 +138,10 @@
       "path": "_news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey.md",
       "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
       "excerpt": "So many descriptors and personal perceptions swirl around a glass of whiskey. Published whiskey reviews include sensory and nonsensory descriptions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/index.json",
       "webUrl": "https://augustafreepress.com/fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -129,7 +179,10 @@
       "path": "_news/2020-06-11-amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year.md",
       "title": "Amazon bans police use of its infamous facial recognition software for a year",
       "excerpt": "The e-commerce and tech giant has decided to ban the use of Amazon Rekognition by police forces for a year until stricter regulation surrounding facial recognition software can be formulated.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/index.json",
       "webUrl": "https://www.neowin.net/news/amazon-bans-police-use-of-its-infamous-facial-recognition-software-for-a-year/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -176,7 +229,10 @@
       "path": "_news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes.md",
       "title": "Amazon’s facial recognition moratorium has major loopholes",
       "excerpt": "The moratorium comes two days after IBM said in a letter it was leaving the facial recognition market altogether. Arvind Krishna, IBM’s chief executive, cited a “pursuit of justice and racial equity” in light of the recent protests sparked by the killing of George Floyd by a white police officer in Minneapolis last month.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-amazons-facial-recognition-moratorium-has-major-loopholes/index.json",
       "webUrl": "https://techcrunch.com/2020/06/10/amazon-rekognition-moratorium/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 321,
       "tags": null,
       "images": [
@@ -224,7 +280,10 @@
       "path": "_news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns.md",
       "title": "Clearview AI still backs facial recognition, despite competitors' concerns",
       "excerpt": "Clearview AI, the maker of a controversial facial recognition app, is confident its technology has beneficial uses, as other Big Tech names either exit the marketplace or suspend its use by law enforcement out of fears of misuse.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/index.json",
       "webUrl": "https://www.cnet.com/news/clearview-ai-still-backs-facial-recognition-despite-competitors-concerns/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 172,
       "tags": null,
       "images": [
@@ -271,7 +330,10 @@
       "path": "_news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai.md",
       "title": "The 4 Types Of Future Companies As A Result Of Automation And AI",
       "excerpt": "Why AI and automation will create new types of companies in the future. The success of these companies will depend upon their use of AI, automation and self management",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-the-4-types-of-future-companies-as-a-result-of-automation-and-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/charlestowersclark/2020/06/09/the-4-types-of-future-companies-as-a-result-of-automation--ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -317,7 +379,10 @@
       "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
       "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
       "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing/index.json",
       "webUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -355,7 +420,10 @@
       "path": "_news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world.md",
       "title": "Speech recognition startup Uniphore leverages AI to ready for post-coronavirus world",
       "excerpt": "The need for automation is soaring amid the coronavirus crisis as BPO calls swell. Conversational AI startup Uniphore is tapping technology to change the way enterprises engage with consumers and build loyalty in the post-COVID-19 world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-speech-recognition-startup-uniphore-leverages-ai-to-ready-for-post-coronavirus-world/index.json",
       "webUrl": "https://yourstory.com/2020/06/speech-recognition-startup-uniphore-taps-ai-coronavirus",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -393,7 +461,10 @@
       "path": "_news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain.md",
       "title": "Robots' Usage Rises Amid Coronavirus Crisis: ETFs to Gain",
       "excerpt": "The fund tracks investment results that correspond generally to the performance of the Indxx Global Robotics & Artificial Intelligence Thematic Index. Notably, the fund provides exposure to the performance of companies that benefit from the rising adoption of AI, robotics and automation. The fund has 37 holdings with AUM of $1.51 billion.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-robots-usage-rises-amid-coronavirus-crisis-etfs-to-gain/index.json",
       "webUrl": "https://www.nasdaq.com/articles/robots-usage-rises-amid-coronavirus-crisis%3A-etfs-to-gain-2020-06-10",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -422,7 +493,10 @@
       "path": "_news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software.md",
       "title": "Amazon Pauses Police Use of Its Facial Recognition Software",
       "excerpt": "The company said it hoped the moratorium “might give Congress enough time to put in place appropriate rules” for the technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-amazon-pauses-police-use-of-its-facial-recognition-software/index.json",
       "webUrl": "https://www.nytimes.com/2020/06/10/technology/amazon-facial-recognition-backlash.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 841,
       "tags": null,
       "images": [
@@ -470,7 +544,10 @@
       "path": "_news/2020-06-10-how-a-kirkland-company-uses-ai-to-make-it-safer-for-you-to-return-to-your-office.md",
       "title": "How a Kirkland company uses AI to make it safer for you to return to your office",
       "excerpt": "Nomad Go's HealthySpaces system collects anonymous data using computer vision and can track how many people have entered and exited an office and whether people are social distancing. It can also ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-how-a-kirkland-company-uses-ai-to-make-it-safer-for-you-to-return-to-your-office/index.json",
       "webUrl": "https://www.bizjournals.com/seattle/news/2020/06/10/nomad-go-ai-computer-vision-office-covid-kirkland.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -508,7 +585,10 @@
       "path": "_news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud.md",
       "title": "IBM for Financial Services: Banking Tradition Meets Hybrid Cloud",
       "excerpt": "WEEK FINANCIAL IT ANALYSIS: Banks are often leading-edge adopters of the latest technological solutions, such as hybrid cloud, digital transformation and artificial intelligence. But there's always something new to consider,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-ibm-for-financial-services-banking-tradition-meets-hybrid-cloud/index.json",
       "webUrl": "https://www.eweek.com/big-data-and-analytics/ibm-for-financial-services-banking-tradition-meets-hybrid-cloud",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -556,7 +636,10 @@
       "path": "_news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses.md",
       "title": "COVID-19: How AI is helping to streamline SBA payroll loans to small businesses",
       "excerpt": "Fintech companies like Kabbage were deputized by the SBA to help process a deluge of loan applications the agency couldn't handle on its own.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/index.json",
       "webUrl": "https://www.techrepublic.com/article/covid-19-how-ai-is-helping-to-streamline-sba-payroll-loans-to-small-businesses/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -603,7 +686,10 @@
       "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
       "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
       "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning/index.json",
       "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -641,7 +727,10 @@
       "path": "_news/2020-06-10-uber-researchers-investigate-whether-ai-can-behave-ethically.md",
       "title": "Uber researchers investigate whether AI can behave ethically",
       "excerpt": "In a preprint paper, researchers at Uber explore whether AI algorithms can be trained to make decisions ethically, according to philosophical theories.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-uber-researchers-investigate-whether-ai-can-behave-ethically/index.json",
       "webUrl": "https://venturebeat.com/2020/06/10/uber-researchers-investigate-whether-ai-can-behave-ethically/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -688,7 +777,10 @@
       "path": "_news/2020-06-10-how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19.md",
       "title": "How Healthcare Organizations Have Tapped AI in the Fight Against COVID-19",
       "excerpt": "In fact, AI can improve decision-making for healthcare CIOs in three areas, according to Erick Brethenoux, research vice president at Gartner Inc. They are: Anticipation: “Predictive techniques and knowledge graphs can help with predictions and analysis.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/index.json",
       "webUrl": "https://www.cmswire.com/digital-experience/how-healthcare-organizations-have-tapped-ai-in-the-fight-against-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -726,7 +818,10 @@
       "path": "_news/2020-06-10-google-updates-its-android-developer-tools.md",
       "title": "Google updates its Android developer tools",
       "excerpt": "Google postponed its Android 11 event, because, as the company rightly noted, “now is not the time to celebrate.” Today, however, it went ahead and launched both the first beta of Android 11 and provided updates about a slew of tools that should make developing for Android a",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-google-updates-its-android-developer-tools/index.json",
       "webUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -773,7 +868,10 @@
       "path": "_news/2020-06-10-phoenixville-public-library-offers-free-online-programs.md",
       "title": "Phoenixville Public Library offers free online programs",
       "excerpt": "Phoenixville Public Library will host a free online presentation, \"End-of-Life Care: The Conversation Project\", on Monday, June 15 at 7:00 PM. Dana Gibson, Community Liaison for Willow Tree Hospice, will be the speaker.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-phoenixville-public-library-offers-free-online-programs/index.json",
       "webUrl": "https://www.phoenixvillenews.com/lifestyle/phoenixville-public-library-offers-free-online-programs/article_6e26aed8-ab38-11ea-a592-4f27d4439e15.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -811,7 +909,10 @@
       "path": "_news/2020-06-10-artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024.md",
       "title": "Artificial Intelligence (AI) in manufacturing Market 2020 Global Analysis, Opportunities And Forecast To 2024",
       "excerpt": "Global Artificial Intelligence (AI) in Manufacturing Market: by Component (Software, Service, Hardware (Network,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-manufacturing-market-2020-global-analysis-opportunities-and-forecast-to-2024-2020-06-10",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 149,
       "tags": null,
       "images": [
@@ -860,7 +961,10 @@
       "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
       "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
       "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/index.json",
       "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -907,7 +1011,10 @@
       "path": "_news/2020-06-10-eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software.md",
       "title": "EU watchdog sets up TikTok task force, warns on Clearview AI software",
       "excerpt": "Chinese video app TikTok's practices are to be examined by an EU task force, the bloc's privacy watchdog said on Wednesday, which also warned EU police forces against using facial recognition software from U.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software/index.json",
       "webUrl": "https://www.reuters.com/article/us-eu-privacy-tiktok-clearview/eu-watchdog-sets-up-tiktok-task-force-warns-on-clearview-ai-software-idUSKBN23H2PM",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -953,7 +1060,10 @@
       "path": "_news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches.md",
       "title": "Amazon asks court to block former AWS marketing VP from working on Google Cloud Next speeches",
       "excerpt": "Amazon is seeking a court order to keep Brian Hall, former Amazon Web Services vice president of product marketing, from editing and summarizing keynote speeches and slides for the upcoming",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-amazon-asks-court-to-block-former-aws-marketing-vp-from-working-on-google-cloud-next-speeches/index.json",
       "webUrl": "https://www.geekwire.com/2020/amazon-asks-court-block-former-aws-marketing-vp-working-google-cloud-next-speeches/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -1000,7 +1110,10 @@
       "path": "_news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai.md",
       "title": "Drones Vs. COVID-19: Ensuring Airspace Safety And Security With AI",
       "excerpt": "Across the globe, drones are also playing an important role in the fight against COVID-19. In India, the Karnataka Government is using drones to sanitize public spaces in areas with confirmed cases, such as hospitals and metro areas.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/amirhusain/2020/06/10/drones-vs-covid-19-ensuring-airspace-safety-and-security-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1046,7 +1159,10 @@
       "path": "_news/2020-06-10-cruise-is-using-food-bank-deliveries-as-cover-to-run-tests-that-may-violate-stay-home-orders-drivers-say.md",
       "title": "Cruise is using food bank deliveries as cover to run tests that may violate stay-home orders, drivers say",
       "excerpt": "Cruise’s self-driving cars are back on the road in San Francisco, but the company may be skirting the city’s shelter-in-place rules in its rush to get there, some of the company’s backup ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-cruise-is-using-food-bank-deliveries-as-cover-to-run-tests-that-may-violate-stay-home-orders-drivers-say/index.json",
       "webUrl": "https://www.theverge.com/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1093,7 +1209,10 @@
       "path": "_news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard.md",
       "title": "Fleksy rolls out an SDK for its AI keyboard",
       "excerpt": "The developers behind Fleksy have launched an SDK for Android and iOS to scale demand for white labelling of their AI keyboard software which bakes in privacy-safe next-word prediction. Swipe-style input (which it calls Fleksywave) is also in beta and slated to roll out soon.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-fleksy-rolls-out-an-sdk-for-its-ai-keyboard/index.json",
       "webUrl": "https://techcrunch.com/2020/06/10/fleksy-rolls-out-an-sdk-for-its-ai-keyboard/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1139,7 +1258,10 @@
       "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
       "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
       "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data/index.json",
       "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -1187,7 +1309,10 @@
       "path": "_news/2020-06-10-three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience.md",
       "title": "Three Ways AI Video Surveillance Will Transform The Retail Customer Experience",
       "excerpt": "As retailers prepare for the industry’s recovery and the country begins to reopen, retail leaders should be thinking about how to attract consumers to shop in-store.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/10/three-ways-ai-video-surveillance-will-transform-the-retail-customer-experience/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1234,7 +1359,10 @@
       "path": "_news/2020-06-10-the-weird-frightening-future-of-ai-may-not-be-what-you-think.md",
       "title": "The weird, frightening future of AI may not be what you think",
       "excerpt": "There are five principles of AI weirdness, according to author and researcher Janelle Shane. One of them is: \"The danger of AI is not that it's too smart but it's not smart enough.\" But another is: \"AI does not really understand the problem you want it to solve.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-the-weird-frightening-future-of-ai-may-not-be-what-you-think/index.json",
       "webUrl": "https://www.cnet.com/news/the-weird-frightening-future-of-ai-may-not-be-what-you-think/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -1274,53 +1402,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-azure-machine-learningwhats-new-from-build-2020.md",
-      "title": "Azure Machine Learning—what’s new from Build 2020",
-      "excerpt": "Machine learning (ML) is gaining momentum across a number of industries and scenarios as enterprises look to drive innovation, increase efficiency, and reduce costs. Microsoft Azure Machine Learning empowers developers and data scientists with enterprise-grade capabilities to accelerate the ML lifecycle.",
-      "webUrl": "https://azure.microsoft.com/blog/azure-machine-learning-what-s-new-from-build-2020/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/db646164-18d7-4987-a7ed-dd7451206d47.png",
-          "width": 1024,
-          "height": 586,
-          "title": "Azure Machine Learning—what’s new from Build 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-10T05:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

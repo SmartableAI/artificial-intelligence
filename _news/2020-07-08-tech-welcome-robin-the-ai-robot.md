@@ -51,7 +51,12 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 54
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
   - title: "Full picture of Robin the robot (image)"
     excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
     publishedDateTime: 2020-07-07T20:44:00Z

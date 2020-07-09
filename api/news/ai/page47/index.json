@@ -2,10 +2,63 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
+      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china/index.json",
+      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
+          "width": 3840,
+          "height": 2561,
+          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "publishedDateTime": "2020-05-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology.md",
       "title": "AI Weekly: Getting back to work under the watchful eye of technology",
       "excerpt": "As we figure out how to get back to normal, all the same issues around surveillance, AI, data privacy, and safety coalesce in the workplace.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/index.json",
       "webUrl": "https://venturebeat.com/2020/05/22/ai-weekly-getting-back-to-work-under-the-watchful-eye-of-technology/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -52,7 +105,10 @@
       "path": "_news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code.md",
       "title": "Nvidia AI creates a playable version of Pac-Man without any source code",
       "excerpt": "Up until now, that's seemingly been the case, but one Nvidia-created AI is challenging the norm. To celebrate Pac-Man's 40th anniversary, the hardware maker fed a computer farm a whopping 50,000 \"episodes\" of gameplay from the title -- but",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-nvidia-ai-creates-a-playable-version-of-pac-man-without-any-source-code/index.json",
       "webUrl": "https://www.techspot.com/news/85346-nvidia-ai-creates-playable-version-pac-man-without.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -99,7 +155,10 @@
       "path": "_news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development.md",
       "title": "Scale AI releases free lidar dataset to power self-driving car development",
       "excerpt": "High quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/index.json",
       "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -146,7 +205,10 @@
       "path": "_news/2020-05-22-podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev-and-more.md",
       "title": "Podcast: Tesla Full Self-Driving value, Tesla software update, GMC Hummer EV, and more",
       "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including the value of Tesla’s Full Self-Driving package, a new Tesla software update,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev-and-more/index.json",
       "webUrl": "https://electrek.co/2020/05/22/podcast-tesla-full-self-driving-value-tesla-software-update-gmc-hummer-ev/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -193,7 +255,10 @@
       "path": "_news/2020-05-22-nvidia-used-artificial-intelligence-to-clone-pac-man.md",
       "title": "NVIDIA Used Artificial Intelligence to Clone \"Pac-Man\"",
       "excerpt": "This is an early test of a very ambitious project that aims to build entirely new games and real-world simulation engines in the long run.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-nvidia-used-artificial-intelligence-to-clone-pac-man/index.json",
       "webUrl": "https://www.fool.com/investing/2020/05/22/nvidia-used-artificial-intelligence-to-clone-pac-m.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -248,7 +313,10 @@
       "path": "_news/2020-05-22-coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.md",
       "title": "Coronavirus tests the value of artificial intelligence in medicine",
       "excerpt": "Dr. Albert Hsiao and his colleagues at the University of California-San Diego health system had been working for 18 months on an artificial intelligence program designed to help doctors identify pneumonia on a chest X-ray.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-coronavirus-tests-the-value-of-artificial-intelligence-in-medicine/index.json",
       "webUrl": "https://www.news-medical.net/news/20200522/Coronavirus-tests-the-value-of-artificial-intelligence-in-medicine.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -286,7 +354,10 @@
       "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
       "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
       "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020/index.json",
       "webUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -334,7 +405,10 @@
       "path": "_news/2020-05-22-limited-view-and-sparse-photoacoustic-tomography-for-neuroimaging-with-deep-learning.md",
       "title": "Limited-View and Sparse Photoacoustic Tomography for Neuroimaging with Deep Learning",
       "excerpt": "In this work, we propose a novel deep learning approach termed pixel-wise deep learning (Pixel-DL) that first employs pixel-wise interpolation governed by the physics of photoacoustic wave ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-limited-view-and-sparse-photoacoustic-tomography-for-neuroimaging-with-deep-learning/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-65235-2",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -372,7 +446,10 @@
       "path": "_news/2020-05-22-startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020.md",
       "title": "Startup Battlefield is going virtual with TechCrunch Disrupt 2020",
       "excerpt": "TechCrunch Disrupt is now fully virtual. What does this mean for Startup Battlefield? More opportunity. The best companies from across the globe, an even bigger launch platform, the eyes of more investors from around the world and",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/index.json",
       "webUrl": "https://techcrunch.com/2020/05/22/startup-battlefield-is-going-virtual-with-techcrunch-disrupt-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -418,7 +495,10 @@
       "path": "_news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020.md",
       "title": "Microsoft flexed its cloud and AI muscles at Build 2020",
       "excerpt": "The company’s investments in cloud and machine learning are starting to deliver real products. It’s a bold proposition, but one with the potential to propel Microsoft’s productivity software ahead of Google’s.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-microsoft-flexed-its-cloud-and-ai-muscles-at-build-2020/index.json",
       "webUrl": "https://www.engadget.com/microsoft-build-2020-flex-ai-cloud-muscle-fluid-framework-healthcare-170004851.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -465,7 +545,10 @@
       "path": "_news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future.md",
       "title": "Microsoft Updates Windows, Azure Tools with an Eye on The Future",
       "excerpt": "Build conference, Microsoft addressed some past missteps on development, while expanding its GitHub, Visual Studio, Azure, and Office platforms.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-microsoft-updates-windows-azure-tools-with-an-eye-on-the-future/index.json",
       "webUrl": "https://au.pcmag.com/news/66999/microsoft-updates-windows-azure-tools-with-an-eye-on-the-future",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -512,7 +595,10 @@
       "path": "_news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40.md",
       "title": "AI reconstructs Pac-Man just by watching it as game turns 40",
       "excerpt": "The Nvidia GameGAN artificial intelligence recreated the game from scratch after ingesting 50,000 gameplay episodes of the classic game.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/index.json",
       "webUrl": "https://www.cnet.com/news/ai-reconstructs-pac-man-just-by-watching-it-as-game-turns-40/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -559,7 +645,10 @@
       "path": "_news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay.md",
       "title": "Nvidia teaches AI to create new version of Pac-Man just by watching gameplay",
       "excerpt": "Nvidia researchers have used generative adversarial networks (GANs) to create a new version of Pac-Man that recreated without studying the game's code",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/22/nvidia-teaches-ai-to-create-new-version-of-pac-man-just-by-watching-gameplay/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 98,
       "tags": null,
       "images": [
@@ -607,7 +696,10 @@
       "path": "_news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas.md",
       "title": "Google will stop building custom AI for Big Oil and Gas",
       "excerpt": "This report exposes how the three largest cloud companies — Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-google-will-stop-building-custom-ai-for-big-oil-and-gas/index.json",
       "webUrl": "https://electrek.co/2020/05/22/google-stop-building-custom-artificial-intelligence-big-oil-and-gas/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -654,7 +746,10 @@
       "path": "_news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages.md",
       "title": "EGEB: Companies worth $2 trillion call for global green recovery packages",
       "excerpt": "This report exposes how the three largest cloud companies—Amazon (33% market share), Microsoft (18%), and Google (8%) — are partnering with oil companies to use artificial intelligence ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/index.json",
       "webUrl": "https://electrek.co/2020/05/22/egeb-companies-worth-2-trillion-call-for-global-green-recovery-packages/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -701,7 +796,10 @@
       "path": "_news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion.md",
       "title": "Artificial Intelligence (AI) market worldwide is projected to grow by US$284.6 Billion",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. (C) Copyright 2020 GlobeNewswire, Inc. All rights reserved. The MarketWatch News Department was not involved in the creation of this content. A link that brings you back to the homepage.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-worldwide-is-projected-to-grow-by-us2846-billion-2020-05-22",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -747,7 +845,10 @@
       "path": "_news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played.md",
       "title": "Nvidia’s AI recreates Pac-Man from scratch just by watching it being played",
       "excerpt": "For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played. There’s no coding involved, no pre-rendered images for the software to draw on.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-nvidias-ai-recreates-pac-man-from-scratch-just-by-watching-it-being-played/index.json",
       "webUrl": "https://www.theverge.com/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -794,7 +895,10 @@
       "path": "_news/2020-05-22-nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine.md",
       "title": "Nvidia researchers use AI to recreate PAC-MAN, without a game engine",
       "excerpt": "Using generative adversarial networks, Nvidia opens up a line of research that could have implications not just for game creation but for real-world settings like factory floors.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/index.json",
       "webUrl": "https://www.zdnet.com/article/nvidia-researchers-use-ai-to-recreate-pac-man-without-a-game-engine/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -840,7 +944,10 @@
       "path": "_news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai.md",
       "title": "'Pac-Man' once felt futuristic. Now there's a new one built entirely by AI.",
       "excerpt": "Using the same technology that powers deepfakes, Nvidia developed an AI that created its own version of 'Pac-Man,' which turns 40 on May 22.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-pac-man-once-felt-futuristic-now-theres-a-new-one-built-entirely-by-ai/index.json",
       "webUrl": "https://mashable.com/article/pac-man-nvidia-gamegan-deepfake-tech/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -877,7 +984,10 @@
       "path": "_news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance.md",
       "title": "2020 Artificial Intelligence (AI) in Education Global Market Analysis By Google, IBM, Pearson, Microsoft, AWS, Nuance",
       "excerpt": "The”Global Artificial Intelligence (AI) in Education Market Research Report 2020-2026″ has deeply studied the analysis of significant factors that responsible for the growth of the international market.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/index.json",
       "webUrl": "https://surfacingmagazine.net/2020-artificial-intelligence-ai-in-education-global-market-analysis-by-google-ibm-pearson-microsoft-aws-nuance/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -915,7 +1025,10 @@
       "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare.md",
       "title": "Natural Language Processing (NLP) in Healthcare",
       "excerpt": "A new business intelligence report released by AMA with title \"Global Natural Language Processing (NLP) in Healthcare Market Comprehensive Study\" provides micro level analysis by manufacturers and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-natural-language-processing-nlp-in-healthcare/index.json",
       "webUrl": "https://www.openpr.com/news/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -944,7 +1057,10 @@
       "path": "_news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue.md",
       "title": "Data centre chip demand fuels Nvidia's 'record Q2 revenue'",
       "excerpt": "Nvidia has forecast its 2021 second-quarter revenue above analysts’ estimates, powered by a surge in demand for data centre components amid the mass shift to remote working. The company expects its Q2 revenue to be $3.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-data-centre-chip-demand-fuels-nvidias-record-q2-revenue/index.json",
       "webUrl": "https://www.itpro.co.uk/server-storage/data-centres/355759/data-centre-chip-demand-fuels-nvidia-q2-revenue",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -991,7 +1107,10 @@
       "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
       "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
       "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution/index.json",
       "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1039,7 +1158,10 @@
       "path": "_news/2020-05-22-government-trials-facial-recognition-system-to-improve-social-aid-disbursement.md",
       "title": "Government trials facial recognition system to improve social aid disbursement",
       "excerpt": "With the new system, recipients only need to visit a designated merchant where facial scanning technology will be used to verify their identity.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-government-trials-facial-recognition-system-to-improve-social-aid-disbursement/index.json",
       "webUrl": "https://www.thejakartapost.com/news/2020/05/22/government-trials-facial-recognition-system-to-improve-social-aid-disbursement.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -1077,7 +1199,10 @@
       "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Projected to Grow $3.7 billion by 2025",
       "excerpt": "According to research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025/index.json",
       "webUrl": "https://www.openpr.com/news/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1106,7 +1231,10 @@
       "path": "_news/2020-05-22-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "The VectorBlox Accelerator SDK allows developers to code in C/C++ and program neural networks without prior FPGA design experience, can execute models in TensorFlow and the open neural network exchange (ONNX) format, supports Linux and Windows, and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-week-in-review-design-low-power/index.json",
       "webUrl": "https://semiengineering.com/week-in-review-design-low-power-95/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1144,7 +1272,10 @@
       "path": "_news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market.md",
       "title": "Coronavirus Impact on Machine Learning as a Service Market",
       "excerpt": "You will get latest updated report as per the COVID-19 Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The Machine Learning as a Service Market is expected to be around US$ 10746.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-coronavirus-impact-on-machine-learning-as-a-service-market/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/coronavirus-impact-on-machine-learning-as-a-service-market-2020-05-22",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -1192,7 +1323,10 @@
       "path": "_news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up.md",
       "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
       "excerpt": "To keep your children entertained at home, Grab recently partnered with Google to launch Grab Delivery Doodles, which uses Google's AI, TensorFlow, to turn any child's doodles of their favourite ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up/index.json",
       "webUrl": "https://marketing-interactive.com/doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1230,7 +1364,10 @@
       "path": "_news/2020-05-22-unisa-and-uow-to-jointly-research-ai-capabilities-for-defence.md",
       "title": "UniSA and UOW to jointly research AI capabilities for Defence",
       "excerpt": "They will also work with the ADF to apply any new artificial intelligence capabilities to the new Star Shots strategy where possible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/index.json",
       "webUrl": "https://www.zdnet.com/article/unisa-and-uow-to-jointly-research-ai-capabilities-for-defence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1269,44 +1406,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-sony-and-microsoft-develop-ai-imaging-chip-what-it-means-for-industry.md",
-      "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-      "excerpt": "Sony & Microsoft have developed the 1st AI-enabled imaging chip, looking to push it further with AI-powered smart camera solutions in AR & other arenas",
-      "webUrl": "https://techwireasia.com/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/05/000_1DZ2ZD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": "Sony and Microsoft develop AI imaging chip – what it means for industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/05/sony-and-microsofts-ai-chip-for-smart-cameras-what-it-means-for-industry/",
-      "publishedDateTime": "2020-05-21T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,10 +2,63 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+      "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-03T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
       "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
       "excerpt": "TIBCO announces that TIBCO Spotfire and TIBCO Data Science now support Microsoft Azure Cognitive Services. TIBCO's solutions extend these services to analyse multivariate anomalies and add root cause analysis, using input from the Key Phrase Extraction ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services/index.json",
       "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -43,7 +96,10 @@
       "path": "_news/2020-06-03-assessing-the-accuracy-of-automatic-speech-recognition-for-psychotherapy.md",
       "title": "Assessing the accuracy of automatic speech recognition for psychotherapy",
       "excerpt": "Although automatic speech recognition software is commercially available, its accuracy in mental health settings has not been well described. It is unclear which metrics and thresholds are ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-assessing-the-accuracy-of-automatic-speech-recognition-for-psychotherapy/index.json",
       "webUrl": "https://www.nature.com/articles/s41746-020-0285-8",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -81,7 +137,10 @@
       "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
       "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
       "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders/index.json",
       "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -128,7 +187,10 @@
       "path": "_news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges.md",
       "title": "Researchers eye embedding artificial intelligence (AI) into war games simulation to beef-up challenges",
       "excerpt": "U.S. military researchers are asking industry to develop artificial intelligence (AI ... Officials of the U.S. Defense Advanced Research Projects Agency (DARPA) in Arlington, Va.,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges/index.json",
       "webUrl": "https://www.militaryaerospace.com/computers/article/14177043/artificial-intelligence-ai-war-games-simulation",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -157,7 +219,10 @@
       "path": "_news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention.md",
       "title": "LG and KT to use AI for pandemic prevention",
       "excerpt": "LG will collaborate with KT to use AI for future pandemic prevention, as well as for the development of new products and services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention/index.json",
       "webUrl": "https://www.zdnet.com/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -203,7 +268,10 @@
       "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
       "title": "Robot chef uses machine learning to perfect its omelette-making skills",
       "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills/index.json",
       "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -250,7 +318,10 @@
       "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
       "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
       "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push/index.json",
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -297,7 +368,10 @@
       "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
       "title": "BBC Beeb voice assistant is built to understand different UK accents",
       "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents/index.json",
       "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -344,7 +418,10 @@
       "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
       "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
       "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support/index.json",
       "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -391,7 +468,10 @@
       "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
       "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
       "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages/index.json",
       "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -438,7 +518,10 @@
       "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
       "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
       "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/index.json",
       "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -476,7 +559,10 @@
       "path": "_news/2020-06-03-amazon-made-rekognition-software-now-able-to-detect-fear.md",
       "title": "Amazon-made Rekognition software now able to detect fear",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-amazon-made-rekognition-software-now-able-to-detect-fear/index.json",
       "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -514,7 +600,10 @@
       "path": "_news/2020-06-03-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
       "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
       "excerpt": "Ennaid Therapeutics uses artificial intelligence (AI)-based drug discovery platforms to develop antiviral drugs. Darnisha Harrison, Louisiana State University grad and founder and CEO of Georgia ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/index.json",
       "webUrl": "https://afro.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -552,7 +641,10 @@
       "path": "_news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft.md",
       "title": "BBC launches Beeb voice assistant in partnership with Microsoft",
       "excerpt": "The BBC has launched an early beta version of its previously announced Beeb voice assistant in partnership with Microsoft.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/index.json",
       "webUrl": "https://venturebeat.com/2020/06/02/bbc-launches-beeb-voice-assistant-in-partnership-with-microsoft/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -599,7 +691,10 @@
       "path": "_news/2020-06-02-vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer.md",
       "title": "Vara raises $7 million for AI tool that spots early signs of breast cancer",
       "excerpt": "Vara, a startup developing AI tools that detect early signs of breast cancer, has raised $7 million in venture capital financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/index.json",
       "webUrl": "https://venturebeat.com/2020/06/02/vara-raises-7-million-for-ai-tool-that-spots-early-signs-of-breast-cancer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -645,7 +740,10 @@
       "path": "_news/2020-06-02-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
       "title": "Police facial recognition tech could misidentify people at protests, experts say",
       "excerpt": "Facial recognition algorithms are notoriously bad at identifying non-white and non-male people. But the tech may still be used today as protests roil the U.S.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say/index.json",
       "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/?itm_source=37&itm_content=1x7&itm_term=2376504",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -692,7 +790,10 @@
       "path": "_news/2020-06-02-avoiding-the-missing-middle-with-ai.md",
       "title": "Avoiding The Missing Middle With AI",
       "excerpt": "It is common knowledge in the manufacturing sector of the economy that many of the companies that should have deployed HPC simulation and modeling",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-avoiding-the-missing-middle-with-ai/index.json",
       "webUrl": "https://www.nextplatform.com/2020/06/02/avoiding-the-missing-middle-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -730,7 +831,10 @@
       "path": "_news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever.md",
       "title": "Pandemic is showing us we need safe and ethical AI more than ever",
       "excerpt": "It’s the perfect time to invest in new practices for accountability and oversight.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever/index.json",
       "webUrl": "https://thehill.com/opinion/technology/500637-pandemic-is-showing-us-we-need-safe-and-ethical-ai-more-than-ever",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -768,7 +872,10 @@
       "path": "_news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy.md",
       "title": "VW and Argo AI complete $2.6bn deal: Ford gets new self-driving frenemy",
       "excerpt": "Dubbed a “street-by-street, block-by-block” mindset, it paves the way to a Level 4 self-driving system. That is, one which can be self-operated under specific conditions, within its operating design domain. That means no Argo AI cars autonomously roving everywhere: instead, the technology is designed to work safely and successfully in ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-vw-and-argo-ai-complete-26bn-deal-ford-gets-new-self-driving-frenemy/index.json",
       "webUrl": "https://www.slashgear.com/vw-and-argo-ai-complete-2-6bn-deal-ford-gets-new-self-driving-frenemy-02623386/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -815,7 +922,10 @@
       "path": "_news/2020-06-02-overjet-raises-785m-for-its-dental-focused-ai-tech.md",
       "title": "Overjet raises $7.85M for its dental-focused AI tech",
       "excerpt": "Overjet, a startup focused on using AI to help dentists and insurance companies understand dental scans, today announced that it has raised $7.85 million in what it describes as a seed round. According to Overjet’s CEO Wardah Inam (an MIT PhD in electrical engineering and computer science),",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-overjet-raises-785m-for-its-dental-focused-ai-tech/index.json",
       "webUrl": "https://techcrunch.com/2020/06/02/overjet-raises-7-85m-for-its-dental-focused-ai-tech/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -861,7 +971,10 @@
       "path": "_news/2020-06-02-ai-breathes-new-life-into-a-classic-80s-synth.md",
       "title": "AI breathes new life into a classic ‘80s synth",
       "excerpt": "(Modern FM synths are substantially more manageable.) This led most users to simply stick with the presets. A new AI tool could help DX7 fans move beyond those basic sounds, though. This DX7 Cartridge Does Not Exist uses machine learning to generate new patches based on a sample pool of hand-crafted ones, and creates a file that can be loaded ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-ai-breathes-new-life-into-a-classic-80s-synth/index.json",
       "webUrl": "https://www.engadget.com/yamaha-dx7-ai-patches-155010833.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -907,7 +1020,10 @@
       "path": "_news/2020-06-02-service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report.md",
       "title": "Service Robotics Market Industry Size, Growth Factors and Major Segments, Forecast Research Report",
       "excerpt": "The overall service robotics market is expected to grow from USD 11.25 Billion in 2018 to USD 46.13 Billion by 2026 at",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-industry-size-growth-factors-and-major-segments-forecast-research-report-2020-06-02",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -954,7 +1070,10 @@
       "path": "_news/2020-06-02-dell-technologies-launches-new-hpc-systems-to-boost-ai-workloads.md",
       "title": "Dell Technologies launches new HPC systems to boost AI workloads",
       "excerpt": "Dell EMC Ready Solutions for vHPC are capable of delivering up to 18 times faster AI model development, says Forrester",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-dell-technologies-launches-new-hpc-systems-to-boost-ai-workloads/index.json",
       "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/355881/dell-technologies-launches-new-hpc-systems-to-boost",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1001,7 +1120,10 @@
       "path": "_news/2020-06-02-introducing-amazon-sagemaker-components-for-kubeflow-pipelines.md",
       "title": "Introducing Amazon SageMaker Components for Kubeflow Pipelines",
       "excerpt": "Today we’re announcing Amazon SageMaker Components for Kubeflow Pipelines. This post shows how to build your first Kubeflow pipeline with Amazon SageMaker components using the Kubeflow Pipelines SDK. \nKubeflow is a popular open-source machine learning (ML) toolkit for Kubernetes users who want to build",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-introducing-amazon-sagemaker-components-for-kubeflow-pipelines/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1048,7 +1170,10 @@
       "path": "_news/2020-06-02-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
       "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
       "excerpt": "Volkswagen AG has closed on its $2.6 billion investment in Argo AI, the Pittsburgh-based autonomous vehicle startup announced in a blog post Tuesday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/02/vw-closes-2point6-billion-investment-in-self-driving-startup-argo-ai.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1094,7 +1219,10 @@
       "path": "_news/2020-06-02-new-computer-chips-could-power-ai-to-next-level.md",
       "title": "New Computer Chips Could Power AI to Next Level",
       "excerpt": "A generation of computing chips designed specifically for artificial intelligence could enable a host of new applications for the technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-new-computer-chips-could-power-ai-to-next-level/index.json",
       "webUrl": "https://www.wsj.com/articles/new-computer-chips-could-power-ai-to-next-level-11591090202",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -1141,7 +1269,10 @@
       "path": "_news/2020-06-02-locus-robotics-raises-40-million-to-take-its-warehouse-robots-global.md",
       "title": "Locus Robotics raises $40 million to take its warehouse robots global",
       "excerpt": "Locus Robotics, a developer and provider of autonomous mobile warehouse robots, has raised $40 million in venture capital.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/index.json",
       "webUrl": "https://venturebeat.com/2020/06/02/locus-robotics-raises-40-million-to-take-its-warehouse-robots-global/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 129,
       "tags": null,
       "images": [
@@ -1188,7 +1319,10 @@
       "path": "_news/2020-06-02-quantifying-defence-cascade-responses-as-indicators-of-pig-affect-and-welfare-using-computer-vision-methods.md",
       "title": "Quantifying defence cascade responses as indicators of pig affect and welfare using computer vision methods",
       "excerpt": "Here we evaluate whether DC responses can be quantified in pigs using computer vision. 280 video clips of induced DC responses made by 12 pigs were analysed by eye to provide ‘ground truth ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-quantifying-defence-cascade-responses-as-indicators-of-pig-affect-and-welfare-using-computer-vision-methods/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-65954-6",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1226,7 +1360,10 @@
       "path": "_news/2020-06-02-finding-the-right-business-insurance-can-be-hard-but-this-tech-startup-makes-it-easy.md",
       "title": "Finding the Right Business Insurance Can Be Hard, but This Tech Startup Makes It Easy",
       "excerpt": "Get a free quote from CoverWallet and find the right business insurance at the right price. Disclosure: Our goal is to feature products and services that we think you'll find interesting and useful. If you purchase them,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-finding-the-right-business-insurance-can-be-hard-but-this-tech-startup-makes-it-easy/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351187",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1265,44 +1402,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
-      "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-      "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
-      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
-      "publishedDateTime": "2020-06-02T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

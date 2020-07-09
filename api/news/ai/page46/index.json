@@ -2,10 +2,62 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-05-25-conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
+      "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+      "excerpt": "Kenneth Research has published a detailed report on Conversational Artificial Intelligence (AI) Market which has",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-05-25",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance.md",
       "title": "Adobe Premiere Pro May 2020 AMD vs NVIDIA GPU Encoding Performance",
       "excerpt": "The latest versions of Adobe's Premiere Pro and Media Encoder bring significant encode performance improvements to our graphics cards. With this 14.2 release, we revisited all 21 GPUs we just finished testing for our latest Radeon Pro review,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance/index.json",
       "webUrl": "https://techgage.com/article/adobe-premiere-pro-may-2020-amd-vs-nvidia-gpu-encoding-performance/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -43,7 +95,10 @@
       "path": "_news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas.md",
       "title": "Ed-tech startup to offer free AI, coding & robotics courses for children in rural areas",
       "excerpt": "Robochamps, an edtech start-up dedicated to introducing kids to early AI education, recently launched online courses in robotics and coding in multiple languages, including Hindi, Gujarati, Punjabi, a",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/index.json",
       "webUrl": "https://www.thehindubusinessline.com/info-tech/ed-tech-startup-to-offer-free-ai-coding-robotics-courses-for-children-in-rural-areas/article31671631.ece",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -81,7 +136,10 @@
       "path": "_news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom.md",
       "title": "Global Deep Learning Chipset Market (2019 to 2027) - Industry Analysis, Size, Share, Growth, Trends and Forecast - ResearchAndMarkets.com",
       "excerpt": "The \"Deep Learning Chipset Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019 - 2027\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-forecast-researchandmarketscom/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/05/b16101792/global-deep-learning-chipset-market-2019-to-2027-industry-analysis-size-share-growth-trends-and-fo",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -110,7 +168,10 @@
       "path": "_news/2020-05-25-insights-into-the-worldwide-deep-learning-chipset-industry-to-2027-featuring-ibm-graphcore-ceva-among-others.md",
       "title": "Insights into the Worldwide Deep Learning Chipset Industry to 2027 - Featuring IBM, Graphcore & CEVA Among Others",
       "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research. CONTACT: ResearchAndMarkets.com Laura Wood, Senior Press Manager press@ ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-insights-into-the-worldwide-deep-learning-chipset-industry-to-2027-featuring-ibm-graphcore-ceva-among-others/index.json",
       "webUrl": "https://www.globenewswire.com/news-release/2020/05/25/2038066/0/en/Insights-into-the-Worldwide-Deep-Learning-Chipset-Industry-to-2027-Featuring-IBM-Graphcore-CEVA-Among-Others.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -139,7 +200,10 @@
       "path": "_news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems.md",
       "title": "NVIDIA Launches New GPU for AI Systems",
       "excerpt": "DGX A100 includes dual AMD Rome EPYC CPUs with PCIe 4.0. Exploded view of the NVIDIA DGX A100. (1) 8 NVIDIA A100 GPUs; (2) 6 NVSwitches; (3) Mellanox Connect-6; (4) Dual AMD 64-core EPYC CPUs/1TB system memory;",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-nvidia-launches-new-gpu-for-ai-systems/index.json",
       "webUrl": "https://www.engineering.com/Hardware/ArticleID/20316/NVIDIA-Launches-New-GPU-for-AI-Systems.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -177,7 +241,10 @@
       "path": "_news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home.md",
       "title": "ECOVACS ROBOTICS Launches the DEEBOT OZMO T8 Family Putting AI to Work For a Better Looking Home",
       "excerpt": "ECOVACS ROBOTICS launched the DEEBOT OZMO T8 family, its latest series of high-end intelligent robotic vacuum cleaner. First family member DEEBOT OZMO T8 AIVI features ECOVACS' optimized AIVI™ (Artificial Intelligence and Visual Interpretation) Technology for faster obstacle recognition,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/ecovacs-robotics-launches-the-deebot-ozmo-t8-family-putting-ai-to-work-for-a-better-looking-home-1029229523",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": null,
@@ -215,7 +282,10 @@
       "path": "_news/2020-05-25-breaking-through-the-glass-ceiling-a-spring-for-women-in-artificial-intelligence.md",
       "title": "Breaking Through The Glass Ceiling - A Spring For Women In Artificial Intelligence",
       "excerpt": "To conclude, while there is still a long way to go before we see equal numbers of women in AI for healthcare, the glass ceiling is breaking and I cannot think of a better career choice for a young woman.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-breaking-through-the-glass-ceiling-a-spring-for-women-in-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/25/breaking-through-the-glass-ceilinga-spring-for-women-in-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -262,7 +332,10 @@
       "path": "_news/2020-05-25-huawei-said-to-ask-samsung-sk-hynix-for-stable-supply-of-memory-chips.md",
       "title": "Huawei said to ask Samsung, SK Hynix for stable supply of memory chips",
       "excerpt": "The world’s largest telecommunications equipment supplier is one of the five biggest clients for Samsung and SK Hynix, spending around US$8.1 billion to buy memory chips from the two South Korean companies every year.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-huawei-said-to-ask-samsung-sk-hynix-for-stable-supply-of-memory-chips/index.json",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3085875/huawei-said-ask-samsung-sk-hynix-stable-supply-memory-chips",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -309,7 +382,10 @@
       "path": "_news/2020-05-25-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners.md",
       "title": "Roborock S6 MaxV review: The robot vacuum for pet owners",
       "excerpt": "This is the Roborock S6 MaxV review. The Roborock S6 MaxV is Roborock ... Its on-board AI has been trained in object recognition so the robovac can better avoid things like power cords, shoes ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-roborock-s6-maxv-review-the-robot-vacuum-for-pet-owners/index.json",
       "webUrl": "https://www.androidauthority.com/roborock-s6-maxv-review-1112547/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -356,7 +432,10 @@
       "path": "_news/2020-05-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
       "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
       "excerpt": "Traffic Sign Recognition (TSR) is used to display the speed limit signs ... be applied on sharpened edges for smoothing There are two approaches to detecting the object, • Colour-based Detection: Colour is one of the most powerful attributes for object ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems/index.json",
       "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -385,7 +464,10 @@
       "path": "_news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel.md",
       "title": "New Social Media App Iris Predicts Mutual Attraction Via Artificial Intel",
       "excerpt": "Now, the new social media platform Iris looks to artificial intelligence to predict better potential matches while eliminating the possibility of cat-fishing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/index.json",
       "webUrl": "https://www.forbes.com/sites/johnscottlewinski/2020/05/24/new-social-media-app-iris-predicts-mutual-attraction-via-artificial-intel/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -431,7 +513,10 @@
       "path": "_news/2020-05-24-will-the-real-vcs-please-stand-up.md",
       "title": "Will the real VCs please stand up",
       "excerpt": "It’s time for the VC industry to remember its task is to build the future, not to focus on safe “PE like”  investments and top-up rounds.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-will-the-real-vcs-please-stand-up/index.json",
       "webUrl": "https://venturebeat.com/2020/05/24/will-the-real-vcs-please-stand-up/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -477,7 +562,10 @@
       "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
       "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
       "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020/index.json",
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -525,7 +613,10 @@
       "path": "_news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises.md",
       "title": "Nvidia CEO Jensen Huang on the Metaverse, permanent WFH, and accelerating raises",
       "excerpt": "Nvidia posted big earnings gains and unveiled its A100 artificial intelligence chip in the past two weeks. We talked with CEO Jensen Huang about that.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-nvidia-ceo-jensen-huang-on-the-metaverse-permanent-wfh-and-accelerating-raises/index.json",
       "webUrl": "https://venturebeat.com/2020/05/24/nvidia-ceo-jensen-huang-on-the-metaverse-working-from-home-permanently-and-raises-for-workers/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -572,7 +663,10 @@
       "path": "_news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face.md",
       "title": "China Roundup: A blow to US-listed Chinese firms and TikTok’s new global face",
       "excerpt": "Hello and welcome back to TechCrunch’s China Roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. It’s been a tumultuous week for Chinese tech firms abroad: Huawei’s mounting pressure from the U.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/index.json",
       "webUrl": "https://techcrunch.com/2020/05/24/china-roundup-a-blow-to-us-listed-chinese-firms-and-tiktoks-new-global-face/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -619,7 +713,10 @@
       "path": "_news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel.md",
       "title": "The Station: Hertz files for bankruptcy, hailing “self-driving” scooters, Memorial Day travel",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station. Memorial Day is this coming Monday,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/index.json",
       "webUrl": "https://techcrunch.com/2020/05/24/the-station-hertz-files-for-bankruptcy-hailing-self-driving-scooters-memorial-day-travel/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -666,7 +763,10 @@
       "path": "_news/2020-05-24-artificial-intelligence-can-make-personality-judgements-based-on-photos.md",
       "title": "Artificial intelligence can make personality judgements based on photos",
       "excerpt": "Russian researchers have demonstrated that artificial intelligence is able to infer people's personality from 'selfie' photographs better than human raters do. Conscientio",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-artificial-intelligence-can-make-personality-judgements-based-on-photos/index.json",
       "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-can-make-personality-judgements-based-on-photos",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -704,7 +804,10 @@
       "path": "_news/2020-05-24-machine-learning-what-is-it-really-good-for.md",
       "title": "Machine Learning: What Is It Really Good For?",
       "excerpt": "The idea is that the model gets better as you feed it more data points.” There are two key steps with machine learning. First, you need to collect and train the data, which can be a long and tough process.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-machine-learning-what-is-it-really-good-for/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/05/23/machine-learning-what-is-it-really-good-for/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -751,7 +854,10 @@
       "path": "_news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development.md",
       "title": "Scale AI releases free lidar data set to power self-driving car development",
       "excerpt": "High-quality data is the fuel that powers AI algorithms. Without a continual flow of labeled data, bottlenecks can occur and the algorithm will slowly get worse and add risk to the system. It’s why labeled data is so critical for companies like Zoox,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-scale-ai-releases-free-lidar-data-set-to-power-self-driving-car-development/index.json",
       "webUrl": "https://techcrunch.com/2020/05/22/scale-ai-releases-free-lidar-dataset-to-power-self-driving-car-development/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -798,7 +904,10 @@
       "path": "_news/2020-05-23-towards-a-more-transparent-ai.md",
       "title": "Towards A More Transparent AI",
       "excerpt": "How can we depend on machine learning models and trust them knowing that there are so many ways for the model to fail?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-towards-a-more-transparent-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/23/towards-a-more-transparent-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -845,7 +954,10 @@
       "path": "_news/2020-05-23-ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown.md",
       "title": "AI proves it’s a poor substitute for human content checkers during lockdown",
       "excerpt": "Major social media companies have replaced many of their human content moderators with AI during the pandemic. And the results aren't encouraging.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/index.json",
       "webUrl": "https://venturebeat.com/2020/05/23/ai-proves-its-a-poor-substitute-for-human-content-checkers-during-lockdown/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -891,7 +1003,10 @@
       "path": "_news/2020-05-23-recommended-reading-covid-19-and-ai-health-care.md",
       "title": "Recommended Reading: COVID-19 and AI health care",
       "excerpt": "Fu Lee, Wired The coronavirus pandemic will cause us to rethink major aspects of everyday life around the world, but it may also expedite the use of artificial intelligence in health care.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-recommended-reading-covid-19-and-ai-health-care/index.json",
       "webUrl": "https://www.engadget.com/recommended-reading-covid-19-and-ai-health-care-163041644.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -937,7 +1052,10 @@
       "path": "_news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley.md",
       "title": "The Pentagon’s Joint AI Center wants to be like Silicon Valley",
       "excerpt": "The largest Joint AI Center contract to date was awarded this week. CTO Nand Mulchandani on AI at the Pentagon and why JAIC is mimicing Silicon Valley.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/index.json",
       "webUrl": "https://venturebeat.com/2020/05/23/the-pentagons-joint-ai-center-wants-to-be-like-silicon-valley/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -986,7 +1104,10 @@
       "path": "_news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness.md",
       "title": "Hitting the Books: Do we really want our robots to have consciousness?",
       "excerpt": "Although I argue for self-awareness, I do not believe that we need to worry about consciousness. Let’s first try to build some interesting robots without consciousness and see how far we get.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-hitting-the-books-do-we-really-want-our-robots-to-have-consciousness/index.json",
       "webUrl": "https://www.engadget.com/hitting-the-books-how-to-grow-a-robot-mark-lee-150031360.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1033,7 +1154,10 @@
       "path": "_news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing.md",
       "title": "Everything you need to know about neuromorphic computing",
       "excerpt": "In July, a group of artificial intelligence researchers showcased a self-driving bicycle that could navigate around obstacles, follow a person, and respond to voice commands. While the self-driving bike itself was of little use,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-everything-you-need-to-know-about-neuromorphic-computing/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/23/everything-you-need-to-know-about-neuromorphic-computing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1081,7 +1205,10 @@
       "path": "_news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus.md",
       "title": "What Can Tesla And Waymo Learn From A Human’s Ability To Focus",
       "excerpt": "Humans focus to drive while autonomous vehicles try to be knowledge oracles. Perhaps the human approach is better.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/index.json",
       "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/05/23/what-can-tesla-and-waymo-learn-from-a-humans-ability-to-focus/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -1128,7 +1255,10 @@
       "path": "_news/2020-05-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025.md",
       "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market 2020 Industry Demands, Insight & Forecast by 2025",
       "excerpt": "The artificial intelligence and robotics in the aerospace and defense market (henceforth, referred to as the market studied) is anticipated to register a CAGR of over 20% during the forecast period. - The use of robots in space exploration,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-robotics-in-aerospace-and-defense-market-2020-industry-demands-insight-forecast-by-2025-2020-05-23",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -1175,7 +1305,10 @@
       "path": "_news/2020-05-23-twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy.md",
       "title": "Twitter billionaire Jack Dorsey: Automation will even put tech jobs in jeopardy",
       "excerpt": "Artificial intelligence will soon write its own software, according to Twitter and Square CEO Jack Dorsey. \"We talk a lot about the self-driving trucks and whatnot\" but automation \"is even coming for programming\" jobs,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-twitter-billionaire-jack-dorsey-automation-will-even-put-tech-jobs-in-jeopardy/index.json",
       "webUrl": "https://www.cnbc.com/2020/05/22/jack-dorsey-ai-will-jeopardize-entry-level-software-engineer-jobs.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1222,7 +1355,10 @@
       "path": "_news/2020-05-23-us-blacklists-dozens-of-chinese-companies-working-on-ai-face-recognition-tech.md",
       "title": "U.S. Blacklists Dozens of Chinese Companies Working on AI, Face Recognition Tech",
       "excerpt": "The U.S. Commerce Department has put another 33 Chinese businesses—many of which develop artificial intelligence and face recognition tech—on its economic blacklist as a punitive measure for purportedly conspiring with Beijing and the government’s brutal crackdown on Muslim minorities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-us-blacklists-dozens-of-chinese-companies-working-on-ai-face-recognition-tech/index.json",
       "webUrl": "https://gizmodo.com/u-s-blacklists-dozens-of-chinese-companies-working-on-1843621762",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -1264,53 +1400,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
-      "title": "Google's AI technology is taking on a team of the world's top Go players in China",
-      "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
-      "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104485529-Google_Pichai_I-O_Wed_Keynote_MR_456.jpg?v=1495497815",
-          "width": 3840,
-          "height": 2561,
-          "title": "Google's AI technology is taking on a team of the world's top Go players in China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
-      "publishedDateTime": "2020-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

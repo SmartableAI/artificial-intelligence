@@ -2,10 +2,64 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
+      "title": "If Done Right, AI Could Make Policing Fairer",
+      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-if-done-right-ai-could-make-policing-fairer/index.json",
+      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "If Done Right, AI Could Make Policing Fairer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
+      "publishedDateTime": "2020-06-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology.md",
       "title": "Boston bans police from using facial recognition technology",
       "excerpt": "Boston has banned police from using facial recognition technology, becoming the second-largest U.S. community to do so.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-boston-bans-police-from-using-facial-recognition-technology/index.json",
       "webUrl": "https://www.foxnews.com/tech/boston-bans-police-facial-recognition-technology",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 134,
       "tags": null,
       "images": [
@@ -52,7 +106,10 @@
       "path": "_news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly.md",
       "title": "Apple’s Core ML now lets app developers update AI models on the fly",
       "excerpt": "Apple's Core ML can now update AI models without the need to ship an App Store update, while Create ML now has an action classification template.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/index.json",
       "webUrl": "https://venturebeat.com/2020/06/24/apples-core-ml-now-lets-app-developers-update-ai-models-on-the-fly/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -99,7 +156,10 @@
       "path": "_news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks.md",
       "title": "IRONSCALES Deploys Natural Language Processing to Automatically Prevent Business Email Compromise Attacks",
       "excerpt": "TEL AVIV, Israel and ATLANTA, June 24, 2020 /PRNewswire-PRWeb/ -- IRONSCALES, the pioneer of self-learning email security, today announced that it has deployed natural language processing (NLP), using advanced machine learning (ML) and neural networks ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16368497/ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -128,7 +188,10 @@
       "path": "_news/2020-06-24-sequence-to-sequence-modeling-using-lstm-for-language-translation.md",
       "title": "Sequence-to-Sequence Modeling using LSTM for Language Translation",
       "excerpt": "Sequence Modeling using LSTM for Language Translation - language translation using deep learning encoder-decoder network",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-sequence-to-sequence-modeling-using-lstm-for-language-translation/index.json",
       "webUrl": "https://analyticsindiamag.com/sequence-to-sequence-modeling-using-lstm-for-language-translation/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -166,7 +229,10 @@
       "path": "_news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19.md",
       "title": "This New App Analyzes Your Voice Quality To Diagnose Congestive Heart Failure: Can It Help With Covid-19?",
       "excerpt": "A new app developed by an Israeli biotech startup has shown promise in evaluating voice quality to detect buildup of fluid in the lungs, an important finding associated with congestive heart failure (CHF).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/index.json",
       "webUrl": "https://www.forbes.com/sites/robertglatter/2020/06/23/this-new-app-analyzes-your-voice-quality-to-diagnose-congestive-heart-failure-can-it-help-with-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -213,7 +279,10 @@
       "path": "_news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition.md",
       "title": "AI Startup Pilots Digital Masks That Counter Facial Recognition",
       "excerpt": "A Los Angeles startup has created “privacy-preserving face skins” – digital masks or avatars that counter facial recognition software.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-ai-startup-pilots-digital-masks-that-counter-facial-recognition/index.json",
       "webUrl": "https://www.coindesk.com/ai-startup-pilots-digital-masks-that-counter-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -252,7 +321,10 @@
       "path": "_news/2020-06-23-facebook-claims-wav2vec-20-tops-speech-recognition-performance-with-10-minutes-of-labeled-data.md",
       "title": "Facebook claims wav2vec 2.0 tops speech recognition performance with 10 minutes of labeled data",
       "excerpt": "In a paper published on the preprint server Arxiv.org, researchers at Facebook describe wave2vec 2.0, an improved framework for self-supervised speech recognition. They claim it demonstrates for ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-facebook-claims-wav2vec-20-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/index.json",
       "webUrl": "https://venturebeat.com/2020/06/23/facebook-claims-wav2vec-2-0-tops-speech-recognition-performance-with-10-minutes-of-labeled-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 92,
       "tags": null,
       "images": [
@@ -299,7 +371,10 @@
       "path": "_news/2020-06-23-google-brings-grammar-suggestions-to-spanish-google-docs.md",
       "title": "Google brings grammar suggestions to Spanish Google Docs",
       "excerpt": "Google announced Tuesday that it's expanded its grammar suggestions feature in Google Docs to support Spanish. Google touts its assistive writing features such as Smart Compose and grammar suggestions as helping to remove the roadblocks to getting your ideas out faster and more accurately while writing in Google Docs.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-google-brings-grammar-suggestions-to-spanish-google-docs/index.json",
       "webUrl": "https://www.cnet.com/news/google-brings-grammar-suggestions-to-spanish-google-docs/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -346,7 +421,10 @@
       "path": "_news/2020-06-23-speech-and-voice-recognition-market-global-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report.md",
       "title": "Speech and Voice Recognition Market Global Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report",
       "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-speech-and-voice-recognition-market-global-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-global-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report-2020-06-23",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -393,7 +471,10 @@
       "path": "_news/2020-06-23-sdl-launches-ai-enabled-online-translation-service.md",
       "title": "SDL launches AI-enabled online translation service",
       "excerpt": "SDL has launched SLATE. Smart Language Translation for the Enterprise a new self-service platform delivers a transformed experience in online translation",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-sdl-launches-ai-enabled-online-translation-service/index.json",
       "webUrl": "https://www.enterprisetimes.co.uk/2020/06/23/sdl-launches-ai-enabled-online-translation-service/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -431,7 +512,10 @@
       "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
       "title": "Apple iOS 14: the top new features coming to the iPhone",
       "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone/index.json",
       "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -478,7 +562,10 @@
       "path": "_news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate.md",
       "title": "iOS 14 serves up major updates for Siri, Messages, Translate",
       "excerpt": "Apple, unsurprisingly, led its WWDC 2020 press conference with the announcement of iOS 14. In the next version of Apple’s latest operating system, we’ll see some improvements to Siri,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-ios-14-serves-up-major-updates-for-siri-messages-translate/index.json",
       "webUrl": "https://www.slashgear.com/ios-14-serves-up-major-updates-for-siri-messages-translate-22625758/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -525,7 +612,10 @@
       "path": "_news/2020-06-22-apple-announces-real-time-translation-for-11-languages-with-siri.md",
       "title": "Apple Announces Real-Time Translation For 11 Languages With Siri",
       "excerpt": "Apple just announced that iOS 14 will offer live real-time translation for 11 languages, even offline, at its World Wide Developer Conference being held online this week. But the third-most spoken language globally,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-apple-announces-real-time-translation-for-11-languages-with-siri/index.json",
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/22/apple-announces-real-time-translation-for-11-languages-with-siri/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -563,7 +653,10 @@
       "path": "_news/2020-06-22-why-being-more-human-should-be-every-brands-goal-right-now-and-how-search-is-the-secret-weapon.md",
       "title": "Why being more human should be every brand’s goal right now – and how search is the secret weapon",
       "excerpt": "Thanks to natural language processing (NLP), in fact, they are able to listen to, process and understand human language exactly as it’s spoken. Until recently, we have been interacting with ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-why-being-more-human-should-be-every-brands-goal-right-now-and-how-search-is-the-secret-weapon/index.json",
       "webUrl": "https://www.thedrum.com/industryinsights/2020/06/22/why-being-more-human-should-be-every-brand-s-goal-right-now-and-how",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -601,7 +694,10 @@
       "path": "_news/2020-06-22-salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing.md",
       "title": "Salesforce Research aims to capture the nuances of natural language processing",
       "excerpt": "The Salesforce Research team is attempting to capture the nuances of natural language processing with a new generalized model. The team described its approach in a recently published a paper on ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing/index.json",
       "webUrl": "https://sdtimes.com/ai/salesforce-research-aims-to-capture-the-nuances-of-natural-language-processing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -648,7 +744,10 @@
       "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
       "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
       "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -695,7 +794,10 @@
       "path": "_news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks.md",
       "title": "Everything you need to know about recurrent neural networks",
       "excerpt": "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -743,7 +845,10 @@
       "path": "_news/2020-06-17-sosi-invests-in-apptek-to-advance-artificial-intelligence-and-machine-learning-for-its-speech-recognition-and-translation-offerings.md",
       "title": "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings",
       "excerpt": "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-sosi-invests-in-apptek-to-advance-artificial-intelligence-and-machine-learning-for-its-speech-recognition-and-translation-offerings/index.json",
       "webUrl": "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -772,7 +877,10 @@
       "path": "_news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show.md",
       "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
       "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/index.json",
       "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 295,
       "tags": null,
       "images": [
@@ -820,7 +928,10 @@
       "path": "_news/2020-06-17-speech-recognition-market-size-growth-share-industry-analysis.md",
       "title": "Speech Recognition Market Size | Growth, Share, Industry Analysis",
       "excerpt": "The global Speech Recognition market size is projected to reach USD 10390 million by 2026 from USD 9461 8 million in 2020 at a CAGR of 9 1 during 2021 2026 Speech recognition technology is a high technology that enables",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-speech-recognition-market-size-growth-share-industry-analysis/index.json",
       "webUrl": "https://www.openpr.com/news/2076276/speech-recognition-market-size-growth-share-industry",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -849,7 +960,10 @@
       "path": "_news/2020-06-16-natural-language-processing-nlp-in-healthcare-market-still-going-strong.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Still Going Strong",
       "excerpt": "Latest added Global Natural Language Processing (NLP) in Healthcare Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-natural-language-processing-nlp-in-healthcare-market-still-going-strong/index.json",
       "webUrl": "https://www.openpr.com/news/2075533/natural-language-processing-nlp-in-healthcare-market-still",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -878,7 +992,10 @@
       "path": "_news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar.md",
       "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
       "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 169,
       "tags": null,
       "images": [
@@ -925,7 +1042,10 @@
       "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
       "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
       "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/index.json",
       "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -965,7 +1085,10 @@
       "path": "_news/2020-06-14-artificial-intelligence-for-speech-recognition-market.md",
       "title": "Artificial Intelligence for Speech Recognition Market",
       "excerpt": "A new market study is released on Artificial Intelligence for Speech Recognition Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 58 Pages ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-artificial-intelligence-for-speech-recognition-market/index.json",
       "webUrl": "https://www.openpr.com/news/2074022/artificial-intelligence-for-speech-recognition-market",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -994,7 +1117,10 @@
       "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
       "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
       "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform/index.json",
       "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1041,7 +1167,10 @@
       "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
       "title": "New benchmark measures gender bias in speech translation systems",
       "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems/index.json",
       "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1088,7 +1217,10 @@
       "path": "_news/2020-06-11-openai-launches-an-api-to-commercialize-its-research.md",
       "title": "OpenAI launches an API to commercialize its research",
       "excerpt": "OpenAI launched an API to commercialize -- and prevent the abuse of -- the AI and machine leraning models it's actively developing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-openai-launches-an-api-to-commercialize-its-research/index.json",
       "webUrl": "https://venturebeat.com/2020/06/11/openai-launches-an-api-to-commercialize-its-research/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -1135,7 +1267,10 @@
       "path": "_news/2020-06-11-amazon-bans-police-use-of-its-face-recognition-for-a-year.md",
       "title": "Amazon Bans Police Use of its Face Recognition for a Year",
       "excerpt": "Amazon banned police use of its face-recognition technology for a year, making it the latest tech giant to step back from law-enforcement use of systems that have faced criticism for incorrectly identifying people with darker skin.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-amazon-bans-police-use-of-its-face-recognition-for-a-year/index.json",
       "webUrl": "https://www.voanews.com/usa/nation-turmoil-george-floyd-protests/amazon-bans-police-use-its-face-recognition-year",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1173,7 +1308,10 @@
       "path": "_news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey.md",
       "title": "Fluent in flavor: Using machine learning to build a flavor language for whiskey",
       "excerpt": "So many descriptors and personal perceptions swirl around a glass of whiskey. Published whiskey reviews include sensory and nonsensory descriptions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/index.json",
       "webUrl": "https://augustafreepress.com/fluent-in-flavor-using-machine-learning-to-build-a-flavor-language-for-whiskey/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1194,44 +1332,6 @@
       "provider": {
         "name": "Augusta Free Press",
         "domain": "augustafreepress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-5-reasons-why-your-chatbot-needs-natural-language-processing.md",
-      "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
-      "excerpt": "This is where Natural Language Processing (NLP) comes into the picture. Within the right context for the right applications, NLP can pave the way for an easier-to-use interface to features and ...",
-      "webUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/inc42.com/wp-content/uploads/2019/06/nlp-social.jpg?fit=1200%2C628&#038;ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": "5 Reasons Why Your Chatbot Needs Natural Language Processing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/5-reasons-why-your-chatbot-needs-natural-language-processing/amp/",
-      "publishedDateTime": "2020-06-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

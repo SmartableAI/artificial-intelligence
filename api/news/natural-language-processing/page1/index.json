@@ -2,10 +2,65 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-08-the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china.md",
+      "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
+      "excerpt": "The Pentagon's Joint AI Center is working on lethal \"tactical edge AI,\" but is not working on facial recognition, said JAIC director Nand Mulchandani.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/index.json",
+      "webUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
+      "publishedDateTime": "2020-07-08T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-microsoft-teams-new-together-mode-is-designed-for-pandemic-era-meetings.md",
       "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
       "excerpt": "Microsoft is introducing some big updates to Microsoft Teams today. The software giant has been working on a new “Together Mode” for Teams ever since the COVID-19 pandemic began, and it’s designed to create a virtual live avatar of yourself that’s supposed to help you better engage with meetings.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-microsoft-teams-new-together-mode-is-designed-for-pandemic-era-meetings/index.json",
       "webUrl": "https://www.theverge.com/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -52,7 +107,10 @@
       "path": "_news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages.md",
       "title": "Facebook’s speech recognition model supports 51 different languages",
       "excerpt": "Facebook researchers developed a language model they say can recognize words in 51 different languages, including 'low-resource' languages like Persian.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages/index.json",
       "webUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -99,7 +157,10 @@
       "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
       "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
       "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/index.json",
       "webUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -147,7 +208,10 @@
       "path": "_news/2020-07-08-explainer-what-is-machine-learning.md",
       "title": "Explainer: What Is Machine Learning?",
       "excerpt": "Machine learning (ML) is the study of computer systems that automatically improve with experience, a hot topic in the last few years, but a concept that's been around for decades. IBM programmer and AI pioneer Arthur Samuel coined the term \"machine learning\" in 1952.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-explainer-what-is-machine-learning/index.json",
       "webUrl": "https://www.techspot.com/article/2048-machine-learning-explained/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -195,7 +259,10 @@
       "path": "_news/2020-07-07-this-saas-based-startup-is-disrupting-call-centre-market-with-ai-based-voice-bots.md",
       "title": "This Saas-Based Startup Is Disrupting Call Centre Market With AI-Based Voice Bots",
       "excerpt": "Bengaluru-based Vernacular.ai in May 2020 raised $5.1 million in Series A funding led by Exfinity Ventures and IAN Fund",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-this-saas-based-startup-is-disrupting-call-centre-market-with-ai-based-voice-bots/index.json",
       "webUrl": "https://www.entrepreneur.com/article/352913",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -242,7 +309,10 @@
       "path": "_news/2020-07-06-natural-language-processing-market-size-trends-outlook-opportunity-till-2025.md",
       "title": "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-natural-language-processing-market-size-trends-outlook-opportunity-till-2025/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -289,7 +359,10 @@
       "path": "_news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025.md",
       "title": "Natural language processing (NLP) Market 2020 Global Analysis, Opportunities And Forecast To 2025",
       "excerpt": "Market Demand, Growth, Opportunities and Analysis Of Top Key Player Forecast To 2023” To Its Research Database This report focuses on the global Natural language processing (NLP) status, future forecast,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -336,7 +409,10 @@
       "path": "_news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business.md",
       "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
       "excerpt": "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/index.json",
       "webUrl": "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -374,7 +450,10 @@
       "path": "_news/2020-07-02-considering-the-american-voice.md",
       "title": "Considering the American Voice",
       "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-considering-the-american-voice/index.json",
       "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -421,7 +500,10 @@
       "path": "_news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai.md",
       "title": "Researchers are gathering South African news headlines to power AI",
       "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai/index.json",
       "webUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -469,7 +551,10 @@
       "path": "_news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots.md",
       "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
       "excerpt": "These members of MIT's latest 35 Under 35 list are engineers, chemists, and researchers working for universities, startups, and big tech companies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/index.json",
       "webUrl": "https://www.techrepublic.com/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -517,7 +602,10 @@
       "path": "_news/2020-07-02-my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work.md",
       "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
       "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/index.json",
       "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -566,7 +654,10 @@
       "path": "_news/2020-07-02-reddit-owes-its-moderators-more-than-an-updated-hate-speech-policy.md",
       "title": "Reddit owes its moderators more than an updated hate speech policy",
       "excerpt": "Should Reddit pay its volunteer moderators? The thought had not really occurred to me until last week, when I joined a call with CEO Steve Huffman and his general counsel, Benjamin Lee. The executives were briefing me and some other reporters about a significant expansion of the site’s content moderation policies,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-reddit-owes-its-moderators-more-than-an-updated-hate-speech-policy/index.json",
       "webUrl": "https://www.theverge.com/interface/2020/7/2/21310135/reddit-should-pay-moderators-hate-speech-death-threats-content-policy-facebook-ad-boycott",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -613,7 +704,10 @@
       "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
       "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
       "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/index.json",
       "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -653,14 +747,18 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
       "path": "_news/2020-07-01-geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-communications-for-the-enterprise.md",
       "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
       "excerpt": "Geoverse, a company specializing in interconnected private LTE/5G networks for the enterprise, announced its partnership with Orion Labs, the leading voice communication and automation platform for frontline workers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-communications-for-the-enterprise/index.json",
       "webUrl": "https://www.fieldtechnologiesonline.com/doc/geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-0001",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -698,7 +796,10 @@
       "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
       "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
       "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/index.json",
       "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -745,7 +846,10 @@
       "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
       "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
       "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/index.json",
       "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -792,7 +896,10 @@
       "path": "_news/2020-07-01-sogou-takes-a-top-spot-at-nlpcc-2020.md",
       "title": "Sogou Takes a Top Spot at NLPCC 2020",
       "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, today announced it ranked first",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-sogou-takes-a-top-spot-at-nlpcc-2020/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-takes-a-top-spot-at-nlpcc-2020/article_74e60c11-db8d-58bd-8a12-82b71b7df93d.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -830,7 +937,10 @@
       "path": "_news/2020-06-30-research-outcome-lessons-learned-from-1600ico-funding-rounds.md",
       "title": "Research Outcome: Lessons Learned From 1600+ICO Funding Rounds",
       "excerpt": "While reviewing more than 1600 English speaking Whitepapers on Initial Coin Offering (ICO) campaigns, that took place between January 2017 and December 2018 researchers from two US-based universities investigated various signals that might have impacted the outcome of the fundraising process.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-research-outcome-lessons-learned-from-1600ico-funding-rounds/index.json",
       "webUrl": "https://www.forbes.com/sites/michalgromek/2020/06/30/research-outcome-lessons-learned-from-1600ico-funding-rounds/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -877,7 +987,10 @@
       "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
       "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
       "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/index.json",
       "webUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -924,7 +1037,10 @@
       "path": "_news/2020-06-30-boris-johnson-economy-speech-fact-checked.md",
       "title": "Boris Johnson: Economy speech fact-checked",
       "excerpt": "Boris Johnson compared his plan with former US President Franklin Delano Roosevelt's New Deal. Reality Check has taken a closer look at some of the announcements: Boris Johnson said: \"It sounds like a New",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-boris-johnson-economy-speech-fact-checked/index.json",
       "webUrl": "https://www.bbc.com/news/53236921",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -971,7 +1087,10 @@
       "path": "_news/2020-06-30-artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change.md",
       "title": "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change",
       "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change\" -  The global artificial intelligence services market is expected to decline from $0.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1020,7 +1139,10 @@
       "path": "_news/2020-06-30-singapore-hyperlocal-ai-startup-snags-7m-in-series-a.md",
       "title": "Singapore 'hyperlocal' AI startup snags $7M in Series A",
       "excerpt": "NextBillion.ai secures $7 million in its Series A round and plans to use the funds to expand its team and boost product and research development, which focuses on customised \"hyperlocal\" artificial intelligence-powered applications.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-singapore-hyperlocal-ai-startup-snags-7m-in-series-a/index.json",
       "webUrl": "https://www.zdnet.com/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1067,7 +1189,10 @@
       "path": "_news/2020-06-29-the-3-weeks-that-changed-everything.md",
       "title": "The 3 Weeks That Changed Everything",
       "excerpt": "Imagine if the National Transportation Safety Board investigated America’s response to the coronavirus pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-the-3-weeks-that-changed-everything/index.json",
       "webUrl": "https://www.theatlantic.com/politics/archive/2020/06/how-white-house-coronavirus-response-went-wrong/613591/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1114,7 +1239,10 @@
       "path": "_news/2020-06-28-machines-that-can-understand-human-speech-the-conversational-pattern-of-ai.md",
       "title": "Machines That Can Understand Human Speech: The Conversational Pattern Of AI",
       "excerpt": "Conversation and human language is a particularly challenging area for computers, since words and communication is not precise. Learn more about the conversational pattern of AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-28-machines-that-can-understand-human-speech-the-conversational-pattern-of-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/28/machines-that-can-understand-human-speech-the-conversational-pattern-of-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1161,7 +1289,10 @@
       "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
       "title": "Congress proposes ban on government use of facial recognition software",
       "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software/index.json",
       "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 291,
       "tags": null,
       "images": [
@@ -1209,7 +1340,10 @@
       "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
       "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
       "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition/index.json",
       "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1256,7 +1390,10 @@
       "path": "_news/2020-06-26-lets-kill-facial-recognition-for-good.md",
       "title": "Let's Kill Facial Recognition For Good",
       "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-lets-kill-facial-recognition-for-good/index.json",
       "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -1303,7 +1440,10 @@
       "path": "_news/2020-06-26-facial-recognition-bill-would-ban-use-by-federal-law-enforcement.md",
       "title": "Facial recognition bill would ban use by federal law enforcement",
       "excerpt": "The bill would also make federal funding for state and local law enforcement contingent on the enactment of similar bans.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-facial-recognition-bill-would-ban-use-by-federal-law-enforcement/index.json",
       "webUrl": "https://www.nbcnews.com/tech/security/2-democratic-senators-propose-ban-use-facial-recognition-federal-law-n1232128",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 181,
       "tags": null,
       "images": [
@@ -1336,54 +1476,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
-      "title": "If Done Right, AI Could Make Policing Fairer",
-      "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
-      "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef419aeaf3d0a069fd1d59d/master/pass/business_policing_1175954210.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "If Done Right, AI Could Make Policing Fairer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/done-right-ai-make-policing-fairer/amp",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

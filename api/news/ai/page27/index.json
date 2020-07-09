@@ -2,10 +2,54 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns.md",
+      "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
+      "excerpt": "On June 10, Amazon announced a one-year moratorium on police use of Amazon’s facial recognition technology, Amazon Rekognition. In a blog post, Amazon said it will still allow organizations such as Thorn, the International Center for Missing and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns/index.json",
+      "webUrl": "https://www.meritalk.com/articles/tech-giants-back-away-from-facial-recognition-amid-bias-concerns/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_618887135-min.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-12T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MeriTalk",
+        "domain": "meritalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm.md",
       "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
       "excerpt": "Deep Learning Chipset Market Research: Global Status & Forecast by Geography, Type &",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -52,7 +96,10 @@
       "path": "_news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026.md",
       "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
       "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Machine Learning market anticipated to exceed US$ 76.8 Bn by 2027, along with the projected CAGR of 40.1% from 2020 to 2027\". The global Machine Learning market research report encompasses qualitative and quantitative data derived from the analysis by experts and research analysts in the respective industry verticals from valid sources with the help of primary and secondary research tools.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -99,7 +146,10 @@
       "path": "_news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud.md",
       "title": "Cloud storage on-site hardware: AWS, Azure, Google Cloud",
       "excerpt": "AWS’s Outposts, Gateway and Snow hardware, Azure’s Stack and Arc appliances, and Google Cloud’s software-defined Anthos.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud/index.json",
       "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -128,7 +178,10 @@
       "path": "_news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles.md",
       "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
       "excerpt": "Behind the scenes and out of the public eye, AI is powering hundreds of logistics decisions and overcoming thousands of external hurdles.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -174,7 +227,10 @@
       "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
       "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
       "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday/index.json",
       "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday-301074876.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -212,7 +268,10 @@
       "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
       "title": "War machines: DOD's ethical principles for battlefield AI",
       "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai/index.json",
       "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -259,7 +318,10 @@
       "path": "_news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program.md",
       "title": "Udacity & Microsoft partner to launch machine learning scholarship program",
       "excerpt": "Ed-tech start up Udacity has collaborated with technology major Microsoft to award scholarships for its all new Machine Learning Nanodegree program in Microsoft Azure. The new Udacity Machine ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/index.json",
       "webUrl": "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program-11591937550911.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -297,7 +359,10 @@
       "path": "_news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department.md",
       "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
       "excerpt": "Acute appendicitis is one of the most common causes of abdominal emergencies. We investigated the feasibility of a neural-network-based diagnosis algorithm of appendicitis by using computed tomography (CT) for patients with acute abdominal pain visiting the emergency room (ER).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-66674-7",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -335,7 +400,10 @@
       "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/index.json",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -374,7 +442,10 @@
       "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
       "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
       "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-66505-9",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -412,7 +483,10 @@
       "path": "_news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning.md",
       "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
       "excerpt": "This tutorial demonstrates how to use Azure Machine Learning to build and deploy a custom skill for Azure Cognitive Search's AI enrichment pipeline.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-aml-custom-skill",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -459,7 +533,10 @@
       "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
       "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
       "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/index.json",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -497,7 +574,10 @@
       "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
       "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
       "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -544,7 +624,10 @@
       "path": "_news/2020-06-12-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
       "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
       "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/index.json",
       "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -582,7 +665,10 @@
       "path": "_news/2020-06-12-reference-design-supports-memory-intensive-ai-workloads.md",
       "title": "Reference design supports memory-intensive AI workloads",
       "excerpt": "One of the challenges is that smart vision and other AI applications generate a lot of data that is ... smaller than a 9 × 13-mm BGA packaging used by a standard DDR3 DRAM chip. Another advantage of the solution is that it doesn’t require expertise ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-reference-design-supports-memory-intensive-ai-workloads/index.json",
       "webUrl": "https://www.embedded.com/reference-design-supports-memory-intensive-ai-workloads/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -620,7 +706,10 @@
       "path": "_news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars.md",
       "title": "3 AI Stocks Poised to Gain From Self-Driving Cars",
       "excerpt": "Needham’s 5-star analyst Rajvindra Gill, an expert in the tech sector, has the lowdown on autonomous cars and the companies that will support them. He was part of Needham’s recent 4th Annual Virtual Automotive Tech Conference,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-3-ai-stocks-poised-to-gain-from-self-driving-cars/index.json",
       "webUrl": "https://www.nasdaq.com/articles/3-ai-stocks-poised-to-gain-from-self-driving-cars-2020-06-11",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": null,
@@ -650,7 +739,10 @@
       "path": "_news/2020-06-11-controversial-startup-to-continue-supplying-police-with-facial-recognition-tech.md",
       "title": "Controversial Startup to Continue Supplying Police With Facial-Recognition Tech",
       "excerpt": "“Unlike Amazon Rekognition, which misidentified people of color, an independent study, using the same methodology, indicated that Clearview AI has no racial bias.” (The ACLU ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-controversial-startup-to-continue-supplying-police-with-facial-recognition-tech/index.json",
       "webUrl": "https://in.pcmag.com/encryption/136706/controversial-startup-to-continue-supplying-police-with-facial-recognition-tech",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -697,7 +789,10 @@
       "path": "_news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai.md",
       "title": "Object detection and model retraining with Amazon SageMaker and Amazon Augmented AI",
       "excerpt": "Industries like healthcare, media, and social media platforms use image analysis workflows to identify objects and entities within pictures to understand the whole image. For example, an ecommerce website might use objects present in an image to surface relevant search results. Sometimes image analysis",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/object-detection-and-model-retraining-with-amazon-sagemaker-and-amazon-augmented-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 108,
       "tags": null,
       "images": [
@@ -744,7 +839,10 @@
       "path": "_news/2020-06-11-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
       "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
       "excerpt": "New Amazon EC2 instances powered by AWS-designed Graviton2 processors deliver up to 40% better price/performance over comparable x86 based instances.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors/index.json",
       "webUrl": "https://www.businesswire.com/news/home/20200611005895/en/AWS-Announces-General-Availability-Sixth-Generation-Amazon",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -782,7 +880,10 @@
       "path": "_news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems.md",
       "title": "New benchmark measures gender bias in speech translation systems",
       "excerpt": "In a new preprint study, researchers propose a benchmark for measuring potential gender bias in speech translation systems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-new-benchmark-measures-gender-bias-in-speech-translation-systems/index.json",
       "webUrl": "https://venturebeat.com/2020/06/11/new-benchmark-measures-gender-bias-in-speech-translation-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -829,7 +930,10 @@
       "path": "_news/2020-06-11-former-envestnet-exec-raises-18m-for-jiffyai-unveils-the-first-unified-automation-and-no-code-app-development-platform-for-finance-and-operations.md",
       "title": "Former Envestnet Exec Raises $18M for JIFFY.ai, Unveils the First Unified Automation and No-Code App Development Platform for Finance and Operations",
       "excerpt": "JIFFY.ai, the first-ever unified enterprise automation innovation company structured to have a lasting social impact over the next several decades, today launches",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-former-envestnet-exec-raises-18m-for-jiffyai-unveils-the-first-unified-automation-and-no-code-app-development-platform-for-finance-and-operations/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/former-envestnet-exec-raises-18m-for-jiffy-ai-unveils-the-first-unified-automation-and-no/article_34cfb91b-e7ca-5387-a274-a389e279b557.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -867,7 +971,10 @@
       "path": "_news/2020-06-11-repairing-and-rewiring-the-brain.md",
       "title": "Repairing and Rewiring the Brain",
       "excerpt": "Perhaps the most rewarding part of my work is helping post- traumatic brain injury clients to regain mastery of skills they thought were lost forever. Many of you may be familiar with this aspect of my work from Clark Elliott’s book,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-repairing-and-rewiring-the-brain/index.json",
       "webUrl": "https://www.psychologytoday.com/us/blog/designs-strong-minds/202006/repairing-and-rewiring-the-brain",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -896,7 +1003,10 @@
       "path": "_news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either.md",
       "title": "Microsoft says it won't sell facial recognition tech to police, either",
       "excerpt": "Microsoft President Brad Smith announced in a livestreamed conversation with the Washington Post Thursday that the company does not, and would not, sell facial recognition technology to police departments.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-microsoft-says-it-wont-sell-facial-recognition-tech-to-police-either/index.json",
       "webUrl": "https://mashable.com/article/microsoft-facial-recognition-police/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 399,
       "tags": null,
       "images": [
@@ -934,7 +1044,10 @@
       "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
       "title": "Cryptomining syndicate hijacks Kubernetes clusters",
       "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters/index.json",
       "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -981,7 +1094,10 @@
       "path": "_news/2020-06-11-amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-tech-amid-blm.md",
       "title": "Amazon too reviews its policy on police use of its face-recognition tech amid #BLM",
       "excerpt": "The petition takes aim at Amazon Web Services cloud computing unit’s “Rekognition” facial recognition technology and Ring surveillance cameras used for home security. “Amazon needs to ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-tech-amid-blm/index.json",
       "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/110620/amazon-too-reviews-its-policy-on-police-use-of-its-face-recognition-te.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1019,7 +1135,10 @@
       "path": "_news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints.md",
       "title": "Siemens and SparkCognition unveil AI-driven cybersecurity solution for ICS endpoints",
       "excerpt": "DeepArmor Industrial, fortified by Siemens, increases operational visibility, improves malware detection, and provides protection across a company's fleet of industrial control systems and end points.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/index.json",
       "webUrl": "https://www.techrepublic.com/article/siemens-and-sparkcognition-unveil-ai-driven-cybersecurity-solution-for-ics-endpoints/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -1065,7 +1184,10 @@
       "path": "_news/2020-06-11-google-and-zebai-launch-chemome-initiative-to-identify-chemical-probes-with-ai-models.md",
       "title": "Google and ZebAI launch Chemome Initiative to identify ‘chemical probes’ with AI models",
       "excerpt": "Google partnered with startup ZebAI to launch the Chemome Initiative, which aims to identify 'chemical probes' using AI techniques.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-google-and-zebai-launch-chemome-initiative-to-identify-chemical-probes-with-ai-models/index.json",
       "webUrl": "https://venturebeat.com/2020/06/11/google-and-zebai-launch-the-chemome-initiative-to-identify-chemical-probes-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -1111,7 +1233,10 @@
       "path": "_news/2020-06-11-artificial-intelligence-gathers-pace-in-latin-america.md",
       "title": "Artificial intelligence gathers pace in Latin America",
       "excerpt": "A fast-developing ecosystem is emerging in the region despite the challenges, with projects at almost the same level of other parts of the world, according to new research.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-artificial-intelligence-gathers-pace-in-latin-america/index.json",
       "webUrl": "https://www.zdnet.com/article/artificial-intelligence-gathers-pace-in-latin-america/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1157,7 +1282,10 @@
       "path": "_news/2020-06-11-microsoft-bans-police-from-using-its-facial-recognition-software.md",
       "title": "Microsoft bans police from using its facial recognition software",
       "excerpt": "The move follows similar measures by Amazon and IBM, and bars police from using Microsoft's systems until federal regulations are in place.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-microsoft-bans-police-from-using-its-facial-recognition-software/index.json",
       "webUrl": "https://www.cnet.com/news/microsoft-bans-police-from-using-its-facial-recognition-software/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 409,
       "tags": null,
       "images": [
@@ -1197,44 +1325,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution.md",
-      "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
-      "excerpt": "The fourth revolution of healthcare is Artificial Intelligence. Here is the connection between AI & Medical field -Healthcare Revolution. AI is medical",
-      "webUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcresendo.com/wp-content/uploads/2020/06/AI-Health-Care.png",
-          "width": 800,
-          "height": 600,
-          "title": "Covid-19 acts as a Catalyst to AI Healthcare Revolution",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
-      "cdnAmpWebUrl": "https://techcresendo-com.cdn.ampproject.org/c/s/techcresendo.com/covid-19-acts-as-a-catalyst-to-ai-healthcare-revolution/?amp",
-      "publishedDateTime": "2020-06-11T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techcresendo.com",
-        "domain": "techcresendo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

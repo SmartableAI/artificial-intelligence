@@ -2,10 +2,54 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-06-09-ibm-is-canceling-its-facial-recognition-programs.md",
+      "title": "IBM is canceling its facial recognition programs",
+      "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-ibm-is-canceling-its-facial-recognition-programs/index.json",
+      "webUrl": "https://localnews8.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.us-east-1.wasabisys.com/localnews8.com/2020/06/hypatia-h_a4917592f298744f503b43ddb72e1166-h_11a270c4b7510a4e78166c56f7585196_preview.jpg",
+          "width": 500,
+          "height": 326,
+          "title": "IBM is canceling its facial recognition programs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-09T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement.md",
       "title": "IBM quits facial recognition and urges debate on its use by law enforcement",
       "excerpt": "IBM is a market leader in artificial intelligence. IBM Watson, its AI platform for businesses, is used by companies such as General Motors, KPMG and ESPN Fantasy Football. And its fast talking AI ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/index.json",
       "webUrl": "https://kesq.com/money/2020/06/09/ibm-quits-facial-recognition-and-urges-debate-on-its-use-by-law-enforcement/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -43,7 +87,10 @@
       "path": "_news/2020-06-09-why-ibm-abandoned-facial-recognition-and-more-tech-news-you-need-to-know-today.md",
       "title": "Why IBM abandoned facial recognition, and more tech news you need to know today",
       "excerpt": "Is IBM doing the right thing, or walking away from a problem it can fix? Plus more tech news you need to know, today!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-why-ibm-abandoned-facial-recognition-and-more-tech-news-you-need-to-know-today/index.json",
       "webUrl": "https://www.androidauthority.com/tech-news-56-1127243/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -90,7 +137,10 @@
       "path": "_news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization.md",
       "title": "CVPR 2020 Features Microsoft CEO & SVP, Amazon Web Services in Dialogue on State of AI Commercialization",
       "excerpt": "and artificial intelligence, CVPR features more than 1,500 presentations from industry leaders, including Amazon Web Services, Alibaba Group, Apple, Google, Microsoft, Waymo and many others.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai-commercialization/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/cvpr-2020-features-microsoft-ceo-svp-amazon-web-services-in-dialogue-on-state-of-ai/article_d2d9a8e5-54aa-5b3b-815b-9bdf63586341.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -128,7 +178,10 @@
       "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
       "title": "MIT “brain-on-a-chip” could make AI more portable",
       "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable/index.json",
       "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -175,7 +228,10 @@
       "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
       "title": "Eswin raises $283M to boost chip production in China",
       "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china/index.json",
       "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -222,7 +278,10 @@
       "path": "_news/2020-06-09-ibm-ditches-facial-recognition-tech-over-human-rights-concerns.md",
       "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
       "excerpt": "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-ibm-ditches-facial-recognition-tech-over-human-rights-concerns/index.json",
       "webUrl": "https://uk.pcmag.com/news-analysis/127302/ibm-ditches-facial-recognition-tech-over-human-rights-concerns",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -269,7 +328,10 @@
       "path": "_news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai.md",
       "title": "A British tech mogul who sold his firm to HP for $11 billion says 'we're nowhere near broad AI'",
       "excerpt": "Mike Lynch, the British entrepreneur who is being sued by HP for $5 billion, thinks there is a long way to go before machines start to show general intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-a-british-tech-mogul-who-sold-his-firm-to-hp-for-11-billion-says-were-nowhere-near-broad-ai/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/09/mike-lynch-agi-autonomy-hp.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -315,7 +377,10 @@
       "path": "_news/2020-06-09-microsofts-ai-journalists-confuse-mixed-race-little-mix-singers-on-msn-homepage.md",
       "title": "Microsoft’s AI journalists confuse mixed-race Little Mix singers on MSN homepage",
       "excerpt": "Microsoft’s decision to replace human journalists with AI to run its news and search site MSN.com has been criticized after the automated system confused two mixed-race members of British pop group Little Mix.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-microsofts-ai-journalists-confuse-mixed-race-little-mix-singers-on-msn-homepage/index.json",
       "webUrl": "https://www.theverge.com/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 132,
       "tags": null,
       "images": [
@@ -361,7 +426,10 @@
       "path": "_news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping.md",
       "title": "Flipkart introduces AI-driven voice assist for shopping",
       "excerpt": "E-commerce player Flipkart has introduced Voice Assistant capability on its platform, to make buying experience simpler and natural. Introduced in Flipkart’s grocery store, Supermart, the Voice Assist",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-flipkart-introduces-ai-driven-voice-assist-for-shopping/index.json",
       "webUrl": "https://www.thehindu.com/business/Industry/flipkart-introduces-ai-driven-voice-assist-for-shopping/article31785876.ece",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 129,
       "tags": null,
       "images": [
@@ -399,7 +467,10 @@
       "path": "_news/2020-06-09-deep-learning-for-improved-risk-prediction-in-surgical-outcomes.md",
       "title": "Deep Learning for Improved Risk Prediction in Surgical Outcomes",
       "excerpt": "There are important limitations to our current models. Machine learning approaches and specifically deep learning methods generally require a large number of samples to properly train a model.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-deep-learning-for-improved-risk-prediction-in-surgical-outcomes/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-62971-3",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -437,7 +508,10 @@
       "path": "_news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice.md",
       "title": "TCL’s latest TVs in India can be controlled just by voice",
       "excerpt": "The TCL P715 consists of several 4K smart TVs that start at Rs 39,990 and go all the way up to Rs 99,990. The company has not revealed the complete details of the series yet nor has it mentioned the number of TVs in the series.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-tcls-latest-tvs-in-india-can-be-controlled-just-by-voice/index.json",
       "webUrl": "https://www.techradar.com/news/tcls-latest-tvs-in-india-can-be-controlled-just-by-voice",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -484,7 +558,10 @@
       "path": "_news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant.md",
       "title": "Chip maker TSMC scores subsidies, picks site for US$12 billion US plant",
       "excerpt": "TSMC, the main chip maker to Apple and Huawei Technologies, has moved closer to finalising a fabrication facility in Arizona to allay US security concerns and shift hi-tech manufacturing to America.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-chip-maker-tsmc-scores-subsidies-picks-site-for-us12-billion-us-plant/index.json",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3088207/chip-maker-tsmc-scores-subsidies-picks-site-us12-billion-us-plant",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -531,7 +608,10 @@
       "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
       "title": "New machine learning approach classifies common type of brain tumor",
       "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor/index.json",
       "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -569,7 +649,10 @@
       "path": "_news/2020-06-09-renesas-sampling-vision-optimised-mcus.md",
       "title": "Renesas sampling vision-optimised MCUs",
       "excerpt": "The demand to have real-time, AI-based person and object recognition functionality in applications such as surveillance cameras for industrial and infrastructure as well as product scanners and POS terminal cameras has been growing rapidly. However ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-renesas-sampling-vision-optimised-mcus/index.json",
       "webUrl": "https://www.electronicsweekly.com/news/business/renesas-sampling-vision-optimised-mcus-2020-06/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -607,7 +690,10 @@
       "path": "_news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021.md",
       "title": "Human fighter pilots set to take on AI drones in aerial dogfights in 2021",
       "excerpt": "The first aerial showdown between a human fighter pilot and an autonomous aircraft is slated for July 2021, according to a fascinating interview with the outgoing Director of the US Department of Defense's Joint Artificial Intelligence Center (JAIC).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-human-fighter-pilots-set-to-take-on-ai-drones-in-aerial-dogfights-in-2021/index.json",
       "webUrl": "https://newatlas.com/military/human-vs-machine-aerial-dogfights-ai-autonomous/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -654,7 +740,10 @@
       "path": "_news/2020-06-09-tutorial-create-an-ubuntu-data-science-virtual-machine-using-a-resource-manager-template.md",
       "title": "Tutorial: Create an Ubuntu Data Science Virtual Machine using a Resource Manager template",
       "excerpt": "This tutorial will show you how to create an Ubuntu 18.04 Data Science Virtual Machine using an Azure Resource Manager template. Data Science Virtual Machines are cloud-based virtual machines preloaded with a suite of data science and machine learning frameworks and tools.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-tutorial-create-an-ubuntu-data-science-virtual-machine-using-a-resource-manager-template/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-tutorial-resource-manager",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -701,7 +790,10 @@
       "path": "_news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study.md",
       "title": "Reducing the number of unnecessary biopsies of US-BI-RADS 4a lesions through a deep learning method for residents-in-training: a cross-sectional study",
       "excerpt": "Objective The aim of the study is to explore the potential value of S-Detect for residents-in-training, a computer-assisted diagnosis system based on deep learning (DL) algorithm. Methods The study was designed as a cross-sectional study.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study/index.json",
       "webUrl": "https://bmjopen.bmj.com/content/10/6/e035757",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -730,7 +822,10 @@
       "path": "_news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says.md",
       "title": "Self-driving cars won't eradicate the car crash, study says",
       "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry. In a blow to hopes for a future free of car ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-self-driving-cars-wont-eradicate-the-car-crash-study-says/index.json",
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -777,7 +872,10 @@
       "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
       "title": "Artificial intelligence chips benefit from a good night's sleep",
       "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep/index.json",
       "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -824,7 +922,10 @@
       "path": "_news/2020-06-09-here-are-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
       "title": "Here are 5 ways to use AI as a ‘bad apple detector’ for cops",
       "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-here-are-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -870,7 +971,10 @@
       "path": "_news/2020-06-09-google-open-sources-computer-vision-model-big-transfer.md",
       "title": "Google Open-Sources Computer Vision Model Big Transfer",
       "excerpt": "Google Brain has released the pre-trained models and fine-tuning code for Big Transfer (BiT), a deep-learning computer vision model. The models are pre-trained on publicly-available generic image ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-google-open-sources-computer-vision-model-big-transfer/index.json",
       "webUrl": "https://www.infoq.com/news/2020/06/google-big-transfer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -908,7 +1012,10 @@
       "path": "_news/2020-06-09-how-to-run-ml-applications-on-particle-hardware.md",
       "title": "How To Run ML Applications On Particle Hardware",
       "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-how-to-run-ml-applications-on-particle-hardware/index.json",
       "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -946,7 +1053,10 @@
       "path": "_news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics.md",
       "title": "Machine learning predicts nanoparticles' structure and dynamics",
       "excerpt": "Machine learning methods, once trained to model the systems reliably, can speed up the simulations by several orders of magnitude. The new method allowed simulations to be run on a laptop or desktop",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics/index.json",
       "webUrl": "https://www.sciencedaily.com/releases/2020/06/200609104305.htm",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -984,7 +1094,10 @@
       "path": "_news/2020-06-09-report-facebook-makes-300000-content-moderation-mistakes-every-day.md",
       "title": "Report: Facebook Makes 300,000 Content Moderation Mistakes Every Day",
       "excerpt": "Facebook should also expand oversight in underserved countries, the report suggests, and sponsor research into the mental ... social media properties. Better AI might help too.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-report-facebook-makes-300000-content-moderation-mistakes-every-day/index.json",
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1015,53 +1128,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-09-the-scientist-who-controlled-people-with-brain-implants.md",
-      "title": "The Scientist Who Controlled People with Brain Implants",
-      "excerpt": "(Or you can wind up mind-controlled by a psychopath. It's a mixed bag.) But in real life, one scientist made huge strides towards creating workable brain implants. In the 1950s and 1960s.",
-      "webUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18lp4exxculr1jpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "The Scientist Who Controlled People with Brain Implants",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
-      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
-      "publishedDateTime": "2020-06-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "io9.gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

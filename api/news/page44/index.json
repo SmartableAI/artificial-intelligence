@@ -2,10 +2,62 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-06-03-anvil-leverages-ai-to-expedite-paperwork-processing.md",
+      "title": "Anvil leverages AI to expedite paperwork processing",
+      "excerpt": "Anvil, a startup developing an AI-powered paperwork processing platform, secured $5 million in venture capital financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-anvil-leverages-ai-to-expedite-paperwork-processing/index.json",
+      "webUrl": "https://venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/05/maxresdefault-8-e1590778086248.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Anvil leverages AI to expedite paperwork processing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/amp/",
+      "publishedDateTime": "2020-06-03T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-03-alphabets-googl-waymo-to-resume-operations-in-bay-area.md",
       "title": "Alphabet's (GOOGL) Waymo to Resume Operations in Bay Area",
       "excerpt": "Baidu recently received license for five of its self-driving vehicles in China. Further, the launch of its Apollo Robotaxi fleet of 45 self-driving cars in Changsha — Hunan province in China ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-alphabets-googl-waymo-to-resume-operations-in-bay-area/index.json",
       "webUrl": "https://www.nasdaq.com/articles/alphabets-googl-waymo-to-resume-operations-in-bay-area-2020-06-03",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -34,7 +86,10 @@
       "path": "_news/2020-06-03-america-is-awash-in-cameras-has-its-pluses-and-minuses-for-police-and-protesters.md",
       "title": "America is awash in cameras, has its pluses and minuses for police and protesters",
       "excerpt": "Law enforcement agencies have existing networks of surveillance cameras and body cameras worn by officers, as well as face- and object-recognition software. Large retail and food chains have ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-america-is-awash-in-cameras-has-its-pluses-and-minuses-for-police-and-protesters/index.json",
       "webUrl": "https://www.seattletimes.com/nation-world/america-is-awash-in-cameras-a-double-edged-sword-for-protesters-and-police/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -63,7 +118,10 @@
       "path": "_news/2020-06-03-cerence-provides-ford-ai-and-voice-recognition.md",
       "title": "Cerence provides Ford AI and voice recognition",
       "excerpt": "Cerence says Ford has selected the company's Drive products to bring advanced, conversational AI and voice recognition to the automaker's Sync 4 communications and entertainment system.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-cerence-provides-ford-ai-and-voice-recognition/index.json",
       "webUrl": "https://www.just-auto.com/news/cerence-provides-ford-ai-and-voice-recognition_id195864.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -101,7 +159,10 @@
       "path": "_news/2020-06-03-1touchio-employs-ai-to-identify-and-protect-sensitive-enterprise-data.md",
       "title": "1touch.io employs AI to identify and protect sensitive enterprise data",
       "excerpt": "Network analytics-based data discovery startup 1touch.io today emerged from stealth with $14 million in funding. The company, whose products are designed to help enterprises automatically and continuously identify repositories that process,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-1touchio-employs-ai-to-identify-and-protect-sensitive-enterprise-data/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/1touch-io-employs-ai-to-identify-and-protect-sensitive-enterprise-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -147,7 +208,10 @@
       "path": "_news/2020-06-03-taiwan-dangles-us335-million-to-woo-foreign-chip-makers.md",
       "title": "Taiwan dangles US$335 million to woo foreign chip makers",
       "excerpt": "The seven-year plan aims to subsidise as much as half of all the research and development costs incurred by global chip companies that build centres on the island.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-taiwan-dangles-us335-million-to-woo-foreign-chip-makers/index.json",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3087428/taiwan-dangles-us335-million-woo-foreign-chip-makers",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -194,7 +258,10 @@
       "path": "_news/2020-06-03-real-networks-2020-and-star-search-use-ai-to-identify-celebrities-in-videos.md",
       "title": "Real Networks 20/20 and Star Search use AI to identify celebrities in videos",
       "excerpt": "RealNetworks unveiled two video innovations for consumers that use artificial intelligence to identify faces of celebrities in videos.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-real-networks-2020-and-star-search-use-ai-to-identify-celebrities-in-videos/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/real-networks-20-20-and-star-search-use-ai-to-identify-celebrities-in-videos/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -240,7 +307,10 @@
       "path": "_news/2020-06-03-realnetworks-expands-facial-recognition-tech-to-id-celebrities-in-videos-and-its-actually-pretty-useful.md",
       "title": "RealNetworks expands facial recognition tech to ID celebrities in videos — and it’s actually pretty useful",
       "excerpt": "RealNetworks is releasing a browser extension that automatically identifies celebrities and other public figures in YouTube and Netflix videos, using the same facial recognition technology that",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-realnetworks-expands-facial-recognition-tech-to-id-celebrities-in-videos-and-its-actually-pretty-useful/index.json",
       "webUrl": "https://www.geekwire.com/2020/realnetworks-browser-extension-uses-facial-recognition-id-celebrities-videos-actually-pretty-useful/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -287,7 +357,10 @@
       "path": "_news/2020-06-03-america-is-awash-in-cameras-a-double-edged-sword-for-protesters-and-police.md",
       "title": "America is awash in cameras, a double-edged sword for protesters and police",
       "excerpt": "Law enforcement agencies have existing networks of surveillance cameras and body cameras worn by officers, as well as face- and object-recognition software. Large retail and food chains have ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-america-is-awash-in-cameras-a-double-edged-sword-for-protesters-and-police/index.json",
       "webUrl": "https://www.washingtonpost.com/technology/2020/06/03/cameras-surveillance-police-protesters/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -325,7 +398,10 @@
       "path": "_news/2020-06-03-ai-or-human-lyrics-could-you-tell-which-is-which.md",
       "title": "AI or human lyrics: Could you tell which is which?",
       "excerpt": "Could you correctly identify AI-generated song lyrics? It seems that many of us can not tell the difference between a human or robot songwriter.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-ai-or-human-lyrics-could-you-tell-which-is-which/index.json",
       "webUrl": "https://www.zdnet.com/article/ai-or-human-lyrics-could-you-tell-which-is-which/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -371,7 +447,10 @@
       "path": "_news/2020-06-03-regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks.md",
       "title": "Regulating Artificial Intelligence: Why We Need Expert Input To Limit Risks",
       "excerpt": "Businesses must figure out how to deploy AI in a way that does not harm consumers, violate consumers' privacy or otherwise run afoul of laws.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/03/regulating-artificial-intelligence-why-we-need-expert-input-to-limit-risks/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -419,7 +498,10 @@
       "path": "_news/2020-06-03-cloud-computing-google-signs-milestone-discount-deal-with-uk-government.md",
       "title": "Cloud computing: Google signs 'milestone' discount deal with UK government",
       "excerpt": "UK public sector bodies including the NHS will be offered discounted rates for Google Cloud services under a new government agreement.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-cloud-computing-google-signs-milestone-discount-deal-with-uk-government/index.json",
       "webUrl": "https://www.zdnet.com/article/cloud-computing-google-signs-milestone-discount-deal-with-uk-government/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -466,7 +548,10 @@
       "path": "_news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Forecast Report 2020 - 2027 - Top Key Players Analysis",
       "excerpt": "According to the latest report by GMI Research, Artificial Intelligence (AI) in Healthcare Market: Global Industry Trends, Share, Size, Growth, Opportunity, and Forecast 2020-2027. The global Artificial Intelligence (AI) in the healthcare market illustrates the impact of the COVID-19 pandemic and represents that the market is anticipated to bounce back in 2021 over 2020 while growing at a significant growth rate from 2022 onwards.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-artificial-intelligence-ai-in-healthcare-market-forecast-report-2020-2027-top-key-players-analysis/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-forecast-report-2020---2027---top-key-players-analysis-2020-06-03",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -513,7 +598,10 @@
       "path": "_news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services.md",
       "title": "TIBCO Software announces that Spotfire and Data Science supports Microsoft Azure Cognitive Services",
       "excerpt": "TIBCO announces that TIBCO Spotfire and TIBCO Data Science now support Microsoft Azure Cognitive Services. TIBCO's solutions extend these services to analyse multivariate anomalies and add root cause analysis, using input from the Key Phrase Extraction ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-tibco-software-announces-that-spotfire-and-data-science-supports-microsoft-azure-cognitive-services/index.json",
       "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/tibco-software-announces-spotfire-data-science-co-14053-ga-co-1561713242-ga.1591164792.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -551,7 +639,10 @@
       "path": "_news/2020-06-03-assessing-the-accuracy-of-automatic-speech-recognition-for-psychotherapy.md",
       "title": "Assessing the accuracy of automatic speech recognition for psychotherapy",
       "excerpt": "Although automatic speech recognition software is commercially available, its accuracy in mental health settings has not been well described. It is unclear which metrics and thresholds are ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-assessing-the-accuracy-of-automatic-speech-recognition-for-psychotherapy/index.json",
       "webUrl": "https://www.nature.com/articles/s41746-020-0285-8",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -589,7 +680,10 @@
       "path": "_news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders.md",
       "title": "BBC testing ‘Beeb’ AI voice assistant with Windows Insiders",
       "excerpt": "The Beeb AI assistant aims to help users in the UK by navigating BBC services and access BBC content. There are no plans to build a device to rival Amazon Echo or Google Home, alt",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-bbc-testing-beeb-ai-voice-assistant-with-windows-insiders/index.json",
       "webUrl": "https://www.itpro.co.uk/technology/voice-assistant/355875/bbc-testing-beeb-ai-voice-assistant-with-windows-insiders",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -636,7 +730,10 @@
       "path": "_news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges.md",
       "title": "Researchers eye embedding artificial intelligence (AI) into war games simulation to beef-up challenges",
       "excerpt": "U.S. military researchers are asking industry to develop artificial intelligence (AI ... Officials of the U.S. Defense Advanced Research Projects Agency (DARPA) in Arlington, Va.,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-researchers-eye-embedding-artificial-intelligence-ai-into-war-games-simulation-to-beef-up-challenges/index.json",
       "webUrl": "https://www.militaryaerospace.com/computers/article/14177043/artificial-intelligence-ai-war-games-simulation",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -665,7 +762,10 @@
       "path": "_news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention.md",
       "title": "LG and KT to use AI for pandemic prevention",
       "excerpt": "LG will collaborate with KT to use AI for future pandemic prevention, as well as for the development of new products and services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-lg-and-kt-to-use-ai-for-pandemic-prevention/index.json",
       "webUrl": "https://www.zdnet.com/article/lg-and-kt-to-deploy-ai-for-pandemic-prevention/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -711,7 +811,10 @@
       "path": "_news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills.md",
       "title": "Robot chef uses machine learning to perfect its omelette-making skills",
       "excerpt": "From robots that flip burgers in California to ones that serve up bratwursts in Berlin, we are starting to see how machines can play sous-chef in kitchens around the world. But scientists at the University of Cambridge have been exploring how these culinary robots might not only do some of",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-robot-chef-uses-machine-learning-to-perfect-its-omelette-making-skills/index.json",
       "webUrl": "https://newatlas.com/robotics/robot-chef-machine-perfect-omelette/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -758,7 +861,10 @@
       "path": "_news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push.md",
       "title": "Facebook, PayPal back Indonesian start-up Gojek’s Asia digital payments push",
       "excerpt": "The deal announced Wednesday marks Facebook’s first investment in an Indonesian company and is a major boost for Gojek, the country’s largest start-up which made its name in the ride-hailing business.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-facebook-paypal-back-indonesian-start-up-gojeks-asia-digital-payments-push/index.json",
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3087346/facebook-paypal-back-indonesian-start-gojeks-asia-digital-payments",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -805,7 +911,10 @@
       "path": "_news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents.md",
       "title": "BBC Beeb voice assistant is built to understand different UK accents",
       "excerpt": "The British Broadcasting Corporation or BBC may be best known for being, well, a broadcasting company but it actually has left very important legacies in the tech industry today. The BBC Micro in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents/index.json",
       "webUrl": "https://www.slashgear.com/bbc-beeb-voice-assistant-is-built-to-understand-different-uk-accents-02623480/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -852,7 +961,10 @@
       "path": "_news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support.md",
       "title": "iOS 14 Safari to get built-in translation, better Apple Pencil support",
       "excerpt": "The Internet has made the world a smaller place but, unless you’ve taken time to learn multiple languages, chances are you’ll come across pages that are incomprehensible to you.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-ios-14-safari-to-get-built-in-translation-better-apple-pencil-support/index.json",
       "webUrl": "https://www.slashgear.com/ios-14-safari-to-get-built-in-translation-better-apple-pencil-support-02623476/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -899,7 +1011,10 @@
       "path": "_news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages.md",
       "title": "Waymo to bring self-driving minivans back to Bay Area for delivering packages",
       "excerpt": "Waymo's self-driving minivans will return to the streets of the Bay Area on June 8. The vehicles will focus on delivering packages for non-profit organizations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-waymo-to-bring-self-driving-minivans-back-to-bay-area-for-delivering-packages/index.json",
       "webUrl": "https://www.digitaltrends.com/cars/waymo-self-driving-minivans-returning-to-bay-area/?itm_source=10&itm_content=2x2&itm_term=2376504",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -946,7 +1061,10 @@
       "path": "_news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
       "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
       "excerpt": "Alphabet and Google CEO Sundar Pichai called today for artificial intelligence to be regulated. \"There is no question in my mind that artificial intelligence needs to be regulated ... touch guidelines for regulating driverless cars and trucks —a move ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/index.json",
       "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -984,7 +1102,10 @@
       "path": "_news/2020-06-03-amazon-made-rekognition-software-now-able-to-detect-fear.md",
       "title": "Amazon-made Rekognition software now able to detect fear",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-amazon-made-rekognition-software-now-able-to-detect-fear/index.json",
       "webUrl": "https://mashable.com/video/amazon-rekognition-adds-fear/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1015,44 +1136,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
-      "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
-      "excerpt": "Ennaid Therapeutics uses artificial intelligence (AI)-based drug discovery platforms to develop antiviral drugs. Darnisha Harrison, Louisiana State University grad and founder and CEO of Georgia ...",
-      "webUrl": "https://afro.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.afro.com/wp-content/uploads/2020/06/darnesha-harrison-featured-web.jpg",
-          "width": 1400,
-          "height": 730,
-          "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Afro",
-        "domain": "afro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

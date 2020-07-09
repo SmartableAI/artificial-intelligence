@@ -2,10 +2,45 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-05-22-reversinglabs-honored-as-silver-stevie-award-winner-in-2020-american-business-awards.md",
+      "title": "ReversingLabs Honored As Silver Stevie® Award Winner In 2020 American Business Awards®",
+      "excerpt": "Hackers use innovative ways to attack the systems, and the machine learning models should be ... Business Awards include John Hancock Financial Services, Melissa Sones Consulting, and SoftPro.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-reversinglabs-honored-as-silver-stevie-award-winner-in-2020-american-business-awards/index.json",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/05/22/2037749/0/en/ReversingLabs-Honored-As-Silver-Stevie-Award-Winner-In-2020-American-Business-Awards.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-22-three-stocks-to-profit-from-the-robot-revolution.md",
       "title": "Three stocks to profit from the robot revolution",
       "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-three-stocks-to-profit-from-the-robot-revolution/index.json",
       "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -34,7 +69,10 @@
       "path": "_news/2020-05-22-using-tensorflow-to-recognize-your-own-objects.md",
       "title": "Using TensorFlow To Recognize Your Own Objects",
       "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-using-tensorflow-to-recognize-your-own-objects/index.json",
       "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -72,7 +110,10 @@
       "path": "_news/2020-05-21-details-emerge-about-use-of-facial-recognition-software-by-london-police.md",
       "title": "Details emerge about use of facial recognition software by London police",
       "excerpt": "Several London police officers ‘played around’ with controversial facial recognition software after being provided free access by the vendor. One used it in an investigation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-details-emerge-about-use-of-facial-recognition-software-by-london-police/index.json",
       "webUrl": "https://london.ctvnews.ca/details-emerge-about-use-of-facial-recognition-software-by-london-police-1.4949479?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D89531%2F5-things-to-know-for-friday-september-13-2019-1.4591474",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -110,7 +151,10 @@
       "path": "_news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry.md",
       "title": "Google says it won’t build new AI solutions for the fossil fuel industry",
       "excerpt": "Google today confirmed it will “no longer develop artificial intelligence (AI) software and tools for oil and gas drilling operations ... [Read: Employees say Google cut diversity programs to make conservatives happy] If this is the start of Google and Alphabet extricating themselves entirely from working with big oil, it deserves a ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/21/google-says-it-wont-build-new-ai-solutions-for-the-fossil-fuel-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -156,7 +200,10 @@
       "path": "_news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus.md",
       "title": "Gap is speeding up its rollout of warehouse robots to limit person-to-person contact amid the coronavirus",
       "excerpt": "Gap Inc. is speeding up its rollout of warehouse robots for assembling online orders so it can limit human contact during the coronavirus pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-gap-is-speeding-up-its-rollout-of-warehouse-robots-to-limit-person-to-person-contact-amid-the-coronavirus/index.json",
       "webUrl": "https://www.businessinsider.com/gap-rushes-in-more-robots-to-warehouses-to-solve-virus-disruption-2020-5",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -203,7 +250,10 @@
       "path": "_news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand.md",
       "title": "Police trial controversial Clearview AI facial recognition tech in New Zealand",
       "excerpt": "Clearview AI facial recognition technology once again made the news for crimefighting reasons, this time in New Zealand. But controversy persists.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/index.json",
       "webUrl": "https://techwireasia.com/2020/05/police-trial-controversial-clearview-ai-facial-recognition-tech-in-new-zealand/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -241,7 +291,10 @@
       "path": "_news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar.md",
       "title": "Nvidia reports $3.08 billion in Q1 2020 revenue, up 39% as AI and cloud soar",
       "excerpt": "Nvidia posted revenues of $3.08 billion for the first quarter ended April 26, up 39% from a year earlier as data center revenues soared.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-nvidia-reports-308-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/index.json",
       "webUrl": "https://venturebeat.com/2020/05/21/nvidia-reports-3-08-billion-in-q1-2020-revenue-up-39-as-ai-and-cloud-soar/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -289,7 +342,10 @@
       "path": "_news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down.md",
       "title": "Top safety official at Waymo self-driving unit stepping down",
       "excerpt": "Alphabet Inc’s Waymo self-driving unit said on Thursday that its chief safety officer, Debbie Hersman, was stepping down but would remain as a consultant to the company.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-top-safety-official-at-waymo-self-driving-unit-stepping-down/index.json",
       "webUrl": "https://www.reuters.com/article/us-waymo-safety-idUSKBN22X2Q9",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -336,7 +392,10 @@
       "path": "_news/2020-05-21-veterans-affairs-launches-first-chatbot-to-field-covid-19-questions.md",
       "title": "Veterans Affairs Launches First Chatbot to Field COVID-19 Questions",
       "excerpt": "VA contact centers have seen a significant increase in calls from veterans since the start of the COVID-19 pandemic. This surge in calls drove the rapid development of VA’s first chatbot,” officials wrote in a blog post.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-veterans-affairs-launches-first-chatbot-to-field-covid-19-questions/index.json",
       "webUrl": "https://www.nextgov.com/emerging-tech/2020/05/veterans-affairs-launches-first-chatbot-field-covid-19-questions/165579/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 137,
       "tags": null,
       "images": [
@@ -373,7 +432,10 @@
       "path": "_news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning.md",
       "title": "Gain customer insights using Amazon Aurora machine learning",
       "excerpt": "In recent years, AWS customers have been running machine learning (ML) on an increasing variety of datasets and data sources. Because a large percentage of organizational data is stored in relational databases such as Amazon Aurora, there’s a common need to make this relational data available for training",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-gain-customer-insights-using-amazon-aurora-machine-learning/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/gain-customer-insights-using-amazon-aurora-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -420,7 +482,10 @@
       "path": "_news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse.md",
       "title": "The Register calls for aid, and Microsoft's Rohan Kumar will answer... our questions about SQL Edge and Azure Synapse",
       "excerpt": "Build There was SQL Edge and Azure Synapse news at Microsoft's reimagined Build gathering this week, so The Register had a chat with corporate vice president Rohan Kumar about the company's database ambitions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-the-register-calls-for-aid-and-microsofts-rohan-kumar-will-answer-our-questions-about-sql-edge-and-azure-synapse/index.json",
       "webUrl": "https://www.theregister.co.uk/2020/05/21/sql_edge_azure_synapse/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -458,7 +523,10 @@
       "path": "_news/2020-05-21-gap-is-rushing-more-robots-into-its-warehouses-to-handle-coronavirus-disruption.md",
       "title": "Gap is rushing more robots into its warehouses to handle coronavirus disruption",
       "excerpt": "The news illustrates how the pandemic may speed up automation in the retail industry. Companies including Gap and Amazon have long used such systems for a range of tasks, like moving items across warehouse floors.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-gap-is-rushing-more-robots-into-its-warehouses-to-handle-coronavirus-disruption/index.json",
       "webUrl": "https://www.cnbc.com/2020/05/21/gap-rushing-more-robots-into-warehouses.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -505,7 +573,10 @@
       "path": "_news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers.md",
       "title": "AI chips in 2020: Nvidia and the challengers",
       "excerpt": "Now that the dust from Nvidia's unveiling of its new Ampere AI chip has settled, let's take a look at the AI chip market behind the scenes and away from the spotlight",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-ai-chips-in-2020-nvidia-and-the-challengers/index.json",
       "webUrl": "https://www.zdnet.com/article/ai-chips-in-2020-nvidia-and-the-challengers/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -552,7 +623,10 @@
       "path": "_news/2020-05-21-a-case-for-cooperation-between-machines-and-humans.md",
       "title": "A Case for Cooperation Between Machines and Humans",
       "excerpt": "A computer scientist argues that the quest for fully automated robots is misguided, perhaps even dangerous. His decades of warnings are gaining more attention.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-a-case-for-cooperation-between-machines-and-humans/index.json",
       "webUrl": "https://www.nytimes.com/2020/05/21/technology/ben-shneiderman-automation-humans.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -599,7 +673,10 @@
       "path": "_news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer.md",
       "title": "Microsoft, in collaboration with OpenAI, unveils AI supercomputer",
       "excerpt": "During its Build 2020 developer conference on Tuesday, Microsoft unveiled the new supercomputer built in collaboration with OpenAI, an artificial intelligence startup found by Elon Musk. Microsoft announced that the supercomputer hosted in Azure was developed exclusively to train OpenAI’s large-scale artificial intelligence models.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-microsoft-in-collaboration-with-openai-unveils-ai-supercomputer/index.json",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355744/microsoft-in-collaboration-with-openai-unveils-ai",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -647,7 +724,10 @@
       "path": "_news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more.md",
       "title": "The Trash app’s new features can create AI-edited music videos and more",
       "excerpt": "The team behind Trash, an app that uses artificial intelligence to edit your video footage, launched a number of new features this week that should make it more useful for anyone — but especially independent musicians.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-the-trash-apps-new-features-can-create-ai-edited-music-videos-and-more/index.json",
       "webUrl": "https://techcrunch.com/2020/05/21/trash-app-music-video/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -693,7 +773,10 @@
       "path": "_news/2020-05-21-facebook-is-turning-to-ai-to-teach-kids-about-stranger-danger.md",
       "title": "Facebook Is Turning to AI to Teach Kids About Stranger Danger",
       "excerpt": "Scams and creepers abound on Facebook Messenger. To combat them, Facebook is now turning to artificial intelligence. A new AI-powered safety feature for Messenger will now help people, particularly kids,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-facebook-is-turning-to-ai-to-teach-kids-about-stranger-danger/index.json",
       "webUrl": "https://gizmodo.com/facebook-is-turning-to-ai-to-teach-kids-about-stranger-1843585415",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -739,7 +822,10 @@
       "path": "_news/2020-05-21-clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public.md",
       "title": "Clerk of the Superior Court in Maricopa County: Delivering fast, accurate answers to the public",
       "excerpt": "The Clerk of the Superior Court in Maricopa County, based out of Phoenix, Arizona, receives thousands of service requests each day from its 4 million residents. Citizens often reach out with time-sensitive requests, like applying for marriage licenses, renewing passports and accessing court records.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/index.json",
       "webUrl": "https://www.ibm.com/blogs/watson/2020/05/clerk-of-the-superior-court-in-maricopa-county-delivering-fast-accurate-answers-to-the-public/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -785,7 +871,10 @@
       "path": "_news/2020-05-21-what-to-know-about-the-temporal-lobe.md",
       "title": "What to know about the temporal lobe",
       "excerpt": "It plays a role in visual and sound processing and is crucial for both object recognition and language recognition. Dysfunction in the temporal lobe may cause dysfunction in the mind. A few ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-what-to-know-about-the-temporal-lobe/index.json",
       "webUrl": "https://www.medicalnewstoday.com/articles/temporal-lobe",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -823,7 +912,10 @@
       "path": "_news/2020-05-21-chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d.md",
       "title": "China’s latest AI news anchor mimics human voices and gestures in 3D",
       "excerpt": "Chinese state news agency Xinhua has added a 3D AI news anchor called Xin Xiaowei to its growing lineup of virtual presenters",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/21/chinas-latest-ai-news-anchor-mimics-human-voices-and-gestures-in-3d/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -869,7 +961,10 @@
       "path": "_news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning.md",
       "title": "Impetus StreamAnalytix Launches a Cloud-based Version for Self-service ETL and Machine Learning",
       "excerpt": "Impetus Technologies Inc., a leading software products and services company, announced the launch of its new cloud-based version",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning/index.json",
       "webUrl": "https://www.prnewswire.com/news-releases/impetus-streamanalytix-launches-a-cloud-based-version-for-self-service-etl-and-machine-learning-301063525.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -907,7 +1002,10 @@
       "path": "_news/2020-05-21-sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military.md",
       "title": "Sphero Spin-Off Makes Robots for First Responders, Law Enforcement, and the Military",
       "excerpt": "Robot toy maker Sphero this week launched a spin-off company focused on creating intelligent AI for first responders, law enforcement, and the military. Company Six (CO6), an independent startup, will adapt technology from Sphero's Public Safety Division to craft robust and feature-rich yet affordable products.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military/index.json",
       "webUrl": "https://au.pcmag.com/robotics/66974/sphero-spin-off-makes-robots-for-first-responders-law-enforcement-and-the-military",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -954,7 +1052,10 @@
       "path": "_news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai.md",
       "title": "Super Hi-Fi Is Reshaping The Sound Of Streaming With AI",
       "excerpt": "The Los Angeles-based company is working with digital music services to improve listening experiences and build their sonic brands.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-super-hi-fi-is-reshaping-the-sound-of-streaming-with-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/joshmandell/2020/05/21/super-hi-fi-is-reshaping-the-sound-of-streaming/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": null,
@@ -991,7 +1092,10 @@
       "path": "_news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19.md",
       "title": "Machine Learning Models Estimate Seasonal Impact of COVID-19",
       "excerpt": "Researchers will use machine learning to determine the impact environmental factors have on the transmission of COVID-19.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-machine-learning-models-estimate-seasonal-impact-of-covid-19/index.json",
       "webUrl": "https://healthitanalytics.com/news/machine-learning-models-estimate-seasonal-impact-of-covid-19",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1013,43 +1117,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-21-the-technology-202-apple-and-googles-coronavirus-alert-tools-arrive-amid-doubts-about-their-efficacy.md",
-      "title": "The Technology 202: Apple and Google's coronavirus alert tools arrive amid doubts about their efficacy",
-      "excerpt": "It's a lot less controversial that the Project Maven contract working on autonomous ... technology anytime soon is in building custom artificial intelligence tools to help with oil and gas ...",
-      "webUrl": "http://artificialintelligencemania.com/2020/01/08/palantir-takes-over-project-maven/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://artificialintelligencemania.com/wp-content/uploads/2020/01/featuredimage71.jpg",
-          "width": 1280,
-          "height": 745,
-          "title": "The Technology 202: Apple and Google's coronavirus alert tools arrive amid doubts about their efficacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

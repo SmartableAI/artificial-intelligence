@@ -2,10 +2,63 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-16-amazon-polly-launches-a-child-us-english-ntts-voice.md",
+      "title": "Amazon Polly launches a child US English NTTS voice",
+      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of a new US English child voice—Kevin. Kevin’s voice was developed using the latest Neural Text-to-Speech (NTTS) technology, making it sound natural and",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-amazon-polly-launches-a-child-us-english-ntts-voice/index.json",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-a-child-us-english-ntts-voice/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Amazon Polly launches a child US English NTTS voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-16T11:03:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-deepminds-ai-system-finds-its-way-around-simulated-cities-it-hasnt-seen-before.md",
       "title": "DeepMind’s AI system finds its way around simulated cities it hasn’t seen before",
       "excerpt": "In a paper, researchers at DeepMind propose a system that can efficiently navigate virtual city environments it hasn't seen before.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-deepminds-ai-system-finds-its-way-around-simulated-cities-it-hasnt-seen-before/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -52,7 +105,10 @@
       "path": "_news/2020-06-16-sas-and-microsoft-partner-to-further-shape-the-future-of-analytics-and-ai.md",
       "title": "SAS and Microsoft partner to further shape the future of analytics and AI",
       "excerpt": "Microsoft Corp. and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-sas-and-microsoft-partner-to-further-shape-the-future-of-analytics-and-ai/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-and-microsoft-partner-to-further-shape-the-future-of-analytics-and-ai/article_7edd127b-8de0-55ce-b10b-dad2dcfe803b.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -81,7 +137,10 @@
       "path": "_news/2020-06-16-ibm-watson-natural-language-processing-technology-powers-weather-channel-covid-19-incident-map.md",
       "title": "IBM Watson Natural Language Processing technology powers Weather Channel COVID-19 Incident Map",
       "excerpt": "Misinformation, disinformation and a lack of fact-checked information have interfered with the global fight against COVID-19. In March 2020, when COVID-19 began to rapidly spread globally, it became clear that the world population could benefit from the data analysis and processing performed by Data",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-ibm-watson-natural-language-processing-technology-powers-weather-channel-covid-19-incident-map/index.json",
       "webUrl": "https://www.ibm.com/blogs/watson/2020/06/ibm-watson-natural-language-processing-technology-powers-weather-channel-covid-19-incident-map/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -127,7 +186,10 @@
       "path": "_news/2020-06-16-5-ways-to-close-more-deals-in-a-downturn-using-ai.md",
       "title": "5 Ways To Close More Deals In A Downturn Using AI",
       "excerpt": "Improving sales in a downturn is possible when AI is used to decipher the data this recent downturn is producing and find new margin opportunities fast.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-5-ways-to-close-more-deals-in-a-downturn-using-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/16/5-ways-to-close-more-deals-in-a-downturn-using-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -173,7 +235,10 @@
       "path": "_news/2020-06-16-foiling-fraud-with-machine-learning.md",
       "title": "Foiling fraud with machine learning",
       "excerpt": "Read Caroline Hermon explain how machine learning ... traditional customer service channels with digital services. All the while, an army of agile start-ups, FinTechs and other data-driven organisations have disrupted the financial services and retail ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-foiling-fraud-with-machine-learning/index.json",
       "webUrl": "https://ctovision.com/foiling-fraud-with-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -211,7 +276,10 @@
       "path": "_news/2020-06-16-clockwise-raises-18-million-to-optimize-work-calendars-with-ai.md",
       "title": "Clockwise raises $18 million to optimize work calendars with AI",
       "excerpt": "Clockwise, whose platform taps AI to optimize workplace calendars, has raised $18 million to grow its products and expand its reach.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-clockwise-raises-18-million-to-optimize-work-calendars-with-ai/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/clockwise-raises-18-million-to-optimize-employees-calendars-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -257,7 +325,10 @@
       "path": "_news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture.md",
       "title": "AI model creates 3D avatars from a person’s picture",
       "excerpt": "An AI system dubbed AvatarMe creates 3D avatars of people from nothing but face images, whether hand-drawn or photographed in black-and-white.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-ai-model-creates-3d-avatars-from-a-persons-picture/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/ai-model-creates-3d-avatars-from-a-persons-picture/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -303,7 +374,10 @@
       "path": "_news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing.md",
       "title": "Amazon's new Distance Assistant uses AI to encourage social distancing",
       "excerpt": "Amazon said Tuesday it's developed a new artificial intelligence system to help maintain social distancing in its warehouses, and it plans to share the underlying technology for free. Called Distance Assistant,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/index.json",
       "webUrl": "https://www.cnet.com/news/amazons-new-distance-assistant-uses-ai-to-encourage-social-distancing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 157,
       "tags": null,
       "images": [
@@ -349,7 +423,10 @@
       "path": "_news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning.md",
       "title": "A competition to identify bird calls using machine learning",
       "excerpt": "Do you hear the birds chirping outside your window? There are more than 10,000 bird species in the world, and they can be found in nearly every environment, from untouched rainforests to suburbs and cities. Birds play an essential role in nature. They are high up in the food chain and integrate changes",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning/index.json",
       "webUrl": "https://www.blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -396,7 +473,10 @@
       "path": "_news/2020-06-16-ai-the-complex-solution-to-simplify-health-care.md",
       "title": "AI: The complex solution to simplify health care",
       "excerpt": "Artificial intelligence (AI) can see through the murk, clear away the noise, and find meaning in existing data beyond the capacity of any human(s) or other technology. AI is a term for ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-ai-the-complex-solution-to-simplify-health-care/index.json",
       "webUrl": "https://www.brookings.edu/blog/future-development/2020/06/16/ai-the-complex-solution-to-simplify-health-care/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -433,7 +513,10 @@
       "path": "_news/2020-06-16-natural-language-processing-nlp-in-healthcare-market-still-going-strong.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Still Going Strong",
       "excerpt": "Latest added Global Natural Language Processing (NLP) in Healthcare Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-natural-language-processing-nlp-in-healthcare-market-still-going-strong/index.json",
       "webUrl": "https://www.openpr.com/news/2075533/natural-language-processing-nlp-in-healthcare-market-still",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -462,7 +545,10 @@
       "path": "_news/2020-06-16-ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed.md",
       "title": "AI is tracking down the UK’s biggest foe: Japanese knotweed",
       "excerpt": "Scientists are using AI to find invasive species of plants, including the scourge of British homes and gardens: Japanese knotweed.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/16/ai-is-tracking-down-the-uks-biggest-foe-japanese-knotweed/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -508,7 +594,10 @@
       "path": "_news/2020-06-16-zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery.md",
       "title": "Zycada raises $19 million for AI that speeds up web content delivery",
       "excerpt": "Zycada, a startup developing AI technologies that speed up web content delivery, has raised $19 million in venture capital.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/zycada-raises-19-million-for-ai-that-speeds-up-web-content-delivery/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 117,
       "tags": null,
       "images": [
@@ -554,7 +643,10 @@
       "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
       "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
       "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/index.json",
       "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -602,7 +694,10 @@
       "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
       "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
       "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/index.json",
       "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -650,7 +745,10 @@
       "path": "_news/2020-06-16-the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate-daily-life.md",
       "title": "The coronavirus-fueled tech trends that will continue to dominate daily life",
       "excerpt": "Machine learning and artificial intelligence underlie ... The pandemic also accelerated the adoption of disruptive trends in financial services, epitomized by Stripe at the top of the 2020 ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate-daily-life/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/16/the-coronavirus-fueled-tech-trends-that-will-continue-to-dominate.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -697,7 +795,10 @@
       "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
       "title": "NeoML: Open source library for building, training, and deploying machine learning models",
       "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models/index.json",
       "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -735,7 +836,10 @@
       "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
       "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
       "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -774,7 +878,10 @@
       "path": "_news/2020-06-16-working-with-the-azure-kinect-developer-kit.md",
       "title": "Working with the Azure Kinect Developer Kit",
       "excerpt": "Azure Kinect is a direct descendent of the second-generation Kinect modules that shipped with the Xbox One, but instead of providing real-world inputs for gaming, it’s targeted at enterprise users and applications.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-working-with-the-azure-kinect-developer-kit/index.json",
       "webUrl": "https://www.infoworld.com/article/3562738/working-with-the-azure-kinect-developer-kit.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -821,7 +928,10 @@
       "path": "_news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar.md",
       "title": "Apprentice raises $7.5 million to expedite lab work with AI and AR",
       "excerpt": "Apprentice, a startup developing AI and augmented reality technologies tailored to life sciences customers, raised $7.5 million in venture capital.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-apprentice-raises-75-million-to-expedite-lab-work-with-ai-and-ar/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/apprentice-raises-7-5-million-to-expedite-lab-work-with-ai-and-augmented-reality/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 169,
       "tags": null,
       "images": [
@@ -868,7 +978,10 @@
       "path": "_news/2020-06-16-ai-manufacturing-startup-drishti-raises-25-million-to-go-global-with-its-factory-floor-analytics.md",
       "title": "AI Manufacturing Startup Drishti Raises $25 Million To Go Global With Its Factory Floor Analytics",
       "excerpt": "The four-year old startup has already brought on big-name customers including Ford, Nissan and Denso, while Toyota is piloting its technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-ai-manufacturing-startup-drishti-raises-25-million-to-go-global-with-its-factory-floor-analytics/index.json",
       "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/06/15/ai-manufacturing-startup-drishti-raises-25-million-series-b/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -914,7 +1027,10 @@
       "path": "_news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business.md",
       "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
       "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business/index.json",
       "webUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": null,
@@ -952,7 +1068,10 @@
       "path": "_news/2020-06-16-this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress.md",
       "title": "This project is using fitness trackers and AI to monitor workers' lockdown stress",
       "excerpt": "Times are toug and employee wellbeing is more important than ever. PwC is harnessing AI and fitness-tracking wearables to gain a deeper understanding of how work and external stressors are impacting employees' state of mind.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/index.json",
       "webUrl": "https://www.techrepublic.com/article/this-project-is-using-fitness-trackers-and-ai-to-monitor-workers-lockdown-stress/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -998,7 +1117,10 @@
       "path": "_news/2020-06-16-microsoft-and-sas-join-forces-for-cloud-based-analytics-and-ai.md",
       "title": "Microsoft and SAS join forces for cloud-based analytics and AI",
       "excerpt": "The partnership builds on previous SAS integrations across Microsoft's Azure, Dynamics 365, Microsoft 365 and Power Platform and supports the companies shared vision to further \"d",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-microsoft-and-sas-join-forces-for-cloud-based-analytics-and-ai/index.json",
       "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/356080/microsoft-partners-with-analytics-platform-sas",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 174,
       "tags": null,
       "images": [
@@ -1038,53 +1160,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027.md",
-      "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-      "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
-      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

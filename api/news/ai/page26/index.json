@@ -2,10 +2,64 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
+      "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
+      "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/index.json",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-06-13T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence.md",
       "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
       "excerpt": "The 6 essential building blocks of artificial intelligence for IT operations (AIOps), and why it matters. As cyber threats and the data protection environment evolve, companies are increasingly looking to bring their cybersecurity functions in-house.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/index.json",
       "webUrl": "https://www.zdnet.com/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -52,7 +106,10 @@
       "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
       "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
       "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/index.json",
       "webUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -98,7 +155,10 @@
       "path": "_news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing.md",
       "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
       "excerpt": "A group of researchers at IIT-Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring ... Welfare,\" a member of the research group said.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing/index.json",
       "webUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -136,7 +196,10 @@
       "path": "_news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial.md",
       "title": "Global and Chinese Automotive Vision Markets, 2020 Assessment - Visual Perception Algorithms Become Crucial",
       "excerpt": "Stock quotes by finanzen.net DUBLIN, June 12, 2020 /PRNewswire/ -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering. Breakthroughs in Binocular Camera Chinese startups have made dramatic breakthroughs in binocular cameras,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -174,7 +237,10 @@
       "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
       "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
       "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -220,7 +286,10 @@
       "path": "_news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police.md",
       "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
       "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police/index.json",
       "webUrl": "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -267,7 +336,10 @@
       "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
       "title": "Researchers train drones to perform flips, rolls, and loops with AI",
       "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -313,7 +385,10 @@
       "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
       "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
       "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition/index.json",
       "webUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 199,
       "tags": null,
       "images": [
@@ -360,7 +435,10 @@
       "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
       "title": "Cryptominers Found in Azure Kubernetes Containers",
       "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers/index.json",
       "webUrl": "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -399,7 +477,10 @@
       "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
       "title": "How AI can help find a coronavirus vaccine",
       "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine/index.json",
       "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -445,7 +526,10 @@
       "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
       "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
       "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/index.json",
       "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -491,7 +575,10 @@
       "path": "_news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto.md",
       "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
       "excerpt": "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto/index.json",
       "webUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -529,7 +616,10 @@
       "path": "_news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker.md",
       "title": "A/B Testing ML models in production using Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thomson Reuters, use Amazon SageMaker to remove",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/a-b-testing-ml-models-in-production-using-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -576,7 +666,10 @@
       "path": "_news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning.md",
       "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
       "excerpt": "We now live in a world that’s becoming more data-driven every day. Organizations across a wide range of industries are using artificial intelligence (AI)",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning/index.json",
       "webUrl": "https://www.datanami.com/2020/06/12/revolutionizing-data-collaboration-with-federated-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -614,7 +707,10 @@
       "path": "_news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer.md",
       "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
       "excerpt": "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -661,7 +757,10 @@
       "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
       "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
       "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -708,7 +807,10 @@
       "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
       "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
       "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai/index.json",
       "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -754,7 +856,10 @@
       "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
       "title": "Top Companies To Short As Stock Market Optimism Dips",
       "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips/index.json",
       "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -801,7 +906,10 @@
       "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
       "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
       "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data/index.json",
       "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -848,7 +956,10 @@
       "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
       "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
       "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351699",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -894,7 +1005,10 @@
       "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
       "title": "Researchers propose framework to measure AI’s social and environmental impact",
       "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -941,7 +1055,10 @@
       "path": "_news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines.md",
       "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
       "excerpt": "In this piece, I discuss how Covid-19 research has quickly created unprecedented amounts of publicly available research data and why privacy is top of mind. This piece also looks at the impact AI has during this time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/index.json",
       "webUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -987,7 +1104,10 @@
       "path": "_news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars.md",
       "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
       "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/index.json",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 157,
       "tags": null,
       "images": [
@@ -1035,7 +1155,10 @@
       "path": "_news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence.md",
       "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
       "excerpt": "Veteran tech execs are heading up a stealthy new startup formed inside the Allen Institute for Artificial Intelligence (AI2) in Seattle. Panda AI isn’t yet sharing many details about its technology",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence/index.json",
       "webUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1081,7 +1204,10 @@
       "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
       "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
       "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results/index.json",
       "webUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 113,
       "tags": null,
       "images": [
@@ -1128,7 +1254,10 @@
       "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
       "title": "AI War Games And The Challenge Of China",
       "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ai-war-games-and-the-challenge-of-china/index.json",
       "webUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1175,7 +1304,10 @@
       "path": "_news/2020-06-12-udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud.md",
       "title": "Udacity, Microsoft to skill people in machine learning for Azure Cloud",
       "excerpt": "Phase one of the programme will provide 10,000 applicants access to the two-month-long foundation course titled Introduction to Machine Learning on Azure' with a low-code experience. The second phase will offer a scholarship for the new programme in Microsoft Azure to top 300 performers of the foundation course,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/index.json",
       "webUrl": "https://news.webindia123.com/news/articles/Science/20200612/3574912.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1204,7 +1336,10 @@
       "path": "_news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws.md",
       "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
       "excerpt": "A special chapter in the study presents Impact Analysis of COVID-19 on Global Deep Learning Neural Networks Market along with tables and graphs related to various country and segments showcasing impact on growth trends.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1251,7 +1386,10 @@
       "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
       "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
       "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform/index.json",
       "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1291,44 +1429,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns.md",
-      "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
-      "excerpt": "On June 10, Amazon announced a one-year moratorium on police use of Amazon’s facial recognition technology, Amazon Rekognition. In a blog post, Amazon said it will still allow organizations such as Thorn, the International Center for Missing and ...",
-      "webUrl": "https://www.meritalk.com/articles/tech-giants-back-away-from-facial-recognition-amid-bias-concerns/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_618887135-min.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-12T05:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MeriTalk",
-        "domain": "meritalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

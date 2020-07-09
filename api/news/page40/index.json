@@ -2,10 +2,63 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-06-08-a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension.md",
+      "title": "A Comprehensive Study Exploring Artificial Neural Networks Market | Key PlayersOracle, Ward Systems, Alyuda Research, NeuroDimension",
+      "excerpt": "Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer Center. The MarketWatch ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/a-comprehensive-study-exploring-artificial-neural-networks-market-key-playersoracle-ward-systems-alyuda-research-neurodimension-2020-06-08",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "A Comprehensive Study Exploring Artificial Neural Networks Market | Key PlayersOracle, Ward Systems, Alyuda Research, NeuroDimension",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-roborock-s6-maxv-review-it-can-find-and-avoid-your-socks.md",
       "title": "Roborock S6 MaxV Review: It can find and avoid your socks",
       "excerpt": "It’s worth a look if you don’t need (or want) high-end room-mapping and object-recognition features. There’s a lot of tech crammed into this one, so it would be no surprise for people to be ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-roborock-s6-maxv-review-it-can-find-and-avoid-your-socks/index.json",
       "webUrl": "https://www.digitaltrends.com/smart-home-reviews/roborock-s6-maxv-review/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -52,7 +105,10 @@
       "path": "_news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services.md",
       "title": "The Impact Of Artificial Intelligence On Professional Services",
       "excerpt": "Making goods and services better and cheaper is a good thing: it makes us all richer. There is scope to do this in all walks of life, and not least in professional services, such as accountancy and the law.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-the-impact-of-artificial-intelligence-on-professional-services/index.json",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/08/the-impact-of-artificial-intelligence-on-professional-services",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -90,7 +146,10 @@
       "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
       "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
       "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact/index.json",
       "webUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -128,7 +187,10 @@
       "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
       "title": "HSBC introduces index fund built by AI",
       "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-hsbc-introduces-index-fund-built-by-ai/index.json",
       "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -175,7 +237,10 @@
       "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
       "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
       "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots/index.json",
       "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -222,7 +287,10 @@
       "path": "_news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes.md",
       "title": "Artificial intelligence can serve as backup to radiologists' eyes",
       "excerpt": "The study shows that artificial intelligence (AI ... and there was very little you could do in terms of therapy to help patients,\" he said. Schoepf was a principal investigator in a study looking ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes/index.json",
       "webUrl": "https://www.newkerala.com/news/2020/74321.htm",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -251,7 +319,10 @@
       "path": "_news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning.md",
       "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
       "excerpt": "The latest machine-learning, deep-learning, and workflow automation technology can accelerate interpretation, improve accuracy, and reduce repetition for radiologists and other specialties. The truth is that most departmental picture archiving and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning/index.json",
       "webUrl": "https://www.mddionline.com/radiological/consider-promises-and-challenges-medical-image-analyses-using-machine-learning",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -289,7 +360,10 @@
       "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
       "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
       "excerpt": "Source link:",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph/index.json",
       "webUrl": "https://www.reuters.com/article/media-easyjet-hires-british-ai-business-idUSL4N2DK0CH",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -335,7 +409,10 @@
       "path": "_news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see.md",
       "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
       "excerpt": "Now, Caltech researchers have combined tools from machine learning and neuroscience to discover that the brain uses a mathematical system to organize visual objects according to their principal components.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see/index.json",
       "webUrl": "https://www.pasadenanow.com/main/wp-admin/admin-ajax.php?action=times_process_times_vote&nonce=30f162dd2e&post_id=480727&disabled=true&is_comment=false",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -373,7 +450,10 @@
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/07/analysts-are-betting-on-stocks-like-lyft-lululemon-moderna.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -420,7 +500,10 @@
       "path": "_news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19.md",
       "title": "Robots Help Employees At Jaipur Firm Stay Safe During COVID-19",
       "excerpt": "With a COVID-19-battered world hard-pressed to maintain social distancing, a private firm here has deployed seven humanoid robots and other artificial intelligence techniques to reduce human to human interaction almost next to nil in its functioning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-robots-help-employees-at-jaipur-firm-stay-safe-during-covid-19/index.json",
       "webUrl": "https://www.ndtv.com/jaipur-news/coronavirus-india-rajasthan-jaipur-firm-deploys-robots-to-prevent-physical-contact-among-employees-2242229",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -458,7 +541,10 @@
       "path": "_news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news.md",
       "title": "Microsoft Is Replacing Employees With AI…And Other Small Business Tech News",
       "excerpt": "Here are five things in technology that happened this past week and how they affect your business. Did you miss them?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/index.json",
       "webUrl": "https://www.forbes.com/sites/quickerbettertech/2020/06/07/microsoft-is-replacing-employees-with-aiand-other-small-business-tech-news/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -504,7 +590,10 @@
       "path": "_news/2020-06-07-jaipur-firm-deploys-7-humanoid-robots-to-cut-down-physical-interaction-among-employees.md",
       "title": "Jaipur firm deploys 7 humanoid robots to cut down physical interaction among employees",
       "excerpt": "The humanoid robots use artificial intelligence (AI ... adding when they start running out of power, they head straight towards the charging point.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-jaipur-firm-deploys-7-humanoid-robots-to-cut-down-physical-interaction-among-employees/index.json",
       "webUrl": "https://www.indiatvnews.com/news/india/jaipur-firm-deploys-humanoid-robots-to-cut-down-physical-interaction-among-employees-624246",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -542,7 +631,10 @@
       "path": "_news/2020-06-07-artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita.md",
       "title": "Artificial Disc Market Study: An Emerging Hint of Opportunity | Alphatec Spine, Stryker, Globus Medical, Orthovita",
       "excerpt": "Jun 07, 2020 (HTF Market Intelligence via COMTEX) -- AMA Research have added latest edition of survey study on Global Artificial Disc ... care and/or physical therapy. Important Features that ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-disc-market-study-an-emerging-hint-of-opportunity-alphatec-spine-stryker-globus-medical-orthovita-2020-06-07?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -589,7 +681,10 @@
       "path": "_news/2020-06-07-technology-can-help-organizations-reduce-racism-but-will-it.md",
       "title": "Technology Can Help Organizations Reduce Racism, But Will It?",
       "excerpt": "Unlike humans, computers don’t care about your race, gender, or religion: they don’t have a fragile self-esteem they need to boost by bringing other people down, and they don’t need to bond with other computers by stigmatizing certain groups of humans (or computers).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-technology-can-help-organizations-reduce-racism-but-will-it/index.json",
       "webUrl": "https://www.forbes.com/sites/tomaspremuzic/2020/06/06/technology-can-help-organizations-reduce-racism-but-will-it/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -636,7 +731,10 @@
       "path": "_news/2020-06-07-three-dimensions-two-microscopes-one-code-automatic-differentiation-for-x-ray-nanotomography-beyond-the-depth-of-focus-limit.md",
       "title": "Three dimensions, two microscopes, one code: Automatic differentiation for x-ray nanotomography beyond the depth of focus limit",
       "excerpt": "Our implementation uses the optimization toolbox and the automatic differentiation capability of the open-source deep learning package TensorFlow, demonstrating a straightforward way to solve optimization problems in computational imaging with flexibility ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-three-dimensions-two-microscopes-one-code-automatic-differentiation-for-x-ray-nanotomography-beyond-the-depth-of-focus-limit/index.json",
       "webUrl": "https://advances.sciencemag.org/content/6/13/eaay3700.full",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -674,7 +772,10 @@
       "path": "_news/2020-06-06-apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap.md",
       "title": "Apple, Spotify, Or Amazon Should Buy This AI-Generated Music Startup ASAP",
       "excerpt": "I’ve found an AI-generated music app that creates great music for at least one purpose. I’m listening to it right now. And I like it. A lot. AiMi.fm is a new music app that mixes generative AI and flesh-and-blood human artists’ beats to create really,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/index.json",
       "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/06/apple-spotify-or-amazon-should-buy-this-ai-generated-music-startup-asap/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -720,7 +821,10 @@
       "path": "_news/2020-06-06-in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts.md",
       "title": "In unusual revolt, scientists funded by Mark Zuckerberg criticize Facebook’s inaction on President Trump’s posts",
       "excerpt": "Dozens of scientists who have received funding from Mark Zuckerberg’s philanthropic vehicle have signed an open letter sharply criticizing Facebook.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts/index.json",
       "webUrl": "https://www.statnews.com/2020/06/06/in-unusual-revolt-scientists-funded-by-mark-zuckerberg-criticize-facebooks-inaction-on-president-trumps-posts/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -749,7 +853,10 @@
       "path": "_news/2020-06-06-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19.md",
       "title": "Black-Owned Laboratory Uses Artificial Intelligence-Based Drug Discovery Platform to Develop Treatment for COVID-19",
       "excerpt": "We anticipate the clinical trials could start within 90 days. The clinical trial itself could take a month. We feel quite optimistic that in the 120-day window, when our clinical material would be ready,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/index.json",
       "webUrl": "https://blackpressusa.com/black-owned-laboratory-uses-artificial-intelligence-based-drug-discovery-platform-to-develop-treatment-for-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -778,7 +885,10 @@
       "path": "_news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis.md",
       "title": "These amazing audio deepfakes showcase progress of A.I. speech synthesis",
       "excerpt": "Z rap one of Billy Joel's greatest hits, or hear Queen Elizabeth II do a rendition of the Sex Pistols? You've come to the right place.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-these-amazing-audio-deepfakes-showcase-progress-of-ai-speech-synthesis/index.json",
       "webUrl": "https://www.digitaltrends.com/news/best-audio-deepfakes-web/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -824,7 +934,10 @@
       "path": "_news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars.md",
       "title": "On The Beguiling Question Of Whether AI Can Form Intent, Including The Case Of Self-Driving Cars",
       "excerpt": "This brings us to a most intriguing twist and the intended focus of this discussion, namely, where does AI fit into this murky matter of intent and intention. AI systems are increasingly becoming a vital part of our lives. There are AI systems that do life ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/index.json",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/06/on-the-beguiling-question-of-whether-ai-can-form-intent-including-the-case-of-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 146,
       "tags": null,
       "images": [
@@ -871,7 +984,10 @@
       "path": "_news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots.md",
       "title": "Amid the coronavirus pandemic, many companies could replace their workers with robots",
       "excerpt": "And so much work now needs to be done with social distancing, without contact, so we're seeing the use of artificial intelligence and robotics to take on what might have been done by humans. As one CEO said to me, 'The machine doesn't fall ill.' CNBC: Which industries are moving quickest with automation? RJ: Where you're seeing a surge in ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-amid-the-coronavirus-pandemic-many-companies-could-replace-their-workers-with-robots/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/06/how-companies-plan-to-hire-robots-after-coronavirus-layoffs.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 112,
       "tags": null,
       "images": [
@@ -918,7 +1034,10 @@
       "path": "_news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash.md",
       "title": "Zuckerberg says Facebook will revisit policies in wake of Trump backlash",
       "excerpt": "Facebook’s chief executive said the company will re-examine its policies against violent threats and voter suppression, as well as create new products that ‘advance racial justice’.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-zuckerberg-says-facebook-will-revisit-policies-in-wake-of-trump-backlash/index.json",
       "webUrl": "https://www.scmp.com/tech/apps-social/article/3087868/zuckerberg-says-facebook-will-revisit-policies-wake-trump-backlash",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -965,7 +1084,10 @@
       "path": "_news/2020-06-06-top-robotics-investments-and-funding-in-may-2020.md",
       "title": "Top Robotics Investments and Funding in May 2020",
       "excerpt": "Despite the crisis induced by COVID-19, robotics industry is growing at an unprecedented rate. From Supply chain and logistics to agriculture and healthcare industry, robots are transforming every aspect.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-top-robotics-investments-and-funding-in-may-2020/index.json",
       "webUrl": "https://www.analyticsinsight.net/top-robotics-investments-funding-may-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -996,35 +1118,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-06-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
-      "title": "Self-driving sector contends its cars can prevent many more crashes than insurance study says",
-      "excerpt": "REUTERS: Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars ...",
-      "webUrl": "https://www.channelnewsasia.com/news/business/self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says-12810622",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

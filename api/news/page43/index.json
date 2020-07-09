@@ -2,10 +2,63 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state.md",
+      "title": "California blocks bill that could’ve led to a facial recognition police-state",
+      "excerpt": "Californian lawmakers have blocked a bill that would have expanded facial recognition surveillance across the state -- including by police",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/index.json",
+      "webUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/Untitled-design-63-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "California blocks bill that could’ve led to a facial recognition police-state",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/amp/",
+      "publishedDateTime": "2020-06-04T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
       "title": "Robot to Safely Swab for Coronavirus Developed by Scientists in Denmark",
       "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark/index.json",
       "webUrl": "https://www.nytimes.com/reuters/2020/06/04/technology/04reuters-health-coronavirus-swab-robot.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -52,7 +105,10 @@
       "path": "_news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system.md",
       "title": "Nanox raises $20 million to scale its AI medical imaging system",
       "excerpt": "Nanox raised $20 million from SK Telecom in a deal that'll see the former's AI medical imaging hardware deployed in Vietnam and South Korea.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/index.json",
       "webUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -98,7 +154,10 @@
       "path": "_news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence.md",
       "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
       "excerpt": "Inky, which taps AI and machine learning to spot and deflect phishing attacks, has raised $20 million in venture capital financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/index.json",
       "webUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -144,7 +203,10 @@
       "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
       "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
       "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/index.json",
       "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -173,7 +235,10 @@
       "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
       "title": "AI should serve us, not destroy our humanity",
       "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity/index.json",
       "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -211,7 +276,10 @@
       "path": "_news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai.md",
       "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
       "excerpt": "Taiwan is dangling incentives to attract more than NT$40 billion (US$1.3 billion) of annual investments in research and technology, creating a seven-year blueprint to safeguard the island’s lead in semiconductors and other cutting-edge fields.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai/index.json",
       "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -258,7 +326,10 @@
       "path": "_news/2020-06-04-a-complete-guide-of-natural-language-processing-nlp.md",
       "title": "A Complete Guide of Natural Language Processing (NLP)",
       "excerpt": "With rise of Big Data and Data Science, Natural Language Processing is also advancing to extract true meaning of data. NLP is a key part of Artificial Intelligence and it depends upon machine learning capabilities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-a-complete-guide-of-natural-language-processing-nlp/index.json",
       "webUrl": "https://www.analyticsinsight.net/complete-guide-natural-language-processing-nlp/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -296,7 +367,10 @@
       "path": "_news/2020-06-04-machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact.md",
       "title": "Machine Learning as a Service Market Analysis as per the Latest Coronavirus Impact",
       "excerpt": "The Machine Learning as a Service Market is segmented on the lines of its component, organization size, end-user, application, and regional. Based on component segmentation it covers software and services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-as-per-the-latest-coronavirus-impact-2020-06-04",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -343,7 +417,10 @@
       "path": "_news/2020-06-04-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say.md",
       "title": "Police facial recognition tech could misidentify people at protests, experts say",
       "excerpt": "How? If the police force in your area is using any kind of facial recognition software to identify protesters, it’s possible you could be misidentified as one. Most facial recognition was ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-police-facial-recognition-tech-could-misidentify-people-at-protests-experts-say/index.json",
       "webUrl": "https://www.digitaltrends.com/news/police-protests-facial-recognition-misidentification/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -390,7 +467,10 @@
       "path": "_news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption.md",
       "title": "H2O.ai And Snowflake Integration Accelerates Enterprise AI Adoption",
       "excerpt": "By delivering AutoML with automatic feature engineering, model validation, model tuning, model selection and deployment, machine learning interpretability, time-series and automatic pipeline ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-h2oai-and-snowflake-integration-accelerates-enterprise-ai-adoption/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/h2o-ai-and-snowflake-integration-accelerates-enterprise-ai-adoption/article_e4138ae8-434f-574e-8eb2-6260dbf28bfb.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -419,7 +499,10 @@
       "path": "_news/2020-06-04-in-q-tel-enlists-deepgram-for-speech-recognition.md",
       "title": "In-Q-Tel Enlists Deepgram for Speech Recognition",
       "excerpt": "Deepgram, the speech recognition vendor, has signed on with the investment arm of the U.S. intelligence community. The Bay Area startup said Thursday (June 4) is has inked a strategic investment agreement with In-Q-Tel. The agreement allows government ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-in-q-tel-enlists-deepgram-for-speech-recognition/index.json",
       "webUrl": "https://www.datanami.com/2020/06/04/in-q-tel-enlists-deepgram-for-speech-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -457,7 +540,10 @@
       "path": "_news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots.md",
       "title": "Facebook creates shopping data sets to make more humanlike chatbots",
       "excerpt": "In a preprint paper, Facebook describes data sets and a basic framework for AI assistants that recommend fashion and furniture items.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-facebook-creates-shopping-data-sets-to-make-more-humanlike-chatbots/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/facebook-shopping-data-sets-humanlike-chatbots/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -504,7 +590,10 @@
       "path": "_news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill.md",
       "title": "California’s statehouse is considering a controversial facial recognition bill",
       "excerpt": "As protestors square off against police across the country, California is readying a bill that could expand the state’s use of facial recognition, including for law enforcement purposes. Introduced as Assembly Bill 2261,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-californias-statehouse-is-considering-a-controversial-facial-recognition-bill/index.json",
       "webUrl": "https://www.theverge.com/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -551,7 +640,10 @@
       "path": "_news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory.md",
       "title": "Video: Building intrinsically motivated teams via self-determination theory",
       "excerpt": "In this GDC 2020 virtual talk DeepMind's Alexandre Moufarek discusses how you can help build intrinsically motivated teams by applying self-determination theory.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory/index.json",
       "webUrl": "https://gamasutra.com/view/news/364174/Video_Building_intrinsically_motivated_teams_via_selfdetermination_theory.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -589,7 +681,10 @@
       "path": "_news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize.md",
       "title": "Pioneering personalized user experiences at StockX with Amazon Personalize",
       "excerpt": "This is a guest post by Sam Bean and Nic Roberts II at StockX. In their own words, “StockX is a Detroit startup company revolutionizing ecommerce with a unique Bid/Ask marketplace—our platform models the New York Stock Exchange and treats goods like sneakers and streetwear as high-value, tradable commodities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/pioneering-personalized-user-experiences-at-stockx-with-amazon-personalize/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -636,7 +731,10 @@
       "path": "_news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions.md",
       "title": "CVS Launches Pilot Program for Self-Driving Vehicles to Deliver Prescriptions",
       "excerpt": "And last month, the pharmacy giant started a test program that uses flying drones to deliver medicine to customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-cvs-launches-pilot-program-for-self-driving-vehicles-to-deliver-prescriptions/index.json",
       "webUrl": "https://www.fool.com/investing/2020/06/03/cvs-launches-pilot-program-where-self-driving-vehi.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -683,7 +781,10 @@
       "path": "_news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality.md",
       "title": "How Google is using emerging AI techniques to improve language translation quality",
       "excerpt": "Google Translate is quantifiably improving across 108 languages thanks in part to new AI and machine learning techniques.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-how-google-is-using-emerging-ai-techniques-to-improve-language-translation-quality/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/how-googleis-using-emerging-ai-techniques-to-improve-language-translation-quality/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -730,7 +831,10 @@
       "path": "_news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor.md",
       "title": "LightOn researchers explain how they trained an AI model on an optical co-processor",
       "excerpt": "In a new paper, researchers at LightOn managed to train an AI model on an optical chip and achieve over 95% accuracy on a popular data set.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/lighton-researchers-explain-how-they-trained-an-ai-model-on-an-optical-co-processor/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -777,7 +881,10 @@
       "path": "_news/2020-06-03-arrow-mclaren-sps-off-season-overhaul-runs-deep.md",
       "title": "Arrow McLaren SP's off-season overhaul runs deep",
       "excerpt": "The most detailed changes to the team formerly known as Arrow SPM won’t be found on the race track. In the blended houses of the outfit founded by Sam Schmidt, co-owned by Ric Peterson, and",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-arrow-mclaren-sps-off-season-overhaul-runs-deep/index.json",
       "webUrl": "https://racer.com/2020/06/03/arrow-mclaren-sps-off-season-overhaul-runs-deep/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -815,7 +922,10 @@
       "path": "_news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort.md",
       "title": "Caltech AI lab optimizes exoskeleton gait for human comfort",
       "excerpt": "Caltech researchers supplemented a lower body exoskeleton with AI that optimizes gait recognition for human preference and comfort.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/caltech-ai-lab-optimizes-exoskeleton-gait-for-human-comfort/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -861,7 +971,10 @@
       "path": "_news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai.md",
       "title": "BBC voice assistant on Windows 10 uses Microsoft's Azure AI",
       "excerpt": "The BBC's new voice assistant strives to understand people with different accents. It utilizes Azure AI and is available in preview now on Windows 10.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-bbc-voice-assistant-on-windows-10-uses-microsofts-azure-ai/index.json",
       "webUrl": "https://www.windowscentral.com/bbc-voice-assistant-windows-10-uses-microsofts-azure-ai",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -899,7 +1012,10 @@
       "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
       "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
       "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -946,7 +1062,10 @@
       "path": "_news/2020-06-03-ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests.md",
       "title": "AI conference NeurIPS extends paper submission deadline amid BLM protests",
       "excerpt": "The deadline for AI mega-conference NeurIPS has been extended by 48 hours, to give people affected by protests in the US more time to finish their papers",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/03/ai-conference-neurips-extends-paper-submission-deadline-amid-blm-protests/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -992,7 +1111,10 @@
       "path": "_news/2020-06-03-global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines.md",
       "title": "Global Enterprise & Industrial Automation Outlook, 2020-2025: Focus on Artificial Intelligence, Industrial IoT and Smart Machines",
       "excerpt": "The \"Artificial Intelligence, Industrial IoT, and Smart Machines in Enterprise and Industrial Automation 2020 - 2025\" report has been added to ResearchAndMarkets.com's offering. This research evaluates various AI technologies and their use relative to analytics solutions within the rapidly growing enterprise and industrial data arena.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/global-enterprise-industrial-automation-outlook-2020-2025-focus-on-artificial-intelligence-industrial-iot-and-smart-machines-1029277081",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1023,52 +1145,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-03-anvil-leverages-ai-to-expedite-paperwork-processing.md",
-      "title": "Anvil leverages AI to expedite paperwork processing",
-      "excerpt": "Anvil, a startup developing an AI-powered paperwork processing platform, secured $5 million in venture capital financing.",
-      "webUrl": "https://venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/",
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/maxresdefault-8-e1590778086248.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Anvil leverages AI to expedite paperwork processing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/03/anvil-leverages-ai-to-expedite-paperwork-processing/amp/",
-      "publishedDateTime": "2020-06-03T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

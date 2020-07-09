@@ -1,26 +1,20 @@
 ---
 category: news
 title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-excerpt: "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to"
-publishedDateTime: 2020-07-06T19:35:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101"
+excerpt: "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence"
+publishedDateTime: 2020-07-06T19:19:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_f3e949d6-22c4-5cd9-bfda-d9c125e452bc.html"
 type: article
-quality: 76
-heat: 106
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Autos
+  - Natural Language Processing
   - AI
 
 related:
@@ -62,6 +56,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "nZiiIwX9vSoQFFpuFraOWfEV8O5zQO/AEwRqNIDfO4pQsQb4o9io71TA3t+fWYZZrg+fMOEOglemlmz8k8BFfWpZfGl02qXxfSu2EJN6fZ1tVhMkOrELB/mvynCegPr65j1p+U3D4eTqU29Mvm1kesjGMh0wearku9bTaH8ELVzFVZs/+myLmfpaJlOCOrC6JtuZorNWf17pxOrYHeVkq/iqgG5ZlBbi57hIrCVdeEXm4oYX6WrsdzXUDz4S3zE2WLFwWfUBL8fL71wjnXGdC+trVScdgVn7cCU9drw+NZ2H5A1SxMywcUlwwOnOB7Vv//iSQ+c9qxnEMj9FtF7hrA==;Fr/IPy3tqCWo2/VqlTNEmA=="
+secured: "jKEEcl08DibhpZC2cGQVcODU1BjGpwNOBrtXS8TjLY4rx1BhHeBgcyk9Fe5NaxuQ0NNDsfJaDQgM5CIoo0wOqxosQtoj4sGjM5uqGchu7hH9WAYocNBxjrYmjrUyD7HwaIP4Jv5QnQbWI99sm9r5cxe9u3ZM2+TT45FCPSPv9K79LZvXlVRnuBEBjUHoatW8LK4Bkp1nX88OWrKstuiCW3zoCZEOsUMeqgGMpK/YAYxTu0AFzPr+uJI9huRK/FA0Gv3X/x92o69W2wsNQrxoMc5j0eH4qticH4PhfplZG/aEsAagptJZimlc4xFqrXiY6w5U13citT1PYKchvf4vRg==;G5s3rcINzW6jpBwZ09piGg=="
 ---
 

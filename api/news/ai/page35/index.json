@@ -2,10 +2,63 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists.md",
+      "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+      "excerpt": "In a paper, Uber researchers describe an autonomous vehicle perception system that reasons about the behavior of pedestrians, vehicles, and cyclists.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/index.json",
+      "webUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s self-driving AI predicts the trajectories of pedestrians, vehicles, and cyclists",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/04/ubers-self-driving-ai-predicts-the-trajectories-of-pedestrians-vehicles-and-cyclists/amp/",
+      "publishedDateTime": "2020-06-04T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-04-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study.md",
       "title": "Self-driving cars could only prevent a third of U.S. crashes: study",
       "excerpt": "(Reuters) - Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes, according to a study released on Thursday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-self-driving-cars-could-only-prevent-a-third-of-us-crashes-study/index.json",
       "webUrl": "https://www.reuters.com/article/us-autos-self-driving-idUSKBN23B294",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -43,7 +96,10 @@
       "path": "_news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing.md",
       "title": "Scientists led by AI scholar Yoshua Bengio urge privacy, opt-in approach for COVID-19 contact tracing",
       "excerpt": "Testing appears to be still urgently needed for containing and ultimately eradicating COVID-19. Canadian AI scholar Yoshua Bengio and colleagues from multiple institutions urge privacy measures for contact tracing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-covid-19-contact-tracing/index.json",
       "webUrl": "https://www.zdnet.com/article/scientists-led-by-ai-scholar-yoshua-bengio-urge-privacy-opt-in-approach-for-contact-tracing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -89,7 +145,10 @@
       "path": "_news/2020-06-04-ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019.md",
       "title": "ARK Invest: AI training costs dropped 100-fold between 2017 and 2019",
       "excerpt": "According to a new report from ARK Invest, the cost of training AI models has delined steeply over the past decade -- and will continue to decline.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/index.json",
       "webUrl": "https://venturebeat.com/2020/06/04/ark-invest-ai-training-costs-dropped-100-fold-between-2017-and-2019/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -135,7 +194,10 @@
       "path": "_news/2020-06-04-study-autonomous-vehicles-wont-make-roads-completely-safe.md",
       "title": "Study: Autonomous vehicles won't make roads completely safe",
       "excerpt": "A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-study-autonomous-vehicles-wont-make-roads-completely-safe/index.json",
       "webUrl": "https://www.stamfordadvocate.com/news/article/Stud-Autonomous-vehicles-won-t-make-roads-15316897.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -173,7 +235,10 @@
       "path": "_news/2020-06-04-prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show.md",
       "title": "Prada-Backed AI Startup Will Live-Stream Pioneering 3D Virtual Fashion Show",
       "excerpt": "Artificial Intelligence fashion startup Bigthinx, in partnership with Fashinnovation, will live stream a 3D Virtual Fashion Show, one of the first since the coronavirus pandemic forced the fashion industry online.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/index.json",
       "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2020/06/02/prada-backed-ai-startup-will-live-stream-pioneering-3d-virtual-fashion-show/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -210,7 +275,10 @@
       "path": "_news/2020-06-04-ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities.md",
       "title": "IBM AI Fairness 360 open source toolkit adds new functionalities",
       "excerpt": "The new version expands capabilities of its discrimination and bias protection, bringing the tool to R users and scikit-learn.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/index.json",
       "webUrl": "https://www.techrepublic.com/article/ibm-ai-fairness-360-open-source-toolkit-adds-new-functionalities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -258,7 +326,10 @@
       "path": "_news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era.md",
       "title": "AI, machine learning to support digital lending landscape in post-covid era",
       "excerpt": "Among other sectors, digital payments have experienced a significant boost. Areas such as online grocery stores, online pharmacies, OTT players, EDTechs, online gaming, recharges and utility payments have seen an uptick in digital payments due to a growth in their adoption.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era/index.json",
       "webUrl": "https://www.livemint.com/opinion/columns/ai-machine-learning-to-support-digital-lending-landscape-in-post-covid-era-11591291821985.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -297,7 +368,10 @@
       "path": "_news/2020-06-04-scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin.md",
       "title": "Scientists built an AI to discover new stars in the quest to explain our galaxy’s origin",
       "excerpt": "Researchers have used AI system to spot thousands of new stars that could hold clues about the formation of the galaxy",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/04/scientists-built-an-ai-to-discover-new-stars-in-the-quest-to-explain-our-galaxys-origin/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -343,7 +417,10 @@
       "path": "_news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes.md",
       "title": "IIHS study finds self-driving cars may only avoid a third of crashes",
       "excerpt": "An IIHS study suggests that self-driving cars might only avoid a third of existing crashes unless they prioritize safety above all else.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-iihs-study-finds-self-driving-cars-may-only-avoid-a-third-of-crashes/index.json",
       "webUrl": "https://www.engadget.com/iihs-says-self-driving-cars-might-not-avoid-most-crashes-164241217.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 214,
       "tags": null,
       "images": [
@@ -390,7 +467,10 @@
       "path": "_news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40.md",
       "title": "How to Start a Career in Big Data and Machine Learning for Less Than $40",
       "excerpt": "According to a recent study, as many as 95 percent of companies have to manage some kind of unstructured data. Forty percent of those companies have to do so on a frequent basis. The world isn't just trending towards using big data infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-how-to-start-a-career-in-big-data-and-machine-learning-for-less-than-40/index.json",
       "webUrl": "https://www.stamfordadvocate.com/business/article/How-to-Start-a-Career-in-Big-Data-and-Machine-15316490.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -428,7 +508,10 @@
       "path": "_news/2020-06-04-measuring-ai-performance-on-mobile-devices-and-why-it-matters.md",
       "title": "Measuring AI Performance On Mobile Devices And Why It Matters",
       "excerpt": "It will be incumbent upon these benchmark app developers and the press to sort through the finer points of what makes for a quality mobile AI benchmark, and also what is a truer measure of performance for your own personal pocket AI assistant.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-measuring-ai-performance-on-mobile-devices-and-why-it-matters/index.json",
       "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/06/04/measuring-ai-performance-on-mobile-devices-and-why-it-matters/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -474,7 +557,10 @@
       "path": "_news/2020-06-04-insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-among-others-researchandmarketscom.md",
       "title": "Insights on the US Natural Language Processing Industry to 2025 - Featuring Google, IBM & Microsoft Among Others - ResearchAndMarkets.com",
       "excerpt": "The \"United States Natural Language Processing Market By Component (Software and Services), By Deployment (On-Premise, Cloud), By Organization Size (SME's Vs Large Enterprises), By Type, By Application,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-insights-on-the-us-natural-language-processing-industry-to-2025-featuring-google-ibm-microsoft-among-others-researchandmarketscom/index.json",
       "webUrl": "https://www.businesswire.com/news/home/20200604005559/en/Insights-Natural-Language-Processing-Industry-2025--",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -512,7 +598,10 @@
       "path": "_news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies.md",
       "title": "10 Ways Enterprises Are Getting Results From AI Strategies",
       "excerpt": "AI pilots are progressing into production based on their combined contributions to improving customer experience, stabilizing and increasing revenues, and reducing costs.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-10-ways-enterprises-are-getting-results-from-ai-strategies/index.json",
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/04/10-ways-enterprises-are-getting-results-from-ai-strategies/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -558,7 +647,10 @@
       "path": "_news/2020-06-04-autonomous-vehicles-wont-make-roads-completely-safe-study-says.md",
       "title": "Autonomous vehicles won’t make roads completely safe, study says",
       "excerpt": "DETROIT A new study says that while autonomous vehicle technology has great promise to reduce crashes, it may not be able to prevent all mishaps caused by human error. Auto safety experts say humans cause about 94% of U.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-autonomous-vehicles-wont-make-roads-completely-safe-study-says/index.json",
       "webUrl": "https://www.seattletimes.com/business/stud-autonomous-vehicles-wont-make-roads-completely-safe/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -596,7 +688,10 @@
       "path": "_news/2020-06-04-a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence.md",
       "title": "A Tale Of Two Lines: Changes In Customer Support With The Growth In Artificial Intelligence",
       "excerpt": "Customer support is changing. Some people claim it means customer support personnel will disappear while others say AI will enhance what the customer service people do. To both, I say “yes.”",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/davidteich/2020/06/04/a-tale-of-two-lines-changes-in-customer-support-with-the-growth-in-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -642,7 +737,10 @@
       "path": "_news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm.md",
       "title": "Riiid AI study - to be presented at EDM 2020 - proves students more engaged by deep-learning algorithm",
       "excerpt": "And deep learning affords such engagement. Prescribing deep attentive score prediction attracts improved student engagements The paper \"Prescribing Deep Attentive Score Prediction Attracts ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-riiid-ai-study-to-be-presented-at-edm-2020-proves-students-more-engaged-by-deep-learning-algorithm/index.json",
       "webUrl": "https://www.asiaone.com/business/riiid-ai-study-be-presented-edm-2020-proves-students-more-engaged-deep-learning-algorithm",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -680,7 +778,10 @@
       "path": "_news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information.md",
       "title": "Andhra Pradesh to use IBM's Watson AI for Coronavirus information",
       "excerpt": "The Andhra Pradesh National Health Mission portal has integrated the IBM Watson virtual agent to help the residents quickly get answers to their queries about Covid-19. The chatbot is designed to understand and respond to common questions about Covid-19 in English,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-andhra-pradesh-to-use-ibms-watson-ai-for-coronavirus-information/index.json",
       "webUrl": "https://www.indiatvnews.com/technology/news-ibm-watson-ai-used-by-andhra-pradesh-for-coronavirus-queries-see-how-will-it-work-623425",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -718,7 +819,10 @@
       "path": "_news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search.md",
       "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
       "excerpt": "Searchable.ai is an early-stage startup in the alpha phase of testing its initial product, but it has an idea compelling enough to attract investment, even during a pandemic. Today the company announced an additional $4 million in seed capital to continue building its AI-driven search solution.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/index.json",
       "webUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -764,7 +868,10 @@
       "path": "_news/2020-06-04-automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025.md",
       "title": "Automotive Artificial Intelligence (AI) Market Drivers and Key Players Strategies Analyzed Till 2025",
       "excerpt": "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-drivers-and-key-players-strategies-analyzed-till-2025-2020-06-04",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -811,7 +918,10 @@
       "path": "_news/2020-06-04-3-top-artificial-intelligence-stocks-to-buy-in-june.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in June",
       "excerpt": "Leading the charge in this new era are technology stocks -- specifically those helping organizations and individuals cope with shelter-in-place and work-from-home orders. Artificial intelligence (AI) was already a promising growth industry,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-3-top-artificial-intelligence-stocks-to-buy-in-june/index.json",
       "webUrl": "https://www.fool.com/investing/2020/06/04/3-top-artificial-intelligence-stocks-buy-in-june.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -858,7 +968,10 @@
       "path": "_news/2020-06-04-insights-on-the-worldwide-artificial-intelligence-industry-to-2030-understand-how-the-market-is-being-affected-by-covid-19-researchandmarketscom.md",
       "title": "Insights on the Worldwide Artificial Intelligence Industry to 2030 - Understand how the Market is Being Affected by COVID-19 - ResearchAndMarkets.com",
       "excerpt": "The global artificial intelligence market is expected to grow from $28.42 billion in 2019 to $40.74 billion in 2020 at a compound annual growth rate (CAGR) of 43.39%. The growth i",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-insights-on-the-worldwide-artificial-intelligence-industry-to-2030-understand-how-the-market-is-being-affected-by-covid-19-researchandmarketscom/index.json",
       "webUrl": "https://www.wfmz.com/insights-on-the-worldwide-artificial-intelligence-industry-to-2030---understand-how-the-market/article_844633bd-9f78-50c5-add3-387bb7014d20.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -896,7 +1009,10 @@
       "path": "_news/2020-06-04-south-korean-bar-hires-robot-bartender-to-maintain-social-distancing.md",
       "title": "South Korean Bar Hires Robot Bartender to Maintain Social Distancing",
       "excerpt": "With South Korea embracing techno-utopianism at an alarming speed, conveniences like robot bartender and robo baristas are becoming an everyday scene.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-south-korean-bar-hires-robot-bartender-to-maintain-social-distancing/index.json",
       "webUrl": "https://www.technowize.com/south-korean-bar-hires-robot-bartender-to-maintain-social-distancing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -934,7 +1050,10 @@
       "path": "_news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state.md",
       "title": "California blocks bill that could’ve led to a facial recognition police-state",
       "excerpt": "Californian lawmakers have blocked a bill that would have expanded facial recognition surveillance across the state -- including by police",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/04/california-blocks-bill-that-couldve-led-to-a-facial-recognition-police-state/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -981,7 +1100,10 @@
       "path": "_news/2020-06-04-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
       "title": "Robot to Safely Swab for Coronavirus Developed by Scientists in Denmark",
       "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark/index.json",
       "webUrl": "https://www.nytimes.com/reuters/2020/06/04/technology/04reuters-health-coronavirus-swab-robot.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -1028,7 +1150,10 @@
       "path": "_news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system.md",
       "title": "Nanox raises $20 million to scale its AI medical imaging system",
       "excerpt": "Nanox raised $20 million from SK Telecom in a deal that'll see the former's AI medical imaging hardware deployed in Vietnam and South Korea.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/index.json",
       "webUrl": "https://venturebeat.com/2020/06/04/nanox-raises-20-million-to-scale-its-ai-medical-imaging-system/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1074,7 +1199,10 @@
       "path": "_news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence.md",
       "title": "Inky raises $20 million to prevent phishing attacks with AI ‘fence’",
       "excerpt": "Inky, which taps AI and machine learning to spot and deflect phishing attacks, has raised $20 million in venture capital financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/index.json",
       "webUrl": "https://venturebeat.com/2020/06/04/inky-raises-20-million-to-prevent-phishing-attacks-with-ai-fence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1120,7 +1248,10 @@
       "path": "_news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026.md",
       "title": "Size & Share of Cloud Natural Language Processing (NLP) Market 2020 Research Report and Forecast to 2026",
       "excerpt": "Facts & Factors (FnF), a leading market research company recently published a research report on “ Cloud Natural Language Processing (NLP) Market By Type (Rule-Based, Statistical, and Hybrid), By Deployment Model (Public,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/index.json",
       "webUrl": "https://surfacingmagazine.net/size-share-of-cloud-natural-language-processing-nlp-market-2020-research-report-and-forecast-to-2026/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1149,7 +1280,10 @@
       "path": "_news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity.md",
       "title": "AI should serve us, not destroy our humanity",
       "excerpt": "There has been a shift in the way we interact with machine technology and apply information of formal scientific jargon to the real world",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-ai-should-serve-us-not-destroy-our-humanity/index.json",
       "webUrl": "https://www.zawya.com/saudi-arabia/en/business/story/AI_should_serve_us_not_destroy_our_humanity-SNG_176079931/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1187,7 +1321,10 @@
       "path": "_news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai.md",
       "title": "Taiwan draws up plan to woo US$1.3 billion of annual tech research in semiconductors, 5G and AI",
       "excerpt": "Taiwan is dangling incentives to attract more than NT$40 billion (US$1.3 billion) of annual investments in research and technology, creating a seven-year blueprint to safeguard the island’s lead in semiconductors and other cutting-edge fields.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-taiwan-draws-up-plan-to-woo-us13-billion-of-annual-tech-research-in-semiconductors-5g-and-ai/index.json",
       "webUrl": "https://www.scmp.com/tech/policy/article/3087517/taiwan-draws-plan-woo-us13-billion-annual-tech-research-semiconductors",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -1227,44 +1364,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-a-complete-guide-of-natural-language-processing-nlp.md",
-      "title": "A Complete Guide of Natural Language Processing (NLP)",
-      "excerpt": "With rise of Big Data and Data Science, Natural Language Processing is also advancing to extract true meaning of data. NLP is a key part of Artificial Intelligence and it depends upon machine learning capabilities.",
-      "webUrl": "https://www.analyticsinsight.net/complete-guide-natural-language-processing-nlp/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Natural-Language-Processing.jpg",
-          "width": 1560,
-          "height": 878,
-          "title": "A Complete Guide of Natural Language Processing (NLP)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-03T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

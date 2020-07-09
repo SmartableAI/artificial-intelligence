@@ -2,10 +2,62 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks.md",
+      "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+      "excerpt": "The dissident artist is hoping to raise at least $1 million for vulnerable and displaced people impacted by the Covid-19 pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-ai-weiwei-has-turned-his-most-iconic-artworks-into-charity-face-masks/index.json",
+      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-charity-masks/index.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200528145627-02-ai-weiwei-mask-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Ai Weiwei has turned his most iconic artworks into charity face masks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-charity-masks/index.html",
+      "publishedDateTime": "2020-05-28T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas.md",
       "title": "Element AI Announces Collaboration with Veritas Consortium led by Monetary Authority of Singapore (MAS)",
       "excerpt": "Element AI, a global developer of artificial intelligence-powered (AI) solutions and software, today announced a new",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-mas/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/05/n16124574/element-ai-announces-collaboration-with-veritas-consortium-led-by-monetary-authority-of-singapore-",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -34,7 +86,10 @@
       "path": "_news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data.md",
       "title": "Apple buys an AI startup to improve Siri's data",
       "excerpt": "Cleaner data would go a long way toward that goal by reducing the chances that garbage information confuses Siri. Apple has been determined to upgrade Siri in recent times, and made waves when it hired Google’s former AI leader John Giannandrea with that upgrade in mind.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-apple-buys-an-ai-startup-to-improve-siris-data/index.json",
       "webUrl": "https://www.engadget.com/apple-buys-inductiv-for-siri-data-010651483.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -80,7 +135,10 @@
       "path": "_news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company.md",
       "title": "Raimondo’s Husband Moffit Lands New Job at Artificial Intelligence Healthcare Company",
       "excerpt": "Rhode Island Governor Gina Raimondo’s husband is departing global consulting giant McKinsey & Company for a Boston-based artificial intelligence technology firm. “PathAI is thrilled to announce our first Chief People Officer,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-raimondos-husband-moffit-lands-new-job-at-artificial-intelligence-healthcare-company/index.json",
       "webUrl": "https://www.golocalprov.com/business/raimondos-husband-moffit-lands-new-job-at-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -118,7 +176,10 @@
       "path": "_news/2020-05-28-artificial-intelligence-is-fuelling-innovation-in-healthcare.md",
       "title": "Artificial Intelligence is Fuelling Innovation in Healthcare",
       "excerpt": "Commonly described as the new nervous system of healthcare, Artificial Intelligence (AI) has become a key growth driver in the healthcare industry. According to a study by Allied Market Research ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-artificial-intelligence-is-fuelling-innovation-in-healthcare/index.json",
       "webUrl": "https://www.cxotoday.com/columns/artificial-intelligence-is-fuelling-innovation-in-healthcare/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -156,7 +217,10 @@
       "path": "_news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech.md",
       "title": "Driverless car roaming through Sharjah community powered by Huawei tech",
       "excerpt": "In partnership with the Ministry of Health and Prevention Al Zahia deployed a fully operational driverless car ... the car incorporates an advanced Artificial Intelligence (AI) ‘brain’ to ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech/index.json",
       "webUrl": "https://www.itp.net/business/92638-driverless-car-roaming-through-sharjah-community-powered-by-huawei-tech#!",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -185,7 +249,10 @@
       "path": "_news/2020-05-28-tag-aws-reinvent-2018.md",
       "title": "Tag: AWS re:Invent 2018",
       "excerpt": "Hypertext is one of South Africa’s leading technology news and reviews sites, catering for consumers, small and medium businesses and the technology channel. We publish original content daily ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-tag-aws-reinvent-2018/index.json",
       "webUrl": "https://www.htxt.co.za/topics/aws-reinvent-2018/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -214,7 +281,10 @@
       "path": "_news/2020-05-27-iwave-releases-the-corazon-ai-solution.md",
       "title": "iWave Releases the Corazon-AI Solution",
       "excerpt": "Featured on the new solution are interfaces to connect 8 IP cameras, USB cameras, and an SDI camera. Additionally, it hosts multiple connectivity options which include Dual Gigabit Ethernet, 802.11 ac Wi-Fi,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-iwave-releases-the-corazon-ai-solution/index.json",
       "webUrl": "https://www.embedded-computing.com/news/iwave-releases-the-corazon-ai-solution",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -252,7 +322,10 @@
       "path": "_news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects.md",
       "title": "Apple buys machine learning specialist Inductiv to bolster Siri, AI projects",
       "excerpt": "Adding to a mounting number of artificial intelligence-related acquisitions, Apple in the past few weeks purchased Ontario-based Inductiv to work on Siri and machine learning initiatives.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects/index.json",
       "webUrl": "https://appleinsider.com/articles/20/05/27/apple-buys-machine-learning-specialist-inductiv-to-bolster-siri-ai-projects",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -290,7 +363,10 @@
       "path": "_news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox.md",
       "title": "Amazon is in advanced talks to purchase self-driving vehicle start-up Zoox",
       "excerpt": "Amazon is reportedly in advanced talks to purchase self-driving vehicle start-up Zoox. Sources familiar with the matter tell The Wall Street Journal that the deal would value the company under $3.2 billion,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-amazon-is-in-advanced-talks-to-purchase-self-driving-vehicle-start-up-zoox/index.json",
       "webUrl": "https://www.techspot.com/news/85399-amazon-advanced-talks-purchase-self-driving-vehicle-start.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -337,7 +413,10 @@
       "path": "_news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls.md",
       "title": "Joint AI Center Turns To Air Force cloudONE As JEDI Stalls",
       "excerpt": "The Joint Artificial Intelligence Center needs three things: new acquisition authorities, more staff, and the cloud. With JEDI delayed ‘potentially many more months,’ director Lt. Gen. Jack Shanahan said,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/index.json",
       "webUrl": "https://breakingdefense.com/2020/05/joint-ai-center-turns-to-air-force-cloudone-as-jedi-stalls/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -375,7 +454,10 @@
       "path": "_news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365.md",
       "title": "Making it easier to stay caught up with Cortana in Microsoft 365",
       "excerpt": "The post Making it easier to stay caught up with Cortana in Microsoft 365 appeared first on The AI Blog.\n",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-making-it-easier-to-stay-caught-up-with-cortana-in-microsoft-365/index.json",
       "webUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2020/05/27/making-easier-stay-caught-cortana-microsoft-365/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -422,7 +504,10 @@
       "path": "_news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics.md",
       "title": "Computer vision and uncertainty in AI for robotic prosthetics",
       "excerpt": "Researchers have developed new software that can be integrated with existing hardware to enable people using robotic prosthetics or exoskeletons to walk in a safer, more natural manner on different types of terrain.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-computer-vision-and-uncertainty-in-ai-for-robotic-prosthetics/index.json",
       "webUrl": "https://www.sciencedaily.com/releases/2020/05/200527133147.htm",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": null,
@@ -460,7 +545,10 @@
       "path": "_news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays.md",
       "title": "New models use computer vision and AI to identify COVID-19 in X-rays",
       "excerpt": "Students at Cranfield University have designed computer models that can identify COVID-19 in X-rays. The models use computer vision and artificial intelligence (AI) to analyze chest X-ray imagery. It can classify information which would not normally be recognized with the naked eye and assist with the diagnosis of COVID-19.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-new-models-use-computer-vision-and-ai-to-identify-covid-19-in-x-rays/index.json",
       "webUrl": "https://www.news-medical.net/news/20200527/New-models-use-computer-vision-and-AI-to-identify-COVID-19-in-X-rays.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -498,7 +586,10 @@
       "path": "_news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership.md",
       "title": "Baidu Accelerates Its Self-Driving Car Initiative with New Test Center and Partnership",
       "excerpt": "Big investments in autonomous-vehicle and AI technology could be the key to getting Baidu's growth back on track.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-baidu-accelerates-its-self-driving-car-initiative-with-new-test-center-and-partnership/index.json",
       "webUrl": "https://www.fool.com/investing/2020/05/27/baidu-accelerates-its-self-driving-car-initiative.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -545,7 +636,10 @@
       "path": "_news/2020-05-27-rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence.md",
       "title": "RAJANT INTRODUCES JON LEDERMAN AS VICE PRESIDENT OF ARTIFICIAL INTELLIGENCE",
       "excerpt": "Rajant Corporation, the provider of Kinetic Mesh® wireless networks, announced today Jon Lederman joined the team as Vice President of Artificial Intelligence (AI). In this newly created position, Mr.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/05/g16120766/rajant-introduces-jon-lederman-as-vice-president-of-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -574,7 +668,10 @@
       "path": "_news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse.md",
       "title": "Scientists are using AI to predict which lung cancer patients will relapse",
       "excerpt": "A new AI tool could predict which lung cancer patients will suffer a relapse by analyzing genetic data and pathology images",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/27/scientists-are-using-ai-to-predict-which-lung-cancer-patients-will-relapse/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -620,7 +717,10 @@
       "path": "_news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back.md",
       "title": "AI could predict risk of lung cancer coming back",
       "excerpt": "Computer scientists working with pathologists have trained an AI tool to determine which lung cancer patients have a higher risk of their disease coming back",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back/index.json",
       "webUrl": "https://www.cancerresearchuk.org/about-us/cancer-news/press-release/2020-05-27-ai-could-predict-risk-of-lung-cancer-coming-back",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -658,7 +758,10 @@
       "path": "_news/2020-05-27-us-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing.md",
       "title": "U.S. funds AI project to enable millisecond-level 5G spectrum sharing",
       "excerpt": "The Department of Defense is backing an initiative that will enable some 5G spectrum to be efficiently shared by multiple users on a millisecond basis.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-us-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/index.json",
       "webUrl": "https://venturebeat.com/2020/05/27/u-s-funds-ai-project-to-enable-millisecond-level-5g-spectrum-sharing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -704,7 +807,10 @@
       "path": "_news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market.md",
       "title": "Investments in AI to Grow as COVID-19 Strikes Artificial Intelligence (AI) Chipset Market",
       "excerpt": "The sudden challenges created by the ongoing COVID-19 are captured effectively to exhibit the long term growth projections",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/investments-in-ai-to-grow-as-covid-19-strikes-artificial-intelligence-ai-chipset-market-2020-05-27",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 92,
       "tags": null,
       "images": [
@@ -752,7 +858,10 @@
       "path": "_news/2020-05-27-jedi-delay-slows-dods-ai-push.md",
       "title": "JEDI delay slows DOD’s AI push",
       "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 27, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterpris",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-jedi-delay-slows-dods-ai-push/index.json",
       "webUrl": "https://defensesystems.com/articles/2020/05/27/jedi-delay-slows-ai.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -790,7 +899,10 @@
       "path": "_news/2020-05-27-amazon-might-buy-self-driving-startup-zoox-report-says.md",
       "title": "Amazon might buy self-driving startup Zoox, report says",
       "excerpt": "The purchase would continue Amazon's work to create its own delivery network and cut out driver pay to save cash.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-amazon-might-buy-self-driving-startup-zoox-report-says/index.json",
       "webUrl": "https://www.cnet.com/roadshow/news/amazon-buy-self-driving-startup-zoox/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -837,7 +949,10 @@
       "path": "_news/2020-05-27-seattle-smart-home-startup-wyze-raises-10m-to-launch-new-product-categories-and-improve-ai-tech.md",
       "title": "Seattle smart home startup Wyze raises $10M to launch new product categories and improve AI tech",
       "excerpt": "Wyze Labs just raised $10 million as it expands its smart home product offerings and adapts to the COVID-19 crisis. Previous investor Norwest led the Series A-1",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-seattle-smart-home-startup-wyze-raises-10m-to-launch-new-product-categories-and-improve-ai-tech/index.json",
       "webUrl": "https://www.geekwire.com/2020/seattle-smart-home-startup-wyze-raises-10m-launch-new-product-categories-improve-ai-tech/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -883,7 +998,10 @@
       "path": "_news/2020-05-27-amazon-in-talks-to-acquire-self-driving-car-startup-zoox.md",
       "title": "Amazon in Talks to Acquire Self-Driving Car Startup Zoox",
       "excerpt": "The company has long been an innovator in artificial intelligence. Now it wants to add additional autonomous vehicle technology to its portfolio.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-amazon-in-talks-to-acquire-self-driving-car-startup-zoox/index.json",
       "webUrl": "https://www.fool.com/investing/2020/05/27/amazon-in-talks-to-acquiring-self-driving-car-star.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -930,7 +1048,10 @@
       "path": "_news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan.md",
       "title": "5G, AI, cybersecurity and renewable energy set for investment boost under EU coronavirus recovery plan",
       "excerpt": "The European Commission is proposing to direct billions of euros of financial relief into high tech and green investments to help the bloc recover from the coronavirus crisis. Technologies such as 5G,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/index.json",
       "webUrl": "https://techcrunch.com/2020/05/27/5g-ai-cybersecurity-and-renewable-energy-set-for-investment-boost-under-eu-coronavirus-recovery-plan/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -976,7 +1097,10 @@
       "path": "_news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github.md",
       "title": "Baidu releases quantum machine learning toolkit on GitHub",
       "excerpt": "Chinese tech giant's Paddle Quantum development toolkit now is available on GitHub, enabling developers to build and train quantum neural network models, and includes quantum computing applications.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-baidu-releases-quantum-machine-learning-toolkit-on-github/index.json",
       "webUrl": "https://www.zdnet.com/article/baidu-releases-quantum-machine-learning-toolkit-on-github/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -1023,7 +1147,10 @@
       "path": "_news/2020-05-27-microsoft-build-2020-colour-me-azure.md",
       "title": "Microsoft Build 2020: Colour me Azure",
       "excerpt": "The Microsoft Build conference is developer heaven. It’s also a great place to learn what’s coming for the rest of us in the Microsoft world, and this year’s conference, virtual though it was, was no different.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-microsoft-build-2020-colour-me-azure/index.json",
       "webUrl": "https://www.itworldcanada.com/article/microsoft-build-2020-colour-me-azure/431330",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1061,7 +1188,10 @@
       "path": "_news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman.md",
       "title": "Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
       "excerpt": "Microsoft’s former top artificial intelligence executive, Harry Shum, has signed on as chairman of the board of News Break, the technology startup founded and led by former Yahoo engineering",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-former-microsoft-ai-and-bing-chief-harry-shum-joins-fast-growing-startup-news-break-as-chairman/index.json",
       "webUrl": "https://www.geekwire.com/2020/former-microsoft-ai-bing-chief-harry-shum-joins-fast-growing-startup-news-break-chairman/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -1108,7 +1238,10 @@
       "path": "_news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker.md",
       "title": "Train ALBERT for natural language processing with TensorFlow on Amazon SageMaker",
       "excerpt": "At re:Invent 2019, AWS shared the fastest training times on the cloud for two popular machine learning (ML) models: BERT (natural language processing) and Mask-RCNN (object detection). To train BERT in 1 hour, we efficiently scaled out to 2,048 NVIDIA V100 GPUs by improving the underlying infrastructure,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-albert-for-natural-language-processing-with-tensorflow-on-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -1155,7 +1288,10 @@
       "path": "_news/2020-05-27-lucidworks-announces-advanced-linguistics-package-to-improve-search-precision-for-global-companies-serving-asian-european-and-middle-eastern-markets.md",
       "title": "Lucidworks Announces Advanced Linguistics Package to Improve Search Precision for Global Companies Serving Asian, European, and Middle Eastern Markets",
       "excerpt": "Lucidworks now embeds text analytics from Basis Technology, the leading provider of AI for natural language processing. With the Advanced Linguistics Package, global organizations that support ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-lucidworks-announces-advanced-linguistics-package-to-improve-search-precision-for-global-companies-serving-asian-european-and-middle-eastern-markets/index.json",
       "webUrl": "https://www.asiaone.com/business/lucidworks-announces-advanced-linguistics-package-improve-search-precision-global",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1186,52 +1322,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-27-researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines.md",
-      "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-      "excerpt": "Scientists have developed a method of automatically detecting hidden landmines by using AI to scan images captured by drones",
-      "webUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/",
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/05/Untitled-design-53-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Researchers use drones and AI to detect Soviet ‘butterfly’ landmines",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/27/researchers-use-drones-and-ai-to-detect-soviet-butterfly-landmines/amp/",
-      "publishedDateTime": "2020-05-27T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

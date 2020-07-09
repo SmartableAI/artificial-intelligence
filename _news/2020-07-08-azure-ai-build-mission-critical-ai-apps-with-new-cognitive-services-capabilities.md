@@ -26,7 +26,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-    title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
 
 related:
   - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
@@ -103,6 +102,6 @@ related:
       domain: businessinsider.com
     quality: 62
 
-secured: "jqVn8jknryc/X9hQqZY8AHPj7aHWWwDiQ49n7xnXIjin+lIOIye+Q/wffDbtQq/48hv1L4dSw8ZBm56IAYnQFnSw+ibHAHITt/CDQvNpFnTiec2H0Y9w3B1L2bnGd9CGkwDnY3G5Fjm9mQgU8DLuqkUIxPNi2sh4EKar2MQRO3soetjt47WXa1pNrpFv7002a8hMEwlZEmyezGIhsDkgbeJNEyiYz9wO2u6LLHJZEdOLBuR+UydGMhIdGm/LfZOI6cFTm8jdF1Z/95qdQ2v9Rt0/RNQwTPQg/tVpFa0HTq3E+jgoVkJjFciEgYBg9gFLFUqPuckUkTR815hl9K/tsQ==;Sq/29lhz8yF/AocwkAQoBQ=="
+secured: "2TtRZ5zfszs2UeGfddcAyyEkbxmOtdM8NUARdsoNwYKgby4NL2ag2O8I29loEwezCz3D3Q0N8M3tj2N8+ZZOVtV8yKhWfSEThuOSeFAFNvCKnY9UzYskMX4DiprYLYbLja/WNG22xNFf/DJmReytCm6b9B38CZilykKluAECYLzyOkamY0XVlwvWa4NamqztqLPteVXcagH4b6QcHKuq32QT6m8bPjE8TpTD0Y95NLsPO8/F/Rj+gjWbZxFx1L8CkrC+l/iPaGngLwor7VNPhVJ5I6dkaJb3pCiKh2W0qmBrK9XIAYx91y8x7veh13/SAuqmXVS8LBrNngsCX2+ENw==;KvhIH2X4BaCusE2sKWJatg=="
 ---
 

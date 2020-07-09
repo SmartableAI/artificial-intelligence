@@ -2,10 +2,45 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-06-06-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
+      "title": "Self-driving sector contends its cars can prevent many more crashes than insurance study says",
+      "excerpt": "REUTERS: Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all US road crashes could be prevented by driverless cars ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-06-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says/index.json",
+      "webUrl": "https://www.channelnewsasia.com/news/business/self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says-12810622",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-05T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-the-ai-community-says-black-lives-matter-but-more-work-needs-to-be-done.md",
       "title": "The AI community says Black Lives Matter, but more work needs to be done",
       "excerpt": "The AI community stood with the Black Lives Matter movement in a meaningful way this week, but work remains to be done to affect change.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-the-ai-community-says-black-lives-matter-but-more-work-needs-to-be-done/index.json",
       "webUrl": "https://venturebeat.com/2020/06/05/diversity-in-ai-black-lives-matter/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 98,
       "tags": null,
       "images": [
@@ -52,7 +87,10 @@
       "path": "_news/2020-06-05-ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all.md",
       "title": "AI Weekly: Dismantle white supremacy for the good of us all",
       "excerpt": "Whether it's white supremacy or AI from tech giants, systems made to work best for white men are incompatible with a diverse world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/index.json",
       "webUrl": "https://venturebeat.com/2020/06/05/ai-weekly-dismantle-white-supremacy-for-the-good-of-us-all/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -98,7 +136,10 @@
       "path": "_news/2020-06-05-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says.md",
       "title": "Self-Driving Sector Contends Its Cars Can Prevent Many More Crashes Than Insurance Study Says",
       "excerpt": "Companies working on self-driving vehicles have criticized an insurance industry study suggesting that only a third of all U.S. road crashes could be prevented by driverless cars, arguing that the study has underestimated the technology's capabilities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-self-driving-sector-contends-its-cars-can-prevent-many-more-crashes-than-insurance-study-says/index.json",
       "webUrl": "https://www.nytimes.com/reuters/2020/06/05/technology/05reuters-autos-selfdriving.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -145,7 +186,10 @@
       "path": "_news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month.md",
       "title": "AI Teammates For ‘Ghost Recon Breakpoint’ Have Been Pushed Back To Next Month",
       "excerpt": "It will have taken a full year since launch for AI teammates to be added to the game. Will it be enough to bring players back?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/index.json",
       "webUrl": "https://www.forbes.com/sites/joeparlock/2020/06/05/ai-teammates-for-ghost-recon-breakpoint-have-been-pushed-back-to-next-month/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": null,
@@ -182,7 +226,10 @@
       "path": "_news/2020-06-05-in-q-tel-backs-speech-recognition-outfit.md",
       "title": "In-Q-Tel backs speech recognition outfit",
       "excerpt": "In-Q-Tel, the intelligence community’s venture capital arm, has made an investment in an automatic speech recognition startup to determine how that technology can be of use for government agencies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-in-q-tel-backs-speech-recognition-outfit/index.json",
       "webUrl": "https://washingtontechnology.com/articles/2020/06/05/inqtel-deepgram-learning.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -220,7 +267,10 @@
       "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
       "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
       "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 103,
       "tags": null,
       "images": [
@@ -268,7 +318,10 @@
       "path": "_news/2020-06-05-self-driving-cars-likely-wont-prevent-every-car-crash-study-says.md",
       "title": "Self-driving cars likely won't prevent every car crash, study says",
       "excerpt": "While self-driving cars won't get distracted or drive drunk, that only accounts for a third of wrecks that occur, according to the insurance industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-self-driving-cars-likely-wont-prevent-every-car-crash-study-says/index.json",
       "webUrl": "https://www.cnet.com/roadshow/news/self-driving-cars-crash-study/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 154,
       "tags": null,
       "images": [
@@ -315,7 +368,10 @@
       "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
       "title": "Coding with R on Amazon SageMaker notebook instances",
       "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -362,7 +418,10 @@
       "path": "_news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits.md",
       "title": "Amazon’s new AI technique lets users virtually try on outfits",
       "excerpt": "In new papers, Amazon researchers propose techniques that let users virtually try on apparel and fine items that complement their wardrobe.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits/index.json",
       "webUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -408,7 +467,10 @@
       "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
       "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
       "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo/index.json",
       "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 113,
       "tags": null,
       "images": null,
@@ -439,7 +501,10 @@
       "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
       "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
       "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/index.json",
       "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 146,
       "tags": null,
       "images": [
@@ -486,7 +551,10 @@
       "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
       "title": "Here's how a new machine learning software can beef up cloud-based databases",
       "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/index.json",
       "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -533,7 +601,10 @@
       "path": "_news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes.md",
       "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
       "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes/index.json",
       "webUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 120,
       "tags": null,
       "images": [
@@ -580,7 +651,10 @@
       "path": "_news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition.md",
       "title": "Exxe Group Adds New High Value, High Growth FinTech Acquisition",
       "excerpt": "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -609,7 +683,10 @@
       "path": "_news/2020-06-05-deep-dive-leveraging-authentication-and-machine-learning-to-secure-b2b-payment-apis.md",
       "title": "Deep Dive: Leveraging Authentication And Machine Learning To Secure B2B Payment APIs",
       "excerpt": "The following Deep Dive explores the threats fraudsters pose to B2B APIs and the security methods FIs are deploying to stop them.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-deep-dive-leveraging-authentication-and-machine-learning-to-secure-b2b-payment-apis/index.json",
       "webUrl": "https://www.pymnts.com/api/2020/authentication-ml-secure-apis/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -638,7 +715,10 @@
       "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
       "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
       "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/index.json",
       "webUrl": "https://www.zdnet.com/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -685,7 +765,10 @@
       "path": "_news/2020-06-05-ai-ar-and-the-somewhat-speculative-future-of-a-tech-fueled-fbi.md",
       "title": "AI, AR, and the (Somewhat) Speculative Future of a Tech-Fueled FBI",
       "excerpt": "A Novel of the Real Robotic Revolution is a technothriller that follows the hunt for a terrorist through the streets of a future Washington, DC. More than 300 factual explanations and predictions (with endnotes) are baked into the story,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-ai-ar-and-the-somewhat-speculative-future-of-a-tech-fueled-fbi/index.json",
       "webUrl": "https://www.wired.com/story/ai-ar-somewhat-speculative-future-tech-fueled-fbi/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -734,7 +817,10 @@
       "path": "_news/2020-06-05-artificial-intelligence-healthcare-and-the-pandemic.md",
       "title": "Artificial intelligence, healthcare and the pandemic",
       "excerpt": "The coronavirus crisis demands a regulatory framework for the application of AI to protect public health without jeopardising human rights.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-artificial-intelligence-healthcare-and-the-pandemic/index.json",
       "webUrl": "https://www.socialeurope.eu/artificial-intelligence-healthcare-and-the-pandemic",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 124,
       "tags": null,
       "images": [
@@ -772,7 +858,10 @@
       "path": "_news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science.md",
       "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
       "excerpt": "DeepMind is shifting its focus from building “AI agents” that can play games to building AI agents that can have real world impact, particularly in areas of science like biology. In 2016, DeepMind, an Alphabet-owned AI unit headquartered in London,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -819,7 +908,10 @@
       "path": "_news/2020-06-05-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers.md",
       "title": "TIBCO Delivers Advanced Cognitive Services on Microsoft Azure to Joint Customers",
       "excerpt": "Leveraging AI at the Edge and in Containers Fuels Timely and Responsive Analytics Sydney, Australia, June 5, 2020 – TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-tibco-delivers-advanced-cognitive-services-on-microsoft-azure-to-joint-customers/index.json",
       "webUrl": "https://www.cmo.com.au/mediareleases/130462/tibco-delivers-advanced-cognitive-services-on/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -857,7 +949,10 @@
       "path": "_news/2020-06-05-covid-19-impact-on-neural-network-software-market.md",
       "title": "COVID-19 Impact on Neural Network Software Market",
       "excerpt": "The Neural Network Software Market is expected to be around US$ 53 Billion by 2025 at a CAGR of 33% in the given forecast period. You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-covid-19-impact-on-neural-network-software-market/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-neural-network-software-market-2020-06-05",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -904,7 +999,10 @@
       "path": "_news/2020-06-05-the-14-most-impressive-ai-scientists-working-at-google-deepmind.md",
       "title": "The 14 most impressive AI scientists working at Google DeepMind",
       "excerpt": "Interesting fact: Ioannis Antonoglou joined DeepMind in 2012 after graduating from the University of Edinburgh with a masters degree in artificial intelligence and machine learning. Interesting ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-the-14-most-impressive-ai-scientists-working-at-google-deepmind/index.json",
       "webUrl": "https://www.businessinsider.in/tech/the-14-most-impressive-ai-scientists-working-at-google-deepmind/slidelist/50018565.cms",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -942,7 +1040,10 @@
       "path": "_news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans.md",
       "title": "WWF-Indonesia using machine learning to save critically endangered orangutans",
       "excerpt": "Indonesia . World Wildlife Fund for Nature Indonesia (WWF-Indonesia) is on a mission to save critically endangered orangutans in In",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/index.json",
       "webUrl": "https://www.zdnet.com/article/wwf-indonesia-using-machine-learning-to-save-critically-endangered-orangutans/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -990,7 +1091,10 @@
       "path": "_news/2020-06-05-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm/index.json",
       "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1011,44 +1115,6 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-watch-a-badass-wearable-robot-arm-hulk-smash-through-a-wall.md",
-      "title": "Watch a Badass Wearable Robot Arm Hulk Smash Through a Wall",
-      "excerpt": "A video uploaded by the team shows the robotic arm in action. It can move heavy power tools, paint walls, pick vegetables — and even Hulk smash through drywall. The robotic arm can be remote ...",
-      "webUrl": "https://futurism.com/the-byte/wearable-robot-arm-smash-through-walls",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/06/wearable-robot-arm-smash-through-walls-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Watch a Badass Wearable Robot Arm Hulk Smash Through a Wall",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/wearable-robot-arm-smash-through-walls/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/wearable-robot-arm-smash-through-walls/amp",
-      "publishedDateTime": "2020-06-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null

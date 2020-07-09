@@ -5,7 +5,10 @@
       "path": "_news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks.md",
       "title": "Google’s TensorFlow gets a new test for training data leaks",
       "excerpt": "Google late last month debuted experimental tests for its TensorFlow Privacy library designed to reduce the degree to which machine learning models leak identifiable personal information in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks/index.json",
       "webUrl": "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -44,7 +47,10 @@
       "path": "_news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
       "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
       "excerpt": "A processor and Himax AoS sensor. With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers to develop their NN based edge AI applications targeted for Notebook,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30-6184054",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -91,10 +97,55 @@
       ]
     },
     {
+      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models.md",
       "title": "Google releases experimental TensorFlow module that tests the privacy of AI models",
       "excerpt": "Google's new toolkit introduces a privacy-preserving technique and test for machine learning modules developed in TensorFlow.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/index.json",
       "webUrl": "https://venturebeat.com/2020/06/24/google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 125,
       "tags": null,
       "images": [
@@ -142,7 +193,10 @@
       "path": "_news/2020-06-21-model-inference-using-tensorflow-and-tensorrt.md",
       "title": "Model inference using TensorFlow and TensorRT",
       "excerpt": "NVIDIA TensorRT is a high-performance inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. The following notebook demonstrates our recommended inference workflow.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-model-inference-using-tensorflow-and-tensorrt/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/inference/resnet-model-inference-tensorrt",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -190,7 +244,10 @@
       "path": "_news/2020-06-20-tensorflow-robot-recognizes-objects.md",
       "title": "TensorFlow Robot Recognizes Objects",
       "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-tensorflow-robot-recognizes-objects/index.json",
       "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -229,7 +286,10 @@
       "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
       "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
       "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/index.json",
       "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-tensorflow-2-0-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -277,7 +337,10 @@
       "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
       "title": "How to become a TensorFlow developer",
       "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-how-to-become-a-tensorflow-developer/index.json",
       "webUrl": "https://www.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -316,7 +379,10 @@
       "path": "_news/2020-05-28-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip.md",
       "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip/index.json",
       "webUrl": "https://www.bloomberg.com/press-releases/2020-05-27/synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -355,7 +421,10 @@
       "path": "_news/2020-05-27-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip.md",
       "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
       "excerpt": "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip/index.json",
       "webUrl": "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -385,7 +454,10 @@
       "path": "_news/2020-05-27-tensorflow-tutorial-uses-python.md",
       "title": "Tensorflow Tutorial Uses Python",
       "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-tensorflow-tutorial-uses-python/index.json",
       "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -424,7 +496,10 @@
       "path": "_news/2020-05-22-object-detection-with-tensorflow.md",
       "title": "Object Detection, With TensorFlow",
       "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-object-detection-with-tensorflow/index.json",
       "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -464,7 +539,10 @@
       "path": "_news/2020-05-16-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
       "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
       "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-16-smarter-phones-in-your-hacks-with-tensorflow-lite/index.json",
       "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [

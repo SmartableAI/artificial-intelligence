@@ -2,10 +2,63 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-05-20-face-mask-selfies-are-being-used-to-retrain-facial-recognition-systems.md",
+      "title": "Face mask selfies are being used to retrain facial recognition systems",
+      "excerpt": "Millions of people started wearing face masks in public settings after the Centers for Disease Control and Prevention (CDC) recommended doing so last month to help slow the spread of Covid-19 when social distancing measures are difficult to maintain.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-face-mask-selfies-are-being-used-to-retrain-facial-recognition-systems/index.json",
+      "webUrl": "https://www.techspot.com/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-20-image-18.jpg",
+          "width": 1500,
+          "height": 1125,
+          "title": "Face mask selfies are being used to retrain facial recognition systems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85307-face-mask-selfies-used-retrain-facial-recognition-systems.html",
+      "publishedDateTime": "2020-05-20T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network.md",
       "title": "Shopify intros Balance debit card for SMBs, expands access to AI fulfillment network",
       "excerpt": "E-commerce platform provider Shopify on Wednesday unveiled a new financial service for its small business merchants that aims to consolidate business transactions and cash flows into a single business account.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/index.json",
       "webUrl": "https://www.zdnet.com/article/shopify-intros-balance-debit-card-for-smbs-expands-access-to-ai-fulfillment-network/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -51,7 +104,10 @@
       "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
       "title": "Search engines are leveraging AI to improve their language understanding",
       "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding/index.json",
       "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -99,7 +155,10 @@
       "path": "_news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars.md",
       "title": "Watch Out For Those Looming AI Oligopolies, Including For Self-Driving Cars",
       "excerpt": "Via the advent of Machine Learning (ML) and Deep Learning (DL), many of these AI applications are intended to adjust on-the-fly and tailor themselves in real-time to the efforts they were designed to meet.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/index.json",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/20/watch-out-for-those-looming-ai-oligopolies-including-for-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -146,7 +205,10 @@
       "path": "_news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers.md",
       "title": "AI and Machine Learning for Game Design: The Positive Influencers",
       "excerpt": "Artificial intelligence and machine learning help improve the game designing approach with evaluation and response support.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-ai-and-machine-learning-for-game-design-the-positive-influencers/index.json",
       "webUrl": "https://www.gamasutra.com/blogs/VivekSonchhatra/20200520/363256/AI_and_Machine_Learning_for_Game_Design_The_Positive_Influencers.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -184,7 +246,10 @@
       "path": "_news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders.md",
       "title": "Sphero spins out Company Six to bring robotics tech to first responders",
       "excerpt": "Colorado-based Sphero launched Company Six, a new robotics company focused on first responder and disaster response technologies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/index.json",
       "webUrl": "https://venturebeat.com/2020/05/20/sphero-spins-out-company-six-to-bring-robotics-tech-to-first-responders/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -231,7 +296,10 @@
       "path": "_news/2020-05-20-microsoft-and-openai-team-to-build-a-285000-core-azure-supercomputer.md",
       "title": "Microsoft And OpenAI Team To Build A 285,000-Core Azure Supercomputer",
       "excerpt": "Microsoft recently announced that it teamed up with OpenAI to create one of the world's fastest supercomputers running on the Azure infrastructure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-microsoft-and-openai-team-to-build-a-285000-core-azure-supercomputer/index.json",
       "webUrl": "https://hothardware.com/news/openai-supercomputer-by-microsoft",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -269,7 +337,10 @@
       "path": "_news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications.md",
       "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
       "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, today announced",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom/article_f967488a-a5b0-596b-9ac6-9a6fefae5e73.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -307,7 +378,10 @@
       "path": "_news/2020-05-20-facial-recognition-reunites-missing-child-after-32-years.md",
       "title": "Facial recognition reunites missing child after 32 years",
       "excerpt": "Facial recognition technology leading to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-facial-recognition-reunites-missing-child-after-32-years/index.json",
       "webUrl": "https://www.myhighplains.com/news/world/facial-recognition-reunites-missing-child-after-32-years/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -345,7 +419,10 @@
       "path": "_news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying.md",
       "title": "‘Self-driving’ shared electric scooters are here – Are they awesome or terrifying?",
       "excerpt": "Shared electric scooter provider Go X is combining its scooters with self-driving tech from the company Tortoise to solve the first and last step problem of shared e-scooters: finding and returning the scooters.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-self-driving-shared-electric-scooters-are-here-are-they-awesome-or-terrifying/index.json",
       "webUrl": "https://electrek.co/2020/05/20/g0-x-self-driving-shared-electric-scooters-are-here/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -392,7 +469,10 @@
       "path": "_news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain.md",
       "title": "Facial Recognition Firms Pitch Covid-19 ‘Immunity Passports’ For America And Britain",
       "excerpt": "FaceFirst pitches a coronavirus health passport system, though concerns around civil liberties and privacy abound.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/index.json",
       "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/05/20/facial-recognition-firms-pitch-covid-19-immunity-passports-for-america-and-britain/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -439,7 +519,10 @@
       "path": "_news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials.md",
       "title": "This Lab ‘Cooks’ With AI to Make New Materials",
       "excerpt": "A Toronto lab recycles carbon dioxide into more useful chemicals, using materials it discovered with artificial intelligence and supercomputers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-this-lab-cooks-with-ai-to-make-new-materials/index.json",
       "webUrl": "https://www.wired.com/story/this-lab-cooks-with-ai-to-make-new-materials/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -486,7 +569,10 @@
       "path": "_news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure.md",
       "title": "Microsoft built a new AI supercomputer in Azure",
       "excerpt": "Microsoft built an AI supercomputer ranked 5 in the top500 supercomputers. It has over 285,000 CPU cores and 10,000 GPUs. Read more about it!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-microsoft-built-a-new-ai-supercomputer-in-azure/index.json",
       "webUrl": "https://windowsreport.com/microsoft-built-a-new-ai-supercomputer-in-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -524,7 +610,10 @@
       "path": "_news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
       "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
       "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what had been a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/index.json",
       "webUrl": "https://www.wkrn.com/news/facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -562,7 +651,10 @@
       "path": "_news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie.md",
       "title": "Five questions for Microsoft EVP of Cloud and AI Scott Guthrie",
       "excerpt": "What's Microsoft's head of Cloud and AI been up to lately? What is he most excited about at Build 2020 and beyond? I asked and ScottGu (sort of) answered.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/index.json",
       "webUrl": "https://www.zdnet.com/article/five-questions-for-microsoft-evp-of-cloud-and-ai-scott-guthrie/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -609,7 +701,10 @@
       "path": "_news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning.md",
       "title": "SAS boosts healthy bee populations through advanced analytics and machine learning",
       "excerpt": "As part of its commitment to using data and analytics to solve the world's most pressing problems, SAS' recent work includes helping to",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sas-boosts-healthy-bee-populations-through-advanced-analytics-and-machine-learning/article_485ec294-2a44-5327-ae6a-1709e3772f22.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -647,7 +742,10 @@
       "path": "_news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers.md",
       "title": "Google says it won't build AI tools for oil and gas drillers",
       "excerpt": "Google's announcement followed a report that documents how three tech giants are using AI to help oil companies find and access oil and gas deposits.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-google-says-it-wont-build-ai-tools-for-oil-and-gas-drillers/index.json",
       "webUrl": "https://www.nbcnews.com/tech/tech-news/google-says-it-won-t-build-ai-tools-oil-gas-n1211076",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -684,7 +782,10 @@
       "path": "_news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system.md",
       "title": "Nvidia reveals why it chose rival AMD over Intel for its deep learning system",
       "excerpt": "In Nvidia’s first two DGX systems, Intel’s Xeon CPUs were the preferred processor, but the company dropped them in the DGX A100 for two of AMD's 64-core, Zen 2-based Epyc 7742 CPUs. The system, which uses the new,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-nvidia-reveals-why-it-chose-rival-amd-over-intel-for-its-deep-learning-system/index.json",
       "webUrl": "https://www.techspot.com/news/85301-nvidia-reveals-why-chose-rival-amd-over-intel.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -731,7 +832,10 @@
       "path": "_news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite.md",
       "title": "Now hiring AI futurists: It’s time for artificial intelligence to take a seat in the C-Suite",
       "excerpt": "In a time of COVID-19 disruption, futurists can accelerate organizational recovery and capacity. When partnered with purpose-built AI, augmented intelligence can also spur radical innovation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-now-hiring-ai-futurists-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/index.json",
       "webUrl": "https://www.zdnet.com/article/now-hiring-ai-futurists-in-an-era-of-covid-19-its-time-for-artificial-intelligence-to-take-a-seat-in-the-c-suite/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -778,7 +882,10 @@
       "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
       "title": "This AI Maestro Wants to Serenade You",
       "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-this-ai-maestro-wants-to-serenade-you/index.json",
       "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -825,7 +932,10 @@
       "path": "_news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain.md",
       "title": "Warehouse Robots Provide Crucial Link In Supply Chain",
       "excerpt": "Throughout the coronavirus crisis, the e-commerce supply chain – retailers, shippers, third-party logistics operations, fulfillment centers and sortation facilities – delivered. UPS and FedEx drivers came to symbolize a sense of national resiliency.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-warehouse-robots-provide-crucial-link-in-supply-chain/index.json",
       "webUrl": "https://www.forbes.com/sites/richblake1/2020/05/20/warehouse-robots-provide-crucial-link-in-supply-chain/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -863,7 +973,10 @@
       "path": "_news/2020-05-20-when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction.md",
       "title": "When It Comes To Leveraging AI For Your Business, Don't Forget About The Power Of Human Interaction",
       "excerpt": "Don’t view AI as a replacement for your team, but rather as a member of your team, to provide better workflow, better processes and greater efficiency.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/index.json",
       "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/05/20/when-it-comes-to-leveraging-ai-for-your-business-dont-forget-about-the-power-of-human-interaction/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -909,7 +1022,10 @@
       "path": "_news/2020-05-20-the-morning-after-microsoft-unveils-its-powerful-open-ai-supercomputer.md",
       "title": "The Morning After: Microsoft unveils its powerful Open AI supercomputer",
       "excerpt": "Apple TV+, Microsoft's Build 2020 and OnePlus' 'x-ray' mode gets cut.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-the-morning-after-microsoft-unveils-its-powerful-open-ai-supercomputer/index.json",
       "webUrl": "https://www.engadget.com/the-morning-after-microsoft-ai-supercomputer-113456625.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -956,7 +1072,10 @@
       "path": "_news/2020-05-20-microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine.md",
       "title": "Microsoft’s new supercomputer will unlock AI opportunities that are ‘hard to even imagine’",
       "excerpt": "The supercomputer was built in partnership with and will be exclusively used by OpenAI, a San Francisco-based firm dedicated to the ethical implementation of AI. According to a Microsoft blog, the design of its supercomputer was informed by new developments in the field of AI research,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine/index.json",
       "webUrl": "https://www.techradar.com/au/news/microsofts-new-supercomputer-will-unlock-ai-opportunities-that-are-hard-to-even-imagine",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -1004,7 +1123,10 @@
       "path": "_news/2020-05-20-coronavirus-bahrain-sees-fintech-take-up-surge-amid-covid-19-crisis.md",
       "title": "Coronavirus: Bahrain sees fintech take-up surge amid Covid-19 crisis",
       "excerpt": "which provides a testbed for fintech startups. The central bank is offering international fintechs a gateway into the Gulf Cooperation Council (GCC) block of countries. We look at how AI and data ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-coronavirus-bahrain-sees-fintech-take-up-surge-amid-covid-19-crisis/index.json",
       "webUrl": "https://www.computerweekly.com/news/252483402/Coronavirus-Bahrain-sees-fintech-take-up-surge-amid-Covid-19-crisis",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1042,7 +1164,10 @@
       "path": "_news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight.md",
       "title": "Robots deployed to help Bahrain's frontline workers in virus fight",
       "excerpt": "One of the robots also speaks 12 different languages and can identify patients through facial recognition. Health Ministry Under-Secretary Dr Waleed Al Manea said yesterday that this was their first time foraying into Artificial Intelligence (AI) and using it to fight the pandemic. “We have started using the robots in the isolation and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-robots-deployed-to-help-bahrains-frontline-workers-in-virus-fight/index.json",
       "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_deployed_to_help_Bahrains_frontline_workers_in_virus_fight-SNG_174983408/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1080,7 +1205,10 @@
       "path": "_news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools.md",
       "title": "Build 2020: Azure Stack Hub updated with six new features, including machine-learning tools",
       "excerpt": "Microsoft has announced a slew of up updates to its hybrid cloud platform at its Build 2020 developer conference, which is taking place virtually this year due to the COVID-19 pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/index.json",
       "webUrl": "https://www.techrepublic.com/article/build-2020-azure-stack-hub-updated-with-six-new-features-including-machine-learning-tools/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -1128,7 +1256,10 @@
       "path": "_news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v.md",
       "title": "Teen Programmer Uses Real Self-Driving Car Tech in 'GTA V'",
       "excerpt": "Driving in 'Grand Theft Auto V' can be... messy. A teen programmer figured out how to use real-life self-driving car technology to make it a little easier.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-teen-programmer-uses-real-self-driving-car-tech-in-gta-v/index.json",
       "webUrl": "https://www.vice.com/en_uk/article/4aydxn/teen-programmer-uses-real-self-driving-car-tech-in-gta-v",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1175,7 +1306,10 @@
       "path": "_news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans.md",
       "title": "US semiconductor giant shuts China factory hailed as ‘a miracle’, in blow to Beijing’s chip plans",
       "excerpt": "The winding down of GlobalFoundries’ only Chinese facility was due to poor planning, analysts said, but comes at a time of rising US-China tech tensions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-us-semiconductor-giant-shuts-china-factory-hailed-as-a-miracle-in-blow-to-beijings-chip-plans/index.json",
       "webUrl": "https://www.scmp.com/economy/china-economy/article/3085230/us-semiconductor-giant-shuts-china-factory-hailed-miracle",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1222,7 +1356,10 @@
       "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
       "title": "Alibaba to invest $1B on AI integration with smart speaker",
       "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/index.json",
       "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1264,35 +1401,6 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-20-lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19.md",
-      "title": "Lathem's Face Recognition Time Clocks See Uptick in Sales During COVID-19",
-      "excerpt": "Contactless Employee Time and Attendance Joins Face Masks, Gloves and Social Distancing for Employee Health and Safety Return to Work ATLANTA (PRWEB)",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/05/p16072620/lathems-face-recognition-time-clocks-see-uptick-in-sales-during-covid-19",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16072620",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16072620",
-      "publishedDateTime": "2020-05-20T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

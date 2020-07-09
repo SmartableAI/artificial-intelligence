@@ -2,10 +2,63 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
+      "title": "Top Companies To Short As Stock Market Optimism Dips",
+      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips/index.json",
+      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "Top Companies To Short As Stock Market Optimism Dips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
+      "publishedDateTime": "2020-06-12T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
       "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
       "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data/index.json",
       "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -52,7 +105,10 @@
       "path": "_news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic.md",
       "title": "How This AI Company Is Working to Transform Space Exploration in an Age of Global Pandemic",
       "excerpt": "Hypergiant founder and CEO Ben Lamm explains AI's role in creating a more flexible infrastructure for the future of space exploration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-how-this-ai-company-is-working-to-transform-space-exploration-in-an-age-of-global-pandemic/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351699",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -98,7 +154,10 @@
       "path": "_news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact.md",
       "title": "Researchers propose framework to measure AI’s social and environmental impact",
       "excerpt": "Researchers propose a framework -- SECure -- designed to measure the social and environmental impact of AI systems in the real world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-researchers-propose-framework-to-measure-ais-social-and-environmental-impact/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/researchers-propose-framework-to-measure-ais-social-and-environmental-impact/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -145,7 +204,10 @@
       "path": "_news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines.md",
       "title": "AI Emerges As A Major Player In The Race To Find Covid-19 Therapies And Vaccines",
       "excerpt": "In this piece, I discuss how Covid-19 research has quickly created unprecedented amounts of publicly available research data and why privacy is top of mind. This piece also looks at the impact AI has during this time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/index.json",
       "webUrl": "https://www.forbes.com/sites/brianuzzi/2020/06/12/ai-emerges-as-a-major-player-in-the-race-to-find-covid-19-therapies-and-vaccines/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -191,7 +253,10 @@
       "path": "_news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars.md",
       "title": "Achieving ‘Provably Beneficial AI’ Is Demonstrably Vexing, Including The Case Of Self-Driving Cars",
       "excerpt": "But do we know that these AI systems are going to act in beneficial ways? Perhaps among the plethora of AI systems are some that will be or might become untoward, working in non-beneficial ways, carrying out detrimental acts that in some manner cause irreparable harm,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/index.json",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/12/achieving-provably-beneficial-ai-is-demonstrably-vexing-including-the-case-of-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 157,
       "tags": null,
       "images": [
@@ -239,7 +304,10 @@
       "path": "_news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence.md",
       "title": "Tech vets lead Panda AI, a secretive new spinout from the Allen Institute for Artificial Intelligence",
       "excerpt": "Veteran tech execs are heading up a stealthy new startup formed inside the Allen Institute for Artificial Intelligence (AI2) in Seattle. Panda AI isn’t yet sharing many details about its technology",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-tech-vets-lead-panda-ai-a-secretive-new-spinout-from-the-allen-institute-for-artificial-intelligence/index.json",
       "webUrl": "https://www.geekwire.com/2020/tech-vets-lead-panda-ai-secretive-new-spinout-allen-institute-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -285,7 +353,10 @@
       "path": "_news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results.md",
       "title": "Facebook’s ‘Deepfake Detection Challenge’ yields promising early results",
       "excerpt": "The digitally face-swapped videos known as deepfakes aren’t going anywhere, but if platforms want to be able to keep an eye on them, they need to find them first. Doing so was the object of Facebook’s “Deepfake Detection Challenge,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-facebooks-deepfake-detection-challenge-yields-promising-early-results/index.json",
       "webUrl": "https://techcrunch.com/2020/06/12/facebooks-deepfake-detection-challenge-yields-promising-early-results/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 113,
       "tags": null,
       "images": [
@@ -332,7 +403,10 @@
       "path": "_news/2020-06-12-ai-war-games-and-the-challenge-of-china.md",
       "title": "AI War Games And The Challenge Of China",
       "excerpt": "Can you talk a little bit about what an AI war game would entail? JASON: There are many different formats for war games, but the fundamental goal for all of them is to explore different approaches to addressing some competitive challenge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ai-war-games-and-the-challenge-of-china/index.json",
       "webUrl": "https://www.forbes.com/sites/craigsmith/2020/06/12/ai-war-games-and-the-challenge-of-china/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -379,7 +453,10 @@
       "path": "_news/2020-06-12-udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud.md",
       "title": "Udacity, Microsoft to skill people in machine learning for Azure Cloud",
       "excerpt": "Phase one of the programme will provide 10,000 applicants access to the two-month-long foundation course titled Introduction to Machine Learning on Azure' with a low-code experience. The second phase will offer a scholarship for the new programme in Microsoft Azure to top 300 performers of the foundation course,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-udacity-microsoft-to-skill-people-in-machine-learning-for-azure-cloud/index.json",
       "webUrl": "https://news.webindia123.com/news/articles/Science/20200612/3574912.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -408,7 +485,10 @@
       "path": "_news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws.md",
       "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
       "excerpt": "A special chapter in the study presents Impact Analysis of COVID-19 on Global Deep Learning Neural Networks Market along with tables and graphs related to various country and segments showcasing impact on growth trends.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -455,7 +535,10 @@
       "path": "_news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform.md",
       "title": "Citizen Isn't Here to Be Your Free-Speech Platform",
       "excerpt": "I have become a Citizen addict. Citizen is an app, currently active in 18 cities, that’s sort of a supercharged police scanner—its home screen is a map of the area around your location that pinpoints disturbances.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-citizen-isnt-here-to-be-your-free-speech-platform/index.json",
       "webUrl": "https://www.wired.com/story/plaintext-citizen-isnt-here-to-be-your-free-speech-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -502,7 +585,10 @@
       "path": "_news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns.md",
       "title": "Tech Giants Back Away From Facial Recognition Amid Bias Concerns",
       "excerpt": "On June 10, Amazon announced a one-year moratorium on police use of Amazon’s facial recognition technology, Amazon Rekognition. In a blog post, Amazon said it will still allow organizations such as Thorn, the International Center for Missing and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-tech-giants-back-away-from-facial-recognition-amid-bias-concerns/index.json",
       "webUrl": "https://www.meritalk.com/articles/tech-giants-back-away-from-facial-recognition-amid-bias-concerns/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -540,7 +626,10 @@
       "path": "_news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm.md",
       "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
       "excerpt": "Deep Learning Chipset Market Research: Global Status & Forecast by Geography, Type &",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -587,7 +676,10 @@
       "path": "_news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026.md",
       "title": "Machine Learning Market By Component, End-use, Size, Opportunities And Forecast, 2019 – 2026",
       "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Machine Learning market anticipated to exceed US$ 76.8 Bn by 2027, along with the projected CAGR of 40.1% from 2020 to 2027\". The global Machine Learning market research report encompasses qualitative and quantitative data derived from the analysis by experts and research analysts in the respective industry verticals from valid sources with the help of primary and secondary research tools.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-by-component-end-use-size-opportunities-and-forecast-2019-2026-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -634,7 +726,10 @@
       "path": "_news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud.md",
       "title": "Cloud storage on-site hardware: AWS, Azure, Google Cloud",
       "excerpt": "AWS’s Outposts, Gateway and Snow hardware, Azure’s Stack and Arc appliances, and Google Cloud’s software-defined Anthos.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cloud-storage-on-site-hardware-aws-azure-google-cloud/index.json",
       "webUrl": "https://www.computerweekly.com/feature/Cloud-storage-on-site-hardware-AWS-Azure-Google-Cloud",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -663,7 +758,10 @@
       "path": "_news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles.md",
       "title": "How AI Can Support The Supply Chain And Overcome Hurdles",
       "excerpt": "Behind the scenes and out of the public eye, AI is powering hundreds of logistics decisions and overcoming thousands of external hurdles.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-how-ai-can-support-the-supply-chain-and-overcome-hurdles/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/12/how-ai-can-support-the-supply-chain-and-overcome-hurdles/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -709,7 +807,10 @@
       "path": "_news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday.md",
       "title": "CVPR 2020 Convenes Thousands from the Global AI, Machine Learning and Computer Vision Community in Virtual Event Beginning Sunday",
       "excerpt": "LOS ALAMITOS, Calif., June 12, 2020 /PRNewswire/ -- The Computer Vision and Pattern Recognition (CVPR) Conference, one of the largest events exploring artificial intelligence, machine learning ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday/index.json",
       "webUrl": "https://www.prnewswire.com/news-releases/cvpr-2020-convenes-thousands-from-the-global-ai-machine-learning-and-computer-vision-community-in-virtual-event-beginning-sunday-301074876.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -747,7 +848,10 @@
       "path": "_news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai.md",
       "title": "War machines: DOD's ethical principles for battlefield AI",
       "excerpt": "Earlier this year, the Department of Defense announced the adoption of its ethical principles for Artificial Intelligence. ZDNet has been tracking this process since it gained momentum, but DoD's official adoption of the principles was overshadowed in the general media when COVID hit the US.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-war-machines-dods-ethical-principles-for-battlefield-ai/index.json",
       "webUrl": "https://www.zdnet.com/article/war-machines-dods-ethical-guidelines-for-battlefield-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -794,7 +898,10 @@
       "path": "_news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program.md",
       "title": "Udacity & Microsoft partner to launch machine learning scholarship program",
       "excerpt": "Ed-tech start up Udacity has collaborated with technology major Microsoft to award scholarships for its all new Machine Learning Nanodegree program in Microsoft Azure. The new Udacity Machine ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-udacity-microsoft-partner-to-launch-machine-learning-scholarship-program/index.json",
       "webUrl": "https://www.livemint.com/companies/start-ups/udacity-microsoft-partner-to-launch-machine-learning-scholarship-program-11591937550911.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -832,7 +939,10 @@
       "path": "_news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department.md",
       "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
       "excerpt": "Acute appendicitis is one of the most common causes of abdominal emergencies. We investigated the feasibility of a neural-network-based diagnosis algorithm of appendicitis by using computed tomography (CT) for patients with acute abdominal pain visiting the emergency room (ER).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-66674-7",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -870,7 +980,10 @@
       "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/index.json",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -909,7 +1022,10 @@
       "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
       "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
       "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-66505-9",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -947,7 +1063,10 @@
       "path": "_news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning.md",
       "title": "Tutorial: Build and deploy a custom skill with Azure Machine Learning",
       "excerpt": "This tutorial demonstrates how to use Azure Machine Learning to build and deploy a custom skill for Azure Cognitive Search's AI enrichment pipeline.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-tutorial-build-and-deploy-a-custom-skill-with-azure-machine-learning/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/azure/search/cognitive-search-tutorial-aml-custom-skill",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -994,7 +1113,10 @@
       "path": "_news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision.md",
       "title": "3 (Not So Obvious) Industries That Could Be Transformed By Computer Vision",
       "excerpt": "Computer vision, or machine vision, is an important business trend that will transform many industries and many business processes. Here we look at three not so obvious examples to showcase that it is important for any industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/index.json",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/12/3-not-so-obvious-industries-that-could-be-transformed-by-computer-vision/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1025,53 +1147,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
-      "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-      "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ...",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11?mod=mw_quote_news",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-11T20:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

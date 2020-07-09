@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-kill
 ampWebUrl: "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/"
 type: article
-quality: 103
-heat: 113
+quality: 105
+heat: 115
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI Ethics
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all"

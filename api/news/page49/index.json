@@ -2,10 +2,62 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-05-29-amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices.md",
+      "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
+      "excerpt": "Amazon has discontinued the Alexa-powered Echo Look as it migrates the device's key features to other apps and devices.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/index.json",
+      "webUrl": "https://venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Echo-Look-Model-1-e1590770299625.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon discontinues the Echo Look and migrates AI style recommendations to other apps and devices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/29/amazon-discontinues-the-echo-look-and-migrates-ai-style-recommendations-to-other-apps-and-devices/amp/",
+      "publishedDateTime": "2020-05-29T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy.md",
       "title": "Please, Keep Artificial Intelligence From Becoming Another Out-Of-Touch Bureaucracy",
       "excerpt": "Successful companies thrive on spontaneity, serendipity and spirit — not mechanized, robotic decision-making, Seventy percent of all AI projects need to be about human collaboration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/index.json",
       "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/05/29/please-keep-artificial-intelligence-from-becoming-another-out-of-touch-bureaucracy/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -51,7 +103,10 @@
       "path": "_news/2020-05-29-semi-autonomous-and-autonomous-vehicle-market.md",
       "title": "Semi-Autonomous and Autonomous Vehicle Market",
       "excerpt": "Semi-autonomous vehicles can be defined as those automotive that has the capability of driving themselves with the help of various sensors, radars, and artificial intelligence but require the ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-semi-autonomous-and-autonomous-vehicle-market/index.json",
       "webUrl": "https://www.openpr.com/news/2062303/semi-autonomous-and-autonomous-vehicle-market-to-witness-huge",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -80,7 +135,10 @@
       "path": "_news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration.md",
       "title": "Owkin Raises $25M to Enhance Medical Research Machine Learning and Collaboration",
       "excerpt": "Owkin is fueling collaborative medical research using machine learning while being compliant with privacy laws. Thomas Clozel discusses the unique benefits of Owkin.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-owkin-raises-25m-to-enhance-medical-research-machine-learning-and-collaboration/index.json",
       "webUrl": "https://www.alleywatch.com/2020/05/owkin-collaborative-medical-research-privacy-thomas-clozel/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -119,7 +177,10 @@
       "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
       "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
       "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/index.json",
       "webUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -166,7 +227,10 @@
       "path": "_news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians.md",
       "title": "Study finds Amazon's face recognition incorrectly matches 105 US and UK politicians",
       "excerpt": "Amazon's Rekognition software is still struggling with basic facial recognition, according to Comparitech, in a follow-up to an ACLU experiment.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/index.json",
       "webUrl": "https://www.techrepublic.com/article/study-finds-amazons-face-recognition-incorrectly-matches-105-us-and-uk-politicians/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -214,7 +278,10 @@
       "path": "_news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar.md",
       "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
       "excerpt": "OpenAI has quietly unveiled GPT-3, the latest incarnation of its headline-grabbing text generator, which comes with an enormous 175 billion parameters",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -261,7 +328,10 @@
       "path": "_news/2020-05-29-softbank-leads-500-million-investment-in-chinese-ride-hailing-firm-didis-self-driving-car-unit.md",
       "title": "SoftBank leads $500 million investment in Chinese ride-hailing firm Didi's self-driving car unit",
       "excerpt": "Didi said it will use the funding to \"accelerate\" the launch of driverless vehicle services in China and abroad.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-softbank-leads-500-million-investment-in-chinese-ride-hailing-firm-didis-self-driving-car-unit/index.json",
       "webUrl": "https://www.cnbc.com/2020/05/29/softbank-leads-500-million-investment-in-chinese-uber-rival-didi.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -308,7 +378,10 @@
       "path": "_news/2020-05-29-didi-chuxing-raises-us500-million-for-self-driving-unit-in-funding-round-led-by-softbank.md",
       "title": "Didi Chuxing raises US$500 million for self-driving unit in funding round led by SoftBank",
       "excerpt": "Japanese technology conglomerate SoftBank Group Corp led the funding round, which marks the single largest investment in China’s autonomous driving sector.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-didi-chuxing-raises-us500-million-for-self-driving-unit-in-funding-round-led-by-softbank/index.json",
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3086762/didi-chuxing-raises-us500-million-self-driving-unit-funding-round",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -355,7 +428,10 @@
       "path": "_news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280.md",
       "title": "Cognitive Computing Market 2020-2025 Insights, Technology Advancements and Future Growth Analysis | CAGR (28.0%)",
       "excerpt": "The report presents an in depth assessment of the Cognitive Computing Market including enabling technologies key trends market drivers challenges standardization regulatory landscape deployment models operator case studies opportunities future roadmap value chain ecosystem player profiles and strategies The report",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-cognitive-computing-market-2020-2025-insights-technology-advancements-and-future-growth-analysis-cagr-280/index.json",
       "webUrl": "https://www.openpr.com/news/2062025/cognitive-computing-market-2020-2025-insights-technology",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -384,7 +460,10 @@
       "path": "_news/2020-05-29-chinas-didi-raises-more-than-500-million-for-self-driving-tech.md",
       "title": "China’s Didi Raises More Than $500 Million for Self-Driving Tech",
       "excerpt": "Chinese ride-hailing giant Didi Chuxing Technology raised more than $500 million in a funding round led by SoftBank Group for its autonomous driving subsidiary, as it competes with well-backed U.S. startups over self-driving technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-chinas-didi-raises-more-than-500-million-for-self-driving-tech/index.json",
       "webUrl": "https://www.wsj.com/articles/chinas-didi-raises-more-than-500-million-for-self-driving-tech-11590753837",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -431,7 +510,10 @@
       "path": "_news/2020-05-29-what-businesses-can-learn-about-algorithms-from-the-financial-industry.md",
       "title": "What Businesses Can Learn About Algorithms From The Financial Industry",
       "excerpt": "Algorithms can be applied across a business to assist with any processes that need streamlining or any problems that need effective predictive outcomes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-what-businesses-can-learn-about-algorithms-from-the-financial-industry/index.json",
       "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/29/what-businesses-can-learn-about-algorithms-from-the-financial-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -478,7 +560,10 @@
       "path": "_news/2020-05-29-what-todays-execs-need-to-know-about-ai.md",
       "title": "What Today's Execs Need To Know About AI",
       "excerpt": "AI systems aren’t thinking for themselves — they’re just accomplishing the tasks we’ve assigned them in new and better ways.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-what-todays-execs-need-to-know-about-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/what-todays-execs-need-to-know-about-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -525,7 +610,10 @@
       "path": "_news/2020-05-29-how-open-source-data-can-drive-automotive-innovation.md",
       "title": "How Open-Source Data Can Drive Automotive Innovation",
       "excerpt": "Progress on these fronts will be crucial to making smart cars even more intelligent and bringing self-driving cars to fruition, but industry stakeholders are also concentrating on another key to automotive innovation: open-source data,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-how-open-source-data-can-drive-automotive-innovation/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/how-open-source-data-can-drive-automotive-innovation/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -572,7 +660,10 @@
       "path": "_news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission.md",
       "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
       "excerpt": "The internal workings of ML algorithms are something of a black box, which makes vigilant monitoring of their predictions extremely important.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -619,7 +710,10 @@
       "path": "_news/2020-05-29-fca-using-nlp-machine-learning-to-regulate-businesses.md",
       "title": "FCA Using NLP, Machine Learning to Regulate Businesses",
       "excerpt": "The Financial Conduct Authority (FCA) is using emerging technology like machine learning and natural language processing, as part of its broader strategy to utilize data more effectively, said Steven Green, who is head of central data services ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-fca-using-nlp-machine-learning-to-regulate-businesses/index.json",
       "webUrl": "https://www.waterstechnology.com/regulation/7551751/fca-using-nlp-machine-learning-to-regulate-businesses",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -657,7 +751,10 @@
       "path": "_news/2020-05-29-coronavirus-and-the-rise-of-the-ai-economy.md",
       "title": "Coronavirus And The Rise Of The AI Economy",
       "excerpt": "The World Bank has predicted the coronavirus is pushing 40 to 60 million people into extreme poverty. Calls for international solidarity have so far delivered little tangible support and the risk of country debt defaults and corporate bankruptcies and the human costs associated with it is rising.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-coronavirus-and-the-rise-of-the-ai-economy/index.json",
       "webUrl": "https://www.forbes.com/sites/rainermichaelpreiss/2020/05/29/coronavirus-and-the-rise-of-the-ai-economy/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -703,7 +800,10 @@
       "path": "_news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work.md",
       "title": "Walmart Employees Are Out to Show Its Anti-Theft AI Doesn't Work",
       "excerpt": "The retailer denies there is any widespread issue with the software, but a group expressed frustration—and public health concerns.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-walmart-employees-are-out-to-show-its-anti-theft-ai-doesnt-work/index.json",
       "webUrl": "https://www.wired.com/story/walmart-shoplifting-artificial-intelligence-everseen/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -750,7 +850,10 @@
       "path": "_news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence.md",
       "title": "IIT-Ropar launches PG programme in Artificial Intelligence",
       "excerpt": "The Indian Institute of Technology (IIT-Ropar) and TSW, the executive education division of Times Professional Learning have launched a post graduate (PG) certificate programme in Artificial Intelligence and Deep Learning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-iit-ropar-launches-pg-programme-in-artificial-intelligence/index.json",
       "webUrl": "https://www.sakshieducation.com/Story.aspx?cid=0&sid=0&chid=0&tid=0&nid=266700",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -788,7 +891,10 @@
       "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
       "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
       "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty/index.json",
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -835,7 +941,10 @@
       "path": "_news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri.md",
       "title": "Apple buys machine-learning startup to improve data used in Siri",
       "excerpt": "(Bloomberg) -- Apple Inc. bought machine-learning startup Inductiv Inc., adding to more than a dozen AI-related acquisitions by the technology giant in the past few years.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-apple-buys-machine-learning-startup-to-improve-data-used-in-siri/index.json",
       "webUrl": "https://www.dig-in.com/articles/apple-buys-machine-learning-startup-to-improve-data-used-in-siri",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -873,7 +982,10 @@
       "path": "_news/2020-05-29-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "Synopsys QuickStart Implementation Kits (QIKs) are available now. Synopsys ported TensorFlow for Microcontrollers software from Google to the Synopsys DSP-enhanced DesignWare ARC Processor IP. Designed to run on memory-constrained designs, the port uses ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-week-in-review-design-low-power/index.json",
       "webUrl": "https://semiengineering.com/week-in-review-design-low-power-96/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -911,7 +1023,10 @@
       "path": "_news/2020-05-29-who-will-own-the-cars-that-drive-themselves.md",
       "title": "Who Will Own the Cars That Drive Themselves?",
       "excerpt": "Fleets of vehicles roaming streets waiting to be hailed are more efficient. But the coronavirus has made people think twice about the future of car ownership even when autonomous tech arrives.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-who-will-own-the-cars-that-drive-themselves/index.json",
       "webUrl": "https://www.nytimes.com/2020/05/29/business/ownership-autonomous-cars-coronavirus.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -958,7 +1073,10 @@
       "path": "_news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus.md",
       "title": "Hello and welcome: Robot waiters to the rescue amid virus",
       "excerpt": "You can always count on a robot for perfect timing. When Shaosong Hu saw robotic waiters serving food in China last fall, he knew exactly what he wanted for his",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/index.json",
       "webUrl": "https://www.wavy.com/news/technology/hello-and-welcome-robot-waiters-to-the-rescue-amid-virus/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -996,7 +1114,10 @@
       "path": "_news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics.md",
       "title": "Singapore to establish AI framework for 'fairness' credit scoring metrics",
       "excerpt": "Monetary Authority of Singapore tasks two teams, comprising banks and artificial intelligence industry players, to develop metrics that ensure the \"responsible use of AI\" for credit risk scoring and customer marketing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/index.json",
       "webUrl": "https://www.zdnet.com/article/singapore-to-establish-ai-framework-for-fairness-credit-scoring-metrics/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 90,
       "tags": null,
       "images": [
@@ -1038,53 +1159,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-29-heres-how-mfine-is-using-technology-to-disrupt-healthcare.md",
-      "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
-      "excerpt": "The Bengaluru-based start-up offers an online consultation platform and has seen teleconsultations grow 5-6 times in the last few weeks owing to the Coronavirus outbreak",
-      "webUrl": "https://www.entrepreneur.com/article/351226",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1590692668-Webpnet-compress-image43.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Here's How MFine Is Using Technology To Disrupt Healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351226",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351226",
-      "publishedDateTime": "2020-05-28T21:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -5,7 +5,10 @@
       "path": "_news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars.md",
       "title": "Volvo will use Waymo technology to power its self-driving cars",
       "excerpt": "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars/index.json",
       "webUrl": "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 289,
       "tags": null,
       "images": [
@@ -49,57 +52,13 @@
       ]
     },
     {
-      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
-      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-      "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles.",
-      "webUrl": "https://uk.reuters.com/article/uk-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUKKBN23W2V6",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643359&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27T",
-          "width": 817,
-          "height": 545,
-          "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN23W2V6",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN23W2V6",
-      "publishedDateTime": "2020-06-25T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
       "title": "Tesla's most robust self-driving package will cost more — again",
       "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again/index.json",
       "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -137,7 +96,10 @@
       "path": "_news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles.md",
       "title": "Volvo, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles/index.json",
       "webUrl": "https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -172,10 +134,63 @@
       ]
     },
     {
+      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles/index.json",
+      "webUrl": "https://in.reuters.com/article/us-waymo-volvo-autonomous-idINKBN23W2V0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23W2V0",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23W2V0",
+      "publishedDateTime": "2020-06-25T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
       "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
       "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/index.json",
       "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -222,7 +237,10 @@
       "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
       "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
       "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/index.json",
       "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -269,7 +287,10 @@
       "path": "_news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future.md",
       "title": "How Technology Will Create These 7 Jobs In The Future",
       "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future/index.json",
       "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -316,7 +337,10 @@
       "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
       "title": "Artificial vs augmented intelligence: what’s the difference?",
       "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -365,7 +389,10 @@
       "path": "_news/2020-06-23-mercedes-nvidia-to-team-up-on-powerful-computing-platform-for-avs.md",
       "title": "Mercedes, Nvidia to team up on powerful computing platform for AVs",
       "excerpt": "Benz and U.S. tech company Nvidia said they will jointly develop a powerful new computing platform for vehicles capable of supporting everything from over-the-air software updates to driverless car technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-mercedes-nvidia-to-team-up-on-powerful-computing-platform-for-avs/index.json",
       "webUrl": "https://europe.autonews.com/automakers/mercedes-nvidia-team-powerful-computing-platform-avs",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -403,7 +430,10 @@
       "path": "_news/2020-06-23-mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024.md",
       "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
       "excerpt": "Mercedes will use a full NVIDIA software and hardware system for their vehicles to power self-driving, with the first cars hitting the road in 2024. The system will be based on NVIDIA’s Orin chip, which they claim outperforms Tesla’s FSD computer by ~38%.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/index.json",
       "webUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 350,
       "tags": null,
       "images": [
@@ -451,7 +481,10 @@
       "path": "_news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030.md",
       "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
       "excerpt": "China's ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030, an executive said on Tuesday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030/index.json",
       "webUrl": "https://www.reuters.com/article/us-china-autonomous-didi-idUSKBN23U1U4",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -498,7 +531,10 @@
       "path": "_news/2020-06-23-book-review-ghost-road-by-anthony-m-townsend.md",
       "title": "Book review: Ghost Road, by Anthony M Townsend",
       "excerpt": "Many drivers will be particularly cherishing their cars just now as they afford a personalised and secure way of getting around amid fears about contracting Covid-19 on public transport in this new coronavirus age.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-book-review-ghost-road-by-anthony-m-townsend/index.json",
       "webUrl": "https://www.scotsman.com/arts-and-culture/books/book-review-ghost-road-anthony-m-townsend-2893160",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -536,7 +572,10 @@
       "path": "_news/2020-06-23-lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars.md",
       "title": "Lyft is using data from its ride-share drivers to develop self-driving cars",
       "excerpt": "Lyft is using data collected from drivers on its ride-hailing app to accelerate the development of self-driving cars. Lyft’s Level 5 self-driving car program is using the data to build 3D maps ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/index.json",
       "webUrl": "https://techcrunch.com/2020/06/23/lyft-is-using-data-from-its-ride-share-drivers-to-develop-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 92,
       "tags": null,
       "images": [
@@ -583,7 +622,10 @@
       "path": "_news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030.md",
       "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
       "excerpt": "China’s ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030/index.json",
       "webUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -630,7 +672,10 @@
       "path": "_news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer.md",
       "title": "Lyft details how it's going to make self-driving cars safer",
       "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer/index.json",
       "webUrl": "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 249,
       "tags": null,
       "images": [
@@ -677,7 +722,10 @@
       "path": "_news/2020-06-23-didi-chuxing-and-baic-form-self-driving-partnership.md",
       "title": "Didi Chuxing and BAIC form self driving partnership",
       "excerpt": "Chinese ride hailing company Didi Chuxing has entered into a strategic partnership with local carmaker BAIC Group, according to local reports.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-didi-chuxing-and-baic-form-self-driving-partnership/index.json",
       "webUrl": "https://www.just-auto.com/news/didi-chuxing-and-baic-form-self-driving-partnership_id196227.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -715,7 +763,10 @@
       "path": "_news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks.md",
       "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
       "excerpt": "Advantech and Crystal Group are teaming up to power that evolution based on AV trends, compute requirements, and a rugged COTS philosophy converging for breakthrough innovation in selfdriving truck designs.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks/index.json",
       "webUrl": "https://www.infoworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -762,7 +813,10 @@
       "path": "_news/2020-06-22-ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars.md",
       "title": "AI Ethics ‘Tuning Knobs’ A Questionable Mesh, Including For Self-Driving Cars",
       "excerpt": "AI systems are being churned out at quite a rapid pace, meanwhile, there are considerable qualms about whether such AI will exhibit ethical behavior. There is a rising tide of concern about AI ethics.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/index.json",
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/06/22/ai-ethics-tuning-knobs-a-questionable-mesh-including-for-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 163,
       "tags": null,
       "images": [
@@ -810,7 +864,10 @@
       "path": "_news/2020-06-22-the-key-differences-between-teslas-driving-aids-autopilot-and-full-self-driving.md",
       "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
       "excerpt": "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-the-key-differences-between-teslas-driving-aids-autopilot-and-full-self-driving/index.json",
       "webUrl": "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -857,7 +914,10 @@
       "path": "_news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake.md",
       "title": "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake",
       "excerpt": "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake/index.json",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": null,
@@ -895,7 +955,10 @@
       "path": "_news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems.md",
       "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
       "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/index.json",
       "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 154,
       "tags": null,
       "images": [
@@ -942,7 +1005,10 @@
       "path": "_news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai.md",
       "title": "The advantages of self-explainable AI over interpretable AI",
       "excerpt": "Would you trust an artificial intelligence algorithm that works eerily well, making accurate decisions 99.9% of the time, but is a mysterious black box? Every system fails every now and then, and when it does,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -989,7 +1055,10 @@
       "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
       "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
       "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training/index.json",
       "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -1027,7 +1096,10 @@
       "path": "_news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development.md",
       "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
       "excerpt": "The Department of Defense is moving forward of artificial intelligence projects for lethality. Experts warn that testing, experimentation and human understanding are critical to creating trustworthy systems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development/index.json",
       "webUrl": "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1065,7 +1137,10 @@
       "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
       "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
       "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale/index.json",
       "webUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -1112,7 +1187,10 @@
       "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
       "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
       "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties/index.json",
       "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1159,7 +1237,10 @@
       "path": "_news/2020-06-18-driver-free-but-virus-free-robo-cars-hit-new-speed-bump.md",
       "title": "Driver free but virus free? Robo cars hit new speed bump",
       "excerpt": "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn’t have a driver. Widespread use of autonomous vehicles already had been delayed by a March 2018 fatal crash involving an Uber test vehicle in Tempe,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-driver-free-but-virus-free-robo-cars-hit-new-speed-bump/index.json",
       "webUrl": "https://www.wspa.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1197,7 +1278,10 @@
       "path": "_news/2020-06-17-driver-free-but-virus-free-robo-cars-hit-new-speed-bump.md",
       "title": "Driver free but virus free? Robo cars hit new speed bump",
       "excerpt": "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-driver-free-but-virus-free-robo-cars-hit-new-speed-bump/index.json",
       "webUrl": "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1235,7 +1319,10 @@
       "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
       "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
       "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets/index.json",
       "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1274,7 +1361,10 @@
       "path": "_news/2020-06-17-self-driving-cars-and-the-future-of-personal-injury-law.md",
       "title": "Self-driving cars and the future of personal injury law",
       "excerpt": "Your article was successfully shared with the contacts you provided. Uber self-driving SUV that flipped on its side in a collision in Tempe, Arizona on March 24, 2017. (Photo: Tempe Police ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-self-driving-cars-and-the-future-of-personal-injury-law/index.json",
       "webUrl": "https://www.propertycasualty360.com/2020/06/17/self-driving-cars-and-the-future-of-personal-injury-law-414-181048/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [

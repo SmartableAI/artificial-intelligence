@@ -2,10 +2,63 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions.md",
+      "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
+      "excerpt": "After adopting his first dog last year, Patrick Opie was struggling with figuring out what Orin, his mini Australian shepherd, needed and when. The struggle went beyond coping with normal puppy",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions/index.json",
+      "webUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/orin1-630x472.jpeg",
+          "width": 630,
+          "height": 472,
+          "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/amp/",
+      "publishedDateTime": "2020-06-19T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-5-big-myths-of-ai-and-machine-learning-debunked-free-ebook.md",
       "title": "5 Big Myths of AI and Machine Learning Debunked - Free eBook",
       "excerpt": "The myths around artificial intelligence can get pretty dense,so we've taken five of the biggest and dissected them to help you understand the truth about today's AI landscape. Grab your free eBook!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-5-big-myths-of-ai-and-machine-learning-debunked-free-ebook/index.json",
       "webUrl": "https://www.neowin.net/news/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -52,7 +105,10 @@
       "path": "_news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song.md",
       "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
       "excerpt": "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song/index.json",
       "webUrl": "https://www.techspot.com/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -98,7 +154,10 @@
       "path": "_news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai.md",
       "title": "CVPR challenge pushes researchers to improve car accident detection AI",
       "excerpt": "The AI City Challenge attracted AI researchers from 30+ countries in a competition for tasks like spotting car accidents or stalled cars on highways.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/index.json",
       "webUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -144,7 +203,10 @@
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/index.json",
       "webUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -190,7 +252,10 @@
       "path": "_news/2020-06-19-artificial-intelligence-in-fintech-global-market-growth-trends-and-forecasts-to-2025-assessment-of-the-impact-of-covid-19-on-the-industry-researchandmarketscom.md",
       "title": "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com",
       "excerpt": "Growth, Trends, Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-in-fintech-global-market-growth-trends-and-forecasts-to-2025-assessment-of-the-impact-of-covid-19-on-the-industry-researchandmarketscom/index.json",
       "webUrl": "https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -228,7 +293,10 @@
       "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
       "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
       "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite/index.json",
       "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -266,7 +334,10 @@
       "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
       "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
       "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure/index.json",
       "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -304,7 +375,10 @@
       "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
       "title": "Mowing made easy: Robots tackle lawn care",
       "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care/index.json",
       "webUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -342,7 +416,10 @@
       "path": "_news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests.md",
       "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
       "excerpt": "Google announced a place for \"long-term interests\" called Keen that was made as part of its space for experimental efforts named Area 120.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests/index.json",
       "webUrl": "https://staykeen.com/landing",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 132,
       "tags": null,
       "images": [
@@ -379,7 +456,10 @@
       "path": "_news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream.md",
       "title": "A.I. Artificial Intelligence shows us a future where we neglect to dream",
       "excerpt": "A.I. begins with a brief summary of the sorry state of the world: climate change has melted the polar ice caps, wiping out coastal cities and severely reducing the human population. With regulations in place for reproduction on a resource-starved planet,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ai-artificial-intelligence-shows-us-a-future-where-we-neglect-to-dream/index.json",
       "webUrl": "https://www.theverge.com/2020/6/19/21296276/ai-artificial-intelligence-neglect-to-dream-yesterdays-future-scifi",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -426,7 +506,10 @@
       "path": "_news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility.md",
       "title": "R&D Roundup: Automated peach sniffers, orbital opportunity and AI accessibility",
       "excerpt": "I see far more research articles than I could possibly write up. This column collects the most interesting of those papers and advances, along with notes on why they may prove important in the world of tech and startups.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/index.json",
       "webUrl": "https://techcrunch.com/2020/06/19/rd-roundup-automated-peach-sniffers-orbital-opportunity-and-ai-accessibility/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -472,7 +555,10 @@
       "path": "_news/2020-06-19-correcting-and-replacing-vmware-introduces-delivery-of-elastic-infrastructure-for-aiml-applications-with-vmware-vsphere-7.md",
       "title": "CORRECTING and REPLACING VMware Introduces Delivery of Elastic Infrastructure for AI/ML Applications with VMware vSphere 7",
       "excerpt": "Please replace the release dated June 2, 2020, with the following corrected version due to new licensing terms for VMware vSphere Bitfusion. The corre",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-correcting-and-replacing-vmware-introduces-delivery-of-elastic-infrastructure-for-aiml-applications-with-vmware-vsphere-7/index.json",
       "webUrl": "https://www.businesswire.com/news/home/20200602005347/en/CORRECTING-REPLACING-VMware-Introduces-Delivery-Elastic-Infrastructure",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -510,7 +596,10 @@
       "path": "_news/2020-06-19-pakistani-scholars-among-winners-of-facebooks-ethics-in-ai-research-awards.md",
       "title": "Pakistani scholars among winners of Facebook’s Ethics in AI Research awards",
       "excerpt": "The duo was among winners from nine different countries. The AI initiative aims to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics. Dr Junaid Kadir along with Amana Raquib were awarded for their research into culturally informed pro-social AI regulation and persuasion framework.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-pakistani-scholars-among-winners-of-facebooks-ethics-in-ai-research-awards/index.json",
       "webUrl": "https://tribune.com.pk/story/2246036/pakistani-scholars-among-winners-facebooks-ethics-ai-research-awards/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -539,7 +628,10 @@
       "path": "_news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments.md",
       "title": "Five Reasons For Financial Institutions To Consider AI-Driven Automation Investments",
       "excerpt": "Retail and commercial financial institutions (FIs) are feeling enormous pressure to embrace and adopt artificial intelligence as industry competition grows.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/19/five-reasons-for-financial-institutions-to-consider-ai-driven-automation-investments/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -586,7 +678,10 @@
       "path": "_news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027.md",
       "title": "Global Voice recognition Market to reach USD 160.5 billion by 2027",
       "excerpt": "Bizwit Research & Consulting LLP's Recent Analysis on Global Voice recognition Market is poised to raise up to USD 160.5 billion by 2027. The Voice recognition market has been on the surging trend on the global scenario.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-global-voice-recognition-market-to-reach-usd-1605-billion-by-2027/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-to-reach-usd-1605-billion-by-2027-2020-06-19",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -633,7 +728,10 @@
       "path": "_news/2020-06-19-how-decentralization-could-alleviate-data-biases-in-artificial-intelligence.md",
       "title": "How Decentralization Could Alleviate Data Biases In Artificial Intelligence",
       "excerpt": "Data quality concerns continue to plague artificial intelligence. But blockchain-based incentive mechanisms could significantly change that.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/oluwaseunadeyanju/2020/06/19/how-decentralization-could-alleviate-data-biases-in-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -680,7 +778,10 @@
       "path": "_news/2020-06-19-japans-fujitsu-brings-hand-washing-ai-to-covid-19-fight.md",
       "title": "Japan's Fujitsu brings hand washing AI to COVID-19 fight",
       "excerpt": "Three months after the World Health Organization recommended singing \"Happy Birthday\" twice during hand washing to fight the coronavirus, Japan's Fujitsu Ltd has developed an artificial intelligence monitor it says will ensure healthcare,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-japans-fujitsu-brings-hand-washing-ai-to-covid-19-fight/index.json",
       "webUrl": "https://www.reuters.com/article/us-health-coronavirus-japan-ai-technology-idUSKBN23Q1F6",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -726,7 +827,10 @@
       "path": "_news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai.md",
       "title": "The advantages of self-explainable AI over interpretable AI",
       "excerpt": "Would you trust an artificial intelligence algorithm that works eerily well, making accurate decisions 99.9% of the time, but is a mysterious black box? Every system fails every now and then, and when it does,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-the-advantages-of-self-explainable-ai-over-interpretable-ai/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/19/the-advantages-of-self-explainable-ai-over-interpretable-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -773,7 +877,10 @@
       "path": "_news/2020-06-19-google-quietly-launches-an-ai-powered-pinterest-rival-named-keen.md",
       "title": "Google quietly launches an AI-powered Pinterest rival named Keen",
       "excerpt": "On Keen [...] you say what you want to spend more time on, and then curate content from the web and people you trust to help make that happen,” writes Adams in a blog post. Y",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-google-quietly-launches-an-ai-powered-pinterest-rival-named-keen/index.json",
       "webUrl": "https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -819,7 +926,10 @@
       "path": "_news/2020-06-19-ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges.md",
       "title": "IBM’S Newly Launched ‘Watson Works’ Uses AI To Help Firms Manage New Work Challenges",
       "excerpt": "IBM recently launched Watson Works, a curated set of products that uses Watson AI models and applications to manage return to workplace challenges.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges/index.json",
       "webUrl": "https://in.mashable.com/tech/14925/ibms-newly-launched-watson-works-uses-ai-to-help-firms-manage-new-work-challenges",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 107,
       "tags": null,
       "images": [
@@ -857,7 +967,10 @@
       "path": "_news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training.md",
       "title": "Add 'Artificial Intelligence Expert' to your résumé after this $35 training",
       "excerpt": "Artificial intelligence experts. Many of today's most exciting technologies have artificial intelligence to thank. Think personalized Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-add-artificial-intelligence-expert-to-your-resume-after-this-35-training/index.json",
       "webUrl": "https://mashable.com/shopping/june-19-artificial-intelligence-online-learning-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -895,7 +1008,10 @@
       "path": "_news/2020-06-19-qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g.md",
       "title": "Qualcomm launches its RB5 robotics platform with Artificial Intelligence and 5G",
       "excerpt": "Qualcomm RB5 robotics platform with Artificial Intelligence and 5G - Check out how the new platform from the fabless company transforms businesses.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g/index.json",
       "webUrl": "https://www.bgr.in/news/qualcomm-launches-its-rb5-robotics-platform-with-artificial-intelligence-and-5g-898714/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -933,7 +1049,10 @@
       "path": "_news/2020-06-19-ibm-launches-watson-works-to-address-the-challenges-of-returning-to-the-workplace.md",
       "title": "IBM Launches Watson Works to Address the Challenges of Returning to the Workplace",
       "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the return-to-workplace challenge following lockdowns put in place to slow the spread of COVID-19.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ibm-launches-watson-works-to-address-the-challenges-of-returning-to-the-workplace/index.json",
       "webUrl": "https://www.cmo.com.au/mediareleases/134132/ibm-launches-watson-works-to-address-the/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -971,7 +1090,10 @@
       "path": "_news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists.md",
       "title": "AI recreates the painting techniques of famous artists",
       "excerpt": "Apart from the virtual history lessons, this could be useful for illustrating general painting techniques to relative newcomers — say, starting from the background and working ‘closer’ to the viewer.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ai-recreates-the-painting-techniques-of-famous-artists/index.json",
       "webUrl": "https://www.engadget.com/ai-recreates-painting-techniques-of-famous-artists-022923128.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -1017,7 +1139,10 @@
       "path": "_news/2020-06-19-ai-makes-a-splash-in-advertising.md",
       "title": "AI Makes A Splash In Advertising",
       "excerpt": "AI is particularly good at advertising: identifying potential customers through clustering and pattern matching, tailoring messages through AI-enabled hyperpersonalization, and finding the best times and means to communicate through pattern identification.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ai-makes-a-splash-in-advertising/index.json",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/18/ai-makes-a-splash-in-advertising/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1063,7 +1188,10 @@
       "path": "_news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave.md",
       "title": "Why Qualcomm Will Be Big in Robotics, the Next Big IT Wave",
       "excerpt": "Qualcomm has an impressive robotics offering in its RB5 robotics platform. The technology, when applied to a full product, has the capability of redefining what an autonomous machine, either fixed or mobile,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave/index.json",
       "webUrl": "https://www.eweek.com/innovation/why-qualcomm-will-be-big-in-robotics-the-next-big-it-wave",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -1110,7 +1238,10 @@
       "path": "_news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development.md",
       "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
       "excerpt": "The Department of Defense is moving forward of artificial intelligence projects for lethality. Experts warn that testing, experimentation and human understanding are critical to creating trustworthy systems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development/index.json",
       "webUrl": "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1148,7 +1279,10 @@
       "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
       "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
       "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale/index.json",
       "webUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 93,
       "tags": null,
       "images": [
@@ -1195,7 +1329,10 @@
       "path": "_news/2020-06-18-amazon-touts-ai-for-social-distancing-amid-worker-complaints.md",
       "title": "Amazon Touts AI for Social Distancing Amid Worker Complaints",
       "excerpt": "Facing criticism over workplace safety, the company is using cameras, sensors, and augmented reality to warn employees when they're too close to one another.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-amazon-touts-ai-for-social-distancing-amid-worker-complaints/index.json",
       "webUrl": "https://www.wired.com/story/amazon-touts-ai-social-distancing-worker-complaints/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1235,53 +1372,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library.md",
-      "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
-      "excerpt": "Fraudulent users and malicious accounts can result in billions of dollars in lost revenue annually for businesses. Although many businesses use rule-based filters to prevent malicious activity in their systems, these filters are often brittle and may not capture the full range of malicious behavior.",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-fraud-in-heterogeneous-networks-using-amazon-sagemaker-and-deep-graph-library/",
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/16/heterogeneous-networks-sagemaker-2-978x630.gif",
-          "width": 978,
-          "height": 630,
-          "title": "Detecting fraud in heterogeneous networks using Amazon SageMaker and Deep Graph Library",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T16:26:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

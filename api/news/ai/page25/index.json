@@ -2,10 +2,54 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry.md",
+      "title": "Measuring the benefit of deep learning for the games industry",
+      "excerpt": "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry/index.json",
+      "webUrl": "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh5.googleusercontent.com/51HvOoh1tioFNt8T7iTXatuQPJiOfSgUQPIdHt_IQsoA9ZfkxFNlz1Xns7qgr6xyFx-WP6rOOKUIbPy9b9dQd7FFnZga9EqsC-tPMNY_CsqH8eDfxTfs2PU8JsHPk2gqvfQUIsMW",
+          "width": 720,
+          "height": 405,
+          "title": "Measuring the benefit of deep learning for the games industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
       "title": "India joins global partnership on Artificial Intelligence as founding member",
       "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member/index.json",
       "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -43,7 +87,10 @@
       "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
       "title": "MIT Creates Artificial Brain Chips",
       "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-mit-creates-artificial-brain-chips/index.json",
       "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -81,7 +128,10 @@
       "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
       "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
       "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/index.json",
       "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -129,7 +179,10 @@
       "path": "_news/2020-06-15-amazon-issues-12-month-ban-on-police-use-of-facial-recognition.md",
       "title": "Amazon issues 12-month ban on police use of facial recognition",
       "excerpt": "The one-year moratorium on police use of Amazon Rekognition does not include organizations that work closely with law enforcement to identify victims of child sexual exploitation and human ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-amazon-issues-12-month-ban-on-police-use-of-facial-recognition/index.json",
       "webUrl": "https://www.nbcnews.com/tech/security/amazon-issues-12-month-ban-police-use-facial-recognition-n1229601?cid=sm_npd_nn_tw_ma",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -167,7 +220,10 @@
       "path": "_news/2020-06-15-huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2.md",
       "title": "Huami Launched Second-gen Smart Wearable Chip, Namely Huangshan No. 2",
       "excerpt": "Huami Technology held the first Huami Technology AI Innovation Conference in Hefei, China. At the event, it released the second generation of self-developed RISC-V",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2/index.json",
       "webUrl": "https://www.gizchina.com/2020/06/15/huami-launched-second-gen-smart-wearable-chip-namely-huangshan-no-2/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -205,7 +261,10 @@
       "path": "_news/2020-06-15-global-fintech-market-by-technology-service-application-deployment-mode-region-and-vendor-forecast-to-2025-researchandmarketscom.md",
       "title": "Global FinTech Market by Technology, Service, Application, Deployment Mode, Region and Vendor - Forecast to 2025 - ResearchAndMarkets.com",
       "excerpt": "The \"Global FinTech Market By Technology (API; AI; Blockchain; Distributed Computing), By Service (Payment; Fund Transfer; Personal Finance; Loans; Insurance; Wealth Management), By Application, By Deployment Mode,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-global-fintech-market-by-technology-service-application-deployment-mode-region-and-vendor-forecast-to-2025-researchandmarketscom/index.json",
       "webUrl": "https://www.businesswire.com/news/home/20200615005414/en/Global-FinTech-Market-Technology-Service-Application-Deployment",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -243,7 +302,10 @@
       "path": "_news/2020-06-15-ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst.md",
       "title": "AI Is Amazing But Complicated, And We Don’t Necessarily Need To Plunge In Headfirst",
       "excerpt": "We know AI has biases. We know it’s complex. We understand that AI may or may not draw fair and ethical conclusions all the time. Yet it’s clear that AI is going to happen anyway. Physicist Stephen Hawking said AI was a major concern.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst/index.json",
       "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/15/ai-is-amazing-but-complicated-and-we-dont-necessarily-need-to-plunge-in-headfirst/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -290,7 +352,10 @@
       "path": "_news/2020-06-15-google-weve-got-1000-interns-working-on-open-source-projects-from-home.md",
       "title": "Google: We've got 1,000 interns working on open-source projects - from home",
       "excerpt": "Students enrolled in Google's summer internship programme will work from home this year and focus mostly on open-source projects.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-google-weve-got-1000-interns-working-on-open-source-projects-from-home/index.json",
       "webUrl": "https://www.techrepublic.com/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -337,7 +402,10 @@
       "path": "_news/2020-06-15-john-oliver-dives-into-the-shady-uses-of-facial-recognition.md",
       "title": "John Oliver dives into the shady uses of facial recognition",
       "excerpt": "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\"",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-john-oliver-dives-into-the-shady-uses-of-facial-recognition/index.json",
       "webUrl": "https://mashable.com/video/john-oliver-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 149,
       "tags": null,
       "images": [
@@ -375,7 +443,10 @@
       "path": "_news/2020-06-15-we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education.md",
       "title": "'We need to gather as much data as we can': How AI could change everything about education",
       "excerpt": "COVID-19 has been a trial by fire for technology in education, but the sector needs to gather what it has learnt quickly if it wishes to edge forward with digital transformation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/index.json",
       "webUrl": "https://www.techrepublic.com/article/we-need-to-gather-as-much-data-as-we-can-how-ai-could-change-everything-about-education/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -421,7 +492,10 @@
       "path": "_news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution.md",
       "title": "Company boards aren't ready for the AI revolution",
       "excerpt": "Other businesses are now following suit, eager not to miss out on the AI advantage. I’m certain that companies which delay drafting and delivering their own AI strategies are bound for obsolescence. However,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-company-boards-arent-ready-for-the-ai-revolution/index.json",
       "webUrl": "https://www.techradar.com/news/company-boards-arent-ready-for-the-ai-revolution",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -468,7 +542,10 @@
       "path": "_news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables.md",
       "title": "Huami unveils the Huangshan 2 chip, a self developed processor for its wearables",
       "excerpt": "Huami Technology, the known wearables maker, held its AI Innovation Conference in China. In the event, the company showcased a number of AI innovation technologies, and with it, the second generation of its self developed Huangshan processor.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/index.json",
       "webUrl": "https://www.gizmochina.com/2020/06/15/huami-unveils-the-huangshan-2-chip-a-self-developed-processor-for-its-wearables/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -515,7 +592,10 @@
       "path": "_news/2020-06-15-global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera.md",
       "title": "Global and China Automotive Vision Industry Chain Report 2020 - Breakthroughs in Binocular Camera",
       "excerpt": "Stock quotes by finanzen.net Dublin, June 15, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera-1029307120",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -553,7 +633,10 @@
       "path": "_news/2020-06-15-four-business-benefits-of-ai-powered-analytics.md",
       "title": "Four business benefits of AI-powered analytics",
       "excerpt": "Thanks to AI, increasing amounts of data can become a boon to a business rather than a drain on resources or a lost opportunity. Not only does AI help with sifting through the data, but it can also automate otherwise time-consuming processes,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-four-business-benefits-of-ai-powered-analytics/index.json",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356053/four-business-benefits-of-ai-powered-analytics",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -600,7 +683,10 @@
       "path": "_news/2020-06-15-five-steps-for-building-and-deploying-a-deep-learning-neural-network.md",
       "title": "Five steps for building and deploying a deep learning neural network",
       "excerpt": "Free tools and training data, easy-to-find tutorials, and low hardware costs have made deep learning no longer a method available only to researchers or people with highly specialized skills and/or big budgets. This presents both opportunities and threats ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-five-steps-for-building-and-deploying-a-deep-learning-neural-network/index.json",
       "webUrl": "https://www.vision-systems.com/boards-software/article/14175365/five-steps-for-building-and-deploying-a-deep-learning-neural-network",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -629,7 +715,10 @@
       "path": "_news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c.md",
       "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
       "excerpt": "What happens when robots & virtual assistants own the relationship with the consumer? In this new era of B2R2C, brands will need to think outside the “bot.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/index.json",
       "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -676,7 +765,10 @@
       "path": "_news/2020-06-14-assembling-a-top-notch-ai-team.md",
       "title": "Assembling A Top-Notch AI Team",
       "excerpt": "Even though there are many great AI software tools on the market, you still need to assemble a strong team when it comes to putting together projects. The technology is complex and evolving. There are also the challenges of change management within an organization.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-assembling-a-top-notch-ai-team/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/14/assembling-a-top-notch-ai-team/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -722,7 +814,10 @@
       "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
       "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
       "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/index.json",
       "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -762,7 +857,10 @@
       "path": "_news/2020-06-14-where-are-all-the-robots.md",
       "title": "Where are all the robots?",
       "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-where-are-all-the-robots/index.json",
       "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -811,7 +909,10 @@
       "path": "_news/2020-06-14-artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper.md",
       "title": "Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper",
       "excerpt": "Duke University researchers have developed an AI tool that can turn blurry, unrecognizable pictures of people’s faces into eerily convincing",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/index.json",
       "webUrl": "https://scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -849,7 +950,10 @@
       "path": "_news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns.md",
       "title": "Only artificial intelligence can protect Britain, top general warns",
       "excerpt": "BRITAIN'S Armed Forces are still fighting \"yesterday's wars\" and can neither protect this country nor meet increasing 21st Century challenges, General Sir Richard Barrons said last night.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-only-artificial-intelligence-can-protect-britain-top-general-warns/index.json",
       "webUrl": "https://www.express.co.uk/news/politics/1295693/armed-forces-artificial-intelligence-sir-richard-barrons",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -888,7 +992,10 @@
       "path": "_news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat.md",
       "title": "This AI-Powered App Will Build You a Winning Logo for Just $40 Flat",
       "excerpt": "A logo creates instant resonance between you and your customers and sticks in their minds whenever they need your services. Just think: When you get hungry, do you sometimes see the golden arches? That's the power of logos at work.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-this-ai-powered-app-will-build-you-a-winning-logo-for-just-40-flat/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351755",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -934,7 +1041,10 @@
       "path": "_news/2020-06-14-artificial-intelligence-for-speech-recognition-market.md",
       "title": "Artificial Intelligence for Speech Recognition Market",
       "excerpt": "A new market study is released on Artificial Intelligence for Speech Recognition Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 58 Pages ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-artificial-intelligence-for-speech-recognition-market/index.json",
       "webUrl": "https://www.openpr.com/news/2074022/artificial-intelligence-for-speech-recognition-market",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -963,7 +1073,10 @@
       "path": "_news/2020-06-14-machine-learning-behind-google-translate.md",
       "title": "Machine Learning Behind Google Translate",
       "excerpt": "Google Translate was launched 10 years ago. During the initial days, Google Translate was launched with Phrase-Based Machine Translation as the key algorithm. Later, Google came up with other machine learning advancements that changed the way we look at foreign languages forever.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-machine-learning-behind-google-translate/index.json",
       "webUrl": "https://analyticsindiamag.com/google-translate-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1001,7 +1114,10 @@
       "path": "_news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos.md",
       "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
       "excerpt": "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/index.json",
       "webUrl": "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/articleshow/76367010.cms",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1039,7 +1155,10 @@
       "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
       "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
       "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/index.json",
       "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -1086,7 +1205,10 @@
       "path": "_news/2020-06-14-facebooks-universal-music-translator.md",
       "title": "Facebook’s Universal Music Translator",
       "excerpt": "Star Trek has its universal language translator and now researchers from Facebook Artificial Intelligence Research (FAIR) has developed a universal music translator. Much of it is based on Google ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-facebooks-universal-music-translator/index.json",
       "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1124,7 +1246,10 @@
       "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
       "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
       "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/index.json",
       "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-tensorflow-2-0-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1172,7 +1297,10 @@
       "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
       "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
       "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station/index.json",
       "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -1204,54 +1332,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
-      "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
-      "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
-      "heat": 218,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee4fb8ed78e91000737b17f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-06-13T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,10 +2,63 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-05-19-visualizing-amazon-sagemaker-machine-learning-predictions-with-amazon-quicksight.md",
+      "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
+      "excerpt": "AWS is excited to announce the general availability of Amazon SageMaker integration in QuickSight. You can now integrate your own Amazon SageMaker ML models with QuickSight to analyze the augmented data and use it directly in your business intelligence dashboards. As a business analyst, data engineer,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-visualizing-amazon-sagemaker-machine-learning-predictions-with-amazon-quicksight/index.json",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/06/quicksight-sagemaker-38.jpg",
+          "width": 800,
+          "height": 443,
+          "title": "Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T17:18:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-deep-learning-for-oct-image-analysis.md",
       "title": "Deep learning for OCT image analysis",
       "excerpt": "Deep learning is a form of artificial intelligence (AI) in which large amounts of data are processed to combine key factors and predict an output. Deep learning needs an ample database to reach conclusions. OCT generates abundant data, but needs more ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-deep-learning-for-oct-image-analysis/index.json",
       "webUrl": "https://www.laserfocusworld.com/detectors-imaging/article/14174629/deep-learning-for-oct-image-analysis",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -34,7 +87,10 @@
       "path": "_news/2020-05-19-latest-news-update-on-google.md",
       "title": "Latest News Update on Google",
       "excerpt": "San Francisco, May 21 : While Google has been working on life-like version of its spoken Artificial Intelligence (AI ... has quit the company to join rival Waymo owned by Google's parent company ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-latest-news-update-on-google/index.json",
       "webUrl": "https://www.newkerala.com/news/tags/Google.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -63,7 +119,10 @@
       "path": "_news/2020-05-18-facebook-ceo-warns-against-spread-of-chinese-style-internet-regulations.md",
       "title": "Facebook CEO warns against spread of Chinese-style internet regulations",
       "excerpt": "Facebook chief executive Mark Zuckerberg warned against ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-facebook-ceo-warns-against-spread-of-chinese-style-internet-regulations/index.json",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3084962/facebook-ceo-warns-against-spread-chinese-style-internet-regulations",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -110,7 +169,10 @@
       "path": "_news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights.md",
       "title": "Cloud Storage Market to Reach USD 297.54 Billion by 2027; Higher Adoption of Machine Learning to Boost Growth, Says Fortune Business Insights™",
       "excerpt": "The global cloud storage market is set to gain traction from the rising adoption of autonomous systems and machine learning. Besides,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-cloud-storage-market-to-reach-usd-29754-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights/index.json",
       "webUrl": "https://www.prnewswire.com/in/news-releases/cloud-storage-market-to-reach-usd-297-54-billion-by-2027-higher-adoption-of-machine-learning-to-boost-growth-says-fortune-business-insights-tm--809223852.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -149,7 +211,10 @@
       "path": "_news/2020-05-18-global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor.md",
       "title": "Global Tech Company NTT Selects PlateSmart as Vehicle Recognition Vendor",
       "excerpt": "PlateSmart Technologies was the first industry player to introduce a software-only, camera-agnostic automatic license plate recognition (ALPR) engine powered by early AI-based object recognition technology a major industry milestone positioning the company ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-global-tech-company-ntt-selects-platesmart-as-vehicle-recognition-vendor/index.json",
       "webUrl": "https://www.newswiretoday.com/news/172915/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -178,7 +243,10 @@
       "path": "_news/2020-05-18-as-mental-health-needs-surge-this-seattle-startup-offers-ai-powered-analysis-of-therapy-sessions.md",
       "title": "As mental health needs surge, this Seattle startup offers AI-powered analysis of therapy sessions",
       "excerpt": "The novel coronavirus has brought with it fears of infection, massive job losses, the challenges of teaching kids at home, social isolation, and the list goes on. The toll on our collective",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-as-mental-health-needs-surge-this-seattle-startup-offers-ai-powered-analysis-of-therapy-sessions/index.json",
       "webUrl": "https://www.geekwire.com/2020/mental-health-needs-surge-seattle-startup-offers-ai-powered-analysis-therapy-sessions/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -224,7 +292,10 @@
       "path": "_news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors.md",
       "title": "Sony to use Microsoft’s Azure AI technology in new smart camera sensors",
       "excerpt": "Sony Semiconductor Solutions says it will embed Microsoft’s Azure AI technology into its new intelligent vision sensor for smart cameras under a partnership between the companies. Sony will also",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-sony-to-use-microsofts-azure-ai-technology-in-new-smart-camera-sensors/index.json",
       "webUrl": "https://www.geekwire.com/2020/sony-use-microsofts-azure-ai-technology-new-smart-camera-sensors/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 141,
       "tags": null,
       "images": [
@@ -272,7 +343,10 @@
       "path": "_news/2020-05-18-self-driving-shuttle-company-adds-seatbelts-in-order-to-resume-us-operations.md",
       "title": "Self-driving shuttle company adds seatbelts in order to resume US operations",
       "excerpt": "French self-driving vehicle company EasyMile will add seatbelts to its shuttles in order to be able to once again carry passengers in the US. EasyMile’s shuttles were suspended by the National Highway Traffic Safety Administration (NHTSA) in late February after an incident where a passenger fell out of her seat during a sudden stop in Columbus,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-self-driving-shuttle-company-adds-seatbelts-in-order-to-resume-us-operations/index.json",
       "webUrl": "https://www.theverge.com/2020/5/18/21262684/easymile-autonomous-shuttle-seatbelt-nhtsa-columbus-ohio",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -319,7 +393,10 @@
       "path": "_news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai.md",
       "title": "Microsoft and Sony partner to make smart cameras smarter with Azure AI",
       "excerpt": "Microsoft and Sony announced a partnership today that will bring Azure AI smarts to Sony's intelligent vision sensor IMX500. The combination is intended to result in faster analysis for enterprise scenarios.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-microsoft-and-sony-partner-to-make-smart-cameras-smarter-with-azure-ai/index.json",
       "webUrl": "https://www.windowscentral.com/microsoft-and-sony-partner-make-smart-cameras-smarter-azure-ai",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -357,7 +434,10 @@
       "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
       "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
       "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript/index.json",
       "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -404,7 +484,10 @@
       "path": "_news/2020-05-18-microsoft-and-fedex-team-up-against-amazon-with-new-technology-and-logistics-partnership.md",
       "title": "Microsoft and FedEx team up against Amazon with new technology and logistics partnership",
       "excerpt": "Microsoft and FedEx will work together to develop new products and services under a multiyear technology and logistics partnership announced Monday morning. The deal aligns the two corporate",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-microsoft-and-fedex-team-up-against-amazon-with-new-technology-and-logistics-partnership/index.json",
       "webUrl": "https://www.geekwire.com/2020/microsoft-fedex-team-amazon-new-technology-logistics-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 115,
       "tags": null,
       "images": [
@@ -451,7 +534,10 @@
       "path": "_news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots.md",
       "title": "Amazon’s AI tool can plan collision-free paths for 1,000 warehouse robots",
       "excerpt": "Amazon researchers describe a machine learning system that plans the movements and paths of up to 1,000 mobile warehouse robots.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/index.json",
       "webUrl": "https://venturebeat.com/2020/05/18/amazons-ai-tool-can-plan-collision-free-paths-for-1000-warehouse-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -498,7 +584,10 @@
       "path": "_news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market.md",
       "title": "Deep Instinct Vies With McAfee And CrowdStrike For $17B Market",
       "excerpt": "CrowdStrike faces a formidable challenger in Manhattan-based Deep Instinct. Which can save companies the most money by fending off cyberattacks before they happen?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-deep-instinct-vies-with-mcafee-and-crowdstrike-for-17b-market/index.json",
       "webUrl": "https://www.forbes.com/sites/petercohan/2020/05/18/deep-instinct-vies-with-mcafee-and-cloudstrike-for-17b-market/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -545,7 +634,10 @@
       "path": "_news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors.md",
       "title": "What SoftBank’s Vision Fund results tell us about troubled startup sectors",
       "excerpt": "A famous investor published notes today concerning its startup investments, detailing where they excelled and where they struggled. To understand why we care about this particular investor’s results,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/index.json",
       "webUrl": "https://techcrunch.com/2020/05/18/what-softbanks-vision-fund-results-tell-us-about-troubled-startup-sectors/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -591,7 +683,10 @@
       "path": "_news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain.md",
       "title": "Microsoft just gave the Sony AI camera an Azure brain",
       "excerpt": "It was only last week that Sony showed off its new embedded AI smart camera sensor, and already Microsoft is promising an artificial intelligence for the innovative chip. The Sony IMX500 stacks a",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-microsoft-just-gave-the-sony-ai-camera-an-azure-brain/index.json",
       "webUrl": "https://www.slashgear.com/microsoft-just-gave-the-sony-ai-camera-an-azure-brain-18621080/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 121,
       "tags": null,
       "images": [
@@ -639,7 +734,10 @@
       "path": "_news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain.md",
       "title": "Five robots that are saving the US food supply chain",
       "excerpt": "As Covid-19 threatens to buckle the US food supply chain, businesses are wrestling with the task of how to feed millions under lockdown via understaffed supply chains. As a result, demand for robotics companies whose machines can harvest,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-five-robots-that-are-saving-the-us-food-supply-chain/index.json",
       "webUrl": "https://www.ft.com/content/5dced1f4-2c25-4af6-91e5-f0ac773ef3c1",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -677,7 +775,10 @@
       "path": "_news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics.md",
       "title": "FedEx partners with Microsoft to improve supply chains and shipping logistics",
       "excerpt": "The companies said their first offering, called FedEx Surround, will provide real-time analytics into commerce supply chains and shipment tracking.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/index.json",
       "webUrl": "https://www.zdnet.com/article/fedex-partners-with-microsoft-to-improve-supply-chains-and-shipping-logistics/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -724,7 +825,10 @@
       "path": "_news/2020-05-18-facial-recognition-and-your-right-to-privacy.md",
       "title": "Facial recognition and your right to privacy",
       "excerpt": "Would your social media habits change if you knew your posts could be used by law enforcement? Jacob Ward brings to light the privacy issues surrounding AI and facial recognition on the Weekend Report.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-facial-recognition-and-your-right-to-privacy/index.json",
       "webUrl": "https://www.nbcnews.com/video/facial-recognition-and-your-right-to-privacy-83601477518",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -762,7 +866,10 @@
       "path": "_news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages.md",
       "title": "Hackers spoof new Azure AD and Microsoft 365 sign-in pages",
       "excerpt": "The Azure AD sign-in experience underwent a redesign about three months ago, but the new sign-in pages didn’t roll out until the first week of April. Microsoft intended the rede",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages/index.json",
       "webUrl": "https://www.itpro.co.uk/cloud/microsoft-azure/355686/hackers-spoof-new-azure-ad-and-microsoft-365-sign-in-pages",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -809,7 +916,10 @@
       "path": "_news/2020-05-18-samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight.md",
       "title": "Samsung Backs Startup That Has Made An Artificial Window Which Mimics Sunlight",
       "excerpt": "The SunnySide artificial window not only changes the angle of light according to the time of the day but is also claimed to help users synthesize vitamin D.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight/index.json",
       "webUrl": "https://in.mashable.com/tech/14101/samsung-backs-startup-that-has-made-an-artificial-window-which-mimics-sunlight",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -847,7 +957,10 @@
       "path": "_news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts.md",
       "title": "DeepMind claims its AI predicts macular degeneration more accurately than experts",
       "excerpt": "DeepMind claims that its machine learning system can predict macular degeneration more accurately than a team of human experts.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/index.json",
       "webUrl": "https://venturebeat.com/2020/05/18/deepmind-claims-its-ai-predicts-macular-degeneration-more-accurately-than-experts/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -894,7 +1007,10 @@
       "path": "_news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions.md",
       "title": "How AI could predict sight-threatening eye conditions",
       "excerpt": "Age-related macular degeneration (AMD) is the biggest cause of sight loss in the UK and USA and is the third largest cause of blindness across the globe. The latest research collaboration between Google Health, DeepMind and Moorfields Eye Hospital is published in Nature Medicine today. It shows that",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-how-ai-could-predict-sight-threatening-eye-conditions/index.json",
       "webUrl": "https://www.blog.google/technology/health/predicting-sight-threatening-eye-condition/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 129,
       "tags": null,
       "images": [
@@ -941,7 +1057,10 @@
       "path": "_news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury.md",
       "title": "This AI tool automatically identifies different types of brain injury",
       "excerpt": "Scientists from Imperial College London and Cambridge have developed an AI tool that can identify different brain injuries by analyzing images of CT scans",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-this-ai-tool-automatically-identifies-different-types-of-brain-injury/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/18/this-ai-tool-automatically-identifies-different-types-of-brain-injury/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -987,7 +1106,10 @@
       "path": "_news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware.md",
       "title": "NVIDIA Releases New Artificial Intelligence Hardware",
       "excerpt": "When it comes to hardware technology, NVIDIA (NASDAQ:NVDA) is at the leading edge of developments that are poised to reshape the world for at least the next decade. Using its graphics processing unit (GPU) roots for high-end video games -- an early data-dense computing task that has paved the way for breakthroughs in other areas -- NVIDIA is a busy chip designer and software developer these days.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-nvidia-releases-new-artificial-intelligence-hardware/index.json",
       "webUrl": "https://www.fool.com/investing/2020/05/18/nvidia-releases-new-artificial-intelligence-hardwa.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1042,7 +1164,10 @@
       "path": "_news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code.md",
       "title": "Machine learning tool trains on old code to spot bugs in new code",
       "excerpt": "Microsoft and Altran release Code Defect AI to identify potential problems in software development and suggest fixes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/index.json",
       "webUrl": "https://www.techrepublic.com/article/machine-learning-tool-trains-on-old-code-to-spot-bugs-in-new-code/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -1090,7 +1215,10 @@
       "path": "_news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry.md",
       "title": "How Artificial Intelligence Is Reshaping the Insurance Industry",
       "excerpt": "AI in the insurance sector has transcended several use cases from intelligent automation in the back office to providing virtual assistance on the frontlines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-how-artificial-intelligence-is-reshaping-the-insurance-industry/index.json",
       "webUrl": "https://www.entrepreneur.com/article/350752",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1137,7 +1265,10 @@
       "path": "_news/2020-05-18-how-ai-is-disrupting-the-b2b-space.md",
       "title": "How AI Is Disrupting The B2B Space",
       "excerpt": "Artificial intelligence (AI) as a service is becoming a reality for more and more consumers, and with the major players launching their 5G services last year, many enterprises across different industries have added AI exploration to their agendas.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-how-ai-is-disrupting-the-b2b-space/index.json",
       "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/05/18/how-ai-is-disrupting-the-b2b-space/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1183,7 +1314,10 @@
       "path": "_news/2020-05-18-should-ai-assist-in-surgical-decision-making.md",
       "title": "Should AI assist in surgical decision-making?",
       "excerpt": "Surgical errors in particular account for 26% of these deaths and cost somewhere north of $36 billion in the U.S. I did a double take when I read those stats while reporting this story. Some of the most common laparoscopic procedures,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-should-ai-assist-in-surgical-decision-making/index.json",
       "webUrl": "https://www.zdnet.com/article/should-ai-assist-in-surgical-decision-making/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1229,7 +1363,10 @@
       "path": "_news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras.md",
       "title": "Face masks prompt London police to consider pause in rollout of facial recognition cameras",
       "excerpt": "The rollout of facial recognition cameras in London is facing disruption as citizens are now using face coverings that could potentially incapacitate the technology. The United Kingdom has been a keen adopter of surveillance technology including facial recognition cameras in recent years,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/index.json",
       "webUrl": "https://www.zdnet.com/article/face-masks-prompt-london-police-to-consider-pause-in-rollout-of-facial-recognition-cameras/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1270,54 +1407,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
-      "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-      "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
-      "webUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/",
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ebd97001c8fdaf50e1b0062/master/pass/5ebd96bfd58e99fafced8061_iflytek_2400x1350_autoxauto_00001.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/amp",
-      "publishedDateTime": "2020-05-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

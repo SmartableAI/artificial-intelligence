@@ -5,7 +5,10 @@
       "path": "_news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks.md",
       "title": "Google’s TensorFlow gets a new test for training data leaks",
       "excerpt": "Google late last month debuted experimental tests for its TensorFlow Privacy library designed to reduce the degree to which machine learning models leak identifiable personal information in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks/index.json",
       "webUrl": "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -44,7 +47,10 @@
       "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
       "title": "Learn PyTorch: The best free online courses and tutorials",
       "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials/index.json",
       "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -91,7 +97,10 @@
       "path": "_news/2020-07-04-artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis.md",
       "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
       "excerpt": "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-04-artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -139,7 +148,10 @@
       "path": "_news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
       "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
       "excerpt": "A processor and Himax AoS sensor. With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers to develop their NN based edge AI applications targeted for Notebook,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30-6184054",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -186,10 +198,106 @@
       ]
     },
     {
+      "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
+      "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+      "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/index.json",
+      "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Common-Voice-e1593640326605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "publishedDateTime": "2020-07-01T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders.md",
       "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
       "excerpt": "It all started with the annual 35 Women Under 35 list, unearthing new female role models and spotlighting the contribution of Britain’s young businesswomen - whose voices were still being largely ignored in the media.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders/index.json",
       "webUrl": "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -227,7 +335,10 @@
       "path": "_news/2020-06-28-behringer-deepmind-12-polyphonic-analog-synth.md",
       "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
       "excerpt": "We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice comprises three digitally generated ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-28-behringer-deepmind-12-polyphonic-analog-synth/index.json",
       "webUrl": "https://reverb.com/item/34393726-behringer-deepmind-12-polyphonic-analog-synth",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -256,7 +367,10 @@
       "path": "_news/2020-06-24-google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models.md",
       "title": "Google releases experimental TensorFlow module that tests the privacy of AI models",
       "excerpt": "Google's new toolkit introduces a privacy-preserving technique and test for machine learning modules developed in TensorFlow.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/index.json",
       "webUrl": "https://venturebeat.com/2020/06/24/google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 125,
       "tags": null,
       "images": [
@@ -304,7 +418,10 @@
       "path": "_news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
       "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
       "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence/index.json",
       "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -342,7 +459,10 @@
       "path": "_news/2020-06-23-why-facebook-chose-to-open-its-first-european-ai-lab-in-paris-and-not-london.md",
       "title": "Why Facebook chose to open its first European A.I. lab in Paris and not London",
       "excerpt": "The social media giant was concerned that rival labs like DeepMind and Microsoft Research already occupied the turf in London.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-why-facebook-chose-to-open-its-first-european-ai-lab-in-paris-and-not-london/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/23/facebook-fair-paris-london.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -390,7 +510,10 @@
       "path": "_news/2020-06-23-researchers-propose-ai-system-that-reverse-engineers-black-box-apps.md",
       "title": "Researchers propose AI system that reverse-engineers black box apps",
       "excerpt": "In a preprint paper, researchers propose an AI technique that reverse-engineers programs without any privileged knowledge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-researchers-propose-ai-system-that-reverse-engineers-black-box-apps/index.json",
       "webUrl": "https://venturebeat.com/2020/06/23/researchers-propose-ai-that-reverse-engineers-black-box-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -437,7 +560,10 @@
       "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
       "title": "Folding-based compression of point cloud attributes",
       "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-folding-based-compression-of-point-cloud-attributes/index.json",
       "webUrl": "https://github.com/mauriceqch/pcc_attr_folding",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -475,7 +601,10 @@
       "path": "_news/2020-06-23-applying-for-technical-roles.md",
       "title": "Applying for technical roles",
       "excerpt": "We answer the Women in Machine Learning community's questions about applying for a job in industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-applying-for-technical-roles/index.json",
       "webUrl": "https://deepmind.com/blog/article/Women-in-machine-learning-A-look-into-the-technical-interview-process",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -522,7 +651,10 @@
       "path": "_news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key.md",
       "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
       "excerpt": "Artificial intelligence systems have become increasingly well-adapted to a host of basic board games. Now, DeepMind is hoping to teach agents the art of collaboration using Diplomacy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/index.json",
       "webUrl": "https://www.techrepublic.com/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -570,7 +702,10 @@
       "path": "_news/2020-06-21-model-inference-using-tensorflow-and-tensorrt.md",
       "title": "Model inference using TensorFlow and TensorRT",
       "excerpt": "NVIDIA TensorRT is a high-performance inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. The following notebook demonstrates our recommended inference workflow.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-model-inference-using-tensorflow-and-tensorrt/index.json",
       "webUrl": "https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/inference/resnet-model-inference-tensorrt",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -618,7 +753,10 @@
       "path": "_news/2020-06-20-tensorflow-robot-recognizes-objects.md",
       "title": "TensorFlow Robot Recognizes Objects",
       "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-tensorflow-robot-recognizes-objects/index.json",
       "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -657,7 +795,10 @@
       "path": "_news/2020-06-18-edge-analytics-complementing-cloud-computing.md",
       "title": "Edge Analytics Complementing Cloud Computing",
       "excerpt": "Model developed on popular frameworks like TensorFlow, keras, and Caffe can be deployed after optimization to run on inference devices like Andriod and micro-controllers. Inference engines designed considering capabilities of MCUs, like TensorFlow-Lite ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-edge-analytics-complementing-cloud-computing/index.json",
       "webUrl": "https://www.embedded-computing.com/guest-blogs/edge-analytics-complementing-cloud-computing",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -695,7 +836,10 @@
       "path": "_news/2020-06-18-get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off.md",
       "title": "Get this Complete 2020 Big Data and Machine Learning Bundle at 96% off",
       "excerpt": "With today's highlighted deal, be a modern day tech hero with 68 hours of content on the most in-demand IT expertise including Tensorflow, Keras, Deep Learning, Apache and more at Neowin Deals!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off/index.json",
       "webUrl": "https://www.neowin.net/news/get-this-complete-2020-big-data-and-machine-learning-bundle-at-96-off",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -743,7 +887,10 @@
       "path": "_news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.md",
       "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
       "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview/index.json",
       "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 115,
       "tags": null,
       "images": [
@@ -791,7 +938,10 @@
       "path": "_news/2020-06-16-deepminds-ai-system-finds-its-way-around-simulated-cities-it-hasnt-seen-before.md",
       "title": "DeepMind’s AI system finds its way around simulated cities it hasn’t seen before",
       "excerpt": "In a paper, researchers at DeepMind propose a system that can efficiently navigate virtual city environments it hasn't seen before.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-deepminds-ai-system-finds-its-way-around-simulated-cities-it-hasnt-seen-before/index.json",
       "webUrl": "https://venturebeat.com/2020/06/16/deepminds-ai-finds-its-way-around-simulated-cities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -838,7 +988,10 @@
       "path": "_news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning.md",
       "title": "A competition to identify bird calls using machine learning",
       "excerpt": "Do you hear the birds chirping outside your window? There are more than 10,000 bird species in the world, and they can be found in nearly every environment, from untouched rainforests to suburbs and cities. Birds play an essential role in nature. They are high up in the food chain and integrate changes",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-a-competition-to-identify-bird-calls-using-machine-learning/index.json",
       "webUrl": "https://www.blog.google/technology/ai/competition-identify-bird-calls-using-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -885,7 +1038,10 @@
       "path": "_news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding.md",
       "title": "Streamlit wants to revolutionize building machine learning and data science applications, scores $21 million Series A funding",
       "excerpt": "Streamlit wants to be for data science what business intelligence tools have been for databases: a quick way to get to results, without bothering much with the details",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/index.json",
       "webUrl": "https://www.zdnet.com/article/streamlit-wants-to-revolutionize-building-machine-learning-and-data-science-applications-scores-21-million-series-a-funding/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -933,7 +1089,10 @@
       "path": "_news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses.md",
       "title": "Kickstart a lucrative career: Become an expert in big data and machine learning with these 10 courses",
       "excerpt": "Getting in on an innovative and lucrative career path before the job market is saturated is incredibly difficult. That's been true in podcasting, tech, and many other fields. Do yourself a solid and develop an expertise in big data and machine learning starting today,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/index.json",
       "webUrl": "https://www.zdnet.com/article/kickstart-a-lucrative-career-become-an-expert-in-big-data-and-machine-learning-with-these-10-courses/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -981,7 +1140,10 @@
       "path": "_news/2020-06-15-how-the-trevor-project-is-using-ai-to-help-prevent-suicide.md",
       "title": "How The Trevor Project is using AI to help prevent suicide",
       "excerpt": "Suicide disproportionately affects LGBTQ+ youth. In the U.S. alone, more than 1.8 million LGBTQ+ youth between the ages of 13 and 24 seriously consider suicide or experience a significant crisis each year. Additionally, LGBTQ+ youth are over four times more likely to attempt suicide than their peers,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-how-the-trevor-project-is-using-ai-to-help-prevent-suicide/index.json",
       "webUrl": "https://www.blog.google/outreach-initiatives/google-org/trevor-project/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -1028,7 +1190,10 @@
       "path": "_news/2020-06-15-google-weve-got-1000-interns-working-on-open-source-projects-from-home.md",
       "title": "Google: We've got 1,000 interns working on open-source projects - from home",
       "excerpt": "Students enrolled in Google's summer internship programme will work from home this year and focus mostly on open-source projects.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-google-weve-got-1000-interns-working-on-open-source-projects-from-home/index.json",
       "webUrl": "https://www.techrepublic.com/article/google-weve-got-1000-interns-working-on-open-source-projects-from-home/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -1075,7 +1240,10 @@
       "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
       "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
       "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/index.json",
       "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-tensorflow-2-0-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1123,7 +1291,10 @@
       "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
       "title": "Cryptominers Found in Azure Kubernetes Containers",
       "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers/index.json",
       "webUrl": "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -1162,7 +1333,10 @@
       "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
       "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
       "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1209,7 +1383,10 @@
       "path": "_news/2020-06-12-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi.md",
       "title": "Google Launches AI Platform That Looks Remarkably Like A Raspberry Pi",
       "excerpt": "Here is the link to the board that looks like a Raspberry Pi. This new hardware was launched ahead of the TensorFlow Dev Summit, revolving around machine learning and ‘AI’ in embedded ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/index.json",
       "webUrl": "https://hackaday.com/2019/03/05/google-launches-ai-platform-that-looks-remarkably-like-a-raspberry-pi/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1241,92 +1418,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
-      "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-      "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
-      "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
-      "publishedDateTime": "2020-06-11T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
-      "title": "How to become a TensorFlow developer",
-      "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
-      "webUrl": "https://www.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/06/ee36da52-tensorflow-developer.jpg",
-          "width": 1200,
-          "height": 850,
-          "title": "How to become a TensorFlow developer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
-      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
-      "publishedDateTime": "2020-06-11T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

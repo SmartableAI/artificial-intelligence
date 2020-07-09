@@ -2,10 +2,63 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
+      "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+      "excerpt": "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages/index.json",
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/2020/06/02/image2.png?itok=6NP11nIO",
+          "width": 1200,
+          "height": 630,
+          "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "publishedDateTime": "2020-06-02T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-01-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-205-key-player-3m-cerner-nuance-microsoft-ibm.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Growing at a CAGR 20.5% | Key Player 3M, Cerner, Nuance, Microsoft, IBM",
       "excerpt": "and Region – Global Forecast to 2025 MarketsandMarkets forecasts the global Natural Language Processing (NLP) in Healthcare and Life Sciences Market size to grow from USD 1.5 billion in 2020 to ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-205-key-player-3m-cerner-nuance-microsoft-ibm/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16155634/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-growing-at-a-cagr-20-5-key",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -34,7 +87,10 @@
       "path": "_news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down.md",
       "title": "Remember S Voice? Samsung is finally shutting it down",
       "excerpt": "Samsung introduced its Bixby voice assistant back in 2017, and it’s served as the first-party assistant on Samsung gadgets ever since. But this wasn’t Samsung’s first voice assistant, as that would be S Voice.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-remember-s-voice-samsung-is-finally-shutting-it-down/index.json",
       "webUrl": "https://www.androidauthority.com/samsung-s-voice-dead-1124561/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -81,7 +137,10 @@
       "path": "_news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer.md",
       "title": "'It's fundamental': Graphcore CEO believes new kinds of AI will prove the worth of a new kind of computer",
       "excerpt": "Graphcore, the four-year-old startup based in Bristol, England, has a chip that takes the kinds of math that a neural network processes and splits them across 1,216 tiny computers, each of which does its work in parallel with its brethren.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-31-its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/index.json",
       "webUrl": "https://www.zdnet.com/article/its-fundamental-graphcore-ceo-believes-new-kinds-of-ai-will-prove-the-worth-of-a-new-kind-of-computer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -129,7 +188,10 @@
       "path": "_news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology.md",
       "title": "Chicago Police Drop Clearview Facial Recognition Technology",
       "excerpt": "Chicago police is no longer using facial recognition software developed by a firm that was sued by a civil rights organization this week over privacy concerns.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-chicago-police-drop-clearview-facial-recognition-technology/index.json",
       "webUrl": "https://www.usnews.com/news/best-states/illinois/articles/2020-05-29/chicago-police-drop-clearview-facial-recognition-technology",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -167,7 +229,10 @@
       "path": "_news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices.md",
       "title": "New AI technique speeds up language models on edge devices",
       "excerpt": "Researchers at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and MIT-IBM Watson AI Lab recently proposed Hardware-Aware Transformers (HAT), an AI model training technique that incorporates Google’s Transformer architecture.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-new-ai-technique-speeds-up-language-models-on-edge-devices/index.json",
       "webUrl": "https://venturebeat.com/2020/05/29/new-ai-technique-speeds-up-language-models-on-edge-devices/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -215,7 +280,10 @@
       "path": "_news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai.md",
       "title": "Sayyy whatttt?: Researchers analyze strange human tweets to build better AI",
       "excerpt": "Twitter is a weird place with a language all its own. A new study focuses on using the tweets, chock-full of misspellings and slang, to improve artificial intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/index.json",
       "webUrl": "https://www.techrepublic.com/article/sayyy-whatttt-researchers-analyze-strange-human-tweets-to-build-better-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -262,7 +330,10 @@
       "path": "_news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters.md",
       "title": "OpenAI debuts gigantic GPT-3 language model with 175 billion parameters",
       "excerpt": "OpenAI's GPT-3 language model can generate convincing news articles and achieve state-of-the-art results on a range of NLP tasks with few-shot learning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/index.json",
       "webUrl": "https://venturebeat.com/2020/05/29/openai-debuts-gigantic-gpt-3-language-model-with-175-billion-parameters/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -309,7 +380,10 @@
       "path": "_news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar.md",
       "title": "OpenAI’s new text generator writes sad poems and corrects lousy grammar",
       "excerpt": "OpenAI has quietly unveiled GPT-3, the latest incarnation of its headline-grabbing text generator, which comes with an enormous 175 billion parameters",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/05/29/openais-new-text-generator-writes-sad-poems-and-corrects-lousy-grammar/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -356,7 +430,10 @@
       "path": "_news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission.md",
       "title": "The Temptations Of Artificial Intelligence Technology And The Price Of Admission",
       "excerpt": "The internal workings of ML algorithms are something of a black box, which makes vigilant monitoring of their predictions extremely important.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/29/the-temptations-of-artificial-intelligence-technology-and-the-price-of-admission/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -403,7 +480,10 @@
       "path": "_news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty.md",
       "title": "Chinese tech leader says AI can play a role in Beijing’s goal of eliminating poverty",
       "excerpt": "Liu Qingfeng, chairman of Chinese AI champion iFlyTek, says AI technology can play a vital role in lifting China out of poverty by leveling the uneven distribution of resources",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-chinese-tech-leader-says-ai-can-play-a-role-in-beijings-goal-of-eliminating-poverty/index.json",
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3086668/chinese-tech-leader-says-ai-can-play-role-beijings-goal-eliminating",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -450,7 +530,10 @@
       "path": "_news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations.md",
       "title": "ACLU sues facial recognition startup Clearview AI for privacy and safety violations",
       "excerpt": "The ACLU claims Clearview AI \"will end privacy as we know it if it isn't stopped\" and calls the startup a threat to safety.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/index.json",
       "webUrl": "https://venturebeat.com/2020/05/28/aclu-sues-facial-recognition-startup-clearview-ai-for-privacy-and-safety-violations/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 120,
       "tags": null,
       "images": [
@@ -498,7 +581,10 @@
       "path": "_news/2020-05-28-natural-language-processing-market-growing-at-a-cagr-210-key-player-ibm-microsoft-google-aws-facebook.md",
       "title": "Natural Language Processing Market Growing at a CAGR 21.0% | Key Player IBM, Microsoft, Google, AWS, Facebook",
       "excerpt": "and BFSI), and Region – Global Forecast to 2024 MarketsandMarkets forecasts the global Natural Language Processing (NLP) Market size to grow from USD 10.2 billion in 2019 to USD 26.4 billion by ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-natural-language-processing-market-growing-at-a-cagr-210-key-player-ibm-microsoft-google-aws-facebook/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/05/ab16133769/natural-language-processing-market-growing-at-a-cagr-21-0-key-player-ibm-microsoft-google-aws-fac",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -527,7 +613,10 @@
       "path": "_news/2020-05-28-facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models.md",
       "title": "Facebook AI Research applies Transformer architecture to streamline object detection models",
       "excerpt": "Facebook AI researchers claim they created the first object detection model with the Transformer neural network architecture typically used for NLP.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/index.json",
       "webUrl": "https://venturebeat.com/2020/05/28/facebook-ai-research-applies-transformer-architecture-to-streamline-object-detection-models/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -575,7 +664,10 @@
       "path": "_news/2020-05-28-chinas-voice-recognition-king-iflytek-goes-against-the-grain-with-forecast-that-offline-sales-will-grow-more.md",
       "title": "China’s voice recognition king iFlyTek goes against the grain with forecast that offline sales will grow more",
       "excerpt": "FlyTek’s sales approach goes against the grain of the current move by many merchants to take their business and sales online amid Covid-19",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-chinas-voice-recognition-king-iflytek-goes-against-the-grain-with-forecast-that-offline-sales-will-grow-more/index.json",
       "webUrl": "https://www.scmp.com/tech/innovation/article/3086522/chinas-voice-recognition-king-iflytek-goes-against-grain-forecast",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -622,7 +714,10 @@
       "path": "_news/2020-05-27-lucidworks-announces-advanced-linguistics-package-to-improve-search-precision-for-global-companies-serving-asian-european-and-middle-eastern-markets.md",
       "title": "Lucidworks Announces Advanced Linguistics Package to Improve Search Precision for Global Companies Serving Asian, European, and Middle Eastern Markets",
       "excerpt": "Lucidworks now embeds text analytics from Basis Technology, the leading provider of AI for natural language processing. With the Advanced Linguistics Package, global organizations that support ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-lucidworks-announces-advanced-linguistics-package-to-improve-search-precision-for-global-companies-serving-asian-european-and-middle-eastern-markets/index.json",
       "webUrl": "https://www.asiaone.com/business/lucidworks-announces-advanced-linguistics-package-improve-search-precision-global",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -660,7 +755,10 @@
       "path": "_news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant.md",
       "title": "Google pilots voice authentication for purchases made through Google Assistant",
       "excerpt": "Google is piloting a \"new\" voice authentication method for securing purchases made via its AI Assitant. The feature, called Voice Match, has limited availability for now and is only usable with Assistant-enabled smart speakers and displays.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant/index.json",
       "webUrl": "https://www.techspot.com/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -707,7 +805,10 @@
       "path": "_news/2020-05-26-google-is-working-on-voice-confirmation-for-purchases-with-assistant.md",
       "title": "Google is working on voice confirmation for purchases with Assistant",
       "excerpt": "Soon you’ll be able to make purchases through Google Assistant using just your voice. As Android Police reports, a new Voice Match setting has been discovered in the Assistants",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-google-is-working-on-voice-confirmation-for-purchases-with-assistant/index.json",
       "webUrl": "https://www.engadget.com/google-is-working-on-voice-confirmation-for-purchases-104045532.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -754,7 +855,10 @@
       "path": "_news/2020-05-26-google-assistant-now-lets-some-users-confirm-payments-with-their-voice.md",
       "title": "Google Assistant now lets some users confirm payments with their voice",
       "excerpt": "Google is testing a new feature with some Assistant users, which lets them use their voice to confirm certain types of payments. The feature is still being tested and there are some limits.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-google-assistant-now-lets-some-users-confirm-payments-with-their-voice/index.json",
       "webUrl": "https://www.neowin.net/news/google-assistant-now-lets-some-users-confirm-payments-with-their-voice",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -801,7 +905,10 @@
       "path": "_news/2020-05-26-google-assistant-may-soon-confirm-some-purchases-by-voice.md",
       "title": "Google Assistant may soon confirm some purchases by voice",
       "excerpt": "Remember the almost comical incident more than three years ago when Amazon Echo speakers started ordering dollhouses because a TV anchor said so? Those things are long behind us and people have",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-google-assistant-may-soon-confirm-some-purchases-by-voice/index.json",
       "webUrl": "https://www.slashgear.com/google-assistant-may-soon-confirm-some-purchases-by-voice-25621939/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -848,7 +955,10 @@
       "path": "_news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020.md",
       "title": "ProBeat: Microsoft’s AI supercomputer was the best of Build 2020",
       "excerpt": "OpenAI showed Microsoft's supercomputer not just completing code and offering suggestions, but writing code from English instructions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-probeat-microsofts-ai-supercomputer-was-the-best-of-build-2020/index.json",
       "webUrl": "https://venturebeat.com/2020/05/22/probeat-microsoft-ai-supercomputer-scale-build-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -896,7 +1006,10 @@
       "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare.md",
       "title": "Natural Language Processing (NLP) in Healthcare",
       "excerpt": "A new business intelligence report released by AMA with title \"Global Natural Language Processing (NLP) in Healthcare Market Comprehensive Study\" provides micro level analysis by manufacturers and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-natural-language-processing-nlp-in-healthcare/index.json",
       "webUrl": "https://www.openpr.com/news/2055228/natural-language-processing-nlp-in-healthcare-market",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -925,7 +1038,10 @@
       "path": "_news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution.md",
       "title": "Covid-19 Will Accelerate the AI Health Care Revolution",
       "excerpt": "Disease diagnosis, drug discovery, robot delivery—artificial intelligence is already powering change in the pandemic’s wake. That’s only the beginning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-covid-19-will-accelerate-the-ai-health-care-revolution/index.json",
       "webUrl": "https://www.wired.com/story/covid-19-will-accelerate-ai-health-care-revolution/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -973,7 +1089,10 @@
       "path": "_news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Projected to Grow $3.7 billion by 2025",
       "excerpt": "According to research report \"Natural Language Processing (NLP) in Healthcare and Life Sciences Market by Component, NLP Type, Application (Pattern and Image Recognition, and Auto Coding ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-projected-to-grow-37-billion-by-2025/index.json",
       "webUrl": "https://www.openpr.com/news/2054896/natural-language-processing-nlp-in-healthcare-and-life",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1002,7 +1121,10 @@
       "path": "_news/2020-05-21-sogou-introduces-worlds-first-3d-ai-news-anchor.md",
       "title": "Sogou Introduces World's First 3D AI News Anchor",
       "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) ('Sogou' or 'the Company'), an innovator in search and a leader in China's internet",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-sogou-introduces-worlds-first-3d-ai-news-anchor/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/sogou-introduces-world-s-first-3d-ai-news-anchor-1029222053",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1040,7 +1162,10 @@
       "path": "_news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding.md",
       "title": "Search engines are leveraging AI to improve their language understanding",
       "excerpt": "Increasingly, search engines like Bing and Google are leveraging AI and machine learning to improve the quality of results.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-search-engines-are-leveraging-ai-to-improve-their-language-understanding/index.json",
       "webUrl": "https://venturebeat.com/2020/05/20/search-engines-google-bing-are-leveraging-ai-to-improve-their-language-understanding/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -1088,7 +1213,10 @@
       "path": "_news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications.md",
       "title": "Vuzix M400 Smart Glasses Now Support Hands-Free Voice Control for Skype for Business, Zoom and Zoom for Healthcare Applications",
       "excerpt": "PRNewswire/ -- Vuzix® Corporation (NASDAQ: VUZI), (\"Vuzix\" or, the \"Company\"), a leading supplier of Smart Glasses and Augmented Reality (AR) technology and products, today announced",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom-and-zoom-for-healthcare-applications/index.json",
       "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vuzix-m400-smart-glasses-now-support-hands-free-voice-control-for-skype-for-business-zoom/article_f967488a-a5b0-596b-9ac6-9a6fefae5e73.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1126,7 +1254,10 @@
       "path": "_news/2020-05-20-this-ai-maestro-wants-to-serenade-you.md",
       "title": "This AI Maestro Wants to Serenade You",
       "excerpt": "A composer and the co-creator of Siri are trying to create background music that responds to the listener's feelings.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-this-ai-maestro-wants-to-serenade-you/index.json",
       "webUrl": "https://www.wired.com/story/ai-maestro-lifescore-wants-to-serenade-you/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1173,7 +1304,10 @@
       "path": "_news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker.md",
       "title": "Alibaba to invest $1B on AI integration with smart speaker",
       "excerpt": "Chinese e-commerce giant will use the funds to bolster its artificial intelligence and Internet of Things ecosystem that supports Tmall Genie, including linking more content and services from Alibaba's wider ecosystem that spans entertainment,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/index.json",
       "webUrl": "https://www.zdnet.com/article/alibaba-to-invest-1b-on-ai-integration-with-smart-speaker/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1221,7 +1355,10 @@
       "path": "_news/2020-05-20-global-natural-language-processing-nlp-industry.md",
       "title": "Global Natural Language Processing (NLP) Industry",
       "excerpt": "New York, May 20, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Natural Language Processing (NLP) Industry\" - https://www ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-20-global-natural-language-processing-nlp-industry/index.json",
       "webUrl": "https://www.globenewswire.com/news-release/2020/05/20/2036115/0/en/Global-Natural-Language-Processing-NLP-Industry.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1244,54 +1381,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
-      "title": "Azure Cognitive Services learns more languages",
-      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
-      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Azure Cognitive Services learns more languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
-      "publishedDateTime": "2020-05-19T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

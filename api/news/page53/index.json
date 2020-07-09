@@ -2,10 +2,54 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless.md",
+      "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+      "excerpt": "As South Korea continues to loosen its social distancing guidelines amid the COVID-19 pandemic, hard-hit movie theaters are trying to find ways to lure customers back.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-ai-robots-automated-popcorn-dispensers-cinemas-in-south-korea-go-contactless/index.json",
+      "webUrl": "https://www.upi.com/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5871590570096/2020/1/15905711766278/v1.5/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless.jpg",
+          "width": 800,
+          "height": 531,
+          "title": "AI robots, automated popcorn dispensers: Cinemas in South Korea go contactless",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/05/27/AI-robots-automated-popcorn-dispensers-Cinemas-in-South-Korea-go-contactless/5871590570096/",
+      "publishedDateTime": "2020-05-27T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic.md",
       "title": "The Role Of Augmented Intelligence In Fighting Against A Pandemic",
       "excerpt": "Augmented intelligence is on track to change the way the world manages a pandemic and the tools it can use to detect and cure potential outbreaks in the future.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/05/27/the-role-of-augmented-intelligence-in-fighting-against-a-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -52,7 +96,10 @@
       "path": "_news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters.md",
       "title": "Gamemakers Inject AI to Develop More Lifelike Characters",
       "excerpt": "And in a neat twist, the researchers are harnessing an AI technique that proved itself by playing some of the earliest console videogames. A team from EA and the University of British Columbia in Vancouver is using a technique called reinforcement learning,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-gamemakers-inject-ai-to-develop-more-lifelike-characters/index.json",
       "webUrl": "https://www.wired.com/story/game-makers-inject-ai-develop-more-lifelike-characters/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -99,7 +146,10 @@
       "path": "_news/2020-05-27-guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19.md",
       "title": "Guest Opinion: Artificial intelligence joins humans in fight against COVID-19",
       "excerpt": "As the COVID crisis continues, Albertans and all Canadians would surely welcome some good news among the bleak headlines.So consider this — we’ve learned a lot over the past few months",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19/index.json",
       "webUrl": "https://calgarysun.com/opinion/columnists/guest-opinion-artificial-intelligence-joins-humans-in-fight-against-covid-19",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -137,7 +187,10 @@
       "path": "_news/2020-05-27-image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country.md",
       "title": "Image Recognition Market2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country",
       "excerpt": "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-05-27",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -184,7 +237,10 @@
       "path": "_news/2020-05-27-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
       "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
       "excerpt": "RapidAPI,the world’s largest API Marketplace that helps developers find and connect to thousands of APIs, announced today that it has added a dozen Microsoft Azure Cognitive Services to its ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace-2020-05-27",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -231,7 +287,10 @@
       "path": "_news/2020-05-27-the-robot-artists-arent-coming.md",
       "title": "The Robot Artists Aren’t Coming",
       "excerpt": "Many artists are turned off by artificial intelligence. They may be discouraged by fears that A.I., with its efficiency, will take away people’s jobs. They may question the ability of machines to be creative.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-the-robot-artists-arent-coming/index.json",
       "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -278,7 +337,10 @@
       "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
       "title": "Unlocking the value of values with AI",
       "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-unlocking-the-value-of-values-with-ai/index.json",
       "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -325,7 +387,10 @@
       "path": "_news/2020-05-27-computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision in Artificial Intelligence (AI) Market” report provides valuable information regarding new products in the market,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports-2020-06-16",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -373,7 +438,10 @@
       "path": "_news/2020-05-27-social-distancing-apps-and-facial-recognition-are-the-new-normal-at-indias-it-firms.md",
       "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
       "excerpt": "Quartz spoke to several IT players and industry experts to understand what is already happening and what more needs to be done to adjust with the “new normal.” Here’s what they said: Most IT firms are starting with limited employees in offices to ensure physical distancing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-social-distancing-apps-and-facial-recognition-are-the-new-normal-at-indias-it-firms/index.json",
       "webUrl": "https://qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -420,7 +488,10 @@
       "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
       "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
       "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights/index.json",
       "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -467,7 +538,10 @@
       "path": "_news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox.md",
       "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
       "excerpt": "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox/index.json",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -514,7 +588,10 @@
       "path": "_news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant.md",
       "title": "Google pilots voice authentication for purchases made through Google Assistant",
       "excerpt": "Google is piloting a \"new\" voice authentication method for securing purchases made via its AI Assitant. The feature, called Voice Match, has limited availability for now and is only usable with Assistant-enabled smart speakers and displays.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant/index.json",
       "webUrl": "https://www.techspot.com/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -561,7 +638,10 @@
       "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
       "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
       "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/index.json",
       "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/05/26/amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 159,
       "tags": null,
       "images": [
@@ -608,7 +688,10 @@
       "path": "_news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson.md",
       "title": "NLP in the real world: How Global-Regulation organized its comparative law search engine with Watson",
       "excerpt": "As I’ve previously discussed, Natural Language Processing (NLP) is making its way into every industry. Each day, organizations find a way to implement NLP into their organization to speed up a process, analyze data more efficiently, or even provide smarter recommendations. As the amount of unstructured",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/index.json",
       "webUrl": "https://www.ibm.com/blogs/watson/2020/05/nlp-in-the-real-world-how-global-regulation-organized-its-comparative-law-search-engine-with-watson/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -654,7 +737,10 @@
       "path": "_news/2020-05-27-machine-learning-in-finance-from-buzzword-to-mainstream.md",
       "title": "Machine learning in finance: From buzzword to mainstream",
       "excerpt": "The financial sector is a late adopter of machine learning. Top applications include fraud detection ... Training such chatbots requires hundreds of hours of customer service logs, but once the algorithm learns, it can successfully replace a lot of ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-machine-learning-in-finance-from-buzzword-to-mainstream/index.json",
       "webUrl": "https://jaxenter.com/machine-learning-finance-171641.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -692,7 +778,10 @@
       "path": "_news/2020-05-27-tensorflow-tutorial-uses-python.md",
       "title": "Tensorflow Tutorial Uses Python",
       "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-tensorflow-tutorial-uses-python/index.json",
       "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -731,7 +820,10 @@
       "path": "_news/2020-05-27-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm/index.json",
       "webUrl": "https://mashable.com/video/paralyzed-man-feels-fingers-again/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -769,7 +861,10 @@
       "path": "_news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering.md",
       "title": "Google AI researchers want to teach robots tasks through self-supervised reverse engineering",
       "excerpt": "Google and Stanford University researchers propose a technique that has AI predict the steps required to reach a goal state.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/index.json",
       "webUrl": "https://venturebeat.com/2020/05/26/google-ai-researchers-want-to-teach-robots-tasks-through-self-supervised-reverse-engineering/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -815,7 +910,10 @@
       "path": "_news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it.md",
       "title": "AI is more data-hungry than ever, and DefinedCrowd raises $50M B round to feed it",
       "excerpt": "As AI has grown from niche to mission-critical technology, the companies that enable it have multiplied and in many cases prospered. A good example of that success is DefinedCrowd, which has gone from the Disrupt stage to globe-spanning AI toolkit to the Fortune 500 in just a couple years.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/index.json",
       "webUrl": "https://techcrunch.com/2020/05/26/ai-is-more-data-hungry-than-ever-and-definedcrowd-raises-50m-b-round-to-feed-it/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -861,7 +959,10 @@
       "path": "_news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty.md",
       "title": "AI can battle coronavirus, but privacy shouldn’t be a casualty",
       "excerpt": "Introduced as short-term fixes to the immediate threat of coronavirus, widespread data-sharing, monitoring and surveillance could become fixtures of modern public life.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/index.json",
       "webUrl": "https://techcrunch.com/2020/05/26/ai-can-battle-coronavirus-but-privacy-shouldnt-be-a-casualty/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -907,7 +1008,10 @@
       "path": "_news/2020-05-26-amazon-web-services-und-die-bundesliga-liefern-mit-bundesliga-match-facts-powered-by-aws-spielanalysen-in-echtzeit.md",
       "title": "Amazon Web Services und die Bundesliga liefern mit „Bundesliga Match Facts Powered by AWS“ Spielanalysen in Echtzeit",
       "excerpt": "Amazon Web Services (AWS), ein Amazon.com-Unternehmen (NASDAQ: AMZN), und die Deutsche Bundesliga geben heute Abend um 18:30 Uhr MEZ im Rahmen des Highlight-Spiels Borussia Dortmund gegen Bayern ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-amazon-web-services-und-die-bundesliga-liefern-mit-bundesliga-match-facts-powered-by-aws-spielanalysen-in-echtzeit/index.json",
       "webUrl": "https://www.register-herald.com/region/amazon-web-services-und-die-bundesliga-liefern-mit-bundesliga-match-facts-powered-by-aws-spielanalysen/article_1cf11558-d35b-5e5e-9c66-262d1197a326.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -945,7 +1049,10 @@
       "path": "_news/2020-05-26-jedi-delay-slows-dods-ai-push.md",
       "title": "JEDI delay slows DOD’s AI push",
       "excerpt": "JEDI delay slows DOD’s AI push. By Lauren C. Williams; May 26, 2020; The Defense Department’s artificial intelligence push has been hampered by the lack of an enterprisewide c",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-jedi-delay-slows-dods-ai-push/index.json",
       "webUrl": "https://gcn.com/articles/2020/05/26/jedi-delay-slows-ai.aspx?admgarea=TC_EmergingTech",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -983,7 +1090,10 @@
       "path": "_news/2020-05-26-how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars.md",
       "title": "How Cinelytic is using AI to help Hollywood reboot for the streaming wars",
       "excerpt": "L.A.-based Cinelytic wants to help Hollywood studios use AI to improve their decision-making and forecasting as they launch their streaming services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/index.json",
       "webUrl": "https://venturebeat.com/2020/05/26/how-cinelytic-is-using-ai-to-help-hollywood-reboot-for-the-streaming-wars/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -1029,7 +1139,10 @@
       "path": "_news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher.md",
       "title": "AI, Gaming, Driverless Cars Push Nvidia Stock Higher",
       "excerpt": "Some big trends stand to benefit Nvidia and its rivals, Intel and Advanced Micro Devices Inc. (NASDAQ: AMD). These include artificial intelligence, gaming and driverless vehicles.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-ai-gaming-driverless-cars-push-nvidia-stock-higher/index.json",
       "webUrl": "https://247wallst.com/technology-3/2020/05/26/ai-gaming-driverless-cars-push-nvidia-stock-higher/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -1062,53 +1175,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-facebooks-ai-convincingly-inserts-people-into-photos.md",
-      "title": "Facebook’s AI convincingly inserts people into photos",
-      "excerpt": "Facebook researchers propose AI that can insert people into existing images, and even change the hair and clothing styles of those inserted people.",
-      "webUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/",
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI convincingly inserts people into photos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/facebooks-ai-convincingly-inserts-people-into-photos/amp/",
-      "publishedDateTime": "2020-05-26T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

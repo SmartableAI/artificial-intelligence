@@ -2,10 +2,64 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
+      "title": "Azure Cognitive Services learns more languages",
+      "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-azure-cognitive-services-learns-more-languages/index.json",
+      "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1173107665-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Azure Cognitive Services learns more languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/amp/",
+      "publishedDateTime": "2020-05-19T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19.md",
       "title": "The Role Artificial Intelligence is Playing in the Fight Against COVID-19",
       "excerpt": "As the economy begins the slow process of re-opening, advanced technologies such as artificial intelligence, machine learning, and natural language processing are playing a key role not only in monitoring COVID-19 outbreaks,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19/index.json",
       "webUrl": "https://www.nasdaq.com/articles/the-role-artificial-intelligence-is-playing-in-the-fight-against-covid-19-2020-05-19",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": null,
@@ -34,7 +88,10 @@
       "path": "_news/2020-05-19-aware-combines-face-and-voice-in-latest-knomi-version-26-release.md",
       "title": "Aware Combines Face and Voice in Latest Knomi® Version 2.6 Release",
       "excerpt": "PRNewswire/ -- Aware, Inc. (NASDAQ: AWRE), a leading global provider of biometrics software products, solutions and services, today announced the release",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-aware-combines-face-and-voice-in-latest-knomi-version-26-release/index.json",
       "webUrl": "https://www.prnewswire.com/news-releases/aware-combines-face-and-voice-in-latest-knomi-version-2-6-release-301061758.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -72,7 +129,10 @@
       "path": "_news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool.md",
       "title": "Your face mask selfies could be training the next facial recognition tool",
       "excerpt": "Researchers are crawling the internet for photos of people wearing face masks to improve facial recognition algorithms.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/index.json",
       "webUrl": "https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 115,
       "tags": null,
       "images": [
@@ -120,7 +180,10 @@
       "path": "_news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript.md",
       "title": "Sogou Inc. (SOGO) Q1 2020 Earnings Call Transcript",
       "excerpt": "Sogou Inc. Q1 2020 Earnings Call May 18, 2020, 6:30 a.m. ET. Contents: Prepared Remarks; Questions and Answers; Call Participants; Prepared Remarks: Operator. Ladies and gentlemen",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-sogou-inc-sogo-q1-2020-earnings-call-transcript/index.json",
       "webUrl": "https://www.fool.com/earnings/call-transcripts/2020/05/18/sogou-inc-sogo-q1-2020-earnings-call-transcript.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -167,7 +230,10 @@
       "path": "_news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy.md",
       "title": "How a Chinese AI Giant Made Chatting—and Surveillance—Easy",
       "excerpt": "Alexa can tell you the weather. Siri knows a few jokes. In China, voice-computing company iFlytek built similar smart assistants beloved by users. But its tech is also helping the government listen in.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-18-how-a-chinese-ai-giant-made-chattingand-surveillanceeasy/index.json",
       "webUrl": "https://www.wired.com/story/iflytek-china-ai-giant-voice-chatting-surveillance/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -215,7 +281,10 @@
       "path": "_news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs.md",
       "title": "10 Ways AI Can Improve Voice Of The Customer Programs",
       "excerpt": "Gaining insight and intelligence to energize existing customer relationships calls for greater use of AI in VoC programs.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-17-10-ways-ai-can-improve-voice-of-the-customer-programs/index.json",
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/17/10-ways-ai-can-improve-voice-of-the-customer-programs/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -262,7 +331,10 @@
       "path": "_news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form.md",
       "title": "Edward Saatchi on virtual beings: AI is the next great art form",
       "excerpt": "Edward Saatchi believes AI is the next great art form. It is fighting for its legitimacy now, just as virtual reality, video games, and films did before.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-17-edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/index.json",
       "webUrl": "https://venturebeat.com/2020/05/17/edward-saatchi-on-virtual-beings-ai-is-the-next-great-art-form/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 73,
       "tags": null,
       "images": [
@@ -311,7 +383,10 @@
       "path": "_news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law.md",
       "title": "OpenAI Finds Machine Learning Efficiency Is Outpacing Moore’s Law",
       "excerpt": "OpenAI researchers outline a new way to measure AI efficiency, and using their measure, they show AI has been getting more efficient at a wicked pace.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-17-openai-finds-machine-learning-efficiency-is-outpacing-moores-law/index.json",
       "webUrl": "https://singularityhub.com/2020/05/17/openai-finds-machine-learning-efficiency-is-outpacing-moores-law/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -350,7 +425,10 @@
       "path": "_news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models.md",
       "title": "Hugging Face dives into machine translation with release of 1,000 models",
       "excerpt": "Hugging Face launched about 1,000 AI models for translation, the first venture into translation for the startup that seeks out and shares cutting-edge NLP.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-16-hugging-face-dives-into-machine-translation-with-release-of-1000-models/index.json",
       "webUrl": "https://venturebeat.com/2020/05/16/hugging-face-dives-into-machine-translation-with-release-of-1000-models/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [

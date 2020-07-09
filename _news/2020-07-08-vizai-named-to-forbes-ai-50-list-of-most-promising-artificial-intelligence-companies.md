@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T20:18:00Z
 webUrl: "https://www.prnewswire.com/news-releases/vizai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301090432.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     title: "Viz.ai Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
 
 related:
-  - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to"
-    publishedDateTime: 2020-07-06T19:35:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
   - title: "Gong Named One of America's Most Promising AI Companies by Forbes"
     excerpt: "Gong, the revenue intelligence platform leveraging artificial intelligence to replace opinions with true customer reality, today announced that it has been named to"
     publishedDateTime: 2020-07-07T18:52:00Z
@@ -50,6 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
+    excerpt: "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence"
+    publishedDateTime: 2020-07-06T19:19:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_f3e949d6-22c4-5cd9-bfda-d9c125e452bc.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 26
   - title: "ExtraHop Named to the Forbes AI 50 List for 2020"
     excerpt: "SEATTLE--(BUSINESS WIRE)--ExtraHop, the leader in cloud-native network detection and response, today announced that it has been named to the 2020 Forbes AI 50 list for its advances and innovation in the use of machine learning and artificial intelligence for cybersecurity."
     publishedDateTime: 2020-07-07T13:16:00Z

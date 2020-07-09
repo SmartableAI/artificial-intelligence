@@ -2,10 +2,54 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k.md",
+      "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+      "excerpt": "CEO Elon Musk announced via Twitter that Tesla will soon raise the cost of the full self driving option for their vehicles",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-tesla-to-increase-full-self-driving-pirce-musk-says-it-will-be-worth-100k/index.json",
+      "webUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.motor1.com/images/mgl/6BLve/s1/top-five-reasons-why-consumers-buy-tesla-cars-video.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Tesla To increase 'Full Self Driving' Pirce: Musk Says It Will Be Worth $100k",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/424123/tesla-increases-cost-full-self-driving/amp/",
+      "publishedDateTime": "2020-05-19T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inside EVs",
+        "domain": "insideevs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-19-facial-recognition-reunites-missing-child-after-32-years.md",
       "title": "Facial recognition reunites missing child after 32 years",
       "excerpt": "Facial recognition technology led to a joyful reunion and a happy ending to what was a very sad story. A Chinese man kidnapped 32 years ago as a toddler was reunited with his biological family Monday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-facial-recognition-reunites-missing-child-after-32-years/index.json",
       "webUrl": "https://www.clickorlando.com/news/local/2020/05/19/facial-recognition-reunites-missing-child-after-32-years/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 149,
       "tags": null,
       "images": [
@@ -43,7 +87,10 @@
       "path": "_news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions.md",
       "title": "Sony joins Microsoft to create AI-driven smart camera solutions",
       "excerpt": "Sony and Microsoft on Tuesday announced to create solutions that will make AI-powered smart cameras and video analytics easier to access and deploy for their mutual customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions/index.json",
       "webUrl": "https://www.sify.com/finance/sony-joins-microsoft-to-create-ai-driven-smart-camera-solutions-news-topnews-ufuk09gagjdei.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -81,7 +128,10 @@
       "path": "_news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale.md",
       "title": "Facebook’s new AI tool will automatically identify items you put up for sale",
       "excerpt": "Facebook is launching what it’s calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars. It’s the first step toward a future where the products in every image on its site can be identified and potentially shopped for.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-facebooks-new-ai-tool-will-automatically-identify-items-you-put-up-for-sale/index.json",
       "webUrl": "https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -128,7 +178,10 @@
       "path": "_news/2020-05-19-facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable.md",
       "title": "Facebook develops new AI techniques to one day make \"anything shoppable\"",
       "excerpt": "By improving product segmentation, detection and classification, Facebook is working towards building a holistic AI system for frictionless shopping on Marketplace or Facebook Pages.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/index.json",
       "webUrl": "https://www.zdnet.com/article/facebook-develops-new-ai-techniques-to-one-day-make-anything-shoppable/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -174,7 +227,10 @@
       "path": "_news/2020-05-19-microsoft-helps-sony-power-the-worlds-first-ai-image-sensor-with-azure.md",
       "title": "Microsoft helps Sony power the world’s first AI image sensor with Azure",
       "excerpt": "Sony is the top image sensor supplier to the smartphone industry and has a presence in other segments as well. The IMX500 is designed to power enterprise systems such as industrial cameras for monitoring product lines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-helps-sony-power-the-worlds-first-ai-image-sensor-with-azure/index.json",
       "webUrl": "https://siliconangle.com/2020/05/19/microsoft-helps-sony-power-worlds-first-ai-image-sensor-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -213,7 +269,10 @@
       "path": "_news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors.md",
       "title": "Sony Adds Microsoft-Powered Artificial Intelligence to IMX500 Video Camera Sensors",
       "excerpt": "Sony is making video cameras smarter. The IMX500 line of intelligent video sensors will come with embedded access to artificial intelligence (AI) tools from Microsoft (NASDAQ:MSFT",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-sony-adds-microsoft-powered-artificial-intelligence-to-imx500-video-camera-sensors/index.json",
       "webUrl": "https://www.fool.com/investing/2020/05/19/sony-adds-microsoft-powered-artificial-intelligenc.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -259,7 +318,10 @@
       "path": "_news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment.md",
       "title": "AWS Machine Learning Scholarship Program from Udacity is now open for enrollment",
       "excerpt": "Developers, to help you advance your AI and machine learning (ML) skills with hands-on and engaging learning, the AWS Machine Learning Scholarship Program from Udacity is now open for enrollment. \nAWS and Udacity are collaborating to educate developers of all skill levels to expand their AWS ML expertise.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-machine-learning-scholarship-program-from-udacity-is-now-open-for-enrollment/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -306,7 +368,10 @@
       "path": "_news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield.md",
       "title": "Microsoft (MSFT)-Sony AI-Camera Deal to Boost Business Yield",
       "excerpt": "Microsoft MSFT recently inked a deal with Sony Semiconductor Solutions (Sony) aimed at delivering solutions to aid enterprises avail the benefits of AI-driven smart cameras with robust video analytics capabilities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-msft-sony-ai-camera-deal-to-boost-business-yield/index.json",
       "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-sony-ai-camera-deal-to-boost-business-yield-2020-05-19",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": null,
@@ -335,7 +400,10 @@
       "path": "_news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech.md",
       "title": "Chinese man abducted 32 years ago as toddler reunited with birth parents thanks to facial recognition tech",
       "excerpt": "A Chinese man who was kidnapped as a toddler 32 years ago was reunited with his biological parents during an emotional news conference Monday after police used facial recognition technology to track him down and confirm his identity,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-chinese-man-abducted-32-years-ago-as-toddler-reunited-with-birth-parents-thanks-to-facial-recognition-tech/index.json",
       "webUrl": "https://www.foxnews.com/world/china-kidnapped-toddler-32-years-reunites-birth-parents-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 131,
       "tags": null,
       "images": [
@@ -382,7 +450,10 @@
       "path": "_news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars.md",
       "title": "Americans don't know why they don't trust self-driving cars",
       "excerpt": "A new survey from PAVE suggests self-driving car companies have a long way to go before they people trust their vehicles.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-americans-dont-know-why-they-dont-trust-self-driving-cars/index.json",
       "webUrl": "https://www.engadget.com/pave-self-driving-car-survey-154045444.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -429,7 +500,10 @@
       "path": "_news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience.md",
       "title": "Microsoft builds a new online developer conference experience",
       "excerpt": "A look at what Microsoft announced at Microsoft Build 2020, as well as the considerations that went into making the event virtual",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-builds-a-new-online-developer-conference-experience/index.json",
       "webUrl": "https://sdtimes.com/msft/microsoft-builds-a-new-online-developer-conference-experience/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -476,7 +550,10 @@
       "path": "_news/2020-05-19-mount-sinais-ai-can-diagnose-covid-19.md",
       "title": "Mount Sinai’s AI can diagnose COVID-19",
       "excerpt": "Researchers from Mount Sinai believe they are the first in the US to use AI, combined with imaging and clinical data, to diagnose COVID-19.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-mount-sinais-ai-can-diagnose-covid-19/index.json",
       "webUrl": "https://www.engadget.com/mount-sinai-ai-diagnoses-covid-19-152430735.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -522,7 +599,10 @@
       "path": "_news/2020-05-19-azure-cognitive-services-learns-more-languages.md",
       "title": "Azure Cognitive Services learns more languages",
       "excerpt": "It wouldn’t be a Microsoft Build without a bunch of new capabilities for Azure Cognitive Services, Microsoft’s cloud-based AI tools for developers. The first new feature is what Microsoft calls the “personalized apprentice mode,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-azure-cognitive-services-learns-more-languages/index.json",
       "webUrl": "https://techcrunch.com/2020/05/19/azure-cognitive-services-learns-more-languages/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 106,
       "tags": null,
       "images": [
@@ -570,7 +650,10 @@
       "path": "_news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models.md",
       "title": "Microsoft launches new tools for building fairer machine learning models",
       "excerpt": "At its Build developer conference, Microsoft today put a strong emphasis on machine learning but in addition to plenty of new tools and features, the company also highlighted its work on building more responsible and fairer AI systems — both in the Azure cloud and Microsoft’s",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-launches-new-tools-for-building-fairer-machine-learning-models/index.json",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-launches-new-tools-for-building-more-responsible-machine-learning-models/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 150,
       "tags": null,
       "images": [
@@ -618,7 +701,10 @@
       "path": "_news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure.md",
       "title": "Microsoft says it teamed up with OpenAI to build a massive AI supercomputer in Azure",
       "excerpt": "At its Build developer conference, Microsoft today announced that it has teamed up with OpenAI, the startup trying to build a general artificial intelligence with — among other things — a $1 billion investment from Microsoft,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/index.json",
       "webUrl": "https://techcrunch.com/2020/05/19/microsoft-says-it-teamed-up-with-openai-to-build-a-massive-ai-supercomputer-in-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 152,
       "tags": null,
       "images": [
@@ -665,7 +751,10 @@
       "path": "_news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities.md",
       "title": "Azure Synapse Link anchors Microsoft’s new big data analytics capabilities",
       "excerpt": "During its Build 2020 conference, Microsoft announced a number of products targeting enterprises engaged in big data, including Azure Synapse Linke.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-azure-synapse-link-anchors-microsofts-new-big-data-analytics-capabilities/index.json",
       "webUrl": "https://venturebeat.com/2020/05/19/azure-synapse-link-anchors-microsoft-big-data-analytics-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -712,7 +801,10 @@
       "path": "_news/2020-05-19-microsoft-builds-openais-dream-system-an-azure-supercomputer-that-ranks-among-top-5-in-the-world.md",
       "title": "Microsoft builds OpenAI’s ‘dream system,’ an Azure supercomputer that ranks among top 5 in the world",
       "excerpt": "Microsoft says it has created one of the world’s top supercomputers for the exclusive use of OpenAI, the San Francisco-based artificial intelligence company pursuing breakthroughs in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-builds-openais-dream-system-an-azure-supercomputer-that-ranks-among-top-5-in-the-world/index.json",
       "webUrl": "https://www.geekwire.com/2020/microsoft-builds-openais-dream-system-azure-supercomputer-rank-among-top-5-world/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": [
@@ -759,7 +851,10 @@
       "path": "_news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy.md",
       "title": "Microsoft debuts WhiteNoise, an AI toolkit for differential privacy",
       "excerpt": "Microsoft debuted a number of privacy- and fairness-focused enhancements to Azure Machine Learning, including the WhiteNoise toolkit.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/index.json",
       "webUrl": "https://venturebeat.com/2020/05/19/microsoft-debuts-whitenoise-an-ai-toolkit-for-differential-privacy/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -807,7 +902,10 @@
       "path": "_news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more.md",
       "title": "Azure Machine Learning gets Responsible ML innovations and more",
       "excerpt": "Microsoft has announced new capabilities to its cloud-based machine learning platform. A new project to advance machine teaching methods has also been released in the form of a public preview.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-azure-machine-learning-gets-responsible-ml-innovations-and-more/index.json",
       "webUrl": "https://www.neowin.net/news/azure-machine-learning-gets-responsible-ml-innovations-and-more",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 121,
       "tags": null,
       "images": [
@@ -855,7 +953,10 @@
       "path": "_news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements.md",
       "title": "Microsoft announces Azure Cognitive Services and Bot Service enhancements",
       "excerpt": "Not only have Microsoft's Bot Framework and Service been updated, but new AI functionality and language capabilities have been introduced for apps that leverage Azure Cognitive Services as well.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-announces-azure-cognitive-services-and-bot-service-enhancements/index.json",
       "webUrl": "https://www.neowin.net/news/microsoft-announces-azure-cognitive-services-and-bot-service-enhancements",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 118,
       "tags": null,
       "images": [
@@ -902,7 +1003,10 @@
       "path": "_news/2020-05-19-microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service.md",
       "title": "Microsoft readies more developer tools for its 'Project Cortex' knowledge-management service",
       "excerpt": "Microsoft's Project Cortex knowledge service is still on track to be generally available this summer. Microsoft has 75 companies privately testing Cortex and is working to get more developers on board.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/index.json",
       "webUrl": "https://www.zdnet.com/article/microsoft-readies-more-developer-tools-for-its-project-cortex-knowledge-management-service/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -949,7 +1053,10 @@
       "path": "_news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates.md",
       "title": "Microsoft's hybrid platform, Azure Stack Hub, gets management, machine learning updates",
       "excerpt": "Microsoft is adding some new incremental features to its hybrid Azure Stack Hub platform, and it's continuing its Azure Arc unified management push at Build 2020.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/index.json",
       "webUrl": "https://www.zdnet.com/article/microsofts-hybrid-platform-azure-stack-hub-gets-management-machine-learning-updates/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 103,
       "tags": null,
       "images": null,
@@ -988,7 +1095,10 @@
       "path": "_news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work.md",
       "title": "Microsoft announces new supercomputer, lays out vision for future AI work",
       "excerpt": "The post Microsoft announces new supercomputer, lays out vision for future AI work appeared first on The AI Blog.\n",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-microsoft-announces-new-supercomputer-lays-out-vision-for-future-ai-work/index.json",
       "webUrl": "https://blogs.microsoft.com/ai/openai-azure-supercomputer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 103,
       "tags": null,
       "images": [
@@ -1035,7 +1145,10 @@
       "path": "_news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients.md",
       "title": "AI is helping get medical research into the hands of doctors and patients",
       "excerpt": "A patient-centric approach helps advance medical knowledge, which is desperately needed in the middle of a fast-moving pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-19-ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/index.json",
       "webUrl": "https://www.techrepublic.com/article/ai-is-helping-get-medical-research-into-the-hands-of-doctors-and-patients/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -1075,53 +1188,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-19-master-ai-machine-learning-with-this-discounted-training-bundle.md",
-      "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-      "excerpt": "It's time to demystify AI, and The Essential AI and Machine Learning Certification Training Bundle is here to help for just $40.",
-      "webUrl": "https://www.pcmag.com/deals/master-ai-machine-learning-with-this-discounted-training-bundle",
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00oJYHbcrtgk5RlvzX11jYC-1.fit_lim.size_1200x630.v_1589877302.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Master AI, Machine Learning With This Discounted Training Bundle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

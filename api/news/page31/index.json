@@ -2,10 +2,45 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-14-artificial-intelligence-for-speech-recognition-market.md",
+      "title": "Artificial Intelligence for Speech Recognition Market",
+      "excerpt": "A new market study is released on Artificial Intelligence for Speech Recognition Market with data Tables for historical and forecast years represented with Chats & Graphs spread through 58 Pages ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-artificial-intelligence-for-speech-recognition-market/index.json",
+      "webUrl": "https://www.openpr.com/news/2074022/artificial-intelligence-for-speech-recognition-market",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2074022/artificial-intelligence-for-speech-recognition-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2074022/artificial-intelligence-for-speech-recognition-market",
+      "publishedDateTime": "2020-06-14T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-14-machine-learning-behind-google-translate.md",
       "title": "Machine Learning Behind Google Translate",
       "excerpt": "Google Translate was launched 10 years ago. During the initial days, Google Translate was launched with Phrase-Based Machine Translation as the key algorithm. Later, Google came up with other machine learning advancements that changed the way we look at foreign languages forever.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-machine-learning-behind-google-translate/index.json",
       "webUrl": "https://analyticsindiamag.com/google-translate-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -43,7 +78,10 @@
       "path": "_news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos.md",
       "title": "Facebook AI model achieves 65% accuracy to detect deepfake videos",
       "excerpt": "Alarmed at the growing forged or deepfake videos on its platform, Facebook organised a Deepfake Detection Challenge and the results were not very encouraging, as the highest-performing model achieved an average precision of 65.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/index.json",
       "webUrl": "https://www.businessinsider.in/tech/news/facebook-ai-model-achieves-65-accuracy-to-detect-deepfake-videos/articleshow/76367010.cms",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -81,7 +119,10 @@
       "path": "_news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb.md",
       "title": "The Brazil Tech And Innovation Round-Up: Covid-19 Data Reporting Controversy, Fake News Bill, Artificial Intelligence, Gympass, Airbnb",
       "excerpt": "A selection of noteworthy developments around tech and innovation in South America's largest economy during the week ending June 12, 2020.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/index.json",
       "webUrl": "https://www.forbes.com/sites/angelicamarideoliveira/2020/06/13/the-brazil-tech-and-innovation-round-up-covid-19-data-reporting-controversy-fake-news-bill-artificial-intelligence-gympass-airbnb/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -128,7 +169,10 @@
       "path": "_news/2020-06-14-facebooks-universal-music-translator.md",
       "title": "Facebook’s Universal Music Translator",
       "excerpt": "Star Trek has its universal language translator and now researchers from Facebook Artificial Intelligence Research (FAIR) has developed a universal music translator. Much of it is based on Google ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-facebooks-universal-music-translator/index.json",
       "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -166,7 +210,10 @@
       "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
       "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
       "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/index.json",
       "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-tensorflow-2-0-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -214,7 +261,10 @@
       "path": "_news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station.md",
       "title": "Meet Arjun, the Robot Who Will Record Temperature of Passengers in Pune Railway Station",
       "excerpt": "The Railway Protection Force unit of Central Railway has deployed a robot to thermally screen and record temperature of passengers at Pune station in view of the novel coronavirus outbreak, officials said on Saturday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station/index.json",
       "webUrl": "https://www.india.com/news/india/meet-arjun-the-robot-who-will-record-temperature-of-passengers-in-pune-railway-station-4057264/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -252,7 +302,10 @@
       "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
       "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
       "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 218,
       "tags": null,
       "images": [
@@ -300,7 +353,10 @@
       "path": "_news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence.md",
       "title": "AIOps: Artificial intelligence helps build and run artificial intelligence",
       "excerpt": "The 6 essential building blocks of artificial intelligence for IT operations (AIOps), and why it matters. As cyber threats and the data protection environment evolve, companies are increasingly looking to bring their cybersecurity functions in-house.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/index.json",
       "webUrl": "https://www.zdnet.com/article/aiops-artificial-intelligence-helps-build-and-run-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 102,
       "tags": null,
       "images": [
@@ -347,7 +403,10 @@
       "path": "_news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities.md",
       "title": "OpenAI makes an all-purpose API for its text-based AI capabilities",
       "excerpt": "If you’ve ever wanted to try out OpenAI’s vaunted machine learning toolset, it just got a lot easier. The company has released an API that lets developers call its AI tools in on “virtually any English language task.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/index.json",
       "webUrl": "https://techcrunch.com/2020/06/11/openai-makes-an-all-purpose-api-for-its-text-based-ai-capabilities/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -393,7 +452,10 @@
       "path": "_news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing.md",
       "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
       "excerpt": "A group of researchers at IIT-Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring ... Welfare,\" a member of the research group said.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing/index.json",
       "webUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -431,7 +493,10 @@
       "path": "_news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial.md",
       "title": "Global and Chinese Automotive Vision Markets, 2020 Assessment - Visual Perception Algorithms Become Crucial",
       "excerpt": "Stock quotes by finanzen.net DUBLIN, June 12, 2020 /PRNewswire/ -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering. Breakthroughs in Binocular Camera Chinese startups have made dramatic breakthroughs in binocular cameras,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-chinese-automotive-vision-markets-2020-assessment-visual-perception-algorithms-become-crucial-1029305297",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -469,7 +534,10 @@
       "path": "_news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work.md",
       "title": "AI Weekly: AI phrenology is racist nonsense, so of course it doesn’t work",
       "excerpt": "Researchers torched studies that claim to be able to determine a person's criminality using facial recognition technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/ai-weekly-ai-phrenology-is-racist-nonsense-so-of-course-it-doesnt-work/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -515,7 +583,10 @@
       "path": "_news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police.md",
       "title": "Vergecast: Android 11 beta, PS5 reveal, and big tech halts facial recognition for police",
       "excerpt": "During the first part of the show, Verge reporter Megan Farokhmanesh and games editor Andrew Webster take over to run through everything announced at Sony’s virtual event on Thursday — from all the games to the long-awaited reveal of the PS5 design.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-vergecast-android-11-beta-ps5-reveal-and-big-tech-halts-facial-recognition-for-police/index.json",
       "webUrl": "https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 80,
       "tags": null,
       "images": [
@@ -562,7 +633,10 @@
       "path": "_news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai.md",
       "title": "Researchers train drones to perform flips, rolls, and loops with AI",
       "excerpt": "In a preprint paper, researchers propose a technique for training autonomous drones to perform flips, rolls, and other challenging acrobatics.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/researchers-train-drones-to-perform-flips-rolls-and-loops-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -608,7 +682,10 @@
       "path": "_news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition.md",
       "title": "A Bill in Congress Would Limit Uses of Facial Recognition",
       "excerpt": "Amazon, Microsoft, and IBM say they want federal rules around the technology. Critics of the proposal, sponsored by four Democrats, say it doesn't go far enough.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-a-bill-in-congress-would-limit-uses-of-facial-recognition/index.json",
       "webUrl": "https://www.wired.com/story/bill-congress-limit-uses-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 199,
       "tags": null,
       "images": [
@@ -655,7 +732,10 @@
       "path": "_news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers.md",
       "title": "Cryptominers Found in Azure Kubernetes Containers",
       "excerpt": "Images from a public repository contained cryptominers that Microsoft researchers found in Kubeflow instances running on Azure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-cryptominers-found-in-azure-kubernetes-containers/index.json",
       "webUrl": "https://www.darkreading.com/attacks-breaches/cryptominers-found-in-azure-kubernetes-containers/d/d-id/1338083",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -694,7 +774,10 @@
       "path": "_news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine.md",
       "title": "How AI can help find a coronavirus vaccine",
       "excerpt": "Murat Sonmez, managing director of the World Economic Forum, explains how big data and machine learning can help find a vaccine for COVID-19.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-how-ai-can-help-find-a-coronavirus-vaccine/index.json",
       "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-find-a-coronavirus-vaccine/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -740,7 +823,10 @@
       "path": "_news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt.md",
       "title": "You can help a Mars Rover’s AI learn to tell rocks from dirt",
       "excerpt": "Mars Rover Curiosity has been on the Red Planet for going on 8 years, but its journey is nowhere near finished — and it’s still getting upgrades. You can help it out by spending a few minutes labeling raw data to feed to its terrain-scanning AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/index.json",
       "webUrl": "https://techcrunch.com/2020/06/12/you-can-help-a-mars-rovers-ai-learn-to-tell-rocks-from-dirt/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -786,7 +872,10 @@
       "path": "_news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto.md",
       "title": "Hackers Target Microsoft Azure Servers to Illegally Mine Crypto",
       "excerpt": "The machine learning cluster of Microsoft Azure cloud computing services has become the recent target of hackers for mining digital currencies.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-hackers-target-microsoft-azure-servers-to-illegally-mine-crypto/index.json",
       "webUrl": "https://www.financemagnates.com/cryptocurrency/news/hackers-target-microsoft-azur-servers-to-illegally-mine-crypto/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -824,7 +913,10 @@
       "path": "_news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker.md",
       "title": "A/B Testing ML models in production using Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists the ability to quickly build, train, and deploy machine learning (ML) models. Tens of thousands of customers, including Intuit, Voodoo, ADP, Cerner, Dow Jones, and Thomson Reuters, use Amazon SageMaker to remove",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-ab-testing-ml-models-in-production-using-amazon-sagemaker/index.json",
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/a-b-testing-ml-models-in-production-using-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -871,7 +963,10 @@
       "path": "_news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning.md",
       "title": "Revolutionizing Data Collaboration with Federated Machine Learning",
       "excerpt": "We now live in a world that’s becoming more data-driven every day. Organizations across a wide range of industries are using artificial intelligence (AI)",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-revolutionizing-data-collaboration-with-federated-machine-learning/index.json",
       "webUrl": "https://www.datanami.com/2020/06/12/revolutionizing-data-collaboration-with-federated-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -909,7 +1004,10 @@
       "path": "_news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer.md",
       "title": "Bigfoot Biomedical® Appoints Jim Malone MD Chief Medical Officer",
       "excerpt": "Press Release Bigfoot Biomedical, Inc. announced today the appointment of Dr. Jim Malone as Chief Medical Officer. Dr. Malone, an endocrinologist specializing in diabetes, spent 12 years in clinical practice and 21 years in clinical research,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/bigfoot-biomedical-appoints-jim-malone-md-chief-medical-officer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -956,7 +1054,10 @@
       "path": "_news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled.md",
       "title": "ProBeat: The question of cloud AI or edge AI is far from settled",
       "excerpt": "It's too early to say whether Google's cloud solution or Microsoft's edge solution is the superior approach to noise cancellation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/index.json",
       "webUrl": "https://venturebeat.com/2020/06/12/probeat-the-question-of-cloud-ai-or-edge-ai-is-far-from-settled/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1003,7 +1104,10 @@
       "path": "_news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
       "title": "Volkswagen closes $2.6 billion investment in self-driving startup Argo AI",
       "excerpt": "German automaker Volkswagen AG has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post on Tuesday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-volkswagen-closes-26-billion-investment-in-self-driving-startup-argo-ai/index.json",
       "webUrl": "https://in.reuters.com/article/volkswagen-argo-idINKBN2390FT",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -1042,53 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-12-top-companies-to-short-as-stock-market-optimism-dips.md",
-      "title": "Top Companies To Short As Stock Market Optimism Dips",
-      "excerpt": "We have some buying this morning with markets recovering some of Thursday’s massive losses. However, it looks uneasy at best. For those looking to bet against the upward trend our AI technology paired with our deep learning algorithms have identified several Top Shorts today.",
-      "webUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/",
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215230279%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": "Top Companies To Short As Stock Market Optimism Dips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/06/12/top-companies-to-short-as-stock-market-optimism-dips/amp/",
-      "publishedDateTime": "2020-06-12T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,48 +2,13 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation.md",
-      "title": "Databricks Donates MLflow Project To Linux Foundation",
-      "excerpt": "MLflow is available on Azure and AWS as a managed MLOps platform which comes with tight integration with Azure ML services and Amazon SageMaker. With MLflow project becoming a part of the Linux ...",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "publishedDateTime": "2020-06-25T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
       "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
       "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/index.json",
       "webUrl": "https://www.pcgamer.com/uk/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -81,7 +46,10 @@
       "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
       "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
       "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday/index.json",
       "webUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -128,7 +96,10 @@
       "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
       "title": "Tesla's most robust self-driving package will cost more — again",
       "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again/index.json",
       "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -166,7 +137,10 @@
       "path": "_news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles.md",
       "title": "Volvo, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles/index.json",
       "webUrl": "https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -204,7 +178,10 @@
       "path": "_news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks.md",
       "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
       "excerpt": "The importance of cybersecurity during COVID-19 is not to be underestimated. AI, or artificial intelligence, plays a key role in this issue.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks/index.json",
       "webUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -242,7 +219,10 @@
       "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
       "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
       "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo/index.json",
       "webUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -286,10 +266,63 @@
       ]
     },
     {
+      "path": "_news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
+      "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
+      "excerpt": "Waymo and the Volvo Cars Group have agreed to develop a self-driving electric vehicle designed for ride hailing use, as part of a new global partnership, the companies said on Thursday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-volvo-cars-waymo-partner-to-build-self-driving-vehicles/index.json",
+      "webUrl": "https://in.reuters.com/article/us-waymo-volvo-autonomous-idINKBN23W2V0",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200625&t=2&i=1523643342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5O27V",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23W2V0",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23W2V0",
+      "publishedDateTime": "2020-06-25T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity.md",
       "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
       "excerpt": "More companies are using AI hiring tools in the hiring process to pinpoint premium candidates. But potential biases in these technologies have raised ethical concerns.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/index.json",
       "webUrl": "https://www.techrepublic.com/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -335,7 +368,10 @@
       "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
       "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
       "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear/index.json",
       "webUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -381,7 +417,10 @@
       "path": "_news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation.md",
       "title": "Machine learning platform MLflow joins the Linux Foundation",
       "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation/index.json",
       "webUrl": "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 134,
       "tags": null,
       "images": [
@@ -428,7 +467,10 @@
       "path": "_news/2020-06-25-grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data.md",
       "title": "Grants Available for COVID-19 Research that Uses Artificial Intelligence and Big Data",
       "excerpt": "Research that Uses Artificial Intelligence and Big Data | Read more about UCF Colleges & Campus News, Research, Orlando and Central Florida news.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/index.json",
       "webUrl": "https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 75,
       "tags": null,
       "images": [
@@ -465,7 +507,10 @@
       "path": "_news/2020-06-25-intel-aims-to-bring-ai-education-to-community-colleges.md",
       "title": "Intel aims to bring AI education to community colleges",
       "excerpt": "The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-intel-aims-to-bring-ai-education-to-community-colleges/index.json",
       "webUrl": "https://www.zdnet.com/article/intel-aims-to-bring-ai-education-to-community-colleges/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -512,7 +557,10 @@
       "path": "_news/2020-06-25-artificial-intelligence-set-to-dominate-operating-rooms-by-2024.md",
       "title": "Artificial Intelligence Set To Dominate Operating Rooms By 2024",
       "excerpt": "In less than five years, this new study from Frost & Sullivan says that artificial intelligence will dominate operating rooms.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-artificial-intelligence-set-to-dominate-operating-rooms-by-2024/index.json",
       "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/06/25/artificial-intelligence-set-to-dominate-operating-rooms-by-2024/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -559,7 +607,10 @@
       "path": "_news/2020-06-25-renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships.md",
       "title": "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships",
       "excerpt": "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -597,7 +648,10 @@
       "path": "_news/2020-06-25-googles-mixit-ai-isolates-speakers-in-audio-recordings.md",
       "title": "Google’s MixIT AI isolates speakers in audio recordings",
       "excerpt": "In a new paper, researchers at Google describe an AI system that isolates speakers' voices in audio recordings using an unsupervised approach.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-googles-mixit-ai-isolates-speakers-in-audio-recordings/index.json",
       "webUrl": "https://venturebeat.com/2020/06/25/googles-mixit-ai-separates-speakers-voices-from-audio-recordings/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -643,7 +697,10 @@
       "path": "_news/2020-06-25-ibase-intros-ai-computing-platform.md",
       "title": "IBASE intros AI computing platform",
       "excerpt": "\"Current edge and cloud-based AI products require better computational and video analytics capability to perform demanding real-time data processing and overcome latency issues,\" Wilson Lin, director of product planning department,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-ibase-intros-ai-computing-platform/index.json",
       "webUrl": "https://www.digitalsignagetoday.com/news/ibase-intros-ai-computing-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -681,7 +738,10 @@
       "path": "_news/2020-06-25-amazon-partners-with-formula-1-for-new-2020-racing-performance-stats.md",
       "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
       "excerpt": "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/index.json",
       "webUrl": "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -728,7 +788,10 @@
       "path": "_news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge.md",
       "title": "Lyft releases new self-driving vehicle data set and launches $30,000 challenge",
       "excerpt": "Lyft released a data set containing logs recorded by its self-driving vehicles' sensors to kick off a new AI research challenge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/index.json",
       "webUrl": "https://venturebeat.com/2020/06/25/lyft-releases-new-self-driving-vehicle-data-set-and-launches-30000-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -775,7 +838,10 @@
       "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
       "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
       "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -822,7 +888,10 @@
       "path": "_news/2020-06-25-dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine.md",
       "title": "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine",
       "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... of its first clinical trial. dayzz' machine learning engine enables assessment of common ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -860,7 +929,10 @@
       "path": "_news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity.md",
       "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
       "excerpt": "When Shamir Rahim, founder and CEO of VersaFleet, transformed his bio-medical startup into an AI-powered transportation management system, he never imagined being at the epicenter (in a good way) of a supply chain revolution during a worldwide pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/index.json",
       "webUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -906,7 +978,10 @@
       "path": "_news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories.md",
       "title": "Pure Storage Recognized as a Leader in Enterprise Flash Array Storage and Object Storage Categories",
       "excerpt": "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service in a multicloud world, today announced that TrustRadius",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories/index.json",
       "webUrl": "https://www.prnewswire.com/news-releases/pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories-301083691.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -944,7 +1019,10 @@
       "path": "_news/2020-06-25-trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace.md",
       "title": "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace",
       "excerpt": "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -991,7 +1069,10 @@
       "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
       "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
       "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/index.json",
       "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1038,7 +1119,10 @@
       "path": "_news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences.md",
       "title": "Apple’s AI plan: a thousand small conveniences",
       "excerpt": "Sprinkled throughout Apple’s announcements about iOS, iPadOS, and macOS were a number of features and updates that have machine learning at their heart. Some weren’t announced onstage, and some features that almost certainly use AI weren’t identified as such,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences/index.json",
       "webUrl": "https://www.theverge.com/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1084,7 +1168,10 @@
       "path": "_news/2020-06-25-if-done-right-ai-could-make-policing-fairer.md",
       "title": "If Done Right, AI Could Make Policing Fairer",
       "excerpt": "Li herself has ridden the ups and downs of the AI boom. In 2017 she joined Google to help, in her words, “democratize” the technology. Not long after, the company, and Li herself, became embroiled in a controversy over supplying AI to the military through an effort known as Maven,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-if-done-right-ai-could-make-policing-fairer/index.json",
       "webUrl": "https://www.wired.com/story/done-right-ai-make-policing-fairer/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1132,7 +1219,10 @@
       "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
       "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
       "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr-2020-06-25",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1179,7 +1269,10 @@
       "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
       "title": "AI is now a C-suite imperative",
       "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-ai-is-now-a-c-suite-imperative/index.json",
       "webUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": [
@@ -1228,7 +1321,10 @@
       "path": "_news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes.md",
       "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
       "excerpt": "Startup Genome warned of a “mass extinction event” coming because of the pandemic. VB Transform 2020 Online - July 15-17. Join leading AI executives: Register for the free livestream.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes/index.json",
       "webUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 72,
       "tags": null,
       "images": [
@@ -1274,7 +1370,10 @@
       "path": "_news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor.md",
       "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
       "excerpt": "Startup Circadia Technologies has received FDA approval for a bedside device that remotely monitors breathing using artificial intelligence and that has been shown to help detect Covid-19 symptoms such as breathlessness.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor/index.json",
       "webUrl": "https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [

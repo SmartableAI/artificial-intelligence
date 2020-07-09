@@ -2,10 +2,54 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation.md",
+      "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+      "excerpt": "Researchers in Italy have melded the emerging science of convolutional neural networks (CNNs) with deep learning — a discipline within artificial intelligence — to achieve a system of market forecasti",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/index.json",
+      "webUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/AI-Stock-Market-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "AI System – Using Neural Networks With Deep Learning – Beats Stock Market in Simulation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-system-using-neural-networks-with-deep-learning-beats-stock-market-in-simulation/amp/",
+      "publishedDateTime": "2020-06-02T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums.md",
       "title": "Should you be worried about cameras in robot vacuums?",
       "excerpt": "Robot vacuums can now map your rooms, and some even have cameras. Is this a privacy problem? We break down what to look for and the safeguards robot vacs take.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-should-you-be-worried-about-cameras-in-robot-vacuums/index.json",
       "webUrl": "https://www.digitaltrends.com/home/security-cameras-robot-vacuums-feature-privacy-concerns/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -52,7 +96,10 @@
       "path": "_news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai.md",
       "title": "Yandex reveals its fourth-generation self-driving Hyundai",
       "excerpt": "Researchers all around the world are working hard on self-driving cars to help people unable to drive themselves to get around and take the roads around the nation and the world safer. Yandex has",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-yandex-reveals-its-fourth-generation-self-driving-hyundai/index.json",
       "webUrl": "https://www.slashgear.com/yandex-reveals-its-fourth-generation-self-driving-hyundai-02623270/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -99,7 +146,10 @@
       "path": "_news/2020-06-02-predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech.md",
       "title": "Predictive Oncology Completes Acquisition of Soluble Therapeutics and BioDtech",
       "excerpt": "Predictive Oncology Inc. (NASDAQ:POAI) (the \"Company\") a knowledge-driven company focused on applying artificial intelligence",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech/index.json",
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16158810/predictive-oncology-completes-acquisition-of-soluble-therapeutics-and-biodtech",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -128,7 +178,10 @@
       "path": "_news/2020-06-02-is-your-sales-team-ready-for-ai.md",
       "title": "Is Your Sales Team Ready For AI?",
       "excerpt": "While the human connection factor remains a significant part of closing any deal, the advances in technology, such as AI, can help negate the impact of other factors.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-is-your-sales-team-ready-for-ai/index.json",
       "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/06/02/is-your-sales-team-ready-for-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -174,7 +227,10 @@
       "path": "_news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages.md",
       "title": "This voice recorder looks like a cassette tape and uses AI to transcribe 10 languages",
       "excerpt": "The 399 yuan (US$56) gadget needs five minutes to transcribe each hour of content. It uses Bluetooth to connect to a smartphone app, which you can open to read the transcript. And don’t worry about your bilingual recordings: iFlytek says the Recording Pen can transcribe a person switching between Chinese and English words.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-this-voice-recorder-looks-like-a-cassette-tape-and-uses-ai-to-transcribe-10-languages/index.json",
       "webUrl": "https://www.scmp.com/abacus/tech/article/3087212/voice-recorder-looks-cassette-tape-and-uses-ai-transcribe-10-languages",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -221,7 +277,10 @@
       "path": "_news/2020-06-02-image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm.md",
       "title": "Image Recognition Market to Rise at 19.6% CAGR till 2026 Driven by the Growing Incorporation of AI, says Fortune Business Insights(TM)",
       "excerpt": "Pune, June 02, 2020 (GLOBE NEWSWIRE) -- The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation of artificial intelligence in image recognition will fuel the demand for the product across the world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market-to-rise-at-196-cagr-till-2026-driven-by-the-growing-incorporation-of-ai-says-fortune-business-insightstm-2020-06-02-61845727",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -268,7 +327,10 @@
       "path": "_news/2020-06-02-artificial-intelligence-ai-in-healthcare-market-will-exceed-402-bn-by-2027.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market Will Exceed $ 40.2 Bn By 2027",
       "excerpt": "The global Artificial Intelligence (AI) in Healthcare Market size is expected to reach USD 40.2 billion by 2027, at a significant growth rate of 49.7% during the forecasted period 2020 to 2027. The research report provides a big picture of “Artificial Intelligence (AI) in Healthcare Market” 2027,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-artificial-intelligence-ai-in-healthcare-market-will-exceed-402-bn-by-2027/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-will-exceed-402-bn-by-2027-2020-06-02",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 95,
       "tags": null,
       "images": [
@@ -315,7 +377,10 @@
       "path": "_news/2020-06-02-argoai-closes-26bn-volkswagen-investment-in-european-us-push-with-help-from-ford.md",
       "title": "Argo.ai closes $2.6bn Volkswagen investment in European, US push - with help from Ford",
       "excerpt": "At a time when COVID-19 has disrupted investment and acquisitions, intelligent vehicle tech is still going strong.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-argoai-closes-26bn-volkswagen-investment-in-european-us-push-with-help-from-ford/index.json",
       "webUrl": "https://www.zdnet.com/article/argo-ai-closes-2-6bn-volkswagen-investment-in-european-us-push-with-help-from-ford/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -361,7 +426,10 @@
       "path": "_news/2020-06-02-yandex-debuts-automated-driving-prototypes-based-on-hyundai-sonata.md",
       "title": "Yandex Debuts Automated Driving Prototypes Based On Hyundai Sonata",
       "excerpt": "The Russian tech firm launched its fourth-generation automated driving development platform based on the 2020 Hyundai Sonata",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-yandex-debuts-automated-driving-prototypes-based-on-hyundai-sonata/index.json",
       "webUrl": "https://www.forbes.com/sites/samabuelsamid/2020/06/02/yandex-debuts-new-automated-driving-prototypes-based-on-hyundai-sonata/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -408,7 +476,10 @@
       "path": "_news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata.md",
       "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
       "excerpt": "Yandex, the Russian Alphabet-like company with a self-driving car unit that debuted a fully driverless car in Las Vegas this year, has updated its autonomous driving program. The fourth iteration of the company's self-driving car was officially revealed on Tuesday as a modified Hyundai Sonata.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata/index.json",
       "webUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -446,7 +517,10 @@
       "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
       "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
       "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads/index.json",
       "webUrl": "https://itwire.com/hardware-and-storage/dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -484,7 +558,10 @@
       "path": "_news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence.md",
       "title": "All you need to know about symbolic artificial intelligence",
       "excerpt": "Today, artificial intelligence is mostly about artificial neural networks and deep learning. But this is not how it always was. In fact, for most of its six-decade history, the field was dominated by symbolic artificial intelligence,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-all-you-need-to-know-about-symbolic-artificial-intelligence/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/02/all-you-need-to-know-about-symbolic-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -532,7 +609,10 @@
       "path": "_news/2020-06-02-self-driving-vehicle-startup-argo-ai-completes-26b-deal-with-volkswagen-expands-to-europe.md",
       "title": "Self-driving vehicle startup Argo AI completes $2.6B deal with Volkswagen, expands to Europe",
       "excerpt": "Volkswagen Group finalized Tuesday its $2.6 billion investment into Argo AI, the Pittsburgh-based self-driving car startup that came out of stealth in 2017 with $1 billion in backing from Ford. The deal turns Argo into a global company with two customers — VW and Ford — as well as operations in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-self-driving-vehicle-startup-argo-ai-completes-26b-deal-with-volkswagen-expands-to-europe/index.json",
       "webUrl": "https://techcrunch.com/2020/06/01/self-driving-vehicle-startup-argo-ai-completes-2-6b-deal-with-volkswagen-expands-to-europe/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -579,7 +659,10 @@
       "path": "_news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact.md",
       "title": "Artificial Intelligence Chipset Market Analysis as per the Latest COVID-19 Impact",
       "excerpt": "The global Artificial Intelligence Chipset Market is segregated on the basis of Component as Hardware and Software. Based on Technology the global Artificial Intelligence Chipset market is segmented in Machine Learning,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-analysis-as-per-the-latest-covid-19-impact-2020-06-02",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -626,7 +709,10 @@
       "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-platform-market.md",
       "title": "COVID-19 Impact on Artificial Intelligence Platform Market",
       "excerpt": "The global Artificial Intelligence Platform market is segregated on the basis of Component as Tools and Services. Based on Deployment the global Artificial Intelligence Platform market is segmented in Cloud and On-Premises.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-covid-19-impact-on-artificial-intelligence-platform-market/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-platform-market-2020-06-02",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -673,7 +759,10 @@
       "path": "_news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly.md",
       "title": "SenseTime’s AI makes sure you park your shared bike properly",
       "excerpt": "SenseTime’s new AI surveillance system is part of the Chinese government’s push to promote smart city projects",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-sensetimes-ai-makes-sure-you-park-your-shared-bike-properly/index.json",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3087119/sensetimes-ai-makes-sure-you-park-your-shared-bike-properly",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -720,7 +809,10 @@
       "path": "_news/2020-06-02-vw-closes-26-billion-investment-in-self-driving-startup-argo-ai.md",
       "title": "VW closes $2.6 billion investment in self-driving startup Argo AI",
       "excerpt": "German automaker Volkswagen AG VOWG_p.DE has closed its $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup disclosed in a blog post o",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-vw-closes-26-billion-investment-in-self-driving-startup-argo-ai/index.json",
       "webUrl": "https://www.nasdaq.com/articles/vw-closes-%242.6-billion-investment-in-self-driving-startup-argo-ai-2020-06-02",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 129,
       "tags": null,
       "images": null,
@@ -749,7 +841,10 @@
       "path": "_news/2020-06-02-self-driving-startup-argo-closes-26-billion-tie-up-with-vw.md",
       "title": "Self-Driving Startup Argo Closes $2.6 Billion Tie-Up With VW",
       "excerpt": "Argo AI, the self-driving startup tightly aligned with Ford Motor Co., completed an expected tie-up with Volkswagen AG involving a $2.6 billion investment from the German automaker. VW’s ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-self-driving-startup-argo-closes-26-billion-tie-up-with-vw/index.json",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-06-02/self-driving-startup-argo-completes-2-6-billion-tie-up-with-vw",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -787,7 +882,10 @@
       "path": "_news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better.md",
       "title": "Using Artificial Intelligence, This Start-Up Is Helping Enterprises Connect Better",
       "excerpt": "Bengaluru-based Yellow Messenger offers an always-on, intelligent conversational automation on text and voice across multiple channels such as WhatsApp, Google Assistant and Alexa.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-using-artificial-intelligence-this-start-up-is-helping-enterprises-connect-better/index.json",
       "webUrl": "https://www.entrepreneur.com/article/351348",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -834,7 +932,10 @@
       "path": "_news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford.md",
       "title": "Volkswagen makes official investment in Argo AI, will share costs with Ford",
       "excerpt": "Ford, Volkswagen and Argo AI made it official on Tuesday. VW has made an investment in the self-driving technology company, which charts a course for shared development costs for any autonomous vehicle technologies to come.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-volkswagen-makes-official-investment-in-argo-ai-will-share-costs-with-ford/index.json",
       "webUrl": "https://www.cnet.com/roadshow/news/volkswagen-ford-investment-argo-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 105,
       "tags": null,
       "images": [
@@ -880,7 +981,10 @@
       "path": "_news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion.md",
       "title": "Dell Technologies rolls out systems for HPC, AI workloads leveraging VMware's Bitfusion",
       "excerpt": "Dell Technologies is betting that integrated systems, more efficient use of GPUs and the ability run AI workloads within VMware environments will boost AI workloads.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/index.json",
       "webUrl": "https://www.zdnet.com/article/dell-technologies-rolls-out-systems-for-hpc-ai-workloads-leveraging-vmwares-bitfusion/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -928,7 +1032,10 @@
       "path": "_news/2020-06-02-covid-19-impact-on-artificial-intelligence-as-a-service-market.md",
       "title": "COVID-19 Impact on Artificial Intelligence as a Service Market",
       "excerpt": "AWS, IBM, Microsoft Co, Google, SAP, Salesforce, Baidu, Intel Co, Fair Isaac Co, BigML, and others are among the major players in the global Artificial Intelligence as a Service market.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-covid-19-impact-on-artificial-intelligence-as-a-service-market/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/covid-19-impact-on-artificial-intelligence-as-a-service-market-2020-06-02",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -975,7 +1082,10 @@
       "path": "_news/2020-06-02-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list.md",
       "title": "The Therapy Apps Trying To Help You Deal While You’re On The NHS Waiting List",
       "excerpt": "Mental health problems are on the rise, with some people in the UK having to wait for up to two years to receive therapeutic treatment. With many being forced to take matters into their own hands ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-the-therapy-apps-trying-to-help-you-deal-while-youre-on-the-nhs-waiting-list/index.json",
       "webUrl": "https://www.refinery29.com/amp/en-gb/mental-health-artificial-intelligence",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1013,7 +1123,10 @@
       "path": "_news/2020-06-02-vw-completes-26b-self-driving-deal-connected-with-ford.md",
       "title": "VW completes $2.6B self-driving deal connected with Ford",
       "excerpt": "VW completes $2.6B self-driving deal connected with Ford Volkswagen and Ford are working with Pittsburgh-based startup Argo AI to develop self-driving technology. Check out this story on Freep.com ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-vw-completes-26b-self-driving-deal-connected-with-ford/index.json",
       "webUrl": "https://www.freep.com/story/money/cars/ford/2020/06/02/vw-ford-argo-selfdriving/5315520002/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1051,7 +1164,10 @@
       "path": "_news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week.md",
       "title": "Breaking: AI startup Stitch Fix to conduct massive layoffs starting this week",
       "excerpt": "AI startup Stitch Fix, a company that uses algorithms and computer vision to help consumers find clothes they like, is apparently taking a bold approach to company expansion: it’s “significantly reducing” the number of employees it has so that it can hire people in other states.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/01/breaking-ai-startup-stitch-fix-to-conduct-massive-layoffs-starting-this-week/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1097,7 +1213,10 @@
       "path": "_news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments.md",
       "title": "AI tools could improve fake news detection by analyzing users’ interactions and comments",
       "excerpt": "Researchers at Microsoft and Arizona State University propose in a paper a method of detecting fake news using a technique called weak supervision.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/index.json",
       "webUrl": "https://venturebeat.com/2020/06/01/ai-tools-could-improve-fake-news-detection-by-analyzing-users-interactions-and-comments/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -1143,7 +1262,10 @@
       "path": "_news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
       "title": "The best computer reading glasses to help reduce eye strain",
       "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to go to an eye doctor. If you are already suffering from Presbyopia, these computer reading glasses can also assist with blurred vision caused by too ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-the-best-computer-reading-glasses-to-help-reduce-eye-strain/index.json",
       "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?itm_source=15&itm_content=2x2&itm_term=2377055",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1181,7 +1303,10 @@
       "path": "_news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us.md",
       "title": "Fighting fire with AI: Using deep-learning to help predict wildfires in the US",
       "excerpt": "Predicting wildfires is a tricky business. A new artificial intelligence model could help fire agencies allocate resources to mitigate wildfire risks across the West.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/index.json",
       "webUrl": "https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -1228,7 +1353,10 @@
       "path": "_news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future.md",
       "title": "7 AI Stocks That Are Looking to the Future",
       "excerpt": "The interesting thing is that until about 10 years ago or so, AI was mostly a backwater. Let’s face it, investors were more interested in areas like cloud computing. But there would emerge some major catalysts that would make AI a must-have.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-7-ai-stocks-that-are-looking-to-the-future/index.json",
       "webUrl": "https://investorplace.com/2020/06/7-ai-stocks-that-are-looking-to-the-future/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1259,35 +1387,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-wandisco-releases-livedata-platform-for-petabyte-scale-cloud-migration-to-microsoft-azure.md",
-      "title": "WANdisco Releases LiveData Platform for Petabyte Scale Cloud Migration to Microsoft Azure",
-      "excerpt": "WANdisco, the LiveData company, today announced the limited public preview availability of WANdisco LiveData Platform for Azure, a new service offering available on Microsoft Azure exclusively. The WANdisco LiveData Platform features the company’s patented consensus engine which ensures data consistency,",
-      "webUrl": "https://www.newswiretoday.com/news/172992/WANdisco-Releases-LiveData-Platform-for-Petabyte-Scale-Cloud-Migration-to-Microsoft-Azure/",
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -22,7 +22,6 @@ images:
     width: 350
     height: 233
     isCached: true
-    title: "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure"
 
 related:
   - title: "Digitate's ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure"
@@ -46,6 +45,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "2DKONi6bKEgrnUdb7SPGXHUtvr5U7l6m+M1E7OodNFFKFgWOnL0t99T5ZU6D09aAnOO18yvm8AsyeqUHKeOulDGZLsn6aigUF1q/MRA1OizkT6E4v1drjat50GcPYwv7GI+TJ5cBTLN6ZfZBwxYYiAatqU0hxdXVAktUI89K17Tqt1rF+4af+bDKeTDnwUnOajGy4dubUYtNEOGzdXFQUrerZaFjN/Q/gTTLDpWx624VLe1psjB80UBCfc0jTFdFvARir5+//xRhN4y1s5NXi4QR9paleXIX1Z/sW1D4UoGvuE19hO8sY4Gx2qQDpdfjbCo9lpC7nPM4e5B/a3q36Q==;GLluYEpJrF9u5Pdtw1AgQg=="
+secured: "hhBTr2EYWwAHlDhSkJ+VCY0fmRI+6ShcAkvy4Cc44+6CwJIVV6DzUnClUvWZdLjjUGurV+Bu1cNeBuDt4JRdzJHvNxNiqCkLbcy8xD5mUU0uKd52WKnUNVL1aC57/TLPa3/D8B28xoa1w1clN1kwEuIpY67C/jdZ0aH7lSMjNKHUfbP8QEKUoneGeTqDd4b4xlfsMfS+vT3OuJoHJAbcyQWDcRCDSaJH1c8Ln50HE+2ltnKybT2FGlsGYYT2HOzDx9Rm7vszLAodcnikB27bmdEDWAPwIIzTHA2ZuF+/Wkmv+OXvlTFBXwIeOiNNPfGgqA1TZfFBgQ1c5LVAbOJysQ==;fFZEM6AUozaRopWSgPeGfA=="
 ---
 

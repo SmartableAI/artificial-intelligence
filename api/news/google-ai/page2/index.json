@@ -2,10 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters.md",
+      "title": "Cryptomining syndicate hijacks Kubernetes clusters",
+      "excerpt": "Microsoft has released a new report highlighting a new series of attacks targeting a toolkit called Kubeflow which is used for running machine learning operations on top of Kubernetes clusters. The attacks first began in April of this year and have continued with the aim of installing a cryptocurrency miner on Kubernetes clusters that are exposed to the internet and run Kubeflow.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-cryptomining-syndicate-hijacks-kubernetes-clusters/index.json",
+      "webUrl": "https://www.techradar.com/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YsReok3f8M9yESRDbeGJVH-1200-80.jpg",
+          "width": 970,
+          "height": 546,
+          "title": "Cryptomining syndicate hijacks Kubernetes clusters",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cryptomining-syndicate-hijacks-kubernetes-clusters",
+      "publishedDateTime": "2020-06-11T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-how-to-become-a-tensorflow-developer.md",
+      "title": "How to become a TensorFlow developer",
+      "excerpt": "AI is no longer an emerging technology, it is already here with us and is being adopted widely across industries. AI technology has disrupted operations, giving businesses better means of understanding and interacting with their customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-how-to-become-a-tensorflow-developer/index.json",
+      "webUrl": "https://www.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gcs.thesouthafrican.com/2020/06/ee36da52-tensorflow-developer.jpg",
+          "width": 1200,
+          "height": 850,
+          "title": "How to become a TensorFlow developer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "cdnAmpWebUrl": "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/how-to-become-a-tensorflow-developer/",
+      "publishedDateTime": "2020-06-11T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "richest",
+        "domain": "thesouthafrican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-06-10-google-updates-its-android-developer-tools.md",
       "title": "Google updates its Android developer tools",
       "excerpt": "Google postponed its Android 11 event, because, as the company rightly noted, “now is not the time to celebrate.” Today, however, it went ahead and launched both the first beta of Android 11 and provided updates about a slew of tools that should make developing for Android a",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-google-updates-its-android-developer-tools/index.json",
       "webUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 94,
       "tags": null,
       "images": [
@@ -52,7 +147,10 @@
       "path": "_news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy.md",
       "title": "DeepMind hopes to teach AI to cooperate by playing Diplomacy",
       "excerpt": "In a new paper, researchers at DeepMind propose using the game Diplomacy as an environment for training reinforcement learning agents.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/index.json",
       "webUrl": "https://venturebeat.com/2020/06/10/deepmind-hopes-to-teach-ai-to-cooperate-by-playing-diplomacy/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 104,
       "tags": null,
       "images": [
@@ -99,7 +197,10 @@
       "path": "_news/2020-06-10-the-race-to-develop-ai-chips-heats-up-as-graphcore-says-its-shipped-tens-of-thousands.md",
       "title": "The race to develop A.I. chips heats up as Graphcore says it's shipped 'tens of thousands'",
       "excerpt": "Microsoft is using Graphcore’s chips in some of its data centers and Dell is selling them on a server. Graphcore has raised over $450 million from the likes of Sequoia, BMW, DeepMind’s co-founders and C4 Ventures.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-the-race-to-develop-ai-chips-heats-up-as-graphcore-says-its-shipped-tens-of-thousands/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 81,
       "tags": null,
       "images": [
@@ -147,7 +248,10 @@
       "path": "_news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips.md",
       "title": "Aspiring Intel rival Graphcore has shipped 'tens of thousands' of A.I. chips",
       "excerpt": "U.K. chip start-up Graphcore has leveraged relationships with Microsoft and Dell to ship chips to over 100 customers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-aspiring-intel-rival-graphcore-has-shipped-tens-of-thousands-of-ai-chips/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/09/graphcore-ai-chips.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -196,7 +300,10 @@
       "path": "_news/2020-06-09-how-to-run-ml-applications-on-particle-hardware.md",
       "title": "How To Run ML Applications On Particle Hardware",
       "excerpt": "With the release of TensorFlow Lite at Google I/O 2019, the accessible machine learning library is no longer limited to applications with access to GPUs. You can now run machine learning ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-how-to-run-ml-applications-on-particle-hardware/index.json",
       "webUrl": "https://hackaday.com/2019/11/26/how-to-run-ml-applications-on-particle-hardware/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -234,7 +341,10 @@
       "path": "_news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind.md",
       "title": "The 21 smartest AI scientists working at Google DeepMind",
       "excerpt": "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind/index.json",
       "webUrl": "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -272,7 +382,10 @@
       "path": "_news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products.md",
       "title": "Uber open-sources Neuropod to unify AI frameworks and turn models into products",
       "excerpt": "Uber open-sourced Neuropod, an abstraction layer designed to unify disparate AI frameworks like Google's TensorFlow and Facebook's PyTorch.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/index.json",
       "webUrl": "https://venturebeat.com/2020/06/08/uber-open-sources-neuropod-to-unify-ai-frameworks-and-turn-models-into-products/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -319,7 +432,10 @@
       "path": "_news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works.md",
       "title": "Google Meet noise cancellation is rolling out now — here’s how it works",
       "excerpt": "Google Meet is getting AI-powered noise cancellation for Android, iOS, and the web. Here is how Google built its cloud denoiser and how it works.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-google-meet-noise-cancellation-is-rolling-out-now-heres-how-it-works/index.json",
       "webUrl": "https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -366,7 +482,10 @@
       "path": "_news/2020-06-07-three-dimensions-two-microscopes-one-code-automatic-differentiation-for-x-ray-nanotomography-beyond-the-depth-of-focus-limit.md",
       "title": "Three dimensions, two microscopes, one code: Automatic differentiation for x-ray nanotomography beyond the depth of focus limit",
       "excerpt": "Our implementation uses the optimization toolbox and the automatic differentiation capability of the open-source deep learning package TensorFlow, demonstrating a straightforward way to solve optimization problems in computational imaging with flexibility ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-three-dimensions-two-microscopes-one-code-automatic-differentiation-for-x-ray-nanotomography-beyond-the-depth-of-focus-limit/index.json",
       "webUrl": "https://advances.sciencemag.org/content/6/13/eaay3700.full",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -404,7 +523,10 @@
       "path": "_news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence.md",
       "title": "Reinforcement Learning: The Next Big Thing For AI (Artificial Intelligence)?",
       "excerpt": "But of course, there are other areas of AI that look promising, such as reinforcement learning. Keep in mind that cutting-edge companies like Google’s DeepMind and OpenAI have already made breakthroughs with this approach.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/05/reinforcement-learning-the-next-big-thing-for-ai-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 103,
       "tags": null,
       "images": [
@@ -452,7 +574,10 @@
       "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
       "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
       "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/index.json",
       "webUrl": "https://www.zdnet.com/article/compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -499,7 +624,10 @@
       "path": "_news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science.md",
       "title": "Why the buzz around DeepMind is dissipating as it transitions from games to science",
       "excerpt": "DeepMind is shifting its focus from building “AI agents” that can play games to building AI agents that can have real world impact, particularly in areas of science like biology. In 2016, DeepMind, an Alphabet-owned AI unit headquartered in London,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-why-the-buzz-around-deepmind-is-dissipating-as-it-transitions-from-games-to-science/index.json",
       "webUrl": "https://www.cnbc.com/2020/06/05/google-deepmind-alphago-buzz-dissipates.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -546,7 +674,10 @@
       "path": "_news/2020-06-05-the-14-most-impressive-ai-scientists-working-at-google-deepmind.md",
       "title": "The 14 most impressive AI scientists working at Google DeepMind",
       "excerpt": "Interesting fact: Ioannis Antonoglou joined DeepMind in 2012 after graduating from the University of Edinburgh with a masters degree in artificial intelligence and machine learning. Interesting ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-the-14-most-impressive-ai-scientists-working-at-google-deepmind/index.json",
       "webUrl": "https://www.businessinsider.in/tech/the-14-most-impressive-ai-scientists-working-at-google-deepmind/slidelist/50018565.cms",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -584,7 +715,10 @@
       "path": "_news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory.md",
       "title": "Video: Building intrinsically motivated teams via self-determination theory",
       "excerpt": "In this GDC 2020 virtual talk DeepMind's Alexandre Moufarek discusses how you can help build intrinsically motivated teams by applying self-determination theory.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-video-building-intrinsically-motivated-teams-via-self-determination-theory/index.json",
       "webUrl": "https://gamasutra.com/view/news/364174/Video_Building_intrinsically_motivated_teams_via_selfdetermination_theory.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -622,7 +756,10 @@
       "path": "_news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development.md",
       "title": "DeepMind releases Acme, a distributed framework for reinforcement learning algorithm development",
       "excerpt": "DeepMind this week released Acme, an open source distributed framework for reinforcement learning algorithm development.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-03-deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/index.json",
       "webUrl": "https://venturebeat.com/2020/06/03/deepmind-releases-acme-a-distributed-framework-for-reinforcement-learning-algorithm-development/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -669,7 +806,10 @@
       "path": "_news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2.md",
       "title": "A closer look at DeepMind, the Google AI that’s mastering StarCraft 2",
       "excerpt": "May 31, 2020 This feature was originally published in January 2019. You’d be forgiven for assuming that DeepMind’s artificial intelligence technology has already proven its chops. Back in ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-31-a-closer-look-at-deepmind-the-google-ai-thats-mastering-starcraft-2/index.json",
       "webUrl": "https://www.pcgamesn.com/starcraft-2/deepmind-google?amp",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -707,7 +847,10 @@
       "path": "_news/2020-05-29-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "Synopsys QuickStart Implementation Kits (QIKs) are available now. Synopsys ported TensorFlow for Microcontrollers software from Google to the Synopsys DSP-enhanced DesignWare ARC Processor IP. Designed to run on memory-constrained designs, the port uses ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-week-in-review-design-low-power/index.json",
       "webUrl": "https://semiengineering.com/week-in-review-design-low-power-96/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -745,7 +888,10 @@
       "path": "_news/2020-05-29-week-in-review-auto-security-pervasive-computing.md",
       "title": "Week In Review: Auto, Security, Pervasive Computing",
       "excerpt": "Synopsys launched quick start kits, called QuickStart Implementation Kits (QIKs), for Arm’s latest processor IP Cortex-A78 CPU, Mali-G78 GPU, and Cortex-X1 CPU. The QIKs, available today, help designers hit PPA (power, performance, and area) targets ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-week-in-review-auto-security-pervasive-computing/index.json",
       "webUrl": "https://semiengineering.com/week-in-review-auto-security-pervasive-computing-17/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -783,7 +929,10 @@
       "path": "_news/2020-05-28-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip.md",
       "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip/index.json",
       "webUrl": "https://www.bloomberg.com/press-releases/2020-05-27/synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -822,7 +971,10 @@
       "path": "_news/2020-05-28-responding-to-the-european-commissions-ai-white-paper.md",
       "title": "Responding to the European Commission’s AI white paper",
       "excerpt": "In January, our CEO Sundar Pichai visited Brussels to talk about artificial intelligence and how Google could help people and businesses succeed in the digital age through partnership. Much has changed since then due to COVID-19, but one thing hasn’t—our commitment to the potential of partnership with",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-responding-to-the-european-commissions-ai-white-paper/index.json",
       "webUrl": "https://www.blog.google/around-the-globe/google-europe/responding-to-the-european-commissions-ai-white-paper/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 109,
       "tags": null,
       "images": [
@@ -869,7 +1021,10 @@
       "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
       "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
       "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra/index.json",
       "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 100,
       "tags": null,
       "images": [
@@ -916,7 +1071,10 @@
       "path": "_news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit.md",
       "title": "Baidu releases homegrown quantum machine learning toolkit",
       "excerpt": "Search giant Baidu has released a toolkit for machine learning that allowing researchers to build and train quantum neural networks. Why it matters: Tech giants around the globe have increased their focus on quantum computing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-baidu-releases-homegrown-quantum-machine-learning-toolkit/index.json",
       "webUrl": "https://technode.com/2020/05/28/baidu-releases-homegrown-quantum-machine-learning-toolkit/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -956,7 +1114,10 @@
       "path": "_news/2020-05-27-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip.md",
       "title": "Synopsys Announces Support of TensorFlow Lite for Microcontrollers on Energy-Efficient ARC EM and ARC HS Processor IP",
       "excerpt": "MOUNTAIN VIEW, Calif. -- May 27, 2020-- Synopsys, Inc. (Nasdaq: SNPS) today announced support for TensorFlow for Microcontrollers software from Google, optimized for the Synopsys DSP-enhanced DesignWare ® ARC ® Processor IP. TensorFlow Lite for ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-synopsys-announces-support-of-tensorflow-lite-for-microcontrollers-on-energy-efficient-arc-em-and-arc-hs-processor-ip/index.json",
       "webUrl": "https://www.design-reuse.com/news/48050/synopsys-tensorflow-lite-microcontrollers-energy-efficient-arc-em-arc-hs-processor-ip.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -986,7 +1147,10 @@
       "path": "_news/2020-05-27-tensorflow-tutorial-uses-python.md",
       "title": "Tensorflow Tutorial Uses Python",
       "excerpt": "There’s been a lot of renewed interest in the topic recently because of the success of TensorFlow. If you are adept at Python and remember your high school algebra, you might enjoy [Oliver ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-tensorflow-tutorial-uses-python/index.json",
       "webUrl": "https://hackaday.com/2017/11/25/tensorflow-tutorial-uses-python/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1025,7 +1189,10 @@
       "path": "_news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020.md",
       "title": "AI Is The Uncertainty Cure Enterprises Want In 2020",
       "excerpt": "Supervised machine learning algorithms is the most popular machine learning technique in enterprises today. 73% of enterprises with advanced expertise in AI are making extensive use of supervised machine learning techniques to interpret,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-24-ai-is-the-uncertainty-cure-enterprises-want-in-2020/index.json",
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/05/24/ai-is-the-uncertainty-cure-enterprises-want-in-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1073,7 +1240,10 @@
       "path": "_news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china.md",
       "title": "Google's AI technology is taking on a team of the world's top Go players in China",
       "excerpt": "DeepMind's AlphaGo program beat high-ranking Korean player Lee Sedol last year. One of this week's matches will pit AlphaGo against itself, with human help on both sides. Games will be streamed ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-23-googles-ai-technology-is-taking-on-a-team-of-the-worlds-top-go-players-in-china/index.json",
       "webUrl": "https://www.cnbc.com/2017/05/22/googles-deepmind-ai-is-taking-on-top-go-players-in-china.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1120,7 +1290,10 @@
       "path": "_news/2020-05-22-week-in-review-design-low-power.md",
       "title": "Week In Review: Design, Low Power",
       "excerpt": "The VectorBlox Accelerator SDK allows developers to code in C/C++ and program neural networks without prior FPGA design experience, can execute models in TensorFlow and the open neural network exchange (ONNX) format, supports Linux and Windows, and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-week-in-review-design-low-power/index.json",
       "webUrl": "https://semiengineering.com/week-in-review-design-low-power-95/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1158,7 +1331,10 @@
       "path": "_news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up.md",
       "title": "Doodles to deliveries: GrabFood uses AI to deliver meals your kids drew up",
       "excerpt": "To keep your children entertained at home, Grab recently partnered with Google to launch Grab Delivery Doodles, which uses Google's AI, TensorFlow, to turn any child's doodles of their favourite ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-22-doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up/index.json",
       "webUrl": "https://marketing-interactive.com/doodles-to-deliveries-grabfood-uses-ai-to-deliver-meals-your-kids-drew-up",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1179,84 +1355,6 @@
       "provider": {
         "name": "Marketing Interactive",
         "domain": "marketing-interactive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-object-detection-with-tensorflow.md",
-      "title": "Object Detection, With TensorFlow",
-      "excerpt": "One of the tools that can be put to work in object recognition is an open source library called TensorFlow, which [Evan] aka [Edje Electronics] has put to work for exactly this purpose.",
-      "webUrl": "https://hackaday.com/2018/07/31/object-detection-with-tensorflow/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/07/main3.png",
-          "width": 877,
-          "height": 600,
-          "title": "Object Detection, With TensorFlow",
-          "attribution": null,
-          "isCached": false
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-using-tensorflow-to-recognize-your-own-objects.md",
-      "title": "Using TensorFlow To Recognize Your Own Objects",
-      "excerpt": "To help with that, [Edje Electronics] has put together a step-by-step guide to using TensorFlow to retrain Google’s Inception object recognizer. He does it for Windows 10 since there’s already ...",
-      "webUrl": "https://hackaday.com/2018/05/23/using-tensorflow-to-recognize-your-own-objects/",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/train_object_recognizer_for_cards_fe21.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Using TensorFlow To Recognize Your Own Objects",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,48 +2,13 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-06-16-neoml-open-source-library-for-building-training-and-deploying-machine-learning-models.md",
-      "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-      "excerpt": "NeoML is an open source library for building, training, and deploying machine learning models. It supports deep learning and traditional ML algorithms.",
-      "webUrl": "https://www.helpnetsecurity.com/2020/06/16/neoml-open-source-library/",
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.helpnetsecurity.com/posts2020/NeoML.png",
-          "width": 750,
-          "height": 257,
-          "title": "NeoML: Open source library for building, training, and deploying machine learning models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
       "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
       "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/index.json",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -82,7 +47,10 @@
       "path": "_news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously.md",
       "title": "Deep learning networks track up to 100 animals simultaneously",
       "excerpt": "The trajectories described by this data were used to train a deep interaction network (bit.ly/VSD-DIN), a deep learning model that reasons how objects in complex systems interact, to support dynamic predictions and inferences about the abstract properties ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-deep-learning-networks-track-up-to-100-animals-simultaneously/index.json",
       "webUrl": "https://www.vision-systems.com/boards-software/article/14176167/deep-learning-networks-track-up-to-100-animals-simultaneously",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -111,7 +79,10 @@
       "path": "_news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing.md",
       "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
       "excerpt": "Spiking neural networks and in-memory computing are both promising routes towards energy-efficient hardware for deep learning. Woźniak et al. incorporate the biologically inspired dynamics of spiking neurons into conventional recurrent neural network units and in-memory computing,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing/index.json",
       "webUrl": "https://www.nature.com/articles/s42256-020-0187-0",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -149,7 +120,10 @@
       "path": "_news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry.md",
       "title": "Measuring the benefit of deep learning for the games industry",
       "excerpt": "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry/index.json",
       "webUrl": "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -187,7 +161,10 @@
       "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
       "title": "MIT Creates Artificial Brain Chips",
       "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-mit-creates-artificial-brain-chips/index.json",
       "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -225,7 +202,10 @@
       "path": "_news/2020-06-15-five-steps-for-building-and-deploying-a-deep-learning-neural-network.md",
       "title": "Five steps for building and deploying a deep learning neural network",
       "excerpt": "Free tools and training data, easy-to-find tutorials, and low hardware costs have made deep learning no longer a method available only to researchers or people with highly specialized skills and/or big budgets. This presents both opportunities and threats ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-five-steps-for-building-and-deploying-a-deep-learning-neural-network/index.json",
       "webUrl": "https://www.vision-systems.com/boards-software/article/14175365/five-steps-for-building-and-deploying-a-deep-learning-neural-network",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -254,7 +234,10 @@
       "path": "_news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers.md",
       "title": "Improving Financial Sentiment Analysis with Machine Learning & Proxy Servers",
       "excerpt": "Improving financial sentiment analysis with Afrtificial intelligence, machine learning and proxy servers is the new word in trading. Here's why",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/index.json",
       "webUrl": "https://www.financemagnates.com/fintech/trading/improving-financial-sentiment-analysis-with-machine-learning-proxy-servers/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 70,
       "tags": null,
       "images": [
@@ -294,7 +277,10 @@
       "path": "_news/2020-06-14-artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper.md",
       "title": "Artificial Intelligence Makes Blurry Faces Look More Than 60 Times Sharper",
       "excerpt": "Duke University researchers have developed an AI tool that can turn blurry, unrecognizable pictures of people’s faces into eerily convincing",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/index.json",
       "webUrl": "https://scienceblog.com/516896/artificial-intelligence-makes-blurry-faces-look-more-than-60-times-sharper/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -332,7 +318,10 @@
       "path": "_news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence.md",
       "title": "Facial Recognition Bans: What Do They Mean For AI (Artificial Intelligence)?",
       "excerpt": "Because of the advances of deep learning and faster systems for processing enormous amounts of data, facial recognition has certainly seen major strides over the past decade. Yet there is still much to be done.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/index.json",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/06/13/facial-recognition-bans-what-do-they-mean-for-ai-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 218,
       "tags": null,
       "images": [
@@ -380,7 +369,10 @@
       "path": "_news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data.md",
       "title": "Scientists say satellite imagery and machine learning advances will boost African consumer data",
       "excerpt": "Scientists were able predict consumer data variation down to the village or neighborhood level with up to 55% accuracy and assets wealth up to 75% accuracy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-scientists-say-satellite-imagery-and-machine-learning-advances-will-boost-african-consumer-data/index.json",
       "webUrl": "https://qz.com/africa/1868234/scientists-say-satellite-imagery-boosts-african-consumer-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -427,7 +419,10 @@
       "path": "_news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws.md",
       "title": "Deep Learning Neural Networks Market is Booming Worldwide | IBM, Neural Technologies, AWS",
       "excerpt": "A special chapter in the study presents Impact Analysis of COVID-19 on Global Deep Learning Neural Networks Market along with tables and graphs related to various country and segments showcasing impact on growth trends.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-neural-networks-market-is-booming-worldwide-ibm-neural-technologies-aws-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -474,7 +469,10 @@
       "path": "_news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm.md",
       "title": "Deep Learning Chipset Market is Thriving Worldwide | NVIDIA, Intel, IBM, Qualcomm",
       "excerpt": "Deep Learning Chipset Market Research: Global Status & Forecast by Geography, Type &",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-is-thriving-worldwide-nvidia-intel-ibm-qualcomm-2020-06-12",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -521,7 +519,10 @@
       "path": "_news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department.md",
       "title": "Convolutional-neural-network-based diagnosis of appendicitis via CT scans in patients with acute abdominal pain presenting in the emergency department",
       "excerpt": "Acute appendicitis is one of the most common causes of abdominal emergencies. We investigated the feasibility of a neural-network-based diagnosis algorithm of appendicitis by using computed tomography (CT) for patients with acute abdominal pain visiting the emergency room (ER).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-convolutional-neural-network-based-diagnosis-of-appendicitis-via-ct-scans-in-patients-with-acute-abdominal-pain-presenting-in-the-emergency-department/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-66674-7",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -559,7 +560,10 @@
       "path": "_news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero.md",
       "title": "Microsoft Azure Machine Learning Clusters Cryptojacked to Mine Monero",
       "excerpt": "Hackers have attacked badly configured machine learning clusters on Microsoft’s Azure cloud computing network, and hijacked them to mine Monero",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero/index.json",
       "webUrl": "https://cointelegraph.com/news/microsoft-azure-machine-learning-clusters-cryptojacked-to-mine-monero",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 101,
       "tags": null,
       "images": [
@@ -598,7 +602,10 @@
       "path": "_news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network.md",
       "title": "Goosegrass Detection in Strawberry and Tomato Using a Convolutional Neural Network",
       "excerpt": "Goosegrass is a problematic weed species in Florida vegetable plasticulture production. To reduce costs associated with goosegrass control, a post-emergence precision applicator i",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-goosegrass-detection-in-strawberry-and-tomato-using-a-convolutional-neural-network/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-66505-9",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -636,7 +643,10 @@
       "path": "_news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023.md",
       "title": "Deep Learning Market Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2020 - 2023",
       "excerpt": "Jun 11, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-12-deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020-2023/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-industry-analysis-size-share-growth-trends-and-forecast-2020---2023-2020-06-11?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -683,7 +693,10 @@
       "path": "_news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms.md",
       "title": "Researchers detail technique that enables attackers to ‘steal’ reinforcement learning algorithms",
       "excerpt": "In a paper, researchers at Nanyang Technological University in Singapore demonstrate a technique that can be used to 'steal' reinforcement learning models.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/index.json",
       "webUrl": "https://venturebeat.com/2020/06/11/researchers-detail-technique-that-enables-attackers-to-steal-reinforcement-learning-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -730,7 +743,10 @@
       "path": "_news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19.md",
       "title": "How a smartphone coupled with machine learning may become a simple, efficient test for COVID-19",
       "excerpt": "A scientist at the University of Cincinnati has been refining an ingenious design for an ultra-portable genetic test that uses AI and smartphones. It could eventually offer a cheaper, simpler alternative for detecting coronavirus infections.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/index.json",
       "webUrl": "https://www.zdnet.com/article/how-a-smartphone-coupled-with-machine-learning-may-become-a-simple-efficient-test-for-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -777,7 +793,10 @@
       "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
       "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
       "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study/index.json",
       "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -815,7 +834,10 @@
       "path": "_news/2020-06-11-deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning.md",
       "title": "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning",
       "excerpt": "CAESAREA, Israel, June 11, 2020 /PRNewswire/ -- Deep Learning Robotics Ltd., a leading technology company focused on robotics and automation solutions, announced that the United States Patent and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning/index.json",
       "webUrl": "https://www.prnewswire.com/il/news-releases/deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning-301074544.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -853,7 +875,10 @@
       "path": "_news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning.md",
       "title": "Tirupati: IIIT Sri City to offer M Tech in AI & Machine Learning",
       "excerpt": "MHRD gives its nod to launch the programme from this academic year Top IT industries have invested huge funds on AI research and development in recent days and many start-ups are",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning/index.json",
       "webUrl": "https://www.thehansindia.com/andhra-pradesh/tirupati-iiit-sri-city-to-offer-m-tech-in-ai-machine-learning-627352",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -891,7 +916,10 @@
       "path": "_news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data.md",
       "title": "Flatfile raises $7.6 million for AI that extracts and transforms spreadsheet data",
       "excerpt": "Flatfile, a startup developing a platform that ingests and transforms data from spreadsheets, raised $7.6 million in equity financing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-flatfile-raises-76-million-for-ai-that-extracts-and-transforms-spreadsheet-data/index.json",
       "webUrl": "https://venturebeat.com/2020/06/10/flatfile-raises-7-6-million-for-ai-that-extracts-and-transforms-spreadsheet-data/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 96,
       "tags": null,
       "images": [
@@ -939,7 +967,10 @@
       "path": "_news/2020-06-09-study-artificial-brains-need-rest-too.md",
       "title": "Study: Artificial brains need rest too",
       "excerpt": "Researchers from Los Alamos National Laboratory found that the artificial brains benefitted from a digital analog of sleep",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-study-artificial-brains-need-rest-too/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/06/09/study-artificial-brains-need-rest-too/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 119,
       "tags": null,
       "images": [
@@ -986,7 +1017,10 @@
       "path": "_news/2020-06-09-utilities-to-streamline-the-creation-and-evaluation-of-automl-algorithms.md",
       "title": "Utilities to streamline the creation and evaluation of AutoML algorithms.",
       "excerpt": "AutoML Utils. While machine learning is facing a reproducibility crisis, the problem is exacerbated in the subdiscipline of automated machine learning [1, 2] where the number of p",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-utilities-to-streamline-the-creation-and-evaluation-of-automl-algorithms/index.json",
       "webUrl": "https://github.com/microsoft/automl_utils",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1024,7 +1058,10 @@
       "path": "_news/2020-06-09-artificial-neural-networks-can-day-dreamheres-what-they-see.md",
       "title": "Artificial Neural Networks Can Day Dream–Here's What They See",
       "excerpt": "In a post yesterday on its blog, Google’s artificial neural networks research team explains how they’re building the kind of very advanced computer vision systems that are able to identify ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-artificial-neural-networks-can-day-dreamheres-what-they-see/index.json",
       "webUrl": "https://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1071,7 +1108,10 @@
       "path": "_news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
       "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
       "excerpt": "A lot of image recognition is about identifying patterns ... data to the frequency of specific brands of cars. Hopefully AutoML Vision will energize more projects like these.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai/index.json",
       "webUrl": "https://gizmodo.com/google-has-made-it-simple-for-anyone-tap-into-its-image-1822161131",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1118,7 +1158,10 @@
       "path": "_news/2020-06-09-deep-learning-for-improved-risk-prediction-in-surgical-outcomes.md",
       "title": "Deep Learning for Improved Risk Prediction in Surgical Outcomes",
       "excerpt": "There are important limitations to our current models. Machine learning approaches and specifically deep learning methods generally require a large number of samples to properly train a model.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-deep-learning-for-improved-risk-prediction-in-surgical-outcomes/index.json",
       "webUrl": "https://www.nature.com/articles/s41598-020-62971-3",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
@@ -1156,7 +1199,10 @@
       "path": "_news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor.md",
       "title": "New machine learning approach classifies common type of brain tumor",
       "excerpt": "A new machine learning approach classifies a common type of brain tumour into low or high grades with almost 98% accuracy, researchers report in the journal IEEE Access.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-new-machine-learning-approach-classifies-common-type-of-brain-tumor/index.json",
       "webUrl": "https://www.news-medical.net/news/20200609/New-machine-learning-approach-classifies-common-type-of-brain-tumor.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -1194,7 +1240,10 @@
       "path": "_news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study.md",
       "title": "Reducing the number of unnecessary biopsies of US-BI-RADS 4a lesions through a deep learning method for residents-in-training: a cross-sectional study",
       "excerpt": "Objective The aim of the study is to explore the potential value of S-Detect for residents-in-training, a computer-assisted diagnosis system based on deep learning (DL) algorithm. Methods The study was designed as a cross-sectional study.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-reducing-the-number-of-unnecessary-biopsies-of-us-bi-rads-4a-lesions-through-a-deep-learning-method-for-residents-in-training-a-cross-sectional-study/index.json",
       "webUrl": "https://bmjopen.bmj.com/content/10/6/e035757",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
@@ -1207,6 +1256,56 @@
         "name": "BMJ",
         "domain": "bmj.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep.md",
+      "title": "Artificial intelligence chips benefit from a good night's sleep",
+      "excerpt": "Artificial neurons are already far more human-like than traditional computers, and now it turns out they might also need sleep to function at their peak. And it’s not just a matter of turning them off every now and then – a new study shows that the neurons benefit from exposure to slow-wave",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-artificial-intelligence-chips-benefit-from-a-good-nights-sleep/index.json",
+      "webUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/eddb853/2147483647/strip/true/crop/1999x1332+1+21/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0f%2F63%2F2daf086d4c9fbcbe654e04617cd1%2Fdepositphotos-82816702-l-2015.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial intelligence chips benefit from a good night's sleep",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/artificial-intelligence-chips-benefit-sleep/?amp=true",
+      "publishedDateTime": "2020-06-08T20:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

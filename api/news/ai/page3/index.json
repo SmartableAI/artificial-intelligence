@@ -5,7 +5,10 @@
       "path": "_news/2020-07-07-american-hospital-dubai-recognised-for-excellence-in-robotics-surgery.md",
       "title": "American Hospital Dubai recognised for excellence in robotics surgery",
       "excerpt": "UK-based leading publication Global Brands Magazine conferred the award to American Hospital Dubai for overall excellence and robust healthcare ; American Hospital Dub",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-american-hospital-dubai-recognised-for-excellence-in-robotics-surgery/index.json",
       "webUrl": "https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -43,7 +46,10 @@
       "path": "_news/2020-07-07-5-tips-to-accelerate-your-companys-ai-implementation.md",
       "title": "5 tips to accelerate your company's AI implementation",
       "excerpt": "RingCentral’s Director of global SEO, John Allen lays out everything you need to know about how to get your firm’s AI implementation just right.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-5-tips-to-accelerate-your-companys-ai-implementation/index.json",
       "webUrl": "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 77,
       "tags": null,
       "images": [
@@ -80,7 +86,10 @@
       "path": "_news/2020-07-06-elementary-robotics-raises-13-million.md",
       "title": "Elementary Robotics Raises $13 Million",
       "excerpt": "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-elementary-robotics-raises-13-million/index.json",
       "webUrl": "https://labusinessjournal.com/news/2020/jul/06/elementary-robotics-raises-13-million/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -118,7 +127,10 @@
       "path": "_news/2020-07-06-ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights.md",
       "title": "AI Weekly: Workplace surveillance tech promises safety, but not worker rights",
       "excerpt": "As bigger tech companies roll out \"getting back to work\" solutions, we can't forget about the rights and privacy of the workers being surveilled.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/index.json",
       "webUrl": "https://venturebeat.com/2020/07/06/ai-weekly-workplace-surveillance-tech-promises-safety-but-not-worker-rights/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 88,
       "tags": null,
       "images": [
@@ -166,7 +178,10 @@
       "path": "_news/2020-07-06-artificial-intelligence-has-the-bible-warned-us-against-the-rise-of-ai.md",
       "title": "Artificial Intelligence: Has the Bible warned us against the rise of AI?",
       "excerpt": "ARTIFICIAL intelligence is feared by many to be a future threat to humanity's independence - but does the Bible have anything to say about the rise of AI?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-artificial-intelligence-has-the-bible-warned-us-against-the-rise-of-ai/index.json",
       "webUrl": "https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 71,
       "tags": null,
       "images": [
@@ -200,10 +215,63 @@
       ]
     },
     {
+      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now/index.json",
+      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-07-06T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada.md",
       "title": "Clearview AI ceases offering its facial recognition technology in Canada",
       "excerpt": "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada/index.json",
       "webUrl": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 436,
       "tags": null,
       "images": null,
@@ -228,48 +296,13 @@
       ]
     },
     {
-      "path": "_news/2020-07-06-deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
-      "title": "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
-      "excerpt": "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
-      "publishedDateTime": "2020-07-06T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-06-study-tests-whether-ai-can-convincingly-answer-existential-questions.md",
       "title": "Study tests whether AI can convincingly answer existential questions",
       "excerpt": "A new study has explored whether AI can provide more attractive answers to existential questions than history's most influential thinkers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-study-tests-whether-ai-can-convincingly-answer-existential-questions/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 97,
       "tags": null,
       "images": [
@@ -315,7 +348,10 @@
       "path": "_news/2020-07-06-break-into-the-world-of-artificial-intelligence-with-this-4-part-ai-bundle.md",
       "title": "Break into the world of artificial intelligence with this 4-part AI bundle",
       "excerpt": "It's hard to imagine that just a few years ago, artificial intelligence (AI) has been pretty much an intimidating concept, but now, we can't imagine life without it. From smart assistants to banking apps to social networking to even email,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-break-into-the-world-of-artificial-intelligence-with-this-4-part-ai-bundle/index.json",
       "webUrl": "https://www.windowscentral.com/break-world-artificial-intelligence-4-part-ai-bundle",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 82,
       "tags": null,
       "images": [
@@ -353,7 +389,10 @@
       "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
       "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
       "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/index.json",
       "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 79,
       "tags": null,
       "images": [
@@ -399,7 +438,10 @@
       "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
       "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
       "excerpt": "Stock quotes by finanzen.net SAN JOSE, Calif., July 6, 2020 /PRNewswire/ -- Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the floor,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores/index.json",
       "webUrl": "https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 91,
       "tags": null,
       "images": null,
@@ -437,7 +479,10 @@
       "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
       "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
       "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever/index.json",
       "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 114,
       "tags": null,
       "images": null,
@@ -475,7 +520,10 @@
       "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
       "title": "Researchers use AI to highlight Zoom’s privacy risks",
       "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks/index.json",
       "webUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 99,
       "tags": null,
       "images": [
@@ -522,7 +570,10 @@
       "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
       "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
       "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers/index.json",
       "webUrl": "https://www.entrepreneur.com/article/352846",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 86,
       "tags": null,
       "images": [
@@ -568,7 +619,10 @@
       "path": "_news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices.md",
       "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
       "excerpt": "AI often makes decisions with little human input, and it's hard to predict the circumstances under which they're likely to choose an unethical approach.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/index.json",
       "webUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -606,7 +660,10 @@
       "path": "_news/2020-07-06-why-infusing-ai-into-it-operations-is-more-about-the-data-than-about-ai-itself.md",
       "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
       "excerpt": "Almost every CIO I talk to boldly claims their enterprise is a “data-driven enterprise,” but the reality suggests a totally different story. With the help of AI, any enterprise can truly be a data-driven enterprise.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-why-infusing-ai-into-it-operations-is-more-about-the-data-than-about-ai-itself/index.json",
       "webUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -652,7 +709,10 @@
       "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
       "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
       "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai/index.json",
       "webUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 83,
       "tags": null,
       "images": [
@@ -698,7 +758,10 @@
       "path": "_news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19.md",
       "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
       "excerpt": "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 78,
       "tags": null,
       "images": [
@@ -745,7 +808,10 @@
       "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
       "title": "New AI project captures Jane Austen’s thoughts on social media",
       "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media/index.json",
       "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -791,7 +857,10 @@
       "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
       "title": "AI and robotics to redefine businesses - Accenture",
       "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture/index.json",
       "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -829,7 +898,10 @@
       "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
       "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
       "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts/index.json",
       "webUrl": "https://www.nasdaq.com/articles/myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": null,
@@ -857,7 +929,10 @@
       "path": "_news/2020-07-06-neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change.md",
       "title": "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change",
       "excerpt": "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -904,7 +979,10 @@
       "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
       "title": "Learn PyTorch: The best free online courses and tutorials",
       "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials/index.json",
       "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 74,
       "tags": null,
       "images": [
@@ -951,7 +1029,10 @@
       "path": "_news/2020-07-06-natural-language-processing-market-size-trends-outlook-opportunity-till-2025.md",
       "title": "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-natural-language-processing-market-size-trends-outlook-opportunity-till-2025/index.json",
       "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 85,
       "tags": null,
       "images": [
@@ -998,7 +1079,10 @@
       "path": "_news/2020-07-06-tsmc-may-commercialize-info_sow-for-supercomputer-ai-chips-in-two-years.md",
       "title": "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years",
       "excerpt": "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-tsmc-may-commercialize-info_sow-for-supercomputer-ai-chips-in-two-years/index.json",
       "webUrl": "https://www.digitimes.com/news/a20200706PD207.html",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 84,
       "tags": null,
       "images": [
@@ -1036,7 +1120,10 @@
       "path": "_news/2020-07-06-computer-vision-have-you-seen-the-light.md",
       "title": "Computer vision – have you seen the light?",
       "excerpt": "From detecting tumours to identifying wear in machines, computer vision can help improve our world – but not everything is plain sailing",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-computer-vision-have-you-seen-the-light/index.json",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1083,7 +1170,10 @@
       "path": "_news/2020-07-06-the-biggest-robot-companies-and-their-most-scary-inventions.md",
       "title": "The Biggest Robot Companies And Their Most Scary Inventions",
       "excerpt": "Robots are come becoming more ubiquitous in different parts of our lives. Here we look at some of the world’s largest and most successful robot companies and explore their latest, most innovative, and sometimes scary,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-the-biggest-robot-companies-and-their-most-scary-inventions/index.json",
       "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 89,
       "tags": null,
       "images": [
@@ -1130,7 +1220,10 @@
       "path": "_news/2020-07-05-chinese-construction-firms-using-ai-to-monitor-workers-safety-but-also-to-spot-loiterers.md",
       "title": "Chinese construction firms using AI to monitor workers’ safety … but also to spot ‘loiterers’",
       "excerpt": "Report from Institute of Automation says the technology can spot dangers on sites and determine what workers are doing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-chinese-construction-firms-using-ai-to-monitor-workers-safety-but-also-to-spot-loiterers/index.json",
       "webUrl": "https://www.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 76,
       "tags": null,
       "images": [
@@ -1176,7 +1269,10 @@
       "path": "_news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience.md",
       "title": "How Stitch Fix used AI to personalize its online shopping experience",
       "excerpt": "To futher personalize its shopping recommendations, Stitch Fix built out a service using a combination of AI and human curation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/index.json",
       "webUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
+      "originalUrl": null,
+      "featuredContent": null,
       "heat": 87,
       "tags": null,
       "images": [
@@ -1219,33 +1315,36 @@
       ]
     },
     {
-      "path": "_news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-      "excerpt": "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching.",
-      "webUrl": "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "heat": 107,
+      "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
+      "title": "Why AI Continues To Deliver Results In A Pandemic",
+      "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic/index.json",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png",
-          "width": 720,
-          "height": 386,
-          "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0100437185870006e1613d%2F0x0.jpg",
+          "width": 1200,
+          "height": 571,
+          "title": "Why AI Continues To Deliver Results In A Pandemic",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "publishedDateTime": "2020-07-05T12:20:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
+      "publishedDateTime": "2020-07-05T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
