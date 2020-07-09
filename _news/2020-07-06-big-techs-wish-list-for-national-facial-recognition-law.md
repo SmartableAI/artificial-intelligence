@@ -458,6 +458,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Facial recognition technology is expanding rapidly across Australia. Are our laws keeping pace?"
+    excerpt: "There are questions being raised about the legality of scanning, storing and sharing facial images. The law currently doesn't prohibit even highly intrusive levels of surveillance by private entities."
+    publishedDateTime: 2020-07-09T20:00:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 47
+    images:
+      - url: "https://images.theconversation.com/files/346509/original/file-20200709-34-1u8uyj3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop"
+        width: 320
+        height: 241
+        isCached: true
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
     publishedDateTime: 2020-07-07T18:05:00Z
@@ -637,6 +653,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
+    excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
+    publishedDateTime: 2020-07-09T07:15:00Z
+    webUrl: "https://www.pr.com/press-release/816384"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 15
+    images:
+      - url: "https://img.pr.com/release/2007/100128/pressrelease_original_100128_1594134685.png"
+        width: 2321
+        height: 798
+        isCached: true
 
 secured: "fBPIb4ycpGS8kzZ5ypYIBnxhm3gkgWbuSm6DuZ2Eddbq4baayZRfo+0P3BFiHd3Iv96AKY7+uEmSg5A1svOWZtDntChLnhIkdnJfRLazzmzczj1Dbn/CZo7Ez20fAyMlJe9fa4HOlYsyX2NljaMyX4FCxCHJBHooU6cbhLP0muT2UZ1YarcYNZ0nmtwY1EYmp85Wy6cLrG7IiXw469lUEA/Xpi12PUiEi7XDBlERuEC4JgeUhCnCZPEUqoU7E2zea1zIiJS5y3BkG3KitPA0upwS+wHeSGZ2G5eOWJ3Vl5EmzMKTr30nnqrJuf68GOiI9xH/Tcl2VMkTyQ5MUp5xiRzoBMvbHNgEbcIibiUpE+lUbdTqr0bXsbyKKox2IU3IXjH8CYSsAZ12UhtDvPdDyOkibtT7yc4QAWBG398qsMLgtM1hFi16QIDvRTzr0gk+nNEUtlRm0+b6G4Z2Vzp7EjxD8NU+4f/qd5AOZmmZHTfDE8du0+PvOJd+sojCqSN9RrYS8AmbFXvUrxTQZ3NDaQ==;NyjsFodvnXplQrR/9q379g=="
 ---

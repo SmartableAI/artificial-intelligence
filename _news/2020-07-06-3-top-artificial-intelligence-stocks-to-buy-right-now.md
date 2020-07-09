@@ -2,34 +2,22 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-publishedDateTime: 2020-07-06T20:12:00Z
-webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+publishedDateTime: 2020-07-06T16:29:00Z
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
 type: article
-quality: 93
-heat: 113
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
-  - AI
   - Facebook AI
-  - AI in Healthcare
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
-    width: 1200
-    height: 675
-    isCached: true
+  - AI
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in July"
@@ -48,23 +36,7 @@ related:
         width: 720
         height: 386
         isCached: true
-  - title: "3 Top Cloud Computing Stocks to Buy Right Now"
-    excerpt: "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ..."
-    publishedDateTime: 2020-07-09T12:47:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png"
-        width: 720
-        height: 386
-        isCached: true
 
-secured: "kTRvGfDLvz7W+Dc5bZl7wP5TKkkTVaUq+L4g2vkeIkKVI9d62qaN3AMtvsqhpry88VYVjjRt3aYjriTZhjlf1T8GbUR0tnsaYqIO+uFIeA3QPAn6qavmAk0J2/uC7oC4PAlTMfgpO/2iuPTFCAnc23u07KMuVMjc3CDp5vi1rEt9U+dFQJ/O277YnKQQhnto8Og1MDuNtMFPdZTsk5xtXhJsbHZYbt+zZX6qDBr0w5shgO97KNNprLh86yzRXJfBpnb07+hsfeMJXa8XA1yzSq6mJqC/Yt+zxRfiBZkdjOTDJM9suaw7VeYwpuR/XLzEtblY1BtNZ337J6Z20gn8kaihRt+xmqi0yFwwWZLKz5t9ZHZuQZEzdw0CXrJQPGMnMuHYaVhOHWEt07YJMS55hOTdEQePdrCFG8R+tCwDjfKSKz6D0xd2BBCOIQQBRox48PcCHphrgl/R5yrpeja24xh9gljG7mApKFiXmoG4SceBe+aQHpImVEJpYCaVW1VG;+s2ucosn09f/08N4v2UQcg=="
+secured: "896mdOjDj7KlFPYg4agVBlT9hcnaMi/NNEM8zHSw0WM9lD1WBYkrovKSK8aBodOidf7b6mbEY6X9vZShL8+w6AD/6Ra91SBtgzJYpoBmqSASPI5iqV++mVIr1Fx2wKCTKnxvfeemvV8h699m4IDHzevjVHyshAPcYXHs0PkKbDdW0GKd2VxkdxwzSMVjgxz1/3lD5yiRNjVy9iY2/CVKcfyoCv810YxaElRBEOK0cp3ZEwFY8vChEmq76nLwCNb5cetxDcU60eWDJd/FrpHgD9YLg//UpxtXiznHNE1Vi9wF6sLJVT/qCGbaLgBMEzGS9qtF87NCcUKQ9/eGRjOZw0w2mnVeZZCeRdo8sQHbqsqQXuIwQKm3ga2/JgFRCZopbkPyDL9xZNCBfGyW3s10DcqZ8hjH9eX32IxB3XkWlE8WTkVBaKoLFVlropyTVqvQAPjjeIvbaE0GyjRLdTmRI6DOpPLB9DYKgIepNZVIagSaKu4b82Gy0uWKBg9bYh718xMrbcFnzxlaxaDJS8StJQ==;Fj+nZT40ajC+hloTQKwLEg=="
 ---
 

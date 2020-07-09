@@ -189,6 +189,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Tesla 'very close' to Level 5 autonomous technology, Musk says"
+    excerpt: "Tesla is \"very close\" to achieving Level 5 autonomous driving technology, CEO Elon Musk said Thursday, referring to the capability to navigate roads without any driver input. \"I'm extremely confident that Level 5 or essentially complete autonomy will happen,"
+    publishedDateTime: 2020-07-09T07:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tesla-very-close-level-5-autonomous-technology-musk-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla_final_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "VNzGEZcf6pNaIu1tBWC2X/xrpJPQAnL4nGhRMl4YrjK5welTyfVaiRs6pG+4C8aMy81Qej42EFR0jjEerSeohbr68HKgXYhnO5lhw4s6/0JYvm6A8KPNiCk5xbkdbm70J0/oaJgMPh2lmoes7JvZN1Wp+mIu/yTt+PcXUFhjd5B2LS8kam/X9IUwyh8A4vtyCYJaMWraF2xKDJe9TqXk1JyiR/EcNJCmSrvV7XxIF3tOEKT4l68vDQea+lDjC+04mPSRoFysmWqfMoKnToWHkP+yNnSNjqsS7qxFeMoO0aqoUeAvkxH4Hpa8GPytpHQQpJksunHk8+zxhJFR57Wmbw==;zZXVGs2CqDwfVVp09vYDWw=="
 ---

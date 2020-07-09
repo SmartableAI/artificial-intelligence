@@ -460,6 +460,22 @@ related:
         width: 1300
         height: 867
         isCached: true
+  - title: "Facial recognition technology is expanding rapidly across Australia. Are our laws keeping pace?"
+    excerpt: "There are questions being raised about the legality of scanning, storing and sharing facial images. The law currently doesn't prohibit even highly intrusive levels of surveillance by private entities."
+    publishedDateTime: 2020-07-09T20:00:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 47
+    images:
+      - url: "https://images.theconversation.com/files/346509/original/file-20200709-34-1u8uyj3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop"
+        width: 320
+        height: 241
+        isCached: true
   - title: "Africa: Future of Facial Recognition Technology in Africa"
     excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
     publishedDateTime: 2020-07-07T07:21:00Z
@@ -637,6 +653,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
+    excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
+    publishedDateTime: 2020-07-09T07:15:00Z
+    webUrl: "https://www.pr.com/press-release/816384"
+    type: article
+    provider:
+      name: PR
+      domain: pr.com
+    quality: 15
+    images:
+      - url: "https://img.pr.com/release/2007/100128/pressrelease_original_100128_1594134685.png"
+        width: 2321
+        height: 798
+        isCached: true
 
 secured: "NL8DtDUQ+UpQ3Ve272ljovlrcpmZZds/rB1HRZ0w6Epf1krw+1WrucnN78Kd6t7ysiqjqrgKcv1kqIzoUbPXdkH2qcZ9iBy7obK0Lfwu1dIIyC7T0I6v956haiJm/1PxD+eZTmVbHd0LAEDFMvqDvLUEvvoml8PeIe2wwR22m7LkMFxkwh78wuJtxq3d9wXQ7+ZjA6c3M2rabR9Q7rQsif1/lMqu3yBu8Zcda4aHoviMHQJt7Cbluq43T3gm52CaOiuxGN8WA+MrUXbd6/5on4m9r64n4QV85UXYdhMWYE0vb9EDPLWhrNqTUhOxJHhONHkFLGzsPzYl3EwLAAjdRFfNNv/Fmzh+hNzlno4xnd9zItl2sWM5Sz9WRbyNwb9cjz5Hi0fpwtL+Ebckz4L3sQVbp7vdqkwduJMVw4kECZUUXgjGLIkSiCH1IQ0svbWB/WnsGF53iTD8ockVTiWfJ+0/OhNGsoKU9bJooX6TCAo4zlp62BcLic1uhBC70xFWl+QWLcyAce4o0Qm/GPReWw==;u7zhky5VgXSxGft2TgS9nA=="
 ---

@@ -125,6 +125,20 @@ related:
         width: 1024
         height: 678
         isCached: true
+  - title: "Video surveillance to drive biometric facial recognition market to $12.9B by 2027"
+    excerpt: "By 2027, the high demand in advanced video surveillance, as well as AI and machine learning adoption will have generated a 14.8 percent CAGR for the biometric facial recognition market, reaching $12.92 billion,"
+    publishedDateTime: 2020-07-09T20:41:00Z
+    webUrl: "https://www.biometricupdate.com/202007/video-surveillance-to-drive-biometric-facial-recognition-market-to-12-9b-by-2027"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
     excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
     publishedDateTime: 2020-07-09T13:35:00Z

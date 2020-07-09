@@ -3,7 +3,7 @@ category: news
 title: "With a full grasp of real healthcare requirements, iMedtac introduces wide-ranging solutions targeting smart hospital trend"
 excerpt: "The world's population is aging. According to American Association of Retired Persons, 22% of the world's population will be 60 and older by 2050. At the same time, developers are making use of new technologies including artificial intelligence (AI),"
 publishedDateTime: 2020-07-09T02:08:00Z
-webUrl: "https://www.digitimes.com/news/a20200709PR200.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20200709PR200.html?chid=9"
 type: article
 quality: 13
 heat: -1
@@ -18,11 +18,10 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitimes.com/NewsShow/20200709PR200_files/1_r.jpg"
+  - url: "https://www.digitimes.com/newsshow/20200709PR200_files/2_r.jpg"
     width: 336
-    height: 252
+    height: 224
     isCached: true
-    title: "With a full grasp of real healthcare requirements, iMedtac introduces wide-ranging solutions targeting smart hospital trend"
 
 related:
   - title: "AVEVA introduces a smart app embedded with artificial intelligence to improve manufacturing and industrial operations in real-time"
@@ -42,6 +41,6 @@ related:
         height: 878
         isCached: true
 
-secured: "GtsCbAKyVcvJcTeffubZTxAdyk7/H572oYWV47aK9i2VjNU1/Ss75X9Y5Ixplt1wNQa90VhnepQbdIj7TMhT8Mp+yjX09NiBo16auTKSiqpX+7aW16BmfwxmSkRa7gGEQG7kw03SLFimEC3BdukHCBtMeIIkNgbBkaacl1DSEntixSu5r5VmA8/IKLTu7V+Cy5oJUYVApq8T59nuAuIZ8/hH4NdEhcOwUtzg1shhdcmaGEzhY+pho92bblgZf8go13GC86e94lmUt6+OTK/KTXbv4+hlrp41THWYAWiJjwqJZZpNhiGD/JusNvu5eOh56k5MW53X8xkE1iK50s/2yw==;Er/dP83kd4qFMk7+4f4iyw=="
+secured: "lETRygsnnjO0xltw3XdfM+WAAeJ1UbwSSg1wMd6h+vtxPJiZOXVv3HaPn2UNNO9vrdSTo4oSAFp87pbyolQZ4NFiep8pgA1zapTaWaNqlLSIoku5ih3qWqwDYQoeTxV4MY/9m0OCKSuA6XGIDhY+0whIQcOMwaZx6DeNOvXuSxr4aOyrLJ9Yj5VjKTfW46ny/piN6TYY7Zj2ClRrHI44aZFRzcCnXSjhLXlG4XQZgcLrhfPJWnls73vnrt+TSU9e4hjfMarsKjIpiKuXz7kdOTdY1WrssA7LVLVZy0szxM+49D80PLceWQuiTw5fuvvJkesgOVESZXkjtMGPgdk/6w==;uFcMLmULdhuYBKYc9ipC2w=="
 ---
 

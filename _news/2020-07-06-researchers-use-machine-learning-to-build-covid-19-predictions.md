@@ -55,6 +55,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Walter Reed Scientists Use Artificial Intelligence to Screen Drugs to Potentially Treat COVID-19"
+    excerpt: "The Experimental Therapeutics Branch accelerated its research by turning to machine learning, AI and high-performance computing."
+    publishedDateTime: 2020-07-09T19:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/walter-reed-scientists-use-artificial-intelligence-screen-drugs-potentially-treat-covid-19/166774/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 24
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/09/NGcorona20200709/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "IPDs1tyvF8DqTYpM3ihjzoleAo/zDx4B9mfqJZwWVsRobMyym5TpWK1hkDSUSBSWoLSd9fc8RtQY3ZBWhdcUzLQ/zSFWcDrYdOODNMRqnCmfziNdh91Eu1jkxtie1gl7A/icUS4k1FtJ1Zpbh6zfhtJOwSOyCJYtujitdHN+kvfyDndPl+ClzOkDbcc2qG5DQWHYXuXtMDUeyuaZNUp/K8faakaPHjhltOi5hKn0u9CVSSMzJ6N4yDFZs+/N2aGYV8doubRXCFeq8kRpbUHJy1+fewxK/u+cYFHjFMENgKmrWKp2RZkb/mZ+4VqWoeyBg6ZwFlyCd7xlhwALbulzWIDa4nFsUiYQoBwLxRyxNKpWnfHNO12mdFVIDF+jOq48/N1OEEM79Obhni1fan43xcICe2Fr4Tb49/G4W78aJbaqfc/Vrrxr3mdoNLTCTcg3n0xmfsWwkIYZG2yvkGn31m5g81v/Zln3N8aSd+iyySlwykjkNonGek4yKSw1Dg17;FQ6EhT4ydgEEIDku54F7OA=="
 ---

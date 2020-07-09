@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/ai-helps-british-research-center-use-m
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/covidcampus.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Walter Reed Scientists Use Artificial Intelligence to Screen Drugs to Potentially Treat COVID-19"
+    excerpt: "The Experimental Therapeutics Branch accelerated its research by turning to machine learning, AI and high-performance computing."
+    publishedDateTime: 2020-07-09T19:57:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/walter-reed-scientists-use-artificial-intelligence-screen-drugs-potentially-treat-covid-19/166774/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 24
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/09/NGcorona20200709/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "1OTls5D7CfgcDSGo5zh4BpveIw5KCSE4F8p3wi/SMKjUUZXJpt1hCQ+u3TirGNpUgRUV2vPUGUyhojF0eRC2D9gwAhpOosx4sdISenurn/FXesbRLayRaC1PKEVvCuH8LWbsyrrETZCr4VjqebpCfbfJfRxnka1AuBLocGlw24k0NuksfCCDeTeTVgP82d3gLnSZAt3px6obULsgReGXC0I9vRmzsB37GoygVu3OKWg1S3TwQ9xWLn6mHvHKpBKjlE32LvlJthgxM1ohXNxo8UHmgr2ii9yUkzmYgvXqS9X5c0HKzeSZH1+V6RwAG20agyCjaVfyI16YGZhoXlJ4u/MR5Bz2KaZhBHHtZOZRG8DoBiYCgg+l/PWMkj0W4cj9+qxv8DHCv+qMSKntDSJbHj2RIkzg8lAgWsPtiziHXNwfdtUmA1J5KLVC/IcGYXieTASL3nwxX4XaZSc3tZRbUQUVDchM71f01rofs+gvkSD5NkKQeYqzq6d/u3SyauUO7UjSM5IctURsJ/SVMLUR0Q==;HRrk0RCZj+UpfLRTUEUOXQ=="

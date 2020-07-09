@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "7 of healthcare's most promising AI companies from Forbes' 2020 list"
+    excerpt: "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,"
+    publishedDateTime: 2020-07-09T16:58:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Viz.ai Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
     excerpt: "Viz.ai, the leader in Applied Artificial Intelligence for Healthcare, has been named to the prestigious Forbes Top 50 AI list. The list"
     publishedDateTime: 2020-07-08T20:18:00Z
@@ -46,29 +60,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "7 of healthcare's most promising AI companies from Forbes' 2020 list"
-    excerpt: "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,"
-    publishedDateTime: 2020-07-09T16:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "ExtraHop Named to the Forbes AI 50 List for 2020"
-    excerpt: "SEATTLE--(BUSINESS WIRE)--ExtraHop, the leader in cloud-native network detection and response, today announced that it has been named to the 2020 Forbes AI 50 list for its advances and innovation in the use of machine learning and artificial intelligence for cybersecurity."
-    publishedDateTime: 2020-07-07T13:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200707005250/en/ExtraHop-Named-Forbes-AI-50-List-2020"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
 
 secured: "jKEEcl08DibhpZC2cGQVcODU1BjGpwNOBrtXS8TjLY4rx1BhHeBgcyk9Fe5NaxuQ0NNDsfJaDQgM5CIoo0wOqxosQtoj4sGjM5uqGchu7hH9WAYocNBxjrYmjrUyD7HwaIP4Jv5QnQbWI99sm9r5cxe9u3ZM2+TT45FCPSPv9K79LZvXlVRnuBEBjUHoatW8LK4Bkp1nX88OWrKstuiCW3zoCZEOsUMeqgGMpK/YAYxTu0AFzPr+uJI9huRK/FA0Gv3X/x92o69W2wsNQrxoMc5j0eH4qticH4PhfplZG/aEsAagptJZimlc4xFqrXiY6w5U13citT1PYKchvf4vRg==;G5s3rcINzW6jpBwZ09piGg=="
 ---

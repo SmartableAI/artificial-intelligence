@@ -8,7 +8,7 @@ ampWebUrl: "https://blog.google/technology/ai/update-work-ai-responsible-innovat
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-work-ai-responsible-innovation/amp/"
 type: article
 quality: 109
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1000
     height: 1000
     isCached: true
+
+related:
+  - title: "MULTIMEDIA UPDATE - New Research Reveals Adoption and Implementation of Artificial Intelligence in the Enterprise"
+    excerpt: "Informa Tech media brands, InformationWeek and ITPro Today, today announced findings from their latest research survey the 2020 State of Artificial Intelligence. The team surveyed technology decision makers across North American companies to uncover the ways organizations are approaching and implementing emerging technologies – specifically artificial intelligence (AI) and the Internet of Things (IoT) – in order to grow and get ahead of the competition."
+    publishedDateTime: 2020-07-09T17:29:00Z
+    webUrl: "https://apnews.com/0138c4958a34830d579dbe5783cf803e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "RKzqlcI73kaCCfgotKJEkex8SzPs7kyhS/KYmDAqVE40EQ6wCz7ZAqZ46/QoLNfKz+rA0Zpd4Nkt9Q72vLTliTjdHVphcD1igIvLF8iRkXSYIkICGAHcaJ+XF8jDFwlWIazcYpbg+SBI5bQdMW9JmFo041Q3s2i6wAXuPan11SbPOQgwHyT1ESNLwLq9oIeqpkhy8vGgSH7nBCPLWzTi49mXPpPrcf3q44Uim/ACCiG3IhNU+hqP77XdI/qck/OTiYtZJNKPyxiS0Ajx+77y+OATOod1DhQFWm2mCOniMQpj7htMPb8FGhAwHQN6M0/jverWF0dYijNc45MCOJmvXA==;OyWpi5RtBF3AhtRVDDz5Mw=="
 ---

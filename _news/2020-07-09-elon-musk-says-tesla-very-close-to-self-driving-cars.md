@@ -181,6 +181,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Tesla 'very close' to Level 5 autonomous technology, Musk says"
+    excerpt: "Tesla is \"very close\" to achieving Level 5 autonomous driving technology, CEO Elon Musk said Thursday, referring to the capability to navigate roads without any driver input. \"I'm extremely confident that Level 5 or essentially complete autonomy will happen,"
+    publishedDateTime: 2020-07-09T07:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tesla-very-close-level-5-autonomous-technology-musk-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla_final_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tesla 'very close' to level 5 self-driving technology"
     excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
     publishedDateTime: 2020-07-09T07:49:00Z
@@ -191,6 +205,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "Ie2FHDRcce3IC5KO3EbqbiCE5yPzszbtxGYtdyjYvtqaKfteAdRqmlMEayWvH8ZGqMqYtFOGdKuMgMJ0fnDVlDhIF6E7+5NBqZNk2FREDLpM4T+oWhGry1rPjHah50iKZD0ILBe3KuQD2AfJ3ECxqYs5QAgw0IlujhcUzI9K+2sAhrYEDE7+f3ao2ebvj8UdKjixgOBoNddnQYlM1D026wF+xcvMi0PHnh9sFV7WBi4yYe7R2rSjk7YhRr5cISI6qX21TbT1l/xds4JYWeWsioBPaXkmjDXYZ7LOr25Whfjd+8nBvzRYsitnWzGDEJe0asArLFiWn9GiGivfPvWQRQ==;Jut53tzoZrOs/wEfQbavcw=="
+secured: "j0k41QfaTRI6SPHU3D2mMhcvs+M3qz7HgVXht20fHyylA9Pp+qPKorObbH0GyufPRBWhRxKcEs5ZNFIZzV+uTzVZ6DQV51Dn3WoMHd7JIy75z5bxvWbMyjHi5MRX0I/McTQuANdXv/Iyb+gBvc02DUN9RQ546r6E1EOvsRYbWOe+DgjfcmZhkIXDqFGWUVcudMWHDKcrO3JqBSl1RRiogAIowsloV3ZpETQL3A95ylCM7OkXifmz2yIWC6dNKQ3H1LcsiAhuhCrr4P55cBf+gWT9dK9FGvVLpi5KcG048xyoXO5KjZhxeNT8olMGeptqLThQuuD0Si6b95bOPbK0TrFW/d9CYW78kEHF8bOFslwJc/fp6LZnIKz4/lQOelkRjPQmYkubkMalue3StBwpeHnvSvzGna5nPzHLekYpIWItbBZbgIM7lziRahoqDg3+NM7KvE+o8R8fn++CQvHHvSFdeXBJ300OG/Q1rNTGE+4yf4kPVKzRmam1OVlhrzjHoUR/N7SH7OLP+UjxRKqirQ==;gBT44N2RQBxnP9XypAO2cA=="
 ---
 

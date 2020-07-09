@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53349313"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53349313"
 type: article
 quality: 89
-heat: 199
+heat: 209
 published: true
 
 provider:
@@ -185,6 +185,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Tesla 'very close' to Level 5 autonomous technology, Musk says"
+    excerpt: "Tesla is \"very close\" to achieving Level 5 autonomous driving technology, CEO Elon Musk said Thursday, referring to the capability to navigate roads without any driver input. \"I'm extremely confident that Level 5 or essentially complete autonomy will happen,"
+    publishedDateTime: 2020-07-09T07:35:00Z
+    webUrl: "https://www.autonews.com/mobility-report/tesla-very-close-level-5-autonomous-technology-musk-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla_final_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tesla 'very close' to level 5 self-driving technology"
     excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
     publishedDateTime: 2020-07-09T07:49:00Z
@@ -195,6 +209,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "DGKwyD4jbdLNUeR3nv42vQSubKbmJ9FJvcWvq/hsIrJxZTpyA0Na26l0AlYChBEqOC+P6ersBvYNN8GSceUzCM5uB2xrR1kcdzDLt+wiphTvH6AplHzOj2Gs0pcb1a/W+yIPOtQ7YucckGBmHV3zrVB2ZwLB67KvHrNdeSeC+14dkbM1WU5OB6Pnzdkddtw4rdQO3w76wzPS/7D0QWtlm01/eohpHCP03tLZfhe6dSVOH9RJP3d+U7GwakfTM/FBdYE36JFtpFSytDEJnZIiUH0PzoyJxudqkDLzYVXb4NEemeQ9iVI/e5PTepJ/aOuiWgTN2t/GXcpKfMKUg1SUUw==;71bPM+ZzrgrTQk8q85oa0Q=="
+secured: "J8vN7NwayJvQWbGKhDJJ+EzgOtd9CSAASMtuohDImABrm18DHA+s5HZKcyo2dRLruIhNKRPlNtr900dM/x+VOs5GYq1yKQ4++ZctaHxZ9gXrTc61aWKpcdnJ1RwBTEF3aJmcGwpMF5bGbUAwk27f2Uinh5G4QUlXx9nUWFed8oojeL6bEfiMcYh4+eRJQ4a/iP102ArZkAmvqB6uFl/un33OKWrdZwjfQcD/g8y7rRcehXIN3VUDUveLV+hdUyJ/nHBvDlyv9d76hT0T+hdnPYMZbAm+10juPGBK6+E4e5lfu96lEPlBp3ozIWusnN7ZCBwI3kG1N2SkzSG6+lXzyPM+25/TCYFEb3+QGkrxWnR5po5T+6zK/bghoT6Im744+6FdwnyF7ZpAVTt6UZUJS97LIaRCbEF+OZDFVgW8i0OhV6brfX6tFlv1crP0ZKSaEMUyPFCHPfSfEipKOw1LbRTr7TO/XmODhEAplB7rkSwQKs9mzHWc/MZ7TBZlcdPEpZgibf2WL6JM21LLOQa//w==;PKqjPZQVyBqunRbKNmlgow=="
 ---
 

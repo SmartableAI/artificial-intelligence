@@ -41,6 +41,22 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Clearview AI faces more scrutiny from UK and Australian privacy commissioners"
+    excerpt: "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn."
+    publishedDateTime: 2020-07-09T18:04:00Z
+    webUrl: "https://www.techspot.com/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-18.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
 
 secured: "PbnS/7UnDccPJhGgye2EU8ot/TT3B5A/TaGr93GQ1aUvRpeXa6j7iH685EzNFzYsnwAA+g7dJReh+48QAFHDUN1ahlATnnR6uSGrnppASgGWdug/qsGas/a3x/QUUF0HPY59bjylXA6utTHQlmOElVuDT9ZHY8odJn3V0xee3Uy7kT4HdYWQmBQrol1hiDAboJm0DbDzmsxuB0SBfmGigAihpGhT+395g6QyPv9irzmlIG7qODkYgpEjj47V3CtOFv4hyNF20PEKgoUcpcreDl7HCA40mnsS6xJg3ZFxyXCEyVVfJKQlhDZdzmmWw0/yheCDYElfhfoXaPYNcYX+yVdXmAgOJuKiIWz9akUIMZavkp+YMX9wBWY5CO5IY0c7RqnM5X+REqlTBBwSLvWG0x2gjFbnEnuNxUIcTD3sSJqdm1j/y3NW8iFOjPgv9TMlb4K0C98qJaB07ibd6XPkTnAIid931m2PKPb/Rh7lg/fvQV6iv8qbLe5t2GLP8Dh2ikebEskm82QrcvQOmcPDyQ==;1t0HkWOOClCNAzwuOBeWUg=="
 ---

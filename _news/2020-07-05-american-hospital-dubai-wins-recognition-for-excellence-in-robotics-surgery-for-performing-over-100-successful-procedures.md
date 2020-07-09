@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automation"
+    excerpt: "Leader in Autonomous Mobile Robots and Workflow Orchestration Recognized by MIT Startup Exchange, Robotics Review and Supply & Demand Chain Executive “This has been a historic year for Vecna Robotics,"
+    publishedDateTime: 2020-07-09T19:30:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20200709005592/vecna-robotics-recognized-for-excellence-in-robotics-supply-chain-and-logistics-automation"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 39
 
 secured: "xd4tSzTQyg63CT2GcJd6sSxODz9i6C5I/63OLUMQJxGbgcwKw0nh7h3gcfaU1rwnVy8qwYbWqcIAqK3rLsHn/qKN+GAJKLf/TwmhlIwJFzxaZ8Fg6QNZMOR/ti03G++45QOLXf3b9G2NY1iM9pg5Z5FwhrDDSJGrN4eLrFoYOOKgM6WDkJVSswOVsPmWfiF7hQS/nKDw/uhBfJTw6xF9khyLjONytQnTi0RaHQ2xGfPSxEMTrlsSFTZAkOe6dbIOgMnlhDL3KtyWmi+if7Dicwtma0i+jTDucHZipufLd0hIURngrbbPBzdc/vrkw+0R7B20Fe8MBCdD0gFETEm/KQ==;2+aur5IrFgx7YB16Y+tM+g=="
 ---

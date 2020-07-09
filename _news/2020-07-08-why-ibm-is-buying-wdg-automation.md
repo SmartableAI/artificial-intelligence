@@ -37,15 +37,26 @@ related:
         height: 675
         isCached: true
   - title: "IBM to Buy WDG Automation"
-    excerpt: "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that"
-    publishedDateTime: 2020-07-08T15:11:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+    excerpt: "IBM (NYSE: IBM) has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that enhances access to intelligent automation using software robots."
+    publishedDateTime: 2020-07-08T15:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "IBM Signs Deal to Acquire Software Provider WDG Automation"
+    excerpt: "WDG’s Automation capabilities will also be embedded into Watson AIOps and Cloud Pak for Multicloud Management. The expansion of IBM’s AI-infused capabilities is expected to help the company acquire new customers, which will bolster the top line in the ..."
+    publishedDateTime: 2020-07-09T15:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-signs-deal-to-acquire-software-provider-wdg-automation-2020-07-09"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-signs-deal-to-acquire-software-provider-wdg-automation-2020-07-09?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-signs-deal-to-acquire-software-provider-wdg-automation-2020-07-09?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
   - title: "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts"
     excerpt: "In addition to business operations, IBM plans to integrate WDG Automation RPA into its capabilities for automating IT operations, specifically Watson AIOps and Cloud Pak for Multicloud Management. When AI-infused automation is applied to business processes ..."
@@ -82,6 +93,6 @@ related:
       domain: seekingalpha.com
     quality: 4
 
-secured: "V+c1oa4rNj/vNmNTAYXtEKTiVbOlo/dspjMhEMg12ekLNfHWpisUYpSWx27nK1U0PT89sJ31xhY7lAyX2bSw+yTP0ehqqgTp/d293u3j3D37yChGsJExORK8wbGZt5X7n8vuzXEYqK3nIFT2waqKHwGFzp+mpETDLcRfOZthxxo7ihnhVT3LYFVCubg65R2s1aLWpu+HY2m1QGAaUqeTS79nDQmjxX4XZHQ/+SSO84WE58yGtvhShs2Ok4KxHYcSeEsGU4ZQPOqWTyG1Hj39+Sij7mkKLi08zwj518lu1rVVH9uxIclEOCOsFNbG0dwt6oFyUneGT8ZT+Ntq2UgLcA==;IOcfeFlWrfl7XXKgD9fiXQ=="
+secured: "cf3hluR6WLYaL4QuXMp3VlxTyd3EHBK1npujl/x7xjwOUSdBi2wJ3/9pFtufs8y3iDVFz9eUCbLmI+Jzv8Ek07BdGx3T0OSGE4CLPqeLI9M9Pk7Bee0jEnnQsXMk4O+23eCrox21YXmCYnqyGU7Rws+NX11uz4owonBjKfk6EpvbP6T1YQC3HDOQ5/12OgNU6PZB5aax+uQdZkxJT8te5UTYIaoKv0bXNKTXd9pt7QEZjpvw1MP7DnMIjYpyd2kv1flyqF52jpvIwr9Not17bVxOkqIhXVAWkhTlNW08jIQAEdHRTk7URhM3g6OvKivMI5+nYO2CvXEF09ggHR4U6T2LFFWw0D9TvhDMAChiK2a711qABrsQex6DQ8vaO+yQ+lTKYeNUXE56JfHCz+r8Yv9Mc7gKxc21OqhOFR3bna07gr2NF0CjStyKPFsPWq/PMJy6MkQd8dVGytWxMqUcho2vmrSClECOILWUIkZXSGbleHTkV9vEGm6aGwX/JWGE;eFqAQOLnXHar5wOh0GgZkw=="
 ---
 

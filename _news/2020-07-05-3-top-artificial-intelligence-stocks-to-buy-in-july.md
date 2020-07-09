@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Motley Fool
@@ -33,36 +33,15 @@ images:
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
     excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-    publishedDateTime: 2020-07-06T20:12:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+    publishedDateTime: 2020-07-06T16:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 93
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "3 Top Cloud Computing Stocks to Buy Right Now"
-    excerpt: "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ..."
-    publishedDateTime: 2020-07-09T12:47:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 74
-    images:
-      - url: "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png"
-        width: 720
-        height: 386
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "72zlt6QZxhCrTpylDXP/7YOeiqZe7ddUsOH5d6I3oreOYd9NfiNXY41fLNeWatQTPkPxvYzuUkd/Gz0qnXuwysqcvDpPsozA1njlIPtqPs+0tH6r2eNTFRQ5SlgbCw5ktcLa+Y84UKm/51Ocks7fywZJFkdJDWkQuS1zxmIpYiY8CaQD1bRqBNegWsEe2+8SdMDosjyxfFx8kSjMqju1jDJxLIlG1QcVxO1spJhmzRN+453iZuxWMNiBaSWItCoxSlvCbOh07Fmj2ylIUcw4dm2VLpdjTNzuWxE56L1dIV//FuOjGdJAk/XCTj53OB09a10zauY0T3kSg9aEyC6xNA==;aI6us2fVh6Z9+uKB5Ph1YA=="
 ---

@@ -5,8 +5,8 @@ excerpt: "WellAI data scientists Daniel Satchkov and Sergei Polevikov will prese
 publishedDateTime: 2020-07-09T14:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/wellai-data-scientists-to-present-latest-research-on-machine-learning-in-healthcare-and-finance-301090617.html"
 type: article
-quality: 42
-heat: 42
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
