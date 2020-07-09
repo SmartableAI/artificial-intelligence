@@ -2,7 +2,7 @@
 name: "Twiggle"
 overview: "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online."
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://www.twiggle.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6qXk_fYvETY"
 
-secured: "DJeDyPxz5EmxNPer/KF6TnkEQ8aPdpJM1O8jOY3rnKLfnZ2SkCEvsROG2bS/5AZJixD7f1TBzpyC73QWuTxCxUiJjTp+xz9/hzdruaKYSog/dmWErkMO1vm6l3a13z5txI+kJxrM1hM+pl+twXi/2DPIBhaVxawvsbrd9KeGruypAZHwa/6v5SpC9Foo3BaF/sevdEyAK9maogHnD4u04QjmFPJvkhoT2QV+PgGz8jKtcAocPmnXr0q7rJ0giJnb8BnT77406Z32uf75HHVipzBckOT5Z5Ngpehjy8ibsGglyc+gVQomrcFPz63DkyfPN9qIOUazUtrd45Vk62L05b+aneVrsj/AtLsxr5tZzHhfB6MZUugvIDIW5Z8tVJlD;fB0C3X3PyzqYOSaJq2llcQ=="
+secured: "k6azU/vKCwt8gExtC5+IENTnsBE/Y47jmtY49PyCokFjwBtAkexRYs/KArKynXyJH5/FRRg6DHPlzQcQCnQBD2mDHsaJhqHlEJzMcHVQNuvumd5NRWp9zDRh4okVhLY8lpK9EUCxh5o18RoCW59Ey9Gulg4+LoBR2R3ZkfyvLxBNy3OFabH1lpH5cuNLE7BrioVlgymv7ih+rgBxzPtltemoBVtKOu68ZYskG4kwado1cm8y6WFlzte99v/UChsLwcAINH8WABQ+78jf0zJD3HY30AAelpvTWjQ2cKgCKw0rHUKAg/39BfMvWqjwQ/R0oFvY5IasVBpOCqaW5FxzfoKFeF3Fzuqx1IHGxuodag1g/V/rC5eALVty+oy+wFt6;4zzRar26w288gB2Hditnvg=="
 ---
 
