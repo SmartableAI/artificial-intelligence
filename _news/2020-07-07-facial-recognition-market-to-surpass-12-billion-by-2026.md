@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
         width: 599
         height: 315
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
+    excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
+    publishedDateTime: 2020-07-09T13:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026---valuates-reports-301090880.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "1sxl/GxDWl1GVTu0nxHa+EdXplr685J4sboemM1pTRu8ITWAkTpAZlT4tuAmndreEooytewOv/jqRm39I7Uozr+CRYIGSfUbMjrQ8uOPa+6mZ6d0Fz+lyw9VoC+8UWT/5siTU35uWoKnbXKI+lojjNzZwEqm+WtO0efGPdQynTBqvHQ3FKm5se5fQa6l1udoWbmMoXSkaHoKC7tl/6PCybKcbWuDOzpox24/cPdXlglltqsg0oIdrpjIDLBSBb4+nt9XU70gGKtooapvUQK6Wsf/eWbBrBd/bvLNFpkXL8IA5uf8OvZu2B4+qPrA5u3GJjseGiY99UxJvBvMcDMMKIruThatKm+uzHUpzBVMDZN5URhRTx+Wm7z7lBvjvH1WQpZlSQPqHZGGHJNwHP1uY7L41hMHuzQi+en7rVIWjWnwT26ZNeWiDDAv4s+uQPyzTx+Rlykv8y4sB/edLD70hw5jrCrBdc7ibP7VlvRF5qgcwT1jONpOKXrH1lyLdfHE;z5okhRhkaui6v8a1terQwg=="

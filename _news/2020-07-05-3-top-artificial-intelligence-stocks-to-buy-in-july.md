@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -89,17 +89,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
-    publishedDateTime: 2020-07-09T02:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "72zlt6QZxhCrTpylDXP/7YOeiqZe7ddUsOH5d6I3oreOYd9NfiNXY41fLNeWatQTPkPxvYzuUkd/Gz0qnXuwysqcvDpPsozA1njlIPtqPs+0tH6r2eNTFRQ5SlgbCw5ktcLa+Y84UKm/51Ocks7fywZJFkdJDWkQuS1zxmIpYiY8CaQD1bRqBNegWsEe2+8SdMDosjyxfFx8kSjMqju1jDJxLIlG1QcVxO1spJhmzRN+453iZuxWMNiBaSWItCoxSlvCbOh07Fmj2ylIUcw4dm2VLpdjTNzuWxE56L1dIV//FuOjGdJAk/XCTj53OB09a10zauY0T3kSg9aEyC6xNA==;aI6us2fVh6Z9+uKB5Ph1YA=="
 ---

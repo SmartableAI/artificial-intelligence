@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controv
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 600
     isCached: true
 
-secured: "kNAfxunAZWFk3Cs2UFWWxYjfOsz6GJNphEO9mQY3rycRzd2scyPqpQY2MrOQhFz89yIz9gi75zRbDh+q9jWJFoFyGZfHjcaDwWZ5SeYs4vBneJ9g4M6Rt9ANrPPG4anrya2jMV27OAgXX2j0iblxo0mXguZYwNYWdp9iGTe7zIeib+igxlxqjYDDgepPIy9j69hgND2+kzt9KifZcGPyj+5wCtIAtbUBDhPoRvQ/AXlhL984jaOGaH/oKJjm7rW6ixjIa0UxwvyT4ylTa6CfefzvI6zXNE70++bos9kctdzYQDir1JMIv0ADbV0gQ8iKGRrwXoXlLFhvgMOKkBk8jA==;wELSKyVuXwWom/EDducRmg=="
+related:
+  - title: "Australia and the UK open joint investigation of Clearview AI"
+    excerpt: "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,"
+    publishedDateTime: 2020-07-09T14:51:00Z
+    webUrl: "https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html"
+    ampWebUrl: "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F15c3c470-c1ee-11ea-bdfb-491f89a32078&client=amp-blogside-v2&signature=e5f9098fa086536f67386570213d3fbc390d235a"
+        width: 600
+        height: 350
+        isCached: true
+
+secured: "PbnS/7UnDccPJhGgye2EU8ot/TT3B5A/TaGr93GQ1aUvRpeXa6j7iH685EzNFzYsnwAA+g7dJReh+48QAFHDUN1ahlATnnR6uSGrnppASgGWdug/qsGas/a3x/QUUF0HPY59bjylXA6utTHQlmOElVuDT9ZHY8odJn3V0xee3Uy7kT4HdYWQmBQrol1hiDAboJm0DbDzmsxuB0SBfmGigAihpGhT+395g6QyPv9irzmlIG7qODkYgpEjj47V3CtOFv4hyNF20PEKgoUcpcreDl7HCA40mnsS6xJg3ZFxyXCEyVVfJKQlhDZdzmmWw0/yheCDYElfhfoXaPYNcYX+yVdXmAgOJuKiIWz9akUIMZavkp+YMX9wBWY5CO5IY0c7RqnM5X+REqlTBBwSLvWG0x2gjFbnEnuNxUIcTD3sSJqdm1j/y3NW8iFOjPgv9TMlb4K0C98qJaB07ibd6XPkTnAIid931m2PKPb/Rh7lg/fvQV6iv8qbLe5t2GLP8Dh2ikebEskm82QrcvQOmcPDyQ==;1t0HkWOOClCNAzwuOBeWUg=="
 ---
 

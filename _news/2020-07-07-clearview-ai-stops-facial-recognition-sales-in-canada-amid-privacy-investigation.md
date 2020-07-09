@@ -40,6 +40,22 @@ related:
       name: Newswire
       domain: newswire.ca
     quality: 116
+  - title: "UK And Australia To Probe Clearview AI Facial Recognition"
+    excerpt: "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI."
+    publishedDateTime: 2020-07-09T15:44:00Z
+    webUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg"
+        width: 1200
+        height: 854
+        isCached: true
   - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
     excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."
     publishedDateTime: 2020-07-07T11:34:00Z
@@ -71,6 +87,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "UK and Australia open joint data privacy investigation on Clearview AI"
+    excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
+    publishedDateTime: 2020-07-09T15:41:00Z
+    webUrl: "https://www.cnet.com/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
@@ -481,6 +513,20 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "UK, Australia investigate Clearview facial recognition firm"
+    excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
+    publishedDateTime: 2020-07-09T15:07:00Z
+    webUrl: "https://www.startribune.com/uk-australia-investigate-clearview-facial-recognition-firm/571690222/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Trulioo EmbedID adds document verification and facial recognition features"
     excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
     publishedDateTime: 2020-07-09T13:43:00Z

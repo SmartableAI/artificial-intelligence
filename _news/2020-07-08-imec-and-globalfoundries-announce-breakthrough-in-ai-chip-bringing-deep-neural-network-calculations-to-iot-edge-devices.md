@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T16:06:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588"
 type: article
 quality: 56
-heat: 76
+heat: 96
 published: true
 
 provider:
@@ -36,6 +36,34 @@ related:
       - url: "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas"
         width: 375
         height: 250
+        isCached: true
+  - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip"
+    excerpt: "Imec, a research and innovation hub in nanoelectronics and digital technologies, and GLOBALFOUNDRIES (GF), a specialty foundry, announced a hardware demonstration of a new artificial intelligence chip."
+    publishedDateTime: 2020-07-09T15:12:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/imec-and-globalfoundries-announce-breakthrough-in-ai-chip/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/white-house-shutterstock_147037244-copy-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "Imec and Globalfoundries connect to bring AI chip to IoT’s edge"
+    excerpt: "To address this challenge, Imec and GF developed a new architecture that eliminates the Von Neumann bottleneck by performing analog computation in SRAM cells. The resulting analog inference accelerator,"
+    publishedDateTime: 2020-07-09T14:33:00Z
+    webUrl: "https://bits-chips.nl/artikel/imec-and-globalfoundries-connect-to-bring-ai-chip-to-iots-edge/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 54
+    images:
+      - url: "https://bits-chips.nl/wp-content/uploads/2020/07/Imec-Ania.jpg"
+        width: 500
+        height: 281
         isCached: true
   - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices"
     excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."

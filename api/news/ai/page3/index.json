@@ -2,6 +2,385 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents.md",
+      "title": "CoreLogic launches AI driven platform for real estate agents",
+      "excerpt": "CoreLogic said that OneHome streamlines communication between agents and home buyers during the purchase process, while also providing access to financing, insurance and home improvement providers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents/index.json",
+      "webUrl": "https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2016/04/20/47a3b2bf-44da-4ee6-b992-835438f05049/thumbnail/1200x675/a5ea8a156af5329ed76d0bde668d79bc/istock000079198859medium.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "CoreLogic launches AI driven platform for real estate agents",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
+      "publishedDateTime": "2020-07-07T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
+      "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
+      "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-adobe-tests-an-ai-recommendation-tool-for-headlines-and-images.md",
+      "title": "Adobe tests an AI recommendation tool for headlines and images",
+      "excerpt": "Team members at Adobe have built a new way to use artificial intelligence to automatically personalize a blog for different visitors. This tool was built as part of the Adobe Sneaks program, where employees can create demos to show off new ideas,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-adobe-tests-an-ai-recommendation-tool-for-headlines-and-images/index.json",
+      "webUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/For-Thrillseekers-copy.jpg?w=680",
+          "width": 680,
+          "height": 292,
+          "title": "Adobe tests an AI recommendation tool for headlines and images",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/07/adobe-ai-for-content-creators/amp/",
+      "publishedDateTime": "2020-07-07T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks.md",
+      "title": "Google’s TensorFlow gets a new test for training data leaks",
+      "excerpt": "Google late last month debuted experimental tests for its TensorFlow Privacy library designed to reduce the degree to which machine learning models leak identifiable personal information in",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks/index.json",
+      "webUrl": "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/17145823/cybersecurity-online-authetication.jpg",
+          "width": 770,
+          "height": 577,
+          "title": "Google’s TensorFlow gets a new test for training data leaks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes.md",
+      "title": "Researchers detail texture-swapping AI that could be used to create deepfakes",
+      "excerpt": "Researchers at UC Berkeley and Adobe Research propose in a paper Swapping Autoencoder, an AI tool that could be used to create realistic deepfakes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/index.json",
+      "webUrl": "https://venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/360c0a0a-f4be-4b50-b777-cad2455fb880-e1594141756134.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": "Researchers detail texture-swapping AI that could be used to create deepfakes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/amp/",
+      "publishedDateTime": "2020-07-07T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
+      "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
+      "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner/index.json",
+      "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f04a3f0385b8d0006ef80ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D712%26cropY1%3D0%26cropY2%3D400",
+          "width": 712,
+          "height": 401,
+          "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
+      "publishedDateTime": "2020-07-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-robot-janitors-could-soon-be-coming-to-schools-near-you.md",
+      "title": "Robot Janitors Could Soon Be Coming To Schools Near You",
+      "excerpt": "In the latest news about robots taking over the world, MIT has developed a robot capable of disinfecting an entire 4,000-square foot warehouse in 30 minute",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-robot-janitors-could-soon-be-coming-to-schools-near-you/index.json",
+      "webUrl": "https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/a48f868f-2f87-56fa-b5fd-3cdacd818206/default-1594121302-the-robot-can-disinfect-gbfb-s-warehouse-in-30-minutes.jpg",
+          "width": 720,
+          "height": 405,
+          "title": "Robot Janitors Could Soon Be Coming To Schools Near You",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
+      "publishedDateTime": "2020-07-07T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes.md",
+      "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
+      "excerpt": "Researchers developed an AI tool -- WattScale -- that can identify energy-inefficient homes anywhere in a region with sufficient data.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/index.json",
+      "webUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2009/10/power_lines-e1594136810494.jpg?w=1200&#038;strip=all",
+          "width": 1149,
+          "height": 550,
+          "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
+      "publishedDateTime": "2020-07-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-building-a-custom-angular-application-for-labeling-jobs-with-amazon-sagemaker-ground-truth.md",
       "title": "Building a custom Angular application for labeling jobs with Amazon SageMaker Ground Truth",
       "excerpt": "As a data scientist attempting to solve a problem using supervised learning, you usually need a high-quality labeled dataset before starting your model building. Amazon SageMaker Ground Truth makes dataset building for a different range of tasks, like text classification and object detection, easier",
@@ -694,7 +1073,7 @@
       "webUrl": "https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -907,7 +1286,7 @@
       "webUrl": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 496,
+      "heat": 526,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1017,376 +1396,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
-      "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
-      "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/index.json",
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef74817accb250006e7ba56%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
-      "publishedDateTime": "2020-07-06T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest.md",
-      "title": "Self-Driving Cars Just Took a Big Leap Forward (Here’s How to Invest)",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Source: Shutterstock When Amazon (NASDAQ:AMZN) drops over a billion dollars",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest/index.json",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600e.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
-      "publishedDateTime": "2020-07-06T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
-      "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
-      "excerpt": "Stock quotes by finanzen.net SAN JOSE, Calif., July 6, 2020 /PRNewswire/ -- Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the floor,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores/index.json",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
-      "publishedDateTime": "2020-07-06T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
-      "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
-      "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever/index.json",
-      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
-      "publishedDateTime": "2020-07-06T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
-      "title": "Researchers use AI to highlight Zoom’s privacy risks",
-      "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks/index.json",
-      "webUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/d0862e46-a1f5-464f-8bed-7ecfd241dd87.png?w=800&resize=800%2C532&strip=all",
-          "width": 800,
-          "height": 532,
-          "title": "Researchers use AI to highlight Zoom’s privacy risks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
-      "publishedDateTime": "2020-07-06T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
-      "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
-      "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers/index.json",
-      "webUrl": "https://www.entrepreneur.com/article/352846",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594044841-WhatsAppImage2020-07-06at73044PM.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352846",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352846",
-      "publishedDateTime": "2020-07-06T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices.md",
-      "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
-      "excerpt": "AI often makes decisions with little human input, and it's hard to predict the circumstances under which they're likely to choose an unethical approach.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/index.json",
-      "webUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/07/question-mark-1872665_1280-AI-decisions-ethics.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/amp/",
-      "publishedDateTime": "2020-07-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-why-infusing-ai-into-it-operations-is-more-about-the-data-than-about-ai-itself.md",
-      "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
-      "excerpt": "Almost every CIO I talk to boldly claims their enterprise is a “data-driven enterprise,” but the reality suggests a totally different story. With the help of AI, any enterprise can truly be a data-driven enterprise.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-why-infusing-ai-into-it-operations-is-more-about-the-data-than-about-ai-itself/index.json",
-      "webUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0242d8cd5e32000671586e%2F0x0.jpg",
-          "width": 974,
-          "height": 404,
-          "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/amp/",
-      "publishedDateTime": "2020-07-06T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,23 +1,19 @@
 ---
 category: news
 title: "Elon Musk says full self-driving Tesla tech 'very close'"
-excerpt: "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy, which requires no driver input, he said. Tesla ..."
-publishedDateTime: 2020-07-09T13:04:00Z
-webUrl: "https://www.bbc.com/news/technology-53349313"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-53349313"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53349313"
+excerpt: "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy,"
+publishedDateTime: 2020-07-09T15:54:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-53349313"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53349313"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53349313"
 type: article
-quality: 89
-heat: 119
-published: true
+quality: 59
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Autos
@@ -30,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk: Tesla Will Have Level 5 Self-Driving Cars This Year"
+    excerpt: "Tesla will have essentially fully autonomous self-driving vehicles this year, CEO Elon Musk said in a video recorded for a Chinese AI conference."
+    publishedDateTime: 2020-07-09T15:58:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb31d91c66c470006e6cccf%2F0x0.jpg"
+        width: 1200
+        height: 805
+        isCached: true
   - title: "Tesla's is close to nailing the basics on self-driving"
     excerpt: "\"very close\" to developing fully autonomous vehicles and could work out the basics of that technology as soon as this year. Musk reiterated that the electric vehicle maker has solved most of the essential challenges toward achieving Level 5 autonomy,"
     publishedDateTime: 2020-07-09T07:04:00Z
@@ -62,6 +74,42 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
+    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
+    publishedDateTime: 2020-07-09T02:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Tesla Full Self Driving Suite Ready by the End of 2020, Level 5 Autonomy Nears"
+    excerpt: "Even so, Elon Musk is confident his company is going to deliver a full self-driving module soon, capable of offering Level 5 autonomy (that's the one where you put your feet on the dashboard and pop up Netflix on the phone or the vehicle's display on your ..."
+    publishedDateTime: 2020-07-09T10:02:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 50
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+  - title: "Elon Musk boasts Tesla may figure out fully self-driving cars this year"
+    excerpt: "ElonMusk says #Tesla is racing forward on Level 5 autonomy for self-driving cars, even as others in the field pull back on their expectations. #autotech #selfdrivingcars"
+    publishedDateTime: 2020-07-09T12:31:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/09/musk-boasts-tesla-close-to-self-driving-technology.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/09/musk-boasts-tesla-close-to-self-driving-technology.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/09/musk-boasts-tesla-close-to-self-driving-technology.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
   - title: "Tesla 'very close' to level 5 self-driving technology"
     excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
     publishedDateTime: 2020-07-09T07:49:00Z
@@ -72,6 +120,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "/qM4XuPmFkrhjd47+UH1CFP+Q8pT0lQnci03ws9zS4pkuzfw1DytMVl5dmW5pFzjXtkAYxol12GmvchwI6YtJb5IgbTJ3kz9qTck1RKaVKYESnC6CfEA386eWqV6sgLF160iIljv0X8yNfqEhSZCfNcGkRm2yzUvVngeRz1bQBHmL7e7qDIl/Br+CcwO7xw841v2mPqmmzQbVcI9gjg1oKUXLeyVQNuBmDct3tVm4BCZ10KQWlk+nfkSUt/9Z3k1tsxXLNGQfvjvie4Gl5e3YevTMAUBtFqBH9HM7c8i9l7rNo1Vyo1CpDKke6OLTSUrTNvKKb1tzLajsRX7as4wqw==;3I0BDuvDhCe2yo0QH1J9tg=="
+secured: "0h/JxJWyJtXMqkgnrw1lw85crkAhsAfIJ+nDA1g9sYhMik1djzRlgJf58FjjBAyFtHf2PGLLk0tnPibrWD024QEOtnODyuhp/gGy2YhnDVetny6WoMoHKTunBlkevh13m0JoFLUIL8YxWQZ+tosh4cI66tSmStB1uU7Pw76fIhE0YVFfts0kUUJBA+kmVMlD9m/+TNSgtTj3pAbel+an9vygkhZhveSKSuGoqKopPEdhwRxTx+qQ17VlLqAih+hwAzlwbScWR2mjT9hGLT5vYj3E+8vkvvz8SEM9HateseYAW4KW83Z5izOoqrNs8KTrw2M0HbxKt/Hc4p0hEQfliA==;9WkKXBFs+DvcVHVLIiQIWA=="
 ---
 

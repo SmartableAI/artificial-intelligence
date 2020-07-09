@@ -90,17 +90,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
-    publishedDateTime: 2020-07-09T02:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "I2gG+/q8lnrsg1ky7mVJv6ZNsOWVjomIfwXS/jbZk+XgwAkXfXGiYHQod47fVLzr9QwHUc0ZgQ+gnk+Sf3vgIPcpUc8hwg+ybtPU9T+DP6Qny6Fo8PCefHBkfXUZyVf73adwr7sytwPzUKERLPnErxE2PBiR7iCwtfHkob80HfaSV5f4+O89h4nAYDCwDNYNe9hr7to/IxY6PvluZ4A7M02bqmiXBo3ECQdGTcI1mCwUiTbOuGOsoV86ekoo1PnLpnIXjbNW620ewaG9kRi/Gj/M4XkYglpVQZpu4CVkCCgquxyhYprlyStdv/ukNZ1rI/uuMv5pf2X1bWBSUfi5og==;VFzcqrwqIt+5f5fmg8HrVA=="
 ---

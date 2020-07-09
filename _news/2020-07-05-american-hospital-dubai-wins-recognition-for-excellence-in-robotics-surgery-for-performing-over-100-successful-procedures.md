@@ -39,6 +39,20 @@ related:
         width: 540
         height: 405
         isCached: true
+  - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton"
+    excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus"
+    publishedDateTime: 2020-07-09T14:06:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 59
+    images:
+      - url: "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "xd4tSzTQyg63CT2GcJd6sSxODz9i6C5I/63OLUMQJxGbgcwKw0nh7h3gcfaU1rwnVy8qwYbWqcIAqK3rLsHn/qKN+GAJKLf/TwmhlIwJFzxaZ8Fg6QNZMOR/ti03G++45QOLXf3b9G2NY1iM9pg5Z5FwhrDDSJGrN4eLrFoYOOKgM6WDkJVSswOVsPmWfiF7hQS/nKDw/uhBfJTw6xF9khyLjONytQnTi0RaHQ2xGfPSxEMTrlsSFTZAkOe6dbIOgMnlhDL3KtyWmi+if7Dicwtma0i+jTDucHZipufLd0hIURngrbbPBzdc/vrkw+0R7B20Fe8MBCdD0gFETEm/KQ==;2+aur5IrFgx7YB16Y+tM+g=="
 ---

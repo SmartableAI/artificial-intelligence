@@ -7,7 +7,7 @@ webUrl: "https://www.zdnet.com/article/break-into-artificial-intelligence-with-t
 ampWebUrl: "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/"
 type: article
-quality: 99
+quality: 101
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg"
@@ -47,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YVRfVER4MiGLIChCF5Pue2qhm5nW3f7O8EJLtqc9TliAUC0hic6xzRAHqwbQOjvLONWmHOMpI7yhasopZM00JeuPFEfHNOEJCv47t9LzE0F13OW+cKkDXsgNfY6UsuFR5ss5pgMxhplcUwXsxOKs9InOCnqrWP9erGogNpTcsDzMP7uYCOTgtScBebIVDd0wTHGz4BSEwzoFkRZTP2KdmDvwb23UhIUgzerP6b7Dat2OIrIHZjOx/2dXK4ogSfJ9e53FHdtFp8QstK2OkUn1qLZnHnTTynqRqdAOFwh1NCse2vwUZboMochaU+8GmiMVAt8o+K2mZGCpTeqFUKQqNg==;PutRRJT8MeDOtw8k3CEbmA=="
+secured: "a7J/Mv2ouDxyaPJwqaH78x99kke7NpTKxnVsCaLUv6XTwUwO1Y7Gb2DFv851aigt6Iu3ymZU/Ba7KVJirjq/DO/oQxwVWyXWwqL5VC8e5hsRu/9ZB9TbNYXCQcECrgl2lzXJPxtPALl4ALEG/2bPKakRtv32yMJazfOdSFCdDc7rU0fEZtVZsxeRLDpk0QLgCyUDpmsjdOAV0FEPR8w+54T3LPk2ui8vMGoxQqK+FcGRUsZ7DStZa+gz0FaQcMdk4KEy6iDIDAGRN4sP+dt3NHclLdZ2QjFUEZmo6Th13/2ZG0dpJ2CNxXmUFKmGVIBbyLmRkQp9nPkuERcVTmjIXAukVIvMUs6y3etFVQh4ygxmrcPYXgLtWn4siu4QxtWm6OGgfMlDH2xSdFe2n1CUtIqglhpGFSyUtJyZpfWjjMieFohAJtv4X+2pybeezRQN9UZD1sAApGQD3PRO1gd5CtPDYCjBlgvXvyIWPj0RWgou9kONtm5OycJjwMPVhaAqfpDCRYQZgWnzrvSjr7pZXQ==;++h1ptnawVNknIESK4cQZg=="
 ---
 

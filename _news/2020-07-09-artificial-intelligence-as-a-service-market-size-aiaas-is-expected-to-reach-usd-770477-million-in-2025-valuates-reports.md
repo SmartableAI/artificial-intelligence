@@ -7,8 +7,8 @@ webUrl: "https://www.openpr.com/news/2087532/artificial-intelligence-as-a-servic
 ampWebUrl: "https://www.openpr.com/amp/2087532/artificial-intelligence-as-a-service-market-size-aiaas"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2087532/artificial-intelligence-as-a-service-market-size-aiaas"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI in Healthcare
   - AI
   - Natural Language Processing
+  - Microsoft AI
 
 related:
   - title: "Analytics as a Service (AaaS) Market Size to Reach USD 126.48 Billion by 2026 - Valuates Reports"

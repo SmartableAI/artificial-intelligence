@@ -125,6 +125,20 @@ related:
         width: 599
         height: 315
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
+    excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
+    publishedDateTime: 2020-07-09T13:35:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026---valuates-reports-301090880.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "86oPN3yFLSsjOd67HN+aG7DwaoBGKr1EHLn/yoO7vwHeSSDRILWgzQkF49mnIergecYQ/LtFS5epFyyIpNsBMYSzXUUaV9DUvLBLvtaAX+M47cgrmIzxlYudx8vHmLjmQmmGQwZxWQVN+agnfLcNW6dE2b61TJ5cIeUBFAj6EnIn+a+fMfpJ1MuBfGSpRViftkjW7I2AweHCzalrxPjym4JthphSiSOjCWFB62033ZzSp7zbv/2e1bOCDWrpVxMLWoowORQE5KToMHxdZ39/gjgbI2c969WoR1ohEW+EKsxND8LhmnO47moLDzHcL178EN28YkwmFKkZ6V+pgkMCiA==;sixY32zq1k/KvnCup3v3Xg=="
 ---

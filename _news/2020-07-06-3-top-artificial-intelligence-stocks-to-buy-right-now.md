@@ -84,18 +84,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
-    publishedDateTime: 2020-07-09T02:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
-secured: "NYVq8VK3p5AnmSzh7/9TCSkyJ1j/pAc1WY30pBZmf/t0szYacR284gn/T5Fp+cZNfKlsLEV0+Ww+lUebodDlyXzqbeO3b+l8WqAnwIW3WnbRoG/jP6mJqMco0dfubB5qDqx4BI1KaeYM6JdonRNvOB3e3KhxVLoWs+XV9xHW8s13Acd4GZVBElXUiNda9z3KyYJSRtL6aeIlPX5l1BXF1GisNEnxAcMHR292KWp6B1f2RqECS/tCfKG993twcD8weTJwJTvhL/zcg6WlTub5Hx47WZynVYSkSM90Dsryp3kc9JWZ9Smi78LSCKajdBGH18j4AaZfGsZsuZPXqZ1CZkaCeHvBOtK+FWCDbJ8AGGag0JS5Nwp+ThCQDptBphd6xfuZWIgvCZGCFy2/VtFHimuUQ7wBY7Ak9ujhfp13ICbT+OSSwIuwcSDXK3dDioJfFkGmqHraAYgrNhOwrEwx+2iVZslQUbchebRSZkXFaBOX31dpr1KxLtwyucN9c7Nyn186WI4u0kTPr2QEPq4z6A==;9mrnRZfKk5C2752r+Tf9vw=="
+secured: "HI2jKH6Czezkj/M220WfABew4d02RtrZrgcLMCS7LaATFCSNOz5NtnbWH1dw+le3raYvgDgEEr4/PoY+EMqZgn7ZCM/SFcyvncwobHd0e+f5OHOmeDLlFzIU8zEu0d/pCpq71aOESTeQ1VW6rbLyPqwhChTHYfPk7Wy2bVoVAvZ0nvKxfNWRNHbsS5MzuYEfNiu1xQF9KZhp52eGhUqn6ckyZtT9tlp6ToDs5kEfJ2bI0cYp2im+D/TQ2WLGohF8dISY8UwBSPrjgU/TSjKvu+uNbDZm9/Vl3VirFDsY8g0j8JjpUC/KNdoqQwx+LKajChguKfTxgcWNexn0tqNpxkkiynyaHL9nKUM2E5H+iAabNeYyxJuI9e3n1DHSZiQUPHLx6y+W8MC4QoOiYmtjmL9siHE0uPCChxmBoqdvbAF0W209xMUBQhdUnfD6rvX2Q2jxssOVfmnnu2F3XLwjBkVy4olZ4f0551aeU+Nhm56dJOzLNQ6AUVovBO8UZ6rcpxH3AMNq3T0YIXLiepKr9A==;pKB28TpKEpTOl+SGOloP2A=="
 ---
 

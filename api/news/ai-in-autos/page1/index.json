@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-09-elon-musk-says-full-self-driving-tesla-tech-very-close.md",
-      "title": "Elon Musk says full self-driving Tesla tech 'very close'",
-      "excerpt": "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy, which requires no driver input, he said. Tesla ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-09-elon-musk-says-full-self-driving-tesla-tech-very-close/index.json",
-      "webUrl": "https://www.bbc.com/news/technology-53349313",
+      "path": "_news/2020-07-09-elon-musk-tesla-will-have-level-5-self-driving-cars-this-year.md",
+      "title": "Elon Musk: Tesla Will Have Level 5 Self-Driving Cars This Year",
+      "excerpt": "Tesla will have essentially fully autonomous self-driving vehicles this year, CEO Elon Musk said in a video recorded for a Chinese AI conference.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-09-elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/index.json",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 159,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102CA/production/_113305266_hi062234983.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb31d91c66c470006e6cccf%2F0x0.jpg",
+          "width": 1200,
+          "height": 805,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53349313",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53349313",
-      "publishedDateTime": "2020-07-09T06:04:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/09/elon-musk-tesla-will-have-level-5-self-driving-cars-this-year/amp/",
+      "publishedDateTime": "2020-07-09T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

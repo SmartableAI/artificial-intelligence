@@ -41,6 +41,34 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip"
+    excerpt: "Imec, a research and innovation hub in nanoelectronics and digital technologies, and GLOBALFOUNDRIES (GF), a specialty foundry, announced a hardware demonstration of a new artificial intelligence chip."
+    publishedDateTime: 2020-07-09T15:12:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/imec-and-globalfoundries-announce-breakthrough-in-ai-chip/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/white-house-shutterstock_147037244-copy-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
+  - title: "Imec and Globalfoundries connect to bring AI chip to IoT’s edge"
+    excerpt: "To address this challenge, Imec and GF developed a new architecture that eliminates the Von Neumann bottleneck by performing analog computation in SRAM cells. The resulting analog inference accelerator,"
+    publishedDateTime: 2020-07-09T14:33:00Z
+    webUrl: "https://bits-chips.nl/artikel/imec-and-globalfoundries-connect-to-bring-ai-chip-to-iots-edge/"
+    type: article
+    provider:
+      name: Bits&Chips
+      domain: bits-chips.nl
+    quality: 54
+    images:
+      - url: "https://bits-chips.nl/wp-content/uploads/2020/07/Imec-Ania.jpg"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "wH9ulDgKomUIGMnhyjbIN4aN35IDpE9gKIBuPuz8Xm32wca2/7AoHGIkxtd6pCjrBV0kWWEqjm4zmZkpXMBvA3cutYeFnEIEetAklicYbsLiWm4LbS888EWXA1wO3rBMQ+jynQqjWOPjqiNI4tKfd0YCc/nVkD9WFx4CbOm2P9gDaWl9hLXjBsoswDexVTtbQt+rulw+n8fmGXGN9rnkdSH/AV/yiEyIR1pdHw8HZn+Feg/s7qvfB9HjK7fq4rPrDzMg4bIGZXUisfrAlGjxsjGql4/Z9vxA5cohl6yLiKSabfNkyii60i4/U3XUDTFDQ7QECktDLs/P+PbY+ADvUA==;dNE0Hg+sbVXh/UDgzszloQ=="
 ---

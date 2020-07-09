@@ -38,6 +38,20 @@ related:
         width: 1374
         height: 720
         isCached: true
+  - title: "AppTek Launches Two New Mobile Applications to Help Consumers Address Multi-Lingual Communication and Collaboration Challenges in Real-Time"
+    excerpt: "Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new speech technology applications designed for consumers — AppTek Speech Translate™ and AppTek Speech Transcribe™ —are now available through the Apple App Store,"
+    publishedDateTime: 2020-07-09T13:03:00Z
+    webUrl: "https://apnews.com/e8dc62f9c29d413cacebfd8042fb9564"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "TZVeToR7c8mU7TKElnTlfNJQablZwNT0QzX9Qg6jwPzWQbvKzRSOqbcOnWkk6QkB/AgquY3A2gaI75MRneI8z87+B2L8C/MEaZPbrVGc82tLN2mPWOu+h70K6cZRtEyf+Y2DqCjDWfKqAHYRCalPtitGQt1DmK1+Ru91j9w5yskyUcOfyvNBvMstHgMbcvRGbqw5l70dEO5T7ErBr9onuoEIb1BvubNqDSEG5f4YviybEe01bxwvpZ7L4l2wIGIC1K4PY06WEJzAlGUsXZmBWAoIt/p7VxeiiGi66462FPD/gAz9bVUA43a/Uq2Z7c+XLNahnpOvCaf8+n/ZqYBVmQ==;IbuUQFmuQf5czi32qhesmw=="
 ---

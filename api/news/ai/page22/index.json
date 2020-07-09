@@ -2,6 +2,508 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-18-is-covid-19-stymying-retails-intelligence-and-making-ai-more-critical-than-ever.md",
+      "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
+      "excerpt": "With consumer purchase behavior changing dramatically due to pandemic-enforced lifestyle changes, artificial intelligence and data are hyper-critical. Can retailers adjusting to forced closures and new safety protocols also foster these technologies?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-is-covid-19-stymying-retails-intelligence-and-making-ai-more-critical-than-ever/index.json",
+      "webUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb921ef8b43d000679f00e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
+      "publishedDateTime": "2020-06-18T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge.md",
+      "title": "10 Robotics Stocks on the Technological Cutting Edge",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Robotics stocks offer an attractive source of opportunities for growth",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/10-robotics-stocks-cutting-edge-1029322986",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "publishedDateTime": "2020-06-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-warehouse-robotics-company-geek-raises-200-million.md",
+      "title": "Warehouse robotics company Geek+ raises $200 million",
+      "excerpt": "Chinese warehousing robotics startup Geek+ announced it has raised over $200 million in Series C investment, one of the largest rounds closed in the warehousing industry to date. The company continues to remain the most funded warehousing robotics startup in the world with a Series B investment of $150 million in late 2018 and total funding of nearly $390 million.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-warehouse-robotics-company-geek-raises-200-million/index.json",
+      "webUrl": "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/geek-plus-robotics-warehouse-dark.png",
+          "width": 1200,
+          "height": 899,
+          "title": "Warehouse robotics company Geek+ raises $200 million",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/warehouse-robotics-company-geek-raises-200-million/amp",
+      "publishedDateTime": "2020-06-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace.md",
+      "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+      "excerpt": "Eskalera is unveiling the Inclusion Index, a new system for organizing a company that encourages and quantifies an inclusive culture.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/index.json",
+      "webUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Esk_Product_Promotion-Ratio.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 677,
+          "title": "Eskalera creates AI-based Inclusion Index to measure a better workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/eskalera-creates-ai-based-inclusion-index-to-measure-a-better-workplace/amp/",
+      "publishedDateTime": "2020-06-18T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
+      "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+      "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots/index.json",
+      "webUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalvoices.org/wp-content/uploads/2020/06/20200516-Aleksandar-Vucic-online-rally-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "publishedDateTime": "2020-06-18T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models.md",
+      "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+      "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/index.json",
+      "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "publishedDateTime": "2020-06-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
+      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
+      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai/index.json",
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
+          "width": 900,
+          "height": 489,
+          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
+      "publishedDateTime": "2020-06-18T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
+      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
+      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory/index.json",
+      "webUrl": "https://www.sify.com/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory-news-education-ugsolHgiefahb.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/Hindi-Chini600x600_ugriulddadbea_ugrizcghbbjbg.jpg",
+          "width": 600,
+          "height": 600,
+          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs.md",
+      "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
+      "excerpt": "Algoriddim suggests that the feature relies on advanced AI chip features found in Apple’s iOS devices, including the A12Z Bionic in the 2020 iPad Pro. Algoriddim is debuting the AI feature with ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/index.json",
+      "webUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/djayai-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Algoriddim’s Djay Pro AI can transfer vocals and rhythms between songs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/algoriddims-djay-pro-ai-can-transfer-vocals-and-rhythms-between-songs/amp/",
+      "publishedDateTime": "2020-06-18T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19.md",
+      "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
+      "excerpt": "IBM launched Watson Works, a set of models and applications designed to manage workspaces, people and facilities as employees return to the office during the COVID-19 pandemic. Wa",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/index.json",
+      "webUrl": "https://www.zdnet.com/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/04/24/b6e37c98-9f98-43bb-973e-ad26833fda56/thumbnail/1200x675/48665c9939ec4476228e8e8c28322098/qualcomm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM launches Watson Works aimed at managing work's new normal amid COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-launches-watson-works-aimed-at-managing-works-new-normal-amid-covid-19/",
+      "publishedDateTime": "2020-06-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai.md",
+      "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
+      "excerpt": "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/index.json",
+      "webUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/771b40a0-8596-4e45-ac82-8cdd7015a2b2-e1592189066236.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
+      "publishedDateTime": "2020-06-18T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-ai-in-computer-vision-market-covid-19-impact-2020-future-development-manufacturers-trends-share-size-and-forecast.md",
       "title": "AI In Computer Vision Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast",
       "excerpt": "Global AI In Computer Vision Market Size, Status and Forecast 2020-2026 Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Global AI In ...",
@@ -826,486 +1328,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
-      "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-      "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium/index.json",
-      "webUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o=",
-          "width": 1200,
-          "height": 630,
-          "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "publishedDateTime": "2020-06-17T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-5-of-the-coolest-prosthetic-arm-breakthroughs/index.json",
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-stm32-solutions-for-artificial-neural-networks.md",
-      "title": "STM32 solutions for Artificial Neural Networks",
-      "excerpt": "STM32CubeMonitor: The Netflix of MCUs, Watch Your STM32 Anytime and Anywhere",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-stm32-solutions-for-artificial-neural-networks/index.json",
-      "webUrl": "https://www.st.com/content/st_com/zh/stm32-ann.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-driver-free-but-virus-free-robo-cars-hit-new-speed-bump.md",
-      "title": "Driver free but virus free? Robo cars hit new speed bump",
-      "excerpt": "The latest challenge for the autonomous vehicle industry: How to assure passengers that the car they are getting in is virus free, even if it doesn't have",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-driver-free-but-virus-free-robo-cars-hit-new-speed-bump/index.json",
-      "webUrl": "https://www.omaha.com/news/national/driver-free-but-virus-free-robo-cars-hit-new-speed-bump/article_c7d3527d-27ff-5971-9d1f-452be4bb26b9.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/9/16/916c2697-a99b-5f3f-a2be-5c9beefaab28/5eea79f6e9a01.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": "Driver free but virus free? Robo cars hit new speed bump",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-integrate-amazon-kendra-and-amazon-lex-using-a-search-intent.md",
-      "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
-      "excerpt": "Customer service conversations typically revolve around one or more topics and contain related questions. Answering these questions seamlessly is essential for a good conversational experience. For example, as part of a car rental reservation, you have queries such as, “What’s the charge for an additional",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-integrate-amazon-kendra-and-amazon-lex-using-a-search-intent/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-kendra-and-amazon-lex-using-a-search-intent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/17/lex-kendra-001.jpg",
-          "width": 800,
-          "height": 284,
-          "title": "Integrate Amazon Kendra and Amazon Lex using a search intent",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T14:47:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.md",
-      "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
-      "excerpt": "Microsoft's latest Insider Build 20150 allows you to install the Windows Subsystem for Linx 2 via a typed command, and adds GPU compute support via Nvidia's CUDA.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview/index.json",
-      "webUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/06/windows-susbsystem-for-linux-2-windows-update-100849123-large.jpg",
-          "width": 1200,
-          "height": 598,
-          "title": "Windows 10's Linux subsystem gets GPU compute and an easier install in new preview",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3563268/windows-10s-linux-subsystem-gets-gpu-compute-and-an-easier-install-in-new-preview.amp.html",
-      "publishedDateTime": "2020-06-17T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office.md",
-      "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
-      "excerpt": "A unique platform analyzes an organization's digital and physical footprints as well as existing office layouts, then generates new ones",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/index.json",
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea6b681b50250006e83d8f%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D2278%26cropY1%3D241%26cropY2%3D1510",
-          "width": 1200,
-          "height": 676,
-          "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
-      "publishedDateTime": "2020-06-17T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity.md",
-      "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-      "excerpt": "The digital education platform will host one introductory course, dubbed \"Introduction to machine learning on Azure\" for free. With the availability of 10,000 spots, the course will offer students ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/index.json",
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592419710_microsoft_azure_and_udacity_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "publishedDateTime": "2020-06-17T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-sosi-invests-in-apptek-to-advance-artificial-intelligence-and-machine-learning-for-its-speech-recognition-and-translation-offerings.md",
-      "title": "SOSi Invests in AppTek to Advance Artificial Intelligence and Machine Learning for Its Speech Recognition and Translation Offerings",
-      "excerpt": "SOS International LLC (SOSi) announced today that its owners acquired a non-controlling interest in Applications Technology (AppTek), LLC, a leader in",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-sosi-invests-in-apptek-to-advance-artificial-intelligence-and-machine-learning-for-its-speech-recognition-and-translation-offerings/index.json",
-      "webUrl": "https://www.businesswire.com/news/home/20200617005724/en/SOSi-Invests-AppTek-Advance-Artificial-Intelligence-Machine",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-congressman-slams-amazons-use-of-facial-recognition-technology-calls-for-new-disclosures.md",
-      "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
-      "excerpt": "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-congressman-slams-amazons-use-of-facial-recognition-technology-calls-for-new-disclosures/index.json",
-      "webUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png",
-          "width": 300,
-          "height": 353,
-          "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/",
-      "publishedDateTime": "2020-06-17T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-huamis-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection.md",
-      "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
-      "excerpt": "The Global Top 5 wearable brand[1], Amazfit's mother company, Huami (NYSE: HMI) , made its second wearable AI chip Huangshan-2 public on",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-huamis-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection/index.json",
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/huami-s-next-wearable-ai-chip-huangshan-2-scheduled-for-mass-production-in-q4-2020-50-energy-saved-with-faster-atrial-fibrillation-detection-880075794.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1192309/Wearable_Device_Chip.jpg?p=facebook",
-          "width": 3457,
-          "height": 1808,
-          "title": "Huami's Next Wearable AI Chip Huangshan-2 Scheduled for Mass Production in Q4, 2020, 50% Energy Saved with Faster Atrial Fibrillation Detection",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

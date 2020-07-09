@@ -34,8 +34,8 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 29
+    quality: 31
 
-secured: "y6upLWVBNIGFXLtFP+FktkcS+UlyHmD9xfPVyfywLNbGLN147m4NgeZ6mf6fXtfHt1nKdkORnxVkUlepmADIGU7D/gHCNF+TJIgll5E3e8GYWaTOE/3dgxrySbsk/+V83e1a9BusVB7P93u0yxWKTauJ0QDRlAuOKcky0tM4Ch77hPaT95PnndBlGBsVvZaVz4dtIOtN+8qjsvacsVQU8bW3quKOvLwaBKrHGxh5AEeLFri0kQYn/KvE0KFrL9zTNkEZi+otrpf1/6ULLTaCRXxm7iZyS81QAa6n28cKhziZ37od3YuwU3S7/yh43nA06TtEoQoK+GJG0hm6VdQx4w==;fxS3OT543obLkm1mcusUlw=="
+secured: "GnYXxj8y9VbxFwWapL4W8w5c5xCpca3aJOcOwdkoitYtPAb8oFC3nQEjs3tTTo/FXucVXW2Fw5lqmUgV4At8G9x5KBvegVuc8HbtmHqW7rEyyWsmy1J1nSRmfp0Ybqh8nyNbRs1NcQ4sMNrcq837nWYiCRFOIerCg0oGoZ9RyrbPCW9efCxn3PeW1y9Nm4TKVRiTyKoLz6DPCLrRaQrXHSgvt8FqLa9wchyJt34iHjV9OJc8w6ZB8eEXCpzUS6LitnDsTSSQQbimdvl5fPZ/0FMIU8B3EhVHGJqL1KmZFg8yF+6+QjOv2TJJL0o2faLHyTQ3N/ZjEL9VCus5VBIfX4XQplKrK4Xh393lGmccsWKzBBEa/om3f802HxNOH4Csuyrs32/2LR8d9WM+BDr3WHpq1fBGdnML3K77Xy+YqKnfms6ydy/s/JWdkm7Q918WWa+JEXH+7HzLUF7cZm3fV77qfzgdQz+azAr8NrIHjL+TnSAU70wqOzk3xNOq1XOPKYxcnBYEB/dk9IbB5tg4WA==;Uop0NjDJqdMOwpU4Y5QMqQ=="
 ---
 
