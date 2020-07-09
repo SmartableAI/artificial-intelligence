@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-09-china-calls-for-joint-development-in-ai-to-reduce-risk-of-technology-gap-between-rich-and-poor-countries.md",
+      "title": "China calls for joint development in AI to reduce risk of technology gap between rich and poor countries",
+      "excerpt": "Chinese government officials and some of the country’s top business leaders call for stronger global collaboration at WAIC summit",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-09-china-calls-for-joint-development-in-ai-to-reduce-risk-of-technology-gap-between-rich-and-poor-countries/index.json",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/09/0b50d3f2-c1bc-11ea-8c85-9f30eae6654e_image_hires_165721.jpg?itok=dJJTBLhy&v=1594285050",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
+      "publishedDateTime": "2020-07-09T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds.md",
+      "title": "Facebook’s Artificial Intelligence Doesn’t Eliminate Objectionable Content, Report Finds",
+      "excerpt": "An audit commissioned by Facebook Inc. urged it to improve artificial intelligence-based tools it uses to help identify problematic content such as hate speech, showcasing the current limits of technology in policing the world’s largest social media ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-09-facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds/index.json",
+      "webUrl": "https://www.wsj.com/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-207311/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000",
+      "publishedDateTime": "2020-07-09T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029.md",
       "title": "Artificial Intelligence in Retail Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029",
       "excerpt": "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Retail Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
@@ -445,9 +543,9 @@
     {
       "path": "_news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud.md",
       "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
-      "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is ai",
+      "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications, including AI, data analytics ...",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud/index.json",
-      "webUrl": "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "webUrl": "https://www.techradar.com/au/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 164,
@@ -457,15 +555,15 @@
           "url": "https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg",
           "width": 1200,
           "height": 675,
-          "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
+          "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
-      "publishedDateTime": "2020-07-08T10:58:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "publishedDateTime": "2020-07-08T11:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -588,47 +686,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
-      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
-      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/index.json",
-      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
-          "width": 920,
-          "height": 613,
-          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
-      "publishedDateTime": "2020-07-08T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1079,6 +1136,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements.md",
+      "title": "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements",
+      "excerpt": "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/index.json",
+      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "publishedDateTime": "2020-07-08T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
       "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
       "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
@@ -1377,106 +1484,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight.md",
-      "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
-      "excerpt": "Robots and computer programs can help with social distancing and food delivery, but have been less helpful in developing a vaccine.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight/index.json",
-      "webUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efe3bf5f435e6f478b28aac/master/pass/business_kai-fu_1052208482.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
-      "publishedDateTime": "2020-07-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-royal-marsden-powers-virtual-covid-19-agent-with-ibm-watson.md",
-      "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
-      "excerpt": "The Royal Marsden NHS Foundation Trust has partnered with IBM to launch an AI-powered virtual agent that will provide staff with up-to-date HR and workplace information as the UK emerges from lockdown.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-royal-marsden-powers-virtual-covid-19-agent-with-ibm-watson/index.json",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570815037/itpro/watson.jpg",
-          "width": 550,
-          "height": 326,
-          "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
-      "publishedDateTime": "2020-07-08T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

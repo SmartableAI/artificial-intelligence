@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Mobileye and WILLER Partner on Self-Driving Mobility Solutions for Japan, Southeast Asia"
-    excerpt: "Mobileye, an Intel Company, and WILLER, one of the largest transportation operators in Japan, Taiwan and the Southeast Asian region, today announced"
-    publishedDateTime: 2020-07-08T01:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia-2020-07-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
     excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
     publishedDateTime: 2020-07-08T07:20:00Z

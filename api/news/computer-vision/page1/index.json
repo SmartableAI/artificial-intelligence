@@ -1131,19 +1131,19 @@
     {
       "path": "_news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories.md",
       "title": "Pure Storage Recognized as a Leader in Enterprise Flash Array Storage and Object Storage Categories",
-      "excerpt": "PRNewswire/ -- Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service in a multicloud world, today announced that TrustRadius",
+      "excerpt": "Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service in a multicloud world, today announced that TrustRadius has recognized both FlashArrayTM and FlashBladeTM as 2020 Top Rated Award winners.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories/index.json",
-      "webUrl": "https://www.prnewswire.com/news-releases/pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories-301083691.html",
+      "webUrl": "https://apnews.com/PR Newswire/ce4dcd5499280c67e7fc78684a93d651",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/386250/pure_storage_logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "Pure Storage Recognized as a Leader in Enterprise Flash Array Storage and Object Storage Categories",
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
@@ -1154,8 +1154,8 @@
       "publishedDateTime": "2020-06-25T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

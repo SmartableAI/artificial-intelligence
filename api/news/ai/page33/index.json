@@ -2,6 +2,309 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics.md",
+      "title": "Machine learning predicts nanoparticles' structure and dynamics",
+      "excerpt": "Machine learning methods, once trained to model the systems reliably, can speed up the simulations by several orders of magnitude. The new method allowed simulations to be run on a laptop or desktop",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-machine-learning-predicts-nanoparticles-structure-and-dynamics/index.json",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200609104305.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-report-facebook-makes-300000-content-moderation-mistakes-every-day.md",
+      "title": "Report: Facebook Makes 300,000 Content Moderation Mistakes Every Day",
+      "excerpt": "Facebook should also expand oversight in underserved countries, the report suggests, and sponsor research into the mental ... social media properties. Better AI might help too.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-report-facebook-makes-300000-content-moderation-mistakes-every-day/index.json",
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/06/09/300000-facebook-content-moderation-mistakes-daily-report-says/amp/",
+      "publishedDateTime": "2020-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-the-scientist-who-controlled-people-with-brain-implants.md",
+      "title": "The Scientist Who Controlled People with Brain Implants",
+      "excerpt": "(Or you can wind up mind-controlled by a psychopath. It's a mixed bag.) But in real life, one scientist made huge strides towards creating workable brain implants. In the 1950s and 1960s.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-the-scientist-who-controlled-people-with-brain-implants/index.json",
+      "webUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/18lp4exxculr1jpg.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "The Scientist Who Controlled People with Brain Implants",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/the-scientist-who-controlled-people-with-brain-implants-5871598/amp",
+      "publishedDateTime": "2020-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job.md",
+      "title": "Deep Learning for Natural Language Processing – Choosing the Right GPU for the Job",
+      "excerpt": "Unlike fifty years ago, the techniques of artificial intelligence and deep learning, along with advances in hardware platforms and massively parallel systems, have put the capabilities of quality language translation at everyone’s fingertips. Making this ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job/index.json",
+      "webUrl": "https://insidehpc.com/white-paper/deep-learning-for-natural-language-processing-choosing-the-right-gpu-for-the-job/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T16:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations.md",
+      "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+      "excerpt": "AI is freeing people from the hierarchical, command-and-control systems that have characterized organizations for centuries.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-artificial-intelligence-may-bring-more-management-free-organizations/index.json",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190049247%2F0x0.jpg",
+          "width": 1200,
+          "height": 477,
+          "title": "Artificial Intelligence May Bring More Management-Free Organizations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/08/artificial-intelligence-may-bring-more-management-free-organizations-but-not-for-the-reason-you-think/amp/",
+      "publishedDateTime": "2020-06-08T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops.md",
+      "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
+      "excerpt": "When an apple begins to rot it creates a chemical called ethylene. If that apple happens to be in a barrel with a bunch of other apples, and the rotting causes its skin to break, the ethylene will immediately cause the other apples to start rotting.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/index.json",
+      "webUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/12/police-lights-sirens-796x398.png",
+          "width": 796,
+          "height": 398,
+          "title": "Here’s 5 ways to use AI as a ‘bad apple detector’ for cops",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/08/heres-5-ways-to-use-ai-as-a-bad-apple-detector-for-cops/amp/",
+      "publishedDateTime": "2020-06-08T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind.md",
+      "title": "The 21 smartest AI scientists working at Google DeepMind",
+      "excerpt": "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind/index.json",
+      "webUrl": "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/msid-51381300,width-640,resizemode-4,imgsize-46648/21-charles-blundell.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "The 21 smartest AI scientists working at Google DeepMind",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
       "title": "Senator fears Clearview AI facial recognition could be used on protesters",
       "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
@@ -1073,310 +1376,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
-      "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
-      "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact/index.json",
-      "webUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/06/34-1.png",
-          "width": 688,
-          "height": 433,
-          "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
-      "publishedDateTime": "2020-06-08T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
-      "title": "HSBC introduces index fund built by AI",
-      "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-hsbc-introduces-index-fund-built-by-ai/index.json",
-      "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg",
-          "width": 1200,
-          "height": 590,
-          "title": "HSBC introduces index fund built by AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
-      "publishedDateTime": "2020-06-08T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
-      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots/index.json",
-      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
-          "width": 1200,
-          "height": 630,
-          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
-      "publishedDateTime": "2020-06-07T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes.md",
-      "title": "Artificial intelligence can serve as backup to radiologists' eyes",
-      "excerpt": "The study shows that artificial intelligence (AI ... and there was very little you could do in terms of therapy to help patients,\" he said. Schoepf was a principal investigator in a study looking ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes/index.json",
-      "webUrl": "https://www.newkerala.com/news/2020/74321.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Kerala",
-        "domain": "newkerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning.md",
-      "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
-      "excerpt": "The latest machine-learning, deep-learning, and workflow automation technology can accelerate interpretation, improve accuracy, and reduce repetition for radiologists and other specialties. The truth is that most departmental picture archiving and ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning/index.json",
-      "webUrl": "https://www.mddionline.com/radiological/consider-promises-and-challenges-medical-image-analyses-using-machine-learning",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/mri-2813908_640.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
-      "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-      "excerpt": "Source link:",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph/index.json",
-      "webUrl": "https://www.reuters.com/article/media-easyjet-hires-british-ai-business-idUSL4N2DK0CH",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2DK0CH",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DK0CH",
-      "publishedDateTime": "2020-06-07T14:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see.md",
-      "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
-      "excerpt": "Now, Caltech researchers have combined tools from machine learning and neuroscience to discover that the brain uses a mathematical system to organize visual objects according to their principal components.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see/index.json",
-      "webUrl": "https://www.pasadenanow.com/main/wp-admin/admin-ajax.php?action=times_process_times_vote&nonce=30f162dd2e&post_id=480727&disabled=true&is_comment=false",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2020/06/41586_2020_2350_Fig4_crop.max828.jpg",
-          "width": 400,
-          "height": 303,
-          "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-07T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

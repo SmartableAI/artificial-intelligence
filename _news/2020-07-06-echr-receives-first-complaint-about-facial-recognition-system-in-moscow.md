@@ -109,6 +109,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+    excerpt: "(Reuters) - Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI. The investigation will be ..."
+    publishedDateTime: 2020-07-09T09:13:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/09/technology/09reuters-clearview-ai-investigation.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z

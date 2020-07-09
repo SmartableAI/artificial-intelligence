@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 related:
   - title: "The organizations positioned to lobby against a US ban on facial recognition"

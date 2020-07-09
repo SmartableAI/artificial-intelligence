@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: GizChina
@@ -37,7 +37,12 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 68
+    quality: 88
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Snapdragon 865+ unveiled with 10% CPU and GPU boost, Wi-Fi 6E support"
     excerpt: "Two gaming phones have already picked the S865+ chipset - the Asus ROG Phone 3 and Lenovo Legion, both coming later this month."
     publishedDateTime: 2020-07-08T13:54:00Z

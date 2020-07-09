@@ -102,6 +102,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+    excerpt: "(Reuters) - Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI. The investigation will be ..."
+    publishedDateTime: 2020-07-09T09:13:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/09/technology/09reuters-clearview-ai-investigation.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z

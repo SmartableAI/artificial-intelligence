@@ -1,29 +1,24 @@
 ---
 category: news
 title: "ArkX Laboratories Launches E-commerce Site for Far-Field Voice Development Kit"
-excerpt: "ArkX launches new e-commerce website for advanced far-field AVS reference design kit featuring Cirrus Logic SoundClear® and NXP i.MX 8 host processor."
-publishedDateTime: 2020-07-08T10:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200708005076/en/ArkX-Laboratories-Launches-E-commerce-Site-Far-Field-Voice"
+excerpt: "The advanced voice development kit, featuring Cirrus Logic SoundClear ... kit increases the accuracy and reliability of \"Alexa\" wake-word triggering and command recognition at far-field distances and in noisy environments; it comes preloaded with Amazon ..."
+publishedDateTime: 2020-07-08T10:17:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/b16547717/arkx-laboratories-launches-e-commerce-site-for-far-field-voice-development-kit"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16547717"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16547717"
 type: article
 quality: 20
 heat: 20
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200708005076/en/803627/23/ArkX-LOGO-JAN13-2020-600x.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-    title: "ArkX Laboratories Launches E-commerce Site for Far-Field Voice Development Kit"
-
-secured: "QNaihlzQ4tZRMSXnGESRFeC/QacbkPqXQtl9uN1xQfSzeF+m4Qkv9aFV3wwd8DPfyFi+0RgC3vLUyAAkR6ivV0pcWaEInZqXWfYi7bS+8WhkAFukuJugdVx9BA4ZIteGS2n6rrBZ4dC8EuhwYbUd55sHcUK4aDZkMRvMwHvgMozvgzPp4u7jtX9PXsddyHLbID35f985tYnE1DIszMdmS/HUsB4B/arGeIrN3HIwnIWcNLU+aGEFvQbYzaEOtYZZj8ywJWJHeYymmFTC5SZ7UhB0fUabBNFrYRIDsuuI4Hw1r4AAPT9P+wjYOnAkEaN0rIn3PY4CzAw4NWUTN+W3MQ==;iZKTkxHlzdO16gn+5lsHpQ=="
+secured: "NN/+4teFCp37PyczwTuX9BObSdZAQoLkRqyiWkOylTGKjiQ8Z5lj8d5nh8Pc6v4hjotApuVHRtc2nEoMLCwFSCe6Ctv7AtyOSoN43t3sAdOrlAfSQmT98/LklyOMNtT71Y0CiVIc48847PfpjYKOcjAAalFt2G6FSshc50hbTlC4AQHFGkE5c1Ru2RRhb60QVxnJe6ayd2awkBUxT4TREoVHAPYJOQzLVp5zvWCS1iDzIhMGP6hTroCPKfYJ6G+2O4L9qWwWQq4ol1YiViI19d+0BsJCEq9jvpSgDZBuBpv4+yYs/EUbt33Qix/Ba5nRFmAunhks9R9bFuucDr6Yhw==;F7lbu5h/tHwMKX/ZLMqFxQ=="
 ---
 

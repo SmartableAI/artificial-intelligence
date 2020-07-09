@@ -2,22 +2,32 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-publishedDateTime: 2020-07-06T16:29:00Z
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+publishedDateTime: 2020-07-06T20:12:00Z
+webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in July"
@@ -36,23 +46,7 @@ related:
         width: 720
         height: 386
         isCached: true
-  - title: "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire"
-    excerpt: "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ..."
-    publishedDateTime: 2020-07-05T11:39:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579500%2Fhand-holding-trophy-sticking-out-of-pile-of-money.jpg&w=1200&op=resize"
-        width: 1200
-        height: 883
-        isCached: true
 
-secured: "r9H0ecqQfFlBtLsrOm5+gTaleyypQVaXWaoOBZgy/U+qFUm0fJr8jGrd6LQP8u+YGc+tWd0eEggKDSC6oVtH+eMsqYrXkIrezKLtOhOL/skukxWuKu4Nt9oB+6rf6/cJAOVgIzvvYq4dxYpn5Yt06KZ5JR1vzXFRR4ff+pGTNtt5ntPUzYDjU28+94WjJZctPRUVjqsiSnt/Z1yz4ulO5JmWQJRfg8FznJ3cnRP/D0f/6t87ws54gajME1vikEXFx83Pd8elEBIoWBgBBuidm5aE+z0l2s1FQbmvEbIduvvWMu6otm0mitPd8oaOVNAoHnf7TDbPJvzmQW4fhLejYMD9s64/YlTH1szz23tjC3/8NBtJx/VRv1GDB6DrVjSQ1EJUGX3AKHCTtNbX5Q/P5S3mY8zpv+OsovqIMPlbpvKu3iUoyUh+ooFmhjLRC4GTFRfKkD00WjYLJEjdrhPRBlvRLF22dmRiFA+5EwD+NUfkMis2Z/AEnOToNezDDgTO81FynExmDayNbsoUwvg6NA==;BNXSDcUnwP9v6mT4/EsUcg=="
+secured: "pIVQzV41lrJgp0vfj0j+mE7O4BlWMlmMSMi3HSiRzPJRYV4M4yshKqqIjK794vvzUcTZAi4u1lJES70MLOVrHknbPl0FcjZs/vkWrmZjgwnc5c2E2pJB8gdP9ifv3hn3KPqMYTbnvtesUmq8NmSdvswSdOLqH3gwO7XH0nFDlHkTC9e8TYKtUJnWZRuwYJdz/OdqyWxpenKh0foDhPUfXcGMEtEK8u+K9Os69IEC1R+LMfXtr5Hlu2MqYwUIIHG0AIgZ+RJhXcQf4ZRhS9EB3n/uy4gHg5jIlJEawzs4remWjbAu+maR1CTMRfP4hHXjBV2q3AvQoIGyiCGEdPNAQA==;GgXBVvtPyFVfIsM7lKAO9g=="
 ---
 

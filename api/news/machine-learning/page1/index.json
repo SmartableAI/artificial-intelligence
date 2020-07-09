@@ -704,6 +704,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-01-intento-raises-3-million-to-serve-increasing-demand-of-global-companies-for-ai-transformation.md",
+      "title": "Intento Raises $3 Million to Serve Increasing Demand of Global Companies for AI Transformation",
+      "excerpt": "Round led by Flint Capital; Intento hires top COO to scale global operations BERKELEY, CA / ACCESSWIRE / July 1, 2020 / Intento, a leading AI integration platform, today announces it has closed a $3 million seed round to expand its AI integration platform and meet the growing demand of global companies for AI transformation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-intento-raises-3-million-to-serve-increasing-demand-of-global-companies-for-ai-transformation/index.json",
+      "webUrl": "https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ibm-donates-machine-learning-tooling-to-enable-responsible-ai.md",
       "title": "IBM donates machine learning tooling to enable ‘responsible’ AI",
       "excerpt": "IBM Corp. is donating three open-source artificial intelligence development toolkits to LF AI, an organization within the Linux Foundation that maintains open-source machine learning tools. The LF AI Technical Advisory Committee",
@@ -746,24 +787,33 @@
     },
     {
       "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/index.json",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T03:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1202,6 +1252,38 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-borsuk-the-adjustments-schools-face-in-the-coming-school-year-raise-deep-concerns-about-quality-of-learning.md",
+      "title": "Borsuk: The adjustments schools face in the coming school year raise deep concerns about quality of learning",
+      "excerpt": "In short, what is the learning experience going to be like for students? Consider a few of the challenges that lie ahead: Teacher-student relationships. Good relationships between teachers and students are crucial.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-borsuk-the-adjustments-schools-face-in-the-coming-school-year-raise-deep-concerns-about-quality-of-learning/index.json",
+      "webUrl": "https://www.jsonline.com/story/news/education/2020/06/26/borsuk-adjustments-schools-face-raise-concerns-quality-kids/3264644001/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias.md",
       "title": "AI Weekly: A deep learning pioneer’s teachable moment on AI bias",
       "excerpt": "Facebook chief AI scientist Yann LeCun got into a debate with Google AI ethics colead Timnit Gebru about bias, and there are lessons to draw from the event.",
@@ -1352,97 +1434,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions.md",
-      "title": "Machine learning, AI experts create models for COVID-19 decisions",
-      "excerpt": "Experts in the Air Force Research Laboratory are applying explainable machine learning and artificial intelligence approaches to develop thousands of models that could help federal, state and local decision makers as they make re-opening decisions during the COVID-19 pandemic.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions/index.json",
-      "webUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daytondailynews.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/26/Images/newsEngin.25885980_RGB_sky-062620-Brain.jpg",
-          "width": 750,
-          "height": 422,
-          "title": "Machine learning, AI experts create models for COVID-19 decisions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
-      "cdnAmpWebUrl": "https://www-daytondailynews-com.cdn.ampproject.org/c/s/www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
-      "publishedDateTime": "2020-06-25T21:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dayton Daily News",
-        "domain": "daytondailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-machine-learning-will-mean-more-drug-ads-and-hopefully-better-outcomes-says-ad-tech-firm-deepintent.md",
-      "title": "Machine learning will mean more drug ads, and hopefully better outcomes, says ad-tech firm DeepIntent",
-      "excerpt": "Advertising by Big Pharma directly to consumers is a small portion of the total online advertising market but may increase as new advertising tools, some of them using machine learning, are employed by the drug companies. \"Pharma is about 18% of national ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-machine-learning-will-mean-more-drug-ads-and-hopefully-better-outcomes-says-ad-tech-firm-deepintent/index.json",
-      "webUrl": "https://www.zdnet.com/article/machine-learning-will-mean-more-drug-ads-hopefully-theyll-be-more-relevant-says-ad-tech-firm-deepintent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/25/0f075696-c6d8-4aa1-916d-b41f66cbc418/vascepa-campaign.png",
-          "width": 603,
-          "height": 503,
-          "title": "Machine learning will mean more drug ads, and hopefully better outcomes, says ad-tech firm DeepIntent",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/machine-learning-will-mean-more-drug-ads-hopefully-theyll-be-more-relevant-says-ad-tech-firm-deepintent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/machine-learning-will-mean-more-drug-ads-hopefully-theyll-be-more-relevant-says-ad-tech-firm-deepintent/",
-      "publishedDateTime": "2020-06-25T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

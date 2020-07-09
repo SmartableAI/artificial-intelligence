@@ -105,6 +105,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+    excerpt: "(Reuters) - Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI. The investigation will be ..."
+    publishedDateTime: 2020-07-09T09:13:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/09/technology/09reuters-clearview-ai-investigation.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -486,6 +500,6 @@ related:
       domain: scoop.co.nz
     quality: 29
 
-secured: "Tc7rp0qM4Lv2Np4z8E9CmOg7L6D56PPoQgRun/e5+UY/OdPYTefuEPVBnm0ogi2gz8oh5iNgKWNInPTiw7fw/KIabkp7fw2rKOh6lrngiH2AAHEMjDItRLurtC5m2BIXMT8ar94MqyTA3AbOq3dqnyYtYtmIKJow0B6re3X6/2n7TXs+c4X8pfvOzozqlggyErINedaik4bHeGIfzyRLkBlYMJaWwQ59tOPDFXS1yOtEBVf1aE4yungBsHZjgWTdM71PIl+wkGMkKbQbnosgyIZA5Qg85FQOaHiDHZd6ZaZuHJ2vkyLfHBvX0/e4iBH+oG0KFmCyFWSrfDQFd1xAqw==;JsiTbIWjBXPazc+P3Me6Iw=="
+secured: "sSGJYaB1REmBWNNoIChErd1tQ4MrVXkFwjsUlfqMCjfCkszFZH93A7OaQfXoeGUctlyD7VZbzU4jZIpszYIrIYV7MfAhHJQxFlupoFNCmXsgqbVmBnSJcjd8Pk21oxq5B4sTNLBBhkdt5ZHfQEIKJKCahT86/H28INbZF/p/XWd2LodBR1LRwwrmXQmurcu58Ow0jDiuc25cg5XdkvagLCEguoM0rAqxRtl/ybwlgaPlzn7HI7VJvRlsybO///P4KRQL+IiBUomrZI/1SfbDxOgf5auI4ULIWDqNSVv3oy/PV7mdtGTvQLG/2grzD+fp/IGJECcQk8ve1/u0lGN/Hy7kkZlf+47Dl2f/+z31iA7WztSCMReI5ag9Px4jYhbAdhmaVyNl+IqgbDxNaceYXQQ63MVTlxq4b+xKd18T+4P2zSRr65ZmGDzudvEHGznS5AqP7dyIjN9SC6+hr6g/ga6VKX1iHzRve8U2c/2dq9aFTtLmdRpUhXxeqMUGhvgZZdEPPPHSRblJ9Xesj8PuLw==;0aU+PNV5ZHiv9Z94yU5ZDw=="
 ---
 

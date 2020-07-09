@@ -2,6 +2,357 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-05-27-the-robot-artists-arent-coming.md",
+      "title": "The Robot Artists Aren’t Coming",
+      "excerpt": "Many artists are turned off by artificial intelligence. They may be discouraged by fears that A.I., with its efficiency, will take away people’s jobs. They may question the ability of machines to be creative.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-the-robot-artists-arent-coming/index.json",
+      "webUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/27/multimedia/27bigideas-elgammal-03/27bigideas-elgammal-03-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robot Artists Aren’t Coming",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/27/opinion/artificial-intelligence-art.amp.html",
+      "publishedDateTime": "2020-05-27T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-unlocking-the-value-of-values-with-ai.md",
+      "title": "Unlocking the value of values with AI",
+      "excerpt": "Now, as we grapple with the pandemic businesses are turning to AI and robotics to help compensate for the loss of revenue and layoffs. However, it is likely not the technology itself that will make the difference in the aftermath,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-unlocking-the-value-of-values-with-ai/index.json",
+      "webUrl": "https://www.techradar.com/news/unlocking-the-value-of-values-with-ai",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/FVsNoGEW8hur5KqLGncuBe-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Unlocking the value of values with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/unlocking-the-value-of-values-with-ai",
+      "publishedDateTime": "2020-05-27T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Computer Vision in Artificial Intelligence (AI) Market” report provides valuable information regarding new products in the market,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-size-report-2020-2026-future-trends-and-industry-growth-research-report-by-absolute-reports-2020-06-16",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision in Artificial Intelligence (AI) Market Size Report 2020-2026: Future Trends and Industry Growth Research Report by Absolute Reports",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-27T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-social-distancing-apps-and-facial-recognition-are-the-new-normal-at-indias-it-firms.md",
+      "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
+      "excerpt": "Quartz spoke to several IT players and industry experts to understand what is already happening and what more needs to be done to adjust with the “new normal.” Here’s what they said: Most IT firms are starting with limited employees in offices to ensure physical distancing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-social-distancing-apps-and-facial-recognition-are-the-new-normal-at-indias-it-firms/index.json",
+      "webUrl": "https://qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/05/2020-05-04T000000Z_1119147073_RC2JHG9R4DI0_RTRMADP_3_HEALTH-CORONAVIRUS-SOUTHASIA-e1590558563343.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 770,
+          "title": "Social distancing apps and facial recognition are the new normal at India’s IT firms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1859782/infosys-tech-mahindra-preparing-to-reopen-offices-amid-covid-19/amp/",
+      "publishedDateTime": "2020-05-26T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights.md",
+      "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
+      "excerpt": "The German Bundesliga has integrated Amazon Web Services technology into live broadcasts to give football fans real-time insights into the games playing out in front of them. Amazon’s cloud infrastructure and artificial intelligence (AI) will be deployed to gather player data and generate two forms of insight: Average Positions and Expected Goals (xGoals).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-bundesliga-teams-up-with-aws-to-give-football-fans-real-time-match-insights/index.json",
+      "webUrl": "https://www.techradar.com/sg/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hGWUJqYM2xwcTFpm63GvUB-1200-80.jpg",
+          "width": 695,
+          "height": 391,
+          "title": "Bundesliga teams up with AWS to give football fans real-time match insights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/bundesliga-using-aws-to-give-football-fans-real-time-match-insights",
+      "publishedDateTime": "2020-05-26T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox.md",
+      "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
+      "excerpt": "Amazon is in talks to buy driverless vehicle start-up Zoox, according to people familiar with the matter, a deal that would accelerate the e-commerce giant’s automation efforts.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-e-commerce-giant-amazon-in-talks-to-buy-autonomous-vehicle-start-up-zoox/index.json",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/27/e5187472-9fd0-11ea-8055-0ae12e466049_image_hires_121813.jpg?itok=IUl69-RQ&v=1590553099",
+          "width": 1200,
+          "height": 630,
+          "title": "E-commerce giant Amazon in talks to buy autonomous vehicle start-up Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3086276/e-commerce-giant-amazon-talks-buy-autonomous-vehicle-start-zoox",
+      "publishedDateTime": "2020-05-26T21:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant.md",
+      "title": "Google pilots voice authentication for purchases made through Google Assistant",
+      "excerpt": "Google is piloting a \"new\" voice authentication method for securing purchases made via its AI Assitant. The feature, called Voice Match, has limited availability for now and is only usable with Assistant-enabled smart speakers and displays.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-27-google-pilots-voice-authentication-for-purchases-made-through-google-assistant/index.json",
+      "webUrl": "https://www.techspot.com/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-26-image-25.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": "Google pilots voice authentication for purchases made through Google Assistant",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85383-google-pilots-voice-authentication-purchases-made-though-google.html",
+      "publishedDateTime": "2020-05-26T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-27-amazon-said-to-be-in-talks-to-buy-self-driving-startup-zoox.md",
       "title": "Amazon Said To Be In Talks To Buy Self-Driving Startup Zoox",
       "excerpt": "Amazo AMZN n may be preparing to make a big move into the self-driving vehicle world as the logistics giant is said to be in “advanced” talks to acquire Zoox, a stealthy developer of robotaxi technology,",
@@ -824,318 +1175,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers.md",
-      "title": "WADA looks to artificial intelligence to catch dopers",
-      "excerpt": "With sports around the world shut down by the coronavirus pandemic, the World Anti-Doping Agency is looking to artificial intelligence as a new way to detect athletes",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-wada-looks-to-artificial-intelligence-to-catch-dopers/index.json",
-      "webUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yourcentralvalley.com/wp-content/uploads/sites/54/2020/05/4878bde720924c678f20a60662f1f937.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": "WADA looks to artificial intelligence to catch dopers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
-      "cdnAmpWebUrl": "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/sports/wada-looks-to-artificial-intelligence-to-catch-dopers/amp/",
-      "publishedDateTime": "2020-05-26T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSEE",
-        "domain": "yourcentralvalley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-googles-new-accessibility-features-to-drive-user-momentum.md",
-      "title": "Google's New Accessibility Features to Drive User Momentum",
-      "excerpt": "Alphabet’s GOOGL division Google is making every effort to bolster accessibility features in a bid to strengthen presence among people with cognitive and physical disabilities. This is evident from the latest move of unveiling Action Blocks app for the Android users on the Global Accessibility Awareness Day.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-googles-new-accessibility-features-to-drive-user-momentum/index.json",
-      "webUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/googles-new-accessibility-features-to-drive-user-momentum-2020-05-26?amp",
-      "publishedDateTime": "2020-05-26T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation.md",
-      "title": "DefinedCrowd raises $50.5 million for AI data set curation",
-      "excerpt": "Seattle-based DefinedCrowd, which describes itself as a “smart” data curation platform, has raised $50.5 million in venture capital.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-definedcrowd-raises-505-million-for-ai-data-set-curation/index.json",
-      "webUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/social-thumbnail-e1590501305895.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": "DefinedCrowd raises $50.5 million for AI data set curation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/26/definedcrowd-raises-50-5-million-for-ai-data-set-curation/amp/",
-      "publishedDateTime": "2020-05-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services.md",
-      "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-      "excerpt": "Artificial intelligence services require mountains of reliable data to reach their full potential. Seattle startup DefinedCrowd is filling that need for Fortune 500 companies such as Mastercard",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-seattle-startup-definedcrowd-lands-50m-to-help-mastercard-bmw-others-improve-their-ai-services/index.json",
-      "webUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Seattle startup DefinedCrowd lands $50M to help Mastercard, BMW, others improve their AI services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-definedcrowd-lands-50m-help-mastercard-bmw-others-improve-ai-services/amp/",
-      "publishedDateTime": "2020-05-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-how-machine-learning-in-search-works-everything-you-need-to-know.md",
-      "title": "How Machine Learning in Search Works: Everything You Need to Know",
-      "excerpt": "Another crucial area to understand is machine learning. Now, the term “machine learning” gets thrown around a lot these days. Machine learning isn’t the same as Artificial Intelligence (AI ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-how-machine-learning-in-search-works-everything-you-need-to-know/index.json",
-      "webUrl": "https://www.searchenginejournal.com/search-engines/machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/05/how-machine-learning-in-search-works-everything-you-need-to-know-5eb2e76eb1970.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": "How Machine Learning in Search Works: Everything You Need to Know",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai.md",
-      "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-      "excerpt": "Arm roles out new CPU, GPU and NPU products, as well as a new program to customize products for greater performance.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/index.json",
-      "webUrl": "https://www.zdnet.com/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2013/10/07/d3fc7ce8-37aa-11e3-90a0-0291187ef9b6/thumbnail/1200x675/37dec431a2f29493e557633d748b29e2/sp-alexis-ohanian-headshot-tanya-kechichian-620x348.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Arm's new mobile IP brings performance, efficiency gains for enabling 5G, AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/arms-new-mobile-ip-brings-performance-efficiency-gains-for-enabling-5g-ai/",
-      "publishedDateTime": "2020-05-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-05-26-bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools.md",
-      "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
-      "excerpt": "As more online brands look for ways to move beyond third-party cookies as a way of gaining more direct insights about their users and customers, a startup that has developed a platform to help them has raised a big round of funding.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-26-bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/index.json",
-      "webUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-832158646-1.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "Bluecore raises $50M for its first-party, AI-based marketing automation tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/26/bluecore-raises-50m-for-its-first-party-ai-based-marketing-automation-tools/amp/",
-      "publishedDateTime": "2020-05-26T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

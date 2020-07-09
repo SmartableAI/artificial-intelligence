@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://businessnewswales.com/wp-content/uploads/TNW-PROFILE.jpg"

@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://independentaustralia.net/_lib/slir/w900-c4x3/i/article/img/article-14058-hero.jpg"

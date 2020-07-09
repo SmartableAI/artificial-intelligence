@@ -42,6 +42,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Promoting trust in self-driving vehicles"
+    excerpt: "The adoption of autonomous vehicles will depend on the public’s trust in the technology. To establish such trust, it is important to understand the actions of different road users, and their reactions to the vehicles."
+    publishedDateTime: 2020-07-08T01:44:00Z
+    webUrl: "https://www.nature.com/articles/s41928-020-0434-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-020-0434-8/MediaObjects/41928_2020_434_Fig1_HTML.jpg"
+        width: 685
+        height: 404
+        isCached: true
 
 secured: "YQx0FKuYhyEWbJ/Vs7TbKX2WKl8NHS93XQg3myO9+sBuFYf5l/4ikeNJ8pJ+pMaE8RqQK7URFWT4O/vscWlskqOfFa6E//LnWrngMNbDOCVTqStEGG6KCaaUFQ+tTLMVrbpoSCuowryQznMeFU0ybCrOPjI1Qo+vcXY91rZON9d702n6L5YACKBYKZV2J4Dqz29wkiDqw3Bp7OvrhBU5I2JXKZ7BS7AkUUbiVAiWNWFch/CBjE87kyCflJ6sl44eYgkjvWE+DlA+SMsrZrxxQ3WqpCREMAdE+nuvygnOl8wEz6AmTNTQmDZ+Xe4FQqeqgPiTe3+iFfRJD0+xp35BGw==;s8+9JixXpwK4H8qHNMvbfg=="
 ---

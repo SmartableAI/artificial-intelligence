@@ -27,6 +27,22 @@ images:
     title: "Snapdragon 865+ unveiled with 10% CPU and GPU boost, Wi-Fi 6E support"
 
 related:
+  - title: "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements"
+    excerpt: "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation."
+    publishedDateTime: 2020-07-08T13:30:00Z
+    webUrl: "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost"
     excerpt: "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ..."
     publishedDateTime: 2020-07-08T17:04:00Z
@@ -43,17 +59,6 @@ related:
         width: 920
         height: 613
         isCached: true
-  - title: "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements"
-    excerpt: "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation."
-    publishedDateTime: 2020-07-08T13:30:00Z
-    webUrl: "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 68
 
 secured: "RHbONOB5o9CpgYW2GY86JOE/qajyYqyUE7IgANDeApfCdfYw042J19gn4pszbK6dR/CBqJhHcCt1vnccaV1DsRLwqchohN6Nrrz6/SI1y12hPLmgMbaXuPFf9cW3B5kui3i9YAyNs8zCF4vvh8yZYVn2619NCdnVYHh018gz0YIgxzHSa1j1QgCBAG+C0YHEJ6O2SYs/9AM7lRVqwrvycrtf+iqSd7tIwWPf0Xaq57d6qW40ScOo+PpLALvOZ80qJHobbOGnOj1RGwO9EbWfOTVNaHq4JHIczovRb8CTzYeGbrgrcPCvIC8cn/XbroU633osrpGBp8xtvXTtJ4ylkg==;Q2/pJNDJdZY/1VEA/+yeag=="
 ---

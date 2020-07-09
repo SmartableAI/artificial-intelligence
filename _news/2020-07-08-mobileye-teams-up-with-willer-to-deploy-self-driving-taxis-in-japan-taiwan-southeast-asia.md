@@ -29,20 +29,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Mobileye and WILLER Partner on Self-Driving Mobility Solutions for Japan, Southeast Asia"
-    excerpt: "Mobileye, an Intel Company, and WILLER, one of the largest transportation operators in Japan, Taiwan and the Southeast Asian region, today announced"
-    publishedDateTime: 2020-07-08T01:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia-2020-07-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "rbWSaOFV3CwJhrMPGqGzTZxnrFXPKedPJx4g8PVGx2Xka3ESM3g0Wx4xnJBKZKia4ZAIZw62ZQjwTpukSVN8XKWLII2Ieie4jTOKThd7d8R6ym7EeTwENzqc+gZZVJNV/I49fG+C7uAfOacRQS9l8EHGSPqkNRSyfBbZ6mdEkJ1tIeEZBawahcHZimwUiTZdjPa11TAeq3dRj06ZHJxkuENHzEA4HyzbnpV7cHov7fIDBOZPiOHPlP1qHpK9ZGDr8RFxFL+oEy+GR9J4gz71maoR7WKelYrEHDDZdjQaRta2PkJbgdBnWB8mOKcal8tKBV248+GNHCs9CQFstbaZ4Q==;M7MoVc74/BdLFJSg1/dVSA=="
 ---

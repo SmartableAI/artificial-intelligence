@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Yandex to Announce Second Quarter 2020 Financial Results on July 28th"
-excerpt: "MOSCOW and AMSTERDAM, (GLOBE NEWSWIRE) -- Yandex (NASDAQ and MOEX: YNDX) today announced it will report its financial results for the quarter ended June 30,"
-publishedDateTime: 2020-07-09T07:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16564101/yandex-to-announce-second-quarter-2020-financial-results-on-july-28th"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16564101"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16564101"
+excerpt: "MOSCOW and AMSTERDAM, July 09, 2020 (GLOBE NEWSWIRE) -- Yandex (NASDAQ and MOEX: YNDX) today announced it will report its financial results for ... that builds intelligent products and services powered by machine learning. Our goal is to help consumers ..."
+publishedDateTime: 2020-07-09T08:15:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/09/yandex-to-announce-second-quarter-2020-financial-results-on-july-28th"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "XwlSYlzEspLheQMmurrdTrZ0SebWjbvRlV5ODTvleevNdQGvRWVF51t4cELfk/XPg9i/uPRZKAcV+fBbk1ArM0OzDBeLoGwuZy8MW/ruKV0SwdY3YGHCVxYz6fq69/gamKTtPdPBe3XT0ljFImh0aLFP+Z67XA2XmCnzxQ6X4eAeu1wq9h80nxDQozFkiGf3zEMWZNXrApodTzwMYjSyNlL2VR7v/fqdAaWlJ4r6vRbtMEuN8n1jgXHVXSNZW1JIh7RNpI8MaTIkPXB5MYh8fPkQaF4edCDYrzFrVGkQOUoRaiL+KTM/t248XahP7KaAv6QcGw3KvmpLWxknPYiknQ==;yiaLQoTeKewY6Rwp1UC/gA=="
+secured: "j41dJ5hcfbExQxzW8FsDCjS04lRmjbLYc0u4MZPVwmhDtP7DAAGhXLWWufoYj8/IGKkb8H2LImhNdz0ptrij3g2YrHOoxM5Ves2p2KoxhIa9CabnN6OPi4uhlNFRqZy5QwuMwaIOHMIR1znPcpd2Qj6heoOCqQBOeu82jRzcW8da3xobesyvovdEe08/hBakhCaqzZEOamBTM0/2gktSyiWjqiP7/f5qao5lp6GzQhwMmARbPTvK5B9VaBfA0MfBB6VFdcn0Y0cqjiOAbdgudQIgW5rmZ1BMuDAcc4BB4XMCdAenol9DbymPcOyg8WowOEsurt+cuovasGshQog7Lpp0ne1EGpt7wyevkep8d1lf8H6BZR3UkOHeB/O626nz4bphPptYPXtMGAEpc5QkeAw+ypzLOZwiYZc4BPuFFrI9qCj1XP8dfHBI30ZmoTYE4vhoBeXMqtMT4PkUKzZHJDx3gEGmB0Hzkvh5B2oQ7uwkpSdKhbio/QR1FwkvAmSELleuZpmMm5irbz4qjwQmPg==;yiSxthAc+e+FO4owERUfUQ=="
 ---
 

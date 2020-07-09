@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 827
         isCached: true
-  - title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
-    excerpt: "Amazon.com is taking the plunge into autonomous driving technology and eventual contactless delivery with the acquisition of Zoox."
-    publishedDateTime: 2020-07-04T16:54:00Z
-    webUrl: "https://www.thestreet.com/video/amazon-buys-self-driving-start-up-zoox"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/ZgwCFLmG-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Amazon to Acquire Self-Driving Car Startup Zoox for Over $1.2 billion"
     excerpt: "Indosat Ooredoo has selected Ericsson to provide AI-powered data driven and customer-centric managed network operations through the Ericsson Operations Engine"
     publishedDateTime: 2020-07-08T01:48:00Z

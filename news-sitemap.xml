@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between</loc>
+    <lastmod>2020-07-09T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wsj.com/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000</loc>
+    <lastmod>2020-07-09T02:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09</loc>
     <lastmod>2020-07-08T22:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -61,8 +73,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud</loc>
-    <lastmod>2020-07-08T10:58:00-07:00</lastmod>
+    <loc>https://www.techradar.com/au/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud</loc>
+    <lastmod>2020-07-08T11:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -75,12 +87,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/</loc>
     <lastmod>2020-07-08T10:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/</loc>
-    <lastmod>2020-07-08T10:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -135,6 +141,12 @@
   <url>
     <loc>https://www.theverge.com/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi</loc>
     <lastmod>2020-07-08T06:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/</loc>
+    <lastmod>2020-07-08T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -201,6 +213,12 @@
   <url>
     <loc>https://www.thehindubusinessline.com/companies/bharat-forge-launches-ai-based-health-risk-monitoring-system/article32019797.ece</loc>
     <lastmod>2020-07-08T00:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI</loc>
+    <lastmod>2020-07-08T00:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -403,6 +421,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -547,12 +571,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx</loc>
-    <lastmod>2020-07-05T12:20:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/</loc>
     <lastmod>2020-07-05T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -567,6 +585,12 @@
   <url>
     <loc>https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/</loc>
     <lastmod>2020-07-05T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx</loc>
+    <lastmod>2020-07-05T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1027,6 +1051,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8</loc>
+    <lastmod>2020-07-01T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors-2020-06-11</loc>
     <lastmod>2020-07-01T02:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1327,8 +1357,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1777,6 +1807,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.jsonline.com/story/news/education/2020/06/26/borsuk-adjustments-schools-face-raise-concerns-quality-kids/3264644001/</loc>
+    <lastmod>2020-06-26T11:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/</loc>
     <lastmod>2020-06-26T11:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2047,7 +2083,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.pcgamer.com/uk/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/</loc>
+    <loc>https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/</loc>
     <lastmod>2020-06-25T12:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2191,7 +2227,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories-301083691.html</loc>
+    <loc>https://apnews.com/PR%2520Newswire/ce4dcd5499280c67e7fc78684a93d651</loc>
     <lastmod>2020-06-25T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3243,6 +3279,12 @@
   <url>
     <loc>https://www.zdnet.com/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/</loc>
     <lastmod>2020-06-21T16:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/</loc>
+    <lastmod>2020-06-21T15:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

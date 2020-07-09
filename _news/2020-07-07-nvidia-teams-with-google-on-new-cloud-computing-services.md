@@ -28,11 +28,11 @@ images:
 
 related:
   - title: "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud"
-    excerpt: "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is ai"
-    publishedDateTime: 2020-07-08T17:58:00Z
-    webUrl: "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
-    ampWebUrl: "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+    excerpt: "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications, including AI, data analytics ..."
+    publishedDateTime: 2020-07-08T18:06:00Z
+    webUrl: "https://www.techradar.com/au/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
     type: article
     provider:
       name: TechRadar

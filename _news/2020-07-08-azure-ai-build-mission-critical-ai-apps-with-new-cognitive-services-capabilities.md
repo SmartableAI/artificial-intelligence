@@ -22,7 +22,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f941a68-ca14-412d-be70-049345540ed0.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -102,6 +102,6 @@ related:
       domain: businessinsider.com
     quality: 62
 
-secured: "Rv26wN5RriaR2mIdH0Yxmje0qfrnb9jM0cGD7SyZewjhJIiQjVqMqgZ3OcOWIFfrMbTsdKe6j5P4p8luHLvNfbbaN70VDF5/QhFNET+VvLJImwucrXOReQHy3K7UhvzwdrRDOcSoIvf5G7CeyFmZhxNd30krDHDbtgWr6Wwv5SiAiLpnln3LeGTD9mIIMcbouflvY4efcU+Ni6KRut55+hHwyItDmJJbo3gosxv3XhinkSfSfut+mOZc2pvyusi7+IPFmz9sKnGwjLLlg7l+rjT3e5s6aNM4rnlrGe1ELDujajtAbTD4+dK7DIIwYkWdZYvZuv+n5JsBaoAa7b1Sog==;KJUuAB5orbXDKNhHBsTaew=="
+secured: "SneB/ZSoUwjN7YTXbQtVkUGXATFO6AAFrurNnSs0a6rui5BTyK1W2PUe+gUPcv8qi9zZp00WE3etm+yND1eERKr+zcb0bVIILXFBOlqS7zBFrwaPq0zAZ6p5ofPF3qwOYKrllK2+XuwSKmekvOv82LRmEKf5Uy/hnUUIjyQEYqMAo7uj0ZgbxZJnWh37PuFd77qY4vOxGdQBeZNoKQ9CiAgPX60UYdeh3xTWecs9jGzJHGtCSeytbSIq2aaE7ll3bvw3ppczaCAg8/m8ldkKgUvDMPmd2Yp3WB++BxwgqxxkOu1olEGYabn9nvP9DnmuOBuihOMuTZteUEilZgukLw==;EtMIJzkLRUIiWCfEiAedPw=="
 ---
 

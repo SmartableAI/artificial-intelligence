@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
 type: article
-quality: 68
-heat: -1
-published: false
+quality: 88
+heat: 108
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost"
@@ -57,6 +63,6 @@ related:
         height: 526
         isCached: true
 
-secured: "FBRwWQ/miMYyI1bZsF+3huZz14UREhJ8i4yBpC0TvP/xFagJaavngDk1/cfoq7Xz+VIg5c7fJ7YgG7OMHaeVtwzIdhgPn8c6jPSaEN1ySV30HvOi3lmmJT4I4ryBoRVGeUadqAF6nFrnbMYsQ0ZlN4svNsGq0LK7F5xitF6eWnuVp96viz01L4ERZdJOJ1b0oerGyDa60BouYSKhD2h+dD6zxwdNrbmFK6PT+rRz/YRYm6PszVGjuDhJ3ByiI+3l0cK/VvGJHQhz0QOCzkWAYIlEN/X+ubvYZVrKRNYpVl+ygDmwzEcDcgM/RiAQUF8mVlu/tuZuRs2nKYy31oQB0Q==;FSOcssUjJWVoFfE2dkgtvA=="
+secured: "YEqTs4hlyQq5mEPX8jUpkPi2GJ5nbGDOhY8Gt8Fln4FDc/5ys4JKnj+nbVJ48mYBp8caovZy+9D1bXTRfdPXizv+gL7bQdskXnB95ihnGh0g0MgGxB1aGWTmSK4wdQk1XvYw528ygPdcYRPplCKZRGk0Kaqk10EMQ8x1AWwwWc2YzHTgGXcFWsKz9jR8AXrLM61rgycTo9Q14gKXzigSzgkcBUG/mJEeb862tw+bAvc6aZaqGCeOnrYFYjVHaRAKpIpALayHUz6TcFXwP9D5/qfW1Bsh6/Ed7t+BrSNW684/WMJIjDHoxMEsMdZAqm4qdLWXRMhSZezNPYqVrMjJaA==;69nOPNd/xexCzzVKbYFwpw=="
 ---
 

@@ -40,20 +40,6 @@ related:
         width: 747
         height: 446
         isCached: true
-  - title: "VeChain Is Attending the World Artificial Intelligence Conference 2020 Hosted By Shanghai Municipal People’s Government"
-    excerpt: "From 9 July to 11 July 2020, the World Artificial Intelligence Conference (WAIC) will be held online due to the COVID-19 pandemic. Organized by the Shanghai Municipal People’s Government, the annual conference’s mission is to provide a global platform for current and future AI innovation startups and corporations to exchange ideas and resources in pursuit of humankind’s greatest technological achievements."
-    publishedDateTime: 2020-07-04T16:42:00Z
-    webUrl: "https://apnews.com/PR Newswire/40a2a5177129949cf6cdbfbcc7497299"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "F0gefDHKmJXEur9MIgoNSQ8dksGBbD3OfdB3TFgCG8KSyJZ54bfwCay9Zu2g3pfSU0CV4svQdMGyeQJzjjKQ7YnZK2aezaLNZVFKeJEa6Qq7tFcArnAWVSQd3kgAxpb7QsHAHieqZJHZ6b1WgUNXwskBu6kPBAhOu8SblQrXLIJ6o6hvQV6+0BCXFFN2r4SVv8o+asE0CQCmq34V7VZWdbrpKAS0jxDh/yZpBo1HwoKEW0eELNVcQR+/tYkwdYyw5/QKEyoUkTeiq07DIrADU6D7Q6BmQR0/jbljel2GIqnAKcPwdIF9cFhQ92L6xDt7/35Rob4om1efdlyomBvQkg==;Z+ohEpFszjrxu9GKxpEXmw=="
 ---

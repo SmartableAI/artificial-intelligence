@@ -2,6 +2,279 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike.md",
+      "title": "Video: Using deep learning to combat cheating in Counter-Strike",
+      "excerpt": "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive .",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike/index.json",
+      "webUrl": "https://www.gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/1034977.png",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gamasutra",
+        "domain": "gamasutra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
+      "title": "Boston Bans Police Forces From Using Facial Recognition",
+      "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition/index.json",
+      "webUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Boston Bans Police Forces From Using Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "publishedDateTime": "2020-06-24T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
+      "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
+      "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more/index.json",
+      "webUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1159735354%2F0x0.jpg%3FcropX1%3D600%26cropX2%3D1805%26cropY1%3D200%26cropY2%3D891",
+          "width": 1200,
+          "height": 689,
+          "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/amp/",
+      "publishedDateTime": "2020-06-24T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman.md",
+      "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
+      "excerpt": "Latest added Global Space Robotics Market research study by AMA Research offers detailed outlook and elaborates market review till 2025. The market Study is segmented by key regions that are accelerating the marketization.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/space-robotics-market-may-see-a-growth-rate-of-873-maxar-technologies-ispace-northrop-grumman-2020-06-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Space Robotics Market may see a growth rate of 8.73% | Maxar Technologies, Ispace, Northrop Grumman",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-artificial-intelligence-classifies-colorectal-cancer-using-ir-imaging.md",
+      "title": "Artificial intelligence classifies colorectal cancer using IR imaging",
+      "excerpt": "Infrared microscopy can automatically detect the type of intestinal tumour within only 30 minutes. These results are then used to make targeted therapy decisions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-artificial-intelligence-classifies-colorectal-cancer-using-ir-imaging/index.json",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-06/rb-aic062420.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
+          "width": 900,
+          "height": 300,
+          "title": "Artificial intelligence classifies colorectal cancer using IR imaging",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics.md",
+      "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+      "excerpt": "AI-driven fulfillment provider Blue Yonder and DHL have deployed a new platform for the integration of warehouse robots, built on Microsoft Azure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/index.json",
+      "webUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/06/DHL_Blue_Yonder_1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "DHL Supply Chain partners with Blue Yonder to accelerate warehouse robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/dhl-supply-chain-partners-with-blue-yonder-to-accelerate-warehouse-robotics/amp",
+      "publishedDateTime": "2020-06-24T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-autonomous-farm-robot-burro-assists-human-workers-with-grape-harvest.md",
       "title": "Autonomous farm robot Burro assists human workers with grape harvest",
       "excerpt": "Burro is an autonomous driving robot that assists farm workers harvesting grapes in California that can augment or replace humans.",
@@ -1104,288 +1377,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
-      "title": "Teaching AI to fourth-graders is a thing now",
-      "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now/index.json",
-      "webUrl": "https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/23/ae3777d3-b430-4d47-867d-c4acd0aa296f/resize/1200x/a43663c878d6831ebf3e25149e0be50c/create-learn-kid.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Teaching AI to fourth-graders is a thing now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "publishedDateTime": "2020-06-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence.md",
-      "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-      "excerpt": "NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- With the Industry 4.0 revolution gaining ground, the global modular robotics market revenue is projected to reach $15,149.7 million by 2030, from $5,619.1 million in 2019,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence-2020-06-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-sequence-to-sequence-modeling-using-lstm-for-language-translation.md",
-      "title": "Sequence-to-Sequence Modeling using LSTM for Language Translation",
-      "excerpt": "Sequence Modeling using LSTM for Language Translation - language translation using deep learning encoder-decoder network",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-sequence-to-sequence-modeling-using-lstm-for-language-translation/index.json",
-      "webUrl": "https://analyticsindiamag.com/sequence-to-sequence-modeling-using-lstm-for-language-translation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/Translation-aggregator_JO_1.jpg",
-          "width": 1080,
-          "height": 360,
-          "title": "Sequence-to-Sequence Modeling using LSTM for Language Translation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-check-out-the-pitch-deck-ai-startup-7bridges-used-to-win-34-million-from-localglobe-and-crane-venture-partners.md",
-      "title": "Check out the pitch deck AI startup 7bridges used to win $3.4 million from LocalGlobe and Crane Venture Partners",
-      "excerpt": "The AI logistics market is expected to be worth around $6.5 billion by 2023.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-check-out-the-pitch-deck-ai-startup-7bridges-used-to-win-34-million-from-localglobe-and-crane-venture-partners/index.json",
-      "webUrl": "https://www.businessinsider.com/ai-firm-7bridges-pitch-deck-to-bring-big-name-investors-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ef207ef19182477902d44c9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Check out the pitch deck AI startup 7bridges used to win $3.4 million from LocalGlobe and Crane Venture Partners",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43.md",
-      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
-      "excerpt": "Shares of Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) were up 4.3% during mid-day trading on Monday . The stock traded as high as $112.41 and last traded at $112.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43/index.json",
-      "webUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
-      "publishedDateTime": "2020-06-23T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance.md",
-      "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
-      "excerpt": "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance/index.json",
-      "webUrl": "https://www.reuters.com/article/us-nvidia-daimler-autonomous-idUSKBN23U2W5",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523230547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M1PR",
-          "width": 813,
-          "height": 545,
-          "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U2W5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U2W5",
-      "publishedDateTime": "2020-06-23T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

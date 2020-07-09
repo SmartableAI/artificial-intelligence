@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     title: "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox"
 
 related:
-  - title: "Amazon Scoops Up Self-Driving Start-Up Zoox"
-    excerpt: "Amazon.com is taking the plunge into autonomous driving technology and eventual contactless delivery with the acquisition of Zoox."
-    publishedDateTime: 2020-07-04T16:54:00Z
-    webUrl: "https://www.thestreet.com/video/amazon-buys-self-driving-start-up-zoox"
-    ampWebUrl: "https://www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/amazon-buys-self-driving-start-up-zoox"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/ZgwCFLmG-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Amazon looks to self-driving future by acquiring Zoox"
     excerpt: "NEW YORK (AP) — Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver. But industry analysts are speculating that Amazon will use Zoox technology to build an autonomous package delivery service."
     publishedDateTime: 2020-07-06T17:50:00Z

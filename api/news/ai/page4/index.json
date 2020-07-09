@@ -2,36 +2,185 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in July",
-      "excerpt": "Artificial intelligence (AI) is likewise an important but oft-misunderstood technology. It's still developing, but it promises to create a new segment of the economy based on the automation of simple tasks and raw data crunching.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-3-top-artificial-intelligence-stocks-to-buy-in-july/index.json",
-      "webUrl": "https://www.fool.com/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
+      "path": "_news/2020-07-06-computer-vision-have-you-seen-the-light.md",
+      "title": "Computer vision – have you seen the light?",
+      "excerpt": "From detecting tumours to identifying wear in machines, computer vision can help improve our world – but not everything is plain sailing",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-computer-vision-have-you-seen-the-light/index.json",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 107,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://media.ycharts.com/charts/4f99495c05b836a8efa014a9663f2e1e.png",
-          "width": 720,
-          "height": 386,
-          "title": "3 Top Artificial Intelligence Stocks to Buy in July",
+          "url": "https://media.itpro.co.uk//image/upload/v1593772338/itpro/2020/07/shutterstock_robotic_vision_computer_vision.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "Computer vision – have you seen the light?",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-top-artificial-intelligence-stocks-to-buy-july.aspx",
-      "publishedDateTime": "2020-07-05T12:20:00-07:00",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light?amp",
+      "publishedDateTime": "2020-07-05T21:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-the-biggest-robot-companies-and-their-most-scary-inventions.md",
+      "title": "The Biggest Robot Companies And Their Most Scary Inventions",
+      "excerpt": "Robots are come becoming more ubiquitous in different parts of our lives. Here we look at some of the world’s largest and most successful robot companies and explore their latest, most innovative, and sometimes scary,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-the-biggest-robot-companies-and-their-most-scary-inventions/index.json",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f02a32c44ceaa00071711cf%2F0x0.jpg",
+          "width": 1200,
+          "height": 501,
+          "title": "The Biggest Robot Companies And Their Most Scary Inventions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/06/the-biggest-robot-companies-and-their-most-scary-inventions/amp/",
+      "publishedDateTime": "2020-07-05T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-chinese-construction-firms-using-ai-to-monitor-workers-safety-but-also-to-spot-loiterers.md",
+      "title": "Chinese construction firms using AI to monitor workers’ safety … but also to spot ‘loiterers’",
+      "excerpt": "Report from Institute of Automation says the technology can spot dangers on sites and determine what workers are doing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-chinese-construction-firms-using-ai-to-monitor-workers-safety-but-also-to-spot-loiterers/index.json",
+      "webUrl": "https://www.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/05/46ab04da-bd0d-11ea-b64b-070a892763db_image_hires_171918.jpg?itok=H1J6PdUp&v=1593940764",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese construction firms using AI to monitor workers’ safety … but also to spot ‘loiterers’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3091738/chinese-construction-firms-using-ai-monitor-workers-safety-also",
+      "publishedDateTime": "2020-07-05T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience.md",
+      "title": "How Stitch Fix used AI to personalize its online shopping experience",
+      "excerpt": "To futher personalize its shopping recommendations, Stitch Fix built out a service using a combination of AI and human curation.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/index.json",
+      "webUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stitch-fix-shop-your-looks-1.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 610,
+          "title": "How Stitch Fix used AI to personalize its online shopping experience",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
+      "publishedDateTime": "2020-07-05T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -187,6 +336,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire.md",
+      "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
+      "excerpt": "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire/index.json",
+      "webUrl": "https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579500%2Fhand-holding-trophy-sticking-out-of-pile-of-money.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 883,
+          "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
+      "publishedDateTime": "2020-07-05T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1241,187 +1440,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
-      "title": "YouTube Will Let AI Suggest Replies to Video Comments",
-      "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments/index.json",
-      "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tusrvqwjgzwa8v26s2gf.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "YouTube Will Let AI Suggest Replies to Video Comments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
-      "publishedDateTime": "2020-07-02T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships.md",
-      "title": "Congressman raises concerns about Ring’s police partnerships",
-      "excerpt": "Congress is renewing calls for Amazon to answer questions about Ring police department departments as a new report sheds light on them.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships/index.json",
-      "webUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/Ring-Police-Raja-Krishnamoorthi.jpg",
-          "width": 2023,
-          "height": 1012,
-          "title": "Congressman raises concerns about Ring’s police partnerships",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/?amp",
-      "publishedDateTime": "2020-07-02T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-considering-the-american-voice.md",
-      "title": "Considering the American Voice",
-      "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-considering-the-american-voice/index.json",
-      "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Considering the American Voice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
-      "publishedDateTime": "2020-07-02T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round.md",
-      "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
-      "excerpt": "Pactum​, an Estonian-founded AI-based platform that enables companies to automate personalised commercial negotiations, has announced the closing of a USD3 million seed financing round led by Berlin-based​ ​Project A​,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round/index.json",
-      "webUrl": "https://estonianworld.com/business/estonian-ai-based-negotiation-platform-pactum-closes-a-usd3-million-seed-round/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://estonianworld.com/wp-content/uploads/2020/03/Pactum-Chat.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Estonian World",
-        "domain": "estonianworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,310 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact.md",
+      "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
+      "excerpt": "Humanoid robots use artificial intelligence (AI) and the Internet of Things (IoT ... They can even take the lift and reach an employee on another floor, said Chaudhary, adding when they start running out of power, they head straight towards the charging point.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact/index.json",
+      "webUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2020/06/34-1.png",
+          "width": 688,
+          "height": 433,
+          "title": "Jaipur Firm Deploys 7 Humanoid Robots to Help Maintain Social Distancing & Reduce Human Contact",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/jaipur-firm-deploys-7-humanoid-robots-to-help-maintain-social-distancing-reduce-human-contact-4051968/amp/",
+      "publishedDateTime": "2020-06-08T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-hsbc-introduces-index-fund-built-by-ai.md",
+      "title": "HSBC introduces index fund built by AI",
+      "excerpt": "HSBC has built an automated, AI-based algorithm (in partnership with EquBot and IBM Watson) to read millions of data points about 1,000 of the largest publicly traded US companies. Data fed to the algorithm includes everything from press releases and tweets to satellite images of parking lots and the tone and language used during earnings calls.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-hsbc-introduces-index-fund-built-by-ai/index.json",
+      "webUrl": "https://www.techradar.com/news/hsbc-introduces-index-fund-built-by-ai",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/z92LJLnTZjgVkKM3UwYDUR-1200-80.jpg",
+          "width": 1200,
+          "height": 590,
+          "title": "HSBC introduces index fund built by AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/hsbc-introduces-index-fund-built-by-ai",
+      "publishedDateTime": "2020-06-08T00:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots.md",
+      "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+      "excerpt": "Hong Kong, a global financial centre less known for its robotics expertise, will soon have a local start-up join the international race to make more affordable mobile ultraviolet light disinfecting machines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-hong-kong-start-up-roborn-joins-race-to-pioneer-uv-light-disinfecting-robots/index.json",
+      "webUrl": "https://www.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/07/069aa2fc-a740-11ea-8ea0-d7434be00753_image_hires_183701.jpg?itok=FVQZGGuz&v=1591526231",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong start-up Roborn joins race to pioneer UV light disinfecting robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3087921/hong-kong-start-roborn-joins-race-pioneer-uv-light-disinfecting-robots",
+      "publishedDateTime": "2020-06-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes.md",
+      "title": "Artificial intelligence can serve as backup to radiologists' eyes",
+      "excerpt": "The study shows that artificial intelligence (AI ... and there was very little you could do in terms of therapy to help patients,\" he said. Schoepf was a principal investigator in a study looking ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-artificial-intelligence-can-serve-as-backup-to-radiologists-eyes/index.json",
+      "webUrl": "https://www.newkerala.com/news/2020/74321.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Kerala",
+        "domain": "newkerala.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning.md",
+      "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
+      "excerpt": "The latest machine-learning, deep-learning, and workflow automation technology can accelerate interpretation, improve accuracy, and reduce repetition for radiologists and other specialties. The truth is that most departmental picture archiving and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-consider-the-promises-and-challenges-of-medical-image-analyses-using-machine-learning/index.json",
+      "webUrl": "https://www.mddionline.com/radiological/consider-promises-and-challenges-medical-image-analyses-using-machine-learning",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/mri-2813908_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "Consider the Promises and Challenges of Medical Image Analyses Using Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph.md",
+      "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
+      "excerpt": "Source link:",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-media-easyjet-hires-british-ai-business-to-help-it-cut-costs-after-coronavirus-the-telegraph/index.json",
+      "webUrl": "https://www.reuters.com/article/media-easyjet-hires-british-ai-business-idUSL4N2DK0CH",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "MEDIA-EasyJet hires British AI business to help it cut costs after coronavirus - The Telegraph",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2DK0CH",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2DK0CH",
+      "publishedDateTime": "2020-06-07T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see.md",
+      "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
+      "excerpt": "Now, Caltech researchers have combined tools from machine learning and neuroscience to discover that the brain uses a mathematical system to organize visual objects according to their principal components.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-07-caltech-researchers-discover-the-brain-uses-a-mathematical-system-to-organize-what-you-see/index.json",
+      "webUrl": "https://www.pasadenanow.com/main/wp-admin/admin-ajax.php?action=times_process_times_vote&nonce=30f162dd2e&post_id=480727&disabled=true&is_comment=false",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pasadenanow.com/main/wp-content/uploads/2020/06/41586_2020_2350_Fig4_crop.max828.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "Caltech Researchers Discover the Brain Uses a Mathematical System to Organize What You See",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-07T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pasadena Now",
+        "domain": "pasadenanow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-07-the-best-performing-analysts-are-betting-on-these-5-stocks-right-now.md",
       "title": "The best-performing analysts are betting on these 5 stocks right now",
       "excerpt": "As coronavirus restrictions ease and business begins to improve, it could make sense to follow the stock picks of analysts with a proven track record of success. Here we used TipRanks analyst ranking service to pinpoint Wall Street’s best-performing analysts.",
@@ -1036,321 +1340,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances.md",
-      "title": "Coding with R on Amazon SageMaker notebook instances",
-      "excerpt": "Many AWS customers already use the popular open-source statistical computing and graphics software environment R for big data analytics and data science. Amazon SageMaker is a fully managed service that lets you build, train, and deploy machine learning (ML) models quickly. Amazon SageMaker removes the",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-coding-with-r-on-amazon-sagemaker-notebook-instances/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/coding-with-r-on-amazon-sagemaker-notebook-instances/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/04/coding-r-011.gif",
-          "width": 500,
-          "height": 398,
-          "title": "Coding with R on Amazon SageMaker notebook instances",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-05T09:48:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits.md",
-      "title": "Amazon’s new AI technique lets users virtually try on outfits",
-      "excerpt": "In new papers, Amazon researchers propose techniques that let users virtually try on apparel and fine items that complement their wardrobe.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-amazons-new-ai-technique-lets-users-virtually-try-on-outfits/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/254e31ef-d314-45c1-a9c8-fb8d21df459c-e1591374186746.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": "Amazon’s new AI technique lets users virtually try on outfits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/amazons-new-ai-technique-lets-users-virtually-try-on-outfits/amp/",
-      "publishedDateTime": "2020-06-05T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo.md",
-      "title": "Accessing Artificial Intelligence & Robotics: Nasdaq CTA Artificial Intelligence & Robotics Index (NQROBO)",
-      "excerpt": "As we highlighted in the 2018 research note, “Artificial Intelligence & Robotics: Industry Report & Investment Case,” what is most interesting today is the intersection of AI and robotics, where advancements in both fields feed on each other,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-accessing-artificial-intelligence-robotics-nasdaq-cta-artificial-intelligence-robotics-index-nqrobo/index.json",
-      "webUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accessing-artificial-intelligence-robotics%3A-nasdaq-cta-artificial-intelligence-robotics?amp",
-      "publishedDateTime": "2020-06-05T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds.md",
-      "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-      "excerpt": "The IIHS, a non-profit research and education organization, studied more than 5,000 crashes documented by the National Highway Traffic Safety Administration, separating out those caused by “sensing and perceiving” errors such as driver distraction,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/index.json",
-      "webUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda62ecb6ac5c00060e298e%2F0x0.jpg",
-          "width": 1200,
-          "height": 805,
-          "title": "Driverless Cars Won’t Prevent Most Accidents, Insurance Institute Study Finds",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/06/05/driverless-cars-wont-prevent-most-accidents-insurance-institute-study-finds/amp/",
-      "publishedDateTime": "2020-06-05T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases.md",
-      "title": "Here's how a new machine learning software can beef up cloud-based databases",
-      "excerpt": "A Purdue data team just developed a way for organizations to improve performance and efficiency through cloud-hosted databases.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/index.json",
-      "webUrl": "https://www.techrepublic.com/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/30/4498c6d2-249e-43f5-9fdb-d73748c5133c/thumbnail/1200x675/525834390ac0b81774241960fcb96d8e/smb-stack4jpg.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Here's how a new machine learning software can beef up cloud-based databases",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/heres-how-a-new-machine-learning-software-can-beef-up-cloud-based-databases/",
-      "publishedDateTime": "2020-06-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes.md",
-      "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-      "excerpt": "Self-driving cars, long touted by developers as a way to eliminate road deaths, could likely only prevent a third of all U.S. road crashes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-us-crashes/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/16c818_006_d326085-e1575667697958.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IIHS report finds autonomous cars would prevent only ‘a third’ of U.S. crashes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/05/iihs-report-finds-autonomous-cars-would-prevent-only-a-third-of-u-s-crashes/amp/",
-      "publishedDateTime": "2020-06-05T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition.md",
-      "title": "Exxe Group Adds New High Value, High Growth FinTech Acquisition",
-      "excerpt": "Exxe Group, Inc. (OTC PINK: AXXA), a diversified company focused on synergistic acquisitions in digital platforms,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-exxe-group-adds-new-high-value-high-growth-fintech-acquisition/index.json",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16188602/exxe-group-adds-new-high-value-high-growth-fintech-acquisition",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16188602",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16188602",
-      "publishedDateTime": "2020-06-05T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

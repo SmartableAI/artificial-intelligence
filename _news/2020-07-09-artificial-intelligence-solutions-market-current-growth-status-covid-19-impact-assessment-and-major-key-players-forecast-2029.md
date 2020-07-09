@@ -5,7 +5,7 @@ excerpt: "MarketResearch.Biz published a new industry research report “Artific
 publishedDateTime: 2020-07-09T07:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
