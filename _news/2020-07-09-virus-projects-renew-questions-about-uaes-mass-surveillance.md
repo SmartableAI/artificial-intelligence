@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Virus projects renew questions about UAE's mass surveillance"
-excerpt: "Efforts by the United Arab Emirates to fight the coronavirus have renewed questions about mass surveillance in this U.S.-allied federation of seven sheikhdoms."
-publishedDateTime: 2020-07-09T07:15:00Z
-webUrl: "https://www.startribune.com/virus-projects-renew-questions-about-uae-s-mass-surveillance/571686382/"
+excerpt: "But multiplied across the cameras watching public spaces, buses, the driverless Metro ... Dubai police launched a new surveillance camera program powered by artificial intelligence called “Oyoon,” or “Eyes” in Arabic. Police described the project ..."
+publishedDateTime: 2020-07-09T06:38:00Z
+webUrl: "https://www.thetelegraph.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+ampWebUrl: "https://www.thetelegraph.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
-    width: 1680
-    height: 876
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     isCached: true
 
 related:
@@ -36,6 +38,6 @@ related:
       domain: newsobserver.com
     quality: 16
 
-secured: "w6Gv1zfT6hHzOhqEUM3laA8sU6ThRxXRwpzQr/qzxemuqstSbnde0nD+oXZdx0Ro8Oa1kDB/asMAvcAi25/m1q+cAHiYt+v8jkTZSf7Tc4Ym1DHn8HUuFfmJu10iRRuzx4j9y6R7Otu9XslGdnie9r66hUo26dBxtiaXMpcwBKFIz8dSeyna0fA5vvj4TvnZmWN5NM8Zs+DOZZaovR4zdH6SQMEyXr8tSJmqv7xhNBSQ5glQ9TPECznOEut/ZYfQjEWpM4+mD9/EvBw9gQ61z7vBxJmE16MhR72Zf7Yc5m06VT7M/lOzbGxdRB/trXV0r4llK0+Z4grpfKhpqKGblQ==;1MV/brSucHpg9zYnZ7GT9A=="
+secured: "jRwKMwBWuNHR0SG7PuT6H9h4qY8uEw8C6o0nD5Vq59JHPwlIHC4YlokqAoGowDvHUIiNKxC4y9YxUeB30BVX121fDjrdALDICEufabsZK8qBE6KIxP7TZKYcgvqmtxvIQ+hnIDNS8yXw5zKyijIF2S/cIu9+IqcKFagNjnfsV82Ym3vNU3B7vVu3tBUyhW2VET0zuotC7+oCGhDjv4mlr9kFdPzO350Zgld3A7ZlFGWd44t3Cm9TGhafKCM81+yO20mxw+yvXbWQ00Fqr6TN3hlOYACjKTLKW8he+lv/RgObBGSoamVWw78QgJ4mCzTUc46PE6SZSy9OFq26fGjlnQ==;f6UfPQwcPcA10fnLpt4YFg=="
 ---
 

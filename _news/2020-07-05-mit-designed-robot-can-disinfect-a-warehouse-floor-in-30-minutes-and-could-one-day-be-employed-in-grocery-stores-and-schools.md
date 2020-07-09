@@ -75,22 +75,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
-    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour,"
-    publishedDateTime: 2020-07-04T17:10:00Z
-    webUrl: "https://wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
-    ampWebUrl: "https://wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 31
-    images:
-      - url: "https://sunbeamwsvn.files.wordpress.com/2020/07/hypatia-h_0d8ab0534ae9e50b31a5f0507e989d51-h_a18d5f229e9f4a76a650c463d3408b52.jpg?quality=60&strip=color&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "YX092dBUsDaRieAtelNRjXqFn2/atTMy6ec7zQ3J26RyM/C3hF8DQtL9RqJBWuUwn8uMi0HopbPqcXQcXnQCFJcAIj0fN72LItj+RdeRIT7E4BPP2+B7WDBejTPQv2MvgKbaoM0SmLPJucb8rf0fMbhpaAcFkpnQOkOyA5OpxMeVdqWSHxYt1fmYoGNGlWUVU0uZSfCCvtElUu5fLwo0x0Zwd5366Ih7p02bUmIQTO4U/xulNNbQY55g3Ix5K7MQEL6Kx5+RU68S3ovTseQ6b6H1QyP9e0U3inJLFgvTvjnNHmuhlu7IrqaWo4mK581o94XP4757+AyBvFgpxGXGpg==;v3NpU6PHS/wVFOJGWfkvHQ=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-c
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/07/mit-cleaning-robot.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes — and could one day be employed in grocery stores and schools"
-    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour,"
-    publishedDateTime: 2020-07-04T17:10:00Z
-    webUrl: "https://wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/"
-    ampWebUrl: "https://wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/amp/"
-    cdnAmpWebUrl: "https://wsvn-com.cdn.ampproject.org/c/s/wsvn.com/news/us-world/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes-and-could-one-day-be-employed-in-grocery-stores-and-schools/amp/"
-    type: article
-    provider:
-      name: 7News Miami
-      domain: wsvn.com
-    quality: 31
-    images:
-      - url: "https://sunbeamwsvn.files.wordpress.com/2020/07/hypatia-h_0d8ab0534ae9e50b31a5f0507e989d51-h_a18d5f229e9f4a76a650c463d3408b52.jpg?quality=60&strip=color&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "MIT-designed robot can disinfect a warehouse floor in 30 minutes -- and could one day be employed in grocery stores and schools"
     excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour, and it could one day be used to"

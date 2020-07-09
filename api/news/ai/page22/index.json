@@ -2,6 +2,280 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
+      "title": "Businesses put AI innovation on hold to avoid public backlash",
+      "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash/index.json",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815804/itpro/2017/05/sad_robot_ai.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Businesses put AI innovation on hold to avoid public backlash",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
+      "publishedDateTime": "2020-06-18T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projected-to-hold-a-massive-impact-on-sales-in-2020.md",
+      "title": "Artificial Intelligence In Healthcare Market Forecast Revised in a New FMI Report as COVID-19 Projected to Hold a Massive Impact on Sales in 2020",
+      "excerpt": "An ongoing study of the research analysts at Future Market Insights (FMI), offers a thorough quantitative and qualitative assessment of the Artificial Intelligence In Healthcare market along with easy to grasp tables, graphs, and figures. The Coronavirus ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projected-to-hold-a-massive-impact-on-sales-in-2020/index.json",
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-06-18/artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projec",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
+      "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+      "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties/index.json",
+      "webUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5eeab8bef435e6f478b289f5/master/pass/business_baidu_1211912901.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-breaks-ai-alliance-strained-us-china-ties/amp",
+      "publishedDateTime": "2020-06-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai.md",
+      "title": "SAS, Microsoft partner to further shape future of analytics and AI",
+      "excerpt": "Microsoft Corporation and SAS today announced an extensive technology and go-to-market strategic partnership. The two companies will enable customers to easily run their SAS workloads in the cloud, expanding their business solutions and unlocking critical value from their digital transformation initiatives.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-sas-microsoft-partner-to-further-shape-future-of-analytics-and-ai/index.json",
+      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzEAzqLEew",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/k-KrNcDkdz_xM9SDHP5O4k9y9X152gcmWw7DNu7IR_QQRsB5vwbWfcT-f09xWshd5LkFrDfwd6SHQda5Zq9D-lk=w400-h312-c",
+          "width": 400,
+          "height": 312,
+          "title": "SAS, Microsoft partner to further shape future of analytics and AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/KBpdg7pzEAzqLEew",
+      "publishedDateTime": "2020-06-18T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr.md",
+      "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+      "excerpt": "At leading computer vision gathering Conference on Computer Vision and Pattern Recognition, Chinese researchers were behind both papers recognised as the best appearing at the event.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-chinese-ai-researchers-based-overseas-sweep-top-awards-at-leading-computer-vision-conference-cvpr/index.json",
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/18/63f0548c-b132-11ea-953d-a7ecc5cbd229_image_hires_172720.jpg?itok=iSVdn0JI&v=1592472448",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese AI researchers based overseas sweep top awards at leading computer vision conference CVPR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3089570/chinese-ai-researchers-based-overseas-sweep-top-awards",
+      "publishedDateTime": "2020-06-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks.md",
+      "title": "Everything you need to know about recurrent neural networks",
+      "excerpt": "The human mind has different mechanisms for processing individual pieces of information and sequences. For instance, we have a definition of the word “like.” But we also know that how “like” is used in a sentence depends on the words that come before and after it.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-everything-you-need-to-know-about-recurrent-neural-networks/index.json",
+      "webUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/1-copy-4-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Everything you need to know about recurrent neural networks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/18/everything-you-need-to-know-about-recurrent-neural-networks/amp/",
+      "publishedDateTime": "2020-06-18T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-sas-and-microsoft-partner-to-democratise-ai-and-analytics.md",
       "title": "SAS and Microsoft Partner to Democratise AI and Analytics",
       "excerpt": "The companies say that this partnership builds on SAS integrations across Microsoft cloud solutions for Azure, Dynamics 365, Microsoft 365 and Power Platform and supports their shared vision to further democratise AI and analytics. “Through this ...",
@@ -1068,296 +1342,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
-      "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
-      "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/index.json",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea2e846ef66b00061154d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
-      "publishedDateTime": "2020-06-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now.md",
-      "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
-      "excerpt": "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now/index.json",
-      "webUrl": "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/qualgage.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/",
-      "publishedDateTime": "2020-06-17T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream.md",
-      "title": "Microsoft CTO Kevin Scott Believes Artificial Intelligence Will Help Reprogram The American Dream",
-      "excerpt": "Kevin Scott's interest in technology as a boy lit a spark that would take him from rural Virginia to key roles at Google and LinkedIn before joining Microsoft as its chief technology officer. Now, he wants to inspire kids who are like he was to pursue their dreams in their own communities.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/index.json",
-      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F56f01e86911147c6a03e3f0ffcffb8e2%2F0x0.jpg",
-          "width": 1200,
-          "height": 778,
-          "title": "Microsoft CTO Kevin Scott Believes Artificial Intelligence Will Help Reprogram The American Dream",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/amp/",
-      "publishedDateTime": "2020-06-17T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-ai-risks-and-covid-19-five-lessons-managers-need-to-address.md",
-      "title": "AI Risks And Covid-19: Five Lessons Managers Need To Address",
-      "excerpt": "In order for AI to live up to its potential, its risks must be visible and actively managed. This article provides five actionable advice for managers to do so effectively at this pivotal movement.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-ai-risks-and-covid-19-five-lessons-managers-need-to-address/index.json",
-      "webUrl": "https://www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea1ea46ef66b000611542e%2F0x0.jpg",
-          "width": 1000,
-          "height": 417,
-          "title": "AI Risks And Covid-19: Five Lessons Managers Need To Address",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/amp/",
-      "publishedDateTime": "2020-06-17T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
-      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/index.json",
-      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "publishedDateTime": "2020-06-17T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
-      "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
-      "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform/index.json",
-      "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
-      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
-      "publishedDateTime": "2020-06-17T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

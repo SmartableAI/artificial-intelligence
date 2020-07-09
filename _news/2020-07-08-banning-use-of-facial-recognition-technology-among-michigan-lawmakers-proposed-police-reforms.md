@@ -109,20 +109,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
-    excerpt: "(Reuters) - Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI. The investigation will be ..."
-    publishedDateTime: 2020-07-09T09:13:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/07/09/technology/09reuters-clearview-ai-investigation.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 80
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -233,6 +219,22 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
+    excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
+    publishedDateTime: 2020-07-09T10:19:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 59
+    images:
+      - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
     publishedDateTime: 2020-07-08T16:14:00Z
@@ -290,6 +292,17 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Clearview AI faces ICO investigation over facial recognition"
+    excerpt: "Clearview AI, the controversial facial recognition technology company, is to face a joint investigation by the UK’s Information Commissioner’s Office (ICO) and the Office of the Australian Information Commissioner (OAIC) focusing on its alleged use of ..."
+    publishedDateTime: 2020-07-09T11:42:00Z
+    webUrl: "https://www.computerweekly.com/news/252485913/Clearview-AI-faces-ICO-investigation-over-facial-recognition"
+    ampWebUrl: "https://www.computerweekly.com/news/252485913/Clearview-AI-faces-ICO-investigation-over-facial-recognition?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252485913/Clearview-AI-faces-ICO-investigation-over-facial-recognition?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "Clearview AI to end facial-recognition services in Canada, privacy commissioner says"
     excerpt: "Clearview AI’s technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people"
     publishedDateTime: 2020-07-06T19:31:00Z
@@ -316,6 +329,17 @@ related:
     provider:
       name: Global News
       domain: globalnews.ca
+    quality: 49
+  - title: "Facial recognition firm Clearview AI probed by U.K., Australia for privacy issues"
+    excerpt: "Britain’s data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI. The investigation will be conducted ..."
+    publishedDateTime: 2020-07-09T11:00:00Z
+    webUrl: "https://www.theglobeandmail.com/business/international-business/european-business/article-facial-recognition-firm-clearview-ai-probed-by-uk-australia-for/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/business/international-business/european-business/article-facial-recognition-firm-clearview-ai-probed-by-uk-australia-for/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/international-business/european-business/article-facial-recognition-firm-clearview-ai-probed-by-uk-australia-for/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 49
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
@@ -442,6 +466,15 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "Global Privacy Regulators Probe Facial Recognition Firm Clearview AI"
+    excerpt: "The privacy regulators of the UK and Australia have announced a joint investigation into controversial facial recognition firm Clearview AI. “The Office of the Australian ... York Times report claimed that the startup had scraped as many as three billion ..."
+    publishedDateTime: 2020-07-09T11:05:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/uk-aussie-privacy-regulators/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 34
   - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
     excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
     publishedDateTime: 2020-07-07T00:33:00Z
@@ -487,20 +520,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
-  - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
-    excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
-    publishedDateTime: 2020-07-09T07:15:00Z
-    webUrl: "https://www.pr.com/press-release/816384"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 15
-    images:
-      - url: "https://img.pr.com/release/2007/100128/pressrelease_original_100128_1594134685.png"
-        width: 2321
-        height: 798
-        isCached: true
 
 secured: "ltmBrYpX/ocGu/vayC1vsFMHSZrh0AA8CI02fYn+c2+Kpq0MWi7J20sxTWsZFqGq/cQ2zNXFxAeIeb0/djFqsIY0w8Ay1iF2KmRP68bASo1n8gwpBo5xiBsTxxc6rLPKqbo5jgwkIWdlTeQyh8uOGcvR4rxGfk7qewXHKouBa4HhtY9KIiK2r//MBzhfzgb6xvraHYOaP6IS+cIK42VJvbS0lYu0vHbpK81REef817pRdFdhBcTop3X84V+eHUDD6iFFGFtfxGh162O+KUMbeCKHuDu6jXaR6+WMC/8lOxnskF8ZKHfwVEeS21R0X95qTyzw1wDp2p2AX9XEjdVOsJP0zz8X0RGzJ/D+cy+1jJvcyAY7+yANsAFvyucK4pVccQmXAjuLX9WW1iiUpHoTPW2SDnvzTfis0VouvRVdzOE0by0JawR41R06vh7WZ7v4yFTteCX6IOeUgVSupBlT8ckVTh0cAmKjMg0TpeQhe1uZGZFkAEslzJufrRA6ZV+9nAfw21/KNZVrNHSlOF+gzg==;8+XN42jdawjwa3bJJcbR8Q=="
 ---

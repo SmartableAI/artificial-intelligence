@@ -2,6 +2,277 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations.md",
+      "title": "How AI Helps Digital Enterprises Streamline Operations",
+      "excerpt": "Artificial intelligence (AI) is transforming how enterprises analyze and process information. It is also shifting from theoretical to real-world technology. Companies are deploying AI technologies to boost efficiency, reduce costs, and grow sales and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations/index.json",
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180902197%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How AI Helps Digital Enterprises Streamline Operations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/",
+      "publishedDateTime": "2020-07-02T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-new-technique-keeps-your-online-photos-safe-from-facial-recognition-algorithms.md",
+      "title": "New technique keeps your online photos safe from facial recognition algorithms",
+      "excerpt": "A new solution enables the best of both worlds as users can still post their photos online safe from the prying eye of algorithms.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-new-technique-keeps-your-online-photos-safe-from-facial-recognition-algorithms/index.json",
+      "webUrl": "https://www.helpnetsecurity.com/2020/07/03/online-photos-safe-from-facial-recognition-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.helpnetsecurity.com/posts2020/photos_online_algorithm.jpg",
+          "width": 650,
+          "height": 363,
+          "title": "New technique keeps your online photos safe from facial recognition algorithms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T21:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
+      "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+      "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments/index.json",
+      "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tusrvqwjgzwa8v26s2gf.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "YouTube Will Let AI Suggest Replies to Video Comments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
+      "publishedDateTime": "2020-07-02T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships.md",
+      "title": "Congressman raises concerns about Ring’s police partnerships",
+      "excerpt": "Congress is renewing calls for Amazon to answer questions about Ring police department departments as a new report sheds light on them.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships/index.json",
+      "webUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/Ring-Police-Raja-Krishnamoorthi.jpg",
+          "width": 2023,
+          "height": 1012,
+          "title": "Congressman raises concerns about Ring’s police partnerships",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/?amp",
+      "publishedDateTime": "2020-07-02T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-considering-the-american-voice.md",
+      "title": "Considering the American Voice",
+      "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-considering-the-american-voice/index.json",
+      "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Considering the American Voice",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.amp.html",
+      "publishedDateTime": "2020-07-02T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round.md",
+      "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
+      "excerpt": "Pactum​, an Estonian-founded AI-based platform that enables companies to automate personalised commercial negotiations, has announced the closing of a USD3 million seed financing round led by Berlin-based​ ​Project A​,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round/index.json",
+      "webUrl": "https://estonianworld.com/business/estonian-ai-based-negotiation-platform-pactum-closes-a-usd3-million-seed-round/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://estonianworld.com/wp-content/uploads/2020/03/Pactum-Chat.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T13:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Estonian World",
+        "domain": "estonianworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai.md",
       "title": "Researchers are gathering South African news headlines to power AI",
       "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
@@ -577,6 +848,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
+      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome/index.json",
+      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Kcrg  9",
+        "domain": "kcrg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
       "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
       "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
@@ -604,47 +916,6 @@
       "provider": {
         "name": "The Hill",
         "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
-      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome/index.json",
-      "webUrl": "https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/-9mhd7WYkzCd_Y6us-vAvgmHk10=/980x0/smart/do0bihdskp9dy.cloudfront.net/07-02-2020/t_7270d4baba5747188da181af51e21332_name_file_1920x1080_5400_v4_.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Eye doctors getting more calls about Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC Kcrg  9",
-        "domain": "kcrg.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -907,307 +1178,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-course-40530-g-microsoft-cloud-workshop-cognitive-services-and-deep-learning.md",
-      "title": "Course 40530-G: Microsoft Cloud Workshop: Cognitive Services and Deep Learning",
-      "excerpt": "In this workshop, you will learn to combine both pre-built artificial intelligence (AI) (in the form of various Cognitive Services) with custom AI (in the form of services built and deployed with Azure Machine Learning services).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-course-40530-g-microsoft-cloud-workshop-cognitive-services-and-deep-learning/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/courses/40530",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Course 40530-G: Microsoft Cloud Workshop: Cognitive Services and Deep Learning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-use-azure-machine-learning-with-the-fairlearn-open-source-package-to-assess-the-fairness-of-ml-models.md",
-      "title": "Use Azure Machine Learning with the Fairlearn open-source package to assess the fairness of ML models",
-      "excerpt": "In this how-to guide, you will learn to use the Fairlearn open-source Python package with Azure Machine Learning to perform the following tasks: Assess the fairness of your model predictions. To learn more about fairness in machine learning,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-use-azure-machine-learning-with-the-fairlearn-open-source-package-to-assess-the-fairness-of-ml-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-fairness-aml",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Use Azure Machine Learning with the Fairlearn open-source package to assess the fairness of ML models",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T14:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-2019-q4-recipients-of-aws-machine-learning-research-awards.md",
-      "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
-      "excerpt": "The AWS Machine Learning Research Awards (MLRA) aims to advance machine learning (ML) by funding innovative research and open-source projects, training students, and providing researchers with access to the latest technology. Since 2017, MLRA has supported over 180 research projects from 73 schools and",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-2019-q4-recipients-of-aws-machine-learning-research-awards/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/2019-q4-recipients-of-aws-machine-learning-research-awards/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T13:05:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow.md",
-      "title": "Cisco uses Amazon SageMaker and Kubeflow to create a hybrid machine learning workflow",
-      "excerpt": "This is a guest post from members of Cisco’s AI/ML best practices team, including Technical Product Manager Elvira Dzhuraeva, Distinguished Engineer Debo Dutta, and Principal Engineer Amit Saha. Cisco is a large enterprise company that applies machine learning (ML) and artificial intelligence (AI) across",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/30/cisco-sagemaker-1.jpg",
-          "width": 1000,
-          "height": 446,
-          "title": "Cisco uses Amazon SageMaker and Kubeflow to create a hybrid machine learning workflow",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T12:22:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-elon-musk-stays-true-to-his-word-tesla-raises-full-self-driving-price-to-8000.md",
-      "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
-      "excerpt": "Keeping consistent with what Elon Musk had suggested in May, Tesla (NASDAQ:TSLA) announced today that the cost for the full self-driving (FSD) package is now $8,000 -- a $1,000 in",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-elon-musk-stays-true-to-his-word-tesla-raises-full-self-driving-price-to-8000/index.json",
-      "webUrl": "https://www.fool.com/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580713%2Fmodel3-interior.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 698,
-          "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
-      "publishedDateTime": "2020-07-01T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube.md",
-      "title": "Google brings its AI-powered SmartReply feature to YouTube",
-      "excerpt": "Google’s SmartReply, the four-year old, A.I.-based technology that helps suggest responses to messages in Gmail, Android’s Messages, Play Developer Console, and elsewhere, is now being made available to YouTube Creators.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube/index.json",
-      "webUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": "Google brings its AI-powered SmartReply feature to YouTube",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "publishedDateTime": "2020-07-01T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

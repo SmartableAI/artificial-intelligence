@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/</loc>
+    <lastmod>2020-07-09T04:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx</loc>
+    <lastmod>2020-07-09T04:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html</loc>
+    <lastmod>2020-07-09T04:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/21317055/robot-coronavirus-hospital-pandemic-help-automation</loc>
+    <lastmod>2020-07-09T04:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between</loc>
     <lastmod>2020-07-09T02:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -73,8 +97,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud</loc>
-    <lastmod>2020-07-08T11:06:00-07:00</lastmod>
+    <loc>https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud</loc>
+    <lastmod>2020-07-08T10:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -93,6 +117,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/</loc>
     <lastmod>2020-07-08T09:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588</loc>
+    <lastmod>2020-07-08T09:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -541,6 +571,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/self-driving-car-market-size-outlook-trend-and-forecast-2020-2024-2020-07-06</loc>
+    <lastmod>2020-07-06T00:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.digitimes.com/news/a20200706PD207.html</loc>
     <lastmod>2020-07-05T23:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -823,14 +859,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition</loc>
-    <lastmod>2020-07-02T04:00:00-07:00</lastmod>
+    <loc>https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/</loc>
+    <lastmod>2020-07-02T04:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/</loc>
-    <lastmod>2020-07-02T03:44:00-07:00</lastmod>
+    <loc>https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition</loc>
+    <lastmod>2020-07-02T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

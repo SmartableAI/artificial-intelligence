@@ -21,18 +21,20 @@ topics:
 
 related:
   - title: "Virus projects renew questions about UAE's mass surveillance"
-    excerpt: "Efforts by the United Arab Emirates to fight the coronavirus have renewed questions about mass surveillance in this U.S.-allied federation of seven sheikhdoms."
-    publishedDateTime: 2020-07-09T07:15:00Z
-    webUrl: "https://www.startribune.com/virus-projects-renew-questions-about-uae-s-mass-surveillance/571686382/"
+    excerpt: "But multiplied across the cameras watching public spaces, buses, the driverless Metro ... Dubai police launched a new surveillance camera program powered by artificial intelligence called “Oyoon,” or “Eyes” in Arabic. Police described the project ..."
+    publishedDateTime: 2020-07-09T06:38:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
     type: article
     provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 24
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 44
     images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
-        width: 1680
-        height: 876
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
         isCached: true
 
 secured: "KiR1eNNowSHwvEJuzO4t4us9y0zbykZ8WWuXAzSbm6PchW2pwlfkrWkNvhxfTcDp6rOHBlDYU/c2Lb/tlnXbrBAFtXUMQOrD+LRZn+RwrW1GLLiWfu/Zy9dyf569jM6TFbMXKYo3MMlw3pA/oHjf4cpLoFvGESdsV/Yw1gjoEfoU6J11S2l1H4ewLrzyl+uwqyiN/2KG/KT+Q/F7vDOMeyPSZZuvo+M2XNYLJlOlv1n+BH4PP8nBPQ7JQnlMRALEDAJY1cwYwTLXjUFALby6tFo/2qh8mG63N2RNoYb7rAvnSBIZI3tn16YfcYTdTdHsNIWir+he8+Dc24+Gyer1iQ==;n4sDkqMqkV9MBbPTjXmGgQ=="

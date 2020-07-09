@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SkyWatch.AI launches a revamped drone insurance platform with the help of Google for Startups"
+    excerpt: "SkyWatch.AI’s policies are underwritten by STARR Indemnity & Liability Company, the largest aviation insurer in North America. (“A”, excellent rating by A.M. best). Startup Growth Lab is Google’s exclusive program for Israel’s promising B2C and ..."
+    publishedDateTime: 2020-07-09T10:06:00Z
+    webUrl: "https://www.suasnews.com/2020/07/skywatch-ai-launches-a-revamped-drone-insurance-platform-with-the-help-of-google-for-startups/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 26
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/07/Skywatch2-640x300-1.jpg?fit=640%2C300&#038;ssl=1"
+        width: 640
+        height: 300
+        isCached: true
   - title: "Fintech Galaxy launches open API platform"
     excerpt: "Fintech Galaxy, the UAE-based cross-border fintech marketplace and innovation crowdsourcing platform, announced today that it has launched FinX22, its cloud-based open Innovation platform that aims at driving collaboration,"
     publishedDateTime: 2020-07-07T13:15:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-08T16:06:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Business Insider
@@ -23,6 +23,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Imec and GLOBALFOUNDRIES announce AI chip breakthrough"
+    excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."
+    publishedDateTime: 2020-07-09T10:07:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices"
     excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."
     publishedDateTime: 2020-07-09T06:43:00Z

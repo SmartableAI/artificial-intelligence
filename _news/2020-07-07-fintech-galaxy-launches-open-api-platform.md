@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SkyWatch.AI launches a revamped drone insurance platform with the help of Google for Startups"
+    excerpt: "SkyWatch.AI’s policies are underwritten by STARR Indemnity & Liability Company, the largest aviation insurer in North America. (“A”, excellent rating by A.M. best). Startup Growth Lab is Google’s exclusive program for Israel’s promising B2C and ..."
+    publishedDateTime: 2020-07-09T10:06:00Z
+    webUrl: "https://www.suasnews.com/2020/07/skywatch-ai-launches-a-revamped-drone-insurance-platform-with-the-help-of-google-for-startups/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 26
+    images:
+      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/07/Skywatch2-640x300-1.jpg?fit=640%2C300&#038;ssl=1"
+        width: 640
+        height: 300
+        isCached: true
   - title: "dotData Launches New Platform to Meet Demand for Real-Time Prediction Capabilities"
     excerpt: "Data, a provider of full-cycle data science automation and operationalization for the enterprise, is releasing dotData Stream, a new containerized AI/ML model that enables real-time predictive capabilities for dotData users."
     publishedDateTime: 2020-07-07T14:26:00Z

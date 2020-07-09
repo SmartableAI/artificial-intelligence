@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.ibb.co/2nPGGcj/1.png"

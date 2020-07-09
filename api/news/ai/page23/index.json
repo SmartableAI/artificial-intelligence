@@ -2,6 +2,296 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
+      "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
+      "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/index.json",
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea2e846ef66b00061154d4%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
+      "publishedDateTime": "2020-06-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now.md",
+      "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
+      "excerpt": "Qualcomm revealed the “world’s first 5G and AI-enabled robotics platform” in the Qualcomm Robotics RB5 platform. Qualcomm is basically the biggest brand in the tech",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now/index.json",
+      "webUrl": "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/qualgage.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Qualcomm Robotics RB5 5G AI robots on pre-order now",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/qualcomm-robotics-rb5-5g-ai-robots-on-pre-order-now-17625259/amp/",
+      "publishedDateTime": "2020-06-17T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream.md",
+      "title": "Microsoft CTO Kevin Scott Believes Artificial Intelligence Will Help Reprogram The American Dream",
+      "excerpt": "Kevin Scott's interest in technology as a boy lit a spark that would take him from rural Virginia to key roles at Google and LinkedIn before joining Microsoft as its chief technology officer. Now, he wants to inspire kids who are like he was to pursue their dreams in their own communities.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/index.json",
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F56f01e86911147c6a03e3f0ffcffb8e2%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "Microsoft CTO Kevin Scott Believes Artificial Intelligence Will Help Reprogram The American Dream",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/06/17/microsoft-cto-kevin-scott-believes-artificial-intelligence-will-help-reprogram-the-american-dream/amp/",
+      "publishedDateTime": "2020-06-17T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-ai-risks-and-covid-19-five-lessons-managers-need-to-address.md",
+      "title": "AI Risks And Covid-19: Five Lessons Managers Need To Address",
+      "excerpt": "In order for AI to live up to its potential, its risks must be visible and actively managed. This article provides five actionable advice for managers to do so effectively at this pivotal movement.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-ai-risks-and-covid-19-five-lessons-managers-need-to-address/index.json",
+      "webUrl": "https://www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea1ea46ef66b000611542e%2F0x0.jpg",
+          "width": 1000,
+          "height": 417,
+          "title": "AI Risks And Covid-19: Five Lessons Managers Need To Address",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hecparis/2020/06/17/ai-risks-and-covid-19-five-lessons-managers-need-to-address/amp/",
+      "publishedDateTime": "2020-06-17T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
+      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
+      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/index.json",
+      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
+      "publishedDateTime": "2020-06-17T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform.md",
+      "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
+      "excerpt": "New York-based global fintech firm Broadridge today announced that its new AI-driven corporate bond trading platform, LTX®, has executed its first trades.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-broadridge-executes-first-trades-on-ai-driven-digital-platform/index.json",
+      "webUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2016/01/New-York.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Broadridge Executes First Trades on AI-Driven Digital Platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/broadridge-executes-first-trades-on-ai-driven-digital-platform/amp/",
+      "publishedDateTime": "2020-06-17T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-mit-researchers-train-ai-to-predict-how-humans-paint-works-of-art.md",
       "title": "MIT researchers train AI to predict how humans paint works of art",
       "excerpt": "MIT researchers created an AI model that generates time-lapse videos to predict how people paint still life and landscape art.",
@@ -1105,287 +1395,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients.md",
-      "title": "La Trobe University uses AI to bring mental health care to cancer patients",
-      "excerpt": "The Centre for Data Analytics and Cognition (CDAC) at La Trobe University has teamed up with international cancer researchers to develop an artificial intelligence patient-reported information multidimensional framework (PRIME) to detect and analyse a patient's mental health status while undergoing cancer treatment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/index.json",
-      "webUrl": "https://www.zdnet.com/article/la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/02/5b7a98a9-03a4-4b53-9771-c390083c37d4/thumbnail/1200x675/6843fb088aff4035b00e740cea97a5d8/mammogram.png",
-          "width": 1200,
-          "height": 675,
-          "title": "La Trobe University uses AI to bring mental health care to cancer patients",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/la-trobe-university-uses-ai-to-bring-mental-health-care-to-cancer-patients/",
-      "publishedDateTime": "2020-06-16T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-accuray-launches-new-cyberknife-s7-system.md",
-      "title": "Accuray Launches New CyberKnife® S7™ System",
-      "excerpt": "and real-time artificial intelligence (AI)-driven motion tracking and synchronization treatment delivery for all stereotactic radiosurgery (SRS) and stereotactic body radiation therapy (SBRT) ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-accuray-launches-new-cyberknife-s7-system/index.json",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/accuray-launches-new-cyberknife-s7-system-1029316799",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accuray-launches-new-cyberknife-s7-system-1029316799",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accuray-launches-new-cyberknife-s7-system-1029316799",
-      "publishedDateTime": "2020-06-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-bot-services-market-to-watch-spotlight-on-microsoft-ibm-facebook-google-aws-nuance-communications.md",
-      "title": "Bot Services Market to Watch: Spotlight on Microsoft, IBM, Facebook, Google, AWS, Nuance Communications",
-      "excerpt": "A latest survey on Global Bot Services Market is conducted to provide hidden gems performance analysis. The study is a perfect mix of qualitative and quantitative information covering market size breakdown of revenue and volume (if applicable) by important segments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-bot-services-market-to-watch-spotlight-on-microsoft-ibm-facebook-google-aws-nuance-communications/index.json",
-      "webUrl": "https://www.bignewsnetwork.com/news/265476439/bot-services-market-to-watch-spotlight-on-microsoft-ibm-facebook-google-aws-nuance-communications",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/voa1593009314.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Bot Services Market to Watch: Spotlight on Microsoft, IBM, Facebook, Google, AWS, Nuance Communications",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend.md",
-      "title": "Detecting and visualizing telecom network outages from tweets with Amazon Comprehend",
-      "excerpt": "In today’s world, social media has become a place where customers share their experiences with services that they consume. Every telecom provider wants to have the ability to understand their customer pain points as soon as possible and to do this carriers frequently establish a social media team within",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-visualizing-telecom-network-outages-from-tweets-with-amazon-comprehend/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/09/image001-971x630.jpg",
-          "width": 971,
-          "height": 630,
-          "title": "Detecting and visualizing telecom network outages from tweets with Amazon Comprehend",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T12:22:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020.md",
-      "title": "72 hours left to apply to Startup Battlefield at Disrupt 2020",
-      "excerpt": "Want to launch your early-stage startup in front of the largest Disrupt audience in history? The opportunity clock is ticking, and you have just 72 hours left for a chance to compete head-to-head against top startups from around the world at Disrupt 2020.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-455232588.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "72 hours left to apply to Startup Battlefield at Disrupt 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/16/72-hours-left-to-apply-to-startup-battlefield-at-disrupt-2020/amp/",
-      "publishedDateTime": "2020-06-16T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-amazon-polly-launches-a-child-us-english-ntts-voice.md",
-      "title": "Amazon Polly launches a child US English NTTS voice",
-      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create voice-enabled applications. We’re excited to announce the general availability of a new US English child voice—Kevin. Kevin’s voice was developed using the latest Neural Text-to-Speech (NTTS) technology, making it sound natural and",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-amazon-polly-launches-a-child-us-english-ntts-voice/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-polly-launches-a-child-us-english-ntts-voice/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Amazon Polly launches a child US English NTTS voice",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-16T11:03:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

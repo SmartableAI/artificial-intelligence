@@ -2,6 +2,294 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027.md",
+      "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
+      "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics.md",
+      "title": "KT to invest $41 million into Hyundai Robotics",
+      "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics/index.json",
+      "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/25/f7e0bf06-4c68-4d88-8aa1-06f0e1dc872c/thumbnail/1200x675/6c7c37cb3b8e3da953320ca4b312fa17/kt-deploys-5g-autonomous-carts-at-wareho-5ecb0926e468b746804e73bb-1-may-25-2020-24-47-54-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "KT to invest $41 million into Hyundai Robotics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
+      "publishedDateTime": "2020-06-15T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems.md",
+      "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
+      "excerpt": "Artificial intelligence is one technology the pair will be using to look at challenges such as illegal fishing and plastic waste, and to boost farming in Australia.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/index.json",
+      "webUrl": "https://www.zdnet.com/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/06/16/9661d050-0c11-4767-a7ae-3c29bd3d17c5/storm-water-and-litter.jpg",
+          "width": 728,
+          "height": 570,
+          "title": "CSIRO and Microsoft to use AI to tackle man-made environmental problems",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/csiro-and-microsoft-to-use-ai-to-tackle-man-made-environmental-problems/",
+      "publishedDateTime": "2020-06-15T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-ai-and-the-rise-of-proactive-it.md",
+      "title": "AI And The Rise Of Proactive IT",
+      "excerpt": "Zero impact, zero touch IT delivery used to be the stuff of fairy tales. With AIOps, it’s closer than you think.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-ai-and-the-rise-of-proactive-it/index.json",
+      "webUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/06/15/ai-and-the-rise-of-proactive-it/amp/",
+      "publishedDateTime": "2020-06-15T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1.md",
+      "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+      "excerpt": "Stockwell AI entered the world with a bang but it is leaving with a whimper. Founded in 2017 by ex-Googlers, the AI vending machine startup formerly known as Bodega first raised blood pressures — people hated how it referenced and poorly ‘disrupted’ mom-and-pop shops in one fell",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/index.json",
+      "webUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/stockwell-bodega.jpg?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Stockwell, the AI-vending machine startup formerly known as Bodega, is shutting down July 1",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/15/stockwell-the-ai-vending-machine-startup-formerly-known-as-bodega-is-shutting-down-july-1/amp/",
+      "publishedDateTime": "2020-06-15T17:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-16-company-boards-arent-ready-for-the-ai-revolution.md",
+      "title": "Company boards aren't ready for the AI revolution",
+      "excerpt": "Bolt-on solutions don’t make an AI strategy. My second piece of advice to boards is that they should urgently develop and then monitor strong ethics guidelines for the use of AI and Big Data in their enterprise. That’s especially important now ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-company-boards-arent-ready-for-the-ai-revolution/index.json",
+      "webUrl": "https://www.techradar.com/in/news/company-boards-arent-ready-for-the-ai-revolution",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Company boards aren't ready for the AI revolution",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/company-boards-arent-ready-for-the-ai-revolution",
+      "publishedDateTime": "2020-06-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-16-artificial-intelligence-could-be-used-to-track-invasive-species.md",
       "title": "Artificial intelligence could be used to track invasive species",
       "excerpt": "Scientists are developing artificial intelligence that can track invasive species in the latest tool in the battle against Japanese knotweed and ash dieback. A team from the UK Centre for Ecology and Hydrology and Keen AI,",
@@ -886,271 +1174,6 @@
         "AI",
         "IBM AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing.md",
-      "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
-      "excerpt": "Spiking neural networks and in-memory computing are both promising routes towards energy-efficient hardware for deep learning. Woźniak et al. incorporate the biologically inspired dynamics of spiking neurons into conventional recurrent neural network units and in-memory computing,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-deep-learning-incorporating-biologically-inspired-neural-dynamics-and-in-memory-computing/index.json",
-      "webUrl": "https://www.nature.com/articles/s42256-020-0187-0",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs42256-020-0187-0/MediaObjects/42256_2020_187_Fig3_HTML.png",
-          "width": 312,
-          "height": 243,
-          "title": "Deep learning incorporating biologically inspired neural dynamics and in-memory computing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform.md",
-      "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
-      "excerpt": "SAS goes all in on Azure as both conclude a strategic partnership covering go to market and product development. SAS analytics capabilities could be integrated across the Azure portfolio to provide an additional option for model lifecycle management.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-microsoft-azure-becomes-sass-preferred-cloud-platform/index.json",
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/12/cf920af9-289e-4b20-a13f-7556c4eb24c5/enterra-solutions-ml-cloud.png",
-          "width": 1125,
-          "height": 1125,
-          "title": "Microsoft Azure becomes SAS’s preferred cloud platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-becomes-sass-preferred-cloud-platform/",
-      "publishedDateTime": "2020-06-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry.md",
-      "title": "Measuring the benefit of deep learning for the games industry",
-      "excerpt": "The following blog post, unless otherwise noted, was written by a member of Gamasutra’s community. The thoughts and opinions expressed are those of the writer and not Gamasutra or its parent ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-measuring-the-benefit-of-deep-learning-for-the-games-industry/index.json",
-      "webUrl": "https://www.gamasutra.com/blogs/ShaneMcAndrew/20200615/364612/Measuring_the_benefit_of_deep_learning_for_the_games_industry.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh5.googleusercontent.com/51HvOoh1tioFNt8T7iTXatuQPJiOfSgUQPIdHt_IQsoA9ZfkxFNlz1Xns7qgr6xyFx-WP6rOOKUIbPy9b9dQd7FFnZga9EqsC-tPMNY_CsqH8eDfxTfs2PU8JsHPk2gqvfQUIsMW",
-          "width": 720,
-          "height": 405,
-          "title": "Measuring the benefit of deep learning for the games industry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gamasutra",
-        "domain": "gamasutra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member.md",
-      "title": "India joins global partnership on Artificial Intelligence as founding member",
-      "excerpt": "India on Monday joined the league of leading economies including USA, UK, EU, Australia, Canada, France, Germany, Italy, Japan, Mexico, New Zealand, Republic of Korea, Singapore to launch the Global Partnership on Artificial Intelligence (GPAI or Gee-Pay).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-india-joins-global-partnership-on-artificial-intelligence-as-founding-member/index.json",
-      "webUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2019/05/AI.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "India joins global partnership on Artificial Intelligence as founding member",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/india-joins-global-partnership-artificial-intelligence-founding-member-1502900272.html/amp",
-      "publishedDateTime": "2020-06-15T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
-      "title": "MIT Creates Artificial Brain Chips",
-      "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-mit-creates-artificial-brain-chips/index.json",
-      "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.propakistani.pk/wp-content/uploads/2020/06/1_IoNnj-fgKGfY5q0ZuMkmPg.jpeg",
-          "width": 1000,
-          "height": 563,
-          "title": "MIT Creates Artificial Brain Chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
-      "publishedDateTime": "2020-06-15T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
-      "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-      "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/index.json",
-      "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee776ee38f9070006842d91%2F0x0.jpg",
-          "width": 1199,
-          "height": 820,
-          "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
-      "publishedDateTime": "2020-06-15T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

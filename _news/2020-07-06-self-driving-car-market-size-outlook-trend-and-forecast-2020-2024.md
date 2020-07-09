@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-06T07:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-size-outlook-trend-and-forecast-2020-2024-2020-07-06"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     title: "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024"
 
 related:
+  - title: "Smart Office Market Insights By Size And Forecast, From 2020-2022"
+    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
+    publishedDateTime: 2020-07-09T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-insights-by-size-and-forecast-from-2020-2022-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Platforms Market Top Manufacturers, Trends, Size, Market Share by Regions, Drivers, Challenges and Forecast to 2023"
     excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence"
     publishedDateTime: 2020-07-09T09:05:00Z

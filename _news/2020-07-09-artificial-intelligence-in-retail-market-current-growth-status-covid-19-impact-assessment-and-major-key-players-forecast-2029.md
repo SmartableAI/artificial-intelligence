@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T05:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Military Market Current Growth Status, Major Key Players and Covid 19 Impact Assessment Forecast 2029"
+    excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Military Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
+    publishedDateTime: 2020-07-09T10:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-current-growth-status-major-key-players-and-covid-19-impact-assessment-forecast-2029-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

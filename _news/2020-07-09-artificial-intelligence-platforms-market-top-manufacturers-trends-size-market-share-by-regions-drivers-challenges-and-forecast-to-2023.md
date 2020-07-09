@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Office Market Insights By Size And Forecast, From 2020-2022"
+    excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
+    publishedDateTime: 2020-07-09T10:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-office-market-insights-by-size-and-forecast-from-2020-2022-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ARxccTKrMYjF5c6UJMjBioB1E18DSlVhyXOKsE4a2YY+jCzzXIyiDqUDvtDo1+TmGnWnsrKWAXEiW735nLLInf/7267fWb0mugwfwfV0nNFPfKiE8zcKTDh+O6ZbO6R0ZJuhll+9oJ9PKtGmAHor+FL4KwZ2F9t+Ysh9A8HcvGf8fxW/9O0HqYJL+XKVPip/zc3cLF5Pd3dexbdQnFhuGqP6MOsB3MKCgQiWZcJHkDksl29pzm/gMU2ksyIOD2rZwMPhVGBYmZT0WsuMu54yAGDRl3NAGKi3lzGYGmCXewk1L6Kg3j6xENVZM018WBU/EQBPfWAdjXT6DLPa39yZSw==;8FD1zqnPCADlNmbrYLSLIA=="
 ---

@@ -27,6 +27,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 56
+  - title: "Imec and GLOBALFOUNDRIES announce AI chip breakthrough"
+    excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."
+    publishedDateTime: 2020-07-09T10:07:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 54
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "wH9ulDgKomUIGMnhyjbIN4aN35IDpE9gKIBuPuz8Xm32wca2/7AoHGIkxtd6pCjrBV0kWWEqjm4zmZkpXMBvA3cutYeFnEIEetAklicYbsLiWm4LbS888EWXA1wO3rBMQ+jynQqjWOPjqiNI4tKfd0YCc/nVkD9WFx4CbOm2P9gDaWl9hLXjBsoswDexVTtbQt+rulw+n8fmGXGN9rnkdSH/AV/yiEyIR1pdHw8HZn+Feg/s7qvfB9HjK7fq4rPrDzMg4bIGZXUisfrAlGjxsjGql4/Z9vxA5cohl6yLiKSabfNkyii60i4/U3XUDTFDQ7QECktDLs/P+PbY+ADvUA==;dNE0Hg+sbVXh/UDgzszloQ=="
 ---

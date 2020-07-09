@@ -2,6 +2,289 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-24-artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms.md",
+      "title": "Artificial Intelligence Helps to Decode Mysterious Earthquake Swarms",
+      "excerpt": "AI software has yielded one of the most detailed descriptions of so-called earthquake swarms—unpredictable strings of often low-intensity quakes. The analysis could help yield insights into how earthquakes originate.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms/index.json",
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms-11592998200",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-201904/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Artificial Intelligence Helps to Decode Mysterious Earthquake Swarms",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms-11592998200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-helps-to-decode-mysterious-earthquake-swarms-11592998200",
+      "publishedDateTime": "2020-06-24T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device.md",
+      "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
+      "excerpt": "Smartphones today have become so powerful that sometimes even mid-range handsets can support some fancy machine learning and AI applications. Most of those, however, still rely on cloud-hosted",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device/index.json",
+      "webUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/ml-kit.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/amp/",
+      "publishedDateTime": "2020-06-24T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-mit-and-toyota-announce-an-important-dataset-for-improving-perception-research.md",
+      "title": "MIT And Toyota Announce An Important Dataset For Improving Perception Research",
+      "excerpt": "Ok, why is this interesting or important ? Humans use motion as a very strong part of object recognition. For example, it is not unusual to recognize a friend from afar simply by recognizing their ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-mit-and-toyota-announce-an-important-dataset-for-improving-perception-research/index.json",
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/06/24/mit-and-toyota-announce-an-important-dataset-for-improving-perception-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/06/24/mit-and-toyota-announce-an-important-dataset-for-improving-perception-research/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/06/24/mit-and-toyota-announce-an-important-dataset-for-improving-perception-research/amp/",
+      "publishedDateTime": "2020-06-24T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
+      "title": "Artificial vs augmented intelligence: what’s the difference?",
+      "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference/index.json",
+      "webUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Artificial vs augmented intelligence: what’s the difference?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
+      "publishedDateTime": "2020-06-24T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-top-10-marketing-related-ai-thought-leaders-to-follow.md",
+      "title": "Top 10 marketing-related AI thought leaders to follow",
+      "excerpt": "Rama Akkiraju is one of AI’s top influencers. An IBM Fellow, the Director of IBM’s Watson division, and a member of the IBM Academy of Technology, she’s been named one of the top 20 women in AI research by Forbes and one of the top 6 ‘A-Team for AI ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-top-10-marketing-related-ai-thought-leaders-to-follow/index.json",
+      "webUrl": "https://www.clickz.com/top-10-marketing-related-ai-thought-leaders-to-follow/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/Andrew-Ng-founder-CEO-of-Landing-AI.jpg",
+          "width": 768,
+          "height": 412,
+          "title": "Top 10 marketing-related AI thought leaders to follow",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.clickz.com/top-10-marketing-related-ai-thought-leaders-to-follow/261901/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/top-10-marketing-related-ai-thought-leaders-to-follow/261901/amp/",
+      "publishedDateTime": "2020-06-24T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
       "title": "Teaching AI to fourth-graders is a thing now",
       "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
@@ -1116,297 +1399,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024.md",
-      "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
-      "excerpt": "Mercedes will use a full NVIDIA software and hardware system for their vehicles to power self-driving, with the first cars hitting the road in 2024. The system will be based on NVIDIA’s Orin chip, which they claim outperforms Tesla’s FSD computer by ~38%.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/index.json",
-      "webUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 350,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/sm_20C0302_04.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": "Mercedes cars will be powered by NVIDIA AI for self-driving starting 2024",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/23/mercedes-cars-will-be-powered-by-nvidia-ai-for-self-driving-starting-2024/amp/",
-      "publishedDateTime": "2020-06-23T11:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures.md",
-      "title": "Letter decrying predictive criminality AI research paper passes 1,000 signatures",
-      "excerpt": "In response to a research paper that claims to predict criminality from people's faces, hundreds demand its withdrawal from publication.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_135205.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 688,
-          "title": "Letter decrying predictive criminality AI research paper passes 1,000 signatures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/letter-decrying-predictive-criminality-ai-research-paper-passes-1000-signatures/amp/",
-      "publishedDateTime": "2020-06-23T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services.md",
-      "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
-      "excerpt": "HPE's new products take into account the current tight financial times with an emphasis on using existing infrastructure and limiting additional costs.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/index.json",
-      "webUrl": "https://www.techrepublic.com/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/23/41556b91-92f7-4142-8488-1d39ecd6cc09/resize/1200x/0567b58d92c7016516f9b60f8ff693bf/hpe-exmeral.jpg",
-          "width": 1200,
-          "height": 603,
-          "title": "HPE moves closer to everything-as-a-service with Ezmeral and expanded GreenLake cloud services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hpe-moves-closer-to-everything-as-a-service-with-ezmeral-and-expanded-greenlake-cloud-services/",
-      "publishedDateTime": "2020-06-23T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
-      "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-      "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers/index.json",
-      "webUrl": "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg",
-          "width": 700,
-          "height": 301,
-          "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030.md",
-      "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
-      "excerpt": "China's ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030, an executive said on Tuesday.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030/index.json",
-      "webUrl": "https://www.reuters.com/article/us-china-autonomous-didi-idUSKBN23U1U4",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523192451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M140",
-          "width": 817,
-          "height": 545,
-          "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U1U4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U1U4",
-      "publishedDateTime": "2020-06-23T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-facebooks-new-choreography-ai-is-a-dancing-queen.md",
-      "title": "Facebook’s new choreography AI is a dancing queen",
-      "excerpt": "It is capable of interpreting his company’s dance style and generating more movements based on the using thousands of hours of video it was trained on. What’s more they were limited to the style of the dances and music they had been trained on.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-facebooks-new-choreography-ai-is-a-dancing-queen/index.json",
-      "webUrl": "https://www.engadget.com/facebook-ai-choreography-170023727.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F155f6880-b565-11ea-bfea-f2d98f282745&client=amp-blogside-v2&signature=77ab40f2ffe59f13f751b52e746f4cf661b821ce",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook’s new choreography AI is a dancing queen",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-choreography-170023727.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-choreography-170023727.html",
-      "publishedDateTime": "2020-06-23T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

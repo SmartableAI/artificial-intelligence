@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud"
-excerpt: "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications, including AI, data analytics ..."
-publishedDateTime: 2020-07-08T18:06:00Z
-webUrl: "https://www.techradar.com/au/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
-ampWebUrl: "https://www.techradar.com/au/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+excerpt: "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications,"
+publishedDateTime: 2020-07-08T17:58:00Z
+webUrl: "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+ampWebUrl: "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
 type: article
 quality: 104
 heat: 164
@@ -117,6 +117,6 @@ related:
         height: 250
         isCached: true
 
-secured: "vbh42J9KpjFxACKPzQfaujPIJkIxjsC6GihpN6fT8hnC1mFuViC2IsbaS4toxtPl8i/OeMMTTeRqRRGx45ddGT1hV4xKFivHDH92r31qWr1fC01ASq3HZlhEDoSd2QPaZYjtxqE/Z5D0GYz9xfX0mMiZTAiVtjrmiMpKOhbPfu8mBBVUHYNrbMvN0l0+mW6AWesehiZgazH0xFphbm38+AQafr6K/dejymOvLNjL1fcxny74pmtAJdcesL9zR6Bdrx83nBqhoj0xI+6yZ/2hJE3N+V84lL+7DE32HVbLOHTT+V/pORofMBr3nkQQVCiVVLLyZcmta6lmaYNK0Yi2YA==;1O+j+yNkAwYnhhvpEx6dng=="
+secured: "vo3rjHD8LxtOpyK0NOq8wRF4UPvN/lld6JUzuxnPXMcJ9s70F/BIYaZZ4+ZcteMZ6d1D1JQ/pYTbQQTe5RXyhnUmo+QJjndFuh/IysNtKd4J/3AK7IpBXfK6i3YU09vMTsvHEP/MqiwaZJ4l4n38mAUD3AQ9Ow7tOkC+WxO+Vw96ji9KeZOxS6/LUxdxeKpznnr36XJ0HPSoPaARcqfEATM97Hz5/VIpF9xBJ67tzhC1Dni4/t95/t4dJzxoTNxE19LARiH0jqVLOr3gpbESNcgQErj4qcQB4Q9zoXfoKuv9PPsq0SZuMsvYqASBv9xxJ0+ao46UpuvwRi9MwdZQ8Q==;y2vaJ9Fju9cMrW1/I9ZstA=="
 ---
 

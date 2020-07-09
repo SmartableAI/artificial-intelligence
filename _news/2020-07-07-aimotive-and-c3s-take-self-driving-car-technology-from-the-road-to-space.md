@@ -1,28 +1,21 @@
 ---
 category: news
 title: "AImotive and C3S take self-driving car technology from the road to space"
-excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
-publishedDateTime: 2020-07-07T11:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
+excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, has entered into a collaboration to create a prototype hardware platform"
+publishedDateTime: 2020-07-07T13:50:00Z
+webUrl: "https://roboticsandautomationnews.com/2020/07/07/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space/33838/"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Robotics & Automation News
+  domain: roboticsandautomationnews.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
-    width: 1777
-    height: 931
-    isCached: true
-    title: "AImotive and C3S take self-driving car technology from the road to space"
 
 related:
   - title: "Amazon agrees to buy self-driving technology startup Zoox"
@@ -55,16 +48,7 @@ related:
         width: 708
         height: 398
         isCached: true
-  - title: "Tesla 'very close' to level 5 self-driving technology"
-    excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
-    publishedDateTime: 2020-07-09T07:49:00Z
-    webUrl: "https://seekingalpha.com/news/3589719-tesla-very-close-to-level-5-self-driving-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
-secured: "an5IznqXJKzSMZZSwoBlkSu0PHVEBbG3a6+HJxew6vkNAw/DQd64FlNm3dSpMUxV7pxv588o3qdvYjI70kIjkDQvq8rXfdY5BqD1I4omEoOBW7fyHEGEkfBQDIh4+/Nsx0bOwmeEgDOQoFJqXAfbx3Rb2cIzHVgD5beORHzh5KxaytowYeT3EiwY9rvOQOBTCIVAmuMJXGHWLKsOds6jj/Y3oewDxSd881Y4olYHjTRBgWXwsZrmupGlErNLNCyE/BRY+RpKuQtYVL9yFIO6sPAxk7vZ5nlnAeU8K4y0yKT4Y+LcbJhSfMxSOdHPPhvBblO2pBwCq6Vm7uWSjqXhdurRv0Oe86DYKJnKrlxBwUfUC4x00SRhpH+PX0ip1izLbXs2995iw14k7uu5UM2dXDqh72/6MioklI7nh8biA11tHkSt+k8DsTHr/jtnej8ofG3pBlz4hkVAkSt2XylevqJn0RzgZaSeY5LXuNy5LjE9SKqfHWKUCwN1eOnCmhN9QiGloqbzj2pan3BaJovyjQ==;sO2Cr83UDAl2xUexDmtnlQ=="
+secured: "yzSJWGOIwzJLwsPx7qYTfndPUVvyJPLeCV4dNEO0/EKHIlHikoPI/jYsRMsRig2tY5Rosdn4W3f7rRgKnbpUncjU9rr33sTiPAfX1zp3ShETAmw8WFFeYQHPaTbdTFPthYwp6xOFpp3tozf6CfcmyAxSfKJ+QLrv2dLafr1zy76hFU8sZ/VA88bGeTcS2PPUr97TaR5+dszx4gjnexE4HMaJtnPjIAh1CI8YRxtvcVGU2gkIpMHRw9trIw+OiuGTbn1ut4OZnbTTJznOdxSoFn+HilJkFVjaQEO2AnSBzng0TBJZ+UuUKXbkJMcQmQoYtGDF7bJacjhE4Q3enhxKQ2gdVej2tH6YOyYrOywApsSID+PeqIia+TGpGUukagPGT2yhCecdzLHD7gBB3dQ9ouHWSkSpAZuybdHYxJTBjVwW6jpj8jd1sfcsmBNfx6+T6QwIBTBESnbXR5JXpSFsf2gksGWRaugSa/HPVglobFTlXHwP/3N9DXidFHgWPdaLUUFPHAzun45eFRgg43nUoA==;NUDE/vFh9arGw7Tir8TS4w=="
 ---
 

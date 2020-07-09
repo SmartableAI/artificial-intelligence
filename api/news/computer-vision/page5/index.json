@@ -2,6 +2,38 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program.md",
+      "title": "Patriot One Selected for $4.5M CAD Co-Investment from Digital Technology Supercluster COVID-19 Program",
+      "excerpt": "The Health & Safety Modules are additional video object recognition solutions that have been added to the PATSCAN Platform, which also includes weapon detection, disturbance and fight detection modules. “Our mission has always been to create safer ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-21-patriot-one-selected-for-45m-cad-co-investment-from-digital-technology-supercluster-covid-19-program/index.json",
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/05/21/patriot-one-selected-for-4-5m-cad-co-investment-from-digital-technology",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-21-facial-recognition-helps-reunite-kidnapped-toddler-with-family-after-32-years.md",
       "title": "Facial recognition helps reunite kidnapped toddler with family after 32 years",
       "excerpt": "Unbelievable! 😲 With the help of facial recognition, this man who was abducted as a child 32 years ago, was finally reunited with his birth parents.",

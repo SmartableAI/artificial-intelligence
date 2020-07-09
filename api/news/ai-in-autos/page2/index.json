@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-26-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
+      "title": "Maker of Self-Driving Vehicle Sensors Said to Be in Talks to Go Public",
+      "excerpt": "Velodyne creates radar-like systems for self-driving vehicles that use lasers ... Backers include Ford and Baidu Inc., the Chinese technology firm, which together invested $150 million in Velodyne ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public/index.json",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
+      "publishedDateTime": "2020-06-26T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
+      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture/index.json",
+      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
+          "width": 630,
+          "height": 366,
+          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
+      "publishedDateTime": "2020-06-26T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-amazon-to-buy-zoox-in-a-move-toward-self-driving-cars.md",
       "title": "Amazon to Buy Zoox, in a Move Toward Self-Driving Cars",
       "excerpt": "Amazon for several years has worked on self-driving technology to deliver goods, a natural fit with its shopping business. The company did not disclose the terms of the deal nor say when it expected the transaction to close. Advertisement",
@@ -1321,97 +1412,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development.md",
-      "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
-      "excerpt": "The Department of Defense is moving forward of artificial intelligence projects for lethality. Experts warn that testing, experimentation and human understanding are critical to creating trustworthy systems.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-systems-need-checks-and-balances-throughout-development/index.json",
-      "webUrl": "https://www.c4isrnet.com/it-networks/2020/06/18/artificial-intelligence-systems-need-checks-and-balances-throughout-development/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial intelligence systems need ‘checks and balances’ throughout development",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale.md",
-      "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
-      "excerpt": "Tesla’s head of AI admitted that the automaker’s approach to self-driving is harder than what most companies in the industry are doing, but he says it’s the only way to scale. There are dozens of high-profile companies working on solving self-driving and virtually as many different approaches,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-tesla-admits-its-approach-to-self-driving-is-harder-but-might-be-only-way-to-scale/index.json",
-      "webUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/06/Tesla-Autopilot.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 463,
-          "title": "Tesla admits its approach to self-driving is harder but might be only way to scale",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/06/18/tesla-approach-self-driving-harder-only-way-to-scale/amp/",
-      "publishedDateTime": "2020-06-18T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

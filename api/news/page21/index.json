@@ -2,6 +2,279 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-23-applying-for-technical-roles.md",
+      "title": "Applying for technical roles",
+      "excerpt": "We answer the Women in Machine Learning community's questions about applying for a job in industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-applying-for-technical-roles/index.json",
+      "webUrl": "https://deepmind.com/blog/article/Women-in-machine-learning-A-look-into-the-technical-interview-process",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/a7e8Kag7pYvvx5kOvdSuSg80YBVRh9ROA_1iPRqIHXauAiO6MJCdpnSt_54v6Tm7lHiymfla0JyVjJYlAPCYlZ_zz6WQFFYPa-ofaQ",
+          "width": 512,
+          "height": 288,
+          "title": "Applying for technical roles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-bpn-14770-ameliorates-memory-and-cognitive-impairments-by-regulation-of-dynamics-in-a-beta-production-and-clearance.md",
+      "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
+      "excerpt": "In this study, a novel perspective drug BPN-14770 was given to mice. The mice were then put through a series of behavioral tests such as a novel object recognition test and the Morris water maze, to see if the novel substance helped the condition.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-bpn-14770-ameliorates-memory-and-cognitive-impairments-by-regulation-of-dynamics-in-a-beta-production-and-clearance/index.json",
+      "webUrl": "https://www.buffalo.edu/eln/students/undergraduate-research/2020-cosae-poster-gallery/host-page-with-sidebar.host.html/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi.detail.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi/_jcr_content/par/image.img.512.auto.png/1588181447746.png",
+          "width": 512,
+          "height": 338,
+          "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-noninvasive-system-lets-people-mind-control-robot-arm.md",
+      "title": "Noninvasive system lets people ‘mind control’ robot arm",
+      "excerpt": "Using a noninvasive brain-computer interface, researchers have developed the first-ever successful mind-controlled robotic arm with the ability to continuously track and follow a computer cursor.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-noninvasive-system-lets-people-mind-control-robot-arm/index.json",
+      "webUrl": "https://www.futurity.org/brain-computer-interface-robotic-arm-2088502/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2019/06/robot-hand-on-dark-background_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Noninvasive system lets people ‘mind control’ robot arm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
+      "title": "Apple iOS 14: the top new features coming to the iPhone",
+      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone/index.json",
+      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
+          "width": 1248,
+          "height": 857,
+          "title": "Apple iOS 14: the top new features coming to the iPhone",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
+      "publishedDateTime": "2020-06-22T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.md",
+      "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
+      "excerpt": "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security/index.json",
+      "webUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/iot_security-100675572-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
+      "publishedDateTime": "2020-06-22T15:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks.md",
+      "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
+      "excerpt": "Advantech and Crystal Group are teaming up to power that evolution based on AV trends, compute requirements, and a rugged COTS philosophy converging for breakthrough innovation in selfdriving truck designs.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks/index.json",
+      "webUrl": "https://www.infoworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-trump-signs-executive-order-suspending-certain-work-visas-through-2020.md",
       "title": "Trump signs executive order suspending certain work visas through 2020",
       "excerpt": "President Trump on Monday signed an executive order to suspend the issuance of certain temporary worker visas through the end of 2020, cracking down further on immigration after signing a more narrow measure in April.",
@@ -846,296 +1119,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key.md",
-      "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
-      "excerpt": "Artificial intelligence systems have become increasingly well-adapted to a host of basic board games. Now, DeepMind is hoping to teach agents the art of collaboration using Diplomacy.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/index.json",
-      "webUrl": "https://www.techrepublic.com/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "publishedDateTime": "2020-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
-      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-      "excerpt": "Inspur, a data center and AI full-stack solutions provider, releases NF5468M6 and NF5468A5 AI servers supporting the",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/index.json",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19.md",
-      "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
-      "excerpt": "In the rush to “help now,” we cannot throw responsible AI out the window. In fact, in the age of COVID-19 is more important than ever before to understand the unintended consequences and long term effects of the AI systems we create.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211620809.jpg?w=1024",
-          "width": 1024,
-          "height": 647,
-          "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
-      "publishedDateTime": "2020-06-22T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
-      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
-      "publishedDateTime": "2020-06-22T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing.md",
-      "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-      "excerpt": "Not long before, New York-based influencer marketing agency Amra & Elma had developed a platform that ingested data from Instagram, and allowed its client to use AI image classifiers to find very specific influencers.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing/index.json",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171685700%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
-      "publishedDateTime": "2020-06-22T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers.md",
-      "title": "Samsung debuts a drone-based AI system to remotely adjust 5G towers",
-      "excerpt": "The 5G cellular tower hardware maker will let installers use drones and AI as a safer, faster alternative to climbing towers for network testing.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/samsungdroneai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Samsung debuts a drone-based AI system to remotely adjust 5G towers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/amp/",
-      "publishedDateTime": "2020-06-22T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -18,49 +18,35 @@ topics:
   - AI
 
 related:
-  - title: "Amazon agrees to buy self-driving technology startup Zoox"
-    excerpt: "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl"
-    publishedDateTime: 2020-07-08T07:27:00Z
-    webUrl: "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI"
+  - title: "Tesla Vehicles Could Soon Become Completely Autonomous As Self-Driving Tech ‘Very Close’, Elon Musk Says"
+    excerpt: "Tesla vehicles could soon be completely autonomous as CEO Elon Musk said the electric vehicle firm is “very close” to achieving level 5 autonomous driving technology, during a virtual appearance at the World Artificial Intelligence Conference in Shanghai."
+    publishedDateTime: 2020-07-09T11:34:00Z
+    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/"
+    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9"
-        width: 810
-        height: 539
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f06feb05d77690008b1fd7c%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Amazon Acquires Self-Driving Vehicle Startup Zoox For Over $1B"
-    excerpt: "Amazon on Friday confirmed it is acquiring Zoox, a California-based startup that has been designing an autonomous vehicle from the ground up."
-    publishedDateTime: 2020-07-09T05:00:00Z
-    webUrl: "https://hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    ampWebUrl: "https://amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
+  - title: "Tesla Full Self Driving Suite Ready by the End of 2020, Level 5 Autonomy Nears"
+    excerpt: "Even so, Elon Musk is confident his company is going to deliver a full self-driving module soon, capable of offering Level 5 autonomy (that's the one where you put your feet on the dashboard and pop up Netflix on the phone or the vehicle's display on your ..."
+    publishedDateTime: 2020-07-09T10:02:00Z
+    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826.html"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 44
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 50
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52054/content/Amazon_Van.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "AImotive and C3S take self-driving car technology from the road to space"
-    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
-    publishedDateTime: 2020-07-07T11:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
-        width: 1777
-        height: 931
+      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "VNzGEZcf6pNaIu1tBWC2X/xrpJPQAnL4nGhRMl4YrjK5welTyfVaiRs6pG+4C8aMy81Qej42EFR0jjEerSeohbr68HKgXYhnO5lhw4s6/0JYvm6A8KPNiCk5xbkdbm70J0/oaJgMPh2lmoes7JvZN1Wp+mIu/yTt+PcXUFhjd5B2LS8kam/X9IUwyh8A4vtyCYJaMWraF2xKDJe9TqXk1JyiR/EcNJCmSrvV7XxIF3tOEKT4l68vDQea+lDjC+04mPSRoFysmWqfMoKnToWHkP+yNnSNjqsS7qxFeMoO0aqoUeAvkxH4Hpa8GPytpHQQpJksunHk8+zxhJFR57Wmbw==;zZXVGs2CqDwfVVp09vYDWw=="

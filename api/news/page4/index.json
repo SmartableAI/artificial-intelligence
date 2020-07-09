@@ -2,6 +2,226 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now/index.json",
+      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-07-06T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada.md",
+      "title": "Clearview AI ceases offering its facial recognition technology in Canada",
+      "excerpt": "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-clearview-ai-ceases-offering-its-facial-recognition-technology-in-canada/index.json",
+      "webUrl": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 476,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire",
+        "domain": "newswire.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-study-tests-whether-ai-can-convincingly-answer-existential-questions.md",
+      "title": "Study tests whether AI can convincingly answer existential questions",
+      "excerpt": "A new study has explored whether AI can provide more attractive answers to existential questions than history's most influential thinkers.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-study-tests-whether-ai-can-convincingly-answer-existential-questions/index.json",
+      "webUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-96-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study tests whether AI can convincingly answer existential questions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/amp/",
+      "publishedDateTime": "2020-07-06T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-break-into-the-world-of-artificial-intelligence-with-this-4-part-ai-bundle.md",
+      "title": "Break into the world of artificial intelligence with this 4-part AI bundle",
+      "excerpt": "It's hard to imagine that just a few years ago, artificial intelligence (AI) has been pretty much an intimidating concept, but now, we can't imagine life without it. From smart assistants to banking apps to social networking to even email,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-break-into-the-world-of-artificial-intelligence-with-this-4-part-ai-bundle/index.json",
+      "webUrl": "https://www.windowscentral.com/break-world-artificial-intelligence-4-part-ai-bundle",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/sale_29690_article_image-45mq.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Break into the world of artificial intelligence with this 4-part AI bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/break-world-artificial-intelligence-4-part-ai-bundle?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/break-world-artificial-intelligence-4-part-ai-bundle?amp",
+      "publishedDateTime": "2020-07-06T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
+      "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+      "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/index.json",
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef74817accb250006e7ba56%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "publishedDateTime": "2020-07-06T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest.md",
       "title": "Self-Driving Cars Just Took a Big Leap Forward (Here’s How to Invest)",
       "excerpt": "Stock Market News, Stock Advice & Trading Tips Source: Shutterstock When Amazon (NASDAQ:AMZN) drops over a billion dollars",
@@ -693,6 +913,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-06-self-driving-car-market-size-outlook-trend-and-forecast-2020-2024.md",
+      "title": "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024",
+      "excerpt": "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-06-self-driving-car-market-size-outlook-trend-and-forecast-2020-2024/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-size-outlook-trend-and-forecast-2020-2024-2020-07-06",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-Driving Car Market Size, Outlook, Trend and Forecast, 2020 – 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-tsmc-may-commercialize-info_sow-for-supercomputer-ai-chips-in-two-years.md",
       "title": "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years",
       "excerpt": "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,",
@@ -879,286 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience.md",
-      "title": "How Stitch Fix used AI to personalize its online shopping experience",
-      "excerpt": "To futher personalize its shopping recommendations, Stitch Fix built out a service using a combination of AI and human curation.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/index.json",
-      "webUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stitch-fix-shop-your-looks-1.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 610,
-          "title": "How Stitch Fix used AI to personalize its online shopping experience",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/05/how-stitch-fix-used-ai-to-personalize-its-online-shopping-experience/amp/",
-      "publishedDateTime": "2020-07-05T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
-      "title": "Why AI Continues To Deliver Results In A Pandemic",
-      "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic/index.json",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0100437185870006e1613d%2F0x0.jpg",
-          "width": 1200,
-          "height": 571,
-          "title": "Why AI Continues To Deliver Results In A Pandemic",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
-      "publishedDateTime": "2020-07-05T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
-      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
-      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/index.json",
-      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
-      "publishedDateTime": "2020-07-05T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gaadiwaadi.com",
-        "domain": "gaadiwaadi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths.md",
-      "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
-      "excerpt": "Will AI hold up a mirror to society forcing us to look not only at how we treat beings unlike us but also how we interact with and treat one another? Is the future of artificial intelligence, human-like robots?",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/index.json",
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f01c255daf7940006393a4f%2F0x0.jpg",
-          "width": 1199,
-          "height": 725,
-          "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
-      "publishedDateTime": "2020-07-05T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire.md",
-      "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
-      "excerpt": "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire/index.json",
-      "webUrl": "https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579500%2Fhand-holding-trophy-sticking-out-of-pile-of-money.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 883,
-          "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
-      "publishedDateTime": "2020-07-05T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-09.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT)’s stock price was up 0.9% on Friday . The company traded as high as $36.35 and last traded at $36.25, approximately 8,200 shares changed hands during trading.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-05-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-09/index.json",
-      "webUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
-      "publishedDateTime": "2020-07-05T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
