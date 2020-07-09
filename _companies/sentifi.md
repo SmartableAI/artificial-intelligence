@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sentifi"
   url: "https://twitter.com/sentifi"
-  followers: 4920
+  followers: 4922
 
 size: 51-200 employees
 yearFounded: 2012
