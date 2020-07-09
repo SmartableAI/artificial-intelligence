@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19"
-excerpt: "AI, a company virtualizing AI infrastructure, today announced that it is working with the London Medical Imaging & Artificial"
-publishedDateTime: 2020-07-08T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
+excerpt: "Run:AI ensures that the AI Centre's data scientists can get the full use out of their hardware, guaranteeing that GPU (Graphics Processing Unit) resources are efficiently and elastically allocated to teams that need them. This enables the AI Centre to run ..."
+publishedDateTime: 2020-07-08T00:00:00Z
+webUrl: "https://www.prnewswire.com/il/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
 type: article
 quality: 42
 heat: 42
@@ -14,9 +14,9 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19"
 
-secured: "KD9WqtxvK3hen0Ektz6xZqwhmw0071rBZ5Z1TR95NM8H2qGF6eo5uxX0neJjXqSAbIZqGBcHZLZmlCy0+vB8nybRUuqpN29zESrdQHOr3MO1X9DYzaURs5/hduLrAEF2AbLyGSbQNxJbj0DbmJOvFV8uGhWkhaz0hRZ4CMiOuwyX+cg0LV994Qs17/Z3p2HlwJVaRuiS/W4JCTz5Vvo2MqfQ/KLlZptl0L6KRbhp1seTsR3QhFD3qWWL3VDw+vFEWIXbysqZvJJ6dlEyGxFTkx54SnRcR9u7TQjdGER5InWsxo8Uz4YRjf7gf/HhGLi7tPrYYsk8D/jO2m8A2KXmkw==;mG0A0U9YYMyv9ic63ZXqXA=="
+secured: "aZYSip+xoEfTqXxeNfz7UmCcLce3jLABmMGXQi1InTbCTuOxV0GDxSKEB4NsSyHnfqb88pDSFID+Am0zuTJHUCTrPEzXFpusfrb7EDR4wqvQ9mCvdhjYjutfjZgQfg4gAuRfToHYlDYli61fkqU3lkBGkNI68Ra2RqqZK/MGnODNPCSrJKFiTQGW+4m3G1SZ+lPewLs/yV4zhEQYhWZ88JNZLfmWlSoK2jgc5uFv9jr9nu3rL66Cjgi2DtolQcOs8kwa7B0u69Of7HolPIhmtaGxTkdsmJHLk9ALNGV3FgXJ68gLfwZvsq7mmPKkcIKoze6CqYptldeVbGM77qK89w==;PEhlGYmZ4/YRh4/hTbuAUA=="
 ---
 

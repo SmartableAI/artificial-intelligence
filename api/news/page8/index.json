@@ -2,6 +2,53 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
+      "title": "New robot technology to fight Covid care isolation",
+      "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
+      "webUrl": "https://www.bbc.com/news/uk-scotland-53241556",
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10AA/production/_113166240_robot2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "New robot technology to fight Covid care isolation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-scotland-53241556",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-53241556",
+      "publishedDateTime": "2020-06-30T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ethics-and-ai-an-unethical-optimization-principle.md",
       "title": "Ethics and AI: An unethical optimization principle",
       "excerpt": "EPFL professor Anthony Davison and co-authors provide a mathematical basis for concerns about ethical implications of AI.",
@@ -974,7 +1021,16 @@
       "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/",
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
@@ -1002,7 +1058,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1040,44 +1097,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-new-legislation-required-to-secure-us-semiconductor-leadership.md",
-      "title": "New legislation required to secure US semiconductor leadership",
-      "excerpt": "The U.S. needs aggressive public-private collaboration to ensure it continues to lead in a foundational technology it originally developed.",
-      "webUrl": "https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership",
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/dhs_computerchip_thinkstock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "New legislation required to secure US semiconductor leadership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership?amp",
-      "publishedDateTime": "2020-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -40,6 +40,20 @@ related:
         width: 747
         height: 446
         isCached: true
+  - title: "RSA Conference 2020 APJ Virtual Learning Event – 10 Session Tracks to Look Forward to"
+    excerpt: "RSA Conference, the world’s leading information security conferences and expositions, today provided a deep dive on the key session tracks for this ye"
+    publishedDateTime: 2020-07-09T01:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200708005881/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+    images:
+      - url: "https://mms.businesswire.com/media/20200708005881/en/804070/23/APJ_Banner_Photo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "FlJZNh1j9l0waBglawB6iIOh5VMqh+Fpp+qB9BNFi8+0//UdUVTbg1ppS3PhsHz7gNm+nyPX24dGTGiCIfiHFWYdKXC471WzVc0cGtSuPiaCqteDAUV6CLGOg50PUtIGM/GxHyRrYSlmbedwuBrdbGrGDbg66RbSRVx+1EHESRWQUvM2BoAvBfMMs0ifAuMlU9FebqUIw0wyYXJ6I5Dog8PJ9ltMOqd3wbfs/mHwrov1Wf+F83mREMYcI0JK5NAXc2hkTsL8HpbGMAdh6iZV+cmceY+c4XnxbCeTAo30YiQPcT/PAcmD0GmnRujzmtlu+s2h+k0S1yOBEDQLNp1GqQ==;fRgLokAb7s340v8QBTLpEA=="
 ---

@@ -19,7 +19,15 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
-secured: "o28CLAZarblAxdtJ+jpD4nVfyYaLx3SEkjR94BpSilOHRVjoCpReo8YzRk0CMDgewoHAHV0ZJHCIyUecalnCAIiHTd2HCUPejrGVbVmXPP8lXu4omt8xCPxvIcEEqh8UTHZivsb2EjfArd2qAnHEqbEn+RJ6+yR4FzTDxJgNWb750FXU8fp1wwYtDevxn9CtwDrMahFkSCeUF/YCeimQUsxoA9PC+c3L/12YnxGJHZq5kvFSYX8z7uFqVZU0UMsUHfyJNiiW4qxwz+c/evboc+/rTlN97mx0EkDRpdf1rpFHXVdIc2FvudVlnye5NEnHkep4FTLwCGZqygMTBtrmpHdSbi8GpQnkx2MZnGt5ZUUb9KrYo1C3gbcM/4cn8SJsSc5gppBER3wSwn5h26NfjCV1KkhypjXfWT5gDx/e4+Nb1GsLce4o6dZDDeVDFRpsWUkJ3AxMsK6hn+qgZX8p9MYd9mkL+uI5v7PiYIWRoTuZI1hfIYmPC7jvl6o3kkmsZ8c2pphhKbl/6G6mFuqIzA==;nZvGyctg+u3uvr+jFhD3Ig=="
+images:
+  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+    title: "Experts: Facial recognition will be everywhere, whether you like it or not"
+
+secured: "7aTbWiUtKJqll76Xv97WZnFBSs3Xq6piQ0XkZEKnOTvbE3ssE2pVXnV8cL365JLarGVuJFiRW5LoB/7vNj+RpUoQbQSLvMP8FMoWb4JuFSKqTTFUgpgjNTGDeBn74E/VRS0XN+ZJjH6irt4aRZV0Vgo8tY7ADszcmfe7MuSB5fjnlVQNtMCRFmx7iU/WCUR6IvKnWBA1Y79T8DMffJKDnfpHTYlC/jDxIB8qDtF3ZweHe0F7SQ4tk5/0n+KZ4l9OWOWF0ZInjR9zGjOIdga/3nhVHzLu++BadP1eWpHDu7KNwjFWp8MaOUzn0isq54N0vJ9EuSf1oMoh7tzcZxbPTA==;xk+PdUY8Q/XXybKRrCPQDA=="
 ---
 

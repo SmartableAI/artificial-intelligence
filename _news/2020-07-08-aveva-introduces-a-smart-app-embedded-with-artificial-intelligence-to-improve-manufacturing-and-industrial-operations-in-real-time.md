@@ -25,6 +25,22 @@ images:
     isCached: true
     title: "AVEVA introduces a smart app embedded with artificial intelligence to improve manufacturing and industrial operations in real-time"
 
+related:
+  - title: "With a full grasp of real healthcare requirements, iMedtac introduces wide-ranging solutions targeting smart hospital trend"
+    excerpt: "The world's population is aging. According to American Association of Retired Persons, 22% of the world's population will be 60 and older by 2050. At the same time, developers are making use of new technologies including artificial intelligence (AI),"
+    publishedDateTime: 2020-07-09T02:08:00Z
+    webUrl: "https://www.digitimes.com/news/a20200709PR200.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 13
+    images:
+      - url: "https://www.digitimes.com/NewsShow/20200709PR200_files/1_r.jpg"
+        width: 336
+        height: 252
+        isCached: true
+
 secured: "85U6QMcvnfkH8ULWoUlLTRi3pgZ7xL5uVfbRFu1jKZADzEhfKnwl6iylTHjhsyB9xCFxC/p0OzeXWMknTWfQ3fFsPmPC3zcFo+vVqjd1sNY8pE77vCQipKlv3cf8mfa5qAkKVHEkXzFhEdktgITgWT6QsNxIK8+yjt0L3Xd6yFvq3XLXzbeuAsyx/n+2F9qZ7l43QVVUW20Up7odkG5OgX+p/14AjBdoBNqX/g9AWwQ1iRKzmXRHAh6+YczDBlnfHallj8k3qxgyRvgCiikTbMpjEJwdKSj73RArPu6md5/LY4q/YUramXYZ1nw1SKKGXJ4lU6ov0N09G9zM210EWA==;dw3o02zonhUG8wlmZJNhig=="
 ---
 

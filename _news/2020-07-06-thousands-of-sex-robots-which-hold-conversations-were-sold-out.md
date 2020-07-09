@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/life-style/thousands-of-sex-robots-
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/thousands-of-sex-robots-which-hold-conversations-were-sold-out-632019"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,24 +18,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Thousands of sex robots that can learn and talk to go on sale for $15,000"
-    excerpt: "A ROBOT doll which can hold conversations, learn and has a “personality” is set to revolutionise the billion dollar sex tech market. The $15,000 silicone doll, which looks like a"
-    publishedDateTime: 2020-07-04T10:51:00Z
-    webUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/"
-    ampWebUrl: "https://www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/news/5617392/sex-robots-speak-learn-ai-memory/amp/"
-    type: article
-    provider:
-      name: Irish Sun
-      domain: thesun.ie
-    quality: 58
-    images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2020/07/MB-COMP-DOLL.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "N0kyHidK7xXyX1eK32IYs9puPZcjsPUoNayvcAy1genD0wv91a1FK0iOhKVrOHipkV5zXAbXhmOiXvTZOix1FiRGfpP80uN8ih9CeX6rUrKcGk80N+Q7NMEPyDndIUQnn/jhKwF2cK6cv6Vj4REdC/btxsKYMeyQD2sIaqi31Z+ETbmRvuQM1hLS92Sh6A80SR7arM2DOBP/AevScOT3gwmFXNUiIB9k8KF6ADcTVUhB+sEJOOL5XWprIHd2vekFUc641HSMRa95FgaVyNhslHGD5hWmr5t5W5SGUOe2zT3TyBt6rJd6Swy3awJQK1Q5E03tAlrYf4AD5bpasigL6+NqOomPT4Qv9wCQvjwXFthwxaqRGh259kaBlsI+CDQRiMLxd0HWUb3/t12B6d9TB8z59GNieRj8koLSujsLU3pZfN2khwLXPtvFYI+IXHe5shi9FkREhNYMK0Yw1NziuUnhW76K5JbZ+gRJUsFxyV16P+YBy1EhPjsyDQ65MHkzSDNPBlKvpiRu1SU9zDfc3g==;2AKFAmQmA0KC3egk8qCd7Q=="
 ---

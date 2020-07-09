@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-r
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 696
         height: 464
         isCached: true
+  - title: "Welcome, Robin the AI robot"
+    excerpt: "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital."
+    publishedDateTime: 2020-07-08T22:38:00Z
+    webUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
   - title: "Full picture of Robin the robot (image)"
     excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
     publishedDateTime: 2020-07-07T20:44:00Z
