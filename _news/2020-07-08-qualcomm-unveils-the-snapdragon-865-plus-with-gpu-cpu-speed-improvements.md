@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdr
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://fdn.gsmarena.com/imgroot/news/20/07/snapdragon-865-plus-announced/-1220x526/gsmarena_000.jpg"
         width: 1220
         height: 526
+        isCached: true
+  - title: "Qualcomm announces Snapdragon 865 Plus 5G with faster CPU and GPU"
+    excerpt: "The Snapdragon 865 Plus 5G from Qualcomm features a CPU that runs up to 3.1 GHz – a 10% increase from the original chip. The upgraded SoC also comes with an Adreno 650 GPU that offers 10% faster graphics rendering and the chip is compatible with Qualcomm FastConnect 6900,"
+    publishedDateTime: 2020-07-10T13:46:00Z
+    webUrl: "https://www.kitguru.net/components/cpu/christopher-nohall/qualcomm-announces-snapdragon-865-plus-5g-with-faster-cpu-and-gpu/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Fredag2-732x330.jpg"
+        width: 732
+        height: 330
         isCached: true
 
 secured: "xfhxCfuw1lBAd4flvu8QcykMWV7luCwYJSWsc6FeehVMrCNuL8ZbcOOeIgQAF7+i4tgb2NmNGqKcgT//Hp+VRSj0LAAWf43baYjLo3LUfHfeOtaBBqEk8HLI1hkUf9i/uOMy4IckT+Tn/Zub9MRacw4LeSAJeyRsS3SVT4Z0g2WOZV0yKEGdLF8N3OrMeSNXDucZ1QmdKXca6EPg9YVP8rpwbhnmi/rTU7Cnilo/sXAynkpDGWy3dogNICyH7EmOauBzbXoYylBDd6YqWqdXc6TvpGsL65CCdlk046/stbF42UKuK81eNVmLvljy38sPQO/pfKPGJz2Qe//3oh4UegqPUzql8lDbfT+z2v/kSRbImPloNnn5AMMkhRyjGQV1QIgPR4YvXft3LUBeUzuwmjTi+QY8OzMEnX7r+d1iwn+gP9M1FAGp457sdQjQc/1PpTz4fSMeKKow3djWIQqrCWA/p3qV+QCE/9eQzu4AR/Y5WqfPF030/h8vRsTYXmYA;LPi9hc6s2eF/EaC9SAWaXw=="

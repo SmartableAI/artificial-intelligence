@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cbronline.com/news/aws-user-data/amp/"
 cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-user-data/amp/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Computer Business Review
@@ -24,6 +24,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "How to Stop Sharing Sensitive Content with AWS AI Services"
+    excerpt: "AWS has released a new tool that allows customers of its AI services to more easily stop sharing their datasets with Amazon for product improvement purposes: something that is currently a default opt-in for many AWS AI services."
+    publishedDateTime: 2020-07-10T12:40:00Z
+    webUrl: "https://www.cbronline.com/news/aws-ai-services"
+    type: article
+    provider:
+      name: Computer Business Review
+      domain: cbronline.com
+    quality: 54
+    images:
+      - url: "https://www.cbronline.com/wp-content/uploads/2020/07/bogomil-1.jpg"
+        width: 1371
+        height: 916
+        isCached: true
 
 secured: "wT20uEj6xPg45fuRS4cYruZLdX/CbuKgjyzA3VRsskJ7kw9a6h/gid3TM2LaX5UWDwDU+EqGIyoLEUtbRvnRXn3eD5x1KU2XDCtBVK3+InoAsYPdN6sD2L81f8xIvfUQsHQALxIrktDZCpl+kEfMyWBTh1pLem7KmNNz/9jBVKvk+qr1i5X6D4f1Lvvl9uzYTCoCLqLAARAY/qF5yMbJudsoQeHHc/UgC40pmyZTHSlSI2oXrUGo2Dg9I1d2Z4mp6aJfS0npFAbV+jBOpRTvmyMNivj9g6VCp12ZQ7/coLCLAVOQAAwEEo3CL+sQe5rW2NJ7erh/hyn4SHCZg4CdtweAzD063fDIKmXHeLK2zlz9ObEF94bvusMWDQ55ONy+e7yqx5v76eHw1XOrVUPTY4Pm4iIJTA6d0fNfoPcR/+y4SiylVXXjzjD01I5h+8yBJ/vTTKZt3I+kSazarPMhQ5Y9YozT05FFg8rrvZPbjDjTeeAWlJ7KOSjN3wFhQTwij+6+o1FMORqU2zbPS9ngyg==;zTblamncOF+GOBY7vUJ3Jw=="
 ---

@@ -7,8 +7,8 @@ webUrl: "https://thetechportal.com/from-chess-to-neural-networks-how-machine-lea
 ampWebUrl: "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp"
 cdnAmpWebUrl: "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png"

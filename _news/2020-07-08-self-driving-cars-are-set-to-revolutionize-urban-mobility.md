@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/self-driving-cars-are-s
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-cars-are-set-to-revolutionize-urban-mobility-1029374669"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,33 @@ topics:
   - AI
 
 related:
-  - title: "Mobileye and WILLER partner on self-driving mobility solutions for Japan, Southeast Asia"
-    excerpt: "“We look forward to collaborating with WILLER as we work together for new mobility in the region by bringing self-driving mobility services to Japan, Taiwan and ASEAN markets.” “Collaboration with Mobileye is highly valuable for WILLER and a big step ..."
-    publishedDateTime: 2020-07-08T15:33:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia/"
+  - title: "How AI Could Revolutionize The Future Of Mobile"
+    excerpt: "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience."
+    publishedDateTime: 2020-07-10T11:56:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/"
     type: article
     provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda5daa543d4d0006ab099e%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "Are Sensors And Artificial Intelligence The Future Of Ageing-in-place Technology?"
+    excerpt: "International research[1] is clearly showing the value of sensors in a private residence to extend the amount of time a person can remain independently in their home for longer. SECURELY® is a trust-owned New Zealand company that has a range of products that use sensors and artificial intelligence to monitor activity within a home."
+    publishedDateTime: 2020-07-06T04:07:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 32
 
 secured: "62efOqGGI4Yml1njKDU/A4Bz5olEsvjsRY7Dv12RkyutvwLKmhiuplYMBLKlQC08AzIcHqKKp3l3W7JsmZm62I5Xiw7l2mD5cC0JP46wT3unxOcuiLc+JR3uNk3LQ5rN76OiDW5j8ep0A+55bAXVyiP3GTuwON2VrpQ2BH74poMyqaKfWzd0GbE+RaH/3Yt5HK+KMKMTtZwLJjPcT9p2vA1xtUMtvyrel55IgvyrEJpEHcNYj/3v3RJ5VS8IrTwMQQgccWSvlvrwzG/HLhUnvwwyTpBzuShNhCny3cw5pGSXEvvc/EmusSATk3gBIUicV0vUh4grQricw+rdw+Mw/g==;oSgEzt0c6Ttdf297hf06Hg=="
 ---

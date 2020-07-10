@@ -5,7 +5,7 @@ excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted 
 publishedDateTime: 2020-07-10T08:04:00Z
 webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
@@ -85,6 +86,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "5l7J9OnVkGkrV96HaOJBacKNAU0JbVjejARJ1JaWymWey71UOaAUJdoWBmvr8RYn81/rb0jfap7letfILHiyw6V94xVD95g+jHFBP44MHS9EhRbMNTJppGocTmqiOJWmTIBSKJtMNCdl1fv9wDJHsFWiju/LODTdQHJp1aaq2pn23YlWq23lmFI8dUTRCc0tC3DsushECrWcHGnXz8nUb8/4Hgy4YZC3eR/iC72uRvnmS23NTh6MmSK1RcgAj/3SxIRlOUrKeqfLemh6QE1qzjExRRNfrEbP66ar1p6rBnQ1YlYcYhoOMYI4vhq1LiYQXdBci+YTwtRRlK+87YuHFg==;Lo+0tvi6yHma2iL1f291Uw=="
+secured: "QiGrQoOjnt9MMgatd2irXcGC/Gn0CMrESVuAaEbY6BwCz7gAgpuyR44uJPPA9IYYeeAZQU0aS3+y9OtvxvOfRFpD+LhPLqp98GQ4oP4pf+LsAbRbZxqf1OJysXjxRHmCVb5RffS0DS9HawLJBVx7ymP6Jhb/GCcemxasG1/g6ahWWJ+YaWJD9NDbo/9EMszgCl/0k+rgI/0ObiNFhK54jZ7P9wbPA3x+SsSXWCKzm0OJ8GVH13LR1FOPV2Imbc0geQYc4/67VU5UfzU0NelcDYvjuXBYc4g8DIA4yRSeGBysZ6jx9aRJkRfD5UmZ1+ZQFSdY3o38uQPOptgiEoLt5ZmDE9XpSRQ0oYdp2dfvoWVkXOzGqfrbXCO0EjWoae9dI2fKx1NjodRfY0ZMMopBsfY/hmRw8fZqr+6zws5TZWJoGG5qh2+lznz+Qc/DGcg3rc/xE5IbF49P0Q1RS1D2Tj5eV6QlLPM8ZwR44BZ9nZWEvaOog7FZIkW5nroWN5asjOtUHrEYoamxIVIUF21FsQ==;SWe2ou50q2ph6WgFv5frIQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T16:50:00Z
 webUrl: "https://apnews.com/775b4d969447c57b5f0abe5b055c4970"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 450
     isCached: true
     title: "Natural Language Processing Market 2020 Along With Covid-19 Impact Analysis, Trends, Advancement And Outlook 2029"
-
-related:
-  - title: "Global Voice Assistant Market 2020 Research Report with COVID-19 Impact, by Future Trend, Growth rate and Industry Analysis to 2025"
-    excerpt: "Global Voice Assistant Market Growth (Status and Outlook) 2020-2025 organized by researchers at MarketsandResearch.biz presents a detailed diagram of the market in terms of current and future trends driving the profit pattern."
-    publishedDateTime: 2020-07-06T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-assistant-market-2020-research-report-with-covid-19-impact-by-future-trend-growth-rate-and-industry-analysis-to-2025-2020-07-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Cfv9lceOs9RB+MZP4eWhLojDimUtx4RxhPYbdU674fAdlbNcNgmVp6xAe5EhCBx0Zo5dE/wRx66hDU+GyAG03jbO+BOwII1+5sZKSpD0k72HcYSkwIT/VUI+8ALxWH6mQPgjYBwsSANfmsBWe6hacNAqUXtu70BTG6Khs4RvmeC+kdOQLX3z10b8s4mWfie6Tbxb+ZUu8tdCtI1PghZrR3A2p+DRNSlIy2CG+qjVOQDb82AqLLWz0UY+VV6CSHul7XlmMK24GTg7Ed9El/oMDL+/hb68dIiVaou0jafsb+tEwYqvyIs4H9kRLolc+Sc6WMrv+YB0dsiFVsrwKLzjfA==;skRXgO1Hdo2jkVKOAZ2mnQ=="
 ---

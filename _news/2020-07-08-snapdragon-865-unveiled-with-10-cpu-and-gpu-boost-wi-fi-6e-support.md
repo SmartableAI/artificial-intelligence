@@ -59,6 +59,20 @@ related:
         width: 920
         height: 613
         isCached: true
+  - title: "Qualcomm announces Snapdragon 865 Plus 5G with faster CPU and GPU"
+    excerpt: "The Snapdragon 865 Plus 5G from Qualcomm features a CPU that runs up to 3.1 GHz – a 10% increase from the original chip. The upgraded SoC also comes with an Adreno 650 GPU that offers 10% faster graphics rendering and the chip is compatible with Qualcomm FastConnect 6900,"
+    publishedDateTime: 2020-07-10T13:46:00Z
+    webUrl: "https://www.kitguru.net/components/cpu/christopher-nohall/qualcomm-announces-snapdragon-865-plus-5g-with-faster-cpu-and-gpu/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 39
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Fredag2-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
 
 secured: "RHbONOB5o9CpgYW2GY86JOE/qajyYqyUE7IgANDeApfCdfYw042J19gn4pszbK6dR/CBqJhHcCt1vnccaV1DsRLwqchohN6Nrrz6/SI1y12hPLmgMbaXuPFf9cW3B5kui3i9YAyNs8zCF4vvh8yZYVn2619NCdnVYHh018gz0YIgxzHSa1j1QgCBAG+C0YHEJ6O2SYs/9AM7lRVqwrvycrtf+iqSd7tIwWPf0Xaq57d6qW40ScOo+PpLALvOZ80qJHobbOGnOj1RGwO9EbWfOTVNaHq4JHIczovRb8CTzYeGbrgrcPCvIC8cn/XbroU633osrpGBp8xtvXTtJ4ylkg==;Q2/pJNDJdZY/1VEA/+yeag=="
 ---

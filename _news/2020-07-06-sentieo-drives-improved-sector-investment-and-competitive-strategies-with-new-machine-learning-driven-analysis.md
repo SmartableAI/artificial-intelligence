@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis"
-excerpt: "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,"
-publishedDateTime: 2020-07-06T10:20:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206"
+excerpt: "\"This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,\" said Naman Shah, Co-Founder & President, Sentieo. \"Using our leading deep learning models,"
+publishedDateTime: 2020-07-06T10:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-2020-07-06"
 type: article
-quality: 14
-heat: 14
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,6 +21,12 @@ topics:
   - AI in Finance
   - AI
 
-secured: "VUO+pgsXzxREbpqgl7Psbfzb2XXJVKOZfbrT2idBpNT122aKW9RglKxWt4vZcf5ABjTiMG7TxMjYtvAMy91e8+6uGb6XZcDLDogR2n1NoVH61lrUPl6LHUjuAqhn/lWOzWyI8+a5xjknEEIsXLUH4G6ecr/0Y+Iv3djeQ4MhQ3k6SeecQ0hxy4O2w4jBiMAfF2WRw3xjco+Fjvrm/V1iMqtLkIVCTlVAndQDfrh3/w7Car6Gq9jedO97/nNXINTzIOQu5gOGWgyq1Ct9uAbv3OjCD918lTfGahl5ZJXgibrEDe2RibyEc/bmPpDThOyoUNuXZWAGyhbduALYa0DDug==;raGlOgakZJowUgY6AuCTYg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "7lEjymUDVc3cI+ilDs0vNq/LL5xRef/auEzPQftzQRQs6IV2lofaX7mMXM9oaAt6PUUWWnKsN5VZlHC9mn8AS4HgGteVtEsiq/8sG1fgza+/zWn3DphOQuRhxhZHSfWsyJ3Kx1j4fbuLFrIqofg9C22f4QfylqPsBsB6i9zy1EMp+/RSgowMtIjqIR8r8QkFR+T8r+glbteN0TevcCtTTt7sIWJTk2X+/WYCmPtXACL2j2nciktjxnhXq5Ru2BcBZpnjEa/lBSsqDSfvW6mY0FDvidGmob0pdZrBVy6A/gCKp0PA0aOaWnwi6pmkNrKXdo52KzWL9WR6m0RYVsyluw==;EqlxcPpD2w36NpU0A2tUng=="
 ---
 

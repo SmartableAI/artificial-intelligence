@@ -319,6 +319,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
+    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
+    publishedDateTime: 2020-07-10T12:55:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
+    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 35
   - title: "Tesla 'very close' to level 5 self-driving technology"
     excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
     publishedDateTime: 2020-07-09T07:49:00Z
@@ -329,6 +340,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "6748VuExcSRXHNSyZ9DXYjDtyDF+/Pww0RHKSi2O9SZwUGdVW9f7zjYoZZ63VOp2Xwr13VRq3xqjXfa+tKDh0DD9yi+02oy5IPqDbo1+TTDhiSgXT5ulwHd+D0BCcIyqqpGIaFEDf28rvWA6V9E/+5IW4U9dRnTw0IGDpjjUouCqRN1sapNLOWSI/CUGfHbCShBNyCPwlGQt60WPpM/wuy2Hioq4JkEtWl7BQ35/QvyAfQTSHswNP0t0BDROD/2zr2b1kGDvuGv3/SUVV6Q9e47raSYLJRWuKq/FnSjunfZ43h+jj277cSj6VjVv0rQI3zIQ0otB5XG1+4LIEYvU5A==;QDaXomWWf3/eYe6DeRm/7Q=="
+secured: "2+o8G5mZx0YxWRRfV13z/maloS/iHBiw9Z73ndsolBEUwi26Oz+rt78gjt9zOxqCPflQDHlEIFWVUekOQVGgVd4W3p/32x96g6RaL6w331Uide+u+EnRqmagfuYW2SOkXzcFE9qZHGCqdLXJbXDFYKNKcAPi8OsuWOLLRekCGUxjGZSyeNscJe9JrWQrC7NQHeB8XQrZhX7CJzKhlX28fiVdrtz2g6K8mbFBH/e6m+gGAf3GhsB8zaseuFtEjCiiTutQwdRluHVWApuFXbNH4D9100aqPZ+gQqpNMWML0YrWaeuEo13dWVkxngLNw5HOYvwQSIS4mgR78XlooweJ6biPJkCQ6NQ5GMivhaN4Ae5StRv6Gp+BmhBUkAIJiPyW/5e4Evq0Q2V7H2ahwlEOcn4iLbgjenkb6QlWpsBRnZAP7Sk8Pjtdx36zXFhmIHKzzd3NY+nS7J8bKosYVrxVkHVupY2R3B2l2NTydYfcwhUkvktppUdxubKbdZVB82IOZ3wCZmuRppTxnc5b039fWg==;W4+RNY79BnW6eax1JpzNig=="
 ---
 

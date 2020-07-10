@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/tech/big-tech/article/3092740/data-privacy-concerns-weigh-heavily-chinas-ai-leadership-ambitions</loc>
+    <lastmod>2020-07-10T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071</loc>
+    <lastmod>2020-07-10T05:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/353006</loc>
+    <lastmod>2020-07-10T05:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/</loc>
+    <lastmod>2020-07-10T04:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/</loc>
+    <lastmod>2020-07-10T04:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/davidprosser/2020/07/10/five-of-the-leading-british-ai-companies-revealed/</loc>
+    <lastmod>2020-07-10T03:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/</loc>
     <lastmod>2020-07-09T23:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -213,6 +249,12 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between</loc>
     <lastmod>2020-07-09T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbronline.com/news/aws-user-data</loc>
+    <lastmod>2020-07-09T01:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -614,7 +656,7 @@
   </url>
   <url>
     <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
-    <lastmod>2020-07-07T04:09:00-07:00</lastmod>
+    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2007,6 +2049,12 @@
   <url>
     <loc>https://www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/</loc>
     <lastmod>2020-06-28T13:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&amp;itm_medium=content_marketing&amp;itm_campaign=content_marketing_leadgen_link&amp;itm_content=leadgen_teaser&amp;itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&amp;vertical=fintech&amp;_escaped_fragment_=/</loc>
+    <lastmod>2020-06-28T11:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3577,6 +3625,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200622005059/en/SDL-Launches-SLATE-Intuitive-Self-service-On-demand-Translation</loc>
+    <lastmod>2020-06-22T00:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/nvidia-unveils-ai-platform-to-minimize-downtime-in-supercomputing-data-centers-2020-06-22</loc>
     <lastmod>2020-06-22T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3757,8 +3811,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19?mod=mw_quote_news</loc>
-    <lastmod>2020-06-19T11:22:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19</loc>
+    <lastmod>2020-06-19T11:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

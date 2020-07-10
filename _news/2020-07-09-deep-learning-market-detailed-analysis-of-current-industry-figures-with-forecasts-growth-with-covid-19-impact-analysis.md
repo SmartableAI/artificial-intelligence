@@ -5,7 +5,7 @@ excerpt: "The scope of the report includes a detailed study of Deep Learning Mar
 publishedDateTime: 2020-07-09T23:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

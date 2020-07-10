@@ -327,6 +327,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
+    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
+    publishedDateTime: 2020-07-10T12:55:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
+    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 35
 
 secured: "VNzGEZcf6pNaIu1tBWC2X/xrpJPQAnL4nGhRMl4YrjK5welTyfVaiRs6pG+4C8aMy81Qej42EFR0jjEerSeohbr68HKgXYhnO5lhw4s6/0JYvm6A8KPNiCk5xbkdbm70J0/oaJgMPh2lmoes7JvZN1Wp+mIu/yTt+PcXUFhjd5B2LS8kam/X9IUwyh8A4vtyCYJaMWraF2xKDJe9TqXk1JyiR/EcNJCmSrvV7XxIF3tOEKT4l68vDQea+lDjC+04mPSRoFysmWqfMoKnToWHkP+yNnSNjqsS7qxFeMoO0aqoUeAvkxH4Hpa8GPytpHQQpJksunHk8+zxhJFR57Wmbw==;zZXVGs2CqDwfVVp09vYDWw=="
 ---

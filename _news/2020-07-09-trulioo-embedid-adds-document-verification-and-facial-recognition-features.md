@@ -97,6 +97,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Defending Black Lives Means Banning Facial Recognition"
+    excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
+    publishedDateTime: 2020-07-10T12:00:00Z
+    webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "UK and Australia open joint data privacy investigation on Clearview AI"
     excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
     publishedDateTime: 2020-07-09T15:41:00Z
@@ -165,6 +181,17 @@ related:
         width: 1080
         height: 688
         isCached: true
+  - title: "Is Facial Recognition Technology Good Or Bad?"
+    excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
+    publishedDateTime: 2020-07-10T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -648,6 +675,15 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 29
+  - title: "Facial recognition firm investigated"
+    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media"
+    publishedDateTime: 2020-07-10T11:00:00Z
+    webUrl: "https://www.avpress.com/news/newsline/facial-recognition-firm-investigated/article_55c36b92-c258-11ea-9d3e-afc7e27a0f24.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 19
   - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
     excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
     publishedDateTime: 2020-07-09T07:15:00Z
@@ -662,6 +698,17 @@ related:
         width: 2321
         height: 798
         isCached: true
+  - title: "Comelit Group offers Alexa integrated monitor with facial recognition technology to enhance door security"
+    excerpt: "Comelit Group’s Mini Handsfree WIFI Monitor has evolved to integrate with Amazon Alexa, and offer high-performance facial recognition technology, for the ultimate smart door entry"
+    publishedDateTime: 2020-07-10T10:49:00Z
+    webUrl: "https://www.sourcesecurity.com/news/comelit-group-offers-alexa-integrated-monitor-co-449-ga-co-1537871022-ga-npr.1594363204.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/comelit-group-offers-alexa-integrated-monitor-co-449-ga-co-1537871022-ga-npr.1594363204.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/comelit-group-offers-alexa-integrated-monitor-co-449-ga-co-1537871022-ga-npr.1594363204.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 7
 
 secured: "65xPo2pXGcr2XGP+tu40nWWv1ZYw9qpEn2JCz43rdRA2Iu58hdHW2k/UVAq1CH7eAiBgv6bb7SE7kc3lMNKp06Kn9+e/6hzBV1treZMrQIseePv58j19DHFqNKJ8V4GFprUqNQThe0wJB1dQYYAaBMOG9wWtlTzdy/+WswOiDD/14Xf5VAolOcrmqqPkeEiFI0g+3gVT7sVK97xs9abQhyIVFw1c8vpVRH8IA3ydWNh9vhUlcELu8VI18isLa1mC/m6u8UNAtRlIxZwWbY4WwxBMnE6ay7VQ2MXmeIkD7K0F89W/qZ6FB7GRf0uc/lzQKiS9kAewnrGhEFwHfoIvMg==;BHJqgnR+O9D5zVfc1MOa8w=="
 ---

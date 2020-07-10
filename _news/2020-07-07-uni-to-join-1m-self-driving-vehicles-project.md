@@ -45,6 +45,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 9
+  - title: "Mobileye and WILLER partner on self-driving mobility solutions for Japan, Southeast Asia"
+    excerpt: "“We look forward to collaborating with WILLER as we work together for new mobility in the region by bringing self-driving mobility services to Japan, Taiwan and ASEAN markets.” “Collaboration with Mobileye is highly valuable for WILLER and a big step ..."
+    publishedDateTime: 2020-07-08T15:33:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 0
 
 secured: "/cgLKJ2NmFxrUYqxRK6qaH693VhUBSBATKGLzEyPJZ+i+22sf6r4xugV1M2FVIEoLOHDtcdlNadXtLE8xZTShxzwvlR9rzgzaQW5alYzgdQ5stiwc3u9pAfgAxMfL2d+8+9qW1tFwz3upculm/LVc3kjZNNHXY4AIeqt/ESPdPzu5a1LlnSLn8AiQjB7S+MCz0SpZdqpVN5WbbTRkB6Sy/85mM7NvFYKnkMBv/1zRCDVkc56Jd7sDkC4njowatiR0llzGGRcs7cNclz7GpqNr8A4zKVVj+yVczYb4Aj1DB0H/+7SzPu74GuGob6nSEekXP4jyBMwg5UnCjFOZ6Sfag==;TYeSf6Jl3LEn0Z3GY586Ug=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 720
     height: 386
     isCached: true
+
+related:
+  - title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
+    excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
+    publishedDateTime: 2020-07-06T16:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "N222Cso7lOpD+NIvskNgYQnR0A+ytC4xl6p6vvoRQbGq3fKL7PDEirBRy/TYPk9uBgKIvMGYVqMaAEZuZBL4hScmF4tgKdXGh7ZsQ16VfdpV0vuJKxynt4WPaYDyOGVgv2O+Cmy38f+tOVWYOISkeWa/k5GTxRCuGALTAikC9pZjSx6sDKii3XXnyk8sZyeo1EPlag43mXSeJocCut3+zRCP07JJjcK9C3uSpPofbBuBPQ2rKfCueg5VO7j+Z9A5xAIdGsOySL6SBO94XWTMLOULxIwBfoOF2MwrAM9d7d6hUcPV3iCeDE8svoh0H49Gzz5I8dXZUsiLsq+XP4k2Zg==;PWqe3yLIKHaDbEmwtcBiUA=="
 ---

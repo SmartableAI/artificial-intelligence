@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure"
-excerpt: "The availability of the ignio SaaS suite on Azure will enable quicker configuration and deployment ... It blends artificial intelligence and machine learning to deliver autonomous enterprise IT and business operations, with out-of-the-box features that ..."
-publishedDateTime: 2020-07-07T11:09:00Z
+excerpt: "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud."
+publishedDateTime: 2020-07-07T11:25:00Z
 webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
 type: article
 quality: 59
@@ -45,6 +45,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "Sb3plgA+yX4Pq3TQcUFvfVJN80Gnaob1tzEMJul3OiGDvAUK+jC0b8ff4T4KrFemeKiSuOajPU0k41eF+r3NblSaV7DB/EkGfuf4uKjBJF1Uhe7QRqIdtKbznQr6ByxPzsWudftCb3fGVKd7QJ8VLZf8ACdWreKRaEDZcsVdBUg/miNXHEBaJMlutBIEA4fM5Mcs9XUtkL08ugx+gfglURhX7GVUAXjF28nIIMgPEmnDN3NUJ9IpBFUUANJXRxz4MiO41ckQSz++D1KmrLc8D/6miiRQzvog3xIwDEfvdjKlGAmPfvVs3Gd1Qa1ofTF2dEB6G5v828vmRGG99iqKyQ==;/3Lr+HolxcQfhMyvoHSOWg=="
+secured: "Lryr3x+YnfE4p0uzhnMQfwpTCVpqGYCDr23RtLS17hCVWK9ZmGkNE6tCeMOJEVoJsVsCOCn3tip2HXrx+J67n0ABYyczNvj+6KHVqvs87ZZVlnSy/wSD0V0Dj9Y5/4YlrKURLI5/8EyDNBHgLL66bC3ELJ/S0P2gkjqBqAlWzueQIXrxBdsUhJjmZLr0ytrQbZAHJAHbnuRp8pSc9jY3BmaorapMT+CZ9Txh0XZsE01tjIUa9UCIJXZElVDRG6raU/fnsDbUVbFBWv2UAyCYd0IJFaKAsLASbwfPVJgVWyfHIumEVCOxz+m79i99oAuB8w4Q3tHiu2xg/lKh+yjZEg==;U9uAXEPfa8quUdQ0Cfe0Xg=="
 ---
 
