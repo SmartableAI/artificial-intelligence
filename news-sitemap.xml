@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7</loc>
+    <lastmod>2020-07-10T10:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/10/facebooks-ai-separates-speech-in-recordings-of-up-to-5-people/</loc>
+    <lastmod>2020-07-10T09:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/products/translate/tools-language-access-covid-19/</loc>
+    <lastmod>2020-07-10T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/</loc>
     <lastmod>2020-07-10T08:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -169,12 +187,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cnet.com/news/this-12-year-old-ceo-is-giving-free-coding-ai-classes-during-covid-19/</loc>
-    <lastmod>2020-07-09T07:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/09/ai-at-the-edge-is-enabling-the-push-toward-defect-free-factories/</loc>
     <lastmod>2020-07-09T07:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -219,6 +231,12 @@
   <url>
     <loc>https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/</loc>
     <lastmod>2020-07-09T06:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx</loc>
+    <lastmod>2020-07-09T05:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -529,12 +547,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php</loc>
-    <lastmod>2020-07-07T14:51:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/</loc>
     <lastmod>2020-07-07T11:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -705,12 +717,6 @@
   <url>
     <loc>https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy</loc>
     <lastmod>2020-07-06T13:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
-    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1459,7 +1465,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

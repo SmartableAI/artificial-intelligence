@@ -32,20 +32,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Robots to the rescue"
-    excerpt: "Driven by the coronavirus pandemic, service robots are gathering steam among medical, retail and eatery sectors as a way to address social distancing measures."
-    publishedDateTime: 2020-07-06T00:09:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1946496/robots-to-the-rescue"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2020/07/06/3682560_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "z/CuaBfUkS1mtV9dzSQ+QCGI+OeMTtjH+Idtwrarl58hyeRgF8jYV5d4B4eHZBlG7jftGRS2u9OgeCNudA1gEE6ZHWZ2raGWHMnc0hc6Ge9bGNhxtWdfdag/iau1LTXtt12WIoUIqwIzlHroaWUCwp0MJ1bwOXDS//W8bwtc2l2avW096VVh/mIlbT3gPSnfFXUivYvHtccHW0EhGSUJ+vAIR4OOMhbwDm1XVMIAtoPbmBhyaysCeNYcDdoryAlwe34kzizfG0YDZ9xZh5x8LSIjSh90c0lywIGuTjbZta6MIDPyMc4KeLFHPgqIrcxGJgWlEFowluhKqMi0kA/Y8g==;zBQ6z3EkUK4WPuirSfnHww=="
 ---

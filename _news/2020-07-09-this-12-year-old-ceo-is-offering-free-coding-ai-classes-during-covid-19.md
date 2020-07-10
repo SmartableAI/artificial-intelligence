@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-12-year-old-ceo-is-giving-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-12-year-old-ceo-is-giving-free-coding-ai-classes-during-covid-19/"
 type: article
 quality: 86
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNET
@@ -29,15 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Hearing on COVID-19 & Use of Artificial Intelligence"
-    excerpt: "Watch LIVE On July 08 | 12pm ET | C-SPAN.org 2020-07-08T12:00:00-04:00https://images.c-span.org/Files/77c/1594160817.jpgThe House Financial Services Task Force on Artificial Intelligence (AI) examines the use of AI technology to combat the coronavirus ..."
-    publishedDateTime: 2020-07-08T11:47:00Z
-    webUrl: "https://www.c-span.org/video/?473693-1/hearing-covid-19-artificial-intelligence"
+  - title: "Tools for language access during COVID-19"
+    excerpt: "Translation services make it easier to communicate with someone who doesn’t speak the same language, whether you’re traveling abroad or living in a new country. But in the context of a global pandemic, government and health officials urgently need to deliver vital information to their communities, and"
+    publishedDateTime: 2020-07-10T16:00:00Z
+    webUrl: "https://blog.google/products/translate/tools-language-access-covid-19/"
+    ampWebUrl: "https://blog.google/products/translate/tools-language-access-covid-19/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/tools-language-access-covid-19/amp/"
     type: article
     provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 17
+      name: Google
+      domain: blog.google
+    quality: 94
+    images:
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
+        isCached: true
+  - title: "Is Covid-19 accelerating automation? Lessons for the advent of AI"
+    excerpt: "Long before the coronavirus pandemic, advances in artificial intelligence (AI) were already causing unprecedented changes in work and business around the world. Now, some scholars are drawing new lessons from today’s crisis that may further impact the ..."
+    publishedDateTime: 2020-07-07T05:44:00Z
+    webUrl: "https://www.forbesindia.com/article/darden-school-of-business/is-covid19-accelerating-automation-lessons-for-the-advent-of-ai/60617/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 37
+    images:
+      - url: "https://www.forbesindia.com/media/images/2020/Jul/img_137179_automation.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "qFaKXnKFaC4+L+bfev/yE8e7QP2heWaitGOQn2NwHz3VLGt8ZZcHH0vXVU0qWpiCFWO4kDW4g2snL6V3/dL1/MxT2QSGn862usGLWzFKcOrH5Q4SlOMdiGB9q4oZaJpE7khQYcfjGGE8QuZIok81mwfCvBe/047cTw5vvsMPudeqgxtSm3BC0TUbALGjdWI3eDgDcWw+s0jJ5+eI3+LMjT6k2r2xuIltpkunBcA80JQca8H6Xci52LwMOF8Ya2P8H5W8xQru4wfY5cKlb1snKLJIvBAd82Wl3Q9H1g9TpeZYxcoqutP+EEOyFdVSq4cew/nU3JsXX1SNT5J67jqcVmvt3VDkEIeW0XcsPVO2duJ/tgGqyVSPWkLTe2/a+0Pqhz9tvLaeU9Kx9Z5ney7MOYaMTwgtnDprZeh/XdDYdq7KbKFMwLPsXxY3Bk0jDhaQkBKSd/1VZJ+LQ/U/E6AJcGnqjMJMjMsdGw4qpNLV35QT2PseyiuLXK9KkiALUNDHrlD8LwHltLhOf4V4qKCIBQ==;xHupz3+axKH0kt9F/NxruA=="
 ---

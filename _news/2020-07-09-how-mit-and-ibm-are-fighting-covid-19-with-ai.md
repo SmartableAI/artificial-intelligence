@@ -42,6 +42,15 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Hearing on COVID-19 & Use of Artificial Intelligence"
+    excerpt: "Watch LIVE On July 08 | 12pm ET | C-SPAN.org 2020-07-08T12:00:00-04:00https://images.c-span.org/Files/77c/1594160817.jpgThe House Financial Services Task Force on Artificial Intelligence (AI) examines the use of AI technology to combat the coronavirus ..."
+    publishedDateTime: 2020-07-08T11:47:00Z
+    webUrl: "https://www.c-span.org/video/?473693-1/hearing-covid-19-artificial-intelligence"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 17
 
 secured: "/jh2E4mSB9qABhb2wXNjf2gLAQOHi116nmCZLB8R9opdtxLInfueGQ4dgT+Ct4MFMJG3xgiPpjSAIGpBPjOil+kA2R1tRic/svln8D4rUkMsbPhxgiD+RGp4RLNhSvOb11zv8Ko+uLjShB5LdScXfwOZx0VO7KeVh94A2zNaN03xgarXwrqKVFE+sFY1aFUx8P2ysCgCnnRUAn55/jSezqk5wBS9JAqJYP3O7PUo33m6jroEDDLMakHgTTG3QQQ16MuLa0lX48WdS42HytKJW8wYWVPdtfA+yPYboyWeH6XKHSWb1g5+6196M2AajeHQ0fruYuzUrnYkhTMLq/8RDUn5JkeTN46ZgEi7z0g4XVSbsiMIzgCsfbR7mj+tl+x2LlMnOHNDnWpUT+dv7FO49ifnCTqDuLInTtVKf94PCLpQsjxneBbGnLPXdsQtP8iGnzIGFwWXlBrpmlI8eNky/eMoppvuQcWZTZiQc0zZwFd/aQ9gtI2AaYt9xKmkP9U+LxtmUEW5RWMPBl+VONoqXg==;oDobr8fPdKFEwGAyoICbqQ=="
 ---

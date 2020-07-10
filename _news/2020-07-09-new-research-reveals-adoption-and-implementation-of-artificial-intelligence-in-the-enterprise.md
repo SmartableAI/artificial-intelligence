@@ -1,43 +1,52 @@
 ---
 category: news
 title: "New Research Reveals Adoption and Implementation of Artificial Intelligence in the Enterprise"
-excerpt: "Key Findings in the 2020 State of Artificial Intelligence Organizations varied a great deal in terms of where they were in their adoption of AI. The largest percentage of organizations (36% ..."
-publishedDateTime: 2020-07-09T17:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/new-research-reveals-adoption-and-implementation-of-artificial-intelligence-in-the-enterprise-1029381742"
+excerpt: "Informa Tech media brands, InformationWeek and ITPro Today, today announced findings from their latest research survey the"
+publishedDateTime: 2020-07-09T17:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16574174/new-research-reveals-adoption-and-implementation-of-artificial-intelligence-in-the-enterprise"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16574174"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16574174"
 type: article
-quality: 36
+quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 related:
-  - title: "Enterprise hits and misses - the future of work vs mental health, Macy's vs reality, and AI vs enterprise results"
-    excerpt: "This week - employers are pushing to re-open, but the future of work brings a slew of new issues. AI gets an enterprise reality check, while Macy's takes glass-half-full to a digital extreme. The diginomica team rounds up one more wave of virtual events."
-    publishedDateTime: 2020-07-06T09:43:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-future-work-vs-mental-health-macys-vs-reality-and-ai-vs-enterprise"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-future-work-vs-mental-health-macys-vs-reality-and-ai-vs-enterprise?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-future-work-vs-mental-health-macys-vs-reality-and-ai-vs-enterprise?amp"
+  - title: "International probe launched into facial recognition firm that scrapes images from the internet"
+    excerpt: "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ..."
+    publishedDateTime: 2020-07-09T11:25:00Z
+    webUrl: "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 36
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
+      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
+        width: 3999
+        height: 2666
         isCached: true
+  - title: "Official Launch of the International Centre of Expertise in Montréal for the Advancement of Artificial Intelligence"
+    excerpt: "\"With the artificial intelligence revolution, which is evolving at breakneck speed, it is essential to put in place organizations that can ensure the responsible development of this new technology ..."
+    publishedDateTime: 2020-07-09T17:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/official-launch-of-the-international-centre-of-expertise-in-montréal-for-the-advancement-of-artificial-intelligence-1029380134"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/official-launch-of-the-international-centre-of-expertise-in-montréal-for-the-advancement-of-artificial-intelligence-1029380134"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/official-launch-of-the-international-centre-of-expertise-in-montréal-for-the-advancement-of-artificial-intelligence-1029380134"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
-secured: "ADPS5crgb/KYC0pXrRsi3d+SAsKNCbe+5sVMyqOj3WM+nCHm3eNJ+TvCCd5gEOOQOvXgGzjMihlw6Nl9+awPVAQJJDudZ8gX4VJgoRYQTGaeiB9SyxiTtegEGu9ZTmlpMPDjmIgJ6BcdtGKRfy38NZo9mKO+1La+CUdnsOsta4NvMiujrr+IPmrveJuzPKd+L4qFbfo+xE4/rE/WCVRyGpmtrZx+QOeisG413I/OrczfbTIj2gJajhVJ+zFESdssRHgwLckNNqOZyaHJcphnYVhu3LkkUgFz8lcMWcwoNORQraAQzhbYhxPx3funRkMfjAAN1day0HF7ODT9uD7lnA==;4834lO+kEfHshrYStADgjA=="
+secured: "EsfzEgj/5uFZQs+y9iLJOAB3GV5cyvbutSyezMLMOk7ClVEC+0WihB9Z2sYnaAtyBYc3mFqnH657MH4uPuBaNqWBb9iyILAmRm3+ad9fAqNwM+fMhV7uew7Hmb3ju2vTSfqBYJ5BN+N9i5uAmtK3lfI9I1Ly2Iv53b1dhnUkaH66J2sXRPTBpPOjkI74ZIONxSpTHesedyQr4vk+LrvzY7jjWRzHZlVX7oxw5j67bkeuK1+Z0qUYcdjyoAUeQXZyqPnG/i/1wWzKTb5X1mSmP8CUzZJeGXy38yhTE7dOnxCKyHzawOyld+r/1Wv85Dd+4/b0G7u6kLTflbLJm1pRzw==;I2St2ksBxWFHESMkC7FXjA=="
 ---
 

@@ -22,7 +22,7 @@ topics:
   - Microsoft AI
 
 images:
-  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f941a68-ca14-412d-be70-049345540ed0.jpg"
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -130,6 +130,6 @@ related:
         height: 512
         isCached: true
 
-secured: "AU12Iwgp8hK7H9sDUoXC6BnUgkuVFwR3YCkPS1/Ab5I/mSE9LTGy1WLnUrJcsSiheDkEJj/Lt1DKv6GETmWQn/ByGVu7zxP8zDqcPCbgjaW0vEoi6aUXPnDflieG3o7Yf8eMpxTSVheLNUDw3TKr1juaf6yKQbX7WQ6bIkUp/a00dUNcRRJJr+AwSKkFHYx0zhNVGt5HJ04YI6MRFRrNBm+OtiOlK4eDPIMJvVmGkXNNsEHyU9Fc1Vj9fIvTaqMTv0D3tBqVCUIn7/Z4vTGocnZECpCMEUddcL51qiEa6uLAq3Zah8vX6CMKMlLoo5fyBzoZVxV9dFuu7xl4VYf5WA==;LLA15qk8i10Yz1MH9Oupng=="
+secured: "TbfQoEwH3pIkP4oCvINF+6NATfVvNoMvvwe/xycq1Y9e8wnGXVoAGlJKiSV24FWFUzPvb2h1ZefT1QyK22EDf7b7EzeONl2tTtx8TdpEcHiCuaSaJisQfzDbC89XC7zoupEuk+wWPQY3qqWxcxm6nU66ANo3yccFjX3F5B4j4j+h5Wqh0qDsh6dWoPEq294a5gq+qvkX8IFqueKChSFk33ZZakTgI8+7iCak3iCkZEEh98o5E8j1/Fn9B84/0yUCuYOsg8mnZHkf7grmS38gJWW4u7t4ALKsSvVZMY5e5OwOlwYoKtygNLgAmN9NDOr/ZFzdw/fmZMeiTGb02EZGxA==;AjrLZmXj4giKYAWPkm+2xQ=="
 ---
 

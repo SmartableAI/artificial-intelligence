@@ -42,7 +42,7 @@ related:
       domain: microsoft.com
     quality: 114
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f941a68-ca14-412d-be70-049345540ed0.jpg"
+      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
         width: 1024
         height: 576
         isCached: true
