@@ -2,10 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-08-amazon-agrees-to-buy-self-driving-technology-startup-zoox.md",
+      "title": "Amazon agrees to buy self-driving technology startup Zoox",
+      "excerpt": "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9",
+          "width": 810,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications.md",
+      "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+      "excerpt": "Dubai Electricity and Water Authority (DEWA) was awarded a certificate of acknowledgement from US-based NVIDIA Corporation for being the first UAE government organisation to adopt NVIDIA GPU Computing",
+      "sourceUrl": null,
+      "webUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.695296.1594189204!/image/image.jpg",
+          "width": 749,
+          "height": 446,
+          "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2020-07-07T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety.md",
       "title": "University of Melbourne and Cubic test AI camera to improve road safety",
       "excerpt": "The University of Melbourne and Cubic Transportation Systems have partnered to test how an artificial intelligence camera can be used to improve road user safety and traffic management. As part of the project,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
       "originalUrl": null,
       "featuredContent": null,
@@ -54,7 +145,7 @@
       "path": "_news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children.md",
       "title": "UCLA launches an AI robot to support the emotional needs of children",
       "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
       "originalUrl": null,
       "featuredContent": null,
@@ -95,7 +186,7 @@
       "path": "_news/2020-07-07-welcome-robin-the-ai-robot.md",
       "title": "Welcome, Robin the AI robot",
       "excerpt": "The artificial intelligence system was developed by Expper Technologies, a Silicon Valley-supported startup with roots in Yerevan, Armenia. Robin's technology enables the robot to build what is ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-welcome-robin-the-ai-robot/index.json",
+      "sourceUrl": null,
       "webUrl": "https://eurekalert.org/pub_releases/2020-07/uoc--wrt070720.php",
       "originalUrl": null,
       "featuredContent": null,
@@ -136,7 +227,7 @@
       "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
       "title": "Facial recognition market to surpass $12 billion by 2026",
       "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
       "originalUrl": null,
       "featuredContent": null,
@@ -186,7 +277,7 @@
       "path": "_news/2020-07-07-autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation.md",
       "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
       "excerpt": "Hungarian autonomous driving startup AImotive is leveraging its technology to address a different industry and growing need: autonomous satellite operation. AImotive is teaming up with C3S, a supplier of satellite and space-based technologies,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/index.json",
+      "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/",
       "originalUrl": null,
       "featuredContent": null,
@@ -235,7 +326,7 @@
       "path": "_news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents.md",
       "title": "CoreLogic launches AI driven platform for real estate agents",
       "excerpt": "CoreLogic said that OneHome streamlines communication between agents and home buyers during the purchase process, while also providing access to financing, insurance and home improvement providers.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
       "originalUrl": null,
       "featuredContent": null,
@@ -284,7 +375,7 @@
       "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
       "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
       "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
       "originalUrl": null,
       "featuredContent": null,
@@ -334,7 +425,7 @@
       "path": "_news/2020-07-07-adobe-tests-an-ai-recommendation-tool-for-headlines-and-images.md",
       "title": "Adobe tests an AI recommendation tool for headlines and images",
       "excerpt": "Team members at Adobe have built a new way to use artificial intelligence to automatically personalize a blog for different visitors. This tool was built as part of the Adobe Sneaks program, where employees can create demos to show off new ideas,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-adobe-tests-an-ai-recommendation-tool-for-headlines-and-images/index.json",
+      "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/",
       "originalUrl": null,
       "featuredContent": null,
@@ -383,7 +474,7 @@
       "path": "_news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks.md",
       "title": "Google’s TensorFlow gets a new test for training data leaks",
       "excerpt": "Google late last month debuted experimental tests for its TensorFlow Privacy library designed to reduce the degree to which machine learning models leak identifiable personal information in",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-googles-tensorflow-gets-a-new-test-for-training-data-leaks/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.biometricupdate.com/202007/googles-tensorflow-gets-a-new-test-for-training-data-leaks",
       "originalUrl": null,
       "featuredContent": null,
@@ -425,7 +516,7 @@
       "path": "_news/2020-07-07-researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes.md",
       "title": "Researchers detail texture-swapping AI that could be used to create deepfakes",
       "excerpt": "Researchers at UC Berkeley and Adobe Research propose in a paper Swapping Autoencoder, an AI tool that could be used to create realistic deepfakes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/07/07/researchers-detail-texture-swapping-ai-that-could-be-used-to-create-deepfakes/",
       "originalUrl": null,
       "featuredContent": null,
@@ -474,7 +565,7 @@
       "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
       "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
       "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
       "originalUrl": null,
       "featuredContent": null,
@@ -524,7 +615,7 @@
       "path": "_news/2020-07-07-robot-janitors-could-soon-be-coming-to-schools-near-you.md",
       "title": "Robot Janitors Could Soon Be Coming To Schools Near You",
       "excerpt": "In the latest news about robots taking over the world, MIT has developed a robot capable of disinfecting an entire 4,000-square foot warehouse in 30 minute",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-robot-janitors-could-soon-be-coming-to-schools-near-you/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
       "originalUrl": null,
       "featuredContent": null,
@@ -565,7 +656,7 @@
       "path": "_news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes.md",
       "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
       "excerpt": "Researchers developed an AI tool -- WattScale -- that can identify energy-inefficient homes anywhere in a region with sufficient data.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/",
       "originalUrl": null,
       "featuredContent": null,
@@ -614,7 +705,7 @@
       "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
       "title": "Machine learning helps grow artificial organs",
       "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-machine-learning-helps-grow-artificial-organs/index.json",
+      "sourceUrl": null,
       "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -656,7 +747,7 @@
       "path": "_news/2020-07-07-an-online-propaganda-campaign-used-ai-generated-headshots-to-create-fake-journalists.md",
       "title": "An online propaganda campaign used AI-generated headshots to create fake journalists",
       "excerpt": "At least 19 fake personas were used to author op-eds published in dozens of mainly conservative publications, with AI-generated headshots of would-be authors used to trick targets into believing the writers were real people.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-an-online-propaganda-campaign-used-ai-generated-headshots-to-create-fake-journalists/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.theverge.com/2020/7/7/21315861/ai-generated-headshots-profile-pictures-fake-journalists-daily-beast-investigation",
       "originalUrl": null,
       "featuredContent": null,
@@ -702,59 +793,10 @@
       ]
     },
     {
-      "path": "_news/2020-07-07-qureai-won-fda-clearance-for-its-ai-powered-head-ct-scanning-tool.md",
-      "title": "Qure.ai won FDA clearance for its AI-powered head CT scanning tool",
-      "excerpt": "Qure.ai announced that the FDA granted clearance for its head CT scan tool, dubbed qER, that will assist radiologists in triaging patients.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-qureai-won-fda-clearance-for-its-ai-powered-head-ct-scanning-tool/index.json",
-      "webUrl": "https://www.businessinsider.com/qureai-earns-fda-clearance-for-ai-powered-triage-tool-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5e440fa64b661b28f45e7d34?width=1200&format=jpeg",
-          "width": 1080,
-          "height": 540,
-          "title": "Qure.ai won FDA clearance for its AI-powered head CT scanning tool",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-07-the-jedi-mind-trick-by-ai-its-already-here-and-in-politics.md",
       "title": "The Jedi Mind Trick… By AI? It’s Already Here… And In Politics!",
       "excerpt": "Ever imagined having the power of the Jedi mind trick? The ability to influence and persuade people without them realizing it has crossed all of our minds in some fashion. While humans haven't achieved this capability,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-the-jedi-mind-trick-by-ai-its-already-here-and-in-politics/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/neilsahota/2020/07/07/the-jedi-mind-trick-by-ai-its-already-here-and-in-politics/",
       "originalUrl": null,
       "featuredContent": null,
@@ -803,7 +845,7 @@
       "path": "_news/2020-07-07-this-saas-based-startup-is-disrupting-call-centre-market-with-ai-based-voice-bots.md",
       "title": "This Saas-Based Startup Is Disrupting Call Centre Market With AI-Based Voice Bots",
       "excerpt": "Bengaluru-based Vernacular.ai in May 2020 raised $5.1 million in Series A funding led by Exfinity Ventures and IAN Fund",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-this-saas-based-startup-is-disrupting-call-centre-market-with-ai-based-voice-bots/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.entrepreneur.com/article/352913",
       "originalUrl": null,
       "featuredContent": null,
@@ -853,7 +895,7 @@
       "path": "_news/2020-07-07-monkeylearn-raises-22m-to-build-out-its-no-code-ai-text-analysis-service.md",
       "title": "MonkeyLearn raises $2.2M to build out its no-code AI text analysis service",
       "excerpt": "A few years back, startups focusing on artificial intelligence had a whiff of bullshit about them; venture capitalists became inured to young tech companies claiming that their new AI-powered product was going to change the world as hype exceeded product reality.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-monkeylearn-raises-22m-to-build-out-its-no-code-ai-text-analysis-service/index.json",
+      "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/07/07/monkeylearn-raises-2-2m-to-build-out-its-no-code-ai-text-analysis-service/",
       "originalUrl": null,
       "featuredContent": null,
@@ -902,7 +944,7 @@
       "path": "_news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips.md",
       "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
       "excerpt": "Xmems is unveiling Montara, which the company believes will bring high-quality audio, reliability, and better costs for headphone earbuds.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/",
       "originalUrl": null,
       "featuredContent": null,
@@ -952,7 +994,7 @@
       "path": "_news/2020-07-07-incorporating-ai-in-telehealth-chatbots.md",
       "title": "Incorporating AI in telehealth chatbots",
       "excerpt": "Tonya Hall talks to Evan Kohn, chief business officer and head of marketing at Pypestream, to learn more about the difference between scripted vs pre-defined AI chatbots and how both of these roles can be used to enhance the telehealth experience.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-incorporating-ai-in-telehealth-chatbots/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/video/incorporating-ai-in-telehealth-chatbots/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1001,7 +1043,7 @@
       "path": "_news/2020-07-07-shoppers-will-interact-with-robots-but-do-have-limits.md",
       "title": "Shoppers Will Interact With Robots, But Do Have Limits",
       "excerpt": "Consumers are open to robots aiding their shopping journey and even making their next meal but draw the line at a machine spending their money without their involvement.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-shoppers-will-interact-with-robots-but-do-have-limits/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1051,7 +1093,7 @@
       "path": "_news/2020-07-07-covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026.md",
       "title": "COVID19-Updated: Artificial Intelligence (AI) Market By Technological Breakthroughs To 2026",
       "excerpt": "As per the research held by Acumen Research and Consulting, The global Artificial Intelligence (AI) Market size is expected to reach USD 160 billion by 2026 with a CAGR of 49% over the forecast period.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026-2020-07-07",
       "originalUrl": null,
       "featuredContent": null,
@@ -1100,7 +1142,7 @@
       "path": "_news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox.md",
       "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
       "excerpt": "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1127,56 +1169,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships.md",
-      "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-      "excerpt": "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships/index.json",
-      "webUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "publishedDateTime": "2020-07-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

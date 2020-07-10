@@ -1,21 +1,19 @@
 ---
 category: news
-title: "Facial recognition firm Clearview AI probed by UK, Australia for privacy issues"
+title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
 excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-publishedDateTime: 2020-07-09T13:18:00Z
-webUrl: "https://www.reuters.com/article/us-clearview-ai-investigation-idUSKBN24A110"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A110"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A110"
+publishedDateTime: 2020-07-09T16:16:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-09/facial-recognition-company-clearview-ai-probed-by-uk-australia"
 type: article
-quality: 80
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -668,6 +666,6 @@ related:
         height: 798
         isCached: true
 
-secured: "PvyfV7Psk4FTmx+dXMA8McEzE9b9AXlVgt36CIzZ/btNAqcR4AjRAFgymm4ZnRuzhgIKeyb1XTFVq5M6l0KKdvMCdy+3+RtP5cSbyBhFDPxCJg+/y6m3XnyyEasELsVsgLqTq6RiBAJGfhPdjW+l62BRuCJcTcLbFCqTfiynS+1tg4BAEls/3Fa7VGD24lzoy/rTa3PnfDGAtZoUmbLwP6JXwqS1XeHULcoSt15GfYx2P9yLlmUJB122Ly+tCmJFKLOEQ1PehLNc2lSYSaF7QJv8hoLBsIPWCbrqkpTeeHFN2tscTLQQzOnCVx6joD0rHmuuLjA4rgq8QJIQGmFg6w==;kQE7Y1kXnWJjbXN8HzPFXg=="
+secured: "SyKRHNH/S6NLjMw6BSOZub8UUCAvgG1TrXVXNRILHcTxULFbpCd1uYygnV5R6RjtMaAFh4SrijQoT0qZ8JdtoUuODRzPoD+40kWzIpYeI5dUGZL7y31UgXURd32VgmHuRWPkqAjcdrZdZqcBPbHQCbfSvFulabju43fGiDO8MpZGCjCLHbVdIxynYdnbogLAQNCpLgN7TIgx2YvlhdMh+0Cq8zByIw6NDjccHaHxkDu4bQL/sk3BHIvQMzNIa6SZ2WUPZqJj8FDW6iezV8bmuPRJ1H3XhzK0C+AQonwEc87J7pMB33E0oumbnHjn5eJDjlbt6KLZc2wxO3TNDz16dg==;7rmrzC4hnvouaP/ZSoGM0A=="
 ---
 

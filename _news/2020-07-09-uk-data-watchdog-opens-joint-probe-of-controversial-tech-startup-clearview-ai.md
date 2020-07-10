@@ -2,10 +2,10 @@
 category: news
 title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
 excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
-publishedDateTime: 2020-07-09T13:01:00Z
-webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/"
-ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
-cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
+publishedDateTime: 2020-07-09T23:30:00Z
+webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/?mid=1"
+ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
+cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
 type: article
 quality: 54
 heat: -1
@@ -74,6 +74,6 @@ related:
         height: 675
         isCached: true
 
-secured: "PbnS/7UnDccPJhGgye2EU8ot/TT3B5A/TaGr93GQ1aUvRpeXa6j7iH685EzNFzYsnwAA+g7dJReh+48QAFHDUN1ahlATnnR6uSGrnppASgGWdug/qsGas/a3x/QUUF0HPY59bjylXA6utTHQlmOElVuDT9ZHY8odJn3V0xee3Uy7kT4HdYWQmBQrol1hiDAboJm0DbDzmsxuB0SBfmGigAihpGhT+395g6QyPv9irzmlIG7qODkYgpEjj47V3CtOFv4hyNF20PEKgoUcpcreDl7HCA40mnsS6xJg3ZFxyXCEyVVfJKQlhDZdzmmWw0/yheCDYElfhfoXaPYNcYX+yVdXmAgOJuKiIWz9akUIMZavkp+YMX9wBWY5CO5IY0c7RqnM5X+REqlTBBwSLvWG0x2gjFbnEnuNxUIcTD3sSJqdm1j/y3NW8iFOjPgv9TMlb4K0C98qJaB07ibd6XPkTnAIid931m2PKPb/Rh7lg/fvQV6iv8qbLe5t2GLP8Dh2ikebEskm82QrcvQOmcPDyQ==;1t0HkWOOClCNAzwuOBeWUg=="
+secured: "0IM30okLHSVhQpHvm8Ucu387J8VrMGhyEd+p3dLUsfcwn/8oVrVHFmBfxq5Q2t0mbWu/hgnFquG/z93fPcTW6kSWox5rAIqCH7fKFV8PeLWkKT7QhjArbCCqP5tGtvBZy/M+efvqv/vyREqfT1WGP624/lfW9DAo+37qlPaV/7cuMQPw+DIpMCYZ1v1XBshh+dU3neOGlFmvvIPEl83QKZa3G46BWMfzXNjxfaLLBNOtn+DejW5+f+b01DlvHZixgQcsh9fcnB+Kk07dHA1eaqq7a+Jh6XTZ3H71NxVC8RGDON8rMPQCzreC/RAL7KtupCegR1suX2H0gYYp3ZpzxA==;9dgfAe2inDRB2ECJL3huxg=="
 ---
 

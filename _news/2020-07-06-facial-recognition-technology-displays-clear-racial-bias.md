@@ -152,17 +152,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Facial recognition firm Clearview AI probed by UK, Australia for privacy issues"
-    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-    publishedDateTime: 2020-07-09T13:18:00Z
-    webUrl: "https://www.reuters.com/article/us-clearview-ai-investigation-idUSKBN24A110"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A110"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A110"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -209,6 +198,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
+    publishedDateTime: 2020-07-09T16:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-09/facial-recognition-company-clearview-ai-probed-by-uk-australia"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
     excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
     publishedDateTime: 2020-07-07T07:33:00Z

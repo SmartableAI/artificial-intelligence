@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Robotics Finds It’s Place in Fulfillment"
-excerpt: "Robotics vendors say there are other ways that robotics is evolving for intralogistics, including new workflows, better exception handling, and deeper leveraging of artificial intelligence (AI). What’s more, robotics aligns with the times in that they ..."
-publishedDateTime: 2020-07-09T19:01:00Z
-webUrl: "https://www.scmr.com/article/robotics_finds_its_place_in_fulfillment"
+excerpt: "Robotics has gained rapid traction in the last few years of economic growth and low unemployment, as companies began implementing as a means of increasing productivity and coping with the labor crunch."
+publishedDateTime: 2020-07-09T18:58:00Z
+webUrl: "https://www.logisticsmgmt.com/article/robotics_finds_its_place_in_fulfillment"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Supply Chain Management Review
-  domain: scmr.com
+  name: Logistics Management
+  domain: logisticsmgmt.com
 
 topics:
   - AI in Robotics
@@ -23,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "/PPzaB7a2pIvi9n98VTX+v5cqvtS5t9jpHCrqW+obcEWe7oADnciaVugBqLLgI7qJj1BIOrbcQkTo5Q8DRKAZevNPvRHrZdma91IvgHsPPKmGDV2mwOsQRqBWbeT5HA177M7yjo7lHVo9i+zZgz6SfOKRrHcutRGFXU6wx5I+eqr5smuLkdvzLsLLcYf0DSFh0vHQUIO5nDNRmmeI0oTwWVaaW8tpP4sPgXIi77lg5KE+AGBwwFJTpgW7/Cth84+ZvG0yYJpeORhvEvJdf7yOauPYnoQ2UexsBH541HM/i/gMKl/zdin+c98hPIEKQkndFoFc/SYKMkFNGvFRI2W8A==;v50gDhu9Gie8OH1v/Hr53w=="
+secured: "6C7xDt/rcpNUrFL4KNYzNFm8h7nBdeO19oqmz6fFt71Dg53cbmNYv+6ZteOoSMEmobzurso+YaprWGjlN66Gw11LIRxq0j/merTg2O9mDxmuNiKBS2IP3fBorwFsUBKKdFGJ1qGRI7PQKOB4pGHBLYG1QV99mxftIuc7a6tC1TZIxIJnLyPzDHb53TwieqburTkax2Qv2vijsCHrELtpjB/UMc4KAur3g7joOo69Hk4NbL649/hC+PAiupC7YwX90C/hVz5edwQCGek59e/Gvb9bdVSdlUsj1/mtxhaAp4GiwUgkJbEEDnGYr5VuIhBD+dFuCtmly6kbBR1xWZKU8g==;RGzOGpiSRr8uIAbTxiuZFQ=="
 ---
 

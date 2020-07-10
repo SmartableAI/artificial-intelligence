@@ -8,7 +8,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/about-70-start-ups-impa
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/about-70-start-ups-impacted-by-covid-19-survey/amp-11593993885699.html"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     title: "About 70% start-ups impacted by COVID-19: Survey"
 
 related:
-  - title: "About 70 pc start-ups impacted by COVID-19: Survey"
-    excerpt: "New Delhi, Jul 5 () A survey of 250 start-ups has revealed that the COVID-19 pandemic has had an unprecedented impact on the business, with 70 per cent saying that their business has been impacted, and some of them shutting operations."
-    publishedDateTime: 2020-07-05T15:01:00Z
-    webUrl: "https://www.businessinsider.in/business/news/about-70-pc-start-ups-impacted-by-covid-19-survey/articleshow/76800935.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/about-70-pc-start-ups-impacted-by-covid-19-survey/amp_articleshow/76800935.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/about-70-pc-start-ups-impacted-by-covid-19-survey/amp_articleshow/76800935.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 42
-    images:
-      - url: "https://www.businessinsider.in/thumb/76800935.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Start-ups bear the brunt of COVID-19 impact; 12% have shut shop, 70% adversely hit, finds survey"
     excerpt: "Around 70% of India’s start-ups have been adversely impacted by COVID-19, and 12 have closed down operations since the outbreak, according to a nation-wide survey.The survey, which had a sample size o"
     publishedDateTime: 2020-07-06T05:30:00Z

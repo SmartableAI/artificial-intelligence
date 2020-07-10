@@ -2,10 +2,61 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-03-study-only-18-of-data-scientists-are-learning-about-ai-ethics.md",
+      "title": "Study: Only 18% of data scientists are learning about AI ethics",
+      "excerpt": "A study by data science firm Anaconda found a \"concerning\" absence of AI ethics initiatives in both academia and industry.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-94-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Study: Only 18% of data scientists are learning about AI ethics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/03/study-only-18-of-data-scientists-are-learning-about-ai-ethics/amp/",
+      "publishedDateTime": "2020-07-03T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit.md",
       "title": "R&D Roundup: Tech giants unveil breakthroughs at computer vision summit",
       "excerpt": "Computer vision summit CVPR has just (virtually) taken place, and like other CV-focused conferences, there are quite a few interesting papers. More than I could possibly write up individually, in fact,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/index.json",
+      "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/07/03/rd-roundup-tech-giants-unveil-breakthroughs-at-computer-vision-summit/",
       "originalUrl": null,
       "featuredContent": null,
@@ -55,7 +106,7 @@
       "path": "_news/2020-07-03-lemonade-ipo-shows-the-power-of-ai-artificial-intelligence.md",
       "title": "Lemonade IPO Shows The Power Of AI (Artificial Intelligence)",
       "excerpt": "Lemonade is a next-generation AI company. The technology is all-pervasive across its operations. Keep in mind that the insurance industry was actually the first industry that was data driven. The roots go back to 1662 when John Graunt helped to create modern statistics,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/03/lemonade-ipo-shows-the-power-of-ai-artificial-intelligence/",
       "originalUrl": null,
       "featuredContent": null,
@@ -101,10 +152,51 @@
       ]
     },
     {
+      "path": "_news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research.md",
+      "title": "Israeli, UAE technology firms pen deal on virus research",
+      "excerpt": "Elta, which specializes in sensors, radars, electronic warfare and communication systems, said they would cooperate on research and technology focused on artificial intelligence ... (AP) — A Black Facebook employee, joined by two others who were denied ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news10.com/wp-content/uploads/sites/64/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "publishedDateTime": "2020-07-03T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTEN",
+        "domain": "news10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-we-need-a-new-field-of-ai-to-combat-racial-bias.md",
       "title": "We need a new field of AI to combat racial bias",
       "excerpt": "Responsibly managing machine learning processes is no longer just a desirable component of progress but a necessary one.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-we-need-a-new-field-of-ai-to-combat-racial-bias/index.json",
+      "sourceUrl": null,
       "webUrl": "https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/",
       "originalUrl": null,
       "featuredContent": null,
@@ -154,7 +246,7 @@
       "path": "_news/2020-07-03-facial-recognition-software-fails-to-correctly-identify-people-96-of-the-time-detroit-police-chief-says.md",
       "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
       "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-facial-recognition-software-fails-to-correctly-identify-people-96-of-the-time-detroit-police-chief-says/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
       "originalUrl": null,
       "featuredContent": null,
@@ -204,7 +296,7 @@
       "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
       "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
       "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.reuters.com/article/us-japan-tech-ai-tuna-idUSKBN24415L",
       "originalUrl": null,
       "featuredContent": null,
@@ -253,7 +345,7 @@
       "path": "_news/2020-07-03-the-future-of-fintech-ai-blockchain.md",
       "title": "The Future of Fintech: AI & Blockchain",
       "excerpt": "74% of banking executives believe AI will transform their industry completely, and 46% of global financial services employees expect blockchain to improve transparency and data management. In The Future of Fintech: AI & Blockchain slide deck, Business ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-the-future-of-fintech-ai-blockchain/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&itm_medium=content_marketing&itm_campaign=content_marketing_leadgen_link&itm_content=leadgen_teaser&itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&vertical=fintech",
       "originalUrl": null,
       "featuredContent": null,
@@ -300,51 +392,10 @@
       ]
     },
     {
-      "path": "_news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research.md",
-      "title": "Israeli, UAE technology firms pen deal on virus research",
-      "excerpt": "JERUSALEM (AP) — A state-linked technology company in the United Arab Emirates has signed a partnership with two major Israeli defense firms to research ways of combating the coronavirus pandemic.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research/index.json",
-      "webUrl": "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgnradio.com/wp-content/uploads/sites/6/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
-      "cdnAmpWebUrl": "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
-      "publishedDateTime": "2020-07-03T01:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN Radio",
-        "domain": "wgnradio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-03-sea-trials-begin-for-artificial-intelligence-captain.md",
       "title": "Sea Trials Begin for Artificial Intelligence \"Captain\"",
       "excerpt": "IBM and marine research organization Promare have announced that a new artificial intelligence captain (AI Captain ... many of today's autonomous ships are really just automated - robots which do not dynamically adapt to new situations and rely heavily ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-sea-trials-begin-for-artificial-intelligence-captain/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.maritime-executive.com/article/sea-trials-begin-for-artificial-intelligence-captain",
       "originalUrl": null,
       "featuredContent": null,
@@ -385,7 +436,7 @@
       "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
       "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
       "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_at_Dubai_Expo_2020_to_enrich_visitor_experience-SNG_178632150/",
       "originalUrl": null,
       "featuredContent": null,
@@ -426,7 +477,7 @@
       "path": "_news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business.md",
       "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
       "excerpt": "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/index.json",
+      "sourceUrl": null,
       "webUrl": "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/",
       "originalUrl": null,
       "featuredContent": null,
@@ -467,7 +518,7 @@
       "path": "_news/2020-07-03-nec-and-japanese-research-agency-to-use-ai-for-automatic-plastic-waste-detection.md",
       "title": "NEC and Japanese research agency to use AI for automatic plastic waste detection",
       "excerpt": "Earth Science and Technology (JAMSTEC) have developed a system that uses artificial intelligence (AI) imaging recognition techniques to automatically detect microplastics from seawater and sediment samples.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-nec-and-japanese-research-agency-to-use-ai-for-automatic-plastic-waste-detection/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/nec-and-japanese-research-agency-to-use-ai-for-automatic-microplastic-detection/",
       "originalUrl": null,
       "featuredContent": null,
@@ -516,7 +567,7 @@
       "path": "_news/2020-07-03-microsoft-azure-is-one-of-the-largest-iaas-and-paas-service-offered-in-business-parlance.md",
       "title": "Microsoft Azure is one of the largest IaaS and PaaS service offered in Business Parlance",
       "excerpt": "Read how AIOps leverages Microsoft Azure Platform for operational excellence using Artificial Learning (AI), AIOps, MLOps, Artificial Leading (ML) on the cloud and on-premises environment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-microsoft-azure-is-one-of-the-largest-iaas-and-paas-service-offered-in-business-parlance/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.analyticsinsight.net/delivering-aiops-microsoft-azure-cloud-platform/",
       "originalUrl": null,
       "featuredContent": null,
@@ -557,7 +608,7 @@
       "path": "_news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations.md",
       "title": "How AI Helps Digital Enterprises Streamline Operations",
       "excerpt": "Artificial intelligence (AI) is transforming how enterprises analyze and process information. It is also shifting from theoretical to real-world technology. Companies are deploying AI technologies to boost efficiency, reduce costs, and grow sales and ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/",
       "originalUrl": null,
       "featuredContent": null,
@@ -606,7 +657,7 @@
       "path": "_news/2020-07-03-new-technique-keeps-your-online-photos-safe-from-facial-recognition-algorithms.md",
       "title": "New technique keeps your online photos safe from facial recognition algorithms",
       "excerpt": "A new solution enables the best of both worlds as users can still post their photos online safe from the prying eye of algorithms.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-new-technique-keeps-your-online-photos-safe-from-facial-recognition-algorithms/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.helpnetsecurity.com/2020/07/03/online-photos-safe-from-facial-recognition-algorithms/",
       "originalUrl": null,
       "featuredContent": null,
@@ -647,7 +698,7 @@
       "path": "_news/2020-07-03-opinion-state-needs-an-unbiased-road-map-for-artificial-intelligence.md",
       "title": "Opinion: State needs an unbiased road map for artificial intelligence",
       "excerpt": "Amazon, Microsoft and IBM stopped selling facial recognition technology to police departments after rising concerns that their tools might lead to unfair treatment of African-Americans. But one New England city with a significant black and Latinx population still uses artificial intelligence tools to identify its residents: Hartford.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-opinion-state-needs-an-unbiased-road-map-for-artificial-intelligence/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.stamfordadvocate.com/opinion/article/Opinion-State-needs-an-unbiased-road-map-for-15381993.php",
       "originalUrl": null,
       "featuredContent": null,
@@ -688,7 +739,7 @@
       "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
       "title": "YouTube Will Let AI Suggest Replies to Video Comments",
       "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments/index.json",
+      "sourceUrl": null,
       "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
       "originalUrl": null,
       "featuredContent": null,
@@ -737,7 +788,7 @@
       "path": "_news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships.md",
       "title": "Congressman raises concerns about Ring’s police partnerships",
       "excerpt": "Congress is renewing calls for Amazon to answer questions about Ring police department departments as a new report sheds light on them.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/",
       "originalUrl": null,
       "featuredContent": null,
@@ -778,7 +829,7 @@
       "path": "_news/2020-07-03-qeexo-automl-embedded-machine-learning-tool.md",
       "title": "Qeexo AutoML (Embedded Machine Learning Tool)",
       "excerpt": "I consent that ST (as data controller according to the Privacy Policy) will keep a record of my navigation history and use that information as well as the personal ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-qeexo-automl-embedded-machine-learning-tool/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.st.com/en/embedded-software/qeexo-automl-embedded-machine-learning-tool.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -819,7 +870,7 @@
       "path": "_news/2020-07-02-how-to-integrate-ai-into-the-embedded-enterprise.md",
       "title": "How to Integrate AI into the Embedded Enterprise",
       "excerpt": "AI is all the rage these days, and poised to disrupt nearly every industry. In fact it already is. A recent IDC survey reported that the majority of companies are failing in their AI initiatives.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-how-to-integrate-ai-into-the-embedded-enterprise/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.embedded-computing.com/embedded-insiders/how-to-integrate-ai-into-the-embedded-enterprise",
       "originalUrl": null,
       "featuredContent": null,
@@ -860,7 +911,7 @@
       "path": "_news/2020-07-02-ucla-debuts-98-percent-accurate-sign-language-translating-glove.md",
       "title": "UCLA Debuts 98-Percent Accurate Sign Language-Translating Glove",
       "excerpt": "UCLA researchers have now reportedly developed a new tech-driven glove that not only works for translating American Sign Language. It's also inexpensive",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-ucla-debuts-98-percent-accurate-sign-language-translating-glove/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -901,7 +952,7 @@
       "path": "_news/2020-07-02-considering-the-american-voice.md",
       "title": "Considering the American Voice",
       "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-considering-the-american-voice/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.nytimes.com/2020/07/02/books/review/irving-howe-considering-american-voice.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -951,7 +1002,7 @@
       "path": "_news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round.md",
       "title": "Estonian AI-based negotiation platform startup closes a USD3 million seed round",
       "excerpt": "Pactum​, an Estonian-founded AI-based platform that enables companies to automate personalised commercial negotiations, has announced the closing of a USD3 million seed financing round led by Berlin-based​ ​Project A​,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-estonian-ai-based-negotiation-platform-startup-closes-a-usd3-million-seed-round/index.json",
+      "sourceUrl": null,
       "webUrl": "https://estonianworld.com/business/estonian-ai-based-negotiation-platform-pactum-closes-a-usd3-million-seed-round/",
       "originalUrl": null,
       "featuredContent": null,
@@ -992,7 +1043,7 @@
       "path": "_news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai.md",
       "title": "Researchers are gathering South African news headlines to power AI",
       "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai/index.json",
+      "sourceUrl": null,
       "webUrl": "https://qz.com/1876793/south-african-scientists-use-news-headlines-to-power-ai/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1043,7 +1094,7 @@
       "path": "_news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots.md",
       "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
       "excerpt": "These members of MIT's latest 35 Under 35 list are engineers, chemists, and researchers working for universities, startups, and big tech companies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.techrepublic.com/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1089,55 +1140,6 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-ai-system-learns-to-model-how-fabrics-interact-by-watching-videos.md",
-      "title": "AI system learns to model how fabrics interact by watching videos",
-      "excerpt": "Researchers propose an AI system that learns to model the physical interactions between types of fabrics by watching videos.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-02-ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/index.json",
-      "webUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/93bf9bba-c3b0-4777-b0b9-aef3fbe413a4-e1593713324773.png?w=1200&#038;strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": "AI system learns to model how fabrics interact by watching videos",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
-      "publishedDateTime": "2020-07-02T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

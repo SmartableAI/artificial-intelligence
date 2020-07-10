@@ -2,32 +2,22 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-publishedDateTime: 2020-07-06T20:12:00Z
-webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+publishedDateTime: 2020-07-06T16:29:00Z
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102"
+ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Healthcare
+  - Facebook AI
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in July"
@@ -47,6 +37,6 @@ related:
         height: 386
         isCached: true
 
-secured: "NpfndxZllFrglvuNHMoggG7e1BzUv4FkTRK1YwgJUiVBBQtw4y+Fxk9zty0Qq5v2heFprGO9IY9UjsJuOk0npzKG6cO+Y4CTy1HZ5Qmdm57ba80lgZGcZj+q6m4J1G8f1C8UpQGqCv0G82ZCNvjwGdd2gorAAWOjVTVsNgaYrXqE7Y5fhUNSOR7LE1sXl0Vv1RduxeblUkovbHbjEe7BC7RKkTJ5YGB6jeqV9ZGaLfM/Z5cqFL4/VsJV4W+7yPusyDw3vPXmMugwAbyPFxQ0qSVpe7RrFnMNmmYW31c6Md1HLiEbYGG7yihjA+AdF0CH1AT22BDyldzT38eKeK21Qg==;AycYx+DPOC3w0ry+3n7eWQ=="
+secured: "pN6W+NgAY68d9H+sS85V7OeAkkZZogVg4FRxUdN2BBY533QWQMX5/Vdm+sdT16GsqDM0Mi+k0LorxzG2FGnnIdskfrg3n+JiDoRx6U5gDF41DqDzu2XXbcg1jq2EavNt1eBXJxlUpkVnTzZsstV6L+YS/TM6pOU1sZCi9+1T8tigjwaBQV6twSutjKttLOPwVV4v62UWfwWvWGmpabFisZ6bnHVMRY8IXKCE6wLRaQedXgqPq8YlB8nVW3BHmh/hVAAhQA/kSHJ/cwUg5h7iZkj0B/gBnBI+zLIS7lUkGBCsqXvsAynVEEcDYQEr5P+GVdzk12hImVV1MFof6fb7nw==;4KJBQhHdJ1z4nb9wK2x0hQ=="
 ---
 

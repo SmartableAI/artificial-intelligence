@@ -152,17 +152,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Facial recognition firm Clearview AI probed by UK, Australia for privacy issues"
-    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-    publishedDateTime: 2020-07-09T13:18:00Z
-    webUrl: "https://www.reuters.com/article/us-clearview-ai-investigation-idUSKBN24A110"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A110"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A110"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 80
   - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
     excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
     publishedDateTime: 2020-07-06T20:04:00Z
@@ -193,6 +182,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
+    publishedDateTime: 2020-07-09T16:16:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-09/facial-recognition-company-clearview-ai-probed-by-uk-australia"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 60
   - title: "Facial recognition technology displays clear racial bias"
     excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
     publishedDateTime: 2020-07-06T17:49:00Z

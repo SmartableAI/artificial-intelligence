@@ -2,10 +2,51 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-06-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
+      "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
+      "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/07/08/wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/07/Wimbledon.jpg",
+          "width": 862,
+          "height": 320,
+          "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-21T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems.md",
       "title": "Waymo and Uber propose AI techniques to improve self-driving systems",
       "excerpt": "Waymo and Uber researchers presented new techniques to improve the reliability -- and safety -- of their self-driving systems.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/06/21/waymo-and-uber-propose-ai-techniques-to-improve-self-driving-systems/",
       "originalUrl": null,
       "featuredContent": null,
@@ -55,7 +96,7 @@
       "path": "_news/2020-06-21-victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing.md",
       "title": "Victoria Police emails reveal Clearview AI's dodgy direct marketing",
       "excerpt": "Why bother with messy official approvals, tedious legal and privacy assessments, or even ethics when cops use facial recognition? 'Feel free to run wild with your searches,' says Clearview.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/victoria-police-emails-reveal-clearview-ais-dodgy-direct-marketing/",
       "originalUrl": null,
       "featuredContent": null,
@@ -104,7 +145,7 @@
       "path": "_news/2020-06-21-why-ai-is-the-future-of-remote-security-monitoring.md",
       "title": "Why AI Is The Future Of Remote Security Monitoring",
       "excerpt": "The computer scientists and data modeling experts who created the popular machine learning framework TensorFlow have found that convolutional neural network-based models are the most effective at ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-why-ai-is-the-future-of-remote-security-monitoring/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/",
       "originalUrl": null,
       "featuredContent": null,
@@ -154,7 +195,7 @@
       "path": "_news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35.md",
       "title": "Dive into AI and machine learning for just $35",
       "excerpt": "It’s no secret that some of the world’s most important technologies and innovations are increasingly fueled by Artificial Intelligence (AI) and machine learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.engadget.com/dive-into-ai-and-machine-learning-175503638.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -204,7 +245,7 @@
       "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
       "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
       "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
       "originalUrl": null,
       "featuredContent": null,
@@ -254,7 +295,7 @@
       "path": "_news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits.md",
       "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
       "excerpt": "Join leading AI executives: Register for the free livestream. That means all the rules you think you know about building a tech startup have been completely flipped. Which is ultimately a good ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/",
       "originalUrl": null,
       "featuredContent": null,
@@ -303,7 +344,7 @@
       "path": "_news/2020-06-21-can-artificial-intelligence-guess-your-age.md",
       "title": "Can Artificial Intelligence Guess Your Age?",
       "excerpt": "Some of us are able to hide our age from each other but what if you can’t hide your age from artificial intelligence (AI)? Scientists at the Institute for Neural Computation at Ruhr-Universität Bochum (RUB) have developed an algorithm that can catch ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-can-artificial-intelligence-guess-your-age/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age",
       "originalUrl": null,
       "featuredContent": null,
@@ -344,7 +385,7 @@
       "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
       "title": "How Ethical Is Your AI?",
       "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-how-ethical-is-your-ai/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
       "originalUrl": null,
       "featuredContent": null,
@@ -393,7 +434,7 @@
       "path": "_news/2020-06-21-model-inference-using-tensorflow-and-tensorrt.md",
       "title": "Model inference using TensorFlow and TensorRT",
       "excerpt": "NVIDIA TensorRT is a high-performance inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. The following notebook demonstrates our recommended inference workflow.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-model-inference-using-tensorflow-and-tensorrt/index.json",
+      "sourceUrl": null,
       "webUrl": "https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/inference/resnet-model-inference-tensorrt",
       "originalUrl": null,
       "featuredContent": null,
@@ -444,7 +485,7 @@
       "path": "_news/2020-06-21-what-to-know-about-computer-vision-syndrome.md",
       "title": "What To Know About Computer Vision Syndrome",
       "excerpt": "Computer vision syndrome (CVS) is the term for a group of eye and vision-related problems that develop following the prolonged use of devices with digital screens.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-what-to-know-about-computer-vision-syndrome/index.json",
+      "sourceUrl": null,
       "webUrl": "https://southfloridareporter.com/what-to-know-about-computer-vision-syndrome/",
       "originalUrl": null,
       "featuredContent": null,
@@ -485,7 +526,7 @@
       "path": "_news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th.md",
       "title": "Google will shut down its AI-guided Photos printing service on June 30th",
       "excerpt": "Google is ending its AI-guided Photos printing trial service on June 30th, but it might lead to a similar feature in the long run.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-google-will-shut-down-its-ai-guided-photos-printing-service-on-june-30th/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.engadget.com/google-photos-printing-trial-ends-023308003.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -534,7 +575,7 @@
       "path": "_news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols.md",
       "title": "What does that tattoo mean? AI app decodes extremist political symbols",
       "excerpt": "VizPol can help journalists spot far-right and white supremacist symbols like Odal rune tattoos and boogaloo igloo flags.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.cnet.com/news/what-does-that-tattoo-mean-ai-app-decodes-extremist-political-symbols/",
       "originalUrl": null,
       "featuredContent": null,
@@ -584,7 +625,7 @@
       "path": "_news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them.md",
       "title": "Dangerous AI algorithms and how to recognize them",
       "excerpt": "When discussing the threats of artificial intelligence, the first thing that comes to mind are images of Skynet, The Matrix, and the robot apocalypse. The runner up is technological unemployment, the vision of a foreseeable future in which AI algorithms take over all jobs and push humans into a struggle for meaningless survival in a world where human labor is",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-dangerous-ai-algorithms-and-how-to-recognize-them/index.json",
+      "sourceUrl": null,
       "webUrl": "https://thenextweb.com/neural/2020/06/20/dangerous-ai-algorithms-and-how-to-recognize-them/",
       "originalUrl": null,
       "featuredContent": null,
@@ -633,7 +674,7 @@
       "path": "_news/2020-06-20-pakistani-man-wins-facebook-ethics-in-ai-research-award.md",
       "title": "Pakistani man wins Facebook ‘Ethics in AI Research’ award",
       "excerpt": "A scholar Junaid Qadir from Pakistan has become the winner of the Ethics in AI Research Initiative for the Asia Pacific, an initiative to help support thoughtful and ground-breaking academic research in the field of artificial intelligence (AI) ethics.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-pakistani-man-wins-facebook-ethics-in-ai-research-award/index.json",
+      "sourceUrl": null,
       "webUrl": "https://dailytimes.com.pk/629493/pakistani-man-wins-facebook-ethics-in-ai-research-award/",
       "originalUrl": null,
       "featuredContent": null,
@@ -675,7 +716,7 @@
       "path": "_news/2020-06-20-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
       "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
       "excerpt": "It features UI-driven AutoML capability with sophisticated but intuitive controls, allowing users to quickly configure the software, obtain results, tune and iterate. New visualization and ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.newkerala.com/news/2020/90361.htm",
       "originalUrl": null,
       "featuredContent": null,
@@ -707,7 +748,7 @@
       "path": "_news/2020-06-20-tensorflow-robot-recognizes-objects.md",
       "title": "TensorFlow Robot Recognizes Objects",
       "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-tensorflow-robot-recognizes-objects/index.json",
+      "sourceUrl": null,
       "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
       "originalUrl": null,
       "featuredContent": null,
@@ -749,7 +790,7 @@
       "path": "_news/2020-06-19-lost-memories-war-crimes-evidence-threatened-by-ai-moderation.md",
       "title": "'Lost memories': War crimes evidence threatened by AI moderation",
       "excerpt": "From bombings and protests to the opening of a new health center, student journalist Baraa Razzouk has been documenting daily life in Idlib, Syria, for years, and posting the videos to his YouTube account.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-lost-memories-war-crimes-evidence-threatened-by-ai-moderation/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.reuters.com/article/us-global-socialmedia-rights-trfn/lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSKBN23Q2TO",
       "originalUrl": null,
       "featuredContent": null,
@@ -787,51 +828,10 @@
       ]
     },
     {
-      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
-      "title": "Teaching physics to neural networks removes 'chaos blindness'",
-      "excerpt": "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness/index.json",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200619143437.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions.md",
       "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
       "excerpt": "After adopting his first dog last year, Patrick Opie was struggling with figuring out what Orin, his mini Australian shepherd, needed and when. The struggle went beyond coping with normal puppy",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/",
       "originalUrl": null,
       "featuredContent": null,
@@ -878,10 +878,51 @@
       ]
     },
     {
+      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
+      "title": "Teaching physics to neural networks removes 'chaos blindness'",
+      "excerpt": "Researchers from North Carolina State University have discovered that teaching physics to neural networks enables those networks to better adapt to chaos within their environment. The work has implications for improved artificial intelligence (AI) applications ranging from medical diagnostics to automated drone piloting.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-06-physics-neural-networks-chaos.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/teachingphys.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-06-physics-neural-networks-chaos.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-06-physics-neural-networks-chaos.amp",
+      "publishedDateTime": "2020-06-19T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-5-big-myths-of-ai-and-machine-learning-debunked-free-ebook.md",
       "title": "5 Big Myths of AI and Machine Learning Debunked - Free eBook",
       "excerpt": "The myths around artificial intelligence can get pretty dense,so we've taken five of the biggest and dissected them to help you understand the truth about today's AI landscape. Grab your free eBook!",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-5-big-myths-of-ai-and-machine-learning-debunked-free-ebook/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.neowin.net/news/5-big-myths-of-ai-and-machine-learning-debunked---free-ebook",
       "originalUrl": null,
       "featuredContent": null,
@@ -931,7 +972,7 @@
       "path": "_news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song.md",
       "title": "Artificial intelligence wrote the lyrics to this fake Nirvana song",
       "excerpt": "YouTuber Funk Turkey has been experimenting with this very proposition, feeding band lyrics to an AI and asking it to write an entirely new song based on the output. The results are, well… interesting,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-wrote-the-lyrics-to-this-fake-nirvana-song/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.techspot.com/news/85706-artificial-intelligence-wrote-lyrics-fake-nirvana-song.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -980,7 +1021,7 @@
       "path": "_news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai.md",
       "title": "CVPR challenge pushes researchers to improve car accident detection AI",
       "excerpt": "The AI City Challenge attracted AI researchers from 30+ countries in a competition for tasks like spotting car accidents or stalled cars on highways.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/06/19/cvpr-challenge-pushes-researchers-to-improve-car-accident-detection-ai/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1029,7 +1070,7 @@
       "path": "_news/2020-06-19-online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them.md",
       "title": "Online Retail Boom Means More Warehouse Workers, And Robots To Accompany Them",
       "excerpt": "At Amazon and other companies, they're working side by side with robots. Experts say while the robots are replacing some human workers, the machines aren't quite ready to take over completely.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.npr.org/sections/alltechconsidered/2017/06/19/533506913/online-retail-boom-means-more-warehouse-workers-and-robots-to-accompany-them",
       "originalUrl": null,
       "featuredContent": null,
@@ -1070,7 +1111,7 @@
       "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
       "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
       "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1119,7 +1160,7 @@
       "path": "_news/2020-06-19-fintech-industry-report-2020-2025-trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic.md",
       "title": "FinTech Industry Report 2020-2025 - Trends, Developments and Growth Deviations Arising from the COVID-19 Pandemic",
       "excerpt": "(Note: The companies list can be customized based on the client requirements.)",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-fintech-industry-report-2020-2025-trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.prnewswire.com/news-releases/fintech-industry-report-2020-2025---trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic-301080282.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -1160,7 +1201,7 @@
       "path": "_news/2020-06-19-artificial-intelligence-in-fintech-global-market-growth-trends-and-forecasts-to-2025-assessment-of-the-impact-of-covid-19-on-the-industry-researchandmarketscom.md",
       "title": "Artificial Intelligence in Fintech - Global Market Growth, Trends and Forecasts to 2025 - Assessment of the Impact of COVID-19 on the Industry - ResearchAndMarkets.com",
       "excerpt": "Growth, Trends, Forecasts (2020-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in Fintech market was estimated at USD 6.67 billion in 2019 and is expected to reach USD 22.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-artificial-intelligence-in-fintech-global-market-growth-trends-and-forecasts-to-2025-assessment-of-the-impact-of-covid-19-on-the-industry-researchandmarketscom/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.businesswire.com/news/home/20200619005338/en/Artificial-Intelligence-Fintech---Global-Market-Growth",
       "originalUrl": null,
       "featuredContent": null,
@@ -1201,7 +1242,7 @@
       "path": "_news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite.md",
       "title": "GE Healthcare taps Lunit’s AI for its new chest X-ray suite",
       "excerpt": "GE Healthcare launched an artificial intelligence-powered chest X-ray analysis suite, designed to spot and highlight eight common conditions, using algorithms built by the South Korean startup Lunit ... analytics, AI and connectivity will only become ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-ge-healthcare-taps-lunits-ai-for-its-new-chest-x-ray-suite/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.fiercebiotech.com/medtech/ge-healthcare-taps-lunit-s-ai-for-its-new-chest-x-ray-suite",
       "originalUrl": null,
       "featuredContent": null,
@@ -1242,7 +1283,7 @@
       "path": "_news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure.md",
       "title": "Microsoft Acquires ADRM Software to Develop Data Models for Azure",
       "excerpt": "Microsoft has announced the purchase of data model develop ADRM, which will be incorporated into its Microsoft Azure division.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-microsoft-acquires-adrm-software-to-develop-data-models-for-azure/index.json",
+      "sourceUrl": null,
       "webUrl": "https://winbuzzer.com/2020/06/19/microsoft-acquires-adrm-software-to-develop-data-models-for-azure-xcxwbn/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1283,7 +1324,7 @@
       "path": "_news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care.md",
       "title": "Mowing made easy: Robots tackle lawn care",
       "excerpt": "Maintaining a lawn in the summer heat is often a dreaded chore for homeowners. Now there are robots that can do the job for you. Worx, the company that makes the highly-rated Landroid, says autonomous mowers are getting more popular.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-mowing-made-easy-robots-tackle-lawn-care/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.wdtn.com/news/u-s-world/mowing-made-easy-robots-tackle-lawn-care/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1317,46 +1358,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests.md",
-      "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
-      "excerpt": "Google announced a place for \"long-term interests\" called Keen that was made as part of its space for experimental efforts named Area 120.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-google-unveils-experimental-keen-social-network-for-users-interests/index.json",
-      "webUrl": "https://staykeen.com/landing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/keen-public-assets/staykeen-default-preview.png",
-          "width": 1104,
-          "height": 736,
-          "title": "Google Unveils Experimental Keen Social Network For Users’ Interests",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

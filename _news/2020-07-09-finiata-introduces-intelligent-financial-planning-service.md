@@ -24,22 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Massive Fintech Ant Financial Planning Hong Kong IPO, Valuation Expected to Top $200 Billion"
-    excerpt: "Ant Financial, part of the mega-tech group Alibaba (NYSE:BABA), is planning an initial public offering (IPO) in Hong Kong that will value the firm at a massive $200+ billion valuation, according to a report."
-    publishedDateTime: 2020-07-09T15:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
+  - title: "Reducing bias in AI-based financial services"
+    excerpt: "AI’s ability to avoid the traditional credit reporting and scoring system that helps perpetuate existing bias makes it a rare, if not unique, opportunity to alter the status quo. However, AI can easily go in the other direction to exacerbate existing bias,"
+    publishedDateTime: 2020-07-10T06:04:00Z
+    webUrl: "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/"
+    ampWebUrl: "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 57
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Dr.-Zhao-Wenbiao-Vice-President-of-Ant-Group-and-Chief-Scientist-of-Alipay-Security-Lab-600x401.jpeg"
-        width: 600
-        height: 401
+      - url: "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg"
+        width: 4550
+        height: 2859
         isCached: true
+  - title: "Tim Howarth Appointed Managing Director for Financial Services at Fimatix"
+    excerpt: "Fimatix has today announced the appointment of Tim Howarth as Managing Director for Financial Services, where he will lead the"
+    publishedDateTime: 2020-07-07T06:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16527616/tim-howarth-appointed-managing-director-for-financial-services-at-fimatix"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16527616"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16527616"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "KZNfSHsKnhAl3JpwmyCZnYiFYVaWn6/TO/kRnEdFdP2wsAoIr4kAiy08eo9PV/RMk2Kz6wooOfNKN61CmgqSieMMnZWpmdaoKhk+kw3Js2ZXmWM8Youue2K4QxBodpOp8K+tbO7a1NNle8KwKxwH3sdxG0Mq93QXPz3T1nPAPDaLfiQ1p/aK9RkoX0YXMJI+iSmeDpNrPEu3RmvVmeyLYR5AWv88th6+JW1OcV2h1f9EYBPfQuZ6c3FGNpmq7OhiIRxqSWXhI3OfYTGd7GimzI77QmZ2bQc9JYfkFUuijmI8uTkkiyp+7boWUYvrzn8emFtlmaftIn/2MtvViQB6CmI3Rjcwl8lncla7boZNhHnVRONpP4UHk8QEdwtOFWF2399UHagnm3bJRtCRQgIwN2HSyBhJIRfp0S2+xGVNG3+hhW7j9Z25eCKwT9P8o5jkevqfoCGZ4vx5cOAFMcuG8ICCU0FXc0LP46HLqW8OQg6Zo25m2k/5LJuLITnpKrkWy3AcS00XTu0XP/Z8+fw5yg==;cMRyLKyGPw8zTzwdrmfCiw=="
 ---

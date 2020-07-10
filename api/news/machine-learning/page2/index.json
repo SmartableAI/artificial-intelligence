@@ -2,10 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-29-power-efficient-neural-network-with-artificial-dendrites.md",
+      "title": "Power-efficient neural network with artificial dendrites",
+      "excerpt": "The lack of these critical functions in artificial neural networks compromises their performance, for example in terms of flexibility, energy efficiency and the ability to handle complex tasks. Here, by developing artificial dendrites, we experimentally ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41565-020-0722-5?error=cookies_not_supported&code=4912fef0-6828-48a3-bff1-b7df7719795e",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-020-0722-5/MediaObjects/41565_2020_722_Fig1_HTML.png",
+          "width": 685,
+          "height": 400,
+          "title": "Power-efficient neural network with artificial dendrites",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T10:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ibm-research-releases-differential-privacy-library-that-works-with-machine-learning.md",
+      "title": "IBM Research releases differential privacy library that works with machine learning",
+      "excerpt": "The open-source repository is unique in that most tasks can be run with only a single line of code, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/ab340b3d-b283-4c37-a8e2-3e935ad2e1f9/resize/1200x/c8b23509f1bf1295de842ccc4200bb3f/istock-1225893654.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM Research releases differential privacy library that works with machine learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-differential-privacy-library-that-works-with-machine-learning/",
+      "publishedDateTime": "2020-06-29T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-research-artificial-neural-networks-are-more-similar-to-the-brain-than-we-thought.md",
       "title": "Research: Artificial neural networks are more similar to the brain than we thought",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Consider the animal in the following image. If you recognize it,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-research-artificial-neural-networks-are-more-similar-to-the-brain-than-we-thought/index.json",
+      "sourceUrl": null,
       "webUrl": "https://thenextweb.com/artificial-intelligence/2020/06/29/artificial-neural-networks-are-more-similar-to-the-brain-than-they-get-credit-for-syndication/",
       "originalUrl": null,
       "featuredContent": null,
@@ -55,7 +146,7 @@
       "path": "_news/2020-06-28-here-is-how-the-united-states-should-regulate-artificial-intelligence.md",
       "title": "Here Is How The United States Should Regulate Artificial Intelligence",
       "excerpt": "In 1934, in the wake of the worst stock market crash in U.S. history, Congress created the Securities and Exchange Commission (SEC) to regulate capital markets. In 1970, as the nation became increasingly alarmed about the deterioration of the natural environment,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-28-here-is-how-the-united-states-should-regulate-artificial-intelligence/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/robtoews/2020/06/28/here-is-how-the-united-states-should-regulate-artificial-intelligence/",
       "originalUrl": null,
       "featuredContent": null,
@@ -105,7 +196,7 @@
       "path": "_news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide.md",
       "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
       "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
       "originalUrl": null,
       "featuredContent": null,
@@ -157,7 +248,7 @@
       "path": "_news/2020-06-27-neural-network-can-determine-lung-cancer-severity.md",
       "title": "Neural network can determine lung cancer severity.",
       "excerpt": "CT imaging is an important diagnostic tool to measure the location, extent, size, and shape of lung lesions used to guide therapeutic decisions for patients",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-27-neural-network-can-determine-lung-cancer-severity/index.json",
+      "sourceUrl": null,
       "webUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/",
       "originalUrl": null,
       "featuredContent": null,
@@ -198,7 +289,7 @@
       "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
       "title": "What you should know about investing in AI during economic downturn",
       "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn/index.json",
+      "sourceUrl": null,
       "webUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/",
       "originalUrl": null,
       "featuredContent": null,
@@ -248,7 +339,7 @@
       "path": "_news/2020-06-26-borsuk-the-adjustments-schools-face-in-the-coming-school-year-raise-deep-concerns-about-quality-of-learning.md",
       "title": "Borsuk: The adjustments schools face in the coming school year raise deep concerns about quality of learning",
       "excerpt": "In short, what is the learning experience going to be like for students? Consider a few of the challenges that lie ahead: Teacher-student relationships. Good relationships between teachers and students are crucial.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-borsuk-the-adjustments-schools-face-in-the-coming-school-year-raise-deep-concerns-about-quality-of-learning/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.jsonline.com/story/news/education/2020/06/26/borsuk-adjustments-schools-face-raise-concerns-quality-kids/3264644001/",
       "originalUrl": null,
       "featuredContent": null,
@@ -280,7 +371,7 @@
       "path": "_news/2020-06-26-ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias.md",
       "title": "AI Weekly: A deep learning pioneer’s teachable moment on AI bias",
       "excerpt": "Facebook chief AI scientist Yann LeCun got into a debate with Google AI ethics colead Timnit Gebru about bias, and there are lessons to draw from the event.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/index.json",
+      "sourceUrl": null,
       "webUrl": "https://venturebeat.com/2020/06/26/ai-weekly-a-deep-learning-pioneers-teachable-moment-on-ai-bias/",
       "originalUrl": null,
       "featuredContent": null,
@@ -332,7 +423,7 @@
       "path": "_news/2020-06-26-smart-artificial-intelligence-needs-an-open-source-classroom.md",
       "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
       "excerpt": "Could the same 'human classroom' type need for interconnected cross-fertilization also help computers to ‘learn’ as they build their data-powered Artificial Intelligence (AI) knowledge bases and software-driven analytics engines?",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-smart-artificial-intelligence-needs-an-open-source-classroom/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/",
       "originalUrl": null,
       "featuredContent": null,
@@ -382,7 +473,7 @@
       "path": "_news/2020-06-26-how-machine-learning-finds-anomalies-to-catch-financial-cybercriminals.md",
       "title": "How machine learning finds anomalies to catch financial cybercriminals",
       "excerpt": "In the last few months, millions of dollars have been stolen from unemployment systems during this time of immense pressure due to coronavirus-related claims. A skilled ring of international fraudsters has been submitting false unemployment claims for individuals that still have steady work.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-how-machine-learning-finds-anomalies-to-catch-financial-cybercriminals/index.json",
+      "sourceUrl": null,
       "webUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/",
       "originalUrl": null,
       "featuredContent": null,
@@ -433,7 +524,7 @@
       "path": "_news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions.md",
       "title": "Machine learning, AI experts create models for COVID-19 decisions",
       "excerpt": "Experts in the Air Force Research Laboratory are applying explainable machine learning and artificial intelligence approaches to develop thousands of models that could help federal, state and local decision makers as they make re-opening decisions during the COVID-19 pandemic.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/",
       "originalUrl": null,
       "featuredContent": null,
@@ -474,7 +565,7 @@
       "path": "_news/2020-06-25-machine-learning-will-mean-more-drug-ads-and-hopefully-better-outcomes-says-ad-tech-firm-deepintent.md",
       "title": "Machine learning will mean more drug ads, and hopefully better outcomes, says ad-tech firm DeepIntent",
       "excerpt": "Advertising by Big Pharma directly to consumers is a small portion of the total online advertising market but may increase as new advertising tools, some of them using machine learning, are employed by the drug companies. \"Pharma is about 18% of national ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-machine-learning-will-mean-more-drug-ads-and-hopefully-better-outcomes-says-ad-tech-firm-deepintent/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/machine-learning-will-mean-more-drug-ads-hopefully-theyll-be-more-relevant-says-ad-tech-firm-deepintent/",
       "originalUrl": null,
       "featuredContent": null,
@@ -524,7 +615,7 @@
       "path": "_news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation.md",
       "title": "Machine learning platform MLflow joins the Linux Foundation",
       "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
       "originalUrl": null,
       "featuredContent": null,
@@ -574,7 +665,7 @@
       "path": "_news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research.md",
       "title": "Intel and National Science Foundation Invest in Wireless-Specific Machine Learning Edge Research",
       "excerpt": "Intel and the National Science Foundation (NSF) announced award recipients of joint funding for research into the development of",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/intel-and-national-science-foundation-invest-in-wireless-specific-machine-learning-edge-research-2020-06-25",
       "originalUrl": null,
       "featuredContent": null,
@@ -624,7 +715,7 @@
       "path": "_news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike.md",
       "title": "Video: Using deep learning to combat cheating in Counter-Strike",
       "excerpt": "In this GDC 2018 talk Valve's John McDonald discusses how the company has utilized deep learning machine learning techniques to combat cheating in Counter-Strike: Global Offensive .",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-video-using-deep-learning-to-combat-cheating-in-counter-strike/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.gamasutra.com/view/news/365410/Video_Using_deep_learning_to_combat_cheating_in_CounterStrike.php",
       "originalUrl": null,
       "featuredContent": null,
@@ -665,7 +756,7 @@
       "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
       "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
       "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.forbes.com/sites/lelalondon/2020/06/24/how-product-placement-works-in-2020with-ai-deep-learning-and-more/",
       "originalUrl": null,
       "featuredContent": null,
@@ -715,7 +806,7 @@
       "path": "_news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device.md",
       "title": "Google’s new ML Kit SDK keeps all machine learning on the device",
       "excerpt": "Smartphones today have become so powerful that sometimes even mid-range handsets can support some fancy machine learning and AI applications. Most of those, however, still rely on cloud-hosted",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.slashgear.com/googles-new-ml-kit-sdk-keeps-all-machine-learning-on-the-device-24626181/",
       "originalUrl": null,
       "featuredContent": null,
@@ -765,7 +856,7 @@
       "path": "_news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026.md",
       "title": "Machine Learning as a Service (MLaaS) Market 2020 by Regions, Manufactures, Type, Application, Sales, Revenue and Forecast to 2026",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Machine Learning as a Service (MLaaS) Market” report provides valuable information regarding new products in the market,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-2020-by-regions-manufactures-type-application-sales-revenue-and-forecast-to-2026-2020-06-24",
       "originalUrl": null,
       "featuredContent": null,
@@ -815,7 +906,7 @@
       "path": "_news/2020-06-23-special-sauce-gets-ai-to-cope-with-chaos.md",
       "title": "‘Special sauce’ gets AI to cope with chaos",
       "excerpt": "Teaching physics to neural networks lets those networks better adapt to chaos within their environment, researchers report. The work has implications for improved artificial intelligence (AI ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-special-sauce-gets-ai-to-cope-with-chaos/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.futurity.org/artificial-intelligence-neural-networks-physics-chaos-blindness-2391392-2/",
       "originalUrl": null,
       "featuredContent": null,
@@ -856,7 +947,7 @@
       "path": "_news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias.md",
       "title": "What a machine learning tool that turns Obama white can (and can’t) tell us about AI bias",
       "excerpt": "This image speaks volumes about the dangers of bias in AI.” But what’s causing these outputs and what do they really tell us about AI bias? First, we need to know a little a bit about the technology being used here.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-what-a-machine-learning-tool-that-turns-obama-white-can-and-cant-tell-us-about-ai-bias/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias",
       "originalUrl": null,
       "featuredContent": null,
@@ -907,7 +998,7 @@
       "path": "_news/2020-06-23-without-the-hidden-layers-of-an-artificial-neural-network-deep-learning-will-not-even-exist.md",
       "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
       "excerpt": "How does the hidden layer decode the black box of decision making? Learn how Artificial Neural Networks (ANNs) and Deep neural network (DNNs) contribute to the incredibly tough task of complex predictions.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-without-the-hidden-layers-of-an-artificial-neural-network-deep-learning-will-not-even-exist/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.analyticsinsight.net/decoding-link-artificial-neural-networks-deep-learning-algorithms/",
       "originalUrl": null,
       "featuredContent": null,
@@ -948,7 +1039,7 @@
       "path": "_news/2020-06-23-is-deep-learning-necessary-for-simple-classification-tasks.md",
       "title": "Is Deep Learning Necessary For Simple Classification Tasks",
       "excerpt": "For the experiments, the authors consider TPOT (Tree-based Pipeline Automation Tool), a Python-based AutoML tool that uses genetic programming to identify optimal ML pipelines for either regression or classification on a given (labeled) dataset.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-23-is-deep-learning-necessary-for-simple-classification-tasks/index.json",
+      "sourceUrl": null,
       "webUrl": "https://analyticsindiamag.com/deep-learning-automl-classification-classification/",
       "originalUrl": null,
       "featuredContent": null,
@@ -989,7 +1080,7 @@
       "path": "_news/2020-06-22-integrating-spatial-gene-expression-and-breast-tumour-morphology-via-deep-learning.md",
       "title": "Integrating spatial gene expression and breast tumour morphology via deep learning",
       "excerpt": "Deep learning can predict spatial variations in gene expression from haematoxylin-and-eosin-stained histopathology images of patients with cancer.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-integrating-spatial-gene-expression-and-breast-tumour-morphology-via-deep-learning/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.nature.com/articles/s41551-020-0578-x",
       "originalUrl": null,
       "featuredContent": null,
@@ -1030,7 +1121,7 @@
       "path": "_news/2020-06-22-new-study-on-neural-networks-has-implications-for-improved-ai-applications.md",
       "title": "New Study on Neural Networks has Implications for Improved AI Applications",
       "excerpt": "At North Carolina State University, researchers have found when neural networks are taught physics, they can better adapt to chaos within their environment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-new-study-on-neural-networks-has-implications-for-improved-ai-applications/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11379",
       "originalUrl": null,
       "featuredContent": null,
@@ -1071,7 +1162,7 @@
       "path": "_news/2020-06-22-objex-inc-joins-google-cloud-partner-program.md",
       "title": "Objex, Inc. Joins Google Cloud Partner Program",
       "excerpt": "AutoML, Google Cloud Vision, Natural Language and Speech APIs Digital transformation is rethinking old operating models and to become more agile in your ability to experiment and respond to ever changing customer needs. Objex is a call away to help you in ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-objex-inc-joins-google-cloud-partner-program/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16336534/objex-inc-joins-google-cloud-partner-program",
       "originalUrl": null,
       "featuredContent": null,
@@ -1103,7 +1194,7 @@
       "path": "_news/2020-06-22-tecton-brings-devops-to-machine-learning.md",
       "title": "Tecton brings DevOps to machine learning",
       "excerpt": "A startup recently emerging from stealth is aiming to automate much of the process for feature development with the goal of making data scientists more self-reliant.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-tecton-brings-devops-to-machine-learning/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.zdnet.com/article/tecton-brings-devops-to-machine-learning/",
       "originalUrl": null,
       "featuredContent": null,
@@ -1153,7 +1244,7 @@
       "path": "_news/2020-06-22-deep-learning-and-artificial-neural-networks.md",
       "title": "Deep learning and artificial neural networks",
       "excerpt": "Martin Spano is the author of Artificial Intelligence in a Nutshell, a book that explores the mystified subject of artificial intelligence (AI) with simple, non-technical language. Spano’s passion for AI began after he watched 2001: A Space Odyssey,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-deep-learning-and-artificial-neural-networks/index.json",
+      "sourceUrl": null,
       "webUrl": "https://spectator.sme.sk/c/22427836/deep-learning-and-artificial-neural-networks.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -1194,7 +1285,7 @@
       "path": "_news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35.md",
       "title": "Dive into AI and machine learning for just $35",
       "excerpt": "It’s no secret that some of the world’s most important technologies and innovations are increasingly fueled by Artificial Intelligence (AI) and machine learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.engadget.com/dive-into-ai-and-machine-learning-175503638.html",
       "originalUrl": null,
       "featuredContent": null,
@@ -1244,7 +1335,7 @@
       "path": "_news/2020-06-20-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
       "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
       "excerpt": "It features UI-driven AutoML capability with sophisticated but intuitive controls, allowing users to quickly configure the software, obtain results, tune and iterate. New visualization and ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-20-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever/index.json",
+      "sourceUrl": null,
       "webUrl": "https://www.newkerala.com/news/2020/90361.htm",
       "originalUrl": null,
       "featuredContent": null,
@@ -1260,97 +1351,6 @@
         "name": "New Kerala",
         "domain": "newkerala.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness.md",
-      "title": "Teaching physics to neural networks removes 'chaos blindness'",
-      "excerpt": "Artificial neural networks mimic this behavior by adjusting numerical weights and biases during training sessions to minimize the difference between their actual and desired outputs.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-teaching-physics-to-neural-networks-removes-chaos-blindness/index.json",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200619143437.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions.md",
-      "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
-      "excerpt": "After adopting his first dog last year, Patrick Opie was struggling with figuring out what Orin, his mini Australian shepherd, needed and when. The struggle went beyond coping with normal puppy",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-19-this-startup-could-be-a-dog-owners-best-friend-as-it-uses-machine-learning-to-help-guide-key-decisions/index.json",
-      "webUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/orin1-630x472.jpeg",
-          "width": 630,
-          "height": 472,
-          "title": "This startup could be a dog owner’s best friend as it uses machine learning to help guide key decisions",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-dog-owners-best-friend-uses-machine-learning-help-guide-key-decisions/amp/",
-      "publishedDateTime": "2020-06-19T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
