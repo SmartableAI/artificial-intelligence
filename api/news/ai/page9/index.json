@@ -2,6 +2,155 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-01-nasa-funds-small-business-ideas-ranging-from-ai-medicine-to-plumbing-for-the-moon.md",
+      "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+      "excerpt": "NASA says it’ll fund more than 400 ideas from small businesses, ranging from plumbing fixtures suitable for the moon to AI-based medical assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/200630-spacemedicine-630x419.jpg",
+          "width": 630,
+          "height": 419,
+          "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "publishedDateTime": "2020-06-30T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california.md",
+      "title": "Lyft’s self-driving test vehicles are back on public roads in California",
+      "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": "Lyft’s self-driving test vehicles are back on public roads in California",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/",
+      "publishedDateTime": "2020-06-30T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-nvidia-boosts-virtual-gpu-support-to-help-home-workers.md",
+      "title": "Nvidia boosts virtual GPU support to help home workers",
+      "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/KpEA6ngdEmLGGBXPQ35xQZ-1200-80.jpg",
+          "width": 1119,
+          "height": 629,
+          "title": "Nvidia boosts virtual GPU support to help home workers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "publishedDateTime": "2020-06-30T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
       "title": "New robot technology to fight Covid care isolation",
       "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
@@ -1255,147 +1404,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots.md",
-      "title": "Meet The College Dropout Who Just Raised Nearly $13 Million To Create Smart Robots",
-      "excerpt": "Robotics company Elementary Robotics, started in 2017 by Under 30 honoree Arye Barnehama, today announced a $12.7 million Series A round led by Threshold Ventures (formerly DFJ), with participation from existing investors Fika Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/06/30/meet-the-college-dropout-who-just-raised-nearly-13-million-to-create-smart-robots/amp/",
-      "publishedDateTime": "2020-06-30T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-hunters-raises-15m-series-a-for-its-threat-hunting-platform.md",
-      "title": "Hunters raises $15M Series A for its threat-hunting platform",
-      "excerpt": "Hunters, a Tel Aviv-based cybersecurity startup that helps enterprises defend themselves from intruders and analyze attacks, today announced that it has raised a $15 million Series A funding round from Microsoft’s M12 and U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Hunters-team-photo.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Hunters raises $15M Series A for its threat-hunting platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "publishedDateTime": "2020-06-30T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-elementary-robotics-raises-127-million-to-automate-industrial-inspections.md",
-      "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
-      "excerpt": "Elementary Robotics, a startup developing autonomous industrial inspection technologies, has raised $12.7 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Elementary Robotics raises $12.7 million to automate industrial inspections",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/elementary-robotics-raises-12-7-million-to-automate-industrial-inspections/amp/",
-      "publishedDateTime": "2020-06-30T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

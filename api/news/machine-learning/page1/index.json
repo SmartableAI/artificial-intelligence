@@ -9,7 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,9 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "AI in Finance"
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
       ]
     },
     {
@@ -626,7 +628,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1252,38 +1254,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks.md",
       "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
       "excerpt": "CNNs were first pioneered back in the late 1980s based on a series of earlier work in the 1960s on Artificial Neural Networks (ANNs) and Multilayer Perceptrons (MLPs). They were initially designed to work similarly to the human brain. Of course ...",
@@ -1403,6 +1373,56 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-machine-learning-systems-fair-or-biased-reflect-our-moral-standards.md",
+      "title": "Machine learning systems, fair or biased, reflect our moral standards",
+      "excerpt": "There needs to be a concerted effort by regulators, governments and practitioners to ensure machine learning systems and algorithms stem inequities rather than perpetuate them, Experian regional managing director Mohan Jayaraman says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/06/29/b3357438-b9bf-11ea-b64b-070a892763db_image_hires_164720.jpg?itok=jGm8Nybz&v=1593420445",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine learning systems, fair or biased, reflect our moral standards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
+      "publishedDateTime": "2020-06-29T15:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

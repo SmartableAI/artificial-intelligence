@@ -1,41 +1,43 @@
 ---
 category: news
 title: "New Research Reveals Adoption and Implementation of Artificial Intelligence in the Enterprise"
-excerpt: "Informa Tech media brands, InformationWeek and ITPro Today, today announced findings from their latest research survey the"
-publishedDateTime: 2020-07-09T17:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16574174/new-research-reveals-adoption-and-implementation-of-artificial-intelligence-in-the-enterprise"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16574174"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16574174"
+excerpt: "Key Findings in the 2020 State of Artificial Intelligence Organizations varied a great deal in terms of where they were in their adoption of AI. The largest percentage of organizations (36% ..."
+publishedDateTime: 2020-07-09T17:11:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/new-research-reveals-adoption-and-implementation-of-artificial-intelligence-in-the-enterprise-1029381742"
 type: article
-quality: 26
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 related:
-  - title: "International probe launched into facial recognition firm that scrapes images from the internet"
-    excerpt: "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ..."
-    publishedDateTime: 2020-07-09T11:25:00Z
-    webUrl: "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+  - title: "Enterprise hits and misses - the future of work vs mental health, Macy's vs reality, and AI vs enterprise results"
+    excerpt: "This week - employers are pushing to re-open, but the future of work brings a slew of new issues. AI gets an enterprise reality check, while Macy's takes glass-half-full to a digital extreme. The diginomica team rounds up one more wave of virtual events."
+    publishedDateTime: 2020-07-06T09:43:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-future-work-vs-mental-health-macys-vs-reality-and-ai-vs-enterprise"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-future-work-vs-mental-health-macys-vs-reality-and-ai-vs-enterprise?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-future-work-vs-mental-health-macys-vs-reality-and-ai-vs-enterprise?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
+      name: Diginomica
+      domain: diginomica.com
+    quality: 36
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
-        width: 3999
-        height: 2666
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
+        width: 424
+        height: 283
         isCached: true
 
-secured: "F3x6Liq12KRk1XwFZHNK8q5IFvdl44ntOUtLWy11mbE4GSCwRXycYui4Avjk2/ZPM7/l4+7WX8Jzlgs2LNW5/Zl3R2iSTduVkzwYbdHtRbN61dMibwFISURtZ4SQPCR5DcrP971juXFtnboyZ4ILM7H+hgrPsVFlx+mV3hCWsP0pJV3BnL5xhvPrlLAsp1yAWggz/28E/Dk+/fpiFoKbyhoFgLo33uoldD9jYNv50DQtbgIzAYsdcz+HgSMfjob/U/4ZuRK30Udo8I9XEA6tIRnAAqqs9ys38e/OdSoH5yedd58jI5HNl1Uh8gpiUtroaAC8fcjHZQ5t/r8bY3DvJQ==;JLlWe8WVOSTa7En6Vomzpg=="
+secured: "ADPS5crgb/KYC0pXrRsi3d+SAsKNCbe+5sVMyqOj3WM+nCHm3eNJ+TvCCd5gEOOQOvXgGzjMihlw6Nl9+awPVAQJJDudZ8gX4VJgoRYQTGaeiB9SyxiTtegEGu9ZTmlpMPDjmIgJ6BcdtGKRfy38NZo9mKO+1La+CUdnsOsta4NvMiujrr+IPmrveJuzPKd+L4qFbfo+xE4/rE/WCVRyGpmtrZx+QOeisG413I/OrczfbTIj2gJajhVJ+zFESdssRHgwLckNNqOZyaHJcphnYVhu3LkkUgFz8lcMWcwoNORQraAQzhbYhxPx3funRkMfjAAN1day0HF7ODT9uD7lnA==;4834lO+kEfHshrYStADgjA=="
 ---
 

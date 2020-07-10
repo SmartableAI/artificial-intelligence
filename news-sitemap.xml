@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/</loc>
+    <lastmod>2020-07-10T08:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/</loc>
+    <lastmod>2020-07-10T07:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/</loc>
+    <lastmod>2020-07-10T07:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092740/data-privacy-concerns-weigh-heavily-chinas-ai-leadership-ambitions</loc>
     <lastmod>2020-07-10T06:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,12 +219,6 @@
   <url>
     <loc>https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/</loc>
     <lastmod>2020-07-09T06:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx</loc>
-    <lastmod>2020-07-09T05:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -693,6 +705,12 @@
   <url>
     <loc>https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy</loc>
     <lastmod>2020-07-06T13:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1705,8 +1723,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

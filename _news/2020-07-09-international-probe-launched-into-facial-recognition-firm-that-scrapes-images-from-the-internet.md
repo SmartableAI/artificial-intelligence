@@ -30,17 +30,17 @@ images:
     isCached: true
 
 related:
-  - title: "New Research Reveals Adoption and Implementation of Artificial Intelligence in the Enterprise"
-    excerpt: "Informa Tech media brands, InformationWeek and ITPro Today, today announced findings from their latest research survey the"
+  - title: "Official Launch of the International Centre of Expertise in Montréal for the Advancement of Artificial Intelligence"
+    excerpt: "\"With the artificial intelligence revolution, which is evolving at breakneck speed, it is essential to put in place organizations that can ensure the responsible development of this new technology ..."
     publishedDateTime: 2020-07-09T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16574174/new-research-reveals-adoption-and-implementation-of-artificial-intelligence-in-the-enterprise"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16574174"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16574174"
+    webUrl: "https://markets.businessinsider.com/news/stocks/official-launch-of-the-international-centre-of-expertise-in-montréal-for-the-advancement-of-artificial-intelligence-1029380134"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/official-launch-of-the-international-centre-of-expertise-in-montréal-for-the-advancement-of-artificial-intelligence-1029380134"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/official-launch-of-the-international-centre-of-expertise-in-montréal-for-the-advancement-of-artificial-intelligence-1029380134"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "YG2df890YrHF1eMgQvk5dbOIgzAMjzDm+41hHJ5DDIr+X/SwSN/WN1lCsuXlNYX8/OcpwmrkLJo+OyE6b5kz9s9WuQTdUqZSRiCULRNdl2p9EWBNGF0PQyfpz1P/CSBZNrUlMor+zUCSCgLpsJRf4YkdtyWQJ3LmfH4BShmy1e2h6qOaLRGD0u2oNQcQ0sKUtGdkFlB10mHdZpjd7t3TdY5aammaxB7uNXz2j88xnV2vhlDkpZB32QGQA1ljkTDtqOi/YxgxO6s5/bRVoQ3afeCMWrFMG63zumdbqtSvu/119MX0cWGPKc8PkBl3gwaZYvfYhDWkuaBVoG+iKzLBWA==;iPS4P/5xeUugbC970TgQbQ=="
 ---

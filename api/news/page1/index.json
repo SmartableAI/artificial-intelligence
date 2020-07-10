@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-10-societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations.md",
+      "title": "Societal upheaval during the COVID-19 pandemic underscores need for new AI data regulations",
+      "excerpt": "How should society address the scenario where the AI algorithm got it right but from an ethical standpoint, we're uncomfortable with the results?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1169572297.jpg?w=724",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/10/societal-upheaval-during-the-covid-19-pandemic-underscores-need-for-new-ai-data-regulations/amp/",
+      "publishedDateTime": "2020-07-10T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-aryballe-raises-79-million-for-odor-detecting-ai-sensors.md",
+      "title": "Aryballe raises $7.9 million for odor-detecting AI sensors",
+      "excerpt": "Aryballe, which develops AI-powered products capable of detecting and analyzing scents, has raised $7.9 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AryballeTech_Lead-e1594391849695.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/",
+      "publishedDateTime": "2020-07-10T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-ai-50-founders-predict-what-artificial-intelligence-will-look-like-after-covid-19.md",
+      "title": "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19",
+      "excerpt": "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F913385814%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/",
+      "publishedDateTime": "2020-07-10T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-data-privacy-concerns-weigh-heavily-on-chinas-ai-leadership-ambitions-amid-us-trade-sanctions.md",
       "title": "Data privacy concerns weigh heavily on China’s AI leadership ambitions amid US trade sanctions",
       "excerpt": "Chinese organisations are expected to strike a delicate balancing act to advance artificial intelligence development, while ensuring the technology’s ethical application amid recent US trade sanctions.",
@@ -197,7 +346,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -237,7 +386,9 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "AI in Finance"
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
       ]
     },
     {
@@ -1021,154 +1172,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
-      "title": "Ask a Techspert: How do machine learning models explain themselves?",
-      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "publishedDateTime": "2020-07-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-australia-and-the-uk-open-joint-investigation-of-clearview-ai.md",
-      "title": "Australia and the UK open joint investigation of Clearview AI",
-      "excerpt": "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F15c3c470-c1ee-11ea-bdfb-491f89a32078&client=amp-blogside-v2&signature=e5f9098fa086536f67386570213d3fbc390d235a",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html",
-      "publishedDateTime": "2020-07-09T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-lunar-rover-footage-upscaled-with-ai-is-as-close-as-youll-get-to-the-experience-of-driving-on-the-moon.md",
-      "title": "Lunar Rover Footage Upscaled With AI Is as Close as You'll Get to the Experience of Driving on the Moon",
-      "excerpt": "The last time astronauts walked on the moon was in December of 1972, decades before high-definition video cameras were available. They relied on low-res grainy analog film to record their adventures,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bvsvydnbbayrymqooops.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
-      "publishedDateTime": "2020-07-09T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

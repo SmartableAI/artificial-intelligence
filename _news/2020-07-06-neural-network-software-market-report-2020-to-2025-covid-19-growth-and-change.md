@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T11:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06"
 type: article
 quality: 64
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ..."
+    publishedDateTime: 2020-07-10T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

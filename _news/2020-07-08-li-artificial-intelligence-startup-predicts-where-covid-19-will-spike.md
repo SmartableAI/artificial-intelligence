@@ -8,7 +8,7 @@ ampWebUrl: "https://www.newsday.com/amp/business/coronavirus/artificial-intellig
 cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/coronavirus/artificial-intelligence-startup-long-island-coronavirus-1.46495650"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     title: "LI artificial intelligence startup predicts where COVID-19 will spike"
 
 related:
+  - title: "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19"
+    excerpt: "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,"
+    publishedDateTime: 2020-07-10T14:04:00Z
+    webUrl: "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/"
+    ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 99
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F913385814%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Long Island artificial intelligence startup predicts where COVID-19 will spike"
     excerpt: "A Long Island artificial intelligence startup has built software aimed at pinpointing U.S. counties where the COVID-19 outbreak is likely to be most deadly. In a June report, the data-mining company,"
     publishedDateTime: 2020-07-07T19:08:00Z

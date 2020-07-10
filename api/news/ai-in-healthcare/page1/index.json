@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-10-ai-50-founders-predict-what-artificial-intelligence-will-look-like-after-covid-19.md",
+      "title": "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19",
+      "excerpt": "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F913385814%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/",
+      "publishedDateTime": "2020-07-10T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-7-of-healthcares-most-promising-ai-companies-from-forbes-2020-list.md",
       "title": "7 of healthcare's most promising AI companies from Forbes' 2020 list",
       "excerpt": "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,",
@@ -325,6 +375,56 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-07-06T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1273,79 +1373,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.md",
-      "title": "Medtronic’s MiniMed 780G with Artificial Pancreas Capabilities Cleared in EU",
-      "excerpt": "Medtronic won the EU CE Mark for its MiniMed 780G closed loop insulin pump that features both Medtronic’s own SmartGuard algorithm and MD-Logic, an algorithm developed by DreaMed Diabetes, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2020/06/medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
-      "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-      "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/6/2020_6$largeimg_58525325.jpg",
-          "width": 900,
-          "height": 489,
-          "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/pg-diploma-in-data-science-and-artificial-intelligence-ai-100929",
-      "publishedDateTime": "2020-06-18T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

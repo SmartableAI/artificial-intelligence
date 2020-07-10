@@ -2,56 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-06-29-machine-learning-systems-fair-or-biased-reflect-our-moral-standards.md",
-      "title": "Machine learning systems, fair or biased, reflect our moral standards",
-      "excerpt": "There needs to be a concerted effort by regulators, governments and practitioners to ensure machine learning systems and algorithms stem inequities rather than perpetuate them, Experian regional managing director Mohan Jayaraman says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_opinion/public/d8/images/methode/2020/06/29/b3357438-b9bf-11ea-b64b-070a892763db_image_hires_164720.jpg?itok=jGm8Nybz&v=1593420445",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine learning systems, fair or biased, reflect our moral standards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards",
-      "publishedDateTime": "2020-06-29T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-29-power-efficient-neural-network-with-artificial-dendrites.md",
       "title": "Power-efficient neural network with artificial dendrites",
       "excerpt": "The lack of these critical functions in artificial neural networks compromises their performance, for example in terms of flexibility, energy efficiency and the ability to handle complex tasks. Here, by developing artificial dendrites, we experimentally ...",
@@ -1379,6 +1329,38 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-20-new-web-based-automl-tool-from-sensiml-makes-ai-for-iot-easier-than-ever.md",
+      "title": "New Web-Based AutoML Tool from SensiML Makes AI for IoT Easier than Ever",
+      "excerpt": "It features UI-driven AutoML capability with sophisticated but intuitive controls, allowing users to quickly configure the software, obtain results, tune and iterate. New visualization and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newkerala.com/news/2020/90361.htm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Kerala",
+        "domain": "newkerala.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

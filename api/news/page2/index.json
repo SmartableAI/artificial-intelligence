@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
+      "title": "Ask a Techspert: How do machine learning models explain themselves?",
+      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
+      "publishedDateTime": "2020-07-09T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-australia-and-the-uk-open-joint-investigation-of-clearview-ai.md",
+      "title": "Australia and the UK open joint investigation of Clearview AI",
+      "excerpt": "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F15c3c470-c1ee-11ea-bdfb-491f89a32078&client=amp-blogside-v2&signature=e5f9098fa086536f67386570213d3fbc390d235a",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html",
+      "publishedDateTime": "2020-07-09T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-lunar-rover-footage-upscaled-with-ai-is-as-close-as-youll-get-to-the-experience-of-driving-on-the-moon.md",
+      "title": "Lunar Rover Footage Upscaled With AI Is as Close as You'll Get to the Experience of Driving on the Moon",
+      "excerpt": "The last time astronauts walked on the moon was in December of 1972, decades before high-definition video cameras were available. They relied on low-res grainy analog film to record their adventures,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bvsvydnbbayrymqooops.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lunar-rover-footage-upscaled-with-ai-is-as-close-as-you-1844321664/amp",
+      "publishedDateTime": "2020-07-09T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-this-12-year-old-ceo-is-offering-free-coding-ai-classes-during-covid-19.md",
       "title": "This 12-year-old CEO is offering free coding, AI classes during COVID-19",
       "excerpt": "Samaira Mehta is a 12-year-old with lofty goals. The founder of Yes, 1 Billion Kids Can Code and CEO of a board game company called CoderBunnyz wants to get 1 billion kids into coding by the time she graduates from college around 2030.",
@@ -450,56 +598,6 @@
         "AI in Autos",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
-      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
-      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
-          "width": 720,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "publishedDateTime": "2020-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1123,104 +1221,6 @@
         "AI",
         "Computer Vision",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-save-me-from-my-rude-self-please.md",
-      "title": "AI, save me from my rude self (please)",
-      "excerpt": "Carnegie Mellon University scientists come up with an automated method for making communication more polite, thank you very much.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-save-me-from-my-rude-self-please/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "AI, save me from my rude self (please)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "publishedDateTime": "2020-07-08T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-garry-kasparov-on-ai-people-always-called-me-an-optimist.md",
-      "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
-      "excerpt": "Garry Kasparov is a political activist who’s written books and articles on artificial intelligence, cybersecurity and online privacy, but he’s best known for being the former World Chess Champion who took on the IBM computer known as Big Blue in the mid-1990s.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/05/img_9735.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
-      "publishedDateTime": "2020-07-08T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

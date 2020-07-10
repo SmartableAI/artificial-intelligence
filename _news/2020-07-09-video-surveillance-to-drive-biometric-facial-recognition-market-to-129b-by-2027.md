@@ -124,34 +124,17 @@ related:
         width: 1024
         height: 678
         isCached: true
-  - title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
-    excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters, such as the depth of the ..."
-    publishedDateTime: 2020-07-05T22:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-301088154.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
-        width: 599
-        height: 315
-        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
     excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
-    publishedDateTime: 2020-07-09T13:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026---valuates-reports-301090880.html"
+    publishedDateTime: 2020-07-09T13:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16569587/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026-va"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16569587"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16569587"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
 
 secured: "m6k0DFoO1/RBeLzqabdag0qFS+Px62045I9pa/XSO/QVlLwBAqBkhNXhO17irfr0/2lvc5NM4+W5J1CqMi8nI2iflWs+tPy2a2eKnkTXo9S4Llsn0OQGR6bvb/VsWaLYM+rsxtnCNPm/sY4kTXxtmXGrIohmPEp10G5GBPgk6wFI1Ouxyr4P/yxEnSGr9FpaXGiAZzHiPXNUTC5XTc7JeuSeNfj49BmvFOT1FjfyuM0HusVmMRaTOv9KhJudspjcgvO77/f9RvmtSpgws5p6KT3esoLjgsxRmBzRcRXK8qnqzbFkiyk6T7pD00Wr3wG9FR5HK6yrfMS1+0qegmHPSuwwa4WEt3XgyYNoxUGem/5tlvO8/zwGxcqCStBJM1cNVGt+/3muDb0s1ntsZhIXlepIkK5YuE+9adfZ0QVcYWlCapPZdGR+tCjMDGM7isX3i0bEoigJ+F6X6cAkeDGeaqvzgROl47DlUFKnHtYJOF7ZSNlVZpcCqSKefV+tPUmzVOSzDavWNiOuyC4faMER3A==;hzADCPw+EpEuX0IeXODvNw=="
 ---

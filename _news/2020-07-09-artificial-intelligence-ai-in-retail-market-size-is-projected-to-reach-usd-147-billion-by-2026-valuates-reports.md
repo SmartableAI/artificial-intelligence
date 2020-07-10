@@ -2,25 +2,21 @@
 category: news
 title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
 excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
-publishedDateTime: 2020-07-09T13:35:00Z
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026---valuates-reports-301090880.html"
+publishedDateTime: 2020-07-09T13:52:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16569587/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026-va"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16569587"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16569587"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
-    isCached: true
 
 related:
   - title: "Facial recognition market to surpass $12 billion by 2026"
@@ -137,21 +133,7 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial Recognition Market Growth Predicted at 18% Till 2026: Global Market Insights, Inc."
-    excerpt: "The demand for 3D facial recognition systems that offer enhanced accuracy compared to traditional 2D technology will drive market growth. 3D systems offer accurate results even in dim light conditions as they use facial parameters, such as the depth of the ..."
-    publishedDateTime: 2020-07-05T22:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-growth-predicted-at-18-till-2026-global-market-insights-inc-301088154.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1200214/Global_Market_Insights_facial_recognition_market.jpg?p=facebook"
-        width: 599
-        height: 315
-        isCached: true
 
-secured: "NTr6xhJG9LX4oZwo7T0zmfsgq6pgoapD/ym/9T5dCyRxr/2N7F2vVOThyGYrBiJkjNTDpyIEDxYUinkhK5X2j6Dru1qHU5zMcwl9Bc9oxbDXYF9p71ffoavWRQacMra6NaK4Avgrho2hkXA+g+6yDpSc/3joC1vSzmf6rEmZuOBLqsgTz6Vx48ilPuTrwaddaaUWcLRLA84syD/gainvm0wIti/JsfTTe2rtdRyzLw9Oy4bu9nvhkC4g2l8732M7d7ws1+QGJIFPDibERegKXIUUYGOjBblChRxN/aw4HGg5CjtYPi5oc2zCzCKZRf83TmW2oBlLRx2JQ27L5ZYKkW8i33vTJZI597jrdFVatK1YQW4pODrjzT/vGSK6JIPvLZKzRLiXn5FlPxLrKuVEuid/UadvADvp+DolgV4mcNL3LJ+BbWlJPXbAJk9V9MR3bO7N2N2SE0dd6Xse+px9vBQKJJPEtxWFHoZu3JcfzgrFeJOBXWdAmajQdpNhTGu4Pd1NifHSiPWTZhk+AVlyoA==;Nr21tAxajikYn63/RS8mDg=="
+secured: "86CrVWdhUn2pSwgyuidsCtYhwGo1BCVRvp7hW1ExLpktjTC9keIKIOFUxhlRBHUVCHQB4lcIp5GB5G5necTdnFE8qVp61cKZBgpRBrxiQaO/y3NZUOHggXSgjscLyWKv9TET3H3E003sXNcfCGFdH0QGkHavcdXxh9TQCZwcKIQZvwEwZI5ypJkuoT6nZa3ePFq6vcKGj22I0cwpzQnA/WTNKaamOnafqsfDDTZM3C7pFGzWYJuT8pInsPm5RRBSvqaUngfb/3lXgJjn4k4sK6r37CWwdbVX/azaQTEoe7Q2fONERQ9KqHOpa9ATUhSLX2hDRa44vOLEQa+6fIduTA==;cybqy6gScLsL3zwCMTigGQ=="
 ---
 

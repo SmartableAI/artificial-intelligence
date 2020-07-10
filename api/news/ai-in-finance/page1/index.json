@@ -9,7 +9,7 @@
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,9 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "AI in Finance"
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
       ]
     },
     {
