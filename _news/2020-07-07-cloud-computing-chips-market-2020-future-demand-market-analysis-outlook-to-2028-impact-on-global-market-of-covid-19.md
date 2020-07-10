@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impact & Recovery Analysis - Artificial Intelligence Platforms Market 2020-2024 | Rise in Demand for AI-based Solutions to Boost Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by USD 12."
+    publishedDateTime: 2020-07-09T23:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200709005622/en/COVID-19-Impact-Recovery-Analysis---Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: "https://mms.businesswire.com/media/20200709005622/en/804328/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "bV/zKrkwih8kbxqLMTsWE14sDy4tes63ep1FuZ4iadELWcXOQzWnN0jdId9dfEVKQ2J+DR9Ow1EOoYydkIZqKeMk5Ts+5s0tUYyokC7SAHPrBG94FJNjkh3eJvbaEsE+z2TLm7x0VskB+TxHZsUcL9RVLj4m4APCU+HLh4JD85DpOIjWxFD+avRrirEe7pWAnU+ji/UkMIJGAsoTCxyV5j029o4q4efvvpB/ACTezbXHlpLwfI6XurulDan3qO9UrZJ7ZtG99LDehQieC8eWYPtjBiBQzzrhXF6W903fQwaXVKq9C2TuQsFRg20ouaY6eo+fWkOJ6z7q6L9ZKvUgxg==;zcw0JsaPUDD09QrFEMK68g=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T12:42:00Z
 webUrl: "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "COVID-19 Impact & Recovery Analysis - Artificial Intelligence Platforms Market 2020-2024 | Rise in Demand for AI-based Solutions to Boost Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by USD 12."
+    publishedDateTime: 2020-07-09T23:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200709005622/en/COVID-19-Impact-Recovery-Analysis---Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: "https://mms.businesswire.com/media/20200709005622/en/804328/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "00O5YsiaoX2kTQiM7bOWcqdJNhotvNUXwL0EDXNxUy6qazdjJXwLAWW80eMwxUaOgE26mSnl0MMepxw6PGd6esMDXd5mkTB3peEx9U0Vz2BdxLRvcA0Vz4fxvOLBQve+c33P90UAU41aS0aiUbnOFXCy3I8I8t/+YFXEu4QuUelqBse66xCs8HwZeP4rL043kuau63jY1f1RWm86/blba6Iz/C1o1JupgaX2hoEtPX3fgoo6ljmJ2VeUMPuOc3/7q2uRnRY9jy+TXib9OszGdr0pSe2zDLoIRzUWG44SZgHGENvxrogHD1Jbx1XP7ZVosfhNHZsRJyf6j55mX48c+g==;HTe3PnYl1V7HBqOydjofDg=="

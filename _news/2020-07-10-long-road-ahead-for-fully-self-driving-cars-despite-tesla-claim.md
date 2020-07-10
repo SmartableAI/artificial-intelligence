@@ -184,6 +184,22 @@ related:
         width: 940
         height: 626
         isCached: true
+  - title: "Elon Musk predicts Teslas will be fully autonomous this year — 4 years after the company started selling 'full self driving' software (TSLA)"
+    excerpt: "Elon Musk said Tesla's long-promised 'full self-driving' capabilities will actually come true this year. The CEO made the prediction in a"
+    publishedDateTime: 2020-07-10T02:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5af3453424131e21008b47f9"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk Says Tesla Cars Will Be Fully Self-Driving By End Of Year"
     excerpt: "Tesla founder Elon Musk has stated that his company is ‘very close’ to successfully bringing about level-five autonomous driving technology, and expects Tesla cars to be fully self-driving by the end of 2020."
     publishedDateTime: 2020-07-09T16:37:00Z
@@ -313,6 +329,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "/NCPkosmhLha3xVo+6RvPjwUbFS60EeE59kHphpzC7iv7oynBnluKH0D3HwUCiQc1MSPPREI+4czTCMyRxmQT6Y+wtKKa5RE5KpNWoEYQ/P1QX55AiomVVuOMkP03QAHL4uucG1v2f3tFqNHZIFmE9d0s7sHMz5uOTb5CTfHPl4uohXhwMvrmxi37/FpDBjulgs2TJnAKHpTMe1FBAQrrnN5JpvU80F2FRiNxenJCKtHIw4M14DPaO7lYw9+nP+QOFtjb8C9qYgF3maC8pFsT/9jTuOG+Fn8POhpDyBElX2eth5ajKx1onDcfBYKCw4WAJM5L29vaRON2fd1aDPGzw==;qsSg/CymrhyqXFlOxRwlGg=="
+secured: "dlv09eWfCrRBlvsWc9jTklmQbUiSfj9Q7K80ePPl8GEQ5o36eNg2MBewbFTNz6PAqT8VZaCi35qiWh4/CcC9lzO8R4RS+rNxVV6y6FQET9Y2fmuJve0XklD5T0deJz2YvJiKbi0ASvI8yD4VNbRk7Mgbc2dUmArYZ8hbv6DDkJH7QQY5VUm0roAzIUTD1BSUq5nIbFf7+wxOBgkVnEWgjf42q/SygK48suS79ZTuvZ8JMq1yQb6d4eom0Kq6h2jQW61PsP9X5k/x8bdZdw3p8I4vvz8zNB6miLLGjmWrSB2gB+HO489tCCK/zHEoNZmfVk3u7BrUGu474VNZH+ohA0s4bkB3EZPK8JvEIhZ5qoHG81fFejQjG53hCPg0ojPbNauVeMPa+2PEboFuJu6DCN9XrU2YMj3O49398d2RMSawTmha/oO/eUvaB7UHSge0FbRXU2Ft5ad66zqMjKQV7xgK/HKX/ZT90+SCrWu6DkAmf9tAmIokH16+YufIy3UKyONYAsLNcMYlZh0VY7z1qA==;oLLCo6tWI2G+6Ctt859sPQ=="
 ---
 

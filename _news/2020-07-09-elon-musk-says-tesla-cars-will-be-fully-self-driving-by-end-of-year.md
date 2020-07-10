@@ -186,6 +186,22 @@ related:
         width: 940
         height: 626
         isCached: true
+  - title: "Elon Musk predicts Teslas will be fully autonomous this year — 4 years after the company started selling 'full self driving' software (TSLA)"
+    excerpt: "Elon Musk said Tesla's long-promised 'full self-driving' capabilities will actually come true this year. The CEO made the prediction in a"
+    publishedDateTime: 2020-07-10T02:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5af3453424131e21008b47f9"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk says Tesla ‘very close to self-driving cars"
     excerpt: "Tesla is “very close” to bringing its self-driving car tech to the next level, chief executive Elon Musk said Thursday.  In remarks made via video message at the opening of Shanghai’s annual World Artificial Intelligence Conference,"
     publishedDateTime: 2020-07-09T18:48:00Z

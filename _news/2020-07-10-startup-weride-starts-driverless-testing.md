@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T02:08:00Z
 webUrl: "https://www.autonews.com/china/startup-weride-starts-driverless-testing"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,35 @@ images:
     height: 600
     isCached: true
 
-secured: "RCgmEaSUTCqj3ejt5cwNUvWVed/+SRnvm4W8BYChb40nlAETaj7s6TMEy/CJvJcA0coZtpzhMJo5+JWzSXXrFnDbV2rVEQ/9nA1hdwn8zyIlfAiu05S15MjI8HwZqdWZfyvtIpZmjC/VAu5bmfaR0NO+hyHQmmOPdR279xI4zUklV9u+oPkeJg06O0yizclL5fsogLAvCPrbtoqNFq7rYY/h61Hj25JuaIilOjyl1du3ESt3vMQ/cydQYd2BA5Pog478+wEhhznRw40XYSb8aPUGCVBLJ1d7Sw+5pvZgjZS7W8xAB30q8Z+Q2ONwp0VZ4FhMVKyjbGVm7lKqnXUAsg==;tnTauDB9aRaCzV4HzF6TQg=="
+related:
+  - title: "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou"
+    excerpt: "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services."
+    publishedDateTime: 2020-07-10T04:46:00Z
+    webUrl: "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 85
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/10/f6c28a28-c267-11ea-8c85-9f30eae6654e_image_hires_124612.jpg?itok=sr-PXq_S&v=1594356378"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "That Reported ‘Snakes In A Car’ Frantic Driver Is Thankfully Okay, So Consider These Self-Driving Car Ramifications"
+    excerpt: "Incidents of snakes in cars have been reported in Florida from time-to-time. This seems eminently sensible since we might readily expect snakes to exist there and warnings aplenty are posted throughout the Sunshine State to be wary of potential poisonous snakes."
+    publishedDateTime: 2020-07-08T15:41:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 32
+
+secured: "xljzD+1brc0EzKWyd7Z5rUY2yarlV3wDiRbA45VSJ+tA8YzA7cDQI+HGrF9npDVK04oIac+lgoPzKa1G7WtDiCnhYCTPUgknfBAbzZ8HRShsgiYa6Ydu+FNggHb/CAxI1T68gSwBl6257OZqecQ81AmiOuZVJNgDA8lgcn5pmm932B6Pj3ecBNpP7pumTae6jlK6ws+g9WhyvrwZl9DaCmh3qzBtBcWXar8/EntttE9Nwb0/Iqv45ynTd5G3nLelPwlSNQpec6yk3yi5SmHYYumUqaDdr3DrO9NcR2b1byE2O2lapEPi+H/e6s/4czKJzOqhFy79+Az3bC4YeGM9XVO64AFH3VbLe5qhCzBb7wAmfzRsUsB0HHupSRkbz8XmyvlVbhftnCmJf1G4PZsT5FAXDeXuxTwl8GDjtqMMUwI09Y59YjwLt6IKG/+uAQz7cu/IEOz8u89KM335IiQcTW8l9nrUE7kyoFvPaytcFzAYqWzScr/vQsw+XK6Wc5P7MtEHJsIRH/jiQxuZJx+3NQ==;10xenj4Flo1fCcKJrC4CEA=="
 ---
 

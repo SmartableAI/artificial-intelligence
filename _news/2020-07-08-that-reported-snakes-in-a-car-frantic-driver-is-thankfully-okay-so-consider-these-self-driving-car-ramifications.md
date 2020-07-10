@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-sna
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou"
+    excerpt: "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services."
+    publishedDateTime: 2020-07-10T04:46:00Z
+    webUrl: "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 85
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/10/f6c28a28-c267-11ea-8c85-9f30eae6654e_image_hires_124612.jpg?itok=sr-PXq_S&v=1594356378"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Startup WeRide starts driverless testing"
+    excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
+    publishedDateTime: 2020-07-10T02:08:00Z
+    webUrl: "https://www.autonews.com/china/startup-weride-starts-driverless-testing"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/index_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "/LHXooQ7vRZyAyAwr1NV59XCDugqhDOMngMVlPLktnrzwahbjcqF5Cg84VDBlVz7KW6OLIRr/2DGTk1DB+eq21Zigm4sQPY+kwaMFXzsuO752q+7IU2K6o/+g1LYe2JdiXRzRgU06BdjcL5FYYvoz4Y69dE5J3XOYggSIcx3UVeAV3mJwlgdZIQ4HffQxHJXy2zct3XdLw3TGKPb/horATAYaWmpQ6Ys8OM7mb+nQjHRiqd6qkbV7x6Wi/Wvyqzrln1zMXXZGnJ02GyR0dHnuRUncrXkehFFN8FMs4PM9LX9j14djP1cVYsGrudFs0nctyj0l5wQ2vp2ZD8G8sCYaydq8RhFhSQFCAOe4za0Atr439ZobSy08yCzCx8B+TpAYdcMxbSWpMaASpka6cq+mc+UZR9Jy9w6KqvH/kXxJ0NWrd0EL/Efn4xW575RmKTB/JiS1m/86s9sHq7y/x2KZIKgB82umzN31O7kEDwZCG8mKhSkE6Y+oYBlHDCMga6J0f79BDsU/Bnnqd8zivuLSQ==;OOI8hm2uaSRtYU5j7Dg54A=="
 ---

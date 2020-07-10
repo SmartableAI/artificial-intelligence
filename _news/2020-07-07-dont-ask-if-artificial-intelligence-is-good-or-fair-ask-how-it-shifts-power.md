@@ -5,8 +5,8 @@ excerpt: "Law enforcement, marketers, hospitals and other bodies apply artificia
 publishedDateTime: 2020-07-07T11:14:00Z
 webUrl: "https://www.nature.com/articles/d41586-020-02003-2"
 type: article
-quality: 49
-heat: 49
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -15,6 +15,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-02003-2/d41586-020-02003-2_18150240.jpg"

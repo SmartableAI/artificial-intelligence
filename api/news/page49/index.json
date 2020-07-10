@@ -2,6 +2,97 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-06-02-yandex-debuts-automated-driving-prototypes-based-on-hyundai-sonata.md",
+      "title": "Yandex Debuts Automated Driving Prototypes Based On Hyundai Sonata",
+      "excerpt": "The Russian tech firm launched its fourth-generation automated driving development platform based on the 2020 Hyundai Sonata",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-yandex-debuts-automated-driving-prototypes-based-on-hyundai-sonata/index.json",
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2020/06/02/yandex-debuts-new-automated-driving-prototypes-based-on-hyundai-sonata/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed54289a40c3d0007ed25c7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Yandex Debuts Automated Driving Prototypes Based On Hyundai Sonata",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2020/06/02/yandex-debuts-new-automated-driving-prototypes-based-on-hyundai-sonata/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/06/02/yandex-debuts-new-automated-driving-prototypes-based-on-hyundai-sonata/amp/",
+      "publishedDateTime": "2020-06-02T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata.md",
+      "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
+      "excerpt": "Yandex, the Russian Alphabet-like company with a self-driving car unit that debuted a fully driverless car in Las Vegas this year, has updated its autonomous driving program. The fourth iteration of the company's self-driving car was officially revealed on Tuesday as a modified Hyundai Sonata.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-02-yandex-switches-from-self-driving-prius-to-autonomous-hyundai-sonata/index.json",
+      "webUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F02%252Fbc%252F1d9c858e095c44cea47a22a6b4a9d2c7.63a92.png%252F1200x630.png?signature=nmRMZOQSuarkBb4OPWB23TaXw90=",
+          "width": 1200,
+          "height": 630,
+          "title": "Yandex switches from self-driving Prius to autonomous Hyundai Sonata",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/yandex-next-gen-self-driving-car-hyundai.amp",
+      "publishedDateTime": "2020-06-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-02-dell-technologies-virtualises-gpus-for-ai-and-hpc-workloads.md",
       "title": "Dell Technologies virtualises GPUs for AI and HPC workloads",
       "excerpt": "Dell Technologies has announced new configurations aimed at simplifying the use of AI workloads in VMware environments. Dell EMC Ready Solutions for AI: GPU-as-a-Service incorporate VMware vSphere 7 with Bitfusion to allow the creation and sharing of virtual GPU pools. This approach improves GPU utilisation from around 15% to 80% or more ...",
@@ -1015,97 +1106,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-06-01T09:50:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers.md",
-      "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
-      "excerpt": "A wide variety of food options may be available at a self-serve salad bar (Image source: Benjamin Ashton on Unsplash) In fact, this activity at a regular checkout can easily take 16 seconds or more (see Proppos: Computer Vision Self-Checkout).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers/index.json",
-      "webUrl": "https://www.embedded-computing.com/guest-blogs/artificial-intelligence-and-computer-vision-facilitates-frustrated-famished-workers",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://share.opsy.st/5ed522170cb2e-Picture1.png",
-          "width": 804,
-          "height": 479,
-          "title": "Artificial Intelligence and Computer Vision Facilitates Frustrated Famished Workers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant.md",
-      "title": "Amazon Textract is now SOC and ISO compliant",
-      "excerpt": "You can now use Amazon Textract, a machine learning (ML) service that quickly and easily extracts text and data from forms and tables in scanned documents, for workloads that are subject to Service Organization Control (SOC) compliance and International Organization for Standardization (ISO) compliance.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-01-amazon-textract-is-now-soc-and-iso-compliant/index.json",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-textract-is-now-soc-and-iso-compliant/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/10/site-merch_Textract_SocialMedia_2.png",
-          "width": 800,
-          "height": 400,
-          "title": "Amazon Textract is now SOC and ISO compliant",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-01T09:00:36-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

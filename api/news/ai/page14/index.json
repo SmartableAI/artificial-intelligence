@@ -2,6 +2,105 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-25-building-a-speech-to-text-notification-system-in-different-languages-with-aws-transcribe-and-an-iot-device.md",
+      "title": "Building a speech-to-text notification system in different languages with AWS Transcribe and an IoT device",
+      "excerpt": "Have you ever wished that people visiting your home could leave you a message if you’re not there? What if that solution could support your native language? Here is a straightforward and cost-effective solution that you can build yourself, and you only pay for what you use. This post demonstrates how",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-building-a-speech-to-text-notification-system-in-different-languages-with-aws-transcribe-and-an-iot-device/index.json",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-speech-to-text-notification-system-in-different-languages-with-aws-transcribe-and-an-iot-device/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/10/transcribe-iot-1.gif",
+          "width": 813,
+          "height": 331,
+          "title": "Building a speech-to-text notification system in different languages with AWS Transcribe and an IoT device",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T13:10:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ohio-using-ai-to-cull-old-laws-and-streamline-regulations.md",
+      "title": "Ohio using AI to cull old laws and streamline regulations",
+      "excerpt": "An AI tool developed by Deloitte is helping Ohio eliminate redundant and unnecessary regulations and rules that cost businesses and taxpayers time and money.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-ohio-using-ai-to-cull-old-laws-and-streamline-regulations/index.json",
+      "webUrl": "https://www.techrepublic.com/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/25/418377cc-9cf5-4639-b5f1-d1e8af3939f8/resize/1200x/237d79a99b4d77aaeb03fe8decb12465/istock-1252246565-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Ohio using AI to cull old laws and streamline regulations",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
+      "publishedDateTime": "2020-06-25T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars.md",
       "title": "Volvo will use Waymo technology to power its self-driving cars",
       "excerpt": "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services.",
@@ -1258,105 +1357,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup.md",
-      "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-      "excerpt": "With the field slowing down, why would Mercedes and BMW end their partnership? Just adding NVIDIA chips isn't enough explanation. Plus, a roundup of other robocar news for the week.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/index.json",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/imageserve/5ef431b4816bb40006d1c766/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Mercedes Drops Partnership With BMW, Hooks Up With NVIDIA On Self-Driving: Robocar Roundup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/06/25/mercedes-drops-partnership-with-bmw-hooks-up-with-nvidia-on-self-driving-robocar-roundup/amp/",
-      "publishedDateTime": "2020-06-25T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences.md",
-      "title": "Apple’s AI plan: a thousand small conveniences",
-      "excerpt": "Sprinkled throughout Apple’s announcements about iOS, iPadOS, and macOS were a number of features and updates that have machine learning at their heart. Some weren’t announced onstage, and some features that almost certainly use AI weren’t identified as such,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-apples-ai-plan-a-thousand-small-conveniences/index.json",
-      "webUrl": "https://www.theverge.com/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/-2YBHYjho09Yd9WWECA00opzEn8=/0x0:2556x1634/1400x933/filters:focal(1074x613:1482x1021):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66979576/Screen_Shot_2020_06_22_at_6.54.32_PM.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": "Apple’s AI plan: a thousand small conveniences",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience",
-      "publishedDateTime": "2020-06-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
