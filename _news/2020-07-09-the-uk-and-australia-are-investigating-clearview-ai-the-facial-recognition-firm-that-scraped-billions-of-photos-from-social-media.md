@@ -1,11 +1,11 @@
 ---
 category: news
 title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
-excerpt: "Clearview AI describes itself as a \"search engine for ... shutting down its business in Canada due to the investigation. The ethics of facial recognition are under particular scrutiny at the ..."
-publishedDateTime: 2020-07-09T09:56:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7-1029379541"
+excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
+publishedDateTime: 2020-07-09T10:19:00Z
+webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
+ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
 type: article
 quality: 59
 heat: -1
@@ -20,13 +20,13 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://images.markets.businessinsider.com/image/5f06d5814dca68021f4ecea4-2000/facial-recognition-protest.jpeg"
-    width: 1024
-    height: 768
+  - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -289,22 +289,6 @@ related:
       - url: "https://www.pymnts.com/wp-content/uploads/2020/07/Clearview-AI-investigation-facial-recognition-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "UK, Australia investigate Clearview facial recognition firm"
-    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites."
-    publishedDateTime: 2020-07-09T19:08:00Z
-    webUrl: "https://www.sfgate.com/news/article/UK-Australia-investigate-Clearview-facial-15396715.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-        width: 375
-        height: 211
         isCached: true
   - title: "UK, Australia launch joint investigation of facial recognition firm"
     excerpt: "Regulators in the United Kingdom and Australia announced a joint investigation Thursday of Clearview AI, a controversial facial recognition company that has scraped billions of photos from the internet."
@@ -588,6 +572,34 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
+  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
+    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
+    publishedDateTime: 2020-07-09T22:16:00Z
+    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
+    type: article
+    provider:
+      name: 9&10 News
+      domain: 9and10news.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "UK, Australia investigate Clearview facial recognition firm"
+    excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
+    publishedDateTime: 2020-07-09T15:07:00Z
+    webUrl: "https://www.startribune.com/uk-australia-investigate-clearview-facial-recognition-firm/571690222/"
+    type: article
+    provider:
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
+    images:
+      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
+        width: 1680
+        height: 876
+        isCached: true
   - title: "Trulioo EmbedID adds document verification and facial recognition features"
     excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
     publishedDateTime: 2020-07-09T13:43:00Z
@@ -671,6 +683,6 @@ related:
         height: 798
         isCached: true
 
-secured: "qt58UPT/Ig4gdNK1Bh7hiMsb20EjIFSutukPTR7/r6vfon3CPsP8EN11XRNTdCd6bnnKiDyVh1jkhvK8CLCwoNykrm4GiEFrMasMRGx/qbKGF5WQonfUl6IvXKvZQiL6cPJ5CbyLBz9ErWmudgh0O0KoDJcQt0tWrtXFKhme/btSp98Y4ztHDn6whQdEq0x5ncKvNXZmAXgW3Os93X822m18vpNe68EOrHV8DVm+DXpkQNNuSgTMKgz3rnMminwf4iKHDk7nSNbmpBFJDHANkGW86tGTCxfbuzJEvMg3PkB3PkXczGv4S+jdLpJNcD2jBjpFmNFxcnmZMdvUQix6AQ==;Z2hQ5LwkcLJUER7wUEPDgQ=="
+secured: "MB1UM+aUoKBHSUZ+cJ09wqiQP3MiEhStU22cKXvaZdC8fz51XKn6sPvhHROsZMJjXAME3vQOIxbqewiF0tW35Hk+dbCm9LpJFOUx2TbszKYhQRk8nQj1aoXzReIjASsBKV6uSkUJRRjUGgAVrcYmcG0RMDvGpPftxKbySw28ygq0/j6cJIW4xrly2xYZQLcRE2kxxjqnmwQgPlKRvYtsT+F2NIBL+90vCTN3yrJ3tB39tuLBxxKrgNhcMYHEvxBBUTP1+OQrjihPFEFIieV6f2EBiBDt8wwu/Ck8VXbkn9jTszOkyDonEgBwvt/LOybm3nIoC+zyrtdX5GM6zKM56g==;ZoE/P/kYTQcgejer/c68cw=="
 ---
 

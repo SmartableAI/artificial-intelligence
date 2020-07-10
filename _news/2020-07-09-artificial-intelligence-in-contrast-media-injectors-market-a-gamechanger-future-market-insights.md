@@ -5,8 +5,8 @@ excerpt: "The contrast media injectors market shall expand at a CAGR of 4.9% thr
 publishedDateTime: 2020-07-09T14:05:00Z
 webUrl: "https://www.prnewswire.com/ae/news-releases/artificial-intelligence-in-contrast-media-injectors-market-a-gamechanger-future-market-insights-807674287.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1197648/FMI_Logo.jpg?p=facebook"

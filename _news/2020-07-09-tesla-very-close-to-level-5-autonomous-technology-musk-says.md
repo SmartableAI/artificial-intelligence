@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "Elon Musk: Tesla is close to achieving basic level 5 autonomy for its cars"
+    excerpt: "Tesla's recent market performance surprised many when the company revealed that it had delivered no less than 90,000 vehicles in the second quarter of this year, which is even more impressive when you account for the pandemic-related factory shutdowns."
+    publishedDateTime: 2020-07-09T22:56:00Z
+    webUrl: "https://www.techspot.com/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 87
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-34.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Tesla's is close to nailing the basics on self-driving"
     excerpt: "\"very close\" to developing fully autonomous vehicles and could work out the basics of that technology as soon as this year. Musk reiterated that the electric vehicle maker has solved most of the essential challenges toward achieving Level 5 autonomy,"
     publishedDateTime: 2020-07-09T07:04:00Z
@@ -195,6 +211,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "Self-driving Teslas ‘by end of year’"
+    excerpt: "Elon Musk has said that Tesla cars will be fully autonomous by the end of the year, claiming there are now “no fundamental challenges” to removing the need for human drivers.The founder of the US"
+    publishedDateTime: 2020-07-09T23:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/self-driving-teslas-by-end-of-year-qj0b0d92l"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6c8205ac-c210-11ea-ac82-8308736f5ec7.jpg?crop=4000%2C2250%2C0%2C208&resize=685"
+        width: 685
+        height: 385
+        isCached: true
   - title: "Tesla 'very close' to level 5 self-driving technology"
     excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
     publishedDateTime: 2020-07-09T07:49:00Z
@@ -205,6 +235,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "piIHJw697eySMIKkTcqhlnTMzS8cF/vHz9UEgSdC7DTuOIsjL4zSxr0HHHoBGsx2Qi9yfYD57j0gW2f7J2YqyAC/XxhA2No1Uz7XCc9FGODhLw01JyUxioFqmH7Cr7usgZwxLu74JgAQJdDwZXDpJcmrZvYJ2YqaHWGS4YTxs+d2XdCXuvIz0HVvk7Qd31ZXagHmngnHiVkHxSbWEnhKfTYkIGzm7uwE01XtqWOqTCQ1Fe9cjblalTEZi2QTc7rD4ptN33AW7sbPHaP8jOQZNCa0R13IQBeh9CDLuFoIfbe7fPAEu9/nISdo4LNPuLXuVgaX+COpi+Ql0JOq+gAc/g==;/xx2n12OkYRkPftrdTkqYw=="
+secured: "sfzIFVwEpEGVI6VvZXbRbBeMIlkHa4P16g7fvzb1riUHZ1Ace6WuCWBIYDW0iGufwhHpxm8ExtCmVOrwg5vo6W5z/dOQ8yzvAtnwF8Sl5FyqzZV0ZoElLdKUdrrjvquzgrcrg7t8kxm1z9R3ZuTw8Q1bRfp8GoqpEdj91PHGvj6pX7Jvzu1ElxItwyZ4IxzN/7lkczpKuhy00p533Gh1V9ndpWCqbs4gbHghURmUqObDRX8mmeNmp6ErD9+iJh3GXCy6Qj7KZpDyzQNBb4VxmP7N2SoNPLElHM4IqlNwuy3nXK4kCMPeIJfa85yH+t/imcTlnx5CoikpJMUog6qNtEZzejY4XqXgQTk/toNKrFJzhzHBe+21NrOCOxP8Yh2+jD7PJDNDs+dQtRky4TQO1ab4VeM7YSMwS7boJeAMrZR2VYslFRh4NkjtXsx4KEc0WBXpHV+vYLTk/3d+YWPsEsp0Q9lHk6GkSVI/K3qq8AJ1hSmcRB5lwpLH0CrzOSg7eb0bIVYLZMejkbFSqx3YdA==;otqX+BQBCX3jlHpCb0IhVA=="
 ---
 

@@ -3,7 +3,7 @@ category: news
 title: "With a full grasp of real healthcare requirements, iMedtac introduces wide-ranging solutions targeting smart hospital trend"
 excerpt: "The world's population is aging. According to American Association of Retired Persons, 22% of the world's population will be 60 and older by 2050. At the same time, developers are making use of new technologies including artificial intelligence (AI),"
 publishedDateTime: 2020-07-09T02:08:00Z
-webUrl: "https://www.digitimes.com/news/a20200709PR200.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20200709PR200.html&chid=9"
 type: article
 quality: 13
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 878
         isCached: true
 
-secured: "lETRygsnnjO0xltw3XdfM+WAAeJ1UbwSSg1wMd6h+vtxPJiZOXVv3HaPn2UNNO9vrdSTo4oSAFp87pbyolQZ4NFiep8pgA1zapTaWaNqlLSIoku5ih3qWqwDYQoeTxV4MY/9m0OCKSuA6XGIDhY+0whIQcOMwaZx6DeNOvXuSxr4aOyrLJ9Yj5VjKTfW46ny/piN6TYY7Zj2ClRrHI44aZFRzcCnXSjhLXlG4XQZgcLrhfPJWnls73vnrt+TSU9e4hjfMarsKjIpiKuXz7kdOTdY1WrssA7LVLVZy0szxM+49D80PLceWQuiTw5fuvvJkesgOVESZXkjtMGPgdk/6w==;uFcMLmULdhuYBKYc9ipC2w=="
+secured: "m0Yj7jHsmmIC3G5hgTqW35vb3OcgLuFwEFujdPZGfHmQk00GWbpR0dkVDvrSme2nwVf52vrPTF0kGY6LUXzFI9P6O+SwOzhdgJ4yrY4xujuqDioKPHmZ3xH+rpooBSpfGq8EAeM1pIITwrdxsSxiX/WToupcqTRqPe5qX+LyiKKAxqOtQAZSFDnX1Gmt7LPlY7KqeWcHQZVFpyijKyDFObuEj0tKRE0ebjfUW4VfjcuRmTcD/ISVa0+0fysZDbXgXa+/Jq888gWRiuHYSTtkKkrtAPUYiueLcbPuIcw9mQEdQROhEAChFKZTTnHkOaHouwtZgT8y/d3yaFNb6RDnQg==;JRtLNTMLIrkywarH72/VbQ=="
 ---
 

@@ -54,6 +54,20 @@ related:
         width: 708
         height: 398
         isCached: true
+  - title: "This VC backed self-driving car startup Zoox into a big buyout by Amazon. Here's why he says that deal signals a new wave of automation."
+    excerpt: "Factories, warehouses, and logistics companies are about to see a new wave of automation, Lux Capital's Shahin Farshchi said."
+    publishedDateTime: 2020-07-09T21:25:00Z
+    webUrl: "https://www.businessinsider.com/lux-captials-shahin-farshchi-sees-coming-wave-of-smart-automation-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/5f077bd9f0f4194df1161093?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Lyspwj3xMkSIpgQBRFqtUyQqhGsIzgpbXnPl3gDvjQPepQB4hs+SPZGiIvUCspec2o9NQs/JffPBSUPsM+Z95rGnMf384pm+9ozObXfWLjw6GF4rLJbvSSCzZROjHiJ7SwNcS4p5lDKbyhMqnIao79CsIuqXJUB//UPCxkDX+bqr/TZfOwb3gez1+sijn+3+Kld1BaSLSIpSW5PFwLEHgMTV97HnPnk1Wm6hV1JRyd71ikghCxcry+zi00G7pnPD9VSUV/jYHOfYanycTbd/Rn9dbkiNCq2nZ80s6zLJqs8ecX+OoVQuHQfBbNL6raf6xbTdKEMKloLfA3Wc15QKaLd4iHR/Auddx6wppn5Y0vfiQ0p2OzcOj16eR2mKCSPe3yljxJIj8B0+3OcrJBVIhFPxCdkVZuQSn+KlEaBTfynSkFZMYAL9a9RyG77g2fOPa9VCIqFodRupounp4neF44zokLa5Cl/BAeXQeKrviFCl/rFSBY4WN6wOHTjx6S4QxfJxYh7RDDMJJ3o9pFyYUg==;d9lOnZg/C//LXsOd11kOuA=="
 ---

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/21318402/japanese-app-ai-grade
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "A sushi restaurant chain in Japan is using AI to evaluate tuna cuts"
+    excerpt: "A Japanese advertising agency has created an app that uses AI to allow humans to easily grade the quality of a tuna cut."
+    publishedDateTime: 2020-07-09T22:48:00Z
+    webUrl: "https://www.engadget.com/ai-dreams-of-sushi-224552215.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Ff6e525a0-c231-11ea-9767-ba6e4c96ee25&client=amp-blogside-v2&signature=36229eb63dc4f49c07c0bb822fe8f32f26476ac0"
+        width: 600
+        height: 350
+        isCached: true
   - title: "This New App Uses AI To Grade Tuna Freshness"
     excerpt: "Tuna Scope, a new app in Japan, uses artificial intelligence to grade the quality of cuts of tuna, mostly for sushi. Fishmongers say that this is fine for chain restaurants, but high-end restaurants will always want the human touch."
     publishedDateTime: 2020-07-09T19:59:00Z
@@ -45,16 +61,7 @@ related:
         width: 846
         height: 424
         isCached: true
-  - title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
-    excerpt: "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious."
-    publishedDateTime: 2020-07-05T21:24:00Z
-    webUrl: "https://japantoday.com/category/tech/sushi-meets-ai-japanese-inventor%27s-app-scopes-out-choice-tuna-cuts"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 17
 
-secured: "S2mM6D4kXjazbGsoQ/ukx+tccm/eYa3CRGyEFzF+7pUKocoQCCiUvgCuk4KcR8AiutmNY5XpA2S4Hcn0FOy4FePgb9ALK/D4aH0ysiEQxnfQYS6buUZS+Uz/stlJzsqvKZVSB+MLWCEjZhl9eEuwuHpYqLTkYq2r6Pmrea54l7/TIbfMAZX0U1ARoNigx22E9qsFXPaEN9huTkU1w2MAiTL9Qx0dcdikAWwlJJpCifBD9PFL8WkQqXo/nuycU5CJo9sXbtJXB4XJD7WxsK13DQbMcmET7LLimusaKGx2OCt/I4Lyy7FEeWFMGylT/Dhkl/0zubDo67vbX+x9oKYwqA==;7odO3luvAq/hZ1ey1PtlVA=="
+secured: "SOQ4BkU0SJjOUDfeKMcaecwKLMPPCSMPPrfxRwPTZttIrQnxoyr7zWt6s4kHmAJo8FvRdfpWlQ+4XGSJsXSs+DECZpJSUJor4PNAv0c/u8hrIm0LTZ5DFwJb55imJxf/Lb07k6LWHXQoCVz/5N0O/kGw4M6ovz4ZrY5Sp6unLt0UDL9mSU3U1EFo2h7RJY6pEbw/wXUwsEZYMHBO2dHEjZcjyVXjD9qwlhBlkRl2R0F+ATUDWYss3J1/y+Svq3OCfU6yEcmiL9wTgyALk+KbmFrqYXd7CfRj/eVpzXSZrw3VS8grSHuwwRrwoJFG2OoAe628nwYsAzJVnANyrruqbDd60BdJTvDIhZ4oPWaW+178mvqca/HPfd8HwWo1SCu/k9yASQw1aVUdBU5txHMbKYL2zjO9K+FmTRpl4hwI1sq3CAbQ0rG4xP8jNGkYErPMeuAssmiQ7e2eBYhac/pBmYT0poSAZChRK+7Fs7JMIGKpuIxl9HxiyXiCy84l6vR80a3BI1DdpdXTuEZ8n4Q/gA==;p7+v3VPaHuGeW2rhrv6+WQ=="
 ---
 

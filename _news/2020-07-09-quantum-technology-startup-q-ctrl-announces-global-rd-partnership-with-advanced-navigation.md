@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Quantum Technology Startup Q-CTRL Announces Global R&D Partnership with Advanced Navigation"
-excerpt: "Q-CTRL to provide expertise on quantum-enhanced sensing to Advanced Navigation's ultra-precise, AI-based navigational manufacturing Q-CTRL, a startup that applies"
-publishedDateTime: 2020-07-09T10:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/b16565198/quantum-technology-startup-q-ctrl-announces-global-r-d-partnership-with-advanced-navigation"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16565198"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16565198"
+excerpt: "CTRL and Advanced Navigation enter partnership to bring quantum-enhanced precision navigation and timing (PNT) to defense and civilian markets."
+publishedDateTime: 2020-07-09T13:37:00Z
+webUrl: "https://www.businesswire.com/news/home/20200709005339/en/Quantum-Technology-Startup-Q-CTRL-Announces-Global-Partnership"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "BwjzAs4aKjyhxF32C3qMPJQ5QpBj8khX+ILQTFsVJsFr/2/bqP2NYJwWVWgR/WFJTVvv5qhEY9REXLmjc+OLz8ORNlEnMg1dADx86rHXPrkreaR6T6ctFpkdTi36h53/VO8g/gZTGeDsJxLOIYWuZOmmA92svSbtK3PiHfi9POcdGLtko5ME1TNs39HxdlHASXu2aqIB42fNCs1FG/PhoiiuD6cM9IYFSMvk2g9SqxP5apqFz/mzQkCBwEKHcCu4fUgcAyQ4O0PlhOPpzmTyM1JdVJMkDSqtoJb9JmBZwHOfXcwJKbk1zlI7kq0l54whxA+n8Q7TqGeDWcSm6XoZWA==;/fS/jUhleHXU/pfciOXkOQ=="
+secured: "gmH5l8NJWumVAmwRflHT0ZWmRVe75fU50+f3BeRRV77xoX5K/KWcyyYSWaV1cmfnRrfp9Y6q8A4gcGUWX78chcGJM1IUf4hy6erzAvC2ZPKrqmLmGQ7/TCFeOnBuZKpzEDbA4bS8gluKFuRZRjBnm77bMDTf4oX3R/dhCQHZCad8EDLVmptVVGmq4Uu/2CWYen4ZQv5zIYUqCMBWpN+14WB9xWamvORnCJnSUjrMVdiM8+mwbFsKbxrdLFZ5W57P5ZyTar4xACONsveWCcsKSCTyoNfeVeeQZhoKFd/w08D6OH3SOCsTwa8uzPNwgj3D7w0YKVfEwEg3V19O/XEA6w==;9N3Xs/9cHyAalNVvN+Yu8A=="
 ---
 

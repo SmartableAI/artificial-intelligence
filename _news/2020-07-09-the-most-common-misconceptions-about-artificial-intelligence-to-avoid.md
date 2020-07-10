@@ -5,8 +5,8 @@ excerpt: "In a world where big data, automation, and neural networks have become
 publishedDateTime: 2020-07-09T20:38:00Z
 webUrl: "https://www.analyticsinsight.net/the-most-common-misconceptions-about-ai-to-avoid/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/07/AI-Misconceptions.png"
@@ -23,6 +24,6 @@ images:
     height: 788
     isCached: true
 
-secured: "g/f26DVJYCTnSR9Mh/Vi6fbuxAC080134DP06cixxmlk9jUKTpTALIoTsuJqwWLCmeYgxTwh+XAj29XVezXiyWucz73fr64pcBN8lNmRbc87nFsKLyEwoygI+OMKaUB7Q1CFoqu+p8FY3p71O6OtDI6NqYoOVsqTy0q0ztwLKiqy99x6QSvH1IV1aZnDeK/a3a4hXmL3Z7bk4CHY8096qphZeHe0XNVh9wIT7vsUrKMVTAXcil6ioAxAV/PM4D0omBKKFZDCbg3gclong2QFUl3g6L75Ex/dfjgOeDoEg/y5peG00EDx8flQVdMhHp8B8qRTkk/cdCys8BBriOqKuA==;VwcPTwo2KVk047JKGgFcsQ=="
+secured: "8cTnrbu3Y+wqyAuyEqFzJ0JZ39vL9Hg0dsAxXj1i4Hr5t/SBEl7qqKn4jxrtf3jRsvG0q6mV6veTQt0Qd2hlr9bI52xGYLJQr5rxiIU8RsD5HQy5+mIz71JS/XnSqlRq98jFahuU8GNW+YSmUKE1eNfCLK52kGIvrk6n2xLtcCDDV7ccmTnVIJPC9T9U8JHTu5M9j9SVDR0HpBdxcoYTecdTnwaF3Od4Mg38hsgZOsPyq8L+rYmd2+tstWlG4goc15TeJnEtkMp8WN7D5x3zPCAWX2AF0B+zINOEZ4f2/jx+P25StHK8iWAQsrAyjoill75KKLvz6O3MPs0sgED9dRSYRvGtC2nDUeiLMeg5ILfOpDfeuK2BS70RSxpkIr5yWlDCI+rNuqAWFBf5f8+h7kcSXvoG4jwPNhSKYV+aXfFTKk5Oa0FWWr4QF6P+DFEc/GVVhLJIT7v3xYbJbACq0WzoajHtfJnEEvjqTsavfX/IaMoEwmAavzfxxlyEqEAFeMmZAk5A8Fe2755lf/H7yg==;G5n1EWCNLVp6T7+ig5OFFw=="
 ---
 

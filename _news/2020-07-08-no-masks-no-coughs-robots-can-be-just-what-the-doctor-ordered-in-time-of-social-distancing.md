@@ -57,6 +57,17 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "In a time of social distancing, robots could be just what the doctor ordered"
+    excerpt: "Robots' roles at work and home have grown since the novel coronavirus spread around the world. They rove. They disinfect. They make drinks. They even bust a few dance moves."
+    publishedDateTime: 2020-07-09T23:31:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/in-a-time-of-social-distancing-robots-could-be-just-what-the-doctor-ordered/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/in-a-time-of-social-distancing-robots-could-be-just-what-the-doctor-ordered/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/in-a-time-of-social-distancing-robots-could-be-just-what-the-doctor-ordered/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
 
 secured: "PgJs7OVzSVUoZgL8Ykhe6vHsMAfKPLYGIT+vPe9n0iff2C6HraYSLcrVuFV3hCn8E1e/iQh3hpCNohQcBCLFvXd6a0W52+yP/8W7DEyBGRZR2qbq1KDOAW0JD9Fsw9aG7pFhTwqtvNkZ1tTNnOuYfPPgZNmdtiTrNeUKwIsBBd8Qc3wArVhb4mDWkvwV0tzTNdEk2R6iyDQjEgIX2PFZnhLdYaL1olkpeRwaKrMltKusFSFzgMoT1y9FisCyfJY04YcOEJE0fEisFR9qOgOamvzxynR+/hxWl458asz/dd5AH1R41wIa1+0/ZNrCNjyKz0ncxZj0uJPoniLBJgBnlVyeUtIgM3wID3hj1yJHyeDgoLiQEoHDx5hZbZ+y2UsTQm1CK0k0+wU8LBQuwttdc/gHlfCKxrKTX+dxwmoJox5YlXhB49O2v8rvmAsUgOPqBHFc3V6ih/jIgVbrupEcsEANq9i2H4MEkLZqrHJeqeAotlyj8Gnh3WksBUyGHYYz7A9/5bRQe4rIbqnemBlhpw==;WxkmVGKj8XaYY63LD3uSjQ=="
 ---

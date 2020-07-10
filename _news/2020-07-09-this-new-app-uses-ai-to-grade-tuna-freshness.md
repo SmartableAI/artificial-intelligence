@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A sushi restaurant chain in Japan is using AI to evaluate tuna cuts"
+    excerpt: "A Japanese advertising agency has created an app that uses AI to allow humans to easily grade the quality of a tuna cut."
+    publishedDateTime: 2020-07-09T22:48:00Z
+    webUrl: "https://www.engadget.com/ai-dreams-of-sushi-224552215.html"
+    ampWebUrl: "https://www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Ff6e525a0-c231-11ea-9767-ba6e4c96ee25&client=amp-blogside-v2&signature=36229eb63dc4f49c07c0bb822fe8f32f26476ac0"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Japanese app Tuna Scope uses AI to grade the quality of fish"
     excerpt: "The app, named Tuna Scope, was developed by Japanese advertising firm Dentsu Inc. It uses machine learning algorithms trained on thousands of images of the cross-sections of tuna tails, a cut of the meat that can reveal much about a fish’s constitution."
     publishedDateTime: 2020-07-09T14:23:00Z
@@ -41,16 +57,7 @@ related:
         width: 1400
         height: 869
         isCached: true
-  - title: "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts"
-    excerpt: "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious."
-    publishedDateTime: 2020-07-05T21:24:00Z
-    webUrl: "https://japantoday.com/category/tech/sushi-meets-ai-japanese-inventor%27s-app-scopes-out-choice-tuna-cuts"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 17
 
-secured: "BiUESH+FoZ0UciOhqX3xZW02UR89DYVcsU3/8pGxocMJfzXKFSUB4y7DOeu1zc3gJ0cxJRcElRkLeEhiz0njH1QmwdInTHcfSFrfsFngKCzV+CImmMDMzfeht7eGAqIBHay9W90F5PoN+8CeIPjvsro5egmfx3Eae2V2PkavJfS7gFxRjidee1Bp1/kH/T3D+5tPKIKPcDyMemKIQrP6cVjB1zo6xXoRueJWvgBJIbAYcaWH8WqS6eQihu7WxoDTUzMS4cIbY0L+HKoO6v2ZF7/FzSiTcAFv/7D8VdiY/uW7UnHLSx8UKZxd7Wd5+LPdEMvRUXxel9DYg9a0RCf/7Q==;Zra3Mez3IDTdV9n7oOjeyQ=="
+secured: "PNAgfokddxMEYdL6quAbnG0MKOz2EYwQW6+O5ef5g47S/816kaEkecmyOyUrbrJktllyC96EjUrqt60tkEvvQApC4/zPENI71tr4tTc3k1aMAC2j7hvH3xq/hO+qiGWs7svzI6MATizGtfwTlPqfy5Tr8D8epvrYRqw53OLevgCOULCIFoVpqWJLitTjsuC2YMtrlung4hbf+S28APUrUwz+85EBcFkFn3RqyNLF3kfcCDWRPnsi8clQyjLGt5vujKEhLuqXRsdpSBQh3ajiyBTshA7frF6rAK+1PE+Rg7NPgvA3/cpFasUmV/vM8D1cOs0x/y5AJ6KGcRybDgMyo8ZTg7e/l47bJ8l+tn5RUkHCjzWPyrANbo3XtHBh4371lqhTQl3PsjrLOtAoCcO7j6/PrNkqZK9mjn0TfsZPyff9Pva6N+od6nxKWSwKkL1GNt24JuUXbST5j4xawZi2TNxeZJFRmfo7wYt8BwIYDgYTv13efHUhSyKjpaZMBDpmKdKENWTda1oh7WM27pLySw==;rqQDDnkc7qa6dvILTenlgw=="
 ---
 
