@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "leapmind_inc"
   url: "https://twitter.com/leapmind_inc"
-  followers: 869
+  followers: 868
 
 size: 51-200 employees
 yearFounded: 2012
