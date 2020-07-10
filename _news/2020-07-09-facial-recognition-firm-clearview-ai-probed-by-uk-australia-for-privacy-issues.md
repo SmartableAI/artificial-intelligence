@@ -1,19 +1,21 @@
 ---
 category: news
-title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
+title: "Facial recognition firm Clearview AI probed by UK, Australia for privacy issues"
 excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-publishedDateTime: 2020-07-09T16:16:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-09/facial-recognition-company-clearview-ai-probed-by-uk-australia"
+publishedDateTime: 2020-07-09T13:18:00Z
+webUrl: "https://www.reuters.com/article/us-clearview-ai-investigation-idUSKBN24A110"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A110"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A110"
 type: article
-quality: 60
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -666,6 +668,6 @@ related:
         height: 798
         isCached: true
 
-secured: "YXdWjNr77Q5evKG7mZ3dFWjYVJqegQhPfag8AG2sI6rM618y79NO64EHcI6LohfcNfTxzU5em7JjZc3QyrZJc0hA/vUxwXjotcFFtUIpiqYEs5hiHr3u2bNElnXcPUbkBJDD1SOeSo1VPiIJYntyWa18/ivpyXebOuuue1yI8I+yCos4Ad7Kk6frPsgTkigBgitk7yL3ZcipoV5nHZFNIACUUCsrW7tsZDrzWaxSER+VWhnkhv1l69gfVGiLyJoh8RiL70qfFmQqo+fbXKrLKYR5QGt2idWrHgPhpvdhj/zowW78h3Hy+4wv1yCbo87EH6+Y6tETS343mKeQX5PT/Q==;XjvTZ7BvcV8Sjm//ZfuO1w=="
+secured: "PvyfV7Psk4FTmx+dXMA8McEzE9b9AXlVgt36CIzZ/btNAqcR4AjRAFgymm4ZnRuzhgIKeyb1XTFVq5M6l0KKdvMCdy+3+RtP5cSbyBhFDPxCJg+/y6m3XnyyEasELsVsgLqTq6RiBAJGfhPdjW+l62BRuCJcTcLbFCqTfiynS+1tg4BAEls/3Fa7VGD24lzoy/rTa3PnfDGAtZoUmbLwP6JXwqS1XeHULcoSt15GfYx2P9yLlmUJB122Ly+tCmJFKLOEQ1PehLNc2lSYSaF7QJv8hoLBsIPWCbrqkpTeeHFN2tscTLQQzOnCVx6joD0rHmuuLjA4rgq8QJIQGmFg6w==;kQE7Y1kXnWJjbXN8HzPFXg=="
 ---
 
