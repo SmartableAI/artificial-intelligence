@@ -24,19 +24,21 @@ images:
     title: "How can Conversational Artificial Intelligence Add Value to the Contact Centre"
 
 related:
-  - title: "AI Conversations: The Rise of the Digital City"
-    excerpt: "Examples like these, and so many more, have led to the global rise of digital cities — cities where data-driven decision making positively affects citizen outcomes. As their populations grow, cities are showing signs of stress in the form of congested streets and highways,"
-    publishedDateTime: 2020-07-09T15:48:00Z
-    webUrl: "https://www.cio.com/article/3566071/ai-conversations-the-rise-of-the-digital-city.html"
+  - title: "How can Artificial Intelligence contribute to controlling COVID-19 Pandemic?"
+    excerpt: "Artificial Intelligence is our backbone in the ongoing war against the Covid-19 Pandemic, and there is more than one way it has helped us to win battle after battle."
+    publishedDateTime: 2020-07-08T00:36:00Z
+    webUrl: "https://yourstory.com/mystory/artificial-intelligence-contribute-controlling-covid-19"
+    ampWebUrl: "https://yourstory.com/mystory/artificial-intelligence-contribute-controlling-covid-19/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-contribute-controlling-covid-19/amp"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
+      name: Your Story
+      domain: yourstory.com
+    quality: 58
     images:
-      - url: "https://images.idgesg.net/images/article/2020/07/smart-cities-3.0-verticals-100851200-large.jpg"
-        width: 1200
-        height: 616
+      - url: "https://images.yourstory.com/cs/1/6222a950bfc611eabd588167c58200e3/ArtificialIntelligenceCanCurtailTheConnectioninHospitals-1594067752976.jpg?fm=png&auto=format"
+        width: 626
+        height: 417
         isCached: true
 
 secured: "bm4oXu8q0wYXq1fQWW4YMq4ECxS/zo1if03jkKjB3LKPtm4nxLs1/LIWQdGFX1xj9JVX+/QJcUSVqj9PsIXMk1AH+q7KgBphZOKtxM8JV8m5O/m2UUscOJHJvT8qT68R8WlJ/ZbSCncaoM/0USUHQ4kSOFrG5ASEZgkoV9n8WWVNzW7AWUZ/kXmLY83l8kjK1bUMbHdK9eCXlFVUyTAnFJE/s02Lkf//rNWXS6cBbtD0LTMyt9uqs2y8/AAWhzIV+aJx+DVoCAwNOGMMN437O25DVJfobRNmC1xSQuTGluZwvNQxtNM/pdK0OfD6X0+Ha8u42AbkpwtFUlaH6csrBQ==;jWOvi7a7lUC07XAugdzCIQ=="

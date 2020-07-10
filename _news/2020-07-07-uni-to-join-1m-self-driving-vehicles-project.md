@@ -25,38 +25,26 @@ images:
     title: "Uni to join £1m self-driving vehicles project"
 
 related:
-  - title: "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles"
-    excerpt: "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture"
-    publishedDateTime: 2020-07-05T13:30:00Z
-    webUrl: "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/"
-    ampWebUrl: "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/"
-    cdnAmpWebUrl: "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/"
+  - title: "Intel's Mobileye, WILLER Partner On Self-driving Vehicles In Japan, Southeast Asia"
+    excerpt: "The companies are seeking to commercialize self-driving taxis and autonomous on-demand shared shuttles in Japan, while leveraging each other's strengths. Mobileye will supply autonomous vehicles integrating its self-driving system and WILLER will offer services adjusted to each region and user tastes."
+    publishedDateTime: 2020-07-08T01:46:00Z
+    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07"
+    ampWebUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
     type: article
     provider:
-      name: gaadiwaadi.com
-      domain: gaadiwaadi.com
-    quality: 59
-    images:
-      - url: "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "£1m project to assess motorways for self-driving vehicles"
-    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
-    publishedDateTime: 2020-07-07T09:29:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
+    excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
+    publishedDateTime: 2020-07-08T07:20:00Z
+    webUrl: "https://www.telecompaper.com/news/mobileye-teams-up-with-willer-to-deploy-self-driving-taxis-in-japan-taiwan-southeast-asia--1345665"
     type: article
     provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
-    images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 9
 
 secured: "/cgLKJ2NmFxrUYqxRK6qaH693VhUBSBATKGLzEyPJZ+i+22sf6r4xugV1M2FVIEoLOHDtcdlNadXtLE8xZTShxzwvlR9rzgzaQW5alYzgdQ5stiwc3u9pAfgAxMfL2d+8+9qW1tFwz3upculm/LVc3kjZNNHXY4AIeqt/ESPdPzu5a1LlnSLn8AiQjB7S+MCz0SpZdqpVN5WbbTRkB6Sy/85mM7NvFYKnkMBv/1zRCDVkc56Jd7sDkC4njowatiR0llzGGRcs7cNclz7GpqNr8A4zKVVj+yVczYb4Aj1DB0H/+7SzPu74GuGob6nSEekXP4jyBMwg5UnCjFOZ6Sfag==;TYeSf6Jl3LEn0Z3GY586Ug=="
 ---

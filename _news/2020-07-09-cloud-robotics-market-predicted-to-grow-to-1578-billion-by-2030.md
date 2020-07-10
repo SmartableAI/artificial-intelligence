@@ -1,0 +1,35 @@
+---
+category: news
+title: "Cloud robotics market predicted to grow to $157.8 billion by 2030"
+excerpt: "The global market for cloud robotics is predicted to grow to $157.8 billion by 2030, according to ABI Research. The analyst says cloud computing will be the “great enabler of mobile robotics”, and a massive,"
+publishedDateTime: 2020-07-09T10:05:00Z
+webUrl: "https://roboticsandautomationnews.com/2020/07/09/cloud-robotics-market-predicted-to-grow-to-157-8-billion-by-2030/33909/"
+type: article
+quality: 34
+heat: -1
+published: false
+
+provider:
+  name: Robotics & Automation News
+  domain: roboticsandautomationnews.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030"
+    excerpt: "Several cloud service providers, including AWS, Microsoft Azure, and Google Cloud, have begun collaborating with robotics developers, while start-ups like InOrbit target cloud-enabled operations for the first major deployment of mobile service robots."
+    publishedDateTime: 2020-07-09T08:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
+
+secured: "99UCrbCzIQ4tox0P6Qz/o0kWMy4xi4VN3AFw8s7ojb7bZHc4rTZUdBVJ9icW8ed+a77kKHJsrO2lKVJPiOlwNA2DCmYgPdN5/XxKuzGecvbmfVA8YDrGt1b5dV2JQ8QN6rM9EumVnoE9Nrkf3QfntOP4/EGRi3337tiOt/gWhpdEcKEgyH/V01ny052JPiEMJLsRTwJzZxDvKe80KSNRAI+YdeZ2Y/7Itu9/Y335DsM1jilNLdOc3ZjwPVvut//MdbeDJfS5ShVaU8Lwsmtonsq4zrz5IeCm5/EXbZtvkniiZQakMlF2CcAFEUtgyLGl6JjaSdkwBBko1nDW/31ojg==;w+40Qur8AGP8A1Ycfu2Iiw=="
+---
+

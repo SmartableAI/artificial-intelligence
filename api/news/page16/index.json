@@ -2,6 +2,206 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-has-reportedly-bought-self-driving-car-startup-zoox-for-more-than-1-billion.md",
+      "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
+      "excerpt": "Sources told the Financial Times that Zoox's management team will report to Jeff Wilke, head of Amazon's worldwide consumer division",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-amazon-has-reportedly-bought-self-driving-car-startup-zoox-for-more-than-1-billion/index.json",
+      "webUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ece37e6aee6a8643064e963?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-reportedly-buys-self-driving-car-startup-zoox-for-one-billion2020-6?amp",
+      "publishedDateTime": "2020-06-26T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-lets-kill-facial-recognition-for-good.md",
+      "title": "Let's Kill Facial Recognition For Good",
+      "excerpt": "Those emails mention all three classes of surveillance covered in today’s bill—pattern, facial, and voice recognition—as being available for the DEA to use at its discretion. “Facial recognition technology doesn’t just pose a grave threat to our ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-lets-kill-facial-recognition-for-good/index.json",
+      "webUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nvw4abg7rvdyxyeklgsr.jpg",
+          "width": 800,
+          "height": 449,
+          "title": "Let's Kill Facial Recognition For Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
+      "cdnAmpWebUrl": "https://paleofuture-gizmodo-com.cdn.ampproject.org/c/s/paleofuture.gizmodo.com/lets-kill-facial-recognition-for-good-1844168367/amp",
+      "publishedDateTime": "2020-06-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "paleofuture.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ibm-cloud-suffers-second-global-outage-this-month.md",
+      "title": "IBM Cloud suffers second global outage this month",
+      "excerpt": "It's worth noting that IBM did not immediately address the earlier outage but did release a statement on its Twitter account that services were being \"restored to full services as",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-ibm-cloud-suffers-second-global-outage-this-month/index.json",
+      "webUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1593164937/itpro/IBM_Cloud_Shutterstock.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "IBM Cloud suffers second global outage this month",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/356238/ibm-cloud-suffers-second-global-outage-in-a-month?amp",
+      "publishedDateTime": "2020-06-26T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-the-little-known-ai-firms-whose-facial-recognition-tech-led-to-a-false-arrest.md",
+      "title": "The little-known AI firms whose facial recognition tech led to a false arrest",
+      "excerpt": "The opaque industry that sells facial recognition technology, and the patchwork of police policies that govern its use, have made effective oversight extremely difficult.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-26-the-little-known-ai-firms-whose-facial-recognition-tech-led-to-a-false-arrest/index.json",
+      "webUrl": "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-17T180157Z_1_LYNXMPEG5G1Z6_RTROPTP_4_USA-POLICE-SURVEILLANCE-e1593123970767.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "The little-known AI firms whose facial recognition tech led to a false arrest",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/",
+      "publishedDateTime": "2020-06-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-this-edtech-startup-uses-ai-to-provide-affordable-education.md",
       "title": "This Edtech Startup Uses AI To Provide Affordable Education",
       "excerpt": "ConveGenius provides learning solutions from kindergarten to class 10, and has aligned with 20 curriculums and 16 state boards",
@@ -928,179 +1128,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation.md",
-      "title": "Databricks Donates MLflow Project To Linux Foundation",
-      "excerpt": "MLflow is available on Azure and AWS as a managed MLOps platform which comes with tight integration with Azure ML services and Amazon SageMaker. With MLflow project becoming a part of the Linux ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation/index.json",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
-      "publishedDateTime": "2020-06-25T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
-      "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
-      "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/index.json",
-      "webUrl": "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zjP2N2xjGJFxRBAuuBowSg-1200-80.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "publishedDateTime": "2020-06-25T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
-      "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
-      "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/spot-robot-arm-home.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/boston-dynamics-spot-robot-arm-months-home-use-someday/amp/",
-      "publishedDateTime": "2020-06-25T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again.md",
-      "title": "Tesla's most robust self-driving package will cost more — again",
-      "excerpt": "It'll soon cost you $8,000 to buy a Tesla upgrade package, which includes some features that don't even exist yet. Tesla's Full Self-Driving package is a future-ready option for t",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-25-teslas-most-robust-self-driving-package-will-cost-more-again/index.json",
-      "webUrl": "https://mashable.com/article/tesla-fsd-price-increase-/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F25%252Fd1%252F85b76a05bbb241488ffceb4b20b4d9a3.8b07b.jpg%252F1200x630.jpg?signature=Kdns6EbdS8gZHz0DCtCccLpQqcE=",
-          "width": 1200,
-          "height": 630,
-          "title": "Tesla's most robust self-driving package will cost more — again",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/tesla-fsd-price-increase-.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/tesla-fsd-price-increase-.amp",
-      "publishedDateTime": "2020-06-25T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

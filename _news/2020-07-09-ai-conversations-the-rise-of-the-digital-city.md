@@ -22,22 +22,6 @@ images:
     height: 616
     isCached: true
 
-related:
-  - title: "How can Conversational Artificial Intelligence Add Value to the Contact Centre"
-    excerpt: "How can Conversational Artificial Intelligence Add Value to the Contact Centre  - It has been established over the years that exceptional customer service is a key brand differentiator; however, today,"
-    publishedDateTime: 2020-07-06T15:29:00Z
-    webUrl: "https://www.cioreview.com/news/how-can-conversational-artificial-intelligence-add-value-to-the-contact-centre-nid-31544-cid-202.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 33
-    images:
-      - url: "https://cioreview.com/Rank_subcat_images/70633Master-logo.jpg"
-        width: 478
-        height: 556
-        isCached: true
-
 secured: "QuX74uxxcIIfgMW2/XKGiimLQfQ9co5VRk7k7sKCNhdRxmwglnjlq/FT+wnN8vr4PZAHa8Q3HOBuZI7WsmlTleiAnoZVWr5U/Yw50xqCYdezZz0mE/hfMaiZenRXuzAdSAqct8cjIvFpps887etDDuswdhAq6OHWz5+NxP5cKuMIUCraRntc/wRq3Z568HRvZhkM0BJOjzEjFjP/Th7qEhGa7FoQvkUxcssl3g300kyUiuxqXcMt/2lEJgHYjbMQdsszsSAbr/tL2hvWnRdgqDOkZQjSKIxlzrtLp2aaAWtHlXGmuHBfOyXCUx0sU4KvcVHhwuR3l596lnd7ri/Fmdpe6oouAVPw3A5iTO3dJj9bDc5DAC36VGtedFhKRAEHy9cA5sTPB1So95lW9lb7hfX6p0g+IsEwH+mke/GQQ5O0hFLc+oLPNQHzQx4FqZLzrBwRzc+WeKcwehK8usayehVkWvreL64xuEP+ODGpmkWdsWRFOreT0AEICXOHfv2/7aEAjRz69TyrydzWEjXl3w==;3/smlLJA2gda3vOe+vsceA=="
 ---
 

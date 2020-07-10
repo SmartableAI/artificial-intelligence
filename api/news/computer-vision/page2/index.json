@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
+      "title": "Boston Bans Police Forces From Using Facial Recognition",
+      "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition/index.json",
+      "webUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Boston Bans Police Forces From Using Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "publishedDateTime": "2020-06-24T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-aclu-files-first-formal-complaint-over-wrongful-facial-recognition-arrest.md",
       "title": "ACLU files first formal complaint over wrongful facial recognition arrest",
       "excerpt": "The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.",
@@ -785,567 +835,7 @@
         "AI",
         "Computer Vision"
       ]
-    },
-    {
-      "path": "_news/2020-06-17-congressman-slams-amazons-use-of-facial-recognition-technology-calls-for-new-disclosures.md",
-      "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
-      "excerpt": "Amazon may have halted the sale of its facial recognition software to police, but the move hasn’t eased pressure on the tech giant. In a letter sent to its CEO Jeff Bezos on",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-congressman-slams-amazons-use-of-facial-recognition-technology-calls-for-new-disclosures/index.json",
-      "webUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/rekognition-1.png",
-          "width": 300,
-          "height": 353,
-          "title": "Congressman slams Amazon’s use of facial recognition technology, calls for new disclosures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/congressman-slams-amazons-use-facial-recognition-technology-calls-new-disclosures/amp/",
-      "publishedDateTime": "2020-06-17T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show.md",
-      "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
-      "excerpt": "The released documents come a week after Microsoft announced it would stop selling facial recognition to police.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/index.json",
-      "webUrl": "https://www.cnet.com/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/2Q_ri_ZUN6kPKtzEKdXD3Zr0LpA=/756x567/2019/01/28/1f3bfd0e-d868-48de-a97a-eb86ec05927b/microsoft-logo-msft-1090.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Microsoft pushed its facial recognition to federal agencies, emails show",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pushed-its-facial-recognition-to-federal-agencies-emails-show/",
-      "publishedDateTime": "2020-06-17T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says.md",
-      "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-      "excerpt": "A House representative mistaken by Rekognition as a criminal is questioning CEO Jeff Bezos about Amazon's one-year pause on facial recognition.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/index.json",
-      "webUrl": "https://www.cnet.com/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/LRqa-J9lGENDIqzrmO3X_JuHePE=/756x567/2020/01/17/24f77466-4cd0-4018-b436-90846e478c80/amazon-ces-2020-booth-2.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Amazon owes answers on facial recognition moratorium, lawmaker says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-owes-answers-on-facial-recognition-moratorium-lawmaker-says/",
-      "publishedDateTime": "2020-06-17T09:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers.md",
-      "title": "China's Tencent to use facial recognition to curb young video gamers",
-      "excerpt": "Chinese tech behemoth Tencent has begun to use facial recognition to prevent minors from spending large sums of money while playing endless hours of video games.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-chinas-tencent-to-use-facial-recognition-to-curb-young-video-gamers/index.json",
-      "webUrl": "https://www.upi.com/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/9361592407529/2020/1/3a6ff9b53599ae38e5b383e93adcfc17/v1.5/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers.jpg",
-          "width": 800,
-          "height": 532,
-          "title": "China's Tencent to use facial recognition to curb young video gamers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/06/17/Chinas-Tencent-to-use-facial-recognition-to-curb-young-video-gamers/9361592407529/",
-      "publishedDateTime": "2020-06-17T08:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids.md",
-      "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-      "excerpt": "According to Russian business daily Vedomosti, a new facial recognition system coming to every school in the country has been ominously named \"Orwell.\"",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/index.json",
-      "webUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/people-of-color-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Meet Orwell, Russia’s cute and totally not sinister new facial recognition system for kids",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/17/meet-orwell-russias-cute-and-totally-not-sinister-new-facial-recognition-system-for-kids/amp/",
-      "publishedDateTime": "2020-06-17T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain.md",
-      "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-      "excerpt": "In response to protest calling for police reform around the country, some of the biggest names in tech are taking a closer look at their facial recognition technologies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/index.json",
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/17/c1454581-0581-4f64-9a34-6b1c4e7dbf59/resize/1200x/c4ecd1309d8c01046284dfd75d817e98/facial-recognition.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Equitable tech: Companies pause facial recognition, but major questions remain",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-companies-pause-facial-recognition-but-major-questions-remain/",
-      "publishedDateTime": "2020-06-17T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing.md",
-      "title": "From Computer Vision To Deep Learning: How AI Is Augmenting Manufacturing",
-      "excerpt": "While machine vision has been around for more than 60 years, the recent surge in the popularity of deep learning has elevated this sometimes misunderstood technology to the attention of major ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/index.json",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/06/16/from-computer-vision-to-deep-learning-how-ai-is-augmenting-manufacturing/amp/",
-      "publishedDateTime": "2020-06-16T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-wimi-hologram-cloud-nasdaqwimi-accelerates-development-in-the-field-of-computer-vision.md",
-      "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
-      "excerpt": "WIMI Hologram Cloud (NASDAQ:WIMI), as a solution provider under 5G, has a leading AR holographic application platform in China, which is currently mainly used in",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-wimi-hologram-cloud-nasdaqwimi-accelerates-development-in-the-field-of-computer-vision/index.json",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16258647/wimi-hologram-cloud-nasdaq-wimi-accelerates-development-in-the-field-of-computer-vision",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/qMQqYD0/1.png",
-          "width": 522,
-          "height": 340,
-          "title": "WIMI Hologram Cloud (NASDAQ:WIMI) Accelerates Development in the Field Of Computer Vision",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16258647",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16258647",
-      "publishedDateTime": "2020-06-15T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge.md",
-      "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-      "excerpt": "Alternatively, there’s color night vision for a more surreptitious view of the garden, porch, or whatever else you might point the camera at. Much the same way, the built-in siren can be automatically triggered or done manually through the app. There’s also two-way audio support. Motion detection uses computer vision to filter out the ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge/index.json",
-      "webUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/Essential-_Spotlight_Lifestyle_Mounted_B.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": "Arlo Essential Spotlight Camera offers night vision without the bridge",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arlo-essential-spotlight-camera-offers-night-vision-without-the-bridge-15624835/amp/",
-      "publishedDateTime": "2020-06-15T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-john-oliver-dives-into-the-shady-uses-of-facial-recognition.md",
-      "title": "John Oliver dives into the shady uses of facial recognition",
-      "excerpt": "\"There are currently serious concerns that facial recognition is being used to identify Black Lives Matter protesters.\"",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-john-oliver-dives-into-the-shady-uses-of-facial-recognition/index.json",
-      "webUrl": "https://mashable.com/video/john-oliver-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F15%252F2f%252F4db85291caa440c5a2b2a03734947693.77000.png%252F1200x630.png?signature=aC6sIrEtCQeW2ffnViW3KAFrh68=",
-          "width": 1200,
-          "height": 630,
-          "title": "John Oliver dives into the shady uses of facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/john-oliver-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/john-oliver-facial-recognition.amp",
-      "publishedDateTime": "2020-06-15T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera.md",
-      "title": "Global and China Automotive Vision Industry Chain Report 2020 - Breakthroughs in Binocular Camera",
-      "excerpt": "Stock quotes by finanzen.net Dublin, June 15, 2020 (GLOBE NEWSWIRE) -- The \"Automotive Vision Industry Chain Report (II) Binocular and Others\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera/index.json",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-and-china-automotive-vision-industry-chain-report-2020-breakthroughs-in-binocular-camera-1029307120",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-where-are-all-the-robots.md",
-      "title": "Where are all the robots?",
-      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-where-are-all-the-robots/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Where are all the robots?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "publishedDateTime": "2020-06-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
     }
   ],
-  "nextPage": 3
+  "nextPage": null
 }

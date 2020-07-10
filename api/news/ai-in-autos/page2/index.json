@@ -859,6 +859,47 @@
       ]
     },
     {
+      "path": "_news/2020-06-24-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
+      "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
+      "excerpt": "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/index.json",
+      "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
+      "publishedDateTime": "2020-06-23T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-mercedes-nvidia-to-team-up-on-powerful-computing-platform-for-avs.md",
       "title": "Mercedes, Nvidia to team up on powerful computing platform for AVs",
       "excerpt": "Benz and U.S. tech company Nvidia said they will jointly develop a powerful new computing platform for vehicles capable of supporting everything from over-the-air software updates to driverless car technology.",
@@ -1364,47 +1405,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake.md",
-      "title": "Mubadala to Double Down on Tech After $1.2 Billion Jio Stake",
-      "excerpt": "Mubadala Investment Co. is preparing to double down on its exposure to the technology sector, setting its sights on Asia, after the Abu Dhabi fund took a $1.2 billion stake in India’s Jio Platforms.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-22-mubadala-to-double-down-on-tech-after-12-billion-jio-stake/index.json",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-22/mubadala-to-build-tech-investments-after-1-2-billion-jio-stake",
-      "publishedDateTime": "2020-06-22T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

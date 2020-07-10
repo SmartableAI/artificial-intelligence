@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence.md",
+      "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
+      "excerpt": "NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- With the Industry 4.0 revolution gaining ground, the global modular robotics market revenue is projected to reach $15,149.7 million by 2030, from $5,619.1 million in 2019,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence-2020-06-24",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
+      "excerpt": "Shares of Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) were up 4.3% during mid-day trading on Monday . The stock traded as high as $112.41 and last traded at $112.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43/index.json",
+      "webUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
+      "publishedDateTime": "2020-06-23T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design.md",
+      "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
+      "excerpt": "For many, just mentioning artificial intelligence brings up mental images of sentient robots at war with mankind and man’s struggle to avoid the endangered species list. While this may one day be a real scenario for when (perhaps a big if?) mankind ever ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design/index.json",
+      "webUrl": "https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/difference_between_ai__machine_learning_and_deep_learning.png",
+          "width": 2526,
+          "height": 1442,
+          "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
       "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
       "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
@@ -851,543 +983,7 @@
         "AI in Robotics",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19.md",
-      "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
-      "excerpt": "“Robin utilized our AI-based patent-pending technology to build peer-to-peer ... and angel investors for conducting the pilots and technology development. Expper plans to start raising seed funding soon “to advance the emotional intelligence technology ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/index.json",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea2e846ef66b00061154d4%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Robin The Robot Comforts Kids In Hospitals, Can Help With COVID-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2020/06/17/robin-the-robot-comforts-kids-in-hospitals-can-help-with-covid-19/amp/",
-      "publishedDateTime": "2020-06-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system.md",
-      "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
-      "excerpt": "Seattle startup Proprio has raised more cash to help build out its surgical technology that some investors believe will be just as transformative as the X-ray. The 4-year-old company announced a",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-the-next-x-ray-seattle-startup-proprio-raises-23m-to-build-high-tech-surgical-navigation-system/index.json",
-      "webUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/Proprio-spinal-image-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": "The next X-ray? Seattle startup Proprio raises $23M to build high-tech surgical navigation system",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/next-x-ray-seattle-startup-proprio-raises-23m-build-high-tech-surgical-navigation-system/amp/",
-      "publishedDateTime": "2020-06-17T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones.md",
-      "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
-      "excerpt": "Qualcomm today announced its RB5 reference design platform for the robotics and intelligent drone ecosystem. As the field of robotics continues to evolve towards more advanced capabilities, Qualcomm’s latest platform should help drive the next step in robotics evolution with intelligence and connectivity.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/index.json",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 241,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee9accd1b50250006e837a8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1430%26cropY1%3D0%26cropY2%3D804",
-          "width": 1200,
-          "height": 676,
-          "title": "Qualcomm Brings 5G And AI To Next Gen Robotics And Drones",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/06/17/qualcomm-brings-5g-and-ai-to-next-gen-robotics-and-drones/amp/",
-      "publishedDateTime": "2020-06-17T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets.md",
-      "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
-      "excerpt": "A London AI company has announced that it has secured $5m to help meet demand from firms looking to use… | London | Engineering | Digital | Funding | Technology | Technology | Industrial |",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets/index.json",
-      "webUrl": "https://bdaily.co.uk/articles/2020/06/17/artificial-intelligence-company-raises-5m-as-robotics-demand-skyrockets",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bdaily.co.uk/images/uploads/iL8idSQksHVXogyIlRInDEcqnmsj2kf5UFA6lpaK.jpeg?w=940&h=430&fit=crop-43-42&s=b3eb9769a05d898d8a9c8014abe2dfcd",
-          "width": 940,
-          "height": 430,
-          "title": "Artificial intelligence company raises $5m as robotics demand \"skyrockets\"",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T02:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bdaily Business Network",
-        "domain": "bdaily.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence.md",
-      "title": "Slamcore wants to give mobile robots better spatial intelligence",
-      "excerpt": "Slamcore is setting out to develop and commercialize AI-powered SLAM algorithms that give robots better positional awareness in any environment.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-932632442.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Slamcore wants to give mobile robots better spatial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/17/slamcore-wants-to-give-mobile-robots-better-spatial-intelligence/amp/",
-      "publishedDateTime": "2020-06-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business.md",
-      "title": "Mark Cuban on race, robotics and why now is a great time to start a business",
-      "excerpt": "Billionaire entrepreneur, Shark Tank regular and Dallas Mavericks owner Mark Cuban has never been shy about saying what was on his mind. Recently he sat down with Jordan Harbinger, host of the The Show podcast and a Newsweek contributor,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-mark-cuban-on-race-robotics-and-why-now-is-a-great-time-to-start-a-business/index.json",
-      "webUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mark-cuban-race-robotics-why-now-great-time-start-business-1511017?amp=1",
-      "publishedDateTime": "2020-06-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027.md",
-      "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-      "excerpt": "The consumer robotics market forecast 2020-2027 report provides comprehensive coverage of the market through market segments, in-depth regional level analysis, and identifies the key drivers, restraints,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/consumer-robotics-market-opportunities-and-forecast-assessment-2020-2027-2020-06-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Consumer Robotics Market: Opportunities and Forecast Assessment, 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-15T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics.md",
-      "title": "KT to invest $41 million into Hyundai Robotics",
-      "excerpt": "South Korean telco KT will invest 50 billion won ($41.4 million) into Hyundai Robotics for a 10% stake, the company said on Tuesday. The two companies will collaborate to co-develop intelligent service robots and perform research in the areas of automation and smart factories,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-16-kt-to-invest-41-million-into-hyundai-robotics/index.json",
-      "webUrl": "https://www.zdnet.com/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/05/25/f7e0bf06-4c68-4d88-8aa1-06f0e1dc872c/thumbnail/1200x675/6c7c37cb3b8e3da953320ca4b312fa17/kt-deploys-5g-autonomous-carts-at-wareho-5ecb0926e468b746804e73bb-1-may-25-2020-24-47-54-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "KT to invest $41 million into Hyundai Robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/kt-to-invest-us41-million-into-local-robotics-firm/",
-      "publishedDateTime": "2020-06-15T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark.md",
-      "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-      "excerpt": "Danish researchers have developed a fully automated robot that can take coronavirus swabs so that health care professionals are not exposed to the risk of infection.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-robot-to-safely-swab-for-coronavirus-developed-by-scientists-in-denmark/index.json",
-      "webUrl": "https://in.reuters.com/article/us-health-coronavirus-swab-robot-idINKBN23B1PF",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Robot to safely swab for coronavirus developed by scientists in Denmark",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN23B1PF",
-      "publishedDateTime": "2020-06-15T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c.md",
-      "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
-      "excerpt": "What happens when robots & virtual assistants own the relationship with the consumer? In this new era of B2R2C, brands will need to think outside the “bot.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/index.json",
-      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1185170041%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Marketing To Robots: Why CMOs Need To Start Thinking About Business To Robot To Consumer (B2R2C)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/14/marketing-to-robots-why-cmos-need-to-start-thinking-about-business-to-robot-to-consumer-b2r2c/amp/",
-      "publishedDateTime": "2020-06-14T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-where-are-all-the-robots.md",
-      "title": "Where are all the robots?",
-      "excerpt": "D2, all we got is Facebook serving us ads we don’t want to click on, Netflix recommending us another movie that we probably shouldn’t stay up to watch, and iRobot’s Roomba.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-where-are-all-the-robots/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-168265499.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Where are all the robots?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/14/where-are-all-the-robots/amp/",
-      "publishedDateTime": "2020-06-14T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
     }
   ],
-  "nextPage": 4
+  "nextPage": null
 }

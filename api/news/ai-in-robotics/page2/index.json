@@ -2,6 +2,147 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
+      "title": "New robot technology to fight Covid care isolation",
+      "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation/index.json",
+      "webUrl": "https://www.bbc.com/news/uk-scotland-53241556",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10AA/production/_113166240_robot2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "New robot technology to fight Covid care isolation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/uk-scotland-53241556",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-53241556",
+      "publishedDateTime": "2020-06-30T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-elementary-robotics-is-making-its-quality-assurance-robots-commercially-available.md",
+      "title": "Elementary Robotics is making its quality assurance robots commercially available",
+      "excerpt": "Two years and over $17 million after it first began working on its robots for quality assurance, the Los Angeles-based Elementary Robotics has finally made its products commercially available. The company already boasts a few very large initial customers in the automotive industry,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-elementary-robotics-is-making-its-quality-assurance-robots-commercially-available/index.json",
+      "webUrl": "https://techcrunch.com/2020/06/30/elementary-robotics-is-making-its-quality-assurance-robots-commercially-available/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-1018210700.jpg?w=1024",
+          "width": 1024,
+          "height": 594,
+          "title": "Elementary Robotics is making its quality assurance robots commercially available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/elementary-robotics-is-making-its-quality-assurance-robots-commercially-available/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/elementary-robotics-is-making-its-quality-assurance-robots-commercially-available/amp/",
+      "publishedDateTime": "2020-06-30T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-ai-robot-named-erica-starring-in-70-million-sci-fi-movie-b.md",
+      "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+      "excerpt": "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-ai-robot-named-erica-starring-in-70-million-sci-fi-movie-b/index.json",
+      "webUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "cdnAmpWebUrl": "https://www-screengeek-net.cdn.ampproject.org/c/s/www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "publishedDateTime": "2020-06-30T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScreenGeek",
+        "domain": "screengeek.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-rios-comes-out-of-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics.md",
       "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
       "excerpt": "Bay Area-based robotics startup RIOS is coming out of stealth today to announce $5 million in funding. The round is being led by Valley Capital Partners and Morpheus Ventures, with participation from a long list of investors,",
@@ -1264,138 +1405,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence.md",
-      "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-      "excerpt": "NEW YORK, June 24, 2020 (GLOBE NEWSWIRE) -- With the Industry 4.0 revolution gaining ground, the global modular robotics market revenue is projected to reach $15,149.7 million by 2030, from $5,619.1 million in 2019,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/modular-robotics-market-to-cross-151497-million-value-by-2030-ps-intelligence-2020-06-24",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Modular Robotics Market to Cross $15,149.7 Million Value by 2030: P&S Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43.md",
-      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
-      "excerpt": "Shares of Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) were up 4.3% during mid-day trading on Monday . The stock traded as high as $112.41 and last traded at $112.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43/index.json",
-      "webUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
-      "publishedDateTime": "2020-06-23T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design.md",
-      "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
-      "excerpt": "For many, just mentioning artificial intelligence brings up mental images of sentient robots at war with mankind and man’s struggle to avoid the endangered species list. While this may one day be a real scenario for when (perhaps a big if?) mankind ever ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design/index.json",
-      "webUrl": "https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/difference_between_ai__machine_learning_and_deep_learning.png",
-          "width": 2526,
-          "height": 1442,
-          "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

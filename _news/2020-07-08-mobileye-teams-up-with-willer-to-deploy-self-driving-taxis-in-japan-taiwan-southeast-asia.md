@@ -29,6 +29,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Uni to join £1m self-driving vehicles project"
+    excerpt: "Loughborough University is to take part in a new £1m project with Highways England to assess how suitable the country’s motorways are for self-driving vehicles."
+    publishedDateTime: 2020-07-07T07:21:00Z
+    webUrl: "https://www.insidermedia.com/news/midlands/uni-to-join-1m-self-driving-vehicles-project"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/event/logos/logo-doing-business-middle-east-online-forum.jpg"
+        width: 440
+        height: 248
+        isCached: true
 
 secured: "rbWSaOFV3CwJhrMPGqGzTZxnrFXPKedPJx4g8PVGx2Xka3ESM3g0Wx4xnJBKZKia4ZAIZw62ZQjwTpukSVN8XKWLII2Ieie4jTOKThd7d8R6ym7EeTwENzqc+gZZVJNV/I49fG+C7uAfOacRQS9l8EHGSPqkNRSyfBbZ6mdEkJ1tIeEZBawahcHZimwUiTZdjPa11TAeq3dRj06ZHJxkuENHzEA4HyzbnpV7cHov7fIDBOZPiOHPlP1qHpK9ZGDr8RFxFL+oEy+GR9J4gz71maoR7WKelYrEHDDZdjQaRta2PkJbgdBnWB8mOKcal8tKBV248+GNHCs9CQFstbaZ4Q==;M7MoVc74/BdLFJSg1/dVSA=="
 ---
