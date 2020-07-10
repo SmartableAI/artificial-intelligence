@@ -6,7 +6,7 @@ otherNames:
   - "CrossChx, Inc."
 overview: "Olive figures out where she can have an impact, onboards quickly, does her job extremely well, and gets smarter over time. For more information, visit www.hireolive.com."
 type: "profile"
-heat: 31
+heat: 3
 
 website: https://oliveai.com/
 
@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "hire_olive"
   url: "https://twitter.com/hire_olive"
-  followers: 1828
+  followers: 1826
 
 size: 51-200 employees
 yearFounded: 2012
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=mYaqdIwAE24"
 
-secured: "kiROD3A5UwUzWmxq8nAp1YXkCGVvcf+6jHprh9byJ9d2Dot6uvygg+uoiKQlCpcOyqloa4f2Janjx4yHUWNx0j1pJw5X5gnRjHw01tAlqQD2fiqudMJkv0JpbEFqp9ilAUplXjqOKHaHLLp59gKrQ/rFnc3SoNwjfQltk7tpd+RMINBsJSt4CAFHKdrHeEUYx/Sn9oazCp1Y1kGrfuHrtyiut8TI0J2Bsp77aHQbqWfI0XApAzgNQrM/1rpaZOrP+A1WQBB1PGqf6vSxgIradSTwcUlM6Rm4SuVS7nKti2SU99GIyvlJWegYQBExrEXBYoBbdj5pXzb/woBPRAtQGp7W4IdWKymyjQL81sVuoc6V05fZh3+SrswwtVCp2biK;V8IGSRhAvtJZe8mUnloWpA=="
+secured: "FiaTablqiWVWj5IdNheYb/KzOcfl08Rd26Tyq6krLbguhVZiWZhWbIaAVljdWyUdHQCiR4cKS/733iar65aa605ExV3XWPDh9D41O2bouwZ06lQmJEXsDj6XWld+eTKKmOpd8OxIFhBDkfHmtUdEd9RyN4BjZiCCtWAODrd4ZraSz6+I1j8YMtxqQRA5O4kf2aKjB6WcKhmt4nCa5tiXlawBtXzbnH9E2Z1306IoRUlledLetjBg6i/WvpebM5Sy7nDaFF4z+5ewfOjTPEb395GtQnRC6hnRB1rFByhSws+Z8khawZYJ+AP4aYN4L5bd8SzOJAAHOEJRtzpEn1H3/welbUdE5l+i1/4LLXkQc0G3Nm0dLJHx5QV2OMdQhLz+;McSXXAartH1HeYYUIruSlw=="
 ---
 
