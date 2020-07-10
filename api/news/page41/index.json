@@ -2,6 +2,106 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable.md",
+      "title": "MIT “brain-on-a-chip” could make AI more portable",
+      "excerpt": "We have made quite a lot of progress in artificial intelligence in the past years, partly thanks to the rising popularity of consumer products powered by machine learning and neural networks. We",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-mit-brain-on-a-chip-could-make-ai-more-portable/index.json",
+      "webUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/06/MIT-NeuromorphicAlloys-01_0.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "MIT “brain-on-a-chip” could make AI more portable",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-brain-on-a-chip-could-make-ai-more-portable-09624093/amp/",
+      "publishedDateTime": "2020-06-09T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china.md",
+      "title": "Eswin raises $283M to boost chip production in China",
+      "excerpt": "Beijing Eswin Computing Technology, a Chinese startup that supplies semiconductor design and solution provider, has raised $283 million in a new financing round at a time when the world’s most populous nation is looking to cut its reliance on the U.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-09-eswin-raises-283m-to-boost-chip-production-in-china/index.json",
+      "webUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1142531756.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Eswin raises $283M to boost chip production in China",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/09/eswin-raises-283m-to-boost-chip-production-in-china/amp/",
+      "publishedDateTime": "2020-06-09T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-09-ibm-ditches-facial-recognition-tech-over-human-rights-concerns.md",
       "title": "IBM Ditches Facial Recognition Tech Over Human Rights Concerns",
       "excerpt": "A letter to Congress written by IBM CEO Arvind Krishna outlined policy proposals aimed at advancing racial equality nationwide.",
@@ -1036,98 +1136,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind.md",
-      "title": "The 21 smartest AI scientists working at Google DeepMind",
-      "excerpt": "Background: Prior to joining DeepMind just nine months ago, Martin Riedmiller worked on robotics and autonomous learning systems at the University of Freiberg in Germany. Background: Shane Legg ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-the-21-smartest-ai-scientists-working-at-google-deepmind/index.json",
-      "webUrl": "https://www.businessinsider.in/tech/the-21-smartest-ai-scientists-working-at-google-deepmind/slidelist/51381299.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-51381300,width-640,resizemode-4,imgsize-46648/21-charles-blundell.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "The 21 smartest AI scientists working at Google DeepMind",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-08T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters.md",
-      "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-      "excerpt": "Sen. Edward Markey asks if the company considers a history of discriminatory policing before selling the tech to certain law enforcement agencies.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-08-senator-fears-clearview-ai-facial-recognition-could-be-used-on-protesters/index.json",
-      "webUrl": "https://www.cnet.com/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/9iSXtLFKNXgiNKMOB6uefX3betU=/756x567/2020/06/04/6e5b36d7-6f9d-4afc-912e-38a007947e55/sf.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Senator fears Clearview AI facial recognition could be used on protesters",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senator-concerned-clearview-ai-facial-recognition-is-being-used-by-police-in-black-lives-matter-protests/",
-      "publishedDateTime": "2020-06-08T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
       ]
     }
   ],

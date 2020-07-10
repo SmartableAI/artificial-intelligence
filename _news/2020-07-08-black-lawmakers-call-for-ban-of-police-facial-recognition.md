@@ -8,7 +8,7 @@ ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-P
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONIVAIVLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
         width: 1440
         height: 1080
+        isCached: true
+  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
+    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
+    publishedDateTime: 2020-07-09T22:33:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 52
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
         isCached: true
   - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
     excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."

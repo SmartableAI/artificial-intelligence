@@ -2,6 +2,88 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-05-29-amazon-rekognition-now-generally-available-deep-learning-based-image-recognition.md",
+      "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
+      "excerpt": "The premier source of breaking business news for the government contracting industry, GovCon Wire provides informative, to-the-point stories of the most significant contract awards, top-level ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/index.json",
+      "webUrl": "https://www.govconwire.com/2016/12/amazon-rekognition-now-generally-available-deep-learning-based-image-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.govconwire.com/wp-content/uploads/2018/05/amazon-rekognition-now-generally-660x330.jpg",
+          "width": 660,
+          "height": 330,
+          "title": "Amazon Rekognition, Now Generally Available: Deep Learning-Based Image Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-29-artificial-intelligence-in-healthcare-is-changing-the-fabric-of-the-industry.md",
+      "title": "Artificial Intelligence In Healthcare Is Changing The Fabric Of The Industry",
+      "excerpt": "The most heavily impacted sectors include financial services, transportation, and e-commerce, but healthcare is starting to ... in the care process While the promise of artificial intelligence in healthcare is being more widely embraced among providers ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-29-artificial-intelligence-in-healthcare-is-changing-the-fabric-of-the-industry/index.json",
+      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-changing-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2018/06/AI-in-healthcare.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Artificial Intelligence In Healthcare Is Changing The Fabric Of The Industry",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-29-lets-all-vote-should-we-crowdsource-the-morality-of-driverless-cars.md",
       "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
       "excerpt": "If a driverless car is hurtling towards a pedestrian ... those MIT researchers took the subsequent data and created an artificial intelligence that could learn from these results and make similar ...",
@@ -1052,97 +1134,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra.md",
-      "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-      "excerpt": "Avocado toast meets red meat and potatoes. That’s not the most familiar way to describe Seattle, but it’s why Phaidra decided to launch its company in the Emerald City. The stealthy startup",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-why-these-ex-deepmind-engineers-picked-seattle-to-launch-new-ai-startup-phaidra/index.json",
-      "webUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-27-at-1.58.01-PM-300x261.png",
-          "width": 300,
-          "height": 261,
-          "title": "Why these ex-DeepMind engineers picked Seattle to launch new AI startup Phaidra",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ex-deepmind-engineers-picked-seattle-launch-new-ai-startup-phaidra/amp/",
-      "publishedDateTime": "2020-05-28T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists.md",
-      "title": "Apple acquires Inductiv, machine-learning specialists",
-      "excerpt": "Apple has confirmed that it has acquired the tech startup Inductiv, an engineering team from Ontario that specialises in machine-learning. It’s believed that Apple’s underlying reason for the acquisition of Inductiv is to enhance its virtual assistant,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-05-28-apple-acquires-inductiv-machine-learning-specialists/index.json",
-      "webUrl": "https://www.kitguru.net/lifestyle/mobile/apple/christopher-nohall/apple-acquires-inductiv-machine-learning-specialists/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kitguru.net/wp-content/uploads/2020/05/Siri-732x330.jpg",
-          "width": 732,
-          "height": 330,
-          "title": "Apple acquires Inductiv, machine-learning specialists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-28T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KitGuru",
-        "domain": "kitguru.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

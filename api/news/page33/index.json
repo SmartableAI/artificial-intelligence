@@ -2,6 +2,98 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-06-15-mit-creates-artificial-brain-chips.md",
+      "title": "MIT Creates Artificial Brain Chips",
+      "excerpt": "For years researchers have been working on simulating brain synapses to create faster and more efficient computers. Recently, a group",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-mit-creates-artificial-brain-chips/index.json",
+      "webUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.propakistani.pk/wp-content/uploads/2020/06/1_IoNnj-fgKGfY5q0ZuMkmPg.jpeg",
+          "width": 1000,
+          "height": 563,
+          "title": "MIT Creates Artificial Brain Chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/06/15/mit-creates-artificial-brain-chips/amp/",
+      "publishedDateTime": "2020-06-15T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire.md",
+      "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
+      "excerpt": "You won’t read about these stocks in the mainstream media. But don’t let that fool you: because a small “hidden” group of companies is figuring out how to merge artificial intelligence with medical technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-15-ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/index.json",
+      "webUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee776ee38f9070006842d91%2F0x0.jpg",
+          "width": 1199,
+          "height": 820,
+          "title": "“AI Healthcare” Stocks Will Mint The World’s First Trillionaire",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oliviergarret/2020/06/15/ai-healthcare-stocks-will-mint-the-worlds-first-trillionaire/amp/",
+      "publishedDateTime": "2020-06-15T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-06-15-amazon-issues-12-month-ban-on-police-use-of-facial-recognition.md",
       "title": "Amazon issues 12-month ban on police use of facial recognition",
       "excerpt": "The one-year moratorium on police use of Amazon Rekognition does not include organizations that work closely with law enforcement to identify victims of child sexual exploitation and human ...",
@@ -1024,98 +1116,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-facebooks-universal-music-translator.md",
-      "title": "Facebook’s Universal Music Translator",
-      "excerpt": "Star Trek has its universal language translator and now researchers from Facebook Artificial Intelligence Research (FAIR) has developed a universal music translator. Much of it is based on Google ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-facebooks-universal-music-translator/index.json",
-      "webUrl": "https://hackaday.com/2018/06/02/facebooks-universal-music-translator/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/05/universal_music_translation_fe1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Facebook’s Universal Music Translator",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings.md",
-      "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
-      "excerpt": "TensorFlow, the open-source machine learning ... Polish-born and Long Island-bred, he is an Online and Social Media Editor for SD Times. He is also a Carnegie Hall pianist and music producer.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-14-sd-times-news-digest-tensorflow-20-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/index.json",
-      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-tensorflow-2-0-beta-wsl2-for-windows-insiders-and-tibcos-new-cloud-native-offerings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/06/FtFnqC38_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "SD Times news digest: TensorFlow 2.0 beta, WSL2 for Windows insiders, and TIBCO’s new cloud-native offerings",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

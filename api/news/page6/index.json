@@ -1074,6 +1074,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research.md",
+      "title": "Israeli, UAE technology firms pen deal on virus research",
+      "excerpt": "Elta, which specializes in sensors, radars, electronic warfare and communication systems, said they would cooperate on research and technology focused on artificial intelligence ... (AP) — A Black Facebook employee, joined by two others who were denied ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research/index.json",
+      "webUrl": "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news10.com/wp-content/uploads/sites/64/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "publishedDateTime": "2020-07-03T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTEN",
+        "domain": "news10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-we-need-a-new-field-of-ai-to-combat-racial-bias.md",
       "title": "We need a new field of AI to combat racial bias",
       "excerpt": "Responsibly managing machine learning processes is no longer just a desirable component of progress but a necessary one.",
@@ -1170,55 +1211,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
-      "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
-      "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts/index.json",
-      "webUrl": "https://www.reuters.com/article/us-japan-tech-ai-tuna-idUSKBN24415L",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200703&t=2&i=1524528857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG620IQ",
-          "width": 813,
-          "height": 545,
-          "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24415L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24415L",
-      "publishedDateTime": "2020-07-03T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

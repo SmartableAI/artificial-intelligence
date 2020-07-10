@@ -59,6 +59,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
+    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
+    publishedDateTime: 2020-07-09T22:33:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 52
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
     excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
     publishedDateTime: 2020-07-09T15:36:00Z

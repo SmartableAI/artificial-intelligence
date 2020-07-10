@@ -2,6 +2,154 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy.md",
+      "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
+      "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/index.json",
+      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png",
+          "width": 1200,
+          "height": 675,
+          "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
+      "publishedDateTime": "2020-06-29T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ibm-donates-trusted-ai-projects-to-linux-foundation-ai.md",
+      "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
+      "excerpt": "As real-world AI deployments increase, IBM says the contributions can help ensure they're fair, secure and trustworthy.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-ibm-donates-trusted-ai-projects-to-linux-foundation-ai/index.json",
+      "webUrl": "https://www.zdnet.com/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/24/e49feb8e-f4c2-4d63-b04f-01c52c8ce0ee/thumbnail/1200x675/38a749d7b83303899c7cf3ade4a6704f/hc-create-account-1.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM donates \"Trusted AI\" projects to Linux Foundation AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-donates-trusted-ai-projects-to-linux-foundation-ai/",
+      "publishedDateTime": "2020-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai.md",
+      "title": "NASA’s New Moon-Bound Space Suits Will Get a Boost From AI",
+      "excerpt": "Engineers are turning to generative design algorithms to build components for NASA’s next-generation space suit—the first major update in decades.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/index.json",
+      "webUrl": "https://www.wired.com/story/nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef6276a30e7532f3baa1c87/master/pass/Science_spacesuit_48905768626_8db23d3bbb_o.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "NASA’s New Moon-Bound Space Suits Will Get a Boost From AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nasas-new-moon-bound-space-suits-will-get-a-boost-from-ai/amp",
+      "publishedDateTime": "2020-06-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-research-artificial-neural-networks-are-more-similar-to-the-brain-than-we-thought.md",
       "title": "Research: Artificial neural networks are more similar to the brain than we thought",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Consider the animal in the following image. If you recognize it,",
@@ -188,56 +336,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services.md",
-      "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
-      "excerpt": "The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in latest years.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T03:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1321,99 +1419,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide.md",
-      "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
-      "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?w=1200&#038;strip=all",
-          "width": 1080,
-          "height": 530,
-          "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
-      "publishedDateTime": "2020-06-27T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-neural-network-can-determine-lung-cancer-severity.md",
-      "title": "Neural network can determine lung cancer severity.",
-      "excerpt": "CT imaging is an important diagnostic tool to measure the location, extent, size, and shape of lung lesions used to guide therapeutic decisions for patients",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-27-neural-network-can-determine-lung-cancer-severity/index.json",
-      "webUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infosurhoy.com/wp-content/uploads/2020/06/5-neuralnetwor.jpg",
-          "width": 770,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/amp/",
-      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/amp/",
-      "publishedDateTime": "2020-06-27T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoSur Hoy",
-        "domain": "infosurhoy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

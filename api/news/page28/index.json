@@ -2,6 +2,80 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-18-ai-in-computer-vision-market-covid-19-impact-2020-future-development-manufacturers-trends-share-size-and-forecast.md",
+      "title": "AI In Computer Vision Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast",
+      "excerpt": "Global AI In Computer Vision Market Size, Status and Forecast 2020-2026 Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Global AI In ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-ai-in-computer-vision-market-covid-19-impact-2020-future-development-manufacturers-trends-share-size-and-forecast/index.json",
+      "webUrl": "https://www.openpr.com/news/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "publishedDateTime": "2020-06-18T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-announces-azure-machine-learning-courses-on-udacity.md",
+      "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+      "excerpt": "Microsoft and Udacity are offering an introductory Azure Machine Learning course and a scholarship to a more complex course.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-microsoft-announces-azure-machine-learning-courses-on-udacity/index.json",
+      "webUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Microsoft-Azure-Udacity-Microsoft.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "publishedDateTime": "2020-06-18T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
       "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
       "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
@@ -1009,105 +1083,6 @@
         "AI Hardware",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office.md",
-      "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
-      "excerpt": "A unique platform analyzes an organization's digital and physical footprints as well as existing office layouts, then generates new ones",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/index.json",
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eea6b681b50250006e83d8f%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D2278%26cropY1%3D241%26cropY2%3D1510",
-          "width": 1200,
-          "height": 676,
-          "title": "Attention All Business Owners: With This AI Platform, You Can Now Safely Get Back To Your Office",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2020/06/17/attention-all-business-owners-with-this-ai-platform-you-can-now-safely-get-back-to-your-office/amp/",
-      "publishedDateTime": "2020-06-17T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity.md",
-      "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-      "excerpt": "The digital education platform will host one introductory course, dubbed \"Introduction to machine learning on Azure\" for free. With the availability of 10,000 spots, the course will offer students ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-17-microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/index.json",
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592419710_microsoft_azure_and_udacity_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft unveils Azure Machine Learning courses and scholarships on Udacity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-machine-learning-courses-and-scholarships-on-udacity/",
-      "publishedDateTime": "2020-06-17T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

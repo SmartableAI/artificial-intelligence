@@ -2,6 +2,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-30-athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.md",
+      "title": "Athens airport recruits robots to inform travelers on COVID-19 measures",
+      "excerpt": "Two semi-humanoid robots wearing face masks were greeting visitors at Athens International Airport \"Eleftherios Venizelos\" (AIA) with anti-COVID-19 information when Xinhua reporters took a tour in the airport on Friday.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures/index.json",
+      "webUrl": "https://www.thejakartapost.com/travel/2020/06/29/athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.jakpost.net/c/2020/06/29/2020_06_29_98978_1593410211._medium.jpg",
+          "width": 747,
+          "height": 498,
+          "title": "Athens airport recruits robots to inform travelers on COVID-19 measures",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thejakartapost.com/amp/travel/2020/06/29/athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.html",
+      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/travel/2020/06/29/athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.html",
+      "publishedDateTime": "2020-06-29T18:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jakarta Post",
+        "domain": "thejakartapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-learn-big-data-and-machine-learning-skills-right-at-home-with-this-training.md",
+      "title": "Learn Big Data and Machine Learning Skills Right at Home With This Training",
+      "excerpt": "Machine learning wouldn’t exist if Stanislaw Ulam hadn’t gotten annoyed at his game of solitaire. In 1946, Ulam was trying to figure out the probability of winning a game of solitaire.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/index.json",
+      "webUrl": "https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnp1.stackassets.com/f95e7d4a0796d3ec661936019b8898b8651a27c3/store/3d766cb1638bbf79127d583b9c5d3fd145e79c22f7c5540e70b76d6325bc/product_38950_product_shots1.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Learn Big Data and Machine Learning Skills Right at Home With This Training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/amp",
+      "publishedDateTime": "2020-06-29T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company.md",
       "title": "dotData Partners with Teradata, a Leading Cloud Data & Analytics Company",
       "excerpt": "The integration leverages the robust enterprise data management and analytic capabilities of Teradata's Vantage platform and dotData's autoML 2.0 platform to create a powerful end-to-end data ...",
@@ -270,6 +352,56 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services.md",
+      "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
+      "excerpt": "Jun 29, 2020 (WiredRelease via COMTEX) -- The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1029,128 +1161,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing.md",
-      "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
-      "excerpt": "Area 1 Security, a cybersecurity vendor whose products leverage AI and machine learning to protect against phishing, has raised $25 million.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/index.json",
-      "webUrl": "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/f7b215a0-8f77-476b-a974-80fd40ec611c-e1593050018345.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 667,
-          "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/",
-      "publishedDateTime": "2020-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise.md",
-      "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
-      "excerpt": "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise/index.json",
-      "webUrl": "https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook",
-          "width": 796,
-          "height": 419,
-          "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-alphabets-waymo-and-volvo-collaborate-on-driverless-cars.md",
-      "title": "Alphabet's Waymo and Volvo Collaborate on Driverless Cars",
-      "excerpt": "Notably, Alphabet’s Waymo has partnered with Volvo to develop a new self-driving electric vehicle for use in a ride-hailing service. Per the deal, Volvo will take care of the design and manufacture of the vehicles,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-alphabets-waymo-and-volvo-collaborate-on-driverless-cars/index.json",
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
-      "publishedDateTime": "2020-06-29T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

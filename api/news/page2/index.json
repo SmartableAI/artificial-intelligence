@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
+      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
+      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now/index.json",
+      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
+          "width": 720,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "publishedDateTime": "2020-07-09T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-kernel-raises-53-million-to-bring-neuroscience-insights-to-businesses.md",
       "title": "Kernel raises $53 million to bring neuroscience insights to businesses",
       "excerpt": "Kernel raised $53 million to develop a new generation of brain tech that allows companies to leverage insights from the latest neuroscience.",
@@ -207,7 +257,7 @@
       "webUrl": "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -330,55 +380,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds.md",
-      "title": "Facebook’s Artificial Intelligence Doesn’t Eliminate Objectionable Content, Report Finds",
-      "excerpt": "An audit commissioned by Facebook Inc. urged it to improve artificial intelligence-based tools it uses to help identify problematic content such as hate speech, showcasing the current limits of technology in policing the world’s largest social media ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-09-facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds/index.json",
-      "webUrl": "https://www.wsj.com/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-207311/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000",
-      "publishedDateTime": "2020-07-09T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -805,7 +806,7 @@
       "webUrl": "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {

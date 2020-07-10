@@ -2,6 +2,96 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-18-is-covid-19-stymying-retails-intelligence-and-making-ai-more-critical-than-ever.md",
+      "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
+      "excerpt": "With consumer purchase behavior changing dramatically due to pandemic-enforced lifestyle changes, artificial intelligence and data are hyper-critical. Can retailers adjusting to forced closures and new safety protocols also foster these technologies?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-is-covid-19-stymying-retails-intelligence-and-making-ai-more-critical-than-ever/index.json",
+      "webUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb921ef8b43d000679f00e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Is Covid-19 Stymying Retail’s Intelligence – And Making AI More Critical Than Ever?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanpearson/2020/06/18/is-covid-19-stymying-retails-intelligence--and-making-ai-more-critical-than-ever/amp/",
+      "publishedDateTime": "2020-06-18T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge.md",
+      "title": "10 Robotics Stocks on the Technological Cutting Edge",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Robotics stocks offer an attractive source of opportunities for growth",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-10-robotics-stocks-on-the-technological-cutting-edge/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/10-robotics-stocks-cutting-edge-1029322986",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/10-robotics-stocks-cutting-edge-1029322986",
+      "publishedDateTime": "2020-06-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-warehouse-robotics-company-geek-raises-200-million.md",
       "title": "Warehouse robotics company Geek+ raises $200 million",
       "excerpt": "Chinese warehousing robotics startup Geek+ announced it has raised over $200 million in Series C investment, one of the largest rounds closed in the warehousing industry to date. The company continues to remain the most funded warehousing robotics startup in the world with a Series B investment of $150 million in late 2018 and total funding of nearly $390 million.",
@@ -1238,89 +1328,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
-      "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-      "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium/index.json",
-      "webUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o=",
-          "width": 1200,
-          "height": 630,
-          "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "publishedDateTime": "2020-06-17T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-18-5-of-the-coolest-prosthetic-arm-breakthroughs/index.json",
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

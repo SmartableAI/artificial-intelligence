@@ -2,6 +2,98 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
+      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not/index.json",
+      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
+      "publishedDateTime": "2020-06-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr.md",
+      "title": "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR",
+      "excerpt": "The growth of the global artificial intelligence (AI) in medicine market is driven by the surge in AI capabilities due to increase in processing power, the need to compensate for the lack of skilled professionals in healthcare,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr/index.json",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-medicine-market-to-reach-18-12-billion-at-49-6-cagr-by-2025-says-amr-1029354994",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-new-legislation-required-to-secure-us-semiconductor-leadership.md",
       "title": "New legislation required to secure US semiconductor leadership",
       "excerpt": "The U.S. needs aggressive public-private collaboration to ensure it continues to lead in a foundational technology it originally developed.",
@@ -814,33 +906,24 @@
     },
     {
       "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced the launch of WiseEye WE-I Plus HX6537-A solution that supports.",
+      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
+      "excerpt": "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/index.json",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T03:25:00-07:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
+      "publishedDateTime": "2020-06-30T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -849,7 +932,7 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1065,88 +1148,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.md",
-      "title": "Athens airport recruits robots to inform travelers on COVID-19 measures",
-      "excerpt": "Two semi-humanoid robots wearing face masks were greeting visitors at Athens International Airport \"Eleftherios Venizelos\" (AIA) with anti-COVID-19 information when Xinhua reporters took a tour in the airport on Friday.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures/index.json",
-      "webUrl": "https://www.thejakartapost.com/travel/2020/06/29/athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jakpost.net/c/2020/06/29/2020_06_29_98978_1593410211._medium.jpg",
-          "width": 747,
-          "height": 498,
-          "title": "Athens airport recruits robots to inform travelers on COVID-19 measures",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thejakartapost.com/amp/travel/2020/06/29/athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.html",
-      "cdnAmpWebUrl": "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/travel/2020/06/29/athens-airport-recruits-robots-to-inform-travelers-on-covid-19-measures.html",
-      "publishedDateTime": "2020-06-29T18:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jakarta Post",
-        "domain": "thejakartapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-learn-big-data-and-machine-learning-skills-right-at-home-with-this-training.md",
-      "title": "Learn Big Data and Machine Learning Skills Right at Home With This Training",
-      "excerpt": "Machine learning wouldn’t exist if Stanislaw Ulam hadn’t gotten annoyed at his game of solitaire. In 1946, Ulam was trying to figure out the probability of winning a game of solitaire.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-30-learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/index.json",
-      "webUrl": "https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnp1.stackassets.com/f95e7d4a0796d3ec661936019b8898b8651a27c3/store/3d766cb1638bbf79127d583b9c5d3fd145e79c22f7c5540e70b76d6325bc/product_38950_product_shots1.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Learn Big Data and Machine Learning Skills Right at Home With This Training",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training/amp",
-      "publishedDateTime": "2020-06-29T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

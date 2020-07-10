@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html</loc>
+    <lastmod>2020-07-09T18:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/ai-dreams-of-sushi-224552215.html</loc>
     <lastmod>2020-07-09T15:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -189,12 +195,6 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between</loc>
     <lastmod>2020-07-09T02:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wsj.com/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000</loc>
-    <lastmod>2020-07-09T02:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -883,6 +883,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/</loc>
+    <lastmod>2020-07-03T08:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/</loc>
     <lastmod>2020-07-03T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1453,6 +1459,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://hubbis.com/news/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure</loc>
+    <lastmod>2020-06-30T09:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/</loc>
     <lastmod>2020-06-30T09:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1603,8 +1615,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1683,6 +1695,12 @@
   <url>
     <loc>https://www.cnet.com/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/</loc>
     <lastmod>2020-06-29T13:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29</loc>
+    <lastmod>2020-06-29T12:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1839,12 +1857,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-06-29</loc>
     <lastmod>2020-06-29T03:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29?mod=mw_quote_news</loc>
-    <lastmod>2020-06-29T03:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2341,12 +2353,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://europe.autonews.com/automakers/volvo-waymo-partner-build-self-driving-vehicles</loc>
-    <lastmod>2020-06-25T12:28:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html</loc>
     <lastmod>2020-06-25T12:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2373,6 +2379,12 @@
   <url>
     <loc>https://mashable.com/article/tesla-fsd-price-increase-/</loc>
     <lastmod>2020-06-25T11:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles</loc>
+    <lastmod>2020-06-25T10:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

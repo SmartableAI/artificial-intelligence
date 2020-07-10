@@ -1,33 +1,22 @@
 ---
 category: news
-title: "Facebook’s Artificial Intelligence Doesn’t Eliminate Objectionable Content, Report Finds"
-excerpt: "An audit commissioned by Facebook Inc. urged it to improve artificial intelligence-based tools it uses to help identify problematic content such as hate speech, showcasing the current limits of technology in policing the world’s largest social media ..."
-publishedDateTime: 2020-07-09T09:35:00Z
-webUrl: "https://www.wsj.com/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000"
-ampWebUrl: "https://www.wsj.com/amp/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds-11594287000"
+title: "Facebook's Artificial Intelligence Doesn't Eliminate Objectionable Content, Report Finds"
+excerpt: "Facebook Chief AI Scientist Yann LeCun said in a March interview that he ... \"They have very limited and narrow function.\" He said this research \"is very important for Facebook [so it] can detect hate speech in hundreds of languages.\""
+publishedDateTime: 2020-07-09T10:34:00Z
+webUrl: "https://www.morningstar.com/news/dow-jones/202007092892/facebooks-artificial-intelligence-doesnt-eliminate-objectionable-content-report-finds"
 type: article
-quality: 78
-heat: 78
-published: true
+quality: 10
+heat: 10
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://images.wsj.net/im-207311/social"
-    width: 1280
-    height: 640
-    isCached: true
-
-secured: "lx+ieJSnTAbCKyCJ9A47ah/8qvn+YKgLnr4v2IpiUDBHCRhE0yMYZDQZqL+jH8TluiPwvMaK878s+3j92qovjjgkn0SXp4PWz4JPRZJ/ASO9YojWe4n7s+Jf6pMDpS3PXzgb6wCvcs7KlAbYN+p/CpyNNFwb3s5Gp7G279/tI/s8t04oLonnOxn4kEwdHzjnufPnqPevV2jRixcRpdWWBPdRG8zvxDvcwGuyi6AkF+BW9q8GF72akPjw2MxrWKKPcF1CTSLMe4Fap/1oCfM8GowlYOlN9mxEIUXRvJKe27HQi7Rg2K6dt+Zk7Mjtu5XZiKkY2CjJLgMcJNHOJlnLf3W3y6DD81Tfy4GZlKroIUTrx3wX/Vu1kaD57+7zStQzjgInsSV5/YKQ8AYWOmX0q95+xfG0Q7T3BWdpSQLIEULxRV+r5JEUITWTzxi9MIGnqx2dua1/iCk+pZsNOJJFrieloSz6cfszDqnaqS5s554FhjBFYPj/NrqynUTlOiTZlpxF1hzDmbEbYfsTVz46PQ==;n69zZ38gbYKp0ENQPgZFTg=="
+secured: "lwcUIofhkS9qtmClFwTYBZkRds0q+XfEsOrvm3tg+6/3RH/57HudAP+NMsvDM7T8NC9mcmdYt7swvH80N39hhNZGhBov1/xSw7c0lvb6EvqfwLgAIVnmd4eCf3OD9TzgGtZt0xfSe6xP00CYJLtsXdkTGG+7hj4cf5DaKwuKVQaDScVhkOx0HzZUN35LZkcXm+h2lRpD63ukDSU/TvTDRiMtGBsPxw0a/hG5yNH/seyuG1eEjcEaSsrl1TXXr4FEi38lyzU49E9mwMO1PKz/kC34tQlLJkqAn0jMGPXoF8eJ+4h4xorvm/W8137nLvWMht72S5oZLbZxLBjzHqL3hw==;3aCXfKmwddv0fuWx4BZPkA=="
 ---
 

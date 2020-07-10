@@ -255,6 +255,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research.md",
+      "title": "Israeli, UAE technology firms pen deal on virus research",
+      "excerpt": "Elta, which specializes in sensors, radars, electronic warfare and communication systems, said they would cooperate on research and technology focused on artificial intelligence ... (AP) — A Black Facebook employee, joined by two others who were denied ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-07-03-israeli-uae-technology-firms-pen-deal-on-virus-research/index.json",
+      "webUrl": "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news10.com/wp-content/uploads/sites/64/2020/07/f2f490c5bfe44cb1966bbb8f9ffa114c.jpg?w=1280&h=720&crop=1",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/amp/",
+      "publishedDateTime": "2020-07-03T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTEN",
+        "domain": "news10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-researchers-are-gathering-south-african-news-headlines-to-power-ai.md",
       "title": "Researchers are gathering South African news headlines to power AI",
       "excerpt": "If an AI researcher wants to build a natural language processing model in English, there’s no shortage of data to train her algorithms. With a click, she could have 1.8 million",
@@ -594,9 +635,9 @@
     {
       "path": "_news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services.md",
       "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
-      "excerpt": "The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in latest years.",
+      "excerpt": "Jun 29, 2020 (WiredRelease via COMTEX) -- The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in ...",
       "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29?mod=mw_quote_news",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -606,7 +647,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
+          "title": null,
           "attribution": null,
           "isCached": true
         }
@@ -614,7 +655,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T03:17:00-07:00",
+      "publishedDateTime": "2020-06-29T12:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1373,47 +1414,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing.md",
-      "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
-      "excerpt": "A group of researchers at IIT-Kharagpur has developed a cyber-physical system based on artificial intelligence for monitoring ... Welfare,\" a member of the research group said.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-13-iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing/index.json",
-      "webUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2020-03/1ilp6l0g_social-distancing-ndtv_625x300_26_March_20.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "IIT-Kharagpur Researchers Develop AI-Based System To Monitor Social Distancing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/iit-kharagpur-researchers-develop-ai-based-system-to-monitor-social-distancing-2245633?amp=1&akamai-rum=off",
-      "publishedDateTime": "2020-06-12T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
         "images": null,
         "publishers": null,
         "authors": null

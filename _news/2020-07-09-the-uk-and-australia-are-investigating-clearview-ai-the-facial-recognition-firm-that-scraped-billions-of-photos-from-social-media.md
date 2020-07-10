@@ -210,22 +210,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Editorial: The problems with facial recognition technology"
-    excerpt: "Face recognition also can be problematic when manipulated by overzealous law enforcement agencies trying to match driver’s licenses photos to an artist’s sketch or surveillance cameras capturing indiv"
-    publishedDateTime: 2020-07-05T07:15:00Z
-    webUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.html"
-    ampWebUrl: "https://wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
-    cdnAmpWebUrl: "https://wcfcourier-com.cdn.ampproject.org/c/s/wcfcourier.com/opinion/editorial/editorial-the-problems-with-facial-recognition-technology/article_2ec0ee5f-110c-5b5e-95dc-9b75acd8116c.amp.html"
-    type: article
-    provider:
-      name: The Courier
-      domain: wcfcourier.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/wcfcourier.com/content/tncms/assets/v3/editorial/5/38/538f3af9-22c9-5cca-aff0-3bc28fa4dbc0/5efcaa1d0223f.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Facial recognition technology displays clear racial bias"
     excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
     publishedDateTime: 2020-07-06T17:49:00Z
@@ -683,6 +667,6 @@ related:
         height: 798
         isCached: true
 
-secured: "MB1UM+aUoKBHSUZ+cJ09wqiQP3MiEhStU22cKXvaZdC8fz51XKn6sPvhHROsZMJjXAME3vQOIxbqewiF0tW35Hk+dbCm9LpJFOUx2TbszKYhQRk8nQj1aoXzReIjASsBKV6uSkUJRRjUGgAVrcYmcG0RMDvGpPftxKbySw28ygq0/j6cJIW4xrly2xYZQLcRE2kxxjqnmwQgPlKRvYtsT+F2NIBL+90vCTN3yrJ3tB39tuLBxxKrgNhcMYHEvxBBUTP1+OQrjihPFEFIieV6f2EBiBDt8wwu/Ck8VXbkn9jTszOkyDonEgBwvt/LOybm3nIoC+zyrtdX5GM6zKM56g==;ZoE/P/kYTQcgejer/c68cw=="
+secured: "klaQpcuCgG1MCVuRhy/SBf1XGPb+NI7/LA2GriIhYLZL95jGS+y1+rBD+zq/BPDXucqalfM5uZ5K5QBqehhM1cpveLV+nwaJb3/AZk3B8GP+Yiz/xdJDF3Gg8oiS8iBgQ23kTy8FMpHVS+xnu7YhYc5df/sP0v/KWvwYbWAZL2jamIg6/TUvGb6P80h01u3aifUK/33thPDpv2bd3kGcR1PVmeTvhKBQHK6foBV713PMrWTNHmUXZJd5b5/8yflhlPsQ7nMSpc1rZn1WgqAQA9WD6t0CdCTefmNWpML12q4HVUK1OiFMRNmP091rfJeJbEbHHZu9k8EXGWVtl0v1jRBqv59kMtGNjSIBTA9/wyPxwyOm80wnBXm8lff1EG8TrTEpHA7vL6Nf3fpbCy9ztwswbP8YorgXrbjYhQxGUS5FFVm+X1N03mNvqj/b5gYTcve863wYf+z4rLgf9WV9NMyW121hyLfDxnbXecHPCYvnbcd9YvTZhvuZqprc18TY;VCQU/fXFaO8TwhPOSJjbRw=="
 ---
 

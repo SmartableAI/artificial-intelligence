@@ -126,6 +126,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving"
+    excerpt: "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),"
+    publishedDateTime: 2020-07-10T00:03:00Z
+    webUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy"
+    ampWebUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 73
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Elon Musk Reveals How Close Tesla Is to Full Self-Driving Cars At China AI Conference"
     excerpt: "Tesla CEO Elon Musk delivered a brief speech via remote video to the attendants of this year’s World Artificial Intelligence Conference (WAIC) in Shanghai, China on Thursday, kicking off the country’s most important tech conference."
     publishedDateTime: 2020-07-09T16:05:00Z
@@ -189,6 +205,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/Tesla-Logo.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Elons Musk Is ‘Extremely Confident’ Tesla Will Achieve Fully Autonomous Cars Soon"
+    excerpt: "The electric automaker’s founder and chief executive, Elon Musk, claims the company is extremely close to developing level 5 autonomous driving technology, which could one day be implemented into his vehicle lineup."
+    publishedDateTime: 2020-07-09T18:32:00Z
+    webUrl: "https://robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/"
+    ampWebUrl: "https://robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/amp/"
+    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/amp/"
+    type: article
+    provider:
+      name: Robb Report
+      domain: robbreport.com
+    quality: 54
+    images:
+      - url: "https://robbreportedit.files.wordpress.com/2020/07/10664640e-1.jpg?w=1000"
+        width: 1000
+        height: 563
         isCached: true
   - title: "Elon Musk boasts Tesla may figure out fully self-driving cars this year"
     excerpt: "ElonMusk says #Tesla is racing forward on Level 5 autonomy for self-driving cars, even as others in the field pull back on their expectations. #autotech #selfdrivingcars"

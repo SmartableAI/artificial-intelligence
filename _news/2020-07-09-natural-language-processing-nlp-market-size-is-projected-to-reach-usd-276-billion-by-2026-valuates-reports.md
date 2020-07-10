@@ -35,6 +35,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports"
+    excerpt: "The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and"
+    publishedDateTime: 2020-07-10T01:36:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-827107719.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
   - title: "Analytics as a Service (AaaS) Market Size to Reach USD 126.48 Billion by 2026 - Valuates Reports"
     excerpt: "BANGALORE, India, July 9, 2020 /PRNewswire/ -- Analytics-as-a-Service (AaaS) provides subscription-based ... statistics, modeling, machine learning, and artificial intelligence to analyze current data to make predictions. The Global Prescriptive Analytics ..."
     publishedDateTime: 2020-07-09T12:47:00Z
