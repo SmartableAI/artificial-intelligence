@@ -2,6 +2,147 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-23-formula-1-and-aws-use-70-years-of-historical-race-data-for-new-performance-stats.md",
+      "title": "Formula 1 and AWS Use 70 years of Historical Race Data For New Performance Stats",
+      "excerpt": "Formula One Group (F1) is introducing six new, real-time racing statistics that will roll out through the 2020 season, beginning with the launch of “Car Performance Scores” at the season-opening Grand Prix in Spielberg,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/formula-1-and-aws-use-70-years-of-historical-race-data-for-new-driver-performance-stats/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/06/F1.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": "Formula 1 and AWS Use 70 years of Historical Race Data For New Performance Stats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-appen-75-of-employees-believe-ai-is-critical-to-their-business.md",
+      "title": "Appen: 75% of employees believe AI is critical to their business",
+      "excerpt": "In a survey conducted by AI data services company Appen, 75% of employees said they considered AI critical to their business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Appen: 75% of employees believe AI is critical to their business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/appen-75-of-employees-believe-ai-is-critical-to-their-business/amp/",
+      "publishedDateTime": "2020-06-23T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-working-with-teams-in-the-microsoft-graph.md",
+      "title": "Working with Teams in the Microsoft Graph",
+      "excerpt": "It’s not surprising that Teams has become one of the fastest growing applications in Microsoft 365 ... causing significant stress, keeping cognitive overload to a minimum is important, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3563774/working-with-teams-in-the-microsoft-graph.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/06/microsoft-teams-7x7-view-100848747-large.jpg",
+          "width": 1200,
+          "height": 681,
+          "title": "Working with Teams in the Microsoft Graph",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3563774/working-with-teams-in-the-microsoft-graph.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563774/working-with-teams-in-the-microsoft-graph.amp.html",
+      "publishedDateTime": "2020-06-23T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-speech-and-voice-recognition-market-global-industry-size-share-emerging-trends-demand-revenue-and-forecasts-research-report.md",
       "title": "Speech and Voice Recognition Market Global Industry Size, Share, Emerging Trends, Demand, Revenue and Forecasts Research Report",
       "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
@@ -979,146 +1120,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-trump-signs-executive-order-suspending-certain-work-visas-through-2020.md",
-      "title": "Trump signs executive order suspending certain work visas through 2020",
-      "excerpt": "President Trump on Monday signed an executive order to suspend the issuance of certain temporary worker visas through the end of 2020, cracking down further on immigration after signing a more narrow measure in April.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_061620getty_memo.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Trump signs executive order suspending certain work visas through 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/503914-trump-signs-executive-order-suspending-certain-work-visas-through?amp",
-      "publishedDateTime": "2020-06-22T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing.md",
-      "title": "US government doesn't know how it uses facial recognition in public housing",
-      "excerpt": "The Department of Housing and Urban Development says it doesn't have policies limiting how facial recognition is used in public housing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/mBcbBBTe2lIFz0R4LQ7bhNmWx0E=/756x567/2020/05/01/7d392c22-fd26-4e41-bfc7-0eef3e0bf34d/security-facial-recognition-contact-tracing.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "US government doesn't know how it uses facial recognition in public housing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-government-doesnt-know-how-it-uses-facial-recognition-in-public-housing/",
-      "publishedDateTime": "2020-06-22T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.md",
-      "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
-      "excerpt": "HomeKit will soon be able to automatically change the color temperature of your lights throughout the day, as well as tell you who’s waiting on your doorstep.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/06/homekit-facial-recognition-100849644-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "HomeKit in iOS 14: Support for facial recognition and adaptive lighting",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3563913/homekit-in-ios-14-support-for-facial-recognition-and-adaptive-lighting.amp.html",
-      "publishedDateTime": "2020-06-22T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

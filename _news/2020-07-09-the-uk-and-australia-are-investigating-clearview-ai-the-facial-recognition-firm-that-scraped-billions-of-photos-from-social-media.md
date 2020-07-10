@@ -7,7 +7,7 @@ webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the
 ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
 type: article
-quality: 59
+quality: 76
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
@@ -663,6 +664,20 @@ related:
       - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
         width: 865
         height: 441
+        isCached: true
+  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
+    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
+    publishedDateTime: 2020-07-10T15:15:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 32
+    images:
+      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
     excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."

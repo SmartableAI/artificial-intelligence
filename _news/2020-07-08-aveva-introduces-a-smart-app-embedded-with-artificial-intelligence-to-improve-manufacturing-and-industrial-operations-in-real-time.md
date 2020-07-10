@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200708071453/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200708071453/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     title: "AVEVA introduces a smart app embedded with artificial intelligence to improve manufacturing and industrial operations in real-time"
 
 related:
-  - title: "With a full grasp of real healthcare requirements, iMedtac introduces wide-ranging solutions targeting smart hospital trend"
-    excerpt: "The world's population is aging. According to American Association of Retired Persons, 22% of the world's population will be 60 and older by 2050. At the same time, developers are making use of new technologies including artificial intelligence (AI),"
-    publishedDateTime: 2020-07-09T02:08:00Z
-    webUrl: "https://www.digitimes.com/news/a20200709PR200.html&chid=9"
+  - title: "Foxconn launches iAI Institute aimed to train people in industrial artificial intelligence"
+    excerpt: "Foxconn launched the iAI Institute “an initiative focused on training the workforce of tomorrow and sharing Industrial AI knowledge across industries.”  The iAI Institute plans to help train people in industrial artificial intelligence."
+    publishedDateTime: 2020-07-10T18:53:00Z
+    webUrl: "https://www.jsonline.com/story/money/business/2020/07/10/foxconn-announces-launch-iai-institute-aimed-train-people-ai/5414940002/"
+    ampWebUrl: "https://amp.jsonline.com/amp/5414940002"
+    cdnAmpWebUrl: "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5414940002"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 13
+      name: Milwaukee Journal Sentinel
+      domain: jsonline.com
+    quality: 62
     images:
-      - url: "https://www.digitimes.com/newsshow/20200709PR200_files/2_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://www.gannett-cdn.com/presto/2020/05/18/PMJS/e946865f-bf8c-4588-9e52-501bb53d354f-MJS_FOXCONN_13614.JPG?auto=webp&crop=3720,2093,x179,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "85U6QMcvnfkH8ULWoUlLTRi3pgZ7xL5uVfbRFu1jKZADzEhfKnwl6iylTHjhsyB9xCFxC/p0OzeXWMknTWfQ3fFsPmPC3zcFo+vVqjd1sNY8pE77vCQipKlv3cf8mfa5qAkKVHEkXzFhEdktgITgWT6QsNxIK8+yjt0L3Xd6yFvq3XLXzbeuAsyx/n+2F9qZ7l43QVVUW20Up7odkG5OgX+p/14AjBdoBNqX/g9AWwQ1iRKzmXRHAh6+YczDBlnfHallj8k3qxgyRvgCiikTbMpjEJwdKSj73RArPu6md5/LY4q/YUramXYZ1nw1SKKGXJ4lU6ov0N09G9zM210EWA==;dw3o02zonhUG8wlmZJNhig=="

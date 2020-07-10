@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/"
 type: article
 quality: 79
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "IBM banking on cloud, AI to drive digital transformation"
-    excerpt: "IBM Thailand, the local unit of the US tech giant, is highlighting its cloud and artificial intelligence (AI) technologies as a way to help drive business transformation to ensure organisations thrive following the Covid-19 crisis."
-    publishedDateTime: 2020-07-06T01:40:00Z
-    webUrl: "https://www.bangkokpost.com/business/1946544/ibm-banking-on-cloud-ai-to-drive-digital-transformation"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 37
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/default-pic-w600.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "YTR8ZoJY9WjZjOeDYoZIfqjbDRP1NG0MNH9Ld2m2vrpW3wUXSDhg/t2M+/+pFxTaQNAqwKGr51RrRoVbcp/JzVp9VlrstFrhMZvo4X195NcNhGl6JH8X6T6pmCYa5G7N2XjAGJ6WORPs0bPSUvStuSsfEvqZKd9e6ocIXtlzv4Cpwqt7LYyfcDwkz7a4POsNfbo3k0EwQwGe67icVZVa8tWRiLGmJ4Do2OMHt+9nwdeZfD073mOki5lUgn7W5Lo8vwhO8E7z8SJmqp+sHzMY24qGZxVs4SsQz0Jl3pqzUCj6/32fKEYqzGNxLRLZw5MJDUBjwQZHt2+tzXLklNS/7KHigxFTE5dFdPWtLgm7nDE9X93KNBAWUNSgQyZi/u2ZdBLTt1x9v24eln9KoW5h+8L/jsjkHdKQ8u0IPliRxD0VXWGvOYd/aYJ5tqZrOhFNaE8ldosGqmjVMmagQGiDi4BFD95tUf43Y6k9s954DLziyqOIwF/IKPMEe1ebPuOE;J6AGhBg8SDcboHnx2ZmShg=="

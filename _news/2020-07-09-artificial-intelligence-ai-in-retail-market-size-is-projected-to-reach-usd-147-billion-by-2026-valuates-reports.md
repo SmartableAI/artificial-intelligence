@@ -2,21 +2,25 @@
 category: news
 title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
 excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
-publishedDateTime: 2020-07-09T13:52:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16569587/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026-va"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16569587"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16569587"
+publishedDateTime: 2020-07-09T13:35:00Z
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026---valuates-reports-301090880.html"
 type: article
 quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+    width: 920
+    height: 482
+    isCached: true
 
 related:
   - title: "Facial recognition market to surpass $12 billion by 2026"
@@ -134,6 +138,6 @@ related:
         height: 260
         isCached: true
 
-secured: "86CrVWdhUn2pSwgyuidsCtYhwGo1BCVRvp7hW1ExLpktjTC9keIKIOFUxhlRBHUVCHQB4lcIp5GB5G5necTdnFE8qVp61cKZBgpRBrxiQaO/y3NZUOHggXSgjscLyWKv9TET3H3E003sXNcfCGFdH0QGkHavcdXxh9TQCZwcKIQZvwEwZI5ypJkuoT6nZa3ePFq6vcKGj22I0cwpzQnA/WTNKaamOnafqsfDDTZM3C7pFGzWYJuT8pInsPm5RRBSvqaUngfb/3lXgJjn4k4sK6r37CWwdbVX/azaQTEoe7Q2fONERQ9KqHOpa9ATUhSLX2hDRa44vOLEQa+6fIduTA==;cybqy6gScLsL3zwCMTigGQ=="
+secured: "twt9Nh2Nx/kPub9vx9AycrCkh3Nkr3hNlknBSzMwLOrHj6UShgxBXayiCDiqJUNN7SNFnaar8Cz9duADA7IZ2WorlKLxCjqQ6CBQhIxD9DzF/mSEbMQfRHhG/RYJHUfu13tk7XJcNsM+1Zh0JuLtQnegNzhZPV85LuUOG/K6NJQ0y7o8JrB1lLNCE2y9kFse2I38DfVmHCbc8+ZwVQJ6k1PIVK1kcpyUTq3ivIXbiliSbOCKTeUGnVhQvwQljfsezDcMIjfiwDRO5nkzxhzhVb2BztmJEixq1xZGH8ZEgC8avMsAI6tJQY8K/c/dTH20Pb5CMYrA9ipPb2xO8u+NBw==;MWUp5tKfykNtfmZ5Wl1OKw=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-
 ampWebUrl: "https://www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/10/ai-50-founders-post-coronavirus-predictions/amp/"
 type: article
-quality: 99
-heat: 119
+quality: 103
+heat: 123
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F913385814%2F0x0.jpg"

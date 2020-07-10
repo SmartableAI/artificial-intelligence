@@ -3,7 +3,7 @@ category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
 publishedDateTime: 2020-07-06T16:29:00Z
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
+webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102"
 ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
 type: article
@@ -37,6 +37,6 @@ related:
         height: 386
         isCached: true
 
-secured: "pwOiEQJVj4A1mA1oGzG8zVDt2+ieowLQIx89js/8sj0DaNbTS+Dnqgn26+nmuU6Nf7cHyTXlkC6Oa6n4SWDLa8ZywaAEBdCf6nGMnXU8vmEsjCRVnN/Fsjaq0jL7REsXZniq7mV+1wuQVVQRZaYIvxlWwbIAxVgjPttbV48jTZmr6xd5JF6jF2Qh88VPoQYNlJaeKjNLMZ6C4zJqFm88XeQwzicINwK17qO80G4jnpX2kSeh+18/SIdIsTCf2TNuDIQk+wuC+UW6bU9K7O2DFjNeL7WYVWSJ27jzWaUwT/hypIiZKhfmaZlWjJixUUgO22JiD9ySwJ2LhVi3FvcCqqQlwOv79xX8Ugq+HX0U61m2nzw+hn88MGNmrRPdOXA2ha42sA9bfPUIiQ6RHSq1HbZdUPeGcpqz4IL6LKi6h/CyOEWU1wQt2uVTCbrORLiM9XSni5edUmKVr0ud50GnyIIbDYUQOVpwlmeJbhH4bnrTzFOPrtgzrsuk2je1dFGvDsFkc0j8avZM5bbQACC+eQ==;6PNerbtcG0IbtUvg7guUTg=="
+secured: "C/DIdb+juIwD4T/pfUV5L2JcVxqSOitqZzvmSJDC/nU+zgKI5KOBxAQ50g8G+31PiOzkLsQU03YWGjLRno8iIc/vqk3Iu5Uc5k6rqLTaxbk8qn2fa/Qwq92SsNXdsmphiYBu8Bl6ZhR6E3CDf3YGYHT7P3LPLRNRlwqx8zHqnSbL0It2f4dkIIzTYOMxFa5SDAo1NGZwm6IUpc22ZmBCynzmdUT0oOENhe4WLSYNqps5IjOCy7abgGNM2ELDgvBiQ8b+8eg8KbcQqbKLN76HC2QS1Is3K4uGvJSQfEcfJPDJ9C6NQFP4sednVyLmffF4+gxGAPC6loA/RNuoMwBomg==;tACxDtDqnQP7qfZ9KLtheQ=="
 ---
 

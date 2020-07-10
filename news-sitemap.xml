@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/10/white-house-advisory-council-calls-on-u-s-to-increase-ai-funding-to-10-billion-by-2030/</loc>
+    <lastmod>2020-07-10T12:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/10/ai-weekly-welcome-to-the-machine-venturebeats-ai-site/</loc>
+    <lastmod>2020-07-10T12:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.jsonline.com/story/money/business/2020/07/10/foxconn-announces-launch-iai-institute-aimed-train-people-ai/5414940002/</loc>
+    <lastmod>2020-07-10T11:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7</loc>
     <lastmod>2020-07-10T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -985,6 +1003,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/</loc>
+    <lastmod>2020-07-03T08:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/</loc>
     <lastmod>2020-07-03T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1005,12 +1029,6 @@
   <url>
     <loc>https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&amp;itm_medium=content_marketing&amp;itm_campaign=content_marketing_leadgen_link&amp;itm_content=leadgen_teaser&amp;itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&amp;vertical=fintech</loc>
     <lastmod>2020-07-03T05:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/</loc>
-    <lastmod>2020-07-03T01:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1465,7 +1483,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1729,8 +1747,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1821,6 +1839,12 @@
   <url>
     <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html</loc>
     <lastmod>2020-06-29T13:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29</loc>
+    <lastmod>2020-06-29T12:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1971,12 +1995,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-06-29</loc>
     <lastmod>2020-06-29T03:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29?mod=mw_quote_news</loc>
-    <lastmod>2020-06-29T03:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

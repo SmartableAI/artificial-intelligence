@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindu.com/business/start-ups-bear-the-brunt-of-covid-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/start-ups-bear-the-brunt-of-covid-19-impact-12-have-shut-shop-70-adversely-hit-finds-survey/article31999411.ece/amp/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 384
     isCached: true
     title: "Start-ups bear the brunt of COVID-19 impact; 12% have shut shop, 70% adversely hit, finds survey"
-
-related:
-  - title: "About 70% start-ups impacted by COVID-19: Survey"
-    excerpt: "NEW DELHI: A survey of 250 start-ups has revealed that the COVID-19 pandemic has had an unprecedented impact on the business, with 70 per cent saying that their business has been impacted, and some of them shutting operations."
-    publishedDateTime: 2020-07-06T01:50:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/about-70-start-ups-impacted-by-covid-19-survey-11593993885699.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/about-70-start-ups-impacted-by-covid-19-survey/amp-11593993885699.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/about-70-start-ups-impacted-by-covid-19-survey/amp-11593993885699.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
-    images:
-      - url: "https://images.livemint.com/img/2020/07/06/600x338/startup-kRIH--621x414@LiveMint_1593998409616.jpg"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "AqChT7ThDcLU0izWDjzMqspMg7dG/rngPFWGgjGrmPvxlEG/C5Ywg9r09grYopyg6BIkbw2NMc6jyDpc3tw7kI/EaW+YO+FUTBSUt1/zd4F+uq/0wIO9G5W56tm+GKNtBUnK/ZHmDE2DHW2epSc0kU2tIzWxoni//KorDcWWlsXXnqRQg4sEDoLx0iGQA72/TTZr+H1ax57AjDlDRTrpcdWoPsKaUIO/moa1/isJVlso7gKWi4VY259YqHx1nXyqIL6Gle1mXxAQfmjrDlrzSuTJ2hlgaoCabn6vfYdh/QNe4ZSMpIGfMz0KuBKElYJBmDM3+bCmBNwT33kUMTIUkA==;5RNdYAxOjw7LWecY6BTcqA=="
 ---

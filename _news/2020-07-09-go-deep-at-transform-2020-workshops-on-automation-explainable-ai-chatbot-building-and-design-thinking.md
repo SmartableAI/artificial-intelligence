@@ -60,20 +60,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IBM banking on cloud, AI to drive digital transformation"
-    excerpt: "IBM Thailand, the local unit of the US tech giant, is highlighting its cloud and artificial intelligence (AI) technologies as a way to help drive business transformation to ensure organisations thrive following the Covid-19 crisis."
-    publishedDateTime: 2020-07-06T01:40:00Z
-    webUrl: "https://www.bangkokpost.com/business/1946544/ibm-banking-on-cloud-ai-to-drive-digital-transformation"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 37
-    images:
-      - url: "https://static.bangkokpost.com/newdesign/assets/images/bg/default-pic-w600.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "TqGel1xf9tBcTjY6mGUlgsQ3XJtxXW9nB8NrQdwm9YsglpMF0rJXcLFLrk+7veWqAxw2zxEa+BpjSoUOAQPzCeNkljqXkaS7nKBXsQDdKLx8ScKrAWZnC9Az9oXaZKuZxjPkk5f0gHZX1rSRjS1dT4mJT8CLplCuz7dZ2Igiqr7hT/SeWi6bSmrtryccF4cE68SValb+hIG+T3zt9sWfyzthVRaLdx4xpPvqCEWejzxZbv0LMgI8QWHoWwGA6LAB3W6Vzk5cMooMaQGkeP8D+2jN+PGqtGvyLHGSeAJOUt7sj9gDoYVlROG+hNaXOGjps9XoEJqOfac4YvVos3UU2w==;Ddl4hoGeTRrDtqhui4VE3A=="
 ---

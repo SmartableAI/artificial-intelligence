@@ -163,6 +163,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
+    excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
+    publishedDateTime: 2020-07-09T10:19:00Z
+    webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 76
+    images:
+      - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "ECHR receives first complaint about facial recognition system in Moscow"
     excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
     publishedDateTime: 2020-07-06T10:26:00Z
@@ -283,22 +299,6 @@ related:
       - url: "https://www.pymnts.com/wp-content/uploads/2020/07/Clearview-AI-investigation-facial-recognition-457x305.jpg"
         width: 457
         height: 305
-        isCached: true
-  - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
-    excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
-    publishedDateTime: 2020-07-09T10:19:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-    images:
-      - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "UK, Australia launch joint investigation of facial recognition firm"
     excerpt: "Regulators in the United Kingdom and Australia announced a joint investigation Thursday of Clearview AI, a controversial facial recognition company that has scraped billions of photos from the internet."
@@ -662,6 +662,20 @@ related:
       - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
         width: 865
         height: 441
+        isCached: true
+  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
+    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
+    publishedDateTime: 2020-07-10T15:15:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 32
+    images:
+      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
     excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
