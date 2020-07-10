@@ -65,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Security Market research, Industry Outlook, Current Trends and Forecast by 2026 with Covid-19 Impact Analysis"
+    excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
+    publishedDateTime: 2020-07-09T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-research-industry-outlook-current-trends-and-forecast-by-2026-with-covid-19-impact-analysis-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oOHJD19gnuAyNK2zZ3a/HIsFOftDLxeFJirUu+vCBwJiYMhT67P9D4iPnH/kwVtlmGlOXcaG2YuY0MK+yawgmmWfdEvwsoAeCfi6llTvciOUOERyybnDrNsEPpWuPXqwAjuWa3v9GEw3OleISvZ1ZDJp/AHJCL/UFbfwSr3wKjDavvHN1YranfOv0IoZ+hzylU665PDZsXBnohVu0N9+uEV413MhHjAtnCTZOi1W7dD2NB/iKzfq8Dp8g1MowdWZuyfJW5u66xM66hjS/ElPPr3EcIhwVCyFu7UZ7EOqdkh1HH155ZJcNrS76U8JJIprQS7uaAc+xu8sYhWdqQUoDelKlodDW9ni/LGh2J3GbPdM/n3r0ISDAC+rf+/QH1stC5SmLaAyz5a+WRbetG3F4vtypeOhMIvdDYFCr6p1ECUo4h97+molvB4uiAcP/RyImWNr5RB1r/oeyggvoAJCyv+4KFyzJknc8Cg6u1HgdiXQLddygqsqUfmBARC1rfdu+/BAbStNLjc6Tzg3Ra+kgw==;rdgSMpxb9A7m9isEj6lb5A=="
 ---

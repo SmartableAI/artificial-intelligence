@@ -26,6 +26,19 @@ images:
     isCached: true
     title: "£1m project to assess motorways for self-driving vehicles"
 
+related:
+  - title: "Russia’s top brass to prioritize using self-driving vehicles in Arctic"
+    excerpt: "In April, the Kamaz truck maker held successful trials of self-driving trucks in the Polar region, according to the head of the Khrulyov Military Logistics Academy"
+    publishedDateTime: 2020-07-10T09:10:00Z
+    webUrl: "https://tass.com/defense/1176863"
+    ampWebUrl: "https://tass.com/defense/1176863/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1176863/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 24
+
 secured: "S21+mxfauNAO6s108tBG7W+1c0ZYUdtycfefFV/kG84ED6bsFrpHwVcHV8m5lV7R6uhtCJPeYYB+9+GmChAr2Jbe+3JxS6/ie3YRi4N2hso/q6p0izDAw/7JWcyw0gFlQ4NT8O/rklhlAZVBPdYdNKBquKGwB5zZMMi0oNsbuujwpRmuFSmHU+za1yLEfamXXICmtOIpG8wC8C9LLPGzyLvSMT/rt5wQrYl5yXw88jBu58ZmOZuDlrGPrVU1kxprHOf980Dl0K8gGliLVIrL5Yb9o+Kt+Gvdzqfofs+DF9VzNp5WDyc9w3YQUitnzY58yAaxQulT/JQLk9dt1RzAEA==;LnRqTGacjLnDMxRnk7rL+g=="
 ---
 

@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
-excerpt: "The global brain computer interface market size was valued at USD 1.2 billion in 2019 and is anticipated to register"
-publishedDateTime: 2020-06-19T18:13:00Z
-webUrl: "https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19"
+excerpt: "For instance, in June 2019, Carnegie Mellon University, in collaboration with the University of Minnesota, developed the first mind-controlled robotic arm using BCI technology which can track and ..."
+publishedDateTime: 2020-06-19T18:22:00Z
+webUrl: "https://www.marketwatch.com/press-release/brain-computer-interface-market-by-current-industry-status-growth-opportunities-top-key-players-target-audience-and-forecast-to-2027-2020-06-19?mod=mw_quote_news"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: MarketWatch
@@ -26,8 +23,7 @@ images:
     width: 1200
     height: 630
     isCached: true
-    title: "Brain Computer Interface Market By Current Industry Status, Growth Opportunities, Top Key Players, Target Audience And Forecast To 2027"
 
-secured: "LzG0q7Sd+aUeREb8v/bRiv3AdjEJ89CMRN30bgfRnnTMBfQmQRj0oqg+D7TrI4fOelD7GKLAvE7LQG4f8zP2zQx2Q4GsWnSsSg/QZTSCT3vd1gSHy+Oeno5/K1zd7SzYSNygLckmV4AW0LmMVyzg51D3/AVbyxTt3gD/VNXTyvQ6pL6zzVjb15nKsrUB6nA/xTOSQDdrUKv3lKudMZiB4qtxhmXR7DdLHgWnJ+Ob5vTtEiNiTfn3Qkd1XibBE72iKTt5t40Fwlzk9zs3tbV7/h22FIQjYDSYAzylaOWfX4hogwwmpshIihhg5IUZB3+WjF+an1+NU0G3RFohvoVjbQ==;6LVQPIyfxkruM4PmGHhZlw=="
+secured: "FNoT7NljzhvwEL19917yF6RlborRM+Aa4CKO4bbnpqQLQxEUgwwu43yXEbvH7aT2EfeLqPzPMW/qPQ56q2dCSxeXAYQHh//Nr9wdwHryzHrl1Y1jrvgYS8rAyoVXdj9v5tw73jLZGjnCLqEG9TaOISNzbw2H22jt4DOJoXC808xDhsmvMkMmk0tUJ6iV6b6JUn0mjP/+1i83GtS/1u325imBXxZTolwQWrvuaMzEk4AbmTdvsJVx899xy7FGdE//CkjmHEnCSqbu39/g7hKYy/SmYplizzHIsCPz9tDlrU0rmaCBdKheA9mxqJnlI0O6FfOTTLjYQEbOgXTrVKk3Gw==;pyGHPJOZgooDjXVuA2xK4g=="
 ---
 

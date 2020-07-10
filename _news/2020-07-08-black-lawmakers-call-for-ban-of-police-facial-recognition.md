@@ -27,22 +27,6 @@ images:
     title: "Black Lawmakers Call for Ban of Police Facial Recognition"
 
 related:
-  - title: "We now have evidence of facial recognition’s harm. Time for lawmakers to act."
-    excerpt: "Defenders of unregulated facial recognition technology have always asked for concrete evidence of harm. Now they have it — and lawmakers in both chambers of Congress have signaled a willingness to act."
-    publishedDateTime: 2020-07-05T16:35:00Z
-    webUrl: "https://www.washingtonpost.com/opinions/we-now-have-evidence-of-facial-recognitions-harm-time-for-lawmakers-to-act/2020/07/05/e62ee8d0-baf8-11ea-80b9-40ece9a701dc_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/opinions/we-now-have-evidence-of-facial-recognitions-harm-time-for-lawmakers-to-act/2020/07/05/e62ee8d0-baf8-11ea-80b9-40ece9a701dc_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/we-now-have-evidence-of-facial-recognitions-harm-time-for-lawmakers-to-act/2020/07/05/e62ee8d0-baf8-11ea-80b9-40ece9a701dc_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ONIVAIVLQEI6VJB3X2PWJFFIPU.jpg&w=1440"
-        width: 1440
-        height: 1080
-        isCached: true
   - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
     excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
     publishedDateTime: 2020-07-09T22:33:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
         width: 600
         height: 600
+        isCached: true
+  - title: "Boston City Departments Can No Longer Use Facial Recognition"
+    excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
+    publishedDateTime: 2020-07-10T08:04:00Z
+    webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
+        width: 500
+        height: 300
         isCached: true
   - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
     excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."

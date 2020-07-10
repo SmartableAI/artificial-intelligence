@@ -53,6 +53,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19"
+    excerpt: "Run:AI ensures that the AI Centre's data scientists can get the full use out of their hardware, guaranteeing that GPU (Graphics Processing Unit) resources are efficiently and elastically allocated to teams that need them. This enables the AI Centre to run ..."
+    publishedDateTime: 2020-07-08T00:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "q8fMgqgUlDvd4C2GpnGq4WzYUJy+Lu4JOaO1wwC1fFTIc6gDSji+SxYlf85+D6eudu0nGgi8r0ludS/Yf5c/fXQCwAzO31hDttEbl7n/nFTNPQHVwjItrU02Ap8AGNeNlNW1G3x3Kx4krMGM+vJc3QxzauIutlKpGiy/uBgvSmxrNoT1AQf04PnjYFt+lMrFtV7QjKGybOVoAcS72r8akrn7cye4pZp9om9wFo4Buj3BK9BLoxGE9xb9K8K0r6TYDDw3No2fblrJbTkwGdKlNDvazVPVrzzJoKL1+3KwDRVxs3ZcaA2SlEDnaXBmu6TEAEd1cjvUWyaFyulKnfOBsleLAH/NHVWkDuynLJdvZvB74Ja+iUrB5nfnoXqm8OkT+CnYwz9G8QcL2dzz6Nl6qZj0W+AVmEs6hy4X648wemV6wPbsaK5kUoNUVbClWiBEcnDdiUeCQBnoMRWOr2aNCsW8KdXXDT0y+i9buao53g/GLLGp6INf7XhRY4kNvcjwcPwQ7rdDD4/ylLFTnRoHcw==;Mc5HNtJW7eHEiCnPg7CYNg=="
 ---

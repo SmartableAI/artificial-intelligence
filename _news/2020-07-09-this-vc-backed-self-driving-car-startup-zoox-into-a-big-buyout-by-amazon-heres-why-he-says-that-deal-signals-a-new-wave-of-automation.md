@@ -73,6 +73,15 @@ related:
         width: 1777
         height: 931
         isCached: true
+  - title: "Amazon has plan to keep Zoox talent in competitive self-driving world"
+    excerpt: "Aggressively expanding into self-driving technology, Amazon (NASDAQ:AMZN) announced a $1.3B deal on June 26 to acquire startup Zoox, which is set on designing a fully autonomous vehicle from scratch rather than retrofitting existing cars."
+    publishedDateTime: 2020-07-10T08:29:00Z
+    webUrl: "https://seekingalpha.com/news/3590111-amazon-plan-to-keep-zoox-talent-in-competitive-self-driving-world"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "copwDcQQaA7hLqbdb0AgDV29t7IVhIPzIqtTdHI9xolBpYprNfLkeJz7RgDZulEuRoe+J4HSgspjAt9lYuxT4+2D/MnCVMVeqMRd7F3pxkGmh2ZOElPJx3njjZGotwY9Jz5yJuPBSEy2wBp0pYroTfqtYqNP8+S/KyKsQm1v0jKXAcy3sBl8d4X8bUBgVDQFDS2v3O+JdpRv3bzpRp8Slegc7//CLOI+be4/x42BWhskzx/cVes1ugUcpY1vRVQGLD2rvr08bKohFE2QGlZtSh4Qh1xtS/zS705lLknBaxwAwuSbkKy7OaNqpxaux4+rHsstQ0wi5vwBDJjwDxLJmmHh8feIjeL6cZ8M0cCxsStOkSr/cNTTU6/zaOkCK+uw8eM1DM16RWwgTUQ+s/A+YlspElbzsLZCICnokKDAwx05A/2pC9Ve/h028l+XfwA9yEeo/jDHNo6UL+b1Yy2XYOhkJzAKibyPpKZMX6AB4zoBcfUR8ypRMr/J9OLUn9iGg5H9DoV7SFIwzCwjwtkyRw==;eCElMMD5iEyfxHiJnhOkvw=="
 ---

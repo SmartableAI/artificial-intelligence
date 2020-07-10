@@ -234,21 +234,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla May Be Closer To 'Full Self-Driving' But Drivers Won't Be Anytime Soon"
+  - title: "Tesla May Be Closer To ‘Full Self-Driving’ But Drivers Won’t Be Anytime Soon"
     excerpt: "Tesla CEO Elon Musk informed the World Artificial Intelligence Conference in Shanghai that Tesla would have “basic functionality” for its full self-driving technology by the end of this year. What he didn’t say,"
-    publishedDateTime: 2020-07-09T21:29:00Z
-    webUrl: "https://jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024"
-    ampWebUrl: "https://jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024/amp"
+    publishedDateTime: 2020-07-09T22:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/tesla-may-be-closer-to-full-self-driving-but-drivers-wont-be-anytime-soon/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/tesla-may-be-closer-to-full-self-driving-but-drivers-wont-be-anytime-soon/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/tesla-may-be-closer-to-full-self-driving-but-drivers-wont-be-anytime-soon/amp/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
     quality: 56
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/rppwohn8jijnv0nyq0c9.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/rppwohn8jijnv0nyq0c9-1280x719.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Elons Musk Is ‘Extremely Confident’ Tesla Will Achieve Fully Autonomous Cars Soon"
     excerpt: "The electric automaker’s founder and chief executive, Elon Musk, claims the company is extremely close to developing level 5 autonomous driving technology, which could one day be implemented into his vehicle lineup."

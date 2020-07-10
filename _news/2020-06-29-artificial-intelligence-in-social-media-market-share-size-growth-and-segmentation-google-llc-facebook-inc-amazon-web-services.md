@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services"
-excerpt: "Jun 29, 2020 (WiredRelease via COMTEX) -- The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in ..."
-publishedDateTime: 2020-06-29T19:42:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29"
+excerpt: "The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in latest years."
+publishedDateTime: 2020-06-29T10:17:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29?mod=mw_quote_news"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "berP5QlJA0ynxvot7Tp5OkP/2Tjkn0DTlaL0MYPxDYWPgiR4aMA7tI2A2fOEk9zNAnK8iZmvkpacieWBgNxlCib27t7D1n2qsnfpIW1sQqeKQp78xgaO51ortfUXM8uMpYscFsFrdrQ3/+GKCuVQiNsltMWxBSv3QU18UkiWfZjJRDGMwirrQDWfWrBQBfwO5+RnE0ClwW1BcBliHjzP46vkO3HAHSdmvpOrtqTHjea4c7VjP99zFZxu/amJcsDSgPseT0UZuXognXcNiolr8uCGE2sC1Hl3XwhbveAlrQq99c6rKqgiOfGc6nLU7znPfEXwyz1OivUCvjV2c2Ds0g==;ZH58KqOr68P8PTRmfxYQxA=="
+secured: "K5Xmov+/Qj3UxaEtAFseZBPe4NNTWRC+SIAqq52ndFANbJ5AOVv3btyM/bBMG3B+6fdk3w4fSwus71OiYF8J0fLJ9sZtTiFPYP9+p5AXz70zn0msbmS0g8xHU+SSPjFOJsOLewr75Ct1VxfdkofP0LlV3EEihijXQEVNmmcC0HTx2CIo+R7WYfVrGXhRcjO2HmP/GVy8OH0O/JaSkHYmrXM/NWezYBSlUuJUVDgmUwjFLsqc/iksW2OSHvqP6LlvO9jCeyXka3xm3jwortHxUZYW9BY9+zibnFW/4jekGx+5TE9FtsquqMlW2f/wtOYeE5xbr5WFL19kkyUoEP1uAA==;9H0Q/FMZ6zBu0oWZipFdHQ=="
 ---
 

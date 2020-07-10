@@ -77,6 +77,22 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
+    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
+    publishedDateTime: 2020-07-10T00:03:00Z
+    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/"
+    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 54
+    images:
+      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
+        width: 960
+        height: 600
+        isCached: true
 
 secured: "WCbIAG+OGzPeLHolLYrBcpqQdfW2ZyZ6xxdOf6dlx6ZNcNIpgWdOXhdL/T8llVpgmpXg2SeC9fs3agnCYui1zvVkl+2DUPCFVt1WhqZ/cHc69Q4/0IMwDWGqXcPk1PxnqR4zEuPHvalWR3pnWUb95FPqzRk+v6ufE/HsOTT8VkOcgc1txLY4neKMplO9k/ffjg9ehD2eyjgKCnn2T6X/oPhKHAK3EBKkPPGF5/MHLobMpJDK7t/NyEZ8O3hRvwsxS7tft22XRphMSiEckQ7RT8cQwUU+fLzF15/kq4xoxC2C/56Dt/U5VA2gtdETLpc8E7y6ztaeaMBGlXgry0sqpiv6xW7EU1BbWa52VfHvLcd6fD3WH0+DhrI/yEei31/vfr50Bm8Ov9q+ydi90lhEu4GtpvEgFsDA78LZahDhYJV/1WZ9oQxRSx9tYMV2x1toREoHYjx42tSrCiTr+6wPyYPhQC/e2uUeISs5/qpTfLFVmgZC5ySlxIkM68gbuLEyDWchHMHKnoSWJjLLdHR/uw==;6U6DSKzG1VzNNKR/sDYw/Q=="
 ---

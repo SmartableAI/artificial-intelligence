@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T07:27:00Z
 webUrl: "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon has plan to keep Zoox talent in competitive self-driving world"
+    excerpt: "Aggressively expanding into self-driving technology, Amazon (NASDAQ:AMZN) announced a $1.3B deal on June 26 to acquire startup Zoox, which is set on designing a fully autonomous vehicle from scratch rather than retrofitting existing cars."
+    publishedDateTime: 2020-07-10T08:29:00Z
+    webUrl: "https://seekingalpha.com/news/3590111-amazon-plan-to-keep-zoox-talent-in-competitive-self-driving-world"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "TStI4owNWtgNLuOx7V8esrHB7Q6mmvy60oKooORbY3Wkz9O2XwoDgRAy1PJMUL2R3vVpKXeawpGRxCbCQR0CimJIo4wkMtnoDi0d0FwCS7GMyqqgoJ6fgBnVOsWRKRU/6PUwBJLMYJitP98A09PVgkOls4Ay8OIe3QYX/EUyHip10QLl8K9a0TWWK8/ppr+nF3E4JL7XtqCDnGrYh5KBtlax1p3D78Pf+Y8mIMvYxvDdeNiU+9KApArrQDfte7Oq6TR6h3fOUYADEIXeQCxjBIXTaZVbpzHRFxCXvmJ9kjWmaOpI5+L9A99PADmqGWZ+bqJ2770v+0tj31989FGcuQ==;awX7KreJtdka+uDb6HZr6Q=="
 ---

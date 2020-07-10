@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Tesla May Be Closer To 'Full Self-Driving' But Drivers Won't Be Anytime Soon"
+title: "Tesla May Be Closer To ‘Full Self-Driving’ But Drivers Won’t Be Anytime Soon"
 excerpt: "Tesla CEO Elon Musk informed the World Artificial Intelligence Conference in Shanghai that Tesla would have “basic functionality” for its full self-driving technology by the end of this year. What he didn’t say,"
-publishedDateTime: 2020-07-09T21:29:00Z
-webUrl: "https://jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024"
-ampWebUrl: "https://jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024/amp"
-cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024/amp"
+publishedDateTime: 2020-07-09T22:00:00Z
+webUrl: "https://www.gizmodo.com.au/2020/07/tesla-may-be-closer-to-full-self-driving-but-drivers-wont-be-anytime-soon/"
+ampWebUrl: "https://www.gizmodo.com.au/2020/07/tesla-may-be-closer-to-full-self-driving-but-drivers-wont-be-anytime-soon/amp/"
+cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/tesla-may-be-closer-to-full-self-driving-but-drivers-wont-be-anytime-soon/amp/"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Jalopnik
-  domain: jalopnik.com
+  name: Gizmodo Australia
+  domain: gizmodo.com.au
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/rppwohn8jijnv0nyq0c9.jpg"
-    width: 800
-    height: 450
+  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/rppwohn8jijnv0nyq0c9-1280x719.jpg"
+    width: 1280
+    height: 719
     isCached: true
 
 related:
@@ -329,6 +329,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "nTYY9rj5ROD9mzdfpRN7Z09RDzIWEIQRpoQX9TCtxQZ4JmT1DoljytIX1r2g6m1ZL8VeUf1u3ExOGBkTRX48l4iiw+f/2fQLuKuU1vw3HHNLurFhRxJqvDQbRD/atHXS+dwN8icTasr8ZkiXzcIr7fFC58OmupKSLk5K/2mPNvg93oXtGPhIFz6zrfmW41RYKk+oSYceDddpxOxfg5/EoP3oWH2ywBWTITBXlQRm9Jpv4s9cwhcSmBh/xOOSqCbddsNM25tNZgg1U3iftcSLLjv7CVJwrNRqLp8JAyZRWtpww219c4l440diDQ95ZpahfEV/851QASK1nXC4qcgFIQ==;ee/h06mWNuW1I3NyJeEStQ=="
+secured: "6748VuExcSRXHNSyZ9DXYjDtyDF+/Pww0RHKSi2O9SZwUGdVW9f7zjYoZZ63VOp2Xwr13VRq3xqjXfa+tKDh0DD9yi+02oy5IPqDbo1+TTDhiSgXT5ulwHd+D0BCcIyqqpGIaFEDf28rvWA6V9E/+5IW4U9dRnTw0IGDpjjUouCqRN1sapNLOWSI/CUGfHbCShBNyCPwlGQt60WPpM/wuy2Hioq4JkEtWl7BQ35/QvyAfQTSHswNP0t0BDROD/2zr2b1kGDvuGv3/SUVV6Q9e47raSYLJRWuKq/FnSjunfZ43h+jj277cSj6VjVv0rQI3zIQ0otB5XG1+4LIEYvU5A==;QDaXomWWf3/eYe6DeRm/7Q=="
 ---
 
