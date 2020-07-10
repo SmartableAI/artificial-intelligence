@@ -40,17 +40,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Are Sensors And Artificial Intelligence The Future Of Ageing-in-place Technology?"
-    excerpt: "International research[1] is clearly showing the value of sensors in a private residence to extend the amount of time a person can remain independently in their home for longer. SECURELY® is a trust-owned New Zealand company that has a range of products that use sensors and artificial intelligence to monitor activity within a home."
-    publishedDateTime: 2020-07-06T04:07:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 32
 
 secured: "62efOqGGI4Yml1njKDU/A4Bz5olEsvjsRY7Dv12RkyutvwLKmhiuplYMBLKlQC08AzIcHqKKp3l3W7JsmZm62I5Xiw7l2mD5cC0JP46wT3unxOcuiLc+JR3uNk3LQ5rN76OiDW5j8ep0A+55bAXVyiP3GTuwON2VrpQ2BH74poMyqaKfWzd0GbE+RaH/3Yt5HK+KMKMTtZwLJjPcT9p2vA1xtUMtvyrel55IgvyrEJpEHcNYj/3v3RJ5VS8IrTwMQQgccWSvlvrwzG/HLhUnvwwyTpBzuShNhCny3cw5pGSXEvvc/EmusSATk3gBIUicV0vUh4grQricw+rdw+Mw/g==;oSgEzt0c6Ttdf297hf06Hg=="
 ---

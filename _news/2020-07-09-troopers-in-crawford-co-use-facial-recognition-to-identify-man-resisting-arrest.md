@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
+    excerpt: "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,"
+    publishedDateTime: 2020-07-10T21:50:00Z
+    webUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084"
+    ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 79
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg"
+        width: 800
+        height: 449
+        isCached: true
   - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
     excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
     publishedDateTime: 2020-07-08T20:07:00Z
@@ -40,49 +56,37 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
-    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
-    publishedDateTime: 2020-07-09T22:33:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
+  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
+    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
+    publishedDateTime: 2020-07-10T20:42:00Z
+    webUrl: "https://www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
+    ampWebUrl: "https://www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology?amp"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 52
+      name: Common Dreams
+      domain: commondreams.org
+    quality: 57
     images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
+      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
+        width: 288
+        height: 342
         isCached: true
-  - title: "Boston City Departments Can No Longer Use Facial Recognition"
-    excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
-    publishedDateTime: 2020-07-10T08:04:00Z
-    webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
+  - title: "Can a Police Drone Recognize Your Face?"
+    excerpt: "using ever-more-common police facial recognition technologies. “Drones … represent the power of new surveillance tech as deployed by law enforcement—a new future where they have at their ..."
+    publishedDateTime: 2020-07-08T19:15:00Z
+    webUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.html"
+    ampWebUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/07/police-drone-facial-recognition.amp"
     type: article
     provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 41
+      name: Slate
+      domain: slate.com
+    quality: 44
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
-    excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."
-    publishedDateTime: 2020-07-08T11:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
-        width: 600
-        height: 595
+      - url: "https://compote.slate.com/images/af972d82-7cf7-4305-be16-178c6f7ee418.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
+        width: 780
+        height: 520
         isCached: true
 
 secured: "NXGfA0+DiY8IBov6RckbWnwsj/19TLvBjp+JSmtDtMfhdt/4o5akPpzs1ftHrCv4gZAZ7bs7Ht7vPaIGRdyTJsfxa2dVY8dg8w/VJnvEoeYb4CaSGMYTfHlr3DjgtIN+fWP7CLJU90ygENUahlQyJTEuBTA4mqgndClfItSFFIC9LOiVkXJPpfqAoqkbjNtNKO0LVwOPav+GSeeyPoB5/5B5gJKOT4TRnOyHsjstdWJJj6Td2yG0KmqOWFyIhgqIsir0jtetx7jRs0hy3nN2Oty1k/A8QrSFNPriBlC5SFhIcKgrDkzlDQS/s1Nd3bqc/hTqrEaDWZ1hVakjEejU0g==;LPjykAattvbcKTR2cuFwzw=="

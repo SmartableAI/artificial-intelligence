@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084</loc>
+    <lastmod>2020-07-10T14:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/</loc>
+    <lastmod>2020-07-10T13:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/10/white-house-advisory-council-calls-on-u-s-to-increase-ai-funding-to-10-billion-by-2030/</loc>
     <lastmod>2020-07-10T12:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -57,6 +69,12 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092740/data-privacy-concerns-weigh-heavily-chinas-ai-leadership-ambitions</loc>
     <lastmod>2020-07-10T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
+    <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -325,6 +343,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/</loc>
+    <lastmod>2020-07-08T17:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume</loc>
     <lastmod>2020-07-08T17:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -363,12 +387,6 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/giving-your-content-a-voice-with-the-newscaster-speaking-style-from-amazon-polly/</loc>
     <lastmod>2020-07-08T13:29:20-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html</loc>
-    <lastmod>2020-07-08T13:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -703,6 +721,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/</loc>
+    <lastmod>2020-07-07T04:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/</loc>
     <lastmod>2020-07-07T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1003,12 +1027,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.news10.com/news/technology/israeli-uae-technology-firms-pen-deal-on-virus-research/</loc>
-    <lastmod>2020-07-03T08:56:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://techcrunch.com/2020/07/03/we-need-a-new-field-of-ai-to-combat-racial-bias/</loc>
     <lastmod>2020-07-03T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1029,6 +1047,12 @@
   <url>
     <loc>https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&amp;itm_medium=content_marketing&amp;itm_campaign=content_marketing_leadgen_link&amp;itm_content=leadgen_teaser&amp;itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&amp;vertical=fintech</loc>
     <lastmod>2020-07-03T05:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://wgnradio.com/news/business-news/israeli-uae-technology-firms-pen-deal-on-virus-research/</loc>
+    <lastmod>2020-07-03T01:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1285,7 +1309,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&amp;itm_content=2x4&amp;itm_term=2356592</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=22&amp;itm_content=2x2&amp;itm_term=2356592</loc>
     <lastmod>2020-07-01T10:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1747,8 +1771,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1839,12 +1863,6 @@
   <url>
     <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html</loc>
     <lastmod>2020-06-29T13:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29</loc>
-    <lastmod>2020-06-29T12:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1995,6 +2013,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-06-29</loc>
     <lastmod>2020-06-29T03:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services-2020-06-29?mod=mw_quote_news</loc>
+    <lastmod>2020-06-29T03:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2271,6 +2295,12 @@
   <url>
     <loc>https://www.nytimes.com/2020/06/26/business/amazon-zoox.html</loc>
     <lastmod>2020-06-26T10:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.technowize.com/facebook-releases-ai-development-tool-based-on-nethack/</loc>
+    <lastmod>2020-06-26T10:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

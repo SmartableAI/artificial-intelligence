@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-07T11:16:00Z
 webUrl: "https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: InfoQ
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AWS Announces General Availability of AWS IoT SiteWise; Dirk Didascalou, Dr. Roy Sauer Quoted"
+    excerpt: "Amazon Web Services (AWS) has announced the general availability of AWS IoT SiteWise, a managed service that collects data from the plant floor, structures and labels the data and generates real-time key performance indicators (KPIs) to help industrial customers make data-driven decisions,"
+    publishedDateTime: 2020-07-10T20:57:00Z
+    webUrl: "https://www.executivegov.com/2020/07/aws-announces-general-availability-of-aws-iot-sitewise-dirk-didascalou-dr-roy-sauer-quoted/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 23
 
 secured: "kzkXJ2MImmuOg523hoCGxT3Ta9/hS5PnWH2ra3e48jbiv+vWOA0WpaPxv1Pw9hVKrIQUunN+makksEavNL3p70uOAz8Q6kwCWbZpxMnmfdksbM5mLXdtHUKJkwZsKDBijeljRk4CL1pwrqGEszD9rpjiCziEQZzUyFnBbSvN3VtgQQlfWWRNHq1+NcpiT5v7DqaW04IJz5g0RFn+LnHKrFeqeeEN99+DMTk7VLXhF0589TvFGn04rOPN0sy5ItauH7OjCKuruzSjpmQrkwzDtlxtsaghq8NluJc0BOj94vvRKDB9vqbMNUckYBbmV7Q/t/L6Mk/lULnJoBeDl8T6uFvECPAYQZWZZEkjnBcRkrt4fCeLsqZmBv4FyQMaSddYACV5z/aE5GKqgJj41k9LhCPL+dC6WuKqIi9e6yx0wCVeRjuyPrKhhOth3T8Dn+L6KiH5ZhBUCn1B3klQ18Sgjs8M+qwpQ6ZUMvlYz4o2Q9t+rlZKneh4mplkmmzyjzwernCf9j8g92IQZZl+aYWoew==;ZTC+iQcJ2Nj+PWTvLqbE1Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
-  - title: "Are Sensors And Artificial Intelligence The Future Of Ageing-in-place Technology?"
-    excerpt: "International research[1] is clearly showing the value of sensors in a private residence to extend the amount of time a person can remain independently in their home for longer. SECURELY® is a trust-owned New Zealand company that has a range of products that use sensors and artificial intelligence to monitor activity within a home."
-    publishedDateTime: 2020-07-06T04:07:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00100/are-sensors-and-artificial-intelligence-the-future-of-ageing-in-place-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 32
 
 secured: "WKBl8RZnWvNpyKEwJAviSiMNVOmSREONDkrFdcK03iWmik3U5lqDVbKS4pGw9Vev764X2iw5E60isn39mviWoYOY5D4RvRZYnCxwvCyi2DOUPNSXcSFRZbTaG0Pl2KSTJRrm2YQZAvc2HFQ9iX7G9ge362KVXZpAAUhlWmTh+YB0YVScnbXfaSjGC7Trx2CIhGN/MsavrpGoZOenSLipbxIzxyeqI1FMBKvo2WLYmJi1YLO7tfqZBO2G6TGuGTvg2RlDhy/6sLFh2yiCMFBSR7BeF/vmgkKJpWSQkutXcsuzJHaHJR2PcX6Kx5BgySnCpvANDSbn8BKiE+4LAFebYiD7AngjCoGvHl3h4SUCpY7ngpkeQ9NjKcUQ4/vhY3EbUWsvlU/d39jZ8e9sHxc8aJrQqfI9C0ffOhQhoVenDL/dOwzRHPYLhTIe8dD6GtZWh3K+2qtOBdw7+ridVbg3paG/nHB/i+yzcaQLHqoO/0l58X124OHNu+eBbfb9PKvF;7kMl9nZ4TflAKNTSM6/09A=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "Facebook study shows how social media may influence our vacation behavior"
 excerpt: "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations."
 publishedDateTime: 2020-07-01T17:56:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x4&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=22&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 type: article
@@ -20,12 +20,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/tax-season-travel-splurge-vacationing-at-gili-lankanfushi-maldives-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "X40N1z/E+gL+peh2NjYh34GGFjoCZZmSoeFB09OLgT7eAjtBsdv5O9PQobw7yDlNVXE9tZR9AuSnqdR53exKRuur9c5PDwVawH9JmByYjSm0N9N7mCukgqskDra5thX9Jh2h5NcNAGFBi8MTlXSY/lcRIF/vYtvXwA7auLB6gy+952A/cA3zJRqm1gAzG7Xn73nuW8FiSmecdTFeffugEiFf1tJyolEPfZnJv053y5nopQ6CUN/8VINiO3XTeTfwK/DqY5H3IUJm3Gl0aj81WE+avChcmT0+Iwxk9gv5lAZc02cutzV+hjpbleE+T94vxSwqE5wUEJIOwaciclzUEZ4xQNF2Kf59P8CPyi1nasLn5Se70F/ves8rDvSz0C4TyPBJ5zY0voRUtBF8wTR/sdE91VorbhoJTETupqF/6fUSkj1hFgXS56ntd5cUKg9CDWMO6xkeqXvDUwBlHkVSqs3O94Q6lasdTC13ALUyyt+Pt0ZCc8VPZgpmfLVNe9PrFN/y3FRUIZ1Oa3RoAlCKOQ==;1NjGEmNXikVtrEIqjaSKOA=="
+secured: "ZLgIqAVoKnqy3djXu5NF32gZ/P8u1/4UBM8+0XgzxkTAQsZQ4NQaF0iQW7ZF32x3owQmQmy5wy5rpaGmKq0fo4zQ7pLgmH4od+fVKXbtB3F8Jmyt2vb4N3OT1U12pF4ZaSg24WoGL+hE1m7Xjk0V77OS1ngHkZxXCku+iTIaWNpPxmZ1HhaMD9H1UJF410ApZnCxoqtAhZ8CqRNC0R8eHnAcFDLXbpVz6ZyPA3HAr7pheJXIFXIDclCz34xzwN/fe/CCdTMUH/ZMrFQ04/MKc9CVQUASnVgNUR3N7CcytcktNgTz8T8zvq++WUFg63Vnsd6F1QVLCN6ZXxPQy/bj6eisiTwQ6kYDxXDA5L645OXVtcrzvtFaZo6W1HALrlz/GRIJBRAReBGg/SEeq51EUeA12ATUBkYyciXS6b4XSNOHXAbYlH+N0ZhzrdNfa8qffHiRCZNISbdEo5lSAzF4ucB0k4Au4akMjS5Hx6VnCi4s5cIZ86FKyloLTBGuFxMrgv3NDCtYI+SneJuhQ2Q50g==;kTjRi3ZNNo/usxytOkc7DQ=="
 ---
 

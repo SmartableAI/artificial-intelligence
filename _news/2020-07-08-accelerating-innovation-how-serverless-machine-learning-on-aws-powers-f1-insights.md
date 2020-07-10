@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T15:52:14Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/"
 type: article
 quality: 83
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 501
     isCached: true
     title: "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights"
+
+related:
+  - title: "3 Considerations for Leaders Investing in AI"
+    excerpt: "Compared to other industries, manfuacturing is at the beginning of its AI journey. While artificial intelligence (AI) has been prevalent in industries such as the financial sector, where algorithms and decision trees have long been used in approving or denying loan requests and insurance claims,"
+    publishedDateTime: 2020-07-10T20:25:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21136439/3-considerations-for-leaders-investing-in-ai"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/07/AI.5f08cb3b38379.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 665
+        isCached: true
 
 secured: "EEVfO3hGIafzIMMBwN5iFiwHZBQE0Kf3GBaXPPQGQDqDIwgaRSw4LYyqRIeixHIUEtpkbDMqindQAMdNlm5In/Y+4JAk4t1CuftUIDpUKjr53WX7vx1PxT5gZiYB3ZGJImlhUcrq5TpC51IpwsbFafuzj8VW4ENWbjF1gJO1k8ov7vQ6E29hb/9/fFViKWvSUQuahayhZHxEB/IWE2c7jSWqC0dyLMnasK2E/Ublb7e/viVBHeKoZX0qZwMTSC9anBQITPiRvwZmuLgMr/UKGbY06F42hzU/4fEagu4ysWJ2ZuGDVQm/lua+uk5Sa6rX7mvEZ3UNyHx2qTI8Oqj9bg==;IBLpw+hVJ911/sznvF9x7w=="
 ---

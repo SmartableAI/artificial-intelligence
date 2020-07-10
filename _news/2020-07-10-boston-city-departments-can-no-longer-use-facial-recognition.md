@@ -25,65 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
-    excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
-    publishedDateTime: 2020-07-08T20:07:00Z
-    webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
-    ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
+  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
+    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
+    publishedDateTime: 2020-07-09T00:20:00Z
+    webUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/"
+    ampWebUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
+    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
     type: article
     provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
-        width: 940
-        height: 627
-        isCached: true
-  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
-    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
-    publishedDateTime: 2020-07-09T22:33:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: NBC 6 South Florida
+      domain: nbcmiami.com
     quality: 52
     images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
+      - url: "https://media.nbcmiami.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
+        width: 1200
+        height: 650
         isCached: true
-  - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
-    excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."
-    publishedDateTime: 2020-07-08T11:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
+  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
+    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
+    publishedDateTime: 2020-07-10T18:56:00Z
+    webUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/"
+    ampWebUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 52
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
-        width: 600
-        height: 595
-        isCached: true
-  - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
-    excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
-    publishedDateTime: 2020-07-09T15:36:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/troopers-in-crawford-co-use-facial-recognition-to-identify-man-resisting-arrest/"
-    type: article
-    provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 34
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2020/07/Sutcliffe.png"
-        width: 1920
-        height: 1080
+      - url: "https://media.nbcnewyork.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
+        width: 1200
+        height: 650
         isCached: true
 
 secured: "QiGrQoOjnt9MMgatd2irXcGC/Gn0CMrESVuAaEbY6BwCz7gAgpuyR44uJPPA9IYYeeAZQU0aS3+y9OtvxvOfRFpD+LhPLqp98GQ4oP4pf+LsAbRbZxqf1OJysXjxRHmCVb5RffS0DS9HawLJBVx7ymP6Jhb/GCcemxasG1/g6ahWWJ+YaWJD9NDbo/9EMszgCl/0k+rgI/0ObiNFhK54jZ7P9wbPA3x+SsSXWCKzm0OJ8GVH13LR1FOPV2Imbc0geQYc4/67VU5UfzU0NelcDYvjuXBYc4g8DIA4yRSeGBysZ6jx9aRJkRfD5UmZ1+ZQFSdY3o38uQPOptgiEoLt5ZmDE9XpSRQ0oYdp2dfvoWVkXOzGqfrbXCO0EjWoae9dI2fKx1NjodRfY0ZMMopBsfY/hmRw8fZqr+6zws5TZWJoGG5qh2+lznz+Qc/DGcg3rc/xE5IbF49P0Q1RS1D2Tj5eV6QlLPM8ZwR44BZ9nZWEvaOog7FZIkW5nroWN5asjOtUHrEYoamxIVIUF21FsQ==;SWe2ou50q2ph6WgFv5frIQ=="

@@ -42,7 +42,21 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "Boston City Departments Can No Longer Use Facial Recognition"
+    excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
+    publishedDateTime: 2020-07-10T08:04:00Z
+    webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 41
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
-secured: "qUeF5wSbKOPpUKt5SYDQjgCnVd2L3vFn0u3VyFpyYsqpdW0gFCbyjQn+dVwUNZxfkXiQwtndd+spUgMCd3PLwsX2DPqbqyzWjQPKLZ4+5F8HZwMVgArg3tbbH6v0dYp+da+c2jT6FiiWx36IHzc+1Phb/uBS6QZjSIFyrR8LYL0S5CqwK9vVreMFggE1ht2/8w2ixMxRUmAQfrDr8v0F6E1qK29joxyZkhfBk0ij3rCbHKUuBbQQVNJ1HXbxpFqR21tYdTbsS4QunXHj6d7F30iKcLvVpIJ6MohbNRtaegPzRdHVoNi4s7vPOzTFwvHEJQtpcbbPU1/3fVa0sTa8Jg==;UBpyiKxirA5gS3vyuPt6bg=="
+secured: "lW7UMWUQCuBe6h1RbfiwpkodU9LZ4BGuHYIsC3OgSSXyBE56eEcH2KBx9IF+/EW1kDGOP4Q2vc4UvLJmeJUGFjGy/XObeXh9K4cpsSzri9byFFIqmF0oYJ9gTN+IAKo3PFPe7tf/9VUNCAcugTmyjm9pXsfAL7SQzVEg2tTSK7cZkgxnnCWK4G6Jtz3wkUsrHq4FzMEwicO707JZXLShnseVihWR1lLfcVAW1XvW8BKm9AUu8qkVayYmPMWWzGjxWT9XegA0J0r0P/0fT7iZkIYF2/vED0ZReqYIpAjq+Xh9vcdMyavUWhyxrtnk0DFsgyuITsgwidaWAsY8Old/qET75WdfvS98F1oEdbKJOY3l0ppRbXJ4T+mNZ0Unno6CgA8rB5gO7c1US7IBQ+xqwbV+No9bHaUfQpLil5Q33tioIchCOFDr/M3NIivLhV4Y4jbEfFk8SN+sWsIoWqFhIyiMnUaE8PU5evluVys3RVNPLYQCs+45S5/PvYWlhagtk+Lt1ZFPBd3WI7C3E8SbLw==;ewhR8AGYtFKec6bpLMzO6Q=="
 ---
 
