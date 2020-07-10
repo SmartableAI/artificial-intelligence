@@ -2,6 +2,38 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-05-deep-dive-leveraging-authentication-and-machine-learning-to-secure-b2b-payment-apis.md",
+      "title": "Deep Dive: Leveraging Authentication And Machine Learning To Secure B2B Payment APIs",
+      "excerpt": "The following Deep Dive explores the threats fraudsters pose to B2B APIs and the security methods FIs are deploying to stop them.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-05-deep-dive-leveraging-authentication-and-machine-learning-to-secure-b2b-payment-apis/index.json",
+      "webUrl": "https://www.pymnts.com/api/2020/authentication-ml-secure-apis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/api/2020/authentication-ml-secure-apis/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/api/2020/authentication-ml-secure-apis/amp/",
+      "publishedDateTime": "2020-06-05T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-05-compute-to-data-using-blockchain-to-decentralize-data-science-and-ai-with-the-ocean-protocol.md",
       "title": "Compute to data: using blockchain to decentralize data science and AI with the Ocean Protocol",
       "excerpt": "The conflict between access to data and data sovereignty is key to understanding how AI works, and moving it forward. The Ocean Protocol Foundation wants to help resolve that conflict, by introducing a way of letting AI work with data without giving up control.",
@@ -1320,55 +1352,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search.md",
-      "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
-      "excerpt": "Searchable.ai is an early-stage startup in the alpha phase of testing its initial product, but it has an idea compelling enough to attract investment, even during a pandemic. Today the company announced an additional $4 million in seed capital to continue building its AI-driven search solution.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-04-searchableai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-BA60516.jpg?w=1024",
-          "width": 1024,
-          "height": 770,
-          "title": "Searchable.ai nabs additional $4M seed to continue building AI-driven search",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/04/searchable-ai-nabs-additional-4m-seed-to-continue-building-ai-driven-search/amp/",
-      "publishedDateTime": "2020-06-04T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

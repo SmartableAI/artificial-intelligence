@@ -57,6 +57,22 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
+    excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
+    publishedDateTime: 2020-07-10T02:19:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 57
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "PbnS/7UnDccPJhGgye2EU8ot/TT3B5A/TaGr93GQ1aUvRpeXa6j7iH685EzNFzYsnwAA+g7dJReh+48QAFHDUN1ahlATnnR6uSGrnppASgGWdug/qsGas/a3x/QUUF0HPY59bjylXA6utTHQlmOElVuDT9ZHY8odJn3V0xee3Uy7kT4HdYWQmBQrol1hiDAboJm0DbDzmsxuB0SBfmGigAihpGhT+395g6QyPv9irzmlIG7qODkYgpEjj47V3CtOFv4hyNF20PEKgoUcpcreDl7HCA40mnsS6xJg3ZFxyXCEyVVfJKQlhDZdzmmWw0/yheCDYElfhfoXaPYNcYX+yVdXmAgOJuKiIWz9akUIMZavkp+YMX9wBWY5CO5IY0c7RqnM5X+REqlTBBwSLvWG0x2gjFbnEnuNxUIcTD3sSJqdm1j/y3NW8iFOjPgv9TMlb4K0C98qJaB07ibd6XPkTnAIid931m2PKPb/Rh7lg/fvQV6iv8qbLe5t2GLP8Dh2ikebEskm82QrcvQOmcPDyQ==;1t0HkWOOClCNAzwuOBeWUg=="
 ---

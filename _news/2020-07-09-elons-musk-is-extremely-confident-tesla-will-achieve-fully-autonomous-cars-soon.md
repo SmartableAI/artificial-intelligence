@@ -90,6 +90,22 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Musk (again) says Tesla is close to fully self-driving vehicles"
+    excerpt: "The chief executive officer has long offered exuberant takes on the capabilities of Tesla cars, even going so far as to start charging customers thousands of dollars for a “Full Self Driving” feature in 2016. Years later, Tesla still requires users of ..."
+    publishedDateTime: 2020-07-09T18:20:00Z
+    webUrl: "https://www.aljazeera.com/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 74
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/7/9/b7e3be2604a94b2aaf232b1d6ce06683_18.jpg"
+        width: 583
+        height: 325
+        isCached: true
   - title: "Tesla's is close to nailing the basics on self-driving"
     excerpt: "\"very close\" to developing fully autonomous vehicles and could work out the basics of that technology as soon as this year. Musk reiterated that the electric vehicle maker has solved most of the essential challenges toward achieving Level 5 autonomy,"
     publishedDateTime: 2020-07-09T07:04:00Z
@@ -218,6 +234,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla May Be Closer To 'Full Self-Driving' But Drivers Won't Be Anytime Soon"
+    excerpt: "Tesla CEO Elon Musk informed the World Artificial Intelligence Conference in Shanghai that Tesla would have “basic functionality” for its full self-driving technology by the end of this year. What he didn’t say,"
+    publishedDateTime: 2020-07-09T21:29:00Z
+    webUrl: "https://jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024"
+    ampWebUrl: "https://jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-may-be-closer-to-full-self-driving-but-drivers-wo-1844325024/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 56
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/rppwohn8jijnv0nyq0c9.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
+    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
+    publishedDateTime: 2020-07-10T02:23:00Z
+    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Elon Musk boasts Tesla may figure out fully self-driving cars this year"
     excerpt: "ElonMusk says #Tesla is racing forward on Level 5 autonomy for self-driving cars, even as others in the field pull back on their expectations. #autotech #selfdrivingcars"
     publishedDateTime: 2020-07-09T12:31:00Z
@@ -267,6 +313,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "9VGD20YUkdF/epesC/iWh6dqEaMUKL1ReqYimcWVKOdiNvyxYlTpsQS4p+lo+hKmpas6ZI4YiSy0mKvlzdWrN6yZcMHoF4W4UdQdzhV2zlGVfXvV6ozVUKR+KnhcoL3F4nh3FZQNooB1QQH6aL2NrfRiNm+T6Oy9hdxpj8wY0eopkcnFX1ytoch3KUejRnQKeDWa6WabBSbGa+IkTa+ItACAYcfaHAeEcswLUwRMjIWQOdZ22pqgsiZMvUE4ASuQyoQvaZ8cFWLh8idzU3fq7mFB7yngwDBiTYVj0e/vr1m/sWFJ3ZqrC49EEJFY94KaplY1FDvcHajZDS42dAc+IA==;XMEKkdO05Y9x9GaaQMdtUg=="
+secured: "gxPRjzMHXB3HUJWQk3ikAWo+CiRpBtE7FB4YSPlTjLIH5jefDpYOkMopqMkasCGPlCwtaDHctUDult2eYBzsqvhyO+hnE1qC62Eii2972ClqEumM7RrFgIkd6T82KiwCSnQBF8P5y2Xsgr+nd64BPoMdv85oREik69dajoDDK8oDiyU6xRLxB9OtQD0e3VgV1X6c/fHidfV9eFuUdsA3h5orHOVjAxb7U95CWTzgLFkaSX2HjDlOltxjbCFR1MJiC2L0mc7Qo/MHO91zz7uKuXJRG+lkZH3x7hhqlhkSMqdNZCld5O/j8Lt6siJUyJVencERe1plWhuYPTCuLb3hoJfKtPm+qu7FzjtwY9n0V65v1bfCgiFbimqxbWAr4bEY4kVqHNiCAq5OYcbwnzL+liQL5O88JcwvOK7ncMpdSEIFJRZm7LmU4XF+6QJTs7D22thKiiS9KwOwG2oWRwnevGvntXIfs9nNNjw1HktDBk/NNMDPdsmZAdERp+d9fEp5ZkZKPad0tOlMvIC2gjnu4g==;rhh3dby4K7l8MiGUyLqeng=="
 ---
 

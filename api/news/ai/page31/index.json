@@ -2,6 +2,47 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study.md",
+      "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+      "excerpt": "We study spiking neural networks, which are systems that learn much as living brains do,” said Los Alamos National Laboratory computer scientist Yijing Watkins. “We were fascinated by the prospect of training a neuromorphic processor in a manner analogous to how humans and other biological systems learn from their environment during childhood development.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-11-artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study/index.json",
+      "webUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://starctmag.com/wp-content/uploads/2020/06/Artificial-Brains-Need-Sleep-Just-as-Much-as-Regular-Brains-Do-New-Study.jpg",
+          "width": 744,
+          "height": 389,
+          "title": "Artificial Brains Need Sleep Just as Much as Regular Brains Do, New Study",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "cdnAmpWebUrl": "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/news/artificial-brains-need-sleep-just-as-much-as-regular-brains-do-new-study-15081-2020/amp/",
+      "publishedDateTime": "2020-06-11T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StarMag",
+        "domain": "starctmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-deep-learning-robotics-granted-new-patent-from-us-patent-office-for-robotic-learning.md",
       "title": "Deep Learning Robotics Granted New Patent from U.S. Patent Office for Robotic Learning",
       "excerpt": "CAESAREA, Israel, June 11, 2020 /PRNewswire/ -- Deep Learning Robotics Ltd., a leading technology company focused on robotics and automation solutions, announced that the United States Patent and ...",
@@ -1259,56 +1300,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-10-google-updates-its-android-developer-tools.md",
-      "title": "Google updates its Android developer tools",
-      "excerpt": "Google postponed its Android 11 event, because, as the company rightly noted, “now is not the time to celebrate.” Today, however, it went ahead and launched both the first beta of Android 11 and provided updates about a slew of tools that should make developing for Android a",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/news/2020-06-10-google-updates-its-android-developer-tools/index.json",
-      "webUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/05/IMG_20190225_075928.jpg?w=1024",
-          "width": 1024,
-          "height": 670,
-          "title": "Google updates its Android developer tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/10/google-updates-its-android-developer-tools/amp/",
-      "publishedDateTime": "2020-06-10T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

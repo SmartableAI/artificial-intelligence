@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/ai-helps-british-research-center-use-m
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
 type: article
 quality: 76
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19"
-    excerpt: "Run:AI ensures that the AI Centre's data scientists can get the full use out of their hardware, guaranteeing that GPU (Graphics Processing Unit) resources are efficiently and elastically allocated to teams that need them. This enables the AI Centre to run ..."
-    publishedDateTime: 2020-07-08T00:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 42
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Researchers use machine learning to build COVID-19 predictions"
     excerpt: "Two assistant professors from Watson School build computer models that show 10% margin of error for short-term infection forecasts."
     publishedDateTime: 2020-07-06T20:30:00Z

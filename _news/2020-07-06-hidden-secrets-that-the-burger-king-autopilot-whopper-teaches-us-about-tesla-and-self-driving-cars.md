@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Forbes
@@ -24,6 +24,17 @@ topics:
   - AI
 
 related:
+  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
+    excerpt: "This column will discuss four self-driving car stocks that can make it big in the coming years. Let’s look at the following self-driving car stocks and the progress made in this high growth potential segment."
+    publishedDateTime: 2020-07-08T15:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Tesla Autopilot ‘Self-Driving’ Possibly Getting More Aggressive In Evasive Maneuvering Which Could Be A Hidden Sign About Level 5"
     excerpt: "Thankfully, no one was injured, neither those inside the Tesla and nor was the deer struck, and we can all relish that this story had a happy ending. What makes this story especially newsworthy involves the aspect that the evasive maneuver was conducted in a seemingly aggressive or blatantly assertive manner by Autopilot,"
     publishedDateTime: 2020-07-09T16:49:00Z

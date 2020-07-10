@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-18.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
+    excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
+    publishedDateTime: 2020-07-10T02:19:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 57
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
     excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."

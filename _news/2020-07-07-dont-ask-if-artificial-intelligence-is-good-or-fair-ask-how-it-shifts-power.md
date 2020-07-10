@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Don’t ask if artificial intelligence is good or fair, ask how it shifts power"
-excerpt: "Researchers in AI overwhelmingly focus on providing highly accurate information to decision makers. Remarkably little research focuses on serving data ... from Amazon, Google and Facebook to domestic surveillance and military programmes."
-publishedDateTime: 2020-07-07T00:00:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-02003-2?error=cookies_not_supported&code=4a0b6e08-1c3b-4ba4-8fca-037b7f19cc87"
+excerpt: "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired."
+publishedDateTime: 2020-07-07T11:14:00Z
+webUrl: "https://www.nature.com/articles/d41586-020-02003-2"
 type: article
-quality: 51
-heat: 51
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: nature.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -23,6 +22,6 @@ images:
     height: 576
     isCached: true
 
-secured: "wp1eoWYRiiXyhsKjtfRVurYH9ogsglkvMtLkIti2Y0IldL2EO/IszynsygHCUtgsrP0FxAwhDgoEppLIfaty8LjolbtcIK20OKUnt08p3MUbN7xI19KMYHyzCP3KjDN90kFd/hE51h89uII9cOp89C5v5gxYj0Ke0DhWauq4I7qVwp++AXfy+za5Ro7tIucRK5WxptX7s4E1FQ/thGhI+JK+P+cWEYpSDyZ06YWd1GS8iavkel9AOJy3FkZA8GPTsh7OqCyIpKcI+7P9fG9UvQoCBMS5HpV2gwdY+aemFxozIkZ8NLX54B8G+SybDWeXGLez4LAaL153mEPPzJFVog==;tyulVlW7J3BwDpkaBjF9uw=="
+secured: "c5MG7g0/+/pJW49e0KpZhY8VzaFxNkqrSI5z1xxo4xnAmwnUGp+26VALMFzJvo3iFHPYuPyn1QkIC8jY3vSDOvWZtyh8WWXxzrakq1tpeOEvCCGWMGGYMcL9zfTkgy9Ka6/7HElaocXkjUWpqgKR88Vmy30GUGjcTLSIRpv6fBHBjiM6/gwBJHRBQouqHf5s1hAVLgx3agTiQF27+7E4058ULk8lXyc0ocFGUlzLXCg6ng7XLSc0bW5E2Ox0amWyqq1a0495jg5TEkTCcI3gGk9/meOYEVsd2zr61U9i0DBzBjXMLzkvfxAPA/trotgFyTh474+XnNkyTriwkXb5Sg==;EBpiO4PKBtJPZRMgaLdLDg=="
 ---
 
