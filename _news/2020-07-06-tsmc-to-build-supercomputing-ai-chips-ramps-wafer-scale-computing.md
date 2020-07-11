@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-06T18:00:00Z
 webUrl: "https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: ExtremeTech
@@ -38,20 +38,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/06/Cerebras-Wafer-Scale-Chip-0819.jpg"
         width: 500
         height: 531
-        isCached: true
-  - title: "Highlights of the day: TSMC eyeing supercomputer chips"
-    excerpt: "TSMC has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips. Demand for such extremely costly chips may be limited, but TSMC looks to commercialize the technology in two years."
-    publishedDateTime: 2020-07-06T08:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20200706VL202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200706VL202_files/1_r.jpg"
-        width: 336
-        height: 224
         isCached: true
 
 secured: "+ES6g0jTGzWjEQ6OpLiCPiKc1SPEAvFNZnmFIynSkhsIfjojcFVAwKfgYSH4B8egsHU0+Qg98LgHo99xCDi+mL9v9fiNnBMrl+fQlMsrQpEFGnh0bnbuJCp+Bt68HZKwW68+86VrGGZQs6On8hwykUct13H1ysnrZQx7TSvj77PrxcqyOw6KoboASt2u8+lG2bv7xkN1vE7xXuPAuVFqgBFx8Sr6ci1u6vILxhSrEYTh5zKSXiCnGrscCnUijhWgKTaSNB47f4LJtEOsFasq15GaqEYQzvz/4atGI9A3N4gitubWjS+nRyq9zev0853l9RG6P2v58kWBH+E9WowSIJpyBW7N+1MuPlKmRG4pT07FV8d1AqhtLSsmBq9Qd3UNBXqteJBWJnsgoR8dgKzy1DeZlwGBX+9vLpzT7LtJkvCAfFgmS2R9KkBuaSOTgxRZj7GX7a0cP4Ilf3mE+YyZecuZg8VkFI9VEeJvZ2zZJx1LEYK9zvIr32kdBS7jXOwO3KSfaO2yZGnL6m3/HZg7Zw==;kNIcjvpMOoXZlrwCHZNjEg=="

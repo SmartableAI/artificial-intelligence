@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/the-path-to-real-world-artificial-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Machine Learning
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"

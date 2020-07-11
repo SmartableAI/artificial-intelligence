@@ -26,14 +26,14 @@ images:
 related:
   - title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
     excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
-    publishedDateTime: 2020-07-10T16:03:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5392166002/"
-    ampWebUrl: "https://amp.freep.com/amp/5392166002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5392166002"
+    publishedDateTime: 2020-07-10T19:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5416363002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5416363002"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: USA Today
+      domain: usatoday.com
     quality: 51
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/08/PDTF/a0a03277-dd20-4bbe-bd87-28406ce1ffff-07082020_mikeoliver_jh-5.jpg?auto=webp&crop=2399,1349,x1,y22&format=pjpg&width=1200"

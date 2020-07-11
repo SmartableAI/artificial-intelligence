@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Citizen Services Artificial Intelligence (AI) Market : Global Trends, Share, Growth, Opportunity and 2025"
-    excerpt: "Global Citizen Services AI Market is valued at approximately USD 1 billion in 2018 and is anticipated to grow with"
-    publishedDateTime: 2020-07-06T08:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/citizen-services-artificial-intelligence-ai-market-global-trends-share-growth-opportunity-and-2025-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Auto Night Vision System Market Growth, Technology Advancements and Future Scope 2020 to 2025"
     excerpt: "The global Auto Night Vision System Market 2020 Research report provides information regarding market size share trends growth cost structure global market competition landscape market drivers challenges and opportunity capacity revenue and forecast 2025 This report also includes the overall"
     publishedDateTime: 2020-07-07T12:41:00Z

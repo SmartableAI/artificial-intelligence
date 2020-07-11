@@ -29,6 +29,20 @@ images:
     title: "Deep Learning Market Size and Share 2020 Latest Developments, Top Key Players Analysis, Growth Opportunities, Demand Status Forecast till 2026"
 
 related:
+  - title: "Artificial Intelligence Platforms Market Top Manufacturers, Trends, Size, Market Share by Regions, Drivers, Challenges and Forecast to 2023"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence"
+    publishedDateTime: 2020-07-09T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-top-manufacturers-trends-size-market-share-by-regions-drivers-challenges-and-forecast-to-2023-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud Machine Learning Market 2020 Is Booming Worldwide | Top Key Players : Amazon, Oracle, IBM, Microsoftn"
     excerpt: "The report presents the market competitive landscape and a corresponding detailed analysis of the major vendor/key players in the market. Top Companies in the Global Cloud Machine Learning Market: Amazon,"
     publishedDateTime: 2020-07-07T11:52:00Z

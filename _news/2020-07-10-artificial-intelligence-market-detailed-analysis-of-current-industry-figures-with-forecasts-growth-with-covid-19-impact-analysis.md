@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Car Market 2020 Global Covid-19 Impact Analysis, Trends, Opportunities and Forecast to 2023"
-    excerpt: "Jul 06, 2020 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn"
-    publishedDateTime: 2020-07-06T07:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-2020-global-covid-19-impact-analysis-trends-opportunities-and-forecast-to-2023-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "0D6lK6FtwM+zGy/0QbaivNIg/angQCcKzalUcJUzxeubO9fO2ZTNBzwJfKXjuQCGNgcjUqR/N2J19gPe4SUkNTnDIgidYTIKz7fcA+8J0eLYDlwJanUn0lfVXubkpy1t9yd66dheptBlH1aWqRBaW3ZFMG5KJrJGEjBqYDOiY6/aCEHZuzw58zBx2cRXJtdlIh2juaM9gusy01AtKUxq0hh4SbRedaCeKw3pstn0Zg6ckiJDLioskHfhDnqN5Uuz8gggKgxrbRf9ZOqWJ3Y22ULlScgB59LC+3SZjXiXWoAc8/zoF69ZXKIFbqgqCZJiEI1i3o46a5TgV9nXZ8Y3vg==;QhGpkudBs4Vk6921hL9row=="
 ---

@@ -781,12 +781,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing</loc>
-    <lastmod>2020-07-06T11:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/</loc>
     <lastmod>2020-07-06T09:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1555,6 +1549,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html</loc>
+    <lastmod>2020-06-30T15:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/</loc>
     <lastmod>2020-06-30T15:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1755,12 +1755,6 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/06/30/mits-coronavirus-killer-robot-uses-uv-c-light-to-disinfect-warehouses/</loc>
     <lastmod>2020-06-30T05:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html</loc>
-    <lastmod>2020-06-30T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

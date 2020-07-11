@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Citizen Services Artificial Intelligence (AI) Market : Global Trends, Share, Growth, Opportunity and 2025"
-    excerpt: "Global Citizen Services AI Market is valued at approximately USD 1 billion in 2018 and is anticipated to grow with"
-    publishedDateTime: 2020-07-06T08:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/citizen-services-artificial-intelligence-ai-market-global-trends-share-growth-opportunity-and-2025-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Huge Expansion for Global AI in Healthcare Market Expecting to Grow at 54.5% CAGR to Achieve Remarkable Revenue by 2025"
     excerpt: "Selbyville, Delaware, Global AI in Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis. Global AI in Healthcare Market also covers top key players analysis and market segmentation in detail."
     publishedDateTime: 2020-07-09T06:27:00Z

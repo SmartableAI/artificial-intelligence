@@ -101,7 +101,7 @@
       "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -140,7 +140,8 @@
       ],
       "topics": [
         "AI",
-        "IBM AI"
+        "IBM AI",
+        "Machine Learning"
       ]
     },
     {
