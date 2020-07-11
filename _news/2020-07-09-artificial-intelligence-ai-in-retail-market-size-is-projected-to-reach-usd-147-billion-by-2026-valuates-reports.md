@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "SAFR Facial Recognition Now Runs On The AXIS Camera Application Platform (ACAP)"
-    excerpt: "SAFR Inside enables network cameras like the AXIS Q1615 Mk III to reduce video processing server overhead and achieve new lows in total cost of ownership. Take the example of a retail grocery chain deploying SAFR for mask detection on a few traditional IP cameras at dozens of locations."
-    publishedDateTime: 2020-07-06T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/safr-facial-recognition-now-runs-on-the-axis-camera-application-platform-acap-2020-06-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
     excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
     publishedDateTime: 2020-07-07T16:28:00Z
@@ -79,20 +65,6 @@ related:
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/07/07/NGbiometrics20200707/open-graph.jpg"
         width: 400
-        height: 400
-        isCached: true
-  - title: "CyberLink updates facial recognition software to detect masks"
-    excerpt: "CyberLink Corp. has updated its facial recognition software, FaceMe, to detect if users are wearing masks. The software can detect if users are wearing a variety of masks such as medical, cloth, fiber or N95 masks,"
-    publishedDateTime: 2020-07-06T13:32:00Z
-    webUrl: "https://www.digitalsignagetoday.com/news/cyberlink-updates-facial-recognition-software-to-detect-masks/"
-    type: article
-    provider:
-      name: Digital Signage
-      domain: digitalsignagetoday.com
-    quality: 39
-    images:
-      - url: "https://nmgprod.s3.amazonaws.com/media/files/6f/5d/6f5db33eb9f9e376da43e8199eaa1155/3/social_image_11.png.760x400_q85_crop_upscale.png"
-        width: 760
         height: 400
         isCached: true
   - title: "Facial recognition firm suspends RCMP contract"

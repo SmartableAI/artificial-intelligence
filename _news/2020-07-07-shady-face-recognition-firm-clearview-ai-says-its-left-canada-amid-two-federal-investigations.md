@@ -502,20 +502,6 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Big Tech's Wish List for National Facial Recognition Law"
-    excerpt: "Tech companies want a national facial recognition law that balances consent and transparency. But keep Illinois' Biometric Information Privacy Act and its private right of action out of the discussion,"
-    publishedDateTime: 2020-07-06T14:09:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/07/06/big-techs-wish-list-for-a-national-facial-recognition-law/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/01/Facial-recognition-Aegis-SN-Technologies-web.jpg"
-        width: 1016
-        height: 614
-        isCached: true
   - title: "Canadians abandon face recognition software"
     excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
     publishedDateTime: 2020-07-07T10:23:00Z

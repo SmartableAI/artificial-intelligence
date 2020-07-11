@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T12:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026-2020-07-07"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     title: "COVID19-Updated: Artificial Intelligence (AI) Market By Technological Breakthroughs To 2026"
 
 related:
-  - title: "Artificial Intelligence (AI) Market Opportunities, Business Growth, Trends and Forecast 2020 to 2027"
-    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\"."
-    publishedDateTime: 2020-07-06T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-opportunities-business-growth-trends-and-forecast-2020-to-2027-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "COVID19-Updated: Deep Learning Market By Technological Breakthroughs To 2026"
     excerpt: "As per the research held by Acumen Research and Consulting, The global Deep Learning Market size is expected to reach USD 56,427.2 million by 2026 with a CAGR of 51.1% over the forecast period. The market report provides an analysis of the global Deep Learning Market for the period 2015-2026,"
     publishedDateTime: 2020-07-07T12:33:00Z

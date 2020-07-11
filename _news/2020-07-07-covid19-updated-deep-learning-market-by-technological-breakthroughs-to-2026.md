@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Opportunities, Business Growth, Trends and Forecast 2020 to 2027"
-    excerpt: "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\"."
-    publishedDateTime: 2020-07-06T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-opportunities-business-growth-trends-and-forecast-2020-to-2027-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Construction Market to Reach $2.1 Bn, Globally by 2026 at 29.4% CAGR"
     excerpt: "As per the research held by Acumen Research and Consulting, The global Artificial Intelligence In Construction Market size is expected to reach USD 2.1 billion by 2026 with a CAGR of 29.4% over the forecast period."
     publishedDateTime: 2020-07-07T12:27:00Z
