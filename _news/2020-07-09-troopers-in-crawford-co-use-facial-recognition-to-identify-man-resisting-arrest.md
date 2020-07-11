@@ -40,6 +40,22 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Police use facial-recognition tech to arrest another innocent man"
+    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
+    publishedDateTime: 2020-07-10T23:08:00Z
+    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
     excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
     publishedDateTime: 2020-07-08T20:07:00Z

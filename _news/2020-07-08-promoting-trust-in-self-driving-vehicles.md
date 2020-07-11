@@ -40,6 +40,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Why cars of the self-driving future will be electric"
+    excerpt: "Autonomy brings efficiency in driving and battery use, while electric cars drastically cut emissions and fuel costs and require less maintenance LONDON • Cars are not going away any time soon. So, the ultimate green move will be combining two emerging technologies: autonomous driving and fully electric cars."
+    publishedDateTime: 2020-07-10T22:23:00Z
+    webUrl: "https://www.straitstimes.com/lifestyle/motoring/why-cars-of-the-self-driving-future-will-be-electric"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 24
+    images:
+      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/07/11/st_20200711_electric11_5807809.jpg?itok=9qH7ksbz"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "kqJPWpwc+Z1BAE5SF0M9xXySNnuWv8nAioLoYIy2H7Pu5QogivFIXxFSORfnjFrNpCbcvT6QL3xn0U6RYZsCvdc0B6Iy6+Dad0g72A+xyl/oX1PxCDzEmb/mi/J/tqjaATenv1L2aonp6rsjMDg/dbCXmZXLegUzTz4BIYR/Oh9ibCnHApihFdjsUlJdi8MsCtE+iC0IpHknf1BzUuI12gJOuzjyo1uvjI+5tHfre24foTn5Cs/9qq+WIcmNKTz31upkedGRCOPnUqPrVaNjlwOss7ZTGF+p7a5daxR/9h92m+lgWmmd1Dk/v8oLdlqrmd2mCuYHEHCl3YZL3ebBsxZcHpYk2Fk+GYKreQThBU1qvZAIyA57JhbVV90Je1vIhuQCk4wMUA5JgCDaBEXYF3LKK6tBjLhddmk4HV9SixFC9OUO9yfkH5nzsJOUZ1IsA9n7E0+Od+h+lXIaFRFWnSMj4h83Nw6pV0GTGfz5+NqiEP8+KbaGKnbxHjf4pHMB;LU1D+a1eotLrjWiKG34MVw=="
 ---

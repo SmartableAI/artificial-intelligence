@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T16:58:00Z
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence"
-    publishedDateTime: 2020-07-06T19:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_f3e949d6-22c4-5cd9-bfda-d9c125e452bc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
 
 secured: "qTEAU0Q0haZaMcEt5yDt/x5mlNcIyUJKVvkdi9Ndf2xCqo6qOeLMWdfusZ27rmHc/XSOARa0nqh9orS3V8r65o3H2SIw/2bchsmx98nIxsbbCOlD4kCxfexoQAGel/vXNuJdlQMMYtybbWI/AiKHhzWMbGz8JKAc57N3RX9t+xUJtTY4Gi8BKxiaTN9CtPSIUT7SvJy46HmBZtgoXVGuA9gddPPfZ3eB6XSBgsdvcxzHYUhMZ2k9AM/8PnnU+5XKW3TtiGTjGuLIX9dGCEd3m5vsOoBoaeXwvNGdn8LABdf2kT3l23BU8troSwHq6OT14uN7KSPZPBBTw1gTpOk//w==;i5Qq3KyxLLKi4ppu4PCP8g=="
 ---

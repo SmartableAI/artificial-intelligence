@@ -1,30 +1,29 @@
 ---
 category: news
-title: "Can a Police Drone Recognize Your Face?"
-excerpt: "using ever-more-common police facial recognition technologies. “Drones … represent the power of new surveillance tech as deployed by law enforcement—a new future where they have at their ..."
-publishedDateTime: 2020-07-08T19:15:00Z
-webUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.html"
-ampWebUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.amp"
-cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/07/police-drone-facial-recognition.amp"
+title: "Police use facial-recognition tech to arrest another innocent man"
+excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
+publishedDateTime: 2020-07-10T23:08:00Z
+webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
+ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
+cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
 type: article
-quality: 44
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Slate
-  domain: slate.com
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://compote.slate.com/images/af972d82-7cf7-4305-be16-178c6f7ee418.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
-    width: 780
-    height: 520
+  - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
+    width: 1200
+    height: 630
     isCached: true
-    title: "Can a Police Drone Recognize Your Face?"
 
 related:
   - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
@@ -42,22 +41,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg"
         width: 800
         height: 449
-        isCached: true
-  - title: "Police use facial-recognition tech to arrest another innocent man"
-    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
-    publishedDateTime: 2020-07-10T23:08:00Z
-    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
-        width: 1200
-        height: 630
         isCached: true
   - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
     excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
@@ -91,6 +74,22 @@ related:
         width: 288
         height: 342
         isCached: true
+  - title: "Can a Police Drone Recognize Your Face?"
+    excerpt: "using ever-more-common police facial recognition technologies. “Drones … represent the power of new surveillance tech as deployed by law enforcement—a new future where they have at their ..."
+    publishedDateTime: 2020-07-08T19:15:00Z
+    webUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.html"
+    ampWebUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.amp"
+    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/07/police-drone-facial-recognition.amp"
+    type: article
+    provider:
+      name: Slate
+      domain: slate.com
+    quality: 44
+    images:
+      - url: "https://compote.slate.com/images/af972d82-7cf7-4305-be16-178c6f7ee418.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
+        width: 780
+        height: 520
+        isCached: true
   - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
     excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
     publishedDateTime: 2020-07-09T15:36:00Z
@@ -106,6 +105,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "0vcM53H3i6eMQnqXAVex+rGa2D+lhg1diHFuz1q98n+h4kRutonIH1rtWAXoG9Wst2j1OqAIKU4ecU0Sxbe855HjPqqqmRFxQOtAdhtiANCFgUllsRPZJPv9I1+X5u5rwOTo2PAqvbl6FaVRCleln4oDDQ++IToOgblntq7CyK1vUCjfj5rMrHpIVdjxCo1eKmO0qScusXWLNFkbkCjdnv9IELpzACPk1H3PkVECIsZ5GFAB4eXH88vpq7BUgiruOoZTdCy14aOypCTx+4ByA5HZSGSvg7/woEBpruiuTop1G3VP4lxyedP2o8BfIPllrqFLBFD3eYhLQTRSPMsCFA==;YYBTEtGmSLZPC2AIaqA3Dw=="
+secured: "HQdtLQ3f9bGJlYjt/VDkhWdb5c4sKmqzy52OfTZuu2lXrpHmTRAITnYzhmDq98DyBN691G24S6BzZJbH8fB5OMPbMFL82RTs4PHppWEmOv8p6hXLqu0voYS839gcOfS/RgkhNdQFys0DK9tCahDkM2Gf8ADie+17Z93LmhfUR5z9o+MjcZrvC/U/DW+o9mXZcvbo/6RFGnR+Y4yrCd1xDMFOTJGJY2ixNxCiQb31eqlaOP/CWiOXYFeIiyp2eENGS6l5zao+NXbJQACA7I8tEfAdh2Ennsx5ZHyNrF/TNS4VOXWuzKMq+tCtGCSD49qTk7QGtpi3EUuFuUREufL3OA==;SdfhpwW1vucVr2bSwxrH/w=="
 ---
 

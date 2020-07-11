@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
 type: article
 quality: 79
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Police use facial-recognition tech to arrest another innocent man"
+    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
+    publishedDateTime: 2020-07-10T23:08:00Z
+    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 74
+    images:
+      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
     excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
     publishedDateTime: 2020-07-08T20:07:00Z
@@ -93,6 +109,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "lT1QFs9gpg7TVa1qnptnMsmGKEjEAeYkrQQPrW+IbNLCITt6y4Rl8yDO2qJMeNqLHmN0YlPA8QCFIUAX5/bRaNjV7dae4iuJCceA6xjOO9G+QLTOeGi1OtyVD1rStAYgLXn7YR0ZZry78GyDB+1cPIZ1CBPlVh9/UL3iD4v+u6OrPT20Z0DDKHLYCMt8eo2Ks9LofTCeB55f8vFmQYlZr7HKFRktaOsrm6vdnnLBDugxQOgYrFMCXTpVYw6jbm1ZCHx6/ufYmD8OXIYFOdwDcHpHrbIXv9IqzEEIzTvtLJIv782GYH+UmmnJXOwt/jV58XYgdbiFntHbXPCiCLSnKg==;xcA5XimC722w36PsHQk69Q=="
+secured: "8TWAPHG2BQ8UdD+MajoI8aUY84zPL3axWNatkN83uyuMcQzVpojWekEd03whVbv7FG1tqGuXVOqzkhgPlO1FIN+yQPZhJlolKiYTZHXVEwHhQb0/o3ijOWH5DJjHvOxwJkt5yjMBa91/+LfaVXdOF+1AtcwF1h85hp4M7CkhYGTOzwzaWgzCaRURBNAeqg+TZd9MwAoEK+riRokI02/Q/3Nk0jDsSZ917f/Akmqhq0nZlf7QmZMFMjQolRJ7JgnhDwTx+EEbio0/HifpMZhyWnfcUdqGI7Mk+sAklY6o/SPOvASN2+r6T/kKxO5TE1KRsHJerNHxxKu4thwSMXYise+hq9qQUDR1wl4tdCQEReqHl8us7txX1u9FTto/d4KbsDKP98fnaRgx6oUUaV90Gsb9SftrL9DhM9nQEa49mjTGUHVrl7PKT6Fvf5QfoXbIuBsYvT5Me+dAzqMdwWp6Zvs8DrwoBNXXSropHhmW6FB+v4LRQFkc/5/TXaICCA2i;+MRyIR54yh7oTdqhhzYgtw=="
 ---
 

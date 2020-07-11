@@ -2,6 +2,97 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-01-hbmsu-becomes-mena-regions-first-educational-institution-to-migrate-its-full-systems-and-applications-to-aws-cloud.md",
+      "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
+      "excerpt": "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
+      "publishedDateTime": "2020-07-01T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025.md",
+      "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
+      "excerpt": "The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights & increased operational efficiency are few of the factors driving the deep learning chip market worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
       "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
       "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
@@ -469,7 +560,7 @@
       "title": "Nvidia boosts virtual GPU support to help home workers",
       "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "webUrl": "https://www.techradar.com/nz/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -485,8 +576,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "publishedDateTime": "2020-06-30T17:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1305,96 +1396,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools.md",
-      "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
-      "excerpt": "Google launched Connected Sheets for G Suite users in general availability, and it previewed new AI-powered features: Smart Fill and Smart Cleanup.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s G Suite finalizes Connected Sheets and introduces AI-driven data cleanup tools",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/amp/",
-      "publishedDateTime": "2020-06-30T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-the-time-for-ethics-is-over.md",
-      "title": "Artificial Intelligence: The time for ethics is over",
-      "excerpt": "If the rules are too weak, there is a too great a risk that our rights and freedoms will be undermined: This currently applies to all applications of artificial intelligence, […]",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/artificial-intelligence-the-time-for-ethics-is-over/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": "Artificial Intelligence: The time for ethics is over",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

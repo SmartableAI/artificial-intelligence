@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-09-forget-penny-stocks-here-are-3-better-stocks-to-buy-in-july.md",
+      "title": "Forget Penny Stocks, Here Are 3 Better Stocks to Buy in July",
+      "excerpt": "It's easy to understand why some people gravitate toward penny stocks. The thinking goes that companies with microscopic valuations and cheap shares have the potential to post explosive gains in short periods of time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580986%2Fcoins-and-cash.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx",
+      "publishedDateTime": "2020-07-09T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-international-probe-launched-into-facial-recognition-firm-that-scrapes-images-from-the-internet.md",
       "title": "International probe launched into facial recognition firm that scrapes images from the internet",
       "excerpt": "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ...",
@@ -1152,55 +1202,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-tellius-unveils-on-demand-ai-platform.md",
-      "title": "Tellius unveils on-demand AI platform",
-      "excerpt": "The software-as-a-service (SaaS) offering is intended to lower analytics costs and provide an easy-to-use, comprehensive package.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tellius-unveils-on-demand-ai-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/08/07fbd827-e281-4447-9e66-204cd035b782/resize/1200x/bf50a36dcd544574fd1d9564eca03466/saas-istock-1203544876-putilich.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Tellius unveils on-demand AI platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tellius-unveils-on-demand-ai-platform/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tellius-unveils-on-demand-ai-platform/",
-      "publishedDateTime": "2020-07-08T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

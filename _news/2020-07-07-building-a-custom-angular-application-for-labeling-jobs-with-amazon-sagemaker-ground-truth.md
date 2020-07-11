@@ -43,22 +43,6 @@ related:
         width: 719
         height: 527
         isCached: true
-  - title: "How AI is revolutionising the learning world for students"
-    excerpt: "Amplifying human intelligence with AI has the potential of helping civilisation flourish UAE: Here are 5 smart tips to invest when you’re running low on cash and make money! COVID-19: Can I come on a visa-on-arrival for a new job offer in UAE?"
-    publishedDateTime: 2020-07-06T05:30:00Z
-    webUrl: "https://gulfnews.com/opinion/op-eds/how-ai-is-revolutionising-the-learning-world-for-students-1.72424849"
-    ampWebUrl: "https://gulfnews.com/amp/opinion/op-eds/how-ai-is-revolutionising-the-learning-world-for-students-1.72424849"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/how-ai-is-revolutionising-the-learning-world-for-students-1.72424849"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 57
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/04/20/AI_171966ffc69_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
 
 secured: "ts0uHSMggtQti7ld2hhMiQ+2OCzPqpvVfdW+J6XaMl+qkBctGEj0NTQT2ba+MJ82Al+DeFN7ociDtoaX9MPPHztlcEKo/8UszJDzVfyFkxUEfRJymg9/71XAmmXmCVyJrBf+ntNVh8ZxZAnpiTckG+jAcLv1jZUmdE2zNtblgAa4tWCAr0aNJmEGAQ1x4CEu6vcIZQpCNWF49jV76ucnwbMyk28+tFYelPpNjw6fJfzsb+CaIBlBlntf31lx2Q7Pm8qDh5W0UwaZFvrk3YuJPMplu1I/3/dr+xeF+aDWZ+D38AJPE4uU7ymkMp5K3fJWIYrFLstx0HqRs1WQ7eT+Ug==;joXtGy+3Prs66ybReHouSQ=="
 ---

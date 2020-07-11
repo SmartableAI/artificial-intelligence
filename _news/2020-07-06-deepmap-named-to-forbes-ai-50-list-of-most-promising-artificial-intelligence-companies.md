@@ -18,48 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "7 of healthcare's most promising AI companies from Forbes' 2020 list"
-    excerpt: "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,"
-    publishedDateTime: 2020-07-09T16:58:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
+  - title: "AMP Robotics Named to Forbes AI 50"
+    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of Amer"
+    publishedDateTime: 2020-07-10T20:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
+      name: Business Wire
+      domain: businesswire.com
+    quality: 71
     images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
+      - url: "https://mms.businesswire.com/media/20200710005481/en/804686/23/AMP_Logo.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Viz.ai Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "Viz.ai, the leader in Applied Artificial Intelligence for Healthcare, has been named to the prestigious Forbes Top 50 AI list. The list"
-    publishedDateTime: 2020-07-08T20:18:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vizai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301090432.html"
+  - title: "ExtraHop Named to the Forbes AI 50 List for 2020"
+    excerpt: "SEATTLE--(BUSINESS WIRE)--ExtraHop, the leader in cloud-native network detection and response, today announced that it has been named to the 2020 Forbes AI 50 list for its advances and innovation in the use of machine learning and artificial intelligence for cybersecurity."
+    publishedDateTime: 2020-07-07T13:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200707005250/en/ExtraHop-Named-Forbes-AI-50-List-2020"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://mma.prnewswire.com/media/1202174/Viz_ai_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-  - title: "Gong Named One of America's Most Promising AI Companies by Forbes"
-    excerpt: "Gong, the revenue intelligence platform leveraging artificial intelligence to replace opinions with true customer reality, today announced that it has been named to"
-    publishedDateTime: 2020-07-07T18:52:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gong-named-one-of-americas-most-promising-ai-companies-by-forbes/article_9f78a61a-e90d-537a-ba9b-1c86a8b5c6fd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "jKEEcl08DibhpZC2cGQVcODU1BjGpwNOBrtXS8TjLY4rx1BhHeBgcyk9Fe5NaxuQ0NNDsfJaDQgM5CIoo0wOqxosQtoj4sGjM5uqGchu7hH9WAYocNBxjrYmjrUyD7HwaIP4Jv5QnQbWI99sm9r5cxe9u3ZM2+TT45FCPSPv9K79LZvXlVRnuBEBjUHoatW8LK4Bkp1nX88OWrKstuiCW3zoCZEOsUMeqgGMpK/YAYxTu0AFzPr+uJI9huRK/FA0Gv3X/x92o69W2wsNQrxoMc5j0eH4qticH4PhfplZG/aEsAagptJZimlc4xFqrXiY6w5U13citT1PYKchvf4vRg==;G5s3rcINzW6jpBwZ09piGg=="
 ---

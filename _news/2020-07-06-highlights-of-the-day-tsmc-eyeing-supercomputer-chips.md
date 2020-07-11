@@ -25,20 +25,6 @@ images:
     title: "Highlights of the day: TSMC eyeing supercomputer chips"
 
 related:
-  - title: "TSMC may commercialize InFO_SoW for supercomputer AI chips in two years"
-    excerpt: "TSMC, after launching 3D SoIC backend service, has also developed InFO_SoW (system-on-wafer) technology mainly for processing supercomputing AI chips and is expected to enter commercial production with the InFO-derived process within two years,"
-    publishedDateTime: 2020-07-06T06:12:00Z
-    webUrl: "https://www.digitimes.com/news/a20200706PD207.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 54
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200706PD207_files/4_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
     excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
     publishedDateTime: 2020-07-06T18:00:00Z

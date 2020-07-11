@@ -52,15 +52,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence"
-    publishedDateTime: 2020-07-06T19:19:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies/article_f3e949d6-22c4-5cd9-bfda-d9c125e452bc.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 26
 
 secured: "XvTaODemJIkeWvNdOZlELEj13ao0Q8WHOpSArG6E6izZenUZ7x3GgrCpxluL6/TxQ1Mm9OsVMExlXWHsZ7MNXUHynnviDkAsEPKqZKH2dz90tB+YkLtNth8MxizwWcNzsxDZjMaZgxxgSBu7zYD4X1/c9uhWZv9IcoXYdXobwS0AcHaV6WtXp5gBkMBkHeTcVqOyrMojrRKbzG81nl3TMQyZ3RWe2glctkYgBwrWkTKG6FaE4o9dpIep9DXGDJC1LtiM50qgOisGVFG6I/l9HjYslpjbaQg4WwfQWlR4fmf2pt8dwmsI+M+RQ1kpgPukbjJC14fRgeWVwzVvxG1Bwg==;ZZy6YufoUIuZpipozLWg/Q=="
 ---
