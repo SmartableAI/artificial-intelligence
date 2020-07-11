@@ -19,34 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing Market Size, Trends, Outlook, Opportunity Till 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 06, 2020 (AmericaNewsHour) -- The Natural Language Processing market is developing and expanding at a significant pace considering the global scenario. The Natural ..."
-    publishedDateTime: 2020-07-06T09:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-trends-outlook-opportunity-till-2025-2020-07-06"
+  - title: "Global IoT Chip Market (2019 to 2025) - Cross-Domain Collaborations Presents Opportunities"
+    excerpt: "The \"IoT Chip Market with COVID-19 Impact Analysis by Hardware (Processor, Connectivity IC, Sensor, Memory Device and Logic Device), Power Consumption, End-use Application (Wearable Devices, Consumer Electronics,"
+    publishedDateTime: 2020-07-06T12:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-iot-chip-market-2019-to-2025-cross-domain-collaborations-presents-opportunities-1029368833"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing Market (2019 to 2024) - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com"
-    excerpt: "The technologies in natural language processing has undergone significant change in recent years, with traditional neural network models to advanced pretrained language models. The rising wave of new technologies,"
-    publishedDateTime: 2020-07-08T16:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200708005731/en/Global-Natural-Language-Processing-Market-2019-2024"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
-    images:
-      - url: "https://mms.businesswire.com/media/20200708005731/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "aSkFl2VFxN1vIlsqGwiDCOqzPEEjA5nwnN/HEcqaFgZYrCfNfrQd7iwLQKwPgRwnotYS6LOhx5dnoYEuM1pkOk04eaPEeBHs1ULoTXnRrY7o45esYSwmjL4+HgCFr0GfeHB46ql+NGPj9xsD9LUbJUVDPk4UIbecPzTasL5Hnolb5HHjwYVPDnEOp0jz4O1FNvcavlHeahl9cbEqWcVfchVnFQWoNOfBIXpb/c6HqxOUOMqGaervW0anipyQustB1kjtJ2gHfLAK6/77pTzrE8MLzcyP6VRIaz2O1tdotnp06pP8ApXpQaMEZS6+3feTeEfGFIdDxTWgLGhTtH28oQ==;iNMjL8vbZb1QV4A+8YoqBw=="
 ---

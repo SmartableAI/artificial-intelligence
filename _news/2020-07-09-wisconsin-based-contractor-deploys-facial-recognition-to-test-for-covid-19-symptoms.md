@@ -27,7 +27,7 @@ related:
   - title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
     excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
     publishedDateTime: 2020-07-10T19:59:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/"
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/?/"
     ampWebUrl: "https://amp.usatoday.com/amp/5416363002"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5416363002"
     type: article

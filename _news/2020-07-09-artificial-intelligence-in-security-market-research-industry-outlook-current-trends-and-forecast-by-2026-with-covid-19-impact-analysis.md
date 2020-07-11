@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Market with (Covid-19) Impact Analysis: Report 2020 By Industry Size, Share & Key Drivers 2025"
-    excerpt: "The global Edge AI market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the World. The Edge AI market for each region is further segmented for major countries including the U."
-    publishedDateTime: 2020-07-06T09:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-market-with-covid-19-impact-analysis-report-2020-by-industry-size-share-key-drivers-2025-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Computing Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-07-07T09:50:00Z

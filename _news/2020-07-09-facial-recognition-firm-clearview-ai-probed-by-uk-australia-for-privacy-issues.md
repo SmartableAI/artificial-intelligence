@@ -179,22 +179,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "ECHR receives first complaint about facial recognition system in Moscow"
-    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
-    publishedDateTime: 2020-07-06T10:26:00Z
-    webUrl: "https://tass.com/society/1175141"
-    ampWebUrl: "https://tass.com/society/1175141/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 74
-    images:
-      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
-        width: 1080
-        height: 688
-        isCached: true
   - title: "Is Facial Recognition Technology Good Or Bad?"
     excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
     publishedDateTime: 2020-07-10T11:46:00Z

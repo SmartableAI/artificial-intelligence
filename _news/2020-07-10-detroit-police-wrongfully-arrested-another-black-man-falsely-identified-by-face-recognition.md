@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
 type: article
 quality: 79
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://compote.slate.com/images/af972d82-7cf7-4305-be16-178c6f7ee418.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
         width: 780
         height: 520
+        isCached: true
+  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
+    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
+    publishedDateTime: 2020-07-11T03:13:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 37
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
     excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."

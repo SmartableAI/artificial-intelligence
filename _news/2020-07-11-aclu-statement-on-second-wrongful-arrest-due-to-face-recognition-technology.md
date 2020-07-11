@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Black Lawmakers Call for Ban of Police Facial Recognition"
-excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
-publishedDateTime: 2020-07-08T20:07:00Z
-webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
-ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
+title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
+excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
+publishedDateTime: 2020-07-11T03:13:00Z
+webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
 type: article
-quality: 59
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Governing
-  domain: governing.com
+  name: Aclu.org
+  domain: aclu.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
-    width: 940
-    height: 627
+  - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+    width: 1200
+    height: 628
     isCached: true
-    title: "Black Lawmakers Call for Ban of Police Facial Recognition"
 
 related:
   - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
@@ -59,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
+    excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
+    publishedDateTime: 2020-07-08T20:07:00Z
+    webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
+    ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
+        width: 940
+        height: 627
+        isCached: true
   - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
     excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
     publishedDateTime: 2020-07-10T20:42:00Z
@@ -91,20 +104,6 @@ related:
         width: 780
         height: 520
         isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-11T03:13:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 37
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
     excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
     publishedDateTime: 2020-07-09T15:36:00Z
@@ -120,6 +119,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Zlu6A+9zb56Nv73PPZ4acyuIEphg84rSYiFVM/iuy222LmEYHkcpuvMkmXTi1345gYRDGi1WXoxRpDHlzdDxr1hvUxeIqzwbhOQAxkRm+dA+x040dMMTWbITfFdkVsgHlfULrWv2izShVHPqeni7ltkhLwNv0m4kuAeMqzjNFXhGCKPd7NkvmyOKDwznZ2pa4T9V+OV5l1KUSWF7CkqJpdTO+SXQEBFAqQ07Zwt3mWHdimC8IdGQtb9edFplc92RUoO2QyZ8Vg0eIL591b/+HacygrScXcAXpQX0hBAkHj4FAo1l0eAHBOleMo4kObV49BREMrB66XSdHQe1EHbcPg==;BPKuTDb6Uum/hMcZPC0l3Q=="
+secured: "ic86w5XRXCbK5q8VcNrOavMtz+DItZ643uTp6dHgEqerL7N8/M5Z+fsj2soMkDLTSysP0IvqSqJb2PaBLlSHUcLOaHKPuZ6g2sEgEvqukvEgqOJ6svQJcykacRva9pF55btBnbtZPycqS22qZpeWAfi/tSnFNjxwQ7Xydhhkn7z+B7Js0k8gmjb275fvN/DjhlsvI/8V5F7HCpd2xEcq0u8+q/KMpM92hvgT9Oqb98u9dBweX1zex6a63ZCslCzEmWSJERkKldsDXmylF120ZRPsHaOWN1krFto8TUMqfrKjEiYKepRi9aVaiJQVaFvyL9rp1nx4OzMLACl5ferBNg==;tBdinVmpmeSxjqNuBe5E+w=="
 ---
 

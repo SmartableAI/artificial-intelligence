@@ -18,8 +18,8 @@ topics:
   - AI
 
 images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
-    width: 350
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/2017-01/18/full/1484710336-6298.jpg"
+    width: 352
     height: 233
     isCached: true
 
@@ -45,6 +45,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "hSaVD6OsxaRfnebTYdle4mGebTrLU0uFPklNbp24e0aVVOdjkDtjBmeDy38b2v8QZJIlsiLjpC5VeDp1MYZURiqNtjsE22n3wyvNWqCfkKkgaaxxcUPCESFIkrZGH+iR/+DwyXxfxEQADhcSJkWZDBfoZncR6VrApEKgp7D9MOho/4e9b4VswXT6Rs1/+PYbOFj3ngAS9YCgZfPoECr7HufrWnEVBGi3K1DJRQ9rJ+vlrnp3ndwdgX4IeLLeisFFc7svVoRy1uTDHh7Mj1kjNNm0EFxe0/NbOyb2CmYz9F7sII8n2P8bWkx7TYeHPb2mRrLM+wFBZiQK3RX12+/Uow==;Aloi3TQC+OCK2Q5Rkr0l9g=="
+secured: "scLZMKvQUc+bwI98cIDtVttGk6dnX4xV01DFcEomiGmMkZoDr1019C+IBeeB9/uFgrEH/BL2WtSE8fII46KsgzTfWrxFecRqaDTrEVrHPsCgYz70Cfe/wKaesa5gEn2sBtT1kCXNjaSXVsAdX12AtvoV6zAA6t4jiNMiH9qP+irTsR5PgN6z868w8ciOLPxCmCLmopCMywu/9mL6Q16+tXc/pZ1Acp5LlVpuBsqiYqYIwVoEmqFweHclTHG2rRUnpATuQ9lMwYtFK+7Wb33JV21GqcQdkNYfCFJ03jy0CuK5wJ7k1Sa9ebZL4ltXEhDf3i7R4AXCc+yd73BycYqicQ==;Nnl+3Y09hFumCxzRI6ML6Q=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T20:03:00Z
 webUrl: "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/"
 type: article
 quality: 116
-heat: 636
+heat: 626
 published: true
 
 provider:
@@ -164,22 +164,6 @@ related:
       - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "ECHR receives first complaint about facial recognition system in Moscow"
-    excerpt: "In claimants’ opinion, Russian authorities by using the facial recognition technology violate several articles of the Convention"
-    publishedDateTime: 2020-07-06T10:26:00Z
-    webUrl: "https://tass.com/society/1175141"
-    ampWebUrl: "https://tass.com/society/1175141/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1175141/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 74
-    images:
-      - url: "https://phototass1.cdnvideo.ru/width/1080_4713ca57/tass/m2/en//uploads/i/20200706/1274319.jpg"
-        width: 1080
-        height: 688
         isCached: true
   - title: "Is Facial Recognition Technology Good Or Bad?"
     excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."

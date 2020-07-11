@@ -28,8 +28,8 @@ related:
       domain: indiainfoline.com
     quality: 59
     images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
-        width: 350
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/2017-01/18/full/1484710336-6298.jpg"
+        width: 352
         height: 233
         isCached: true
   - title: "KTern.AI App Now Available for Trial and Purchase on SAP® App Center"
