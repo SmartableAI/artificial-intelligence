@@ -18,7 +18,7 @@ website: https://t.co/qaAoprog1k
 twitter:
   username: chrisbishopmsft
   url: https://twitter.com/chrisbishopmsft
-  followers: 5009
+  followers: 5008
 
 googleScholar:
   url: https://scholar.google.com/citations?user=gsr-K3ADUvAC
