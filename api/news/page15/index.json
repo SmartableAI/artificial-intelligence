@@ -1138,34 +1138,34 @@
       ]
     },
     {
-      "path": "_news/2020-06-27-neural-network-can-determine-lung-cancer-severity.md",
-      "title": "Neural network can determine lung cancer severity.",
-      "excerpt": "CT imaging is an important diagnostic tool to measure the location, extent, size, and shape of lung lesions used to guide therapeutic decisions for patients",
+      "path": "_news/2020-06-27-comparing-13-different-crispr-cas9-dna-scissors.md",
+      "title": "Comparing 13 different CRISPR-Cas9 DNA scissors",
+      "excerpt": "The team developed deep-learning-based computational models that predict the activities of SpCas9 variants for different DNA sequences. This study represents a useful guide for selecting the most ...",
       "sourceUrl": null,
-      "webUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200626092729.htm",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://infosurhoy.com/wp-content/uploads/2020/06/5-neuralnetwor.jpg",
-          "width": 770,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/amp/",
-      "cdnAmpWebUrl": "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/news-summary/neural-network-can-determine-lung-cancer-severity/amp/",
-      "publishedDateTime": "2020-06-27T07:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-27T09:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoSur Hoy",
-        "domain": "infosurhoy.com",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

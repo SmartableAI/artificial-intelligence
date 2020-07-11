@@ -2,6 +2,38 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-26-into-the-woods-ai-startup-lets-foresters-see-the-wood-for-the-trees.md",
+      "title": "Into the Woods: AI Startup Lets Foresters See the Wood for the Trees",
+      "excerpt": "AI startup Trefos is helping foresters see the wood for the trees ... So when he joined the University of Pennsylvania as a Ph.D. student in robotics, he began working on ways robotics and machine learning can help get a better picture of the layout ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/woods-ai-startup-lets-foresters-see-wood-trees-76149",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cadalyst",
+        "domain": "cadalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
       "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
       "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",
@@ -1096,47 +1128,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships.md",
-      "title": "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships",
-      "excerpt": "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
-      "publishedDateTime": "2020-06-25T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

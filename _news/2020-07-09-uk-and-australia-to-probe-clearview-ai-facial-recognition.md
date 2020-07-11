@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-austra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
 type: article
 quality: 106
-heat: 466
+heat: 456
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
-    excerpt: "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue."
-    publishedDateTime: 2020-07-07T00:11:00Z
-    webUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/"
-    ampWebUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 733
         isCached: true
   - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
     excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."

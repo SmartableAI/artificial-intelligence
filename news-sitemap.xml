@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/</loc>
+    <lastmod>2020-07-11T10:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/</loc>
     <lastmod>2020-07-11T08:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -775,12 +781,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
-    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/</loc>
     <lastmod>2020-07-07T04:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1195,7 +1195,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.embedded-computing.com/home-page/how-to-integrate-ai-into-the-embedded-enterprise</loc>
+    <loc>https://www.embedded-computing.com/embedded-insiders/how-to-integrate-ai-into-the-embedded-enterprise</loc>
     <lastmod>2020-07-02T15:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1291,14 +1291,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition</loc>
-    <lastmod>2020-07-02T04:00:00-07:00</lastmod>
+    <loc>https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/</loc>
+    <lastmod>2020-07-02T04:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.kcrg.com/video/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/</loc>
-    <lastmod>2020-07-02T03:44:00-07:00</lastmod>
+    <loc>https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition</loc>
+    <lastmod>2020-07-02T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1579,7 +1579,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/nz/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1843,8 +1843,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2241,6 +2241,12 @@
   <url>
     <loc>https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/</loc>
     <lastmod>2020-06-27T14:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/releases/2020/06/200626092729.htm</loc>
+    <lastmod>2020-06-27T09:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

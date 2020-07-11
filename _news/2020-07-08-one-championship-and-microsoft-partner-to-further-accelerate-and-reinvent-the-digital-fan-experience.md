@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "ONE Championship and Microsoft partner to further accelerate and reinvent digital fan experience"
-    excerpt: "Microsoft named ONE Championship's preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and"
-    publishedDateTime: 2020-07-07T00:03:00Z
-    webUrl: "https://www.miragenews.com/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-digital-fan-experience/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 26
-    images:
-      - url: "https://news.microsoft.com/wp-content/uploads/prod/prod/prod/prod/2020/07/ONE_ring-shot-1024x682.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
     excerpt: "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
     publishedDateTime: 2020-07-07T02:24:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-07T11:25:00Z
 webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Infoline
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Digitate's ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure"
-    excerpt: "Digitate, a software venture of Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that the ignio™ SaaS su"
-    publishedDateTime: 2020-07-06T23:50:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=269665"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 39
   - title: "KTern.AI App Now Available for Trial and Purchase on SAP® App Center"
     excerpt: "Kaar Technologies today announced that its KTern.AI solution is now available for trial and online purchase on SAP® App Center, the digital marketplace for SAP partner offerings. KTern.AI integrates with SAP ERP and SAP S/4HANA® and delivers business ..."
     publishedDateTime: 2020-07-07T07:26:00Z
@@ -45,6 +36,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "Pr6BrMLYLFpRK757TnE7QsqDpliTvXRurh1OpstdIsWvXNHjrpazYFMA7gpAwo4/T3FCqVIYTqNOgsc0dre0pu7mwU8sBd/TPHRCIH43MJPHj5XPQrhK7RDbEYp4fc6YQk5t/iRki+GHi0bs8O4vUU4F1nOa3ouRAnC+jg0APPB9H7pwpJfMfR0PYgQ5hSALpCMNKjV8z5xVeeSMhY98nR7kyuxsYGtvc22741IYZ0o7xRNoVOzfWpVg1N/uSgSb+sWut24IikXoAeyxLPAbQrqEr3f0BcrrT0AU05JVikrb87bZqjbds7MjaHthE1oGAVBkYb6nmjxMJFLLrjMG9A==;A8pTKthrU0a4SS9YxTOnBA=="
+secured: "wWYI9elPTBagIudo2SjFTFNQoWvKYd1JgFHajr2sGeZx/uIThxd2TeLS1ckDeO7Z+wE0zsKSwM3prXMiSYHcjpPf9ZMXcEn3frb1DLA7bBoh4s7cXHWynFXge6jCzv+WOFReZLpwpxJZ5g2pYQyGhjTg2lKD5sYTj/QpE9+j8CW50WXZohqV/vaMVL9SlhPzdpawJZZb18h/AlVZjIrex1m2ggYbRio5Z37g10uBaC3JMqcxkG4RCmamWSKlDdvjbv3HP4sNWIHhWaottWToZ2HBmRsxi8p/ffYLsH/wX3cI3MbFznkodHKoTXBXGOY39jSHfI0GFpJo2ig/TlZTtQ==;tSfmUgcI6ku8aY7a15OBWA=="
 ---
 

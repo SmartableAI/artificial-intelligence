@@ -59,6 +59,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Concern is growing over police use of facial recognition"
+    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
+    publishedDateTime: 2020-07-11T16:54:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
     publishedDateTime: 2020-07-08T16:14:00Z

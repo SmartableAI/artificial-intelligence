@@ -55,20 +55,6 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
-    excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
-    publishedDateTime: 2020-07-07T00:33:00Z
-    webUrl: "https://rabble.ca/columnists/2020/07/facial-recognition-technology-one-most-racist-weapons-police-arsenal"
-    type: article
-    provider:
-      name: rabble.ca
-      domain: rabble.ca
-    quality: 32
-    images:
-      - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
-        width: 865
-        height: 441
-        isCached: true
 
 secured: "NL8DtDUQ+UpQ3Ve272ljovlrcpmZZds/rB1HRZ0w6Epf1krw+1WrucnN78Kd6t7ysiqjqrgKcv1kqIzoUbPXdkH2qcZ9iBy7obK0Lfwu1dIIyC7T0I6v956haiJm/1PxD+eZTmVbHd0LAEDFMvqDvLUEvvoml8PeIe2wwR22m7LkMFxkwh78wuJtxq3d9wXQ7+ZjA6c3M2rabR9Q7rQsif1/lMqu3yBu8Zcda4aHoviMHQJt7Cbluq43T3gm52CaOiuxGN8WA+MrUXbd6/5on4m9r64n4QV85UXYdhMWYE0vb9EDPLWhrNqTUhOxJHhONHkFLGzsPzYl3EwLAAjdRFfNNv/Fmzh+hNzlno4xnd9zItl2sWM5Sz9WRbyNwb9cjz5Hi0fpwtL+Ebckz4L3sQVbp7vdqkwduJMVw4kECZUUXgjGLIkSiCH1IQ0svbWB/WnsGF53iTD8ockVTiWfJ+0/OhNGsoKU9bJooX6TCAo4zlp62BcLic1uhBC70xFWl+QWLcyAce4o0Qm/GPReWw==;u7zhky5VgXSxGft2TgS9nA=="
 ---

@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 854
         isCached: true
-  - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
-    excerpt: "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue."
-    publishedDateTime: 2020-07-07T00:11:00Z
-    webUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/"
-    ampWebUrl: "https://venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/clearview-ai-stops-facial-recognition-sales-in-canada-amid-privacy-investigation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 733
-        isCached: true
   - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
     excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."
     publishedDateTime: 2020-07-07T11:34:00Z

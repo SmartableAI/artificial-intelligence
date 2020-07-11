@@ -1,21 +1,19 @@
 ---
 category: news
-title: "Defending Black Lives Means Banning Facial Recognition"
-excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
-publishedDateTime: 2020-07-10T12:00:00Z
-webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
-ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+title: "Concern is growing over police use of facial recognition"
+excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
+publishedDateTime: 2020-07-11T16:54:00Z
+webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: Wired
-  domain: wired.com
+  name: CNBC
+  domain: cnbc.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +22,28 @@ topics:
   - AI
 
 images:
-  - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-    width: 800
-    height: 450
+  - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
+  - title: "Defending Black Lives Means Banning Facial Recognition"
+    excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
+    publishedDateTime: 2020-07-10T12:00:00Z
+    webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 89
+    images:
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The growing fight over police use of facial recognition"
     excerpt: "In light of protests for racial justice, facial recognition has come under scrutiny for how it's used by police, leading to IBM, Amazon, and Microsoft pulling back on this tech."
     publishedDateTime: 2020-07-11T13:45:00Z
@@ -43,20 +57,6 @@ related:
     quality: 89
     images:
       - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Concern is growing over police use of facial recognition"
-    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
-    publishedDateTime: 2020-07-11T16:54:00Z
-    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
         width: 1920
         height: 1080
         isCached: true
@@ -123,6 +123,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ep2QDUIjkNyRzrEO9lmDFU74o56Ev7RoRv608jxsa+/W8TUAxQ2bFsQXXnRX/OKzjBZIWifxDZNxrYFhLbah6BhxEaEYXaUGy6xPNKile+yPceZvh5jfa6ZJZblWdVbDlwD1cA1iqbhlxWVHU5SYvv82Iux6jSjm7J4luFYdVksPCIjKFDC6RZG4bMVgrThaToaGCaDaylWwXYN7PW1ATUatkKs2WH5ii1FlCqjjouhLTXChTueV/WqWG4qibD9TVGw2n4K+KRfVvGQI58huwUkhOfNEZQ0koPWvVgkGZmdhT8LjOkYP0JvACeoZed82jv6urWzA/MJaPCfx+I/UUrWZzeJWW62VXJg5M7cPQmQ18M1VLmrWtgz34TBbjrUBDKiJmJYntUUr6oQCyccnnAom/BnINzhtS/h6mavTN97A0oEN556vTNkrhSerzgIQn3LL8pT6XHmUO5bUW/n4uVPEuxGL2uQlcQwv6h0hU0qiZV6shdJqkNLpxcxEKWSHXlyaluE4yGqDZAte2Ljcow==;Wle/e8S555qW66TuepFVIQ=="
+secured: "npBNbpjR5/R4ZQgDJ/oQe7W80YBsdI0uIpbTgCXyi9ClJZ2kIzLYC8FnusD9qsPIMmTqcJ8a/1+cW71B8a5kLoCAPCTo5zw86t4EoNwBPoAFsobfr0NRRDRW5/gukGG7jP0g75unzF17ZH83R+xESq9aoKWQ03+SSqJ/kDKHY3FticppBvaWx5EoQZWSUmhjHdvRXDKQZKhpmoPuig3PhHuj8yQUbje79leV1IsYJHjI6VDtF4hwrqfQ+HLTAUoR3aPkFG3+K114oukvegGQGqpl5Lw9JF4Bv8mjhg9GCyCAsibioPH9YO3A+Ap4X5rIIVLo2eK+11W5AQo9vGY5jw==;jHHI7Bazr8IuXwSnrnHSjw=="
 ---
 

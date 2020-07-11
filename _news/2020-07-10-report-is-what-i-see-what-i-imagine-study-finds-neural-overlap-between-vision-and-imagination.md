@@ -34,7 +34,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2020/iswhatiseewh.jpg"
         width: 720

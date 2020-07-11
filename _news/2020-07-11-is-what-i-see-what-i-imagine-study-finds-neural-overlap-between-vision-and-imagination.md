@@ -7,8 +7,8 @@ webUrl: "https://medicalxpress.com/news/2020-07-neural-overlap-vision.html"
 ampWebUrl: "https://medicalxpress.com/news/2020-07-neural-overlap-vision.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-neural-overlap-vision.amp"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2020/iswhatiseewh.jpg"

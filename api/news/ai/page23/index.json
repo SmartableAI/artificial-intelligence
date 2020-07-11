@@ -2,6 +2,55 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-06-19-ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough.md",
+      "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
+      "excerpt": "New laws and regulations are curbing law enforcement's use of surveillance technologies, but that might not be enough.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_340300073-e1592521538361.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Restricting surveillance technologies is a strong first step, but it’s not enough",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/19/ai-weekly-restricting-surveillance-technologies-is-a-strong-first-step-but-its-not-enough/amp/",
+      "publishedDateTime": "2020-06-19T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-19-fintech-industry-report-2020-2025-trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic.md",
       "title": "FinTech Industry Report 2020-2025 - Trends, Developments and Growth Deviations Arising from the COVID-19 Pandemic",
       "excerpt": "(Note: The companies list can be customized based on the client requirements.)",
@@ -1297,55 +1346,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
-      "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
-      "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F4b464d37cc9c46399f1bc34acbd0f90a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3344%26cropY1%3D139%26cropY2%3D2020",
-          "width": 1199,
-          "height": 675,
-          "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedknutson/2020/06/18/ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec/amp/",
-      "publishedDateTime": "2020-06-18T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

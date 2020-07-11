@@ -5,8 +5,8 @@ excerpt: "The announcement was made by VSBLTY Co-founder and CEO Jay Hutton, who
 publishedDateTime: 2020-07-10T23:57:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/vsblty-partners-with-synect-to-leverage-machine-learning-and-computer-vision-to-provide-real-time-analytics-for-airports-1029376007"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 related:
   - title: "VSBLTY PARTNERS WITH SYNECT TO LEVERAGE MACHINE LEARNING AND COMPUTER VISION TO PROVIDE REAL TIME ANALYTICS FOR AIRPORTS"
