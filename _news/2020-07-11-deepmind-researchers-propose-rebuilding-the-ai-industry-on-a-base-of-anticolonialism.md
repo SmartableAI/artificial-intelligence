@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuild
 ampWebUrl: "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/25926572291_a495f56110_k.jpg?w=1200&#038;strip=all"

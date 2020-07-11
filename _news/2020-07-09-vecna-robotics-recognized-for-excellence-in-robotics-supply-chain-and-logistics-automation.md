@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "American Hospital Dubai recognised for excellence in robotics surgery"
-    excerpt: "UK-based leading publication Global Brands Magazine conferred the award to American Hospital Dubai for overall excellence and robust healthcare ; American Hospital Dub"
-    publishedDateTime: 2020-07-07T03:00:00Z
-    webUrl: "https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 69
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/07/06/Robotics-Surgery_web_173240321d4_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton"
     excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus"
     publishedDateTime: 2020-07-09T14:06:00Z
@@ -46,6 +32,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Vecna Robotics Appoints AI Scientist Daniela Rus to Board of Directors"
+    excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced the appointment of"
+    publishedDateTime: 2020-07-10T00:48:00Z
+    webUrl: "https://www.financialbuzz.com/vecna-robotics-appoints-ai-scientist-daniela-rus-to-board-of-directors/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 49
 
 secured: "stiV4DW830OFSHsqoU03wCjoOnM+xLLqTMTcxlku130rAgbCopIctHSE/EZSpQiTUl8mbIqtx02wphaA+pA5dTlzYq4W6of8P5kuBldnhNvC5YTlxGtakec+2lK3vKVmTDDnWNWy4HuANCWhJI8hrvC3uw5epsy1b0UhMocXqxTVXgf3mT2o8yFlLwEMMIi7dLbFjrORTcnFGXG78wsS7BpsQl8/3w+W8QpXjnc55vm8Bi6f5/guMs965u5VbwCD1csMJQ1/p1wSV0z+aliNrrPZGca7WON+nZ6Yzj33aP1ZhydUyc622y4z1w0L7jm4c7Waoi4pJs5MB05bhBAkYQ==;ydl0XFwKW4zJieSEAzbkdA=="
 ---

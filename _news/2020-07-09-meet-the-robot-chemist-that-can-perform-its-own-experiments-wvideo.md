@@ -3,7 +3,7 @@ category: news
 title: "Meet the robot chemist that can perform its own experiments (w/video)"
 excerpt: "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ..."
 publishedDateTime: 2020-07-09T09:01:00Z
-webUrl: "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=38be8451-0069-41f6-a957-dd1f7ef6c2d8"
+webUrl: "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744"
 type: article
 quality: 122
 heat: 142
@@ -52,6 +52,6 @@ related:
         height: 358
         isCached: true
 
-secured: "UePzXlUG9jp7Jhw8IqfiKJVvqasByl+bXT5qCVGuGOCAi5h3hvzWtdoYfT/0iHrZrOkKCe6Wd20yFXRdf16nsXveREjgwlb3QEVJ0ZFLxzZsqUCSyjOs75mhiIbwJV/Guh1qrrCJbWmLNfu8JfwX0PIqQfWOjmcccdkHUK+TNuNenuFXSojbFk709a77yT7mdDA4MPyATPnixp48wiJ1h4BtOZF1tLmEKBvR19oVxzyy8J/eouo5KIgdzONszDLdgPmQ50JS4FrY50YNPtqaUvjw0eKv0rYujoQGJOWOAze1wdXjRrL+1csbp4b7SPfel/eY0OduNPElbWANyVvtcQ==;C9h3E+pb1/qTXeX9TUi1EQ=="
+secured: "/nC5SfF+wye+BMGqg4aXrXrNaQ674ocZ01VLCHx97rBbb7ICBr6+IrZbIVSVyTysyqu6h2+YY6pjG7eeIFgp1wSpLJVJESzM68a+5IKSpdzQNQiqYpZ941pB1W1fc3ZgWZONQrbtaHlcxFLpYsxs8+PKN+/GxdsNg1P8BOBMgZ8QURe0VhgstqLxtem1LLe2j8ce1HXYSHvZIJopEq7C0T0CB/jSmSeq80FI7hT92uIL0MN62NcILO6S2+py34cdD4F0BKaVw1aI6lMr3KUcW4eS/5f2gsh6iPaJQ/dSx5CU2aHQYzyPZ3qFhBK3zYQ28nzqaoFRzkmBSygPu5Pv9A==;EthNNKu3ONiXCq/Mb8QGZg=="
 ---
 

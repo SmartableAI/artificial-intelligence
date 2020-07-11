@@ -19,20 +19,6 @@ topics:
 
 related:
   - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
-    excerpt: "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365"
-    publishedDateTime: 2020-07-07T02:24:00Z
-    webUrl: "https://www.nationthailand.com/sport/30390882"
-    type: article
-    provider:
-      name: nationthailand
-      domain: nationthailand.com
-    quality: 24
-    images:
-      - url: "https://media.nationthailand.com/images/news/2020/07/07/30390882/800_be8b4c575054762.jpg?v=1594087764"
-        width: 675
-        height: 450
-        isCached: true
-  - title: "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience"
     excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ..."
     publishedDateTime: 2020-07-08T13:11:00Z
     webUrl: "https://www.sportskeeda.com/mma/one-championship-microsoft-partner-accelerate-reinvent-digital-fan-experience"

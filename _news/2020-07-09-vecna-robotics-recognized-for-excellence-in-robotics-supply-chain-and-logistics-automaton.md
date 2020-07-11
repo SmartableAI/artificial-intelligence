@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-09T14:06:00Z
 webUrl: "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Wire
@@ -24,20 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "American Hospital Dubai recognised for excellence in robotics surgery"
-    excerpt: "UK-based leading publication Global Brands Magazine conferred the award to American Hospital Dubai for overall excellence and robust healthcare ; American Hospital Dub"
-    publishedDateTime: 2020-07-07T03:00:00Z
-    webUrl: "https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151"
+  - title: "Vecna Robotics Appoints AI Scientist Daniela Rus to Board of Directors"
+    excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced the appointment of"
+    publishedDateTime: 2020-07-10T00:48:00Z
+    webUrl: "https://www.financialbuzz.com/vecna-robotics-appoints-ai-scientist-daniela-rus-to-board-of-directors/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 69
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/07/06/Robotics-Surgery_web_173240321d4_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 49
   - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automation"
     excerpt: "Leader in Autonomous Mobile Robots and Workflow Orchestration Recognized by MIT Startup Exchange, Robotics Review and Supply & Demand Chain Executive “This has been a historic year for Vecna Robotics,"
     publishedDateTime: 2020-07-09T19:30:00Z

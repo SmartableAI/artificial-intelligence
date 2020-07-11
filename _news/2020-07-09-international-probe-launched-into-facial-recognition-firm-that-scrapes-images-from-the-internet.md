@@ -126,17 +126,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
-    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-07T01:48:00Z
-    webUrl: "https://www.reuters.com/article/us-clearview-ai-canada-idUSKBN2472RA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2472RA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2472RA"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Clearview AI faces more scrutiny from UK and Australian privacy commissioners"
     excerpt: "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn."
     publishedDateTime: 2020-07-09T18:04:00Z

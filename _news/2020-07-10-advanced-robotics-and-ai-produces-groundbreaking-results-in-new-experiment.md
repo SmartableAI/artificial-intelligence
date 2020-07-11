@@ -27,7 +27,7 @@ related:
   - title: "Meet the robot chemist that can perform its own experiments (w/video)"
     excerpt: "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ..."
     publishedDateTime: 2020-07-09T09:01:00Z
-    webUrl: "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=38be8451-0069-41f6-a957-dd1f7ef6c2d8"
+    webUrl: "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744"
     type: article
     provider:
       name: Nanowerk
