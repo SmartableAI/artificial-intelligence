@@ -29,35 +29,51 @@ images:
     title: "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026"
 
 related:
-  - title: "Computer Vision Market (2020 To 2025) SWOT Analysis Has Been Used To Understand The Strength, Weaknesses, Opportunities And Threats"
-    excerpt: "According to our research team, the Global Computer Vision Market was valued at USD 11.02 billion in 2017 and is projected to reach USD 19.98 billion by 2025, growing at a CAGR of 7.8% from 2018 to 2025. Our research study mainly includes an in-depth study ..."
-    publishedDateTime: 2020-07-08T07:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08"
+  - title: "Artificial Intelligence in Construction Market Growth, Trends, Analysis and Forecast - 2025"
+    excerpt: "The Artificial Intelligence AI in construction is anticipated to grow at a CAGR 35 7 during the forecast period 2019 2025 The factor such as the demand for efficient planning and other processes in construction advance technology such as artificial"
+    publishedDateTime: 2020-07-11T12:51:00Z
+    webUrl: "https://www.openpr.com/news/2088540/artificial-intelligence-in-construction-market-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2088540/artificial-intelligence-in-construction-market-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2088540/artificial-intelligence-in-construction-market-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/T/7/T711106099_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Artificial Intelligence Platforms Market Top Manufacturers, Trends, Size, Market Share by Regions, Drivers, Challenges and Forecast to 2023"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence"
+    publishedDateTime: 2020-07-09T09:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-top-manufacturers-trends-size-market-share-by-regions-drivers-challenges-and-forecast-to-2023-2020-07-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market Analysis, Size, Application Analysis, Regional Outlook, Competitive Strategies And Forecasts 2026|NVIDIA, Intel, IBM"
-    excerpt: "Los Angeles United States July 8th 2020 The report on the global Deep Learning Chipset market is comprehensively prepared with main focus on the competitive landscape geographical growth segmentation and market dynamics including drivers restraints and opportunities It sheds light"
-    publishedDateTime: 2020-07-08T11:58:00Z
-    webUrl: "https://www.openpr.com/news/2086746/deep-learning-chipset-market-analysis-size-application"
-    ampWebUrl: "https://www.openpr.com/amp/2086746/deep-learning-chipset-market-analysis-size-application"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2086746/deep-learning-chipset-market-analysis-size-application"
+  - title: "Adaptive Robot Market 2020 Analysis by Current Industry Status & Growth Opportunities, Top Key Players, Target Audience and Forecast to 2023"
+    excerpt: "Global Adaptive Robot Market Research By Application Industrial Robot Service Robot By Technology Navigation Vision Sensors Speech Recognition by End User Entertainment Automotive BFSI Healthcare Retail Forecast till 2023 Adaptive Robot Market Key players Market Research Future has identified following"
+    publishedDateTime: 2020-07-10T19:43:00Z
+    webUrl: "https://www.openpr.com/news/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
+    ampWebUrl: "https://www.openpr.com/amp/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 22
+    quality: 24
     images:
-      - url: "https://cdn.openpr.com/T/7/T708797191_g.jpg"
-        width: 626
-        height: 626
+      - url: "https://cdn.openpr.com/T/7/T710895429_g.jpg"
+        width: 417
+        height: 455
         isCached: true
 
 secured: "99XKhZzZ6fdD1q7XewpvrjNI4efseO2D848mUJ9sG9/qUvtxVTBrr0bXryHevg4Ghw2Z6H2Q/zOACKevYluVMGyVMfe3B37ZlitH9YfLpTJLuwUEA6Cs3Ahs9nwTn7RmxkJmhgRMPxmmHDujvN/7ScQtipxzBiEtlyKLjQuZKc0HCeWMgVBfaM75DdVNJr976kt5jmGQp1Dmu/fE7sY+C+gthOfvtcslyGgYHN3aPOJHQq/6NyqQWSguGWsf0dpmxU7jjbEG+xDccQYJbqx0tRko5d1fJhfuFO+bKkHy8+/gabdASQOWs5Ha2i+ABYLsfhQBHolHqKChxq52iYx0Cw==;NktZQYyw1iQuccmN2Y0URg=="

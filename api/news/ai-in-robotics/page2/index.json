@@ -2,6 +2,106 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
+      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "publishedDateTime": "2020-07-01T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
+      "title": "In These Factories, Inspector Robot Will Check Your Work",
+      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "In These Factories, Inspector Robot Will Check Your Work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "publishedDateTime": "2020-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
       "title": "New robot technology to fight Covid care isolation",
       "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
@@ -1302,109 +1402,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-vs-augmented-intelligence-whats-the-difference.md",
-      "title": "Artificial vs augmented intelligence: what’s the difference?",
-      "excerpt": "Artificial intelligence has accrued some very bad reputation over the years. For some, the term AI has become synonymous with the mass unemployment, mass slavery, and mass extermination of humans by robots.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Artificial vs augmented intelligence: what’s the difference?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/24/1300892-syndication/amp/",
-      "publishedDateTime": "2020-06-24T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
-      "title": "Teaching AI to fourth-graders is a thing now",
-      "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/23/ae3777d3-b430-4d47-867d-c4acd0aa296f/resize/1200x/a43663c878d6831ebf3e25149e0be50c/create-learn-kid.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Teaching AI to fourth-graders is a thing now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "publishedDateTime": "2020-06-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

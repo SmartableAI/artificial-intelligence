@@ -2,6 +2,107 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships.md",
+      "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
+      "excerpt": "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp",
+      "publishedDateTime": "2020-07-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
+      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
+      "publishedDateTime": "2020-07-07T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-aws-announces-general-availability-of-amazon-codeguru.md",
       "title": "AWS Announces General Availability of Amazon CodeGuru",
       "excerpt": "AWS announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning. It provides intelligent recommendations for improving code quality and identifying an application's most expensive lines of code.",
@@ -1005,96 +1106,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
-      "title": "New AI project captures Jane Austen’s thoughts on social media",
-      "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-95-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "New AI project captures Jane Austen’s thoughts on social media",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
-      "publishedDateTime": "2020-07-06T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
-      "title": "AI and robotics to redefine businesses - Accenture",
-      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/000d9006-642.jpg",
-          "width": 642,
-          "height": 361,
-          "title": "AI and robotics to redefine businesses - Accenture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
-      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
-      "publishedDateTime": "2020-07-06T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
         "images": null,
         "publishers": null,
         "authors": null

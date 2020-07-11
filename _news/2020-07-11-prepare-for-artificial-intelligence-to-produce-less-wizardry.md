@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-les
 ampWebUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp"
 type: article
-quality: 89
-heat: 89
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://media.wired.com/photos/5f0663989798446ce8080282/master/pass/business_artificial-intelligence_687292162.jpg"
@@ -29,6 +31,6 @@ images:
     height: 1597
     isCached: true
 
-secured: "t2gVX91a30lJ8RMxtdU9rGWJbXZ5XdSG6NO+giteZHACxo4UPkyNogcNtD6+0geKxRUQtEfzvMVJbSubAV8sx4bA9HnQ/pjjzdULqQ9zWf3DtM8AjMuv2KO5+6Dm0kv3Jmv6f5IIn85nRqr5mexOBt/gN2K6AxLWmkjMQN/xkt1JCYD2263cDseZbSLKSbAMd9ltv1bOZvuqYQPuAZ2dOFctE/3qZ74TREpg4F0XckP3oztaQOzhcmnCSSD0sJxhAaMyYwGkoORKTRwUxjI7eck3n6ElNeSq/F6E4QnF4g4PkIdUGpHOpvggrLwwKJIOOLjZAvKQP5o5hkE/Zy0Pcg==;ihZPyZhhUkUUw+9OBO4WaQ=="
+secured: "pz7eApx66h5F/dz10POfBbKddf2GZLS4aHbo7ZO+Pnsq8qgH//IK+96MefDnF7+V48zbSQu0vPG71z17rVlTfyFw8qrVcRndYA5sShsWN/MAgOYiXwd6MSF8ohIyzGdpUty0ehicIczz4yqNTJmf+Co8pks3ceqBcWaJknPQ2X776JHk2jXSPFxNFFnmUtZbbsxdBw0e/jRO1bcS1kf7S6bEoPRH6VBuMKrVhImWuYQMNxRrsLwSSv48C8suVuDzbnOKg8LBCGnbqLQABIjYcQyGMq6zjn8akRDnKBNs+3A5ZBg1f4hh5kr+yOnM5dZhhH19QEh9pNzyX5TviTfl2SJ84nxkaqB2CZt41CKWTKK/dGa+DWw1rsky4Uc25HR6IY3VkLgqjYkndO1f6E5BRcuqWk82Ld8i7tTIrGzkxJXaBPxEY6KBQ0m1sKzCU186uQBc0X4WWiH5nzOmTLgxHGiAoZbfhsuV3kwjjis63ja00iDn3OJgFFekq+62ypYzHweaNgm5iYNib/aY0UpGkg==;Hel47u88bJsQDQWoG3K/uw=="
 ---
 

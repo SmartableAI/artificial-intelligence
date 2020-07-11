@@ -3,7 +3,7 @@ category: news
 title: "How adversarial machine learning can lead to far better climate data"
 excerpt: "Researchers at the National Renewable Energy Laboratory have developed a novel machine learning approach to quickly enhance the resolution of climate data by up to 50 times."
 publishedDateTime: 2020-07-08T22:55:00Z
-webUrl: "https://gcn.com/articles/2020/07/08/nrel-adversarial-training.aspx?admgarea=TC_EmergingTech"
+webUrl: "https://gcn.com/articles/2020/07/08/nrel-adversarial-training.aspx"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 300
     isCached: true
 
-secured: "6PZopR4D3+wSg5yjCj4HGRIhJ0tHuVrGMnswQTX/HEXsrV64E2yD0f7eikl3T/JN5UU0AvvRE4k+JXunuu8WYIpUdI2dB051COe5qwjIaSIaSREOfhpF/AgCI8MKyer+sFCCP2kgh1zYrbj7BSkc9kq1Q8dmPjAQGnL/m6BaGVp79lOr+UGDNGqdSNcuIe3jKgQrAZOJtafo3RLh5rWzpdVPNeqsHM3lU71uBnyFa/MBBv+HoiDaGL6O7v6rCY8n1NBkEg8mikjJgPaD8wM4Rdh39v74Ru1F7BmkEPu2MlQGbxdclvIGjfRZW+HYTw9M4WPIVIilaEurKwuVq0ub3ihMh9PAwyawu46Km3SDIXHySbNS5gVwlES1Rwb9QYrA6jfOVrJPSAiw2c2t/gW/DVmUzg1x7Eo0ZIhC4sVhiLqjKb4zgywmZgimS7lfalfjq1OcK6Vc8Y/oE6bELk/Y0ONkIs0aVZrlj5ZGlda6EXfjKaLJeVKmKk33Wkzl9J0PPSuOoi5X973hZXAywmrGUQ==;hFK9FmJqtzsryVOpH19ngQ=="
+secured: "Hy9WnshqL+3do+j+nsWSgqjU6PivSoqN6bdSIQsN1QnkHKTSNG8Yml6qkweA77jiCf+Y2rGGdiIUOvT+OUspZpBPYQvSbLLn+Gukee1SR8YVKKCQct3bJBYMdAV0hlYt9V5Mn8Gj0+Fkd15UQToY9FVOLxLAB6Hqb90ocvso6t/3QuBWzMAvdrBI9njG5eX/8vNP8iEI8U9i5e5ySUcH8pqXLS29r40d60P8SilGDSkrSbgifJ8IRt8fVSCH6CaYkC3Y8NzHYBvEEsdCvtcVDGAybg64aGQAjRBL9gJiXmeefgCunTMPL7jyiGsOa1c4HR5WNVD+X4PSk4GfPWiV5g==;gLljwp4AoUwrFSonvP2aoA=="
 ---
 

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure"
-excerpt: "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud."
-publishedDateTime: 2020-07-07T11:25:00Z
-webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
+title: "Digitate’s ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure"
+excerpt: "Priya Vijayarajendran, Vice President – Data and AI, Microsoft Corp., said, “Business leaders in every industry are focused on how to offer trusted services to their customers, wherever they are. Digitate, combined with Microsoft Azure, is bringing ..."
+publishedDateTime: 2020-07-07T17:47:00Z
+webUrl: "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/"
+ampWebUrl: "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp"
 type: article
-quality: 59
-heat: 79
+quality: 79
+heat: 99
 published: true
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
-    width: 350
-    height: 233
+  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Tata-Consultancy-Services.png?fit=1280%2C598&ssl=1"
+    width: 1280
+    height: 598
     isCached: true
 
 related:
@@ -45,6 +47,6 @@ related:
       domain: openpr.com
     quality: 37
 
-secured: "FsPiXOxaneswPEI5BZCm9jfzAzKLPVRY5OWlA2q0o+FPq5Qku66JTi0QVQmJyqDb+B+fuCk4oGJM460H8bz3shB0QrTL50rNSiuKAkhQ8b9KhKtomf43Is8/4Hz6wT/TGcaZSpcUBLR0UACkQwC52aeUAGrbRgRbhDQlx11fcmGxdCgwDVfvYyiJuumgHbjAJnYDHaV7qfcPTA+44YO4Sqdp7ffPsE54X/R6xgyRXbbugE1mvgsDLdX9y3kPVeWOWN1Zud8Vex1VMRUPtCRhAJE6Y1bzVIqYGf5NP8juaDIZMCQFCLFKyhiSpZVhFOSMPdUEFbOPQrPWcsDr15sLtA==;OMSi5mrcGY/qBPBB9/l4jg=="
+secured: "oJ8gF2BMMVzOsik6zjMUe/sBGigw3pe3dmSy4OYdtteVbMIz8ggZP4yuMEEwxzIGcbs3HUKgZCFhc2K5hT1WkkHaD98VzZc0KUC1oIDVZiX/Ht5lmzEXxJZ71Ai0uRoKI0DMyMAx/d0KLhwHkuD9paQN4INa9kzUR6IOdv1v8rEP8ya8KsMpkbUFBLCmCroIR3T2S79IDxSllVFiQPPJhMj6m7vSM79cnYFgke05OLTTFHxTEZoxZGDc4IJ8xwl38+Ynx5WHlw2JIp3nIHMiuDC2RVucXMoQyhxq2hWPjVfDpEf/a5uH3zpfVPSBy645s/LkPwunxx1bGeyCoKUdww==;oTtEVcTqpnD/98iFWlPEfA=="
 ---
 

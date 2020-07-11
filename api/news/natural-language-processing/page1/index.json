@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-11-announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020.md",
+      "title": "Announcing the second annual VentureBeat AI Innovation Awards at Transform 2020",
+      "excerpt": "VentureBeat's AI Innovation Awards are back at Transform 2020, where we'll recognize and award emergent, compelling, and influential work in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-11T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-11-prepare-for-artificial-intelligence-to-produce-less-wizardry.md",
       "title": "Prepare for Artificial Intelligence to Produce Less Wizardry",
       "excerpt": "A new paper argues that the computing demands of deep learning are so great that progress on tasks like translation and self-driving is likely to slow.",
@@ -9,7 +60,7 @@
       "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -48,7 +99,9 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -59,7 +112,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -235,58 +288,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china.md",
-      "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
-      "excerpt": "The Pentagon's Joint AI Center is working on lethal \"tactical edge AI,\" but is not working on facial recognition, said JAIC director Nand Mulchandani.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
-      "publishedDateTime": "2020-07-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     },
     {
@@ -1403,36 +1404,36 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change.md",
-      "title": "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change",
-      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change\" -  The global artificial intelligence services market is expected to decline from $0.",
+      "path": "_news/2020-06-30-singapore-hyperlocal-ai-startup-snags-7m-in-series-a.md",
+      "title": "Singapore 'hyperlocal' AI startup snags $7M in Series A",
+      "excerpt": "NextBillion.ai secures $7 million in its Series A round and plans to use the funds to expand its team and boost product and research development, which focuses on customised \"hyperlocal\" artificial intelligence-powered applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30",
+      "webUrl": "https://www.zdnet.com/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/08/15/3865d5a7-ceeb-4bd0-b6bf-f531d5aa6638/thumbnail/1200x675/47f51ee7827b80c38dbb69764b1247c0/iotsecurity.jpg",
           "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change",
+          "height": 675,
+          "title": "Singapore 'hyperlocal' AI startup snags $7M in Series A",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T04:15:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-hyperlocal-ai-startup-snags-7m-in-series-a/",
+      "publishedDateTime": "2020-06-29T22:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1448,10 +1449,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
-        "Natural Language Processing",
-        "AI in Finance"
+        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -47,7 +47,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
       ]
     },
     {
@@ -58,7 +60,7 @@
       "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -97,7 +99,9 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -108,7 +112,7 @@
       "webUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -158,7 +162,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -872,6 +876,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
+      "title": "Defending Black Lives Means Banning Facial Recognition",
+      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "publishedDateTime": "2020-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-how-ai-could-revolutionize-the-future-of-mobile.md",
       "title": "How AI Could Revolutionize The Future Of Mobile",
       "excerpt": "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience.",
@@ -1104,7 +1158,7 @@
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1143,46 +1197,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-artificial-intelligence-will-aid-in-better-decision-making-capacity.md",
-      "title": "‘Artificial Intelligence will aid in better decision-making capacity’",
-      "excerpt": "MUMBAI: Artificial intelligence (AI) will not only help to resolve complex global problems but can enable businesses make better decisions on a day-to-day basis if applied well, said panelists at the Mint Pivot or Perish webinar on automation in the new normal post covid pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/07/10/600x338/AI-kkGH--621x414@LiveMint_1594343197035.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
-      "publishedDateTime": "2020-07-09T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

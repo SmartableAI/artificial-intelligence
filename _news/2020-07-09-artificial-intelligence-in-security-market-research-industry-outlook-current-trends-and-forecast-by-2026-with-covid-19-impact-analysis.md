@@ -83,6 +83,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2027"
+    excerpt: "The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2027-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market 2020 | Covid-19 Impact | Industry overview, supply and demand analysis and forecast 2027"
+    excerpt: "USD 253.8 Million in 2019, Market Growth - CAGR of 31.9%, Market Trends- Major key players are investing into research and development to revive their patented products and produce new products. The Global Artificial Intelligence in Drug Discovery Market Research Report published by Reports and Data provides key information to readers engaged in the industry."
+    publishedDateTime: 2020-07-10T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-2020-covid-19-impact-industry-overview-supply-and-demand-analysis-and-forecast-2027-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Material Handling Equipment Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
     excerpt: "The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-09T22:43:00Z

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adaptive Robot Market 2020 Analysis by Current Industry Status & Growth Opportunities, Top Key Players, Target Audience and Forecast to 2023"
-    excerpt: "Global Adaptive Robot Market Research By Application Industrial Robot Service Robot By Technology Navigation Vision Sensors Speech Recognition by End User Entertainment Automotive BFSI Healthcare Retail Forecast till 2023 Adaptive Robot Market Key players Market Research Future has identified following"
-    publishedDateTime: 2020-07-10T19:43:00Z
-    webUrl: "https://www.openpr.com/news/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
-    ampWebUrl: "https://www.openpr.com/amp/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-    images:
-      - url: "https://cdn.openpr.com/T/7/T710895429_g.jpg"
-        width: 417
-        height: 455
-        isCached: true
   - title: "Analysis of COVID-19 Impact | Software As A Service (SaaS) Market 2019-2023 | Use Of AI-enabled SaaS to Boost Growth | Technavio"
     excerpt: "Technavio has been monitoring the software as a service (SaaS) market and it is poised to grow by USD 60.36 bn during 2019-2023. The report offers an up-to-date analysis regarding the current market scenario,"
     publishedDateTime: 2020-07-08T03:15:00Z

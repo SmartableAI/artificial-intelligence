@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
+    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
+    publishedDateTime: 2020-07-08T04:05:00Z
+    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QiGrQoOjnt9MMgatd2irXcGC/Gn0CMrESVuAaEbY6BwCz7gAgpuyR44uJPPA9IYYeeAZQU0aS3+y9OtvxvOfRFpD+LhPLqp98GQ4oP4pf+LsAbRbZxqf1OJysXjxRHmCVb5RffS0DS9HawLJBVx7ymP6Jhb/GCcemxasG1/g6ahWWJ+YaWJD9NDbo/9EMszgCl/0k+rgI/0ObiNFhK54jZ7P9wbPA3x+SsSXWCKzm0OJ8GVH13LR1FOPV2Imbc0geQYc4/67VU5UfzU0NelcDYvjuXBYc4g8DIA4yRSeGBysZ6jx9aRJkRfD5UmZ1+ZQFSdY3o38uQPOptgiEoLt5ZmDE9XpSRQ0oYdp2dfvoWVkXOzGqfrbXCO0EjWoae9dI2fKx1NjodRfY0ZMMopBsfY/hmRw8fZqr+6zws5TZWJoGG5qh2+lznz+Qc/DGcg3rc/xE5IbF49P0Q1RS1D2Tj5eV6QlLPM8ZwR44BZ9nZWEvaOog7FZIkW5nroWN5asjOtUHrEYoamxIVIUF21FsQ==;SWe2ou50q2ph6WgFv5frIQ=="
 ---

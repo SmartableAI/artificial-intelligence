@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-austra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 466
+published: true
 
 provider:
   name: Forbes
@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI ceases offering its facial recognition technology in Canada"
-    excerpt: "Clearview AI has advised Canadian privacy protection authorities that, in response to their joint investigation, it will cease offering its"
-    publishedDateTime: 2020-07-06T20:03:00Z
-    webUrl: "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/"
+  - title: "The Pentagon’s AI director talks killer robots, facial recognition, and China"
+    excerpt: "The Pentagon's Joint AI Center is working on lethal \"tactical edge AI,\" but is not working on facial recognition, said JAIC director Nand Mulchandani."
+    publishedDateTime: 2020-07-08T21:33:00Z
+    webUrl: "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/"
+    ampWebUrl: "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 116
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 105
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Clearview AI stops facial recognition sales in Canada amid privacy investigation"
     excerpt: "Officials said Clearview AI will no longer operate in Canada, but investigation into Royal Canadian Mounted Police's use of Clearview's AI will continue."
     publishedDateTime: 2020-07-07T00:11:00Z
@@ -88,21 +95,21 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Defending Black Lives Means Banning Facial Recognition"
-    excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
-    publishedDateTime: 2020-07-10T12:00:00Z
-    webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+  - title: "Australia and the UK open joint investigation of Clearview AI"
+    excerpt: "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,"
+    publishedDateTime: 2020-07-09T14:51:00Z
+    webUrl: "https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html"
+    ampWebUrl: "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F15c3c470-c1ee-11ea-bdfb-491f89a32078&client=amp-blogside-v2&signature=e5f9098fa086536f67386570213d3fbc390d235a"
+        width: 600
+        height: 350
         isCached: true
   - title: "UK and Australia open joint data privacy investigation on Clearview AI"
     excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
@@ -120,20 +127,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
-    excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
-    publishedDateTime: 2020-07-06T20:49:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/07/06/technology/06reuters-clearview-ai-canada.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 84
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Clearview AI stops offering facial recognition technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
     publishedDateTime: 2020-07-07T01:48:00Z
@@ -145,6 +138,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Clearview AI faces more scrutiny from UK and Australian privacy commissioners"
+    excerpt: "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn."
+    publishedDateTime: 2020-07-09T18:04:00Z
+    webUrl: "https://www.techspot.com/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-18.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Facial recognition company Clearview AI probed by UK, Australia"
     excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday they have opened a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
     publishedDateTime: 2020-07-09T08:21:00Z
@@ -156,6 +165,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "International probe launched into facial recognition firm that scrapes images from the internet"
+    excerpt: "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ..."
+    publishedDateTime: 2020-07-09T11:25:00Z
+    webUrl: "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 77
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
+        width: 3999
+        height: 2666
+        isCached: true
   - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
     excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
     publishedDateTime: 2020-07-09T10:19:00Z
@@ -171,33 +196,6 @@ related:
       - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Is Facial Recognition Technology Good Or Bad?"
-    excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
-    publishedDateTime: 2020-07-10T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-  - title: "Clearview AI will stop offering facial recognition software in Canada, privacy officials say"
-    excerpt: "Clearview AI, the controversial U.S.-based technology firm, will no longer make its facial recognition software available in Canada, according to federal and provincial privacy authorities. A statement issued by the Office of the Privacy Commissioner of Canada on Monday said Clearview had advised officials of the move in response to an ongoing investigation by privacy authorities."
-    publishedDateTime: 2020-07-06T20:04:00Z
-    webUrl: "https://www.cbc.ca/news/technology/clearview-ai-stops-facial-recognition-in-canada-1.5639380"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5639380"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5639380"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 63
-    images:
-      - url: "https://i.cbc.ca/1.5639386.1594063251!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/clearview-ai.jpg"
-        width: 620
-        height: 349
         isCached: true
   - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
@@ -286,79 +284,22 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "How the Growing Facial Recognition Debate Impacts Martech"
-    excerpt: "In recent years image recognition has been hailed as a critical identifier of digital media to causal customer needs. But can it be an intrusion? Marketers worried about its application should pay attention to the facial recognition debates emerging today."
-    publishedDateTime: 2020-07-10T17:16:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
+  - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
+    excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
+    publishedDateTime: 2020-07-10T02:19:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 59
-    images:
-      - url: "https://www.cmswire.com/-/media/c69643c040bc4478a19763dc26a5d324.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Black lawmakers call for ban on police use of facial recognition technology"
-    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
-    publishedDateTime: 2020-07-08T16:14:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
-    ampWebUrl: "https://amp.freep.com/amp/5397596002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5397596002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
     quality: 57
     images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
         width: 1200
-        height: 678
+        height: 675
         isCached: true
-  - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
-    excerpt: "The federal privacy commissioner says U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts."
-    publishedDateTime: 2020-07-06T20:50:00Z
-    webUrl: "https://www.ctvnews.ca/politics/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner-1.5012850?autoPlay=true"
-    ampWebUrl: "https://beta.ctvnews.ca/national/politics/2020/7/6/1_5012850.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2020/7/6/1_5012850.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 55
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/2/21/1_4822055.jpg?cache_timestamp=1582305262634"
-        width: 3778
-        height: 2660
-        isCached: true
-  - title: "Clearview AI to stop offering facial recognition technology in Canada"
-    excerpt: "Clearview AI, an American company that provides biometric security software, will no longer offer its facial recognition services in Canada."
-    publishedDateTime: 2020-07-06T19:41:00Z
-    webUrl: "https://betakit.com/clearview-ai-to-stop-offering-facial-recognition-technology-in-canada/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 54
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Clearview-AI-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Facial-Recognition Firm Ends Operations in Canada, Watchdog Says"
-    excerpt: "Canada’s privacy watchdog said facial recognition software provider Clearview AI Inc. will no longer offer its services in the country, suspending a contract with its last remaining client, the Royal Canadian Mounted Police."
-    publishedDateTime: 2020-07-06T19:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-06/facial-recognition-firm-ends-operations-in-canada-watchdog-says"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
   - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
     excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
     publishedDateTime: 2020-07-09T17:46:00Z
@@ -384,33 +325,52 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "Clearview AI to end facial-recognition services in Canada, privacy commissioner says"
-    excerpt: "Clearview AI’s technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people"
-    publishedDateTime: 2020-07-06T19:31:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-clearview-ai-to-end-facial-recognition-services-in-canada-privacy/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/business/article-clearview-ai-to-end-facial-recognition-services-in-canada-privacy/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/article-clearview-ai-to-end-facial-recognition-services-in-canada-privacy/"
+  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
+    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
+    publishedDateTime: 2020-07-09T23:30:00Z
+    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/?mid=1"
+    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
+      name: City A.M.
+      domain: cityam.com
+    quality: 54
+    images:
+      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
+        width: 960
+        height: 600
+        isCached: true
+  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
+    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
+    publishedDateTime: 2020-07-10T00:03:00Z
+    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/"
+    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 54
+    images:
+      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
+        width: 960
+        height: 600
+        isCached: true
+  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
+    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
+    publishedDateTime: 2020-07-09T22:33:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
     quality: 52
     images:
-      - url: "https://www.theglobeandmail.com/resizer/eC_fE7YHuidFCCqboBzCI5Xvmk8=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/A7GFYFMGPZOSPCXQMGBJ4FZLOI.jpg"
-        width: 760
-        height: 535
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
         isCached: true
-  - title: "Clearview AI to stop facial recognition services in Canada, privacy watchdog says"
-    excerpt: "Clearview AI's technology allows for the collection of huge numbers of images from various sources that can help police forces, financial institutions and other clients identify people."
-    publishedDateTime: 2020-07-06T20:20:00Z
-    webUrl: "https://globalnews.ca/news/7144536/clearview-ai-services-canada/"
-    ampWebUrl: "https://globalnews.ca/news/7144536/clearview-ai-services-canada/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7144536/clearview-ai-services-canada/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 49
   - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
     excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
     publishedDateTime: 2020-07-11T11:00:00Z
@@ -422,22 +382,6 @@ related:
       name: heraldsun.com.au
       domain: heraldsun.com.au
     quality: 49
-  - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
-    excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
-    publishedDateTime: 2020-07-08T17:45:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VU25W3CILNCGFHXQXEQ4FFYWGA.JPG"
-        width: 1300
-        height: 867
-        isCached: true
   - title: "Facial recognition technology is expanding rapidly across Australia. Are our laws keeping pace?"
     excerpt: "There are questions being raised about the legality of scanning, storing and sharing facial images. The law currently doesn't prohibit even highly intrusive levels of surveillance by private entities."
     publishedDateTime: 2020-07-09T20:00:00Z
@@ -454,77 +398,33 @@ related:
         width: 320
         height: 241
         isCached: true
-  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
-    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
-    publishedDateTime: 2020-07-07T18:05:00Z
-    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+  - title: "Facial recognition needs auditing and ethics standards to be safe, AI Now bias critic argues"
+    excerpt: "The podcast on “How External Auditing is Changing the Facial Recognition Landscape with Deb Raji,” hosted by Sam Charrington, who asks about the genesis of the audits Raji and colleagues have performed of biometric facial recognition systems,"
+    publishedDateTime: 2020-07-10T15:53:00Z
+    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-needs-auditing-and-ethics-standards-to-be-safe-ai-now-bias-critic-argues"
     type: article
     provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 45
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 43
     images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
-        width: 600
-        height: 315
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
-  - title: "Africa: Future of Facial Recognition Technology in Africa"
-    excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
-    publishedDateTime: 2020-07-07T07:21:00Z
-    webUrl: "https://allafrica.com/stories/202007070165.html"
+  - title: "Facial recognition and thermal imaging to help fight virus"
+    excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
+    publishedDateTime: 2020-07-07T04:32:00Z
+    webUrl: "https://www.heraldscotland.com/business_hq/18565073.thermal-facial-imaging-fight-virus/"
     type: article
     provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 41
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
-  - title: "Columnist William Newman: Facial recognition technology: Ban it now"
-    excerpt: "This story began on June 27, 2019 at the Somerville City Council, which that evening unanimously adopted the state’s first municipal facial recognition technology ban. On Dec. 11, 2019, the Brookline Town Meeting,"
-    publishedDateTime: 2020-07-09T00:00:00Z
-    webUrl: "https://www.gazettenet.com/Columnist-William-Newman-35133581"
-    type: article
-    provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 41
-    images:
-      - url: "http://www.gazettenet.com/getattachment/59b14c9f-a96f-4eb2-bc2b-cb1e5c667780/0ce7ea6489e84ded8c1b5e68ddd00be9.jpg"
-        width: 499
-        height: 325
-        isCached: true
-  - title: "Canadians abandon face recognition software"
-    excerpt: "Watchdog growls at clearview Canada's privacy watchdog said facial recognition software provider Clearview AI will no longer offer its services in the country, suspending a contract with its last remaining client,"
-    publishedDateTime: 2020-07-07T10:23:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/51128-canadians-abandon-face-recognition-software"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
+      name: heraldscotland.com
+      domain: heraldscotland.com
     quality: 39
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/2fca4ada98a2d3db8f7c535ccc4551d6_L.jpg"
-        width: 620
-        height: 443
-        isCached: true
-  - title: "TikTok sued for storing facial recognition data"
-    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
-    publishedDateTime: 2020-07-07T13:48:00Z
-    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
-    type: article
-    provider:
-      name: Legal News Line
-      domain: legalnewsline.com
-    quality: 39
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.heraldscotland.com/resources/images/11558537/"
+        width: 1140
+        height: 540
         isCached: true
   - title: "Bias in Facial Recognition: Renewed Scrutiny of an Old Problem"
     excerpt: "Facial recognition offers some benefits, but poses certain risks that should be addressed as the technology is more widely adopted."
@@ -540,19 +440,19 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
-    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
-    publishedDateTime: 2020-07-08T04:05:00Z
-    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
+  - title: "Facial recognition firm suspends RCMP contract"
+    excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
+    publishedDateTime: 2020-07-08T20:25:00Z
+    webUrl: "https://www.burnabynow.com/facial-recognition-firm-suspends-rcmp-contract-1.24167057"
     type: article
     provider:
-      name: Human Rights Watch
-      domain: hrw.org
+      name: Burnaby Now
+      domain: burnabynow.com
     quality: 39
     images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
-        width: 1200
-        height: 800
+      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24167059.1594239240!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/mcevoy-therrien.jpg"
+        width: 560
+        height: 292
         isCached: true
   - title: "Trulioo Launches Facial Recognition, Document Verification Product"
     excerpt: "Trulioo has introduced a facial recognition and document validation technology to enable small businesses to provide online protection to their customers."
@@ -565,20 +465,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
-  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
-    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
-    publishedDateTime: 2020-07-09T22:16:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
-    type: article
-    provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "UK, Australia investigate Clearview facial recognition firm"
     excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
     publishedDateTime: 2020-07-09T15:07:00Z
@@ -607,6 +493,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
+    excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."
+    publishedDateTime: 2020-07-08T11:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
+        width: 600
+        height: 595
+        isCached: true
   - title: "Global Privacy Regulators Probe Facial Recognition Firm Clearview AI"
     excerpt: "The privacy regulators of the UK and Australia have announced a joint investigation into controversial facial recognition firm Clearview AI. “The Office of the Australian ... York Times report claimed that the startup had scraped as many as three billion ..."
     publishedDateTime: 2020-07-09T11:05:00Z
@@ -616,45 +518,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
-  - title: "Facial recognition technology is one of the most racist weapons in the police arsenal"
-    excerpt: "Thanks to the growing global anti-racism movement, the world is opening its eyes to how police use of facial recognition fits into the bigger picture of harm against Black and Indigenous people -- and how badly we need laws that govern,"
-    publishedDateTime: 2020-07-07T00:33:00Z
-    webUrl: "https://rabble.ca/columnists/2020/07/facial-recognition-technology-one-most-racist-weapons-police-arsenal"
-    type: article
-    provider:
-      name: rabble.ca
-      domain: rabble.ca
-    quality: 32
-    images:
-      - url: "https://rabble.ca/sites/default/files/node-images/img_0.png"
-        width: 865
-        height: 441
-        isCached: true
-  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
-    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
-    publishedDateTime: 2020-07-10T15:15:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 32
-    images:
-      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
-    excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
-    publishedDateTime: 2020-07-08T11:08:00Z
-    webUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/"
-    ampWebUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 31
   - title: "Clearview AI to end facial recognition services in Canada: privacy commissioner"
     excerpt: "OTTAWA — The federal privacy commissioner said U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts. The office of privacy watchdog ..."
     publishedDateTime: 2020-07-07T15:24:00Z
@@ -664,17 +527,6 @@ related:
       name: Canadian Manufacturing
       domain: canadianmanufacturing.com
     quality: 30
-  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
-    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
-    publishedDateTime: 2020-07-08T19:36:00Z
-    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 29
   - title: "Facial recognition firm investigated"
     excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media"
     publishedDateTime: 2020-07-10T11:00:00Z
@@ -684,31 +536,6 @@ related:
       name: Antelope Valley Press
       domain: avpress.com
     quality: 19
-  - title: "Argus® Offers 3-Month Free Trial on Polyp Detection and Sizing Artificial Intelligence Gastroenterology Technology"
-    excerpt: "Argus®, the only AI decision support technology that assists clinicians in the detection and sizing of polyps during colonoscopy procedures, has announced a 3-month free trial of their solution. This free trial offers a unique chance to compare detection rates and sizing with and without the"
-    publishedDateTime: 2020-07-09T07:15:00Z
-    webUrl: "https://www.pr.com/press-release/816384"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 15
-    images:
-      - url: "https://img.pr.com/release/2007/100128/pressrelease_original_100128_1594134685.png"
-        width: 2321
-        height: 798
-        isCached: true
-  - title: "Comelit Group offers Alexa integrated monitor with facial recognition technology to enhance door security"
-    excerpt: "Comelit Group’s Mini Handsfree WIFI Monitor has evolved to integrate with Amazon Alexa, and offer high-performance facial recognition technology, for the ultimate smart door entry"
-    publishedDateTime: 2020-07-10T10:49:00Z
-    webUrl: "https://www.sourcesecurity.com/news/comelit-group-offers-alexa-integrated-monitor-co-449-ga-co-1537871022-ga-npr.1594363204.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/comelit-group-offers-alexa-integrated-monitor-co-449-ga-co-1537871022-ga-npr.1594363204.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/comelit-group-offers-alexa-integrated-monitor-co-449-ga-co-1537871022-ga-npr.1594363204.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 7
 
 secured: "pEAxMSprC0DZCd9NHJWGmGd/nDz2lZb37oqFOx7NQhV8YaRLzWiWnn/bkeA6Dsh29KljGDL8b7eMqMf80fy/wBBfePUHY9QyPgxx3eqhFMBet6E7QR62OuOvHSDh1cRySvFkaAk5YEt9TWKIyk9zse8nc58Ga6RxhKCdvtkSBVCwbh9hlp9gkx3lQB4vMiDaOZyScVFG/XtsbPXZxqD3mU2OMbAhqg5uZmtVm/OyWKUYsyB9ht3PlzZn6BmLy12fmRM8BtNPVb4sR1haUrKhGTtZlqRBjkbrxRv1EhJCmRssYRiY/tedb/8tfN5aldnxc7GHvixxB1leZo+CDG7mixcUs0Se0YqW9bGPyckrbVUNubAHsdMtIIe7lAE4emwdefbmr8Cl+qZAx55UhL7DPCKt/BkHrJBNCJJXhnkir2Fu0+ChQ44ZCJ8Eko5rZr9uYlBGQijN/RUPHblDKsGvmtuxkMYBQUeCchicGelLHGn+FOTw0M7wQihIqB/3oHjF51bvAPE7mbJBauYhRQjHZw==;TEMNQwCno0+2nnn84R//3A=="
 ---

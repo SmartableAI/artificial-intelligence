@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure"
-    excerpt: "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud."
-    publishedDateTime: 2020-07-07T11:25:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
+  - title: "Digitate’s ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure"
+    excerpt: "Priya Vijayarajendran, Vice President – Data and AI, Microsoft Corp., said, “Business leaders in every industry are focused on how to offer trusted services to their customers, wherever they are. Digitate, combined with Microsoft Azure, is bringing ..."
+    publishedDateTime: 2020-07-07T17:47:00Z
+    webUrl: "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/"
+    ampWebUrl: "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp"
     type: article
     provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 59
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 79
     images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
-        width: 350
-        height: 233
+      - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Tata-Consultancy-Services.png?fit=1280%2C598&ssl=1"
+        width: 1280
+        height: 598
         isCached: true
   - title: "Digitate's ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure"
     excerpt: "Digitate, a software venture of Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, announced that the ignio™ SaaS su"

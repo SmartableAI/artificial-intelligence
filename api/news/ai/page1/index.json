@@ -9,7 +9,7 @@
       "webUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -47,7 +47,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
       ]
     },
     {
@@ -58,7 +60,7 @@
       "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -97,7 +99,9 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -108,7 +112,7 @@
       "webUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -158,7 +162,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -872,6 +876,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
+      "title": "Defending Black Lives Means Banning Facial Recognition",
+      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "publishedDateTime": "2020-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-how-ai-could-revolutionize-the-future-of-mobile.md",
       "title": "How AI Could Revolutionize The Future Of Mobile",
       "excerpt": "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience.",
@@ -1104,7 +1158,7 @@
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1143,6 +1197,55 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-13-billion-deal.md",
+      "title": "Exclusive: Amazon plans at least $100 million to keep Zoox talent after $1.3 billion deal",
+      "excerpt": "Amazon.com Inc plans to create at least $100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200709&t=2&i=1525229344&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG681UD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "publishedDateTime": "2020-07-09T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1194,7 +1297,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 132,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1310,106 +1413,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-07-09T14:25:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints.md",
-      "title": "Announcing the launch of Amazon Comprehend custom entity recognition real-time endpoints",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that can extract key phrases, places, names, organizations, events, sentiment from unstructured text, and more (for more information, see Detect Entities). But what if you want to add entity types unique to your business, like proprietary",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/comprehend-custom-real-time-endpoints-001.jpg",
-          "width": 800,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T13:53:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-optimizing-io-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker.md",
-      "title": "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker",
-      "excerpt": "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif",
-          "width": 719,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T12:11:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

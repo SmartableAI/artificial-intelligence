@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-08-the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china.md",
-      "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
-      "excerpt": "The Pentagon's Joint AI Center is working on lethal \"tactical edge AI,\" but is not working on facial recognition, said JAIC director Nand Mulchandani.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
-      "publishedDateTime": "2020-07-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-07-07-deepfakes-are-becoming-the-hot-new-corporate-training-tool.md",
       "title": "Deepfakes Are Becoming the Hot New Corporate Training Tool",
       "excerpt": "Coronavirus restrictions make it harder and more expensive to shoot videos. So some companies are turning to synthetic media instead.",

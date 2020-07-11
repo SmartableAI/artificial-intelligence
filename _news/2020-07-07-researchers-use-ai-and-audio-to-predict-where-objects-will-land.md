@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     height: 600
     isCached: true
     title: "Researchers use AI and audio to predict where objects will land"
-
-related:
-  - title: "Researchers use machine learning to build COVID-19 predictions"
-    excerpt: "Two assistant professors from Watson School build computer models that show 10% margin of error for short-term infection forecasts."
-    publishedDateTime: 2020-07-06T20:30:00Z
-    webUrl: "https://www.binghamton.edu/news/story/2491/researchers-use-machine-learning-to-build-covid-19-predictions"
-    type: article
-    provider:
-      name: Binghamton University
-      domain: binghamton.edu
-    quality: 39
-    images:
-      - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/covidcampus.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "2GCyaf0XbcBWFXN1TmS7GBBIyj2c7d2Iy6clFIy6d/V8tTyTDFOrp9xlyvbbbOAh83KPKQeO+j7kppurgiYZdh+dvGXxsNX2WtnCF7xcyDfNd+DM7EeEtrqJn0m8mEd9cHU/BEV3Re8KJERrD0lda6LE5d79YJKQjTp3ZSN913E4oTxSpKxc7/9ROMblCAuF6rVu+8mwBX6/qyG4FxsKK2V4ogpnrvYnjWHreSsXtKNl3G3xts044yLJpriHgNgGzbd6LHz5KgsGipJYlw4DJc59p1lVO2sRHmNH0t73/Pa/yUTHV4ry21HHDUvxuNiVO/JwaLaLA2gYh57aRrdikJEgoTu/OqusvKsQ8PpCaWkLYEhYzS7HROj1m0JqLXM81HcHBS1KqoJopmY48rPhvBh5CCzpH+1InR8CgcPpnH94qq4vPK+lZ3yyF3v0HJTtHT4bBEMvxZz9FibDAikx+On0qdiM7vAwWZrFOW8aOcC3AFHXEyO0jMnhnSn6DFMmqyTW0xNP/2R2oSU+F0mYMQ==;ne8HmWeEQnJ5sLhyAizZvA=="
 ---

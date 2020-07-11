@@ -23,33 +23,22 @@ topics:
   - AI
 
 related:
-  - title: "International probe launched into facial recognition firm that scrapes images from the internet"
-    excerpt: "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ..."
-    publishedDateTime: 2020-07-09T11:25:00Z
-    webUrl: "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
+  - title: "Artificial Intelligence: The Case for Regulation"
+    excerpt: "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society."
+    publishedDateTime: 2020-07-09T15:03:00Z
+    webUrl: "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/"
+    ampWebUrl: "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp"
+    cdnAmpWebUrl: "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
+      name: Cherwell Online
+      domain: cherwell.org
+    quality: 61
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
-        width: 3999
-        height: 2666
+      - url: "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png"
+        width: 850
+        height: 477
         isCached: true
-  - title: "New Research Reveals Adoption and Implementation of Artificial Intelligence in the Enterprise"
-    excerpt: "Informa Tech media brands, InformationWeek and ITPro Today, today announced findings from their latest research survey the"
-    publishedDateTime: 2020-07-09T17:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16574174/new-research-reveals-adoption-and-implementation-of-artificial-intelligence-in-the-enterprise"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16574174"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16574174"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
 
 secured: "KXzKNpGNDEvUjWQgXeNu08u0DS9KAGnhxa8Hdd2JXfLAdyEaKByAJIqupf+BShjBngvXh/jUh+MC5Rr1vhtF+Z0o42yTU8BJS99DtC8GfjhEibchvSM2reKPaqCWjgoHmYoCyKBjQHlAywp+biKO/Gopfpg/n5ssfbO8pISuoMXCqqYSd9kgSZ7WE5CuLsh3hwrSHuxU/HcEl0n1Ja4+VgwX68ysHfP8Ad+FjuRhgWriwt3mnUSr7ISZjMAB3XnQs7/73VTKYAO3RfRmB/+KfjowVDz0Z5LLpLl29GeNbJTVA9DVrbOTIgmN/+mp7VVjK94Zz66neIhCL4AnpwxXzw==;xsQtPaLNGdiMdSzFou9d9Q=="
 ---

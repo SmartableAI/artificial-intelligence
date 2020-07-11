@@ -8,7 +8,7 @@ ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
 type: article
 quality: 79
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
         width: 1200
         height: 630
-        isCached: true
-  - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
-    excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
-    publishedDateTime: 2020-07-08T20:07:00Z
-    webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
-    ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
-        width: 940
-        height: 627
         isCached: true
   - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
     excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."

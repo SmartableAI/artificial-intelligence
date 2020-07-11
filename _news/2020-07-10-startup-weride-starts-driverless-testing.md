@@ -55,6 +55,20 @@ related:
         width: 768
         height: 483
         isCached: true
+  - title: "This self-driving startup built a “car without wheels” for remote driving"
+    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
+    publishedDateTime: 2020-07-11T13:00:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 53
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "That Reported ‘Snakes In A Car’ Frantic Driver Is Thankfully Okay, So Consider These Self-Driving Car Ramifications"
     excerpt: "Incidents of snakes in cars have been reported in Florida from time-to-time. This seems eminently sensible since we might readily expect snakes to exist there and warnings aplenty are posted throughout the Sunshine State to be wary of potential poisonous snakes."
     publishedDateTime: 2020-07-08T15:41:00Z

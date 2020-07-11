@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-10-exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-13-billion-deal.md",
+      "title": "Exclusive: Amazon plans at least $100 million to keep Zoox talent after $1.3 billion deal",
+      "excerpt": "Amazon.com Inc plans to create at least $100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200709&t=2&i=1525229344&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG681UD",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A3C8",
+      "publishedDateTime": "2020-07-09T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-artificial-intelligence-will-aid-in-better-decision-making-capacity.md",
+      "title": "‘Artificial Intelligence will aid in better decision-making capacity’",
+      "excerpt": "MUMBAI: Artificial intelligence (AI) will not only help to resolve complex global problems but can enable businesses make better decisions on a day-to-day basis if applied well, said panelists at the Mint Pivot or Perish webinar on automation in the new normal post covid pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/07/10/600x338/AI-kkGH--621x414@LiveMint_1594343197035.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity/amp-11594342977989.html",
+      "publishedDateTime": "2020-07-09T18:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis.md",
       "title": "Deep Learning Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis",
       "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
@@ -9,7 +98,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 132,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -533,6 +622,57 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
+      "title": "UK And Australia To Probe Clearview AI Facial Recognition",
+      "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 466,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-09T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-theres-an-ai-for-every-step-in-the-hiring-process.md",
       "title": "There’s an AI for every step in the hiring process",
       "excerpt": "From writing a job description to analyzing an interview, a growing crop of AI companies make the case that a hiring manager never needs to make a suboptimal decision again.",
@@ -624,6 +764,48 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
+      "title": "Artificial Intelligence: The Case for Regulation",
+      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
+      "sourceUrl": null,
+      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
+          "width": 850,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "publishedDateTime": "2020-07-09T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cherwell Online",
+        "domain": "cherwell.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
       "title": "Ask a Techspert: How do machine learning models explain themselves?",
       "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
@@ -671,55 +853,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-australia-and-the-uk-open-joint-investigation-of-clearview-ai.md",
-      "title": "Australia and the UK open joint investigation of Clearview AI",
-      "excerpt": "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F15c3c470-c1ee-11ea-bdfb-491f89a32078&client=amp-blogside-v2&signature=e5f9098fa086536f67386570213d3fbc390d235a",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html",
-      "publishedDateTime": "2020-07-09T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1067,159 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-how-ibm-is-fighting-covid-19-with-ai.md",
-      "title": "How IBM is fighting COVID-19 with AI",
-      "excerpt": "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
-      "title": "Break into artificial intelligence with this four-course online training for $35",
-      "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "publishedDateTime": "2020-07-09T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
-      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
-      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
-          "width": 720,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "publishedDateTime": "2020-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

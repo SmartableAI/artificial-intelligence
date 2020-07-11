@@ -109,6 +109,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/</loc>
+    <lastmod>2020-07-10T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/</loc>
     <lastmod>2020-07-10T04:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -141,6 +147,12 @@
   <url>
     <loc>https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars</loc>
     <lastmod>2020-07-09T21:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-amazon-com-zoox-exclusive/exclusive-amazon-plans-at-least-100-million-to-keep-zoox-talent-after-1-3-billion-deal-idUSKBN24A3C8</loc>
+    <lastmod>2020-07-09T20:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -217,6 +229,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/</loc>
+    <lastmod>2020-07-09T08:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/</loc>
     <lastmod>2020-07-09T08:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,14 +247,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/</loc>
-    <lastmod>2020-07-09T08:00:00-07:00</lastmod>
+    <loc>https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/</loc>
+    <lastmod>2020-07-09T08:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html</loc>
-    <lastmod>2020-07-09T07:51:00-07:00</lastmod>
+    <loc>https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/</loc>
+    <lastmod>2020-07-09T08:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -325,12 +343,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html</loc>
-    <lastmod>2020-07-09T04:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.theverge.com/21317055/robot-coronavirus-hospital-pandemic-help-automation</loc>
     <lastmod>2020-07-09T04:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -339,6 +351,12 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between</loc>
     <lastmod>2020-07-09T02:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&amp;code=38be8451-0069-41f6-a957-dd1f7ef6c2d8</loc>
+    <lastmod>2020-07-09T02:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -375,12 +393,6 @@
   <url>
     <loc>https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume</loc>
     <lastmod>2020-07-08T17:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/</loc>
-    <lastmod>2020-07-08T14:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -529,8 +541,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/07/08/facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection/</loc>
-    <lastmod>2020-07-08T05:17:00-07:00</lastmod>
+    <loc>https://about.fb.com/news/2020/07/civil-rights-audit-report/</loc>
+    <lastmod>2020-07-08T06:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -615,6 +627,12 @@
   <url>
     <loc>https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/</loc>
     <lastmod>2020-07-07T11:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/</loc>
+    <lastmod>2020-07-07T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -741,12 +759,6 @@
   <url>
     <loc>https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/</loc>
     <lastmod>2020-07-07T04:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
-    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1807,14 +1819,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30</loc>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16444565/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change</loc>
     <lastmod>2020-06-30T04:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

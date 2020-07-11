@@ -82,7 +82,7 @@ related:
   - title: "AI for self-driving cars doesn’t account for crime"
     excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
     publishedDateTime: 2020-07-10T17:09:00Z
-    webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx"
+    webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx?m=1"
     type: article
     provider:
       name: GCN

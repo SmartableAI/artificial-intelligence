@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-11-announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020.md",
+      "title": "Announcing the second annual VentureBeat AI Innovation Awards at Transform 2020",
+      "excerpt": "VentureBeat's AI Innovation Awards are back at Transform 2020, where we'll recognize and award emergent, compelling, and influential work in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-11T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-amp-robotics-named-to-forbes-ai-50.md",
       "title": "AMP Robotics Named to Forbes AI 50",
       "excerpt": "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of Amer",
@@ -9,7 +60,7 @@
       "webUrl": "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -134,6 +185,48 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
+      "title": "Artificial Intelligence: The Case for Regulation",
+      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
+      "sourceUrl": null,
+      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
+          "width": 850,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "publishedDateTime": "2020-07-09T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cherwell Online",
+        "domain": "cherwell.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1262,106 +1355,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
-      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
-      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
-      "publishedDateTime": "2020-07-01T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
-      "title": "In These Factories, Inspector Robot Will Check Your Work",
-      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "In These Factories, Inspector Robot Will Check Your Work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

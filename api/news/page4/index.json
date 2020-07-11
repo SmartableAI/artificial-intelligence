@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-08-googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images.md",
+      "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
+      "excerpt": "Google says it will begin providing context around images in Google Images, based on the content of the webpages hosting those images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1593073191933.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
+      "publishedDateTime": "2020-07-08T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages.md",
+      "title": "Facebook’s speech recognition model supports 51 different languages",
+      "excerpt": "Facebook researchers developed a language model they say can recognize words in 51 different languages, including 'low-resource' languages like Persian.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s speech recognition model supports 51 different languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
+      "publishedDateTime": "2020-07-08T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices.md",
       "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices",
       "excerpt": "Based on imec’s Analog in Memory Computing (AiMC) architecture utilizing GF’s 22FDX® solution, the new chip is optimized to perform deep neural network calculations on in-memory computing ...",
@@ -627,32 +726,32 @@
       "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
       "excerpt": "An independent civil rights review found the company's efforts to detect algorithmic bias are falling short and leave users vulnerable to manipulation.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection/",
+      "webUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": 171,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
+          "url": "https://about.fb.com/wp-content/uploads/2020/07/NRP-Civil_Rights_Audit_Report_banner_FINAL.jpg?fit=4000%2C2251",
+          "width": 4000,
+          "height": 2251,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection/amp/",
-      "publishedDateTime": "2020-07-08T05:17:00-07:00",
+      "ampWebUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "publishedDateTime": "2020-07-08T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -668,7 +767,6 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -1086,96 +1184,6 @@
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications.md",
-      "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
-      "excerpt": "Dubai Electricity and Water Authority (DEWA) was awarded a certificate of acknowledgement from US-based NVIDIA Corporation for being the first UAE government organisation to adopt NVIDIA GPU Computing",
-      "sourceUrl": null,
-      "webUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.emirates247.com/polopoly_fs/1.695296.1594189204!/image/image.jpg",
-          "width": 749,
-          "height": 446,
-          "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
-      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
-      "publishedDateTime": "2020-07-07T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Emirates247",
-        "domain": "emirates247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety.md",
-      "title": "University of Melbourne and Cubic test AI camera to improve road safety",
-      "excerpt": "The University of Melbourne and Cubic Transportation Systems have partnered to test how an artificial intelligence camera can be used to improve road user safety and traffic management. As part of the project,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/1cb27067-607c-459a-9525-285eb4948af9/gridsmart-final.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "University of Melbourne and Cubic test AI camera to improve road safety",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "publishedDateTime": "2020-07-07T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

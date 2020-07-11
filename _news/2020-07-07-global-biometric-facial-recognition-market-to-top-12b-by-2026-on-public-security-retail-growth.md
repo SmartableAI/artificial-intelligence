@@ -41,6 +41,33 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Is Facial Recognition Technology Good Or Bad?"
+    excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
+    publishedDateTime: 2020-07-10T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+  - title: "How the Growing Facial Recognition Debate Impacts Martech"
+    excerpt: "In recent years image recognition has been hailed as a critical identifier of digital media to causal customer needs. But can it be an intrusion? Marketers worried about its application should pay attention to the facial recognition debates emerging today."
+    publishedDateTime: 2020-07-10T17:16:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/c69643c040bc4478a19763dc26a5d324.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Facial Recognition Is Here But We Have No Laws"
     excerpt: "Americans have also gotten a look at a more insidious police capability: facial recognition systems with the ability to identify faces in a crowd and track people as they move through the world. As devotees of any police procedural drama will know,"
     publishedDateTime: 2020-07-08T15:00:00Z
@@ -55,34 +82,45 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Facial recognition firm suspends RCMP contract"
-    excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
-    publishedDateTime: 2020-07-08T20:25:00Z
-    webUrl: "https://www.burnabynow.com/facial-recognition-firm-suspends-rcmp-contract-1.24167057"
+  - title: "TikTok sued for storing facial recognition data"
+    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
+    publishedDateTime: 2020-07-07T13:48:00Z
+    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
     type: article
     provider:
-      name: Burnaby Now
-      domain: burnabynow.com
+      name: Legal News Line
+      domain: legalnewsline.com
     quality: 39
     images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24167059.1594239240!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/mcevoy-therrien.jpg"
-        width: 560
-        height: 292
+      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Computing Professionals Alliance Calls for Facial Recognition Moratorium"
-    excerpt: "The Association for Computing Machinery has come out in favor of a ban on biometric facial recognition technology, arguing"
-    publishedDateTime: 2020-07-06T20:38:00Z
-    webUrl: "https://findbiometrics.com/computing-professionals-alliance-calls-for-facial-recognition-moratorium-907062/"
+  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
+    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
+    publishedDateTime: 2020-07-09T22:16:00Z
+    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 38
+      name: 9&10 News
+      domain: 9and10news.com
+    quality: 39
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/Face1-1024x678.jpg"
-        width: 1024
-        height: 678
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
+        width: 720
+        height: 480
         isCached: true
+  - title: "Facial recognition technology’s double-edged sword"
+    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-11T12:37:00Z
+    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
+    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 39
   - title: "Video surveillance to drive biometric facial recognition market to $12.9B by 2027"
     excerpt: "By 2027, the high demand in advanced video surveillance, as well as AI and machine learning adoption will have generated a 14.8 percent CAGR for the biometric facial recognition market, reaching $12.92 billion,"
     publishedDateTime: 2020-07-09T20:41:00Z
@@ -97,6 +135,28 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
+    excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
+    publishedDateTime: 2020-07-08T11:08:00Z
+    webUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/"
+    ampWebUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 31
+  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
+    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
+    publishedDateTime: 2020-07-08T19:36:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 29
   - title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
     excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
     publishedDateTime: 2020-07-09T13:35:00Z

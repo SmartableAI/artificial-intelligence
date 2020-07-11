@@ -3,7 +3,7 @@ category: news
 title: "AI for self-driving cars doesn’t account for crime"
 excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
 publishedDateTime: 2020-07-10T17:09:00Z
-webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx"
+webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx?m=1"
 type: article
 quality: 39
 heat: -1
@@ -105,6 +105,6 @@ related:
         height: 931
         isCached: true
 
-secured: "XPogh0N6HP6ZkT+9S9To+/OgkrpI43QIgL9AwVPI8HhK2TnbADInCPF/Lq8gXsyrFG2ejLrTGFuMj3cuWrjJlv/VYJY0l2I+KzozP3ERJ4hxdCIQmTBMsRTRKTjaik+AohDL+lapvmafo0I3Dxu1q/hFRqQ7xuqoNRY1O1OBk2/LAzzUmX+Lrkk2jxg09krY7oy4WHvfCZPpO6ywKdlgV6cC90qjL7e0P4ycuz0gJLXn3OUhVxs2YVkXPtWeb6hQeGl5mY8sBUHqg9jaZoU8wuRf+neTyPCsibIaf0jyE3xuBuxCfI91WuSFTO7I0EodQ0JGvYueXrG+ymRrlKp7LYnajDLsf7FmwHZBG4WHdeLZWzlWSijq6nqFeepmoFLrDn+FZa7uA/6z7Ri1rIjDVbZFoio/lxqDDS102dAbXjAMW3mk3HWgW/XXJEeck27TNSWv+41StpHjwRf7oDfSOYiJc+9g3UsNlr7MOgmzKnsxFl8MAaC+m8kdLiuA72e4Q5ViTPMeVotsuEnEGoVQLg==;7+QkLtfY3xLo9OfE17hMbg=="
+secured: "7/sztwy+s1n6q6jXgd/jz0AIrc3mBjHJAijb6Y8JRyUQmNLgT0skoK1iExPd0niaXtkj4vZb1bF4Q21nUsrScGar9JzDKLBjk2uN6nUN4PITTdKkUkdAwEIGmg7YNyjnlsI3VzGzm9M3BllJMvxikatAvksMJPJlx61ctvpwPvVUwPhi1xpktKVWTG2xEAsWfoJnpZqkZnAhuD+maYz9Y3lVdLaxCoezX8NErePF4qvqZxOReXv9p+c07TzpRCwTm4jh979fsWq01VUNVqnM32U2kqQ6qY10E62N9i+jIwv6jtvM//J+Lh4CbQRn1lNuUNFm0MSM4a3GD5fP/QheJQ==;8goUOm3F2X6ZU0xddhbv3A=="
 ---
 

@@ -56,6 +56,20 @@ related:
         width: 768
         height: 483
         isCached: true
+  - title: "This self-driving startup built a “car without wheels” for remote driving"
+    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
+    publishedDateTime: 2020-07-11T13:00:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 53
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Startup WeRide starts driverless testing"
     excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
     publishedDateTime: 2020-07-10T02:08:00Z

@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
-    excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
-    publishedDateTime: 2020-07-08T20:07:00Z
-    webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
-    ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
-        width: 940
-        height: 627
-        isCached: true
   - title: "Can a Police Drone Recognize Your Face?"
     excerpt: "using ever-more-common police facial recognition technologies. “Drones … represent the power of new surveillance tech as deployed by law enforcement—a new future where they have at their ..."
     publishedDateTime: 2020-07-08T19:15:00Z

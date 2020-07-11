@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforce
 cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
         width: 500
         height: 300
+        isCached: true
+  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
+    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
+    publishedDateTime: 2020-07-08T04:05:00Z
+    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4KP1AF/8dMjbEYab5Fpnnb5pLDkO/MrgcmNpVSi3BaY2VffOJuIceOhJnAQ7R9I7QH3qpgQa7QqHQbfhxBcqEhy7ivHcyCL/gAB06nZu1FRMjX7IbSHTWTWOjMGGh52cnHOjO/l0/dwtP4F3d+unn3fa8lDiNUtk6qe1tKLdNsdXXAZEIYHEKDqY8rI3rOU2Dzlil1kKSFFYvGyOznh+nUI6m9fO5alor3X6Dls8g5eAU4yCA82jjIqRraVff+0eDZCX+6pwQEp6i6df7jnkIgss/TJkYv0wTL10iZ3UUk7+DgylpyjGt8OD7U6+0Sg63aHHo3kCCwzBZu0zN+T8Ag==;2RxfQn2eqpfe5cPusrgmJw=="

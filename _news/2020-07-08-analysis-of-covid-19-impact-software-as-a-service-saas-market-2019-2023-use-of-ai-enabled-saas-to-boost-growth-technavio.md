@@ -40,22 +40,6 @@ related:
         width: 480
         height: 271
         isCached: true
-  - title: "Adaptive Robot Market 2020 Analysis by Current Industry Status & Growth Opportunities, Top Key Players, Target Audience and Forecast to 2023"
-    excerpt: "Global Adaptive Robot Market Research By Application Industrial Robot Service Robot By Technology Navigation Vision Sensors Speech Recognition by End User Entertainment Automotive BFSI Healthcare Retail Forecast till 2023 Adaptive Robot Market Key players Market Research Future has identified following"
-    publishedDateTime: 2020-07-10T19:43:00Z
-    webUrl: "https://www.openpr.com/news/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
-    ampWebUrl: "https://www.openpr.com/amp/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2088468/adaptive-robot-market-2020-analysis-by-current-industry-status"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-    images:
-      - url: "https://cdn.openpr.com/T/7/T710895429_g.jpg"
-        width: 417
-        height: 455
-        isCached: true
 
 secured: "5pzeD7QLQc21yvhEYy5+vBdx1+yLkHy+W3ER84r9fPfvLFI6stBAj492Og8Gn8gzjruX2nHiI+VKj4v0EwiaGzR9G/VPc9GSHk2S8ZoDNicwdXQ4cBeA07TwFI/T59YKqkzfm1NtnUOU4Txr3DaXyUEozWAhqhibCxGw+//NvyS8W6yoPTles0c8T4UrEEsnln4L+VEUsLFy+Az40mf9Lt8c/vWocTEaPPuab+YK3LRNODhKxShwtZNabO4thZUAepS0dSMD2bfQ/dDrOI6STshNrvybbjjXE9yFZUxk8/O6Dpp+jtHSZ5BylYAP+6rxEcX3CS0efG8GKTz3p1hlUw==;EiFhuKCX7xQ/BmM+tqvqyA=="
 ---

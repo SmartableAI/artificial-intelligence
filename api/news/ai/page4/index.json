@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-08-explainer-what-is-machine-learning.md",
+      "title": "Explainer: What Is Machine Learning?",
+      "excerpt": "Machine learning (ML) is the study of computer systems that automatically improve with experience, a hot topic in the last few years, but a concept that's been around for decades. IBM programmer and AI pioneer Arthur Samuel coined the term \"machine learning\" in 1952.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/article/2048-machine-learning-explained/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/2048/images/2020-07-04-image.jpg",
+          "width": 2560,
+          "height": 1764,
+          "title": "Explainer: What Is Machine Learning?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/article/2048-machine-learning-explained/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2048-machine-learning-explained/",
+      "publishedDateTime": "2020-07-08T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
+      "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+      "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "publishedDateTime": "2020-07-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
       "title": "The US, China and the AI arms race: Cutting through the hype",
       "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
@@ -471,7 +565,7 @@
       "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 149,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -559,6 +653,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure.md",
+      "title": "Digitate’s ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure",
+      "excerpt": "Priya Vijayarajendran, Vice President – Data and AI, Microsoft Corp., said, “Business leaders in every industry are focused on how to offer trusted services to their customers, wherever they are. Digitate, combined with Microsoft Azure, is bringing ...",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Tata-Consultancy-Services.png?fit=1280%2C598&ssl=1",
+          "width": 1280,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp",
+      "publishedDateTime": "2020-07-07T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1196,7 +1331,7 @@
       "webUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1284,154 +1419,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-incorporating-ai-in-telehealth-chatbots.md",
-      "title": "Incorporating AI in telehealth chatbots",
-      "excerpt": "Tonya Hall talks to Evan Kohn, chief business officer and head of marketing at Pypestream, to learn more about the difference between scripted vs pre-defined AI chatbots and how both of these roles can be used to enhance the telehealth experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/incorporating-ai-in-telehealth-chatbots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/07/0ed0edc0-cb1c-48d2-a20d-dbe4f8bf4cc5/thumbnail/770x578/d83e487c4416bc4ddc223c63e7534166/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Incorporating AI in telehealth chatbots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-shoppers-will-interact-with-robots-but-do-have-limits.md",
-      "title": "Shoppers Will Interact With Robots, But Do Have Limits",
-      "excerpt": "Consumers are open to robots aiding their shopping journey and even making their next meal but draw the line at a machine spending their money without their involvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197242566%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Shoppers Will Interact With Robots, But Do Have Limits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/amp/",
-      "publishedDateTime": "2020-07-07T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026.md",
-      "title": "COVID19-Updated: Artificial Intelligence (AI) Market By Technological Breakthroughs To 2026",
-      "excerpt": "As per the research held by Acumen Research and Consulting, The global Artificial Intelligence (AI) Market size is expected to reach USD 160 billion by 2026 with a CAGR of 49% over the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/covid19-updated-artificial-intelligence-ai-market-by-technological-breakthroughs-to-2026-2020-07-07",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "COVID19-Updated: Artificial Intelligence (AI) Market By Technological Breakthroughs To 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T05:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

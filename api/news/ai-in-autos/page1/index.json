@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-11-prepare-for-artificial-intelligence-to-produce-less-wizardry.md",
+      "title": "Prepare for Artificial Intelligence to Produce Less Wizardry",
+      "excerpt": "A new paper argues that the computing demands of deep learning are so great that progress on tasks like translation and self-driving is likely to slow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0663989798446ce8080282/master/pass/business_artificial-intelligence_687292162.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
+      "publishedDateTime": "2020-07-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-ai-50-founders-predict-what-artificial-intelligence-will-look-like-after-covid-19.md",
       "title": "AI 50 Founders Predict What Artificial Intelligence Will Look Like After Covid-19",
       "excerpt": "As more parts of a company are forced to move online, Reiser expects to see AI being put to use to help businesses analyze the newly available data or to increase efficiency. With artificial intelligence becoming ubiquitous in our daily lives,",
@@ -61,7 +113,7 @@
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -151,6 +203,48 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
+      "title": "Artificial Intelligence: The Case for Regulation",
+      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
+      "sourceUrl": null,
+      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
+          "width": 850,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "publishedDateTime": "2020-07-09T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cherwell Online",
+        "domain": "cherwell.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -246,7 +340,7 @@
       "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1288,106 +1382,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self-driving-robotaxi-service-in-shanghai.md",
-      "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
-      "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
-      "publishedDateTime": "2020-06-28T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-amazon-acquires-self-driving-car-startup-zoox.md",
-      "title": "Amazon Acquires Self-Driving Car Startup Zoox",
-      "excerpt": "Although Zoox has been trying to develop a robot taxi service, Amazon could use the same technologies to one day power self-driving delivery vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03B67ZCaMv3OJA9m8qLEVfX-1.fit_lim.size_1200x630.v_1593188466.jpg",
-          "width": 940,
-          "height": 529,
-          "title": "Amazon Acquires Self-Driving Car Startup Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/amazon-to-acquire-self-driving-car-startup-zoox?amp=true",
-      "publishedDateTime": "2020-06-28T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

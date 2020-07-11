@@ -9,7 +9,7 @@
       "webUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -49,6 +49,107 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-defending-black-lives-means-banning-facial-recognition.md",
+      "title": "Defending Black Lives Means Banning Facial Recognition",
+      "excerpt": "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp",
+      "publishedDateTime": "2020-07-10T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
+      "title": "UK And Australia To Probe Clearview AI Facial Recognition",
+      "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 466,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-09T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -102,56 +203,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-09-international-probe-launched-into-facial-recognition-firm-that-scrapes-images-from-the-internet.md",
-      "title": "International probe launched into facial recognition firm that scrapes images from the internet",
-      "excerpt": "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775",
-          "width": 3999,
-          "height": 2666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html",
-      "publishedDateTime": "2020-07-09T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-09-despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida.md",
       "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
       "excerpt": "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes.",
@@ -159,7 +210,7 @@
       "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -190,58 +241,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china.md",
-      "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
-      "excerpt": "The Pentagon's Joint AI Center is working on lethal \"tactical edge AI,\" but is not working on facial recognition, said JAIC director Nand Mulchandani.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The Pentagon’s AI director talks killer robots, facial recognition, and China",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/",
-      "publishedDateTime": "2020-07-08T14:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     },
     {
@@ -302,7 +301,7 @@
       "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 149,
+      "heat": 199,
       "tags": null,
       "images": [
         {

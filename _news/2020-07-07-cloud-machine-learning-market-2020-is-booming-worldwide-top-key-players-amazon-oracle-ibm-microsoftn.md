@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platforms Market Top Manufacturers, Trends, Size, Market Share by Regions, Drivers, Challenges and Forecast to 2023"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence"
-    publishedDateTime: 2020-07-09T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-top-manufacturers-trends-size-market-share-by-regions-drivers-challenges-and-forecast-to-2023-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "OkBnbFDoGDUq87+x7p0e50NWAr336a9GqTTmKxHOhFFuqqmluwxyyxAM0OOJ03lr8dIfbCAMQH3KFNQqBaJv5WNlcZpTorAbNbWG3pQwIXF60R9IdKAQuB0yMX2vj+hgCJB33P7bsKhOIp1Y1p/9VmMUgRJ2Wpi8NDETSn23pcDoS1h2DAjJLjTvjzJsmbIB6P1b3/tIh5gGC21MQhHEfp3jHjTtGfRl8GCxMmhjW/vSYctcXo9UENIWD8DvmA267njTVXPxGr+ifL1mm/wW6EH40OwgmxcPGmJ4/kZUTqMy1jgaBTxYRMeQMaak+VsV5d/8FRL125XNMoJAUCVtRg==;wqCwolIo5kABvP8eI0ZREw=="
 ---
