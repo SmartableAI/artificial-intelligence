@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-06T19:48:00Z
 webUrl: "https://insidehpc.com/2020/07/reports-tsmc-may-commercialize-production-of-cerebras-style-ai-supercomputing-chips/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 531
     isCached: true
     title: "Reports: TSMC May Commercialize Production of Cerebras-style AI Supercomputing Chips"
-
-related:
-  - title: "TSMC to Build Supercomputing AI Chips, Ramps Wafer-Scale Computing"
-    excerpt: "Wafer-scale computing is moving ahead, and TSMC plans to be at the forefront of the effort with new packaging technology improvements."
-    publishedDateTime: 2020-07-06T18:00:00Z
-    webUrl: "https://www.extremetech.com/computing/312392-tsmc-to-build-supercomputing-ai-chips-ramps-wafer-scale-computing"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 54
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2019/08/cerebras-1-100808712-large-e1566305886625.jpg"
-        width: 1187
-        height: 668
-        isCached: true
 
 secured: "qbq1RiVueqFvhDz1kI4oH6evWQB01fYEk1sZFPxseHRmK26L4Gcjr5eewWTm9D3lOAnNCQ/JZs+jVf+w/9FFUO+WJ6+V2T/vagNjx5eGwZC95CEY+EFQTYjPQD5S0qXI4QZ+mvtWUqxsldTixTTTDnL1a0OTp+Fc1lZipzaAhfXUVeEe7RENYwEZdIYs+HMfhez9Na6+wMg2gvuL8E4ypy1o1mTU9NcDYUqRn+u5adar5lo/RMJ8FYPQ6ovtzX2jo064PdITedkx/GT+muWm94g+RefmudAnVSdfhcpUOqx3xkd49HilqGruBO7Nq6leIR9VtPlypfzSOQkem2rx8PlK0xpbE3qqlbSQ4rzMLE+n7fAl8oJ7DUvuF7F0G8eEEnaikQ/IdnfFUxDEA0u4bWz6o0aJt/HyN54I2/kcBI/RZg4YUR+5IvNG5N6Q2zA4rEpBdu+7R5RoFLP3qrx8U12PjZN5Z2AGmHShMw1QOs6/1Yk9Ssh5bCrMimfvVNFvn3S7fw/Qy0jEBd0s6ObrfQ==;X0DUP8nlZqUcTIjzGRbm8A=="
 ---

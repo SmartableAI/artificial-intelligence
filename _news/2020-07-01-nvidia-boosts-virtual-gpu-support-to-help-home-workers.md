@@ -3,9 +3,9 @@ category: news
 title: "Nvidia boosts virtual GPU support to help home workers"
 excerpt: "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,"
 publishedDateTime: 2020-07-01T00:13:00Z
-webUrl: "https://www.techradar.com/nz/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+webUrl: "https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 629
     isCached: true
 
-secured: "l/xgtrbip0OILwhJ9uXFSwYme51+MhpI9Skp+ER+7LMGY6cF8nj/0orUyl2Xn7XnyAEFE6mPoiSv2eUej4HpmS6TpmHUgp/X+7E+zjZbLZomSzxnKU0ZENorSgykhASistlJduNr4UVeCPCka60LtqL46PtwE0ng/3eoTRfZR5sDfim3f4fAUkj9kMulViP/NfPgFfVj9zuQqoLf9qQdxDrVP5yX/bsI8CbfgdHA6NFI1uZaLIZbihy0rjBeg9XBS+utABBt/qximPGYxy0Xez/nPs0VfHF+yNSKFcYDC0/cmDfk0lnr6RxgBbZSNAXLB4Agt2b2jx1gcTZ74TDKV/+iJeXwnn6vozU5/W/8a5E5jspnY6+zc6O07eALAYKKeeFZACIMYRG7VdidhRQhtLjHOJtEZcBehabgMtkGTHdoK7DVzvZ4yfpX4JIm5tmKWWEBqPIohUcCZp7RbRS6IBvNSoDjDrVZPaJVju3Hn5IOXunRO2u0C7aLVrSs0zMqABHqCQjGWr7aMC9xXLzdoQ==;wVrSZ0EZMsPWxGygtHSAVQ=="
+secured: "TFvYhts7SZo8agXwHNMq1szFCZF7jdx7NmNw5xPa2W74hkX5vYkuGrAnKkUL9VwX/tlUqOzHuW4cuIeO/uqWAILYSSgXBiHnKT8YWF/UMujwqVJ0sqooAirdoyDgeMcM7yNpetCL9qF0SydwX01tpZOpahBLudA9JcVswqd4xdFI4A/782st7J+Y/CrhD5IA1LgpOqK0SH2m+p04/i/wjRQpyVXNffjLo7Y7x+GAy24SURCMoU732XoaGgtZxe3clNHqsGbMgEWZmgMCenXppcLj9GrDAaijFQzewySBmyPqrC4tKYH70uapxdBiTSH9iTQGdR9LmLgzjhaoUsfzqw==;j3arkEyQ6X/xOusG8DwyCQ=="
 ---
 

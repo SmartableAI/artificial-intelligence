@@ -220,22 +220,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Facial recognition technology displays clear racial bias"
-    excerpt: "Across the world and within the United States the use of facial recognition technology is on the rise. Touted as a powerful security tool, facial recognition has been rolled out nationwide with ..."
-    publishedDateTime: 2020-07-06T17:49:00Z
-    webUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/"
-    ampWebUrl: "https://thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/06/facial-recognition-technology-displays-clear-racial-bias/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 59
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
-        width: 1250
-        height: 805
-        isCached: true
   - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
     excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
     publishedDateTime: 2020-07-07T07:33:00Z
@@ -424,6 +408,17 @@ related:
     provider:
       name: Global News
       domain: globalnews.ca
+    quality: 49
+  - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
+    excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
+    publishedDateTime: 2020-07-11T11:00:00Z
+    webUrl: "https://www.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
+    ampWebUrl: "https://amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
+    cdnAmpWebUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
+    type: article
+    provider:
+      name: heraldsun.com.au
+      domain: heraldsun.com.au
     quality: 49
   - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
     excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."

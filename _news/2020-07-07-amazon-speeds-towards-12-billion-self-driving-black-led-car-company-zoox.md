@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     title: "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox"
 
 related:
-  - title: "Amazon looks to self-driving future by acquiring Zoox"
-    excerpt: "NEW YORK (AP) — Amazon says it is buying self-driving technology company Zoox, which envisions a future where people will request a ride on their phones and a car will pull up without a driver. But industry analysts are speculating that Amazon will use Zoox technology to build an autonomous package delivery service."
-    publishedDateTime: 2020-07-06T17:50:00Z
-    webUrl: "https://waow.com/2020/06/26/amazon-looks-to-self-driving-future-by-acquiring-zoox/"
-    type: article
-    provider:
-      name: WAOW
-      domain: waow.com
-    quality: 24
-    images:
-      - url: "https://s3-ca-central-1.amazonaws.com/quincy-network/wp-content/uploads/sites/9/2018/09/04105457/waowdefault-1.jpg"
-        width: 720
-        height: 403
-        isCached: true
   - title: "Amazon to Acquire Self-Driving Car Startup Zoox for Over $1.2 billion"
     excerpt: "Indosat Ooredoo has selected Ericsson to provide AI-powered data driven and customer-centric managed network operations through the Ericsson Operations Engine"
     publishedDateTime: 2020-07-08T01:48:00Z

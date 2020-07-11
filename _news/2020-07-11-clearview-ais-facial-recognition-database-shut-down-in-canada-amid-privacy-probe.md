@@ -1,32 +1,23 @@
 ---
 category: news
-title: "UK and Australia open joint data privacy investigation on Clearview AI"
-excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
-publishedDateTime: 2020-07-09T15:41:00Z
-webUrl: "https://www.cnet.com/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
+excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
+publishedDateTime: 2020-07-11T11:00:00Z
+webUrl: "https://www.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
+ampWebUrl: "https://amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
+cdnAmpWebUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
 type: article
-quality: 87
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: heraldsun.com.au
+  domain: heraldsun.com.au
 
 topics:
+  - Computer Vision
   - AI
-
-images:
-  - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
-    width: 756
-    height: 567
-    isCached: true
 
 related:
   - title: "Clearview AI ceases offering its facial recognition technology in Canada"
@@ -117,6 +108,22 @@ related:
       - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "UK and Australia open joint data privacy investigation on Clearview AI"
+    excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
+    publishedDateTime: 2020-07-09T15:41:00Z
+    webUrl: "https://www.cnet.com/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Clearview AI Stops Offering Facial Recognition Technology in Canada"
     excerpt: "TORONTO — Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy ..."
@@ -409,17 +416,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 49
-  - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
-    excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
-    publishedDateTime: 2020-07-11T11:00:00Z
-    webUrl: "https://www.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
-    ampWebUrl: "https://amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
-    cdnAmpWebUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
-    type: article
-    provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 49
   - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
     excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
     publishedDateTime: 2020-07-08T17:45:00Z
@@ -708,6 +704,6 @@ related:
       domain: sourcesecurity.com
     quality: 7
 
-secured: "5DXrzN9nCDwwsnGa13aLpZdNV2HzRd/iy4M9rRERbApCmZhLkuEeVTx1Xm8dUX1PCVMSpVsuG/m5ZvZ9SxqaRiQDMjytG93OyMAttxos9YP+HnNAGhSgT6FJA8YEXyEDbL9nOcDy2XmxmWswwiUtwbioP1P2tbi9H7eEaTje5zKuMsQgZdtNUE+mqNlNId+wayCRVfPW8+9jRHE+jPulJii/CWJty7UPuClGqpP6mD3fg3hjt70A55ug7MI0IirMoG38mkyEz8TRocev13YcqTLbGFpOY3XRg9XkmazIF+Uf4DeGgY37J6LHRGk91Lo7elJW6C2zhzIOBuZqiYd9XV1QuPKcz9dNfqHU1GWZYYeG5VBtD5LS6ZjEwDXflsXMpdghJf+j+ZbGXvNZej8Ny5CMj/45ltfcRJm7hJ6LfdTUUrR9/TA/i1B+EboM8wYo44/vAT2Xdmmh7pOUejJ1ucur62n3Wm42Gqhz85xpEC3AYp+lDqJ/K6kjbajxiftKUSg72/YT+rXd+nxNVtSD7w==;hqLJVs9zZAv3T40x45x8dg=="
+secured: "TSQ1ROjGRDNaWPsV4wVJ+knZZTOURzftZ04rlCxkz4egUL6zda1p3qxQnHVoPWDQD1UTs7+YdDy9Mm11WJ+4sbzKfkF8Q821Ibo0AkLr1xdo5akyc8IZbcMDvT2aubnqY4rAzcUuImHBTts5ZJhNfdMhn3g/B2kTTH/IaWlTOCe2Myc2UL38OQ+DMRWQilsdtsby6vFoYv2w4NdilKlQyJK3h3giAYh4O9Emef22h3yiH7d61l6pb/3Q+h+eOzNug5L/0mcVCRvMmPIShCRwlm8D9cwUoqH6beX804wAWVNXHC1fYZ3KYuEBVD2e9vwLummDX4HdEBdJiW2ln5LJ3H0xhmzxhPij7xt7FK+M/+zYRK7LufabymBe/qmf0ATvWuuJamk71ewEYdqWZgNn6kD/FHtxduI9q/ZlW5TfgqRfkA4BnoLEs983oQlNA+nysUuiMMSukmPlXlJJB7C7l2w7wZYhdW7d1Hz6IBVLRQM7cguaI7I+Jx6eIpTUbsI+lIQu0vMPG+g/9i/FumCp8A==;XVQ/vqMwolMC/NqcXgJ2Vw=="
 ---
 
