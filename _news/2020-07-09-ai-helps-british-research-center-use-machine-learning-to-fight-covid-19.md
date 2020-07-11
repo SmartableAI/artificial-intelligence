@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/ai-helps-british-research-center-use-m
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use machine learning to build COVID-19 predictions"
-    excerpt: "Two assistant professors from Watson School build computer models that show 10% margin of error for short-term infection forecasts."
-    publishedDateTime: 2020-07-06T20:30:00Z
-    webUrl: "https://www.binghamton.edu/news/story/2491/researchers-use-machine-learning-to-build-covid-19-predictions"
-    type: article
-    provider:
-      name: Binghamton University
-      domain: binghamton.edu
-    quality: 39
-    images:
-      - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/covidcampus.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Walter Reed Scientists Use Artificial Intelligence to Screen Drugs to Potentially Treat COVID-19"
     excerpt: "The Experimental Therapeutics Branch accelerated its research by turning to machine learning, AI and high-performance computing."
     publishedDateTime: 2020-07-09T19:57:00Z

@@ -628,6 +628,55 @@
       ]
     },
     {
+      "path": "_news/2020-07-07-researchers-use-ai-and-audio-to-predict-where-objects-will-land.md",
+      "title": "Researchers use AI and audio to predict where objects will land",
+      "excerpt": "Researchers at Carnegie Mellon University explored whether sound could be used to train AI models to predict the motion of objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83d6151a-7563-4fe7-91ca-6c11a06275bf-e1594107458536.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI and audio to predict where objects will land",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/",
+      "publishedDateTime": "2020-07-07T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips.md",
       "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
       "excerpt": "Xmems is unveiling Montara, which the company believes will bring high-quality audio, reliability, and better costs for headphone earbuds.",
@@ -1109,34 +1158,43 @@
       ]
     },
     {
-      "path": "_news/2020-07-07-american-hospital-dubai-recognised-for-excellence-in-robotics-surgery.md",
-      "title": "American Hospital Dubai recognised for excellence in robotics surgery",
-      "excerpt": "UK-based leading publication Global Brands Magazine conferred the award to American Hospital Dubai for overall excellence and robust healthcare ; American Hospital Dub",
+      "path": "_news/2020-07-07-chinese-ai-start-up-cambricon-to-raise-us3677-million-through-ipo-on-shanghais-star-market.md",
+      "title": "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market",
+      "excerpt": "Cambricon, one of China’s most valuable AI chip start-ups, has set a listing price of 64.39 yuan per share on Shanghai’s Star Market.",
       "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://imagevars.gulfnews.com/2020/07/06/Robotics-Surgery_web_173240321d4_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": "American Hospital Dubai recognised for excellence in robotics surgery",
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/07/dad4dcb4-c017-11ea-8c85-9f30eae6654e_image_hires_143815.jpg?itok=Dc-FV1XS&v=1594103901",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T20:00:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
+      "publishedDateTime": "2020-07-06T23:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1145,48 +1203,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-5-tips-to-accelerate-your-companys-ai-implementation.md",
-      "title": "5 tips to accelerate your company's AI implementation",
-      "excerpt": "RingCentral’s Director of global SEO, John Allen lays out everything you need to know about how to get your firm’s AI implementation just right.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/image1-1.png",
-          "width": 768,
-          "height": 527,
-          "title": "5 tips to accelerate your company's AI implementation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/262008/amp/",
-      "publishedDateTime": "2020-07-06T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

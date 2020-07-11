@@ -39,20 +39,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Researchers use machine learning to build COVID-19 predictions"
-    excerpt: "Two assistant professors from Watson School build computer models that show 10% margin of error for short-term infection forecasts."
-    publishedDateTime: 2020-07-06T20:30:00Z
-    webUrl: "https://www.binghamton.edu/news/story/2491/researchers-use-machine-learning-to-build-covid-19-predictions"
-    type: article
-    provider:
-      name: Binghamton University
-      domain: binghamton.edu
-    quality: 39
-    images:
-      - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/covidcampus.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "q8fMgqgUlDvd4C2GpnGq4WzYUJy+Lu4JOaO1wwC1fFTIc6gDSji+SxYlf85+D6eudu0nGgi8r0ludS/Yf5c/fXQCwAzO31hDttEbl7n/nFTNPQHVwjItrU02Ap8AGNeNlNW1G3x3Kx4krMGM+vJc3QxzauIutlKpGiy/uBgvSmxrNoT1AQf04PnjYFt+lMrFtV7QjKGybOVoAcS72r8akrn7cye4pZp9om9wFo4Buj3BK9BLoxGE9xb9K8K0r6TYDDw3No2fblrJbTkwGdKlNDvazVPVrzzJoKL1+3KwDRVxs3ZcaA2SlEDnaXBmu6TEAEd1cjvUWyaFyulKnfOBsleLAH/NHVWkDuynLJdvZvB74Ja+iUrB5nfnoXqm8OkT+CnYwz9G8QcL2dzz6Nl6qZj0W+AVmEs6hy4X648wemV6wPbsaK5kUoNUVbClWiBEcnDdiUeCQBnoMRWOr2aNCsW8KdXXDT0y+i9buao53g/GLLGp6INf7XhRY4kNvcjwcPwQ7rdDD4/ylLFTnRoHcw==;Mc5HNtJW7eHEiCnPg7CYNg=="
 ---

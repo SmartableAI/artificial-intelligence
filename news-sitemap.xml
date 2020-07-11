@@ -469,6 +469,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08</loc>
+    <lastmod>2020-07-08T08:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/</loc>
     <lastmod>2020-07-08T08:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -567,12 +573,6 @@
   <url>
     <loc>https://www.thehindubusinessline.com/companies/bharat-forge-launches-ai-based-health-risk-monitoring-system/article32019797.ece</loc>
     <lastmod>2020-07-08T00:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI</loc>
-    <lastmod>2020-07-08T00:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -679,6 +679,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/</loc>
+    <lastmod>2020-07-07T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/</loc>
     <lastmod>2020-07-07T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -739,6 +745,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo</loc>
+    <lastmod>2020-07-06T23:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151</loc>
     <lastmod>2020-07-06T20:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -795,6 +807,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
+    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1777,8 +1795,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

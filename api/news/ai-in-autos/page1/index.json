@@ -61,7 +61,7 @@
       "webUrl": "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 105,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -207,43 +207,25 @@
       ]
     },
     {
-      "path": "_news/2020-07-08-amazon-agrees-to-buy-self-driving-technology-startup-zoox.md",
-      "title": "Amazon agrees to buy self-driving technology startup Zoox",
-      "excerpt": "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl",
+      "path": "_news/2020-07-08-4-self-driving-car-stocks-to-buy-for-the-long-haul.md",
+      "title": "4 Self-Driving Car Stocks to Buy For the Long Haul",
+      "excerpt": "This column will discuss four self-driving car stocks that can make it big in the coming years. Let’s look at the following self-driving car stocks and the progress made in this high growth potential segment.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI",
+      "webUrl": "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": 114,
       "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9",
-          "width": 810,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T00:27:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp",
+      "publishedDateTime": "2020-07-08T08:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

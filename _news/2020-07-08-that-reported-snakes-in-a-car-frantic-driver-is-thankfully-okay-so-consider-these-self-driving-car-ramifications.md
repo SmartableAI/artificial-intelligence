@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pony.ai to test self-driving cars in Shanghai"
+    excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
+    publishedDateTime: 2020-07-11T09:00:00Z
+    webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
+        width: 768
+        height: 483
+        isCached: true
   - title: "Startup WeRide starts driverless testing"
     excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
     publishedDateTime: 2020-07-10T02:08:00Z

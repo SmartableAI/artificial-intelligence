@@ -2,6 +2,138 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars.md",
+      "title": "Volvo will use Waymo technology to power its self-driving cars",
+      "excerpt": "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4",
+          "width": 600,
+          "height": 350,
+          "title": "Volvo will use Waymo technology to power its self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "publishedDateTime": "2020-06-25T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-databricks-donates-mlflow-project-to-linux-foundation.md",
+      "title": "Databricks Donates MLflow Project To Linux Foundation",
+      "excerpt": "MLflow is available on Azure and AWS as a managed MLOps platform which comes with tight integration with Azure ML services and Amazon SageMaker. With MLflow project becoming a part of the Linux ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/amp/",
+      "publishedDateTime": "2020-06-25T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
+      "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
+      "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/zjP2N2xjGJFxRBAuuBowSg-1200-80.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
+      "publishedDateTime": "2020-06-25T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-boston-dynamics-will-ship-spot-with-a-robot-arm-in-a-few-months-and-for-home-use-someday.md",
       "title": "Boston Dynamics will ship Spot with a robot arm ‘in a few months’ and for home use ‘someday’",
       "excerpt": "Boston Dynamics will start selling Spot with a robot arm to businesses interested in mobile manipulation in a few months, and eventually for home use.",
@@ -986,146 +1118,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity.md",
-      "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
-      "excerpt": "When Shamir Rahim, founder and CEO of VersaFleet, transformed his bio-medical startup into an AI-powered transportation management system, he never imagined being at the epicenter (in a good way) of a supply chain revolution during a worldwide pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee27d91bf1c58000769fdc3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/amp/",
-      "publishedDateTime": "2020-06-25T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-pure-storage-recognized-as-a-leader-in-enterprise-flash-array-storage-and-object-storage-categories.md",
-      "title": "Pure Storage Recognized as a Leader in Enterprise Flash Array Storage and Object Storage Categories",
-      "excerpt": "Pure Storage (NYSE: PSTG), the IT pioneer that delivers storage as a service in a multicloud world, today announced that TrustRadius has recognized both FlashArrayTM and FlashBladeTM as 2020 Top Rated Award winners.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/ce4dcd5499280c67e7fc78684a93d651",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace.md",
-      "title": "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace",
-      "excerpt": "SAN FRANCISCO, June 25, 2020 (GLOBE NEWSWIRE) -- Trifacta, a global leader in data preparation, today announced the availability of Trifacta in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/trifacta-now-available-for-direct-purchase-and-activation-in-the-microsoft-azure-marketplace-2020-06-25",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Trifacta Now Available for Direct Purchase and Activation in the Microsoft Azure Marketplace",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

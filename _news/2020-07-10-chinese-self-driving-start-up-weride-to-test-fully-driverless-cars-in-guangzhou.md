@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-dri
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pony.ai to test self-driving cars in Shanghai"
+    excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
+    publishedDateTime: 2020-07-11T09:00:00Z
+    webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
+        width: 768
+        height: 483
+        isCached: true
   - title: "That Reported ‘Snakes In A Car’ Frantic Driver Is Thankfully Okay, So Consider These Self-Driving Car Ramifications"
     excerpt: "Incidents of snakes in cars have been reported in Florida from time-to-time. This seems eminently sensible since we might readily expect snakes to exist there and warnings aplenty are posted throughout the Sunshine State to be wary of potential poisonous snakes."
     publishedDateTime: 2020-07-08T15:41:00Z

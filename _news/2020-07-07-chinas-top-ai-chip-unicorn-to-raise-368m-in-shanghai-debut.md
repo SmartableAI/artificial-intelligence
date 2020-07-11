@@ -25,28 +25,6 @@ images:
     title: "China's top AI chip unicorn to raise $368m in Shanghai debut"
 
 related:
-  - title: "Cambricon to raise $367.8 million in IPO amid Chinese chip fever"
-    excerpt: "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share."
-    publishedDateTime: 2020-07-06T15:58:00Z
-    webUrl: "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN247245"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
-  - title: "Cambricon to raise $367.8 mln in IPO amid Chinese chip fever"
-    excerpt: "AI chipmaker Cambricon Technologies Corp 688256.SS said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering afte"
-    publishedDateTime: 2020-07-06T16:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/cambricon-to-raise-%24367.8-mln-in-ipo-amid-chinese-chip-fever-2020-07-06"
-    ampWebUrl: "https://www.nasdaq.com/articles/cambricon-to-raise-%24367.8-mln-in-ipo-amid-chinese-chip-fever-2020-07-06?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cambricon-to-raise-%24367.8-mln-in-ipo-amid-chinese-chip-fever-2020-07-06?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
   - title: "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market"
     excerpt: "Cambricon, one of China’s most valuable AI chip start-ups, has set a listing price of 64.39 yuan per share on Shanghai’s Star Market."
     publishedDateTime: 2020-07-07T06:24:00Z

@@ -18,63 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Amazon agrees to buy self-driving technology startup Zoox"
-    excerpt: "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl"
-    publishedDateTime: 2020-07-08T07:27:00Z
-    webUrl: "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI"
+  - title: "Amazon plans at least US$100mil to keep self-driving car talent after US$1.3Bil deal"
+    excerpt: "Amazon.com Inc plans to create at least US$100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant."
+    publishedDateTime: 2020-07-09T23:14:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2020/07/10/amazon-plans-at-least-us100mil-to-keep-self-driving-car-talent-after-us13bil-deal"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
+      name: The Star
+      domain: thestar.com.my
+    quality: 17
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9"
-        width: 810
-        height: 539
-        isCached: true
-  - title: "Amazon Acquires Self-Driving Vehicle Startup Zoox For Over $1B"
-    excerpt: "Amazon on Friday confirmed it is acquiring Zoox, a California-based startup that has been designing an autonomous vehicle from the ground up."
-    publishedDateTime: 2020-07-09T05:00:00Z
-    webUrl: "https://hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    ampWebUrl: "https://amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 44
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52054/content/Amazon_Van.jpg"
-        width: 708
-        height: 398
-        isCached: true
-  - title: "AImotive and C3S take self-driving car technology from the road to space"
-    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
-    publishedDateTime: 2020-07-07T11:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
-        width: 1777
-        height: 931
-        isCached: true
-  - title: "This VC backed self-driving car startup Zoox into a big buyout by Amazon. Here's why he says that deal signals a new wave of automation."
-    excerpt: "Factories, warehouses, and logistics companies are about to see a new wave of automation, Lux Capital's Shahin Farshchi said."
-    publishedDateTime: 2020-07-09T21:25:00Z
-    webUrl: "https://www.businessinsider.com/lux-captials-shahin-farshchi-sees-coming-wave-of-smart-automation-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-    images:
-      - url: "https://i.insider.com/5f077bd9f0f4194df1161093?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/10/751500.JPG"
+        width: 620
+        height: 413
         isCached: true
 
 secured: "MsM/lGblR05v4EINQ2vQmJF7nv1uxXx9eMidUw8WZSZo1wMuQVyJyD4LLGsh0IDVilksn8dwYhwmNWNvsG59xnXqJiAFb+brS6jKPgCkwYeNj8YSujZFf6EkWqrzm36bjyrC8pm/Y3fmQUFBvVmOcyssI78NLnP5HzKUqVBtM0rYJzJjKE1dVDmPLFOS/56cAE4H7IgXUK7C2HFbE2oRF7EgR3qEI9PMJ0SEG9enNwzUYyQaZHi11BtdT3Vl8SOCkQxDvpB9cGGB5UialxFt4Slt7d450bGUr/IergrhA0mgxYAgmXt7Lj3XItsMDfz5QIdv6uivUxcjuTRyrzzPjw==;FYkWbCxUHGU1e88cUB2RVA=="

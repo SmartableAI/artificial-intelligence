@@ -1,25 +1,28 @@
 ---
 category: news
-title: "Startup WeRide starts driverless testing"
-excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
-publishedDateTime: 2020-07-10T02:08:00Z
-webUrl: "https://www.autonews.com/china/startup-weride-starts-driverless-testing"
+title: "Pony.ai to test self-driving cars in Shanghai"
+excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
+publishedDateTime: 2020-07-11T09:00:00Z
+webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
 type: article
-quality: 22
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: TechNode
+  domain: technode.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/index_1.jpg"
-    width: 800
-    height: 600
+  - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
+    width: 768
+    height: 483
     isCached: true
 
 related:
@@ -39,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pony.ai to test self-driving cars in Shanghai"
-    excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
-    publishedDateTime: 2020-07-11T09:00:00Z
-    webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
-        width: 768
-        height: 483
-        isCached: true
   - title: "That Reported ‘Snakes In A Car’ Frantic Driver Is Thankfully Okay, So Consider These Self-Driving Car Ramifications"
     excerpt: "Incidents of snakes in cars have been reported in Florida from time-to-time. This seems eminently sensible since we might readily expect snakes to exist there and warnings aplenty are posted throughout the Sunshine State to be wary of potential poisonous snakes."
     publishedDateTime: 2020-07-08T15:41:00Z
@@ -66,7 +53,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 32
+  - title: "Startup WeRide starts driverless testing"
+    excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
+    publishedDateTime: 2020-07-10T02:08:00Z
+    webUrl: "https://www.autonews.com/china/startup-weride-starts-driverless-testing"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/index_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "xljzD+1brc0EzKWyd7Z5rUY2yarlV3wDiRbA45VSJ+tA8YzA7cDQI+HGrF9npDVK04oIac+lgoPzKa1G7WtDiCnhYCTPUgknfBAbzZ8HRShsgiYa6Ydu+FNggHb/CAxI1T68gSwBl6257OZqecQ81AmiOuZVJNgDA8lgcn5pmm932B6Pj3ecBNpP7pumTae6jlK6ws+g9WhyvrwZl9DaCmh3qzBtBcWXar8/EntttE9Nwb0/Iqv45ynTd5G3nLelPwlSNQpec6yk3yi5SmHYYumUqaDdr3DrO9NcR2b1byE2O2lapEPi+H/e6s/4czKJzOqhFy79+Az3bC4YeGM9XVO64AFH3VbLe5qhCzBb7wAmfzRsUsB0HHupSRkbz8XmyvlVbhftnCmJf1G4PZsT5FAXDeXuxTwl8GDjtqMMUwI09Y59YjwLt6IKG/+uAQz7cu/IEOz8u89KM335IiQcTW8l9nrUE7kyoFvPaytcFzAYqWzScr/vQsw+XK6Wc5P7MtEHJsIRH/jiQxuZJx+3NQ==;10xenj4Flo1fCcKJrC4CEA=="
+secured: "bqVcq0kPr4n2aIZ2BgjWLYbVeDRiUN3XVJo/8gDdXMDLFux4EXumXq59iEDaGapUfKX4OeyKJX0NcQg94ZbcySuVILNOUQG9CoDkU+mZu6wo4PJ+L9GsYWOGItbzfvjfOayDwz7VLlDF7EAK1CwnVJf45mXQWlTAOmhdQGrz0t9Ms0c4K0US4YJnDFu++dNx4yQrTdoJRvaX5sNF68D3M1VbJ31hZN7kBdFoPSOKQxJmopxJlKx0WWnAAmWewzWO9hotOU/MeI/2hzqQzYI6DSJWptHdU4YBVIOdppWkgKdNwHL7TlOCOPpGeadf1lZcO6IV8S+6VKbNV1/o4erWiQ==;ZzlFBbNn8GMo381neb41Xg=="
 ---
 
