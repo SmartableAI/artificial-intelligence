@@ -2,22 +2,23 @@
 category: news
 title: "AI for self-driving cars doesn’t account for crime"
 excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
-publishedDateTime: 2020-07-10T23:49:00Z
-webUrl: "https://washingtontechnology.com/GIG/gcn/Articles/2020/07/10/ethical-autonomous-vehicles.aspx"
+publishedDateTime: 2020-07-10T17:09:00Z
+webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Washington Technology
-  domain: washingtontechnology.com
+  name: GCN
+  domain: gcn.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://washingtontechnology.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
+  - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
     width: 760
     height: 368
     isCached: true
@@ -38,6 +39,6 @@ related:
         height: 915
         isCached: true
 
-secured: "dwIzy6BiSOsQ224f/mqbOY5SaLftM+lDwVc6oAbGBLVorVpLheMOQUhLq1ghVM+cvgqnBze/Wyq4MBF8gH8f9FWD1VtpLUWIfWqU/gceqzHx5hvAeoYj01kXF6aMRfKXHbv54Pzo5NXF9UiWeNEtjtVXCd+3MidIuYko1jb5oxaGCZds3H35y0ZPMegcilz1W3EK54gpJROp6HGivtS3L/o3/rmdeuS5QnYkJZhkyYfX8qhu5ubRv9Epf2jvR0CysBxrwTGX3jXvwejhMRfKunymWn/QwkI3jAPjnOSUX6b3pP+MZM16Q6vIF3w/echIdYVimVSm6pEVEBRoFjRMQw==;28cFUGUAMTe9abtc5eFJDg=="
+secured: "yDuvc2A5QijNQuFhkaNWrKhUXPZrW9tOu2SjiL4v3i0EHIBFNNcKa0Dao0JkFHkpHJYMq9a3ZZxOFkEvHln3mwWhROzkytz9WSfJ6ZPAyZwzhn8pDhzJTgyIlALxNJtwoj7qw6c+G1NC6L8EQAsqFtMh39vtP12NwEQChXEprVT2ulV857FbGBKyMvM4FVoWRgdF6m7lUeJ/9RGTUXS2O1paeQzKb7BetMZXJZUzOY4SbxFN21Lz5wJAbtCGp6Giab1BFLS87Xn6PMCogQ+lG5juN43q4ALPUHuetrYCP/UawjeHZcNOneaO5hKvhR8G9BReB3zKr2zcGp33J5pJUA==;/wD2NvXNK5tdR+f5yMVL+A=="
 ---
 

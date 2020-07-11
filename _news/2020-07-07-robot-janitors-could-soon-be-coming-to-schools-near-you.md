@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-c
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: IFLScience
@@ -27,22 +27,6 @@ images:
     title: "Robot Janitors Could Soon Be Coming To Schools Near You"
 
 related:
-  - title: "MIT-Designed Robot Could Be Used To Disinfect Schools, Grocery Stores With UV-C Light"
-    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour."
-    publishedDateTime: 2020-07-06T12:40:00Z
-    webUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 52
-    images:
-      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/07/mit-cleaning-robot.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "MIT Designs Robot That Could Be Used To Disinfect Schools, Grocery Stores With UV-C Light"
     excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour."
     publishedDateTime: 2020-07-07T14:01:00Z

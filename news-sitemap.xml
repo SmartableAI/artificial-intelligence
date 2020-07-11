@@ -139,6 +139,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10</loc>
+    <lastmod>2020-07-09T16:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/ai-dreams-of-sushi-224552215.html</loc>
     <lastmod>2020-07-09T15:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -633,12 +639,6 @@
   <url>
     <loc>https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/</loc>
     <lastmod>2020-07-07T10:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/</loc>
-    <lastmod>2020-07-07T09:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1315,8 +1315,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&amp;itm_content=2x4&amp;itm_term=2356592</loc>
-    <lastmod>2020-07-01T11:00:00-07:00</lastmod>
+    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=30&amp;itm_content=1x7&amp;itm_term=2376504</loc>
+    <lastmod>2020-07-01T10:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-09-look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered.md",
+      "title": "LOOK: In Covid-19 world, robots could be just what the doctor ordered",
+      "excerpt": "The worldwide health crisis has added urgency to the question of how to bring robotics into the public health equation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/410x231?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50679273/japan-robots-f4defef2-c15f-11ea-b4f6-cb39cd894fb-1.jpg&operation=CROP&offset=0x312&resize=6000x3375",
+          "width": 410,
+          "height": 231,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/look-in-covid-19-world-robots-could-be-just-what-the-doctor-ordered-50679273",
+      "publishedDateTime": "2020-07-09T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-7-of-healthcares-most-promising-ai-companies-from-forbes-2020-list.md",
       "title": "7 of healthcare's most promising AI companies from Forbes' 2020 list",
       "excerpt": "Drug discovery startup Atomwise and stroke risk predictor Viz.ai are among a group of seven healthcare companies recognized by Forbes for their artificial intelligence capabilities. For its second annual AI 50: America's Most Promising Artificial Intelligence Companies 2020 list,",
@@ -1312,7 +1353,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1392,56 +1433,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-school-debate-president-trump-pushes-for-in-person-learning-to-resume.md",
-      "title": "School debate: President Trump pushes for in-person learning to resume",
-      "excerpt": "Breaking tonight, how to get students back to school safely amid the coronavirus pandemic? The president and first lady participating in what was billed as a national dialogue on the subject earlier today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d1e786f4-809a-4cdd-9722-7073e51af51b/bf181f1d-83c9-4e48-9f79-10247b07dd6a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "School debate: President Trump pushes for in-person learning to resume",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume.amp",
-      "publishedDateTime": "2020-07-08T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

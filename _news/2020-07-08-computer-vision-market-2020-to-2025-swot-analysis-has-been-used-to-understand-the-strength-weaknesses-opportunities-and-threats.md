@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Market to 2024 - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com"
+    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Artificial Intelligence (AI) Market\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2020-07-06T15:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16517509/global-artificial-intelligence-ai-market-to-2024-technology-landscape-trends-and-opportunities-res"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16517509"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16517509"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
   - title: "Deep Learning Chipset Market Analysis, Size, Application Analysis, Regional Outlook, Competitive Strategies And Forecasts 2026|NVIDIA, Intel, IBM"
     excerpt: "Los Angeles United States July 8th 2020 The report on the global Deep Learning Chipset market is comprehensively prepared with main focus on the competitive landscape geographical growth segmentation and market dynamics including drivers restraints and opportunities It sheds light"
     publishedDateTime: 2020-07-08T11:58:00Z

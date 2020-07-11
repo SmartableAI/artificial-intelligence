@@ -23,29 +23,57 @@ images:
     isCached: true
 
 related:
-  - title: "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19"
-    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
-    publishedDateTime: 2020-07-06T12:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15"
+  - title: "Deep Learning Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T23:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Computing Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-07-07T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-07"
+  - title: "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ..."
+    publishedDateTime: 2020-07-10T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The Automotive Artificial Intelligence Market is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR of 37.5% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T22:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,6 +92,34 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Automated Material Handling Equipment Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T22:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impact and Recovery Analysis | Artificial Intelligence (AI) Market In BFSI Sector 2019-2023 | Focus On Autonomous Banking to Boost Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence (AI) market in BFSI sector and it is poised to grow by USD 11."
+    publishedDateTime: 2020-07-08T00:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200707005778/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 8
+    images:
+      - url: "https://mms.businesswire.com/media/20200707005778/en/803726/23/IRTNTR31823.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "oOHJD19gnuAyNK2zZ3a/HIsFOftDLxeFJirUu+vCBwJiYMhT67P9D4iPnH/kwVtlmGlOXcaG2YuY0MK+yawgmmWfdEvwsoAeCfi6llTvciOUOERyybnDrNsEPpWuPXqwAjuWa3v9GEw3OleISvZ1ZDJp/AHJCL/UFbfwSr3wKjDavvHN1YranfOv0IoZ+hzylU665PDZsXBnohVu0N9+uEV413MhHjAtnCTZOi1W7dD2NB/iKzfq8Dp8g1MowdWZuyfJW5u66xM66hjS/ElPPr3EcIhwVCyFu7UZ7EOqdkh1HH155ZJcNrS76U8JJIprQS7uaAc+xu8sYhWdqQUoDelKlodDW9ni/LGh2J3GbPdM/n3r0ISDAC+rf+/QH1stC5SmLaAyz5a+WRbetG3F4vtypeOhMIvdDYFCr6p1ECUo4h97+molvB4uiAcP/RyImWNr5RB1r/oeyggvoAJCyv+4KFyzJknc8Cg6u1HgdiXQLddygqsqUfmBARC1rfdu+/BAbStNLjc6Tzg3Ra+kgw==;rdgSMpxb9A7m9isEj6lb5A=="

@@ -43,22 +43,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "MIT-Designed Robot Could Be Used To Disinfect Schools, Grocery Stores With UV-C Light"
-    excerpt: "MIT has designed a robot that is capable of disinfecting the floor of a 4,000-square foot warehouse in only half an hour."
-    publishedDateTime: 2020-07-06T12:40:00Z
-    webUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/"
-    ampWebUrl: "https://boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
-    cdnAmpWebUrl: "https://boston-cbslocal-com.cdn.ampproject.org/c/s/boston.cbslocal.com/2020/07/06/mit-cleaning-robot-disinfect-uv-c-light/amp/"
-    type: article
-    provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 52
-    images:
-      - url: "https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2020/07/mit-cleaning-robot.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "wDS/GLYJDyfwcj012u4OqkRv9t0gSpb88T2XmAarA6O3k15Nle8H0/SrrXJZLCCFNTTU1pYn4tGkVL1nPVzKzx0O+XKeUPJaWibe3pwP+ujbfaDuGV7EBEBNg+ZShp0t2bnjhrrNa9DCUe/lw354Gzc1JepHnH2QFR2tXbPAMrv8wVIdOFGCVSlBph0ydXcq/E6Qgn+CuMGf7ZMSWjYkdmExakZBAuQpsmFfqnY6KR++sCK9dQGndQp9cJRz6Ljor9MXbCvODn8NNOgJeFfmsociKoetkd85noqCDzKOAOxXJoA4tlCniZAz8qhTfdPjvwK/6ObyVWRGDAsUmKUUGMfjCgtEn8Du9t7xupKh1iBS7Op+11d/lFLwvkmuvAOOJorCjNTryPXIYfggMCDJjKyJOShu7XXdtjs2v1bSoqnyNVNJRHZsm82piaIP9EzVHCqEskvvzajrLUSqVvfA6tSd8xLADPuTU1GGJAiVQ/M0/BxlqzX+lm2LZPvm9PCi;nX9Plwi/c3iyaNpaHvNIlQ=="
 ---

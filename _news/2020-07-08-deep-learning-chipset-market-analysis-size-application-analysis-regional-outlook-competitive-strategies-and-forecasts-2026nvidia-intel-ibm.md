@@ -54,6 +54,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Market to 2024 - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com"
+    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Artificial Intelligence (AI) Market\" report has been added to ResearchAndMarkets.com's"
+    publishedDateTime: 2020-07-06T15:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16517509/global-artificial-intelligence-ai-market-to-2024-technology-landscape-trends-and-opportunities-res"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16517509"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16517509"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "cgCdXR/byloQzq9DuoLbFdGKqTJlPtlDgKcnR8C0Tkz+NVsyGKXoGuznBXu8J3HvMfqI6aDVZdDxP2x1HpHjmupoGxuiR7UQqAzv0GtkwEE661SmaxoPkWDMz2PMddgxbXT0E7FnkQ5uXCfcnSFFhUkdx8Bf9btSo0Hn21QWPtyxdZjp1GtXCIKntlWdIajHVDfvI4z02DYldcQm8NarCqpTAWyHKOUFo0q2RlTGP1py2cbM1I3DLnBbLxdczcjfalKIQX0XgGg04GG/j47W6vTTzSvOvjxsdoc+Mi6Vm9q8iRusXEHylIKUsSkCyJrX0Q5Q7CKc9f2sxR5V7RxXoA==;cK7cbguit8FH/z5nAcJQQw=="
 ---
