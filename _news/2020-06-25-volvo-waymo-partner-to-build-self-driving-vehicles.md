@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Volvo, Waymo partner to build self-driving vehicles"
-excerpt: "Waymo and Volvo Cars have agreed to develop a self-driving electric vehicle designed for ride-hailing use, as part of a new global partnership, the companies said Thursday. Waymo, a unit of Silicon Valley's Alphabet Inc."
-publishedDateTime: 2020-06-25T17:38:00Z
-webUrl: "https://www.autonews.com/mobility-report/volvo-waymo-partner-build-self-driving-vehicles"
+excerpt: "Waymo will focus on the artificial intelligence for the software \"driver.\" Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo's global brands ..."
+publishedDateTime: 2020-06-25T19:23:00Z
+webUrl: "https://europe.autonews.com/automakers/volvo-waymo-partner-build-self-driving-vehicles"
 type: article
 
 provider:
@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Volvo%20grille%20new%20web_0.jpg"
     width: 800
     height: 600
     isCached: true
 
-secured: "nynSw5LjpCt2gs0F+w/WuzTHFK2TSgfk1MNczfI3Delpy41AGnKKUbcpm+jIuLPIXj27WdVJrRhCBP84MHGgaGZrxR8R87G2K1VywaETRTv7LYfWN94gj7eFcdkI3PwoEDPjvmdFilAlAsk4ZI6IrGvfiB40DLmxEsU1rsxYIEtrgpfHDHov9SARxZPrqZpWTJVUNWpbrk0ctzZPms035akxDTrzAkIRXkQzL7GNqCUjBiA8D8gXMS6Qlv4NFk1u8FUZXp0+uB3skcaySBaSRRNHO/Q7CxxK/U3ugCaZsyiXnaT5srHQFJxT6FiK+OjedbdfFthkVfdQlJOQ6jUMdNChbGFpge58X6oOcUA6V2n6sR9JC7soC9EHmciHFj1PrZfYmLbQ/fXOYgebJ+p+V1/qKOb1zsWMKg4Dc4C6chK3KU2PFvHL+K4JbRWRX5h2bJDZGfbqYLsyvY6U6Rx7YwuWr4j+hkWakbmkXnYa7wRCkw5cNFOGCGX1HHyrQ4lDJZGzjreVkUBNNEZRpGNO5g==;C0FNl9ZZFwFlFJmZ1dPaqA=="
+secured: "wx7nqiIJcM4VcpgFdbCdYL8DZk0MCam7S/KZr4coODtAGndnDysNk4tAw8SibDgii69UBt33NG1mnTZH31aKRyD1R0TQEDApJyhri3qjUKAATPK1MwzoY5Mlu88APN+WKd9WWpK3rHppfmQoMc+j5vRtBFzOU8Fkpr/mqiSBrs09d5vweJ58A25nMlSA6u+6wsW1NEe2XK5vDvG7ISZdO/DbfvsRDB9w3cQDPTNiGl6qCRNaf2pt87k/SSX3fKEfG56V5au2xQFSKe/MTJUnRQ/UidW9CM6kmFJr+G0vSCTjeX2LZOE/3Tbtu0/y52q9kEV0RYBsfLVvm1ILPGorwA==;gLqhS3vo60/9Ho0Q4nkxbQ=="
 ---
 

@@ -380,20 +380,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial recognition and thermal imaging to help fight virus"
-    excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
-    publishedDateTime: 2020-07-07T04:32:00Z
-    webUrl: "https://www.heraldscotland.com/business_hq/18565073.thermal-facial-imaging-fight-virus/"
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 39
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/11558537/"
-        width: 1140
-        height: 540
-        isCached: true
   - title: "Bias in Facial Recognition: Renewed Scrutiny of an Old Problem"
     excerpt: "Facial recognition offers some benefits, but poses certain risks that should be addressed as the technology is more widely adopted."
     publishedDateTime: 2020-07-08T11:14:00Z

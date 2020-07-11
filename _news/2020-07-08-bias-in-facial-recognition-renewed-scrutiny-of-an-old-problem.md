@@ -395,20 +395,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial recognition and thermal imaging to help fight virus"
-    excerpt: "A SCOTTISH company has unveiled a “track and trace system” using facial recognition and thermal imaging to detect people with high"
-    publishedDateTime: 2020-07-07T04:32:00Z
-    webUrl: "https://www.heraldscotland.com/business_hq/18565073.thermal-facial-imaging-fight-virus/"
-    type: article
-    provider:
-      name: heraldscotland.com
-      domain: heraldscotland.com
-    quality: 39
-    images:
-      - url: "https://www.heraldscotland.com/resources/images/11558537/"
-        width: 1140
-        height: 540
-        isCached: true
   - title: "Facial recognition firm suspends RCMP contract"
     excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
     publishedDateTime: 2020-07-08T20:25:00Z

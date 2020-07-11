@@ -8,7 +8,7 @@ ampWebUrl: "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-com
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 651
     height: 366
     isCached: true
-
-related:
-  - title: "AI in Your Pocket"
-    excerpt: "You probably have a relatively sophisticated artificial intelligence device in your pocket right now. I have one that I use every day to let my special needs daughter know when it is time to come down for dinner."
-    publishedDateTime: 2020-07-07T04:15:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=141537"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/131628-hKAI.jpg-ORG.jpg"
-        width: 640
-        height: 336
-        isCached: true
 
 secured: "WYm1NrAmS/8B1LVyFHjcsrrGPUKdznWpOvixfUGzdzANecfWPsQ+eLTYmJJAgc/qGYBKRgWrG2I9HA1/0Gaq0Ars1OOGTRHg5o59n3jt2ciyMosavJ7vPmBC0ncylRKTmypkptyuSFHMLWQcdCUcS5RNvTi1tNjTOIPsKe5ivam867GfjW8R7wzbjPBNAtcSAl9yrLxbOxXaVeWQoVtPGZAV8stPe2JYb97j8XhDk9kdx5bebZteYV7EuY9DkFFVeetT1lp0xZT33HJRJv+wMzxcd1fMLQwSQLBWKcrfKXzKHTTxEAAMpkKNWF8MqXY9TZQOApEof+sn5oYz5CyAcQ==;uzY36oJI2UNkM4KU0aHU4A=="
 ---

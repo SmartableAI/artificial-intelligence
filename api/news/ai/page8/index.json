@@ -2,6 +2,55 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-02-mit-takes-down-popular-ai-dataset-due-to-racist-misogynistic-content.md",
+      "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
+      "excerpt": "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dobhuewgleklvyonjkjx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp",
+      "publishedDateTime": "2020-07-02T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
       "title": "Larry Magid: Facial recognition loses support as bias claims rise",
       "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
@@ -1013,27 +1062,18 @@
     {
       "path": "_news/2020-07-01-facebook-study-shows-how-social-media-may-influence-our-vacation-behavior.md",
       "title": "Facebook study shows how social media may influence our vacation behavior",
-      "excerpt": "To explore this phenomenon, Facebook A.I. researchers used artificial intelligence algorithms to analyze a massive ... people would later experience the place,” Kristen Grauman, a research scientist at Facebook who is affiliated with the University ...",
+      "excerpt": "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x4&itm_term=2356592",
+      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x2&itm_term=2376504",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/tax-season-travel-splurge-vacationing-at-gili-lankanfushi-maldives-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
-      "publishedDateTime": "2020-07-01T11:00:00-07:00",
+      "publishedDateTime": "2020-07-01T10:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",
@@ -1379,48 +1419,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
-      "title": "Ethics in the Balance: AI’s Implications for Government",
-      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/taskforce1.jpg",
-          "width": 940,
-          "height": 630,
-          "title": "Ethics in the Balance: AI’s Implications for Government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "publishedDateTime": "2020-07-01T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

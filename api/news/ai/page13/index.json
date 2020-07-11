@@ -2,6 +2,56 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-29-chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self-driving-robotaxi-service-in-shanghai.md",
+      "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
+      "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "publishedDateTime": "2020-06-28T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-australian-government-sinks-au19-million-into-ai-health-research-projects.md",
       "title": "Australian government sinks AU$19 million into AI health research projects",
       "excerpt": "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions.",
@@ -1356,56 +1406,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-70-million-sci-fi-flick-b-stars-an-ai-robot-named-erica.md",
-      "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-      "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "publishedDateTime": "2020-06-26T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

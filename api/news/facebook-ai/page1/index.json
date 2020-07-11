@@ -254,7 +254,7 @@
       "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 446,
+      "heat": 436,
       "tags": null,
       "images": [
         {
@@ -397,38 +397,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp",
-      "publishedDateTime": "2020-07-06T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     },
     {
@@ -670,27 +638,18 @@
     {
       "path": "_news/2020-07-01-facebook-study-shows-how-social-media-may-influence-our-vacation-behavior.md",
       "title": "Facebook study shows how social media may influence our vacation behavior",
-      "excerpt": "To explore this phenomenon, Facebook A.I. researchers used artificial intelligence algorithms to analyze a massive ... people would later experience the place,” Kristen Grauman, a research scientist at Facebook who is affiliated with the University ...",
+      "excerpt": "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x4&itm_term=2356592",
+      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x2&itm_term=2376504",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/tax-season-travel-splurge-vacationing-at-gili-lankanfushi-maldives-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
-      "publishedDateTime": "2020-07-01T11:00:00-07:00",
+      "publishedDateTime": "2020-07-01T10:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",

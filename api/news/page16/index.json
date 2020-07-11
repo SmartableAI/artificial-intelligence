@@ -2,6 +2,47 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
+      "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
+      "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/29/w600X390/karanth094206.jpg",
+          "width": 600,
+          "height": 390,
+          "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
+      "publishedDateTime": "2020-06-27T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide.md",
       "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
       "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
@@ -1127,47 +1168,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-facial-recognition-leads-to-first-wrongful-us-arrest-activists-say.md",
-      "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
-      "excerpt": "Robert Williams spent over a day in custody in January after face recognition software matched his driver’s license photo to surveillance video of someone shoplifting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-leads-first-wrongful-u-s-arrests-activists-say-n1231971",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2020_26/3392279/rtx5zan6_8801ea9903a80ccb7d234bcb75bfe8f1.JPG",
-          "width": 2500,
-          "height": 1667,
-          "title": "Facial recognition leads to first wrongful U.S. arrest, activists say",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1231971",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1231971",
-      "publishedDateTime": "2020-06-26T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

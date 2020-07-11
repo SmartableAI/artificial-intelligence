@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Facebook study shows how social media may influence our vacation behavior"
-excerpt: "To explore this phenomenon, Facebook A.I. researchers used artificial intelligence algorithms to analyze a massive ... people would later experience the place,” Kristen Grauman, a research scientist at Facebook who is affiliated with the University ..."
-publishedDateTime: 2020-07-01T18:00:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x4&itm_term=2356592"
+excerpt: "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations."
+publishedDateTime: 2020-07-01T17:56:00Z
+webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x2&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 type: article
@@ -20,12 +20,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://icdn2.digitaltrends.com/image/digitaltrends/tax-season-travel-splurge-vacationing-at-gili-lankanfushi-maldives-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "e9yUc1YtevQ7yTxowrtxb6WXwxkPR3zTcP5Uj3QeC1YxHHZbia3QgE4lz4SsBQUj/ZcnnfAHiwLXG8UiU0qHfTK48bOq4ns08gXo2ZYQlV3kgiiTXPuyVmg+d216ObsHsRikJQYEWAg0cjr56uuZvpoqMXVURkRXhfsOunBuMaRNqCvxzlA2oEzJvUu+xR+GvaFL00nJpahwts3AU0bB4kixrPz8IwUFn+tcqHFD4xB/Pu/rJ+xJ/asqCK7AMAo7OKLfA9bivyQmtflUVlPQjlD6Axp6DvWVHz5C29Oj+Ql3Mtepm7j4wZIZZHTbtkGnJv2x7VAQ5UgfZHt9yOkxYMvTOlGJm3VWRRyNR5qkgT0XqhjooWyzRXpdahHT10EqBHwQq71FVHjNWg5dw6Rl53rDW4omsXMY2zQxI+z+fdCQ5oWikSreQK2yXL9/rlW3Sp6RfsHilgpRiYKcis0RzwMRcXfcROTxsRweGEbDepppmjfH04FkGXAWmoSYuGUFsrswujRvDZKP2gRYuWJJwA==;S7llE92s0/WC4jjnkCa3lQ=="
+secured: "Ooeo9UdvAryP+16/9djl5rVMuGQIigkxsSCRe+TNtldW4Eu5zZenN53jLQ1guiwtlFMY3/dkvdghT1cMxxIbcoWygtt/dMhjEMrMnpWXl0itzKBibGL3VdoO+gUNYAtM6qtKgMkPHo4CwG6gH0wk+O030yXjkK5lIExqZ25P0vvDqP/XRl7T1npuHTKUD12EuOTH0gylx4MhTXusD5dnQZV6fBYfMRMrI7TAEyj9115TQ15HV3fNsHJa3KGncsb7FSwTjyWX7EXcbqXTng5uicsusrzniFH+sYmspZE3rqh47GPtnohSME6uguqZ2HZcHnlqoyb4faPgw2zIdOADwhoiN47y6wUV4aI2IJeCPW5mjMDS/7+G9V02YHWdJzUJ7HUVKtHTNOwhm8lgrVo3z48e3EmhtKEd7GIj3dQ4ZwiY0DQkD3agCPvgVGtbT5jfMpiFUMMgh2HUxex73/uTdiRLsCmZViQooIVHo22cKG6ywtQsDO8/U+N0c2whAyO92rPQ/AYAfbOiF1gNFvkHAA==;PniJeDMGXlKpRG+H3WdIQA=="
 ---
 

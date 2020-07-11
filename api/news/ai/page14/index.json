@@ -2,6 +2,56 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-06-26-70-million-sci-fi-flick-b-stars-an-ai-robot-named-erica.md",
+      "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
+      "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
+      "publishedDateTime": "2020-06-26T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
       "title": "Congress proposes ban on government use of facial recognition software",
       "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
@@ -1365,55 +1415,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer.md",
-      "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
-      "excerpt": "In a recent conversation with Professor of Public Understanding of Science at Oxford University, mathematician, broadcaster and author Marcus du Sautoy we explored some questions that he pondered in his book What We Cannot Know: Explorations at the Edge of Knowledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef575a661d20f0007e1dbd5%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
-      "publishedDateTime": "2020-06-25T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

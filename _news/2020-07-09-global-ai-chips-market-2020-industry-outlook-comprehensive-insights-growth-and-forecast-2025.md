@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ..."
-publishedDateTime: 2020-07-10T07:44:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
+title: "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ..."
+publishedDateTime: 2020-07-09T18:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
 type: article
-quality: 53
-heat: -1
-published: false
+quality: 72
+heat: 172
+published: true
 
 provider:
   name: MarketWatch
@@ -18,6 +18,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -27,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ..."
-    publishedDateTime: 2020-07-09T18:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
     excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-09T23:40:00Z
@@ -50,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ..."
+    publishedDateTime: 2020-07-10T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -168,6 +169,6 @@ related:
         height: 630
         isCached: true
 
-secured: "0D6lK6FtwM+zGy/0QbaivNIg/angQCcKzalUcJUzxeubO9fO2ZTNBzwJfKXjuQCGNgcjUqR/N2J19gPe4SUkNTnDIgidYTIKz7fcA+8J0eLYDlwJanUn0lfVXubkpy1t9yd66dheptBlH1aWqRBaW3ZFMG5KJrJGEjBqYDOiY6/aCEHZuzw58zBx2cRXJtdlIh2juaM9gusy01AtKUxq0hh4SbRedaCeKw3pstn0Zg6ckiJDLioskHfhDnqN5Uuz8gggKgxrbRf9ZOqWJ3Y22ULlScgB59LC+3SZjXiXWoAc8/zoF69ZXKIFbqgqCZJiEI1i3o46a5TgV9nXZ8Y3vg==;QhGpkudBs4Vk6921hL9row=="
+secured: "ADWASirfD8dsjWogsDsJpj7C8WUoifFbFNoOZBY7/dXUmubLbm5x5gGcA/zd5GLk+NnMdrLIqh0vF5l8/Q/Kqx8olra0sVioNOxG9dKF+LB3GEa3VsK2WAJJJX2BJ7CGH7XJC7ZTxzEsqGkfc4urVLwzgg9vQfmy4/3Ov6wlAX/AbPegLWka0hKrprVPq7PNMIjcRS7K7gIw5TCk6IWtYBoKRfsQaEgusfmUvRH658nFg914c7v3Fh8+rKG2dNk8roun7veC6d+3rGkapnUM0/goHxU8aBitvElT50tkzsDzad8mk/67OnKKGt7fu/y/Cy4U5WETKdQBFbnSNYyRSw==;sop20PQa0zos3e1sEZgjhw=="
 ---
 

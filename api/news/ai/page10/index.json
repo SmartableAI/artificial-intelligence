@@ -2,33 +2,33 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-06-30-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-1694118-million-in-2025-valuates-reports.md",
-      "title": "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports",
-      "excerpt": "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in",
+      "path": "_news/2020-06-30-ai-robot-named-erica-starring-in-70-million-sci-fi-movie-b.md",
+      "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
+      "excerpt": "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025-valuates-reports-877658862.html",
+      "webUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
+          "url": "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T15:00:00-07:00",
+      "ampWebUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "cdnAmpWebUrl": "https://www-screengeek-net.cdn.ampproject.org/c/s/www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
+      "publishedDateTime": "2020-06-30T15:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "ScreenGeek",
+        "domain": "screengeek.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -38,7 +38,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Robotics",
         "AI"
       ]
     },
