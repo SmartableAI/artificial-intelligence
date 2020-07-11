@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "This column will discuss four self-driving car stocks that can make it big in the coming years. Let’s look at the following self-driving car stocks and the progress made in this high growth potential segment."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Amazon agrees to buy self-driving technology startup Zoox"
     excerpt: "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl"
     publishedDateTime: 2020-07-08T07:27:00Z
@@ -49,60 +38,35 @@ related:
         width: 810
         height: 539
         isCached: true
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
-    publishedDateTime: 2020-07-09T02:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
+  - title: "Amazon Acquires Self-Driving Vehicle Startup Zoox For Over $1B"
+    excerpt: "Amazon on Friday confirmed it is acquiring Zoox, a California-based startup that has been designing an autonomous vehicle from the ground up."
+    publishedDateTime: 2020-07-09T05:00:00Z
+    webUrl: "https://hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
+    ampWebUrl: "https://amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 44
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/52054/content/Amazon_Van.jpg"
+        width: 708
+        height: 398
+        isCached: true
+  - title: "This VC backed self-driving car startup Zoox into a big buyout by Amazon. Here's why he says that deal signals a new wave of automation."
+    excerpt: "Factories, warehouses, and logistics companies are about to see a new wave of automation, Lux Capital's Shahin Farshchi said."
+    publishedDateTime: 2020-07-09T21:25:00Z
+    webUrl: "https://www.businessinsider.com/lux-captials-shahin-farshchi-sees-coming-wave-of-smart-automation-2020-7"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 54
-  - title: "£1m project to assess motorways for self-driving vehicles"
-    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
-    publishedDateTime: 2020-07-07T09:29:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
+    quality: 23
     images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
+      - url: "https://i.insider.com/5f077bd9f0f4194df1161093?width=1200&format=jpeg"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "AI for self-driving cars doesn’t account for crime"
-    excerpt: "AI for self-driving cars may need fixes to deal with ethical gaps. Namely, what happens if people triy to use an automated vehicle to do something bad?"
-    publishedDateTime: 2020-07-08T00:13:00Z
-    webUrl: "https://www.futurity.org/self-driving-automated-cars-artificial-intelligence-ethics-2398632/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 41
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2020/07/self-driving-automated-cars-artificial-intelligence-ethics_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
-  - title: "AI for self-driving cars doesn’t account for crime"
-    excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
-    publishedDateTime: 2020-07-10T17:09:00Z
-    webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx?m=1"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
-        width: 760
-        height: 368
+        height: 600
         isCached: true
 
 secured: "Lyspwj3xMkSIpgQBRFqtUyQqhGsIzgpbXnPl3gDvjQPepQB4hs+SPZGiIvUCspec2o9NQs/JffPBSUPsM+Z95rGnMf384pm+9ozObXfWLjw6GF4rLJbvSSCzZROjHiJ7SwNcS4p5lDKbyhMqnIao79CsIuqXJUB//UPCxkDX+bqr/TZfOwb3gez1+sijn+3+Kld1BaSLSIpSW5PFwLEHgMTV97HnPnk1Wm6hV1JRyd71ikghCxcry+zi00G7pnPD9VSUV/jYHOfYanycTbd/Rn9dbkiNCq2nZ80s6zLJqs8ecX+OoVQuHQfBbNL6raf6xbTdKEMKloLfA3Wc15QKaLd4iHR/Auddx6wppn5Y0vfiQ0p2OzcOj16eR2mKCSPe3yljxJIj8B0+3OcrJBVIhFPxCdkVZuQSn+KlEaBTfynSkFZMYAL9a9RyG77g2fOPa9VCIqFodRupounp4neF44zokLa5Cl/BAeXQeKrviFCl/rFSBY4WN6wOHTjx6S4QxfJxYh7RDDMJJ3o9pFyYUg==;d9lOnZg/C//LXsOd11kOuA=="

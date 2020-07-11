@@ -24,19 +24,19 @@ images:
     title: "Princeton University logistics tech startup raises $4 million in venture funds"
 
 related:
-  - title: "Elementary Robotics Raises $13 Million"
-    excerpt: "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30."
-    publishedDateTime: 2020-07-06T22:40:00Z
-    webUrl: "https://labusinessjournal.com/news/2020/jul/06/elementary-robotics-raises-13-million/"
+  - title: "Startup Raises $4M to Improve Logistics Operations"
+    excerpt: "Optimal Dynamics, a startup aiming to automate and optimize the logistics and supply chain industry through a new proprietary technology called High Dimensional Artificial Intelligence, recently raised $4 million in seed money."
+    publishedDateTime: 2020-07-07T18:56:00Z
+    webUrl: "https://www.truckinginfo.com/10120524/startup-raises-4m-to-improve-logistics-operations"
     type: article
     provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 69
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 37
     images:
-      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2020/07/02/PG10_ELEMENTARY_0706_IR1-2_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
-        width: 670
-        height: 401
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/space-grey-ipad-air-with-graph-on-brown-wooden-table-187041-__-1200x630-s.jpg"
+        width: 947
+        height: 630
         isCached: true
 
 secured: "L+kegniL7oOSDJHnz7e88bs9E1GEeOv3LpzIyPMpPNJjuWegFidR//x21AKDXcy8C1dfHJj3aDcHmoh5m584Xp03lqCkK1lWrv3w2ap19QcY+BeEOkTnnL6xxbOUI7uFNIuqB+5MRsncm6WO6II/02wsbMLykidGO4ZL/NQhnE0pEW8qnsqKj7kMFqVe2r1HJiHUCEIkefQ3okKoFpRT5tT1rUFyWyFfLqMhiZBewFCaFWXwJEmE1rJRzKtVeXjB6l9Rj6Xyq/4Lp/Pdi/jvse101MJ4Ox3W5HdgTeTQOf9JAeUAt3qs51noVTVXYu4muo+tCOK6jB896IQpnCY+Vw==;jP926sZEG6/TtBZx+Tacmw=="

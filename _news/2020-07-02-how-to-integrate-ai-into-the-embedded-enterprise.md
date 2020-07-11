@@ -3,7 +3,7 @@ category: news
 title: "How to Integrate AI into the Embedded Enterprise"
 excerpt: "AI is all the rage these days, and poised to disrupt nearly every industry. In fact it already is. A recent IDC survey reported that the majority of companies are failing in their AI initiatives."
 publishedDateTime: 2020-07-02T22:47:00Z
-webUrl: "https://www.embedded-computing.com/embedded-insiders/how-to-integrate-ai-into-the-embedded-enterprise"
+webUrl: "https://www.embedded-computing.com/home-page/how-to-integrate-ai-into-the-embedded-enterprise"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Pe5PH4rq0QGLuUCug+TGAC+2N/7D4b3+QXRlXJFBi26V9I9mQhr4ioDb7cio1VVS2TN1+nEfv+/O00Z3IknTQmdYTaiQW1y1oCDxKASGq3XzrV1btFL7Q2iR3Lae63RcNu3751tuyS3ECnYnzaQXjaMVxCNnsyQyWALUrYVaGbXM8vEGX8/BQuaSQuyTsxG4oCU9LZv0bMOW1JX+42ECSevQaKDyz4pmGXC4gmwrxzYtkmVUsk7Ak6WvCmraRgpx3NypKpjRH1bsuambZoR2EdpPtmR6/6IdWy5cuSlFnc5S9hbccelArCVqmIfAXiHuIqXI7nU3BTDQUpEzRi488g==;faZ+oNFY4h/K3H9an06fiA=="
+secured: "RcaFLEe77fCITXpW15NpRxzdqjAGzP3MON3PPoXPA/IJNrvM6uZ1jbtYb35sSGOsuPxy3g3/mnmhIufM8Dxyo2UasKyJeKeCRD1MRcVRpCpM9hPlm10XQr3YR5vP31KRT4NUDsYDF92ItRGSImhBqIKPGfsTQesTTTKmfiWmayZcr3jTHze9uOB44fKcBt1Ly0CkppmVmckoBNuxTLKTg7BS2INHB+GXQsHNAb2NhAeOfmCYdFbdL7fhDJRDMD0wZqap2GveoDHUBG1A98DA3XGvbO+BpScS+IBK8aPjh92wqfEHWQZgjChU7P7J0BMSv5xMsd/bptbgrUMcuWWo4w==;gIgBTw5m3lne52No/L5+mw=="
 ---
 

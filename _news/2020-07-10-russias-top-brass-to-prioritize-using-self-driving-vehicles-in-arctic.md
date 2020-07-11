@@ -8,7 +8,7 @@ ampWebUrl: "https://tass.com/defense/1176863/amp"
 cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1176863/amp"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "£1m project to assess motorways for self-driving vehicles"
+    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
+    publishedDateTime: 2020-07-07T09:29:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 44
+    images:
+      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "OLjFQtR6CUxO0eXmF6uRf52qfpDmidWNG3XZK3ZQw7ufp5UtzIG5mbHgKa68W5nW/48WIPwz8SSq79CLHESlvhiCh1u9cSyM0PiaP21TyIbXJTTAkecD/z3Cxf+0Viec+7H6nKC16rDb0dYrNIXKKJcKxncMMrfDcmcp8F1a6ECAINyTkXFggEdQPyTPMvJYqq19BMNAFsoWiSD/i1nEualLQB+0XFgS15qem9qkDNufr2c62Nq6cPsOmkrP3zda51sYNVIkXpyC5GHavmLJn+Jpg0gjBYPqvpYE7Jpon3NSD5+H3tbm9fIHTNlCjvOGQtRBARGXM+CGXFaqZzRiyQ==;K8zYiEyG6qDW64/SwwD6HQ=="
 ---

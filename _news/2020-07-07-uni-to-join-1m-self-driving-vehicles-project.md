@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Amazon Acquires Self-Driving Vehicle Startup Zoox For Over $1B"
-    excerpt: "Amazon on Friday confirmed it is acquiring Zoox, a California-based startup that has been designing an autonomous vehicle from the ground up."
-    publishedDateTime: 2020-07-09T05:00:00Z
-    webUrl: "https://hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    ampWebUrl: "https://amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 44
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52054/content/Amazon_Van.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
     excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
     publishedDateTime: 2020-07-08T07:20:00Z

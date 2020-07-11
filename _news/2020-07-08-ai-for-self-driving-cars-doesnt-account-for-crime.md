@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T00:13:00Z
 webUrl: "https://www.futurity.org/self-driving-automated-cars-artificial-intelligence-ethics-2398632/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,62 +26,10 @@ images:
     title: "AI for self-driving cars doesn’t account for crime"
 
 related:
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "This column will discuss four self-driving car stocks that can make it big in the coming years. Let’s look at the following self-driving car stocks and the progress made in this high growth potential segment."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Amazon agrees to buy self-driving technology startup Zoox"
-    excerpt: "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl"
-    publishedDateTime: 2020-07-08T07:27:00Z
-    webUrl: "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9"
-        width: 810
-        height: 539
-        isCached: true
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
-    publishedDateTime: 2020-07-09T02:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-  - title: "£1m project to assess motorways for self-driving vehicles"
-    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
-    publishedDateTime: 2020-07-07T09:29:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
-    images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI for self-driving cars doesn’t account for crime"
     excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
     publishedDateTime: 2020-07-10T17:09:00Z
-    webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx?m=1"
+    webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx"
     type: article
     provider:
       name: GCN
@@ -91,20 +39,6 @@ related:
       - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
         width: 760
         height: 368
-        isCached: true
-  - title: "AImotive and C3S take self-driving car technology from the road to space"
-    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
-    publishedDateTime: 2020-07-07T11:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
-        width: 1777
-        height: 931
         isCached: true
 
 secured: "1F+R/P/w+WV1AL7ExjK/aWIxREQoIHqe2T2zNBTVmb8iqRPoZWYqYDsiGnNkIfswl6SbcWI+aEUqz0oDFfxEb4IRd36ZBkJkAtr23qny1ZERMUPSDZOQ68LiATz/s7QVr2wJ2cAReebDWlbuN3niNrUghj37aYOPXJsojvjeNKzHrvAlPWdMw4MOvJfCqF1MR8XlTFOV2TNv/D6XLrc3aDvz3TbOkQD0ydoe+qAoGlg1C39riu1vAYJdpOmwK2cOABY/m2DDVBbfL9vMK6qoJ37kV6Myy1rr2/uoV6zVEn/0yywWljXF5kN1pzmJVrkZ5JkLxdH0gxumjQ5/lWjft5ySV5Lt2klLSGztK1wn9bb+aI9uYIe+YdaFRHz4aXOiTCzWLsM1pJK4uhGEzAw6i6vbYYi7t6WjnebO6jgKkYLvNCwNagDsVDUPECUxBcPRammha69bYT7PwqrYpj9lNXADErpIfIqL2LQIBiKdwxQVz+CKQHvi2zCO7NCJGafQ1P8eQ5diP5WQVnGM+oEh8A==;Q9zO61f4QfuuVEohXProKw=="

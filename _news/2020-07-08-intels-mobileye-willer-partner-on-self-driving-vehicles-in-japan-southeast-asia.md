@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Acquires Self-Driving Vehicle Startup Zoox For Over $1B"
-    excerpt: "Amazon on Friday confirmed it is acquiring Zoox, a California-based startup that has been designing an autonomous vehicle from the ground up."
-    publishedDateTime: 2020-07-09T05:00:00Z
-    webUrl: "https://hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    ampWebUrl: "https://amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amazon-acquires-self-driving-vehicle-startup-zoox-1b"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 44
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/52054/content/Amazon_Van.jpg"
-        width: 708
-        height: 398
-        isCached: true
   - title: "Uni to join £1m self-driving vehicles project"
     excerpt: "Loughborough University is to take part in a new £1m project with Highways England to assess how suitable the country’s motorways are for self-driving vehicles."
     publishedDateTime: 2020-07-07T07:21:00Z

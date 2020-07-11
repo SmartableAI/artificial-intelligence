@@ -19,17 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Further Clinical Implementation of Deep Learning Segmentation in Treatment Planning System RayStation Takes Place at Leeds Cancer Centre"
-    excerpt: "PRNewswire/ -- RaySearch Laboratories AB (publ) announces that its advanced deep learning segmentation functionality for"
-    publishedDateTime: 2020-07-09T15:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/further-clinical-implementation-of-deep-learning-segmentation-in-treatment-planning-system-raystation-takes-place-at-leeds-cancer-centre-1029381373"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/further-clinical-implementation-of-deep-learning-segmentation-in-treatment-planning-system-raystation-takes-place-at-leeds-cancer-centre-1029381373"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/further-clinical-implementation-of-deep-learning-segmentation-in-treatment-planning-system-raystation-takes-place-at-leeds-cancer-centre-1029381373"
+  - title: "Ardigen Enters Into Research Collaboration With CVC to Apply Artificial Intelligence for Identification of T-cell Targets"
+    excerpt: "KRAKÓW, Poland and AUCKLAND, New Zealand, July 9, 2020 /PRNewswire/ -- Ardigen and CVC announced that they entered a research collaboration aimed"
+    publishedDateTime: 2020-07-10T14:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets-1029380636"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets-1029380636"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets-1029380636"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 36
+    quality: 44
+  - title: "Ardigen Enters Into Research Collaboration With CVC to Apply Artificial Intelligence for Identification of T-cell Targets"
+    excerpt: "KRAKÓW, Poland and AUCKLAND, New Zealand, July 9, 2020 /PRNewswire/ -- Ardigen and CVC announced that they entered a research collaboration aimed at the development of SARS-CoV-2 vaccine. Ardigen’s neoantigen prediction platform called “ArdImmune Vax” employs state of the art bioinformatics and Artificial Intelligence to identify an optimal set of neoantigens as targets for cancer vaccines or adoptive cell therapies."
+    publishedDateTime: 2020-07-09T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/f8f11b08d83d939cd0e4273154936610"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "EsfzEgj/5uFZQs+y9iLJOAB3GV5cyvbutSyezMLMOk7ClVEC+0WihB9Z2sYnaAtyBYc3mFqnH657MH4uPuBaNqWBb9iyILAmRm3+ad9fAqNwM+fMhV7uew7Hmb3ju2vTSfqBYJ5BN+N9i5uAmtK3lfI9I1Ly2Iv53b1dhnUkaH66J2sXRPTBpPOjkI74ZIONxSpTHesedyQr4vk+LrvzY7jjWRzHZlVX7oxw5j67bkeuK1+Z0qUYcdjyoAUeQXZyqPnG/i/1wWzKTb5X1mSmP8CUzZJeGXy38yhTE7dOnxCKyHzawOyld+r/1Wv85Dd+4/b0G7u6kLTflbLJm1pRzw==;I2St2ksBxWFHESMkC7FXjA=="
 ---

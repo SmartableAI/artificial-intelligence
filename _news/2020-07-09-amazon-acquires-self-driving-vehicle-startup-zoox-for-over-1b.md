@@ -26,49 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's Mobileye, WILLER Partner On Self-driving Vehicles In Japan, Southeast Asia"
-    excerpt: "The companies are seeking to commercialize self-driving taxis and autonomous on-demand shared shuttles in Japan, while leveraging each other's strengths. Mobileye will supply autonomous vehicles integrating its self-driving system and WILLER will offer services adjusted to each region and user tastes."
-    publishedDateTime: 2020-07-08T01:46:00Z
-    webUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07"
-    ampWebUrl: "https://www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intels-mobileye-willer-partner-on-self-driving-vehicles-in-japan-southeast-asia-2020-07-07?amp"
+  - title: "Amazon agrees to buy self-driving technology startup Zoox"
+    excerpt: "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl"
+    publishedDateTime: 2020-07-08T07:27:00Z
+    webUrl: "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
-  - title: "Uni to join £1m self-driving vehicles project"
-    excerpt: "Loughborough University is to take part in a new £1m project with Highways England to assess how suitable the country’s motorways are for self-driving vehicles."
-    publishedDateTime: 2020-07-07T07:21:00Z
-    webUrl: "https://www.insidermedia.com/news/midlands/uni-to-join-1m-self-driving-vehicles-project"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
+      name: Reuters
+      domain: reuters.com
+    quality: 54
     images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo-doing-business-middle-east-online-forum.jpg"
-        width: 440
-        height: 248
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9"
+        width: 810
+        height: 539
         isCached: true
-  - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
-    excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
-    publishedDateTime: 2020-07-08T07:20:00Z
-    webUrl: "https://www.telecompaper.com/news/mobileye-teams-up-with-willer-to-deploy-self-driving-taxis-in-japan-taiwan-southeast-asia--1345665"
+  - title: "AImotive and C3S take self-driving car technology from the road to space"
+    excerpt: "AImotive, the automotive supplier of automated driving technologies, and C3S, the satellite and space technology provider, today announced"
+    publishedDateTime: 2020-07-07T11:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aimotive-and-c3s-take-self-driving-car-technology-from-the-road-to-space-301088931.html"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 9
-  - title: "Mobileye and WILLER partner on self-driving mobility solutions for Japan, Southeast Asia"
-    excerpt: "“We look forward to collaborating with WILLER as we work together for new mobility in the region by bringing self-driving mobility services to Japan, Taiwan and ASEAN markets.” “Collaboration with Mobileye is highly valuable for WILLER and a big step ..."
-    publishedDateTime: 2020-07-08T15:33:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia/"
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 38
+    images:
+      - url: "https://mma.prnewswire.com/media/1201161/AImotive_C3S_Volvo_Test_Vehicle.jpg?p=facebook"
+        width: 1777
+        height: 931
+        isCached: true
+  - title: "This VC backed self-driving car startup Zoox into a big buyout by Amazon. Here's why he says that deal signals a new wave of automation."
+    excerpt: "Factories, warehouses, and logistics companies are about to see a new wave of automation, Lux Capital's Shahin Farshchi said."
+    publishedDateTime: 2020-07-09T21:25:00Z
+    webUrl: "https://www.businessinsider.com/lux-captials-shahin-farshchi-sees-coming-wave-of-smart-automation-2020-7"
     type: article
     provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/5f077bd9f0f4194df1161093?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "Rkdai28CxIJLkvmbDmUJH3NE492LoYWWg/jbb0d9nfJcTY1l4yE3SznhjYcijmKd8nID6hRK4t4sO91z+VzxD20JTfs1rrpNFnU7vhKN5FOjksbyRkXAdwaY8jwZWh+w0b1/9kaSv3gOezp428Zgh6mEhXmTV5f5qHUzdXYYly+JHxo9FOQfnHGwinzzarfmiqZnNVY8cbOP8GoZstmYVT+6I3rZkMHQO+h0p5j+6ggDyN+xQYZGwmLBnQ//GwkUM81jwPmWGDYUc5uo0/28NZFLj+20Sovx0ADzSmM2wEU5CPqhAyjBsILRrgq9Rj2MtGwsQtjcXklqG35CKRb1Rw==;Cng44qva+QyBTK0qW010vA=="
 ---

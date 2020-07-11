@@ -7,8 +7,8 @@ webUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-les
 ampWebUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp"
 type: article
-quality: 93
-heat: 93
+quality: 95
+heat: 95
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Autos
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/5f0663989798446ce8080282/master/pass/business_artificial-intelligence_687292162.jpg"

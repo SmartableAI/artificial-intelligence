@@ -100,7 +100,7 @@
       "webUrl": "https://www.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -811,7 +811,7 @@
       "title": "Nvidia boosts virtual GPU support to help home workers",
       "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "webUrl": "https://www.techradar.com/nz/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -827,8 +827,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "publishedDateTime": "2020-06-30T17:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
