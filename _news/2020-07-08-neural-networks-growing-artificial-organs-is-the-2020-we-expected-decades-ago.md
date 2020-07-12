@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-08T14:24:00Z
 webUrl: "https://www.science20.com/news_staff/neural_networks_growing_artificial_organs_is_the_2020_we_expected_decades_ago-249189"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     height: 465
     isCached: true
     title: "Neural Networks Growing Artificial Organs Is The 2020 We Expected Decades Ago"
-
-related:
-  - title: "Machine learning helps grow artificial organs"
-    excerpt: "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish."
-    publishedDateTime: 2020-07-07T15:02:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-machine-artificial.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg"
-        width: 1920
-        height: 1357
-        isCached: true
 
 secured: "nKsyS5Resm9CvgkJ2TcTv+ugMkVv2bQVH+vuk2D0PMRUa5rVHCvhFkVLywbMwoQrD+oQ/gCZcXutTyLg3g0uGrct/Antxooo6L64HUEt4k69CpJRJFLWBvexUI7SeUFduWukm8Bw0I6N3WPitezG2J+ikjTNdABj53HfxAV07K4aTwvv3HfZYR3jLYUl4pjcGSXJja+AS9HdL1xLfPoRRsV9FGLi9f9iJnhFx2+FFhOOhHf4rbngDVbaFFonO9Z0LOhyEQgSSG+TdAVdwLfQIH8qm7b4qs9xrB1ParBAg8v1yMW7f8jZKP0ek7p5YHsTBxiPeOzbik0apXZfAH0u9MP6q5BxJ2HijENGSbMOQ3WkEHUh14y2fA1seU14qu79oMOs1E6EMUGm05zqka5Tmn1Yv4CGwgO/6fOuQRKR7TaGakFBmvF7x78B8c/VFZqvIye3N/Jv+HGSYfozzrtfPMOwCA9YYT8A0uZw/yrZus1Wom7veKRASlfGq3wA0ZeC/bi4Mg6HDwTd0p1VC+el7w==;wAI1taixpg8TdXRETxIPcw=="
 ---

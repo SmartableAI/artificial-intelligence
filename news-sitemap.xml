@@ -673,6 +673,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cnbc.com/video/2020/07/07/how-k-health-is-using-ai-to-become-telehealth-leader-amid-pandemic.html</loc>
+    <lastmod>2020-07-07T13:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/</loc>
     <lastmod>2020-07-07T11:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -717,12 +723,6 @@
   <url>
     <loc>https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/</loc>
     <lastmod>2020-07-07T10:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/</loc>
-    <lastmod>2020-07-07T09:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1621,7 +1621,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1885,8 +1885,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

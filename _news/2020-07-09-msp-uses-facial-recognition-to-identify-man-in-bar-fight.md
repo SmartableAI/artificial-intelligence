@@ -95,20 +95,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "TikTok sued for storing facial recognition data"
-    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
-    publishedDateTime: 2020-07-07T13:48:00Z
-    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
-    type: article
-    provider:
-      name: Legal News Line
-      domain: legalnewsline.com
-    quality: 39
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Facial recognition technology’s double-edged sword"
     excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
     publishedDateTime: 2020-07-11T12:37:00Z

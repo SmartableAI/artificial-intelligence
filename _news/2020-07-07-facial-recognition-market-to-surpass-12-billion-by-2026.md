@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/07/07/NGbiometrics20200707/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "TikTok sued for storing facial recognition data"
-    excerpt: "A class action lawsuit filed June 26 alleges violations of the Illinois Biometric Information Privacy Act, a state law that targets the collection of facial recognition information. “Defendants ..."
-    publishedDateTime: 2020-07-07T13:48:00Z
-    webUrl: "https://legalnewsline.com/stories/542043428-tiktok-sued-for-storing-facial-recognition-data"
-    type: article
-    provider:
-      name: Legal News Line
-      domain: legalnewsline.com
-    quality: 39
-    images:
-      - url: "https://jnswire.s3.amazonaws.com/jns-media/8f/57/9291488/eye.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
     excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"

@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Fintech Galaxy launches open API platform"
-    excerpt: "Fintech Galaxy, the UAE-based cross-border fintech marketplace and innovation crowdsourcing platform, announced today that it has launched FinX22, its cloud-based open Innovation platform that aims at driving collaboration,"
-    publishedDateTime: 2020-07-07T13:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/83183/fintech-galaxy-launches-open-api-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "dotData Launches New Platform to Meet Demand for Real-Time Prediction Capabilities"
-    excerpt: "Data, a provider of full-cycle data science automation and operationalization for the enterprise, is releasing dotData Stream, a new containerized AI/ML model that enables real-time predictive capabilities for dotData users."
-    publishedDateTime: 2020-07-07T14:26:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/dotData-Launches-New-Platform-to-Meet-Demand-for-Real-Time-Prediction-Capabilities-141689.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 18
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "dyKMyd2Br/hUfnrpBaB9bh9bD6somBq806+l8+cYLnC2yYGF5iBXtGT7u11gXfHjJA2KCdYeuz5eOKex7IRmpR5q8FAJgQ0dPUu/QlHzrnGcBv02OGj6yr8KkbehcFSWwNeCGYOP/LsWtsdpvLb5T23T5/I1VwbkO/BQ1CSWmJAbjNI4Y9xsCyhVsW621f6SOuEuv7v1+4f3/faMeyDYazW7UCut9PZYhtvrAdyn4FeQ99ACkuNE0uclpL8N0gxWh2e2O6uian7bPe3qo2y/SI1UnU7c/IdqmUcHuOaege2cUlSOjPif74t6uXBFzbtZK3qeTur3M1gllYUgD94aOQ==;V7z3bi6lkW4KMWqHv5E2Zg=="
 ---

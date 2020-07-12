@@ -8,7 +8,7 @@ ampWebUrl: "https://investorplace.com/2020/07/neteera-stock-using-ai-to-revoluti
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/07/neteera-stock-using-ai-to-revolutionize-healthcare/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "How K Health is using AI to become a leader in telehealth amid the pandemic"
+    excerpt: "CNBC's Julia Boorstin reports on K Health, an AI-driven telehealth service that offers patients access to care through their iPhone or Android device. The company ranked No. 35 on the 2020 Disruptor 50 list."
+    publishedDateTime: 2020-07-07T20:47:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/07/how-k-health-is-using-ai-to-become-telehealth-leader-amid-pandemic.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 65
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106606195-15941460253ED3-50-KHEALTH-070720.jpg?v=1594146024"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "eMLn+LNHmFiPINNC2COFGZvmT7A75v0rawQHhyNdzviXUNIx+tRH/s8DozUfgTPw9e0P3EqI5jvpmw3rm/I3WdetGKbOA/KRzLSU6zm14hiVrfejz6HsmF965MB1kDnS3jU/PeqcxZj1Rt5fw+I6T40s+HIbEUG1Za/E4h+rgiyYohASrO4r6G/HZ2PrUyTxfNzcNc58zhhU2ddWzETp5uKfdESrBcIrYmoQqhasaVaKp4qL3yNaKH12du37x+lHlc12VZc70cU8IRzBKdwMnlpS9pGyjTSksWtxk+ITHwYx5hQQe3LHMGz6JCM8AW/5cow6/YlRGoLSZ6QbA8pblQ==;4VS7uk4AQFOU8xyf7WHYHg=="
 ---
