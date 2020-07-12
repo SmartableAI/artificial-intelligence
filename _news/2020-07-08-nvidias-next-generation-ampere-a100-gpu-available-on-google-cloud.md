@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a1
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia Teams With Google on New Cloud Computing Services"
-    excerpt: "Nvidia's new A100 flagship GPU is powering a new family of Google cloud computing services -- including one that provides access to 16 GPUs."
-    publishedDateTime: 2020-07-07T20:31:00Z
-    webUrl: "https://www.thestreet.com/investing/nvidia-google-team-up-cloud-computing-services"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/nvidia-google-team-up-cloud-computing-services"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/nvidia-google-team-up-cloud-computing-services"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/qgqzAEcX-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Google Unveils 1st Public Cloud VMs using Nvidia Ampere A100 Tensor GPUs"
     excerpt: "Google today introduced the Accelerator-Optimized VM (A2) instance family on Google Compute Engine based on the NVIDIA Ampere A100 Tensor Core GPU, launched in mid-May. Available in alpha and with up to 16 GPUs,"
     publishedDateTime: 2020-07-07T21:39:00Z

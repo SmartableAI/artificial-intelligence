@@ -34,7 +34,7 @@ related:
     provider:
       name: GCN
       domain: gcn.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
         width: 760

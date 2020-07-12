@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-r
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/07/Tech-Welcome-Robin-the-AI-robot-696x464.jpg"
         width: 696
         height: 464
-        isCached: true
-  - title: "Full picture of Robin the robot (image)"
-    excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
-    publishedDateTime: 2020-07-07T20:44:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/236836.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "ne/LpajZ58PxVeFtoZmmC4uHl8BREsg0Jn2ogQOWg+uEh87iETL9Lgu848H1OxiRB487Eei+scl9WjqwBrSOmmZpXjV01meLMiHhBMMo8VY+FOD4xnzByqMpdXSC43GzYzidEwmC7srpUvtPMnnLpU5YCWiTukHJ7Au6XbWPziXCrWSJIBx0SB5gbVReja5MMgnm6L2jOqNBI9JgYNbeEXJV2IkgtsZCq/3AtuNCy/pDNar3DoL9UY6x95pzHaiodeczlrV0jdsVGcFKRqrPyhcrSZZgKs4qWV92kkn2JHFpOuMzD0KzUhGGDJiqYGWF6Mf35zsINHCGPLBsJ06L9w==;ep4Ay385U2JYNSYpFn5qWg=="

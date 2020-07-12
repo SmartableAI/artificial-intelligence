@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html</loc>
+    <lastmod>2020-07-12T06:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/</loc>
     <lastmod>2020-07-11T17:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,7 +43,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.zdnet.com/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/</loc>
+    <loc>https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/</loc>
     <lastmod>2020-07-11T08:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -409,12 +415,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbronline.com/news/aws-user-data</loc>
-    <lastmod>2020-07-09T01:58:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/</loc>
     <lastmod>2020-07-09T01:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -561,6 +561,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/</loc>
     <lastmod>2020-07-08T07:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507</loc>
+    <lastmod>2020-07-08T06:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1621,7 +1627,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/nz/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1963,6 +1969,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/correcting-and-replacing-aws-announces-general-availability-of-amazon-codeguru-2020-06-29</loc>
+    <lastmod>2020-06-29T14:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/</loc>
     <lastmod>2020-06-29T13:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1971,6 +1983,12 @@
   <url>
     <loc>https://www.cnn.com/business/newsfeeds/prnewswire/202006250800PR_NEWS_USPR_____NY45714.html</loc>
     <lastmod>2020-06-29T13:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/il/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html</loc>
+    <lastmod>2020-06-29T13:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2072,12 +2090,6 @@
   </url>
   <url>
     <loc>https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/</loc>
-    <lastmod>2020-06-29T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise-301084968.html</loc>
     <lastmod>2020-06-29T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

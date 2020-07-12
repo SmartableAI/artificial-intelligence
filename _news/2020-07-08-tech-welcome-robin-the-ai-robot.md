@@ -57,20 +57,6 @@ related:
         width: 2880
         height: 1920
         isCached: true
-  - title: "Full picture of Robin the robot (image)"
-    excerpt: "In response to COVID-19 pandemic, UCLA Mattel Children's Hospital has launched an innovative project -- an interactive, artificial intelligence robot named Robin -- to support the emotional needs of children."
-    publishedDateTime: 2020-07-07T20:44:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/236836.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/236836_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "4q1fXQ7ujdnRw8dAidEATWzP83jpkwFYfYk9GYSjjJn66W9fIbGn61vdg4um2HssJNARuynLwzaZeI7VZAiVZ/Xrx8DfyTAiw/bwHKVFH06vhFIpAovCA13SHjg4dqWLLKvU3cPC3fk/1Vss0OlI4BBP9bqe1+WzqrpEJU4P1JZHuZT0WhEwOCIuEtdVUKhsaTelsiZp2VOLYfogNUUL33/yV6GRYMO5JshBfjoTlOhGPeBf11MVehX/mMQBistEqsKAizEg4SxLoFn6+UVI6AHECPkXmb4r0DvX1q6X+/fk/qK27Kskw0PSFbJZvnSGBEqwwegJajgPWYsCxnikyOuro05Ca0bMeDImsD/bP8mx8OP8FCUmhw5KZPkX14vj5ZAVw+9tY2L65h3TQD40k8zMuNYB+nbsi7XC0lQqbADWAkh8mORsimO+Q3B93gFKAVtTtJ/kDftnnDSa3OyC4z2jDtMJ/2sxqNW5atrKPicKfyNegoESPFqDDibJqlaPa7Eed1+e6cDfPxUeaa9Y1g==;LwiodCHMTcyB+Iq+A8pDQA=="
 ---

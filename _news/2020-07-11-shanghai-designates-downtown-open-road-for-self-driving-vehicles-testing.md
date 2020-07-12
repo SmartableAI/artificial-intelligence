@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "CTA Study Shows Consumer Excitement For Drones Self-Driving Vehicles Has Grown Amid Pandemic"
-    excerpt: "CTA survey data shows these emerging technologies are playing an important role in delivering essential groceries, household items and medical supplies."
-    publishedDateTime: 2020-07-07T20:35:00Z
-    webUrl: "https://www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic"
-    ampWebUrl: "https://www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic?amp"
-    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic?amp"
-    type: article
-    provider:
-      name: Twice
-      domain: twice.com
-    quality: 33
-    images:
-      - url: "https://www.twice.com/wp-content/uploads/2019/11/amazon-drone.jpg"
-        width: 474
-        height: 351
-        isCached: true
   - title: "Russia’s top brass to prioritize using self-driving vehicles in Arctic"
     excerpt: "In April, the Kamaz truck maker held successful trials of self-driving trucks in the Polar region, according to the head of the Khrulyov Military Logistics Academy"
     publishedDateTime: 2020-07-10T09:10:00Z

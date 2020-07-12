@@ -5,7 +5,7 @@ excerpt: "Because today’s simplistic ethical considerations in AI and autonomo
 publishedDateTime: 2020-07-10T17:09:00Z
 webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
