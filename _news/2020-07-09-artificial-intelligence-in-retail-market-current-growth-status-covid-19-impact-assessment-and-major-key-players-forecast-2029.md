@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T05:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
     quality: 9
     images:
       - url: "https://mms.businesswire.com/media/20200709005622/en/804328/23/IRTNTR44235.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "COVID-19 Impact and Recovery Analysis | Artificial Intelligence (AI) Market In BFSI Sector 2019-2023 | Focus On Autonomous Banking to Boost Growth | Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Market in BFSI Sector 2019-2023 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence (AI) market in BFSI sector and it is poised to grow by USD 11."
-    publishedDateTime: 2020-07-08T00:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200707005778/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 8
-    images:
-      - url: "https://mms.businesswire.com/media/20200707005778/en/803726/23/IRTNTR31823.jpg"
         width: 1200
         height: 627
         isCached: true

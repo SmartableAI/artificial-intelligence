@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2087532/artificial-intelligence-as-a-serv
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2087532/artificial-intelligence-as-a-service-market-size-aiaas"
 type: article
 quality: 31
-heat: 61
+heat: 31
 published: false
 
 provider:

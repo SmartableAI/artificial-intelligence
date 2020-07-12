@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtec
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtech-startup-raises-5m.amp.html"
 type: article
 quality: 37
-heat: 67
+heat: 37
 published: false
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Senso-AI.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "Princeton University logistics tech startup raises $4 million in venture funds"
-    excerpt: "A Princeton University spinoff that says its artificial intelligence (AI) platform can help logistics providers operate their companies better has raised $4 million in venture funding and hired an alumnus of Uber Freight and FourKites to promote it."
-    publishedDateTime: 2020-07-07T21:50:00Z
-    webUrl: "https://www.dcvelocity.com/articles/46475-princeton-university-logistics-tech-startup-raises-4-million-in-venture-funds"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 33
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/optimal-dynamics-trucks-Screen-Shot-2020-07-07-at-25124-PM.png?height=635&t=1594156687&width=1200"
-        width: 722
-        height: 635
         isCached: true
 
 secured: "Y2qfgRDZoEIbMoc02iSPcmDbFQ1ijiZBl5DgDu5ifa0KalgubujS7pwZBOvtYHFy4hxtvI9+QLljoKiC+kcAfWmsIEtGMS498N1Wl8htHtExLMu4e1mYHd+a+/H/6waPA+jM6iUbByVMu9jtsyZPyuIyaFCmMDlVscZ7CUki/c4JHdhUXHF6cUsa2iC24+9WFnP8wt2DJ4PGnnMOYLUUD5mzN4AqWRblpefMx+eEhguvGrHnnn9jokqWMU65De2r84ksBoQ3kRZsu+HPG12NvFrjjCzsMldNHkcmu1+7B0c+q94ImipFAInNDkMcA+JELVIaAMTrGBs6OWsQRnI+/HNdP+ukWt5vsELGTyJ6HlOfzNbN0FSk5jVQnpFRf305Ar7fC1j8ARBkzyxGbnywPtRUQj6iNDOUzqJrBx+X79UTCU5RNcXTO6ACjtfGV7wFrFshI7Ks57ka3yUK8AuI91vmts7xJ3DIxQlHg9R2MUHcjX/3KZuLYYRJt+gBECndR22w+LB5GdRf73sybllk1Q==;y3hIfpo9/DSB4ZRSXa8DEg=="

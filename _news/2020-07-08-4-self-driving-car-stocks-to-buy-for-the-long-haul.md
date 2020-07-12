@@ -45,6 +45,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Here’s what one startup does when its self-driving cars get stuck"
+    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
+    publishedDateTime: 2020-07-11T13:00:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "Dvs2/V+7ysNp0iHoV98tzZliF4YhqlStfwUq4V5jVXuKJQ88lXwyQwCxvkuUO6x6xiCFuRsp6Jq+c2InW7c95NCXaS9US3Ai/96gxSo/7eJ420nkDttpEnHLtiRsnvqw5IunAhekxzBHcdMO7lRV6XUcdPo8E3eK/bXb5eBmCyIJ9FchvOTOd5yUxVKdHQjO6e4maB1cq7UpMxmSI6blMQLgYfDSk/GzHAMkkPMzLXmJX1j1570eTflUbOfXSf+JJA0i4NVslY48FA0srk7y6LvSoOWyhebg27BD73aT0SsTlE45jx/svtFy+6R2dlT/jpr4E1YVxyv2DMrs8K/b1PQxy052C+Ni77u4ZXxbwUsAseMLHdAsSQwZXq/N7l1nCkKGj3w10r/dtDSvXqx1C54wJQa++ReF62AjBs1BCEMAS3zZe7jrNkDEcxNJgFcC874AnUWfEAAv8YvAt7XjxNwlStMC1HJmB3lxkZ3G/7hIxLVpDlkNGWUcQRkuAtrFuhu5HIevWuUPxKlOBi/GbQ==;ZiT4f8fvjQbQS2h+5Ukm/A=="
 ---

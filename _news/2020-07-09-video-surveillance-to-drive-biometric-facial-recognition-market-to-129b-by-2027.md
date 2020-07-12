@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T20:41:00Z
 webUrl: "https://www.biometricupdate.com/202007/video-surveillance-to-drive-biometric-facial-recognition-market-to-12-9b-by-2027"
 type: article
 quality: 34
-heat: 44
+heat: 34
 published: false
 
 provider:

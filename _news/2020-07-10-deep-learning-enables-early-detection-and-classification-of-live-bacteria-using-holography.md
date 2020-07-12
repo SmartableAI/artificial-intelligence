@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-07-deep-enables-early-classification-bact
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-deep-enables-early-classification-bacteria.amp"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:

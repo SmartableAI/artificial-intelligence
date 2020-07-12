@@ -3,16 +3,18 @@ category: news
 title: "Artificial Intelligence in Contrast Media Injectors Market a Gamechanger: Future Market Insights"
 excerpt: "The contrast media injectors market shall expand at a CAGR of 4.9% through 2030, but gains in 2020 will be impacted by the sluggishness"
 publishedDateTime: 2020-07-09T19:00:00Z
-webUrl: "https://www.prnewswire.com/ae/news-releases/artificial-intelligence-in-contrast-media-injectors-market-a-gamechanger-future-market-insights-301090937.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/artificial-intelligence-in-contrast-media-injectors-market-a-gamechanger-future-market-insights-807674287.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: PR Newswire
   domain: prnewswire.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -21,6 +23,6 @@ images:
     height: 314
     isCached: true
 
-secured: "5Eb0ZrZ78S7EjBBdob3V6E19dZzwU1uNfxh1xirK8pbF1OIJGHr4By+EvolDOmn1q5PfiMEMioiNA4leiRbMj2d7cfOun576NY62XU67MPn27fPshxawdV/JicWA2EQp//JOTSp0GTIKMMLQJ912YhHFKZyhCgQJg+pPlyXplR7e2iEJnvBRGckELNesSqIsGa5assPAOLBDpwIAVKDrnY4hEFJ6mBERt1Ei38cH2ei5pdK5iTwrBz1xaOp72rySZP/Zs3tXyRtP4hVb2xoh+jPk5ncehLwsr/BP8RYrxlCKskf1CvKmYHYUQbgNRWuRaNVSNj/C5GukgyLlIplt3w==;mIewmcAiYcSqoHd4yLHfxg=="
+secured: "L/Bx09UZPzXSF6QDwLPLJxVkeY9sCAvu42pQjAdtQyDAduhBy2kWCHt2fALx9HHGVMsPTlpKsjoJHskFwrwV7GfkA4Hwv6nU+MAUyh/SOF5q4T/4qq3IFBs5mIAZkb/yDv2ihcW0SvEUa9CZF0DwApDGAaCigBdcX4NNe+QDfDr/JwN09mhKtGmZHnQeOOkhp8dO4+NJUsDH/CAGB1sXn8EwoaL3OtozBdpo6LCpHqFMuPPoQAxc/sYBOVpPfvE8lUVcor5QHdHRENsUFR5MAp+gcRfBk3+yq+pKw8gSUOp7MROPJfOpPyNigMa3bcFLO9v9kcDcstO0ni05EAvJqw==;zOJHlwSvXWfZJh27sD/fyg=="
 ---
 

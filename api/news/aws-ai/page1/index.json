@@ -205,6 +205,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-aws-is-harvesting-customers-ai-datasets-and-storing-them-outside-users-selected-regions.md",
+      "title": "AWS is Harvesting Customer’s AI Datasets and Storing them Outside Users’ Selected Regions",
+      "excerpt": "60.4 also mentions this for SageMaker. 75.3 mentions this for Fraud Detector. 76.2 mentions this for Mechanical Turk and Augment AI. Summit Route’s Scott Piper notes: “Interestingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbronline.com/news/aws-user-data?wpfpaction=clear",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/07/mason-kimbarovsky-vyI4taQNowM-unsplash-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbronline.com/news/aws-user-data/amp/",
+      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-user-data/amp/",
+      "publishedDateTime": "2020-07-09T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Business Review",
+        "domain": "cbronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-giving-your-content-a-voice-with-the-newscaster-speaking-style-from-amazon-polly.md",
       "title": "Giving your content a voice with the Newscaster speaking style from Amazon Polly",
       "excerpt": "Audio content consumption has grown exponentially in the past few years. Statista reports that podcast ad revenue will exceed a billion dollars in 2021. For the publishing industry and content providers, providing audio as an alternative option to reading could improve engagement with users and be an",
@@ -262,7 +303,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1367,38 +1408,6 @@
       "provider": {
         "name": "TV Technology",
         "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
-      "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
-      "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16398820/chatbot-market-growing-at-a-cagr-29-7-key-player-ibm-nuance-communications-google-aws-artificial-",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16398820",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16398820",
-      "publishedDateTime": "2020-06-25T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -23,20 +23,17 @@ images:
     isCached: true
 
 related:
-  - title: "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights"
-    excerpt: "FORMULA 1 (F1) turns 70 years old in 2020 and is one of the few sports that combines real-time skill with engineering and technical prowess. Technology has always played a central role in F1; where the evolution of the rules and tools is built into the DNA of F1. This keeps fans engaged and drivers […]"
-    publishedDateTime: 2020-07-08T15:52:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/"
+  - title: "2 Healthcare IPOs Getting a Tailwind From COVID-19 to Consider Buying"
+    excerpt: "If you're considering investing in one or more recent initial public offerings in the healthcare sector, you've got many options. Over the last year, 76 healthcare companies have gone public, according to finviz."
+    publishedDateTime: 2020-07-12T17:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/03/accelerating-innovation-1.gif"
-        width: 1000
-        height: 501
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "fQn8xQsujgU8JvihE7m14XhozDzjIPh56QlLKk6+qovtQw8Zq7mAfeOQfu7g6H/HCyeT6g1aOVeqwTQNxJ5RYKOtPNG7a5fstsdy1kpB83+w63beqVXxb2OfLn4RtFroCr+jFvBzFxddytdlmln+0oA7vcftqy2EsWsDkmBWWE+FHz5io/ORKYAFyzPY4M0If9GlAicY8bbohofe3BCixXQ9sF8iJocuk0jh3ZTd7jQuDg2QAYgzd8WY+ODT+sIDQ+KTC5R//ceF5OydQOAJMDBoPum9c2aVKtjnybZtco/P+GNacdgvvUUYywMpSY5k8+7jqhtFb97UjHXSJkAFKS7Qs9910LXev/u+nKQsBEA9lyC53bw9mYAi8Ju4R2SLetWovueJf2uzw+fMvPDLAtlcP0MxXXZsfLKvOgGknGMEf9ZgI1eH8m5no3it5EnLitlaTsVmKxccBlv5+RugVwZgDdDaTiOocrAPjBxIr7ohMRxJXo1IRjjsVNu+3/DYeJjDXgUzzwoSVNrwYHoJyw==;pHRMOI0hEWP23yo6XvVU6Q=="
 ---

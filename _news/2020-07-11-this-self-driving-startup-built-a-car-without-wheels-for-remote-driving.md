@@ -85,6 +85,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Chinese self-driving startup tests unmanned vehicles without safety officers"
+    excerpt: "Residents in Guangzhou, South China's Guangdong Province can take self-driving cars from June 23. The service was jointly launched by AutoNavi and self-driving ride company WeRide. Photo: WeRide Chinese autonomous driving startup WeRide obtained a license on Sunday to test its self-driving car in a designated area of South China's Guangzhou province without a safety officer,"
+    publishedDateTime: 2020-07-12T07:23:00Z
+    webUrl: "https://www.globaltimes.cn/content/1194235.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 21
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-07-12/849ef286-edfa-4c4c-96a3-f2fdff2932a2.jpg"
+        width: 709
+        height: 399
+        isCached: true
 
 secured: "mAf5o6BA+TDM28nIznDO8DKm3qgz6snanfqDKyBmSuUU4N0wpXpa2D69Fs7hGqOQZsgtVRGSn6sSkM5FwnkG0VErogoEy95lTOkaKEtmSwZRlMkBl7iM2rmiSGTNTrx43K+7yUTXN5dfaXOFeptL/rTqI69NvQRH7H6cMaSH0hlYsybem7R9Bl3DJSB1+YLfC0zqf5ejZHVVb1XSjQLiH15wowU3zXl24Hr6EcCsdIGGgEJHhXDuFiRm4Wnk2FMjn13P7jgXhOnAX2yOykyiQ5xPFPIOrNAytA4paEDhU0MQ6u9Ug4OqgztkyPU7JmCt3vTDjXJpLZfIu8ASpRlJwPuh4/W3YMmZiVrfrqMMpqT6MooRz9OVouq5EjP9pRdfnbnUAvtoXX3MFZTcBtTwygbUK8DmHPyLRzjh8rGdNRP1pW3Z4j5tAselLHf373ZmlAXXeqkjwsjYET31DqhJPAj+Y6aGQX5AjPCAqz0g6gWLWU9Yuy1s1A+tEvggACj3N/spSCarl79AYeOprzEpsA==;dCDbDZSw4wX6IRaFrTaNLA=="
 ---

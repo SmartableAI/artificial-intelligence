@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12</loc>
+    <lastmod>2020-07-12T10:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html</loc>
+    <lastmod>2020-07-12T06:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cnbc.com/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html</loc>
     <lastmod>2020-07-12T06:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -43,7 +55,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/</loc>
+    <loc>https://www.zdnet.com/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/</loc>
     <lastmod>2020-07-11T08:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -399,6 +411,12 @@
   <url>
     <loc>https://www.theverge.com/21317055/robot-coronavirus-hospital-pandemic-help-automation</loc>
     <lastmod>2020-07-09T04:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbronline.com/news/aws-user-data?wpfpaction=clear</loc>
+    <lastmod>2020-07-09T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -877,6 +895,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -903,12 +927,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
-    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1429,8 +1447,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&amp;itm_content=2x4&amp;itm_term=2356592</loc>
-    <lastmod>2020-07-01T11:00:00-07:00</lastmod>
+    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=19&amp;itm_content=2x2&amp;itm_term=2356592</loc>
+    <lastmod>2020-07-01T10:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1627,7 +1645,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/nz/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2677,12 +2695,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://uk.reuters.com/article/uk-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUKKBN23W2V6</loc>
-    <lastmod>2020-06-25T12:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/janakirammsv/2020/06/25/databricks-donates-mlflow-project-to-linux-foundation/</loc>
     <lastmod>2020-06-25T12:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2703,6 +2715,12 @@
   <url>
     <loc>https://mashable.com/article/tesla-fsd-price-increase-/</loc>
     <lastmod>2020-06-25T11:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-waymo-volvo-autonomous/volvo-cars-waymo-partner-to-build-self-driving-vehicles-idUSKBN23W2V0</loc>
+    <lastmod>2020-06-25T11:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.cbronline.com/news/aws-user-data/amp/"
 cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-user-data/amp/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Computer Business Review
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "AWS Customers are Opting in to Sharing AI Data Sets with Amazon Outside their Chosen Regions and Many Didn’t Know"
+    excerpt: "AWS is harvesting customer's sensitive data sets for its product development purposes and storing them outside the geographic regions its customers selected"
+    publishedDateTime: 2020-07-09T08:58:00Z
+    webUrl: "https://www.cbronline.com/news/aws-user-data"
+    ampWebUrl: "https://www.cbronline.com/news/aws-user-data/amp/"
+    cdnAmpWebUrl: "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/news/aws-user-data/amp/"
+    type: article
+    provider:
+      name: Computer Business Review
+      domain: cbronline.com
+    quality: 53
+    images:
+      - url: "https://www.cbronline.com/wp-content/uploads/2020/07/mason-kimbarovsky-vyI4taQNowM-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ERXnE9j6bPqFDFXwMb2CJPUIoGZ7+jkm+6Jp13cz2ZwxpwCY04hLY5N9VuwnuGEIMhGoZfogudC2IhcYzNDVgqNhfKkIb4ugNEnKONYASYkuyJRV791AB57HSDRmygqx3Wy1gZLg7XDWgcpzhmWwelUIj+ZdMuhdBZBK1b2RXkPqeZtpCE+Gpi3U5ybaYJXOk+b3q+VOy0WT2o6tJhVFYPftgQXu1CTi3Jmt7E6Ly9nJakAt+ft+MIVx/9Zkm6M8lgSeRsySrCie+JUx60TIfCG8dm9By3Mdlvx+7XmKauMZ6BVYCceiDereiEmYnARsRDeaN3JnbXR99bsBmHSaBA==;GEZ3R5ep4CZbuN4ktP1yJw=="
 ---
