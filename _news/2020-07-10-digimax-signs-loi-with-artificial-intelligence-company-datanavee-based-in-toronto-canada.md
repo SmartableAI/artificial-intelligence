@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T13:15:00Z
 webUrl: "https://apnews.com/8ce7daf50bab8ee9a15e32d6e246ba2f"
 type: article
 quality: 28
-heat: 28
+heat: 38
 published: false
 
 provider:

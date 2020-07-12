@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200712/GE-Healthcare-selects
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200712/GE-Healthcare-selects-UH-to-evaluate-new-mobile-x-ray-system-enabled-with-Critical-Care-Suite.aspx"
 type: article
 quality: 48
-heat: 48
+heat: 58
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T08:44:00Z
 webUrl: "https://www.utsa.edu/today/2020/07/story/chatbots-artificial-intelligence.html"
 type: article
 quality: 40
-heat: 40
+heat: 50
 published: false
 
 provider:

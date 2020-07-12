@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-07-smart-pill-gut-imaging-device
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-smart-pill-gut-imaging-device-ai.amp"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:

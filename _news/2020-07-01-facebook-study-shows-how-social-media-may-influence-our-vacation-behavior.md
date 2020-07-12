@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Facebook study shows how social media may influence our vacation behavior"
-excerpt: "To explore this phenomenon, Facebook A.I. researchers used artificial intelligence algorithms to analyze a massive ... people would later experience the place,” Kristen Grauman, a research scientist at Facebook who is affiliated with the University ..."
-publishedDateTime: 2020-07-01T18:00:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=8&itm_content=2x4&itm_term=2356592"
+excerpt: "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations."
+publishedDateTime: 2020-07-01T17:56:00Z
+webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=1&itm_content=4x6&itm_term=2377121"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "YBwNLgwrDcgUII+nvCQ8QVWoSDgPaV6oVjBbrLWjsdZOWGVLO1QGlBJSIvQTPJ+L3fI1DhsCvJBJLHU2U0PSaW0alotqY6lRLpk/ELcefZtY6lU63VloXJMXud6fEzdBszeuTmn+P+lIORdh4mAxOHHrNZbmpojZQ5FyJ70tpJ5wK2PLaCn11uItBaXJXUNZBoX2byutQCjBO9x/EE+DJDHuE7PbXvxRVoE6K7R0/p0Z43mvshpPeyw8vtwaUXkBxmz8MgAKu0s7gGPp3ArUmdLXD9pUnNeIq4uS/OfjJEbYFuKagrga4wDe+hQxaeCeHJfo/4DKoOvauIXzAIkkuR5r9RUl5MhonPbNpAf95HDcvfc9mlR+Ny+vqr0KW34yJtAX4eYNPhfVNNgpUaKQ/l+qu43su8ORuhu+nISoSFNhEVDojBug517WNL9It80DxB1yxQ8iFwpVMjhPeIm/gYsoUJnEXkcBjT7SyTfvAlJ8gjQYKY7ilG/f15P+qcHxKO0xRjtMhmT0v3WXnqRb0Q==;u3AgN2QaBAzHFuQ/t+P0og=="
+secured: "Qn8Jh7MgHt9rBQY0YNnuxWRS61e3pdTBvrYM2/dY66Ss3UqABoplFOmXA9XhrS2Ws6zoOzIOivR+/qecg6L/pXqhgHKbOeDs5QpgnBo/8Gfq+6bYuHEoTp1dW35ZHmxm+zKQouQxOzqxhJ9wx/vDEOmkdUiCtCfe7I0z8WRiiQDPZ7AtRSxov0DEfNa8NLCx8Ux1X9dCBF3SDg3ZojMcFrv9bRn8w2Q7SCuzKg/DxFKyQtY7lVDY/m3Caqp0y2xYq5xgjoPfVJl+YWhFmWr1Nzr6tREjm+bYg4afzMk5SqLpO/yXX8Pjtv+U56XsOfYfFx2F2EaDEmNlov0+/+B0Xg==;3BnmVOlm2kXwIvisOB5avQ=="
 ---
 

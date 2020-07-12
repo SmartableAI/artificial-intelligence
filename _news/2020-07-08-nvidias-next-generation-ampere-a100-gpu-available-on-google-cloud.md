@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a1
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google Unveils 1st Public Cloud VMs using Nvidia Ampere A100 Tensor GPUs"
-    excerpt: "Google today introduced the Accelerator-Optimized VM (A2) instance family on Google Compute Engine based on the NVIDIA Ampere A100 Tensor Core GPU, launched in mid-May. Available in alpha and with up to 16 GPUs,"
-    publishedDateTime: 2020-07-07T21:39:00Z
-    webUrl: "https://insidehpc.com/2020/07/google-unveils-1st-public-cloud-vms-using-nvidia-ampere-a100-tensor-gpus/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 38
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/07/Google-Cloud-logo-0720.png"
-        width: 367
-        height: 250
-        isCached: true
 
 secured: "mV/w4gaaHPEW8ayBnnxzJWxrOZZwntqI3earCwxyrdzo5aymJJofXGnJeMTx2JzTIdEMTq/1sTL/KY/+7hByvPbe+vUdYLgqb+WJBKk521JPzUk4ROHmOqmtzUf++1DUObOt+aRajVgsK9qwIwgjKNlWG7AkeB+Beu/2oJCxvxzsGDGAnY3+Pe/Ff7CYZHQB9bgGwJsq3gmTamxg8CzquL9h/NzW2dKWBCxzcs7UsyL9L7BaswSj2whiRzXD4qXGbq9Jp4Rm3aQ8y9Ti2JTB44SyJp0ReduAhJRnX8ANiAnRCXVKYRqus61aB8mohU2aSdAeltNtd9ihG7qdcTW1YVyYdmMJ+blGUXx/P6Gf7Ue7gQ7XDbwCbI7voBWzeKFcLF+TJemomUzQgu8VNCgFG4mVgQlrIOSh2TErD2gbD4pyTyUuIgK+f+2tyyoZWTwJLfwv/3fA+ODcFTwhEmp1t+3cV4e6wCUL4jdmPrDzZF76HA7v5QYTlQm6MH4W78VKCUPgh0lzymxiHglNxI4ZRQ==;OwsyNkZCYsQJbRn72ovQ8w=="
 ---

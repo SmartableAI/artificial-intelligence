@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtec
 cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtech-startup-raises-5m.amp.html"
 type: article
 quality: 37
-heat: 37
+heat: 67
 published: false
 
 provider:
