@@ -127,8 +127,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/07/10/facebooks-ai-separates-speech-in-recordings-of-up-to-5-people/</loc>
-    <lastmod>2020-07-10T09:06:00-07:00</lastmod>
+    <loc>https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/</loc>
+    <lastmod>2020-07-10T10:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -465,6 +465,12 @@
   <url>
     <loc>https://www.foxnews.com/transcript/school-debate-president-trump-pushes-for-in-person-learning-to-resume</loc>
     <lastmod>2020-07-08T17:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://medicalxpress.com/news/2020-07-robin-ai-robot.html</loc>
+    <lastmod>2020-07-08T15:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -895,12 +901,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
-    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -927,6 +927,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
+    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1447,7 +1453,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=19&amp;itm_content=2x2&amp;itm_term=2356592</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=20&amp;itm_content=2x2&amp;itm_term=2356592</loc>
     <lastmod>2020-07-01T10:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1645,7 +1651,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

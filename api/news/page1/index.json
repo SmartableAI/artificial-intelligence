@@ -1005,32 +1005,32 @@
       "title": "Facebook’s AI separates speech in recordings of up to 5 people",
       "excerpt": "Facebook researchers describe an AI system that can isolate speech from recordings of multiple speakers on a single microphone.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/10/facebooks-ai-separates-speech-in-recordings-of-up-to-5-people/",
+      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 167,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
+          "width": 462,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/10/facebooks-ai-separates-speech-in-recordings-of-up-to-5-people/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/facebooks-ai-separates-speech-in-recordings-of-up-to-5-people/amp/",
-      "publishedDateTime": "2020-07-10T09:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
         "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

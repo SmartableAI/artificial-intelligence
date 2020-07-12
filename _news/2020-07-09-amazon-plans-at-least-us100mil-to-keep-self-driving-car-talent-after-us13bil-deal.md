@@ -40,15 +40,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Amazon to Acquire Self-Driving Car Startup Zoox for Over $1.2 billion"
-    excerpt: "Indosat Ooredoo has selected Ericsson to provide AI-powered data driven and customer-centric managed network operations through the Ericsson Operations Engine"
-    publishedDateTime: 2020-07-08T01:48:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/17533-amazon-to-acquire-self-driving-car-startup-zoox-for-over-1-2-billion"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 4
   - title: "Amazon has plan to keep Zoox talent in competitive self-driving world"
     excerpt: "Aggressively expanding into self-driving technology, Amazon (NASDAQ:AMZN) announced a $1.3B deal on June 26 to acquire startup Zoox, which is set on designing a fully autonomous vehicle from scratch rather than retrofitting existing cars."
     publishedDateTime: 2020-07-10T08:29:00Z
