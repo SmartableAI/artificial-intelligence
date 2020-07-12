@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Portuguese AI start-up Replai raises $1.3m"
+    excerpt: "Bright Pixel, Ideias Glaciares, Clever Advertising among investors"
+    publishedDateTime: 2020-07-10T20:01:00Z
+    webUrl: "https://www.gamesindustry.biz/articles/2020-07-10-portuguese-ai-start-up-replai-raises-USD1-3m"
+    type: article
+    provider:
+      name: Games Industry
+      domain: gamesindustry.biz
+    quality: 37
+    images:
+      - url: "https://www.gamesindustry.biz/img/base/logo-square.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "AI, FinTech startup Senso raises $4 million CAD to further fuel US expansion"
     excerpt: "Senso’s AI-powered platform is cloud-based and anonymously analyzes first- and third-party data, claiming to generate predictive insights about every consumer in the market. The startup, which focuses on the mortgage market currently, encourages ..."
     publishedDateTime: 2020-07-09T04:02:00Z

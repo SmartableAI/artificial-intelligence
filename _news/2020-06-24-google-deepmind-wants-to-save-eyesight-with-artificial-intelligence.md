@@ -13,6 +13,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png"

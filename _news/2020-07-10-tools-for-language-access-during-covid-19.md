@@ -8,7 +8,7 @@ ampWebUrl: "https://blog.google/products/translate/tools-language-access-covid-1
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/tools-language-access-covid-19/amp/"
 type: article
 quality: 94
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/mYCqTjGENuEwfwhe3yRVdLj1Iag=/807x106:3288x1674/756x567/2020/07/07/08d4d81c-a54c-41c8-8b22-afefe09f1b22/samaira-stem-background.jpg"
         width: 756
         height: 567
-        isCached: true
-  - title: "Is Covid-19 accelerating automation? Lessons for the advent of AI"
-    excerpt: "Long before the coronavirus pandemic, advances in artificial intelligence (AI) were already causing unprecedented changes in work and business around the world. Now, some scholars are drawing new lessons from today’s crisis that may further impact the ..."
-    publishedDateTime: 2020-07-07T05:44:00Z
-    webUrl: "https://www.forbesindia.com/article/darden-school-of-business/is-covid19-accelerating-automation-lessons-for-the-advent-of-ai/60617/1"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 37
-    images:
-      - url: "https://www.forbesindia.com/media/images/2020/Jul/img_137179_automation.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "eOOH//8l8Qzau1vXhdh60H8yqHIiUJtvzIikc4PBT8zOLZ8GvAhv/wbLUzBw6ldxqPqIQCmV4EFMSFrq9L2nv5ni3/jIOpCcR1zpEyYcI9g+4c+zuFcXJ1IlYbj9/bTKctk2fhc/oYhzGti3McOFxF5+4Bs77ChVgAynmNtBrF81qrtjB5OK0HNkvDOBYPqBnOPrhjvjfwZvHdDfe6Y4iNTnSg2U4tHejPeLThUmgcegeGm0eUTKcnbIWH3AGnzbmQWLoqn8rsx7Y39epzz+LU1wIaY+1j9u1IYwAeXENjMxEa+3eJ43U9aEogdHXb2xNDCqs7GxvYuVVWwORKe0kQ==;SfkZ+H9vXVryoW22FBAkcA=="

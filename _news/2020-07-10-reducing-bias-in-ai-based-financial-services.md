@@ -8,7 +8,7 @@ ampWebUrl: "https://www.brookings.edu/research/reducing-bias-in-ai-based-financi
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -41,17 +41,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Tim Howarth Appointed Managing Director for Financial Services at Fimatix"
-    excerpt: "Fimatix has today announced the appointment of Tim Howarth as Managing Director for Financial Services, where he will lead the"
-    publishedDateTime: 2020-07-07T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16527616/tim-howarth-appointed-managing-director-for-financial-services-at-fimatix"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16527616"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16527616"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "kZ4crXkBi56pdrhLWB/Fu/Q7TN3X4NFlWw/sYB1HvD/wueSThLXxtvbk1TQ3Og2dhC/z7xcjiDEIJWuiXysA3tuXSDWBNLl7yb+tfhruLSHGfemrWFBRFOhR2jCHNsfwAzJX8QcZ8jNq43IatUzxXbBU5i8IcKAD8xiERDPFXRieX/yuJLsRRUqz5EQLjYufMV4PX/RQRBCwEeC2W2s4yURvbEqoLYw/+MmuGilsSA4u0M/k+dNudx+2mov7/Hjflu8WgETqeZBd/88CWuhURrcDdJDj1l3yi5UNl4C8TuCwfka8nBsEOFX09eRvaaINMEX6Aq+1Z4uAaxKwOPIYmA==;CNwapb6IIrdXsoDp18Nh8A=="
 ---

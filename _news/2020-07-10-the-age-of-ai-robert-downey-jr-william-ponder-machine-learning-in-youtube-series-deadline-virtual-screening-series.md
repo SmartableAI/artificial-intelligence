@@ -3,7 +3,7 @@ category: news
 title: "‘The Age Of A.I.’: Robert Downey Jr. & will.i.am Ponder Machine Learning In YouTube Series – Deadline Virtual Screening Series"
 excerpt: "Robert Downey Jr. and will.i.am lifted the lid on their YouTube series The Age of A.I. and how machine learning is going to change the world, with the latter saying the next five years are going"
 publishedDateTime: 2020-07-10T23:28:00Z
-webUrl: "https://deadline.com/video/the-age-of-ai-youtube-robert-downey-jr-will-i-am-interview/"
+webUrl: "https://deadline.com/video/the-age-of-ai-youtube-robert-downey-jr-will-i-am-interview/#!"
 type: article
 quality: 11
 heat: 11
@@ -23,6 +23,6 @@ images:
     height: 563
     isCached: true
 
-secured: "M6W6/vVWBeVUTPlhZwyVfoPvosKmsQ3kc4nLiCUzzvbwJnKgmOhqVZ0KYAAk1hwtCYZGB3kgnMyShPx5bzMdOT9Kry2rU/3FZ9WnEhMB+WpEW+b1op42LtiCEli0gm6Ocab2p3o7T4IK+VWZQLf+vahTE7CHAPFh8nS+enhZsbEkeie2LWO4o6d44ltgh96XJ8a/NsIIU69NJrxSPmx7Gs5Wxx8Ts2SdPsc0tQAbVkj11B+ZbRR6jXg6G7JmGC34DLoWWCGB4+wkVN14vj8kqWPSHk50Lpshy5ChQZ4nmy466pkjvKwyrtFVyf3rnjTrCqt5d6Nopbgr++eR/ckVOpZcdKBhR/2lxZdL+Nk/080PrfMKBI8ykexRSwqou+DjDDfYSncYn3UWgG9J/IzY1itXRN4pCKfGqwwe2/FcPXHal+w/uuRoyQmNm8781b0+nyZDzRjHzwN820monTGK+efDyibxggNkX9+NcXuEnmcXxgfEpSFHsCwykUc/nl56igXZcaP1tbFX/qhyvXGH5A==;ePmN5wUZs0u3z4q1+eIJEQ=="
+secured: "1iVNI3gsvPBl0fiwRxK5lxcqcFiBEQMqx5fKtJFYQlPZltUxgPhuPFWcasneFasJYjz3pvcLgr8IsYMVlmK6zMgoVfET+o6moEBzw8y2IvKHH/5RelOchaSuFOimsSrNRH5UGdMbaU8QZiR/QO9mYDNWAvUqbQr3d2ev4KCcoZ9PA6JUdX6KTa0RIBVbXWU5EvIh8AQFRepwxdinP2VnvIhwXvucKqcc9hJBxgJy7KT1Fuvsypgv7bRk7ZjH7E9Qw9P5X1CpA5DEpsU1mhrbQUwQtb0YsUw0y38qJgyzuh1xpdIYjEK/2X6Qqh6T7HqXum62fL9GM3nRuEsF4gwPow==;u/qnuM8caffr9OwMRnKN+A=="
 ---
 

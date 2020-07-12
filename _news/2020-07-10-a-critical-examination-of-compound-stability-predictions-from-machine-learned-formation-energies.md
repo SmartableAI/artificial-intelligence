@@ -38,6 +38,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CORRECTION – OMNIQs Artificial Intelligence-Based Quest Shield Solution Selected by the Talmudical Academy of Baltimore"
+    excerpt: "Quest Shield™ security package provides a proactive ground-breaking cloud-based solution for crime prevention on campuses and in schools using automatic Machine Vision detection and identification of vehicles by license plate,"
+    publishedDateTime: 2020-07-11T07:33:00Z
+    webUrl: "https://www.financialbuzz.com/correction-omniqs-artificial-intelligence-based-quest-shield-solution-selected-by-the-talmudical-academy-of-baltimore/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "u+wM6fpzVNde1LQANrVFqPWuhpm6BvpIRH5/JZ9U4sTathIUJfiZgE02dqUN9bEcnmsHlLXoEpacpiECkz6V9s6OJC7/j6l+lbJ61DgTwxrdIUtI1AgdqIkYplZP9XXYoxp/z6Pbs0Yf1Sg/wLyunK3T/5QZIAPQGbFeSm3C5BVjT77NQu1Gd2t/XBoPfwUniWwmYjg2eG+cEkV1caabsOK+WJ63uZYSEhQmOBRz671vsTKvxIiJDgUAWVztOe4FZm+p4YwBy8kxkHDfdIsv75S/xGBpb7ngQ269x0syhm5K5M2gd3cAkvQTNJewQuNh8fHUPp0xQBkTROaGZr8vgqd+1dWzToewIF2ptnGfwJzkP1onjheGg7UXG98ueDyyN4Tae+POntChgHERP7LffbikodHsdd/pq1DiCFtOLuOzdYczoimRgblMfOImGGx0sC9iCkJFVSI+qV+Ip4hR5gRBWZzts1lN/RyKNsAd6XgkJDGOLlei/6lwfsIB/V099v5+swqWzvJ4GgkVMD0pEw==;isj7imBrqHIcqBYxA8GVkw=="
 ---

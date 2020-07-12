@@ -40,17 +40,6 @@ related:
         width: 4550
         height: 2859
         isCached: true
-  - title: "Tim Howarth Appointed Managing Director for Financial Services at Fimatix"
-    excerpt: "Fimatix has today announced the appointment of Tim Howarth as Managing Director for Financial Services, where he will lead the"
-    publishedDateTime: 2020-07-07T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16527616/tim-howarth-appointed-managing-director-for-financial-services-at-fimatix"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16527616"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16527616"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
 
 secured: "KZNfSHsKnhAl3JpwmyCZnYiFYVaWn6/TO/kRnEdFdP2wsAoIr4kAiy08eo9PV/RMk2Kz6wooOfNKN61CmgqSieMMnZWpmdaoKhk+kw3Js2ZXmWM8Youue2K4QxBodpOp8K+tbO7a1NNle8KwKxwH3sdxG0Mq93QXPz3T1nPAPDaLfiQ1p/aK9RkoX0YXMJI+iSmeDpNrPEu3RmvVmeyLYR5AWv88th6+JW1OcV2h1f9EYBPfQuZ6c3FGNpmq7OhiIRxqSWXhI3OfYTGd7GimzI77QmZ2bQc9JYfkFUuijmI8uTkkiyp+7boWUYvrzn8emFtlmaftIn/2MtvViQB6CmI3Rjcwl8lncla7boZNhHnVRONpP4UHk8QEdwtOFWF2399UHagnm3bJRtCRQgIwN2HSyBhJIRfp0S2+xGVNG3+hhW7j9Z25eCKwT9P8o5jkevqfoCGZ4vx5cOAFMcuG8ICCU0FXc0LP46HLqW8OQg6Zo25m2k/5LJuLITnpKrkWy3AcS00XTu0XP/Z8+fw5yg==;cMRyLKyGPw8zTzwdrmfCiw=="
 ---
