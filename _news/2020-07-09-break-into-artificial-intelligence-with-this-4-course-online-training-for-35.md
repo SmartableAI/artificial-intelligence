@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Take a Deep Dive into AI with this $35 Training Bundle"
+    excerpt: "You’d be hard-pressed to find an industry that hasn’t embraced AI in some shape or form, and our reliance on this field is only going to grow in the coming years—as microchips become more powerful and quantum computing begins to be more accessible."
+    publishedDateTime: 2020-07-12T16:22:00Z
+    webUrl: "https://futurism.com/take-a-deep-dive-into-ai-with-this-35-training-bundle"
+    ampWebUrl: "https://futurism.com/take-a-deep-dive-into-ai-with-this-35-training-bundle/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/take-a-deep-dive-into-ai-with-this-35-training-bundle/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/sale_29690_article_image.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "z/bJFn8nww3jmgkYUxQIEyEZgy/yDkAszHtocxT9IiwwXZ3bsfxNU1QJHgPqrdiabKWgFuL5RvGkZE+11LICYOYbDlswaszAa29fZIrvH+zRrf0zVfaVu4CUaxLFj5ISlEtVOADz5TMfh/fV8g7yWgOs/SmBiHBVWCyPhbuJZWnC6bog4EDrzkAjS5LElEqWcPGOAn50yLrOZVHzowtI1kY8F8kkzqTUxQvbHhbC8NTnyoBi5C0tPFaae200ckZBd9clWxsT2ugnXzsGYnc7HHV0Reuu79fRsz8INaf/8pD9WTmh7A6lSFtrWqDBKVHHXMrAgVK/DB3sJfZRZRaqDQ==;zT+sca5l06tsdwzh1lzC9g=="
 ---

@@ -2,8 +2,8 @@
 category: news
 title: "Deep Learning Market Ecosystem 2020 | China attracted investment worth US$ 7.4 Bn in the same year"
 excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global Deep Learning Market Analysis In terms of investments in the field of artificial intelligence and deep learning, the U.S. has ..."
-publishedDateTime: 2020-07-09T08:04:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-ecosystem-2020-china-attracted-investment-worth-us-74-bn-in-the-same-year-2020-07-09?mod=mw_quote_news"
+publishedDateTime: 2020-07-09T07:39:00Z
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-ecosystem-2020-china-attracted-investment-worth-us-74-bn-in-the-same-year-2020-07-09"
 type: article
 quality: 55
 heat: 55
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "v8zw1f3G1sGtWFqfnY+G+e+wwBBuv8ZJfs13LFzx1ESvPLAHeK33XPktWDdvyickGP91jAo6Du/UDmh9cq8guZsnRcwg0XTkh3m+dDA8Vg29zjm5MXMXIULS+SAtw6de1zaGbQxw9ZCTVi9rSsgqE/ziT37MmQIpwWqMIDvDsyh+l9vL86MTNScSSVTUxf8rTUYQHn0yqJhJoBp88e5Vc4xbqTO03u+MLYO3crilGwk3YM85Ryz62+BfhzYJ8a1Tvnkt8sOxo0GtPIDAxGXlaanSOEmL/RJkkjaFGzsEsSrNfKvYy3vARy0X4l8CtTgdjhWMPTHt7mRJ83Q2/oXR+Q==;g98CI1or1ogtAWbd7Qx3IA=="
+secured: "RT37SYGuAFZ5hNj17P4GhkkryoaE+Gr0atgQ7AFB586TWUcuexa0gu0vHj3Be2QjiCLbZCAQP6jkWpW17Fu4/al5gVNnAgyeOSSRzxXrIRCEWOOpDclKJ80wJqYTQmsb+Ag0vu8C9kEjM9GOSuDM2MbhTVLkR1wEv5u9v+5SB8yFH9eeEFQGy2EMvH/jyAdn4a5RHRXHMUZ2XCAYSgetCaX3fyNE4Z6ER3A90B/Vub14/bp1JxRYuctHdjsFcLn4ISnlrT3VFudlhDTbSW8tT2HGDbqUWfQJN8T6BxossltkMCGHmOxlpsmm4WHD8YAHDpWn/UmVLspMzgx2XBTyag==;DHfklnjCYXtdJSHvpO5Hng=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_faci
 cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "http://www.gazettenet.com/getattachment/59b14c9f-a96f-4eb2-bc2b-cb1e5c667780/0ce7ea6489e84ded8c1b5e68ddd00be9.jpg"
         width: 499
         height: 325
-        isCached: true
-  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
-    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
-    publishedDateTime: 2020-07-08T04:05:00Z
-    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Facial recognition technology’s double-edged sword"
     excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"

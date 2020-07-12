@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-cou
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Self-Driving Cars Are Set to Revolutionize Urban Mobility"
-    excerpt: "PRNewswire/ -- The development of autonomous vehicles (AVs) could make the urban environment greener and more livable and"
-    publishedDateTime: 2020-07-08T04:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/self-driving-cars-are-set-to-revolutionize-urban-mobility-1029374669"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/self-driving-cars-are-set-to-revolutionize-urban-mobility-1029374669"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-cars-are-set-to-revolutionize-urban-mobility-1029374669"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "WKBl8RZnWvNpyKEwJAviSiMNVOmSREONDkrFdcK03iWmik3U5lqDVbKS4pGw9Vev764X2iw5E60isn39mviWoYOY5D4RvRZYnCxwvCyi2DOUPNSXcSFRZbTaG0Pl2KSTJRrm2YQZAvc2HFQ9iX7G9ge362KVXZpAAUhlWmTh+YB0YVScnbXfaSjGC7Trx2CIhGN/MsavrpGoZOenSLipbxIzxyeqI1FMBKvo2WLYmJi1YLO7tfqZBO2G6TGuGTvg2RlDhy/6sLFh2yiCMFBSR7BeF/vmgkKJpWSQkutXcsuzJHaHJR2PcX6Kx5BgySnCpvANDSbn8BKiE+4LAFebYiD7AngjCoGvHl3h4SUCpY7ngpkeQ9NjKcUQ4/vhY3EbUWsvlU/d39jZ8e9sHxc8aJrQqfI9C0ffOhQhoVenDL/dOwzRHPYLhTIe8dD6GtZWh3K+2qtOBdw7+ridVbg3paG/nHB/i+yzcaQLHqoO/0l58X124OHNu+eBbfb9PKvF;7kMl9nZ4TflAKNTSM6/09A=="
 ---

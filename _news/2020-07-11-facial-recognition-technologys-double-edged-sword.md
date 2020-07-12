@@ -50,20 +50,6 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
-    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
-    publishedDateTime: 2020-07-08T04:05:00Z
-    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
     excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
     publishedDateTime: 2020-07-08T19:36:00Z

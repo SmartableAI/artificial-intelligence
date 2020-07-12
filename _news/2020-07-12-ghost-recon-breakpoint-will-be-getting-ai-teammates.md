@@ -1,28 +1,20 @@
 ---
 category: news
-title: "Ghost Recon: Breakpoint Changes Outlined, AI Squadmates Coming Next Week"
-excerpt: "This biggest change coming to Ghost Recon Breakpoint is the addition of AI Squadmates, which will arrive on July 15 as part of the game's next major update. The full team--composed of Fury, Fixit, and Vasily--can be activated and dismissed at will once you reach the main island."
-publishedDateTime: 2020-07-12T19:14:00Z
-webUrl: "https://www.gamespot.com/articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
-ampWebUrl: "https://www.gamespot.com/amp-articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
-cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
+title: "Ghost Recon Breakpoint Will Be Getting AI Teammates"
+excerpt: "Ubisoft revealed today that they will be sending a new update to Tom Clancy's Ghost Recon Breakpoint which will bring AI teammates."
+publishedDateTime: 2020-07-12T20:40:00Z
+webUrl: "https://bleedingcool.com/games/ghost-recon-breakpoint-will-be-getting-ai-teammates/"
 type: article
-quality: 56
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: GameSpot
-  domain: gamespot.com
+  name: Bleeding Cool
+  domain: bleedingcool.com
 
 topics:
   - AI
-
-images:
-  - url: "https://gamespot1.cbsistatic.com/uploads/original/1574/15746725/3531987-grbp_mtdt_scrn_11_life_is_harsh_high_mountain_1920_nl.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "AI teammates coming to Ghost Recon Breakpoint on July 15"
@@ -38,6 +30,22 @@ related:
     quality: 57
     images:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/12/ai-teammates-ghost-recon-breakpoint_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Ghost Recon: Breakpoint Changes Outlined, AI Squadmates Coming Next Week"
+    excerpt: "This biggest change coming to Ghost Recon Breakpoint is the addition of AI Squadmates, which will arrive on July 15 as part of the game's next major update. The full team--composed of Fury, Fixit, and Vasily--can be activated and dismissed at will once you reach the main island."
+    publishedDateTime: 2020-07-12T19:14:00Z
+    webUrl: "https://www.gamespot.com/articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 56
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/original/1574/15746725/3531987-grbp_mtdt_scrn_11_life_is_harsh_high_mountain_1920_nl.jpg"
         width: 1920
         height: 1080
         isCached: true
@@ -66,16 +74,7 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 32
-  - title: "Ghost Recon Breakpoint Will Be Getting AI Teammates"
-    excerpt: "Ubisoft revealed today that they will be sending a new update to Tom Clancy's Ghost Recon Breakpoint which will bring AI teammates."
-    publishedDateTime: 2020-07-12T20:40:00Z
-    webUrl: "https://bleedingcool.com/games/ghost-recon-breakpoint-will-be-getting-ai-teammates/"
-    type: article
-    provider:
-      name: Bleeding Cool
-      domain: bleedingcool.com
-    quality: 17
 
-secured: "41IY5QuWZhlR46tqWr5EYfg1/9PX4/o2Wzypr7Sw6lmk6opDIg4795ymNnll5kqWtFOy07T56E1cZdITYZzcED9HeJSBYERHh8UcA0a8l0O1LZrZDnGMmh17LJSJvKbgGHDEvbT70Mq3Qn6zfQXPqlffFhY0kSEWJWEslOhrD5xuA4n2BjT3BeikshjQMV8ZOehhyH334tEsxnP0p+kEIOGg8k3MRjCUUAVGaKdnaBUMZU3d/04h2/i0i0WR0amcLsif+mCX+q4G0cq21FHyjGkUNnWF8DQR5dD+wWuoO5QLo+6UJg1z4fbpScOOC12m1AybXaVI1k73IdMUONM8ZLAz1ZiY9gkbN4soxBkcT8IEOXEg56D23b2a1SXG3pTIhq1URjFdk0VE4RebNiOsn3zpBtmRQUxeudSBDMOg5+nFz+wjJlhvIw4nAxo2AqYdAkxhc3OC0Ju10HBuTYsvJSNyZEOI3eEjbWvvPcZnjrGFxfzTR5wspiKg3Mrpvu8JWxjjyn664mg0G+HE641lnw==;ZPAtryu7JZefxrCIpXycOg=="
+secured: "zc7imx4CXPneqQ7aQ/w7jpI/IobZ8ShAxOLPZ4XIJePuwByM4ujoLHs38Rjv+vFfEtKqwW9sMH6kONiuscYMwp4s0oDJ1zBo/SssYNGOCn38Pv/+c3L0oEd4atUkPl0HrTU3q/VqQoAQmSnskqDq8jO8t6xptlMHInsFjgq3JhoUjo7cY7usDlnqs0VukUAldJUU63/h/XIuTA7ZbOLEER8XOqATK/XZhZmkppfZT4haXJn6lhwsFZilA2D89W0ocb4jvN6kEe4Lqa/Kg+XRhMGuRRLHmEPweXN+qPmhvQIuDcBBXoeAV1Whai+0HI2CLIOak2QUOa3gioeq9d1Y1NJoRDhR/n8mp5nmGTrJW+hpLVrwsLN9I46r6Fn5TioKAH+nKgNBv5bGs7ih50Gg1NiUBXvd3bvpTTg0HJ7P16Rinkuoh+CM7q8eW+hjyeLTEqwKXgvEC+L7OcZCXMm0H0Gvkn9esjOi1qQA9V1o1qG5MltNcPTQIqM0SWfqty/PQeticWsj9GY/zAL98vlNHQ==;VCkRnonY1QbEttT6OUfTzA=="
 ---
 

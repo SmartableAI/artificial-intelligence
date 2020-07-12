@@ -25,22 +25,6 @@ images:
     height: 271
     isCached: true
 
-related:
-  - title: "Analysis of COVID-19 Impact | Software As A Service (SaaS) Market 2019-2023 | Use Of AI-enabled SaaS to Boost Growth | Technavio"
-    excerpt: "Technavio has been monitoring the software as a service (SaaS) market and it is poised to grow by USD 60.36 bn during 2019-2023. The report offers an up-to-date analysis regarding the current market scenario,"
-    publishedDateTime: 2020-07-08T03:15:00Z
-    webUrl: "https://apnews.com/f438c1444a0b4fa09ad185cc607149ab"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "4c2NMcwQquitMn+2YznLbMkNaET2EaMU00CqIyni/mlY4V/rmPfpmdC/veqIVz4vc8VBopU5z5SeKr99nfjH3CdmI45bMRWpiaxrV+WHEh4BC8UBaEYWNu6BlrfuJ1p7FkBdmuYVUn4q53HcFb3sSElbYGw6i0r2/9vf2PyI094wtXQ8pybjZpghIxhBocbJjBJYopCbdpSqgrp53JSMrDZpIv2zzkKYESCjG/ndRBpaE0+hdi6slTibIRPxTBneZX3BuWGtXFY7xiVMnbdOUchKSWWNadvNZfc3qTJtFyG7ucGB0Hrr3BO5Q9FuCIlTKFxUihGi37ChHy0XF1fOXQ==;f62GKThzQTtt2Q2T5wQ1Fg=="
 ---
 
