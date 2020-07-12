@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T10:06:00Z
 webUrl: "https://www.suasnews.com/2020/07/skywatch-ai-launches-a-revamped-drone-insurance-platform-with-the-help-of-google-for-startups/"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -21,24 +21,6 @@ images:
     width: 640
     height: 300
     isCached: true
-
-related:
-  - title: "CoreLogic launches AI driven platform for real estate agents"
-    excerpt: "CoreLogic said that OneHome streamlines communication between agents and home buyers during the purchase process, while also providing access to financing, insurance and home improvement providers."
-    publishedDateTime: 2020-07-07T17:44:00Z
-    webUrl: "https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2016/04/20/47a3b2bf-44da-4ee6-b992-835438f05049/thumbnail/1200x675/a5ea8a156af5329ed76d0bde668d79bc/istock000079198859medium.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "dyKMyd2Br/hUfnrpBaB9bh9bD6somBq806+l8+cYLnC2yYGF5iBXtGT7u11gXfHjJA2KCdYeuz5eOKex7IRmpR5q8FAJgQ0dPUu/QlHzrnGcBv02OGj6yr8KkbehcFSWwNeCGYOP/LsWtsdpvLb5T23T5/I1VwbkO/BQ1CSWmJAbjNI4Y9xsCyhVsW621f6SOuEuv7v1+4f3/faMeyDYazW7UCut9PZYhtvrAdyn4FeQ99ACkuNE0uclpL8N0gxWh2e2O6uian7bPe3qo2y/SI1UnU7c/IdqmUcHuOaege2cUlSOjPif74t6uXBFzbtZK3qeTur3M1gllYUgD94aOQ==;V7z3bi6lkW4KMWqHv5E2Zg=="
 ---

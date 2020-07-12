@@ -48,6 +48,20 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Princeton University logistics tech startup raises $4 million in venture funds"
+    excerpt: "A Princeton University spinoff that says its artificial intelligence (AI) platform can help logistics providers operate their companies better has raised $4 million in venture funding and hired an alumnus of Uber Freight and FourKites to promote it."
+    publishedDateTime: 2020-07-07T21:50:00Z
+    webUrl: "https://www.dcvelocity.com/articles/46475-princeton-university-logistics-tech-startup-raises-4-million-in-venture-funds"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 33
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/images/articles/2020/202007/optimal-dynamics-trucks-Screen-Shot-2020-07-07-at-25124-PM.png?height=635&t=1594156687&width=1200"
+        width: 722
+        height: 635
+        isCached: true
 
 secured: "LPZCtcFW+1XRC+PUuVEuNTodNGU7iu2x2X7qodS6iIeWheA7T3MgdHZQmX9FoGiyIVgEuPM6I37DiiQMgrWqjx1pczThhrYxuHzEmGcrOaPAbXEJ6LR7XlkxW+rQ8DRvFfKAseYwaj23V8U5wNAif2HgxbdPDYvMAC9SznsOhfdQJ/Mp4uM6fzXw92HXKSCk+0w5+arKcaQ97g3Kcc7Lvi8eiXxVcK9dVMDaUnbEn00wwGKsHrYOXSCrcpWq2XGWVD6ZMfxSUEN3jI7L5m9O9gxojjA/M3If8MRmmV6ST+sA6CcajTNKPvxLeKk4W2k6i7NEnVM976+Reb+opETKiA==;ECWjUyLla8QYRWRX8cwMzg=="
 ---

@@ -7,6 +7,7 @@ webUrl: "https://www.marketwatch.com/press-release/voice-directed-warehousing-so
 type: article
 quality: 0
 heat: 0
+published: false
 
 provider:
   name: MarketWatch

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-09T06:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09"
 type: article
 quality: 60
-heat: -1
-published: false
+heat: 90
+published: true
 
 provider:
   name: MarketWatch
@@ -28,15 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025"
-    excerpt: "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ..."
-    publishedDateTime: 2020-07-07T17:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07"
+  - title: "Self-Driving Floor Scrubbers Market to Witness Robust Expansion by 2025"
+    excerpt: "LP INFORMATION recently released a research report on the Self-Driving Floor Scrubbers market analysis, which studies the Self-Driving Floor Scrubbers's industry coverage, current market competitive status, and market outlook and forecast by 2025."
+    publishedDateTime: 2020-07-09T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2087237/self-driving-floor-scrubbers-market-to-witness-robust"
+    ampWebUrl: "https://www.openpr.com/amp/2087237/self-driving-floor-scrubbers-market-to-witness-robust"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2087237/self-driving-floor-scrubbers-market-to-witness-robust"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/T/7/T709819860_g.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2020-07-08T16:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Radar Market Share, Trends, Growth, Sales, Demand, Revenue, Size, Forecast and COVID-19 Impacts to 2014-2026"
+    excerpt: "This report covers the recent COVID-19 and its impact on Automotive Radar Market. Furthermore, it sheds light on"
+    publishedDateTime: 2020-07-08T09:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-radar-market-share-trends-growth-sales-demand-revenue-size-forecast-and-covid-19-impacts-to-2014-2026-2020-07-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

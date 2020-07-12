@@ -174,6 +174,22 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Tesla's approach to self-driving technology is completely different from its rivals. See how it works."
+    excerpt: "Tesla CEO Elon Musk is confident; last week, he said Tesla could achieve \"level five\" autonomy this year — meaning no human intervention required."
+    publishedDateTime: 2020-07-12T11:30:00Z
+    webUrl: "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 73
+    images:
+      - url: "https://i.insider.com/5f09d58c988ee30da759c364?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
     excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
     publishedDateTime: 2020-07-10T16:23:00Z

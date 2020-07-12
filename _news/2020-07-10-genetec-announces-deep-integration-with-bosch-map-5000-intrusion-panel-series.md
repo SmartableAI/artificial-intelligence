@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/genetec-announces-deep-integ
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
 type: article
 quality: 41
-heat: 51
+heat: 41
 published: false
 
 provider:

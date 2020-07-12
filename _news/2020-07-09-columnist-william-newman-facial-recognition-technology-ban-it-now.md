@@ -42,22 +42,6 @@ related:
         width: 426
         height: 293
         isCached: true
-  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
-    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
-    publishedDateTime: 2020-07-07T18:05:00Z
-    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 45
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Moscow’s Use of Facial Recognition Technology Challenged"
     excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
     publishedDateTime: 2020-07-08T04:05:00Z
@@ -72,6 +56,28 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition technology’s double-edged sword"
+    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-11T12:37:00Z
+    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
+    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 39
+  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
+    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
+    publishedDateTime: 2020-07-08T19:36:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 29
 
 secured: "ez2p/8syNKr17w8qKE+qbQ7jzf/NOJ0SFSUchyfby7rzEiFiWdMGktsO7bnmXgqOhujy8uGXKxWUYtP9Gq9EoewPW5CeBbnrglJKQ5QhclCV59ZHTTe0KGMaTWcjHjedpgg9grgLrEp0jKpbZKoLoKaGMXpDc5+3MUGjrlXO9Cw4Y9z4L0Zfu95iAIFW1CK0k6kxR+128BDzJIfQVJsNbCVSc5Q2FnCZwx4mS6tty4tCBG5RxS0M1Y5KtaIlAoKn6sq/vMphqnrHJCoceOONhtPwZfjnpwSKippCbRl19PTPUNe7suavu9yFR4BbzSGkAC1aCjWCmP91haieNl/AknG4iFsTm3rWv/UMB5UDAYU8fLsSwMP92oKYNGhD+824KFWugTSjPepslmg0Gk3EIHzfJlVPqE1N1re5E0XjrSDDKisgmkIyZVrIjd7h7oaQKgiDg/PTSgsTzc+G3BKMmy/rxJIxIcZ68w8opEG1DrEFt0onm2iRVqBV9ZXTildOPi4C4r8AfnaJY9UHOrwudQ==;A+LnbrCJEGGaKAvX+kORbQ=="
 ---

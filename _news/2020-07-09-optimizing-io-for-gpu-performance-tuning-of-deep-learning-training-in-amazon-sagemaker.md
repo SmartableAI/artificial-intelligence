@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T19:11:42Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/"
 type: article
 quality: 96
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 719
     height: 527
     isCached: true
-
-related:
-  - title: "Building a custom Angular application for labeling jobs with Amazon SageMaker Ground Truth"
-    excerpt: "As a data scientist attempting to solve a problem using supervised learning, you usually need a high-quality labeled dataset before starting your model building. Amazon SageMaker Ground Truth makes dataset building for a different range of tasks, like text classification and object detection, easier"
-    publishedDateTime: 2020-07-07T15:12:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-a-custom-angular-application-for-labeling-jobs-with-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 79
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/30/angular-sagemaker-gt-3.gif"
-        width: 1000
-        height: 549
-        isCached: true
 
 secured: "3j4NPphv055HoBNs69dvEHH4+GkFPZYQ0VKVIq0rc26uxSALLNFpSI/rJKgvJe1h8gS1J7e07+f9XlPV2TiyjSlI7/0yxWgHQIDNosOeO02c514xmf2p2VATpS6NH0Pm1lilYxxBu0Pi0Sgrfpymm8JjYlakrWFALrCHg0ew0rT7fLt3HDSUUZJh9aNEm35MADKviOi8wVJsOaTseiYAh8zFMs9Uaiz/KHolELHHYtPBDthdQvXlwHPKHalr+C6cfodNu1p6/NkKM7QI299+w0E/VXs6nfRCmm/VlOI6jpA8B7sFo4pd+/GEUtsvxt5Xy94C2WwonklHZYf5HfwxPw==;g4w/GeVY7KCD4Q0hTCwZtQ=="
 ---

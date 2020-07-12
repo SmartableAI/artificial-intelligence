@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-11T23:26:00Z
 webUrl: "https://www.chinadaily.com.cn/a/202007/12/WS5f0a4aa5a310834817258c9e.html"
 type: article
 quality: 38
-heat: 58
+heat: 38
 published: false
 
 provider:

@@ -3,10 +3,13 @@ category: news
 title: "Stanford Accelerates AI Precision Medicine for Depression"
 excerpt: "Imagine mental health care professionals having the ability to reliably predict how a person suffering from depression will respond to certain antidepressant medication based on symptoms and brain wave data,"
 publishedDateTime: 2020-07-09T20:16:00Z
-webUrl: "https://www.psychologytoday.com/ca/blog/the-future-brain/202007/stanford-accelerates-ai-precision-medicine-depression"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202007/stanford-accelerates-ai-precision-medicine-depression"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202007/stanford-accelerates-ai-precision-medicine-depression?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202007/stanford-accelerates-ai-precision-medicine-depression?amp"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Psychology Today
@@ -15,6 +18,6 @@ provider:
 topics:
   - AI
 
-secured: "S5mihHQ/9Q7yFIh5dBZW2MePuLIPkvfKzozpgb5+th80BuA5JRPRhXv6KplIwvhoTX60aHAxjCekVGx2blvX48/s8HR3O1wKr9P+tDXMDrR2j4rUeRpOUlrqczAyPPJZwwH4P5PKGQbwA+Te3t9Re/HRZaERObDL3wLns8+82v1gEo37OT4hyRHYQy2UrxFIcIBNEeU6WlJ378tBc09wnlwnAuYVBG4ajlaeWvObYeQXlvmx9ypYih4ZiW77Oxaytc3AJa6cGza24cbd8NBGRC5JRSfG0UF+TFHo4kOutfh8XEnwxXatjKeXKs+7O+j6wpfh7GdONs6Mof+VMFM/OEgAyT+uPPzAgKRH8RA2M2YzP2sKkR0eyrsd3gwd5E2YEb5VbQDMUmFvw/TcbECxvW9M0c47ADEH3R9GuNo08wsxrI7fRLoNQ0DA9PPYLVJLVg3id9q8oUWQB+5yOsKWfcuE7VAp85kwNwSZHBVRM4Zv8GZ2PlUKStj0Zj7JXKbkIDLxhov54MdnrtTQDM0NaA==;s5xW9dfZJ2FzJl9hxbt4HA=="
+secured: "4Alhz3dF2LdD9TiqfrdKZwrxWyH5JsSnb0mB2wXqXS3pCU1ksRRQ44iLDulbkz7RPE/cfR+fcStMdo3hlZ+CYinMX/JSgT1shOxPqOEJmm/WcIk+H5OS2LvLIp6imqYfmcIvsGAnYf0qLjQqR8GcyeukYD2vy67+MtzJQL7749MUbJ9RVli4OWUrmfI0VBmqGAXKB9woVVV5+cZXp+YWu98mpwAOi/FZu7JdixDTrBPuer5a9V35w20tH8eEEd9o9f908OfjqmIkwltgLn6nAxdSoMOMBecg18JkeOgygiIN1nhsNPjNF2uOOJpwZ+yB09p++9ndfB1gfOMVt40B5JS2sWcILRKF7YL55zlx/HVUXIg7Fk2DBQGXJia/lFyxYZqZTNna8bw5bujbSb/kRf2Wh8y7WvbIku68EJkkg67H364SatJxG1OzKyFbPq3q4Hfql9XQAJq0meVUtQkOPIZ29VbqclsvzYcWzyGEoJJsxdgu4au9suuxJJcENaijkpYKNo2LoogHmnLPG6xcdA==;AjHAF8dBsoSgFtH7rTt5iQ=="
 ---
 

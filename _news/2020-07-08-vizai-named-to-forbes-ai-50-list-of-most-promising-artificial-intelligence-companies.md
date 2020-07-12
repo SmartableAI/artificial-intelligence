@@ -39,20 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Gong Named One of America's Most Promising AI Companies by Forbes"
-    excerpt: "Gong, the revenue intelligence platform leveraging artificial intelligence to replace opinions with true customer reality, today announced that it has been named to"
-    publishedDateTime: 2020-07-07T18:52:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/gong-named-one-of-americas-most-promising-ai-companies-by-forbes/article_9f78a61a-e90d-537a-ba9b-1c86a8b5c6fd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "6OE4u6RSmot5MtF+aCNG0M5WWW56+ucvbe61H06YVaEjMOKx/GovvjmM/LJtslM559Xtjimvm/MBislTgfSSjDrKtJl8EMp7zHtUpL8rDKXGd+YcQi/F4i6sHXYyIvXNSLoY99RBCwFajYU/lfPzAylhs8vUcL7QrrPgIJ0OUVaAencGIJqq9UelFv2l57B/Vnt0f69Dz7Q6cg/t+Sv8L5u02qg8s8dZMl9sKXyFNiIJrs+0VeJVomWe1NgpJFHvMTBW3X685Jn0ImRwlw7GkP4mEoG90s58SNshDVlkS3DchYKahn5ddRiVLRKY03r3T/BRVTldqi7LcnYtfVHCz3rJZ3NA+i1GcX/VhPEX1ZEUXEoWJRX6XsdSuVzIdb60mw6eTslwM6V6Wz5n4a4XRcFySU6YOF3KKQ6U/CfBm4FsGPlNC6A8cNf/LnwWxDDNnGmwikuZs9e1XbXm9tWqMKd4qIdl//DPRyFnUtpqDRUUmW/migzbpT3p4SNGPRnYDEJaD7VNxR4KGGRvqASN+Q==;zvzqghfhEBbIDvgQp0rvaQ=="
 ---

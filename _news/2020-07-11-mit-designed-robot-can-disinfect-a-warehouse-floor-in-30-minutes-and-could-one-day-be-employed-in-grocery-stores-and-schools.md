@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wnem.com/news/us_world_news/mit-designed-robot-can-disin
 cdnAmpWebUrl: "https://www-wnem-com.cdn.ampproject.org/c/s/www.wnem.com/news/us_world_news/mit-designed-robot-can-disinfect-a-warehouse-floor-in-30-minutes----and/article_c477c7db-7d37-53dc-a0da-ff28d0009d4a.amp.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "Robot Janitors Could Soon Be Coming To Schools Near You"
-    excerpt: "In the latest news about robots taking over the world, MIT has developed a robot capable of disinfecting an entire 4,000-square foot warehouse in 30 minute"
-    publishedDateTime: 2020-07-07T16:22:00Z
-    webUrl: "https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
-    ampWebUrl: "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
-    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/"
-    type: article
-    provider:
-      name: IFLScience
-      domain: iflscience.com
-    quality: 59
-    images:
-      - url: "https://cdn.iflscience.com/images/a48f868f-2f87-56fa-b5fd-3cdacd818206/default-1594121302-the-robot-can-disinfect-gbfb-s-warehouse-in-30-minutes.jpg"
-        width: 720
-        height: 405
-        isCached: true
 
 secured: "uFJd3LQUCzfNooJL+ixYc3ioYGB0hxcqiLYUYpEq784JCZej2sfcXC5OTaiNYrKkO8asZ4fm7InFWrnCNG4Mgly7Vo/lEA6zBeLywiv6IRo/0Cuw8AiiOgNKiREAWlQ/DvFe0efOsneSt7p5Oheg0ur7azbim1RqKj7NrLcZtLeNN6m90Bwas9FlZGbc1YHaO800eGkjCD8kJEA1+Y+ltIJ80OBI+tHF10hELMWsjTXebUqsSboDIpJHubTRZ2udIUpCyGY9KQzQJFgvUndBGOD5xF/7sIWlVKMIXEM+QbH3btQeVTN3ktJP7X7GU6QG99KuUydTlkvZPGxwfElX/Q==;8ObgTPOxUS/GVkjPqNUPkw=="
 ---

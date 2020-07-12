@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition market to surpass $12 billion by 2026"
-    excerpt: "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ..."
-    publishedDateTime: 2020-07-07T18:40:00Z
-    webUrl: "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
+  - title: "Defending Black Lives Means Banning Facial Recognition"
+    excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
+    publishedDateTime: 2020-07-10T12:00:00Z
+    webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
+    ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
+      name: Wired
+      domain: wired.com
     quality: 89
     images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/07/07/52407e3d-cfe0-434d-9778-e1df9e7274a5/resize/1200x/dd5a6f0f9bbb18f40fa1b8cffa7ccf91/facial-recognition-primipil.jpg"
-        width: 1200
-        height: 900
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "The growing fight over police use of facial recognition"
+    excerpt: "In light of protests for racial justice, facial recognition has come under scrutiny for how it's used by police, leading to IBM, Amazon, and Microsoft pulling back on this tech."
+    publishedDateTime: 2020-07-11T13:45:00Z
+    webUrl: "https://www.cnbc.com/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Is Facial Recognition Technology Good Or Bad?"
     excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
@@ -53,72 +69,81 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
-    excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
-    publishedDateTime: 2020-07-07T16:28:00Z
-    webUrl: "https://www.biometricupdate.com/202007/global-biometric-facial-recognition-market-to-top-12b-by-2026-on-public-security-retail-growth"
+  - title: "Concern is growing over police use of facial recognition"
+    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
+    publishedDateTime: 2020-07-11T16:54:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02110721/safr-realnetworks-real-time-biometric-facial-recognition.jpg"
-        width: 1560
-        height: 1025
+      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Facial Recognition Is Here But We Have No Laws"
-    excerpt: "Americans have also gotten a look at a more insidious police capability: facial recognition systems with the ability to identify faces in a crowd and track people as they move through the world. As devotees of any police procedural drama will know,"
-    publishedDateTime: 2020-07-08T15:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2020/07/facial-recognition-here-we-have-no-laws/166711/"
+  - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
+    excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
+    publishedDateTime: 2020-07-08T20:07:00Z
+    webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
+    ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 41
+      name: Governing
+      domain: governing.com
+    quality: 59
     images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/07/NGbiometrics20200707/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
+        width: 940
+        height: 627
         isCached: true
-  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
-    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
-    publishedDateTime: 2020-07-09T22:16:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-08T16:14:00Z
+    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.freep.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5397596002"
     type: article
     provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 39
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 57
     images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
-        width: 720
-        height: 480
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
-  - title: "Facial recognition technology’s double-edged sword"
-    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-11T12:37:00Z
-    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
-    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+  - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
+    excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
+    publishedDateTime: 2020-07-08T17:45:00Z
+    webUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html"
+    ampWebUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
     type: article
     provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 39
-  - title: "Video surveillance to drive biometric facial recognition market to $12.9B by 2027"
-    excerpt: "By 2027, the high demand in advanced video surveillance, as well as AI and machine learning adoption will have generated a 14.8 percent CAGR for the biometric facial recognition market, reaching $12.92 billion,"
-    publishedDateTime: 2020-07-09T20:41:00Z
-    webUrl: "https://www.biometricupdate.com/202007/video-surveillance-to-drive-biometric-facial-recognition-market-to-12-9b-by-2027"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: MLive
+      domain: mlive.com
+    quality: 47
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VU25W3CILNCGFHXQXEQ4FFYWGA.JPG"
+        width: 1300
+        height: 867
+        isCached: true
+  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
+    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
+    publishedDateTime: 2020-07-10T15:15:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 32
+    images:
+      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
     excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
@@ -131,31 +156,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 31
-  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
-    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
-    publishedDateTime: 2020-07-08T19:36:00Z
-    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 29
-  - title: "Artificial Intelligence (AI) in Retail Market Size is Projected to Reach USD 14.7 Billion by 2026 - Valuates Reports"
-    excerpt: "By enhancing performance, as well as prediction, AI has brought real disruption to the retail sector. The global Artificial Intelligence (AI) in Retail market size is projected to reach USD 14.7 Billion by 2026, from USD 2.7 Billion in 2020, at a CAGR of ..."
-    publishedDateTime: 2020-07-09T13:35:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-in-retail-market-size-is-projected-to-reach-usd-14-7-billion-by-2026---valuates-reports-301090880.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
 
 secured: "ks7j4QkgzM9jzkdWjGOn4t2Q/KUpaIMi3z0jk3B8siRblAXVprT1ZvCNm8J329m75YlNUZNGgs/POU9CbWe1hK3nS+O3SDN04PwoMhScxvLyrR4JXmTvBy7vjwXbn7nUT/t7F5NNVdxtHf27VGTuEP8solMT7n+vBITPHOKxQnCpuDsoLQ6YTiCv7IGM1T4WJ8gHNCoa2giWLnlm7HbIvqeaVelPVDcjIImfj5Y4Wi/gA8xd9Uk52TN7EZE0YpVXQoyDKs4kFg4fqT2WlsJ26YrXWkPrNz1irFnrfDHUJMzmQoMlL2wSsI9NaiMlRKVYyouWtsczNXYODsh9F0SgTA==;zN/SJDULNY8IYwOcIvVA5g=="
 ---

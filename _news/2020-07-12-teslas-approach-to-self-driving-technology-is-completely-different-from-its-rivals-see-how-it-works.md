@@ -1,21 +1,21 @@
 ---
 category: news
-title: "Elon Musk says Tesla is ‘very close’ to level 5 autonomous driving"
-excerpt: "Automakers and tech companies including Alphabet, Waymo, and Uber are investing billions in the autonomous driving industry. VB Transform 2020 Online - July 15-17. Join leading AI executives ..."
-publishedDateTime: 2020-07-09T10:15:00Z
-webUrl: "https://venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/"
-ampWebUrl: "https://venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/amp/"
+title: "Tesla's approach to self-driving technology is completely different from its rivals. See how it works."
+excerpt: "Tesla CEO Elon Musk is confident; last week, he said Tesla could achieve \"level five\" autonomy this year — meaning no human intervention required."
+publishedDateTime: 2020-07-12T11:30:00Z
+webUrl: "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7"
+ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp"
 type: article
-quality: 89
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,7 +24,7 @@ topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/01/elon-musk-stripteases-tesla-model-y-china.jpg?w=1200&#038;strip=all"
+  - url: "https://i.insider.com/5f09d58c988ee30da759c364?width=1200&format=jpeg"
     width: 1200
     height: 600
     isCached: true
@@ -45,6 +45,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102CA/production/_113305266_hi062234983.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Elon Musk says Tesla is ‘very close’ to level 5 autonomous driving"
+    excerpt: "Automakers and tech companies including Alphabet, Waymo, and Uber are investing billions in the autonomous driving industry. VB Transform 2020 Online - July 15-17. Join leading AI executives ..."
+    publishedDateTime: 2020-07-09T10:15:00Z
+    webUrl: "https://venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/"
+    ampWebUrl: "https://venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/elon-musk-stripteases-tesla-model-y-china.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Elon Musk: Tesla Will Have Level 5 Self-Driving Cars This Year"
     excerpt: "Tesla will have essentially fully autonomous self-driving vehicles this year, CEO Elon Musk said in a video recorded for a Chinese AI conference."
@@ -157,22 +173,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Tesla's approach to self-driving technology is completely different from its rivals. See how it works."
-    excerpt: "Tesla CEO Elon Musk is confident; last week, he said Tesla could achieve \"level five\" autonomy this year — meaning no human intervention required."
-    publishedDateTime: 2020-07-12T11:30:00Z
-    webUrl: "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/5f09d58c988ee30da759c364?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla Vehicles Could Soon Become Completely Autonomous As Self-Driving Tech ‘Very Close’, Elon Musk Says"
     excerpt: "Tesla vehicles could soon be completely autonomous as CEO Elon Musk said the electric vehicle firm is “very close” to achieving level 5 autonomous driving technology, during a virtual appearance at the World Artificial Intelligence Conference in Shanghai."
@@ -392,6 +392,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "pnudbKWoMjxQwOwJETN+//x/UjjeHGfT473YyRAxinhU3YF/5KxWg3PszpvBkveWbqL+0LmqgarkbgZZKGWtAUKWL3kR/ZGvnjwADGb/fpig+R3i58qXWtszeBhSms+ITfsQoQgYjvZ9yGOkpRqRO0WT6KNPdRXwJV4h5Opoo2B0AfQlVrKI+JwNkx4CnhlKhfczHRh/+wcKOjAuPl/BNZ6dlZQh9H9nXr6p/K20usinvHpKP2tqnHebGQ8/wez/tQHAX4YKH8SgoCOeRxOJAvjBTmUK/VZjtA5mPqOvtFvl5somWkqRyk7FBZU197jHy9IE5BcCmPs5F7dphi5MUg==;CIoqUJo/FbmckI3n4790mA=="
+secured: "ykua7sWl2nu8otJafJFcJ08jjlASc09YjsZOORSFcyvUyyJkxLo16UKL/JlGHaHAVZ4jJEUd6U3gAn+uOPEAQH297qjq5WOY3OFGdaeF8I2EBvNyo1fz8wPrzPLmxwhRtIdUk/6LkYCpojFpAXxJnxhJhHTFg9yQ+etzKRwAHvZWvYQ0vJP/La375til51BCAePKrQ81yyg08nblPf8ky8WjBchEkOTPZMAniED/XWYoa2UHizG3B3tiBcLEyqn7TdZ/134hLCgOlnwj8ZzxeTl97uzNpn6ak6PKE1E7Urik6SN41PulWPCozBr3ro8fAaS1tzBx3dAOeDIXrsSa3g==;q2vlZwAxoEvBLSgmCksk+Q=="
 ---
 

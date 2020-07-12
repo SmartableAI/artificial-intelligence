@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
 type: article
 quality: 133
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -106,17 +106,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Access Healthcare Services Announces New Chief Investment and Transformation Officer"
-    excerpt: "PRNewswire-PRWeb/ -- Dallas-based Access Healthcare Services USA LLC, specialists in healthcare revenue cycle management"
-    publishedDateTime: 2020-07-07T17:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/access-healthcare-services-announces-new-chief-investment-and-transformation-officer-1029373884"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "Access Healthcare Services Names New Chief Investment and Transformation Officer"
     excerpt: "Dallas-based revenue cycle management and IT services company Access Services appointed Harish Mysoré to be its Chief Investment and Transformation Officer, where he will identify growth opportunities and push for transformation."
     publishedDateTime: 2020-07-09T16:29:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_faci
 cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
-    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
-    publishedDateTime: 2020-07-07T18:05:00Z
-    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 45
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Columnist William Newman: Facial recognition technology: Ban it now"
     excerpt: "This story began on June 27, 2019 at the Somerville City Council, which that evening unanimously adopted the state’s first municipal facial recognition technology ban. On Dec. 11, 2019, the Brookline Town Meeting,"
     publishedDateTime: 2020-07-09T00:00:00Z
@@ -70,6 +54,28 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition technology’s double-edged sword"
+    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-11T12:37:00Z
+    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
+    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 39
+  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
+    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
+    publishedDateTime: 2020-07-08T19:36:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 29
 
 secured: "954uppWoa+FyiahI3fVNJfnsMVQeyVXTOI+WfQAhUy+krgkznpB1Iap6c0HQogEXl31kL+bi5ssNKPyCJIspN7xvpS3MzaLswHvOd2NnaKaBU+n7MoaMmmJcIMUGiCdYd7aAFT4/yE3kderWa7Fkafs5iJoe6P5PBYvyjnsYySkuCj30dmfBX51V8ajV7kKCaFoOxBuo3dK5YiXcGIKDg5hjGi/k+8Xuae0wTzRe6tqBAuyxCqCLrYwMUUMeGURpuHeY5rBnreUQfR9g01MHlYXTruvzw7VsfhzYzJcw39MXVJrN/GF46pd4wgYK/LhKbk5ReKvpuSbFTRw3APUG1w==;hIg+TWRTBpfRef95B2flIA=="
 ---

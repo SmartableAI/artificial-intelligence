@@ -448,15 +448,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
-  - title: "Clearview AI to end facial recognition services in Canada: privacy commissioner"
-    excerpt: "OTTAWA — The federal privacy commissioner said U.S. firm Clearview AI will stop offering its facial-recognition services in Canada in response to an investigation by the commissioner and three provincial counterparts. The office of privacy watchdog ..."
-    publishedDateTime: 2020-07-07T15:24:00Z
-    webUrl: "https://www.canadianmanufacturing.com/technology/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner-256646/"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 30
 
 secured: "3YOMma2r8NJL6JQRoE9VjsrZtmiAORJy8F+GzRnLTdFsxLWpXFYITymiWpovNj6y9n41YBDKBpDLgEYf3EYEp4ykV0yQKEwm5kUX5eNO5S2temwOHl6ZOHda2A+xJ66dPHVh8hLZX0JENfHfrQwjjd5Yc03VheUdZIhTMb9AJpNyCoofSohGKVubmQoI5M4MgkGov/SAjyEC6GKKe6dUMa4VV/lTi7pHnQTIWK4EiyiVsPmjaDhRjqva0bOTLzp4cfcGv6Ahlg9vbHAv5kj3uU8b7TtsyzNzq9NvmllfxIrxeOX/FUJ+XwV9Cl08orawYSaHIaJmacTzyrzvnkQ0kQ7IfiaaJ4+fiDlAQxnzfhm/yqEUgBKzAjniVpRD7BmlXAzF6q1k4VqiiQxMnLx2vrCWzPltdsrCz5rJHtc1Oy7wF8UV4zm6t5LorD48QMZJAiFfYCbYkopAxL+qX7XzDpw6Erb4amwkj0/4HlbCKP3b4xWgHoXB49OsLtvIzlHolwMEWYP64e3gF9lNqX+VBw==;HE9aiwZPbWlr9kL7mqSFsQ=="
 ---

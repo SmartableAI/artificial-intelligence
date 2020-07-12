@@ -59,6 +59,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Is Facial Recognition Technology Good Or Bad?"
+    excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
+    publishedDateTime: 2020-07-10T11:46:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
   - title: "Concern is growing over police use of facial recognition"
     excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
     publishedDateTime: 2020-07-11T16:54:00Z
@@ -88,6 +99,22 @@ related:
       - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
         width: 940
         height: 627
+        isCached: true
+  - title: "How the Growing Facial Recognition Debate Impacts Martech"
+    excerpt: "In recent years image recognition has been hailed as a critical identifier of digital media to causal customer needs. But can it be an intrusion? Marketers worried about its application should pay attention to the facial recognition debates emerging today."
+    publishedDateTime: 2020-07-10T17:16:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/"
+    ampWebUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/c69643c040bc4478a19763dc26a5d324.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
@@ -119,6 +146,17 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
+    excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
+    publishedDateTime: 2020-07-08T11:08:00Z
+    webUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/"
+    ampWebUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
+    type: article
+    provider:
+      name: Global News
+      domain: globalnews.ca
+    quality: 31
 
 secured: "ltmBrYpX/ocGu/vayC1vsFMHSZrh0AA8CI02fYn+c2+Kpq0MWi7J20sxTWsZFqGq/cQ2zNXFxAeIeb0/djFqsIY0w8Ay1iF2KmRP68bASo1n8gwpBo5xiBsTxxc6rLPKqbo5jgwkIWdlTeQyh8uOGcvR4rxGfk7qewXHKouBa4HhtY9KIiK2r//MBzhfzgb6xvraHYOaP6IS+cIK42VJvbS0lYu0vHbpK81REef817pRdFdhBcTop3X84V+eHUDD6iFFGFtfxGh162O+KUMbeCKHuDu6jXaR6+WMC/8lOxnskF8ZKHfwVEeS21R0X95qTyzw1wDp2p2AX9XEjdVOsJP0zz8X0RGzJ/D+cy+1jJvcyAY7+yANsAFvyucK4pVccQmXAjuLX9WW1iiUpHoTPW2SDnvzTfis0VouvRVdzOE0by0JawR41R06vh7WZ7v4yFTteCX6IOeUgVSupBlT8ckVTh0cAmKjMg0TpeQhe1uZGZFkAEslzJufrRA6ZV+9nAfw21/KNZVrNHSlOF+gzg==;8+XN42jdawjwa3bJJcbR8Q=="
 ---

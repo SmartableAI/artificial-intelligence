@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforce
 cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
         width: 500
         height: 300
+        isCached: true
+  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
+    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
+    publishedDateTime: 2020-07-09T22:16:00Z
+    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
+    type: article
+    provider:
+      name: 9&10 News
+      domain: 9and10news.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "4KP1AF/8dMjbEYab5Fpnnb5pLDkO/MrgcmNpVSi3BaY2VffOJuIceOhJnAQ7R9I7QH3qpgQa7QqHQbfhxBcqEhy7ivHcyCL/gAB06nZu1FRMjX7IbSHTWTWOjMGGh52cnHOjO/l0/dwtP4F3d+unn3fa8lDiNUtk6qe1tKLdNsdXXAZEIYHEKDqY8rI3rOU2Dzlil1kKSFFYvGyOznh+nUI6m9fO5alor3X6Dls8g5eAU4yCA82jjIqRraVff+0eDZCX+6pwQEp6i6df7jnkIgss/TJkYv0wTL10iZ3UUk7+DgylpyjGt8OD7U6+0Sg63aHHo3kCCwzBZu0zN+T8Ag==;2RxfQn2eqpfe5cPusrgmJw=="

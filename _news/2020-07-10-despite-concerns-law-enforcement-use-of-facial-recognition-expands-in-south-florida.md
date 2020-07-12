@@ -56,6 +56,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
+    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
+    publishedDateTime: 2020-07-09T22:16:00Z
+    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
+    type: article
+    provider:
+      name: 9&10 News
+      domain: 9and10news.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "lW7UMWUQCuBe6h1RbfiwpkodU9LZ4BGuHYIsC3OgSSXyBE56eEcH2KBx9IF+/EW1kDGOP4Q2vc4UvLJmeJUGFjGy/XObeXh9K4cpsSzri9byFFIqmF0oYJ9gTN+IAKo3PFPe7tf/9VUNCAcugTmyjm9pXsfAL7SQzVEg2tTSK7cZkgxnnCWK4G6Jtz3wkUsrHq4FzMEwicO707JZXLShnseVihWR1lLfcVAW1XvW8BKm9AUu8qkVayYmPMWWzGjxWT9XegA0J0r0P/0fT7iZkIYF2/vED0ZReqYIpAjq+Xh9vcdMyavUWhyxrtnk0DFsgyuITsgwidaWAsY8Old/qET75WdfvS98F1oEdbKJOY3l0ppRbXJ4T+mNZ0Unno6CgA8rB5gO7c1US7IBQ+xqwbV+No9bHaUfQpLil5Q33tioIchCOFDr/M3NIivLhV4Y4jbEfFk8SN+sWsIoWqFhIyiMnUaE8PU5evluVys3RVNPLYQCs+45S5/PvYWlhagtk+Lt1ZFPBd3WI7C3E8SbLw==;ewhR8AGYtFKec6bpLMzO6Q=="
 ---

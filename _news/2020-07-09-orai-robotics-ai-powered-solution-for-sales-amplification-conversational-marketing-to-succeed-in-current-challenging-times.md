@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T08:10:00Z
 webUrl: "https://www.prnewswire.com/in/news-releases/orai-robotics-ai-powered-solution-for-sales-amplification-conversational-marketing-to-succeed-in-current-challenging-times-816127368.html"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

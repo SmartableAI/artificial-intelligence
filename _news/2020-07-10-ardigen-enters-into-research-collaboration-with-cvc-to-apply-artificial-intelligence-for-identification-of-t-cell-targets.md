@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ardigen-enters-into-res
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ardigen-enters-into-research-collaboration-with-cvc-to-apply-artificial-intelligence-for-identification-of-t-cell-targets-1029380636"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

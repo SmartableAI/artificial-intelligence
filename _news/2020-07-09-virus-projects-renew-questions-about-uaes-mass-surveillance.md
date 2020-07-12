@@ -8,7 +8,7 @@ ampWebUrl: "https://www.seattlepi.com/news/amp/Virus-projects-renew-questions-ab
 cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/Virus-projects-renew-questions-about-UAE-s-mass-15395968.php"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:
