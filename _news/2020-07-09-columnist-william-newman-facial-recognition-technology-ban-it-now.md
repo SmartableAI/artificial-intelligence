@@ -26,6 +26,22 @@ images:
     title: "Columnist William Newman: Facial recognition technology: Ban it now"
 
 related:
+  - title: "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology"
+    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ..."
+    publishedDateTime: 2020-07-11T00:00:00Z
+    webUrl: "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    type: article
+    provider:
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 59
+    images:
+      - url: "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg"
+        width: 426
+        height: 293
+        isCached: true
   - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
     excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
     publishedDateTime: 2020-07-07T18:05:00Z
@@ -42,19 +58,19 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Africa: Future of Facial Recognition Technology in Africa"
-    excerpt: "Analysis - When several United States (US) companies withdrew their facial recognition software products amid concerns about flaws, biases and misuse in the wake of the killing of George Floyd, did leaders in sub-Saharan Africa take note?"
-    publishedDateTime: 2020-07-07T07:21:00Z
-    webUrl: "https://allafrica.com/stories/202007070165.html"
+  - title: "Moscow’s Use of Facial Recognition Technology Challenged"
+    excerpt: "Activist Alyona Popova and politician Vladimir Milov have lodged a complaint over Russia’s use facial recognition technology during protests to the European Court of Human Rights. Their lawyer, Kirill Koroteyev,"
+    publishedDateTime: 2020-07-08T04:05:00Z
+    webUrl: "https://www.hrw.org/news/2020/07/08/moscows-use-facial-recognition-technology-challenged"
     type: article
     provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 41
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
     images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2020/202003eca_russia_cameras.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "ez2p/8syNKr17w8qKE+qbQ7jzf/NOJ0SFSUchyfby7rzEiFiWdMGktsO7bnmXgqOhujy8uGXKxWUYtP9Gq9EoewPW5CeBbnrglJKQ5QhclCV59ZHTTe0KGMaTWcjHjedpgg9grgLrEp0jKpbZKoLoKaGMXpDc5+3MUGjrlXO9Cw4Y9z4L0Zfu95iAIFW1CK0k6kxR+128BDzJIfQVJsNbCVSc5Q2FnCZwx4mS6tty4tCBG5RxS0M1Y5KtaIlAoKn6sq/vMphqnrHJCoceOONhtPwZfjnpwSKippCbRl19PTPUNe7suavu9yFR4BbzSGkAC1aCjWCmP91haieNl/AknG4iFsTm3rWv/UMB5UDAYU8fLsSwMP92oKYNGhD+824KFWugTSjPepslmg0Gk3EIHzfJlVPqE1N1re5E0XjrSDDKisgmkIyZVrIjd7h7oaQKgiDg/PTSgsTzc+G3BKMmy/rxJIxIcZ68w8opEG1DrEFt0onm2iRVqBV9ZXTildOPi4C4r8AfnaJY9UHOrwudQ==;A+LnbrCJEGGaKAvX+kORbQ=="

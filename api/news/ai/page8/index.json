@@ -2,6 +2,197 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-02-9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots.md",
+      "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
+      "excerpt": "These members of MIT's latest 35 Under 35 list are engineers, chemists, and researchers working for universities, startups, and big tech companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/07/02/1c42fa20-2dad-4cf9-a8e5-6de52362ba1d/resize/1200x/df859e53ef41149c778c4b7905c4a4bb/istock-1133385995.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": "9 super-smart problem solvers take on bias in AI, microplastics, and language lessons for chatbots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/9-super-smart-problem-solvers-take-on-bias-in-ai-microplastics-and-language-lessons-for-chatbots/",
+      "publishedDateTime": "2020-07-02T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-ai-system-learns-to-model-how-fabrics-interact-by-watching-videos.md",
+      "title": "AI system learns to model how fabrics interact by watching videos",
+      "excerpt": "Researchers propose an AI system that learns to model the physical interactions between types of fabrics by watching videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/93bf9bba-c3b0-4777-b0b9-aef3fbe413a4-e1593713324773.png?w=1200&#038;strip=all",
+          "width": 1198,
+          "height": 599,
+          "title": "AI system learns to model how fabrics interact by watching videos",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/ai-system-learns-to-model-how-fabrics-interact-by-watching-videos/amp/",
+      "publishedDateTime": "2020-07-02T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised.md",
+      "title": "Trump administration hires tech firm to build a virtual border wall, an idea Democrats have praised",
+      "excerpt": "The company claims the artificial-intelligence software is capable ... chip technology developed by Tesla and other companies for driverless cars, Steckman said. CBP officials for years have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/77IQRJV374I6VF6BNTYRN77CNQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp",
+      "publishedDateTime": "2020-07-02T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-covid-kg-uses-ai-to-scan-thousands-of-studies-to-answer-doctors-coronavirus-questions.md",
+      "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
+      "excerpt": "In a new paper, researchers from Columbia, Brandeis, Darpa, UCLA, UIUC, and elsewhere describe an AI framework that answers questions about COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "COVID-KG uses AI to scan thousands of studies to answer doctors’ coronavirus questions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/02/covid-kg-knowledge-graph-research-system/amp/",
+      "publishedDateTime": "2020-07-02T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-mit-takes-down-popular-ai-dataset-due-to-racist-misogynistic-content.md",
       "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
       "excerpt": "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,",
@@ -1227,197 +1418,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane.md",
-      "title": "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane",
-      "excerpt": "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2425QS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS",
-      "publishedDateTime": "2020-07-01T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-the-organizations-positioned-to-lobby-against-a-us-ban-on-facial-recognition.md",
-      "title": "The organizations positioned to lobby against a US ban on facial recognition",
-      "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2020-04-06T151844Z_1_LYNXMPEG351EX_RTROPTP_4_G7-SUMMIT-CANADA-e1593619804343.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "The organizations positioned to lobby against a US ban on facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-01T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-why-2020-is-a-rare-window-in-time-thats-hard-to-see-beyond.md",
-      "title": "Why 2020 is a rare window in time that's hard to see beyond",
-      "excerpt": "Never mind seeing beyond the fabled singularity of 2045. It's really hard to predict where we're going from the here and now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/jjR3OvgOzGo5s1W8Fc32Xs6NEmo=/0x1251:5616x4212/756x567/2020/06/30/c9102f24-6394-4b2b-9b0b-ea2d7a533006/gettyimages-1163715561.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Why 2020 is a rare window in time that's hard to see beyond",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
-      "publishedDateTime": "2020-07-01T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
-      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "publishedDateTime": "2020-07-01T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

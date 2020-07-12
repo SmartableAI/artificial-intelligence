@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "Pick n Pay is Using Machine Learning to Change How People Shop"
-    excerpt: "Pick n Pay has announced that it will use machine learning to automatically personalise discounts for Smart Shoppers – a move that is expected to help more customers save more on their grocery shop. Using this advanced technology, Pick n Pay hopes to ..."
-    publishedDateTime: 2020-07-07T07:30:00Z
-    webUrl: "https://www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/"
-    ampWebUrl: "https://www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2020/07/pick-n-pay-is-using-machine-learning-to-change-how-people-shop/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/07/Pick-n-Pay-1-696x458.png"
-        width: 696
-        height: 458
-        isCached: true
 
 secured: "PcezNSdrpWfRLcLY9A7V2w3zrmMugrw0mCsj7rd72JTPWENUc0VdLOUkFrq2UEthcu/wIoYGeI6aL9Tar9F2uqVzmJUWmJGdnZO4nwxzcrBsj+UXunqQQfKA6VbHjDZZr850h64yIB2RLzk1s+iOgLPRdaVgpYMZ0eFtCPn4FU6LajXnY2FhBLw/vSqueSuiCFeiLxHcQ8CRc+uTukFqmGfHh1B1edabyb24quSP/HIvKg+6zKdR09XlDYlPCjfiHvRhHO4t/dI8C2kQCkVC0WvEudafgM71SKGArKfT2ShnKFXRY/rncAPnkrhCOOPt0uX3FhXypgh6/Xy8Nri3dCzQmw2JJFDlPGbUAcoQYHOBTMXd5jOgQsqXbQV66aQguRzThbrcVwzEgtyD11KP3AK9pvlpuBuiOhZH+PcF5l/28EV7K7igMUG+fIwwTvFYgf+Ea3PEiQWxSLksswXe0HEifHUhpJCSX+3PW3+EWlQgcIe/sAsEgzMJscqHsc/6/erj7NcCHqXrGFRdn6pWpA==;aY0B1eIajKBS6WXwwMdaQg=="
 ---

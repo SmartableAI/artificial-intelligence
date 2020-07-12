@@ -2,6 +2,129 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-10-five-of-the-leading-british-ai-companies-revealed.md",
+      "title": "Five Of The Leading British AI Companies Revealed",
+      "excerpt": "Britain's leading artificial intelligence start-ups continue to raise capital despite the uncertainties of Covid-19",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2020/07/10/five-of-the-leading-british-ai-companies-revealed/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2020/07/10/five-of-the-leading-british-ai-companies-revealed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2020/07/10/five-of-the-leading-british-ai-companies-revealed/amp/",
+      "publishedDateTime": "2020-07-10T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-reducing-bias-in-ai-based-financial-services.md",
+      "title": "Reducing bias in AI-based financial services",
+      "excerpt": "AI’s ability to avoid the traditional credit reporting and scoring system that helps perpetuate existing bias makes it a rare, if not unique, opportunity to alter the status quo. However, AI can easily go in the other direction to exacerbate existing bias,",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg",
+          "width": 4550,
+          "height": 2859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
+      "publishedDateTime": "2020-07-09T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Institution",
+        "domain": "brookings.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
+      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
+      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "publishedDateTime": "2020-07-09T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-chinese-self-driving-start-up-weride-to-test-fully-driverless-cars-in-guangzhou.md",
       "title": "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou",
       "excerpt": "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services.",
@@ -347,7 +470,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 172,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -678,7 +801,7 @@
       "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 436,
+      "heat": 416,
       "tags": null,
       "images": [
         {
@@ -1290,159 +1413,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-how-ibm-is-fighting-covid-19-with-ai.md",
-      "title": "How IBM is fighting COVID-19 with AI",
-      "excerpt": "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T06:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
-      "title": "Break into artificial intelligence with this four-course online training for $35",
-      "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "publishedDateTime": "2020-07-09T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
-      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
-      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
-          "width": 720,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "publishedDateTime": "2020-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

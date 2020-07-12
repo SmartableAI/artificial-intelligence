@@ -2,6 +2,196 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-01-robots-are-learning-workplace-etiquette-at-mit.md",
+      "title": "Robots are learning workplace etiquette at MIT",
+      "excerpt": "The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL). Robots need to know when it's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/05/13/34c2d20f-05c7-42df-a650-410262e65ae5/thumbnail/1200x675/8986304453ac892ce66e1eeaefa00b8b/istock-1007845610.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots are learning workplace etiquette at MIT",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "publishedDateTime": "2020-07-01T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system.md",
+      "title": "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system",
+      "excerpt": "TOKYO, July 1, 2020 /PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence (AI)-driven cell analysis and sorting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system-301086729.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1196816/ThinkCyte_Logo.jpg?p=facebook",
+          "width": 1241,
+          "height": 650,
+          "title": "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
+      "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
+      "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_125848__01-e1593559807331.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
+      "publishedDateTime": "2020-07-01T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-as-data-grows-what-could-the-future-of-ai-look-like-in-banking.md",
+      "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
+      "excerpt": "AI in banking is discussed primarily in connection with specific features, but this is only the basic level of AI's potential.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efba7cd3855ae0007ddffe9%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
+      "publishedDateTime": "2020-07-01T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
       "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
       "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
@@ -993,188 +1183,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ai-robot-named-erica-starring-in-70-million-sci-fi-movie-b.md",
-      "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
-      "excerpt": "With the Coronavirus pandemic forcing Hollywood into a new era of critical thinking, one which has forced the industry to find new ways to complete productions, as well as figure out new forms of distribution – it seems they’ve also figured out a way to replace actors and actresses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.screengeek.net/wp-content/uploads/2020/06/ai-robot-erica-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "AI Robot Named Erica Starring In $70 Million Sci-Fi Movie ‘B’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
-      "cdnAmpWebUrl": "https://www-screengeek-net.cdn.ampproject.org/c/s/www.screengeek.net/2020/06/27/ai-robot-erica-movie-b/amp/",
-      "publishedDateTime": "2020-06-30T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScreenGeek",
-        "domain": "screengeek.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress.md",
-      "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
-      "excerpt": "Tech giants joined universities and nonprofits and backed a national AI research cloud, something supporters say will help the U.S. innovate and compete.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/fei-fei-condoleeza.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 580,
-          "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
-      "publishedDateTime": "2020-06-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-is-experiencing-growing-pains.md",
-      "title": "Artificial Intelligence Is Experiencing Growing Pains",
-      "excerpt": "We’ve moved beyond the phase of Is AI a shiny object? toward broader mainstream adoption and actual value creation. But are organizations ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/06/30/artificial-intelligence-is-experiencing-growing-pains/amp/",
-      "publishedDateTime": "2020-06-30T14:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-australian-authorities-want-an-ai-to-settle-your-divorce.md",
-      "title": "Australian Authorities Want an AI To Settle Your Divorce",
-      "excerpt": "For better or worse, there’s a good chance your current love life owes something to automation. Even if you’re just hooking up with the occasional Tinder fling (which if you are, no judgment), you’re still turning to Tinder’s black-box algorithms to pick out that fling for you before turning to more black-box algorithms to pick out the best dingy bar to meet them at before turning to more black-box algorithms to figure out what,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iecgpkelskttyvkjc7sq.jpg",
-          "width": 800,
-          "height": 451,
-          "title": "Australian Authorities Want an AI To Settle Your Divorce",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/australian-authorities-want-an-ai-to-settle-your-divorc-1844218776/amp",
-      "publishedDateTime": "2020-06-30T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

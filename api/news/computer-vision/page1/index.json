@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-11-diane-dimond-the-double-edged-sword-of-facial-recognition-technology.md",
+      "title": "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology",
+      "excerpt": "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg",
+          "width": 426,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711",
+      "cdnAmpWebUrl": "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711",
+      "publishedDateTime": "2020-07-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Noozhawk",
+        "domain": "noozhawk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-detroit-police-wrongfully-arrested-another-black-man-falsely-identified-by-face-recognition.md",
       "title": "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition",
       "excerpt": "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,",
@@ -109,7 +150,7 @@
       "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 436,
+      "heat": 416,
       "tags": null,
       "images": [
         {
@@ -210,7 +251,7 @@
       "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1356,38 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

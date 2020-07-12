@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-25-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
+      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
+      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-a-flawed-facial-recognition-system-sent-this-man-to-jail.md",
       "title": "A Flawed Facial Recognition System Sent This Man to Jail",
       "excerpt": "Robert Williams may be the first person in the US arrested based on a bad match—exposing problems with the algorithms, and the ways they are used.",

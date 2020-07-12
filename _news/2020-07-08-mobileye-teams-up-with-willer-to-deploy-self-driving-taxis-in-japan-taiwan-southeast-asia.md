@@ -29,20 +29,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Uni to join £1m self-driving vehicles project"
-    excerpt: "Loughborough University is to take part in a new £1m project with Highways England to assess how suitable the country’s motorways are for self-driving vehicles."
-    publishedDateTime: 2020-07-07T07:21:00Z
-    webUrl: "https://www.insidermedia.com/news/midlands/uni-to-join-1m-self-driving-vehicles-project"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo-doing-business-middle-east-online-forum.jpg"
-        width: 440
-        height: 248
-        isCached: true
   - title: "Mobileye and WILLER partner on self-driving mobility solutions for Japan, Southeast Asia"
     excerpt: "“We look forward to collaborating with WILLER as we work together for new mobility in the region by bringing self-driving mobility services to Japan, Taiwan and ASEAN markets.” “Collaboration with Mobileye is highly valuable for WILLER and a big step ..."
     publishedDateTime: 2020-07-08T15:33:00Z

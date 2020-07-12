@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T18:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
 type: article
 quality: 72
-heat: 172
+heat: 162
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
     excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Military Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
     publishedDateTime: 2020-07-09T10:08:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-current-growth-status-major-key-players-and-covid-19-impact-assessment-forecast-2029-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Robots Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2027"
-    excerpt: "The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-09T22:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2027-2020-07-10"
     type: article
     provider:
       name: MarketWatch

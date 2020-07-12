@@ -25,51 +25,51 @@ images:
     title: "Moscow’s Use of Facial Recognition Technology Challenged"
 
 related:
-  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
-    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
-    publishedDateTime: 2020-07-09T00:20:00Z
-    webUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/"
-    ampWebUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
+  - title: "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology"
+    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ..."
+    publishedDateTime: 2020-07-11T00:00:00Z
+    webUrl: "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
     type: article
     provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 52
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 59
     images:
-      - url: "https://media.nbcmiami.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
-        width: 1200
-        height: 650
+      - url: "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg"
+        width: 426
+        height: 293
         isCached: true
-  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
-    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
-    publishedDateTime: 2020-07-10T18:56:00Z
-    webUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/"
-    ampWebUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
+  - title: "Facial recognition technologies echo the historical problem of linking appearance with criminality"
+    excerpt: "Several startups now claim to be able to use artificial intelligence to help employers detect the personality traits of job candidates based on their facial expressions. In China, the government has pioneered the use of surveillance cameras that identify and track ethnic minorities."
+    publishedDateTime: 2020-07-07T18:05:00Z
+    webUrl: "https://scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    ampWebUrl: "https://amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
+    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/964521/facial-recognition-technologies-echo-the-historical-problem-of-linking-appearance-with-criminality"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 52
+      name: Scroll
+      domain: scroll.in
+    quality: 45
     images:
-      - url: "https://media.nbcnewyork.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
-        width: 1200
-        height: 650
+      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/125973-gngajbjuaf-1566471406.jpg"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Boston City Departments Can No Longer Use Facial Recognition"
-    excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
-    publishedDateTime: 2020-07-10T08:04:00Z
-    webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
+  - title: "Columnist William Newman: Facial recognition technology: Ban it now"
+    excerpt: "This story began on June 27, 2019 at the Somerville City Council, which that evening unanimously adopted the state’s first municipal facial recognition technology ban. On Dec. 11, 2019, the Brookline Town Meeting,"
+    publishedDateTime: 2020-07-09T00:00:00Z
+    webUrl: "https://www.gazettenet.com/Columnist-William-Newman-35133581"
     type: article
     provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
+      name: Daily Hampshire Gazette
+      domain: gazettenet.com
     quality: 41
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
-        width: 500
-        height: 300
+      - url: "http://www.gazettenet.com/getattachment/59b14c9f-a96f-4eb2-bc2b-cb1e5c667780/0ce7ea6489e84ded8c1b5e68ddd00be9.jpg"
+        width: 499
+        height: 325
         isCached: true
 
 secured: "7MGJw34T1po1Tr+OizzaCXsKIq96U3YiK1MqEftbd3IRIKhSEoJDP5dUWGw2DRwxd6CdRaNG8WuBk+liLjjsGOXc1k7+SOyViDgIbeMf8hmo2ASlQ6ZMSAcK+wZ95NF2Oj1HcVtaK76pSrG+KdYZLOGMDObgTiA/nAM9D50VVaxTGYK0rELyipUfdqE6mAkT4RvFGyXYciz99YTAXb9sEzVQIeSdyEnGJv+IfyKJRqSzphPSjnJfyGVcSs1kP+dPEKF8EYVVep665G0eQMGcZvs9hFDRcjeywKcYYuqDcLCY84WGWtbk/xbVhUmthwbGCvvyiVOXwc8inV/2UfqbqpTClpowp/6ghd88KKm1xGmWMz573NGuJde8KaULCqEQwMhrIjcZ/m8H8Idt84gmpFkCpUjOr/SN5DqeCHGpzs2UlHo8HrU3BKjd9eJxy8fI7kwJVKRut1Nk6VRYxPuYYZ5qaW4Bzwv0AxlXrQM5/gVhtFw59Sb3Cm/KNHjGhRighnqkn9dCJoNCNX8RbzMvfg==;Dn1bz7Ysez72DnFYWLEgxA=="

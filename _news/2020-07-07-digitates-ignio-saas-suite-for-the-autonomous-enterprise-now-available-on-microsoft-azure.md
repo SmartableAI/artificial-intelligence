@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-07T11:25:00Z
 webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     height: 233
     isCached: true
 
-related:
-  - title: "KTern.AI App Now Available for Trial and Purchase on SAP® App Center"
-    excerpt: "Kaar Technologies today announced that its KTern.AI solution is now available for trial and online purchase on SAP® App Center, the digital marketplace for SAP partner offerings. KTern.AI integrates with SAP ERP and SAP S/4HANA® and delivers business ..."
-    publishedDateTime: 2020-07-07T07:26:00Z
-    webUrl: "https://www.openpr.com/news/2085745/ktern-ai-app-now-available-for-trial-and-purchase-on-sap-app"
-    ampWebUrl: "https://www.openpr.com/amp/2085745/ktern-ai-app-now-available-for-trial-and-purchase-on-sap-app"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2085745/ktern-ai-app-now-available-for-trial-and-purchase-on-sap-app"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-
-secured: "eVU/l99rahKgzqELf8hMT8CIfsn1KmcDFgN78h/oXfTGze868oz8wVwi0i+On1dtbQ8YkNxM/jE/kWnlMxiGSpiZ428woce0JvtBq0KU19X1FrNKVsw3WmiZCvmjAYPzu0M1SoKtNnogZ/gXFs0ZnLsgbBv7OD6tOudv7NRDr/0AQBWeU8yVnwMn2N6t0vDq3LuXl1ZJP5xbOC7hNELW46CdlTSbJm48nbjVXw9b/xZKrdNqGXm3gy1O3QYN7epsz9WErF8vWAqqO2M9Namc/fwjro51av609vzIcyh1tYS/JAnT9Kx3bYNSdIaqi3lXL/e6Lth9C+Wo5GyeB/wZZw==;s+wiXLUpZ6vLYkIg6jo18w=="
+secured: "DQyZNmpH1Nm/tHi9JOhJfOs4qKpCXEKNt+4Db9QTK7rS1w+SCGyvlCFADNpnL/juwbgk+3Vwzyblr7Q6HAbqvvB6am5UjWNd4X+7MOEfIbfJtONBxBABdBXnKuE03s5kAa3JlRLR0gOP8nDwL7XLrqmXYV2MsYc/0OQLBTJXktU8FX6/z0HjgZ/ngbnC4/yGOQBvtNEG1iktdq80ftiTalOqwe7n7XT9XrNRn4kTz+En0/JYNAAHHBRtoHICTWOQFoYmVDHQ3vcgM5H4rmZ/4rYcKG6YVJecDQYlly57cwN0pabMmcwRbbk5wsieX320ujSzRlnSQ0HtfAFKXnsyxw==;PUHkt2kCcYhEp+jFs9H5TA=="
 ---
 

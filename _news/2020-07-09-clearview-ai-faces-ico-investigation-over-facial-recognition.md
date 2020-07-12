@@ -68,22 +68,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Shady Face Recognition Firm Clearview AI Says It's Left Canada Amid Two Federal Investigations"
-    excerpt: "Dystopian, U.S.-based face recognition firm Clearview AI has suspended its contract with the Royal Mounted Canadian Police (RMCP), effectively locking its business out of Canada entirely, Bloomberg reported on Monday."
-    publishedDateTime: 2020-07-07T07:30:00Z
-    webUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344"
-    ampWebUrl: "https://gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/shady-face-recognition-firm-clearview-ai-says-its-left-1844287344/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 92
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Australia and the UK open joint investigation of Clearview AI"
     excerpt: "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,"
     publishedDateTime: 2020-07-09T14:51:00Z
@@ -198,22 +182,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Can Any Store or Business Use Facial Recognition Cameras in Australia?"
-    excerpt: "Facial recognition technology is on the rise globally and with companies in Australia looking for ways to use it with customers, the lines between privacy and convenience can get a little murky. Part of the reason behind this is that many of us aren’t ..."
-    publishedDateTime: 2020-07-07T07:33:00Z
-    webUrl: "https://www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/"
-    ampWebUrl: "https://www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/amp/"
-    cdnAmpWebUrl: "https://www-lifehacker-com-au.cdn.ampproject.org/c/s/www.lifehacker.com.au/2020/07/can-any-store-or-business-use-facial-recognition-cameras-in-australia/amp/"
-    type: article
-    provider:
-      name: Lifehacker Australia
-      domain: lifehacker.com.au
-    quality: 59
-    images:
-      - url: "https://www.lifehacker.com.au/content/uploads/sites/4/2019/08/surveillance.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Groups demand feds ban use of facial recognition technology"
     excerpt: "OTTAWA -- Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial-recognition surveillance by federal law-enforcement and intelligence agencies. In an open letter to ..."
     publishedDateTime: 2020-07-08T10:28:00Z

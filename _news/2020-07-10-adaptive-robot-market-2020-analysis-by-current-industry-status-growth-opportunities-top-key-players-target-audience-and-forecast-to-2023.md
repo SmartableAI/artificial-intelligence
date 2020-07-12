@@ -26,31 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Construction Market Growth, Trends, Analysis and Forecast - 2025"
-    excerpt: "The Artificial Intelligence AI in construction is anticipated to grow at a CAGR 35 7 during the forecast period 2019 2025 The factor such as the demand for efficient planning and other processes in construction advance technology such as artificial"
-    publishedDateTime: 2020-07-11T12:51:00Z
-    webUrl: "https://www.openpr.com/news/2088540/artificial-intelligence-in-construction-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2088540/artificial-intelligence-in-construction-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2088540/artificial-intelligence-in-construction-market-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/T/7/T711106099_g.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-07-08T16:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08"
+  - title: "Artificial Intelligence Robotics Market, Growth Rate, Manufacturers, Market Size, Dynamics, Market Overview, Revenue nad Forecast to 2023"
+    excerpt: "The complete explanation of the Global Artificial Intelligence Robotics Marketing Research Report 2020-2023 provides users with essential trade information to get to know the comp"
+    publishedDateTime: 2020-07-11T14:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-rate-manufacturers-market-size-dynamics-market-overview-revenue-nad-forecast-to-2023-2020-06-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2027"
+    excerpt: "The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2027-2020-07-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

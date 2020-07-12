@@ -2,6 +2,187 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-07-robot-janitors-could-soon-be-coming-to-schools-near-you.md",
+      "title": "Robot Janitors Could Soon Be Coming To Schools Near You",
+      "excerpt": "In the latest news about robots taking over the world, MIT has developed a robot capable of disinfecting an entire 4,000-square foot warehouse in 30 minute",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/a48f868f-2f87-56fa-b5fd-3cdacd818206/default-1594121302-the-robot-can-disinfect-gbfb-s-warehouse-in-30-minutes.jpg",
+          "width": 720,
+          "height": 405,
+          "title": "Robot Janitors Could Soon Be Coming To Schools Near You",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/robot-janitors-could-soon-be-coming-to-schools-near-you/",
+      "publishedDateTime": "2020-07-07T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes.md",
+      "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
+      "excerpt": "Researchers developed an AI tool -- WattScale -- that can identify energy-inefficient homes anywhere in a region with sufficient data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2009/10/power_lines-e1594136810494.jpg?w=1200&#038;strip=all",
+          "width": 1149,
+          "height": 550,
+          "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
+      "publishedDateTime": "2020-07-07T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
+      "title": "Machine learning helps grow artificial organs",
+      "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp",
+      "publishedDateTime": "2020-07-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-can-ai-convincingly-answer-existential-questions.md",
+      "title": "Can AI convincingly answer existential questions?",
+      "excerpt": "A new study has explored whether AI can provide more attractive answers to existential questions than history's most influential thinkers.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-96-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Can AI convincingly answer existential questions?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/amp/",
+      "publishedDateTime": "2020-07-07T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-an-online-propaganda-campaign-used-ai-generated-headshots-to-create-fake-journalists.md",
       "title": "An online propaganda campaign used AI-generated headshots to create fake journalists",
       "excerpt": "At least 19 fake personas were used to author op-eds published in dozens of mainly conservative publications, with AI-generated headshots of would-be authors used to trick targets into believing the writers were real people.",
@@ -1175,7 +1356,7 @@
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06",
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1199,187 +1380,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
-      "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
-      "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
-      "publishedDateTime": "2020-07-06T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
-      "title": "Researchers use AI to highlight Zoom’s privacy risks",
-      "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/d0862e46-a1f5-464f-8bed-7ecfd241dd87.png?w=800&resize=800%2C532&strip=all",
-          "width": 800,
-          "height": 532,
-          "title": "Researchers use AI to highlight Zoom’s privacy risks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
-      "publishedDateTime": "2020-07-06T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars.md",
-      "title": "Hidden Secrets That The Burger King ‘Autopilot Whopper’ Teaches Us About Tesla And Self-Driving Cars",
-      "excerpt": "What do AI, self-driving cars, Tesla, Autopilot, and hamburgers such as the infamous Burger King Whopper all have in common? Well, a whopper of a story, of course. A recent ad campaign by Burger King has this smarmy catchphrase: “Smart cars are smart enough to brake for a Whopper” (here’s a link to the video).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/",
-      "publishedDateTime": "2020-07-06T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
-      "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
-      "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/352846",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594044841-WhatsAppImage2020-07-06at73044PM.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352846",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352846",
-      "publishedDateTime": "2020-07-06T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

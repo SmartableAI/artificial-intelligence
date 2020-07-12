@@ -126,20 +126,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2027"
-    excerpt: "The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-09T22:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2027-2020-07-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Security Market research, Industry Outlook, Current Trends and Forecast by 2026 with Covid-19 Impact Analysis"
     excerpt: "Artificial intelligence in cyber security will increase efficiency and precision of the system to observe any potential threat in organization's system. Organizations increasing their horizon to completely different geographies are generating voluminous data to realize insights and are using analysis techniques to enhance their product offerings."
     publishedDateTime: 2020-07-09T22:32:00Z

@@ -20,15 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft services chosen by One Championship"
-    excerpt: "Through Azure AI, machine learning and data analytics, One will expand its core data functionalities and transform its direct-to-consumer digital experiences. To further delight fans, One will provide them with unique sets of data and statistics to better ..."
-    publishedDateTime: 2020-07-07T07:36:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-services-chosen-by-one-championship--1345464"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "ONE Championship and Microsoft partner"
     excerpt: "Through Azure AI, machine learning and data analytics, ONE will expand its core data capabilities and transform its direct-to-consumer digital experiences. To further delight fans, ONE will provide them with unique sets of data and statistics to better ..."
     publishedDateTime: 2020-07-07T12:04:00Z

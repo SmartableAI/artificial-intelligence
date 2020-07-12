@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Uni to join £1m self-driving vehicles project"
-    excerpt: "Loughborough University is to take part in a new £1m project with Highways England to assess how suitable the country’s motorways are for self-driving vehicles."
-    publishedDateTime: 2020-07-07T07:21:00Z
-    webUrl: "https://www.insidermedia.com/news/midlands/uni-to-join-1m-self-driving-vehicles-project"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/event/logos/logo-doing-business-middle-east-online-forum.jpg"
-        width: 440
-        height: 248
-        isCached: true
   - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
     excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
     publishedDateTime: 2020-07-08T07:20:00Z
