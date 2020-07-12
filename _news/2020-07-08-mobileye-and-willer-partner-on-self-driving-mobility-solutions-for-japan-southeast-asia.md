@@ -29,6 +29,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Promoting trust in self-driving vehicles"
+    excerpt: "The adoption of autonomous vehicles will depend on the public’s trust in the technology. To establish such trust, it is important to understand the actions of different road users, and their reactions to the vehicles."
+    publishedDateTime: 2020-07-08T01:44:00Z
+    webUrl: "https://www.nature.com/articles/s41928-020-0434-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-020-0434-8/MediaObjects/41928_2020_434_Fig1_HTML.jpg"
+        width: 685
+        height: 404
+        isCached: true
   - title: "Mobileye teams up with Willer to deploy self-driving taxis in Japan, Taiwan, Southeast Asia"
     excerpt: "Starting in Japan, the companies will together test and deploy self-driving systems based on Mobileye’s automated vehicle (AV) technology. The first tests on public roads are expected to take place in Japan next year, with plans to launch fully ..."
     publishedDateTime: 2020-07-08T07:20:00Z

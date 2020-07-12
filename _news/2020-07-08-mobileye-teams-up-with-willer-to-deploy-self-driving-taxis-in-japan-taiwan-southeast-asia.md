@@ -29,6 +29,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Promoting trust in self-driving vehicles"
+    excerpt: "The adoption of autonomous vehicles will depend on the public’s trust in the technology. To establish such trust, it is important to understand the actions of different road users, and their reactions to the vehicles."
+    publishedDateTime: 2020-07-08T01:44:00Z
+    webUrl: "https://www.nature.com/articles/s41928-020-0434-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41928-020-0434-8/MediaObjects/41928_2020_434_Fig1_HTML.jpg"
+        width: 685
+        height: 404
+        isCached: true
   - title: "Mobileye and WILLER partner on self-driving mobility solutions for Japan, Southeast Asia"
     excerpt: "“We look forward to collaborating with WILLER as we work together for new mobility in the region by bringing self-driving mobility services to Japan, Taiwan and ASEAN markets.” “Collaboration with Mobileye is highly valuable for WILLER and a big step ..."
     publishedDateTime: 2020-07-08T15:33:00Z

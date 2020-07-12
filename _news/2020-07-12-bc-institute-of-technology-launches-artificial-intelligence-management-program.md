@@ -5,8 +5,8 @@ excerpt: "They buy more machines and the virtual cycle continues.\" The B.C. Ins
 publishedDateTime: 2020-07-12T03:30:00Z
 webUrl: "https://www.straight.com/education/bc-institute-of-technology-launches-artificial-intelligence-management-program"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.straight.com/files/v3/styles/gs_feature/public/images/20/07/artificial_male_intelligence.jpg?itok=98-blpBB"

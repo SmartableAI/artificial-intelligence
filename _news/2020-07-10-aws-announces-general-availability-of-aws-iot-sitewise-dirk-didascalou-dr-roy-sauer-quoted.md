@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces General Availability of Amazon CodeGuru"
-    excerpt: "AWS announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning. It provides intelligent recommendations for improving code quality and identifying an application's most expensive lines of code."
-    publishedDateTime: 2020-07-07T11:16:00Z
-    webUrl: "https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/07/aws-amazon-codeguru-ga/en/headerimage/amazon-codeguru-development-cycle-1593945352149.jpeg"
-        width: 1024
-        height: 469
-        isCached: true
   - title: "AWS Announces General Availability of AWS IoT SiteWise"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS IoT SiteWise"
     publishedDateTime: 2020-07-09T23:46:00Z

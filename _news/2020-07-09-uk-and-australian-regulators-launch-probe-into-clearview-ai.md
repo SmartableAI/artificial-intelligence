@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
-excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
-publishedDateTime: 2020-07-10T02:19:00Z
-webUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/"
-ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
-cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+title: "UK and Australian regulators launch probe into Clearview AI"
+excerpt: "The UK and Australian information commissioners have announced a joint probe into controversial facial recognition company Clearview AI, whose image-scraping tool has been used by hundreds of police forces around the world."
+publishedDateTime: 2020-07-09T11:48:00Z
+webUrl: "https://www.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
+ampWebUrl: "https://amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
+cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Gizmodo Australia
-  domain: gizmodo.com.au
+  name: The Financial Times
+  domain: ft.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F754162fc-b2f6-4a8a-9159-e85546d3ae09.jpg?source=google-amp&fit=scale-down&width=500"
+    width: 500
+    height: 281
     isCached: true
 
 related:
@@ -219,21 +219,21 @@ related:
         width: 1440
         height: 880
         isCached: true
-  - title: "UK and Australian regulators launch probe into Clearview AI"
-    excerpt: "The UK and Australian information commissioners have announced a joint probe into controversial facial recognition company Clearview AI, whose image-scraping tool has been used by hundreds of police forces around the world."
-    publishedDateTime: 2020-07-09T11:48:00Z
-    webUrl: "https://www.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
-    ampWebUrl: "https://amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
+  - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
+    excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
+    publishedDateTime: 2020-07-10T02:19:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
     quality: 57
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F754162fc-b2f6-4a8a-9159-e85546d3ae09.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
     excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
@@ -458,6 +458,6 @@ related:
       domain: avpress.com
     quality: 19
 
-secured: "fVY8T/rieJbgzQgQuf2Y3HG1UguwmJjqSV7mXYO6sO1Fp+NjTXgpGFcx61xQl+DeSpicB4KKOFhXQ2wPAiK7w6aydP/ToRYhQn51KRAOnn2NCIWR1fXsAsTd5h7BB3Gj1c3hV2o2M5bNh9wXGk12PNf/6DdOyH2mCoPccE5BZv07l8QafhuzMS8Rlf/hiO8FSxBVmiJv2yS1c1NMrwgPqVIlB9otgAPn0/gtLUgAtI3q/SGQcg66TgsDkwEC7UYr++3e7fjd5QjJq0Pwd5H5ZS/W37yuiaQos4DlWT+FsdOgJu/12S37wR/v6K3AmRyV/CKBdw+L2KBGfav4384QkEhxsubkAAaUf5zuewgRE3PcV4ycVMq2AZV0UoE2/cE3JO3fq8yXnzkvMoI2E0TJLZVGEo9RecQ1ZJ9Qsh2qdnKyvJE+8BUXqO7D2aYYhIJ1Ikz5+WAtWrsDbHrFnOgXMUOxdacuyv62465WUh6RHCFSLgG3ZFO8129weN8b3MwH4oraIcTkXm/z4bakm4m4qg==;m48wSbIFYPSrpMSQ3GolMg=="
+secured: "/vHsQUo+t8EN4UwYJQ72SxFKZ7fHz4BnLgqJeO43/YcW7unhtcW6jKU/ELhS6nPZY4TyjNmJ91hIttpkRwpm3zciGJxQnoNNDaQp1hAg1DqRwFij3GGyF0tq8ecbrUXbUH63gnb2T1YC0qNBEnoZo6g1KwsXQOUX18TziO0Orp+tc4MjQNOz9/CbPW8N2eUWwJXy+bvo7VQ8BbVd0c7KpOb/jU7p/g4Wea6mepLkdhaEm5/OL9zViStwxm2MJnqjSEcJyFiXDkOFU9rN/kzBTRPXbjEHddhTsrfWcxQ9wrZlU2pfbE0OyUeyx0y7fyY8jXeH6jfkYvX8hHLp9llK4A==;0L7SMJnCiAb7amKlmUHBHA=="
 ---
 

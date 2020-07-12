@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T23:46:00Z
 webUrl: "https://www.businesswire.com/news/home/20200709005928/en/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon CodeGuru"
-    excerpt: "AWS announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning. It provides intelligent recommendations for improving code quality and identifying an application's most expensive lines of code."
-    publishedDateTime: 2020-07-07T11:16:00Z
-    webUrl: "https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 54
-    images:
-      - url: "https://res.infoq.com/news/2020/07/aws-amazon-codeguru-ga/en/headerimage/amazon-codeguru-development-cycle-1593945352149.jpeg"
-        width: 1024
-        height: 469
-        isCached: true
   - title: "AWS Announces General Availability of AWS IoT SiteWise; Dirk Didascalou, Dr. Roy Sauer Quoted"
     excerpt: "Amazon Web Services (AWS) has announced the general availability of AWS IoT SiteWise, a managed service that collects data from the plant floor, structures and labels the data and generates real-time key performance indicators (KPIs) to help industrial customers make data-driven decisions,"
     publishedDateTime: 2020-07-10T20:57:00Z

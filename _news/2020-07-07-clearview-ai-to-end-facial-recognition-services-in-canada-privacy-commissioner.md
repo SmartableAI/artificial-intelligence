@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Troubled facial recognition startup Clearview AI pulls out of Canada ⁠— before it was pushed"
-    excerpt: "Dystopian surveillance firm Clearview AI has stopped offering its facial recognition service in Canada, the government's privacy watchdog has announced."
-    publishedDateTime: 2020-07-07T11:34:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/07/troubled-facial-recognition-startup-clearview-ai-pulls-out-of-canada-before-it-was-pushed/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 93
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-97-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Australia and the UK open joint investigation of Clearview AI"
     excerpt: "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,"
     publishedDateTime: 2020-07-09T14:51:00Z
@@ -227,6 +211,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_facialrecognition_122019_getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "UK and Australian regulators launch probe into Clearview AI"
+    excerpt: "The UK and Australian information commissioners have announced a joint probe into controversial facial recognition company Clearview AI, whose image-scraping tool has been used by hundreds of police forces around the world."
+    publishedDateTime: 2020-07-09T11:48:00Z
+    webUrl: "https://www.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
+    ampWebUrl: "https://amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F754162fc-b2f6-4a8a-9159-e85546d3ae09.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
     excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
