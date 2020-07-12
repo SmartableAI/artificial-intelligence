@@ -2,6 +2,56 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer.md",
+      "title": "Lyft details how it's going to make self-driving cars safer",
+      "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F71f7b8b0-b52c-11ea-bfde-95534e1b930b&client=amp-blogside-v2&signature=7aea62f88da4d147a2e9b5531fd0e4915575118a",
+          "width": 600,
+          "height": 350,
+          "title": "Lyft details how it's going to make self-driving cars safer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
+      "publishedDateTime": "2020-06-23T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-microsoft-to-acquire-cyberx-to-bolster-azure-iot-security.md",
       "title": "Microsoft to acquire CyberX to bolster Azure IoT security",
       "excerpt": "Microsoft has announced it will purchase the industrially focused network security vendor CyberX for an undisclosed sum in an effort to bolster the security capabilities of its Azure IoT platform. The acquisition strikes at the heart of two key IIoT security pain points.",
@@ -671,19 +721,19 @@
     {
       "path": "_news/2020-06-23-amazon-web-services-joins-efforts-to-protect-biodiversity.md",
       "title": "Amazon Web Services joins efforts to protect biodiversity",
-      "excerpt": "Amazon Web Services, Inc., an Amazon.com company, has announced collaboration with the World Wildlife Fund for Nature Indonesia (WWF-Indonesia) to accelerate efforts to save critically endangered orangutans in Indonesia.",
+      "excerpt": "Education, Research, Healthcare, and Nonprofit Organizations, Asia-Pacific, Worldwide Public Sector, Amazon Web Services Aria Nagasastra, director of Finance and Administration, WWF-Indonesia How can",
       "sourceUrl": null,
-      "webUrl": "https://www.vir.com.vn/amazon-web-services-joins-efforts-to-protect-biodiversity-77222.html",
+      "webUrl": "https://vietreader.com/news/1950-amazon-web-services-joins-efforts-to-protect-biodiversity.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.vir.com.vn/stores/news_dataimages/bichthuy/062020/22/14/in_article/croped/1833_Young_orang_utan_Jambi_Sumatra_Indonesia_FletcherBaylis.jpg?randTime=1594260046",
-          "width": 850,
-          "height": 546,
-          "title": "Amazon Web Services joins efforts to protect biodiversity",
+          "url": "https://cdn.vietreader.com/uploads/posts/2020-06/amazon-web-services-joins-efforts-to-protect-biodiversity-1.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
@@ -691,11 +741,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T22:38:00-07:00",
+      "publishedDateTime": "2020-06-22T22:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Vietnam Investment Reviev",
-        "domain": "vir.com.vn",
+        "name": "vietreader.com",
+        "domain": "vietreader.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1292,38 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-ai-and-computer-vision-drive-fleet-safety.md",
-      "title": "AI and Computer Vision Drive Fleet Safety",
-      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/204889/ai-and-computer-vision-drive-fleet-safety",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

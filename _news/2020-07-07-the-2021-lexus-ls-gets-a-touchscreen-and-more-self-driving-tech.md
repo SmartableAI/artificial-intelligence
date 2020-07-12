@@ -27,20 +27,6 @@ images:
     title: "The 2021 Lexus LS Gets A Touchscreen And More Self-Driving Tech"
 
 related:
-  - title: "2021 Lexus LS arrives with new looks, self-driving tech"
-    excerpt: "The latest Lexus LS will introduce a self-driving system capable of handling highways, from the on-ramp to the off-ramp."
-    publishedDateTime: 2020-07-07T10:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1034652_2021-lexus-ls-review-price-photos-specs-info"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/lexus-ls_100751064_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "2021 Lexus LS gets a facelift and self-driving tech"
     excerpt: "On the outside there are some small subtle styling changes, plus the updated 2021 Lexus LS also gets new self-driving tech."
     publishedDateTime: 2020-07-07T13:18:00Z

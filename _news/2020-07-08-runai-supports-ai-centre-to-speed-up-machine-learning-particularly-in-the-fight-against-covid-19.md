@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19"
-excerpt: "Run:AI ensures that the AI Centre's data scientists can get the full use out of their hardware, guaranteeing that GPU (Graphics Processing Unit) resources are efficiently and elastically allocated to teams that need them. This enables the AI Centre to run ..."
-publishedDateTime: 2020-07-08T00:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
+excerpt: "AI, a company virtualizing AI infrastructure, today announced that it is working with the London Medical Imaging & Artificial"
+publishedDateTime: 2020-07-08T13:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     height: 315
     isCached: true
 
-related:
-  - title: "AI helps British research center use machine learning to fight COVID-19"
-    excerpt: "Using the Israeli company's technology, the center can now conduct more experiments, utilize resources more efficiently, and speed up completion of data science models"
-    publishedDateTime: 2020-07-09T15:27:00Z
-    webUrl: "https://www.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506"
-    ampWebUrl: "https://m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 76
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "Walter Reed Scientists Use Artificial Intelligence to Screen Drugs to Potentially Treat COVID-19"
-    excerpt: "The Experimental Therapeutics Branch accelerated its research by turning to machine learning, AI and high-performance computing."
-    publishedDateTime: 2020-07-09T19:57:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/walter-reed-scientists-use-artificial-intelligence-screen-drugs-potentially-treat-covid-19/166774/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 24
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/09/NGcorona20200709/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "SY+lV2dk3kchBkI2lFK3BTtIOjnXvZRjzedCx+rvXSrB7zk3zgZwbY4Fmk57Y2zlZvVJqtCDBuYN3F3/zQbkrOxPwfY9RQDqaw1ZTuQHtD5yQDSLCbP/Db2qtySJm2pNnNP0FfbRsFUPIASf58zepmn4YYoueiLLPw7PuRZi6QZC4E1H2GrN6DxorbA6VUTiPP33r9jOKGgV+T0iXqTMjfW28bCUHFtOaFlcUsUQ2aZwR55vJ4I0Z0zlnO4NTIXG3wPsoaKF6/MFz/FoOsU2ThB3cX2OEEJ+iif90A4bas/OT+2ds7mc2cR++0Lsq89/lp5/8hsH36Tb31oNqXvP4g==;qPqH7GFVUVpqBfDAE1bg/g=="
+secured: "HjbBAJl/w7uzZblKbDj09mKk4O3eNYZu+abEbJYFBGtLKJmKPi123EDBcOKxQcI0FgzpalDMAzqGdpjVdF2S6WUPxPmZx1PL0Ny8OuBYjvJabMsW3GVhVqvdp8GH1HRBIIdLPAfpG6jEraSgAHDOjFRRPT8w/NAbAYxFVexcX382ziV0boSVa7wawOhnoh80CHRlApzs0/jDK+meqw5GS8KFUn6eAOHbbU2fhz6FILMm0iH1b46chp4C+rM34mwtnhgWihG6gMood9afEUqxS5s58WPamzr80H2SuyOgkF4qOQIssWcRCcuAhfUcIXQc4o6nW9GT5ZvzlJXRydQfVw==;x0PJFHbz2BDC+TnGkA7psQ=="
 ---
 

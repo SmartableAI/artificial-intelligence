@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-11T23:26:00Z
 webUrl: "https://www.chinadaily.com.cn/a/202007/12/WS5f0a4aa5a310834817258c9e.html"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "£1m project to assess motorways for self-driving vehicles"
-    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
-    publishedDateTime: 2020-07-07T09:29:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
+  - title: "CTA Study Shows Consumer Excitement For Drones Self-Driving Vehicles Has Grown Amid Pandemic"
+    excerpt: "CTA survey data shows these emerging technologies are playing an important role in delivering essential groceries, household items and medical supplies."
+    publishedDateTime: 2020-07-07T20:35:00Z
+    webUrl: "https://www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic"
+    ampWebUrl: "https://www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic?amp"
+    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic?amp"
     type: article
     provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
+      name: Twice
+      domain: twice.com
+    quality: 33
     images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.twice.com/wp-content/uploads/2019/11/amazon-drone.jpg"
+        width: 474
+        height: 351
         isCached: true
   - title: "Russia’s top brass to prioritize using self-driving vehicles in Arctic"
     excerpt: "In April, the Kamaz truck maker held successful trials of self-driving trucks in the Polar region, according to the head of the Khrulyov Military Logistics Academy"

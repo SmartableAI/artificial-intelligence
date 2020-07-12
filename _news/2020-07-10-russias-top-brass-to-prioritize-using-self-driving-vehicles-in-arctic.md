@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "£1m project to assess motorways for self-driving vehicles"
-    excerpt: "Highways England and Loughborough University project will look at the challenges connected and autonomous vehicles (CAVs) could face on motorways."
-    publishedDateTime: 2020-07-07T09:29:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/latest-fleet-news/connected-fleet/2020/07/07/1m-project-to-assess-motorways-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 44
-    images:
-      - url: "https://cdn.fleetnews.co.uk/web/1/root/istock-980117574_w1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Shanghai designates downtown open road for self-driving vehicles testing"
     excerpt: "This is the first open road for self-driving vehicle testing in downtown area of a megacity in China. Shanghai had previously designated several open test roads in Jiading, Lingang and Fengxian areas in the suburbs."
     publishedDateTime: 2020-07-11T23:26:00Z
@@ -49,6 +33,22 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202007/12/5f0a57dca3108348fcdca635.jpeg"
         width: 719
         height: 479
+        isCached: true
+  - title: "CTA Study Shows Consumer Excitement For Drones Self-Driving Vehicles Has Grown Amid Pandemic"
+    excerpt: "CTA survey data shows these emerging technologies are playing an important role in delivering essential groceries, household items and medical supplies."
+    publishedDateTime: 2020-07-07T20:35:00Z
+    webUrl: "https://www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic"
+    ampWebUrl: "https://www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic?amp"
+    cdnAmpWebUrl: "https://www-twice-com.cdn.ampproject.org/c/s/www.twice.com/industry/cea/cta-study-shows-consumer-excitement-for-drones-self-driving-vehicles-has-grown-amid-pandemic?amp"
+    type: article
+    provider:
+      name: Twice
+      domain: twice.com
+    quality: 33
+    images:
+      - url: "https://www.twice.com/wp-content/uploads/2019/11/amazon-drone.jpg"
+        width: 474
+        height: 351
         isCached: true
 
 secured: "OLjFQtR6CUxO0eXmF6uRf52qfpDmidWNG3XZK3ZQw7ufp5UtzIG5mbHgKa68W5nW/48WIPwz8SSq79CLHESlvhiCh1u9cSyM0PiaP21TyIbXJTTAkecD/z3Cxf+0Viec+7H6nKC16rDb0dYrNIXKKJcKxncMMrfDcmcp8F1a6ECAINyTkXFggEdQPyTPMvJYqq19BMNAFsoWiSD/i1nEualLQB+0XFgS15qem9qkDNufr2c62Nq6cPsOmkrP3zda51sYNVIkXpyC5GHavmLJn+Jpg0gjBYPqvpYE7Jpon3NSD5+H3tbm9fIHTNlCjvOGQtRBARGXM+CGXFaqZzRiyQ==;K8zYiEyG6qDW64/SwwD6HQ=="

@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Computing Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-07-07T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Solutions Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029"
     excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence Solutions Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
     publishedDateTime: 2020-07-09T07:06:00Z

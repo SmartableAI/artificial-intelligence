@@ -2,47 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-07-10-iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired.md",
-      "title": "IISc research team designs eye gaze-controlled robotic arm for speech and motor impaired",
-      "excerpt": "An Indian Institute of Science (IISc) research team has designed a robotic arm that can be manipulated by eye movement using a computer interface, to help people with Severe Speech and Motor Impairment (SSMI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/7/2020_7$largeimg_580339199.jpg",
-          "width": 900,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
-      "publishedDateTime": "2020-07-10T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-10-this-company-utilizes-ai-to-maximize-customer-acquisition.md",
       "title": "This Company Utilizes AI to Maximize Customer Acquisition",
       "excerpt": "To truly scale your business, you need to gather your own customer data and discover how to personalize it to acquire new customers and turn existing customers into lifetime ones. That's easier said than done.",
@@ -712,7 +671,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1143,7 +1102,7 @@
       "webUrl": "https://www.jpost.com/cybertech/ai-helps-british-research-center-use-machine-learning-to-fight-covid-19-634506",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1175,6 +1134,48 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
+      "title": "Artificial Intelligence: The Case for Regulation",
+      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
+      "sourceUrl": null,
+      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
+          "width": 850,
+          "height": 477,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
+      "publishedDateTime": "2020-07-09T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cherwell Online",
+        "domain": "cherwell.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

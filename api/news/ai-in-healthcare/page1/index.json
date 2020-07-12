@@ -685,6 +685,47 @@
       ]
     },
     {
+      "path": "_news/2020-06-26-do-mental-health-chatbots-work.md",
+      "title": "Do Mental Health Chatbots Work?",
+      "excerpt": "It could, however, work as a great tool to use in conjunction with other forms of therapy. DB: Next, I moved on to the options that are centered on real-life (versus artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health/mental-health/chatbots-reviews",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthline.com/hlcmsresource/images/July-18/8054-Mental_Health_Chat_Bots-1200x628-Facebook.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-artificial-intelligence-set-to-dominate-operating-rooms-by-2024.md",
       "title": "Artificial Intelligence Set To Dominate Operating Rooms By 2024",
       "excerpt": "In less than five years, this new study from Frost & Sullivan says that artificial intelligence will dominate operating rooms.",
@@ -1315,38 +1356,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.md",
-      "title": "Medtronic’s MiniMed 780G with Artificial Pancreas Capabilities Cleared in EU",
-      "excerpt": "Medtronic won the EU CE Mark for its MiniMed 780G closed loop insulin pump that features both Medtronic’s own SmartGuard algorithm and MD-Logic, an algorithm developed by DreaMed Diabetes, a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2020/06/medtronics-minimed-780g-with-artificial-pancreas-capabilities-cleared-in-eu.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

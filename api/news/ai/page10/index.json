@@ -2,56 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
-      "title": "New robot technology to fight Covid care isolation",
-      "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-scotland-53241556",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10AA/production/_113166240_robot2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "New robot technology to fight Covid care isolation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-scotland-53241556",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-53241556",
-      "publishedDateTime": "2020-06-30T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-ethics-and-ai-an-unethical-optimization-principle.md",
       "title": "Ethics and AI: An unethical optimization principle",
       "excerpt": "EPFL professor Anthony Davison and co-authors provide a mathematical basis for concerns about ethical implications of AI.",
@@ -1397,6 +1347,56 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-refraction-ais-robots-start-delivering-groceries-in-ann-arbor.md",
+      "title": "Refraction AI’s robots start delivering groceries in Ann Arbor",
+      "excerpt": "Refraction AI, a startup based in Ann Arbor, has launched an autonomous delivery pilot for customers of the local Produce Station.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/20200424_120944-scaled-e1593206157534.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Refraction AI’s robots start delivering groceries in Ann Arbor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/refraction-ais-autonomous-robots-begin-delivering-groceries-in-ann-arbor/amp/",
+      "publishedDateTime": "2020-06-30T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

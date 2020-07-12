@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T18:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
 type: article
 quality: 72
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Computing Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-07-07T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-computing-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

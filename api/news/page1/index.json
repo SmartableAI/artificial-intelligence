@@ -1178,43 +1178,34 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-facebook-ai-could-fix-one-of-the-most-annoying-problems-in-video-chat-apps.md",
-      "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
-      "excerpt": "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously.",
+      "path": "_news/2020-07-10-iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired.md",
+      "title": "IISc research team designs eye gaze-controlled robotic arm for speech and motor impaired",
+      "excerpt": "An Indian Institute of Science (IISc) research team has designed a robotic arm that can be manipulated by eye movement using a computer interface, to help people with Severe Speech and Motor Impairment (SSMI).",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=8&itm_content=2x4&itm_term=2356592",
+      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/7/2020_7$largeimg_580339199.jpg",
+          "width": 900,
+          "height": 674,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
-      "publishedDateTime": "2020-07-10T06:08:00-07:00",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
+      "publishedDateTime": "2020-07-10T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1223,7 +1214,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI"
       ]
     }
