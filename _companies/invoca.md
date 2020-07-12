@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4538
+  followers: 4540
 
 size: 201-500 employees
 yearFounded: 2008
