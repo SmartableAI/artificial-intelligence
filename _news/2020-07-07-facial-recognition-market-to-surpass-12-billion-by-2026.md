@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.cmswire.com/-/media/c69643c040bc4478a19763dc26a5d324.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
-    excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
-    publishedDateTime: 2020-07-07T16:28:00Z
-    webUrl: "https://www.biometricupdate.com/202007/global-biometric-facial-recognition-market-to-top-12b-by-2026-on-public-security-retail-growth"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02110721/safr-realnetworks-real-time-biometric-facial-recognition.jpg"
-        width: 1560
-        height: 1025
         isCached: true
   - title: "Facial Recognition Is Here But We Have No Laws"
     excerpt: "Americans have also gotten a look at a more insidious police capability: facial recognition systems with the ability to identify faces in a crowd and track people as they move through the world. As devotees of any police procedural drama will know,"

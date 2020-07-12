@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sophiagenetics"
   url: "https://twitter.com/sophiagenetics"
-  followers: 21393
+  followers: 21390
 
 size: 201-500 employees
 yearFounded: 2011

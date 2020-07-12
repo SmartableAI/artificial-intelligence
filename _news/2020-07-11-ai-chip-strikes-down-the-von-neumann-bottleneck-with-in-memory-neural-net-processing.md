@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-11T01:02:00Z
 webUrl: "https://www.allaboutcircuits.com/news/ai-chip-strikes-down-von-neumann-bottleneck-in-memory-neural-network-processing/"
 type: article
 quality: 49
-heat: 49
+heat: 59
 published: false
 
 provider:

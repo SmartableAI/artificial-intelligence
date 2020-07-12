@@ -7,8 +7,8 @@ webUrl: "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-
 ampWebUrl: "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/"
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Finance
   - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg"

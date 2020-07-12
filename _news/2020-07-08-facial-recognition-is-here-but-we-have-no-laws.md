@@ -69,20 +69,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Global biometric facial recognition market to top $12B by 2026 on public security, retail growth"
-    excerpt: "Biometric facial recognition is poised for major growth on demand for the high accuracy of 3D imaging and public security concerns, and is forecast by Global Market Insights to grow from just over"
-    publishedDateTime: 2020-07-07T16:28:00Z
-    webUrl: "https://www.biometricupdate.com/202007/global-biometric-facial-recognition-market-to-top-12b-by-2026-on-public-security-retail-growth"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/12/02110721/safr-realnetworks-real-time-biometric-facial-recognition.jpg"
-        width: 1560
-        height: 1025
-        isCached: true
   - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
     excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
     publishedDateTime: 2020-07-09T22:16:00Z

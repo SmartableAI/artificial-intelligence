@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2088540/artificial-intelligence-in-constr
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2088540/artificial-intelligence-in-construction-market-growth"
 type: article
 quality: 49
-heat: 49
+heat: 59
 published: false
 
 provider:

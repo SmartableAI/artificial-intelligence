@@ -3,9 +3,9 @@ category: news
 title: "Nvidia boosts virtual GPU support to help home workers"
 excerpt: "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,"
 publishedDateTime: 2020-07-01T00:13:00Z
-webUrl: "https://www.techradar.com/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
-ampWebUrl: "https://www.techradar.com/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+webUrl: "https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+ampWebUrl: "https://www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 629
     isCached: true
 
-secured: "1IG14cD/L30HPj27O0kAEfDgYnWQETdTPCHfO6sXScT7uEc/39AoxQC14c7aMvSh1qLt1DPpr6MdvkPB9XqPOkfqMlKMr0JVz4JwbIPIowhmSkb135YOGdmKUDwojA4bPMKKDvzNT1KvQdTggI41aRvnUV0qSR8mr7uPsIp9T/qRKIrV7xeiyRi2hHi7LtfzuuzcJ4SS2arnaUm5CqHvRBRpLHAOy4c/plSXNZYW4QpTgFQDpDaduEm69s3NQHaOcmANluJ4bY9AzaVpU7o6yVzowQTCwapkmrSJr/O0nJD6pUyqavQC/359OvhxEMSV6ed9Ps23RRpiLMz84MH6Hw==;lNVjoWLiqWxqRDdti2RrCg=="
+secured: "1k5K3EYeOJHgQ8DRdhPkyXWiyYzH8L7HgtxeR7CjYMEsxaUF1+gEo2lLkUCaYP8BcdQAdIBSjZsPw7JZLglPptd5To+aFKmS0dv3EalecuitHaMbVBXcQBKUY0CoRNDPRtOOYRVhOELA7EPmiGxt0S1sM6ypGuZbfy2RMng9clHb/2Tk+76V4o3ZyPeu8fjOknPikD8L0GVeS0B9SW/7g3X2cET0Wsafq6POW9IKweaVw22WrgOcThTcDg23TwpkSwxY6T5XIXQD+ZGY8LhcL+QMLQcWBzua19hjyTZQGnQ+0bySk0YGtWYDFbZuzwHB82pmRFGNtkPANMZCCpQJ2w==;oRzF6yiV/HvK8dWbUWInNQ=="
 ---
 

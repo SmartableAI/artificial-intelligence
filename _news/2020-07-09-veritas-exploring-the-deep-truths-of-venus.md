@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-07-veritas-exploring-deep-truths-venus.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-veritas-exploring-deep-truths-venus.amp"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

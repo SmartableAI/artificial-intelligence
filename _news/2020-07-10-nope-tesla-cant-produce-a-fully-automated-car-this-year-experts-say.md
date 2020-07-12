@@ -8,7 +8,7 @@ ampWebUrl: "https://www.deccanchronicle.com/amp/technology/in-other-news/100720/
 cdnAmpWebUrl: "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/100720/nope-tesla-cant-produce-a-fully-automated-car-this-year-experts-s.html"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:
