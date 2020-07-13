@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-york-city-public-schools-wi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "NYC mayor: Schools will reopen in fall with hybrid learning"
-    excerpt: "Most New York City students will return to their physical schools two or three days a week and learn online the rest of the time under a plan announced Wednesday by Mayor Bill de Blasio, who said schools can’t accommodate all their students at any one time and maintain safe social distancing."
-    publishedDateTime: 2020-07-09T01:35:00Z
-    webUrl: "https://www.bostonglobe.com/news/nation/2020/07/08/nyc-mayor-schools-will-reopen-fall-with-hybrid-learning/nWCuiJq0epOMudrMrvV8lN/story.html"
-    ampWebUrl: "https://www.bostonglobe.com/news/nation/2020/07/08/nyc-mayor-schools-will-reopen-fall-with-hybrid-learning/nWCuiJq0epOMudrMrvV8lN/story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/news/nation/2020/07/08/nyc-mayor-schools-will-reopen-fall-with-hybrid-learning/nWCuiJq0epOMudrMrvV8lN/story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 24
 
 secured: "qpwp6tUAwU/M6nIV3sY1hrs5xw9xRqNlzGrK5/4iHa61JZ+Gei2Cx1sXJu3LsfixcMpQfm90vPUXbb0HlveQERzL74OD32S/W4zYwFOVEE646W3m98//NxZA6CLz7jVxrTznOr++dJWsCTyMoHwufxWKJD+UB0cXNZZ9kyCbRk5vM+v49772Zbele/c+WEKnJF3OEyMR8esNLd5Ud4zUUKRXKkUq0zTXO3LP+eHmOxaLi2FaYzWyqqXXuUaBvOXZz+hddf8tRtLQccgTati2qhXuO8EmjqPxjsra/jaglLFy2CHQhYzFTAHVwtU6UhzoS6Q+FGltjJw+yCHLoLIu8g==;bi2AMJ7KIFAVvtYeHSeIdA=="
 ---

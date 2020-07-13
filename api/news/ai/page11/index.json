@@ -2,6 +2,97 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
+      "title": "Lyft’s driverless cars are back on the streets of California",
+      "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "publishedDateTime": "2020-06-30T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-kaggle-where-data-scientists-learn-and-compete.md",
+      "title": "Kaggle: Where data scientists learn and compete",
+      "excerpt": "Data science is typically more of an art than a science, despite the name. You start with dirty data and an old statistical predictive model and try to do better with machine learning. Nobody ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.amp.html",
+      "publishedDateTime": "2020-06-30T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-nasa-funds-small-business-ideas-ranging-from-ai-medicine-to-plumbing-for-the-moon.md",
       "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
       "excerpt": "NASA says it’ll fund more than 400 ideas from small businesses, ranging from plumbing fixtures suitable for the moon to AI-based medical assistants.",
@@ -1313,97 +1404,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-new-legislation-required-to-secure-us-semiconductor-leadership.md",
-      "title": "New legislation required to secure US semiconductor leadership",
-      "excerpt": "The U.S. needs aggressive public-private collaboration to ensure it continues to lead in a foundational technology it originally developed.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/dhs_computerchip_thinkstock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "New legislation required to secure US semiconductor leadership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership?amp",
-      "publishedDateTime": "2020-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-boris-johnson-economy-speech-fact-checked.md",
-      "title": "Boris Johnson: Economy speech fact-checked",
-      "excerpt": "Boris Johnson compared his plan with former US President Franklin Delano Roosevelt's New Deal. Reality Check has taken a closer look at some of the announcements: Boris Johnson said: \"It sounds like a New",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/53236921",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/85D0/production/_113165243_0c060e20-65f6-43bc-baf1-ece77fcc1a24.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Boris Johnson: Economy speech fact-checked",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/53236921",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/53236921",
-      "publishedDateTime": "2020-06-30T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

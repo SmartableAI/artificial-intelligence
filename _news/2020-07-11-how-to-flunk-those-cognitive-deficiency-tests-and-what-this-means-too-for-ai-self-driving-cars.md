@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-11T15:40:00Z
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/11/how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Forbes
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
-    publishedDateTime: 2020-07-09T02:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-self-driving-car-stocks-to-buy-for-the-long-haul-1029377121"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Here’s what one startup does when its self-driving cars get stuck"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
     publishedDateTime: 2020-07-11T13:00:00Z

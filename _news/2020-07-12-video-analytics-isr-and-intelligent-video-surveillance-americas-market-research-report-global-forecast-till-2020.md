@@ -56,15 +56,20 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets"
-    excerpt: "Driverless tractors are quickly taking over farms for ... thereby leading to the growth of the agricultural robots market in the Americas. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and Predictive ..."
-    publishedDateTime: 2020-07-13T13:34:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-07/50157755-agricultural-robots-market-worth-dollar-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
+  - title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Agricultural Robots Market with COVID-19 Impact Analysis by Offering Type (UAVs, Milking"
+    publishedDateTime: 2020-07-13T13:32:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-tm--832317287.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "2R5vHCL84vRTK0Dbr3g413GMIerIq9XdTeo7PNkcTDUaXicmti1VbCM4xPz3Vcr5jciW3ebEehv3llM/HC1bcFPs5tPl+CIEcJ5xXQh3UZtX/oprsRtRVmF2HYtRKMps5DVWd2Xk1vv3vt+ssh+I3moruDZe/kdl6lJIM6yUX5Y6IqjySfjK7lD6Iuvv4ys2c2CM0q0aIF0IVq/QBDH9lKEAyzJJLkzRI7ERtVvzCguy1YwBCf4zSg3csidxaHowgg9I35PDNezOuv4bvenA9D5c6tR3i9OI+3aIJd3/QnjozBRbFqE10w+FTl/nhSNCCNp3q4sm/zqnFXpn6D4PHQ==;j7uuZRf9kSRKD+5W7ucTPA=="
 ---

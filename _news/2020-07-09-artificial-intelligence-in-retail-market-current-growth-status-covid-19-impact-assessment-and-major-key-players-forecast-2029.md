@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T05:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Solutions Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029"
+    excerpt: "After a thorough study on the international Artificial Intelligence Solutions Market income and loss, the Artificial Intelligence Solutions Market specific out the supply-demand, business escalation,"
+    publishedDateTime: 2020-07-09T07:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

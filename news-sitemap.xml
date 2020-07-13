@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv/</loc>
+    <lastmod>2020-07-13T11:40:33-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/</loc>
     <lastmod>2020-07-13T10:38:35-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -165,12 +171,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/</loc>
     <lastmod>2020-07-11T08:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/11/how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars/</loc>
-    <lastmod>2020-07-11T08:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -739,6 +739,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/</loc>
+    <lastmod>2020-07-08T06:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/</loc>
     <lastmod>2020-07-08T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -831,6 +837,12 @@
   <url>
     <loc>https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx</loc>
     <lastmod>2020-07-07T18:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia-2020-07-07</loc>
+    <lastmod>2020-07-07T18:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1057,6 +1069,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1083,12 +1101,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
-    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2371,8 +2383,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839?bulletin=mtbulletin</loc>
-    <lastmod>2020-06-29T01:20:00-07:00</lastmod>
+    <loc>https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839</loc>
+    <lastmod>2020-06-29T01:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

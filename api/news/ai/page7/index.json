@@ -2,25 +2,43 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
+      "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+      "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06",
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef74817accb250006e7ba56%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06",
-      "publishedDateTime": "2020-07-06T09:29:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
+      "publishedDateTime": "2020-07-06T09:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -29,7 +47,97 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest.md",
+      "title": "Self-Driving Cars Just Took a Big Leap Forward (Here’s How to Invest)",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips Source: Shutterstock When Amazon (NASDAQ:AMZN) drops over a billion dollars",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600e.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
+      "publishedDateTime": "2020-07-06T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
+      "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
+      "excerpt": "Stock quotes by finanzen.net SAN JOSE, Calif., July 6, 2020 /PRNewswire/ -- Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the floor,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "publishedDateTime": "2020-07-06T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1264,97 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire.md",
-      "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
-      "excerpt": "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579500%2Fhand-holding-trophy-sticking-out-of-pile-of-money.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 883,
-          "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
-      "publishedDateTime": "2020-07-05T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-05-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-09.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT)’s stock price was up 0.9% on Friday . The company traded as high as $36.35 and last traded at $36.25, approximately 8,200 shares changed hands during trading.",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html/amp",
-      "publishedDateTime": "2020-07-05T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

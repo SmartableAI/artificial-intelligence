@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T18:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
 type: article
 quality: 72
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Solutions Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029"
-    excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence Solutions Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
-    publishedDateTime: 2020-07-09T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

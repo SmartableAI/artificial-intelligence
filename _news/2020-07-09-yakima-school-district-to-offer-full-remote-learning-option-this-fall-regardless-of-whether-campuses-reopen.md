@@ -42,17 +42,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "NYC mayor: Schools will reopen in fall with hybrid learning"
-    excerpt: "Most New York City students will return to their physical schools two or three days a week and learn online the rest of the time under a plan announced Wednesday by Mayor Bill de Blasio, who said schools can’t accommodate all their students at any one time and maintain safe social distancing."
-    publishedDateTime: 2020-07-09T01:35:00Z
-    webUrl: "https://www.bostonglobe.com/news/nation/2020/07/08/nyc-mayor-schools-will-reopen-fall-with-hybrid-learning/nWCuiJq0epOMudrMrvV8lN/story.html"
-    ampWebUrl: "https://www.bostonglobe.com/news/nation/2020/07/08/nyc-mayor-schools-will-reopen-fall-with-hybrid-learning/nWCuiJq0epOMudrMrvV8lN/story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/news/nation/2020/07/08/nyc-mayor-schools-will-reopen-fall-with-hybrid-learning/nWCuiJq0epOMudrMrvV8lN/story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 24
 
 secured: "3Yhz5DN4w3QQ+LX6rjFLxmD1jfDw3lUm3n+BAF5EHMN/nW9kAHL3fsbGpOcWpk6DjIT5vKh0ujwYDJ3vjHMgRYB7Vhs6R4fR9vQHSWPPs+ud7rQ3c/QIDd0J6Vgc0IHlSr+HewqIi0n7YKu0oWlET+OD9AxvzFOikSzAV3p3FkXyBgxqVqvzZJtjbI26t+rajfuVDSXH3dJ34KjXqhEulvTKUILfnVKcqxiyXTiYHRYm0+VTSANuQ1t67VCIiNEjOBSM5b9OhTthGeXmwB0FFUaWloZa1tNnVQfFLjBzbxzlkmlYdpTFS8ZyR/ngKpzV13cuFuTfC3mTpnhtDgG41jQQYwQig1B0I/ghjsMNI8KKPG5YOto5+70ostMq+1ceq8zbY0qfIqgOZS1L/yyY1re/jRQxNdguj/BI14NIHDoBXZ3AuHKQ3pBuCod/oPrWeejI17n1Nlt4n0xTLP8RDw4vQvTsJdpMbSIczRKY8UUs2wdgXBbUXPjP68I+5Jp82u0tmaUJhEzCcF9tAP60jA==;ZZ/2kFwzqyKhwicwRLycZg=="
 ---

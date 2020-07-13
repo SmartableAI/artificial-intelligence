@@ -1,9 +1,9 @@
 ---
 category: news
 title: "35 Women Under 35 2020: Britain's brightest young business leaders"
-excerpt: "It all started with the annual 35 Women Under 35 list, unearthing new female role models and spotlighting the contribution of Britain’s young businesswomen - whose voices were still being largely ignored in the media."
-publishedDateTime: 2020-06-29T08:20:00Z
-webUrl: "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839?bulletin=mtbulletin"
+excerpt: "Bajela is also an advocate for female entrepreneurship and a Shaper for the World Economic Forum. Abbie Bates, director of people & culture, DeepMind – 31 Since joining DeepMind in 2017, Bates has risen up the ranks of the Google-owned AI research ..."
+publishedDateTime: 2020-06-29T08:15:00Z
+webUrl: "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 588
     isCached: true
 
-secured: "cK1T8tYu8EA/CGsVPqwifDHqT8BCoJiKh/rJXLhareudkGzav+8O+9hXaWCUl6BIg5zfKLDV//68qLU0BmWS0urcPVlzIGhDM3kf1U1EWtf6KXFKyiDiuTvBEFvyTC56+I+YrVf195iRFDsovGwsaxW4uspBF25S7073bBjcHS8HAgvpJCMOB5BzzbQdQJOVsXINNfFYS2qNC+j7FSrQIn+bf79K0b65PHdsjJrhL4tyJiqjYJriDoHZ7qlzB5pPds3Zxa91nCCxmkOLG0ZILQqb/lw172bqVSau9nw5QAcaVZvis8AJWpghB7t9ufEGqqJwseoOoDCE50u2r/1rzDK5no9JSXGFuBB0jPfLVxTUgwMKltDpwlOEI6a2p7kAB28ef733Mdlct6UNVIHlPsjcPgoT2d8Tfv+nk1g7gu3ATEVAFcanmRJV9MRYOrMkg3e0bgs0yoRzYOOs4CzN/JOHAgJ/iV6P7sAX8xNf2PvNRb+JJu5XNjAWi9EZl0PA;2AZtFDACokEY+uaCTHVpbQ=="
+secured: "BG93jFfngVijtUUAUKIU+jTITlTM31d3bOAMCfsKcyQnw4cTt+UkzAkd5oX0x36EtMnqq+XXPGD35f3krhNpJNuW2XIESpQnwgAIgN+xBj1iKQuffpRuuIYISXBvj82cVpSkaf7DJ7njJG6bTm04lUd9B4gnrGNZeInsDZPB8TeN2kdc++MUVkfnzMaVgcsIvaYKvIpwTpns9ck2HsvCBObc/K19pJey4dnVH5vXjun2s6RSmZj1UsQWGySvlfjS7CoRit2JLjxo77bdCM+uV+t7qbts9HEaLgd1mTQPKy907dBuFUfnFkUMg6s3Z7vdYrgjYe3UCqZSGnZSerh1ZA==;X2ViM53GuE/kOp3HFAa5VA=="
 ---
 
