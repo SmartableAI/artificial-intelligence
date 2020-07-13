@@ -59,7 +59,7 @@
       "webUrl": "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -150,7 +150,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 152,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1034,7 +1034,7 @@
       "title": "Nvidia boosts virtual GPU support to help home workers",
       "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "webUrl": "https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1050,8 +1050,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "publishedDateTime": "2020-06-30T17:13:00-07:00",
       "updatedDateTime": null,
       "provider": {

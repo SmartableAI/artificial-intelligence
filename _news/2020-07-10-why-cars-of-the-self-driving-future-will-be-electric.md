@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self Driving Suite Ready by the End of 2020, Level 5 Autonomy Nears"
-    excerpt: "Even so, Elon Musk is confident his company is going to deliver a full self-driving module soon, capable of offering Level 5 autonomy (that's the one where you put your feet on the dashboard and pop up Netflix on the phone or the vehicle's display on your ..."
-    publishedDateTime: 2020-07-09T10:02:00Z
-    webUrl: "https://www.autoevolution.com/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826.html"
+  - title: "The Intersection Between Self-Driving Cars and Electric Cars"
+    excerpt: "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs. Electric vehicles have limited range, and the first self ..."
+    publishedDateTime: 2020-07-13T11:05:00Z
+    webUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/"
+    ampWebUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp"
     type: article
     provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/tesla-full-self-driving-suite-ready-by-the-end-of-2020-level-5-autonomy-nears-145826-7.jpg"
-        width: 728
-        height: 300
+      - url: "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg"
+        width: 1120
+        height: 747
         isCached: true
 
 secured: "qGanBp6q/UtU5PBNayFYsbpFlxaggWp4bcegZxkuqpO79obrw9rLK8w7gHyJn0x0eQJ7R8uv5K0ZDt24MKILSabTXyP6+/U3nWI1ZqL+rv4o5GTlmuLgm+maur9KaTijCKbY4J2AmvsI4ghaWZBaFtAd7BT86TWMlmEE0c7pOMhMsuH70CArh0LDU+XXo200h3cEqhYV9HHfoAMZ2AVrap3w/HxxRM2+a5kzSk+ND34MA67iA4HkUbxVfI80jwuK8k/wZ39re/uJozBXJF+5UxtuUYewtbelkcHVCkcjS/78C4SmsLR4HUYEGTg1khKgnK4ZjA8B17sVetBNn3QFzQ==;bmaGmdAlWtDIGW4JJt7Jug=="

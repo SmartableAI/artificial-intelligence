@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-faci
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -118,22 +118,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
-    excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
-    publishedDateTime: 2020-07-08T17:45:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VU25W3CILNCGFHXQXEQ4FFYWGA.JPG"
-        width: 1300
-        height: 867
         isCached: true
   - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
     excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"

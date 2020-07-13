@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "COVID-19 Impact Review: What to Expect AI in Hardware Industry in 2020? | Know the Challenges and Trend Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content."
+    publishedDateTime: 2020-07-13T10:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-what-to-expect-ai-in-hardware-industry-in-2020-know-the-challenges-and-trend-analysis-2020-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Military Market Current Growth Status, Major Key Players and Covid 19 Impact Assessment Forecast 2029"
     excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Military Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
     publishedDateTime: 2020-07-09T10:08:00Z

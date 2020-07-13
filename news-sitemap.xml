@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/tech/big-tech/article/3092969/robotics-start-cloudminds-returns-china-after-us-sanctions-hurt-its</loc>
+    <lastmod>2020-07-13T04:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
+    <lastmod>2020-07-13T04:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot</loc>
     <lastmod>2020-07-12T23:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -661,6 +673,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08</loc>
+    <lastmod>2020-07-08T05:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techspot.com/article/2048-machine-learning-explained/</loc>
     <lastmod>2020-07-08T04:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -955,6 +973,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -981,12 +1005,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
-    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1711,7 +1729,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

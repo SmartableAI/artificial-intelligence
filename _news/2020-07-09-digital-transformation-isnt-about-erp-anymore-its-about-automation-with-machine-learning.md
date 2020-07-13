@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-6.28.17-PM.png?w=1200&#038;strip=all"
         width: 1200
         height: 547
-        isCached: true
-  - title: "Digital Transformation Powered by Machine Learning"
-    excerpt: "Data science organizations face three common challenges as they operationalize and scale their machine learning models."
-    publishedDateTime: 2020-07-08T17:34:00Z
-    webUrl: "https://www.cio.com/article/3566029/digital-transformation-powered-by-machine-learning.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "YTR8ZoJY9WjZjOeDYoZIfqjbDRP1NG0MNH9Ld2m2vrpW3wUXSDhg/t2M+/+pFxTaQNAqwKGr51RrRoVbcp/JzVp9VlrstFrhMZvo4X195NcNhGl6JH8X6T6pmCYa5G7N2XjAGJ6WORPs0bPSUvStuSsfEvqZKd9e6ocIXtlzv4Cpwqt7LYyfcDwkz7a4POsNfbo3k0EwQwGe67icVZVa8tWRiLGmJ4Do2OMHt+9nwdeZfD073mOki5lUgn7W5Lo8vwhO8E7z8SJmqp+sHzMY24qGZxVs4SsQz0Jl3pqzUCj6/32fKEYqzGNxLRLZw5MJDUBjwQZHt2+tzXLklNS/7KHigxFTE5dFdPWtLgm7nDE9X93KNBAWUNSgQyZi/u2ZdBLTt1x9v24eln9KoW5h+8L/jsjkHdKQ8u0IPliRxD0VXWGvOYd/aYJ5tqZrOhFNaE8ldosGqmjVMmagQGiDi4BFD95tUf43Y6k9s954DLziyqOIwF/IKPMEe1ebPuOE;J6AGhBg8SDcboHnx2ZmShg=="

@@ -145,6 +145,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
+    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
+    publishedDateTime: 2020-07-13T11:49:00Z
+    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
+    ampWebUrl: "https://amp.abc.net.au/article/12451554"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 66
+    images:
+      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
+        width: 750
+        height: 420
+        isCached: true
   - title: "Facial Recognition App Clearview Faces Global Probe"
     excerpt: "Privacy regulators in Australia and the U.K announced a joint investigation into Clearview AI, the New York-based facial recognition software maker."
     publishedDateTime: 2020-07-09T16:34:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-m
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
     quality: 37
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/46ee9f91789537bf2df058e80337a7bc_L.jpg"
+        width: 620
+        height: 509
+        isCached: true
+  - title: "Boffins use AI to make your writing more polite"
+    excerpt: "Boffins at Carnegie Mellon University have devised a technique that's designed to automatically make written communication more polite. Rather than merely scanning text for politeness, as past ..."
+    publishedDateTime: 2020-07-13T11:11:00Z
+    webUrl: "https://fudzilla.com/news/ai/51165-boffins-us-ai-to-make-your-writing-more-polite"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://fudzilla.com/media/k2/items/cache/46ee9f91789537bf2df058e80337a7bc_L.jpg"
         width: 620
         height: 509
         isCached: true

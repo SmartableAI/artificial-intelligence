@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Digital Transformation Powered by Machine Learning"
-    excerpt: "Data science organizations face three common challenges as they operationalize and scale their machine learning models."
-    publishedDateTime: 2020-07-08T17:34:00Z
-    webUrl: "https://www.cio.com/article/3566029/digital-transformation-powered-by-machine-learning.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "TqGel1xf9tBcTjY6mGUlgsQ3XJtxXW9nB8NrQdwm9YsglpMF0rJXcLFLrk+7veWqAxw2zxEa+BpjSoUOAQPzCeNkljqXkaS7nKBXsQDdKLx8ScKrAWZnC9Az9oXaZKuZxjPkk5f0gHZX1rSRjS1dT4mJT8CLplCuz7dZ2Igiqr7hT/SeWi6bSmrtryccF4cE68SValb+hIG+T3zt9sWfyzthVRaLdx4xpPvqCEWejzxZbv0LMgI8QWHoWwGA6LAB3W6Vzk5cMooMaQGkeP8D+2jN+PGqtGvyLHGSeAJOUt7sj9gDoYVlROG+hNaXOGjps9XoEJqOfac4YvVos3UU2w==;Ddl4hoGeTRrDtqhui4VE3A=="
 ---

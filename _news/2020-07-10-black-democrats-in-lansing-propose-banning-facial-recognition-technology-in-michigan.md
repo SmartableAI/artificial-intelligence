@@ -129,22 +129,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
-    excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
-    publishedDateTime: 2020-07-08T17:45:00Z
-    webUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html"
-    ampWebUrl: "https://www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/public-interest/2020/07/banning-use-of-facial-recognition-technology-among-michigan-lawmakers-proposed-police-reforms.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 47
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VU25W3CILNCGFHXQXEQ4FFYWGA.JPG"
-        width: 1300
-        height: 867
-        isCached: true
 
 secured: "Rax3SSUaEet4yE/KAt/Nmfz+7n/OIJ2IHw8fdNliJ8+QKgJwa4MkYnLTdsM4u+wYGJbBEDWl5n4P6pbUZmxFByFzPG4UMBuAj/VK+HQ+7TERtMrmvOEpb3MEy4xRVt1rl0NqvvedkBH18qwALaezim8tInRq+Q+lTYUJD33Taue8qJ0qzQerU8IOHGN8zdLNZetz5oY3PXmAh8dkKGEpI9h2uGVu4BkswiCR+1tGGM/LILJEuAKIj7EjBO/5vN7/EAAgDy7uquux6STKyh6HGbxFCU1sJsToIf5TbiAFbK/GHR3hg5Jrs1R1QuMe0w2zRhGbS87jqZdme2xPHqonCQ==;Q6HenfO8SOLdDHu3JZAp5A=="
 ---

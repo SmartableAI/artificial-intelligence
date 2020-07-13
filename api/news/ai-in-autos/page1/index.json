@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-13-the-intersection-between-self-driving-cars-and-electric-cars.md",
+      "title": "The Intersection Between Self-Driving Cars and Electric Cars",
+      "excerpt": "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs. Electric vehicles have limited range, and the first self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg",
+          "width": 1120,
+          "height": 747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp",
+      "publishedDateTime": "2020-07-13T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-11-how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars.md",
       "title": "How To Flunk Those Cognitive Deficiency Tests And What This Means Too For AI Self-Driving Cars",
       "excerpt": "This is especially being widely noted by some prominent politicians that appear to be attempting to vouch for having mental clarity upon reaching an age in life whereby cognitive decline often surfaces.",
@@ -482,6 +532,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx",
+      "publishedDateTime": "2020-07-06T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1335,79 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-alphabets-waymo-and-volvo-collaborate-on-driverless-cars.md",
-      "title": "Alphabet's Waymo and Volvo Collaborate on Driverless Cars",
-      "excerpt": "Notably, Alphabet’s Waymo has partnered with Volvo to develop a new self-driving electric vehicle for use in a ride-hailing service. Per the deal, Volvo will take care of the design and manufacture of the vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-waymo-and-volvo-collaborate-on-driverless-cars-2020-06-29?amp",
-      "publishedDateTime": "2020-06-29T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof.md",
-      "title": "Big Tech rides out yet another global crisis and piles up big profits, but are they recession-proof?",
-      "excerpt": "Google is most widely known for its search engine and mobile OS, but it has also invested in driverless cars, robots, artificial intelligence, genetic testing, and biotechnology. Facebook is ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/07/24/190724-big-tech_16c24559b73_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
-      "publishedDateTime": "2020-06-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
