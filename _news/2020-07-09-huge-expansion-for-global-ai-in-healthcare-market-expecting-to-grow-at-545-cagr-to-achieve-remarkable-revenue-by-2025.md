@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T06:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.openpr.com/T/7/T709819860_g.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-07-08T16:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "NXkxKU2+zX4J784PSGYDqDv2z9z5a8X8VCzyAn7V2mZAWAdDhPaNWwbiTXeOItsjgiEaXCi2n4TgqFU+KXkmzMr27KUiSPtGC9rTBvR5hRe5OkhTJFxo2EUETsArVzQUn6DFAK8cxiekJCZvTBn+bqUc9QbAWmLG2bgcJqr872h7rjJ2auzRkBPrD5329mG91BRtSKs6joFTbtSRwXKhWvVJdrlVFqls3GIm4+81jw+N3ardFGKOoToA+gI3eMf92Gvj+9dFZx8vWmgljv7w5IlKojQIGFbHy9iwTU7OXs998RskFqThC2+URWoMc8uC0D/wFFnsJHqXZo7jkVGwxw==;IMHcNQdvh7E9AVKcDBUG7A=="

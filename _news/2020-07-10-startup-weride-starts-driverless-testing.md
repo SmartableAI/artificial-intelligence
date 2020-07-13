@@ -69,17 +69,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "That Reported ‘Snakes In A Car’ Frantic Driver Is Thankfully Okay, So Consider These Self-Driving Car Ramifications"
-    excerpt: "Incidents of snakes in cars have been reported in Florida from time-to-time. This seems eminently sensible since we might readily expect snakes to exist there and warnings aplenty are posted throughout the Sunshine State to be wary of potential poisonous snakes."
-    publishedDateTime: 2020-07-08T15:41:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 32
   - title: "Chinese self-driving startup tests unmanned vehicles without safety officers"
     excerpt: "Residents in Guangzhou, South China's Guangdong Province can take self-driving cars from June 23. The service was jointly launched by AutoNavi and self-driving ride company WeRide. Photo: WeRide Chinese autonomous driving startup WeRide obtained a license on Sunday to test its self-driving car in a designated area of South China's Guangzhou province without a safety officer,"
     publishedDateTime: 2020-07-12T07:23:00Z

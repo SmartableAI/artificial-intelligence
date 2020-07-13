@@ -5,8 +5,9 @@ excerpt: "That’s particularly true in Los Angeles, where entrepreneurs with vi
 publishedDateTime: 2020-07-13T07:18:00Z
 webUrl: "https://labusinessjournal.com/news/2020/jul/13/innovative-companies-turn-la-ai-hub/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Los Angeles Business Journal
@@ -14,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2020/07/09/PG01_AI_0713_inVia-robots-warehouse_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"

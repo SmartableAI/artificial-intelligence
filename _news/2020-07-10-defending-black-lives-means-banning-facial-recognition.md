@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-faci
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -102,22 +102,6 @@ related:
       - url: "https://www.cmswire.com/-/media/c69643c040bc4478a19763dc26a5d324.ashx?mw=1024"
         width: 640
         height: 480
-        isCached: true
-  - title: "Black lawmakers call for ban on police use of facial recognition technology"
-    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
-    publishedDateTime: 2020-07-08T16:14:00Z
-    webUrl: "https://www.freep.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
-    ampWebUrl: "https://amp.freep.com/amp/5397596002"
-    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5397596002"
-    type: article
-    provider:
-      name: Detroit Free Press
-      domain: freep.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
         isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."

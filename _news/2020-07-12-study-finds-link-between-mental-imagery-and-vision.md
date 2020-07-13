@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200712/Study-finds-link-betw
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200712/Study-finds-link-between-mental-imagery-and-vision.aspx"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

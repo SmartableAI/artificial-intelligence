@@ -3,7 +3,7 @@ category: news
 title: "Facebook study shows how social media may influence our vacation behavior"
 excerpt: "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations."
 publishedDateTime: 2020-07-01T17:56:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=20&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=21&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp"
 type: article
@@ -20,6 +20,6 @@ topics:
   - Facebook AI
   - AI
 
-secured: "RHYFfs+sCqTsTmR3d0W4fGOk20eXwvlfQS+YvhHOnM27tNccFjpi6H+KHxLcBqxgFsVQ/8Hs1fg9elFh0Qafw9pNabt6TTJF4exMPvJ/tMNU1sr8RjxzeClMYun1bt1oqyVQ7KZP9T1swavFW9EgPuvbWga/OV4+0O6utN0MdLQ5GqZmT3kP/KO3lwZovuZn2suSrKKyB4vVG9lqm73E1MDp56NvyNIGkPq2txh4pugBDatY2sIfznxes3d5zxmoPEULkx/EI8Lxd4VfSxPQXB3duZsZLGerpD4Ln+yPsYYCmtDecM59Fooz0xpak7vfYl4jCDYjrFgBMKVRBdkJWQer4SuWX1soK1MHIRoALBGh+/LVm/MZCh1aTbZi6jviozQveQZErHK0tNtzuIM51DWxsn4e9pT8vUe6QVtO2bt5LK+gFGo1l72o7mttm2XZRqPAS38UgwQjSQ25dKLgLTAGJxKbbaMbCwBrSzJxyAFmbj0RqbdzZPRktQiTwFTSAXdK0yev+1D63uPvPH1OHA==;i9IK9bFJCTaUQ+cVHh/vgA=="
+secured: "bPpeG1nTHzX3h54jumCoYvQuzxeekOmw1OeIOzPamrdCqFF5AN/K0DEYvY9ilNog8/6wRE6uo61hpBVApuyX3hu6Vu1kk50qHM2yrFWMuG4lwcBYYjhiKMyfw5FdhgZD8TkfEX24m4gvIprsZDiUteL0GcaCtZ51JpA20BGhmYZanFPggHbmKuDPY6YqIIF1QfE6I/793pXfVygCVB9DY0CKsgLwY1uf4Q/9HwfpHZpL997GEW3vBouKWF8uLD3v4sZyC/4LlJEPXN52zcdx/k1YvEFQhSb2qfpl0nMDNLcZlgolM74Okotu530kgRMWkJkpv8hz/vBM+rlY/CgUs2JN1KKdRfTeGqI+4fSXndj/N7O+WdDCHH00XoyR8NdcMOLadzuXEKsTnc6EgJd51eQ60hqRnB9vJhCEROOY9RnTLyQmXhVXd2kMlh5ywN2QrpGh6glkfAKVTn229P6l8BQeSEi1oWvluwJy0ah09CqYf9qeA1+lMbepVeohLQ1r/kC6NpnY/KMJ67rUWEWsLw==;DzLDRYPw78vVD6ccqpTJLA=="
 ---
 

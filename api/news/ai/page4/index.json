@@ -2,6 +2,106 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud.md",
+      "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
+      "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "publishedDateTime": "2020-07-08T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-microsoft-teams-new-together-mode-is-designed-for-pandemic-era-meetings.md",
+      "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
+      "excerpt": "Microsoft is introducing some big updates to Microsoft Teams today. The software giant has been working on a new “Together Mode” for Teams ever since the COVID-19 pandemic began, and it’s designed to create a virtual live avatar of yourself that’s supposed to help you better engage with meetings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/GasK59zllzEgQCAlwMB8FuFUJeE=/0x0:1320x880/1400x933/filters:focal(555x335:765x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67031893/togethermodemicrosoftteams.0.jpg",
+          "width": 1320,
+          "height": 880,
+          "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
+      "publishedDateTime": "2020-07-08T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images.md",
       "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
       "excerpt": "Google says it will begin providing context around images in Google Images, based on the content of the webpages hosting those images.",
@@ -47,6 +147,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
+      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
+          "width": 920,
+          "height": 613,
+          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "publishedDateTime": "2020-07-08T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -200,7 +341,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1282,137 +1423,6 @@
       "provider": {
         "name": "Emirates247",
         "domain": "emirates247.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety.md",
-      "title": "University of Melbourne and Cubic test AI camera to improve road safety",
-      "excerpt": "The University of Melbourne and Cubic Transportation Systems have partnered to test how an artificial intelligence camera can be used to improve road user safety and traffic management. As part of the project,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/1cb27067-607c-459a-9525-285eb4948af9/gridsmart-final.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "University of Melbourne and Cubic test AI camera to improve road safety",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
-      "publishedDateTime": "2020-07-07T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children.md",
-      "title": "UCLA launches an AI robot to support the emotional needs of children",
-      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "UCLA launches an AI robot to support the emotional needs of children",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
-      "publishedDateTime": "2020-07-07T18:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
-      "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
-      "excerpt": "In preparation for DesignCon 2020, here&#039;s a look at some of the latest research being done on AI inference at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cheng_AIEdge_Figure5.png",
-          "width": 1361,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
         "images": null,
         "publishers": null,
         "authors": null

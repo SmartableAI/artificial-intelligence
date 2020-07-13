@@ -60,17 +60,6 @@ related:
         width: 768
         height: 483
         isCached: true
-  - title: "That Reported ‘Snakes In A Car’ Frantic Driver Is Thankfully Okay, So Consider These Self-Driving Car Ramifications"
-    excerpt: "Incidents of snakes in cars have been reported in Florida from time-to-time. This seems eminently sensible since we might readily expect snakes to exist there and warnings aplenty are posted throughout the Sunshine State to be wary of potential poisonous snakes."
-    publishedDateTime: 2020-07-08T15:41:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/08/that-reported-snakes-in-a-car-frantic-driver-is-thankfully-okay-so-consider-these-self-driving-car-ramifications/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 32
   - title: "Startup WeRide starts driverless testing"
     excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
     publishedDateTime: 2020-07-10T02:08:00Z

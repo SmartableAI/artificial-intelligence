@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-11T15:40:00Z
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/11/how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "This column will discuss four self-driving car stocks that can make it big in the coming years. Let’s look at the following self-driving car stocks and the progress made in this high growth potential segment."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
     excerpt: "Stock Market News, Stock Advice & Trading Tips Within the automobile sector, one of the high-growth segments in the coming"
     publishedDateTime: 2020-07-09T02:51:00Z

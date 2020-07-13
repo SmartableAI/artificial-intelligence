@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-automates-media-analysis-for-rekognition-video.md",
+      "title": "Amazon Automates Media Analysis for Rekognition Video",
+      "excerpt": "Amazon says that the Rekognition Video provides the exact frame number when it detects a relevant segment of video. It handles various video format rates, such as drop frame and fractional frame rates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Amazon Automates Media Analysis for Rekognition Video",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
+      "publishedDateTime": "2020-06-26T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
       "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
       "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",

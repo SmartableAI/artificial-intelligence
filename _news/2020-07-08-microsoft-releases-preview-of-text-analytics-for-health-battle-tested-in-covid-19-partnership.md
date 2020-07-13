@@ -47,36 +47,6 @@ related:
         width: 1200
         height: 836
         isCached: true
-  - title: "Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities"
-    excerpt: "The post Azure AI: Build mission-critical AI apps with new Cognitive Services capabilities appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-07-08T16:51:30Z
-    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-build-missioncritical-ai-apps-with-new-cognitive-services-capabilities/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 114
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/6c142214-bbee-499c-bf07-e565fcbc4294.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Microsoft updates Azure AI platform to help build 'next generation of AI applications'"
-    excerpt: "Microsoft announced several updates to the Azure AI platform. The improvements make it easier for developers to create AI applications."
-    publishedDateTime: 2020-07-08T16:02:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-updates-azure-ai-platform-help-build-next-generation-ai-applications?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 81
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/11/microsoft-logo-ignite-2019.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
     excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
     publishedDateTime: 2020-07-09T00:07:00Z

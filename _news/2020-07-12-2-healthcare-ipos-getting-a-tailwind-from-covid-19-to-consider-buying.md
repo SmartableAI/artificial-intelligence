@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/arti
 type: article
 quality: 84
 heat: 84
+published: true
 
 provider:
   name: Nasdaq

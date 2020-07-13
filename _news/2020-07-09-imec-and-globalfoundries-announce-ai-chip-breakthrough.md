@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-09T10:07:00Z
 webUrl: "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: New Electronics
@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices"
-    excerpt: "Based on imec’s Analog in Memory Computing (AiMC) architecture utilizing GF’s 22FDX® solution, the new chip is optimized to perform deep neural network calculations on in-memory computing ..."
-    publishedDateTime: 2020-07-08T16:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
   - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip"
     excerpt: "Imec, a research and innovation hub in nanoelectronics and digital technologies, and GLOBALFOUNDRIES (GF), a specialty foundry, announced a hardware demonstration of a new artificial intelligence chip."
     publishedDateTime: 2020-07-09T15:12:00Z

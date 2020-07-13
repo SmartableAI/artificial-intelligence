@@ -23,6 +23,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "10 Emerging Tech Companies Showcase Inventive Products and Services Today at the 2020 FinTech Innovation Lab New York Virtual Demo Day"
+    excerpt: "Founded in 2010 by Accenture and the Partnership Fund for New York City, the FinTech Innovation Lab New York provides early- and growth-stage fintech companies with access to the world’ s leading financial institutions."
+    publishedDateTime: 2020-07-09T02:17:00Z
+    webUrl: "https://www.nasdaq.com/press-release/10-emerging-tech-companies-showcase-inventive-products-and-services-today-at-the-2020"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 2
+
 secured: "F0gefDHKmJXEur9MIgoNSQ8dksGBbD3OfdB3TFgCG8KSyJZ54bfwCay9Zu2g3pfSU0CV4svQdMGyeQJzjjKQ7YnZK2aezaLNZVFKeJEa6Qq7tFcArnAWVSQd3kgAxpb7QsHAHieqZJHZ6b1WgUNXwskBu6kPBAhOu8SblQrXLIJ6o6hvQV6+0BCXFFN2r4SVv8o+asE0CQCmq34V7VZWdbrpKAS0jxDh/yZpBo1HwoKEW0eELNVcQR+/tYkwdYyw5/QKEyoUkTeiq07DIrADU6D7Q6BmQR0/jbljel2GIqnAKcPwdIF9cFhQ92L6xDt7/35Rob4om1efdlyomBvQkg==;Z+ohEpFszjrxu9GKxpEXmw=="
 ---
 

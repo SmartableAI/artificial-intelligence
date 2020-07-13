@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot</loc>
+    <lastmod>2020-07-12T23:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution</loc>
     <lastmod>2020-07-12T16:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -19,7 +25,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12</loc>
+    <loc>https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?time=1594573441</loc>
     <lastmod>2020-07-12T10:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -139,6 +145,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/article/software-as-a-service-saas-a-cheat-sheet/</loc>
+    <lastmod>2020-07-10T11:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7</loc>
     <lastmod>2020-07-10T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -207,12 +219,6 @@
   <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/</loc>
     <lastmod>2020-07-10T04:06:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/davidprosser/2020/07/10/five-of-the-leading-british-ai-companies-revealed/</loc>
-    <lastmod>2020-07-10T03:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -433,6 +439,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/</loc>
+    <lastmod>2020-07-09T03:07:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cbronline.com/news/aws-user-data?wpfpaction=clear</loc>
     <lastmod>2020-07-09T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -549,6 +561,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/</loc>
     <lastmod>2020-07-08T10:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/</loc>
+    <lastmod>2020-07-08T10:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -907,6 +925,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nationthailand.com/sport/30390973</loc>
+    <lastmod>2020-07-06T19:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/</loc>
     <lastmod>2020-07-06T19:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -927,12 +951,6 @@
   <url>
     <loc>https://www.express.co.uk/news/weird/1305923/Artificial-intelligence-Bible-warning-AI-prophecy</loc>
     <lastmod>2020-07-06T13:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
-    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -963,6 +981,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
+    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1489,7 +1513,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=20&amp;itm_content=2x2&amp;itm_term=2356592</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=21&amp;itm_content=1x7&amp;itm_term=2376504</loc>
     <lastmod>2020-07-01T10:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1573,8 +1597,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system-301086729.html</loc>
-    <lastmod>2020-07-01T07:05:00-07:00</lastmod>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system/article_8d713520-8eea-5745-98b8-5a8529e889a6.html</loc>
+    <lastmod>2020-07-01T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1687,7 +1711,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/in/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1951,8 +1975,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2005,12 +2029,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.omaha.com/money/markets/predictive-oncology-inc-announces-receipt-of-cash-proceeds-of-2-2-million-from-exercise-of/article_1863f4b0-e730-5a28-9aec-b152e5a12fb1.html</loc>
-    <lastmod>2020-06-29T16:25:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.scmp.com/tech/innovation/article/3090961/machine-learning-systems-fair-or-biased-reflect-our-moral-standards</loc>
     <lastmod>2020-06-29T15:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2037,6 +2055,12 @@
   <url>
     <loc>https://www.cnet.com/news/this-robot-quickly-disinfects-spaces-using-uv-c-light/</loc>
     <lastmod>2020-06-29T13:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/3c33301f1798b8eba9bf0cc88241f83b</loc>
+    <lastmod>2020-06-29T13:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2239,7 +2263,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839</loc>
+    <loc>https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839?bulletin=mtbulletin</loc>
     <lastmod>2020-06-29T01:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

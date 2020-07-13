@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-13T06:50:00Z
 webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Tencent-leads-40m-fundraising-for-China-tutoring-startup"
 type: article
 quality: 37
-heat: 37
+heat: -1
+published: false
 
 provider:
   name: NIKKEI
@@ -20,6 +21,22 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker"
+    excerpt: "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the"
+    publishedDateTime: 2020-07-09T19:11:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif"
+        width: 719
+        height: 527
+        isCached: true
 
 secured: "gJTBDw/rkpZcTdx4Hg/aWjyH7Z9UQYWvDB6UW2qYWqr3WR1Kank791okeHJ6157bTuXo2qNr5WZHfmX9L8o7avs7Gn9nNlBoorepj2P8kvcXHnSnKAnoVWKa0csGRL+Ov2Iw/uUOXhRhIV5cp21EeyZxqEpNOrk4MgXZ8kreojyfvhP3dkMXdxx6eAWk/E29c9o725vzuWc69uKlKhaNFsWzqrZ7HL7avUckC/T/3a2Nct5coIZ4Dpxf0MogEwfd9nUHEklC/QXB2aQkPORRfIG+PT0/ROCTs5/ChHoDn9sCIVcrY2soIjhPktbU7+yTr9f+el/G5lxgmIwIyTwGlw==;lnDJi0RPG2wQzAtJ30zTQw=="
 ---

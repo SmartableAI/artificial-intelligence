@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T01:41:00Z
 webUrl: "https://www.reseller.co.nz/article/681269/soul-machines-florence-enlisted-by-who-fight-covid-19/"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-09-china-calls-for-joint-development-in-ai-to-reduce-risk-of-technology-gap-between-rich-and-poor-countries.md",
+      "title": "China calls for joint development in AI to reduce risk of technology gap between rich and poor countries",
+      "excerpt": "Chinese government officials and some of the country’s top business leaders call for stronger global collaboration at WAIC summit",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/09/0b50d3f2-c1bc-11ea-8c85-9f30eae6654e_image_hires_165721.jpg?itok=dJJTBLhy&v=1594285050",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
+      "publishedDateTime": "2020-07-09T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-meet-the-robot-chemist-that-can-perform-its-own-experiments-wvideo.md",
+      "title": "Meet the robot chemist that can perform its own experiments (w/video)",
+      "excerpt": "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-020-2442-2/MediaObjects/41586_2020_2442_Fig1_HTML.png",
+          "width": 583,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
       "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
       "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
@@ -92,7 +181,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -471,7 +560,7 @@
       "webUrl": "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -812,6 +901,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
+      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
+          "width": 920,
+          "height": 613,
+          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "publishedDateTime": "2020-07-08T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages.md",
       "title": "Facebook’s speech recognition model supports 51 different languages",
       "excerpt": "Facebook researchers developed a language model they say can recognize words in 51 different languages, including 'low-resource' languages like Persian.",
@@ -961,7 +1091,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1034,154 +1164,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-weiwei-yours-truly-review-on-the-irony-of-personal-freedom.md",
-      "title": "‘Ai Weiwei: Yours Truly’ Review: On the Irony of Personal Freedom",
-      "excerpt": "This documentary from Cheryl Haines about Ai, a Chinese artist and activist, explores the tension between the idea of liberty and the fate of those who pursue it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/07/09/arts/09aiweiwei-art/merlin_174157329_9408a62c-fb78-4b32-9e4d-18fd514a078f-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": "‘Ai Weiwei: Yours Truly’ Review: On the Irony of Personal Freedom",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.amp.html",
-      "publishedDateTime": "2020-07-08T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-continues-to-build-out-its-azure-cognitive-services-api-family.md",
-      "title": "Microsoft continues to build out its Azure Cognitive Services API family",
-      "excerpt": "The idea behind Azure Cognitive Services is to enable developers to use an API call in building heir apps to add sight, speech, search and other AI capabilities without having to master machine learning techniques first. Microsoft also has made a number ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/780add4e-19a4-463d-8d25-3a96f4f2afde/cognitiveservicesmicrosoft.jpg",
-          "width": 781,
-          "height": 494,
-          "title": "Microsoft continues to build out its Azure Cognitive Services API family",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-continues-to-build-out-its-azure-cognitive-services-api-family/",
-      "publishedDateTime": "2020-07-08T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-inside-peacocks-strategy-to-entice-streaming-viewers-and-cord-cutters-with-7500-hours-of-free-tv-and-40-linear-channels.md",
-      "title": "Inside Peacock's strategy to entice streaming viewers and cord-cutters with 7,500 hours of free TV and 40 linear channels",
-      "excerpt": "NBCUniversal's Peacock lands nationally on July 15, with a free tier and two subscription offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": "Inside Peacock's strategy to entice streaming viewers and cord-cutters with 7,500 hours of free TV and 40 linear channels",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

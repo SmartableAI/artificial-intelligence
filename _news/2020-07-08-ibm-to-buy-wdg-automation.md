@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazil
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Motley Fool
@@ -35,17 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Why IBM Is Buying WDG Automation"
-    excerpt: "RPA is able to help close the loop and ensure consistent data across all tools that connect to Watson AIOps. This can increase data quality and improve the accuracy of AI as well as the productivity of engineers involved. IBM’s investments in AI-infused ..."
-    publishedDateTime: 2020-07-08T16:13:00Z
-    webUrl: "https://pulse2.com/why-ibm-is-buying-wdg-automation/"
-    ampWebUrl: "https://pulse2.com/why-ibm-is-buying-wdg-automation/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/why-ibm-is-buying-wdg-automation/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 24
 
 secured: "GhOm6wABxzPq6exdN4PWpDTDhe5vDeGY6suQ7VICS8YRJcXoyae7AUg4YGm6yBf+W4HGtL1CUZxIRI6fgJxn0JLjnmPuUGIWCLoHsnwMcLWoQ94T5Mf857tA+OR9OKij6uIRhaHjTwCRe7PvWEYLMtnChXZkH8mVoQYS53Z9dUwUgbiAY1fFtCsn6dXzsT6TsY+RWtWGO1cDnKWs2pdRCMS1WlC9KC0I2InYJVhCoWRLQKmqc5Z2X5KcIx0B7nPqml5ONPo9vYaZr0gy7R1ncyWkEKtVYE6wSUI72d/Ak9xQz5HLl2W+fIMS/WdUcrsLP8S8arngkXvtXh1nUGOqgg==;Kd/MrdfR+Rd2bAbKGiOo3g=="
 ---

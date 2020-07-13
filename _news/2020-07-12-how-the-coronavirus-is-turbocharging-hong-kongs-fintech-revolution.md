@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Dr.-Zhao-Wenbiao-Vice-President-of-Ant-Group-and-Chief-Scientist-of-Alipay-Security-Lab-600x401.jpeg"
         width: 600
         height: 401
+        isCached: true
+  - title: "Amid coronavirus fintech firms turn to TikTok for growth"
+    excerpt: "A number of disruptors have been running ad campaigns on the global video sharing platform that boasts the most downloads of any app ever."
+    publishedDateTime: 2020-07-13T04:54:00Z
+    webUrl: "https://www.altfi.com/article/6802_fintech-firms-turn-to-tiktok-for-growth"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/fintech-firms-turn-to-tiktok-for-growth.jpg"
+        width: 1200
+        height: 719
         isCached: true
 
 secured: "WLWLod50o0szK7Fzra9wvWh0bFaIbx1n7/Zdn8z8egOGgmvDuvmQDJtNmp9mlLiqyuZmxA+Zg+gCSyzHCixJwhh3psg6CjvwBNuI6txJBlTqNTu0duvRvKB1znw3sDIVhBlH3u/mGi1f011lebs8QEAuMPprP/ANMYS+p4AHY7hEmoxLtV3OzAavmJyVsNOWu+8maMbe8u8Tvj0Y8CjavmMitUHLC8jZBgz0SOaLyYlSi457ERplCYobr7mfpovmY9tk3nthsmu5E8VN1HpBFFITdtsaT0P8qyT0MBQZvoIJfou/BUtEOada7L0U2eLOf07Evdtth3Xxl0FknkFBuA==;6xOhuht1j+sh5Ypn309CMw=="

@@ -362,17 +362,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "Trulioo Launches Facial Recognition, Document Verification Product"
-    excerpt: "Trulioo has introduced a facial recognition and document validation technology to enable small businesses to provide online protection to their customers."
-    publishedDateTime: 2020-07-08T15:31:00Z
-    webUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/"
-    ampWebUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
   - title: "Trulioo EmbedID adds document verification and facial recognition features"
     excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
     publishedDateTime: 2020-07-09T13:43:00Z

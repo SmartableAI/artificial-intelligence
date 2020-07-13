@@ -7,6 +7,7 @@ webUrl: "https://www.statnews.com/sponsor/2020/07/02/clinical-natural-language-p
 type: article
 quality: 23
 heat: 23
+published: false
 
 provider:
   name: STAT

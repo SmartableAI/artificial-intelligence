@@ -349,17 +349,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "Trulioo Launches Facial Recognition, Document Verification Product"
-    excerpt: "Trulioo has introduced a facial recognition and document validation technology to enable small businesses to provide online protection to their customers."
-    publishedDateTime: 2020-07-08T15:31:00Z
-    webUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/"
-    ampWebUrl: "https://www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2020/trulioo-launches-facial-recognition-document-verification-product/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
   - title: "UK, Australia investigate Clearview facial recognition firm"
     excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
     publishedDateTime: 2020-07-09T15:07:00Z

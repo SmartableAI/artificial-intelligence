@@ -1,46 +1,44 @@
 ---
 category: news
 title: "Jonckers Announces New CEO"
-excerpt: "Jonckers, a global leader in language platform technology and multilingual solutions, today announced that its Board of Directors has appointed Silke"
+excerpt: "Silke Zschweigert Newly appointed CEO of Jonckers - a global leader in language platform technology and multilingual solutions (Photo: Business Wire) “I’m very privileged to be asked by the Board to be the next CEO of this dynamic and forward-thinking company,"
 publishedDateTime: 2020-07-09T15:08:00Z
-webUrl: "https://www.businesswire.com/news/home/20200709005715/en/"
+webUrl: "https://www.oleantimesherald.com/business/jonckers-announces-new-ceo/article_8f27717f-eec2-50de-bde3-851fcfac9078.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Olean Times Herald
+  domain: oleantimesherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200709005715/en/804378/23/Silke_Zschweigert_CEO_Jonckers.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
 related:
-  - title: "Genetec announces deep integration with Bosch MAP 5000 intrusion panel series"
-    excerpt: "Genetec Inc., a renowned technology provider of unified security, public safety, operations, and business intelligence solutions, announced the latest deep integration to result from its"
-    publishedDateTime: 2020-07-10T06:49:00Z
-    webUrl: "https://www.sourcesecurity.com/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
+  - title: "Microsoft Announces New Teams Features, Including Smart Displays"
+    excerpt: "Microsoft is announcing a huge list of new features that are coming to Teams in the coming weeks and months, including a new line of hardware displays."
+    publishedDateTime: 2020-07-09T00:59:00Z
+    webUrl: "https://www.thurrott.com/cloud/microsoft-365/237592/microsoft-announces-new-teams-features-including-smart-displays"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 41
+      name: Thurrott
+      domain: thurrott.com
+    quality: 24
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/suprema-and-moca-system-contribute-to-the-growth-of-mobile-access-cards-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/07/teams-displays.jpg"
+        width: 1066
+        height: 600
         isCached: true
 
-secured: "ZSXBBG3e2a+r9gSMAicBUgQl9rZA22t4R/4zC8sSFhlM7JZ1PG4Uj1eweCAdM83lVJ0cRBW46MJR/fqif7iZJnU+IuyPCVmAHMBogLKPpYGDZlo6Jmk01u5ezGsqVEXWQ/zKhKjR9rWv/8ZAdL94ev3YDJqMwwrkduOLzpHDOqBTIKsG7Ey7QfOa6Xt/teXsIu3GHdUEt/InRnYE0yl01By6Sh6vDn8VH41zj1jnR1YcSmKfL8D9ffIH+EGdlyRSTNunYuN7iMoN94+/ClRSXLQf2/AwixZvji8NP+XpXddGxq0BJFFyxa9Z9DR+HTthmKrFQxHgO0KrwotfwdoXBEHTWw8rUdoMOMafIAZY8ByhfN1RqNSnp051Dj3c3N6lO1tM14LhPjIUslxEDFEPUlhqYEgkjfqRzEM8fW7hqmKtLkb2cPswA3jMKXNWvOaREJb+2e8XDSGHp7ITdxOBKJJcoaZcZWxrJ9+CYsns7K/awBU6m4bUCQtHOWGVoESs1DTKqunn1PkDq8IsuM9ghQ==;tMDabhnmNku3B1WlgzQ1lg=="
+secured: "0asEYTCfR7JI36Gqr2bMvMmxJQ4udtcBAn17pX4TeXjY14zj/wlv5HP8iR087NBE4jOw33NYixt3HOf5ncIximi0uqy9gKy6GUlYcoOxa+h1zq10NBjzUjo3Nia+YvbDZ3K4aDvl9OL32BtK21EvGzvTi0X0o5c0BtbX4wXcJglAtP7z3t8Ooc6e67EiNa6foNbydG7I1LbWUkMTynj4N/OInDLyqfncmXtD4cL+UDRGPpGlWcCpQUF8rH/j9RU1jIShnB8gfWcY0VKTFFUfb5Oqui9hlNTL0R8Im/i5cjqNCu1783ETNwcSVhbo1Y6yT781ZR2N3p+8NFqUByym8w==;jS9RJk7yqu1ZXntU/2vXQw=="
 ---
 

@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-10-software-as-a-service-saas-a-cheat-sheet.md",
+      "title": "Software as a Service (SaaS): A cheat sheet",
+      "excerpt": "SaaS replaces the need to physically purchase, install, and deploy application software throughout an organization. Learn more about SaaS, which is now a mainstay for businesses large and small.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/software-as-a-service-saas-a-cheat-sheet/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/08/07fbd827-e281-4447-9e66-204cd035b782/resize/1200x/bf50a36dcd544574fd1d9564eca03466/saas-istock-1203544876-putilich.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/software-as-a-service-saas-a-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-as-a-service-saas-a-cheat-sheet/",
+      "publishedDateTime": "2020-07-10T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
       "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
       "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
@@ -162,7 +212,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -303,7 +353,7 @@
       "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1368,47 +1418,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-automates-media-analysis-for-rekognition-video.md",
-      "title": "Amazon Automates Media Analysis for Rekognition Video",
-      "excerpt": "Amazon says that the Rekognition Video provides the exact frame number when it detects a relevant segment of video. It handles various video format rates, such as drop frame and fractional frame rates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/equipment/amazon-automates-media-analysis-for-rekognition-video",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rBkVtATHfAGckySg6qHgWb-1200-80.png",
-          "width": 1024,
-          "height": 576,
-          "title": "Amazon Automates Media Analysis for Rekognition Video",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/equipment/amazon-automates-media-analysis-for-rekognition-video",
-      "publishedDateTime": "2020-06-26T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

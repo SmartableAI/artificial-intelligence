@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-13T04:54:00Z
 webUrl: "https://www.altfi.com/article/6802_fintech-firms-turn-to-tiktok-for-growth"
 type: article
 quality: 24
-heat: 24
+heat: -1
+published: false
 
 provider:
   name: altfi.com
@@ -22,6 +23,40 @@ images:
     height: 719
     isCached: true
 
-secured: "ae7qJTugk+n4VXRxrUSdXUX5icZOVmBQyaMlIAd3gZ/yLkjepQJoTgnWtmjN/4WknpZJyu0iv7p3xrw0TrwrCrWIQ59s3Whk5qu3kzU3AySDX06u1XgsyQGR9E0cSHMTt/2f/mD2j5NHSsRunio/OTMTJ2OEVP25dQid+FQVADBTpEmXfUOZxNkM2M5GAllenP6iQ/fE6LxIJqIkUJzVSVTjyI30UG7ffzHd9VzS6VanTbbsASx6POkKtz5ttO6g5Y7lkT6a7UFTdQqI6iL2yj2bHfX5lXdLuDhm6u3NKC4FO8hXcMYMasPBPXqFQVWZl1h/q2Pgo3lwaUUmSWVXYQ==;0UUmNO6Bf945gNTY/OmJrQ=="
+related:
+  - title: "How the coronavirus is turbocharging Hong Kong’s fintech revolution"
+    excerpt: "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment."
+    publishedDateTime: 2020-07-12T23:37:00Z
+    webUrl: "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
+    ampWebUrl: "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 74
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_opinion/public/d8/images/methode/2020/07/13/fa81fb8e-c385-11ea-8c85-9f30eae6654e_image_hires_062204.jpg?itok=zG8-kynX&v=1594592533"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Massive Fintech Ant Financial Planning Hong Kong IPO, Valuation Expected to Top $200 Billion"
+    excerpt: "Ant Financial, part of the mega-tech group Alibaba (NYSE:BABA), is planning an initial public offering (IPO) in Hong Kong that will value the firm at a massive $200+ billion valuation, according to a report."
+    publishedDateTime: 2020-07-09T15:26:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Dr.-Zhao-Wenbiao-Vice-President-of-Ant-Group-and-Chief-Scientist-of-Alipay-Security-Lab-600x401.jpeg"
+        width: 600
+        height: 401
+        isCached: true
+
+secured: "gBARcmUxa+JOD74A3fqGB/Cn64EEKsOmUgSVFjrUyHVxpObJ00aYd1wDUW1nPsMoSWOUXFVF6y0RbtdV9IRfBkQkgSNPBS/TFfPG0ATOv1A/FdSVIRvXR4pY4ZUo7QglBBzP1awyuv7FPIqxs5Nccc5gvfnGQ8xxfd4xrNewd4p1jo9RtScHuZW/k1FAqmjQuWTkASUeUOQSMEMmqOFUrQeERFs6108si+8PdASmicTfZ8OjS3ZhJlUEcd6nfg2nvzkt0pbzFGEr5gJhBznjYyhlxkbHiwXpp6kYcADiviS357vSZaClmJCONZlqe9morVIJAWHMpsL8ir6g52fYUVB3V0iLfjBLf2xFpA521loDyN9PDP8D0L/2R8ayqp030I/uT4FgmSfILcvy4iBy229x40rV0x0KLm+x0Q1TAMryr9HnnVj9DWnaoSZZ0Vw1BNhRjDREpEkEhYW2ukLeIWwPFpdE7YGUdgbsJq5itac0zfZNDjUKLDwwqctflgrk5LgFLxkARE10RZ+wmkoBeA==;3x5cNGkQsSD5ebjl/j6xMg=="
 ---
 

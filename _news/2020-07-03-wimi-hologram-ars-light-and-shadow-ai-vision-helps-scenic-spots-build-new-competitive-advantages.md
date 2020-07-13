@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

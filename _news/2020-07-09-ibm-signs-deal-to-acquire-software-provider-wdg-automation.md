@@ -31,17 +31,6 @@ related:
       name: The Motley Fool
       domain: fool.com
     quality: 54
-  - title: "Why IBM Is Buying WDG Automation"
-    excerpt: "RPA is able to help close the loop and ensure consistent data across all tools that connect to Watson AIOps. This can increase data quality and improve the accuracy of AI as well as the productivity of engineers involved. IBM’s investments in AI-infused ..."
-    publishedDateTime: 2020-07-08T16:13:00Z
-    webUrl: "https://pulse2.com/why-ibm-is-buying-wdg-automation/"
-    ampWebUrl: "https://pulse2.com/why-ibm-is-buying-wdg-automation/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/why-ibm-is-buying-wdg-automation/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 24
 
 secured: "NB244QU1l+146WFmP/x9CKfHc3XXWQ8qGg+zI+VI5znhWtvBlOAfrUY+d3fmFf1OmmoarDR/jK2krXbXtHxTH14cuDsKj1j8ib1mwurE33/sq779dCENjScvVr9OpXutm0/qK1VFyF+xjXrEpAfMblpPOpALK8GqYOtPE/bc3T1Es8KEzTh4n/ndFdjFal8x3IXLLpt3n6nRUIWTLANaygDrrp1psi7tK+UeN/MGODZNE6V580UQ+GXbNH5Utx64q6+ugGoJvWnyC5/sdzjrDjs/HZ6/JoDNppJqEJK/Js8ZPku5kj9OsYmarauJEycIHyoSFQpyDXnjLVVPZTPjNQ==;a9eZayu2VlUpCrilI334cg=="
 ---

@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-09-vecna-robotics-recognized-for-excellence-in-robotics-supply-chain-and-logistics-automaton.md",
+      "title": "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton",
+      "excerpt": "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-google-cloud-lands-renault-as-analytics-machine-learning-ai-customer.md",
       "title": "Google Cloud lands Renault as analytics, machine learning, AI customer",
       "excerpt": "Automaker Renault said it will use Google Cloud's analytics, machine learning and artificial intelligence services on a wide range of initiatives to make the company more efficien",
@@ -602,6 +643,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-imec-and-globalfoundries-announce-ai-chip-breakthrough.md",
+      "title": "Imec and GLOBALFOUNDRIES announce AI chip breakthrough",
+      "excerpt": "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-aws-is-harvesting-customers-ai-datasets-and-storing-them-outside-users-selected-regions.md",
       "title": "AWS is Harvesting Customer’s AI Datasets and Storing them Outside Users’ Selected Regions",
       "excerpt": "60.4 also mentions this for SageMaker. 75.3 mentions this for Fraud Detector. 76.2 mentions this for Mechanical Turk and Augment AI. Summit Route’s Scott Piper notes: “Interestingly ...",
@@ -822,7 +904,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 80,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -1201,7 +1283,7 @@
       "webUrl": "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 193,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1340,106 +1422,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud.md",
-      "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
-      "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
-      "publishedDateTime": "2020-07-08T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-teams-new-together-mode-is-designed-for-pandemic-era-meetings.md",
-      "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
-      "excerpt": "Microsoft is introducing some big updates to Microsoft Teams today. The software giant has been working on a new “Together Mode” for Teams ever since the COVID-19 pandemic began, and it’s designed to create a virtual live avatar of yourself that’s supposed to help you better engage with meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/GasK59zllzEgQCAlwMB8FuFUJeE=/0x0:1320x880/1400x933/filters:focal(555x335:765x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67031893/togethermodemicrosoftteams.0.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
-      "publishedDateTime": "2020-07-08T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

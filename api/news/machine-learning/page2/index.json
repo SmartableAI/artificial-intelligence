@@ -134,38 +134,6 @@
       ]
     },
     {
-      "path": "_news/2020-06-30-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (NASDAQ:HIMX) (\"Himax\" or \"Company\"), a leading supplier and fabless manufacturer of display",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-30-ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks.md",
       "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
       "excerpt": "CNNs were first pioneered back in the late 1980s based on a series of earlier work in the 1960s on Artificial Neural Networks (ANNs) and Multilayer Perceptrons (MLPs). They were initially designed to work similarly to the human brain. Of course ...",
@@ -1379,6 +1347,47 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-without-the-hidden-layers-of-an-artificial-neural-network-deep-learning-will-not-even-exist.md",
+      "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
+      "excerpt": "How does the hidden layer decode the black box of decision making? Learn how Artificial Neural Networks (ANNs) and Deep neural network (DNNs) contribute to the incredibly tough task of complex predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/decoding-link-artificial-neural-networks-deep-learning-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/06/Neural-Network.png",
+          "width": 1452,
+          "height": 886,
+          "title": "Without the hidden layers of an Artificial Neural Network, Deep Learning will not even exist!",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

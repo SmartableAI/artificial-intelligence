@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-13-the-automoblow-is-a-dick-sucking-robot-for-your-tesla.md",
+      "title": "The Automoblow Is a Dick Sucking Robot for Your Tesla",
+      "excerpt": "But the makers of this dick-sucking robot are back in my inbox with their latest brainchild ... suggesting this could be used while actually trying to drive would be very dangerous! \"Artificial intelligence, as it is used in self driving cars and even ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5f061c8c067735009d6c0e3b/lede/1594236354312-Screen-Shot-2020-07-08-at-32448-PM.png?crop=0.9617035892151811xw:1xh;center,center",
+          "width": 2488,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot",
+      "publishedDateTime": "2020-07-12T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-12-how-the-coronavirus-is-turbocharging-hong-kongs-fintech-revolution.md",
       "title": "How the coronavirus is turbocharging Hong Kong’s fintech revolution",
       "excerpt": "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment.",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -152,12 +202,12 @@
     {
       "path": "_news/2020-07-12-2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying.md",
       "title": "2 Healthcare IPOs Getting a Tailwind From COVID-19 to Consider Buying",
-      "excerpt": "If you're considering investing in one or more recent initial public offerings in the healthcare sector, you've got many options. Over the last year, 76 healthcare companies have gone public, according to finviz.",
+      "excerpt": "Both stocks are getting a tailwind from the COVID-19 pandemic, with BioNTech a direct play on the crisis and Livongo an indirect play. Image source: Getty Images. Data sources: Yahoo! Finance and YCharts.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12",
+      "webUrl": "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?time=1594573441",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": null,
       "type": "article",
@@ -570,7 +620,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/11/how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1101,36 +1151,36 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-the-best-way-for-companies-to-incorporate-esg-goals-is-by-using-data-science-and-ai.md",
-      "title": "The best way for companies to incorporate ESG goals is by using data science and AI",
-      "excerpt": "Junta Nakai, global industry leader for financial services at Databricks, explains why using tech is the key to truly realizing the benefits of ESG.",
+      "path": "_news/2020-07-10-software-as-a-service-saas-a-cheat-sheet.md",
+      "title": "Software as a Service (SaaS): A cheat sheet",
+      "excerpt": "SaaS replaces the need to physically purchase, install, and deploy application software throughout an organization. Learn more about SaaS, which is now a mainstay for businesses large and small.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7",
+      "webUrl": "https://www.techrepublic.com/article/software-as-a-service-saas-a-cheat-sheet/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/5f089ff34dca681cf8372305?width=1200&format=jpeg",
-          "width": 667,
-          "height": 333,
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/08/07fbd827-e281-4447-9e66-204cd035b782/resize/1200x/bf50a36dcd544574fd1d9564eca03466/saas-istock-1203544876-putilich.jpg",
+          "width": 1200,
+          "height": 680,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7?amp",
-      "publishedDateTime": "2020-07-10T10:47:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/software-as-a-service-saas-a-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/software-as-a-service-saas-a-cheat-sheet/",
+      "publishedDateTime": "2020-07-10T11:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1146,55 +1196,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-facebooks-ai-separates-speech-in-recordings-of-up-to-5-people.md",
-      "title": "Facebook’s AI separates speech in recordings of up to 5 people",
-      "excerpt": "Facebook researchers describe an AI system that can isolate speech from recordings of multiple speakers on a single microphone.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
-          "width": 462,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

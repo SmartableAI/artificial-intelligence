@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices"
-    excerpt: "Based on imec’s Analog in Memory Computing (AiMC) architecture utilizing GF’s 22FDX® solution, the new chip is optimized to perform deep neural network calculations on in-memory computing ..."
-    publishedDateTime: 2020-07-08T16:06:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
   - title: "Imec and GLOBALFOUNDRIES announce AI chip breakthrough"
     excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."
     publishedDateTime: 2020-07-09T10:07:00Z

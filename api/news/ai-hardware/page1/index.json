@@ -235,6 +235,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-imec-and-globalfoundries-announce-ai-chip-breakthrough.md",
+      "title": "Imec and GLOBALFOUNDRIES announce AI chip breakthrough",
+      "excerpt": "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud.md",
       "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
       "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications,",
@@ -272,6 +313,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
+      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
+          "width": 920,
+          "height": 613,
+          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
+      "publishedDateTime": "2020-07-08T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -952,7 +1034,7 @@
       "title": "Nvidia boosts virtual GPU support to help home workers",
       "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "webUrl": "https://www.techradar.com/in/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -968,8 +1050,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
       "publishedDateTime": "2020-06-30T17:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1291,106 +1373,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
-      "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
-      "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/cambricon-.jpg?w=720",
-          "width": 720,
-          "height": 360,
-          "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
-      "publishedDateTime": "2020-06-25T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-intel-aims-to-bring-ai-education-to-community-colleges.md",
-      "title": "Intel aims to bring AI education to community colleges",
-      "excerpt": "The AI and ML deployments are well underway, but for CXOs the biggest issue will be managing these initiatives, and figuring out where the data science team fits in and what algorithms to buy versus build.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/intel-aims-to-bring-ai-education-to-community-colleges/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/27/66c8d2e8-3035-4daf-a4e3-3b431a06b896/thumbnail/1200x675/0efcb8eb5e94c87496e10ea27a7c6c4f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Intel aims to bring AI education to community colleges",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-aims-to-bring-ai-education-to-community-colleges/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-aims-to-bring-ai-education-to-community-colleges/",
-      "publishedDateTime": "2020-06-25T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

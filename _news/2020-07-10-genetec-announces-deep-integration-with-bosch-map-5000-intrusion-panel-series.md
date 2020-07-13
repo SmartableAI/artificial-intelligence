@@ -25,22 +25,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "Jonckers Announces New CEO"
-    excerpt: "Jonckers, a global leader in language platform technology and multilingual solutions, today announced that its Board of Directors has appointed Silke"
-    publishedDateTime: 2020-07-09T15:08:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200709005715/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20200709005715/en/804378/23/Silke_Zschweigert_CEO_Jonckers.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "ABbYrWnpIN3qvvreRfRw5EBECvDEWpA6DW3Um1VFLy5Z76bwmIj/q5fJiF/bhlkfDv9KkgiuTjuujeCSROkjCF722X08x1oNPjkL+2SXx8v7WeB2qSZm21xIXeyvEbwaTvxReCwPYW9iTVlrPP9RpJag6bEcLXtWb75MWocWN1wZkqCdG0L9Q5fxEAhed9dPE+6DjssvwcvAGZtzX73AfAvvKj+LdCOmEEhBxNTzKR9ggSjP7IjT1oNb0IxGKhyX4XrgZ5tQ8e8zqBrBMq8l66JFaypWOHIOs/so25XBe1210hoKquHWUFE2o8/Juywi5/MbkBDJwBgumV97H0v56g==;l9ZUUDxt46GNAeFNo6tKog=="
 ---
 

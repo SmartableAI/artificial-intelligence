@@ -2,6 +2,177 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-06-29-ipo-preview-renalytix-ai-seeks-us-ipo-investment.md",
+      "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
+      "excerpt": "Renalytix AI (RNLX) intends to raise $86.25 million in an IPO of its ADSs representing underlying ordinary shares, according to an F-1 registration statement. The firm is developing an AI-enhanced diagnostics system for chronic kidney disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/renalytix-ai-ipo",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTczNjEzNzY1Njg4ODI5MTc0/renalytixnamarket.png",
+          "width": 620,
+          "height": 357,
+          "title": "IPO Preview: Renalytix AI Seeks U.S. IPO Investment",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/renalytix-ai-ipo",
+      "publishedDateTime": "2020-06-29T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-macquarie-university-hospital-walter-kmet-announces-plans-on-10th-birthday.md",
+      "title": "Macquarie University Hospital: Walter Kmet announces plans on 10th birthday",
+      "excerpt": "Australia’s only private university-led hospital has celebrated its tenth birthday with the chief executive stating he wants to make it renowned on a global scale. Macquarie University Hospital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailytelegraph.com.au/newslocal/northern-district-times/macquarie-university-hospital-walter-kmet-announces-plans-on-10th-birthday/news-story/162b09059c6ccb8f8584f77aac1c838f",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "dailytelegraph.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank.md",
+      "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
+      "excerpt": "MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) has put one of its research projects to work providing disinfection services for The Greater Boston Food Bank (GBFB), in an effort to slow the spread of COVID-19 and still allow the nonprofit to provide services to its patrons.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/2Disinfecting-robot-credit-Alyssa-Pierson-MIT-CSAIL.jpg?w=1024",
+          "width": 1024,
+          "height": 762,
+          "title": "In effort to fight COVID-19, MIT robot gets to work disinfecting The Greater Boston Food Bank",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/29/in-effort-to-fight-covid-19-mit-robot-gets-to-work-disinfecting-the-greater-boston-food-bank/amp/",
+      "publishedDateTime": "2020-06-29T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-security-first-your-ai-is-so-easy-to-hack.md",
+      "title": "Security first: Your AI is so easy to hack",
+      "excerpt": "The reality for AI-enabled systems is that they have an increased attack surface for bad actors to exploit -- but too often security is an afterthought.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1158867526.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 708,
+          "title": "Security first: Your AI is so easy to hack",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/security-first-your-ai-is-so-easy-to-hack/amp/",
+      "publishedDateTime": "2020-06-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-the-3-weeks-that-changed-everything.md",
       "title": "The 3 Weeks That Changed Everything",
       "excerpt": "Imagine if the National Transportation Safety Board investigated America’s response to the coronavirus pandemic.",
@@ -1004,188 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
-      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
-          "width": 1024,
-          "height": 449,
-          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T02:00:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-service-robotics-market-by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026.md",
-      "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
-      "excerpt": "The global service robotics market is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-06-29",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Service Robotics Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T01:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-35-women-under-35-2020-britains-brightest-young-business-leaders.md",
-      "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
-      "excerpt": "It all started with the annual 35 Women Under 35 list, unearthing new female role models and spotlighting the contribution of Britain’s young businesswomen - whose voices were still being largely ignored in the media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.managementtoday.co.uk/35-women-35-2020-britains-brightest-young-business-leaders/women-in-business/article/1687839",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/880/cached.offlinehbpl.hbpl.co.uk/news/OTM/35w35.png",
-          "width": 880,
-          "height": 588,
-          "title": "35 Women Under 35 2020: Britain's brightest young business leaders",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Management Today",
-        "domain": "managementtoday.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-ihs-markit-selects-aws-as-its-preferred-cloud-infrastructure-provider.md",
-      "title": "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200629005060/en/IHS-Markit-Selects-AWS-Preferred-Cloud-Infrastructure",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200629005060/en/801532/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

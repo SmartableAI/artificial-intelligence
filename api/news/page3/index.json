@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-09-ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft.md",
+      "title": "AI researchers create testing tool to find bugs in NLP from Amazon, Google, and Microsoft",
+      "excerpt": "A testing tool called CheckList found mistakes in commercially available AI from Amazon, Google, and Microsoft; CheckList won Best Paper award at ACL.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/amp/",
+      "publishedDateTime": "2020-07-09T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-elon-musk-says-full-self-driving-tesla-tech-very-close.md",
       "title": "Elon Musk says full self-driving Tesla tech 'very close'",
       "excerpt": "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy,",
@@ -59,7 +109,7 @@
       "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 376,
+      "heat": 366,
       "tags": null,
       "images": [
         {
@@ -1076,6 +1126,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-09-imec-and-globalfoundries-announce-ai-chip-breakthrough.md",
+      "title": "Imec and GLOBALFOUNDRIES announce AI chip breakthrough",
+      "excerpt": "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-aws-is-harvesting-customers-ai-datasets-and-storing-them-outside-users-selected-regions.md",
       "title": "AWS is Harvesting Customer’s AI Datasets and Storing them Outside Users’ Selected Regions",
       "excerpt": "60.4 also mentions this for SageMaker. 75.3 mentions this for Fraud Detector. 76.2 mentions this for Mechanical Turk and Augment AI. Summit Route’s Scott Piper notes: “Interestingly ...",
@@ -1113,95 +1204,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-china-calls-for-joint-development-in-ai-to-reduce-risk-of-technology-gap-between-rich-and-poor-countries.md",
-      "title": "China calls for joint development in AI to reduce risk of technology gap between rich and poor countries",
-      "excerpt": "Chinese government officials and some of the country’s top business leaders call for stronger global collaboration at WAIC summit",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/09/0b50d3f2-c1bc-11ea-8c85-9f30eae6654e_image_hires_165721.jpg?itok=dJJTBLhy&v=1594285050",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "publishedDateTime": "2020-07-09T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-meet-the-robot-chemist-that-can-perform-its-own-experiments-wvideo.md",
-      "title": "Meet the robot chemist that can perform its own experiments (w/video)",
-      "excerpt": "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-020-2442-2/MediaObjects/41586_2020_2442_Fig1_HTML.png",
-          "width": 583,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
