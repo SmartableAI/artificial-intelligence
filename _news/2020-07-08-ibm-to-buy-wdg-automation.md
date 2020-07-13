@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazil
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Motley Fool
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM makes its RPA move, acquires WDG Automation"
-    excerpt: "After all, Krishna predicts every company will revolve around AI. While Blue Prism ... Automation into its Cloud Pack for Automation. IBM also added that WDG Automation capabilities will be embedded into Watson AIOps and Cloud Pak for Multicloud Management."
-    publishedDateTime: 2020-07-08T13:18:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/07/cdb821ee-ec47-4cc9-8473-cc2c21e0adf4/thumbnail/1200x675/ce9d2a4355f6a9b4cb982a96bcaa3b38/galaxy-unpacked-aug-5.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM Signs Deal to Acquire Software Provider WDG Automation"
     excerpt: "WDG’s Automation capabilities will also be embedded into Watson AIOps and Cloud Pak for Multicloud Management. The expansion of IBM’s AI-infused capabilities is expected to help the company acquire new customers, which will bolster the top line in the ..."
     publishedDateTime: 2020-07-09T15:59:00Z

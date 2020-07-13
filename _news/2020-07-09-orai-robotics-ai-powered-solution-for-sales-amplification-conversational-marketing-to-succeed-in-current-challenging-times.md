@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "AppTek Launches Two New Mobile Applications to Help Consumers Address Multi-Lingual Communication and Collaboration Challenges in Real-Time"
-    excerpt: "AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine Translation (NMT), and Natural Language Understanding (NLU) technologies, today announced two new speech technology applications designed for consumers — AppTek Speech Translate™ and AppTek Speech Transcribe™ —are now available through the Apple App Store,"
+    excerpt: "AppTek, a leader in Artificial Intelligence (AI), Machine Learning (ML), Automatic Speech Recognition (ASR), Neural Machine | For Immediate Release | Official News Wire for the Travel Industry"
     publishedDateTime: 2020-07-09T19:21:00Z
-    webUrl: "https://forimmediaterelease.net/tag/apptek-speech-translate/"
+    webUrl: "https://forimmediaterelease.net/apptek-launches-two-new-mobile-applications-to-help-consumers-address-multi-lingual-communication-and-collaboration-challenges-in-real-time-726196/"
     type: article
     provider:
       name: forimmediaterelease.net

@@ -145,20 +145,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Clearview AI's exit from Canada builds on a pivotal moment for facial-recognition technology"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Facial-recognition startup Clearview AI informed Canadian privacy protection authorities that it would no longer operate in Canada ..."
-    publishedDateTime: 2020-07-08T14:59:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-exits-canada-at-pivotal-time-for-facial-recognition-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 60
-    images:
-      - url: "https://i.insider.com/5f05ceb24dca681ce8613f96?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facial Recognition App Clearview Faces Global Probe"
     excerpt: "Privacy regulators in Australia and the U.K announced a joint investigation into Clearview AI, the New York-based facial recognition software maker."
     publishedDateTime: 2020-07-09T16:34:00Z
@@ -190,6 +176,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_facialrecognition_122019_getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "UK, Australia investigate Clearview facial recognition firm"
+    excerpt: "London: Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites. Thursday’s announcement by the U ..."
+    publishedDateTime: 2020-07-13T06:04:00Z
+    webUrl: "https://www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
+    ampWebUrl: "https://www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/clearview_AI_wiki_uhngcNdeegdai.jpg"
+        width: 700
+        height: 500
         isCached: true
   - title: "UK and Australian regulators launch probe into Clearview AI"
     excerpt: "The UK and Australian information commissioners have announced a joint probe into controversial facial recognition company Clearview AI, whose image-scraping tool has been used by hundreds of police forces around the world."

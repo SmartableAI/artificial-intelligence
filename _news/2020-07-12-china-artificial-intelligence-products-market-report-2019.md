@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-12T22:06:00Z
 webUrl: "https://menafn.com/1100471251/China-Artificial-Intelligence-Products-Market-Report-2019"
 type: article
 quality: 37
-heat: 37
+heat: 47
 published: false
 
 provider:

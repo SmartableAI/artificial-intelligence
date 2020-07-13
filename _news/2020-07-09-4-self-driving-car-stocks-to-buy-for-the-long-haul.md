@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "4 Self-Driving Car Stocks to Buy For the Long Haul"
-    excerpt: "This column will discuss four self-driving car stocks that can make it big in the coming years. Let’s look at the following self-driving car stocks and the progress made in this high growth potential segment."
-    publishedDateTime: 2020-07-08T15:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-self-driving-car-stocks-to-buy-for-the-long-haul-2020-07-08?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Here’s what one startup does when its self-driving cars get stuck"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
     publishedDateTime: 2020-07-11T13:00:00Z
