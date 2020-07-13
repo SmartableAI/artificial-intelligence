@@ -2,20 +2,30 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-publishedDateTime: 2020-07-06T16:29:00Z
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+publishedDateTime: 2020-07-06T20:12:00Z
+webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
-secured: "ZgZUwELYpWouCSv/+Zg5l67+gIjqzWAWrbh53h5Cgxf3UvImoFG1jibz5itHBxK7z1UcrZomjzvJvYZpdP1yHM2WbUzZc9rMoN7o/p0Nlk5Y3+nGp3oF8DfxxJ/G16zNZZBua1GQsqsEvMSAqn8yjXFfvJfUY2RdZR32Wp89W3ez9NjW0FbkUluzUDET2lwgHX5Q8ppxY7HTXO/WXVc9LnIxRddY9w+iBO5nPATbLzulCxiHmq5zlzvu2OvrabN2wlVObk2aG1tJnxNePfLFPwZIYXxLlJcCC1v5eXE+y7Azd/x96xI+lesl45fyoblsDF7muhwVl6HITfpLrgX/gXTxEeW40QIbVxJfKcWucbC2w8af+LOBZKcMVnQr03SdXeG6nNl/E0v4Vq/lcSH3LoBe/z1/7Rx1GCyrTVdi0mdle0Bl5q8J4TpEFdc2VO1FPia5mS1t1nOQt0dfQjXKq1W8icR+6LhuUXCi0sD3JnBjUfABHrZ7aSLPnD1CjERl5Pv9+dK35a//tzhQQP0yeQ==;qNi3UZ8W2EjWsqGcqkFOQw=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "2kXCWgrfTvaxDQJIybxpenjG7DmwGSz8HSwmNQ6tdFPPsmeCpSQr7ZYSISKVTjZpaAB/yRnoGBZjWaz9Zqd+YvEedf+aleSkFZ4HXMTgx4OA3/2ZjP7EcC/x+2kfE576Osu3bHExQGGPBbjWIehTkPLgk5T2g83xvfY5pC9aGpfXJMY/OeW4wVrW/cN7NT7fIJ1qyEdVXfxcES3l3pZKQfqhOd/XcFLJksk0oHZfbwkfhyXbQtostaGSOIhFmBDtKAeuTboYpwkYhb0f4wv1JWRdH+PLxz7iWNx2T/xA2BVrX3pBze3HPoLCeCkBSwmSljdX5hqPNg8b909A6zrAIw==;9qxeG83WRlJ1mjO+XDeIHA=="
 ---
 

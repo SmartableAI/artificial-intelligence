@@ -24,22 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Researcher warns about dangers of chatbots to treat mental illness"
-    excerpt: "Computerized therapy that uses artificial intelligence was first recommended in 2006 as a way of providing cognitive behavioral therapy for treatment of depression, panic and phobias. However, in April of this year, due to the coronavirus pandemic ..."
-    publishedDateTime: 2020-07-08T08:24:00Z
-    webUrl: "https://www.utsa.edu/today/2020/07/story/chatbots-artificial-intelligence.html"
-    type: article
-    provider:
-      name: University of Texas at San Antonio
-      domain: utsa.edu
-    quality: 24
-    images:
-      - url: "http://www.utsa.edu/today/2020/images/chatbot-artificial-intelligence_780.png"
-        width: 780
-        height: 350
-        isCached: true
-
 secured: "EoFKwAc0ahEMsoZ0JLIQyOjsstYB+QEOcyde0zbz9+tp5ZpCf07k3/Z5+7wt+ypPpr9eebF8qVFnDNDbVjtgaZMhgsXE0ch8B6MxTailKEsupOhpEGNBBQHXEazj7NlXzBLESHzPGFhl4W2JQ9nuKH5cAxjpjnsYdJ0zYlJPqEg6ThTMjQJ/KQY280tD97YUK2Do6mgSsqPUZctFCGI2+YlBvlixhxehOijvqlL3rFypAfWk2h5p7QXXZfs/6nuyMzb3S7G86gu/4lWIUf+csnF8IxoZReHIQLvVhXU+A2vds667dKIwyVqrF0jvXGc4I/SkVNYz5GwZZOJwr9uN1A==;7dfGGWa8a6vVEfydfrtzMA=="
 ---
 

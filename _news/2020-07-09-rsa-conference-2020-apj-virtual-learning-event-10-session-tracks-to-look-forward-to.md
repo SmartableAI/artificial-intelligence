@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T01:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200708005881/en/RSA-Conference-2020-APJ-Virtual-Learning-Event"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "World Artificial Intelligence Conference to kick off in Shanghai"
-    excerpt: "The World Artificial Intelligence Conference will kick off Thursday ... unmanned driving, education, healthcare and blockchain, among other topics. SenseTime, a leading AI unicorn from China focusing on facial recognition, deep learning and supercomputing ..."
-    publishedDateTime: 2020-07-08T08:45:00Z
-    webUrl: "https://www.thejakartapost.com/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
-    ampWebUrl: "https://www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
-    cdnAmpWebUrl: "https://www-thejakartapost-com.cdn.ampproject.org/c/s/www.thejakartapost.com/amp/life/2020/07/08/world-artificial-intelligence-conference-to-kick-off-in-shanghai.html"
+  - title: "10 Emerging Tech Companies Showcase Inventive Products and Services Today at the 2020 FinTech Innovation Lab New York Virtual Demo Day"
+    excerpt: "Founded in 2010 by Accenture and the Partnership Fund for New York City, the FinTech Innovation Lab New York provides early- and growth-stage fintech companies with access to the world’ s leading financial institutions."
+    publishedDateTime: 2020-07-09T02:17:00Z
+    webUrl: "https://www.nasdaq.com/press-release/10-emerging-tech-companies-showcase-inventive-products-and-services-today-at-the-2020"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 74
-    images:
-      - url: "https://img.jakpost.net/c/2018/12/13/2018_12_13_60766_1544675746._medium.jpg"
-        width: 747
-        height: 446
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 2
 
 secured: "F0gefDHKmJXEur9MIgoNSQ8dksGBbD3OfdB3TFgCG8KSyJZ54bfwCay9Zu2g3pfSU0CV4svQdMGyeQJzjjKQ7YnZK2aezaLNZVFKeJEa6Qq7tFcArnAWVSQd3kgAxpb7QsHAHieqZJHZ6b1WgUNXwskBu6kPBAhOu8SblQrXLIJ6o6hvQV6+0BCXFFN2r4SVv8o+asE0CQCmq34V7VZWdbrpKAS0jxDh/yZpBo1HwoKEW0eELNVcQR+/tYkwdYyw5/QKEyoUkTeiq07DIrADU6D7Q6BmQR0/jbljel2GIqnAKcPwdIF9cFhQ92L6xDt7/35Rob4om1efdlyomBvQkg==;Z+ohEpFszjrxu9GKxpEXmw=="
 ---
