@@ -173,22 +173,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 60
-  - title: "Groups demand feds ban use of facial recognition technology"
-    excerpt: "OTTAWA -- Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial-recognition surveillance by federal law-enforcement and intelligence agencies. In an open letter to ..."
-    publishedDateTime: 2020-07-08T10:28:00Z
-    webUrl: "https://www.cp24.com/news/groups-demand-feds-ban-use-of-facial-recognition-technology-1.5015233?cache=yes%3FclipId%3D373266%3FclipId%3D89530%3FclipId%3D373266"
-    ampWebUrl: "https://beta.cp24.com/news/2020/7/8/1_5015233.html"
-    cdnAmpWebUrl: "https://beta-cp24-com.cdn.ampproject.org/c/s/beta.cp24.com/news/2020/7/8/1_5015233.html"
-    type: article
-    provider:
-      name: CP24
-      domain: cp24.com
-    quality: 59
-    images:
-      - url: "https://beta.ctvnews.ca/cp24/en/news/2020/7/8/1_5015233/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "Facial Recognition App Clearview Faces Global Probe"
     excerpt: "Privacy regulators in Australia and the U.K announced a joint investigation into Clearview AI, the New York-based facial recognition software maker."
     publishedDateTime: 2020-07-09T16:34:00Z

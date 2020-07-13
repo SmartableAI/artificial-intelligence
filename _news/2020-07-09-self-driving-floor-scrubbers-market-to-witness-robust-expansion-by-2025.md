@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Radar Market Share, Trends, Growth, Sales, Demand, Revenue, Size, Forecast and COVID-19 Impacts to 2014-2026"
-    excerpt: "This report covers the recent COVID-19 and its impact on Automotive Radar Market. Furthermore, it sheds light on"
-    publishedDateTime: 2020-07-08T09:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-radar-market-share-trends-growth-sales-demand-revenue-size-forecast-and-covid-19-impacts-to-2014-2026-2020-07-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "f8wgdbiST5BixBeQbtEcRpgPaGmI234xMTv3WcUG4+PHdZq2DqAgy69dVC/LSmcty2D206cR/LxFb4fCB8lJ2mpmazYWzEUdV+f+10Tu9gwurs5tYX/EPkNBV1auab57eV2M9pnuHxilaWDyzLwo/RZY3gy6c/bMx1wVGgjkGSqeg8vCA44MZtVgixhCc02TX2EhHbn6LpNdhqwAtffEle9q+hlOxN+XaSsIy9DXoo9jMDwkX4WBatAiFPqYVmdohNRMmNjzryERmnKU1RHqwgsGo+ko08Zgsl+rseajNzuc9nB5PsN3UvBQ/uNxAqJENoW+MFtIjEcLqMbkEtz6Zg==;A7HxAuE583qW38wFNOE3yg=="
 ---
