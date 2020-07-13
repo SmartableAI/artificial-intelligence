@@ -23,6 +23,22 @@ images:
     height: 683
     isCached: true
 
+related:
+  - title: "ASM Group of Institutes Introduces AWS Educate Cloud Computing Curricula in MBA/ PGDM"
+    excerpt: "With a focus on real-world, applied learning experiences, AWS Educate introduces cloud computing technologies driving innovation in fields such as artificial intelligence, voice and facial ..."
+    publishedDateTime: 2020-07-13T17:44:00Z
+    webUrl: "https://menafn.com/1100475872/ASM-Group-of-Institutes-Introduces-AWS-Educate-Cloud-Computing-Curricula-in-MBA-PGDM"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+
 secured: "kx5ScGPbes3RSuQ+ut2yPzoKcaIbvYhM2f5OatYbpsnEEpfGCMOQo1dokN7RRSVXw/OoXQi/Q+oGkIWEDdLLfejwhQLC+HRddk8GfGq/e4YKW2FNtuXU4PLEoHzRfxqkV3wIYI6PrwLFhT8rWxVCg4fR6ThQEWSAEQn2c4PvFeRky4HZd9JwcW3ZCrgos4d8/TjlZs4Or26uNYkUlwz8kwomSLpEQEkXlYKAnCwVKupAWA1oMBWT9KOP2wVoqKQtID7NtVK9YRZEBj6dMcbq0LW3jvhyQ9RC4Wcj1FHzUmG2CVefzTU3j3f2mYwrYfULDrF1LUOMKnT2tU1tuKEX2/H9Na/a2DNumzhmmYiyY/CehAOEETP31gdzwFO2a/iWDmimZxI2IL6JrJBvuESqcFNvHsYsNok7hGbJrpHppbEVBXJQqbMeLiYNzIglivPwzRzlM9yhMCC+1Z67fuDjiQwDVrA35wlLARfqM5WrCOH3N2UYV12JAyVx1SZJx1QSPnBS3sQXqgL0GntsT4CPmQ==;NY3DZo99n+WYM5EFqciIxA=="
 ---
 

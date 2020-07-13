@@ -376,6 +376,17 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 34
+  - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
+    excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
+    publishedDateTime: 2020-07-13T19:08:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/article-rcmp-facing-proposed-class-action-over-use-of-clearview-ais-facial/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-rcmp-facing-proposed-class-action-over-use-of-clearview-ais-facial/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-rcmp-facing-proposed-class-action-over-use-of-clearview-ais-facial/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 29
   - title: "Facial recognition firm investigated"
     excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media"
     publishedDateTime: 2020-07-10T11:00:00Z

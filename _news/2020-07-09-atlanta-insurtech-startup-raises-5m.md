@@ -33,20 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI, FinTech startup Senso raises $4 million CAD to further fuel US expansion"
-    excerpt: "Senso’s AI-powered platform is cloud-based and anonymously analyzes first- and third-party data, claiming to generate predictive insights about every consumer in the market. The startup, which focuses on the mortgage market currently, encourages ..."
-    publishedDateTime: 2020-07-09T04:02:00Z
-    webUrl: "https://betakit.com/ai-fintech-startup-senso-raises-4-million-cad-to-further-fuel-us-expansion/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 36
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Senso-AI.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "Y2qfgRDZoEIbMoc02iSPcmDbFQ1ijiZBl5DgDu5ifa0KalgubujS7pwZBOvtYHFy4hxtvI9+QLljoKiC+kcAfWmsIEtGMS498N1Wl8htHtExLMu4e1mYHd+a+/H/6waPA+jM6iUbByVMu9jtsyZPyuIyaFCmMDlVscZ7CUki/c4JHdhUXHF6cUsa2iC24+9WFnP8wt2DJ4PGnnMOYLUUD5mzN4AqWRblpefMx+eEhguvGrHnnn9jokqWMU65De2r84ksBoQ3kRZsu+HPG12NvFrjjCzsMldNHkcmu1+7B0c+q94ImipFAInNDkMcA+JELVIaAMTrGBs6OWsQRnI+/HNdP+ukWt5vsELGTyJ6HlOfzNbN0FSk5jVQnpFRf305Ar7fC1j8ARBkzyxGbnywPtRUQj6iNDOUzqJrBx+X79UTCU5RNcXTO6ACjtfGV7wFrFshI7Ks57ka3yUK8AuI91vmts7xJ3DIxQlHg9R2MUHcjX/3KZuLYYRJt+gBECndR22w+LB5GdRf73sybllk1Q==;y3hIfpo9/DSB4ZRSXa8DEg=="
 ---

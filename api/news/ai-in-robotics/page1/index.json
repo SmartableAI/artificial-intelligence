@@ -973,32 +973,32 @@
     {
       "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
       "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
-      "excerpt": "Stock quotes by finanzen.net SAN JOSE, Calif., July 6, 2020 /PRNewswire/ -- Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the floor,",
+      "excerpt": "Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
+      "webUrl": "https://www.prnewswire.com/news-releases/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-301088489.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727",
-      "publishedDateTime": "2020-07-06T09:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

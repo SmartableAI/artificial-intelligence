@@ -78,6 +78,22 @@ related:
         width: 288
         height: 342
         isCached: true
+  - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
+    excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
+    publishedDateTime: 2020-07-13T15:51:00Z
+    webUrl: "https://www.openpr.com/news/2089216/facial-recognition-market-forecast-and-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
     excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
     publishedDateTime: 2020-07-10T18:56:00Z

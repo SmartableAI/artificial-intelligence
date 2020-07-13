@@ -2,6 +2,146 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-08-microsoft-releases-preview-of-text-analytics-for-health-battle-tested-in-covid-19-partnership.md",
+      "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
+      "excerpt": "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-releases-preview-text-analytics-health-battle-tested-covid-19-partnership/amp/",
+      "publishedDateTime": "2020-07-08T16:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
+      "title": "Welcome, Robin the AI robot",
+      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp",
+      "publishedDateTime": "2020-07-08T15:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ai-save-me-from-my-rude-self-please.md",
+      "title": "AI, save me from my rude self (please)",
+      "excerpt": "Carnegie Mellon University scientists come up with an automated method for making communication more polite, thank you very much.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-save-me-from-my-rude-self-please/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "AI, save me from my rude self (please)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
+      "publishedDateTime": "2020-07-08T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-garry-kasparov-on-ai-people-always-called-me-an-optimist.md",
       "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
       "excerpt": "Garry Kasparov is a political activist who’s written books and articles on artificial intelligence, cybersecurity and online privacy, but he’s best known for being the former World Chess Champion who took on the IBM computer known as Big Blue in the mid-1990s.",
@@ -1064,147 +1204,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
-      "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
-      "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
-      "publishedDateTime": "2020-07-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-special-report-the-state-of-ai-and-machine-learning.md",
-      "title": "Special Report: The State of AI and Machine Learning",
-      "excerpt": "Appen Limited, a leading provider of high-quality training data for organizations that build effective AI systems at scale, released its annual State of AI Report for 2020. The report highlights increasing C-suite involvement and investment in enterprise AI projects as well as data being a key challenge as AI models get more frequent updates in production.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
-          "width": 462,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ibm-makes-its-rpa-move-acquires-wdg-automation.md",
-      "title": "IBM makes its RPA move, acquires WDG Automation",
-      "excerpt": "After all, Krishna predicts every company will revolve around AI. While Blue Prism ... Automation into its Cloud Pack for Automation. IBM also added that WDG Automation capabilities will be embedded into Watson AIOps and Cloud Pak for Multicloud Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/07/cdb821ee-ec47-4cc9-8473-cc2c21e0adf4/thumbnail/1200x675/ce9d2a4355f6a9b4cb982a96bcaa3b38/galaxy-unpacked-aug-5.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM makes its RPA move, acquires WDG Automation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "publishedDateTime": "2020-07-08T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

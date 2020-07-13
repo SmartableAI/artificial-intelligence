@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Janggu makes deep learning a breeze"
-excerpt: "Researchers have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. Imagine that before you could make dinner, you first had to rebuild the kitchen, specifically designed for each recipe. You'd spend way ..."
-publishedDateTime: 2020-07-13T16:29:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/07/200713104357.htm"
+excerpt: "Researchers from the MDC have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. They describe the new approach, Janggu, in the journal Nature Communications."
+publishedDateTime: 2020-07-13T09:04:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-07/mdcf-jmd070920.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "8ZJ1+du5rVQDTIpfVfj/a8OFv6jkaWR5lKO4Tn9G/a0OBdrFYysPLxNqe+GfZdp3auf6EJ6qqTOPHdM4tVyQRyJLXFBVKZPgx4RW6QrtXpDRvuiB7aZwE7s1EF0U/V2v4rcbEdWYAW5UIr107jXzhfm237Pc3BjUPotWstB0JCuUVYnH0hi9v2yGz8sxWSJMBFOrkhW2psCB+pM9HkGErBZXt4G7kbfCI/faFTOSZ7kBXVU862IdQRgDH/FyirvCP2zRHOuW9YFtiX0sv8tT2dACjKLEu8epxGKRmMXXCnSFbj5TAJDwZ8Pi9v5vp/hePUpBu6k7tvQgmdwbYGeLHw==;N3hTqhGlzU7KEYCh4jFX5w=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/237067_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "STmjT/xeTX8KdiuWPZqurkzytjKZLbOykh3DNuB0zzXzxAuup/Ly25DHeEp2x9nZDHgnndhuw+1ik1BqD2dO1FY1Fpwqcoen489MSuRwC4tYCK7SSPKi0eOqTCTa9Dgl0v+dFdgkc5MqVB/xamvQOkxTR613hzxVCXK9mYS8Bp0an+44c7Bv4Ucs957beJCPacInlu3kZrkpTxy8j9pK2z4tUdZ4MaWg9/Dby/UdX9dTcmxjOUkygG8pwulIuP2eGSPJ8pllXmTfPxMy86OlQF820xwj3s5hcoh+U3W9QTDMhNSKzvYntUIydTklSlYi4nDxW25YHSXcYeEVDxAmOA==;gcYR6iIcOzPi5VjsAxtd/g=="
 ---
 
