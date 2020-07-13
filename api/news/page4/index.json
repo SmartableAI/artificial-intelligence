@@ -2,6 +2,89 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
+      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
+      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
+          "width": 500,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "publishedDateTime": "2020-07-09T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us1578-billion-service-opportunity-by-2030.md",
+      "title": "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030",
+      "excerpt": "Several cloud service providers, including AWS, Microsoft Azure, and Google Cloud, have begun collaborating with robotics developers, while start-ups like InOrbit target cloud-enabled operations for the first major deployment of mobile service robots.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "publishedDateTime": "2020-07-09T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025.md",
       "title": "Huge Expansion for Global AI in Healthcare Market Expecting to Grow at 54.5% CAGR to Achieve Remarkable Revenue by 2025",
       "excerpt": "Selbyville, Delaware, Global AI in Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis. Global AI in Healthcare Market also covers top key players analysis and market segmentation in detail.",
@@ -109,7 +192,7 @@
       "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1114,96 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-finds-250-foreign-stars-that-migrated-to-our-galaxy.md",
-      "title": "AI finds 250 foreign stars that migrated to our galaxy",
-      "excerpt": "Astronomers have used deep learning to discover 250 new stars in the Milky Way, which they believe were born outside the galaxy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-99-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI finds 250 foreign stars that migrated to our galaxy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/08/ai-finds-250-foreign-stars-that-migrated-to-our-galaxy/amp/",
-      "publishedDateTime": "2020-07-08T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-petroai-and-aws-partner-to-operationalize-modern-analytics-reduce-costs.md",
-      "title": "Petro.ai and AWS Partner to Operationalize Modern Analytics, Reduce Costs",
-      "excerpt": "The automated integration of Petro.ai with Amazon S3, AWS Lambda, and AWS VPC minimizes time spent loading, normalizing, and managing data while providing the elastic compute power required for modern analytics at enterprise scale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
-      "publishedDateTime": "2020-07-08T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

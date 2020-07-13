@@ -125,6 +125,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-11T06:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
     excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
     publishedDateTime: 2020-07-08T17:45:00Z

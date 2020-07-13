@@ -50,17 +50,6 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Facial recognition technology’s double-edged sword"
-    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-11T12:37:00Z
-    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
-    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 39
 
 secured: "OkgnuIPK00Zo+rpiYnGsq3f3rC+ILKA5/tcKa11U+KgwPiXa8KcQY3P2VKpRmxS9t1KA4uSrAvFx8/WNT7h1UjW1jFv/FFhh4zU1CzwTfocdQ8fpJe5JZ8YcmjA4SBieK3dwXAhp+3EXzkTLTwzKgQ5k/6b0RhrQNeyn5qJk9OY/DwMC6EsRScWoSOP0Z8u92djwm0twa660mQpcF8z/iDhCdQlFtuOC+jBcBVpNTWZOlDVwev1gPc7ZMeZ7m9UW/N3qgvLwBVNBuVwxgYh53u1IpwH7iGHr3Q8MDGM4jdsXpfgWat4HBGMa7cK9XkOOa5+Xdq8OzUA3asJCk4U2Dg==;dz6e7fuDk1GpIDQtZtKFxw=="
 ---

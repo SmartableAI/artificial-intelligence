@@ -9,7 +9,7 @@
       "webUrl": "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -43,36 +43,36 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-detroit-police-wrongfully-arrested-another-black-man-falsely-identified-by-face-recognition.md",
-      "title": "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition",
-      "excerpt": "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,",
+      "path": "_news/2020-07-10-facial-recognition-linked-to-a-second-wrongful-arrest-by-detroit-police.md",
+      "title": "Facial recognition linked to a second wrongful arrest by Detroit police",
+      "excerpt": "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084",
+      "webUrl": "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 129,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg",
-          "width": 800,
-          "height": 449,
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5",
+          "width": 600,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp",
-      "publishedDateTime": "2020-07-10T14:50:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "publishedDateTime": "2020-07-10T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -100,7 +100,7 @@
       "webUrl": "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -251,7 +251,7 @@
       "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {

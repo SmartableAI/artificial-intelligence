@@ -8,8 +8,8 @@ ampWebUrl: "https://www.shacknews.com/article/119158/ai-teammates-coming-to-ghos
 cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15?amphtml=1"
 type: article
 quality: 57
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Shacknews
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI teammates are finally coming to Ghost Recon Breakpoint on July 15"
+    excerpt: "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts."
+    publishedDateTime: 2020-07-12T21:54:00Z
+    webUrl: "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15"
+    ampWebUrl: "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 87
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Ghost Recon: Breakpoint Changes Outlined, AI Squadmates Coming Next Week"
     excerpt: "This biggest change coming to Ghost Recon Breakpoint is the addition of AI Squadmates, which will arrive on July 15 as part of the game's next major update. The full team--composed of Fury, Fixit, and Vasily--can be activated and dismissed at will once you reach the main island."
     publishedDateTime: 2020-07-12T19:14:00Z
@@ -76,6 +92,6 @@ related:
       domain: bleedingcool.com
     quality: 17
 
-secured: "PuW9eRPBTvgSSBWvjwyYqmjKYzUoXwBLCOHQcDAQWE1V8EgNbT6uJlu8SK0rO6gTY5FXx/2MQ6GEFUnfSLqsd8pwmD2HOh5ave77mrUOwMdJVcrKjdJ5A/eC5XRUwnH56hnh6/ZKQ+4p86eKxPalIhHnB1YaihOjkvPIGvrHrNxSqaZkXTPezQ9VP2arCOApZ363Pj62qiPeVRf/gsoiY3wO77QTK9L95saS6hEUTDlznh42eWdk7TSngdI44yDDPbQLVjuZZLSD/EDpkD/tbSwBwo4OcKJfjuAbcp/AzU5lr7pGNK+XcH5CIbXaipiJQc2qgvi0g/v4rmcodL8Fgw==;4JGOLQ/IGcztkZExUyNTWQ=="
+secured: "aQyRsjtBJcWCnTfnyrD5McZVrNZWVCZzo99wW5VhaDXcBnNejQslqu/h/NRYgNGlMhk4nmHdQuOz3iBNlIq5/pBL9fLD6Gd70bI3bCM4SYzjfnEEd93bQLXXUnR/R/m5behGDJxkFR6xSm1wwy3BU+pOHgexWXzX5zU6Bel9DV9Pn1vUDpIOanuXHhTzZ7rx9aWJ4NAQmo+bNtRgTAqc9d71P2/6UccVZX09PJARAZJ5e/SHS0EWYomjVUhdrs1Yyg3dHRwsAyNHXRHQ4DNflxJnke+cPwMeGthVUceaUezkAT6kQc4sRXgHSsfRYMIMbKxBVRXZUbqcrOwKEklEAzwlUze1Y/i4VvIt2BmMllvIQH9c4rMDubScqmVhAlPkMVAEHZuz2f8BIQM/nEB62iGjf8vJa9/0sTyS5EaVo3fBodmVT4ljfU+bs4p6+B6GkGMNZBj28ZGP2w92ZnOIIcL/RJu3LM6BInLmYLfyhM92fBbyxqltmQlEMega1vngCVMfmaGl0GAYlxlihzIX+Q==;wsJqfIyEyXNG4KdVs7kjZw=="
 ---
 

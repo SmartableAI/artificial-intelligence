@@ -8,7 +8,7 @@ ampWebUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition
 cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/07/police-drone-facial-recognition.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,84 +25,6 @@ images:
     height: 520
     isCached: true
     title: "Can a Police Drone Recognize Your Face?"
-
-related:
-  - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
-    excerpt: "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,"
-    publishedDateTime: 2020-07-10T21:50:00Z
-    webUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084"
-    ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 79
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg"
-        width: 800
-        height: 449
-        isCached: true
-  - title: "Police use facial-recognition tech to arrest another innocent man"
-    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
-    publishedDateTime: 2020-07-10T23:08:00Z
-    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-10T20:42:00Z
-    webUrl: "https://www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    ampWebUrl: "https://www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology?amp"
-    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology?amp"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 57
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
-        width: 288
-        height: 342
-        isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-11T03:13:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 37
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
-    excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
-    publishedDateTime: 2020-07-09T15:36:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/troopers-in-crawford-co-use-facial-recognition-to-identify-man-resisting-arrest/"
-    type: article
-    provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 34
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2020/07/Sutcliffe.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "0vcM53H3i6eMQnqXAVex+rGa2D+lhg1diHFuz1q98n+h4kRutonIH1rtWAXoG9Wst2j1OqAIKU4ecU0Sxbe855HjPqqqmRFxQOtAdhtiANCFgUllsRPZJPv9I1+X5u5rwOTo2PAqvbl6FaVRCleln4oDDQ++IToOgblntq7CyK1vUCjfj5rMrHpIVdjxCo1eKmO0qScusXWLNFkbkCjdnv9IELpzACPk1H3PkVECIsZ5GFAB4eXH88vpq7BUgiruOoZTdCy14aOypCTx+4ByA5HZSGSvg7/woEBpruiuTop1G3VP4lxyedP2o8BfIPllrqFLBFD3eYhLQTRSPMsCFA==;YYBTEtGmSLZPC2AIaqA3Dw=="
 ---

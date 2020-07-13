@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition linked to a second wrongful arrest by Detroit police"
+    excerpt: "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,"
+    publishedDateTime: 2020-07-10T22:55:00Z
+    webUrl: "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html"
+    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
     excerpt: "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,"
     publishedDateTime: 2020-07-10T21:50:00Z
@@ -72,22 +88,49 @@ related:
         width: 288
         height: 342
         isCached: true
-  - title: "Can a Police Drone Recognize Your Face?"
-    excerpt: "using ever-more-common police facial recognition technologies. “Drones … represent the power of new surveillance tech as deployed by law enforcement—a new future where they have at their ..."
-    publishedDateTime: 2020-07-08T19:15:00Z
-    webUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.html"
-    ampWebUrl: "https://slate.com/technology/2020/07/police-drone-facial-recognition.amp"
-    cdnAmpWebUrl: "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/07/police-drone-facial-recognition.amp"
+  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
+    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
+    publishedDateTime: 2020-07-10T18:56:00Z
+    webUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/"
+    ampWebUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
     type: article
     provider:
-      name: Slate
-      domain: slate.com
-    quality: 44
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 52
     images:
-      - url: "https://compote.slate.com/images/af972d82-7cf7-4305-be16-178c6f7ee418.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
-        width: 780
-        height: 520
+      - url: "https://media.nbcnewyork.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
+        width: 1200
+        height: 650
         isCached: true
+  - title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
+    excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
+    publishedDateTime: 2020-07-10T19:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5416363002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5416363002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/08/PDTF/a0a03277-dd20-4bbe-bd87-28406ce1ffff-07082020_mikeoliver_jh-5.jpg?auto=webp&crop=2399,1349,x1,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facial recognition technology’s double-edged sword"
+    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-11T12:37:00Z
+    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
+    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    type: article
+    provider:
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 39
   - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
     excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
     publishedDateTime: 2020-07-11T03:13:00Z

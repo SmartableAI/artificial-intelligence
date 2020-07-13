@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 650
         isCached: true
-  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
-    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
-    publishedDateTime: 2020-07-10T18:56:00Z
-    webUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/"
-    ampWebUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 52
-    images:
-      - url: "https://media.nbcnewyork.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
-        width: 1200
-        height: 650
-        isCached: true
   - title: "Boston City Departments Can No Longer Use Facial Recognition"
     excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
     publishedDateTime: 2020-07-10T08:04:00Z

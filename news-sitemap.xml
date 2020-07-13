@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15</loc>
-    <lastmod>2020-07-12T14:53:00-07:00</lastmod>
+    <loc>https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution</loc>
+    <lastmod>2020-07-12T16:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/</loc>
+    <lastmod>2020-07-12T15:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15</loc>
+    <lastmod>2020-07-12T14:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -91,8 +103,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084</loc>
-    <lastmod>2020-07-10T14:50:00-07:00</lastmod>
+    <loc>https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html</loc>
+    <lastmod>2020-07-10T15:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -907,12 +919,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
-    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -939,6 +945,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-1029369727</loc>
     <lastmod>2020-07-06T09:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
+    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1921,7 +1933,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change-2020-06-30</loc>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16444565/artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change</loc>
     <lastmod>2020-06-30T04:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

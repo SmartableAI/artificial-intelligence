@@ -8,7 +8,7 @@ ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_faci
 cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "Facial recognition technology’s double-edged sword"
-    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-11T12:37:00Z
-    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
-    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 39
   - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
     excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
     publishedDateTime: 2020-07-08T19:36:00Z

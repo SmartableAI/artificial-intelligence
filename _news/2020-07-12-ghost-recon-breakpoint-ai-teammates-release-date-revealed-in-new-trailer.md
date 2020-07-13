@@ -23,6 +23,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI teammates are finally coming to Ghost Recon Breakpoint on July 15"
+    excerpt: "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts."
+    publishedDateTime: 2020-07-12T21:54:00Z
+    webUrl: "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15"
+    ampWebUrl: "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 87
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "AI teammates coming to Ghost Recon Breakpoint on July 15"
     excerpt: "On July 15, 2020, players can fire up Ghost Recon Breakpoint and enjoy the company of AI teammates, something I absolutely loved from Ghost Recon Wildlands. Your teammates are ful"
     publishedDateTime: 2020-07-12T21:53:00Z
@@ -76,6 +92,6 @@ related:
       domain: bleedingcool.com
     quality: 17
 
-secured: "5Dq1Ds4/IYQ/imUPR1BqlYl3Y26w02C8XTxCaYBW+zwA0RkQksZLkAzH3xUNch7xccMKWirDlT6sxMw0Owg1L3r9pLqGSz0hQlpkAZNCDjPwr56EaKZGMVkEhPUWFpJBK0FdGKSelH3mWM3B35PPEMTgfNr8XOJPuVDFfd2kvFzaR6zCXgykRWio7sOiL7Vm4rZIM8PPgDdu4iYA3b+WHvKHeKZXH6wVY0ws5wkoad+pB+O8qeZJ8MGy7R0qzwBkXUMdS+dsJHGHdAIOsQRizUc2+xwJjLRbPjTFJnOg54rupJ0AHttgN69sWVR5LxlzmiP9ZRZ1YTaZ3vmbr1yYQA==;auwRyXejqLowGMRfMvDSVQ=="
+secured: "SUq5L1I1RdA92+vitKVngdJFgEXpLkKrZveeNXSUHe23c/87X/B1V4DYQah9/bRJXwf4zTSIO9VnsoXqMA4QIH4jQeBzT6QC28IYmkXtqfwFPJtkjLyktEufW7bRgRwRke54JeXDR5BV4IfjHffcnphPOTx+8aViOZxfhJ8DwxsISSXK8TYN4dKYTfyMOEkcZc6aF9XOIzG1dJ4Sko7LEf5eaObNm5i/zF+eJjQ8LG1vCXzwdIAoWGoZR10ldJj2ooA7FDD6y5IDNlqCmWDaRDkF7Zj9AWhye6t7Bm0vFbdiDMg5KKaqZwU7A8XHkLedaTl+N31HKSMmJl6Fd4uQ7w06Z50mL4Zb06v4s0CaFKlIAiKnosw0oYv56ZrsvXkUKBOFn2ut2xfzyQCpAkzL3e7hY3Ne7NlwSV859SNB3Qnm0K0cfILBEhazF+HahBrzcmwQRG8Az4agdZ4muIsIRhyH1O21MF+OdO3DautHOG2ifwL1flrbJmIM5LsCAgt1IiN7CbKX/+KieBYZ05Oyig==;pUVQGFjqzhtFo3vA8R1bOw=="
 ---
 

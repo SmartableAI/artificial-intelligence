@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Concern is growing over police use of facial recognition"
-excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
-publishedDateTime: 2020-07-11T16:54:00Z
-webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
+title: "Black lawmakers call for ban on police use of facial recognition technology"
+excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+publishedDateTime: 2020-07-11T06:26:00Z
+webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
 type: article
-quality: 69
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
-    width: 1920
-    height: 1080
+  - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 678
     isCached: true
 
 related:
@@ -71,6 +69,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
+  - title: "Concern is growing over police use of facial recognition"
+    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
+    publishedDateTime: 2020-07-11T16:54:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
     excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
     publishedDateTime: 2020-07-08T20:07:00Z
@@ -119,22 +131,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Black lawmakers call for ban on police use of facial recognition technology"
-    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
-    publishedDateTime: 2020-07-11T06:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Banning use of facial recognition technology among Michigan lawmakers’ proposed police reforms"
     excerpt: "Members of Michigan’s Legislative Black Caucus called to ban law enforcement agencies from using facial recognition technology to identify suspects as part of wide-ranging recommendations to reform police operations."
     publishedDateTime: 2020-07-08T17:45:00Z
@@ -177,6 +173,6 @@ related:
       domain: globalnews.ca
     quality: 31
 
-secured: "npBNbpjR5/R4ZQgDJ/oQe7W80YBsdI0uIpbTgCXyi9ClJZ2kIzLYC8FnusD9qsPIMmTqcJ8a/1+cW71B8a5kLoCAPCTo5zw86t4EoNwBPoAFsobfr0NRRDRW5/gukGG7jP0g75unzF17ZH83R+xESq9aoKWQ03+SSqJ/kDKHY3FticppBvaWx5EoQZWSUmhjHdvRXDKQZKhpmoPuig3PhHuj8yQUbje79leV1IsYJHjI6VDtF4hwrqfQ+HLTAUoR3aPkFG3+K114oukvegGQGqpl5Lw9JF4Bv8mjhg9GCyCAsibioPH9YO3A+Ap4X5rIIVLo2eK+11W5AQo9vGY5jw==;jHHI7Bazr8IuXwSnrnHSjw=="
+secured: "0r/hOc1yTAH/dN49D7qTb/95mBJAlOEiaORTPsEv/Fool3wcjZ+Xr3mbHwC8V416xIiY9eVug9oLl1gnBzQU45t1R7NEsYYyCU8ZhXCl8nNx6wbPz07Vm/bJ8F2HKOKHSd6Ovr0a7nNNMmR13vZpod6rZDKOLfsBCOlaLiacqHPIcw81d23Ai7Bi8WWz0DPw2GlhEl/6tupfFmlFQZC3g02VnAXuTMgEyO+SaWJ3vFhFK6SZrDEP3zhyzimdnrUNskhHzemR0T+HPUSol0Cf+k6b8o0P7xpr06McCkrZZugDCKvhdUmb0ah0uCypQas56FZtHrJ9g07s7LhqJF2Fbg==;LxKGcHq1ESn7A5wRCA6l2g=="
 ---
 

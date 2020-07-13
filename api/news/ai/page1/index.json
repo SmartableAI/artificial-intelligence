@@ -2,34 +2,142 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-12-ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15.md",
-      "title": "AI teammates coming to Ghost Recon Breakpoint on July 15",
-      "excerpt": "On July 15, 2020, players can fire up Ghost Recon Breakpoint and enjoy the company of AI teammates, something I absolutely loved from Ghost Recon Wildlands. Your teammates are ful",
+      "path": "_news/2020-07-12-how-the-coronavirus-is-turbocharging-hong-kongs-fintech-revolution.md",
+      "title": "How the coronavirus is turbocharging Hong Kong’s fintech revolution",
+      "excerpt": "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment.",
       "sourceUrl": null,
-      "webUrl": "https://www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15",
+      "webUrl": "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/12/ai-teammates-ghost-recon-breakpoint_feature.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_opinion/public/d8/images/methode/2020/07/13/fa81fb8e-c385-11ea-8c85-9f30eae6654e_image_hires_062204.jpg?itok=zG8-kynX&v=1594592533",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15?amphtml=1",
-      "cdnAmpWebUrl": "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15?amphtml=1",
-      "publishedDateTime": "2020-07-12T14:53:00-07:00",
+      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
+      "publishedDateTime": "2020-07-12T16:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Shacknews",
-        "domain": "shacknews.com",
-        "images": null,
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university.md",
+      "title": "How AI Researchers Are Tackling Transparent AI: Interview With Steve Eglash, Stanford University",
+      "excerpt": "One of the often cited challenges with AI is the inability to get well-understood explanations of how the AI systems are making decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0b8c72147a4f0006e5c12f%2F0x0.jpg",
+          "width": 1200,
+          "height": 822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/12/how-ai-researchers-are-tackling-transparent-ai-interview-with-steve-eglash-stanford-university/amp/",
+      "publishedDateTime": "2020-07-12T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15.md",
+      "title": "AI teammates are finally coming to Ghost Recon Breakpoint on July 15",
+      "excerpt": "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/",
+      "publishedDateTime": "2020-07-12T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -675,7 +783,7 @@
       "webUrl": "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -709,36 +817,36 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-detroit-police-wrongfully-arrested-another-black-man-falsely-identified-by-face-recognition.md",
-      "title": "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition",
-      "excerpt": "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,",
+      "path": "_news/2020-07-10-facial-recognition-linked-to-a-second-wrongful-arrest-by-detroit-police.md",
+      "title": "Facial recognition linked to a second wrongful arrest by Detroit police",
+      "excerpt": "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,",
       "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084",
+      "webUrl": "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 129,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg",
-          "width": 800,
-          "height": 449,
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5",
+          "width": 600,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp",
-      "publishedDateTime": "2020-07-10T14:50:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
+      "publishedDateTime": "2020-07-10T15:55:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1321,96 +1429,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired.md",
-      "title": "IISc research team designs eye gaze-controlled robotic arm for speech and motor impaired",
-      "excerpt": "An Indian Institute of Science (IISc) research team has designed a robotic arm that can be manipulated by eye movement using a computer interface, to help people with Severe Speech and Motor Impairment (SSMI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/7/2020_7$largeimg_580339199.jpg",
-          "width": 900,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
-      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071",
-      "publishedDateTime": "2020-07-10T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-this-company-utilizes-ai-to-maximize-customer-acquisition.md",
-      "title": "This Company Utilizes AI to Maximize Customer Acquisition",
-      "excerpt": "To truly scale your business, you need to gather your own customer data and discover how to personalize it to acquire new customers and turn existing customers into lifetime ones. That's easier said than done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/353006",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594236091-Ent-Spectrm.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353006",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353006",
-      "publishedDateTime": "2020-07-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

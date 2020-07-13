@@ -1,47 +1,35 @@
 ---
 category: news
-title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
-excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
-publishedDateTime: 2020-07-10T19:59:00Z
-webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5416363002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5416363002"
+title: "Facial recognition linked to a second wrongful arrest by Detroit police"
+excerpt: "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,"
+publishedDateTime: 2020-07-10T22:55:00Z
+webUrl: "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html"
+ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
 type: article
-quality: 51
-heat: -1
-published: false
+quality: 89
+heat: 169
+published: true
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/07/08/PDTF/a0a03277-dd20-4bbe-bd87-28406ce1ffff-07082020_mikeoliver_jh-5.jpg?auto=webp&crop=2399,1349,x1,y22&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5"
+    width: 600
+    height: 350
     isCached: true
 
 related:
-  - title: "Facial recognition linked to a second wrongful arrest by Detroit police"
-    excerpt: "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,"
-    publishedDateTime: 2020-07-10T22:55:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
     excerpt: "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,"
     publishedDateTime: 2020-07-10T21:50:00Z
@@ -106,6 +94,22 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
+    excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
+    publishedDateTime: 2020-07-10T19:59:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5416363002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5416363002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/08/PDTF/a0a03277-dd20-4bbe-bd87-28406ce1ffff-07082020_mikeoliver_jh-5.jpg?auto=webp&crop=2399,1349,x1,y22&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Facial recognition technology’s double-edged sword"
     excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
     publishedDateTime: 2020-07-11T12:37:00Z
@@ -146,6 +150,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "f7Z1qP6QaYHGYuW0eBKFhEIn4EShucLsyYkEot65JZy/z2458nuBIf7c7/km05gzN6a3RVZVSYGoEUWHSCJLv3YCVbrhwPpYQZ/eEWQXvTY7HXKSc0bKmK9ezUwKPV7bzwUE08BSh4KdFgKAPMEnVlLK5rRLpyBOkezSNBTjwNJF5FDk3COhOhkOo/9DVZ/nGpFMymSchJYls6txE2dGs3SvEoHojgNlnezBv3Fdg29L8MkPrFA79rL01qfa61yVMrENhkgSmdQ2aoeNQctugGpetC7YdOM/rNZjTvFTAi+k1/1Y7zVRkr5cpCySqzqZwG4s9Y6G+WKqS53xLOyW+Q==;WFL0l3r/Z5syld6NahpZFA=="
+secured: "jGEP0MAb6O3fm3c+QalsVfeWYAeUQ24ZCy1DaJWWlMoLhIWYL8p6T20TTIITHcAjhyOxR8AuxcM0t6EOdomcP5wZwxKMxIe5iUaoANrtB0Pi+yPZ/zh7ye07EHFvEE7GOR6NEjoP5J1wlJb4X9L3OG1h9TpGtnTeRWjRSWpZM1C7Z0uyH7h5w4KRO4mlFxnuBoLM0UASR5K5nYgCnP09Rg2UbZTzjcJ1wpY0+trJM/nkw0+jU6URHn6TJzHT6kZ+n4lRcrBNcgKnH1+41M0Jh/g51CiwiYSVCX6KHBOE6Te95c540lOKBI0oAWMVpXztGElXsCB9+QqJUXADC5lQLQ==;Rt+9J8tfZNdQtL8ZH81WPA=="
 ---
 

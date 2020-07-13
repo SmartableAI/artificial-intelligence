@@ -2,6 +2,105 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-08-googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images.md",
+      "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
+      "excerpt": "Google says it will begin providing context around images in Google Images, based on the content of the webpages hosting those images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1593073191933.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
+      "publishedDateTime": "2020-07-08T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages.md",
+      "title": "Facebook’s speech recognition model supports 51 different languages",
+      "excerpt": "Facebook researchers developed a language model they say can recognize words in 51 different languages, including 'low-resource' languages like Persian.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s speech recognition model supports 51 different languages",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
+      "publishedDateTime": "2020-07-08T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices.md",
       "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices",
       "excerpt": "Based on imec’s Analog in Memory Computing (AiMC) architecture utilizing GF’s 22FDX® solution, the new chip is optimized to perform deep neural network calculations on in-memory computing ...",
@@ -1317,105 +1416,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
-      "title": "Facial recognition market to surpass $12 billion by 2026",
-      "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/07/52407e3d-cfe0-434d-9778-e1df9e7274a5/resize/1200x/dd5a6f0f9bbb18f40fa1b8cffa7ccf91/facial-recognition-primipil.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Facial recognition market to surpass $12 billion by 2026",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "publishedDateTime": "2020-07-07T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation.md",
-      "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
-      "excerpt": "Hungarian autonomous driving startup AImotive is leveraging its technology to address a different industry and growing need: autonomous satellite operation. AImotive is teaming up with C3S, a supplier of satellite and space-based technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/AImotive_C3S_image_01_1600px.jpg?w=1024",
-          "width": 1024,
-          "height": 640,
-          "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/amp/",
-      "publishedDateTime": "2020-07-07T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
