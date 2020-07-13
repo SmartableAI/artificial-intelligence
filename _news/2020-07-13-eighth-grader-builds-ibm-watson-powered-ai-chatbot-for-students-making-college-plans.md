@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/eighth-grader-builds-ibm-watson-po
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/"
 type: article
-quality: 82
-heat: 82
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/07/10/f18246a0-d75c-41fd-a7f4-5514fcb4db8a/resize/1200x/545cbe8ab7e80de2653ef37cf6138ed3/harita.jpg"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "cqadihqlZd2g1XWGn7L5ynZGcVrlII9uj6tyC3jIvHcUhpmsXTB6fJow1PX6AIwYsl4G/gCp9vSG+PzKw2c2oxYrU+C3PWNQMym+pDJ8znVeL6xBk9N2Eoy2hMi5N6zo3VWPRtAY8v0t1TI95eWYMIf/jGnEhe4uCz2RZmTxFGjuyG2UIsnGm6NW7B93Ys/6X4g1czOWIZWlSdxqS1AG1MQjWQZEYgIJDQLfho1aET29UGCxD4WlgvI/eOjrNRfp8oHe0B0AlyqK8vuqjA8zWgoTP1p2j02EtO3O4VEIctBJzJkzJOn98vFPm5ymRmY+RM3FSY7AwZyF1FinpwgSQg==;rAz7+Lrd8qIatsU5LvmrjQ=="
+secured: "XXm8H9FC6i6eifghsBloXEqEEQUXsIda5cQdpUI6noM1L+xZgyQTJyjmM7nEit2Z5nvC5RQIg9EaewvY5MoJXMrCpKuKYycEnixQM7c8r9wWMJg+af/+mREN403GTJwSLZv2B/YCKeV2BazE5QQipcG6mrykiJxGo2l0p0fE0Yi8lsZlptNN+bmEV97qJPjIURdDYliTIxE0VBeS8sdpQKmxSJb6+f6pW5Wp1cAxMYKmezo7du1sMUF9gRZjx3frS3oOsCHOXtFADvfr7iSF3oHgqsv4Oikn6U4/Q9LtT/03Sd/oPmWy8iChZ9XMmNzeo1ZfN6T7R83SDuJh1V6ty/xYrYs3VyXbICzQxgoUbSQ14G6GudzeIXd0HiX8iPQM8enQNAZHn7FNk6vl0J7yJ5ChpSc8dSTuDZ8aiVjw4+M6GHWM1mvpT8F1p5z9qHGT7tZtpSzJLm5BruWng7K6vxwsg9BxAtz4827XUXNUMQCnziHOy4vK69ROs7j6Kvzfk1yqZTQYmEc63PLz/1WpMQ==;wI+o5zhWxO+a+mF+LDz8/w=="
 ---
 

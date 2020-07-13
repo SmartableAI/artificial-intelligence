@@ -23,19 +23,21 @@ images:
     isCached: true
 
 related:
-  - title: "Video surveillance to drive biometric facial recognition market to $12.9B by 2027"
-    excerpt: "By 2027, the high demand in advanced video surveillance, as well as AI and machine learning adoption will have generated a 14.8 percent CAGR for the biometric facial recognition market, reaching $12.92 billion,"
-    publishedDateTime: 2020-07-09T20:41:00Z
-    webUrl: "https://www.biometricupdate.com/202007/video-surveillance-to-drive-biometric-facial-recognition-market-to-12-9b-by-2027"
+  - title: "Artificial Intelligence (AI) in Retail Market"
+    excerpt: "The latest study on the Artificial Intelligence (AI) in Retail market published by the Reports and Data offers a deep understanding of the various market dynamics such as the challenges, drivers, trends, and opportunities. The report further elaborates on ..."
+    publishedDateTime: 2020-07-13T13:47:00Z
+    webUrl: "https://www.openpr.com/news/2089130/artificial-intelligence-ai-in-retail-market-overview"
+    ampWebUrl: "https://www.openpr.com/amp/2089130/artificial-intelligence-ai-in-retail-market-overview"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089130/artificial-intelligence-ai-in-retail-market-overview"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://cdn.openpr.com/T/7/T713606525_g.jpg"
+        width: 650
+        height: 303
         isCached: true
 
 secured: "lcMlp2cS10NPNufmB+JmCJ7S8aNJSns9MwNCHCauWjJIrFJTDs45CeaFDvdb1FUt1RTJPRJ1deZlmMsKM3eqHX5HekkuhZJQkI5ugj66b7u9+bEf7F+ZShNY66nk4eZHsOmiOS4Y6lVn3cijBRqLgPnCJuQ1aJJCKOjjjKNyhr1+F+rAIH7WbfcKteQnbF+qkleQPFwnEql/7FZlpGum8F7Ipz2yPlH7T8W3aWHibepYI8SQowErP1a3KaIiDKVJM33O5Lq5X1jE5YLZDf1v8Clt8bvJ1jOxCeQ+Y7B6Y1oxr5oe+oG09A9Q4zvlzKWQz0j3WrMDuDrBBK3faLJYJAka8EbNTWx9cAAFScVrkXFKPYke4rS5E5iYLD1/TBe6jRD/GsBIXvzT1HepYbK+E22pWj+9dIWnlAIq4EEPEIfyLEicCGQf/z/zmxY3bP/MLx+IyfKo/jsdXrWMfO3rdwYBzmvPffqIBK3GI0cwvPC71mva3cNV39r0BrCohH8IzUn1sPfeJ4HFte0HvHVqmA==;qgu/0uL5vRFnbFKgJMIQIA=="

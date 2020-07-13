@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
     quality: 57
     images:
       - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/12/ai-teammates-ghost-recon-breakpoint_feature.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Ghost Recon Breakpoint details AI Teammates and new Event"
+    excerpt: "The biggest of those is the addition of AI Teammates for gamers who want to experience the game in solo mode. Check out the trailer for that here! Leave it to Ubisoft to turn around a ship that’s steered towards the cliffs. Time and time again has the ..."
+    publishedDateTime: 2020-07-13T15:35:00Z
+    webUrl: "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/"
+    ampWebUrl: "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/"
+    cdnAmpWebUrl: "https://www-gamezone-com.cdn.ampproject.org/c/s/www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/"
+    type: article
+    provider:
+      name: GameZone
+      domain: gamezone.com
+    quality: 57
+    images:
+      - url: "https://3mgvd43kcscx1ru2dy3rvnub-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/far-cry-6-3.jpg"
         width: 1920
         height: 1080
         isCached: true

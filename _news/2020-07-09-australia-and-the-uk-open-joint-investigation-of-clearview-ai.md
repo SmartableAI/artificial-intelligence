@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 854
         isCached: true
-  - title: "The Pentagon’s AI director talks killer robots, facial recognition, and China"
-    excerpt: "The Pentagon's Joint AI Center is working on lethal \"tactical edge AI,\" but is not working on facial recognition, said JAIC director Nand Mulchandani."
-    publishedDateTime: 2020-07-08T21:33:00Z
-    webUrl: "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/"
-    ampWebUrl: "https://venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/the-pentagons-ai-director-talks-killer-robots-facial-recognition-and-china/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/jaic.png?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "UK and Australia open joint data privacy investigation on Clearview AI"
     excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
     publishedDateTime: 2020-07-09T15:41:00Z

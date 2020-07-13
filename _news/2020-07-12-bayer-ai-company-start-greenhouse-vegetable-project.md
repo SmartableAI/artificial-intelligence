@@ -3,19 +3,19 @@ category: news
 title: "Bayer, AI company start greenhouse vegetable project"
 excerpt: "Bayer is partnering with Israeli artificial intelligence data analytics company Prospera Technologies Inc. in a program the companies say will optimize profitability and sustainability of greenhouse growing."
 publishedDateTime: 2020-07-12T20:02:00Z
-webUrl: "https://www.thepacker.com/article/bayer-ai-company-start-greenhouse-vegetable-project"
+webUrl: "https://www.agprofessional.com/article/bayer-ai-company-start-greenhouse-vegetable-project"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: The Packer
-  domain: thepacker.com
+  name: AG Professional
+  domain: agprofessional.com
 
 topics:
   - AI
 
-secured: "6FD/8PatnD1gzVUyXUFpqos4GWwXIzIU123E8S/ZFGKHHIxwAstlPmW9uZF2s/+iQafybOqML4MiMe6lG+VdgishYWrXVtLVpMH/cidqZjd12GDOxpiMH0nSadEUBW5b5dr5X+OfHa45t4a3fkwzqBMYNW22VP+F5ilPSu+BXohIsURmv4B0GhL/SlN+5+Mb4UGKpOwgyAFYInk+6bqMLHm0yEeTVKkOwNrEQKLyKsd8XR77lcI+ClgRh/XlmYDGrtbQaZmfP35Z7t9wRsV/hZCVsbSq/TauB5+iwDsMLPD0RA2XFjopBJmqgffRmF4xCCKdkpk2ikke8eheZ+tGjg==;DZx6ZrfqPzyKBYBd0h/d8w=="
+secured: "L2nyuJS0gxG8sCsSEU8Sp4M/TqlHRyngsdRBLQHeQZ0Dmwhls1/QdvkoaSJvZraRd9Ah4aaOMGWJz6/diDcSK0VDdF+o0l2R7UqSCR/zXpdxLEYvTSN9jNIW7dnejpov56Ej+Yb6HmECSBLIpp3Hn2pGVW8EfASsX1QUXF5PQBrJs0v2awLe0WmugIlhKaL1akh0p2B+SbhH4JKQ+zSGAihYubLlpLhbrmMUlgzTF8YuZGDtafro8DHBPKB+y4u2ZqdjVtRVrQvkqwMxzjCYnui8+Ek70VW9uy69frwW8rTCw2smltg7rTqSTWBYpaH0n1HEf1wCw1RyQWLWsByJ8w==;I0Jd6ZNRbdPX8WSYCnvBfw=="
 ---
 

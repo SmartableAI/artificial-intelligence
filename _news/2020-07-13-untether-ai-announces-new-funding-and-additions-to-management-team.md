@@ -3,7 +3,7 @@ category: news
 title: "Untether AI Announces New Funding and Additions to Management Team"
 excerpt: "Untether AI announced it has closed an additional $7 million USD funding led by Radical Ventures with participation by Intel Capital, both exist"
 publishedDateTime: 2020-07-13T13:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200713005160/en/ Untether-AI-Announces-New-Funding-Additions-Management"
+webUrl: "https://www.businesswire.com/news/home/20200713005160/en/"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 627
     isCached: true
 
-secured: "R0MhvB5qKoXEDc2oHjY9ZpduPNt8I8vsopE37OESN6qO6X/+Qv1hbwcS5L3bSd3ncWuTETWkGmPcki1D3crDhPWiihkT1VZMRylPI9C2/mQrQdStgtyxZj6rHUqbv2hbER4bc/DK/6H/P+5nb6QqvCjCMGk+8l5ZyUILZ1AOUvu7948Zr1Mz7tNgU8H0s/JgJ6HlwcxMTucfjYsFVOaUyjC6f1xlEyfG9goOxuoTK0/1rjoGlADRqMV7mHhkAJ6kaptPgZ5fmix+RmT/D3zrlijGP2mnZNwWyamykLsfs0FqKgm8ZteQSU7xFrlYVui1miUOqHV57MwXZNTGfUpSww==;5T7uUlzL13DPf2z3kSnL8Q=="
+secured: "906jFG+x7X2GE6lKPTtKeHBfBe/DFyl/ADFxoqWsPPf2qchsI6hoCdygn8PV7/Xh9he7dyEKRt51dxswow6LpIkvxSn4717HqkhUQiUNVMD5/QaP+MCNAOjj8INhwk3pR8Tz82EVH7thXs3RmCljhzNtzR4CbN+4jpSjBEOYzuR3SKXemidqvwEOK/3M+t8tGl8IjRjwTT0XN6X3NsOsVLb2e56PkWKna3ZMnWdtbegY8mTu9Jg2FDeDgyONFy+u7A/21kBMTAxdn0+fmJUuyVVo9WAxINof7VauF9qAb5wygQtdM2fyZpjhBooaOJ1jLZIaUIzFhqsTCnLHkvLxmg==;z6mut+HfdqPgy6yWt4vbVA=="
 ---
 

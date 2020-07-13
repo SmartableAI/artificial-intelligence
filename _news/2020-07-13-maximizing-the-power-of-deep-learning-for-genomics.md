@@ -42,16 +42,7 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Making Machine-Learning Design Practical for the Edge"
-    excerpt: "Bringing AI to embedded devices at the edge hasn’t been for the faint-hearted. However, that’s about to change."
-    publishedDateTime: 2020-07-08T21:15:00Z
-    webUrl: "https://www.electronicdesign.com/technologies/iot/article/21136192/making-machinelearning-design-practical-for-the-edge"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 6
 
-secured: "V/9EFlDzlT5RNsHdeCNyshzVmjpCfF/3NwzzR8pLhw0b3LRFxbk1XfJPWY33ApKWVqzD7BlbyDP1H186/SgG5sVDMjOJzdUXrMB05RH5iYT/JX0+KidxdICy/RN4Akjm+Otq2gzwA5USz1FhqshJVw7AuH9hQxU/PiExjCwHBip1K1n/MVprfUv20hgD/PYtKXG7YEut59GpuJxNn4QqpwLNm/1jDph82JhPg8NiRM/KGJiv9kYGw9P5i3im6ngaK+Cuyygthxx/ZAf2eiRzoMvYCfWxcePQbsM7n5W4Fler9JjvSITNvxELz/c1ugRinOEl+RqxsqbrM8oPPWlQOQ==;qorv6ErwMTFnuQmCJ3lUAA=="
+secured: "vDc9/NkRwq/9lcVajySPqUcQOi9jY+oGlTbRp4/4nfflZkfnYJCAhdDrVzZMWazflpJXefpodDbL4DRM6hhFYa4ZDs2xoDs62mIzFO4DgZcfC6Z3Lmy7YMy6Tv47/vpj2JfDQdzLUx0ABpR3eiNNDkOdacyWNjMPyjby9163SS7NlLKEQj938383PCQdc37cjbY93sgUaCCXWu0qHZm1V7yLQIQ6hR/RmJ25oAEaW901ZTHnhiQYbVzqlU51GFHu94oCy/2ZunZRUfryJBEGNXygL/Ayq7TVz2rkkGLMlwLTUr1UvjhZz6/emn4VGjFKWDBSaj8dnr1DljZmG/fE+PwoVQZumXmjfLnrtRrbFlg/iYAoaVAVxIsiQ96QD1hGCA2bzq8evSbQ+CghiSp6JUqiAOStXQwvrKwuEhd3m+MXXExpwms3yWfcsDHWEntcpwfBcaeLbEoT1mX2E3U0oxJrF3Am6wlYUjg9cUFM0x+syFA8Z8vdhEu86BP26q9mLXc9fN/REdsJLwCQSWRR2w==;tQ3ADWC8Amh3p5To2pkRMg=="
 ---
 

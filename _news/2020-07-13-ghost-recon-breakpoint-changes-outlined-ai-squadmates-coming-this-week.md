@@ -57,6 +57,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Ghost Recon Breakpoint details AI Teammates and new Event"
+    excerpt: "The biggest of those is the addition of AI Teammates for gamers who want to experience the game in solo mode. Check out the trailer for that here! Leave it to Ubisoft to turn around a ship that’s steered towards the cliffs. Time and time again has the ..."
+    publishedDateTime: 2020-07-13T15:35:00Z
+    webUrl: "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/"
+    ampWebUrl: "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/"
+    cdnAmpWebUrl: "https://www-gamezone-com.cdn.ampproject.org/c/s/www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/"
+    type: article
+    provider:
+      name: GameZone
+      domain: gamezone.com
+    quality: 57
+    images:
+      - url: "https://3mgvd43kcscx1ru2dy3rvnub-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/far-cry-6-3.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Ghost Recon: Breakpoint Changes Outlined, AI Squadmates Coming Next Week"
     excerpt: "This biggest change coming to Ghost Recon Breakpoint is the addition of AI Squadmates, which will arrive on July 15 as part of the game's next major update. The full team--composed of Fury, Fixit, and Vasily--can be activated and dismissed at will once you reach the main island."
     publishedDateTime: 2020-07-12T19:14:00Z

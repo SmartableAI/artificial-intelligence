@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets"
-excerpt: "Artificial Intelligence in Agriculture Market by Technology (Machine ... CHICAGO, July 13, 2020 /PRNewswire/ - According to the new market research report \"Agricultural Robots Market with COVID-19 Impact Analysis by Offering Type (UAVs, Milking Robots ..."
-publishedDateTime: 2020-07-13T13:39:00Z
-webUrl: "https://www.wallstreet-online.de/nachricht/12716894-agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets/all"
+excerpt: "Driverless tractors are quickly taking over farms for ... thereby leading to the growth of the agricultural robots market in the Americas. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and Predictive ..."
+publishedDateTime: 2020-07-13T13:34:00Z
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-07/50157755-agricultural-robots-market-worth-dollar-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 related:
@@ -61,6 +61,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3qqdWfzcioYb5oawle/1sfmbw7dcdqeNMD70EusDxYARAtWqr+fjvHbkHoWjiZ6LKIbejYcSPLeF1+72/p7iFd2DhRtVfi6t2KbZ8WMbJ1Eoo0TTuRSYZn0zNSZuWu+vYTnjkDGHCjeOXY3yAlurZ8JdpGNHZgqVqnWO2ShzI9AsXk3IekBnPrxYJ4bTNmE6hfbBqiMZlVf8BtK6uA0H+OB2SNV4codGDB6VxGgJLoljjmfT7kAm/dYF3DoSc0edDEmnREATYpuhOPhh3Nh/JJePKksZDbpZNkjRsCcRr17WfyTBfZq73kS81vWrsj/6EvP7RsubLInziZsXxxJDOw==;p9g3BSdJ5+yeav3RbEISUA=="
+secured: "I2GD5i/48iaW9nsZvKmzy/UhypGIb69mHHIPTgLZNOLLX/3AKtAxBRTNiijld8VmMdAk753iV12d8Vsr6KgxFjGXk7Gd2yq0+8V44djRDeFhYl+lFLDt9ZhkVfpMM68gXPRhc+67kHT7ibUe8TYACJTGumwGErVUPfnjDpyiu4z39LvVjUCmo6+A/jqe8gOJLuU87aUtr4xdqu1T6a7of+mhbxiwqN36/tvHpTXH3+kUvzdaMuEMDPXYUxfpXnsSdTKH8h+UhF5B0b5c75yOQox37i1ZqZoUYaxomj3o3nO5ZnS4+JfrekB7DOoj8HMo4roVy5keBCXUNPko5QWhvg==;xrF6J+DuBuIGL9rq0aJT/g=="
 ---
 
