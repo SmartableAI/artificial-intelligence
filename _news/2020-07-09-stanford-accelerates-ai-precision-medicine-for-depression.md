@@ -18,6 +18,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Gut microbiome, big data and machine learning to promote precision medicine for cancer"
+    excerpt: "In this Perspective, we provide a brief overview on the role of gut microbiome in cancer and focus on the need, role and limitations of a machine learning-driven approach to analyse large amounts of complex health-care information in the era of big data."
+    publishedDateTime: 2020-07-09T18:55:00Z
+    webUrl: "https://www.nature.com/articles/s41575-020-0327-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 31
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41575-020-0327-3/MediaObjects/41575_2020_327_Fig1_HTML.png"
+        width: 685
+        height: 431
+        isCached: true
+
 secured: "4Alhz3dF2LdD9TiqfrdKZwrxWyH5JsSnb0mB2wXqXS3pCU1ksRRQ44iLDulbkz7RPE/cfR+fcStMdo3hlZ+CYinMX/JSgT1shOxPqOEJmm/WcIk+H5OS2LvLIp6imqYfmcIvsGAnYf0qLjQqR8GcyeukYD2vy67+MtzJQL7749MUbJ9RVli4OWUrmfI0VBmqGAXKB9woVVV5+cZXp+YWu98mpwAOi/FZu7JdixDTrBPuer5a9V35w20tH8eEEd9o9f908OfjqmIkwltgLn6nAxdSoMOMBecg18JkeOgygiIN1nhsNPjNF2uOOJpwZ+yB09p++9ndfB1gfOMVt40B5JS2sWcILRKF7YL55zlx/HVUXIg7Fk2DBQGXJia/lFyxYZqZTNna8bw5bujbSb/kRf2Wh8y7WvbIku68EJkkg67H364SatJxG1OzKyFbPq3q4Hfql9XQAJq0meVUtQkOPIZ29VbqclsvzYcWzyGEoJJsxdgu4au9suuxJJcENaijkpYKNo2LoogHmnLPG6xcdA==;AjHAF8dBsoSgFtH7rTt5iQ=="
 ---
 

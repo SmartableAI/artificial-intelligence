@@ -347,20 +347,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Bias in Facial Recognition: Renewed Scrutiny of an Old Problem"
-    excerpt: "Facial recognition offers some benefits, but poses certain risks that should be addressed as the technology is more widely adopted."
-    publishedDateTime: 2020-07-08T11:14:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/07/08/bias-in-facial-recognition-renewed-scrutiny-of-an-old-problem/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/01/Face-scan-Article-202001172026.jpg"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Trulioo Launches Facial Recognition, Document Verification Product"
     excerpt: "Trulioo has introduced a facial recognition and document validation technology to enable small businesses to provide online protection to their customers."
     publishedDateTime: 2020-07-08T15:31:00Z
@@ -399,22 +385,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "ID Verification Solutions Provider Trulioo has Developed New Facial Recognition and Document Authentication Software"
-    excerpt: "ID verification solutions provider Trulioo has developed new facial recognition and document authentication software."
-    publishedDateTime: 2020-07-08T11:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163785-id-verification-solutions-provider-trulioo-has-developed-new-facial-recognition-and-document-authentication-software/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/02/Bust-Sculpture-Paris-Rodin-France-Art-Face-600x595.jpeg"
-        width: 600
-        height: 595
         isCached: true
   - title: "Global Privacy Regulators Probe Facial Recognition Firm Clearview AI"
     excerpt: "The privacy regulators of the UK and Australia have announced a joint investigation into controversial facial recognition firm Clearview AI. “The Office of the Australian ... York Times report claimed that the startup had scraped as many as three billion ..."

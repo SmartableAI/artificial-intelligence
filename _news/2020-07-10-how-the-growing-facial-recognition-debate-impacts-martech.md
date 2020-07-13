@@ -161,17 +161,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
-    excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
-    publishedDateTime: 2020-07-08T11:08:00Z
-    webUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/"
-    ampWebUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 31
 
 secured: "ks7j4QkgzM9jzkdWjGOn4t2Q/KUpaIMi3z0jk3B8siRblAXVprT1ZvCNm8J329m75YlNUZNGgs/POU9CbWe1hK3nS+O3SDN04PwoMhScxvLyrR4JXmTvBy7vjwXbn7nUT/t7F5NNVdxtHf27VGTuEP8solMT7n+vBITPHOKxQnCpuDsoLQ6YTiCv7IGM1T4WJ8gHNCoa2giWLnlm7HbIvqeaVelPVDcjIImfj5Y4Wi/gA8xd9Uk52TN7EZE0YpVXQoyDKs4kFg4fqT2WlsJ26YrXWkPrNz1irFnrfDHUJMzmQoMlL2wSsI9NaiMlRKVYyouWtsczNXYODsh9F0SgTA==;zN/SJDULNY8IYwOcIvVA5g=="
 ---

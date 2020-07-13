@@ -58,40 +58,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts"
-    excerpt: "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De"
-    publishedDateTime: 2020-07-08T12:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "IBM to acquire RPA provider WDG as automation market heats up"
-    excerpt: "WDG was founded in 2014 and isn’t known to have raised outside funding, according to Crunchbase. IBM is not disclosing the financial terms of the acquisition. WDG, based in the city of São José do Rio Preto,"
-    publishedDateTime: 2020-07-08T12:22:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/ibm-acquire-rpa-provider-wdg-automation-market-heats/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/ibm-768x499.png"
-        width: 768
-        height: 499
-        isCached: true
-  - title: "IBM acquires RPA company WDG Automation"
-    excerpt: "IBM (NYSE:IBM) will acquire robotic process automation software company WDG Soluções Em Sistemas E Automação De Processos LTDA for undisclosed terms."
-    publishedDateTime: 2020-07-08T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3589431-ibm-acquires-rpa-company-wdg-automation"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "cf3hluR6WLYaL4QuXMp3VlxTyd3EHBK1npujl/x7xjwOUSdBi2wJ3/9pFtufs8y3iDVFz9eUCbLmI+Jzv8Ek07BdGx3T0OSGE4CLPqeLI9M9Pk7Bee0jEnnQsXMk4O+23eCrox21YXmCYnqyGU7Rws+NX11uz4owonBjKfk6EpvbP6T1YQC3HDOQ5/12OgNU6PZB5aax+uQdZkxJT8te5UTYIaoKv0bXNKTXd9pt7QEZjpvw1MP7DnMIjYpyd2kv1flyqF52jpvIwr9Not17bVxOkqIhXVAWkhTlNW08jIQAEdHRTk7URhM3g6OvKivMI5+nYO2CvXEF09ggHR4U6T2LFFWw0D9TvhDMAChiK2a711qABrsQex6DQ8vaO+yQ+lTKYeNUXE56JfHCz+r8Yv9Mc7gKxc21OqhOFR3bna07gr2NF0CjStyKPFsPWq/PMJy6MkQd8dVGytWxMqUcho2vmrSClECOILWUIkZXSGbleHTkV9vEGm6aGwX/JWGE;eFqAQOLnXHar5wOh0GgZkw=="
 ---

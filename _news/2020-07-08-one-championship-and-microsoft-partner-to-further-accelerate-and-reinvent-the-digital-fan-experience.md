@@ -8,7 +8,7 @@ ampWebUrl: "https://www.sportskeeda.com/amp/mma/one-championship-microsoft-partn
 cdnAmpWebUrl: "https://www-sportskeeda-com.cdn.ampproject.org/c/s/www.sportskeeda.com/amp/mma/one-championship-microsoft-partner-accelerate-reinvent-digital-fan-experience"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,24 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Singapore’s ONE Championship kicks fan experiences up a notch with Microsoft"
+    excerpt: "ONE Championship appoints Microsoft as its preferred cloud provider, to deliver digital fan experiences on a global scale"
+    publishedDateTime: 2020-07-13T02:55:00Z
+    webUrl: "https://techwireasia.com/2020/07/singapores-one-championship-kicks-fan-experiences-up-a-notch-with-microsoft/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/07/singapores-one-championship-kicks-fan-experiences-up-a-notch-with-microsoft/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/07/singapores-one-championship-kicks-fan-experiences-up-a-notch-with-microsoft/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 56
+    images:
+      - url: "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/07/ONE-Championship-digital-fan-experience-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "kzjgSZAr12d/M6y1q9z9+N6ZxQrK1dk76oM47l0Tk1qiVabMH4DjiA+0qRnuxq8S3TnDgpdotAb/T6OIkm+KC5hyIATcy0y5O4Qq+Tbd0kYTI4ejoZQc8f8MIYjoohKydHNJKhlUk8ty02ul1nZar0o0nyECO0j3bTfp5SsWjDoZMjI5GlDJ+3t7ZFD/Hj7nEhSXP6X84wQpgpskq++h9It2NCrorURYQ+jxWB1BCKn0h8dTIuetub0ARKrPKYSMMIpQHdKcjmOszdYmPnMSFWN42CpOEGBiJsgksGs421rxdnx9XW9ZAdhVnaE4JC4lrMtAi34oDs5UOj6aASX3iA==;5PFTKHYCgbT/UNJ9H7vs1w=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-faci
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -165,17 +165,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Group urges feds to ban facial recognition tools citing a violation of Canadian rights"
-    excerpt: "Dozens of groups and individuals working to protect privacy, human rights and civil liberties want the Trudeau government to ban the use of facial recognition surveillance by federal law ..."
-    publishedDateTime: 2020-07-08T11:08:00Z
-    webUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/"
-    ampWebUrl: "https://globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7151848/ban-federal-use-facial-recognition-tools-groups-urge-trudeau-government/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 31
 
 secured: "Ep2QDUIjkNyRzrEO9lmDFU74o56Ev7RoRv608jxsa+/W8TUAxQ2bFsQXXnRX/OKzjBZIWifxDZNxrYFhLbah6BhxEaEYXaUGy6xPNKile+yPceZvh5jfa6ZJZblWdVbDlwD1cA1iqbhlxWVHU5SYvv82Iux6jSjm7J4luFYdVksPCIjKFDC6RZG4bMVgrThaToaGCaDaylWwXYN7PW1ATUatkKs2WH5ii1FlCqjjouhLTXChTueV/WqWG4qibD9TVGw2n4K+KRfVvGQI58huwUkhOfNEZQ0koPWvVgkGZmdhT8LjOkYP0JvACeoZed82jv6urWzA/MJaPCfx+I/UUrWZzeJWW62VXJg5M7cPQmQ18M1VLmrWtgz34TBbjrUBDKiJmJYntUUr6oQCyccnnAom/BnINzhtS/h6mavTN97A0oEN556vTNkrhSerzgIQn3LL8pT6XHmUO5bUW/n4uVPEuxGL2uQlcQwv6h0hU0qiZV6shdJqkNLpxcxEKWSHXlyaluE4yGqDZAte2Ljcow==;Wle/e8S555qW66TuepFVIQ=="
 ---

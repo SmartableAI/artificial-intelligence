@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acqu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/"
 type: article
 quality: 74
-heat: 134
+heat: 104
 published: true
 
 provider:
@@ -53,31 +53,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts"
-    excerpt: "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De"
-    publishedDateTime: 2020-07-08T12:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
-  - title: "IBM to acquire RPA provider WDG as automation market heats up"
-    excerpt: "WDG was founded in 2014 and isn’t known to have raised outside funding, according to Crunchbase. IBM is not disclosing the financial terms of the acquisition. WDG, based in the city of São José do Rio Preto,"
-    publishedDateTime: 2020-07-08T12:22:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/ibm-acquire-rpa-provider-wdg-automation-market-heats/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/ibm-768x499.png"
-        width: 768
-        height: 499
-        isCached: true
   - title: "Why IBM Is Buying WDG Automation"
     excerpt: "RPA is able to help close the loop and ensure consistent data across all tools that connect to Watson AIOps. This can increase data quality and improve the accuracy of AI as well as the productivity of engineers involved. IBM’s investments in AI-infused ..."
     publishedDateTime: 2020-07-08T16:13:00Z
@@ -89,15 +64,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 24
-  - title: "IBM acquires RPA company WDG Automation"
-    excerpt: "IBM (NYSE:IBM) will acquire robotic process automation software company WDG Soluções Em Sistemas E Automação De Processos LTDA for undisclosed terms."
-    publishedDateTime: 2020-07-08T12:41:00Z
-    webUrl: "https://seekingalpha.com/news/3589431-ibm-acquires-rpa-company-wdg-automation"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "Llh9BgueIauQKvCzn0+OQjREsBUH1rGviZ3l50G8wV3wna6c+UbxAh0FirUM6DD5DFKUvSd3IrXOc7UGpNs6gybIBei8YTMcZlMi0MvwpHZY/O1EM56mR24oJ/E2SzQiBWJ86J8ItmjsJS8bjv03+Yg9mV0AyojV4idvvpyTsA5UkCSIFvMHgatfyJ3GYcxXvhks5+nQB2Fc811fCHQGIEb35A8rBbncypLci26/pdG3CuvFWuGqSPh6YjCQdNcGkHyPtS7gaDGXAyeQg7dFwcAv0kExmtUaRExrOVqzmvdTCajUNw5QLl+HnbFTaPyPZaNz58Rm0uMQxbDsT/gSMEU5AXy7zBlpfQ59wcZHrSANnNm4zLZ+CiFu7QYtc0DGxFELoskvuU2gPA2UuJhOXnbM2F1tT/8ug5lXlMHcTstKKB8mlVvIe0Td4ASGo9pKkEvpVcJc5gwxiF26E09kQhP2rQltPuuAhJ3OBvaeJtqwrqP6a7g7zOZ3nefOyRAA6nZ+4YJdrvQYWeOiBvoTZw==;ElOROLiQBOCVwMX9JgpDDQ=="
 ---

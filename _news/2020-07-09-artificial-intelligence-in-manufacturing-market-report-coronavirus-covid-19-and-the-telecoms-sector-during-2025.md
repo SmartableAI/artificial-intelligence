@@ -26,6 +26,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Burden of COVID-19 on the Market & Rehabilitation Plan | Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | The Increasing Use of Industrial IoT to Boost ..."
+    excerpt: "Technavio has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is poised to grow by USD 7.22 billion during 2019-2023, progressing at a CAGR of about 31% during the forecast period."
+    publishedDateTime: 2020-07-13T05:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200712005006/en/Burden-COVID-19-Market-Rehabilitation-Plan-Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200712005006/en/804657/23/IRTNTR32119.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "ynN8UDUW6AgUXtGkkpulNyc/zODw+uXOG9OILqn15h8cxyuLPK85Q/lZ/oMcdHrdpokYhiYPaMTZDeALPHy5fCFqnYf2Nnjrc1X6bM0oRQNteeINoWtOvpqBU7hNhfqENrfrBUQKOTF5VbjVVnNX2qnDTQYpgrKU3lOKCtZUnocPsJ516i0//Ynzh/T9yG6iMV0RLGQmfflBV4bGMIcUUVPhOP40MxQOB8jVd3/jP+NAtmLko2Tcfq0uodsMhFsWx66VTecjdY382jhOyT/kVtWOZ3CmswXadTy0biCMcNwxLVEla/PMsa4xTES8YvQ0yPFGehzO6zG7D/bPSnmYKw==;3u1GGorkajysTm8wNvoB3A=="
 ---
 

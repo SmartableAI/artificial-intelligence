@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T13:09:00Z
 webUrl: "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 770
         height: 578
         isCached: true
-  - title: "Hearing on COVID-19 & Use of Artificial Intelligence"
-    excerpt: "Watch LIVE On July 08 | 12pm ET | C-SPAN.org 2020-07-08T12:00:00-04:00https://images.c-span.org/Files/77c/1594160817.jpgThe House Financial Services Task Force on Artificial Intelligence (AI) examines the use of AI technology to combat the coronavirus ..."
-    publishedDateTime: 2020-07-08T11:47:00Z
-    webUrl: "https://www.c-span.org/video/?473693-1/hearing-covid-19-artificial-intelligence"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 17
 
 secured: "B9SFVZMK9+V5uIh6G0uYVrqB+uLJ8qIm1SVzHqwTsLXXCjCrmqMsvXhOZu2wEt3RkgeuBaJ58yhaEcW1QmbJ9Et1QQEeeE7RYNtBNjYUL8oCOydejmyu4RsrwwDNxiFbuhKmhG0uhaRifD+CfjBCi6LCr+qL2wclSTVvyqBaWlMc96S7NQf3x/UXgboHH5qHx34rgHzCAPieffT14lVywKFxpAVDAZdv/Ptplx+pG5xy3WuKrBsr2/AKF2kXWjMj6vaa76q4mVYDJH2tW8rVSa9E64+G6LHix2Mepa0T3MDBSOLQpCBvg6Mu8ff86lO7BfgicyZJ2whsFDcGEMsmamNHq6meXAWap4sH3/dhA9+IHUCAIu5209QzwwdsjBr77B45mJ4RXyej5DF085rz9HjdeZI4b1QP91xs+/nQYkcdyT1am0OBHSZEqE7fcftfLazK0KLiU6IWKLAc7WATT8Hazcj7oFxq4e3h5yZoQYPbgT+XpDcQ2nJDz0FH52i/CEzzhCeXEKzWS0Wpdz0nvQ==;vJC6PccNWs5U1gHZv/ctCA=="
 ---
