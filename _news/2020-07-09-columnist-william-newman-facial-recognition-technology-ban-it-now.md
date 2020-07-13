@@ -42,17 +42,6 @@ related:
         width: 426
         height: 293
         isCached: true
-  - title: "Over 75 Organizations, Experts Call For Ban On Police Use Of Facial Recognition Technology"
-    excerpt: "OpenMedia, along with more than 30 other organizations, and dozens of experts, issued a joint statement calling for an immediate ban on the use of facial recognition surveillance by all federal law enforcement and intelligence agencies in Canada."
-    publishedDateTime: 2020-07-08T19:36:00Z
-    webUrl: "https://www.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2007/S00052/over-75-organizations-experts-call-for-ban-on-police-use-of-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 29
 
 secured: "ez2p/8syNKr17w8qKE+qbQ7jzf/NOJ0SFSUchyfby7rzEiFiWdMGktsO7bnmXgqOhujy8uGXKxWUYtP9Gq9EoewPW5CeBbnrglJKQ5QhclCV59ZHTTe0KGMaTWcjHjedpgg9grgLrEp0jKpbZKoLoKaGMXpDc5+3MUGjrlXO9Cw4Y9z4L0Zfu95iAIFW1CK0k6kxR+128BDzJIfQVJsNbCVSc5Q2FnCZwx4mS6tty4tCBG5RxS0M1Y5KtaIlAoKn6sq/vMphqnrHJCoceOONhtPwZfjnpwSKippCbRl19PTPUNe7suavu9yFR4BbzSGkAC1aCjWCmP91haieNl/AknG4iFsTm3rWv/UMB5UDAYU8fLsSwMP92oKYNGhD+824KFWugTSjPepslmg0Gk3EIHzfJlVPqE1N1re5E0XjrSDDKisgmkIyZVrIjd7h7oaQKgiDg/PTSgsTzc+G3BKMmy/rxJIxIcZ68w8opEG1DrEFt0onm2iRVqBV9ZXTildOPi4C4r8AfnaJY9UHOrwudQ==;A+LnbrCJEGGaKAvX+kORbQ=="
 ---

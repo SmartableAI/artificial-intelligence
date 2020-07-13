@@ -83,22 +83,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Black Lawmakers Call for Ban of Police Facial Recognition"
-    excerpt: "Black Michigan Democrats have called for a ban on police use of identification technology because of its disproportionate misidentification of people of color. The legislation is part of a larger police reform bill."
-    publishedDateTime: 2020-07-08T20:07:00Z
-    webUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html"
-    ampWebUrl: "https://www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Black-Lawmakers-Call-for-Ban-of-Police-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MINN-POLICE-2-MS.JPG"
-        width: 940
-        height: 627
-        isCached: true
   - title: "How the Growing Facial Recognition Debate Impacts Martech"
     excerpt: "In recent years image recognition has been hailed as a critical identifier of digital media to causal customer needs. But can it be an intrusion? Marketers worried about its application should pay attention to the facial recognition debates emerging today."
     publishedDateTime: 2020-07-10T17:16:00Z

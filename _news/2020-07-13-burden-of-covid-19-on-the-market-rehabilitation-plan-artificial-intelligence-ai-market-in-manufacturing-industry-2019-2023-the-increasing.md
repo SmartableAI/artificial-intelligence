@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New Report from Corinium and FICO Signals Increased Demand for Artificial Intelligence in the Age of COVID-19"
+    excerpt: "Today, FICO, a global analytics software firm, released a new report from the market intelligence firm Corinium that found ... telecommunications, health care, retail and many other industries. Using FICO solutions, businesses in more than 100 countries ..."
+    publishedDateTime: 2020-07-13T12:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age-of-covid-19-301091884.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1213255/FICO_AI_Infographic.jpg?p=facebook"
+        width: 5157
+        height: 2700
+        isCached: true
 
 secured: "QkgmEtnhyL45nRHUi8Bjc2ClFzz3grqC8BDsM9l7sRj444QStBeHTw+X2dPGUelD3csyIzeniXJLn+IRgbkrFbW+E+dmj5Uta5jGop/un5h3g+InfFTXYMUtJCVQPYp4XlGUrJF7mN7JKfBDMS/GU5dHBFjBm52/2WGIbliqSl1hs9glV8O83Me9AMl/AwgzFASth3a/tF62v+5czNeckMtmm2skDCuAsEixjsuDjOMRPT3A4iuFsOVY7JR6n4gfL3ghiH2WbGwYEYcPBuPCkng0PQnqbVAq+OK4c8dU4zY4Qx0/MrSForr6n2HpJ3Sooyijc+kMj99nE3Ii5cGUOg==;uD+86YETBtDJpF1NvQTCyg=="
 ---

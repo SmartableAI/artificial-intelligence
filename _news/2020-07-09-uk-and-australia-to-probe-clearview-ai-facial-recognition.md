@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-austra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
 type: article
 quality: 106
-heat: 376
+heat: 366
 published: true
 
 provider:
@@ -354,20 +354,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
         width: 640
         height: 260
-        isCached: true
-  - title: "Facial recognition firm suspends RCMP contract"
-    excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
-    publishedDateTime: 2020-07-08T20:25:00Z
-    webUrl: "https://www.burnabynow.com/facial-recognition-firm-suspends-rcmp-contract-1.24167057"
-    type: article
-    provider:
-      name: Burnaby Now
-      domain: burnabynow.com
-    quality: 39
-    images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24167059.1594239240!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/mcevoy-therrien.jpg"
-        width: 560
-        height: 292
         isCached: true
   - title: "UK, Australia investigate Clearview facial recognition firm"
     excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."

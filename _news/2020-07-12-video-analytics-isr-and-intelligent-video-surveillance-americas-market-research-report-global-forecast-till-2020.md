@@ -56,6 +56,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets"
+    excerpt: "Artificial Intelligence in Agriculture Market by Technology (Machine ... CHICAGO, July 13, 2020 /PRNewswire/ - According to the new market research report \"Agricultural Robots Market with COVID-19 Impact Analysis by Offering Type (UAVs, Milking Robots ..."
+    publishedDateTime: 2020-07-13T13:39:00Z
+    webUrl: "https://www.wallstreet-online.de/nachricht/12716894-agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets/all"
+    type: article
+    provider:
+      name: wallstreet online
+      domain: wallstreet-online.de
+    quality: 7
 
 secured: "2R5vHCL84vRTK0Dbr3g413GMIerIq9XdTeo7PNkcTDUaXicmti1VbCM4xPz3Vcr5jciW3ebEehv3llM/HC1bcFPs5tPl+CIEcJ5xXQh3UZtX/oprsRtRVmF2HYtRKMps5DVWd2Xk1vv3vt+ssh+I3moruDZe/kdl6lJIM6yUX5Y6IqjySfjK7lD6Iuvv4ys2c2CM0q0aIF0IVq/QBDH9lKEAyzJJLkzRI7ERtVvzCguy1YwBCf4zSg3csidxaHowgg9I35PDNezOuv4bvenA9D5c6tR3i9OI+3aIJd3/QnjozBRbFqE10w+FTl/nhSNCCNp3q4sm/zqnFXpn6D4PHQ==;j7uuZRf9kSRKD+5W7ucTPA=="
 ---

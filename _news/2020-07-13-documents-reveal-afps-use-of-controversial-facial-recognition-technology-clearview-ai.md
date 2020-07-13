@@ -350,20 +350,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial recognition firm suspends RCMP contract"
-    excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
-    publishedDateTime: 2020-07-08T20:25:00Z
-    webUrl: "https://www.burnabynow.com/facial-recognition-firm-suspends-rcmp-contract-1.24167057"
-    type: article
-    provider:
-      name: Burnaby Now
-      domain: burnabynow.com
-    quality: 39
-    images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24167059.1594239240!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/mcevoy-therrien.jpg"
-        width: 560
-        height: 292
-        isCached: true
   - title: "UK, Australia investigate Clearview facial recognition firm"
     excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
     publishedDateTime: 2020-07-09T15:07:00Z
@@ -411,6 +397,6 @@ related:
       domain: avpress.com
     quality: 19
 
-secured: "my9C4Y3JBi60xRdhmevHZwSQsuJOsIYji/bLQUlaRxayvoswMxKRmIJzG0rixKedrxefRGyrnmlTrMD5QVj0Tu1VuW/QScDcrALIpnSQft+vVmylU6N0Yls+9EL8nz+YZ/z8uRkdcbk4IWPQyB9yzMtCoKd+/R5Sf4KkzHvFEkbd2L6LkwEmsw62Z+2iwpIBQLcydEPCEI9menRj3CsQhI+YLLCG42eWgZ8vTKSBSgN2hsHbYnoCOz6nXu0BeZe4S8DcI6BXyMbfwO7y8hwgQuSzlMFNePLxqv0gr5Xm0w+ixGFWQ57/0E0WBhDdtEMQOfylW6k4Sm9VC8H0C+rbVw==;V0v9d8pVd8OcW3HKH3gxzg=="
+secured: "+s0oRTTbaYnKc2/ZEfq552H0lYZr+38L2/ZjNSFSN0tsh9+m41/7LiFvZAfUOHco13LN78lN534CcIEMTeqiicBqpl7B7g3/oS71OR52V/z50dMSYkqSLhk4KdHIktWcxW57z/Nmz8vAMI6jBJB8yvZ/90p9WibLuJaZBbFxsY8caklk27QBVg1F+5ZSdOzk5XKBulFHQlwjfQ85H4MLM29+bOHRPaTDRWAuJj9nC1mKlYtVOFh9rv55Y8iYwMrgRMb4a6AV3j4G01iMhPEwpnhZwTzUbJFHM/iLLZnNN/7FJ/SI0YioO6uOAEYlpjf8WHNVCcSNki8UsuCB+JC4eDeMUp9sup06iUSr7wutArYQX7xA4YreB0LsM9PQ6MONPr3kqp4lrP6jIAlNxY27Nz51Q9WCnKI1/2u8GBTsy8YlWn/TtsALwvtTDovOH0nCbwuxWXvOyTV+1slkF6GZB9KVGCPchKc4MFq2ZnjE7xwfcPiKg522npyt5RRtQZ98JL2BhlBqOxq+2FdBRMXchA==;ZioQjfocYPHkDsJbuXTp2Q=="
 ---
 

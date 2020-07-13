@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft announces new Azure AI capabilities for apps, healthcare, and more"
-    excerpt: "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries."
-    publishedDateTime: 2020-07-08T20:50:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 133
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"
-        width: 1200
-        height: 836
-        isCached: true
   - title: "Microsoft releases preview of Text Analytics for health, battle-tested in COVID-19 partnership"
     excerpt: "Microsoft’s Azure cloud platform announced a new iteration of its Text Analytics technology for healthcare, bringing to market some of the artificial intelligence that the company"
     publishedDateTime: 2020-07-08T23:41:00Z
@@ -55,34 +39,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Smart-Medical-Technology-In-Ho-264657964-630x420.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Microsoft adds more APIs to its Azure Cognitive Services for developers"
-    excerpt: "Microsoft Corp. is adding more Cognitive Services application programming interfaces to its Azure cloud platform as it continues to expand its array of artificial intelligence services."
-    publishedDateTime: 2020-07-09T00:07:00Z
-    webUrl: "https://siliconangle.com/2020/07/08/microsoft-adds-apis-azure-cognitive-services-developers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/16510342158_185f09969a_k.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "Access Healthcare Services Names New Chief Investment and Transformation Officer"
-    excerpt: "Dallas-based revenue cycle management and IT services company Access Services appointed Harish Mysoré to be its Chief Investment and Transformation Officer, where he will identify growth opportunities and push for transformation."
-    publishedDateTime: 2020-07-09T16:29:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2020/07/access-healthcare-services-names-new-chief-investment-and-transformation-officer/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 34
-    images:
-      - url: "https://assets.dmagstatic.com/wp-content/uploads/2020/07/HM-Photo-HR-768x512.jpg"
-        width: 768
-        height: 512
         isCached: true
 
 secured: "Sslz8CQTnaVkNe1iV1WNmKq0+kN/FnvduUO1yYmf23rBj/br2epwyL0YtGE4bKYjnZsBR3EeE263giJyXhjR5tM2XaqVn8VQrHRnFWODiOPutYGeUfTOS1tKt8joNwfw3qOIVUh1s9f8qXfFhLsaj0rBTQj59JWkCLJ0ooP6yOIV3ExtDSbeONHgP0HqGSAvXekbUFngqR7oVwpk3mEP5qAuTFvTgP1KsemOw2i4TJTQiE85Ec6lsBJ27Ub8gA/DzUTMGhUig0zmQDqr40LyhTeExiOXj0bNJhMlo7jpim8YL3hG+7+mVjFZ0o9NqNpNTP38UKB/GgyYL2RO7wswWWLJWcwioyLu1BnbHr3VAUaIIQpAN3bu1KgKcFScOviCe+SwwAKgVCxJkKcaGey1nJc3yIGDcs6PURWt8QS/nIqCmvFIhks/6bVffARZanrTkE4UputHGl9JYVcDc172CTsW2ov7L6N4EhinPiK7FRI+7xE1w13sqIwvtXYtbxWaGEjfjuHGv3bK9waJi6Jmbg==;C4QDANWKtIL3xA1raC+a+A=="

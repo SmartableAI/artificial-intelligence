@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Report from Corinium and FICO Signals Increased Demand for Artificial Intelligence in the Age of COVID-19"
+    excerpt: "Today, FICO, a global analytics software firm, released a new report from the market intelligence firm Corinium that found ... telecommunications, health care, retail and many other industries. Using FICO solutions, businesses in more than 100 countries ..."
+    publishedDateTime: 2020-07-13T12:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age-of-covid-19-301091884.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/1213255/FICO_AI_Infographic.jpg?p=facebook"
+        width: 5157
+        height: 2700
+        isCached: true
   - title: "Burden of COVID-19 on the Market & Rehabilitation Plan | Artificial Intelligence (AI) Market in Manufacturing Industry 2019-2023 | The Increasing Use of Industrial IoT to Boost ..."
     excerpt: "Technavio has been monitoring the artificial intelligence (AI) market in manufacturing industry and it is poised to grow by USD 7.22 billion during 2019-2023, progressing at a CAGR of about 31% during the forecast period."
     publishedDateTime: 2020-07-13T05:30:00Z

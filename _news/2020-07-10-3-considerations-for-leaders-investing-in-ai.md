@@ -23,22 +23,17 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence can transform digital marketing in India"
-    excerpt: "AI, as part of digital marketing, is now a reality, providing an array of options as well as benefits. Brands and marketers are incorporating Machine Learning and Artificial Intelligence to save time and resources."
-    publishedDateTime: 2020-07-11T04:58:00Z
-    webUrl: "https://yourstory.com/2020/07/artificial-intelligence-technology-transform-digital-marketing-india"
-    ampWebUrl: "https://yourstory.com/2020/07/artificial-intelligence-technology-transform-digital-marketing-india/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/artificial-intelligence-technology-transform-digital-marketing-india/amp"
+  - title: "2 Healthcare IPOs Getting a Tailwind From COVID-19 to Consider Buying"
+    excerpt: "If you're considering investing in one or more recent initial public offerings in the healthcare sector, you've got many options. Over the last year, 76 healthcare companies have gone public, according to finviz."
+    publishedDateTime: 2020-07-12T17:11:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-healthcare-ipos-getting-a-tailwind-from-covid-19-to-consider-buying-2020-07-12?amp"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 59
-    images:
-      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/ai-digital-marketing-1594095322596.png?fm=png&auto=format"
-        width: 800
-        height: 400
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "fQn8xQsujgU8JvihE7m14XhozDzjIPh56QlLKk6+qovtQw8Zq7mAfeOQfu7g6H/HCyeT6g1aOVeqwTQNxJ5RYKOtPNG7a5fstsdy1kpB83+w63beqVXxb2OfLn4RtFroCr+jFvBzFxddytdlmln+0oA7vcftqy2EsWsDkmBWWE+FHz5io/ORKYAFyzPY4M0If9GlAicY8bbohofe3BCixXQ9sF8iJocuk0jh3ZTd7jQuDg2QAYgzd8WY+ODT+sIDQ+KTC5R//ceF5OydQOAJMDBoPum9c2aVKtjnybZtco/P+GNacdgvvUUYywMpSY5k8+7jqhtFb97UjHXSJkAFKS7Qs9910LXev/u+nKQsBEA9lyC53bw9mYAi8Ju4R2SLetWovueJf2uzw+fMvPDLAtlcP0MxXXZsfLKvOgGknGMEf9ZgI1eH8m5no3it5EnLitlaTsVmKxccBlv5+RugVwZgDdDaTiOocrAPjBxIr7ohMRxJXo1IRjjsVNu+3/DYeJjDXgUzzwoSVNrwYHoJyw==;pHRMOI0hEWP23yo6XvVU6Q=="
 ---

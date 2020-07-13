@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T16:58:00Z
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/7-of-healthcare-s-most-promising-ai-companies-from-forbes-2020-list.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Viz.ai Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
-    excerpt: "Viz.ai, the leader in Applied Artificial Intelligence for Healthcare, has been named to the prestigious Forbes Top 50 AI list. The list"
-    publishedDateTime: 2020-07-08T20:18:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/vizai-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301090432.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 47
-    images:
-      - url: "https://mma.prnewswire.com/media/1202174/Viz_ai_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "qTEAU0Q0haZaMcEt5yDt/x5mlNcIyUJKVvkdi9Ndf2xCqo6qOeLMWdfusZ27rmHc/XSOARa0nqh9orS3V8r65o3H2SIw/2bchsmx98nIxsbbCOlD4kCxfexoQAGel/vXNuJdlQMMYtybbWI/AiKHhzWMbGz8JKAc57N3RX9t+xUJtTY4Gi8BKxiaTN9CtPSIUT7SvJy46HmBZtgoXVGuA9gddPPfZ3eB6XSBgsdvcxzHYUhMZ2k9AM/8PnnU+5XKW3TtiGTjGuLIX9dGCEd3m5vsOoBoaeXwvNGdn8LABdf2kT3l23BU8troSwHq6OT14uN7KSPZPBBTw1gTpOk//w==;i5Qq3KyxLLKi4ppu4PCP8g=="
 ---

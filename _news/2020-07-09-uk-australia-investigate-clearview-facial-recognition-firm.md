@@ -364,20 +364,6 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "Facial recognition firm suspends RCMP contract"
-    excerpt: "Four months after federal and provincial privacy commissioners said they were investigating a police-affiliated technology company’s use of facial recognition, the company has suspended its . . ."
-    publishedDateTime: 2020-07-08T20:25:00Z
-    webUrl: "https://www.burnabynow.com/facial-recognition-firm-suspends-rcmp-contract-1.24167057"
-    type: article
-    provider:
-      name: Burnaby Now
-      domain: burnabynow.com
-    quality: 39
-    images:
-      - url: "https://images.glaciermedia.ca/polopoly_fs/1.24167059.1594239240!/fileImage/httpImage/image.jpg_gen/derivatives/facebookogimage_560_292/mcevoy-therrien.jpg"
-        width: 560
-        height: 292
-        isCached: true
   - title: "Trulioo EmbedID adds document verification and facial recognition features"
     excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
     publishedDateTime: 2020-07-09T13:43:00Z

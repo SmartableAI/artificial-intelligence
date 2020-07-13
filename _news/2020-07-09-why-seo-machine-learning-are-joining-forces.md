@@ -8,8 +8,8 @@ ampWebUrl: "https://www.searchenginejournal.com/seo-machine-learning-joining-for
 cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Search Engine Journal
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Maximizing the Power of Deep Learning for Genomics"
+    excerpt: "Researchers from the Max Delbrueck Center for Molecular Medicine (MDC) have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. They describe the new approach, Janggu, in the journal Nature Communications."
+    publishedDateTime: 2020-07-13T13:35:00Z
+    webUrl: "https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274"
+    ampWebUrl: "https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 59
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/23274/aImg/43143/july13-2020-mdc-genomics-deep-learning-scientists.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "Making Machine-Learning Design Practical for the Edge"
     excerpt: "Bringing AI to embedded devices at the edge hasn’t been for the faint-hearted. However, that’s about to change."
     publishedDateTime: 2020-07-08T21:15:00Z
