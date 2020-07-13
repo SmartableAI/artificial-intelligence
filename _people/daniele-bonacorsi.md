@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: DBonacorsi
   url: https://twitter.com/DBonacorsi
-  followers: 645
+  followers: 644
 
 googleScholar:
   url: https://scholar.google.com/citations?user=7_xEzmUAAAAJ
