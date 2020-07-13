@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/</loc>
+    <lastmod>2020-07-13T10:38:35-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/</loc>
+    <lastmod>2020-07-13T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/13/as-remote-work-remains-in-place-ai-helps-businesses-accelerate-collaboration/</loc>
+    <lastmod>2020-07-13T07:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.digitaltrends.com/news/mit-csail-gelsight-research/</loc>
     <lastmod>2020-07-13T07:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -207,6 +225,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/10/ai-weekly-welcome-to-the-machine-venturebeats-ai-site/</loc>
     <lastmod>2020-07-10T12:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.jsonline.com/story/money/business/2020/07/10/foxconn-announces-launch-iai-institute-aimed-train-people-ai/5414940002/</loc>
+    <lastmod>2020-07-10T11:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1239,6 +1263,12 @@
   <url>
     <loc>https://theenterpriseleader.com/2020/07/05/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-0-9.html</loc>
     <lastmod>2020-07-05T01:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain</loc>
+    <lastmod>2020-07-04T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

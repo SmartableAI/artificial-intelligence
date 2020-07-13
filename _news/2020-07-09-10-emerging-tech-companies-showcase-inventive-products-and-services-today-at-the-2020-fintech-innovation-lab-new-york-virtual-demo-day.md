@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T02:17:00Z
 webUrl: "https://www.nasdaq.com/press-release/10-emerging-tech-companies-showcase-inventive-products-and-services-today-at-the-2020"
 type: article
 quality: 2
-heat: -1
+heat: 2
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "RSA Conference 2020 APJ Virtual Learning Event – 10 Session Tracks to Look Forward to"
-    excerpt: "RSA Conference, the world’s leading information security conferences and expositions, today provided a deep dive on the key session tracks for this ye"
-    publishedDateTime: 2020-07-09T01:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200708005881/en/RSA-Conference-2020-APJ-Virtual-Learning-Event"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-    images:
-      - url: "https://mms.businesswire.com/media/20200708005881/en/804070/23/APJ_Banner_Photo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "tzCb+/ZERnLcAWmEKIBkq/jWPWtNqvsDRExJE2/lh9JdcBCod+EMRuORWDlvcs07I66YsgZzuy4Qigdl7XBfip9EvN95Ddp5DtVjBC065BOdu89cRUPDQuJFtPncfx8P5CefnJG0q5FlZor87QuT8yrFnaZuI8Hh5MHTuDVMSSB9E8vaeUkdjXg8hZZiOfVvtljmjsn6aD471xa9li2UQH4+3ugJAsHAKhz2xfgXmnBBSnfI6eh0quKW6r7vPuW6noYQ1n6SMY5LheYaJe1zWxCo5suhyf5gIEQ+UXaByTH61WPamme7ndSuok3jayKAVn0gkw6oxDMOnCyLmVLcPg==;U7RIUA/BGoOY29HUfG7Jvw=="
 ---

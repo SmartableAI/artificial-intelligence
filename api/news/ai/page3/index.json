@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-09-optimizing-io-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker.md",
+      "title": "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker",
+      "excerpt": "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif",
+          "width": 719,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T12:11:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025.md",
+      "title": "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-ai-wants-to-make-your-writing-more-polite.md",
+      "title": "AI wants to make your writing more polite",
+      "excerpt": "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-wants-to-make-your-writing-more-polite/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
+      "publishedDateTime": "2020-07-09T11:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-an-update-on-our-work-on-ai-and-responsible-innovation.md",
+      "title": "An update on our work on AI and responsible innovation",
+      "excerpt": "AI is a powerful tool that will have a significant impact on society for many years to come, from improving sustainability around the globe to advancing the accuracy of disease screenings. As a leader in AI, we’ve always prioritized the importance of understanding its societal implications and developing",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
+      "publishedDateTime": "2020-07-09T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft.md",
       "title": "AI researchers create testing tool to find bugs in NLP from Amazon, Google, and Microsoft",
       "excerpt": "A testing tool called CheckList found mistakes in commercially available AI from Amazon, Google, and Microsoft; CheckList won Best Paper award at ACL.",
@@ -442,7 +641,7 @@
       "webUrl": "https://www.cnet.com/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1253,179 +1452,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-meet-the-robot-chemist-that-can-perform-its-own-experiments-wvideo.md",
-      "title": "Meet the robot chemist that can perform its own experiments (w/video)",
-      "excerpt": "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-020-2442-2/MediaObjects/41586_2020_2442_Fig1_HTML.png",
-          "width": 583,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
-      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
-      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
-          "width": 500,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "publishedDateTime": "2020-07-09T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us1578-billion-service-opportunity-by-2030.md",
-      "title": "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030",
-      "excerpt": "Several cloud service providers, including AWS, Microsoft Azure, and Google Cloud, have begun collaborating with robotics developers, while start-ups like InOrbit target cloud-enabled operations for the first major deployment of mobile service robots.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
-      "publishedDateTime": "2020-07-09T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025.md",
-      "title": "Huge Expansion for Global AI in Healthcare Market Expecting to Grow at 54.5% CAGR to Achieve Remarkable Revenue by 2025",
-      "excerpt": "Selbyville, Delaware, Global AI in Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis. Global AI in Healthcare Market also covers top key players analysis and market segmentation in detail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,160 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-11-artificial-intelligence-robotics-market-growth-rate-manufacturers-market-size-dynamics-market-overview-revenue-nad-forecast-to-2023.md",
+      "title": "Artificial Intelligence Robotics Market, Growth Rate, Manufacturers, Market Size, Dynamics, Market Overview, Revenue nad Forecast to 2023",
+      "excerpt": "The complete explanation of the Global Artificial Intelligence Robotics Marketing Research Report 2020-2023 provides users with essential trade information to get to know the comp",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-rate-manufacturers-market-size-dynamics-market-overview-revenue-nad-forecast-to-2023-2020-06-30",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-11T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020.md",
+      "title": "Announcing the second annual VentureBeat AI Innovation Awards at Transform 2020",
+      "excerpt": "VentureBeat's AI Innovation Awards are back at Transform 2020, where we'll recognize and award emergent, compelling, and influential work in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/announcing-the-second-annual-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-11T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-prepare-for-artificial-intelligence-to-produce-less-wizardry.md",
+      "title": "Prepare for Artificial Intelligence to Produce Less Wizardry",
+      "excerpt": "A new paper argues that the computing demands of deep learning are so great that progress on tasks like translation and self-driving is likely to slow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0663989798446ce8080282/master/pass/business_artificial-intelligence_687292162.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
+      "publishedDateTime": "2020-07-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-facial-recognition-linked-to-a-second-wrongful-arrest-by-detroit-police.md",
       "title": "Facial recognition linked to a second wrongful arrest by Detroit police",
       "excerpt": "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,",
@@ -241,6 +395,46 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-foxconn-launches-iai-institute-aimed-to-train-people-in-industrial-artificial-intelligence.md",
+      "title": "Foxconn launches iAI Institute aimed to train people in industrial artificial intelligence",
+      "excerpt": "Foxconn launched the iAI Institute “an initiative focused on training the workforce of tomorrow and sharing Industrial AI knowledge across industries.”  The iAI Institute plans to help train people in industrial artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/money/business/2020/07/10/foxconn-announces-launch-iai-institute-aimed-train-people-ai/5414940002/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/18/PMJS/e946865f-bf8c-4588-9e52-501bb53d354f-MJS_FOXCONN_13614.JPG?auto=webp&crop=3720,2093,x179,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/5414940002",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5414940002",
+      "publishedDateTime": "2020-07-10T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1254,205 +1448,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-optimizing-io-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker.md",
-      "title": "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker",
-      "excerpt": "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif",
-          "width": 719,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T12:11:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025.md",
-      "title": "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ai-wants-to-make-your-writing-more-polite.md",
-      "title": "AI wants to make your writing more polite",
-      "excerpt": "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-wants-to-make-your-writing-more-polite/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
-      "publishedDateTime": "2020-07-09T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-an-update-on-our-work-on-ai-and-responsible-innovation.md",
-      "title": "An update on our work on AI and responsible innovation",
-      "excerpt": "AI is a powerful tool that will have a significant impact on society for many years to come, from improving sustainability around the globe to advancing the accuracy of disease screenings. As a leader in AI, we’ve always prioritized the importance of understanding its societal implications and developing",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/update-work-ai-responsible-innovation/amp/",
-      "publishedDateTime": "2020-07-09T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

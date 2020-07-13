@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-13-aws-deepracer-evo-and-sensor-kit-now-available-for-purchase.md",
+      "title": "AWS DeepRacer Evo and Sensor Kit now available for purchase",
+      "excerpt": "AWS DeepRacer is a fully autonomous 1/18th scale race car powered by reinforcement learning (RL) that gives machine learning (ML) developers of all skill levels the opportunity to learn and build their ML skills in a fun and competitive way. AWS DeepRacer Evo includes new features and capabilities to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/10/deepracer-evo-1.jpg",
+          "width": 900,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-13T10:38:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-software-as-a-service-saas-a-cheat-sheet.md",
       "title": "Software as a Service (SaaS): A cheat sheet",
       "excerpt": "SaaS replaces the need to physically purchase, install, and deploy application software throughout an organization. Learn more about SaaS, which is now a mainstay for businesses large and small.",
@@ -1378,56 +1428,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-cloud-managed-services-market-growing-at-a-cagr-133-key-player-cisco-ericsson-ibm-aws-accenture.md",
-      "title": "Cloud Managed Services Market Growing at a CAGR 13.3% | Key Player Cisco, Ericsson, IBM, AWS, Accenture",
-      "excerpt": "The global Cloud Managed Services (CMS) Market size is projected to grow from USD 62.4 billion in 2020 to USD 116.2 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 13.3% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-managed-services-market-growing-at-a-cagr-133-key-player-cisco-ericsson-ibm-aws-accenture-2020-06-26",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Managed Services Market Growing at a CAGR 13.3% | Key Player Cisco, Ericsson, IBM, AWS, Accenture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

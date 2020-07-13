@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T08:04:00Z
 webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
-    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
-    publishedDateTime: 2020-07-09T00:20:00Z
-    webUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/"
-    ampWebUrl: "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
-    cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp"
-    type: article
-    provider:
-      name: NBC 6 South Florida
-      domain: nbcmiami.com
-    quality: 52
-    images:
-      - url: "https://media.nbcmiami.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
-        width: 1200
-        height: 650
-        isCached: true
   - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
     excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
     publishedDateTime: 2020-07-09T22:16:00Z

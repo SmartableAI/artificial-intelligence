@@ -2,6 +2,206 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements.md",
+      "title": "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements",
+      "excerpt": "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
+      "publishedDateTime": "2020-07-08T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
+      "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
+      "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
+      "publishedDateTime": "2020-07-08T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ibm-makes-its-rpa-move-acquires-wdg-automation.md",
+      "title": "IBM makes its RPA move, acquires WDG Automation",
+      "excerpt": "After all, Krishna predicts every company will revolve around AI. While Blue Prism ... Automation into its Cloud Pack for Automation. IBM also added that WDG Automation capabilities will be embedded into Watson AIOps and Cloud Pak for Multicloud Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/07/cdb821ee-ec47-4cc9-8473-cc2c21e0adf4/thumbnail/1200x675/ce9d2a4355f6a9b4cb982a96bcaa3b38/galaxy-unpacked-aug-5.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM makes its RPA move, acquires WDG Automation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
+      "publishedDateTime": "2020-07-08T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection.md",
+      "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
+      "excerpt": "An independent civil rights review found the company's efforts to detect algorithmic bias are falling short and leave users vulnerable to manipulation.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2020/07/NRP-Civil_Rights_Audit_Report_banner_FINAL.jpg?fit=4000%2C2251",
+          "width": 4000,
+          "height": 2251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "publishedDateTime": "2020-07-08T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts.md",
       "title": "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts",
       "excerpt": "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De",
@@ -1198,195 +1398,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
-      "title": "Machine learning helps grow artificial organs",
-      "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg",
-          "width": 1920,
-          "height": 1357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp",
-      "publishedDateTime": "2020-07-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-can-ai-convincingly-answer-existential-questions.md",
-      "title": "Can AI convincingly answer existential questions?",
-      "excerpt": "A new study has explored whether AI can provide more attractive answers to existential questions than history's most influential thinkers.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-96-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Can AI convincingly answer existential questions?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/amp/",
-      "publishedDateTime": "2020-07-07T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-an-online-propaganda-campaign-used-ai-generated-headshots-to-create-fake-journalists.md",
-      "title": "An online propaganda campaign used AI-generated headshots to create fake journalists",
-      "excerpt": "At least 19 fake personas were used to author op-eds published in dozens of mainly conservative publications, with AI-generated headshots of would-be authors used to trick targets into believing the writers were real people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/7/21315861/ai-generated-headshots-profile-pictures-fake-journalists-daily-beast-investigation",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/898P1XwA7voIn1GMb05Z4h4qlyg=/0x0:3049x2048/1400x933/filters:focal(1282x781:1768x1267):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67025674/fake_ai_faces.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": "An online propaganda campaign used AI-generated headshots to create fake journalists",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/7/21315861/ai-generated-headshots-profile-pictures-fake-journalists-daily-beast-investigation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/7/21315861/ai-generated-headshots-profile-pictures-fake-journalists-daily-beast-investigation",
-      "publishedDateTime": "2020-07-07T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-the-jedi-mind-trick-by-ai-its-already-here-and-in-politics.md",
-      "title": "The Jedi Mind Trick… By AI? It’s Already Here… And In Politics!",
-      "excerpt": "Ever imagined having the power of the Jedi mind trick? The ability to influence and persuade people without them realizing it has crossed all of our minds in some fashion. While humans haven't achieved this capability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2020/07/07/the-jedi-mind-trick-by-ai-its-already-here-and-in-politics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f040ea3fa327a00097bd1b5%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": "The Jedi Mind Trick… By AI? It’s Already Here… And In Politics!",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/neilsahota/2020/07/07/the-jedi-mind-trick-by-ai-its-already-here-and-in-politics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/neilsahota/2020/07/07/the-jedi-mind-trick-by-ai-its-already-here-and-in-politics/amp/",
-      "publishedDateTime": "2020-07-07T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

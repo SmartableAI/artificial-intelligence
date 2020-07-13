@@ -36,22 +36,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "De Blasio Outlines ‘Blended Learning’ Plan for Reopening NYC Public Schools"
-    excerpt: "Under the mayor’s plan, students would attend school in person for two or three days a week and spend the other school days learning remotely."
-    publishedDateTime: 2020-07-08T23:11:00Z
-    webUrl: "https://nymag.com/intelligencer/2020/07/de-blasio-outlines-blended-learning-plan-for-nyc-schools.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2020/07/de-blasio-outlines-blended-learning-plan-for-nyc-schools.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2020/07/de-blasio-outlines-blended-learning-plan-for-nyc-schools.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 42
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/e2f/fc4/d318632d099fd7c348e7ae6ac7288a2dde-nyc-public-school.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Yakima School District to offer full remote learning option this fall, regardless of whether campuses reopen"
     excerpt: "“We’re mostly concentrated on distance learning 2.0 to see how it would work best for our ... one might attend school on campus on Monday and Tuesday, followed by a deep cleaning of the school before the second group attends Thursday and Friday."
     publishedDateTime: 2020-07-09T10:11:00Z

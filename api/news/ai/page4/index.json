@@ -2,6 +2,179 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-09-meet-the-robot-chemist-that-can-perform-its-own-experiments-wvideo.md",
+      "title": "Meet the robot chemist that can perform its own experiments (w/video)",
+      "excerpt": "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-020-2442-2/MediaObjects/41586_2020_2442_Fig1_HTML.png",
+          "width": 583,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
+      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
+      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
+      "sourceUrl": null,
+      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
+          "width": 500,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
+      "publishedDateTime": "2020-07-09T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechportal.com",
+        "domain": "thetechportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us1578-billion-service-opportunity-by-2030.md",
+      "title": "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030",
+      "excerpt": "Several cloud service providers, including AWS, Microsoft Azure, and Google Cloud, have begun collaborating with robotics developers, while start-ups like InOrbit target cloud-enabled operations for the first major deployment of mobile service robots.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261",
+      "publishedDateTime": "2020-07-09T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025.md",
+      "title": "Huge Expansion for Global AI in Healthcare Market Expecting to Grow at 54.5% CAGR to Achieve Remarkable Revenue by 2025",
+      "excerpt": "Selbyville, Delaware, Global AI in Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis. Global AI in Healthcare Market also covers top key players analysis and market segmentation in detail.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/huge-expansion-for-global-ai-in-healthcare-market-expecting-to-grow-at-545-cagr-to-achieve-remarkable-revenue-by-2025-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-artificial-intelligence-in-retail-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029.md",
       "title": "Artificial Intelligence in Retail Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029",
       "excerpt": "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Retail Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market.",
@@ -1246,206 +1419,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements.md",
-      "title": "Qualcomm unveils the Snapdragon 865 Plus with GPU, CPU speed improvements",
-      "excerpt": "Qualcomm said speeds on the CPU Prime core have increased 10%, while graphics rendering on the Adreno 650 GPU are also 10% faster than the previous generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/24/9eebbd6d-d946-4633-a122-d881922ed6bc/thumbnail/1200x675/7e24c8926e8d705aa2305b84ca6057b9/snapdragon-qualcomm.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-unveils-the-snapdragon-865-plus-with-gpu-cpu-speed-improvements/",
-      "publishedDateTime": "2020-07-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business.md",
-      "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
-      "excerpt": "With the emergence of 5G and the ubiquity of ever more powerful smartphones and other devices, companies are increasingly looking to run AI applications at the “edge” -- that is, at the point of action rather than in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Transform 2020: Learn how to build edge AI to accelerate your business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/transform-2020-learn-how-to-build-edge-ai-to-accelerate-your-business/amp/",
-      "publishedDateTime": "2020-07-08T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ibm-makes-its-rpa-move-acquires-wdg-automation.md",
-      "title": "IBM makes its RPA move, acquires WDG Automation",
-      "excerpt": "After all, Krishna predicts every company will revolve around AI. While Blue Prism ... Automation into its Cloud Pack for Automation. IBM also added that WDG Automation capabilities will be embedded into Watson AIOps and Cloud Pak for Multicloud Management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/07/cdb821ee-ec47-4cc9-8473-cc2c21e0adf4/thumbnail/1200x675/ce9d2a4355f6a9b4cb982a96bcaa3b38/galaxy-unpacked-aug-5.png",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM makes its RPA move, acquires WDG Automation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
-      "publishedDateTime": "2020-07-08T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection.md",
-      "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
-      "excerpt": "An independent civil rights review found the company's efforts to detect algorithmic bias are falling short and leave users vulnerable to manipulation.",
-      "sourceUrl": null,
-      "webUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://about.fb.com/wp-content/uploads/2020/07/NRP-Civil_Rights_Audit_Report_banner_FINAL.jpg?fit=4000%2C2251",
-          "width": 4000,
-          "height": 2251,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
-      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
-      "publishedDateTime": "2020-07-08T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

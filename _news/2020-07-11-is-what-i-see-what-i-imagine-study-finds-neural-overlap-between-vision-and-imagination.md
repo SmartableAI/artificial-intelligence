@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "The Line Between Vision And Imagination Is Blurry"
+    excerpt: "To explore this question, researchers used machine learning and insights from machine vision, which uses computers to view and process images. The researchers trained this network to see images and then took the next step of having the computer imagine images."
+    publishedDateTime: 2020-07-13T17:02:00Z
+    webUrl: "https://www.science20.com/news_staff/the_line_between_vision_and_imagination_is_blurry-249298"
+    type: article
+    provider:
+      name: Science 2.0
+      domain: science20.com
+    quality: 24
+    images:
+      - url: "https://www.science20.com/files/images/imagery_ptsd.png"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Is what I see, what I imagine? Study finds neural overlap between vision and imagination"
     excerpt: "In Current Biology, Medical University of South Carolina researchers report the results of a study using artificial intelligence and human brain studies to compare brain areas involved in mental imagery and vision."
     publishedDateTime: 2020-07-10T21:16:00Z
