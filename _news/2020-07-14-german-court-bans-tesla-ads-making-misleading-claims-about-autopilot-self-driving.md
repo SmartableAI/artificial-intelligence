@@ -74,23 +74,7 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Elon Musk predicts Teslas will be fully autonomous this year — 4 years after the company started selling 'full self driving' software (TSLA)"
-    excerpt: "Elon Musk said Tesla's long-promised 'full self-driving' capabilities will actually come true this year. The CEO made the prediction in a"
-    publishedDateTime: 2020-07-10T02:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5af3453424131e21008b47f9"
-        width: 2000
-        height: 1333
-        isCached: true
 
-secured: "H2KeyJ4qXCL+aU8gEo+3bWxdZ6kgPDaV4OgIJJpXrEwBLn2GSc7AcdBTtoq3YmjufclwL3/s+//OKcv6iCEhPwFKJzxC6GaSBvLQC+1b0KVwPgw/xJ6OckPlkHRPztAu90aYMXvWi4mGhospngHHOdiKNIb2RZ1nXyqmVnxKxLi3t9T08eIkt/N2LcJeZ6yh124G+lsVFeRvP6kHyJelGonU0flcm3whB89n4SK6IrdXCRsOPJyphUp6JYhLnRBm/q1D/aQds0RjOWrjfQbBJ1GceH+CAwmVjF/x8eXrK86okb97bqLeL0Wm8XgISQqGZLQbDdXEw2CHrFlyEnhYuQ==;+sa9UGr0Uo1df2ULcENeRQ=="
+secured: "VX7uidnQSweJx/jjp2GqNQYD4giyKWbtoIqnmC8Og4FunQSU76s9MGNRAGiyQnsl8xYYc405RcF2DCmIqxoyTITUfB4/4X290uDWLsJikQwok+N5r+r8nLeH0rlbPyT4CWalHJMNHqFz/ynxKbjQXKbh0wIF4taT7FtDXKp7CEJHQKg9M54A+v3d7xHqgXIMEewj3J250DNgG5z834ikvje3GnyxwmcJXER/8DEmPs4e1j8dHbFSSwb/JDOqJfgHDxzyH6yHPLO1ZH/UwwSzk1yuNsc+8QHH4TuoaewHNlPBqZ8vn8VF7d0QDjt/s/c71dgf9zMJ9gsJLzaBQ9Jpz4X3F8Y3c7Fo5haJDfinC8vs7PujBCIc6sLFLiVDQueLMYizcBjUZoXoA2lYpP1J7E3BW5oYP8kECl/ECtSufwi7AcTII8Pu0l1eKzli4Gi4dIyiRlDh6nMMtwzZl17OHkAVQ2MqGLspt9oKPGHkurjClnpBRvVkEbb8QIRVIznTIzvcuBoKweNuFUpd1Jt0KQ==;7ENIaD/GvvymcD627J7BIQ=="
 ---
 

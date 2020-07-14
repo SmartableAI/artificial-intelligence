@@ -56,20 +56,6 @@ related:
         width: 768
         height: 483
         isCached: true
-  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
-    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
-    publishedDateTime: 2020-07-10T02:23:00Z
-    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
-        width: 1024
-        height: 681
-        isCached: true
   - title: "This self-driving startup built a “car without wheels” for remote driving"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
     publishedDateTime: 2020-07-11T13:00:00Z
@@ -111,20 +97,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "Startup WeRide starts driverless testing"
-    excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."
-    publishedDateTime: 2020-07-10T02:08:00Z
-    webUrl: "https://www.autonews.com/china/startup-weride-starts-driverless-testing"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 22
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/index_1.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "ayPR0KOP/zUR/HyEE16JEfHQUEpviC4oi2IZoFTg5UcaVPVZaKzfGLs0c1XoxN/fKQYn/Zi061xCf6fYbB6JOSWTuv11JAj1VrisFwlJ8bmdJCMJhr0rDftqo8RCGD7dAFlfrMD6QobJ//laRsL9fnbR3PxwuMBd2lh5drxxI2yzlHeab6wU9kiCVwqMFcA20OQmSViETzI7UTdS1PwZe/M6CWa+JxaAIMWrH6GCKdkAvMfx7bNAnH9QZDl6+MW6Sg1pkNDHINzJBkHjxtNb6sFD4HhekgWyCrxsmq09B70ogs7j2QYQqdKwMmTlwVqtXQ+YSmhJsW81JmtiOEbp9A==;CVPdNyTPom5qfgkbT5ccpw=="

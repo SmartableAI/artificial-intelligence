@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer
 ampWebUrl: "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/07/oak-opencv.gif"
@@ -28,6 +29,6 @@ images:
     height: 380
     isCached: true
 
-secured: "8U+MjoqvXoUDNELBap87sWT3wga7asUACsweVlY/uYYSMNVgQTbHVcGEyDT2Lq9HkKvLRdypbD28pWuev/gyyEeYxz4+9Sho3EW9btcW4fYxMUycjkyePj+Jc3KUnCwf4YwbKdGy4LiD+A/LLwYdULNs8lg0UiU3nx3sYPhzF1MkgAIonulMCSmxWJSFdUF47Ie+VNxHda2Nrssl42ATYK3erHKZ1yCm1gOB5xzICweBR+b+XS/tLiV2Bknl5ucCHoJsibn0aPfirnwNXJHUGLdTh/rRDkMPqvEqVmhoEbAuIjzmQb0qryY3WO9fH5xhzXUlGmHMAaJxJM2thEU1Cg==;2Wu1AhZsbdk5FWK8Z28EIA=="
+secured: "mR/HKgW+dOuEfORdvDKyIZqmBmZbjLEj4+QiJNiuy6OSBK1UEL0CZKeRjCwqSOTlGBLXFK/W+4PSBZT8aULtFCWGcE426yCbRmytgkyjeDrOFrR4XhMgHdXLRQCzviW+XG4fW4K+N6T5sy2gYOkN+7GJocpOlROCUNrl63WXaU+ZuWnEol5ymvj5I79Y6NT1o69zOZDbPLxJjCwlb4Wbw5px4D7CbvH9hzfA1eLkXQAA+BQnHxRKM0/vlT/Nw7GGQb6c14yanlXI+gOM/HUAU6ARiqGzNnkDSgBwbFsRXmhX+NTmbVQjIvaeoGJN8Amn50NvhcuBvAHWG/nO/SDDBW6xAOJ0HPZoWKdtld626xngfvbbEEkMWlQF6fjK/eeD3ubxXu1UM7p2DJb7edOGpofr+dD7Dea1Q5MYf4KfDucz+FLAyRRnzbtRFGtE2QKLDzbitdpBZpI9ufOVQYrmaSpQwIWw2BwwA3x45LcIOVAg12pfWcwOFp9upMt6mhooos/XmND7raEfpFOE+yWvZQ==;+zK7zmepY4x3tuC0ngCbxg=="
 ---
 

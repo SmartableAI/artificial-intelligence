@@ -1,30 +1,41 @@
 ---
 category: news
-title: "C.H. Robinson, Microsoft partner to boost supply chain digitization"
-excerpt: "C.H. Robinson and Microsoft have teamed up to bring Robinson’s Navisphere supply chain solution to users of Microsoft’s Azure platform."
-publishedDateTime: 2020-07-14T13:05:00Z
-webUrl: "https://www.freightwaves.com/news/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization"
-ampWebUrl: "https://www.freightwaves.com/news/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization/amp"
+title: "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization"
+excerpt: "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the"
+publishedDateTime: 2020-07-14T17:23:00Z
+webUrl: "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16617586"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/07/CH_Robinson_partners_1.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-14_at_1.22.10_pm.png"
+    width: 1270
+    height: 714
     isCached: true
 
-secured: "1ixJay1ZmiBPq9zEy8gydunIVxHSfiJhjg9AgsgopjQjDSWKZlxpafBZ21nlpGYjaVbjV2618u+gBd9Ir/KyKXi3BpeSPw1uYuXGvHg6AxDrO8Si64LCu/odHcdmziq0jtqTgra6fdaHvKdX/i2uV6+xerk3NxMx2qKXv79l4NiROqwBuQ74M5TRkl6v/FEEx+TQSP0e7/dh8E4/0zx3Pxh0JOWRIpkA/YGmx+EwIjIf8Q7Oa1NQLHoP602Ugh2sXxEAUACuY0/HIb9raM9X27cv3xsxzELfXZD7jAJoA4vWBNmXbTdZcQlTNnYRzHuar2GA9VqFG5Xjpt+iiFvNvw==;y/PFYOFS62c1InE58QsLkQ=="
+related:
+  - title: "C.H. Robinson, Microsoft partner on supply chain transparency"
+    excerpt: "C.H. Robinson, Eden Prairie, Minn., and Microsoft are working to provide real-time visibility in the supply chain, a partnership that will accelerate innovation in transportation, according to the companies."
+    publishedDateTime: 2020-07-14T17:54:00Z
+    webUrl: "https://www.thepacker.com/article/ch-robinson-microsoft-partner-supply-chain-transparency"
+    type: article
+    provider:
+      name: The Packer
+      domain: thepacker.com
+    quality: 34
+
+secured: "WmVxATPRIKlQbPNpJHY44G+q1xIzesiYG9fyKsyEg24Ue6Hkad1tbiGDrtlWwwmtlHuuk67wb1F/xr0jr4t9jiZsqfXCoFWB1qRe2AsfRNN8paNGcMXIxGMqEVIs8eUYXM4nB15alb29sXgK/HkyewyLfj5YAF6upGBKE6cQT95g5rkSpVNCOjsCGUfo4IeV/WSDBxMUfxopSGReV/pJ4nGQ3iNaYuwcmGQpU/v6SDCaL8ltv9aM8RplqtZnMFba13sqUWTYBrXyRG8dzNysXGBnXvCw4neLUmPS5+tzdoOkSH4JLaPb3IyCJBJBYrVv12JKzTTs7RCVeyBkD9h2qg==;UDO4f2LpFp2ZEyjdT678ig=="
 ---
 

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization</loc>
+    <lastmod>2020-07-14T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/</loc>
     <lastmod>2020-07-14T09:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,12 +69,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/</loc>
     <lastmod>2020-07-14T06:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.freightwaves.com/news/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization</loc>
-    <lastmod>2020-07-14T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3224,6 +3224,12 @@
   </url>
   <url>
     <loc>https://www.ucf.edu/news/grants-available-for-covid-19-research-that-uses-artificial-intelligence-and-big-data/</loc>
+    <lastmod>2020-06-25T08:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.electronicdesign.com/industrial-automation/article/21135078/low-power-fpga-targets-lowcost-apps</loc>
     <lastmod>2020-06-25T08:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

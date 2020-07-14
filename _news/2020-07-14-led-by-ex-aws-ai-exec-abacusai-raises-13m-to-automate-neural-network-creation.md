@@ -5,8 +5,8 @@ excerpt: "Abacus.AI Inc., an artificial intelligence startup led by Amazon Web S
 publishedDateTime: 2020-07-14T14:56:00Z
 webUrl: "https://siliconangle.com/2020/07/14/led-ex-aws-ai-exec-abacus-ai-raises-13m-automate-neural-network-creation/"
 type: article
-quality: 51
-heat: 51
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI
   - AWS AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/code.png"
