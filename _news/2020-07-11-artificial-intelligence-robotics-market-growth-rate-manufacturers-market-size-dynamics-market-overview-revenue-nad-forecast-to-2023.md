@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-11T14:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-rate-manufacturers-market-size-dynamics-market-overview-revenue-nad-forecast-to-2023-2020-06-30"
 type: article
 quality: 66
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Platforms Market Top Manufacturers, Trends, Size, Market Share by Regions, Drivers, Challenges and Forecast to 2023"
-    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry” Global “Artificial Intelligence"
-    publishedDateTime: 2020-07-09T09:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platforms-market-top-manufacturers-trends-size-market-share-by-regions-drivers-challenges-and-forecast-to-2023-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

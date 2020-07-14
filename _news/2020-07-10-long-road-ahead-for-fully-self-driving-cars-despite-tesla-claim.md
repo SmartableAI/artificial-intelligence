@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Elon Musk says Tesla is ‘very close’ to level 5 autonomous driving"
-    excerpt: "Automakers and tech companies including Alphabet, Waymo, and Uber are investing billions in the autonomous driving industry. VB Transform 2020 Online - July 15-17. Join leading AI executives ..."
-    publishedDateTime: 2020-07-09T10:15:00Z
-    webUrl: "https://venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/"
-    ampWebUrl: "https://venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/elon-musk-says-tesla-is-very-close-to-level-5-autonomous-driving/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/elon-musk-stripteases-tesla-model-y-china.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk: Tesla Will Have Level 5 Self-Driving Cars This Year"
     excerpt: "Tesla will have essentially fully autonomous self-driving vehicles this year, CEO Elon Musk said in a video recorded for a Chinese AI conference."
     publishedDateTime: 2020-07-09T15:58:00Z

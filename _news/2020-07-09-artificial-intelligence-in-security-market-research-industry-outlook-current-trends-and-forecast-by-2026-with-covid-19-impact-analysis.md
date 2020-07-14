@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Military Market Current Growth Status, Major Key Players and Covid 19 Impact Assessment Forecast 2029"
-    excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence in Military Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
-    publishedDateTime: 2020-07-09T10:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-current-growth-status-major-key-players-and-covid-19-impact-assessment-forecast-2029-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Drug Discovery Market 2020 | Covid-19 Impact | Industry overview, supply and demand analysis and forecast 2027"
     excerpt: "USD 253.8 Million in 2019, Market Growth - CAGR of 31.9%, Market Trends- Major key players are investing into research and development to revive their patented products and produce new products. The Global Artificial Intelligence in Drug Discovery Market Research Report published by Reports and Data provides key information to readers engaged in the industry."
     publishedDateTime: 2020-07-10T06:21:00Z

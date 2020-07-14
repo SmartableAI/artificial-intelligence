@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Imec and GLOBALFOUNDRIES announce AI chip breakthrough"
-    excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."
-    publishedDateTime: 2020-07-09T10:07:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip"
     excerpt: "Imec, a research and innovation hub in nanoelectronics and digital technologies, and GLOBALFOUNDRIES (GF), a specialty foundry, announced a hardware demonstration of a new artificial intelligence chip."
     publishedDateTime: 2020-07-09T15:12:00Z
@@ -65,6 +51,22 @@ related:
       - url: "https://www.digitimes.com/newsshow/20200709PR201_files/2_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Genetec announces deep integration with Bosch MAP 5000 intrusion panel series"
+    excerpt: "Genetec Inc., a renowned technology provider of unified security, public safety, operations, and business intelligence solutions, announced the latest deep integration to result from its"
+    publishedDateTime: 2020-07-10T06:49:00Z
+    webUrl: "https://www.sourcesecurity.com/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 41
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/suprema-and-moca-system-contribute-to-the-growth-of-mobile-access-cards-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "IlIX7w0cI6eEEEZHQ/6UlzBb6uLATKlxxQmtUt4jeuYLM2WCJ8rGQqHCgmd9w6NAjcUBLxD6T1fPde5974QTAwvekuesZd0AqkzwkzsQ0XSekzzBeMO1xI202b2qpeuA+buJIcJJStfr0Nv64gs481Z1qwvR21xzGhJus240Om80Jtbazzib/m7eyHw+ON4Am+T/uAVDeNmNreJUhq52wNRb159BryFlg7+1S8iY7WiZRF4zbFXsc8XUHhOexc6OKE+BIUKJ6SJ+rQqIM+ltq3RD3Tzq0A1YdBhPv5RqrNtz2yoEjVUR29+ZF+CX4bIseGaGTAOR1mdmaXy0PQ5Oq7HFGtf4AQvo7+qRxlv1JpK5UjOu9oI8RJdUM6pwfCAy83QZ/92F66P8CrCng/ojxcBG4bvNio0ZxJXeSgGgVb/ahsZY7JuI9c9KIYaT+KBVsbEfk7PhRUUbAKcusvguKDzSFPCtPSIrOJkRJ6Ki/keBiZ7SZ9Ez21j33g7xT6GvJoluMR8FRva840eOgoOURA==;S7DIbmqPmKJJQAhOsZ3xyA=="

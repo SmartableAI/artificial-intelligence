@@ -2,6 +2,105 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-23-how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push.md",
+      "title": "How Cloud And AI-Powered Data Insights Are Helping F1’s Digital Push",
+      "excerpt": "F1 Chief Engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1157471618%2F0x0.jpg",
+          "width": 1200,
+          "height": 685,
+          "title": "How Cloud And AI-Powered Data Insights Are Helping F1’s Digital Push",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "publishedDateTime": "2020-06-23T00:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-artificial-intelligence-ai-in-healthcare-market-growth-analysis-outlook-by-trends-opportunities-and-forecast-to-2024.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market Growth Analysis, Outlook by - Trends, Opportunities and Forecast to 2024",
+      "excerpt": "Jun 23, 2020 (AmericaNewsHour) -- Artificial Intelligence (AI ... practices can be used for alerts & reminder, diagnostic, therapy planning, information retrieval, and image interpretation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growth-analysis-outlook-by---trends-opportunities-and-forecast-to-2024-2020-06-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Healthcare Market Growth Analysis, Outlook by - Trends, Opportunities and Forecast to 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-amazon-web-services-joins-efforts-to-protect-biodiversity.md",
       "title": "Amazon Web Services joins efforts to protect biodiversity",
       "excerpt": "Education, Research, Healthcare, and Nonprofit Organizations, Asia-Pacific, Worldwide Public Sector, Amazon Web Services Aria Nagasastra, director of Finance and Administration, WWF-Indonesia How can",
@@ -1251,97 +1350,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-new-study-on-neural-networks-has-implications-for-improved-ai-applications.md",
-      "title": "New Study on Neural Networks has Implications for Improved AI Applications",
-      "excerpt": "At North Carolina State University, researchers have found when neural networks are taught physics, they can better adapt to chaos within their environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=11379",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.azorobotics.com/images/news/ImageForNews_11379_15928251179826128.png",
-          "width": 950,
-          "height": 535,
-          "title": "New Study on Neural Networks has Implications for Improved AI Applications",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=11379",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=11379",
-      "publishedDateTime": "2020-06-22T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-nvidia-reveals-pcie-40-version-of-its-ampere-a100-gpu.md",
-      "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-      "excerpt": "Nvidia finally showed off its new 7nm Ampere architecture last month in the form of the A100 GPU. Now, the company has announced a number of A100 powered systems from leading server manufacturers, including Asus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-5.jpg",
-          "width": 1800,
-          "height": 1350,
-          "title": "Nvidia reveals PCIe 4.0 version of its Ampere A100 GPU",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85718-nvidia-reveals-pcie-40-version-ampere-a100-gpu.html",
-      "publishedDateTime": "2020-06-22T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

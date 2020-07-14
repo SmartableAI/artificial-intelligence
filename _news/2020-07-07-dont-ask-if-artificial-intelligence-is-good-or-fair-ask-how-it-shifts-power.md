@@ -13,6 +13,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-02003-2/d41586-020-02003-2_18169050.jpg"

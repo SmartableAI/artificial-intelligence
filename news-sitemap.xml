@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/</loc>
+    <lastmod>2020-07-13T20:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/</loc>
     <lastmod>2020-07-13T16:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -451,6 +457,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.hpcwire.com/off-the-wire/imec-and-globalfoundries-announce-breakthrough-in-ai-chip/</loc>
+    <lastmod>2020-07-09T08:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/</loc>
     <lastmod>2020-07-09T08:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -787,8 +799,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360</loc>
-    <lastmod>2020-07-08T05:28:00-07:00</lastmod>
+    <loc>https://www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08</loc>
+    <lastmod>2020-07-08T05:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1099,6 +1111,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1119,12 +1137,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699</loc>
     <lastmod>2020-07-06T09:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
-    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2131,8 +2143,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
+    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

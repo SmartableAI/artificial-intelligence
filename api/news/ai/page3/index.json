@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
+      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
+      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "publishedDateTime": "2020-07-09T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-chinese-self-driving-start-up-weride-to-test-fully-driverless-cars-in-guangzhou.md",
       "title": "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou",
       "excerpt": "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services.",
@@ -347,7 +388,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -546,7 +587,7 @@
       "webUrl": "https://www.bbc.com/news/technology-53349313",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 299,
+      "heat": 289,
       "tags": null,
       "images": [
         {
@@ -596,7 +637,7 @@
       "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 376,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -728,6 +769,47 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-imec-and-globalfoundries-announce-breakthrough-in-ai-chip.md",
+      "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip",
+      "excerpt": "Imec, a research and innovation hub in nanoelectronics and digital technologies, and GLOBALFOUNDRIES (GF), a specialty foundry, announced a hardware demonstration of a new artificial intelligence chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/imec-and-globalfoundries-announce-breakthrough-in-ai-chip/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/white-house-shutterstock_147037244-copy-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -929,7 +1011,7 @@
       "webUrl": "https://www.cnet.com/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1361,105 +1443,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-kernel-raises-53-million-to-bring-neuroscience-insights-to-businesses.md",
-      "title": "Kernel raises $53 million to bring neuroscience insights to businesses",
-      "excerpt": "Kernel raised $53 million to develop a new generation of brain tech that allows companies to leverage insights from the latest neuroscience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/10625_04_1093-e1594293347834.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/amp/",
-      "publishedDateTime": "2020-07-09T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-how-artificial-intelligence-is-going-to-change-hotel-stays.md",
-      "title": "How Artificial Intelligence Is Going To Change Hotel Stays",
-      "excerpt": "ModiHost is a new platform for hotels that uses artificial intelligence to offer a better hotel management system, centered around personalization of the guest experience. In turn they aim to drive increased spending and brand loyalty. They say they’ve ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1175327832%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/",
-      "publishedDateTime": "2020-07-09T05:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

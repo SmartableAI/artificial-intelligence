@@ -25,22 +25,6 @@ images:
     height: 518
     isCached: true
 
-related:
-  - title: "Interactive machine learning for soybean seed and seedling quality classification"
-    excerpt: "The aim of this study was to propose an approach based on interactive and traditional machine learning methods to classify soybean seeds and seedlings according to their appearance and physiological potential. In addition, we correlated the appearance of ..."
-    publishedDateTime: 2020-07-09T09:16:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-68273-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-68273-y/MediaObjects/41598_2020_68273_Fig1_HTML.png"
-        width: 685
-        height: 238
-        isCached: true
-
 secured: "dPnhECJnVyxTdph+bqQINkyyHavqT+AYTmmXT5cy2buLNUKzo9/br/0j9P4udmPF8fjFOTJ0LtDHuI98A9+n0cWWylQ1qj+wWOPEB0b1RThwnYYlA2QW9braiq9JlVSlRYlKBHM2RcqK4kTjjyQYeZ6JA9dPFLWAvQ67SWlWLHiFFOlH+TbSgMYbZ1s1s9/UZnvJmwOQuhBYn9esbgC9hdV+BN0KRwsL9YzhLmHbC05D4TlLhu/QIF20/WO8ca9VRdg5CnfWyPPm1YnKzwTv2S7iN4Ib+DPIzPBR4zRX9r9Hr1fsSL1WaSH6/VGSj4hcfJOWmw/ng2loxBbqJxKzD9VBsslhBij2/q2H+7b1uGrYs/QUMCCCWPu+2S5CMhU2QPJ0gVLX0me+oZ5fuwxBtwkhO11QsvdHj0nvEHAM2myFYQu/DJAsdCDb/G7DYqPq4x3fOGTvf9DBiJeLfY8oeSke2CNQBtTG11OusRZD59br2jMOsiX7P/JSEOoBuBflL6YaHcd5DxT4ik/A7kHwWA==;R2AoKnC966m9CRSWsvUB0Q=="
 ---
 

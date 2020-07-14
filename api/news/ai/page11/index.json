@@ -2,6 +2,106 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-01-deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025.md",
+      "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
+      "excerpt": "The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights & increased operational efficiency are few of the factors driving the deep learning chip market worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
+      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
       "title": "In These Factories, Inspector Robot Will Check Your Work",
       "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
@@ -1304,88 +1404,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology.md",
-      "title": "Notre Dame, IBM launch Tech Ethics Lab to tackle the ethical implications of technology",
-      "excerpt": "Notre Dame News gathers and disseminates information that enhances understanding of the University’s academic and research mission and its accomplishments as a Catholic institute of higher learning.",
-      "sourceUrl": null,
-      "webUrl": "https://news.nd.edu/news/notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.nd.edu/assets/394469/1200x630/ibm_blue_feature_2.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Notre Dame News",
-        "domain": "nd.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-the-time-for-ethics-is-over.md",
-      "title": "Artificial Intelligence: The time for ethics is over",
-      "excerpt": "If the rules are too weak, there is a too great a risk that our rights and freedoms will be undermined: This currently applies to all applications of artificial intelligence, […]",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/artificial-intelligence-the-time-for-ethics-is-over/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/space.jpg",
-          "width": 632,
-          "height": 422,
-          "title": "Artificial Intelligence: The time for ethics is over",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

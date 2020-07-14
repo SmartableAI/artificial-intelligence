@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-12-google-machine-translation-helping-disseminate-covid-19-info.md",
+      "title": "Google machine translation helping disseminate Covid-19 info",
+      "excerpt": "Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 languages in the US alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/articleshow/76918627.cms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/76918627.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
+      "publishedDateTime": "2020-07-11T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-12-ai-iot-1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow.md",
       "title": "AI + IoT = 1000X More Dense Networking Environments: How Intel, NSF Are Planning For Tomorrow",
       "excerpt": "How will we connect everything at such scale? Intel and the National Science Foundation say we’ll need help from artificial intelligence. And mesh networks. Including, potentially, even SpaceX Starlink satellites in low earth orbit.",
@@ -309,7 +350,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robotics-market-growth-rate-manufacturers-market-size-dynamics-market-overview-revenue-nad-forecast-to-2023-2020-06-30",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1419,47 +1460,6 @@
         "AI in Finance",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
-      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
-      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "publishedDateTime": "2020-07-09T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

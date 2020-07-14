@@ -2,6 +2,96 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-06-new-ai-project-captures-jane-austens-thoughts-on-social-media.md",
+      "title": "New AI project captures Jane Austen’s thoughts on social media",
+      "excerpt": "A new AI project from magician and novelist Andrew Mayne creates simulated conversations with historical figures including Isaac Newton and Edgar Allen Poe.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-95-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New AI project captures Jane Austen’s thoughts on social media",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/06/new-ai-project-captures-jane-austens-thoughts-on-social-media/amp/",
+      "publishedDateTime": "2020-07-06T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
+      "title": "AI and robotics to redefine businesses - Accenture",
+      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/000d9006-642.jpg",
+          "width": 642,
+          "height": 361,
+          "title": "AI and robotics to redefine businesses - Accenture",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
+      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
+      "publishedDateTime": "2020-07-06T05:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-myriad-partners-optrahealth-for-ai-based-information-tool-gene-quick-facts.md",
       "title": "Myriad Partners OptraHEALTH For AI-Based Information Tool Gene - Quick Facts",
       "excerpt": "Molecular diagnostics company Myriad Genetics, Inc. (MYGN) announced Monday a new collaboration with AI platform OptraHEALTH to implement a cognitive ChatBOT named Gene to provide pre-test genetic and financial assistance information to prospective patients.",
@@ -1073,108 +1163,6 @@
         "AI",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-baidu-to-ramp-up-investments-in-cloud-computing-artificial-intelligence.md",
-      "title": "Baidu to Ramp Up Investments in Cloud Computing, Artificial Intelligence",
-      "excerpt": "Baidu (NASDAQ:BIDU) is making a big push into cutting-edge IT segments. The company announced Thursday that it will be allocating more capital to investments in developing corners of the market, particularly artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580974%2Fa-person-using-a-personal-computer.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Baidu to Ramp Up Investments in Cloud Computing, Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/03/baidu-to-ramp-up-investments-in-cloud-computing-ar.aspx",
-      "publishedDateTime": "2020-07-03T17:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-      "excerpt": "A processor and Himax AoS sensor. With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers to develop their NN based edge AI applications targeted for Notebook,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30-6184054",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

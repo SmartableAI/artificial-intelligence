@@ -98,22 +98,6 @@ related:
         width: 3999
         height: 2666
         isCached: true
-  - title: "The UK and Australia are investigating Clearview AI, the facial recognition firm that scraped billions of photos from social media"
-    excerpt: "The UK's Information Commissioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) announced a joint investigation."
-    publishedDateTime: 2020-07-09T10:19:00Z
-    webUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-under-investigation-in-the-uk-and-australia-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 76
-    images:
-      - url: "https://i.insider.com/5f06e390f34d05208c1d9d15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
     excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
     publishedDateTime: 2020-07-13T11:49:00Z
@@ -129,6 +113,22 @@ related:
       - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
         width: 750
         height: 420
+        isCached: true
+  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
+    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
+    publishedDateTime: 2020-07-14T03:32:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 66
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
     excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
@@ -406,6 +406,20 @@ related:
       name: Antelope Valley Press
       domain: avpress.com
     quality: 19
+  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
+    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
+    publishedDateTime: 2020-07-14T02:40:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 12
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
+        width: 926
+        height: 569
+        isCached: true
 
 secured: "2gursDR4SR43pNbwfQnMhtoGPAT9Td5vBXjA6yKPWJSBFijTwEPwqC/s+IiabzaksYYSyp6biR0gK/YR2/zJ7GFZ3FtEq6qC7Sjr41dt0UVALM9FqkgJnS9j9/ZPct7gf2tkik4wxVNb7e6rq/+oVzuhz9hGYUeYybtuSLyoYDZ5dhaWpMkNsUr1ZrRzdVWXngFarHnWg4h3NfZVSmkZ5hJ42pmdmLZf/Sgm+sskPJRqghULmIt3Mzbu2egPZdDXhQK1nVVmweZweE0gplGWeudnNXHFUS8M6ggKExrhC7C1Yp+pUpS3M8w2LSMiXiqPID3ikvhdt6shbjV0S9o5uZGqgwcLlqdGLeM+oB4aVzzD5ezXf23kbEEmnb0+JFBZFzqm2h8Fpe0wM1akphuJG7yFjblbG/2p8TfP8OWGYkTpdwW5XsTCsPBMHB35BGTBrBpzTeUfglrsxPzCd5ieg8JZ+ccndmw61d5n3W4f9uKSSr/QjhuJkmVX0zPADWjuUsaJBg5fVGUcB6wR0RcrGA==;yZCKlXaEo5H8h8+oDAPaRw=="
 ---
