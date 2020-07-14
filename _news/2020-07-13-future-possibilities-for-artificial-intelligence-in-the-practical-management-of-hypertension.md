@@ -5,8 +5,8 @@ excerpt: "The use of artificial intelligence in numerous prediction and classifi
 publishedDateTime: 2020-07-13T00:00:00Z
 webUrl: "https://www.nature.com/articles/s41440-020-0498-x"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41440-020-0498-x/MediaObjects/41440_2020_498_Fig1_HTML.png"

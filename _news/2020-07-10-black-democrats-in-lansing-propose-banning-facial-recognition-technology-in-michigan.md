@@ -40,22 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "The growing fight over police use of facial recognition"
-    excerpt: "In light of protests for racial justice, facial recognition has come under scrutiny for how it's used by police, leading to IBM, Amazon, and Microsoft pulling back on this tech."
-    publishedDateTime: 2020-07-11T13:45:00Z
-    webUrl: "https://www.cnbc.com/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Is Facial Recognition Technology Good Or Bad?"
     excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
     publishedDateTime: 2020-07-10T11:46:00Z
@@ -67,20 +51,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 69
-  - title: "Concern is growing over police use of facial recognition"
-    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
-    publishedDateTime: 2020-07-11T16:54:00Z
-    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How the Growing Facial Recognition Debate Impacts Martech"
     excerpt: "In recent years image recognition has been hailed as a critical identifier of digital media to causal customer needs. But can it be an intrusion? Marketers worried about its application should pay attention to the facial recognition debates emerging today."
     publishedDateTime: 2020-07-10T17:16:00Z
@@ -112,6 +82,36 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
+    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
+    publishedDateTime: 2020-07-09T22:33:00Z
+    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 52
+    images:
+      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
+        width: 600
+        height: 600
+        isCached: true
+  - title: "Facial recognition technology is expanding rapidly across Australia. Are our laws keeping pace?"
+    excerpt: "There are questions being raised about the legality of scanning, storing and sharing facial images. The law currently doesn't prohibit even highly intrusive levels of surveillance by private entities."
+    publishedDateTime: 2020-07-09T20:00:00Z
+    webUrl: "https://theconversation.com/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 47
+    images:
+      - url: "https://images.theconversation.com/files/346509/original/file-20200709-34-1u8uyj3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop"
+        width: 320
+        height: 241
         isCached: true
 
 secured: "Rax3SSUaEet4yE/KAt/Nmfz+7n/OIJ2IHw8fdNliJ8+QKgJwa4MkYnLTdsM4u+wYGJbBEDWl5n4P6pbUZmxFByFzPG4UMBuAj/VK+HQ+7TERtMrmvOEpb3MEy4xRVt1rl0NqvvedkBH18qwALaezim8tInRq+Q+lTYUJD33Taue8qJ0qzQerU8IOHGN8zdLNZetz5oY3PXmAh8dkKGEpI9h2uGVu4BkswiCR+1tGGM/LILJEuAKIj7EjBO/5vN7/EAAgDy7uquux6STKyh6HGbxFCU1sJsToIf5TbiAFbK/GHR3hg5Jrs1R1QuMe0w2zRhGbS87jqZdme2xPHqonCQ==;Q6HenfO8SOLdDHu3JZAp5A=="

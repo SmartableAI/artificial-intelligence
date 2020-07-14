@@ -2,20 +2,30 @@
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy Right Now"
 excerpt: "The global artificial intelligence market could grow at a whopping compound annual growth rate of 46.2% between 2019 and 2025, according to Grand View Research, becoming a $391 billion market. Investors who want to profit from that market,"
-publishedDateTime: 2020-07-06T16:29:00Z
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?amp"
+publishedDateTime: 2020-07-06T20:12:00Z
+webUrl: "https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - AI in Healthcare
   - AI
 
-secured: "C4oH4D8N7iTW2SVUjGcFyzBdInKBafTjUngu9ORfX/JJzim6v8ZGqFQtUVh/BflX8XKl47RV5OX8stfXvWmB/VfiEUpBVB3dxV3w6N0qrdBD3N73Cv3IfmF2TfrzKFogS8w3/UtE066w8hTcxnqis7ghKClfUpVkXyFMLr3V2XPgRMEVpNfsv/9QdIAHixCqwf6zeh4ibtprRRqYK2lDPlAOdmqagBSlJ8IbGijoYy+IF+oTadDEw1QTv6r3Jkm2xpMItvfoNKDQS2lm4YagacSwu8Zyge4L9fEEwYA6v/z/Kg2PxDdf/9mFzQQhdk1EHWsh7QS2KEoinE/ZImE1MA==;npvNRwhGlr4qnHFaRpvE8Q=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "xZhQqAyTf1vFx86YQD24dl5wlJmyW8sI9kjcs3WBJUGk++iC8NswbOe8hdlh6SarXrBrzesldyZsoA97Y/bdetxD9+keZwruOV/pvYlllvLmcIEH5leTB5J0KxnTOT96JDbcwQO5ljI8MCcvC3qkGQ0EsX/uMTiDxwOKcqzPCt3tECoG4zHOpa7Ymar/aIj4J9OKrjYOef4d7SRHoeZs9+MKSPmzqHmJZuW0KnhUF/15D/tyQn6xfF/DSozbiHhvuQJZpcxVnPCigR19vOoDgUQaXCKX4kxbZkd+uCdVnvvVuv0fMddn4PD7JhPdM76IAc9GfbKvigOlS2N8PPIp6A==;mf0ZsKpigeDV7/HO2PttVA=="
 ---
 

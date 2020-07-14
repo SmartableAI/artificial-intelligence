@@ -26,110 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "UK And Australia To Probe Clearview AI Facial Recognition"
-    excerpt: "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI."
-    publishedDateTime: 2020-07-09T15:44:00Z
-    webUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/"
-    ampWebUrl: "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/"
+  - title: "Supermarket chain Mercadona faces GDPR probe over facial recognition system"
+    excerpt: "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,"
+    publishedDateTime: 2020-07-14T09:49:00Z
+    webUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under"
+    ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 102
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg"
-        width: 1200
-        height: 854
+      - url: "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg"
+        width: 2000
+        height: 1125
         isCached: true
-  - title: "UK and Australia open joint data privacy investigation on Clearview AI"
-    excerpt: "The UK and Australian government are investigating a facial recognition firm that grabbed billions of people's pictures from across the internet for data privacy violations. In an announcement on Thursday,"
-    publishedDateTime: 2020-07-09T15:41:00Z
-    webUrl: "https://www.cnet.com/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uk-and-australia-open-joint-data-privacy-investigation-on-clearview-ai/"
+  - title: "The growing fight over police use of facial recognition"
+    excerpt: "In light of protests for racial justice, facial recognition has come under scrutiny for how it's used by police, leading to IBM, Amazon, and Microsoft pulling back on this tech."
+    publishedDateTime: 2020-07-11T13:45:00Z
+    webUrl: "https://www.cnbc.com/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
     images:
-      - url: "https://cnet4.cbsistatic.com/img/kGdTJmf5thvp092hWSgQ3JUqppo=/756x567/2020/06/11/91711bef-39ce-464c-b39e-06d9ffb6ebf3/clearview-hoan-ton-that.jpg"
-        width: 756
-        height: 567
+      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Clearview AI faces more scrutiny from UK and Australian privacy commissioners"
-    excerpt: "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn."
-    publishedDateTime: 2020-07-09T18:04:00Z
-    webUrl: "https://www.techspot.com/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
+  - title: "Concern is growing over police use of facial recognition"
+    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
+    publishedDateTime: 2020-07-11T16:54:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-18.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
-    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
-    publishedDateTime: 2020-07-13T11:49:00Z
-    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
-    ampWebUrl: "https://amp.abc.net.au/article/12451554"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 66
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
-        width: 750
-        height: 420
-        isCached: true
-  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
-    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
-    publishedDateTime: 2020-07-14T03:32:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 66
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facial Recognition Firm Clearview AI Probed by UK, Australia for Privacy Issues"
-    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday that they launched a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-    publishedDateTime: 2020-07-09T16:16:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-09/facial-recognition-company-clearview-ai-probed-by-uk-australia"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 60
-  - title: "Facial Recognition App Clearview Faces Global Probe"
-    excerpt: "Privacy regulators in Australia and the U.K announced a joint investigation into Clearview AI, the New York-based facial recognition software maker."
-    publishedDateTime: 2020-07-09T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/biometrics/2020/facial-recognition-app-clearview-faces-global-probe/"
-    ampWebUrl: "https://www.pymnts.com/news/biometrics/2020/facial-recognition-app-clearview-faces-global-probe/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2020/facial-recognition-app-clearview-faces-global-probe/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://www.pymnts.com/wp-content/uploads/2020/07/Clearview-AI-investigation-facial-recognition-457x305.jpg"
-        width: 457
-        height: 305
+      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UK, Australia launch joint investigation of facial recognition firm"
     excerpt: "Regulators in the United Kingdom and Australia announced a joint investigation Thursday of Clearview AI, a controversial facial recognition company that has scraped billions of photos from the internet."
@@ -147,6 +88,22 @@ related:
         width: 1440
         height: 880
         isCached: true
+  - title: "NEC’s new facial recognition system can spot workers with masks on"
+    excerpt: "NEC is reportedly using the advanced facial recognition system in an experiment it started Monday that aims to reduce the amount of touching in its offices and stem the spread of the coronavirus."
+    publishedDateTime: 2020-07-13T16:13:00Z
+    webUrl: "https://nypost.com/2020/07/13/necs-new-facial-recognition-system-spots-masked-workers/"
+    ampWebUrl: "https://nypost.com/2020/07/13/necs-new-facial-recognition-system-spots-masked-workers/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/13/necs-new-facial-recognition-system-spots-masked-workers/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/sized-nec-coronavirus2.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK, Australia investigate Clearview facial recognition firm"
     excerpt: "London: Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites. Thursday’s announcement by the U ..."
     publishedDateTime: 2020-07-13T06:04:00Z
@@ -163,22 +120,6 @@ related:
         width: 700
         height: 500
         isCached: true
-  - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
-    excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
-    publishedDateTime: 2020-07-10T02:19:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 57
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/10/facialrecognition.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
     excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
     publishedDateTime: 2020-07-09T17:46:00Z
@@ -193,52 +134,6 @@ related:
         width: 900
         height: 601
         isCached: true
-  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
-    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
-    publishedDateTime: 2020-07-09T23:30:00Z
-    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/?mid=1"
-    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 54
-    images:
-      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
-        width: 960
-        height: 600
-        isCached: true
-  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
-    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
-    publishedDateTime: 2020-07-10T00:03:00Z
-    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/"
-    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 54
-    images:
-      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
-        width: 960
-        height: 600
-        isCached: true
-  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
-    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
-    publishedDateTime: 2020-07-09T22:33:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 52
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
     excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
     publishedDateTime: 2020-07-11T11:00:00Z
@@ -250,49 +145,19 @@ related:
       name: heraldsun.com.au
       domain: heraldsun.com.au
     quality: 49
-  - title: "Facial recognition technology is expanding rapidly across Australia. Are our laws keeping pace?"
-    excerpt: "There are questions being raised about the legality of scanning, storing and sharing facial images. The law currently doesn't prohibit even highly intrusive levels of surveillance by private entities."
-    publishedDateTime: 2020-07-09T20:00:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
+  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
+    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
+    publishedDateTime: 2020-07-09T22:16:00Z
+    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/346509/original/file-20200709-34-1u8uyj3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop"
-        width: 320
-        height: 241
-        isCached: true
-  - title: "Facial recognition needs auditing and ethics standards to be safe, AI Now bias critic argues"
-    excerpt: "The podcast on “How External Auditing is Changing the Facial Recognition Landscape with Deb Raji,” hosted by Sam Charrington, who asks about the genesis of the audits Raji and colleagues have performed of biometric facial recognition systems,"
-    publishedDateTime: 2020-07-10T15:53:00Z
-    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-needs-auditing-and-ethics-standards-to-be-safe-ai-now-bias-critic-argues"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 43
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "UK, Australia investigate Clearview facial recognition firm"
-    excerpt: "LONDON — Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data \"scraped\" off social media platforms and other websites. Thursday's announcement by the U.K ..."
-    publishedDateTime: 2020-07-09T15:07:00Z
-    webUrl: "https://www.startribune.com/uk-australia-investigate-clearview-facial-recognition-firm/571690222/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
+      name: 9&10 News
+      domain: 9and10news.com
     quality: 39
     images:
-      - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1592509692"
-        width: 1680
-        height: 876
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
+        width: 720
+        height: 480
         isCached: true
   - title: "UK, Australia investigate Clearview facial recognition firm"
     excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
@@ -325,20 +190,6 @@ related:
       name: Antelope Valley Press
       domain: avpress.com
     quality: 19
-  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
-    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
-    publishedDateTime: 2020-07-14T02:40:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 12
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
-        width: 926
-        height: 569
-        isCached: true
 
 secured: "qIMtLipJcJMMKfBUX0d0xktziotuBgz+oFMbB+r5E6UqVWtUwx4ThxfYXETWS8av+zoa7+EiFAb9ZjWDYFkig3hJbnFgzzqNyUYrcusF2qvm2x44FucQ948iFEO248w51U7vBzIznRR0MUAfx91NdtSD8C6v79AjKLeckAqja6xsjvSTbRcfQXgei0OvkPMx3tbOAIfmn9QDcZTDeunjh3yggI+jgmWm7q9p/i+wdOca2pVGNcGWBQqrx+/CE8AToCPEGgL+joZK5/suJu+6ZL73jNcJ4qA5LLOtM8dd6LzxXBRa0nVTIRIymDucFGjfLgQyoiY8IJTslu08hEip9w==;Ir129Kd2G4BioNUQElU9UA=="
 ---

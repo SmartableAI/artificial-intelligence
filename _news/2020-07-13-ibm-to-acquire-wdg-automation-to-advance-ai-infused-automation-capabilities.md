@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T12:10:00Z
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-to-Acquire-WDG-Automation-to-Advance-AI-Infused-Automation-Capabilities-141754.aspx"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -21,19 +21,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "IBM Signs Deal to Acquire Software Provider WDG Automation"
-    excerpt: "WDG’s Automation capabilities will also be embedded into Watson AIOps and Cloud Pak for Multicloud Management. The expansion of IBM’s AI-infused capabilities is expected to help the company acquire new customers, which will bolster the top line in the ..."
-    publishedDateTime: 2020-07-09T15:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-signs-deal-to-acquire-software-provider-wdg-automation-2020-07-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-signs-deal-to-acquire-software-provider-wdg-automation-2020-07-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-signs-deal-to-acquire-software-provider-wdg-automation-2020-07-09?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "Alt8kmmQzKlN6ytNHx3xauUZ1/I5hGChKRYozOqj6bm1pwAHC/fKW1jK0Egc5ekm/Eko6O0XOt7vKu+DTRgwjhNTWYQmA9ie6cp8cf+YN0DdOP5G1ymEz2oT9Fgpx9KWv8oDguJzqTL1RjzOBFdK+d3jw41Yqc7nAP63ImTNxbkdoVlT4JW04MIm0cdpvF9VE3m3E1eF1OKtpiuimlA5Aefd/2D5SrnpEIhcCVwwgCLnm1Wtqt/KYGHPUvT38mrnaEyaO3fTfqeGNeGxEUK/39uu7WcdF/ZF4cQmOvWQwfvJkL17tLubWwt4nphZ02cza4CVeA7KlrtWemuVOTuJcQ==;gmbLjdJcyiF8H4PwAOZiTA=="
 ---

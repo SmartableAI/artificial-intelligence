@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk (again) says Tesla is close to fully self-driving vehicles"
+    excerpt: "The chief executive officer has long offered exuberant takes on the capabilities of Tesla cars, even going so far as to start charging customers thousands of dollars for a “Full Self Driving” feature in 2016. Years later, Tesla still requires users of ..."
+    publishedDateTime: 2020-07-09T18:20:00Z
+    webUrl: "https://www.aljazeera.com/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
+    ampWebUrl: "https://www.aljazeera.com/amp/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 74
+    images:
+      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/7/9/b7e3be2604a94b2aaf232b1d6ce06683_18.jpg"
+        width: 583
+        height: 325
+        isCached: true
   - title: "This self-driving startup built a “car without wheels” for remote driving"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
     publishedDateTime: 2020-07-11T13:00:00Z
@@ -55,6 +71,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Nvidia delves into self-driving cars with the Drive PX2"
+    excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
+    publishedDateTime: 2020-07-14T02:41:00Z
+    webUrl: "https://rappler.com/technology/nvidia-drive-px2"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 24
+    images:
+      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
+        width: 640
+        height: 426
         isCached: true
   - title: "Startup WeRide starts driverless testing"
     excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."

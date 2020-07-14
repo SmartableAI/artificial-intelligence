@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Massive Fintech Ant Financial Planning Hong Kong IPO, Valuation Expected to Top $200 Billion"
-    excerpt: "Ant Financial, part of the mega-tech group Alibaba (NYSE:BABA), is planning an initial public offering (IPO) in Hong Kong that will value the firm at a massive $200+ billion valuation, according to a report."
-    publishedDateTime: 2020-07-09T15:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Dr.-Zhao-Wenbiao-Vice-President-of-Ant-Group-and-Chief-Scientist-of-Alipay-Security-Lab-600x401.jpeg"
-        width: 600
-        height: 401
-        isCached: true
   - title: "Amid coronavirus fintech firms turn to TikTok for growth"
     excerpt: "A number of disruptors have been running ad campaigns on the global video sharing platform that boasts the most downloads of any app ever."
     publishedDateTime: 2020-07-13T04:54:00Z

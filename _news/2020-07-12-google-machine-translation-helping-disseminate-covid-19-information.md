@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "Google machine translation helping disseminate Covid-19 info"
     excerpt: "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ..."
-    publishedDateTime: 2020-07-13T00:12:00Z
-    webUrl: "https://www.sify.com/movies/google-machine-translation-helping-disseminate-covid-19-info-news-bollywood-uhmf5Cgddbfii.html"
+    publishedDateTime: 2020-07-13T00:06:00Z
+    webUrl: "https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html"
     type: article
     provider:
       name: Sify.com

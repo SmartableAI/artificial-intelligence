@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence Solutions Market Current Growth Status, Covid 19 Impact Assessment and Major Key Players Forecast 2029"
-excerpt: "After a thorough study on the international Artificial Intelligence Solutions Market income and loss, the Artificial Intelligence Solutions Market specific out the supply-demand, business escalation,"
+excerpt: "MarketResearch.Biz published a new industry research report “Artificial Intelligence Solutions Market” in its database. This is a latest report, including the present COVID-19 impact and future effect on the market."
 publishedDateTime: 2020-07-09T07:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-solutions-market-current-growth-status-covid-19-impact-assessment-and-major-key-players-forecast-2029-2020-07-09"
 type: article
 
 provider:
@@ -15,6 +15,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "p/dag3dDUR0hJZSK6HzGMxqYf1kmtgX6hSnMJL+AChj95H223FREZpE+psQoUVPY5sqj7+4GTx1k7m6D38k6Fr8y6DaR3cT+gKGIG4w1zl7nHbeeAMnyQAlvRqZE5fRG4yZAIcwws4MzWcWLFKKapyr2Sa+IvJhPAg6GzP6zIrk3br1tCXybRvTRg+t9iA33JNgIHtd1LERZYhEZYboqd6ZiTb1QQvZbg7w/8gHRoC0q4lHoqjjBuFetsUFA92P/udHbtbbCJJhLlwOB7RI1dZMS4BtysjJtco7ZJYK087f5Qgphx1S6EWQ9DOeOi4HSibTlOrUUHfaIEblvSmcyrw==;Hy00aDQdweLqOzbFLrD0fw=="
+secured: "d7HM1TXR0Egbtfr4vkAMIPEdQ8u1XbVYEAz1fUL7KCLdw3sFTV3HKK7rNftm5kolXqPHrXhXY5OciXH3lj9ES9LZQwNHK9Xo8WQbgxh7hlthyle4+bJ1zONOiANgRBNGqFGOpYJz+9Z7EEd4nsCJlMPKFyDmqp/8XwDJnpLrNyis7NGsLEmN4P+7+MArsxSdoNIPmOmH1x44pmMjM2d25kLmbqB3bQgyyxgVZBoZmWOewSr7dvMhFO/to7GOsfQw/Fhw0+vAU35ObsTd2V0nAEIYSVOZlAcJbKVsyNqLpbLGW1LFXFZ3YgHCQaLfCIX9eggK0e1KRxb1OO6CQzLQCw==;RrTwEixvUAuufmOXKLUlBw=="
 ---
 

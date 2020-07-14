@@ -146,20 +146,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
-    excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
-    publishedDateTime: 2020-07-09T15:36:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/troopers-in-crawford-co-use-facial-recognition-to-identify-man-resisting-arrest/"
-    type: article
-    provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 34
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2020/07/Sutcliffe.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "q+Jfa8w8zDhqYK9MFl343dMbnDgqMq6UxSr02jJcH/jbju6TdNLKqdtEufs3QxAy8We6BG3Ie6wod8OEWLzhDFKimW/Q0JnucBPg+uL/7N54hY54QpZZbV6gMXEV2cbWL2ASb5w3Sg/sOEWW81XDzrNjSrG4VnyTn+TIXwqTWIP+fIYoCbY9aRmYXuc/XEDQPO8bS9351D14Cssxd47fSuOxY4RUnDMeJLTTs+xI+Ro2P6eOITDCrjd3p1a1tJTAn7n9/tUjDA1/+Vt8bT7E7grRcIwfKk1uONdQWvv+zQeBtQcMjZGQr3YaIRdO5Os4/WMftuFhUIEe3Q15M6JGQw==;GyXrySfQAzQ2C8g9rSMWtQ=="
 ---

@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Massive Fintech Ant Financial Planning Hong Kong IPO, Valuation Expected to Top $200 Billion"
-    excerpt: "Ant Financial, part of the mega-tech group Alibaba (NYSE:BABA), is planning an initial public offering (IPO) in Hong Kong that will value the firm at a massive $200+ billion valuation, according to a report."
-    publishedDateTime: 2020-07-09T15:26:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/163825-massive-fintech-ant-financial-planning-hong-kong-ipo-valuation-expected-to-top-200-billion/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 33
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Dr.-Zhao-Wenbiao-Vice-President-of-Ant-Group-and-Chief-Scientist-of-Alipay-Security-Lab-600x401.jpeg"
-        width: 600
-        height: 401
-        isCached: true
 
 secured: "gBARcmUxa+JOD74A3fqGB/Cn64EEKsOmUgSVFjrUyHVxpObJ00aYd1wDUW1nPsMoSWOUXFVF6y0RbtdV9IRfBkQkgSNPBS/TFfPG0ATOv1A/FdSVIRvXR4pY4ZUo7QglBBzP1awyuv7FPIqxs5Nccc5gvfnGQ8xxfd4xrNewd4p1jo9RtScHuZW/k1FAqmjQuWTkASUeUOQSMEMmqOFUrQeERFs6108si+8PdASmicTfZ8OjS3ZhJlUEcd6nfg2nvzkt0pbzFGEr5gJhBznjYyhlxkbHiwXpp6kYcADiviS357vSZaClmJCONZlqe9morVIJAWHMpsL8ir6g52fYUVB3V0iLfjBLf2xFpA521loDyN9PDP8D0L/2R8ayqp030I/uT4FgmSfILcvy4iBy229x40rV0x0KLm+x0Q1TAMryr9HnnVj9DWnaoSZZ0Vw1BNhRjDREpEkEhYW2ukLeIWwPFpdE7YGUdgbsJq5itac0zfZNDjUKLDwwqctflgrk5LgFLxkARE10RZ+wmkoBeA==;3x5cNGkQsSD5ebjl/j6xMg=="
 ---

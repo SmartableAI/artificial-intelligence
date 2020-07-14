@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Troopers in Crawford Co. Use Facial Recognition to Identify Man Resisting Arrest"
-    excerpt: "State police used facial recognition technology to identify a man resisting arrest in Crawford County. Joshua Sutcliffe of Mesick is charged with assault and resisting police. In mid-June, state police say he punched someone in the face at a bar in ..."
-    publishedDateTime: 2020-07-09T15:36:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/troopers-in-crawford-co-use-facial-recognition-to-identify-man-resisting-arrest/"
-    type: article
-    provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 34
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2020/07/Sutcliffe.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "jGEP0MAb6O3fm3c+QalsVfeWYAeUQ24ZCy1DaJWWlMoLhIWYL8p6T20TTIITHcAjhyOxR8AuxcM0t6EOdomcP5wZwxKMxIe5iUaoANrtB0Pi+yPZ/zh7ye07EHFvEE7GOR6NEjoP5J1wlJb4X9L3OG1h9TpGtnTeRWjRSWpZM1C7Z0uyH7h5w4KRO4mlFxnuBoLM0UASR5K5nYgCnP09Rg2UbZTzjcJ1wpY0+trJM/nkw0+jU6URHn6TJzHT6kZ+n4lRcrBNcgKnH1+41M0Jh/g51CiwiYSVCX6KHBOE6Te95c540lOKBI0oAWMVpXztGElXsCB9+QqJUXADC5lQLQ==;Rt+9J8tfZNdQtL8ZH81WPA=="
