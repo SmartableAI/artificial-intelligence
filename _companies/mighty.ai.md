@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "mighty_ai"
   url: "https://twitter.com/mighty_ai"
-  followers: 1821
+  followers: 1820
 
 size: 51-200 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "XYf1VJ/eWx1rewkvfxljlKnNlpumNLRncaU1zLa3HtynHQ9jyyu2/0+Q6qCcmZ8v5OfjMO1lLVZI9srLOmwAbrcQU8ROzvqP20ajzyIXsb8MdAjx6Jlv7hZVkC3Yv1SNR22fC+qlWfue7C7colZU/8tGrLBKzyYaYnpoShc6imRp3cYeTGHG9Dij1eb+wlICNvgnJgRv1cCQSQbohZRfwhKOKD7LGeWkw3aIG98cHje/ofafR39bFo0sylbW6nDkSa4Ld4mI5OpRt68sCYVyG3wQ4JN9Tqj04Cuu0cV85Tz4SgDU2+jZk6Ga1iT5NH3/RRyiObyHeJ5luxO1JSVzae4dWaelGNh4EMtSb/iaw6vH4fYmklcxIyrqMuLMWhMG;are5MlxPt3B/ZYGiWfsABg=="
+secured: "PWLNpYiznfi4anLjVHNBmlkmRZtkZi9tx0rxXMk1eRSzoVnDt9Qm5CRszdqs8GCrpAqMhogMePU5R6T+YijeIs1Y2lrutvutkYligfsLr5Qo0Gsiw10RyCzOq7PuqiIlAhNGc3Efl1Cn3dHYqfv1VPEhqr4nX7PxGOJ+NJ38N7x/anh9EAYVM52h16TGfBXHPimvG4QgqGIin85XPT25rV+wVEPfa8/pXcLhqRslQu/4HEGBWItlNBnpMuo2Eb6XCFR5aejnSFfH2iWBuz8URjuSQdzNjSt8mKvYNsdmHZC+bbTOkz2nc1RSFtlh/r61isJTDt8Wh4P+qnxe4SxoMBKxr8jnCsE7Vk2lAWKmhkStta5MyjsadSAv5Upvyi9d;V8AN1OdrGPBP8gNDLEUxKg=="
 ---
 
