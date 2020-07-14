@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T15:09:00Z
 webUrl: "https://www.telecompaper.com/news/deutsche-telekom-gets-microsoft-partner-of-the-year-award--1346479"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
+    excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among"
+    publishedDateTime: 2020-07-14T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 62
   - title: "Concurrency, Inc. Recognized as 2020 Microsoft Partner of the Year Finalist for Both Diversity & Inclusion Changemaker Award and AI & Machine Learning Award"
     excerpt: "Concurrency, Inc. is a finalist for two 2020 Microsoft Partner of the Year Awards: Diversity & Inclusion Changemaker and AI & Machine Learning Award."
     publishedDateTime: 2020-07-13T19:00:00Z

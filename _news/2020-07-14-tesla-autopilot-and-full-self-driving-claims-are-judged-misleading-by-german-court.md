@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "German Court Says Tesla Self-Driving Claims Are Misleading"
+    excerpt: "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology."
+    publishedDateTime: 2020-07-14T20:36:00Z
+    webUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html"
+    ampWebUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 104
+    images:
+      - url: "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "German court rules that Tesla misled consumers on Autopilot and Full Self Driving"
     excerpt: "Tesla misled consumers on the abilities of its automated driving systems, a Munich court ruled on Tuesday.  Tesla Germany is now banned from including \"full potential for autonomous driving\" and \"Autopilot inclusive\" in its advertising materials,"
     publishedDateTime: 2020-07-14T16:46:00Z
@@ -45,6 +61,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Still a long road ahead for self-driving cars, despite Tesla claim"
+    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
+    publishedDateTime: 2020-07-10T20:13:00Z
+    webUrl: "https://timeslive.co.za/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/D9-513DHecAT80ZxEhZeQqBc0YqGyebFFJqJn5rjo5baNSFPyB7Wgc6-JL3L_gfDiOJsPhYOt2cgNE5c5z7I=s1000"
+        width: 1000
+        height: 667
         isCached: true
   - title: "German court bans Tesla ads over self-driving claims"
     excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
@@ -62,6 +94,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
+    excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
+    publishedDateTime: 2020-07-10T16:23:00Z
+    webUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    ampWebUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 72
+    images:
+      - url: "https://images.axios.com/sW6P9gdaGfq3gB36U4WW5iV-RG4=/fit-in/1366x1366/2020/07/10/1594396804737.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "German Court Bans Tesla Ads Making 'Misleading' Claims About Autopilot, Self-Driving"
     excerpt: "Tesla will no longer be able use phrases such as “full potential for autonomous driving” and “Autopilot inclusive” in future ads in Germany, a Munich court ruled Monday."
     publishedDateTime: 2020-07-14T16:48:00Z
@@ -78,6 +126,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
+    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
+    publishedDateTime: 2020-07-10T12:55:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
+    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 35
 
 secured: "TPqP/e0a6hMKVeL91ySndt2sAtgQ3QZQob9ulpyYJFhh7M69e55ldyg8B4fLN/ge4pDwf1G2O1n0y64QgV/SL1lBCKOorssnS8K8Ftil+hOIzvUHLaQKmFHjO3lytkHbKlzvlDyC7KlaVQxvfsWkkom41AeI7u7hcWj2njdfxI1UED9b+R7xNH7AlAMOymQnaKq3D/6fT/3puBStgP+lVOvjwzJPXZrJf+8z+nBQrpIbLJ6BARIipY8oS594W5YwpRXWnXWQjuQn72GICGo2trlKeR6xWIHuxItBWD2b6ghFTglrYWXLrcwGXyac0En1zjGWzXZTbe2pPR/OHlw/4uqLu5ZFEJiSDvE+4yIxjfCqpyB96LsVoxugUWkGIIg6S9GkYCUrKImmoi0OMs+BAoXgCUDNqHidpTzqBquP/XJAkGZRfFu8M5QbCNAe3lfwi64T1HWsVAolYdJz8JHfZ1bfDzc4pgwHZiJ233aTL6kOyi57vlJ1zlp9rgWXJInaytGfPNiUf1XA8SCYJiPqVw==;iyjDiXGjcgAe/Dn5DM7G+A=="
 ---

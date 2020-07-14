@@ -24,80 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese self-driving start-up WeRide to test fully driverless cars in Guangzhou"
-    excerpt: "WeRide’s permit for road tests of fully driverless cars on the open road takes it one step closer to the realisation of fully driverless mobility services."
-    publishedDateTime: 2020-07-10T04:46:00Z
-    webUrl: "https://www.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
-    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
+  - title: "Shanghai designates downtown open road for self-driving vehicles testing"
+    excerpt: "This is the first open road for self-driving vehicle testing in downtown area of a megacity in China. Shanghai had previously designated several open test roads in Jiading, Lingang and Fengxian areas in the suburbs."
+    publishedDateTime: 2020-07-11T23:26:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/12/WS5f0a4aa5a310834817258c9e.html"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 85
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 38
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/10/f6c28a28-c267-11ea-8c85-9f30eae6654e_image_hires_124612.jpg?itok=sr-PXq_S&v=1594356378"
-        width: 1200
-        height: 630
+      - url: "https://img2.chinadaily.com.cn/images/202007/12/5f0a57dca3108348fcdca635.jpeg"
+        width: 719
+        height: 479
         isCached: true
-  - title: "Pony.ai to test self-driving cars in Shanghai"
-    excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
-    publishedDateTime: 2020-07-11T09:00:00Z
-    webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+  - title: "Russia’s top brass to prioritize using self-driving vehicles in Arctic"
+    excerpt: "In April, the Kamaz truck maker held successful trials of self-driving trucks in the Polar region, according to the head of the Khrulyov Military Logistics Academy"
+    publishedDateTime: 2020-07-10T09:10:00Z
+    webUrl: "https://tass.com/defense/1176863"
+    ampWebUrl: "https://tass.com/defense/1176863/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1176863/amp"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
-        width: 768
-        height: 483
-        isCached: true
-  - title: "This self-driving startup built a “car without wheels” for remote driving"
-    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
-    publishedDateTime: 2020-07-11T13:00:00Z
-    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 53
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Nvidia delves into self-driving cars with the Drive PX2"
-    excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
-    publishedDateTime: 2020-07-14T02:41:00Z
-    webUrl: "https://rappler.com/technology/nvidia-drive-px2"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
+      name: TASS
+      domain: tass.com
     quality: 24
-    images:
-      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
-        width: 640
-        height: 426
-        isCached: true
-  - title: "Self-driving startup develops car without wheels"
-    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
-    publishedDateTime: 2020-07-14T10:50:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "ayPR0KOP/zUR/HyEE16JEfHQUEpviC4oi2IZoFTg5UcaVPVZaKzfGLs0c1XoxN/fKQYn/Zi061xCf6fYbB6JOSWTuv11JAj1VrisFwlJ8bmdJCMJhr0rDftqo8RCGD7dAFlfrMD6QobJ//laRsL9fnbR3PxwuMBd2lh5drxxI2yzlHeab6wU9kiCVwqMFcA20OQmSViETzI7UTdS1PwZe/M6CWa+JxaAIMWrH6GCKdkAvMfx7bNAnH9QZDl6+MW6Sg1pkNDHINzJBkHjxtNb6sFD4HhekgWyCrxsmq09B70ogs7j2QYQqdKwMmTlwVqtXQ+YSmhJsW81JmtiOEbp9A==;CVPdNyTPom5qfgkbT5ccpw=="
 ---

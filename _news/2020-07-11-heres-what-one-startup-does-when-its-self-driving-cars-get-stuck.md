@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 563
         isCached: true
+  - title: "This self-driving startup built a “car without wheels” for remote driving"
+    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
+    publishedDateTime: 2020-07-11T13:00:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 53
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "DBKNxmhwlkcAwznTYuLQN0yszQYTq4aLl7znxckQt4XPunkMvVnX+AP+UhUw/N/DEqbBPtisPX6aiXT3Y0n2zxTVBx6viSUKtSKwfooU4PYtNbxfO473Z1ea7r7vsTjntDs05qe16TcQd9EuHikACCppCGaWI/jGOAqVlcrj69hqAtTjyMTWlBgc0qLfYReBMmoPz4r6CnF71LRLKGzkASQ+5IUSOKDN5oMnmM6dpIW2aXKIqLFW3JDbc9zZrikRnfH8UFSHthZDarnGa/zYNg2f7PYHqkHPAxTwjCdu54gUIqJfzZrAgs9sfQSlAEBCzld/dfI14F+jnYBwRf5tVg==;H43ZXksUFJRH5J4XbYiW4Q=="
 ---

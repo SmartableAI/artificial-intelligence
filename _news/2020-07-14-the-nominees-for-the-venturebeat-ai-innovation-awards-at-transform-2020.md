@@ -7,9 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-
 ampWebUrl: "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/vb-transform-2020-ai-innovation-awards.jpg?w=1200&#038;strip=all"
@@ -46,6 +48,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EYwrIyqapko5vkPC/pjv2/2iuHIi2ragbQmmxhle0DIriCPBUAsqQHaNppyVFj2egyNC5ZXFzL/XXsOsOQ9i8uWY1PxRUA5zWazefsRqbWHUXxqkZPbDitIFZ1SZdzCgAUuGcBnLM4GyS+b3UJ3CaPe86YZYD6FNsqrdZ+EeipiymW9/5TIcikzYWnTB+hy12x3wgfnFPOyVAEjwwlDrNO5HpsbgLNwY15UPWgbIjqrLIBl2CgV7KvDC44CcO0Cwu0zvmhIPugeU8YsUe3aSgsy52CFxznwKiB0Btayn1QLlZ5FpGojaXO0IvuH+VJbeluMEQ/kOL7065n5tt4B/QQ==;zg38tN7x14VT+oc7Bo7pbA=="
+secured: "8H6bOluCPyVefYkiDAoAbneaEVyiVXS0Stzx2X4oSL0tkJQUnVMHomWxRybSi76f2q3mMdUsZvSWElBNwHPDY0fHKeFA44jrv0u6QFnb9IjE44m5CI4OFeGO6dyLDZzEKlY3oilX+XyxB2lSBdQabRugRJLkbofuLG8dzZAPDp4E4QKZncaFjyjuN+BZBUFkhIDmoVEXO5hHmdjiFiIcDpcyjGC52EMrPDRoxZGOFL/8iT93yQToqKwffxC7PuV1AIPPg2XRtlpkdNbJNs/o13K5umF+TTpAd/H+WzTeqUsFPwtFI6/mz3aTPZQpbLc1gF5oL2FtCj52R6gWfb4eUzFvUQujTEy09NdquCPoAOYgbbqrne6vdQ4ZvIRD7gbtrDFL25vv04FNT5QgVtFleASJoxOKkCoh+3+Zk3z7XCChJT+fvL9gxjin8OfyBa50hegC7MPn7RUr0Qn/smlz3D5d+Kacai2MHHJFTWFv4wgoscG2d4rXqBqSYKR0ueW7/hZ2DNgCIqxlTnLDqFeDtA==;imdqmmuXn23aTQYI0tl/XA=="
 ---
 

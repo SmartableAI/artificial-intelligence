@@ -7,8 +7,8 @@ webUrl: "https://www.jpost.com/jpost-tech/can-artificial-intelligence-understand
 ampWebUrl: "https://m.jpost.com/jpost-tech/can-artificial-intelligence-understand-human-humor-635073/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/can-artificial-intelligence-understand-human-humor-635073/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/460690"
@@ -24,6 +25,6 @@ images:
     height: 428
     isCached: true
 
-secured: "uQ5QKUy7lclqPCihPDSzDs/Wu4YMZDfGSkSDDmP8ZPHbDMAkdv7IQSxTZYqDRPQB1gn9WCkOiF4wo1cRyb+pKUFp8KhRjKOiR/iWola8bDZNTwNNgUuk0F6PQ9igOk9TPI22/kYhDxsVCrFswsxyBx/ecRVQqEbAaH0sWGyWS4Jr42hFdR81IHNDTehEsetSvIqHb/eXFXJAp/HQlWIsKbC3V3misxSgRCeb9cvu0PhBgdiJcw7hy2RUOfgQCHU12n7iY2qbPhCkWSySblEWk7JQLNYm67rEkjMIwX/+OpI+JlYLxC8Mg+uc4WxnwOcU1dPvYIXAl3vvYSFIE9GfkA==;0V8GmPmSp/q1dmna3zbHkQ=="
+secured: "hSDpUM2sy235+BrxqohuYqChTSXnjpfKhaeZgHlGTKkqTYnFVH2u97u4+pcxJPE+dKSHl71c09Beof7NEoWvNUND1GNqpvE/6y6rhvUynyJUuVHCLWDbU5XJ4QrVidlHlJm0tKB70myVFlTKWytIpmrR4H9IIwfjJyH2FXNrjMtIJRqA6+tdiwk8hSFljZjzHSCuJxuOJlLHrFW3lWGEgqaOTVEEBd2PUhYDjpXBZhOUaqMrDK3SxErYxUzpRdo4cjAVp5glTbWAq9AKzB12LPiY4j7I76VWKM8eqEyPFyfeYXN62UdvDduG/ScDBbJRCW1v2KWUcqTo6gftv5t5u68fJzSoXA/H50cmlm6wNrTa6G2S6r+As+DJkhX1ZkJQtCb2dDnUTsL3sSBkbZ63Y4zvCqZ/6SUaZBe0Aw/GdmqwPMp6sLuSZY3ZPOswkG/SJ0arpgPdlaUdN4sSQpUKZqMvWL9rBUSeLxgPKZPMuyfRIbg/XNzxxUm6/mxt/vPyrhTz/eqan504M+ZTRERXVA==;TS7XCkq3UBemuNaXn5BhNA=="
 ---
 

@@ -40,6 +40,36 @@ related:
         width: 1120
         height: 747
         isCached: true
+  - title: "Pony.ai to test self-driving cars in Shanghai"
+    excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
+    publishedDateTime: 2020-07-11T09:00:00Z
+    webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
+        width: 768
+        height: 483
+        isCached: true
+  - title: "Nvidia delves into self-driving cars with the Drive PX2"
+    excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
+    publishedDateTime: 2020-07-14T02:41:00Z
+    webUrl: "https://rappler.com/technology/nvidia-drive-px2"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 24
+    images:
+      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "qGanBp6q/UtU5PBNayFYsbpFlxaggWp4bcegZxkuqpO79obrw9rLK8w7gHyJn0x0eQJ7R8uv5K0ZDt24MKILSabTXyP6+/U3nWI1ZqL+rv4o5GTlmuLgm+maur9KaTijCKbY4J2AmvsI4ghaWZBaFtAd7BT86TWMlmEE0c7pOMhMsuH70CArh0LDU+XXo200h3cEqhYV9HHfoAMZ2AVrap3w/HxxRM2+a5kzSk+ND34MA67iA4HkUbxVfI80jwuK8k/wZ39re/uJozBXJF+5UxtuUYewtbelkcHVCkcjS/78C4SmsLR4HUYEGTg1khKgnK4ZjA8B17sVetBNn3QFzQ==;bmaGmdAlWtDIGW4JJt7Jug=="
 ---

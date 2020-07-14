@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
+    excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among"
+    publishedDateTime: 2020-07-14T19:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 62
   - title: "Deutsche Telekom gets Microsoft partner of the year award"
     excerpt: "Deutsche Telekom said it received a German Partner of the Year 2020 award from Microsoft for achievements in the areas of innovation and implementation of Microsoft solutions for customers. Microsoft assessed Telekom's partner activities in over 50 countries and praised the company's willingness to expand its"
     publishedDateTime: 2020-07-14T15:09:00Z

@@ -38,6 +38,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Microsoft, Samsung Partnership: Azure Cloud Manages IoT Devices"
+    excerpt: "Microsoft Azure IoT cloud services plus connected Samsung devices could unlock new ways for MSPs to push into building management services."
+    publishedDateTime: 2020-07-14T21:53:00Z
+    webUrl: "https://www.channele2e.com/business/digital-transformation/microsoft-samsung-strategic-alliance/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
   - title: "Samsung, Microsoft partner to transform real estate, smart property management"
     excerpt: "Samsung Electronics and Microsoft entered a global collaboration focused on digitally transforming the real estate development and property management industries. This collaboration, combining smart appliances and digital cloud technologies,"
     publishedDateTime: 2020-07-14T07:58:00Z

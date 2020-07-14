@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16617586"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "C.H. Robinson and Microsoft partner to \"digitally transform\" future supply chains"
+    excerpt: "By combining their platforms, the leading companies aim to enable real-time visibility and meet the changing demands of evolving global supply chains."
+    publishedDateTime: 2020-07-14T21:47:00Z
+    webUrl: "https://www.freshfruitportal.com/news/2020/07/14/c-h-robinson-and-microsoft-partner-to-digitally-transform-future-supply-chains/"
+    type: article
+    provider:
+      name: Fresh Fruit Portal
+      domain: freshfruitportal.com
+    quality: 49
+    images:
+      - url: "https://www.freshfruitportal.com/assets/uploads/2020/07/CHR-Microsoft-release-image-with-lockup_1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C.H. Robinson, Microsoft partner on supply chain transparency"
     excerpt: "C.H. Robinson, Eden Prairie, Minn., and Microsoft are working to provide real-time visibility in the supply chain, a partnership that will accelerate innovation in transportation, according to the companies."
     publishedDateTime: 2020-07-14T17:54:00Z
@@ -36,6 +50,6 @@ related:
       domain: thepacker.com
     quality: 34
 
-secured: "WmVxATPRIKlQbPNpJHY44G+q1xIzesiYG9fyKsyEg24Ue6Hkad1tbiGDrtlWwwmtlHuuk67wb1F/xr0jr4t9jiZsqfXCoFWB1qRe2AsfRNN8paNGcMXIxGMqEVIs8eUYXM4nB15alb29sXgK/HkyewyLfj5YAF6upGBKE6cQT95g5rkSpVNCOjsCGUfo4IeV/WSDBxMUfxopSGReV/pJ4nGQ3iNaYuwcmGQpU/v6SDCaL8ltv9aM8RplqtZnMFba13sqUWTYBrXyRG8dzNysXGBnXvCw4neLUmPS5+tzdoOkSH4JLaPb3IyCJBJBYrVv12JKzTTs7RCVeyBkD9h2qg==;UDO4f2LpFp2ZEyjdT678ig=="
+secured: "rmleJp49QrsUDMtVRwe8+gDKctB01S2dejYnpO/N+HB4ozcRQ8h8ErEN2fNLd3m/YV2amK811pOHmBFppIi89F60Sf17ewoaSX1+BfVUC5FtHBNoO2EwkrguWwrwynSFujU8spcTl0RGmEP1X6CaOKEcrKwf6h9kQXYnCZGmgnzUt0aM7phme/0ASb0u3jHTGLv99R3vuIeiBCikhyNse+PPJE9VDo9m7wcCwX7TaeDBxONWOCM2L7T3b3hfdS3sfwiikRR6wqKb7t86ZfB1wrfzsIv2Vn+Cx8IyxnNRlB+MnYzuULpHiDaaEtjZ3zpkICDh+bXEI+GNQrpDDxCQNesJ84FYNnxHRTLdjgQ+L1bgI6tjWEs0PgepgPpBCA55bBRXR1QJEoJBGkte07MxNXsPRQF8Jyk49YIiIjNeZpGFgC60kx8CTidVF5+T5S1UeDS0t8LKsDeaQbJZ7FVz/bm1wr/sXlZSnNI7f7nsL04OTc6ele05t/KrJtwbnxaabLcHCB07tDA2ldtZeUG4Jw==;o90srlHiutI/I2UQ3rDANg=="
 ---
 

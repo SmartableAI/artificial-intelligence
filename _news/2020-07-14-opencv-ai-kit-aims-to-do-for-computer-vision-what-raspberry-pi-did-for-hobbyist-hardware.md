@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer
 ampWebUrl: "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 97
+heat: 97
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/07/oak-opencv.gif"

@@ -29,31 +29,36 @@ images:
     isCached: true
 
 related:
-  - title: "Abacus.AI’s Autonomous AI Cloud Service Reaches General Availability"
-    excerpt: "RealityEngines.AI announced the general availability of its autonomous cloud AI service as well as a re-branding to Abacus.AI."
-    publishedDateTime: 2020-07-14T13:39:00Z
-    webUrl: "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech"
-    ampWebUrl: "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/"
+  - title: "AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing"
+    excerpt: "With $18.25 million in venture capital money from Eric Schmidt, Jerry Yang, and other luminaries, Abacus Tuesday opened its deep learning service for general customer availability, with the intent of making it easy for companies to customize and scale AI in the cloud."
+    publishedDateTime: 2020-07-14T20:35:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: ZDNet
+      domain: zdnet.com
+    quality: 91
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0c70b424c99300079a255e%2F0x0.jpg"
-        width: 1199
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/27/fa97eb58-ce3e-4839-b7aa-dd8934dfb30c/thumbnail/1200x675/a825add05e6df14e53ed8ac733095f6d/dumonteil-and-herrera-covid-19-n-protein-edited.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI Startup Deep Longevity Launches With Series A Financing and New AI System to Tackle Aging-related Diseases"
+    excerpt: "Deep Longevity, a biotechnology company transforming longevity R&D through AI-discovered biomarkers of aging, came out of stealth today from Insil"
+    publishedDateTime: 2020-07-14T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200714005512/en/AI-Startup-Deep-Longevity-Launches-Series-Financing"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+    images:
+      - url: "https://mms.businesswire.com/media/20200714005512/en/805230/23/75574499-30C1-4259-9CB2-B4555C80414E.jpg"
+        width: 1200
         height: 627
         isCached: true
-  - title: "AWS Announces General Availability of AWS IoT SiteWise; Dirk Didascalou, Dr. Roy Sauer Quoted"
-    excerpt: "Amazon Web Services (AWS) has announced the general availability of AWS IoT SiteWise, a managed service that collects data from the plant floor, structures and labels the data and generates real-time key performance indicators (KPIs) to help industrial customers make data-driven decisions,"
-    publishedDateTime: 2020-07-10T20:57:00Z
-    webUrl: "https://www.executivegov.com/2020/07/aws-announces-general-availability-of-aws-iot-sitewise-dirk-didascalou-dr-roy-sauer-quoted/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 23
   - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world's first autonomous AI service"
     excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world's first fully autonomous"
     publishedDateTime: 2020-07-14T13:53:00Z
