@@ -1,21 +1,25 @@
 ---
 category: news
 title: "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts"
-excerpt: "In addition to business operations, IBM plans to integrate WDG Automation RPA into its capabilities for automating IT operations, specifically Watson AIOps and Cloud Pak for Multicloud Management. When AI-infused automation is applied to business processes ..."
-publishedDateTime: 2020-07-08T12:34:00Z
-webUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08"
-ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08?amp"
+excerpt: "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De"
+publishedDateTime: 2020-07-08T12:28:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "iPUo3KX601M0o9fbYhpvCPhogAwZDJuereWbxWpH+UUWqObmxa3I2zNPfTZLmw9pCuHgIMHTJKb2AJ7QbZztH2Z3Z6MNNLkQY7V6P9qn28jU9PSEVoBS9iFKzwuyeMv9kWAXTZX8ui3Co5uIo5CY0ALk+xkSgxK2jSusaFfDofQTftNgxZ+4NRPb8HdLN8mgQ5nKEwiKglP/ZSBBzw82Bc1RGfNFS25lTIq8BE9KVNjQ2Z2TSi/62Tlv5XcbZhVt+wml3Z1186J3UrEGHDWhochqbBMEpq1OmNMzsgJB1avbSGc2UJLI/xu9hzA67SUqa9wNtTzEur3VDb7Xf8GoDar5McycdyjEQ+57wXEM2bWrN53T3cOnavL8gUrJo4CoVw+2HtxJ+RGSbSOYcNV08mk/u9JQQ8VGPkUPt8GmLkXrXzladLsxVZWMpfOoCICGfy921wCTYvfZjNqgwTPBqEIltb+UF4VtFjiRNr4Rigkg3iP5m4Js+bGG1ozXDGn8EE6/md+Ve99mzjVi9iqB+A==;qFWIVIxk3gOOJ14XdmvCyg=="
+secured: "zLLn82M21niABIeeJ6qENMCET10+VxjU/xMVR1t6mbr6DPff4kfrgMRNOrkSBtT9FtHJVelOtSF9EBuLbTgPD83M0AhMs1uELRu1MDUCKtTJPG9aPSns3Sl+4jol/4iULhHO840fp5s+aYdMtw1IoQRhwtpHkVGoYumqUaK7rZLTBk9qz49EkUh6weDfuNQ2Vk+BaurSAeYgF1eulS542Rna1SO9Lg/vayNDbWwA/0FC/SY+0Xs+qmNYHQNxzz7IPNTUpDm3fv/Gu3WHH+CKCpJLYspq8GHhiCJfItKpYNb8ClnHnksuQA+VgxO11pPJUFwoJbDfdqOjajFeh/5onw==;p/grw6Hnq+eflVXJUkY8EQ=="
 ---
 

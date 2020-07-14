@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-14-smart-retail-tech-startup-cloudpick-raises-series-a-funding.md",
+      "title": "Smart Retail Tech Startup Cloudpick Raises Series A+ Funding",
+      "excerpt": "Cloudpick, the technology startup providing smart retail and artificial intelligence solutions, announced recently that it has raised Series A+ round of funding led by Cathay Innovation. Prior to this,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
+      "publishedDateTime": "2020-07-13T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent.md",
+      "title": "53% of enterprises spending more than $20 million a year on AI technology, talent",
+      "excerpt": "Among seasoned adopters, 68% have spent more than $20 million over the past year on AI, according to Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/09/123183af-a6a0-48bf-9891-86cdc7247104/ai-spending-2020.png",
+          "width": 658,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
+      "publishedDateTime": "2020-07-13T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-booyaaa-australian-federal-police-use-of-clearview-ai-detailed.md",
       "title": "'Booyaaa': Australian Federal Police use of Clearview AI detailed",
       "excerpt": "One staff member used the application on her personal phone, while another touted the success of the Clearview AI tool for matching a mug shot.",
@@ -1345,96 +1434,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-dairies-to-housekeeping-robots-find-their-way-into-new-spaces.md",
-      "title": "Dairies to housekeeping, robots find their way into new spaces",
-      "excerpt": "They rely on tracks or magnetic strips to cover fixed routes. But mobile robots are becoming more autonomous, with a push from advances in computer vision and artificial intelligence. We read about self-driving cars and driverless delivery vans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/07/12/600x338/startup2_1594561294476_1594561303895.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
-      "publishedDateTime": "2020-07-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-op-ed-hyperwar-is-coming-america-needs-to-bring-ai-into-the-fight-to-win-with-caution.md",
-      "title": "Op-ed: Hyperwar is coming. America needs to bring AI into the fight to win — with caution",
-      "excerpt": "Superpower standoffs like those between the U.S. and China in the South China Sea are occurring amid the rise of artificial intelligence. AI will speed up military decision-making, but it is risky.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106607613-1594222426860gettyimages-1130698394.jpeg?v=1594222523",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
-      "publishedDateTime": "2020-07-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

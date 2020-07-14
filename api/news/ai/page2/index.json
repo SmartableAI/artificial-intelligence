@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-12-dairies-to-housekeeping-robots-find-their-way-into-new-spaces.md",
+      "title": "Dairies to housekeeping, robots find their way into new spaces",
+      "excerpt": "They rely on tracks or magnetic strips to cover fixed routes. But mobile robots are becoming more autonomous, with a push from advances in computer vision and artificial intelligence. We read about self-driving cars and driverless delivery vans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces-11594561056223.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/07/12/600x338/startup2_1594561294476_1594561303895.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/business-of-life/dairies-to-housekeeping-robots-find-their-way-into-new-spaces/amp-11594561056223.html",
+      "publishedDateTime": "2020-07-12T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-12-op-ed-hyperwar-is-coming-america-needs-to-bring-ai-into-the-fight-to-win-with-caution.md",
+      "title": "Op-ed: Hyperwar is coming. America needs to bring AI into the fight to win — with caution",
+      "excerpt": "Superpower standoffs like those between the U.S. and China in the South China Sea are occurring amid the rise of artificial intelligence. AI will speed up military decision-making, but it is risky.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106607613-1594222426860gettyimages-1130698394.jpeg?v=1594222523",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/12/why-america-needs-to-bring-ai-into-the-upcoming-hyperwar-to-win.html",
+      "publishedDateTime": "2020-07-12T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-12-google-machine-translation-helping-disseminate-covid-19-info.md",
       "title": "Google machine translation helping disseminate Covid-19 info",
       "excerpt": "Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 languages in the US alone.",
@@ -1364,102 +1454,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
-      "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
-      "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f07167161c3150007f84459%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
-      "publishedDateTime": "2020-07-10T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-reducing-bias-in-ai-based-financial-services.md",
-      "title": "Reducing bias in AI-based financial services",
-      "excerpt": "AI’s ability to avoid the traditional credit reporting and scoring system that helps perpetuate existing bias makes it a rare, if not unique, opportunity to alter the status quo. However, AI can easily go in the other direction to exacerbate existing bias,",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg",
-          "width": 4550,
-          "height": 2859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
-      "publishedDateTime": "2020-07-09T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

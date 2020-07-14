@@ -89,22 +89,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "International probe launched into facial recognition firm that scrapes images from the internet"
-    excerpt: "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ..."
-    publishedDateTime: 2020-07-09T11:25:00Z
-    webUrl: "https://www.cnbc.com/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/09/australia-uk-launch-joint-probe-into-clearview-ais-data-scraping.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 77
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105318044-1531141658275china_tech_surveillance_3.jpg?v=1531141775"
-        width: 3999
-        height: 2666
-        isCached: true
   - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
     excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
     publishedDateTime: 2020-07-13T11:49:00Z
@@ -210,22 +194,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "UK and Australian regulators launch probe into Clearview AI"
-    excerpt: "The UK and Australian information commissioners have announced a joint probe into controversial facial recognition company Clearview AI, whose image-scraping tool has been used by hundreds of police forces around the world."
-    publishedDateTime: 2020-07-09T11:48:00Z
-    webUrl: "https://www.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
-    ampWebUrl: "https://amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/851560ab-0078-41ae-ad25-c2d6b154921f"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F754162fc-b2f6-4a8a-9159-e85546d3ae09.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Clearview AI Is Being Investigated by Australia’s Privacy Watchdog"
     excerpt: "Australia's privacy watchdog will investigate Clearview AI — the controversial company that scraped the internet for its facial recognition database."
     publishedDateTime: 2020-07-10T02:19:00Z
@@ -256,17 +224,6 @@ related:
         width: 900
         height: 601
         isCached: true
-  - title: "Clearview AI faces ICO investigation over facial recognition"
-    excerpt: "Clearview AI, the controversial facial recognition technology company, is to face a joint investigation by the UK’s Information Commissioner’s Office (ICO) and the Office of the Australian Information Commissioner (OAIC) focusing on its alleged use of ..."
-    publishedDateTime: 2020-07-09T11:42:00Z
-    webUrl: "https://www.computerweekly.com/news/252485913/Clearview-AI-faces-ICO-investigation-over-facial-recognition"
-    ampWebUrl: "https://www.computerweekly.com/news/252485913/Clearview-AI-faces-ICO-investigation-over-facial-recognition?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252485913/Clearview-AI-faces-ICO-investigation-over-facial-recognition?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
     excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
     publishedDateTime: 2020-07-10T00:03:00Z
@@ -377,15 +334,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Global Privacy Regulators Probe Facial Recognition Firm Clearview AI"
-    excerpt: "The privacy regulators of the UK and Australia have announced a joint investigation into controversial facial recognition firm Clearview AI. “The Office of the Australian ... York Times report claimed that the startup had scraped as many as three billion ..."
-    publishedDateTime: 2020-07-09T11:05:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/uk-aussie-privacy-regulators/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 34
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

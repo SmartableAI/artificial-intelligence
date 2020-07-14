@@ -255,23 +255,32 @@
     {
       "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts.md",
       "title": "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts",
-      "excerpt": "In addition to business operations, IBM plans to integrate WDG Automation RPA into its capabilities for automating IT operations, specifically Watson AIOps and Cloud Pak for Multicloud Management. When AI-infused automation is applied to business processes ...",
+      "excerpt": "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-2020-07-08?amp",
-      "publishedDateTime": "2020-07-08T05:34:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "publishedDateTime": "2020-07-08T05:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

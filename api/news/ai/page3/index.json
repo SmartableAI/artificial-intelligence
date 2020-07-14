@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
+      "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
+      "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f07167161c3150007f84459%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
+      "publishedDateTime": "2020-07-10T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-reducing-bias-in-ai-based-financial-services.md",
+      "title": "Reducing bias in AI-based financial services",
+      "excerpt": "AI’s ability to avoid the traditional credit reporting and scoring system that helps perpetuate existing bias makes it a rare, if not unique, opportunity to alter the status quo. However, AI can easily go in the other direction to exacerbate existing bias,",
+      "sourceUrl": null,
+      "webUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg",
+          "width": 4550,
+          "height": 2859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
+      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
+      "publishedDateTime": "2020-07-09T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brookings Institution",
+        "domain": "brookings.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
       "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
       "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
@@ -587,7 +683,7 @@
       "webUrl": "https://www.bbc.com/news/technology-53349313",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 289,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -637,7 +733,7 @@
       "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 386,
+      "heat": 346,
       "tags": null,
       "images": [
         {
@@ -1340,109 +1436,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
-      "title": "Break into artificial intelligence with this four-course online training for $35",
-      "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
-      "publishedDateTime": "2020-07-09T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
-      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
-      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
-          "width": 720,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
-      "publishedDateTime": "2020-07-09T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

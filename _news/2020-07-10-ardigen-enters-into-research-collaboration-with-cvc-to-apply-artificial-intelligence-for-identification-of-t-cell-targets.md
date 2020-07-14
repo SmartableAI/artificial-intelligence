@@ -35,20 +35,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "Ardigen Enters Into Research Collaboration With CVC to Apply Artificial Intelligence for Identification of T-cell Targets"
-    excerpt: "KRAKÓW, Poland and AUCKLAND, New Zealand, July 9, 2020 /PRNewswire/ -- Ardigen and CVC announced that they entered a research collaboration aimed at the development of SARS-CoV-2 vaccine. Ardigen’s neoantigen prediction platform called “ArdImmune Vax” employs state of the art bioinformatics and Artificial Intelligence to identify an optimal set of neoantigens as targets for cancer vaccines or adoptive cell therapies."
-    publishedDateTime: 2020-07-09T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/f8f11b08d83d939cd0e4273154936610"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "wF6rpWtxqjzsAKW5lL/PYVdnLdYufteg6lhnudZqc5j86eKSdhRwwiDXhdlorao8cP4JaZxPfWoJj6V5OoJ5To4C9uc4xclEbfHdvcmrqKLEGMtzVzlHHGww4GPBLZs8lrPNFQRf+PzO+7LNjsTvMsekYvONCEXApuRHmqesv+KJ844u5iQL8C1ewbAaTw86dR7snpoBTb7NorwRNlFBIvt8n8NhpRPRj6B3p29Kqfcv/YA/fcrQ0O55k29SVL925AM7Sc4zv3PC4AK2LFfgMpQNBL5iWs1Fpi2IZPbQsrI9D+JSDqYMN+pGfQP6IMcKx7+QYvyGVwoMMiaISsA4tA==;j4L4b9SSHNkYuE1PJcUkcw=="
 ---

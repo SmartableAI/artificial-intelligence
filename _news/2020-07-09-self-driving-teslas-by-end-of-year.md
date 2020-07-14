@@ -152,22 +152,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Vehicles Could Soon Become Completely Autonomous As Self-Driving Tech ‘Very Close’, Elon Musk Says"
-    excerpt: "Tesla vehicles could soon be completely autonomous as CEO Elon Musk said the electric vehicle firm is “very close” to achieving level 5 autonomous driving technology, during a virtual appearance at the World Artificial Intelligence Conference in Shanghai."
-    publishedDateTime: 2020-07-09T11:34:00Z
-    webUrl: "https://www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/"
-    ampWebUrl: "https://www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/isabeltogoh/2020/07/09/tesla-vehicles-could-soon-become-completely-autonomous-as-self-driving-tech-very-close-elon-musk-says/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 72
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f06feb05d77690008b1fd7c%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
     excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
     publishedDateTime: 2020-07-10T16:23:00Z
@@ -310,17 +294,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Elon Musk boasts Tesla may figure out fully self-driving cars this year"
-    excerpt: "ElonMusk says #Tesla is racing forward on Level 5 autonomy for self-driving cars, even as others in the field pull back on their expectations. #autotech #selfdrivingcars"
-    publishedDateTime: 2020-07-09T12:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/09/musk-boasts-tesla-close-to-self-driving-technology.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/09/musk-boasts-tesla-close-to-self-driving-technology.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/09/musk-boasts-tesla-close-to-self-driving-technology.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
     excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
     publishedDateTime: 2020-07-10T12:55:00Z

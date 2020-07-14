@@ -3,7 +3,7 @@ category: news
 title: "Revealed: Dominic Cummings firm paid Vote Leave's AI firm £260,000"
 excerpt: "Boris Johnson’s chief adviser declines to explain reason for payments to Faculty"
 publishedDateTime: 2020-07-12T12:00:00Z
-webUrl: "https://www.theguardian.com/politics/2020/jul/12/revealed-dominic-cummings-firm-paid-vote-leaves-ai-firm-260000"
+webUrl: "https://www.theguardian.com/politics/2020/jul/12/revealed-dominic-cummings-firm-paid-vote-leaves-ai-firm-260000?CMP=Share_AndroidApp_Tweet"
 ampWebUrl: "https://amp.theguardian.com/politics/2020/jul/12/revealed-dominic-cummings-firm-paid-vote-leaves-ai-firm-260000"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2020/jul/12/revealed-dominic-cummings-firm-paid-vote-leaves-ai-firm-260000"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "G8fTiCP6ot0sbOlWx02meMpjEcyqCAuE20MMeUeHOCcmqY5vP0gxdsy6g8yUfGessTI18MT7xXeuLjVFoef03WoVmYlfB7gIe14CmMW4luAjyj+ZybDiMownY00AEAm0kf+oeYNSGKUV9zCkoyVyW8a1X9NKO9bBFF0OmtRjgBSfhwY+7WMHpBc6HT5HfFqT4TGzrS15Q+EYCEzF64sU2jYALCDRDL1F9sfU1FnycYhefa81Uo6+34NiIq+aQ5QGG4/sYfiXdGdofCXlRLZa6tswGdqQ3Rz9+KWhbBU9n6T8RL25d5PkAZ9fFGV/cS4NvWEWnLs0ahA5fX9c7fZesw==;ktitXXJbidMD3R8+fkWo4Q=="
+secured: "K72gyiIm1shZm2Q0qbWCqGfZhR1TkAbrgST7vUPAxRKiUs9GwXYcGUgOz58BTgz04RRSpEuumVK5ehoShEOQVGxr959TuDoGoVAW+Ryh/m2066seqMU8scwLZGiPXFjfhWzw0PHZW2LnYlnzdy461GzrWbHrEspOgpadoHfEzjF8DcS6fCCwGcZqNUHYY2HyZI7cLhsUO9rsKQxu1HtxgWnuUK2uM0xD1C42TNdE8FQU9t2llBVNrPTaBO2ckf+HBThcLPm3Qy8CKXeZinH/41+rNN4IlsKx4qQeMl2No7ItEdJNhUR7GcLIN5MC9bb0Hva45RLFJg41noRZyTomLg==;BnYbHCevJLMZ9HNXmxG1bQ=="
 ---
 

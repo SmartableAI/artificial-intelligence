@@ -210,7 +210,7 @@
       "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -590,7 +590,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {
