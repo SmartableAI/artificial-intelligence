@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T17:27:00Z
 webUrl: "https://www.zdnet.com/video/how-mit-and-ibm-are-fighting-covid-19-with-ai/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "How IBM is fighting COVID-19 with AI"
-    excerpt: "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects."
-    publishedDateTime: 2020-07-09T13:09:00Z
-    webUrl: "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "/jh2E4mSB9qABhb2wXNjf2gLAQOHi116nmCZLB8R9opdtxLInfueGQ4dgT+Ct4MFMJG3xgiPpjSAIGpBPjOil+kA2R1tRic/svln8D4rUkMsbPhxgiD+RGp4RLNhSvOb11zv8Ko+uLjShB5LdScXfwOZx0VO7KeVh94A2zNaN03xgarXwrqKVFE+sFY1aFUx8P2ysCgCnnRUAn55/jSezqk5wBS9JAqJYP3O7PUo33m6jroEDDLMakHgTTG3QQQ16MuLa0lX48WdS42HytKJW8wYWVPdtfA+yPYboyWeH6XKHSWb1g5+6196M2AajeHQ0fruYuzUrnYkhTMLq/8RDUn5JkeTN46ZgEi7z0g4XVSbsiMIzgCsfbR7mj+tl+x2LlMnOHNDnWpUT+dv7FO49ifnCTqDuLInTtVKf94PCLpQsjxneBbGnLPXdsQtP8iGnzIGFwWXlBrpmlI8eNky/eMoppvuQcWZTZiQc0zZwFd/aQ9gtI2AaYt9xKmkP9U+LxtmUEW5RWMPBl+VONoqXg==;oDobr8fPdKFEwGAyoICbqQ=="
 ---

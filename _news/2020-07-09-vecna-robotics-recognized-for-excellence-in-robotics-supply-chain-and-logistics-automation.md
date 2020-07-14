@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton"
-    excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus"
-    publishedDateTime: 2020-07-09T14:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 59
-    images:
-      - url: "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Vecna Robotics Appoints AI Scientist Daniela Rus to Board of Directors"
     excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced the appointment of"
     publishedDateTime: 2020-07-10T00:48:00Z

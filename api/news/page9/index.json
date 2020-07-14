@@ -2,6 +2,55 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
+      "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
+      "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Holes-Bay-battery-energy-storage-facility-developed-by-Harmony-Energy-and-FRV-with-Tesla-Megapack-batteries.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 400,
+          "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
+      "publishedDateTime": "2020-07-06T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19.md",
       "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
       "excerpt": "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added",
@@ -1105,55 +1154,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves.md",
-      "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
-      "excerpt": "Artificial intelligence, seen as the cure-all for a plethora of enterprise shortfalls, from chatbots to better understanding customers to automating the flow of supply chains. However, it is delivering the most impressive results to information technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/thumbnail/1200x675/a5fc858d6d3af5d91e435234616baa12/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "publishedDateTime": "2020-07-04T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

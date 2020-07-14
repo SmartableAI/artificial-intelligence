@@ -41,22 +41,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Japanese app Tuna Scope uses AI to grade the quality of fish"
-    excerpt: "The app, named Tuna Scope, was developed by Japanese advertising firm Dentsu Inc. It uses machine learning algorithms trained on thousands of images of the cross-sections of tuna tails, a cut of the meat that can reveal much about a fish’s constitution."
-    publishedDateTime: 2020-07-09T14:23:00Z
-    webUrl: "https://www.theverge.com/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
-    ampWebUrl: "https://www.theverge.com/platform/amp/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/AIqT4AwPk5uIC9HnH-KLc2azkXA=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20074520/503406064.jpg.jpg"
-        width: 1400
-        height: 869
-        isCached: true
 
 secured: "PNAgfokddxMEYdL6quAbnG0MKOz2EYwQW6+O5ef5g47S/816kaEkecmyOyUrbrJktllyC96EjUrqt60tkEvvQApC4/zPENI71tr4tTc3k1aMAC2j7hvH3xq/hO+qiGWs7svzI6MATizGtfwTlPqfy5Tr8D8epvrYRqw53OLevgCOULCIFoVpqWJLitTjsuC2YMtrlung4hbf+S28APUrUwz+85EBcFkFn3RqyNLF3kfcCDWRPnsi8clQyjLGt5vujKEhLuqXRsdpSBQh3ajiyBTshA7frF6rAK+1PE+Rg7NPgvA3/cpFasUmV/vM8D1cOs0x/y5AJ6KGcRybDgMyo8ZTg7e/l47bJ8l+tn5RUkHCjzWPyrANbo3XtHBh4371lqhTQl3PsjrLOtAoCcO7j6/PrNkqZK9mjn0TfsZPyff9Pva6N+od6nxKWSwKkL1GNt24JuUXbST5j4xawZi2TNxeZJFRmfo7wYt8BwIYDgYTv13efHUhSyKjpaZMBDpmKdKENWTda1oh7WM27pLySw==;rqQDDnkc7qa6dvILTenlgw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://blog.google/products/translate/tools-language-access-covid-1
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/tools-language-access-covid-19/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1000
     height: 1000
     isCached: true
-
-related:
-  - title: "This 12-year-old CEO is offering free coding, AI classes during COVID-19"
-    excerpt: "Samaira Mehta is a 12-year-old with lofty goals. The founder of Yes, 1 Billion Kids Can Code and CEO of a board game company called CoderBunnyz wants to get 1 billion kids into coding by the time she graduates from college around 2030."
-    publishedDateTime: 2020-07-09T14:26:00Z
-    webUrl: "https://www.cnet.com/news/this-12-year-old-ceo-is-giving-free-coding-ai-classes-during-covid-19/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-12-year-old-ceo-is-giving-free-coding-ai-classes-during-covid-19/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-12-year-old-ceo-is-giving-free-coding-ai-classes-during-covid-19/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/mYCqTjGENuEwfwhe3yRVdLj1Iag=/807x106:3288x1674/756x567/2020/07/07/08d4d81c-a54c-41c8-8b22-afefe09f1b22/samaira-stem-background.jpg"
-        width: 756
-        height: 567
-        isCached: true
 
 secured: "eOOH//8l8Qzau1vXhdh60H8yqHIiUJtvzIikc4PBT8zOLZ8GvAhv/wbLUzBw6ldxqPqIQCmV4EFMSFrq9L2nv5ni3/jIOpCcR1zpEyYcI9g+4c+zuFcXJ1IlYbj9/bTKctk2fhc/oYhzGti3McOFxF5+4Bs77ChVgAynmNtBrF81qrtjB5OK0HNkvDOBYPqBnOPrhjvjfwZvHdDfe6Y4iNTnSg2U4tHejPeLThUmgcegeGm0eUTKcnbIWH3AGnzbmQWLoqn8rsx7Y39epzz+LU1wIaY+1j9u1IYwAeXENjMxEa+3eJ43U9aEogdHXb2xNDCqs7GxvYuVVWwORKe0kQ==;SfkZ+H9vXVryoW22FBAkcA=="
 ---

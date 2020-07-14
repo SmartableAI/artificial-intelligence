@@ -2,8 +2,8 @@
 category: news
 title: "Google machine translation helping disseminate Covid-19 info"
 excerpt: "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ..."
-publishedDateTime: 2020-07-13T00:06:00Z
-webUrl: "https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html"
+publishedDateTime: 2020-07-13T00:12:00Z
+webUrl: "https://www.sify.com/movies/google-machine-translation-helping-disseminate-covid-19-info-news-bollywood-uhmf5Cgddbfii.html"
 type: article
 quality: 19
 heat: -1
@@ -51,6 +51,6 @@ related:
         height: 800
         isCached: true
 
-secured: "AEyJ5sFTbG/w4eCYuPKxSvITeu3YN6u+9jNikfZ6Lbyx6snXFSMSlkZU0V+aBoU/+TSIKAS1paCO8zXxLDrSzIlQJZ8rKkOHBs1te8kLado+ItReaLAmpB56EEZ/EHOjuyS7TKE1KhLxUmMZoKuXlPJgdOUi/MXBnWILQO4czy9U5fLDATl3CWScU5C8IFLCEG86FuEbNZurrSMWCVHEawfZSaEucTw9GdB+RsdqNvAhqG0pVm+S7cMHFPURlHCgcCpee3605xzx+Zs/7gz6Pm5q5IOHy5ogn7yz1K12FLhoqEHe37ZdRKWIC33BG2Kzb5u/tmKCkCIxh90Q1OTTcQ==;MnZUz1ULhFlVJ0zqChum5A=="
+secured: "0klpVQ1H6psPp5xrB/Hnq6R91i0EJt9Yupt88gkF6fq5ZtKyhDNE3i08KcydcvyJ8Cp4wlDRaYNYdtqd01baUqLR0JALzrqX9ivwJjLM4ikh8gX/VhYt7F4gT1y1Y0+vIq1M0i/gYXva0DLTk6F+3Y9YRJRfB2UdVXVBiUeGC91PB9oSUAOO3hIzeUnCyK89/1KJQhrLio9+HiZJgl6q2s8l7AQwdhWKWhaO+elUHhUN7foX5XRhcQxUxGsDwemSQYzpnpxzY8GWs8BWk6K5xeMQ7byRgJXRPUv7Uupalu9Z0dLV/tjQZ8KSXr0eoihCYfwTFX7DA/He4jSiFR3wkQ==;6W+72OYvyJ1VdxHmjdD6Yg=="
 ---
 

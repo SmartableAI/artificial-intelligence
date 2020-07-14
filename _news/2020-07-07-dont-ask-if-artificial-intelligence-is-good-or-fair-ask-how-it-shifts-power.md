@@ -2,8 +2,8 @@
 category: news
 title: "Don’t ask if artificial intelligence is good or fair, ask how it shifts power"
 excerpt: "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired."
-publishedDateTime: 2020-07-07T11:14:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-02003-2"
+publishedDateTime: 2020-07-07T00:00:00Z
+webUrl: "https://www.nature.com/articles/d41586-020-02003-2?error=cookies_not_supported&code=929c2d14-4c37-4aaf-8e25-f21649c3169b"
 type: article
 
 provider:
@@ -13,7 +13,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-  - AI Ethics
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-02003-2/d41586-020-02003-2_18169050.jpg"
@@ -21,6 +20,6 @@ images:
     height: 576
     isCached: true
 
-secured: "rYyyH+UYloln47g5NLqezF+vNRoEKgIv4Z0XsrG0omDDSFN9TVxwwdw6PHeJ6xnLkxgOP3IpiQXJXKG5xrMKAAjDlGk6GIl+7ldn8kpGP8L0pRSJnMT/8Tzy9PdcXkVgF2m/4Z4RolJcUhAoinNtMV1oomGaPSE7p8ngDeB4PRL4oCto1XSWSKwbM+JobvY44Y0zX9diBzJ6HgyxTAREChMF7rtfUODlIPHUDw8O+DACPxoPnhpVgadA5kFpFH914O7rU1RAhCg8S9wQWklP+x3qU4Y/7pKZU0Kt9gxqHWqSnfzCkiC8ipPzsL17mqlqDtWyM/6hQ1DXBYyUtUmSeQ==;m+AkRybSA7gq5xHoSli12A=="
+secured: "BIOzwp/51RCikGldoSlgfMxAXZrZYEVhjUBbJzeRiGImPSdmh4RY4gObES7yVwSXWRwfF0GuY5UflNc5Xg3QJUKuCBTwN/KaH/wkTe39AUEd+GnkX9fIST0OIsM/mYk+11o+Z+POkVfIGDmSR40uNnM5nJOn9i+JKQkzc7yAqgi+pD5Eu0nXEP6nLbBjZAtswVab2nB75lPDxY7vg6m5E58fJj4eeS1+Hg10vMJF859tkr2+Pc8EiPakd7UJ+3iwI6psCgl7t0c7989PCUWFlSD7ad79F5m5pcS/Do5r5Km7W6qQjSI+Ov7LC+EAovfr5Kr6S1FrUjkd4BcTlb+3Cg==;MDzUGY/2MBIEs8UO/W8opw=="
 ---
 

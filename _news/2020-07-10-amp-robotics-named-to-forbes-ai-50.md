@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T20:33:00Z
 webUrl: "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AMP Robotics Named to Forbes AI 50"
+    excerpt: "Company recognized among rising stars of artificial intelligence for its AI-guided robots transforming the recycling industry"
+    publishedDateTime: 2020-07-14T07:10:00Z
+    webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-named-forbes-ai-50"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 69
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/SSR%20-%20AMP%20Fleet%20Image.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AMP Robotics Named to Forbes AI 50"
     excerpt: "Forbes has named AMP Robotics Corp. a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America’s most"
     publishedDateTime: 2020-07-13T03:46:00Z

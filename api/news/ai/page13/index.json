@@ -2,6 +2,47 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-30-superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows.md",
+      "title": "SuperAnnotate Announces Strategic Partnership With OpenCV to Improve Annotation for Computer Vision Workflows",
+      "excerpt": "Annotated data is paramount for advances in self-driving cars, retail, healthcare and other industries; the market for data annotation tools is expected to reach $2.57 billion by 2027. Data preparation and engineering tasks represent over 80% of the time consumed in most AI and machine learning projects.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows-1029322728",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows-1029322728",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows-1029322728",
+      "publishedDateTime": "2020-06-30T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-singapore-hyperlocal-ai-startup-snags-7m-in-series-a.md",
       "title": "Singapore 'hyperlocal' AI startup snags $7M in Series A",
       "excerpt": "NextBillion.ai secures $7 million in its Series A round and plans to use the funds to expand its team and boost product and research development, which focuses on customised \"hyperlocal\" artificial intelligence-powered applications.",
@@ -1335,55 +1376,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing.md",
-      "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
-      "excerpt": "Area 1 Security, a cybersecurity vendor whose products leverage AI and machine learning to protect against phishing, has raised $25 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/f7b215a0-8f77-476b-a974-80fd40ec611c-e1593050018345.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 667,
-          "title": "Area 1 Security raises $25 million for AI tools to protect against phishing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/area-1-security-raises-25-million-for-ai-tools-to-protect-against-phishing/amp/",
-      "publishedDateTime": "2020-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

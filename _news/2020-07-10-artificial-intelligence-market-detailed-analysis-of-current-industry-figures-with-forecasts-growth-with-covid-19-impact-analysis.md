@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
+    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
+    publishedDateTime: 2020-07-14T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
     excerpt: "The Automotive Artificial Intelligence Market is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR of 37.5% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-09T22:55:00Z

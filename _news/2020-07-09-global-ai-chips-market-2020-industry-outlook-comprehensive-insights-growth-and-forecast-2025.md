@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T18:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
 type: article
 quality: 72
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
+    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
+    publishedDateTime: 2020-07-14T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

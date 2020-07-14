@@ -104,22 +104,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Elon Musk predicts Teslas will be fully autonomous this year — 4 years after the company started selling 'full self driving' software"
-    excerpt: "Musk said a Tesla would drive itself across the US. That's still yet to happen, but the company appears to be getting closer."
-    publishedDateTime: 2020-07-09T14:47:00Z
-    webUrl: "https://www.businessinsider.com/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 73
-    images:
-      - url: "https://i.insider.com/5f0727294dca681a01388c00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving"
     excerpt: "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),"
     publishedDateTime: 2020-07-10T00:03:00Z

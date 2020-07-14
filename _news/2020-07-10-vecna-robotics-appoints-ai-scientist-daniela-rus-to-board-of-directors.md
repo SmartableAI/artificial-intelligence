@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T00:48:00Z
 webUrl: "https://www.financialbuzz.com/vecna-robotics-appoints-ai-scientist-daniela-rus-to-board-of-directors/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automaton"
-    excerpt: "Vecna Robotics, the autonomous mobile robot and workflow orchestration company, today announced it has been recognized as the recipient of three indus"
-    publishedDateTime: 2020-07-09T14:06:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200709005592/en/Vecna-Robotics-Recognized-Excellence-Robotics-Supply-Chain"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 59
-    images:
-      - url: "https://mms.businesswire.com/media/20200709005592/en/804309/23/Vecna_RGB_Large.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Vecna Robotics Recognized for Excellence in Robotics, Supply Chain and Logistics Automation"
     excerpt: "Leader in Autonomous Mobile Robots and Workflow Orchestration Recognized by MIT Startup Exchange, Robotics Review and Supply & Demand Chain Executive “This has been a historic year for Vecna Robotics,"
     publishedDateTime: 2020-07-09T19:30:00Z

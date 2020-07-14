@@ -2,6 +2,47 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-18-ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace.md",
+      "title": "IBM unveils Watson Works to address the challenge of returning to the workplace",
+      "excerpt": "IBM (NYSE: IBM) today announced Watson Works, a curated set of products that embeds Watson artificial intelligence (AI) models and applications to help companies navigate many aspects of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/82966/ibm-unveils-watson-works-to-address-the-challenge-of-returning-to-the-workplace/wholesale",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "IBM unveils Watson Works to address the challenge of returning to the workplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-ai-mining-esg-data-companies-not-disclosing-says-blackrock-exec.md",
       "title": "AI Mining ESG Data Companies Not Disclosing Says Blackrock Exec",
       "excerpt": "Machine learning is helping the $7 trillion investment firm to uncover ESG impacts from satellite images of pollution to cars in a parking lot, he said. He added AI is aiding in the analysis of voice inflections from executives and whether the inflections have change from the last time they spoke.",
@@ -1094,47 +1135,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory.md",
-      "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-      "excerpt": "Chip giant Intel on Thursday unveiled new 3rd Gen Intel Xeon Scalable processors and additions to its hardware and software AI portfolio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/intel-unveils-ai-driven-3rd-gen-xeon-scalable-chips-memory-news-education-ugsolHgiefahb.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/Hindi-Chini600x600_ugriulddadbea_ugrizcghbbjbg.jpg",
-          "width": 600,
-          "height": 600,
-          "title": "Intel unveils AI-driven 3rd Gen Xeon Scalable chips, memory",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

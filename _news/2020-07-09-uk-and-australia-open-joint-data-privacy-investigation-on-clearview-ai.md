@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 854
         isCached: true
-  - title: "Australia and the UK open joint investigation of Clearview AI"
-    excerpt: "Australia and the UK have opened a joint investigation into Clearview AI. Specifically, the regulatory bodies are concerned with Clearview’s practice of using “scraped” data and biometrics. The two countries aren’t the first to question Clearview AI,"
-    publishedDateTime: 2020-07-09T14:51:00Z
-    webUrl: "https://www.engadget.com/clearview-ai-investigation-australia-uk-142825168.html"
-    ampWebUrl: "https://www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-investigation-australia-uk-142825168.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2F15c3c470-c1ee-11ea-bdfb-491f89a32078&client=amp-blogside-v2&signature=e5f9098fa086536f67386570213d3fbc390d235a"
-        width: 600
-        height: 350
-        isCached: true
   - title: "Clearview AI faces more scrutiny from UK and Australian privacy commissioners"
     excerpt: "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn."
     publishedDateTime: 2020-07-09T18:04:00Z
@@ -324,20 +308,6 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 39
-  - title: "Trulioo EmbedID adds document verification and facial recognition features"
-    excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
-    publishedDateTime: 2020-07-09T13:43:00Z
-    webUrl: "https://www.finextra.com/pressarticle/83250/trulioo-embedid-adds-document-verification-and-facial-recognition-features"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

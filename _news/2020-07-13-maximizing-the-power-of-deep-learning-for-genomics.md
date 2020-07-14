@@ -8,7 +8,7 @@ ampWebUrl: "https://www.labmanager.com/news/maximizing-the-power-of-deep-learnin
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why SEO & Machine Learning Are Joining Forces"
-    excerpt: "The most advanced machine learning tools can't replace the humans behind them. Learn how tech-savvy SEO pros can work effectively with automation."
-    publishedDateTime: 2020-07-09T13:24:00Z
-    webUrl: "https://www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/"
-    ampWebUrl: "https://www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/amp/"
-    cdnAmpWebUrl: "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/seo-machine-learning-joining-forces/372662/amp/"
+  - title: "Researchers develop novel tool to maximize the power of deep learning for genomic studies"
+    excerpt: "Researchers from the MDC have developed a new tool that makes it easier to maximize the power of deep learning for studying genomics. They describe the new approach, Janggu, in the journal Nature Communications. Imagine that before you could make dinner ..."
+    publishedDateTime: 2020-07-13T14:13:00Z
+    webUrl: "https://www.news-medical.net/news/20200713/Researchers-develop-novel-tool-to-maximize-the-power-of-deep-learning-for-genomic-studies.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200713/Researchers-develop-novel-tool-to-maximize-the-power-of-deep-learning-for-genomic-studies.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200713/Researchers-develop-novel-tool-to-maximize-the-power-of-deep-learning-for-genomic-studies.aspx"
     type: article
     provider:
-      name: Search Engine Journal
-      domain: searchenginejournal.com
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/06/how-people-power-seo-automation-help-improve-professional-personal-performance-5ef0f9627a1c9.png"
-        width: 1600
-        height: 840
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fGenomics-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "vDc9/NkRwq/9lcVajySPqUcQOi9jY+oGlTbRp4/4nfflZkfnYJCAhdDrVzZMWazflpJXefpodDbL4DRM6hhFYa4ZDs2xoDs62mIzFO4DgZcfC6Z3Lmy7YMy6Tv47/vpj2JfDQdzLUx0ABpR3eiNNDkOdacyWNjMPyjby9163SS7NlLKEQj938383PCQdc37cjbY93sgUaCCXWu0qHZm1V7yLQIQ6hR/RmJ25oAEaW901ZTHnhiQYbVzqlU51GFHu94oCy/2ZunZRUfryJBEGNXygL/Ayq7TVz2rkkGLMlwLTUr1UvjhZz6/emn4VGjFKWDBSaj8dnr1DljZmG/fE+PwoVQZumXmjfLnrtRrbFlg/iYAoaVAVxIsiQ96QD1hGCA2bzq8evSbQ+CghiSp6JUqiAOStXQwvrKwuEhd3m+MXXExpwms3yWfcsDHWEntcpwfBcaeLbEoT1mX2E3U0oxJrF3Am6wlYUjg9cUFM0x+syFA8Z8vdhEu86BP26q9mLXc9fN/REdsJLwCQSWRR2w==;tQ3ADWC8Amh3p5To2pkRMg=="

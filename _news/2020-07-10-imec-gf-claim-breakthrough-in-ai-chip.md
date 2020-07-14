@@ -38,20 +38,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Imec and Globalfoundries connect to bring AI chip to IoT’s edge"
-    excerpt: "To address this challenge, Imec and GF developed a new architecture that eliminates the Von Neumann bottleneck by performing analog computation in SRAM cells. The resulting analog inference accelerator,"
-    publishedDateTime: 2020-07-09T14:33:00Z
-    webUrl: "https://bits-chips.nl/artikel/imec-and-globalfoundries-connect-to-bring-ai-chip-to-iots-edge/"
-    type: article
-    provider:
-      name: Bits&Chips
-      domain: bits-chips.nl
-    quality: 54
-    images:
-      - url: "https://bits-chips.nl/wp-content/uploads/2020/07/Imec-Ania.jpg"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Genetec announces deep integration with Bosch MAP 5000 intrusion panel series"
     excerpt: "Genetec Inc., a renowned technology provider of unified security, public safety, operations, and business intelligence solutions, announced the latest deep integration to result from its"
     publishedDateTime: 2020-07-10T06:49:00Z

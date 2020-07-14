@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese app Tuna Scope uses AI to grade the quality of fish"
-    excerpt: "The app, named Tuna Scope, was developed by Japanese advertising firm Dentsu Inc. It uses machine learning algorithms trained on thousands of images of the cross-sections of tuna tails, a cut of the meat that can reveal much about a fish’s constitution."
-    publishedDateTime: 2020-07-09T14:23:00Z
-    webUrl: "https://www.theverge.com/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
-    ampWebUrl: "https://www.theverge.com/platform/amp/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 87
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/AIqT4AwPk5uIC9HnH-KLc2azkXA=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20074520/503406064.jpg.jpg"
-        width: 1400
-        height: 869
-        isCached: true
   - title: "This New App Uses AI To Grade Tuna Freshness"
     excerpt: "Tuna Scope, a new app in Japan, uses artificial intelligence to grade the quality of cuts of tuna, mostly for sushi. Fishmongers say that this is fine for chain restaurants, but high-end restaurants will always want the human touch."
     publishedDateTime: 2020-07-09T19:59:00Z
