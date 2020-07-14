@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T08:04:00Z
 webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
+    excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
+    publishedDateTime: 2020-07-13T22:57:00Z
+    webUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
+        width: 950
+        height: 629
+        isCached: true
   - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
     excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
     publishedDateTime: 2020-07-09T22:16:00Z

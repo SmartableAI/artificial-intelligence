@@ -362,6 +362,17 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "UK, Australia investigate Clearview facial recognition firm"
+    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
+    publishedDateTime: 2020-07-10T00:03:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/UK-Australia-investigate-Clearview-facial-15396715.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 39
   - title: "Global Privacy Regulators Probe Facial Recognition Firm Clearview AI"
     excerpt: "The privacy regulators of the UK and Australia have announced a joint investigation into controversial facial recognition firm Clearview AI. “The Office of the Australian ... York Times report claimed that the startup had scraped as many as three billion ..."
     publishedDateTime: 2020-07-09T11:05:00Z

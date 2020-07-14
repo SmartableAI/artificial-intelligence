@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/</loc>
+    <lastmod>2020-07-13T16:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html</loc>
+    <lastmod>2020-07-13T15:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/</loc>
     <lastmod>2020-07-13T14:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1033,12 +1045,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/d41586-020-02003-2</loc>
-    <lastmod>2020-07-07T04:14:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/</loc>
     <lastmod>2020-07-07T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1065,6 +1071,12 @@
   <url>
     <loc>https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/</loc>
     <lastmod>2020-07-06T19:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nature.com/articles/d41586-020-02003-2?error=cookies_not_supported&amp;code=929c2d14-4c37-4aaf-8e25-f21649c3169b</loc>
+    <lastmod>2020-07-06T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1111,7 +1123,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102</loc>
     <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1849,7 +1861,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1965,6 +1977,12 @@
   <url>
     <loc>https://venturebeat.com/2020/06/30/googles-g-suite-finalizes-connected-sheets-and-introduces-ai-driven-data-cleanup-tools/</loc>
     <lastmod>2020-06-30T09:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.nd.edu/news/notre-dame-ibm-launch-tech-ethics-lab-to-tackle-the-ethical-implications-of-technology/</loc>
+    <lastmod>2020-06-30T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

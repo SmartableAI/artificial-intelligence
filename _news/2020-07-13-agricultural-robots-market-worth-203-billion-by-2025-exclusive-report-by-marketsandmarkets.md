@@ -5,7 +5,7 @@ excerpt: "The driverless tractors segment of the agricultural robots market is p
 publishedDateTime: 2020-07-13T13:36:00Z
 webUrl: "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
@@ -67,6 +68,6 @@ related:
         height: 630
         isCached: true
 
-secured: "60r4yQFn3q+4XRKqK/SM6LuOsahRokv8kc1OW8276Mr4iBXirOESkMpTbf4AFjkzxSvcQH0X+7ifrCXCBT8i64WuTA3qg43n3QGlW7nviiHVvOaJ+CfBSJ4x34W+RMEeZD2xRYHYfZhKTmAZpUfaHpWVJbsiVGpafR8XmS09xLAmqzkwKsGwSQi89oj3efhp/C0DjIGmXIGulJUL9LfyQMqs1mPfO3p/Txw08w+WUW76zAaJZa6RbhjGdCcvTVx7fyeAMmJXYmA0QVkc8XQrmEBwLHNQqwosUHDmNxSVuz2KYbCq8tO0zPhLVRnyi5HWiXXE4jJaGUr6jKaQjmMCQg==;SA1IiIu5FtQmvsgGw5wBkA=="
+secured: "v5O+wny5CF2n05VdLhIkmUKV6OPwXZAfK9hFyXVfQJnwfmX8ZcijWfHNHQ34piCuOO2GewxBu33KLaiPiHDV+mj55nbnMQPrziOsBIPu5IltdWI+MhMzUu2VNtRzIlbORUsmzEzk+xUQXAUcUpyNCJEm37sUK6nnXvJ/taSRz54auryHnYmz1hfhY7FgLOWf+j16usMR01UH6JCU7UNJy4sSEBNufa9dRB1O82TjK5P0HCes1FSj7KGm3Wa/N+qKcAb1eFU+ddZEqumSk//keRRiCLNs6LQ1xxd67qLpnavANTPb/HBIgwtudi5IUptDBXFu1t/ZWWFr45xehvLneL84aDGvNJqIVvx8KhhQS+KbQULfdDuNELaUyjWMQLQ8u11YtQugb/MHYBboTk6NcQXle6DRV3YAwf7pSEDxWjSKOyd6pNYSxD6oe03WDphk+olu2lZglbN4Xk8r5twXp07Ma99Or3Gsa8lL16RvlZWIGYdA0qUX0AtdSXaGGRPd/+pRJd3XR4H3J6FPGGHX9w==;eTV02ukdJG7PF1/4fi2y9w=="
 ---
 

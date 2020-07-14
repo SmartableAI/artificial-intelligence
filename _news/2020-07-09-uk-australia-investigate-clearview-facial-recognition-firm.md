@@ -348,6 +348,17 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "UK, Australia investigate Clearview facial recognition firm"
+    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
+    publishedDateTime: 2020-07-10T00:03:00Z
+    webUrl: "https://www.sfchronicle.com/news/article/UK-Australia-investigate-Clearview-facial-15396715.php"
+    ampWebUrl: "https://www.sfchronicle.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 39
   - title: "Trulioo EmbedID adds document verification and facial recognition features"
     excerpt: "New facial recognition and document verification technology will enable small and medium-sized businesses (SMBs) to provide the same level of online protection to their customers as multinational organizations. As part of a holistic approach to identity ..."
     publishedDateTime: 2020-07-09T13:43:00Z

@@ -64,7 +64,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
         width: 666

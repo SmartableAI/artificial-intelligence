@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
+    excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
+    publishedDateTime: 2020-07-13T22:57:00Z
+    webUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
+        width: 950
+        height: 629
+        isCached: true
   - title: "Boston City Departments Can No Longer Use Facial Recognition"
     excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
     publishedDateTime: 2020-07-10T08:04:00Z

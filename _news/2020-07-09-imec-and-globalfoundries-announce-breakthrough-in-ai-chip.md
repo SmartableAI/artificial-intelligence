@@ -66,15 +66,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices"
-    excerpt: "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ..."
-    publishedDateTime: 2020-07-09T06:43:00Z
-    webUrl: "https://www.design-reuse.com/news/48275/imec-globalfoundries-ai-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 9
 
 secured: "l7SXr3ms2UOalkNmItEhuGzChSyzCTRhtoT+xzstHnTgCTUH606ZQu6hzhA4L31rYMGcfTiZWY0jfw1Apx/kEYj4LKtIfDLv6UynjQqHyxmYZxH5E+nTo+qYprOuNO7ipWronBZ7PPQSQK9wzogMjTJ5eB1pkhZLgRmxR6Q70xkpicHeba4vEa/3BIQssOntOdaFRLa5uSSWNRz4g/EsRvS5W0U4caD2GJ92uOLdD6aL2KhYwxawV6V8fUfTjOc0vf4Dax1G7he8GksmQuMUu0drXzPoWHtDoLCqyHK0HaXh+Vr+4muLxD12oG6vfuhaDdLiUm+JpUS+RoN+k3ayob7Lfr/x3nlyjK9CQs1SB/ljDtTOG4xiVpdS/euvCv4TNgAXbnCItovmWwPR60X6w/QIAppQfPdftRmvm20PFCIpN1On93jtlKMcaKoP3JakFJu2aA1nqEHRegdZAWB3mtnIMlha0HMowXRSGe9ppp38I1rNUVb1OhqhGhvx5/49K5b5Lj3K0lq26fwXZZKHeg==;d9OTWFVJNsRLZQoFm/vC/Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T05:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200712005006/en/Burden-COVID-19-Market-Rehabilitation-Plan-Artificial-Intelligence"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -21,36 +21,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Artificial Intelligence In Manufacturing Market Report - Coronavirus (Covid-19) and the Telecoms Sector During 2025"
-    excerpt: "Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and reacts like humans. Artificial intelligence is one o"
-    publishedDateTime: 2020-07-09T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-report---coronavirus-covid-19-and-the-telecoms-sector-during-2025-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "New Report from Corinium and FICO Signals Increased Demand for Artificial Intelligence in the Age of COVID-19"
-    excerpt: "Today, FICO, a global analytics software firm, released a new report from the market intelligence firm Corinium that found ... telecommunications, health care, retail and many other industries. Using FICO solutions, businesses in more than 100 countries ..."
-    publishedDateTime: 2020-07-13T12:04:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/new-report-from-corinium-and-fico-signals-increased-demand-for-artificial-intelligence-in-the-age-of-covid-19-301091884.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/1213255/FICO_AI_Infographic.jpg?p=facebook"
-        width: 5157
-        height: 2700
-        isCached: true
 
 secured: "drU3Xt5mI7C0R/622Azfmn5uxfoXCio8Tm68m15vftfsd/FQC9XEvSGDzgVS/MDhR1uuwQe5TShoy/NxtYasnk7ZKlvK44eMLtLazcuRzLtVotVC+gw4VBn6ZPVu5U9P2filVJ+o4IkntE7Rw13AnRcPVHuLlCcty1e2pkN3G9YbQnbnYpD9LUtqGNVqQu7KjD70+UT1QaqsDAz+R0LI/v4xIiGxh91r18Sou9Wai80JKTFBGzeSHHIW0LbgOGqZbzBMKY9FU8b/e8nSENrKfQZSs7zmI4PrNAYarXV5MW9+1zwCeHAm2KWePZTJLl9FYTTXB6PTGQu89cWSuNlm0g==;ZfSCv9LNgGCRZXpyA8+fdg=="
 ---
