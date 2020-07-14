@@ -40,20 +40,6 @@ related:
         width: 760
         height: 368
         isCached: true
-  - title: "Self-driving Teslas ‘by end of year’"
-    excerpt: "Elon Musk has said that Tesla cars will be fully autonomous by the end of the year, claiming there are now “no fundamental challenges” to removing the need for human drivers.The founder of the US"
-    publishedDateTime: 2020-07-09T23:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-teslas-by-end-of-year-qj0b0d92l"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F6c8205ac-c210-11ea-ac82-8308736f5ec7.jpg?crop=4000%2C2250%2C0%2C208&resize=685"
-        width: 685
-        height: 385
-        isCached: true
   - title: "Shanghai designates downtown open road for self-driving vehicles testing"
     excerpt: "This is the first open road for self-driving vehicle testing in downtown area of a megacity in China. Shanghai had previously designated several open test roads in Jiading, Lingang and Fengxian areas in the suburbs."
     publishedDateTime: 2020-07-11T23:26:00Z
@@ -68,6 +54,17 @@ related:
         width: 719
         height: 479
         isCached: true
+  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
+    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
+    publishedDateTime: 2020-07-10T12:55:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
+    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 35
 
 secured: "EVvCq4V47X+gfGODeQxYfYUqPIvpBpqf1TRBJzORenU/o+eX5hQhqrMo9DVXOsXCnPuu1sy3corAqUzM0jBWaGklRd2wKgazSMxIaLszrFTt+GqO+dtrlTTSy9POxBjb3gMV04EC61+u5k8LCXKaBLNEJ0QDGSuOT4eF9ugCZ0z766IGePXLP46uasVCSR/dP6soYj8F9fM7ufVRkXVJPDPBpcbM/Nxtsz/3Vgm2ydwqt7k5rmEhq5OP+IIStavse+ePSEzHrHUjMgWsWrF8uqfYKGu2xmsQK9E7d5X1ouzd3tH4Ueb2jyUb0ELZpFW1EHeAo1HAqh5djkAebovSgw==;4eew8sgFZZR/kXN3QNuV2w=="
 ---

@@ -7,7 +7,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/white-castle-selects-mi
 ampWebUrl: "https://markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
 type: article
-quality: 52
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Miso’s kitchen robots will slide into White Castle restaurants this year"

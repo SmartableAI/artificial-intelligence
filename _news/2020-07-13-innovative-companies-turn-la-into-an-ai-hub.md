@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Innovative Companies Turn LA into an AI Hub"
-excerpt: "That’s particularly true in Los Angeles, where entrepreneurs with vivid imaginations and start ups with fresh approaches are turning the region into an AI hub for everything from media content analytics to warehouse technology."
-publishedDateTime: 2020-07-13T08:52:00Z
-webUrl: "https://labusinessjournal.com/news/2020/jul/13/innovative-companies-turn-la-ai-hub/"
+title: "Innovative Companies Turn LA Into an AI Hub"
+excerpt: "The idea of artificial intelligence may conjure up images of robots and mechanical automation ... where entrepreneurs with vivid imaginations and start ups with fresh approaches are turning ..."
+publishedDateTime: 2020-07-13T22:34:00Z
+webUrl: "https://labusinessjournal.com/news/2020/jul/13/innovative-companies-turn-los-angeles-ai-hub/"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 356
     isCached: true
 
-secured: "McepNAGarkOpQlBauctI5kPLQQ2CYYxOksp7LKzsM+MehDFfuutgUGcQjhv/kCj3o6BfIShVDWL4qrUfz8gtWnpFE+rrhO/TXkneY7Up31QQSK/zv593+7deBOhFNKTT2fjSV/nVhwgG5Sx7F4z8Yoh56OTA1g06p+NGe4w0e4ykHoHebkkGQpX8y7ncCujvPuYc1xb3QeEHSF3GYEjocuFLR5ZcHjRAQMBW5pBKGosbaeDWp3xrs/jiOVc5SNrApL4mT0gBDXaHvMiZ/LNONdUO6gNGh4+5/Wkrc1h6p/JOxkyAX+z8R9lvKEHbHXKDVxd9WN+Uac4gErnEK333EA==;LEQvB50TGjYDXTIVb4xuOQ=="
+secured: "4cC72IartgWZGCzKefC6J5zND0mwJmVz/eriVlBUNKzjb4ctMVso9D5YLE0PQMj0+xgaQ47ek2glTwJ9yXwYKYmaxLhqI9256XS1dnIxgJQqheCv5XHuHaj2+pi1sHuOCmzHKq2Z7SVDqIuHNwOUhUqrxD2hTaRmb2gXYdnKf+qq/7OsS5F7/rUKtbkOsqBTN1FdnGWs+5sb9MdqMTRnz+dl9Q06i5zzrOi9hdjzLekyOqyWjDFTiJiWSx61SThgCq7CtCr4rGv7VPn55EwIIEG2ObRyTNgIN3DlvKn3QVO1fcd3e43IbnJ8OagQa1vUXq5xL9V6zXAgclHw/1JlDQ==;13dUk+ZxxRaWotAzn+cPFg=="
 ---
 

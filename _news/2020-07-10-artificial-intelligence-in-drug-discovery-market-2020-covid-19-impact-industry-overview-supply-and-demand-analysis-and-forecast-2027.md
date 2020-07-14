@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Key Growth Factors, development trends, key manufacturers and competitive forecast 2027"
-    excerpt: "The Artificial Intelligence (AI) Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-09T22:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-key-growth-factors-development-trends-key-manufacturers-and-competitive-forecast-2027-2020-07-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Adaptive Robot Market 2020 Analysis by Current Industry Status & Growth Opportunities, Top Key Players, Target Audience and Forecast to 2023"
     excerpt: "Global Adaptive Robot Market Research By Application Industrial Robot Service Robot By Technology Navigation Vision Sensors Speech Recognition by End User Entertainment Automotive BFSI Healthcare Retail Forecast till 2023 Adaptive Robot Market Key players Market Research Future has identified following"
     publishedDateTime: 2020-07-10T19:43:00Z

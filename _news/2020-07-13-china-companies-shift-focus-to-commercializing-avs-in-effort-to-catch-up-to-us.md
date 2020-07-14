@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China companies shift focus to commercializing AVs in effort to catch up to U.S."
-excerpt: "Baidu: After launching robotaxi service in ... jointly developed with Chinese carmaker FAW Group specifically for self-driving purposes. Pony.ai: The company's pilot project in Guangzhou's Nansha ..."
-publishedDateTime: 2020-07-13T10:36:00Z
-webUrl: "https://europe.autonews.com/automakers/china-companies-shift-focus-commercializing-avs-effort-catch-us"
+excerpt: "Through the throes of the coronavirus crisis, Chinese companies developing autonomous-driving technology have accelerated the pace and scope of their deployments. Investors have rewarded those efforts,"
+publishedDateTime: 2020-07-13T04:00:00Z
+webUrl: "https://www.autonews.com/china/china-companies-shift-focus-commercializing-avs-effort-catch-us"
 type: article
 quality: 19
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/54AUTOX-MAIN_i.jpg"
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/54AUTOX-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YR79mp+v2W4bPqzypl7ndAIkXqJ1wKl0JWNc0POolxizFkjGEUbyfhJ1oit+C9e3UUQUv2gRHDLreQ3BLf9x39OkoMdjNFnKjL2SXuo2I/uJy+HKb8jEmkQ6yIm1TS1DxuYrxFMzca9+R8AGozaTPtykkkVEZKIMrSeqODaJIhGDL6wfBsNKSr1WuctylTLix01Ciod6WdI13f72l7ys2e88dmA+eZKJyIh+bcTdfrjqjcipIRkRdOEAmfGiU3NzLdB755Q9s+aSbnMJkgkvc1u1vLZqR1twbyK1+zHLR53eXg6aXax4n/SEwhmIN7658p/rX0vv+snIsv1W1w4HZ8Yn6OI2sWqpshDYavVzIF9wBgV6dPWeuHC7yRa301mtEK4xafEAVbgfkr4k1r4snB5ln+8McKJTPFMukc3wuyHNK7RG83IzFNbJwUAPNL0h8dk6UXqK1n3GeKHQqFSHjVgp4rymcUs1XmYu9i1DA2g7RIJiNYH8AJGLz7Qd9UpdLKDmuPOUUmVLfscsF0sNlQ==;PzaOUE+tFOfowQJ+2KnDmQ=="
+secured: "/oZEwMgSM9K7LPe6gxCVWKnpC3XkzlwdOyLKOYHBWsj+shfFOj4S+tcHE3p6mA4BjfOM1toBjYicuWs/UBvMMDzgRdVt1cSDglsCLtFepE3APtdBEccrP+CDeohDRZUnRWYe6AW3pgqFNg67grj8EBwKODa4QqLkFyh4dyjKJ6N3m92bps7/anqzAXMUUw5kzeCSIZU1cOrgkTN+pl9Jr6xpHUNb/87jq6aaDv/Y8PhFSeHqCPpUAtM1HHshDm2zHS96QTNO1YgsIkTLR5DMk+m3ezGPlN2aTccOcTI+uDCerLQKv6KhJn2DkqAIc6pzi9amPksqiFsNrwKzrfgz4g==;CpJhQMcEWXqhMANBdhIxIw=="
 ---
 

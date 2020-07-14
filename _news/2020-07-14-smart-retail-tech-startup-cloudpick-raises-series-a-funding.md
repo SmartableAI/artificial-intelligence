@@ -8,8 +8,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/smart-retail-tech-start
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -21,19 +21,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Atlanta insurtech startup raises $5M"
-    excerpt: "The company's CEO and co-founder says the funding will primarily be used to expand the company’s AI and machine learning technology."
-    publishedDateTime: 2020-07-09T22:23:00Z
-    webUrl: "https://www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtech-startup-raises-5m.html"
-    ampWebUrl: "https://www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtech-startup-raises-5m.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/atlanta/news/2020/07/09/atlanta-insurtech-startup-raises-5m.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
 
 secured: "ldMikoglCkGCbvE7wdrj+q2AeTPbJe3pMz5xbcdkXJcjtgkV2irVLX2Pmmjzi6vnFkwP4AfbDg5JCGXk3WcMs/+UOc+oBQ/lrVscjKIMSdlQTvdcjTietAv0Ff5j6AiWQq3sGK7mD7slmCKgd5R5lY8+8391fhclhq3t3/XVrreuLpHkdZWgViXdxvm/GNqCo+eAkCJ9IFBoZI6b4A/WPGTcSOI2U4rr6tZwcnp/79R2IKx79u7rrR8WqFjEJAkv4gpa1VisVCIMZWOCNiha5J/zz/IIYVvcXyUftQZwtBzpsqFiGGXaEx0+gFmVfv/YjlO+rcshmSSJ6iYmAB+KUg==;OzmBXsU3HYQN4D6pDJtZpA=="
 ---

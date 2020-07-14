@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Study Finds Neural Overlap between Vision and Imagination"
+    excerpt: "These findings add knowledge to the field by refining methods to study mental imagery and vision. In the long-term, it could have applications for mental health disorders affecting mental imagery, such as post-traumatic stress disorder."
+    publishedDateTime: 2020-07-14T14:16:00Z
+    webUrl: "https://www.labmanager.com/news/study-finds-neural-overlap-between-vision-and-imagination-23287"
+    ampWebUrl: "https://www.labmanager.com/news/study-finds-neural-overlap-between-vision-and-imagination-23287/amp"
+    cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/study-finds-neural-overlap-between-vision-and-imagination-23287/amp"
+    type: article
+    provider:
+      name: Lab Manager
+      domain: labmanager.com
+    quality: 46
+    images:
+      - url: "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/23287/iImg/43176/july14-2020-musc-1-imagination-vision.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Study finds link between mental imagery and vision"
     excerpt: "Medical University of South Carolina researchers report in Current Biology that the brain uses similar visual areas for mental imagery and vision, but it uses low-level visual areas less precisely with mental imagery than with vision."
     publishedDateTime: 2020-07-12T18:10:00Z
@@ -68,6 +84,20 @@ related:
     quality: 17
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/237224_web.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Report: Is what I see, what I imagine? Study finds neural overlap between vision and imagination"
+    excerpt: "These findings add knowledge to the field by refining methods to study mental imagery and vision. In the long-term, it could have applications for mental health disorders affecting mental imagery, such as post-traumatic stress disorder."
+    publishedDateTime: 2020-07-10T22:06:00Z
+    webUrl: "https://www.tunisiesoir.com/health/report-is-what-i-see-what-i-imagine-study-finds-neural-overlap-between-vision-and-imagination-22472-2020/"
+    type: article
+    provider:
+      name: Tunisie Soir
+      domain: tunisiesoir.com
+    quality: 11
+    images:
+      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/07/Report-Is-what-I-see-what-I-imagine-Study-finds.jpg"
         width: 720
         height: 480
         isCached: true

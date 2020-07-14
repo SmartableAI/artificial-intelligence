@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-faci
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
-    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
-    publishedDateTime: 2020-07-09T22:33:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 52
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
         isCached: true
   - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
     excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"

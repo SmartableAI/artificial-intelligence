@@ -8,8 +8,8 @@ ampWebUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 83
+published: true
 
 provider:
   name: Futurism
@@ -26,63 +26,22 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: Tesla is close to achieving basic level 5 autonomy for its cars"
-    excerpt: "Tesla's recent market performance surprised many when the company revealed that it had delivered no less than 90,000 vehicles in the second quarter of this year, which is even more impressive when you account for the pandemic-related factory shutdowns."
-    publishedDateTime: 2020-07-09T22:56:00Z
-    webUrl: "https://www.techspot.com/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
+  - title: "Elon Musk predicts Teslas will be fully autonomous this year — 4 years after the company started selling 'full self driving' software (TSLA)"
+    excerpt: "Elon Musk said Tesla's long-promised 'full self-driving' capabilities will actually come true this year. The CEO made the prediction in a"
+    publishedDateTime: 2020-07-10T02:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-34.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://images.markets.businessinsider.com/image/5af3453424131e21008b47f9"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
-    excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
-    publishedDateTime: 2020-07-10T16:23:00Z
-    webUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
-    ampWebUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 72
-    images:
-      - url: "https://images.axios.com/sW6P9gdaGfq3gB36U4WW5iV-RG4=/fit-in/1366x1366/2020/07/10/1594396804737.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
-    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
-    publishedDateTime: 2020-07-10T02:23:00Z
-    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
-    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
-    publishedDateTime: 2020-07-10T12:55:00Z
-    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
-    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 35
 
 secured: "UDiAV0+6Q7O0Yf+kOuiBA29zVWbBz1JOzWAThnYBrsnwOTjmUg7F9SgOTSV+FZq1DGk4LJxyuLMNnLtCLA19ZtOehtiR3XKsNaS05jYH17rezjZv26z/VyMflPNdyTFjsff+oFN987OU4N009Bq2e8kzen1gbnT1PZkeenLiT+nPRZELuTaorMf6drXuMMUtUW6anD/HJ95rXWmUQgHV6CwsSR5AVYhkE7zlTNpmyWcuZ26NpF1qQmbntkco5d0CKl2zcJ5h1aLxozbaQt1uCvl1ZmtJdugueI20PsPWTARghfNy9VGF4es4IvYWZlpsP0s8zrMkQdyh4s5RRApeU/KYCXkoxxRTMBu+W9vVIRfQZut6PXi2jNn0j+bLeLQLV3eGr+jv8Zxdr2SeLilvRbddWBRjYLGjpKO83jqyNwRxLwiURzE+UkyzpJRzEEPcEAntvDqT+o0Str7+XR0vTg7FEIGxrL648NOG2abu5ZIuTb7iGbT2hrgKXYysDq6W+7PHSot0WzOI2jIHg7j3NQ==;GpzrKSaOAD3BFMB/IvHpSQ=="
 ---

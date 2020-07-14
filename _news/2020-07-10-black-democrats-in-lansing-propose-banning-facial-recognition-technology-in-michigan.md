@@ -83,20 +83,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Using Adversarial Machine Learning, Researchers Look to Foil Facial Recognition"
-    excerpt: "Computer scientists are finding more ways to thwart facial and image recognition. But there's also bad news: Gains will likely be short-lived."
-    publishedDateTime: 2020-07-09T22:33:00Z
-    webUrl: "https://www.darkreading.com/threat-intelligence/using-adversarial-machine-learning-researchers-look-to-foil-facial-recognition/d/d-id/1338326"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 52
-    images:
-      - url: "https://twimgs.com/nojitter/darkreading/dr-logo.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "Rax3SSUaEet4yE/KAt/Nmfz+7n/OIJ2IHw8fdNliJ8+QKgJwa4MkYnLTdsM4u+wYGJbBEDWl5n4P6pbUZmxFByFzPG4UMBuAj/VK+HQ+7TERtMrmvOEpb3MEy4xRVt1rl0NqvvedkBH18qwALaezim8tInRq+Q+lTYUJD33Taue8qJ0qzQerU8IOHGN8zdLNZetz5oY3PXmAh8dkKGEpI9h2uGVu4BkswiCR+1tGGM/LILJEuAKIj7EjBO/5vN7/EAAgDy7uquux6STKyh6HGbxFCU1sJsToIf5TbiAFbK/GHR3hg5Jrs1R1QuMe0w2zRhGbS87jqZdme2xPHqonCQ==;Q6HenfO8SOLdDHu3JZAp5A=="
 ---

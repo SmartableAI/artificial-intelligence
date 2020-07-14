@@ -40,7 +40,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
+    quality: 84
   - title: "White Castle to test out Flippy kitchen robot to cut down on human contact with food"
     excerpt: "The idea is to reduce human contact with food during the cooking process and comes after many restaurants were crippled due to the pandemic."
     publishedDateTime: 2020-07-14T12:24:00Z

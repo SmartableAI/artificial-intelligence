@@ -136,20 +136,17 @@ related:
       name: heraldsun.com.au
       domain: heraldsun.com.au
     quality: 49
-  - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
-    excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
-    publishedDateTime: 2020-07-09T22:16:00Z
-    webUrl: "https://www.9and10news.com/2020/07/09/msp-uses-facial-recognition-to-identify-man-in-bar-fight/"
+  - title: "Farnek adopts new contactless face recognition system"
+    excerpt: "Leading UAE-based technology and sustainability-driven facilities management (FM) company Farnek has implemented a new contactless face recognition system to measure the temperature and monitor the attendance of its employees. The technology has been ..."
+    publishedDateTime: 2020-07-14T14:24:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Farnek_adopts_new_contactless_face_recognition_system-SNG_179558150/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_179558150/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_179558150/"
     type: article
     provider:
-      name: 9&10 News
-      domain: 9and10news.com
+      name: Zawya
+      domain: zawya.com
     quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2018/01/01-23-18-MSP-CAUTION-PROGRAM-PKG.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

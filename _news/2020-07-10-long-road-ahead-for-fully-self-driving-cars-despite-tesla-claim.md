@@ -24,37 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: Tesla is close to achieving basic level 5 autonomy for its cars"
-    excerpt: "Tesla's recent market performance surprised many when the company revealed that it had delivered no less than 90,000 vehicles in the second quarter of this year, which is even more impressive when you account for the pandemic-related factory shutdowns."
-    publishedDateTime: 2020-07-09T22:56:00Z
-    webUrl: "https://www.techspot.com/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85936-elon-musk-tesla-close-achieving-basic-level-5.html"
+  - title: "Tesla Autopilot and Full Self-Driving claims are judged ‘misleading’ by German court"
+    excerpt: "Tesla lost a case in a German court today over how the company advertises its Autopilot and Full Self-Driving, which the court judged “misleading.” Last year, we reported on Wettbewerbszentrale, which describes itself as “the largest and most influential nationwide and cross-border self-regulatory institution for enforcing the right to unfair competition,"
+    publishedDateTime: 2020-07-14T14:30:00Z
+    webUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/"
+    ampWebUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
+      name: Electrek
+      domain: electrek.co
+    quality: 97
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-34.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-automatic-driving-on-city-streets.jpg?quality=82&strip=all"
+        width: 2500
+        height: 1235
         isCached: true
-  - title: "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving"
-    excerpt: "That dream, formally known as Level 5 autonomy, is probably still many years out — but Tesla CEO Elon Musk believes it could be right around the corner. In a video message recorded for the opening of Shanghai’s annual World Artificial Intelligence Conference (WAIC),"
-    publishedDateTime: 2020-07-10T00:03:00Z
-    webUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy"
-    ampWebUrl: "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp"
+  - title: "German court bans Tesla ads over self-driving claims"
+    excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
+    publishedDateTime: 2020-07-14T14:24:00Z
+    webUrl: "https://www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/"
+    ampWebUrl: "https://www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 73
+      name: City A.M.
+      domain: cityam.com
+    quality: 74
     images:
-      - url: "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.cityam.com/wp-content/uploads/2020/06/1208184787.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
     excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
@@ -72,17 +72,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
-    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
-    publishedDateTime: 2020-07-10T12:55:00Z
-    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
-    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 35
 
 secured: "dlv09eWfCrRBlvsWc9jTklmQbUiSfj9Q7K80ePPl8GEQ5o36eNg2MBewbFTNz6PAqT8VZaCi35qiWh4/CcC9lzO8R4RS+rNxVV6y6FQET9Y2fmuJve0XklD5T0deJz2YvJiKbi0ASvI8yD4VNbRk7Mgbc2dUmArYZ8hbv6DDkJH7QQY5VUm0roAzIUTD1BSUq5nIbFf7+wxOBgkVnEWgjf42q/SygK48suS79ZTuvZ8JMq1yQb6d4eom0Kq6h2jQW61PsP9X5k/x8bdZdw3p8I4vvz8zNB6miLLGjmWrSB2gB+HO489tCCK/zHEoNZmfVk3u7BrUGu474VNZH+ohA0s4bkB3EZPK8JvEIhZ5qoHG81fFejQjG53hCPg0ojPbNauVeMPa+2PEboFuJu6DCN9XrU2YMj3O49398d2RMSawTmha/oO/eUvaB7UHSge0FbRXU2Ft5ad66zqMjKQV7xgK/HKX/ZT90+SCrWu6DkAmf9tAmIokH16+YufIy3UKyONYAsLNcMYlZh0VY7z1qA==;oLLCo6tWI2G+6Ctt859sPQ=="
 ---

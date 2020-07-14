@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T15:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/samsung-and-microsoft-transform-real-estate-and-smart-property-management-301091948.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung, Microsoft team up for IoT services in real estate"
+    excerpt: "Samsung and Microsoft said they would combine their various offerings to sell IoT services to the real estate development and property management industries."
+    publishedDateTime: 2020-07-14T15:01:00Z
+    webUrl: "https://www.lightreading.com/iot/samsung-microsoft-team-up-for-iot-services-in-real-estate-/d/d-id/762398"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "Samsung, Microsoft partner to transform real estate, smart property management"
     excerpt: "Samsung Electronics and Microsoft entered a global collaboration focused on digitally transforming the real estate development and property management industries. This collaboration, combining smart appliances and digital cloud technologies,"
     publishedDateTime: 2020-07-14T07:58:00Z

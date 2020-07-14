@@ -8,8 +8,8 @@ ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-planetary-surv
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Phys.org
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI predicts Which Planetary Systems Will Survive And Which Won't"
+    excerpt: "Modeling the gravitational interaction between celestial bodies is hard work. Two objects is relatively easy, but add a third one in and things get so comp"
+    publishedDateTime: 2020-07-14T15:31:00Z
+    webUrl: "https://www.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/"
+    ampWebUrl: "https://amp.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 57
+    images:
+      - url: "https://cdn.iflscience.com/images/e35174dd-41d9-54d6-9b4b-343b19416a1b/default-1594740244-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "New AI Predicts Which Planets Are Going to Smash Into Each Other"
     excerpt: "A team of NASA astrophysicists has put the fate of entire star systems in the hands of an AI algorithm. The system — dubbed SPOCK — by NASA and Princeton University astrophysicist Daniel ..."
     publishedDateTime: 2020-07-14T00:21:00Z

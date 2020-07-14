@@ -52,7 +52,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 52
+    quality: 84
   - title: "Flippy the kitchen robot is going to White Castle"
     excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
     publishedDateTime: 2020-07-14T08:15:00Z
