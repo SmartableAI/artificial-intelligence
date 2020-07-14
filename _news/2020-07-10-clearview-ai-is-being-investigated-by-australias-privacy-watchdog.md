@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigate
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/clearview-ai-is-being-investigated-by-australias-privacy-watchdog/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Clearview AI faces more scrutiny from UK and Australian privacy commissioners"
-    excerpt: "The United Kingdom's Information Commisioner's Office (ICO) and the Office of the Australian Information Commissioner (OAIC) are investigating the matter but have not released much information regarding the probe's goals or what the two bodies wish to learn."
-    publishedDateTime: 2020-07-09T18:04:00Z
-    webUrl: "https://www.techspot.com/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85941-clearview-ai-faces-more-scrutiny-uk-australian-privacy.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 84
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-09-image-18.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
 
 secured: "fVY8T/rieJbgzQgQuf2Y3HG1UguwmJjqSV7mXYO6sO1Fp+NjTXgpGFcx61xQl+DeSpicB4KKOFhXQ2wPAiK7w6aydP/ToRYhQn51KRAOnn2NCIWR1fXsAsTd5h7BB3Gj1c3hV2o2M5bNh9wXGk12PNf/6DdOyH2mCoPccE5BZv07l8QafhuzMS8Rlf/hiO8FSxBVmiJv2yS1c1NMrwgPqVIlB9otgAPn0/gtLUgAtI3q/SGQcg66TgsDkwEC7UYr++3e7fjd5QjJq0Pwd5H5ZS/W37yuiaQos4DlWT+FsdOgJu/12S37wR/v6K3AmRyV/CKBdw+L2KBGfav4384QkEhxsubkAAaUf5zuewgRE3PcV4ycVMq2AZV0UoE2/cE3JO3fq8yXnzkvMoI2E0TJLZVGEo9RecQ1ZJ9Qsh2qdnKyvJE+8BUXqO7D2aYYhIJ1Ikz5+WAtWrsDbHrFnOgXMUOxdacuyv62465WUh6RHCFSLgG3ZFO8129weN8b3MwH4oraIcTkXm/z4bakm4m4qg==;m48wSbIFYPSrpMSQ3GolMg=="
 ---

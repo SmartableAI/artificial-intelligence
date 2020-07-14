@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ..."
-    publishedDateTime: 2020-07-09T18:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
     excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-09T23:40:00Z
@@ -50,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
+    excerpt: "The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-09T22:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
-    publishedDateTime: 2020-07-14T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis"
     excerpt: "The Automotive Artificial Intelligence Market is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR of 37.5% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-09T22:55:00Z
@@ -92,34 +78,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Impact Review: What to Expect AI in Hardware Industry in 2020? | Know the Challenges and Trend Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content."
-    publishedDateTime: 2020-07-13T10:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-what-to-expect-ai-in-hardware-industry-in-2020-know-the-challenges-and-trend-analysis-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market 2020 | Covid-19 Impact | Industry overview, supply and demand analysis and forecast 2027"
-    excerpt: "USD 253.8 Million in 2019, Market Growth - CAGR of 31.9%, Market Trends- Major key players are investing into research and development to revive their patented products and produce new products. The Global Artificial Intelligence in Drug Discovery Market Research Report published by Reports and Data provides key information to readers engaged in the industry."
-    publishedDateTime: 2020-07-10T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-2020-covid-19-impact-industry-overview-supply-and-demand-analysis-and-forecast-2027-2020-07-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -138,6 +96,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "COVID-19 Impact & Recovery Analysis - Artificial Intelligence Platforms Market 2020-2024 | Rise in Demand for AI-based Solutions to Boost Growth | Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence Platforms Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the artificial intelligence platforms market and it is poised to grow by USD 12."
+    publishedDateTime: 2020-07-09T23:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200709005622/en/COVID-19-Impact-Recovery-Analysis---Artificial-Intelligence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
+    images:
+      - url: "https://mms.businesswire.com/media/20200709005622/en/804328/23/IRTNTR44235.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "W9j/fn8TtFp/aUxnkj6otmMo1vtH0xYJP1LdnK8iqWrNDj0W3qK7YO+JbUG/WTQsWYH0/GmKPOcwLZqYmPS1GqTYVZZ85T1IHKAGfcl5q/zjHSh6WjNUBEqIGBDCcKWTUnb73kvq/91zTA0qz60ikByzKTKmo8CicV00TIYGYwM4OptrJPbR4yTVwqxOB+yZCj5nJxWwWbsySugyHJyew0VZkklFPYnN6I6HwRU8G2beYPQyyg1cD7wsNfAUl3W8ASX1ajxaqEsWYLXEpAsp+3yRV1tyRnUH+WyGghaxWt+ZbBardtcZKbF5hsjiksCyzrhuJGzSImLNiIUCXuhmcw==;nQowt9/8QEPRQzxMr4tIIA=="

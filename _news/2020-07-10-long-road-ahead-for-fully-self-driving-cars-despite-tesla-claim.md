@@ -72,38 +72,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Elon Musk says Tesla ‘very close to self-driving cars"
-    excerpt: "Tesla is “very close” to bringing its self-driving car tech to the next level, chief executive Elon Musk said Thursday.  In remarks made via video message at the opening of Shanghai’s annual World Artificial Intelligence Conference,"
-    publishedDateTime: 2020-07-09T18:48:00Z
-    webUrl: "https://www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars"
-    ampWebUrl: "https://www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/elon-musk-says-tesla-very-close-to-self-driving-cars.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202007/1043/854081161001_6169604254001_6169605117001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Elons Musk Is ‘Extremely Confident’ Tesla Will Achieve Fully Autonomous Cars Soon"
-    excerpt: "The electric automaker’s founder and chief executive, Elon Musk, claims the company is extremely close to developing level 5 autonomous driving technology, which could one day be implemented into his vehicle lineup."
-    publishedDateTime: 2020-07-09T18:32:00Z
-    webUrl: "https://robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/"
-    ampWebUrl: "https://robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/elon-musk-tesla-close-level-5-autonomous-driving-technology-2934281/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 54
-    images:
-      - url: "https://robbreportedit.files.wordpress.com/2020/07/10664640e-1.jpg?w=1000"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
     excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
     publishedDateTime: 2020-07-10T12:55:00Z

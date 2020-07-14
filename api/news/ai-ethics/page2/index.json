@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key.md",
+      "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
+      "excerpt": "Artificial intelligence systems have become increasingly well-adapted to a host of basic board games. Now, DeepMind is hoping to teach agents the art of collaboration using Diplomacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
+      "publishedDateTime": "2020-06-22T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19.md",
       "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
       "excerpt": "In the rush to “help now,” we cannot throw responsible AI out the window. In fact, in the age of COVID-19 is more important than ever before to understand the unintended consequences and long term effects of the AI systems we create.",

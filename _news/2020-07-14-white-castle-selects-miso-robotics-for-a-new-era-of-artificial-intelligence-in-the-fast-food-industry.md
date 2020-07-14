@@ -40,6 +40,28 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Flippy the kitchen robot is going to White Castle"
+    excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
+    publishedDateTime: 2020-07-14T08:15:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+  - title: "White Castle to test grilling, frying robot in restaurants"
+    excerpt: "White Castle is about to get a new assistant in the kitchen – a robotic one. The fast-food chain will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy, an autonomous grilling and frying kitchen assistant,"
+    publishedDateTime: 2020-07-14T11:06:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
+    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "HSkmfhalQ6pSbW1fZmkfWCN3EQdjmahYrmFlLQ29pEsAE35ZFqy1YK57GxFdlSWpym5GBX63YGBHGLG4JhRKELro0ppbv66cX8GusyL/al6o24205dfVprL3wzYFOrsAZj0ho8ErinGS1ZuVgzXE9Uja4Fdojh/76Q/5EM0GRXAXY1ragrl3WwCfeRbL975/iHjgeGShXpRHQfMAbTD0cC4Hc6Z2BrJeTSyovRVTDoKGHu+0GRuAWv9B4zER55ZuROf7nqbu2u4J+Ee57wAHqMPElLuQJ8oicxGvY+8YMoY5r7HZUfxNqhQMkq98WL4n4WRyw2UYPn2YL8cZ7DJZGA==;yaDzG6u8BSeH7iEDMk/Ivg=="
 ---

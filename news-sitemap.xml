@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techrepublic.com/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/</loc>
+    <lastmod>2020-07-14T04:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/</loc>
+    <lastmod>2020-07-14T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under</loc>
     <lastmod>2020-07-14T02:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -33,6 +45,12 @@
   <url>
     <loc>https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/</loc>
     <lastmod>2020-07-13T20:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7</loc>
+    <lastmod>2020-07-13T16:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -397,12 +415,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/</loc>
-    <lastmod>2020-07-09T23:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754</loc>
     <lastmod>2020-07-09T22:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -429,6 +441,12 @@
   <url>
     <loc>https://www.livemint.com/companies/news/-artificial-intelligence-will-aid-in-better-decision-making-capacity-11594342977989.html</loc>
     <lastmod>2020-07-09T18:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10</loc>
+    <lastmod>2020-07-09T16:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -799,6 +817,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08</loc>
+    <lastmod>2020-07-08T08:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.nytimes.com/2020/07/08/movies/ai-weiwei-yours-truly-review.html</loc>
     <lastmod>2020-07-08T08:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -867,6 +891,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360</loc>
     <lastmod>2020-07-08T05:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for-enterprises-882727658.html</loc>
+    <lastmod>2020-07-08T05:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -981,12 +1011,6 @@
   <url>
     <loc>https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/</loc>
     <lastmod>2020-07-07T11:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/</loc>
-    <lastmod>2020-07-07T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1117,6 +1141,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
+    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/</loc>
     <lastmod>2020-07-07T04:16:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1177,12 +1207,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
-    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1203,6 +1227,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699</loc>
     <lastmod>2020-07-06T09:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
+    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1831,6 +1861,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.eejournal.com/industry_news/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/</loc>
+    <lastmod>2020-07-01T06:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/</loc>
     <lastmod>2020-07-01T06:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1939,7 +1975,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/au/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
+    <loc>https://www.techradar.com/sg/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

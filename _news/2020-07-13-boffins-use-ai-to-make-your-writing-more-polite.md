@@ -23,22 +23,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI wants to make your writing more polite"
-    excerpt: "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much."
-    publishedDateTime: 2020-07-09T18:38:00Z
-    webUrl: "https://www.cnet.com/news/ai-wants-to-make-your-writing-more-polite/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Boffins us AI to make your writing more polite"
     excerpt: "Apparently emails are too rude Boffins at Carnegie Mellon University have devised a technique that's designed to automatically make written communication more polite. Rather than merely scanning text for politeness,"
     publishedDateTime: 2020-07-13T09:12:00Z

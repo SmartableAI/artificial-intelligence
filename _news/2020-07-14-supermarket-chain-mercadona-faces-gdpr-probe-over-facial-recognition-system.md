@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-r
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
 type: article
 quality: 102
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
-    excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
-    publishedDateTime: 2020-07-09T17:46:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21145485/britain-australia-to-probe-clearview-ais-facial-recognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_facial_recognition.5f07507885e93.png?auto=format&fit=max&w=1200"
-        width: 900
-        height: 601
-        isCached: true
   - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
     excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
     publishedDateTime: 2020-07-11T11:00:00Z
@@ -195,6 +181,6 @@ related:
       domain: avpress.com
     quality: 19
 
-secured: "z1sMwQhlH+zrs1OOCAbguIlqhWAFPrKHwyGm6XsI5ifcuS7mJ2EYCLfVEXL3wh+0gYjlniEcQT34LV6OF90ODqcPtbhA4niG1oQSTAE0ll2NMvip639aYGvZdcMvDlsnjpYnyqwfpmQ+PN4uKBdqeRO7wwhZUHegym6ajPlbKL6Hmx97jQkjCZwDVNgxqXiO609zOVE8XheCGmdby6SFybtXlaM/mJJCDGci0EMxvS66RDitB1R13fnogwYMbOj9u3A9L0ZPJGlYYb5v2r7X6BYZAvPt7TqVStUeUk1qBRLGPXkkBrUPkJuL5IfFwFPUuAsfTpztCmM7xMV3cmuVug==;qm8gDr2gsULtglSQRV2ksA=="
+secured: "bynP4Yb5Lvi+BYi8Ny/K+O9kTZl+x+C82Y3h/2LnflcGd/Yp5idQFRo4/cjhqAqrhnccN9DfJR8/tmLr/dtZSQXYF04yvO4sznJcmS4q5j8z+5yR8m6aUrf/SZnvwq3gcmfdOvpOn1Rnpw696ScE5vvvclrDjGmbpzQ+EvGjUbVyQfMOBFC/kUm3syw9NuLc7jhCjXJLEcFKglkgDEP8QAdH1mVUxs9MJC9GwTCFUdlQmhDmLsko0kcU3PIgiulqV9p4MAY5z8BTe+1p0dLoJvXCd4KtabHdgmEDQRYYGSdTBvNheoWFSg3Riw4d4HMNzkurqkK5LLTu9NIuHVWOOgUisZXtK5c/UZIHO7X/C2+BKfWvzukttRRnu254JKxqUV2WBe1HqzjEM2pKK5v9fDAX4uKctqToc8rabOiVDvGfNqHkPqgnMnLhsn1vl+99wiYXVy/mn3siiQ+Utqo3N+4F8nxL2NP9ZXvnxRNaEZlPYjws2CqA30KA1HGU0tPl/pFW9a3jgU18+MVxkrAjnQ==;foRzd8TP0tATBbfnCKkMWg=="
 ---
 

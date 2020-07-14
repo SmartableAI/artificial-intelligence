@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-14-5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it.md",
+      "title": "5 reasons AI isn't being adopted at your organization (and how to fix it)",
+      "excerpt": "In both the public and private sectors, these are the barriers to meaningful adoption of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/30/81ed5293-9a77-4ace-8a37-5ee3bb6e7441/ai-ml-3.jpg",
+          "width": 800,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
+      "publishedDateTime": "2020-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-booyaaa-australian-federal-police-use-of-clearview-ai-detailed.md",
       "title": "'Booyaaa': Australian Federal Police use of Clearview AI detailed",
       "excerpt": "One staff member used the application on her personal phone, while another touted the success of the Clearview AI tool for matching a mug shot.",
@@ -154,33 +204,33 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-reducing-bias-in-ai-based-financial-services.md",
-      "title": "Reducing bias in AI-based financial services",
-      "excerpt": "AI’s ability to avoid the traditional credit reporting and scoring system that helps perpetuate existing bias makes it a rare, if not unique, opportunity to alter the status quo. However, AI can easily go in the other direction to exacerbate existing bias,",
+      "path": "_news/2020-07-07-dont-ask-if-artificial-intelligence-is-good-or-fair-ask-how-it-shifts-power.md",
+      "title": "Don’t ask if artificial intelligence is good or fair, ask how it shifts power",
+      "excerpt": "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired.",
       "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/",
+      "webUrl": "https://www.nature.com/articles/d41586-020-02003-2",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg",
-          "width": 4550,
-          "height": 2859,
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-02003-2/d41586-020-02003-2_18169050.jpg",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
-      "publishedDateTime": "2020-07-09T23:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T04:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
+        "name": "Nature",
+        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -190,9 +240,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance",
         "Facebook AI",
+        "AI",
         "AI Ethics"
       ]
     },
@@ -1396,57 +1445,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key.md",
-      "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
-      "excerpt": "Artificial intelligence systems have become increasingly well-adapted to a host of basic board games. Now, DeepMind is hoping to teach agents the art of collaboration using Diplomacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "DeepMind sets AI loose on Diplomacy board game, and collaboration is key",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deepmind-sets-ai-loose-on-diplomacy-board-game-and-collaboration-is-key/",
-      "publishedDateTime": "2020-06-22T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Google AI"
       ]
     }
   ],

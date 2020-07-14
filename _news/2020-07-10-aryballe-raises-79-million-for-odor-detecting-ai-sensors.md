@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-o
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pricefx raises $65 million to optimize product and service pricing with AI"
+    excerpt: "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital."
+    publishedDateTime: 2020-07-14T11:33:00Z
+    webUrl: "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Start-up that detects fake news raises £2.5m to prepare for US elections"
     excerpt: "Logically, a West Yorkshire-based a tech start-up using AI to detect misinformation and to provide a fact-checking service, has raised £2.5m to further develop its product in time for the US election. The company has secured funding from NPIF – Mercia ..."
     publishedDateTime: 2020-07-13T10:10:00Z

@@ -130,20 +130,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
-    excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
-    publishedDateTime: 2020-07-09T17:46:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21145485/britain-australia-to-probe-clearview-ais-facial-recognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_facial_recognition.5f07507885e93.png?auto=format&fit=max&w=1200"
-        width: 900
-        height: 601
-        isCached: true
   - title: "MSP Uses Facial Recognition to Identify Man in Bar Fight"
     excerpt: "In a recent arrest of a Mesick man, the Michigan State Police were able to use facial recognition to identify him. On Saturday, MSP were called to a fight at a bar in Crawford County. When they arrived,"
     publishedDateTime: 2020-07-09T22:16:00Z

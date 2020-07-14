@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Musk (again) says Tesla is close to fully self-driving vehicles"
-    excerpt: "The chief executive officer has long offered exuberant takes on the capabilities of Tesla cars, even going so far as to start charging customers thousands of dollars for a “Full Self Driving” feature in 2016. Years later, Tesla still requires users of ..."
-    publishedDateTime: 2020-07-09T18:20:00Z
-    webUrl: "https://www.aljazeera.com/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
-    ampWebUrl: "https://www.aljazeera.com/amp/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/ajimpact/musk-tesla-close-fully-driving-vehicles-200709160905081.html"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 74
-    images:
-      - url: "https://www.aljazeera.com/mritems/imagecache/mbdxlarge/mritems/Images/2020/7/9/b7e3be2604a94b2aaf232b1d6ce06683_18.jpg"
-        width: 583
-        height: 325
-        isCached: true
   - title: "Pony.ai to test self-driving cars in Shanghai"
     excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
     publishedDateTime: 2020-07-11T09:00:00Z
@@ -89,6 +73,20 @@ related:
       - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
         width: 640
         height: 426
+        isCached: true
+  - title: "Self-driving startup develops car without wheels"
+    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
+    publishedDateTime: 2020-07-14T10:50:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Startup WeRide starts driverless testing"
     excerpt: "WeRide, a Chinese autonomous vehicle startup, said on Friday it has become the first autonomous company to start fully driverless vehicle testing in China, as the world's biggest auto market accelerates development of autonomous technologies."

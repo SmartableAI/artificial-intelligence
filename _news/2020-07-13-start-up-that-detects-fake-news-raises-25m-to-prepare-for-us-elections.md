@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Pricefx raises $65 million to optimize product and service pricing with AI"
+    excerpt: "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital."
+    publishedDateTime: 2020-07-14T11:33:00Z
+    webUrl: "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "CQ+g3vJsEAaml4EfGC5HQYAOcw8TEx04vDYJkrZjITgM3GhBIcGRyq6DU/PJsqVCIonUJLCc+bHdjNg0eC/FOzYUi4LmiEKwI9E50pkdNHPohCCFvot7Ys7m5PpAV6G6F4ErPXiCfkbGe+39rE6jHq6ygymIbTQUjIzTnJFn4L2UTuwA56bImu8yeu9XNIg1+sQYbrIcvX7OnszIWXtGYzHhGKsX9xVqy0T7eOIIR0ebKypdzfUetFWharRQHVFjCmC2pnt3mU9w/0Ty9Mb3UtdFlvtruUw9j7w1Z0w+twjX8hJ78zMLFG8QKbQJMYQhjiC586Yv+ysKK63ND9GQKg==;z8UAXJFTIAgNDMMwt3ueLw=="
 ---

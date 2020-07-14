@@ -205,34 +205,43 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-reducing-bias-in-ai-based-financial-services.md",
-      "title": "Reducing bias in AI-based financial services",
-      "excerpt": "AI’s ability to avoid the traditional credit reporting and scoring system that helps perpetuate existing bias makes it a rare, if not unique, opportunity to alter the status quo. However, AI can easily go in the other direction to exacerbate existing bias,",
+      "path": "_news/2020-07-09-deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis.md",
+      "title": "Deep Learning Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
       "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://www.brookings.edu/wp-content/uploads/2018/06/RTX2AE8X.jpg",
-          "width": 4550,
-          "height": 2859,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/reducing-bias-in-ai-based-financial-services/amp/",
-      "publishedDateTime": "2020-07-09T23:04:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T16:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -241,10 +250,9 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI",
-        "AI in Finance",
-        "Facebook AI",
-        "AI Ethics"
+        "AI in Finance"
       ]
     },
     {

@@ -128,20 +128,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Britain, Australia to probe Clearview AI's facial recognition tech"
-    excerpt: "Britain and Australia announced a joint investigation of US-based Clearview AI's online harvesting of personal data for facial recognition technology on Thursday, amid privacy concerns from human rights groups."
-    publishedDateTime: 2020-07-09T17:46:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21145485/britain-australia-to-probe-clearview-ais-facial-recognition-tech"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_facial_recognition.5f07507885e93.png?auto=format&fit=max&w=1200"
-        width: 900
-        height: 601
-        isCached: true
   - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
     excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
     publishedDateTime: 2020-07-11T11:00:00Z

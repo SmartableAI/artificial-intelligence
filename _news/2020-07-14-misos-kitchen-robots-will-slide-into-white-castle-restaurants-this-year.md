@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 118
 published: true
 
 provider:
@@ -41,7 +41,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "Flippy the kitchen robot is going to White Castle"
+    excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
+    publishedDateTime: 2020-07-14T08:15:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
+    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
+  - title: "White Castle to test grilling, frying robot in restaurants"
+    excerpt: "White Castle is about to get a new assistant in the kitchen – a robotic one. The fast-food chain will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy, an autonomous grilling and frying kitchen assistant,"
+    publishedDateTime: 2020-07-14T11:06:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
+    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
-secured: "9KSr3E7GE0jTRpOn9UDT8Iu1unpIBIhzTrtijAL8QODdUMKt7l2yGfTlseMT0KzfSE3XnMGST5rojZrKWXt7SUdA7T/iBVZUNuI+Mek6hNwTaBdkjP2eNwXd9yXR9JWENli25M0MnSVZjvdimQLd7XhUJCpv01jspahSyjdqNhNNtAfI3S2oEK++FD9v6qQISD4qGyYSPQ6BWF6aDuD7ib9sZ8Tmfr5yErJsbXuP3KZ2EiIk0UUYTvUhT+8TPc2Pl6tkzxD7CUC12RcnphmM49hbbK1aqsyPHiWlcDHE6qmkxUQq4UR+qS+HHmTMT2zf7xfCToUeSO2v7+kNQMdQHw==;1Dal3EQdPAYqMe5SHBggpQ=="
+secured: "g9jtcOx+iDjIFDSekilJsp8bPDZKlLrW5z63bzUE2itKyYkt7p9fQljxFcCwjjDkH9KbrnGVhwJR4zVUGo+y50FyKjzla71N05ofSzZ36/P9hCxuXa885Oy96vvnOvqpt+3pGqM5EXIyHK6sxxu5RN8SYSdRNuyDahIKEzIOPq+IeEdlXVVs8jkoS2/fbwhCWUsHxaP3QbebiPRGwTC2IKxR8P63n8evNoa/JXY4w1rAVl4cPq4v4rIJm3yjUmrWHzZrABMidvkxOTx+ife4Ujarz4y4TZLME8aeCBcg8TdkicWHtwQEVi53WT4r4Xp+Z7AV/c/FzdwcBjEmg/UEanIGDurLqbUMqhUVP5tB8CGXh0FdcpfpJJjty3kbTLOU9W6m7oE5Il3W0v+4ojKAzy9RXMv6aXP2MnATKkvuoYAFJQ/7aVba1/DHGkyrOAzQjbkZd70yPZr3tkGrxLAPlim44RuoCelDv9IFbvykvCU+7Z/mMKZG+yaDdwW49Z9lHV4DZ4GwQ+2L0/mchBdWUw==;sIx8sn1wxUdHznFUkockLg=="
 ---
 
