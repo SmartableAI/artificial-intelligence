@@ -1,9 +1,9 @@
 ---
 category: news
 title: "China companies shift focus to commercializing AVs in effort to catch up to U.S."
-excerpt: "Through the throes of the coronavirus crisis, Chinese companies developing autonomous-driving technology have accelerated the pace and scope of their deployments. Investors have rewarded those efforts,"
-publishedDateTime: 2020-07-13T04:00:00Z
-webUrl: "https://www.autonews.com/china/china-companies-shift-focus-commercializing-avs-effort-catch-us"
+excerpt: "Baidu: After launching robotaxi service in ... jointly developed with Chinese carmaker FAW Group specifically for self-driving purposes. Pony.ai: The company's pilot project in Guangzhou's Nansha ..."
+publishedDateTime: 2020-07-13T10:44:00Z
+webUrl: "https://europe.autonews.com/automakers/china-companies-shift-focus-commercializing-avs-effort-catch-us"
 type: article
 quality: 19
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/54AUTOX-MAIN_i.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/54AUTOX-MAIN_i.jpg"
     width: 800
     height: 600
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/oZEwMgSM9K7LPe6gxCVWKnpC3XkzlwdOyLKOYHBWsj+shfFOj4S+tcHE3p6mA4BjfOM1toBjYicuWs/UBvMMDzgRdVt1cSDglsCLtFepE3APtdBEccrP+CDeohDRZUnRWYe6AW3pgqFNg67grj8EBwKODa4QqLkFyh4dyjKJ6N3m92bps7/anqzAXMUUw5kzeCSIZU1cOrgkTN+pl9Jr6xpHUNb/87jq6aaDv/Y8PhFSeHqCPpUAtM1HHshDm2zHS96QTNO1YgsIkTLR5DMk+m3ezGPlN2aTccOcTI+uDCerLQKv6KhJn2DkqAIc6pzi9amPksqiFsNrwKzrfgz4g==;CpJhQMcEWXqhMANBdhIxIw=="
+secured: "+E4pA5ttxM3kIvd2UXhuAuZFKirTyVIUn+vhTLY+xpy4spEsqc3MKmei4WBpJFxHR+MS+lihfdLOhukYPK1HauKzX8l73Aw9hCDZUUFPZkmfygL628yaRc+vsMVNkluLpwmh9kCMnZ/wxxNwzg0Zvn6lRLAMswd0kdPOl1Gzu0Jk7dRGUKMAGf/SKeYqXhaMzDfuJFqfoP847MtvLtmsYMYV0CNRgjkljiG4B1Lkp5z5llaMG9v1EHGPqwwX3OEZl7lJV6bmFsStxgszxTyTFIVYei1bFK7OHMUHyJLdXB5fSqc63sT72BOksXky/vi2vuHkEiAApc5Kx4PVEy5hiw==;ou488EoX61iQO5QD/gyQqA=="
 ---
 

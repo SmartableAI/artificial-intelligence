@@ -25,16 +25,16 @@ images:
 
 related:
   - title: "China companies shift focus to commercializing AVs in effort to catch up to U.S."
-    excerpt: "Through the throes of the coronavirus crisis, Chinese companies developing autonomous-driving technology have accelerated the pace and scope of their deployments. Investors have rewarded those efforts,"
-    publishedDateTime: 2020-07-13T04:00:00Z
-    webUrl: "https://www.autonews.com/china/china-companies-shift-focus-commercializing-avs-effort-catch-us"
+    excerpt: "Baidu: After launching robotaxi service in ... jointly developed with Chinese carmaker FAW Group specifically for self-driving purposes. Pony.ai: The company's pilot project in Guangzhou's Nansha ..."
+    publishedDateTime: 2020-07-13T10:44:00Z
+    webUrl: "https://europe.autonews.com/automakers/china-companies-shift-focus-commercializing-avs-effort-catch-us"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 19
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/54AUTOX-MAIN_i.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/54AUTOX-MAIN_i.jpg"
         width: 800
         height: 600
         isCached: true

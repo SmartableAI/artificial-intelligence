@@ -125,6 +125,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
+    excerpt: "Office says it will complete a related investigation focusing on RCMP use of Clearview AI’s facial-recognition technology"
+    publishedDateTime: 2020-07-14T16:08:00Z
+    webUrl: "https://www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/"
+    ampWebUrl: "https://www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/amp/"
+    cdnAmpWebUrl: "https://www-vicnews-com.cdn.ampproject.org/c/s/www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/amp/"
+    type: article
+    provider:
+      name: Victoria News
+      domain: vicnews.com
+    quality: 55
+    images:
+      - url: "https://4rfnv3jdfte8qj2229aqgj4h-wpengine.netdna-ssl.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
     excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
     publishedDateTime: 2020-07-11T11:00:00Z
@@ -136,17 +152,6 @@ related:
       name: heraldsun.com.au
       domain: heraldsun.com.au
     quality: 49
-  - title: "UK, Australia investigate Clearview facial recognition firm"
-    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
-    publishedDateTime: 2020-07-10T00:03:00Z
-    webUrl: "https://www.sfchronicle.com/news/article/UK-Australia-investigate-Clearview-facial-15396715.php"
-    ampWebUrl: "https://www.sfchronicle.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/news/amp/UK-Australia-investigate-Clearview-facial-15396715.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 39
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

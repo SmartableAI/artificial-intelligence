@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-auton
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-imsev208-063.jpg?w=1024"
         width: 1024
         height: 683
-        isCached: true
-  - title: "AWS Announces General Availability of AWS IoT SiteWise"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS IoT SiteWise"
-    publishedDateTime: 2020-07-09T23:46:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200709005928/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200709005928/en/804472/23/AWS_logo_new.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "AWS Announces General Availability of AWS IoT SiteWise; Dirk Didascalou, Dr. Roy Sauer Quoted"
     excerpt: "Amazon Web Services (AWS) has announced the general availability of AWS IoT SiteWise, a managed service that collects data from the plant floor, structures and labels the data and generates real-time key performance indicators (KPIs) to help industrial customers make data-driven decisions,"

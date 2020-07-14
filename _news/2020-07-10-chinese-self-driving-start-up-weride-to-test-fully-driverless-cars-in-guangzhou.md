@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3092618/chinese-self-dri
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092618/chinese-self-driving-start-weride-test-fully-driverless-cars"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
         width: 768
         height: 483
+        isCached: true
+  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
+    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
+    publishedDateTime: 2020-07-10T02:23:00Z
+    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
+        width: 1024
+        height: 681
         isCached: true
   - title: "This self-driving startup built a “car without wheels” for remote driving"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"

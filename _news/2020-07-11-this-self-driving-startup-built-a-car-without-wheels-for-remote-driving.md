@@ -60,6 +60,20 @@ related:
         width: 768
         height: 483
         isCached: true
+  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
+    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
+    publishedDateTime: 2020-07-10T02:23:00Z
+    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Nvidia delves into self-driving cars with the Drive PX2"
     excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
     publishedDateTime: 2020-07-14T02:41:00Z

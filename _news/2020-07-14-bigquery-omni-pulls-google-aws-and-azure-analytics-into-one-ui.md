@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/PRESS-BigQuery-Omni-architecture.png?w=680"
         width: 680
         height: 383
+        isCached: true
+  - title: "Google Cloud Extends BigQuery to AWS, Azure"
+    excerpt: "Google Cloud today announced BigQuery Omni, a new offering that allows BigQuery users to analyze data residing in Amazon Web Services and, soon, Microsoft"
+    publishedDateTime: 2020-07-14T17:32:00Z
+    webUrl: "https://www.datanami.com/2020/07/14/google-cloud-extends-bigquery-to-aws-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Google-BigQuery-Omni_1.png"
+        width: 577
+        height: 541
         isCached: true
 
 secured: "KDxfjAaNF3pqp7dtpMFogBAy5YK99lSo0f4IcbYs2r+s3nhY+aDsjIeazxMkLXgPQUg2K5iKo0bxsEX/3Q7xberc+NxOiYJjBdz7/qrUxxYCcdiZaJpqx90J8a/Lmauv8bk/8ow4RhbuNPfAbdtSBalwHATrSt++aaILvWtQM/HQqK1RUjRzj1jmMC7LTv2SK9atPr+kn8/0EiZnug1pADcvJDmDyQCjtQGg3EPtH6rNlX1qJEFK7ngRb6kwOlL/Vf1v7WNmR56dWJAG7lTLfbWQKarGvJu0De9qHfjoTZtp4hhy7pdW/5JOXKd+498yqex8v2VQSZIwHq1IgRrSVw==;/mkBcL9Z3vPUiw2joB5aeg=="

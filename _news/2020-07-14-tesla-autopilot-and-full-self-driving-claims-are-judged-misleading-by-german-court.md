@@ -8,8 +8,8 @@ ampWebUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-cla
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
 type: article
 quality: 97
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "German court rules that Tesla misled consumers on Autopilot and Full Self Driving"
+    excerpt: "Tesla misled consumers on the abilities of its automated driving systems, a Munich court ruled on Tuesday.  Tesla Germany is now banned from including \"full potential for autonomous driving\" and \"Autopilot inclusive\" in its advertising materials,"
+    publishedDateTime: 2020-07-14T16:46:00Z
+    webUrl: "https://www.cnbc.com/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 99
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "German court bans Tesla ads over self-driving claims"
     excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
     publishedDateTime: 2020-07-14T14:24:00Z
@@ -46,37 +62,39 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
-    excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
-    publishedDateTime: 2020-07-10T16:23:00Z
-    webUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
-    ampWebUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+  - title: "Elon Musk predicts Teslas will be fully autonomous this year — 4 years after the company started selling 'full self driving' software (TSLA)"
+    excerpt: "Elon Musk said Tesla's long-promised 'full self-driving' capabilities will actually come true this year. The CEO made the prediction in a"
+    publishedDateTime: 2020-07-10T02:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-fully-autonomous-2020-years-behind-schedule-elon-musk-predicts-2020-7-1029381248"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 72
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
     images:
-      - url: "https://images.axios.com/sW6P9gdaGfq3gB36U4WW5iV-RG4=/fit-in/1366x1366/2020/07/10/1594396804737.jpg"
-        width: 1366
-        height: 768
+      - url: "https://images.markets.businessinsider.com/image/5af3453424131e21008b47f9"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
-    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
-    publishedDateTime: 2020-07-10T02:23:00Z
-    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
+  - title: "German Court Bans Tesla Ads Making 'Misleading' Claims About Autopilot, Self-Driving"
+    excerpt: "Tesla will no longer be able use phrases such as “full potential for autonomous driving” and “Autopilot inclusive” in future ads in Germany, a Munich court ruled Monday."
+    publishedDateTime: 2020-07-14T16:48:00Z
+    webUrl: "https://www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154"
+    ampWebUrl: "https://www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 54
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/14/tesla-cant-use-its-autopilot-claim-in-germany.jpg"
         width: 1024
-        height: 681
+        height: 682
         isCached: true
 
-secured: "RWoS8ByU3rdtQhLrgdz3pLqhbQ38DzEiO1+Hdu47SLxn6EEXX2jDdQZ9dFqHdgCO9W/4v21FrClsB/lb0ztoCDorvArMhX94gI/nPON/VBgxvvGqqZ+eIVli7rBmTMTsrTyLh9oqys7gVZHfX18l97YCpKW5WjHetCFLWlr82N9r6wnZ/OR00VViTjDbZZGFKPxF+YUzbgmmRKqGNz41UD+Ey5q0MRv9tB3Uwh0P+3NDIxdfpFhjQcAf4baIwX+iNBr2sS7Qbss4jBJCeN4CZJF/T9oqoLs8K1/PzUfI5joif/AJj694lvi9GWCRZJWon8DIbOCAeFuXv8fgmd9EMA==;pFSvUzxeVtITWiIqGWXqgA=="
+secured: "TPqP/e0a6hMKVeL91ySndt2sAtgQ3QZQob9ulpyYJFhh7M69e55ldyg8B4fLN/ge4pDwf1G2O1n0y64QgV/SL1lBCKOorssnS8K8Ftil+hOIzvUHLaQKmFHjO3lytkHbKlzvlDyC7KlaVQxvfsWkkom41AeI7u7hcWj2njdfxI1UED9b+R7xNH7AlAMOymQnaKq3D/6fT/3puBStgP+lVOvjwzJPXZrJf+8z+nBQrpIbLJ6BARIipY8oS594W5YwpRXWnXWQjuQn72GICGo2trlKeR6xWIHuxItBWD2b6ghFTglrYWXLrcwGXyac0En1zjGWzXZTbe2pPR/OHlw/4uqLu5ZFEJiSDvE+4yIxjfCqpyB96LsVoxugUWkGIIg6S9GkYCUrKImmoi0OMs+BAoXgCUDNqHidpTzqBquP/XJAkGZRfFu8M5QbCNAe3lfwi64T1HWsVAolYdJz8JHfZ1bfDzc4pgwHZiJ233aTL6kOyi57vlJ1zlp9rgWXJInaytGfPNiUf1XA8SCYJiPqVw==;iyjDiXGjcgAe/Dn5DM7G+A=="
 ---
 

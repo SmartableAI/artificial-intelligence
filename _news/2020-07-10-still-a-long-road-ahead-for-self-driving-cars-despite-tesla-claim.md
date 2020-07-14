@@ -8,7 +8,7 @@ ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a
 cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
+    excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
+    publishedDateTime: 2020-07-10T16:23:00Z
+    webUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    ampWebUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 72
+    images:
+      - url: "https://images.axios.com/sW6P9gdaGfq3gB36U4WW5iV-RG4=/fit-in/1366x1366/2020/07/10/1594396804737.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "AI for self-driving cars doesn’t account for crime"
     excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
     publishedDateTime: 2020-07-10T17:09:00Z

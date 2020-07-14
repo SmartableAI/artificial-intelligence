@@ -88,38 +88,6 @@ related:
         width: 950
         height: 629
         isCached: true
-  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
-    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
-    publishedDateTime: 2020-07-09T23:30:00Z
-    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/?mid=1"
-    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/?mid=1"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 54
-    images:
-      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
-        width: 960
-        height: 600
-        isCached: true
-  - title: "UK data watchdog opens joint probe of controversial tech startup Clearview AI"
-    excerpt: "The UK’s Information Commissioner’s Office today launched a joint investigation with the Australian data watchdog of Clearview AI, a facial recognition startup. The ICO said the probe will focus on the data handling practices of Clearview AI ..."
-    publishedDateTime: 2020-07-10T00:03:00Z
-    webUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/"
-    ampWebUrl: "https://www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/uk-data-watchdog-opens-joint-probe-of-controversial-tech-startup-clearview-ai/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 54
-    images:
-      - url: "https://www.cityam.com/assets/uploads/content/2018/10/dkrz-supercomputer-crunches-climate-data-693451974-5995b69d7f2a7-5bc494afb6f24.jpg"
-        width: 960
-        height: 600
-        isCached: true
   - title: "Boston City Departments Can No Longer Use Facial Recognition"
     excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
     publishedDateTime: 2020-07-10T08:04:00Z

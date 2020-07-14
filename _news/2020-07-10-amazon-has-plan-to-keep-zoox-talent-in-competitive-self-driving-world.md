@@ -34,20 +34,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Amazon plans at least US$100mil to keep self-driving car talent after US$1.3Bil deal"
-    excerpt: "Amazon.com Inc plans to create at least US$100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant."
-    publishedDateTime: 2020-07-09T23:14:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/07/10/amazon-plans-at-least-us100mil-to-keep-self-driving-car-talent-after-us13bil-deal"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 17
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/10/751500.JPG"
-        width: 620
-        height: 413
-        isCached: true
 
 secured: "MsM/lGblR05v4EINQ2vQmJF7nv1uxXx9eMidUw8WZSZo1wMuQVyJyD4LLGsh0IDVilksn8dwYhwmNWNvsG59xnXqJiAFb+brS6jKPgCkwYeNj8YSujZFf6EkWqrzm36bjyrC8pm/Y3fmQUFBvVmOcyssI78NLnP5HzKUqVBtM0rYJzJjKE1dVDmPLFOS/56cAE4H7IgXUK7C2HFbE2oRF7EgR3qEI9PMJ0SEG9enNwzUYyQaZHi11BtdT3Vl8SOCkQxDvpB9cGGB5UialxFt4Slt7d450bGUr/IergrhA0mgxYAgmXt7Lj3XItsMDfz5QIdv6uivUxcjuTRyrzzPjw==;FYkWbCxUHGU1e88cUB2RVA=="
 ---

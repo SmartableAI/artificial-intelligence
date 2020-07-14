@@ -62,6 +62,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Google Cloud Extends BigQuery to AWS, Azure"
+    excerpt: "Google Cloud today announced BigQuery Omni, a new offering that allows BigQuery users to analyze data residing in Amazon Web Services and, soon, Microsoft"
+    publishedDateTime: 2020-07-14T17:32:00Z
+    webUrl: "https://www.datanami.com/2020/07/14/google-cloud-extends-bigquery-to-aws-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/Google-BigQuery-Omni_1.png"
+        width: 577
+        height: 541
+        isCached: true
 
 secured: "pUZjMkcSWKvUuzt6zw9ccMD54XE0U61QaELpUpmHn6OfuWOjybtM4K9jGvwMlVVd1AFajRnkmNLcwa81qVZ4UghHpKJowqZSIMWXIx964u0J0jHYdr2N2T4tRSto4XX5v1aKIdWIUS4+Q+2XOJT8JB0YMWLOklfcrFmJnLpBSwaQpgtV9rletwAtpTfZvE+xPAht+kwJ5JO8uuJ7HGOrB5kKYF/DtO8VJ4gEUoPXW76xLURp1jyTU4ezUgddLJxgpjDAcreHOH1lkkk3HgY8m9rWGY3IHzG+/3dx0S0Os1XNiOgYV2ezGKwKOUacanriAsOZdwyD9mxLRjbb1vnh1oK/mZF+18zRevMn50KWpoGtFNblUVO3fs3qYCRaUIi7ysd/pbCsKELJScbB9qg9fRspUQSFYfxNCRsyKfJ92aiKrpVg96yPGyDr+uNCrGXJRJonmmDsELYTabjw3bmd9Yot/AsQUDpZUsxUPRFEuXi7U1CrAPMxXlwo6o2WqBkqUQcJgY/jljnhlYOy2d4ggw==;tviQ2Jw0Zd+eyRRGycZtZQ=="
 ---

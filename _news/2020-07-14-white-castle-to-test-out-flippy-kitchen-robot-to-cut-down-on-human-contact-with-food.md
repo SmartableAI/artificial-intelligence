@@ -53,6 +53,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "White Castle hires 'Flippy' the robot"
+    excerpt: "Continue Reading Below The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy, have already been testing the robot's ability to cook White Castle's fried foods at one location. If the pilot is successful ..."
+    publishedDateTime: 2020-07-14T16:31:00Z
+    webUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot"
+    ampWebUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Flippy the kitchen robot is going to White Castle"
     excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
     publishedDateTime: 2020-07-14T08:15:00Z

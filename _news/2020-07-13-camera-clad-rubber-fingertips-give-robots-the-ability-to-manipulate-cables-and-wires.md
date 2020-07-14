@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
-excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-publishedDateTime: 2020-07-13T13:30:00Z
-webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=8&itm_content=2x4&itm_term=2356592"
+excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), robots could soon be up to the task. By embedding sensors ..."
+publishedDateTime: 2020-07-13T13:47:00Z
+webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 type: article
@@ -52,6 +52,6 @@ related:
         height: 426
         isCached: true
 
-secured: "WWCwzW3xjhIV3DYkN839TVqgMTouv6ZQmD4P/19BFFRyioKYqZU+UyX1dxCrmdNr/qyKemiZ5jBJ+VnFH5DRXK2vjXeuvBumtttqYKzhaDSwAY/EVy2v1RrOnMel5a6RleSdq3MVmGKyHGSiGRWgP2tZZtH2FKwFDI8vLtDhNAk0zT5MXmdzNck3U1nB8hYm8mAAtiBs5z8Bvp0CUffZXFJUtONlRwPxcwtMdJ5hBoqqju438jnl27VsBRG96SGZ1eI4DfJ0OctnlFim3JrHHG5z9Kh2BPNYuiSdfpXfWUxb+Yds6wdghrXGJoI+nHgAJcdbtDpwxmgk2/DnDzcPkrQ+M4Wx3AvkFnU6LaaI439ZfXCKMbhw1ECCG0SR7xa1PoeJqJqnlRo3iKC0jM39VmjqGRPcJCFo8KhzyL3o9umhpLWKrd8eoHEgEh3p3P8geoqYh503B05BxM6VHeB/leyWCpxboIGjnTilg6q3ZE/ptdNJD6ZRV26Za2/r11CEM2a0M+ing9hP7EOuZdv1gw==;9kIuFdxjEX+QEKQSd1lH2w=="
+secured: "tQEthOsTV+/keMjKm4rAG2kXe8Mm50QebjGthFOquRgSTqn8d8xVetEb6AoIKkuqavTeRwV4CJLBjIKhLJy7vlaEjgOE8qmLJMOlWPsNtEVUPIYDopXhfgVVlsUEz9hkiuUFIonA4SiZGYElwAybiyt0PpjxdeaIFFoD35Mc6IpgWR3fLpguPAm+tW90Jwr7n9ibBWaWovdBMPrOJnAO1QE0sUnnmNV9Fk+sjNwisLeQAOFxI15CmD46JRMtJHY7zzOybfxJ7V/PV9u9Swu6+5A7UBNpQSvEgLZLoeRw0LkViB8nW1V8Ek0rqnQ1pOEek6t1D5qDWfJPa1EATdhw6SDxoBKobfHAejBw3rfHy0BoAJEJKi7XIVQqjMD9l2JZ7TyMRgdzSXZeorGa1pOswqqfn83UY/1QkglwIJE2TrXHBs6qF9F4gXQtAHLaStJXDqD2XQDV3ZZP51/41/m4oDMw7V7h5R2XxcRp9bsAdy8cuu+ZuEQD/5ceLLuNxyRghkWk1Nvc3r9M0ZhjMUtfxw==;UEVXfE+XqFUZb1K4VPaRBw=="
 ---
 

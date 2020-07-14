@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Elon Musk claims Tesla is on the cusp of developing fully self-driving cars"
+    excerpt: "Tesla just raised the price of its \"full self-driving package\" to $8,000, even though the feature is not yet activated on its cars. That means customers are paying for the hardware, while the software is still in development."
+    publishedDateTime: 2020-07-10T16:23:00Z
+    webUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    ampWebUrl: "https://www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tesla-musk-fully-self-driving-cars-f75a9d38-fe21-4df2-8e0b-a17fdb1003e7.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 72
+    images:
+      - url: "https://images.axios.com/sW6P9gdaGfq3gB36U4WW5iV-RG4=/fit-in/1366x1366/2020/07/10/1594396804737.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "Shanghai designates downtown open road for self-driving vehicles testing"
     excerpt: "This is the first open road for self-driving vehicle testing in downtown area of a megacity in China. Shanghai had previously designated several open test roads in Jiading, Lingang and Fengxian areas in the suburbs."
     publishedDateTime: 2020-07-11T23:26:00Z

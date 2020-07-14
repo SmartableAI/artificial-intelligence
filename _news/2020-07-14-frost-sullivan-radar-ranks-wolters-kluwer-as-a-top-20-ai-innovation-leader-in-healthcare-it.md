@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Integrated Behavioral Health (IBH) Uses AI and Clinical Data Analytics to Shape the Future of Behavioral Healthcare in Partnership with Lyssn"
+    excerpt: "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services,"
+    publishedDateTime: 2020-07-14T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn-301092304.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1213206/Integrated_Behavioral_Health.jpg?p=facebook"
+        width: 1114
+        height: 583
+        isCached: true
+
 secured: "AlSnCYn5JXC1mt3nN6QNI40yZx8dhIjmJvIEu24N80ObOIN4WwiAtl/IDiBcRNpnnCWarJdOdNkZoWhsRf60sffvZkC2lbrN/Vl4HCcRQh//gHlTAqR/xRyCiNswM/Wmz880ceKijptUm1c/6T5G/mPIMV+IfKB8HB9QsOMZhiHHjjlz6BhCMGlcsQOiSWE4KNFfpiOtsHTRRUzykvgv/jCXWR1guShrJB13mnZC9Kk2HaSFysPaqQtjl82KhAmqU8Lb8UJIW1LwxU5Hsd/pJMI6X+U+yPRmDaQluXdYXWx7PdxCDWBsgXWVKUxRmRC5xkM3+7qJiZSD5nbPwY3dXg==;jLeZQ3KkTJWcGzYLbsXn/w=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN24A3C8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN24A3C8"
 type: article
 quality: 163
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon plans at least US$100mil to keep self-driving car talent after US$1.3Bil deal"
-    excerpt: "Amazon.com Inc plans to create at least US$100 million in stock awards to retain the 900-plus employees of Zoox, the self-driving car startup it offered to buy last month, and can walk away from the deal if large numbers of them turn down job offers from the technology giant."
-    publishedDateTime: 2020-07-09T23:14:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2020/07/10/amazon-plans-at-least-us100mil-to-keep-self-driving-car-talent-after-us13bil-deal"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 17
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/10/751500.JPG"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Amazon has plan to keep Zoox talent in competitive self-driving world"
     excerpt: "Aggressively expanding into self-driving technology, Amazon (NASDAQ:AMZN) announced a $1.3B deal on June 26 to acquire startup Zoox, which is set on designing a fully autonomous vehicle from scratch rather than retrofitting existing cars."
     publishedDateTime: 2020-07-10T08:29:00Z

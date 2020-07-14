@@ -50,20 +50,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AWS Announces General Availability of AWS IoT SiteWise"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS IoT SiteWise"
-    publishedDateTime: 2020-07-09T23:46:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200709005928/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20200709005928/en/804472/23/AWS_logo_new.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world's first autonomous AI service"
     excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world's first fully autonomous"
     publishedDateTime: 2020-07-14T13:53:00Z

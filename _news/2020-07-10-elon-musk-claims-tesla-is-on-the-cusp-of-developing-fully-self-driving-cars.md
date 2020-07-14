@@ -26,52 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Autopilot and Full Self-Driving claims are judged ‘misleading’ by German court"
-    excerpt: "Tesla lost a case in a German court today over how the company advertises its Autopilot and Full Self-Driving, which the court judged “misleading.” Last year, we reported on Wettbewerbszentrale, which describes itself as “the largest and most influential nationwide and cross-border self-regulatory institution for enforcing the right to unfair competition,"
-    publishedDateTime: 2020-07-14T14:30:00Z
-    webUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/"
-    ampWebUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
+  - title: "Still a long road ahead for self-driving cars, despite Tesla claim"
+    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
+    publishedDateTime: 2020-07-10T20:13:00Z
+    webUrl: "https://timeslive.co.za/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-automatic-driving-on-city-streets.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1235
-        isCached: true
-  - title: "German court bans Tesla ads over self-driving claims"
-    excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
-    publishedDateTime: 2020-07-14T14:24:00Z
-    webUrl: "https://www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/"
-    ampWebUrl: "https://www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/amp/"
-    type: article
-    provider:
-      name: City A.M.
-      domain: cityam.com
+      name: Times LIVE
+      domain: timeslive.co.za
     quality: 74
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/06/1208184787.jpg"
-        width: 1024
-        height: 681
+      - url: "https://lh3.googleusercontent.com/D9-513DHecAT80ZxEhZeQqBc0YqGyebFFJqJn5rjo5baNSFPyB7Wgc6-JL3L_gfDiOJsPhYOt2cgNE5c5z7I=s1000"
+        width: 1000
+        height: 667
         isCached: true
-  - title: "Long Road Ahead For Fully Self-driving Cars, Despite Tesla Claim"
-    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed, despite Tesla founder Elon Musk's claim to be able to produce one this year. Musk's suggestion that Tesla is nearing \"Level 5\" autonomy appeared to stun the sector,"
-    publishedDateTime: 2020-07-10T02:23:00Z
-    webUrl: "https://www.ibtimes.com/long-road-ahead-fully-self-driving-cars-despite-tesla-claim-3008736"
+  - title: "AI for self-driving cars doesn’t account for crime"
+    excerpt: "Because today’s simplistic ethical considerations in AI and autonomous vehicles don’t account for malicious intent, vigorous driving simulation testing is required."
+    publishedDateTime: 2020-07-10T17:09:00Z
+    webUrl: "https://gcn.com/articles/2020/07/10/ethical-autonomous-vehicles.aspx"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
+      name: GCN
+      domain: gcn.com
+    quality: 41
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/09/teslas-claim-it-is-nearing-a-system-with.jpg"
-        width: 1024
-        height: 681
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2018/May/automatedvehicle.png"
+        width: 760
+        height: 368
         isCached: true
+  - title: "Shanghai designates downtown open road for self-driving vehicles testing"
+    excerpt: "This is the first open road for self-driving vehicle testing in downtown area of a megacity in China. Shanghai had previously designated several open test roads in Jiading, Lingang and Fengxian areas in the suburbs."
+    publishedDateTime: 2020-07-11T23:26:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202007/12/WS5f0a4aa5a310834817258c9e.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 38
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202007/12/5f0a57dca3108348fcdca635.jpeg"
+        width: 719
+        height: 479
+        isCached: true
+  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
+    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
+    publishedDateTime: 2020-07-10T12:55:00Z
+    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
+    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 35
 
 secured: "fVBsw7iZ3351deeVKrL7QrlcpsOJmvsjAa9Y1omtCBxOR764oC4yJHGbXmmjiFR9S9PvuRhFTSnj0DdBz7j1SGkZczVmzqAkFEDUFpyzR/92x0IYTeBBM9tXAt77ltz0UtZjmE+r9Mqu+16S/8pxv8hNfmMGd733A42sr1Rhk7wV9wFUopvWkPq/3fFC6x40qpletXjYBzWWHx9ZTYfkUPD94oHEed3jhrrCoJ+C1UGG9+/XE5QZX20ESsIC0qspVU7z4aU9geWJasRPrI/MkQwaGxT71itC0KkN7VhKd2DzRLT6FZ4v/7Cfa+TyvUmilNCnLYOzMdamDwQKVW/gRg==;4zsU7ZMjhsMI/rDhAupR3A=="
 ---
