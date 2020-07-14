@@ -56,6 +56,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Clearview AI stops offering facial recognition technology in Canada"
+    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
+    publishedDateTime: 2020-07-14T12:42:00Z
+    webUrl: "https://in.mobile.reuters.com/article/amp/idINKBN24808H"
+    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKBN24808H"
+    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN24808H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
   - title: "Concern is growing over police use of facial recognition"
     excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
     publishedDateTime: 2020-07-11T16:54:00Z
@@ -69,22 +80,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "UK, Australia launch joint investigation of facial recognition firm"
-    excerpt: "Regulators in the United Kingdom and Australia announced a joint investigation Thursday of Clearview AI, a controversial facial recognition company that has scraped billions of photos from the internet."
-    publishedDateTime: 2020-07-09T19:06:00Z
-    webUrl: "https://thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm"
-    ampWebUrl: "https://thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/506605-uk-australia-launch-joint-investigation-of-facial-recognition-firm?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/sites/default/files/ca_facialrecognition_122019_getty.jpg"
-        width: 1440
-        height: 880
         isCached: true
   - title: "NEC’s new facial recognition system can spot workers with masks on"
     excerpt: "NEC is reportedly using the advanced facial recognition system in an experiment it started Monday that aims to reduce the amount of touching in its offices and stem the spread of the coronavirus."

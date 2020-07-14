@@ -26,6 +26,17 @@ images:
 
 related:
   - title: "AMP Robotics Named to Forbes AI 50"
+    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America's"
+    publishedDateTime: 2020-07-13T06:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/w16600240/amp-robotics-named-to-forbes-ai-50"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16600240"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16600240"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+  - title: "AMP Robotics Named to Forbes AI 50"
     excerpt: "Company recognized among rising stars of artificial intelligence for its AI-guided robots transforming the recycling industry"
     publishedDateTime: 2020-07-14T07:10:00Z
     webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-named-forbes-ai-50"
@@ -39,15 +50,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AMP Robotics Named to Forbes AI 50"
-    excerpt: "Forbes has named AMP Robotics Corp. a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America’s most"
-    publishedDateTime: 2020-07-13T03:46:00Z
-    webUrl: "https://wasteadvantagemag.com/amp-robotics-named-to-forbes-ai-50/"
-    type: article
-    provider:
-      name: Waste Advantage Magazine
-      domain: wasteadvantagemag.com
-    quality: 49
 
 secured: "urZ8D9l+PURa2OuJnTXamnv5rc9RqiHvdcIaplIDstRJEa9rm9hY5yhdOJ4iV17yGoMVj7ph1uGw+eNxxEG2mpivW0kucPhuJtoaStajskWcTADrzj6obVf4JkZgOVpjQGfwfF/8otqaBaRTFB8R3/W8s0QH/bVk4LiPMejJDMEly5jD9IBfZ4ALRQDqvMW3D74UKPP9Ph0Ao5VjYlec3TsvIBv1c9Yhm6eR4PJ6LA7nuZf/bF0LFznSVWVD5f9GK0YeHwlE3EngVVzfLucqMyN2Is3mOIBY/Tp1OzR384FkM8imtYKKLWcGquyaYaSwxJJnBYOyl4HWmnaI/L4G+GxVtQkhWXBB0/Ky52m/sZMKZo2Q9cQpEHtDkVfa6QePC18HAis6j64cZ9kYgE2C9SvxnWC3bJVttAa+XSf0HfEPDp3xYzOklxLShkwqtV7FX0+jqevKmc65wpzlNlQSmMr0hz+5oPJP+86P6rbLRqNj7HV8B6PjKQkys+7COuLStwUufPsHVyrRAvNCaM64Fw==;bYGH+q13nrYgLe/LPPoQjA=="
 ---

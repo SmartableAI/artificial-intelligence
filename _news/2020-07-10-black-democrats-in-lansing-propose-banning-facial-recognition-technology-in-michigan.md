@@ -97,22 +97,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Facial recognition technology is expanding rapidly across Australia. Are our laws keeping pace?"
-    excerpt: "There are questions being raised about the legality of scanning, storing and sharing facial images. The law currently doesn't prohibit even highly intrusive levels of surveillance by private entities."
-    publishedDateTime: 2020-07-09T20:00:00Z
-    webUrl: "https://theconversation.com/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-technology-is-expanding-rapidly-across-australia-are-our-laws-keeping-pace-141357"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 47
-    images:
-      - url: "https://images.theconversation.com/files/346509/original/file-20200709-34-1u8uyj3.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=241&fit=crop"
-        width: 320
-        height: 241
-        isCached: true
 
 secured: "Rax3SSUaEet4yE/KAt/Nmfz+7n/OIJ2IHw8fdNliJ8+QKgJwa4MkYnLTdsM4u+wYGJbBEDWl5n4P6pbUZmxFByFzPG4UMBuAj/VK+HQ+7TERtMrmvOEpb3MEy4xRVt1rl0NqvvedkBH18qwALaezim8tInRq+Q+lTYUJD33Taue8qJ0qzQerU8IOHGN8zdLNZetz5oY3PXmAh8dkKGEpI9h2uGVu4BkswiCR+1tGGM/LILJEuAKIj7EjBO/5vN7/EAAgDy7uquux6STKyh6HGbxFCU1sJsToIf5TbiAFbK/GHR3hg5Jrs1R1QuMe0w2zRhGbS87jqZdme2xPHqonCQ==;Q6HenfO8SOLdDHu3JZAp5A=="
 ---

@@ -1,17 +1,19 @@
 ---
 category: news
 title: "AMP Robotics Named to Forbes AI 50"
-excerpt: "Forbes has named AMP Robotics Corp. a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America’s most"
-publishedDateTime: 2020-07-13T03:46:00Z
-webUrl: "https://wasteadvantagemag.com/amp-robotics-named-to-forbes-ai-50/"
+excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America's"
+publishedDateTime: 2020-07-13T06:08:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/w16600240/amp-robotics-named-to-forbes-ai-50"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16600240"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16600240"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Waste Advantage Magazine
-  domain: wasteadvantagemag.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -47,6 +49,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "R9nK4xUKOXgXiQSTOUEgCIOa0wSFCW4Xl+eT03OelFAoM0bVr2L9THDYKlx0n1wgetWkvWOVZty8mEvdmFJ5wfYJ//RKwJz1VS2VzqasU6TtCas0zri+qOY74p0g9XbbNHaqZpVDxZkp2hgUiDNmw6hBfANtBZ5UCacXm0Mlw3/Q3xxkvVomxFODpj17hkBdsX7bqnECe6/iLZeNREIou5UZw6hZ3IhvqU8EnBcp9yr8ZefuDzHR2ZR/1x9niokvX3DMVkqrF0l85mJKc+3qgWy95TROx7GZtuQx2bT2W+UXIZNC/2Hr3885s+y8p3wUhfghxxyCeuux5xqj+vBnxrSiN9VNnLfqhKqhoeMSF7L45krF8w8xGQKjuTF57ikRMgx0izs+KlO6Q2KoizpsdNKVIH/OWQikzcPPi4qf/+ZktCssBUObRh2Tav2QdmjLwjW0juf9AjIYvfRseaY9Zuu1FSVg/Nk8s7L8dF8YKAPNdoctelNrGG5DYfq5zSXcBcxLaXUkxOO7kBoD3uhtpA==;U/UqNW/57vadm79AzJdepA=="
+secured: "CajYQu819SwkulGcDHK4pmW4/I86JBk2h+L/edKLP1kV8ZGRbUU2clxc8RmkWE+EJrl15E2ZpqXLPQXiDXot8f3j7D3iE/I85FXOwGFMOdQOxYld90+Y4HvVAxkAUA1AZXRVilSdSVDgvlsuZiKqiEbwNW75jmFs7U+BTAmoDiKceYvsDe1PIBPyfiGM+zNlrL9rrHLDm1aYBoZEjmKhohfP8GTb1FNxJSHK5LuSzpjmg84+Q12l4N43IMAzYb346ZA4NQprX6spYK1876ouHQLfmvZ6eGvY1Oc35gDxiE3yruvUROzGM2Q2W9C/Kaa0bLQz0G5goi3+nCLY/0o/eg==;FBEYrwYl/yx3SxpO7vpBtg=="
 ---
 

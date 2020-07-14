@@ -1,31 +1,28 @@
 ---
 category: news
 title: "Getting Started With AI Software"
-excerpt: "And now, with pre-trained AI models, application frameworks, and tools like NVIDIA Transfer Learning Toolkit and NVIDIA TensorRT™, your team can transform volumes of data into competitive insights."
-publishedDateTime: 2020-07-14T11:56:00Z
-webUrl: "https://www.infoworld.com/resources/205772/getting-started-with-ai-software"
+excerpt: "NVIDIA® GPU-powered laptops, workstations, and servers solve the compute requirements.. And now, with pre-trained AI models, application frameworks, and tools like NVIDIA Transfer Learning Toolkit and NVIDIA TensorRT™, your team can transform volumes of ..."
+publishedDateTime: 2020-07-14T12:00:00Z
+webUrl: "https://www.networkworld.com/resources/205772/getting-started-with-ai-software"
 type: article
-quality: 67
-heat: 67
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Network World
+  domain: networkworld.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "hP9tPEMHDcEqMt4JEiaT9Ozw9OmiyOboVuPPUixjqmHnEMzd7V6Tn65H0YcZg8ySoagI/6ka8qAScWw5CCxk6/L5lldwxyRZKUvvu6bjkcQBdLsGi3nhs0wRljh5D4OfQ/tl71a74TpqJX1/az6z3ezIJqou5kQ62FJVslfTtE6eSQABlg+EyAw5e5ACvBP7e2VvwkMqHxmeJi23aD00BMx/Ra5QuTJLEUsSgt0+44+euEvTXOOpQ0EYveRfN8hBolhkya9pSHJKeRbRhwLy50dVolbfPpygHO6Cj5xuZ8L9jMpfgpY7Jkgb6EaTnXELcXpGl+pHdrhI6fbe04s6Mg==;12jvcivVL7g9ye8gtT30AA=="
+secured: "W6ZApkhhO317+K7rf3PrIcG+gyRkKCk8mzL/KxLR1kh6gUHWfTSW/UdJP/zzghbZQcC74nNXBzP/Wu3cqDULlZjvx2m/uYt1ZJo27p2/jyj6O1LclpRFA1DbZTNBo8NY7X9yIsmJgF9YrD+AO3MsP0kk9tEbSA5PO+7oGMjGiypbXebKRYNv+AEf4QI3w3NUldWasJjhJGX4Srvi+8eANaYpU23SXgKDmM2T4qmcrscgHqOgycnhzKscrGCeOZixetiVtQQkegFDqx/GkWt1s+X2iNEwzDcxJP4MORARhMxXSvVmTmFYrsZXVSIC/skHB3TmG7vLhhnlHSJOoegg5A==;boGl4rNdukQoEaUp65oGZw=="
 ---
 

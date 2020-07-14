@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-dreams-of-sushi-224552215.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,24 +27,6 @@ images:
     width: 600
     height: 350
     isCached: true
-
-related:
-  - title: "This New App Uses AI To Grade Tuna Freshness"
-    excerpt: "Tuna Scope, a new app in Japan, uses artificial intelligence to grade the quality of cuts of tuna, mostly for sushi. Fishmongers say that this is fine for chain restaurants, but high-end restaurants will always want the human touch."
-    publishedDateTime: 2020-07-09T19:59:00Z
-    webUrl: "https://www.popularmechanics.com/technology/apps/a33263722/tuna-scope-ai-fish-grade/"
-    ampWebUrl: "https://www.popularmechanics.com/technology/apps/amp33263722/tuna-scope-ai-fish-grade/"
-    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/apps/amp33263722/tuna-scope-ai-fish-grade/"
-    type: article
-    provider:
-      name: Popular Mechanics
-      domain: popularmechanics.com
-    quality: 57
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-07-09-at-11-47-35-am-1594309675.png?crop=1.00xw:0.510xh;0.00160xw,0.0521xh&resize=1200:*"
-        width: 846
-        height: 424
-        isCached: true
 
 secured: "zVUXl+edVf+I298mIiu5UbZH074RpAg8PaEZdn0yftuhXJRhihFpjqg+ZRh1rcbabDjba5ODCu8oLl/OxvYF/0nNss1LdKTeb2u2jQ+/QGcKjwmhiOPW+U36nhnnEKZbI+HznSqLweEWMLQXXq+hq0RcS55FPR3f6T/bse8WWqooAsVjKL0Pr4mR4M5/aveOY+ZPk5+UDALBchfDAbuZike10mGZ8ad91gYtNl1TgpFt00HYToAvG4iV2Pz5d9G9chVP3o+XwJVAw2hfDQCcH871e/CjbWp8qafHlOqBdvY2rUgdwFHNbBdJgFYyk6IGEy+Ef44mMNoDv2qtugD+Balh5MSQrfukQTJOOn0l/UwFZU3hA3OZVIS2mPNTUoA+JZnjDhXx/YMXp8f8Rff29ZB3Zz4tkt/tGKS/ycl/npHvSTkrrxUZjT+XD3lVnisTi2mZcxpPZ6GONqbyK0jtTUXdQOtc9nE6tJxI0v6Zx/sMVBBnB1zl4IIDqOBA2ffq;qTJN/urXeeTctpe1M2w18A=="
 ---

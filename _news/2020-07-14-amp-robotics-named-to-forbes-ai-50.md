@@ -39,14 +39,16 @@ related:
         height: 627
         isCached: true
   - title: "AMP Robotics Named to Forbes AI 50"
-    excerpt: "Forbes has named AMP Robotics Corp. a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America’s most"
-    publishedDateTime: 2020-07-13T03:46:00Z
-    webUrl: "https://wasteadvantagemag.com/amp-robotics-named-to-forbes-ai-50/"
+    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America's"
+    publishedDateTime: 2020-07-13T06:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/w16600240/amp-robotics-named-to-forbes-ai-50"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16600240"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16600240"
     type: article
     provider:
-      name: Waste Advantage Magazine
-      domain: wasteadvantagemag.com
-    quality: 49
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
 
 secured: "U1m2aYoB7gccm2o5mZncbkx5hjmS5pzb9W9Z8nuR7cAEqK1tUZbuF70UHDU6kUmJtWW5/15lGqDjq9Zc6ieQlhrIaOAVfqU3ichP/V9zwykUBfWIj4JvuCfC5zouJJUURmjufrjTD9+LXh5fsuHJclXX3r6Jykh5JlrzW4pkm2Ssv0Pr6VptNFCz4LttU1KnhP35tKGgt41WCBusGhR1cyeU7k5NCRQTaFo43LkLsZS0Ts+uwBZnuo1PvoA9rxsb/CUi575yDJnDbgNXJhQIIj+YL5/95RJIc9p75zpI/dGOdCOr93C/xgNJvn3c0JWdUJEQp6YROSeSTmIuj4ccpA==;0hleXlhXACGPu5CO4N5SDw=="
 ---

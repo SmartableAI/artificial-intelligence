@@ -7,7 +7,7 @@ webUrl: "https://markets.businessinsider.com/news/stocks/white-castle-selects-mi
 ampWebUrl: "https://markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
 type: article
-quality: 84
+quality: 52
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
 related:
@@ -40,6 +39,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "White Castle to test out Flippy kitchen robot to cut down on human contact with food"
+    excerpt: "The idea is to reduce human contact with food during the cooking process and comes after many restaurants were crippled due to the pandemic."
+    publishedDateTime: 2020-07-14T12:24:00Z
+    webUrl: "https://www.usatoday.com/story/money/2020/07/14/white-castle-brings-flippy-burger-robot-kitchen-due-pandemic/5433415002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5433415002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5433415002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/ae01e88fefd295cc37badb44af413d36a92f9ba8/c=0-32-1608-940/local/-/media/2018/07/25/USATODAY/USATODAY/636681286027605686-Google-ChromeScreenSnapz039.png?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Flippy the kitchen robot is going to White Castle"
     excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
     publishedDateTime: 2020-07-14T08:15:00Z
@@ -51,6 +66,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "White Castle is Bringing Robots to the Kitchen"
+    excerpt: "White Castle announced Tuesday a planned pilot with the company to accelerate adoption of artificial intelligence and robotics throughout the 99-year-old, family-owned chain. White Castle will introduce the new version of Flippy, Robot-on-a-Rail ..."
+    publishedDateTime: 2020-07-14T12:00:00Z
+    webUrl: "https://www.qsrmagazine.com/fast-food/white-castle-bringing-robots-kitchen"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-07/WhiteCastle.jpg?itok=dNAmDdNf"
+        width: 765
+        height: 446
+        isCached: true
   - title: "White Castle to test grilling, frying robot in restaurants"
     excerpt: "White Castle is about to get a new assistant in the kitchen – a robotic one. The fast-food chain will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy, an autonomous grilling and frying kitchen assistant,"
     publishedDateTime: 2020-07-14T11:06:00Z
@@ -63,6 +92,6 @@ related:
       domain: bizjournals.com
     quality: 39
 
-secured: "HSkmfhalQ6pSbW1fZmkfWCN3EQdjmahYrmFlLQ29pEsAE35ZFqy1YK57GxFdlSWpym5GBX63YGBHGLG4JhRKELro0ppbv66cX8GusyL/al6o24205dfVprL3wzYFOrsAZj0ho8ErinGS1ZuVgzXE9Uja4Fdojh/76Q/5EM0GRXAXY1ragrl3WwCfeRbL975/iHjgeGShXpRHQfMAbTD0cC4Hc6Z2BrJeTSyovRVTDoKGHu+0GRuAWv9B4zER55ZuROf7nqbu2u4J+Ee57wAHqMPElLuQJ8oicxGvY+8YMoY5r7HZUfxNqhQMkq98WL4n4WRyw2UYPn2YL8cZ7DJZGA==;yaDzG6u8BSeH7iEDMk/Ivg=="
+secured: "jBW1KXTLxQ9iRYBTq8t3fiHfPhh3RX5mnfLULROra5COCmOdeN89qGi28CF0rgwU/HpSKRLdz7sU6DOed7JV9oTf1IC/+tqutk3S41HKHDSAHihlwvS6UPNURqoHRMd1hHjf7pAbNmt01LZqon0WT7bgs+iQp2cdJk9qk9KxVg+F+I0og9fPs4b0Ymn3OwPivIFREwTisV6/ObaDcuYXENL4Tev+Lc3c68ElgRdHSsr7OR6IaRJCG3UQfn5BDn1DEBQUPh1k1YD8v12rkKeK0aR/ArnrstDyUVWX6MjS+ytyB92od5N9OskG+1KX5mfLhleACx9LrA8xHAwnxBa/iw==;7PlN5370x2MUlWeBn0mkqw=="
 ---
 

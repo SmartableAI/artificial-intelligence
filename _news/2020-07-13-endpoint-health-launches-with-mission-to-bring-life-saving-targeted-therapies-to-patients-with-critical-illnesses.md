@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Endpoint Health Launches with Mission to Bring Life-Saving Targeted Therapies to Patients with Critical Illnesses"
-excerpt: "Endpoint Health is led by an experienced executive team including the co-founders of GeneWEAVE, an infection detection and therapy guidance company ... companion diagnostics, and artificial intelligence (AI) into an integrated platform designed to improve ..."
-publishedDateTime: 2020-07-13T12:29:00Z
-webUrl: "https://www.businesswire.com/news/home/20200713005154/en/Endpoint-Health-Launches-Mission-Bring-Life-Saving-Targeted"
+excerpt: "Endpoint Health launched today on a mission to bring life-saving targeted therapies to patients with critical illnesses including sepsis and acute respiratory distress syndrome (ARDS) — life-threatening conditions often caused by serious infections,"
+publishedDateTime: 2020-07-13T12:10:00Z
+webUrl: "https://apnews.com/3d80718c5c954c0eb0d0d7cb559d6354"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200713005154/en/804747/23/4483355_EPH_logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 240
         isCached: true
 
-secured: "o29oxOZABiIN6XUWyC39PngpBNin9l6KwLRqfz0H+fFt4dzToYCeIxd9IjQr+sp8Ng7aba7bpEwp0EhNQ/EdAsoPp6+1LVcj7VyJZVc7NMKa4uAgavlCwD98keeaZ+cjlvWN8808qbhEiqXrZ6x3aj1fDyw4tDxKjV/ZUfSPqobqGd2gp9DyiUIJxDapN01GbOuU59WBpMS+8smVseW8dYbWHyj1YLt2Jmh9/HKP/MErqRsnZihu7tAV0zzWfp6ssL6B2qwG2K0Advrsqo3gxF8v3YKqHDMHU3Az7U8cT9EZFXJ0/yOb0GRpKu1Chc3oo7ExtMYUzX9CYQ7nh2ZSUA==;834CwPI1c1sKUdJXQvYVDQ=="
+secured: "R+94705P/yH0FYRD13Ewx684j70A6doxQvRQiTOTbtIuBLGRoaknmiiNrYFEoRYd7wlgnVEqGcfL0Vgt8flVJV1Y6TCgBKoqd6/BfHZ9bjEhU4ZShLL6TS05eyk38wKJPjfKOOEhdq0DSiInrEcDytglrCOeFYyaMd39F0D5qtLGqoKQoh/5jJFn9yN/XBtjjaCXm9ZLRYTKKEX4Nd3IJGCPINjJinV8VhIbDo10B1i1eVuO6Y5GeRgJlNjSlkfaExYZ0pQEWIrgPP63gnBw5bSRT5YSpXRjlUnMBEljloMB1vGXVEYx0gyPI/lU+bSV4oRlkyHbtIb+3fD9mrncDA==;ua/yT4RQ6tY7H3y2DldiHw=="
 ---
 
