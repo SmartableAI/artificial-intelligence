@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T19:21:00Z
 webUrl: "https://forimmediaterelease.net/apptek-launches-two-new-mobile-applications-to-help-consumers-address-multi-lingual-communication-and-collaboration-challenges-in-real-time-726196/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "ORAI Robotics' AI-powered Solution for Sales Amplification: Conversational Marketing to Succeed in Current Challenging Times"
-    excerpt: "While this lockdown has slowed down all businesses, small business owners are facing the harshest conditions to gain and retain their"
-    publishedDateTime: 2020-07-09T08:10:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/orai-robotics-ai-powered-solution-for-sales-amplification-conversational-marketing-to-succeed-in-current-challenging-times-816127368.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 44
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "M8GIaGJ9xA1L26+6tgnapKrMxeEOR86ABxZIFikPWtxfo1gR4/VeN/JPqbe9EDtDKNh7FFL/fZY2LV4L3LUQsHJlFfoS9xuBS0UuhdXcvJMiDPU7cBk5gnyStasbphKMfyKiZm3rSc0R9j5fnWJAl9fnoHICdba+emlHiOysZnXRIYEd9Rnw0KrNBQio4j8Tl5vWiioMdjQsb2gMC5jzHCh+buQ15SZYyA3qhLjRdm6Tw/vxA5kwcaQfbdeCaxedfBhA2/eXEDqi3+hXFvlQCEnpJ3X3dV1JOEsQ1nP5b8CdF5Epfvv8EJDffsPAEaUVEXTxq1RyIjKtEXEnN8VAjQ==;qEHtTc9WWYssLiinTE+NvQ=="
 ---

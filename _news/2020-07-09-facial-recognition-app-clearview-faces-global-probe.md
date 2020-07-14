@@ -90,17 +90,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Facial recognition company Clearview AI probed by UK, Australia"
-    excerpt: "Britain's data watchdog and its Australian counterpart said on Thursday they have opened a joint investigation into the personal information handling practices of facial recognition technology company Clearview AI."
-    publishedDateTime: 2020-07-09T08:21:00Z
-    webUrl: "https://www.reuters.com/article/clearview-ai-investigation-idUSL4N2EG22P"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2EG22P"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2EG22P"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "International probe launched into facial recognition firm that scrapes images from the internet"
     excerpt: "The U.K. and Australia have launched a joint probe into U.S. facial recognition firm Clearview AI, which scrapes social media sites like Facebook and Twitter for images of people's faces. The probe was announced one the website of the U.K. Information ..."
     publishedDateTime: 2020-07-09T11:25:00Z
@@ -189,6 +178,22 @@ related:
       - url: "https://www.sify.com/uploads/clearview_AI_wiki_uhngcNdeegdai.jpg"
         width: 700
         height: 500
+        isCached: true
+  - title: "Using facial recognition to curb COVID-19"
+    excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
+    publishedDateTime: 2020-07-14T00:06:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 59
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "UK and Australian regulators launch probe into Clearview AI"
     excerpt: "The UK and Australian information commissioners have announced a joint probe into controversial facial recognition company Clearview AI, whose image-scraping tool has been used by hundreds of police forces around the world."

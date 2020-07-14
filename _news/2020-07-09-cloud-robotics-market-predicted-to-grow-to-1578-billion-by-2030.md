@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-09T10:05:00Z
 webUrl: "https://roboticsandautomationnews.com/2020/07/09/cloud-robotics-market-predicted-to-grow-to-157-8-billion-by-2030/33909/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -18,17 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030"
-    excerpt: "Several cloud service providers, including AWS, Microsoft Azure, and Google Cloud, have begun collaborating with robotics developers, while start-ups like InOrbit target cloud-enabled operations for the first major deployment of mobile service robots."
-    publishedDateTime: 2020-07-09T08:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cloud-computing-will-be-the-great-enabler-of-mobile-robotics-and-a-us-157-8-billion-service-opportunity-by-2030-1029379261"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030"
     excerpt: "Cloud Computing will be the Great Enabler of Mobile Robotics and a US$157.8 billion service opportunity by 2030. London, United Kingdom - 09 Jul 2020. Though only in its nascent s"
     publishedDateTime: 2020-07-10T21:15:00Z

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/</loc>
+    <lastmod>2020-07-13T16:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/</loc>
     <lastmod>2020-07-13T16:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -559,12 +565,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbronline.com/news/aws-user-data?wpfpaction=clear</loc>
-    <lastmod>2020-07-09T02:57:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between</loc>
     <lastmod>2020-07-09T02:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1045,6 +1045,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nature.com/articles/d41586-020-02003-2</loc>
+    <lastmod>2020-07-07T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/</loc>
     <lastmod>2020-07-07T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1071,12 +1077,6 @@
   <url>
     <loc>https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/</loc>
     <lastmod>2020-07-06T19:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nature.com/articles/d41586-020-02003-2?error=cookies_not_supported&amp;code=929c2d14-4c37-4aaf-8e25-f21649c3169b</loc>
-    <lastmod>2020-07-06T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1123,7 +1123,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102</loc>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
     <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2131,8 +2131,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-google-s-tensorflow-lite-for-microcontrollers-1029353096</loc>
-    <lastmod>2020-06-30T03:25:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

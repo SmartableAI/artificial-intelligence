@@ -104,22 +104,6 @@ related:
         width: 583
         height: 325
         isCached: true
-  - title: "Tesla's is close to nailing the basics on self-driving"
-    excerpt: "\"very close\" to developing fully autonomous vehicles and could work out the basics of that technology as soon as this year. Musk reiterated that the electric vehicle maker has solved most of the essential challenges toward achieving Level 5 autonomy,"
-    publishedDateTime: 2020-07-09T07:04:00Z
-    webUrl: "https://gulfnews.com/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
-    ampWebUrl: "https://gulfnews.com/amp/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/teslas-is-close-to-nailing-the-basics-on-self-driving-1.1594278934540"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2020/07/02/auto-tesla_1730e8a0c0f_large.jpg"
-        width: 750
-        height: 563
-        isCached: true
   - title: "Still a long road ahead for self-driving cars, despite Tesla claim"
     excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
     publishedDateTime: 2020-07-10T20:13:00Z
@@ -353,20 +337,6 @@ related:
         width: 685
         height: 385
         isCached: true
-  - title: "Tesla 'very close' to Level 5 autonomous technology, Musk says"
-    excerpt: "Tesla is \"very close\" to achieving Level 5 autonomous driving technology, CEO Elon Musk said Thursday, referring to the capability to navigate roads without any driver input. \"I'm extremely confident that Level 5 or essentially complete autonomy will happen,"
-    publishedDateTime: 2020-07-09T07:35:00Z
-    webUrl: "https://www.autonews.com/mobility-report/tesla-very-close-level-5-autonomous-technology-musk-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla_final_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
     excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
     publishedDateTime: 2020-07-10T12:55:00Z
@@ -378,15 +348,6 @@ related:
       name: InfoSur Hoy
       domain: infosurhoy.com
     quality: 35
-  - title: "Tesla 'very close' to level 5 self-driving technology"
-    excerpt: "Tesla (NASDAQ:TSLA) is \"very close\" to achieving level 5 autonomous driving technology, CEO Elon Musk said by video at the opening of the World Artificial Intelligence Conference in Shanghai.\"I remain confident that we will have the basic functionality for level 5 autonomy complete this year,"
-    publishedDateTime: 2020-07-09T07:49:00Z
-    webUrl: "https://seekingalpha.com/news/3589719-tesla-very-close-to-level-5-self-driving-technology"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "dlv09eWfCrRBlvsWc9jTklmQbUiSfj9Q7K80ePPl8GEQ5o36eNg2MBewbFTNz6PAqT8VZaCi35qiWh4/CcC9lzO8R4RS+rNxVV6y6FQET9Y2fmuJve0XklD5T0deJz2YvJiKbi0ASvI8yD4VNbRk7Mgbc2dUmArYZ8hbv6DDkJH7QQY5VUm0roAzIUTD1BSUq5nIbFf7+wxOBgkVnEWgjf42q/SygK48suS79ZTuvZ8JMq1yQb6d4eom0Kq6h2jQW61PsP9X5k/x8bdZdw3p8I4vvz8zNB6miLLGjmWrSB2gB+HO489tCCK/zHEoNZmfVk3u7BrUGu474VNZH+ohA0s4bkB3EZPK8JvEIhZ5qoHG81fFejQjG53hCPg0ojPbNauVeMPa+2PEboFuJu6DCN9XrU2YMj3O49398d2RMSawTmha/oO/eUvaB7UHSge0FbRXU2Ft5ad66zqMjKQV7xgK/HKX/ZT90+SCrWu6DkAmf9tAmIokH16+YufIy3UKyONYAsLNcMYlZh0VY7z1qA==;oLLCo6tWI2G+6Ctt859sPQ=="
 ---

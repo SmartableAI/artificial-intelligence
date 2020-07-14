@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-planetary-surv
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1152
     height: 576
     isCached: true
+
+related:
+  - title: "New AI Predicts Which Planets Are Going to Smash Into Each Other"
+    excerpt: "A team of NASA astrophysicists has put the fate of entire star systems in the hands of an AI algorithm. The system — dubbed SPOCK — by NASA and Princeton University astrophysicist Daniel ..."
+    publishedDateTime: 2020-07-14T00:21:00Z
+    webUrl: "https://futurism.com/the-byte/ai-predicts-planets-smash"
+    ampWebUrl: "https://futurism.com/ai-predicts-planets-smash/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-predicts-planets-smash/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/ai-predicts-exoplanets-catastrophic-crash-courses-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "UNjLyreMTtycTOqHn1IWG+9Seg3wbY53KmpJCVfe8fcOBqA5zzcNiPWcO6XzfCrxlT0GkRDDVXgHhSnJi3QQalcO0GTS2o919BTK1JDJUOImrOm9tKrV5S0rUQO+NXSzPO3JbNUoV1JqCw//BwVQSsT8nLNQrXQBuVeFzISA8OeqsoiuRLsjoNyceC1LrEzN1/bXSWUT8/P3Yj3n9b43WVWAqGSa/6NHxcdatz3xA0YsFSozUPNHuHMBZa+s0kRfJWvGChb2vv7wVMKKWWWgDP/lhjFQhsL1pa0qGihanoqH3b7F/DJ+T3FxocxAa0sD8PokLYBj0giz+3aeMg0sJUD/srljqtcxYluNrFxaXrfg9AtE5x9SlM+QlFkdEqGOdim4nJH0k/8zHZCeUeFSAg5wH8i0M6yq47ngqAPNscwtdyNnfvnZ8Nnw70QQPoYJM8fwKJKFAcvizHvbMncmD8cpxpC/iQoVWeo+6pucMDNzNDBUITXxkpiC4lEWFYL1JiYJeVAlKvnFTEeIkBYqMA==;SpauEpN5ihvtzfjxLMAY2w=="
 ---
