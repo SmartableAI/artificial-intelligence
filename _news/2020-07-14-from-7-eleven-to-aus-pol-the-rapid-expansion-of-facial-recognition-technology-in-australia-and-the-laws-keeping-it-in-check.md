@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-11T03:13:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 37
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
     excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
     publishedDateTime: 2020-07-13T19:54:00Z

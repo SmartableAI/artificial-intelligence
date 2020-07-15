@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12451554"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
 type: article
 quality: 66
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-11T03:13:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 37
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
     excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"

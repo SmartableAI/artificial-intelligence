@@ -41,6 +41,20 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
+    excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
+    publishedDateTime: 2020-07-15T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2024-2020-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "022ZhA1pU32/S34Gt3P0InRf1jlKR95LuzmZIjREIMmFmveDobeOaY6Jf+o93GyPhbKOGHthyFYxDr4PhPN8Y0LFlQdTj7SbA2oBKY2eBylFzkcmt4nqpOJUgvr/CfrZi4FNd11D+8ZfvO725EgnQ1jRmbFjG+5kxKYTw21bSSIj9f4h5VGh+JkpX9Lpe+cwyD26KVAvrFUdi4qEhagR6hDCnTWXPMrru1BZjbRsNXRp22vCuGK2/jFCeD3819lliTqmGQ3LFhh0nhDEmGeKfhkztjZ7Wpf/Esp6/wZuXea/Ak43Ld0w5Tb6JT0aMZabz0mXQd5QB5xTmLStsWBG4g==;CGRthF2SBSpG1NQ4fxsTtQ=="
 ---

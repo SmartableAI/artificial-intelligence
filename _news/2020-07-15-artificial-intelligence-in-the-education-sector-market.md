@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2090156/artificial-intelligence-in-the-ed
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: openpr.com
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
+    excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
+    publishedDateTime: 2020-07-15T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2024-2020-07-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Education Technology Market 2020- Future Development, End User and Business Strategy Analysis"
     excerpt: "Artificial Intelligence Education Technology Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence Education Technology Market is segmented by Regions/Countries."
     publishedDateTime: 2020-07-15T12:43:00Z

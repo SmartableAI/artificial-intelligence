@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-buil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Navistar to Produce Self-Driving Trucks by 2024"
+    excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."
+    publishedDateTime: 2020-07-15T21:45:00Z
+    webUrl: "https://www.americanmachinist.com/news/article/21136743/partners-to-produce-autonomous-trucks-by-2024-navistar-tusimple"
+    type: article
+    provider:
+      name: American Machinist
+      domain: americanmachinist.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 670
         isCached: true
   - title: "Navistar, TuSimple Partner to Launch Self-Driving Trucks in 2024"
     excerpt: "Truck and engine maker Navistar International Corp. and TuSimple, a global self-driving technology company, announced they have entered into a strategic partnership."

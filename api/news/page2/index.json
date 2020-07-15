@@ -2,6 +2,346 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-15-how-to-use-speech-to-text-on-microsoft-word-to-write-and-edit-with-your-voice.md",
+      "title": "How to use speech-to-text on Microsoft Word to write and edit with your voice",
+      "excerpt": "Word supports speech-to-text, which lets you dictate your writing using voice recognition. Speech-to-text in Word is convenient and surprisingly accurate, and can help anyone who has issues typing with a typical keyboard. You can use speech-to-text in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f0cb7373ad8610318757d34?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
+      "publishedDateTime": "2020-07-15T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry.md",
+      "title": "Deep Dive Into Big Pharma AI Productivity: One Study Shaking The Pharmaceutical Industry",
+      "excerpt": "The pharmaceutical business is perhaps the only industry on the planet, where to get the product from idea to market the company needs to spend about a decade, several billion dollars, and there is about 90% chance of from the time it takes from discovery to a marketed product may take a decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0d8d3475efdd00063f95cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 873,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/amp/",
+      "publishedDateTime": "2020-07-15T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-announcing-nominees-for-the-second-annual-women-in-ai-awards.md",
+      "title": "Announcing nominees for the second annual Women in AI Awards",
+      "excerpt": "Winners will be announced on Friday, July 17 beginning at 3:55 pm. Awards will be made in 5 categories from Responsibility & Ethics of AI to AI Mentorship.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/2VB_8679-1.jpg?fit=800%2C401&strip=all",
+          "width": 800,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/amp/",
+      "publishedDateTime": "2020-07-15T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-graphcore-returns-with-another-colossus-ai-chip-and-system.md",
+      "title": "Graphcore Returns With Another Colossus AI Chip And System",
+      "excerpt": "The competition to build the most advanced Artificial Intelligence (AI) processor is turning into a race to build some of largest and most advanced semiconductor chips ever made and new server platforms to take advantage of these mega chips. One of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0eff06cbf8d20007293cbd%2F0x0.jpg",
+          "width": 1141,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
+      "publishedDateTime": "2020-07-15T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin.md",
+      "title": "National University of Singapore used Intel neuromorphic chip to develop touch-sensing robotic ‘skin’",
+      "excerpt": "Researchers at the National University of Singapore used an Intel-designed neuromorphic chip to create touch-sensing robotic \"skin.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/7d2e4946-42e2-44e0-acbf-4da10f08eec1-e1594251380414.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
+      "publishedDateTime": "2020-07-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-an-ethics-guide-for-tech-gets-rewritten-with-workers-in-mind.md",
+      "title": "An Ethics Guide for Tech Gets Rewritten With Workers in Mind",
+      "excerpt": "The Ethical Explorer Pack is designed to help Silicon Valley's rank and file—not just CEOs—steer products away from harmful directions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0e550a669fd9d0df83f383/master/pass/Top_Art_Digital_Illo.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
+      "publishedDateTime": "2020-07-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-artificial-intelligence-ai-consulting-market-2020-future-development-end-user-and-business-strategy-analysis.md",
+      "title": "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis",
+      "excerpt": "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T715385762_g.jpg",
+          "width": 781,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future",
+      "publishedDateTime": "2020-07-15T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions.md",
       "title": "The Pentagon’s $1 Million Question: Can AI Predict An Enemy’s Emotions?",
       "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
@@ -99,7 +439,7 @@
       "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -188,6 +528,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
+      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
+      "excerpt": "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -767,333 +1148,33 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-ponicode-raises-34-million-to-develop-ai-that-automates-code-testing.md",
-      "title": "Ponicode raises $3.4 million to develop AI that automates code testing",
-      "excerpt": "Ponicode raised $3.4 million for its artificial intelligence platform that checks the accuracy of code to save developers from a time-consuming task.",
+      "path": "_news/2020-07-15-artificial-intelligence-in-the-education-sector-market.md",
+      "title": "Artificial Intelligence in the Education Sector Market",
+      "excerpt": "Global Artificial Intelligence in the Education Sector Industry research report offers granulated yet in-depth analysis of revenue share, market segments, revenue estimates and various regions across the globe.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/",
+      "webUrl": "https://www.openpr.com/news/2090156/artificial-intelligence-in-the-education-sector-market",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Ponicode-3-e1594748004462.png?w=1200&#038;strip=all",
-          "width": 1024,
-          "height": 622,
+          "url": "https://cdn.openpr.com/T/7/T715512134_g.jpg",
+          "width": 800,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/amp/",
-      "publishedDateTime": "2020-07-14T21:48:00-07:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market",
+      "publishedDateTime": "2020-07-14T21:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-peacock-opens-wide-heres-whats-streaming-on-its-free-and-premium-tiers.md",
-      "title": "Peacock Opens Wide: Here’s What’s Streaming On Its Free And Premium Tiers",
-      "excerpt": "Peacock, the NBCUniversal streaming service that launched in April in Comcast homes, started expanding nationally overnight as Tuesday turned to Wednesday on the East Coast. Along with",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-fundamentally-flawed-study-describes-facial-recognition-system-designed-to-identify-non-binary-people.md",
-      "title": "‘Fundamentally flawed’ study describes facial recognition system designed to identify non-binary people",
-      "excerpt": "In a study, researchers describe a controversial approach to designing facial recognition systems that can identify non-binary people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
-      "publishedDateTime": "2020-07-14T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-unpacking-ais-power-and-its-controversies-at-transform-2020.md",
-      "title": "Unpacking AI’s power and its controversies at Transform 2020",
-      "excerpt": "VB Event Take the latest VB Survey to share how your company is implementing AI today. I can’t wait until Transform 2020 starts tomorrow. It’s our flagship event for enterprise decision-makers to learn how to apply AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/transform-event-audience.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-14T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-german-court-says-tesla-self-driving-claims-are-misleading.md",
-      "title": "German Court Says Tesla Self-Driving Claims Are Misleading",
-      "excerpt": "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html",
-      "publishedDateTime": "2020-07-14T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing.md",
-      "title": "AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing",
-      "excerpt": "With $18.25 million in venture capital money from Eric Schmidt, Jerry Yang, and other luminaries, Abacus Tuesday opened its deep learning service for general customer availability, with the intent of making it easy for companies to customize and scale AI in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/27/fa97eb58-ce3e-4839-b7aa-dd8934dfb30c/thumbnail/1200x675/a825add05e6df14e53ed8ac733095f6d/dumonteil-and-herrera-covid-19-n-protein-edited.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "publishedDateTime": "2020-07-14T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-the-microsoft-police-state-mass-surveillance-facial-recognition-and-the-azure-cloud.md",
-      "title": "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud",
-      "excerpt": "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this.",
-      "sourceUrl": null,
-      "webUrl": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Intercept",
-        "domain": "theintercept.com",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1103,110 +1184,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020.md",
-      "title": "The nominees for the VentureBeat AI Innovation Awards at Transform 2020",
-      "excerpt": "Here are the nominees for VentureBeat's second annual AI Innovation Awards at Transform 2020. The winners will be announced July 15.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/vb-transform-2020-ai-innovation-awards.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-14T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
-      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
-      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "publishedDateTime": "2020-07-14T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -59,6 +59,22 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Is What I See, What I Imagine? Neural Overlap Discovered Between Vision and Imagination"
+    excerpt: "Medical University of South Carolina researchers report in Current Biology that the brain uses similar visual areas for mental imagery and vision, but it uses low-level visual areas less precisely with mental imagery than with vision."
+    publishedDateTime: 2020-07-15T15:56:00Z
+    webUrl: "https://scitechdaily.com/is-what-i-see-what-i-imagine-neural-overlap-discovered-between-vision-and-imagination/"
+    ampWebUrl: "https://scitechdaily.com/is-what-i-see-what-i-imagine-neural-overlap-discovered-between-vision-and-imagination/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/is-what-i-see-what-i-imagine-neural-overlap-discovered-between-vision-and-imagination/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 36
+    images:
+      - url: "https://scitechdaily.com/images/Ibis-Seen-by-Computer-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "The Line Between Vision And Imagination Is Blurry"
     excerpt: "To explore this question, researchers used machine learning and insights from machine vision, which uses computers to view and process images. The researchers trained this network to see images and then took the next step of having the computer imagine images."
     publishedDateTime: 2020-07-13T17:02:00Z

@@ -144,6 +144,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Navistar to Produce Self-Driving Trucks by 2024"
+    excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."
+    publishedDateTime: 2020-07-15T21:45:00Z
+    webUrl: "https://www.americanmachinist.com/news/article/21136743/partners-to-produce-autonomous-trucks-by-2024-navistar-tusimple"
+    type: article
+    provider:
+      name: American Machinist
+      domain: americanmachinist.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 670
+        isCached: true
   - title: "Navistar, TuSimple Partner to Launch Self-Driving Trucks in 2024"
     excerpt: "Truck and engine maker Navistar International Corp. and TuSimple, a global self-driving technology company, announced they have entered into a strategic partnership."
     publishedDateTime: 2020-07-15T15:30:00Z
@@ -159,6 +173,6 @@ related:
         height: 246
         isCached: true
 
-secured: "JZiAwS2Y+48FChzTYKC/FrRRzU2o17oVD0XHHD8/4An5xFgnVQ3rtHEoFTip6hyG7Ix2gnearpj4QvEHsXKnB7cEcs7Tp9AwHaO2eg/FPs/U1uZ0yymGh/eQvFsLPTzT5nlAf3N3O2Xyb73UIK6AKfxCREfL35+m3tYGbFiBK37gTY0SfTzXXS4A2FNcrx/VhZo47VXUmTM6LUtkRk1r0XTqvo+SwPnSTRqAFnRQov8BXlHqspetaETv3pnj8onJ8UMn2iTMtdqXW7PlFf8Co/n89U9TxKRsUIsK8OTgCh2GRetnl3YqBRQoFngbf18Ft/L+xif21bnmm4/HZH4kyA==;QCx7U5R++vrqF8N9DvVL9A=="
+secured: "Gl63OuvFetEEQKsqMbs56/M5yNHuo3tjB/kwC6KlyIejsiozs6vxXELIAV0owu32O6xfUJjyYL56Wu+A7WCHCJYpV1+9gL8YxxcD4HVlc98veLSooQC4xqvjsGoNxe86EK9NkEzxCQqF+ifisYIwZEnBi2fLNJpG1JbHHvejy/gPdMF2NTjBL2c2/ftwIR01KPHRNOgpx8bLKGj+m8M9auYri/Nmd5Td3nA+Lhuk8xZCHoIHkLuF6OY74YCaRFb+dQM9XeyWVAFrXxfepziNn4GJzhGAmzJU1ganPLJB+5TTMUHA9G7cv7zkTQqmhIXrkw/vSpn54DqDO4v6TllsrPIS+4tOXIXgVOnlom1Q8HD9NQvYtp69MFhCdD6LJjoEB8u/9DOr+cUTRiShri7JDbBGSAn2HTm+xCIdoxiTdIxMloaGr875qV3VFvrxrWmHSiucFcOSe3ZK0ak0bycGmDgu43p1IVzZdDS7nmbNuFRC2aQm/vnW0DT8SwHxRXL4mkyjAay7lWrpcdxOaHa2oQ==;/x5JodatgOB6X2lp4jC32w=="
 ---
 

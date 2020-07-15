@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
+      "title": "The right data: Transform’s panel of experts weigh in",
+      "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-3.40.29-PM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
+      "publishedDateTime": "2020-07-15T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-lawsuits-allege-microsoft-amazon-and-google-violated-illinois-facial-recognition-privacy-law.md",
+      "title": "Lawsuits allege Microsoft, Amazon and Google violated Illinois facial recognition privacy law",
+      "excerpt": "In a set of new lawsuits, two Illinois residents argue that three tech giants violated state laws prohibiting the use of personal biometric data without permission. Illinois residents Steven Vance and Tim Janecyk allege that images of their faces appeared in IBM’s “Diversity in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/",
+      "publishedDateTime": "2020-07-15T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-mit-researchers-warn-that-deep-learning-is-approaching-computational-limits.md",
+      "title": "MIT researchers warn that deep learning is approaching computational limits",
+      "excerpt": "In a newly published study, MIT researchers find evidence that deep learning will soon (or already has) run up against computational limits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all",
+          "width": 1145,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
+      "publishedDateTime": "2020-07-15T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-ivanka-trump-tweets-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
+      "title": "Ivanka Trump tweets support for Goya Foods in possible violation of ethics rules",
+      "excerpt": "Donald Trump follows daughter’s post with own tweet claiming that boycott backfired and ‘people are buying like crazy’ US President Donald Trump and his daughter and adviser Ivanka Trump are rallying support for Goya Foods on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_044115.jpg?itok=ImVw9Yyn&v=1594845867",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "publishedDateTime": "2020-07-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning.md",
+      "title": "How an award-winning AI-powered software is helping students with remote learning",
+      "excerpt": "Amira has received four new awards for effectiveness and innovation with helping students become better readers from afar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/15/8a254762-4df0-47a8-8772-b68921f6bd31/resize/1200x/38d70874f50e1c4b971a8326192b9e43/amira-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "publishedDateTime": "2020-07-15T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-computer-vision-tech-helps-robots-get-a-grasp-on-transparent-objects.md",
       "title": "Computer vision tech helps robots get a grasp on transparent objects",
       "excerpt": "In order to see and then grasp objects, robots typically utilize depth-sensing cameras like the Microsoft Kinect. And while such cameras may be thwarted by transparent or shiny objects, scientists at Carnegie Mellon University have developed a work-around.",
@@ -48,6 +299,55 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-dotdata-20-platform-delivers-ai-insights-for-enterprises.md",
+      "title": "DotData 2.0 platform delivers AI insights for enterprises",
+      "excerpt": "DotData is announcing version 2.0 of its artificial intelligence and machine learning platform for enterprises so they can adopt AI tools more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/dotdata-launches-2-0-platform-to-deliver-ai-insights-for-enterprises/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/dotdata-2.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/dotdata-launches-2-0-platform-to-deliver-ai-insights-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/dotdata-launches-2-0-platform-to-deliver-ai-insights-for-enterprises/amp/",
+      "publishedDateTime": "2020-07-15T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -790,6 +1090,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-google-launches-hieroglyphics-translator-powered-by-ai.md",
+      "title": "Google launches hieroglyphics translator powered by AI",
+      "excerpt": "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-53420320",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53420320",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320",
+      "publishedDateTime": "2020-07-15T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-this-tiny-uk-startup-chipmaker-is-targeting-intel-and-nvidia-with-a-monster-ai-cpu.md",
       "title": "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU",
       "excerpt": "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world.",
@@ -886,346 +1236,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-to-use-speech-to-text-on-microsoft-word-to-write-and-edit-with-your-voice.md",
-      "title": "How to use speech-to-text on Microsoft Word to write and edit with your voice",
-      "excerpt": "Word supports speech-to-text, which lets you dictate your writing using voice recognition. Speech-to-text in Word is convenient and surprisingly accurate, and can help anyone who has issues typing with a typical keyboard. You can use speech-to-text in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0cb7373ad8610318757d34?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
-      "publishedDateTime": "2020-07-15T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry.md",
-      "title": "Deep Dive Into Big Pharma AI Productivity: One Study Shaking The Pharmaceutical Industry",
-      "excerpt": "The pharmaceutical business is perhaps the only industry on the planet, where to get the product from idea to market the company needs to spend about a decade, several billion dollars, and there is about 90% chance of from the time it takes from discovery to a marketed product may take a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0d8d3475efdd00063f95cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 873,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/amp/",
-      "publishedDateTime": "2020-07-15T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-announcing-nominees-for-the-second-annual-women-in-ai-awards.md",
-      "title": "Announcing nominees for the second annual Women in AI Awards",
-      "excerpt": "Winners will be announced on Friday, July 17 beginning at 3:55 pm. Awards will be made in 5 categories from Responsibility & Ethics of AI to AI Mentorship.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/2VB_8679-1.jpg?fit=800%2C401&strip=all",
-          "width": 800,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/amp/",
-      "publishedDateTime": "2020-07-15T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-graphcore-returns-with-another-colossus-ai-chip-and-system.md",
-      "title": "Graphcore Returns With Another Colossus AI Chip And System",
-      "excerpt": "The competition to build the most advanced Artificial Intelligence (AI) processor is turning into a race to build some of largest and most advanced semiconductor chips ever made and new server platforms to take advantage of these mega chips. One of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0eff06cbf8d20007293cbd%2F0x0.jpg",
-          "width": 1141,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
-      "publishedDateTime": "2020-07-15T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin.md",
-      "title": "National University of Singapore used Intel neuromorphic chip to develop touch-sensing robotic ‘skin’",
-      "excerpt": "Researchers at the National University of Singapore used an Intel-designed neuromorphic chip to create touch-sensing robotic \"skin.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/7d2e4946-42e2-44e0-acbf-4da10f08eec1-e1594251380414.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
-      "publishedDateTime": "2020-07-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-an-ethics-guide-for-tech-gets-rewritten-with-workers-in-mind.md",
-      "title": "An Ethics Guide for Tech Gets Rewritten With Workers in Mind",
-      "excerpt": "The Ethical Explorer Pack is designed to help Silicon Valley's rank and file—not just CEOs—steer products away from harmful directions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f0e550a669fd9d0df83f383/master/pass/Top_Art_Digital_Illo.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
-      "publishedDateTime": "2020-07-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artificial-intelligence-ai-consulting-market-2020-future-development-end-user-and-business-strategy-analysis.md",
-      "title": "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis",
-      "excerpt": "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T715385762_g.jpg",
-          "width": 781,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future",
-      "publishedDateTime": "2020-07-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

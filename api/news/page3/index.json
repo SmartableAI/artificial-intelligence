@@ -2,6 +2,408 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-15-ponicode-raises-34-million-to-develop-ai-that-automates-code-testing.md",
+      "title": "Ponicode raises $3.4 million to develop AI that automates code testing",
+      "excerpt": "Ponicode raised $3.4 million for its artificial intelligence platform that checks the accuracy of code to save developers from a time-consuming task.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Ponicode-3-e1594748004462.png?w=1200&#038;strip=all",
+          "width": 1024,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/amp/",
+      "publishedDateTime": "2020-07-14T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-peacock-opens-wide-heres-whats-streaming-on-its-free-and-premium-tiers.md",
+      "title": "Peacock Opens Wide: Here’s What’s Streaming On Its Free And Premium Tiers",
+      "excerpt": "Peacock, the NBCUniversal streaming service that launched in April in Comcast homes, started expanding nationally overnight as Tuesday turned to Wednesday on the East Coast. Along with",
+      "sourceUrl": null,
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-fundamentally-flawed-study-describes-facial-recognition-system-designed-to-identify-non-binary-people.md",
+      "title": "‘Fundamentally flawed’ study describes facial recognition system designed to identify non-binary people",
+      "excerpt": "In a study, researchers describe a controversial approach to designing facial recognition systems that can identify non-binary people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
+      "publishedDateTime": "2020-07-14T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-unpacking-ais-power-and-its-controversies-at-transform-2020.md",
+      "title": "Unpacking AI’s power and its controversies at Transform 2020",
+      "excerpt": "VB Event Take the latest VB Survey to share how your company is implementing AI today. I can’t wait until Transform 2020 starts tomorrow. It’s our flagship event for enterprise decision-makers to learn how to apply AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/transform-event-audience.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-14T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-german-court-says-tesla-self-driving-claims-are-misleading.md",
+      "title": "German Court Says Tesla Self-Driving Claims Are Misleading",
+      "excerpt": "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html",
+      "publishedDateTime": "2020-07-14T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing.md",
+      "title": "AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing",
+      "excerpt": "With $18.25 million in venture capital money from Eric Schmidt, Jerry Yang, and other luminaries, Abacus Tuesday opened its deep learning service for general customer availability, with the intent of making it easy for companies to customize and scale AI in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/27/fa97eb58-ce3e-4839-b7aa-dd8934dfb30c/thumbnail/1200x675/a825add05e6df14e53ed8ac733095f6d/dumonteil-and-herrera-covid-19-n-protein-edited.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
+      "publishedDateTime": "2020-07-14T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020.md",
+      "title": "The nominees for the VentureBeat AI Innovation Awards at Transform 2020",
+      "excerpt": "Here are the nominees for VentureBeat's second annual AI Innovation Awards at Transform 2020. The winners will be announced July 15.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/vb-transform-2020-ai-innovation-awards.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-14T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
+      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
+      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "publishedDateTime": "2020-07-14T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-ch-robinson-microsoft-partner-to-boost-supply-chain-digitization.md",
       "title": "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization",
       "excerpt": "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the",
@@ -829,397 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai.md",
-      "title": "Pricefx raises $65 million to optimize product and service pricing with AI",
-      "excerpt": "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/",
-      "publishedDateTime": "2020-07-14T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers.md",
-      "title": "Microsoft Power Virtual Agents: Now you can build no-code chatbots without developers",
-      "excerpt": "Microsoft uses its low-code Power Platform to help you quickly author and deploy chatbots on websites or in applications like Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/09/9675ba33-f7eb-45a4-9555-94f67f48eeef/thumbnail/1200x675/91ca737ccb2619d4a34dc4c1a94d0d8d/20200608-lowcode-tom.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
-      "publishedDateTime": "2020-07-14T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it.md",
-      "title": "5 reasons AI isn't being adopted at your organization (and how to fix it)",
-      "excerpt": "In both the public and private sectors, these are the barriers to meaningful adoption of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/30/81ed5293-9a77-4ace-8a37-5ee3bb6e7441/ai-ml-3.jpg",
-          "width": 800,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "publishedDateTime": "2020-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-supermarket-chain-mercadona-faces-gdpr-probe-over-facial-recognition-system.md",
-      "title": "Supermarket chain Mercadona faces GDPR probe over facial recognition system",
-      "excerpt": "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "publishedDateTime": "2020-07-14T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-white-castle-is-adding-flippy-the-automated-robot-to-help-cook-sliders-and-fries.md",
-      "title": "White Castle Is Adding Flippy, The Automated Robot, To Help Cook Sliders And Fries",
-      "excerpt": "the robot in one restaurant in September to measure its back ... The Flippy system also includes artificial intelligence that sort of acts like a kitchen quarterback. “The technology can watch the grill and know when the grill is backed up, but that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0cc80bb1919a0007424407%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/",
-      "publishedDateTime": "2020-07-14T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year.md",
-      "title": "Miso’s kitchen robots will slide into White Castle restaurants this year",
-      "excerpt": "Startup Miso Robotics is teaming up with White Castle to deploy its food prep robots in fast-food kitchens later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/IMG_4228.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/",
-      "publishedDateTime": "2020-07-14T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026.md",
-      "title": "Artificial Intelligence Market Future Scope, Demands and Projected Industry Growths to 2026",
-      "excerpt": "Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence market that provides a comprehensive review of this industry with respect to the driving forces influencing the market size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2020-07-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
-      "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
-      "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2020/07/web-5371562_640.jpg",
-          "width": 640,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
-      "publishedDateTime": "2020-07-14T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

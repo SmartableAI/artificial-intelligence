@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-15-lawsuits-allege-microsoft-amazon-and-google-violated-illinois-facial-recognition-privacy-law.md",
+      "title": "Lawsuits allege Microsoft, Amazon and Google violated Illinois facial recognition privacy law",
+      "excerpt": "In a set of new lawsuits, two Illinois residents argue that three tech giants violated state laws prohibiting the use of personal biometric data without permission. Illinois residents Steven Vance and Tim Janecyk allege that images of their faces appeared in IBM’s “Diversity in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/",
+      "publishedDateTime": "2020-07-15T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-computer-vision-tech-helps-robots-get-a-grasp-on-transparent-objects.md",
       "title": "Computer vision tech helps robots get a grasp on transparent objects",
       "excerpt": "In order to see and then grasp objects, robots typically utilize depth-sensing cameras like the Microsoft Kinect. And while such cameras may be thwarted by transparent or shiny objects, scientists at Carnegie Mellon University have developed a work-around.",
@@ -406,49 +456,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-14-the-microsoft-police-state-mass-surveillance-facial-recognition-and-the-azure-cloud.md",
-      "title": "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud",
-      "excerpt": "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this.",
-      "sourceUrl": null,
-      "webUrl": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Intercept",
-        "domain": "theintercept.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-14-opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware.md",
       "title": "OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware",
       "excerpt": "A new gadget called the OpenCV AI Kit, or OAK, looks to replicate the success of Raspberry Pi and other minimal computing solutions, but for the growing fields of computer vision and 3D perception. Its new multi-camera PCBs pack a lot of capability into a small,",
@@ -607,7 +614,7 @@
       "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
