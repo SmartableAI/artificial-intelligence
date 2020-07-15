@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "healx"
   url: "https://twitter.com/healx"
-  followers: 1979
+  followers: 1980
 
 size: 11-50 employees
 yearFounded: 2014
