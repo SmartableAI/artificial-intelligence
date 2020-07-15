@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
-publishedDateTime: 2020-07-14T04:19:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
+excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
+publishedDateTime: 2020-07-14T04:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Frontline Systems' Analytic Solver® and RASON® Enable Creation and Deployment of Analytic Models on Azure, Power Platform"
@@ -32,6 +36,6 @@ related:
       domain: businessinsider.com
     quality: 44
 
-secured: "CeFsdjNJDNF5BJJqkEgQ3L0Ki2OArax+pNdHgHP8alz3M8AxDs9LSAb8LU9KobJe/9lBSYrZ77lnqVk05FFzNMhmeka0k6fkQg9lsvs8xLFafK32HiosOd4G/yHA3BvI1TVEkEvj1S4+z42BA5zjE4rvIn7aOEKTzhjWrMIeAibAJCwu/aU4MfJSvCEm5ReswyyOUlTcxPJaneO+BuPj2VtCEUe58PTGlYgzqN5wpubBwDC4AmW2SKhul12rwh4bwPzSUDpcR6uhJA9Uck5hw/xKyyW+KW4VwTnIMagRh0GOgUR9poBiJdcpm+C06OOPwNulZID4lyrFRIb6n4XNpQ==;Y6OGDCalc8d9VRwjfIGJog=="
+secured: "aalB6sPV2HMYrJZ9VXr0surrcYTiAU9DGUZn4i0jBqzN9mkM8PELhk5xnOWIDBCquQi++PNoVpat7A++jCDXyz8570KbFpv5MB39yMEq3bQpI1bG2PptdS1ZyUfXjjpSQWEOhL63PfVmReQUU/TVbi/XOAeZnneqi9ObrxraEzqCp44nFRhC5v4DArmGtPLtY3UXmERDVorx62jqOQ4UsTtI9QzmlS+RiXerdTbFjcN9Inep4RNwMu76FhHxPSP8nRGXXRtNaIEdVPZn8tZ75C0BJG9FPQo7wvLKGQplyAGDFgErSkOQq+4aBYH+J2lw7mlQ+BJT90YQw+yZUHnV0A==;SJvxXxf08wckoBDFRLRusQ=="
 ---
 

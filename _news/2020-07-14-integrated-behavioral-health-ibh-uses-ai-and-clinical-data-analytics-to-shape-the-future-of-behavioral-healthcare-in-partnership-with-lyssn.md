@@ -25,18 +25,18 @@ images:
 
 related:
   - title: "Frost & Sullivan Radar Ranks Wolters Kluwer as a Top 20 AI Innovation Leader in Healthcare IT"
-    excerpt: "Wolters Kluwer, Health, a leading global provider of trusted clinical technology and evidence-based solutions, is recognized by Frost & Sullivan as a Frost Radar™ global leader in artificial intelligence (AI) for healthcare IT."
+    excerpt: "Wolters Kluwer, Health, a leading global provider of trusted clinical technology and evidence-based solutions, is recognized by Frost & Sullivan a"
     publishedDateTime: 2020-07-14T13:57:00Z
-    webUrl: "https://apnews.com/e350d24a58364ff19f5c79eda49f1771"
+    webUrl: "https://www.businesswire.com/news/home/20200714005699/en/Frost-Sullivan-Radar-Ranks-Wolters-Kluwer-Top"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 43
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mms.businesswire.com/media/20200714005699/en/805278/23/Wolters-Kluwer-AI-Frost-Radar-closeup.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "6JSf+blLsNeEUAAja3xvBIw4lKZ16rlByHwkcFf2oBCKtNdaDs4g9CfTjvoh7+lMk7EmzIkzWgm/ow9Zho/1uxgJ5FBhkCi7mGABUSK/hEs8ozkWaluilIEfyPecJzLEcA0VDDxr0kil/OcET5UHJ2j3BfIyFrtYXFWd0qdGZeQmTQCbfUEF3IcJ8mxcIL/4diYVUi9gkxlNqDQw8FHcIj07JTDkD7lbnag4+0gLgi1pYfmOIHVkn8kQlAuDqGVRJixIfUmgOztcsfDM5WzphqC1G2Iw/CaxeeV+WWvafvemXlW3GJlg0TdOJCIkh2quhao+zUqCuppbJxTEw6ve91sl/69HcBkHPXeOTPz39ZAhYTMeJ6mbbRMytD4Yel46ObhY80MueB4zO/NYqXhuwXOHzo6N3wqsTn70lrEAJiMP9diTs915yJKsl4pUBwy2CigJzILhhIizqf0MqM4N0mREtJsrPolt7IN7bEM8NwJmMPE8htyy/Nf64J0UKTOVvS5HRRPSFE43Unw6CzNZNw==;ziwEvVVM3xvxqEfUdmf/7g=="

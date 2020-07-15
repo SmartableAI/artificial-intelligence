@@ -1,0 +1,46 @@
+---
+category: news
+title: "White Castle Set To Roll Out Flippy, A Burger-Flipping Robot"
+excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
+publishedDateTime: 2020-07-14T23:42:00Z
+webUrl: "https://mynewsla.com/business/2020/07/14/white-castle-set-to-roll-out-flippy-a-burger-flipping-robot/"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: MyNewsLA
+  domain: mynewsla.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+    width: 583
+    height: 300
+    isCached: true
+
+related:
+  - title: "White Castle Is Adding Flippy, The Automated Robot, To Help Cook Sliders And Fries"
+    excerpt: "the robot in one restaurant in September to measure its back ... The Flippy system also includes artificial intelligence that sort of acts like a kitchen quarterback. “The technology can watch the grill and know when the grill is backed up, but that ..."
+    publishedDateTime: 2020-07-14T09:11:00Z
+    webUrl: "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/"
+    ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0cc80bb1919a0007424407%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+
+secured: "17B3IO8SkXYurR4y7/o2OTf9wtlbp9TeR45sqgMC5wDmkJEooX6frvEIAT8omNfxO3Z7Ho5trtFM8OY85SyXHQ299jROHQVNGTF4xhyI8LB11Q9WbIwYU1LGHYrJs7IpEOOmXWfsDKPGRgJP/dk98RQvdm20RnKrwFqUIidHtjs4yBDdOwY0nHeaoosBY7X5XD3+qI6bUvEHauXQVin++ZptLViUTqARnTeaNNy2NOGFt4LB9nbh/brZQSEUnMFlZF6ocLVIoMXuV47WWCKc4TkYqsuEuWofMwzHD0xJ7Mnb3tYvQIai8LCBA7FaGaPC/haxUlke+j2LZ0Gd3xFOGg==;2IAEAuxOt1iSGTa20tuDoA=="
+---
+

@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Genetec announces deep integration with Bosch MAP 5000 intrusion panel series"
-    excerpt: "Genetec Inc., a renowned technology provider of unified security, public safety, operations, and business intelligence solutions, announced the latest deep integration to result from its"
-    publishedDateTime: 2020-07-10T06:49:00Z
-    webUrl: "https://www.sourcesecurity.com/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/genetec-announces-deep-integration-bosch-map-co-2566-ga-co-11239-ga.1594299096.html"
+  - title: "‘Self-destruction of the president’: Trump stuns observers with off the deep end press conference"
+    excerpt: "President Donald Trump clearly misses holding rallies filled with thousands of his fawning supporters hanging on his every self-aggrandizing word. So on Tuesday, at a press event ostensibly staged to discuss his new executive order withdrawing recognition of Hong Kong as independent from China,"
+    publishedDateTime: 2020-07-14T23:57:00Z
+    webUrl: "https://www.rawstory.com/2020/07/self-destruction-of-the-president-trump-stuns-observers-with-off-the-deep-end-press-conference/"
+    ampWebUrl: "https://www.rawstory.com/2020/07/self-destruction-of-the-president-trump-stuns-observers-with-off-the-deep-end-press-conference/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/self-destruction-of-the-president-trump-stuns-observers-with-off-the-deep-end-press-conference/amp/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 41
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 31
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/suprema-and-moca-system-contribute-to-the-growth-of-mobile-access-cards-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/shutterstock_512913955-645x430.jpg"
+        width: 645
+        height: 430
         isCached: true
 
 secured: "PeJDSwmBg1t1GW5uDeVSoOj36kZrc9zDPkPk2zoQPA3GX5KnL5AOzDUy1T3R2221t21CfCp97z2sYZWjwUkuAw67P2eNW1jhDDvgLaNhQVZGpB6La8if9P4mZKuuaC9yU0teTG/DKRVpcmcrKAeQPmFzip0PWflYfkcnMowj833oW8E58HHF3dmgUs25Dgb3GPWf+Pe/lFKH4TMzcuJo4OfrTDGz04KkT0RFqt9ehlWWn3phVVdYHBZbE19sdYYbPlTTVV+CkbliHzI1tlQcxx+tLhwQKXGR5XFHi5pmliy0JQmm8n2mYKfA8krM5Ap3OFcS/GL0GU2cbIYfGlZyPwHTF8+rzyfn2ohZbWO0WWAs3IRob8yMule/UU1snKbN9DRWhd0xyGFUhyf3zQU/rtQn+YBXkTdO4La77X7O6cqNrlfYWJkxMSCo9eAbUpfKRs+DNm+6sUL7X5w0/L/uc24JENEhNFSP9dDenwSDgwKJYclKWJXRvMgplV1Eqa1fxmyB8qbbydiHyXxxumCAEw==;Z+z+JqnS1pHWssuGWMhLoQ=="

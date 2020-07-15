@@ -25,16 +25,19 @@ topics:
 
 related:
   - title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-    excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
-    publishedDateTime: 2020-07-14T04:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
+    excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
+    publishedDateTime: 2020-07-14T04:00:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Finanzen
+      domain: finanzen.net
     quality: 18
+    images:
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "kGTQtuiZCBozFMeiZ3fmzuVlX9m5VgItzHUANgBZXL/6Vkp3c1CIukRA7mqo0bsj+l9naHbQy1r869tQSWQn5PvS4E3C/1t7Iz1zTESzdTe5Ta0VIKpcCQMdEyNB080rbI6iamW2GDlzkIyRYJsS2VsJ8fuT68BelBIuCjhV1ZZyDOBOrDwEzA6nRyCSo3O1BKYSXwQ6gQa8P34l3r8uDQ+adl2fP2gkCom9G28YGdRLJbU/BUVWaUhbUk7hiAa9AT9xNoob3pLaN3WOvLazXNiy3AZyXCfO0NcpVX7aAol0KFmYtl1/FHki7eo5IFgzrDw0gg/vx9k4KrgKBPUIfQ==;F2wxuN9l8OfaFJV+2MvY/Q=="
 ---

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Frost & Sullivan Radar Ranks Wolters Kluwer as a Top 20 AI Innovation Leader in Healthcare IT"
-excerpt: "Wolters Kluwer, Health, a leading global provider of trusted clinical technology and evidence-based solutions, is recognized by Frost & Sullivan as a Frost Radar™ global leader in artificial intelligence (AI) for healthcare IT."
+excerpt: "Wolters Kluwer, Health, a leading global provider of trusted clinical technology and evidence-based solutions, is recognized by Frost & Sullivan a"
 publishedDateTime: 2020-07-14T13:57:00Z
-webUrl: "https://apnews.com/e350d24a58364ff19f5c79eda49f1771"
+webUrl: "https://www.businesswire.com/news/home/20200714005699/en/Frost-Sullivan-Radar-Ranks-Wolters-Kluwer-Top"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200714005699/en/805278/23/Wolters-Kluwer-AI-Frost-Radar-closeup.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 583
         isCached: true
 
-secured: "AlSnCYn5JXC1mt3nN6QNI40yZx8dhIjmJvIEu24N80ObOIN4WwiAtl/IDiBcRNpnnCWarJdOdNkZoWhsRf60sffvZkC2lbrN/Vl4HCcRQh//gHlTAqR/xRyCiNswM/Wmz880ceKijptUm1c/6T5G/mPIMV+IfKB8HB9QsOMZhiHHjjlz6BhCMGlcsQOiSWE4KNFfpiOtsHTRRUzykvgv/jCXWR1guShrJB13mnZC9Kk2HaSFysPaqQtjl82KhAmqU8Lb8UJIW1LwxU5Hsd/pJMI6X+U+yPRmDaQluXdYXWx7PdxCDWBsgXWVKUxRmRC5xkM3+7qJiZSD5nbPwY3dXg==;jLeZQ3KkTJWcGzYLbsXn/w=="
+secured: "DYYsec4WPyN96UEMkU9WSNhPcz7FO5BfgypCK23Z/lR3J18lZSsE7GqTOlt5xFG2ew4v5enhbByU+NYTAWSjPs2gJ6HXVBeRBcCfcRtjhV+X+vUUE0UyUGhtRG22hejiQRW5/MzA0GjFHCkQxUw7mLGbQSohkl+sDG9uYBxs4h9thsy3evKoE0FZ8cvJTH7E6L4qdGKKLGRmv703uVcexkXOdvKk850HtILqy1koyVzVEzicectPk46/HQucfyOgyoyzh3ZVeQptfrTAI7r73L0gOShvewFnXEDbvBQv35C78/oMK3Ak9+k48H7gH8j1g9xL0XBy+G+fJSkbottpfQ==;VHtXMXFsxVE7BxNeOXqrbQ=="
 ---
 
