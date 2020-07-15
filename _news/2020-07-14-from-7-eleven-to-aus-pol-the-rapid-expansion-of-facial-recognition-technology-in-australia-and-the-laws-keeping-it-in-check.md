@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology"
-    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ..."
-    publishedDateTime: 2020-07-11T00:00:00Z
-    webUrl: "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
-    ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
-    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
-    type: article
-    provider:
-      name: Noozhawk
-      domain: noozhawk.com
-    quality: 59
-    images:
-      - url: "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg"
-        width: 426
-        height: 293
-        isCached: true
   - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
     excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
     publishedDateTime: 2020-07-13T22:57:00Z
@@ -87,6 +71,22 @@ related:
       - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
         width: 950
         height: 629
+        isCached: true
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-11T06:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "Facial recognition technology’s double-edged sword"
     excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
@@ -112,6 +112,34 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
+    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
+    publishedDateTime: 2020-07-11T03:13:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 37
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
+    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
+    publishedDateTime: 2020-07-13T19:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "qx/qVMAiUQkuEDvuvHS5fncL4udQZWMErgUXHQgqVM1fR9w2+n2ntf6G4IoNDCKLrl2prEScfSs/H3c68nOwdmfAE4jKsoUeysnZ6ecSYETtgB4aKhomVhUJr9LWeqFWXexPuZdMiIxUxaH+pakCw6tCxAwxpYe4yWWP32hhtrgCO8vJ6O8xCxEeM55S+4D8V5YGUh8X/72RxPhUK0uzpHiQr7ykBUI96EPFLs1/pob4RxJ5+bgORDedl4imoiw3qsuejys3C9fFng/OhxdpqbvFH3JDOdPqC2svSR9DW55XwOcXunPw+aH94DQvI4Eu7XfRzVTpNvoPZA9V3/VtK0yNtSkm5LOy0ROLXnkGuHUACnEXbHGP2patNYztSzDhEAEivHcZkTdJ8RuDkL0cMcdy9l351oE3YQROBtuezmKPVrxomK739KunwKpc5jX5a/d+pKHhg1ZFdLCcfYLA3m+KUh7KIyWKwU8zO+YdfRSjy+rNmfRGjHgUU7zcy6a1xeBRRPBBlMOtpLdSuBkWNA==;H3oXEDdfE5PCzPpR0I0NiA=="

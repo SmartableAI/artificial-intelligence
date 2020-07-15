@@ -118,6 +118,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Navistar, TuSimple Partner to Launch Self-Driving Trucks in 2024"
+    excerpt: "Truck and engine maker Navistar International Corp. and TuSimple, a global self-driving technology company, announced they have entered into a strategic partnership."
+    publishedDateTime: 2020-07-15T15:30:00Z
+    webUrl: "https://www.ttnews.com/articles/navistar-tusimple-partner-launch-self-driving-trucks-2024"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-truc-main.jpg?itok=WENGs4K-"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "DBKNxmhwlkcAwznTYuLQN0yszQYTq4aLl7znxckQt4XPunkMvVnX+AP+UhUw/N/DEqbBPtisPX6aiXT3Y0n2zxTVBx6viSUKtSKwfooU4PYtNbxfO473Z1ea7r7vsTjntDs05qe16TcQd9EuHikACCppCGaWI/jGOAqVlcrj69hqAtTjyMTWlBgc0qLfYReBMmoPz4r6CnF71LRLKGzkASQ+5IUSOKDN5oMnmM6dpIW2aXKIqLFW3JDbc9zZrikRnfH8UFSHthZDarnGa/zYNg2f7PYHqkHPAxTwjCdu54gUIqJfzZrAgs9sfQSlAEBCzld/dfI14F+jnYBwRf5tVg==;H43ZXksUFJRH5J4XbYiW4Q=="
 ---

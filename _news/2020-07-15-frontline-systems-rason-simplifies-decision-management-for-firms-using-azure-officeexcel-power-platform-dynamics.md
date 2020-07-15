@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/frontline-systems-rason
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
 type: article
 quality: 45
-heat: 45
+heat: 55
 published: false
 
 provider:

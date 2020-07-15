@@ -3,7 +3,7 @@ category: news
 title: "Learning more about particle collisions with machine learning"
 excerpt: "A team of Argonne scientists has devised a machine learning algorithm that calculates, with low computational time, how the ATLAS detector in the Large Hadron Collider would respond to the ten times more data expected with a planned upgrade in 2027."
 publishedDateTime: 2020-07-14T00:39:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-07/dnl-lma070820.php"
+webUrl: "https://eurekalert.org/pub_releases/2020-07/dnl-lma070820.php"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +23,6 @@ images:
     height: 810
     isCached: true
 
-secured: "Fl1G5/GidMjHmi984UGnmE9DpVVd3SQgkSiBDEYMZvRrPjvrLKuK7NH3MbhOtfQgyM+z/07kp0LMIJof6SU4WENCeFkjdEVYeAlc2N9SR8jae1lQCUYI5C8cyBfsase4Epms2p4Z8rObl7s3lrcBaH/qgoAHNK9Fc19H5altUWofr+cDWH7pH+S2cmsl+Iyg4TF7RpEaeVLmrvW8YMvOzmOpTabBTNHePAX2sJ+gky5VTZosRPflmMIKTa0nhkbelGUBmIaz0x5Io7s9iJZHKAHS2a9djZLwo79w9ZDg0GgIEMCAObtu4xq/rHY/U895HolVdLcG89m9g5V2M9+jZw==;yCdg4xMPUSnOz60TorZ5Ow=="
+secured: "6KW7JQukPTDRiRfQM6GzO7ZFLC15qZ6cbeLjKf6GB9EMFBw+4jYp2oNJWJUA55QKg8cHeXmh8qJZP1TIZ3OmYUNWZM/sbN0R6MdFNEJk8F/yQzypf7/a4jaGsNrES54lwgo1Am3tfAIaBe+H7eo2rSPsIC5Y+iB7h/WkgV2TlFdTLMIbjWPlmFB+5v5/0dmeDy31t1xCO48PfYLVjJ/uwallzSB3zQ2Llu7tNxbF7NqI4o0smIXTO6EtN5n1UvFuGbV4gllnGrGDqZtikJ0XLsaQPxNn+MPRVPIY61UV9zHN/I0AVQxBedneHKOFhB+IriWSdEmMah/lBuvfm2R9yw==;CU6cC7xnCG0dCqp4EhvnPQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T01:27:00Z
 webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-07-14"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Voice and Speech Recognition Technology Industry"
+    excerpt: "This segment currently accounts for a 27.7% share of the global Voice and Speech Recognition Technology market. The U.S. Accounts for Over 26.9% of Global Market Size in 2020, While China is ..."
+    publishedDateTime: 2020-07-14T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-voice-and-speech-recognition-technology-industry-1029391677"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "Og6HYBaX+gPjAVWAuwqBIKGvaXqF0mfV2ItAduthRwRdn4gXzLuXeGgcMCen7MTIaz5uFkkwMF1e8UkXBpg4Ps0UQh9FgbrNH2irUcDmjC4WUjbL00E/LLvDSnXen6zbzhJvwTeGRABuUl+beSUGwL+eOtMSUGh44mZujkwDBGJv/VKtKqmHbpdBqIjJ1SRTRRDBEDBdWCLAMAKfaMmP7GGMJMB7o0MILBpSzAgFP1Z63kH/oWlx54ORguh07SVWWmGO8gAqyfeBiQDPWDdKZP+Kq/7h49IWW05uFcp1qxwCmA+tJRE/k0FKHy0wwSqd7m4uE31GJdBZVLRbqHGGuA==;B+VjbtAgLhof3jgFpTbnWQ=="
 ---
