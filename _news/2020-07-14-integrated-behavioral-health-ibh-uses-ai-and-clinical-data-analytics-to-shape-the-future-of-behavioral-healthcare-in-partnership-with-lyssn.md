@@ -1,44 +1,22 @@
 ---
 category: news
 title: "Integrated Behavioral Health (IBH) Uses AI and Clinical Data Analytics to Shape the Future of Behavioral Healthcare in Partnership with Lyssn"
-excerpt: "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services,"
-publishedDateTime: 2020-07-14T16:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn-301092304.html"
+excerpt: "announced the launch of its new Provider Clinical Data Analytics technology platform that uses artificial intelligence (AI) and machine learning to improve the quality and outcomes of talk therapy counseling. This program was developed in partnership with ..."
+publishedDateTime: 2020-07-14T22:11:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of/article_6e78618a-c476-552e-8888-92185de7c059.html"
 type: article
-quality: 19
-heat: -1
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1213206/Integrated_Behavioral_Health.jpg?p=facebook"
-    width: 1114
-    height: 583
-    isCached: true
-
-related:
-  - title: "Frost & Sullivan Radar Ranks Wolters Kluwer as a Top 20 AI Innovation Leader in Healthcare IT"
-    excerpt: "Wolters Kluwer, Health, a leading global provider of trusted clinical technology and evidence-based solutions, is recognized by Frost & Sullivan a"
-    publishedDateTime: 2020-07-14T13:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200714005699/en/Frost-Sullivan-Radar-Ranks-Wolters-Kluwer-Top"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 43
-    images:
-      - url: "https://mms.businesswire.com/media/20200714005699/en/805278/23/Wolters-Kluwer-AI-Frost-Radar-closeup.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
-secured: "6JSf+blLsNeEUAAja3xvBIw4lKZ16rlByHwkcFf2oBCKtNdaDs4g9CfTjvoh7+lMk7EmzIkzWgm/ow9Zho/1uxgJ5FBhkCi7mGABUSK/hEs8ozkWaluilIEfyPecJzLEcA0VDDxr0kil/OcET5UHJ2j3BfIyFrtYXFWd0qdGZeQmTQCbfUEF3IcJ8mxcIL/4diYVUi9gkxlNqDQw8FHcIj07JTDkD7lbnag4+0gLgi1pYfmOIHVkn8kQlAuDqGVRJixIfUmgOztcsfDM5WzphqC1G2Iw/CaxeeV+WWvafvemXlW3GJlg0TdOJCIkh2quhao+zUqCuppbJxTEw6ve91sl/69HcBkHPXeOTPz39ZAhYTMeJ6mbbRMytD4Yel46ObhY80MueB4zO/NYqXhuwXOHzo6N3wqsTn70lrEAJiMP9diTs915yJKsl4pUBwy2CigJzILhhIizqf0MqM4N0mREtJsrPolt7IN7bEM8NwJmMPE8htyy/Nf64J0UKTOVvS5HRRPSFE43Unw6CzNZNw==;ziwEvVVM3xvxqEfUdmf/7g=="
+secured: "rOIvnfEIsbl/P+341eLnRfv/tAHoWh9PEcF4scWnJrLFfYlEp3KQrUXk/row4NCNC1fPYVp1NUGHoCYbVCUvcCCVoaQa4ippKSW/dIzxHWlPxLsoVd0bX1EZJp8yM6+qQZIHCrs/AjWdTb5G/LZmBP7/LnaRRID9t+7dDsTfmVWg3m+8mmpT4oEB9ngVtXRO0rljTEIm3fXFlKeaPZBgLExy7V0S5p24vmTrlS+aEEk5uPVkaMzyNX9aybmaAPzHxa0TGm3xYllT5ZYyNWqQlegD0IEH9kkjxi0BhEO3l2XLrXYJTUp9oURUqtdyOSmOWdLGEuLCdNr5fmMOQ2InbsEuhsoTewAY1VZTDYJyvADBqds4AMW+ae+lKifN4Vmo4sdeEaD2vbJJlS+pBa0K43pTtbpvNXm0HwbCSI6uBM3QkpVN+Iyv8kNUmHtdVnXTiQgcaYPsOXMhlGjvM5NpWe5KHw87sl0QeKro94EMJtSTqttWPAOUgoQVZOluGUu8UYF6PavTQiqKfPNF/sNgoQ==;o8eroHTV4w6OuHa86EHrdA=="
 ---
 

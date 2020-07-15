@@ -26,48 +26,69 @@ images:
     isCached: true
 
 related:
-  - title: "Defending Black Lives Means Banning Facial Recognition"
-    excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
-    publishedDateTime: 2020-07-10T12:00:00Z
-    webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
+  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
+    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
+    publishedDateTime: 2020-07-13T11:49:00Z
+    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
+    ampWebUrl: "https://amp.abc.net.au/article/12451554"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 66
     images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
+      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
+        width: 750
+        height: 420
         isCached: true
-  - title: "Is Facial Recognition Technology Good Or Bad?"
-    excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
-    publishedDateTime: 2020-07-10T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
+  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
+    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
+    publishedDateTime: 2020-07-14T03:32:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-  - title: "How the Growing Facial Recognition Debate Impacts Martech"
-    excerpt: "In recent years image recognition has been hailed as a critical identifier of digital media to causal customer needs. But can it be an intrusion? Marketers worried about its application should pay attention to the facial recognition debates emerging today."
-    publishedDateTime: 2020-07-10T17:16:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/"
-    ampWebUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 66
+    images:
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology"
+    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ..."
+    publishedDateTime: 2020-07-11T00:00:00Z
+    webUrl: "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
+      name: Noozhawk
+      domain: noozhawk.com
     quality: 59
     images:
-      - url: "https://www.cmswire.com/-/media/c69643c040bc4478a19763dc26a5d324.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg"
+        width: 426
+        height: 293
+        isCached: true
+  - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
+    excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
+    publishedDateTime: 2020-07-13T22:57:00Z
+    webUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
+        width: 950
+        height: 629
         isCached: true
   - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
     excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
@@ -82,6 +103,20 @@ related:
       - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
+    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
+    publishedDateTime: 2020-07-14T02:40:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 12
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
+        width: 926
+        height: 569
         isCached: true
 
 secured: "0r/hOc1yTAH/dN49D7qTb/95mBJAlOEiaORTPsEv/Fool3wcjZ+Xr3mbHwC8V416xIiY9eVug9oLl1gnBzQU45t1R7NEsYYyCU8ZhXCl8nNx6wbPz07Vm/bJ8F2HKOKHSd6Ovr0a7nNNMmR13vZpod6rZDKOLfsBCOlaLiacqHPIcw81d23Ai7Bi8WWz0DPw2GlhEl/6tupfFmlFQZC3g02VnAXuTMgEyO+SaWJ3vFhFK6SZrDEP3zhyzimdnrUNskhHzemR0T+HPUSol0Cf+k6b8o0P7xpr06McCkrZZugDCKvhdUmb0ah0uCypQas56FZtHrJ9g07s7LhqJF2Fbg==;LxKGcHq1ESn7A5wRCA6l2g=="

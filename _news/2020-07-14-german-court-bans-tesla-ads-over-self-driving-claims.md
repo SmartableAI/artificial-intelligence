@@ -106,6 +106,17 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "How Tesla’s Self-Driving Initiatives Add Value"
+    excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
+    publishedDateTime: 2020-07-13T15:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "German Court Bans Tesla Ads Making 'Misleading' Claims About Autopilot, Self-Driving"
     excerpt: "Tesla will no longer be able use phrases such as “full potential for autonomous driving” and “Autopilot inclusive” in future ads in Germany, a Munich court ruled Monday."
     publishedDateTime: 2020-07-14T16:48:00Z
@@ -122,17 +133,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
-    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
-    publishedDateTime: 2020-07-10T12:55:00Z
-    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
-    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    type: article
-    provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 35
 
 secured: "PQIWEUIuRF6cgIYuxp7+TCb9/buhpbY946KG4twgkuaJge5hULASnD2mI5vHAo+ZqCRpvEcXeejd6vA1s59k5quxx4KCNltJyNePAEOhm8Lmv/rwuodT1PPtBumCq48A9+XGvzk5LPEDNTcv3x9oqUOPAjdBkC/vhS+pjoORAmjkMdecNhxSDAs84dwLnGTgCZrPIY9nIpoDCgu9zd7mIG//KWCELcKObsC06QPEOoHzrQtYra7ZRDVL9aHHjOJeRjULKmDuYg4ihoZZKGi9TTtFWQRBof8tF0bKbfNqPZPS9MRY8dhLBhXzPQYkDa2oDg137Q2WNDXWCfwOWdbBnQ==;ET9anukEpgmUBT36gn/+7A=="
 ---

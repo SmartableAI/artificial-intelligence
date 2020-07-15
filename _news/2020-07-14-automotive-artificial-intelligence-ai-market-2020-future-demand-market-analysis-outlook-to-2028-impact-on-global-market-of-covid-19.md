@@ -26,6 +26,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Natural Language Processing Market 2020-2025- Covid 19 Impact Analysis And Growth, Share, Key Players, Sales, Revenue"
+    excerpt: "Natural Language Processing Market competition through top manufacturers/players, Price (USD/Unit), product portfolio, potential, price, aggressive analysis and main regional improvement fame. \"Natural Language Processing Market\" 2020-2025 Report offers detailed research and analysis of key aspects of the global Natural Language Processing market."
+    publishedDateTime: 2020-07-15T03:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265779720/natural-language-processing-market-2020-2025--covid-19-impact-analysis-and-growth-share-key-players-sales-revenue"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 16
+    images:
+      - url: "https://cdn.bignewsnetwork.com/voa1594757122.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
 secured: "7QWFT8SgPJxZG4KMhQIYDu1WJB5mpfsGZtGJmg+abSleoGMVzQKD81h8PJBTrCeoYVGTc/t0Xiwuv/7g0s4HLAFhmXANZxV0cjR9TZ60+A1iReFBUEEvjSThCdbGNLLnz2hGfl5IowOIBC96q8pb8AXT+v/ay8ViooREwLkzL9WwJeSyZG44dlrOrPAfkTn0CqKXQPf1q6O4J2xWB0Cl/ydmQU4gPARpa4vpD8tjSdPl/YhuOk3Z4z9Ok0e95Ego5aAnTk5HpXx9zCsV0t34/t38nPTWdwoUtrs/zRk9Of4KTiiOfiW+K0gH6FXTJG1wwkP5EdcZe2CRHHvnT0FgNA==;lmx1q+boHxdjBzkbz1Zmig=="
 ---
 

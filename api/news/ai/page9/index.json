@@ -2,6 +2,187 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
+      "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
+      "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
+      "publishedDateTime": "2020-07-06T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
+      "title": "Researchers use AI to highlight Zoom’s privacy risks",
+      "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/d0862e46-a1f5-464f-8bed-7ecfd241dd87.png?w=800&resize=800%2C532&strip=all",
+          "width": 800,
+          "height": 532,
+          "title": "Researchers use AI to highlight Zoom’s privacy risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
+      "publishedDateTime": "2020-07-06T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars.md",
+      "title": "Hidden Secrets That The Burger King ‘Autopilot Whopper’ Teaches Us About Tesla And Self-Driving Cars",
+      "excerpt": "What do AI, self-driving cars, Tesla, Autopilot, and hamburgers such as the infamous Burger King Whopper all have in common? Well, a whopper of a story, of course. A recent ad campaign by Burger King has this smarmy catchphrase: “Smart cars are smart enough to brake for a Whopper” (here’s a link to the video).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/06/hidden-secrets-that-the-burger-king-autopilot-whopper-teaches-us-about-tesla-and-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-06T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
+      "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+      "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/352846",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594044841-WhatsAppImage2020-07-06at73044PM.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352846",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352846",
+      "publishedDateTime": "2020-07-06T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices.md",
       "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
       "excerpt": "AI often makes decisions with little human input, and it's hard to predict the circumstances under which they're likely to choose an unethical approach.",
@@ -1193,206 +1374,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-how-ai-can-empower-communities-and-strengthen-democracy.md",
-      "title": "How AI can empower communities and strengthen democracy",
-      "excerpt": "A look at AI projects and prototypes built with justice in mind to strengthen communities, improve democracies, and defend free societies and people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/9-6-14_0217.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can empower communities and strengthen democracy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "publishedDateTime": "2020-07-04T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves.md",
-      "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
-      "excerpt": "Artificial intelligence, seen as the cure-all for a plethora of enterprise shortfalls, from chatbots to better understanding customers to automating the flow of supply chains. However, it is delivering the most impressive results to information technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/06/13/c1bbec68-98b3-482c-9627-8f5fe1b342e9/thumbnail/1200x675/a5fc858d6d3af5d91e435234616baa12/building-path-station-world-trade-center-ny-cropped-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The main beneficiaries of artificial intelligence success are IT departments themselves",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-main-beneficiaries-of-artificial-intelligence-success-are-it-departments-themselves/",
-      "publishedDateTime": "2020-07-04T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter.md",
-      "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
-      "excerpt": "With Google opening accelerators for Black and female founders, and with tech execs speaking about equalizing opportunities, I thought I'd at least be able to get a meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AI_smarts.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 737,
-          "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
-      "publishedDateTime": "2020-07-04T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis.md",
-      "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
-      "excerpt": "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

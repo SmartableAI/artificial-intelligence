@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T14:30:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-dgx-a100-ai-system-installed-at-karlsruhe-institute-of-technology/"
 type: article
 quality: 36
-heat: 46
+heat: 36
 published: false
 
 provider:

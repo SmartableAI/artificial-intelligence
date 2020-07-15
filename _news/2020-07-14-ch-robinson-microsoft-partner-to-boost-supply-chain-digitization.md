@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16617586"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://www.freshfruitportal.com/assets/uploads/2020/07/CHR-Microsoft-release-image-with-lockup_1200x630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "C.H. Robinson announces alliance with Microsoft to digitally transform the supply chain of the future"
+    excerpt: "C.H. Robinson and Microsoft Corp. on Tuesday announced they are joining forces to digitally transform supply chains of the future by"
+    publishedDateTime: 2020-07-14T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ch-robinson-announces-alliance-with-microsoft-to-digitally-transform-the-supply-chain-of-the-future-301092520.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1213751/Microsoft_Corporation_CH_Robinson.jpg?p=facebook"
+        width: 1200
+        height: 628
         isCached: true
   - title: "C.H. Robinson, Microsoft partner on supply chain transparency"
     excerpt: "C.H. Robinson, Eden Prairie, Minn., and Microsoft are working to provide real-time visibility in the supply chain, a partnership that will accelerate innovation in transportation, according to the companies."

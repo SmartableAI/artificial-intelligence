@@ -2,14 +2,14 @@
 category: news
 title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
 excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-publishedDateTime: 2020-07-13T13:30:00Z
-webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=8&itm_content=2x4&itm_term=2356592"
+publishedDateTime: 2020-07-13T13:47:00Z
+webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 type: article
-quality: 62
-heat: -1
-published: false
+quality: 82
+heat: 102
+published: true
 
 provider:
   name: Digital Trends
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/mit-robot-gripper-with-cables-1200x630-c-ar1.91.jpg"
+    width: 1098
+    height: 574
+    isCached: true
 
 related:
   - title: "Camera-clad rubber fingertips allow robots to manipulate cables and wires"
@@ -52,6 +58,6 @@ related:
         height: 426
         isCached: true
 
-secured: "FmCKsqelNVTR/KNx6t1uZrFhg4BU5H4DB90TTDWIFORVJ8VMp7D3sGnSwpVudqaZ3m02S1MsjeBpvt7USi8a0EC5I6eA8QOc/HApMK5+ZoX7AFG3O0SrFGI2nXFPCBzERrjw8kXR0h3yZODAXgmfb7E8ZPcvqqkLcnbBgh8DKTRAffMsXuPFEMsED85WOCRIe9OVM7xoK0rsDmUBrlygdGspi37GY+XSEx4FWc3DSqdOMxId3eEsPcyz3mpSFbeEsUPKYK4c0CfOREhumTvnyHzrU5M0u99cEDH0oreLTOI6tmKwJlyqB/4eNlrS6GNPrU1gppi9EHlEUcflmbODq/MJIwuZp4hP1ADKaEukf1DaNr5O7LB4tk0A5F1MoEsz6UgkluiAq2oPMO1x22WPClDQDLOUZlsK5wZXiNq+7BcTdidthLJX/gO/TXOHiy1d+SxUif5DxYo5YuL+kuPm1NQYWzpI4z5X3ZJM1aUTHPR6i/k2Lz+nuF7ZgevS2sklJWtlpOPetyNO7LOpAtRA5Q==;uErhuBYPaVP613KUs85sJg=="
+secured: "w8vT07NIlyQdGaM5K3KEBQNsqNSQwm+iNz6NtmZX11Ea4h0q8NvEvomElHtazOlc86uwiXeJJiwdxYf+qyR76/C8RxZMA/lnia+2sloRJ8KSLIHJ543dvP0r1jA5EBRG3id8SEqSGX8mt8PM3aEuGo3zvw5KBA2LMjVOyv/YJztk4rO3rDWtn4FsVEpLE9wsl70ZPNpiMi4le4rg8LkGzUaXxEqzGChT1BkYxKGH0ZGfqX0OK3URL7LeKDQi8Pp+gAyfozUNUM9h4NQR/sg0HmkonrZUOyTpyWA8+kqaEsjXB6BqUlibZ4i8N2OqxUF+YyB/1WCMVmhAvteLdEZS1g==;BKZQCxdwoT9bi5PBobGk/Q=="
 ---
 

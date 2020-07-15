@@ -6,10 +6,10 @@
       "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
       "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -353,20 +354,29 @@
       ]
     },
     {
-      "path": "_news/2020-07-13-camera-clad-rubber-fingertips-allow-robots-to-manipulate-cables-and-wires.md",
-      "title": "Camera-clad rubber fingertips allow robots to manipulate cables and wires",
+      "path": "_news/2020-07-13-camera-clad-rubber-fingertips-give-robots-the-ability-to-manipulate-cables-and-wires.md",
+      "title": "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires",
       "excerpt": "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/",
+      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 88,
+      "heat": 102,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/mit-robot-gripper-with-cables-1200x630-c-ar1.91.jpg",
+          "width": 1098,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
       "ampWebUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
       "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
-      "publishedDateTime": "2020-07-13T07:23:00-07:00",
+      "publishedDateTime": "2020-07-13T06:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Trends",

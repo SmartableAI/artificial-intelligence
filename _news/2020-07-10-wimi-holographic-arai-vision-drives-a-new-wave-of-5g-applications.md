@@ -15,6 +15,13 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "WIMI Holographic AR+AI vision to drive a new wave of 5G applications, shares +95%"

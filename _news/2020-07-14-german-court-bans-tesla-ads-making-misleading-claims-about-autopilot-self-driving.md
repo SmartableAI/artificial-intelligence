@@ -122,17 +122,17 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Elon Musk Says Tesla Self-Driving Cars Will Be Completely Autonomous This Year"
-    excerpt: "CEO Elon Musk said on Thursday, July 9, that his company, electric automaker Tesla, is 'very close' to realizing Level 5 in autonomous driving technology."
-    publishedDateTime: 2020-07-10T12:55:00Z
-    webUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/"
-    ampWebUrl: "https://infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
-    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/elon-musk-says-tesla-self-driving-cars-will-be-completely-autonomous-this-year/amp/"
+  - title: "How Tesla’s Self-Driving Initiatives Add Value"
+    excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
+    publishedDateTime: 2020-07-13T15:42:00Z
+    webUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13"
+    ampWebUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
     type: article
     provider:
-      name: InfoSur Hoy
-      domain: infosurhoy.com
-    quality: 35
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "VX7uidnQSweJx/jjp2GqNQYD4giyKWbtoIqnmC8Og4FunQSU76s9MGNRAGiyQnsl8xYYc405RcF2DCmIqxoyTITUfB4/4X290uDWLsJikQwok+N5r+r8nLeH0rlbPyT4CWalHJMNHqFz/ynxKbjQXKbh0wIF4taT7FtDXKp7CEJHQKg9M54A+v3d7xHqgXIMEewj3J250DNgG5z834ikvje3GnyxwmcJXER/8DEmPs4e1j8dHbFSSwb/JDOqJfgHDxzyH6yHPLO1ZH/UwwSzk1yuNsc+8QHH4TuoaewHNlPBqZ8vn8VF7d0QDjt/s/c71dgf9zMJ9gsJLzaBQ9Jpz4X3F8Y3c7Fo5haJDfinC8vs7PujBCIc6sLFLiVDQueLMYizcBjUZoXoA2lYpP1J7E3BW5oYP8kECl/ECtSufwi7AcTII8Pu0l1eKzli4Gi4dIyiRlDh6nMMtwzZl17OHkAVQ2MqGLspt9oKPGHkurjClnpBRvVkEbb8QIRVIznTIzvcuBoKweNuFUpd1Jt0KQ==;7ENIaD/GvvymcD627J7BIQ=="
 ---

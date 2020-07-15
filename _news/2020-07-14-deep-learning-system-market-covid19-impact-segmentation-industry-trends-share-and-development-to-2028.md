@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-14T02:02:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Further Clinical Implementation of Deep Learning Segmentation in Treatment Planning System RayStation Takes Place at Leeds Cancer Centre"
+    excerpt: "The in-built deep learning segmentation thorax model in RayStation 8B provides fast and excellent performance for ipsilateral lung contouring in the hypofractionated breast RT scenario. Given the positive results,"
+    publishedDateTime: 2020-07-14T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/further-clinical-implementation-of-deep-learning-segmentation-in-treatment-planning-system-raystation-takes-place-at-leeds-cancer-centre-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

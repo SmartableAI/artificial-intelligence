@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
+    excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
+    publishedDateTime: 2020-07-13T13:47:00Z
+    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 82
+    images:
+      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/mit-robot-gripper-with-cables-1200x630-c-ar1.91.jpg"
+        width: 1098
+        height: 574
+        isCached: true
   - title: "Camera-clad rubber fingertips allow robots to manipulate cables and wires"
     excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
     publishedDateTime: 2020-07-13T14:23:00Z
@@ -37,17 +53,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 68
-  - title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
-    excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-    publishedDateTime: 2020-07-13T13:30:00Z
-    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=8&itm_content=2x4&itm_term=2356592"
-    ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 62
 
 secured: "bUNe1uIxnn4lYvMrmdeTmFknjjZjHHFJ+bIjVlwGlbHfmVkZB8qKkyz+WhS/azYtHoBMU1ndMf9Gh0+S0dAZi98jGgGs/ivXAcpZN/rV04+6Q6xBZLMtPO6OJPdVum72EULRimmdsrcg0ZDdHN48l+mnZ9GidJcNEKe5kXt/Dxl1fvTSnzG5hMBEdiga4807bzg6q/DGOysNlgzjDTSuVgrMSumsLqXmxsd1voTo8SutfzEJIR51rjFWL8GzEnMWEQ4cRCc4LLn66VhwS+gf2oVOU08SnE1xsBd2Z1zyGhUVsFPt0ugccGs2v09/LbfBxe7RUbgefHyf2Dlmk/NmCg==;c48zdQLcfUHQORoneOOIAQ=="
 ---

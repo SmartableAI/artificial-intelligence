@@ -7,6 +7,7 @@ webUrl: "https://www.thefastmode.com/investments-and-expansions/17581-ntt-docomo
 type: article
 quality: 22
 heat: 22
+published: false
 
 provider:
   name: Deep

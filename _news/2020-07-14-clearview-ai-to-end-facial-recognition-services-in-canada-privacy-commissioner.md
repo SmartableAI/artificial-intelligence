@@ -180,15 +180,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 29
-  - title: "Facial recognition firm investigated"
-    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media"
-    publishedDateTime: 2020-07-10T11:00:00Z
-    webUrl: "https://www.avpress.com/news/newsline/facial-recognition-firm-investigated/article_55c36b92-c258-11ea-9d3e-afc7e27a0f24.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 19
 
 secured: "fuS9ud7tOsSqkQeXTjwQAx0L3nH3g+8mJ0xTIsqsL1oQxtr0pDCUsscIFyBTzL0gbViGhX5YJSRodCw1vqpRazIn7xRUtbG6ORNAgv5jTsTnesJynMkL4lPhqiFx9Ien3e/46RZtqCDp+7kdOvfkOgj7I9eXpEGtWdogqWYHYd0PUHefeYI9pDi125geOVAhZgrmH07cVs9IR2znCE0XCSvwkXAAmBVNMMS/0iDmjuFH/6WERgtHhb7KjAd+IxHs3VjHumUgKKwwt4vqF1xzYDlQ/9vuOhQmcArz+adCX858wEaiRdY5jVE3NMJvwV+ZgM8pl2u+6555qD7uGDgyBQ==;PfXffJ15HjVYS1Mk0wDL7w=="
 ---

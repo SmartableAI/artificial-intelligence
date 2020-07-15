@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T23:37:00Z
 webUrl: "https://findbiometrics.com/pfu-develop-face-recognition-tech-qualcomms-smart-city-accelerator-071407/"
 type: article
 quality: 33
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "PFU, a Fujitsu company, Joins Qualcomm Smart Cities Accelerator Program and Collaborates with Innominds on Contactless Facial Biometric Technologies"
-    excerpt: "PFU Limited, a Fujitsu company, announced today that it has joined the Qualcomm® Smart Cities Accelerator Program through its U.S."
-    publishedDateTime: 2020-07-14T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/pfu-a-fujitsu-company-joins-qualcomm-smart-cities-accelerator-program-and-collaborates-with-innominds-on-contactless-facial-biometric-technologies-301091254.html"
+  - title: "Biometric facial recognition contracts from Indian government for police and railways face eligibility questions"
+    excerpt: "Only independent companies and joint ventures will be able to bid on India’s Automated Facial Recognition System, not consortiums, companies were told during a meeting of potential bidders for the"
+    publishedDateTime: 2020-07-14T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202007/biometric-facial-recognition-contracts-from-indian-government-for-police-and-railways-face-eligibility-questions"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://mma.prnewswire.com/media/1199355/PFU_America_Logo.jpg?p=facebook"
-        width: 1316
-        height: 689
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "zG+cYRqVaKnoWGNVxkdZ2bN/OKuJWOAoYbt6hI4jvifF/lYOokt0gY+jB9yQX0o2pRoxdVavIAuJqHX/Pw3i6e/amO6qHvJmjxGJxUBmgbOwbv/kqEciRQP6aiMKREhmnRZLfF4pCg7n9oR7ippAfMpsd/kkhGjfQCwAkQ1fNK5UJfYZKAZnIsiOoQyNB3n3OdnjhG27KOiv12wthAlqrDt5EN2tH/ZZ6GkDR7Ii82e6wSQKrHai4USNoqcUM+3L5DfQLN95WjfyitRwXZIY+HmMwkx2swB4tqMCVnyISJmSZC0KuXVns1+5JckmQ2LgE3GalFRzR8Jte4Sul7ZPYKuqJaAyKLAFO96ygtw0bztdG7CQOWqx1ykPd/hJnYIwJ28nDTejsut+gzgc81P6fqbi5Kna5vNMRl99nV9OibH/uE6TRwN9Ip5daIhmMkAgEQFGXrTQbjzxbSVD/+3S73at9ywYDiIIO8EZiIJCfIjfKSpgUs6ORoUyN/rh7DkQH3JRE9+6fnBCKRc7O6CzOg==;wPzCcArN2rbdLBexXCDSHw=="

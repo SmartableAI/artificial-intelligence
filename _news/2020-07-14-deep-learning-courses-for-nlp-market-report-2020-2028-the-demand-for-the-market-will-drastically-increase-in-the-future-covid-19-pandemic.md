@@ -3,7 +3,7 @@ category: news
 title: "Deep Learning Courses for NLP Market Report (2020-2028) | The demand for the Market will drastically increase in the Future COVID-19 pandemic"
 excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
 publishedDateTime: 2020-07-14T01:40:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-report-2020-2028-the-demand-for-the-market-will-drastically-increase-in-the-future-covid-19-pandemic-2020-07-07"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-report-2020-2028-the-demand-for-the-market-will-drastically-increase-in-the-future-covid-19-pandemic-2020-07-07?tesla=y"
 type: article
 quality: 34
 heat: 34
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "BVYuOEqgH7V0xrYwVnnhrvDebzjkZlzyurq3CR/wqRoBwD2B+qwSRvod2ReSmH+A1mHWaloQj/4NCbDqHTOYeCNBck3LVgSDf9CLQxoytxC+3RPeuQA8UbtcJPAfsghmuTBRivNzHAMS9asetnaiP5NoJBzL9ZZP419HLQ5k+Z4QYEak+FVQ/SZhI1XoAOhfsHWa8q4jufiJQ+vKLvilo6ONO8NXZ4WO+C8Ncd7H02vNGGJW40IJfo+qYEiV4/gT+/rFEfs+9Jl/UWuae+ZSs4YiUqfFZKPE6kj1PkqaNeo32vzSk0IWndFMsrYbaKmmP3mJAQcKhMcU28ivaL8Xfw==;GH7HpZmS0jL84kMjLZwjcQ=="
+secured: "UyfGRHvl/gmPUcXpWuoyA/y7lxtT0IwApUg7O5Kt1qxy0oqBCky0+HcjQkfNHpyJMKFiCRrph/TdYW5UkN+n56tOzz/N6Wa3RREfI1GGTt1GJWjytBFashFw2hDEd67Ilmtk35FCSFq7DpBe4zyLue+eDxkcudS5Tcr2+C5yPGiJOzx9qS3yVV8H6xOl/xexg50hK7UvD/EZdnnx8nCHb7otLF/rJMly356fzgEvT5MDO+PT2DST/JRe0CFz5Epm/+VGd7h4Mb+TUahkRsly0/eDG3JKK8+pDhiLzDpKd9t9RbmTd/qpZl9kvwu/y9e8VVZpATY3znghfw0ZvoZDTA==;ytanBW5fKzi5x1jrL9nIgQ=="
 ---
 

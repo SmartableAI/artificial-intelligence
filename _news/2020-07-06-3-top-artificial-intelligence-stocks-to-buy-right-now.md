@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F581061%2Fgettyimages-1159763195.jpg&w=1200&op=resize"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "mq2Gqv7DkAk9k+4Ko9jPlMfPKEryhjpHkqmA59fiyVqoWsJnuXxxIyf7bJ9wIJlHem0SLAZ5oOmXmgms/WlDMrq/OwaL8gBsl23NH0oURXlSPz2XLWo9PPak51XU1dUrWmgTRoxmYN4QV0ySclrYF+xCnRuWVZKYszuAd+esYm5tTe6L2WMe0yg2W2YHcxoH96k5L00BsjSsNtHmJ3tcGRaWBOlrq0RcSHkPY/U93rDvzlEZqaL7hRLd6JVITghMpVM9NezJlwXz8yJbUngRzGDTIcaWXjYgoQZGpvvPCbd+1CAlieE9RwBfrFG0Ul8U569IVuZgJaTZVFyQwQDz9A==;jF5G5jhwiHFqzgJYtYeKag=="
+secured: "AE3JLquQ4hrCBfej196E6OOtwnK2BMUGgT2xvDYBfbZHI3HNXIWDDRkjaVBexV66jrPtqvK7Vfxu3Kkkf3JWDB/mbT9j9SP7tjbQDY1O4k29E+QOk5BglPZwz9dEEZbrLjTLrprgWYW2GpPYIHn32KWAwVQ72kUAp2hxTfdoNarvEN03Vg8kgMmo41OLr1X4hr6rA5l6MnLuAjOcjdrHVGXEB0I+DRi6uymi1P29WTtrtq2jzWBcIKBxIu73ec0T9OaRF054uvgoZEHA4oDFjH7wBnEsQUhEL4vXuLrVcuszxPY7yf22UWILo4+zBAdtKZkA2i40EZMYn+JtaKJX+9VUxplcR/e7Noe2VdYUkOmSQW4sbBBGVeRR3Hc7NWwsM24IMsuIGdSpCdGTCfZIFx5Dg3zDbRBdrt+AxsDV7dyiJAq0EJHXVCdchaugd/kqExokSSeiJ4SKMYMc1ZMntcIZBRQ2jTEb86SNhGZisuPoQ6L4GNDk5TR7hGm6ZMxZ8j9e5ZabOEqNuAMuQhrrZA==;hOP1kLCStz3JOXXyB9+oSg=="
 ---
 

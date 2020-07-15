@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12451554"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
 type: article
 quality: 66
-heat: 106
+heat: 126
 published: true
 
 provider:
@@ -73,6 +73,36 @@ related:
       - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
         width: 950
         height: 629
+        isCached: true
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-11T06:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
+    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
+    publishedDateTime: 2020-07-10T15:15:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 32
+    images:
+      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
     excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."

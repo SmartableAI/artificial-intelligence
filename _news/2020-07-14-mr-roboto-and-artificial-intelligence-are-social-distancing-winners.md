@@ -7,8 +7,9 @@ webUrl: "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence
 ampWebUrl: "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 116
+published: true
 
 provider:
   name: MarketWatch
@@ -21,12 +22,29 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Blink.AI uses AI software to enhance imaging for stills, video and sensing"
+    excerpt: "The startup’s machine learning algorithms were employed for everything from minimizing snowfall in a video to improving conditions for self-driving vehicles. on the Gadgetshow"
+    publishedDateTime: 2020-07-14T20:56:00Z
+    webUrl: "https://techcrunch.com/video/blink-ai-uses-ai-software-to-enhance-imaging-for-stills-video-and-sensing/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 65
+    images:
+      - url: "https://img.vidible.tv/prod/2020-07/14/5f0e0ae4a2a07d0556658f3d/5f0e0b8293494f2c7fffda95_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "R5o4o4l9W7u7WHNw0pf7R5lrB/NAWqKl8yFcTt0FqF/1t+qupLMmPALJyBPGyQgpWnFeUjvKSTEFctYZt50qhjhGEaVnDUJjdejFLJEpWkbVOjN8Vvv1kT2MpNiEVRFN2P2dgd5o6F+qfYM4FNPRAhdpleg/a3v8mXu5XjXJgedv2/uao4RfOj0wLnpJ4Hr5g6LQXfDdUs2X1PVch4JxxYXR1i5OsdFYZ85ModGpj0nPvgZEnqcB4L5PMBdWIu0c2pVCgwTWCJGN72YXg15y839mdu79YXRQLubXIlYoSkH4oO3o/P8OnbNOmJzMOctFT0DlR6I33ZOT9ajxzti/1w==;4bOtcTymY9rcZ73UrxlfdQ=="
 ---

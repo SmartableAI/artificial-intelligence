@@ -7,6 +7,7 @@ webUrl: "https://www.prnewswire.com/news-releases/human-horizons-cto-gives-keyno
 type: article
 quality: 28
 heat: 28
+published: false
 
 provider:
   name: PR Newswire
@@ -21,6 +22,6 @@ images:
     height: 1005
     isCached: true
 
-secured: "Hv1DX8ZEKok37slCELUVMMSQ/vjLhmcs0n9YGIFJtFURjhBIG4jdo8srx+VzQXPtRMn+YfWM7RPomr8LQp6Sbw15tB5bpF7wmueaph9f0RZN79ChiKmAYZV1qybnehFnSkdJn7wPebCgaQq7LbZIZQX2Ch0qolO7hEsD9Yhv1IvcRIwIzbNybF7VtiGcjPN9i6qW6bIEgj+ECb9fdp1kpKPL8+V6hMsxpU+kQOeNx1REcrLKEovjurYzW2FxfI0RvccSDfKo9ePOcpMd4I1tieCXG9B/gyYyk/c5WonZDagA6jgy9kufZPUr0irsO75OePYoovavpPcPBnSPW/DZ7Q==;XR0TEWRD1P6/IdyZlbpMJA=="
+secured: "7THcOBQDXWnmQV3GXb1WqicQxoo+Xwv+rO8gi6h0W039RymDQPScogSpm884w4TLmXpY1Tl/D55MzNPWLMZA5sfrQuBLd12WBTTAhu7DlZgphkc0c0YBMXcYIhHVYIOdZzUrmBIe1W36j9YUhD+T2BiR1BHRYQccMwDy9jBFGKXcp80b5+v0AW7aSk1h/R/yjeKcJjuN8HGbeZiayqvl0zBfqmZ4xKCU/reLkBRC2uf/8xZ88paEW8RnWj6F2okX7zis+NymtJ/Bs4vukUheYis81MN0Ybv5tCRR7kG0FK/xSzXd5aYH45uMW7k3BTfshRrJI7rGNB6hZ8JZD23stXh8Kt+G1vxUOUSelNaeAYj3eD2FZwt3/+MFwbsg++jgg8i62OD2Eo0iMCEy4+SjZTN1+SgXHFlPvdGKH75/qq+XtvziaWvHJ5q3oS6GIB5dwyNn99oR4DTPTjwSmclNadYo+BYloBLSrtmnoq+d0ZT+0E3hCG7XTsg5+D1QwZji8Pt4n2aG3DZjvQVFgDWKqw==;sFcOQfdRnqxUqTjL/TKhAQ=="
 ---
 

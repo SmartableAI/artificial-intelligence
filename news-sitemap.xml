@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/</loc>
+    <lastmod>2020-07-14T21:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/</loc>
+    <lastmod>2020-07-14T20:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/</loc>
     <lastmod>2020-07-14T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -31,14 +43,26 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/14/this-robot-uses-color-cameras-and-ai-to-grab-transparent-objects/</loc>
+    <lastmod>2020-07-14T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization</loc>
     <lastmod>2020-07-14T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14</loc>
+    <lastmod>2020-07-14T10:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -181,6 +205,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y</loc>
+    <lastmod>2020-07-13T19:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7</loc>
     <lastmod>2020-07-13T16:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -259,12 +289,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/mit-csail-gelsight-research/</loc>
-    <lastmod>2020-07-13T07:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/</loc>
     <lastmod>2020-07-13T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -272,6 +296,12 @@
   </url>
   <url>
     <loc>https://www.openpr.com/news/2089130/artificial-intelligence-ai-in-retail-market-overview</loc>
+    <lastmod>2020-07-13T06:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&amp;itm_content=2x4&amp;itm_term=2376504</loc>
     <lastmod>2020-07-13T06:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -531,12 +561,6 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092740/data-privacy-concerns-weigh-heavily-chinas-ai-leadership-ambitions</loc>
     <lastmod>2020-07-10T06:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.tribuneindia.com/news/jobs-careers/iisc-research-team-designs-eye-gaze-controlled-robotic-arm-for-speech-and-motor-impaired-111071</loc>
-    <lastmod>2020-07-10T05:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1387,6 +1411,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
+    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1407,12 +1437,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699</loc>
     <lastmod>2020-07-06T09:37:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06</loc>
-    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2175,6 +2199,12 @@
   <url>
     <loc>https://www.techradar.com/in/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers</loc>
     <lastmod>2020-06-30T17:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/</loc>
+    <lastmod>2020-06-30T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

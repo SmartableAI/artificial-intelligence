@@ -59,19 +59,19 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world's first autonomous AI service"
-    excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world's first fully autonomous"
-    publishedDateTime: 2020-07-14T13:53:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/realityengines-ai-rebrands-as-abacus-ai-announces-series-a-funding-and-general-availability-of-the/article_02bb1fd5-f52c-511b-b401-6c1e02576caa.html"
+  - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world’s first autonomous AI service"
+    excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world’s first fully autonomous AI service. As part of the launch,"
+    publishedDateTime: 2020-07-14T13:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/2f458aecc38296d29e84d9e02fc62ac8"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Associated Press
+      domain: apnews.com
     quality: 5
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "TmlJHejZBgPJdT0qo3fvEQNBRmGGN9T3F6g/yxy6npk0O4eKzxp7FtcQABEXniVl0Rm52JlQGKptMXWmR80DksTajVyUkup7NxE1frVvR2cUXJAxUCAAg5HYFd1xd8IK1cfACUh+mVzg1T3C1WvT7o1z4YVcJ33N0AweV5+1nZl8ak61qwOZkvVAsuu3vJdfvOY/eyF7jsW7ybYBu1syQbubqfbwzX9PpAMHOWRtncKEeOWoSzYwC+ZbRvxC7A00iexBT9cO/sGgJQonpXDuhv0QqitilvMzvOWjlTPw/SDA2xr8f0kHqF8TYd0IGf2V5Yfoz1VAqK+OcoyMr2GgwhpAxjsBu4o5Tb3m/7nItjZ7a4kGhrAONPlx9htsD7GMme7tvaQcO3xHG5YXDuLBbiMMp8A3e0F71ufc+TYSH5tNmznSKpDyqJWG4fULnCuH2hciP6KCB6PJJQQ1a6glIYyh/jacX2lAwzk/Z8DE8eghsB57CAtX2g32igI6lj5d1aODlx0h1mYQOY2AwCkzHA==;q9eu/KWBFtHDOl8ziOnClQ=="

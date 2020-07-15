@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/how-the-growing-facial-rec
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-the-growing-facial-recognition-debate-impacts-martech/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,65 +24,6 @@ images:
     width: 640
     height: 480
     isCached: true
-
-related:
-  - title: "Defending Black Lives Means Banning Facial Recognition"
-    excerpt: "What’s happening in Detroit should be a wakeup call for the nation. We can’t stop police violence without ending police surveillance."
-    publishedDateTime: 2020-07-10T12:00:00Z
-    webUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/"
-    ampWebUrl: "https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/defending-black-lives-means-banning-facial-recognition/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Is Facial Recognition Technology Good Or Bad?"
-    excerpt: "Facial recognition technology is fantastic and useful too, but we need to start focusing on its uses and not on the technology itself."
-    publishedDateTime: 2020-07-10T11:46:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/is-facial-recognition-technology-good-or-bad/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-  - title: "Black lawmakers call for ban on police use of facial recognition technology"
-    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
-    publishedDateTime: 2020-07-11T06:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
-    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
-    publishedDateTime: 2020-07-10T15:15:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 32
-    images:
-      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "ks7j4QkgzM9jzkdWjGOn4t2Q/KUpaIMi3z0jk3B8siRblAXVprT1ZvCNm8J329m75YlNUZNGgs/POU9CbWe1hK3nS+O3SDN04PwoMhScxvLyrR4JXmTvBy7vjwXbn7nUT/t7F5NNVdxtHf27VGTuEP8solMT7n+vBITPHOKxQnCpuDsoLQ6YTiCv7IGM1T4WJ8gHNCoa2giWLnlm7HbIvqeaVelPVDcjIImfj5Y4Wi/gA8xd9Uk52TN7EZE0YpVXQoyDKs4kFg4fqT2WlsJ26YrXWkPrNz1irFnrfDHUJMzmQoMlL2wSsI9NaiMlRKVYyouWtsczNXYODsh9F0SgTA==;zN/SJDULNY8IYwOcIvVA5g=="
 ---

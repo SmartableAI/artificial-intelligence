@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T11:47:00Z
 webUrl: "https://www.autonews.com/china/racing-commercialize-avs"
 type: article
 quality: 24
-heat: 34
+heat: 24
 published: false
 
 provider:

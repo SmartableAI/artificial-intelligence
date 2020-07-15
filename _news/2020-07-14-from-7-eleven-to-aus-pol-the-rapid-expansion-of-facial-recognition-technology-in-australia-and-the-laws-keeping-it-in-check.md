@@ -88,6 +88,36 @@ related:
         width: 950
         height: 629
         isCached: true
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-11T06:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
+    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
+    publishedDateTime: 2020-07-10T15:15:00Z
+    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
+    type: article
+    provider:
+      name: Metro Times
+      domain: metrotimes.com
+    quality: 32
+    images:
+      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "qx/qVMAiUQkuEDvuvHS5fncL4udQZWMErgUXHQgqVM1fR9w2+n2ntf6G4IoNDCKLrl2prEScfSs/H3c68nOwdmfAE4jKsoUeysnZ6ecSYETtgB4aKhomVhUJr9LWeqFWXexPuZdMiIxUxaH+pakCw6tCxAwxpYe4yWWP32hhtrgCO8vJ6O8xCxEeM55S+4D8V5YGUh8X/72RxPhUK0uzpHiQr7ykBUI96EPFLs1/pob4RxJ5+bgORDedl4imoiw3qsuejys3C9fFng/OhxdpqbvFH3JDOdPqC2svSR9DW55XwOcXunPw+aH94DQvI4Eu7XfRzVTpNvoPZA9V3/VtK0yNtSkm5LOy0ROLXnkGuHUACnEXbHGP2patNYztSzDhEAEivHcZkTdJ8RuDkL0cMcdy9l351oE3YQROBtuezmKPVrxomK739KunwKpc5jX5a/d+pKHhg1ZFdLCcfYLA3m+KUh7KIyWKwU8zO+YdfRSjy+rNmfRGjHgUU7zcy6a1xeBRRPBBlMOtpLdSuBkWNA==;H3oXEDdfE5PCzPpR0I0NiA=="
 ---

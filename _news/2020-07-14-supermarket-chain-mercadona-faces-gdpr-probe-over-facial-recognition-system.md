@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-r
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
 type: article
 quality: 102
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -184,15 +184,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 29
-  - title: "Facial recognition firm investigated"
-    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media"
-    publishedDateTime: 2020-07-10T11:00:00Z
-    webUrl: "https://www.avpress.com/news/newsline/facial-recognition-firm-investigated/article_55c36b92-c258-11ea-9d3e-afc7e27a0f24.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 19
 
 secured: "bynP4Yb5Lvi+BYi8Ny/K+O9kTZl+x+C82Y3h/2LnflcGd/Yp5idQFRo4/cjhqAqrhnccN9DfJR8/tmLr/dtZSQXYF04yvO4sznJcmS4q5j8z+5yR8m6aUrf/SZnvwq3gcmfdOvpOn1Rnpw696ScE5vvvclrDjGmbpzQ+EvGjUbVyQfMOBFC/kUm3syw9NuLc7jhCjXJLEcFKglkgDEP8QAdH1mVUxs9MJC9GwTCFUdlQmhDmLsko0kcU3PIgiulqV9p4MAY5z8BTe+1p0dLoJvXCd4KtabHdgmEDQRYYGSdTBvNheoWFSg3Riw4d4HMNzkurqkK5LLTu9NIuHVWOOgUisZXtK5c/UZIHO7X/C2+BKfWvzukttRRnu254JKxqUV2WBe1HqzjEM2pKK5v9fDAX4uKctqToc8rabOiVDvGfNqHkPqgnMnLhsn1vl+99wiYXVy/mn3siiQ+Utqo3N+4F8nxL2NP9ZXvnxRNaEZlPYjws2CqA30KA1HGU0tPl/pFW9a3jgU18+MVxkrAjnQ==;foRzd8TP0tATBbfnCKkMWg=="
 ---

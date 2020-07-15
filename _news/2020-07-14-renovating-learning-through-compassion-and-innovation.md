@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T16:52:00Z
 webUrl: "https://msutoday.msu.edu/news/2020/renovating-learning-through-compassion-and-innovation/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 497
     height: 294
     isCached: true
-
-related:
-  - title: "Deep learning enables early detection and classification of live bacteria using holography"
-    excerpt: "Waterborne diseases affect more than 2 billion people worldwide, causing substantial economic burden. For example, the treatment of waterborne diseases costs more than $2 billion annually in the United States alone,"
-    publishedDateTime: 2020-07-10T09:30:00Z
-    webUrl: "https://phys.org/news/2020-07-deep-enables-early-classification-bacteria.html"
-    ampWebUrl: "https://phys.org/news/2020-07-deep-enables-early-classification-bacteria.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-deep-enables-early-classification-bacteria.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 49
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/18-deeplearning.jpg"
-        width: 865
-        height: 518
-        isCached: true
 
 secured: "9Icm6VTHJ4noPQUftOQVugnSPu5z8BlHMVTptcVqaK8c/y4kyQHDW8d9+o5cp+WK2otLhKpkVJggIrd/IbJqWF4sPABax3FiUjsfwA7Kk5LCA4wM3FHqSKgbRheNMVVfz1EkQTT6yIjv7yFjZmxBOraRtlYU5lJf+l3CQn8JXKFT9QnxNka23SWnJlzMNhmtjpTXqlnpNPD83xy86LySt/gYMFaEl2UaGfJ/7KYnymvQMc8qPIHg1hXiq2/+6MeX8lv736g46b5dqszIiUt+jBuByYHqlYxc3CisdQhp9uvuWXs1G9BjknWeTWVY3F+iyMkBLhknkw9uFthZPcFA3UuSNiGPcBf+7C23UT8SaNWuOqGg2JhGgC3UMhWr5BP33MR4t0taoiMCxpg5GYDm5N1fml7GFbduaZx0jbXWUW+rGYCSl7uCJP3mPyZ2Irp6Rwa++aXFzpd/Ac2wIa+mJvWeY6/PlS2AiZECPw9u8bSZGJmy/CwgEqUg8SrDQXQ84291wxrWU5s1TY8WjdS3VQ==;LfwfVMls2RUNQrYIe+kgYw=="
 ---

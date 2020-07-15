@@ -179,15 +179,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
-  - title: "Facial recognition firm investigated"
-    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media"
-    publishedDateTime: 2020-07-10T11:00:00Z
-    webUrl: "https://www.avpress.com/news/newsline/facial-recognition-firm-investigated/article_55c36b92-c258-11ea-9d3e-afc7e27a0f24.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 19
 
 secured: "lkN3zCjHI7mnUyxPtyjfTnNJf9W5N5zdqksZV/7B28eQvt3xgR2SH5CD+zGcS448fcMHFJbYSN1zzOi7JYq/56Fwx4yZsx9UnMX4Q591mtE1pW2Tj58Hz3TrlfZ/97maNxurr/naDo/kWDVMocAFLnRLCrV1G/1mefoM7ba+Dvv0ThjRv5FwTsJa+JznEhmQdqkvznMQHsaJXrmoIpIpGWlqxnoO9MndUGlJIyENYgZUtx+n1OJjYoKeHZK2mvukw7rrn2D7o8lTaxhsyvlJ0znYkQSIpdG+itPQf0Km5OoUQ0MIL4c9sGlW+d+Ymux5ej0tMfeDmColkUi1DZf3gg==;cOCIvDv+eOWcElqXSTNP4g=="
 ---

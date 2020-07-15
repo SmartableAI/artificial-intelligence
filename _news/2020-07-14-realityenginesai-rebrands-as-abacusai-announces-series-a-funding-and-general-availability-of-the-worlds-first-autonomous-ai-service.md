@@ -1,25 +1,25 @@
 ---
 category: news
-title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world's first autonomous AI service"
-excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world's first fully autonomous"
-publishedDateTime: 2020-07-14T13:53:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/realityengines-ai-rebrands-as-abacus-ai-announces-series-a-funding-and-general-availability-of-the/article_02bb1fd5-f52c-511b-b401-6c1e02576caa.html"
+title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world’s first autonomous AI service"
+excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world’s first fully autonomous AI service. As part of the launch,"
+publishedDateTime: 2020-07-14T13:00:00Z
+webUrl: "https://apnews.com/PR Newswire/2f458aecc38296d29e84d9e02fc62ac8"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 627
         isCached: true
 
-secured: "+AQgfZsBY3G6Etc0JCv+tIJ+8iURADP+Z2yveH3bbO1qB3FvbpNMilv9/avfXjivadj8fJ6VT4y7796CMV5q/3cOYaAHIdwizRsv/gsP8TnG8v2IoY9f0EDz7zu01czadj4PRBB8Hi2oJmg6IfQY7bZy27VvF5zV5E4W0pSYm2F8E7+0R6fQjbSzsNJGqBVEAoNf/lmg971uWR59ZVd9UY8yRGA9FDmGo9hlkOnehBGo1+kOOER/K5CotaLHPaOBvarzTRrYMHK3eOwyH4LafIr3lJeEIvwu12jyi/BZun8MxJ4btKHrcY19tJC4RsymRm+wX9m6NfN/WRMW32yeaA==;J+mt7lvKk5a3BVxzu8f8jw=="
+secured: "Eh2p+IDz6aMSxGY+8BeIFn4DKw6SQrH357P6RIQ+M0RD5/SCvNss0GzRpyEp/mvW4vXqVkxtsZGG08hMP1n1bFyoJbwJHvPh4cb9cWCOliuqspRfu6gR+lJE6GtC/nt0svVHt+i1NEHFB7teWVz1oRGDvBiNlo/DNBJ6JIsUzIG4AgkUGVfonpAOZLdzr5kfZw0Ug9bV5vzdA8wDIA8+gT7nMUxYq/Ab6CZjOke78n0pMNiC/CUi5bqw5b5PnwF4suRLSlK4YEjwzYjbzTL2C2F+/E0QWWeNeKmLzeNuyNAbNBNfGD4SSUaLLZaX8Jz9bC6c2AuEq03+rbVibnlC/A==;4ZoA1YNM35TANmJRH6B6Pg=="
 ---
 
