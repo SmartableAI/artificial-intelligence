@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "White Castle Selects Miso Robotics for a New Era of Artificial Intelligence in the Fast Food Industry"
-    excerpt: "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the first autonomous grilling and frying kitchen assistant,"
-    publishedDateTime: 2020-07-14T09:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
   - title: "White Castle to test out Flippy kitchen robot to cut down on human contact with food"
     excerpt: "The idea is to reduce human contact with food during the cooking process and comes after many restaurants were crippled due to the pandemic."
     publishedDateTime: 2020-07-14T12:24:00Z

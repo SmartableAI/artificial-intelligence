@@ -7,8 +7,8 @@ webUrl: "https://bgr.com/2017/06/30/mind-reading-ai-carnegie-mellon/"
 ampWebUrl: "https://bgr.com/2017/06/30/mind-reading-ai-carnegie-mellon/amp/"
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2017/06/30/mind-reading-ai-carnegie-mellon/amp/"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://boygeniusreport.files.wordpress.com/2017/02/brain.jpg?quality=70&#038;strip=all"
@@ -24,6 +25,6 @@ images:
     height: 1205
     isCached: true
 
-secured: "Z2pc8XAQ2mvvs/zWxIAMhJ4eqw9CnHQhdis2xxqYsTmWoIVCp3jzX9NvzfAm5eJAZ8LdNvzaZ/BA7U1CbVBabNuHL354DSOR2E06CMYHpCEw2u07rSKf3w8988OUASvIYx4o1h0dkXPKLXSnmMsu9dklLMPktD1MGZy6LVTkbrQHu/BcwGAzAe1Op0UKO20Xxxg5H8JLNRa5a1hLproUqBpti8k91i8dbc074OBnTxSHq/6c2Ornb+z0H01Gm+7EtwyiGBXnH/Qv2V9QPu9uOSPs16SfOPKzP7yHJ/OWD64YnEav7a7pAp4wxMgKmfTtZw00iQAUJUcmt7id5dAjVQ==;ClRZ8vqw/YskfBGOPOqE7Q=="
+secured: "MK0Nha74GaKXbE3Rpn8LXjfbxXd9+8M97MfPkYnAqKv0RhTCTz4/9oXRc1JRa/wdQV4AwO0bcL5GrwUrZGeoSP7V2puiUOJBuoMMukNe/k+TDsLE+SanzPP0DzYwLAThZEtNNcxTDaSmdpij25G5xVSI88Y2CjDf0EXTLrJRqlDhM1Ucw7SBANI7dsj8gbBaDYCIQI3Q4CtcduuwaG+3pwNk4SZbDCKzgIEnqVgSiZ+T7M9zyPB4z063wj5kOKI990z9oEuc0Ok5+5rM/Pf4SSQRjqMlVquuS5gQZltLjGaGmFHgEqMOCzqrhBkSjXg1L4kkjgbVnbuwunfNTqQTtfvbGBbKdHN03qJGClpVGAI3gGtUUpyCwAQ8coJhDCR791e85EMsOjLgT8D5GTVpi0wM9rbWAzjB0J8NPiJ4xGp7JweK3G59cKJtYACqHZ+MIlyMdus1tLjqwhC/XXxoXYmPGcFafUCwySRU+//SWHndnnsECA932arxF45VtNAd;n07XtyFT4rySLZ1dL7AxIg=="
 ---
 

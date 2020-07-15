@@ -38,7 +38,21 @@ related:
         width: 620
         height: 350
         isCached: true
+  - title: "IDEMIA Wins the Security Industry Association (SIA) Award for the Best New Biometric Product for Its VisionPass Advanced Facial Recognition Device"
+    excerpt: "IDEMIA, the global leader in Augmented Identity, today announces that VisionPass, its newly launched advanced facial recognition device, won the SIA N"
+    publishedDateTime: 2020-07-15T07:24:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200715005029/en/IDEMIA-Wins-Security-Industry-Association-SIA-Award"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20200715005029/en/805281/23/IDEMIA_VisionPass_won_SIA_Award.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "C6ub8Q9lKsO7/mmVVj+iNHU3g1gIG5Y/tRZ05NCeHw2p6hg01IlvT8feku4nEfd4VWZ+18oMmGBKgc4ridiIOpX4c1pTtGQKWxHdU73qSNEHJ7VLrx7rg9TFbJUBBKqtHktxLfO80jr4TQWPfU98wxTuZczTmlqb/8i3h0gB9wopA0lGRuYRHqngO/0LsoRZRKyJ1uydS3sFeW/3TEgajuX0nxw/DRjvP0Jh6SDYaQpYmy48gIpoliPUs/d3NfSK5r+6Q778tfdXRxDZjDMrrUq+W0MkcFQrOHFC/ColxiUnV+Z1XiuE+/2+Y4h+nNhIafTFQQsnCFF2kloeujcyLg==;IsFntjs7J5JNT3aRbKKoxw=="
+secured: "hOMDRwQSQplWu/D3J8j9A0il2GV/wqK0rPH8pOSBNy7LuY1Eu7QaQQJll7b+gySLac6zulOzf1qSRtiD+CXJC/w47/1h2hoGR+bmGDBB1a/NWl07aqdPd2g9+LsKHnQ73fpfMu0NyFeyMgMCMHMI4cOBGWi8tz7bV9kesc43V2nskTflNqbLRusuEen49V5qmqZk8LpHfHIf52eJaOo6jiAnacje/OiCxAZoieJXsxmTRXkXrslNx1LXrWPMJcN+XdaO8pJuIScdOqZYCYWCa/VHdCHYHGvw0BJjZrsLvJFNdibrrNM4c6wmJvQM0lKcnx5Mkt0tf+Qxq82FIEyOdD2MfvpZPr6jhD83do8Zji1JygkFREhwHDOWTQIuqreiTf08DYQsWsXFxnTgpUmOVITcmd39HdmxrJ3dzN71z4pJ7Ff82bFZht7OtAUPXV1AV6FyODN1c1EsY6b7TO/5jT8OlC+NrdmRrh2r73B/+t+JU3D/BNBKFpFiVAOtpZYpauAlBFW2jPjMDJtEWymW3g==;ue38FwCgAbgxFCGER2lAVQ=="
 ---
 

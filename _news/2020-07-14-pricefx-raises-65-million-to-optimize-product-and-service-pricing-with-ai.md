@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-opti
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: VentureBeat
@@ -27,38 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Aryballe raises $7.9 million for odor-detecting AI sensors"
-    excerpt: "Aryballe, which develops AI-powered products capable of detecting and analyzing scents, has raised $7.9 million in venture capital."
-    publishedDateTime: 2020-07-10T14:11:00Z
-    webUrl: "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/"
-    ampWebUrl: "https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/AryballeTech_Lead-e1594391849695.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Start-up that detects fake news raises £2.5m to prepare for US elections"
-    excerpt: "Logically, a West Yorkshire-based a tech start-up using AI to detect misinformation and to provide a fact-checking service, has raised £2.5m to further develop its product in time for the US election. The company has secured funding from NPIF – Mercia ..."
-    publishedDateTime: 2020-07-13T10:10:00Z
-    webUrl: "https://www.thebusinessdesk.com/yorkshire/news/2058789-start-up-that-detects-fake-news-raises-2.5m-to-prepare-for-us-elections"
-    type: article
-    provider:
-      name: The UK
-      domain: thebusinessdesk.com
-    quality: 36
-    images:
-      - url: "https://www.thebusinessdesk.com/_files/images/jul_20/Logically-Lyric-Jain.jpg"
-        width: 1600
-        height: 1142
-        isCached: true
 
 secured: "+sGpJV+dOTy5NIk/vwKDyePx+5s7nUUGrYjBf+3Q10a49/81Q0b/zrM5QjeqTFelf1kFET3oREHUxmBv8jG6PZ9Qb2wqWGDTDhU1iGSO1kdmzCCEzLagauvS84lpirF2Fx3vtNTgUl9TyrdZfFsK+RfIG/E+WFE30JCqvUNEyutqQAtQwT+Te871Bp/3i1NMWvpL/tue2dxbawy0qw4OSWAV7uNt0s5ZPuHDk6h1tqhSFbNceKAE3fN7P17jgWPbZ7dpFOmqwOal6o+QA4wuFZk8s9lSrdp7kR2aXnyc1Cjk3Pg8DWA7VLJOj0zxek52lDSHQz4+T+0j+XH4D2L9tyBjGCFgQ02Jbn9Scd9dbvb/k/EljmT3saKpF3GLP6wgJtEWPVRgvUT7rfe46XmQKkfzHX+EwsuuqldC4gjA3IiaaEgHsPmYWGiXx3biPuyjQtNknmYT8jDsKfSh9oSa57UB9aJGdKd9Vt47y84MP56jK203UHnfIW9TRXBagVgQ;VVMeQMluLa9NCXsjEPZw5A=="
 ---

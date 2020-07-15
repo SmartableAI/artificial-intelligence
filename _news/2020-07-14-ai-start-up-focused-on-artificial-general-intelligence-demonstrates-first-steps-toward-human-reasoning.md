@@ -5,7 +5,7 @@ excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business 
 publishedDateTime: 2020-07-14T13:49:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -14,6 +14,7 @@ provider:
   domain: wfmz.com
 
 topics:
+  - AI in Robotics
   - AI
 
 related:
@@ -34,6 +35,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IHbbSZm1xm0hbP7WfqzbLwYBEqGXp6Vs+/y2foR+hfzUuDkXYsDdBDc7/MI4As+ypR1BBckb14zWllUtNM2DOT1aAlClEkuDYwqUuRkx4AXQrT1Asrc3YsuTusbae65dqiBqWK0MPr3V3VzikcD+RKXTdWew8rClXrF7CHM2lf64DXyqMFhYolRUKICspNm0HmMio2Kiv6per5xkAbcNmjeoEPfbGAh5D9OCtY1ru0k6HQg9Ua2uVVv757Xaqu2jY1oe1/b9jB8hA7s7rVf6LODaj/ZKtVqoGRVm0N28sbl9m2A+ONYnMDCNiOahiF4XcQVJf/ZesPN6F53kFqKHm0/134mIOggxwwOIW6Y09JqJvRoLzQ9gz492ER6xmsN3Un0LeWQYS5WMkkfvmztz1BRm1myuvsqB4tv/OpJtpvwLmpGAjqBjejHFonTZi/SzWZ8MhVgdhUhE5qHvBrBnIR08tXGBf37G0DqsRKfndr6Xpjpki5aQlemw2BAdyhn/ahKVcW0t/uz1w5GGGdTwgA==;GrU/ay+sZ4yLjgjeFAikAw=="
+secured: "I9ntWM0fPNzGcJ1cOeceL74vnEKNeHU4Hr371SzuTdwyxYeqP35yZUfNXFmcwCNkJHyiNEn0ZSUcc9mgu8JNlMTQ+616PEeVW5GJjKNWBjjJ2CB9iCSSla2HGJMm3vw+d+XZvAcRiJfDxkvAiCkBaiN95w8fS2iNJeUjLycqE7CJP2UaqzyfkeUrUXUJq7WQsUKMMr97n+WCJomOGnWEhhd1JMXxLP1rjW4K0YkaupzMUFQVacBj8x8GbKhk+oJFstFhy+TlNMLo8vKzqU+mkl4ycuVQWEOkJ8SKTxD/rK+6fBos8hkSRSSqwryN8FwviaXmrVzY2+ZgQQYvTNxeQR3XtfvPAM+CV/W04dF76kRAJinUvp91t0ioY/6YAWCLTXtbdd28UJuY55mRe4Sg6TgrpPyJCYlnZWzg8lijou19z9XQ/m4KYk5iRN/s8HT0tQ1nKYpTgirmDZOt7CBkqEy+sn6Vgf69T/QD/FRqZUQDYo5aZ2NiuRHWsIvnHuq8CPJAuYWADBTFJYci6iolqQ==;CiVvk2Hjga5o15r+u6BxQw=="
 ---
 

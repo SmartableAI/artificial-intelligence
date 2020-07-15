@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Dimond: The double-edged sword of facial recognition technology"
+    excerpt: "On the television crime drama “FBI,” Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
+    publishedDateTime: 2020-07-14T04:00:00Z
+    webUrl: "https://www.winchesterstar.com/winchester_star/dimond-the-double-edged-sword-of-facial-recognition-technology/article_6bef52ea-1d0a-5cb1-abde-8260c2554833.html"
+    type: article
+    provider:
+      name: Winchester Star
+      domain: winchesterstar.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
     excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
     publishedDateTime: 2020-07-10T15:15:00Z

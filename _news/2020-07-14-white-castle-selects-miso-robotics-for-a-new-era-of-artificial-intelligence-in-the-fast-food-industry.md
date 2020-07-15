@@ -24,90 +24,56 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Miso’s kitchen robots will slide into White Castle restaurants this year"
-    excerpt: "Startup Miso Robotics is teaming up with White Castle to deploy its food prep robots in fast-food kitchens later this year."
-    publishedDateTime: 2020-07-14T09:04:00Z
-    webUrl: "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/"
-    ampWebUrl: "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/"
+  - title: "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens"
+    excerpt: "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for"
+    publishedDateTime: 2020-07-15T06:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 88
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+  - title: "AMP Robotics Named to Forbes AI 50"
+    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of Amer"
+    publishedDateTime: 2020-07-10T20:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 71
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/IMG_4228.jpg?w=1200&#038;strip=all"
+      - url: "https://mms.businesswire.com/media/20200710005481/en/804686/23/AMP_Logo.jpg"
         width: 1200
-        height: 900
+        height: 627
         isCached: true
-  - title: "White Castle hires 'Flippy' the robot"
-    excerpt: "Continue Reading Below The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy, have already been testing the robot's ability to cook White Castle's fried foods at one location. If the pilot is successful ..."
-    publishedDateTime: 2020-07-14T16:31:00Z
-    webUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot"
-    ampWebUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
+  - title: "AMP Robotics Named to Forbes AI 50"
+    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America's"
+    publishedDateTime: 2020-07-13T06:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/w16600240/amp-robotics-named-to-forbes-ai-50"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16600240"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16600240"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 69
+  - title: "AMP Robotics Named to Forbes AI 50"
+    excerpt: "Company recognized among rising stars of artificial intelligence for its AI-guided robots transforming the recycling industry"
+    publishedDateTime: 2020-07-14T07:10:00Z
+    webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-named-forbes-ai-50"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 69
     images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.waste360.com/sites/waste360.com/files/SSR%20-%20AMP%20Fleet%20Image.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "White Castle to test out Flippy kitchen robot to cut down on human contact with food"
-    excerpt: "The idea is to reduce human contact with food during the cooking process and comes after many restaurants were crippled due to the pandemic."
-    publishedDateTime: 2020-07-14T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/07/14/white-castle-brings-flippy-burger-robot-kitchen-due-pandemic/5433415002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5433415002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5433415002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/ae01e88fefd295cc37badb44af413d36a92f9ba8/c=0-32-1608-940/local/-/media/2018/07/25/USATODAY/USATODAY/636681286027605686-Google-ChromeScreenSnapz039.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Flippy the kitchen robot is going to White Castle"
-    excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
-    publishedDateTime: 2020-07-14T08:15:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
-  - title: "White Castle is Bringing Robots to the Kitchen"
-    excerpt: "White Castle announced Tuesday a planned pilot with the company to accelerate adoption of artificial intelligence and robotics throughout the 99-year-old, family-owned chain. White Castle will introduce the new version of Flippy, Robot-on-a-Rail ..."
-    publishedDateTime: 2020-07-14T12:00:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-food/white-castle-bringing-robots-kitchen"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-07/WhiteCastle.jpg?itok=dNAmDdNf"
-        width: 765
-        height: 446
-        isCached: true
-  - title: "White Castle to test grilling, frying robot in restaurants"
-    excerpt: "White Castle is about to get a new assistant in the kitchen – a robotic one. The fast-food chain will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy, an autonomous grilling and frying kitchen assistant,"
-    publishedDateTime: 2020-07-14T11:06:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
-    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
 
 secured: "jBW1KXTLxQ9iRYBTq8t3fiHfPhh3RX5mnfLULROra5COCmOdeN89qGi28CF0rgwU/HpSKRLdz7sU6DOed7JV9oTf1IC/+tqutk3S41HKHDSAHihlwvS6UPNURqoHRMd1hHjf7pAbNmt01LZqon0WT7bgs+iQp2cdJk9qk9KxVg+F+I0og9fPs4b0Ymn3OwPivIFREwTisV6/ObaDcuYXENL4Tev+Lc3c68ElgRdHSsr7OR6IaRJCG3UQfn5BDn1DEBQUPh1k1YD8v12rkKeK0aR/ArnrstDyUVWX6MjS+ytyB92od5N9OskG+1KX5mfLhleACx9LrA8xHAwnxBa/iw==;7PlN5370x2MUlWeBn0mkqw=="
 ---

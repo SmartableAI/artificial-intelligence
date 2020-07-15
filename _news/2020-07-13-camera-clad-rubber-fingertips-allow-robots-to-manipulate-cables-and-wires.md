@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Camera-clad rubber fingertips allow robots to manipulate cables and wires"
-excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-publishedDateTime: 2020-07-13T14:23:00Z
-webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/"
+excerpt: "Using cameras and a rubber fingertip, researchers just developed a robot arm that has more human-like dexterity when working with cables, rope, and wire."
+publishedDateTime: 2020-07-13T14:02:00Z
+webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=21&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: Digital Trends
@@ -26,20 +26,15 @@ topics:
 related:
   - title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
     excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-    publishedDateTime: 2020-07-13T13:47:00Z
-    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504"
+    publishedDateTime: 2020-07-13T13:30:00Z
+    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=8&itm_content=2x4&itm_term=2356592"
     ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     type: article
     provider:
       name: Digital Trends
       domain: digitaltrends.com
-    quality: 82
-    images:
-      - url: "https://icdn4.digitaltrends.com/image/digitaltrends/mit-robot-gripper-with-cables-1200x630-c-ar1.91.jpg"
-        width: 1098
-        height: 574
-        isCached: true
+    quality: 62
   - title: "Letting robots manipulate cables"
     excerpt: "For humans, it can be challenging to manipulate thin flexible objects like ropes, wires, or cables. But if these problems are hard for humans, they are"
     publishedDateTime: 2020-07-13T14:27:00Z
@@ -57,6 +52,6 @@ related:
         height: 426
         isCached: true
 
-secured: "FP5RPZfh4WpA81TiA2OaBVcjERPl38judNG/NdWr28WcvxbmMaHL5l9y3IdHYAhqKD+lz3Ll4jFw6NFruP6AZ9ApHaU/TpjlUXp4wk26mWLUGATefBLhMnL6Qtl+wPsmbudhnRuxzhV2NtCUnc///KEvRgovpwMFgYiRmeWhaSFB7cFxQ7Fo7Z1OHotDRD7+fSQ8Ls2xdBrexdmk4vaUnZejTDhXbAMCxxwNPEYPiGpwcp8tKVgTC7X7vv3+KcWq0+3rckItnPvXXqh7vUipLzRAqWpUbZ/8zB4G1zGAo3+CYyoGU6BGxGdtBbg9knNelka8CkKS1Hd3pkXmB9AfWDBJdiabdTgmdYfScYduKbqcysKj7jMRk1D96EdCcNaCH78qIK/J4XzEeDn6vUevLnMZjilCIcaHgxL3qUwRk/dd+4mzdivRSc7+XG2LBw9VGmXXOM6iUW2RUgJ5gvd2qpAbsjv239laRfrKpQAWVRXVku9UR69Z6QONvZJU6eAkDKDRwEsx2PIHcTD+IVjYhg==;MN19zaolyu9OKkfvDTp2IQ=="
+secured: "l13R3hjnVdmcXLtuCKwda2ClWIu0YCoS9Ab95cVSa+hS69cwOZxqvBJ96vZZjeR8gqk/XbBZlGlXKL9DK8DY1pMjwKCFC6ulsyyCKPfLsch/EPvHo26KersSR4yfJGuBzJ4EvmViic9LF7KMbY1mG2qNKIQqoe2Kx8wigWyV4z3sGXS+4JTbDVRiy798QsV5bf0zd8XTXmmI+DqCPto4ZjwPV37DucAFxn1xEZz8h1T4ZxXcApGmd3gMYvQb69CGX3jks92XKhT5r0HR9jKPu+jj26jRLGMrgw+dJ6aBRL+/vIyjkyeEbOxzGcr7DytdLzs4Foc7TTnsQR3ypxNYoCvCBrDmK/6TNi06L7bmv7Vl9RkcB5I64GszZnnizjfuh1xkwc/xd4STs6dtmgirYk6lIEkPnKgFEzLd9RhSgcctrSkhGp5HYqOTReRufj2iwdCr211yV10BSgDJb2JAINsqel5CqCoFechpjgyhNiI2UDFM6xnu23vVhMPCSnYEUv7V/VwHMa0XLB31L9FQHQ==;NBaDz/Yuza42KdUJJZgeOg=="
 ---
 

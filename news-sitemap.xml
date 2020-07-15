@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/</loc>
+    <lastmod>2020-07-15T00:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu</loc>
+    <lastmod>2020-07-15T00:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/</loc>
+    <lastmod>2020-07-15T00:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/</loc>
+    <lastmod>2020-07-15T00:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565</loc>
+    <lastmod>2020-07-14T23:16:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/</loc>
     <lastmod>2020-07-14T21:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,7 +73,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -147,6 +177,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/</loc>
     <lastmod>2020-07-14T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/</loc>
+    <lastmod>2020-07-14T04:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -289,6 +325,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=21&amp;itm_content=2x2&amp;itm_term=2356592</loc>
+    <lastmod>2020-07-13T07:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/13/comcast-credits-ai-software-for-handling-the-pandemic-internet-traffic-crush/</loc>
     <lastmod>2020-07-13T06:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -296,12 +338,6 @@
   </url>
   <url>
     <loc>https://www.openpr.com/news/2089130/artificial-intelligence-ai-in-retail-market-overview</loc>
-    <lastmod>2020-07-13T06:47:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&amp;itm_content=2x4&amp;itm_term=2376504</loc>
     <lastmod>2020-07-13T06:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -483,12 +519,6 @@
   <url>
     <loc>https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html</loc>
     <lastmod>2020-07-10T15:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50</loc>
-    <lastmod>2020-07-10T13:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -727,7 +757,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fltimes.com/business/national/jonckers-announces-new-ceo/article_fa4a300c-e68f-5ed2-97b0-22da8c9ff1ec.html</loc>
+    <loc>https://www.oleantimesherald.com/business/jonckers-announces-new-ceo/article_8f27717f-eec2-50de-bde3-851fcfac9078.html</loc>
     <lastmod>2020-07-09T08:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1093,8 +1123,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for-enterprises-882727658.html</loc>
-    <lastmod>2020-07-08T05:09:00-07:00</lastmod>
+    <loc>https://www.finanznachrichten.de/nachrichten-2020-07/50121250-ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for-enterprises-008.htm</loc>
+    <lastmod>2020-07-08T05:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1357,7 +1387,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nature.com/articles/d41586-020-02003-2</loc>
+    <loc>https://www.nature.com/articles/d41586-020-02003-2?error=cookies_not_supported&amp;code=929c2d14-4c37-4aaf-8e25-f21649c3169b</loc>
     <lastmod>2020-07-07T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1411,12 +1441,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/06/3-top-artificial-intelligence-stocks-to-buy-right.aspx</loc>
-    <lastmod>2020-07-06T13:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.priv.gc.ca/en/opc-news/news-and-announcements/2020/nr-c_200706/</loc>
     <lastmod>2020-07-06T13:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1437,6 +1461,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699</loc>
     <lastmod>2020-07-06T09:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2020-07-06?time=1594052102</loc>
+    <lastmod>2020-07-06T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2043,6 +2073,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/</loc>
     <lastmod>2020-07-01T07:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/PR%2520Newswire/34a1b2fbe02403a209b95dc63fc98d14</loc>
+    <lastmod>2020-07-01T07:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
