@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
         width: 768
         height: 483
-        isCached: true
-  - title: "Why cars of the self-driving future will be electric"
-    excerpt: "Autonomy brings efficiency in driving and battery use, while electric cars drastically cut emissions and fuel costs and require less maintenance LONDON • Cars are not going away any time soon. So, the ultimate green move will be combining two emerging technologies: autonomous driving and fully electric cars."
-    publishedDateTime: 2020-07-10T22:23:00Z
-    webUrl: "https://www.straitstimes.com/lifestyle/motoring/why-cars-of-the-self-driving-future-will-be-electric"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 24
-    images:
-      - url: "https://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2020/07/11/st_20200711_electric11_5807809.jpg?itok=9qH7ksbz"
-        width: 763
-        height: 509
         isCached: true
   - title: "Nvidia delves into self-driving cars with the Drive PX2"
     excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"

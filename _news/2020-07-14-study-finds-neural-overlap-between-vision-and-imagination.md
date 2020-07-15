@@ -73,34 +73,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Is what I see, what I imagine? Study finds neural overlap between vision and imagination"
-    excerpt: "In Current Biology, Medical University of South Carolina researchers report the results of a study using artificial intelligence and human brain studies to compare brain areas involved in mental imagery and vision."
-    publishedDateTime: 2020-07-10T21:16:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/muos-iwi071020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 17
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/237224_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Report: Is what I see, what I imagine? Study finds neural overlap between vision and imagination"
-    excerpt: "These findings add knowledge to the field by refining methods to study mental imagery and vision. In the long-term, it could have applications for mental health disorders affecting mental imagery, such as post-traumatic stress disorder."
-    publishedDateTime: 2020-07-10T22:06:00Z
-    webUrl: "https://www.tunisiesoir.com/health/report-is-what-i-see-what-i-imagine-study-finds-neural-overlap-between-vision-and-imagination-22472-2020/"
-    type: article
-    provider:
-      name: Tunisie Soir
-      domain: tunisiesoir.com
-    quality: 11
-    images:
-      - url: "https://www.tunisiesoir.com/wp-content/uploads/2020/07/Report-Is-what-I-see-what-I-imagine-Study-finds.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "wBjpAILazj11e0mlHiBZCMAkhf5S7g74F00icxhLS8TqJd1VynQ/quDg8HNGOpkpJBm8FGAhrv3xW1bdBRJE6ONG4hNnwBhMDPbhVxjegDIS7puVHhMDHkD1FRB1pv0cOaD0Dlqhsmx+ETIUfc7MzXPEhaVHfXItuhiR9fSlJtWlO21V7q5GlQQ5kZyPBulNSa20/FdPexsstAWzhS02VTkHe4ewBwUQCACECeH2vCAWJVm3ocWUBaPpru1NCnU1btJbTTJtApGo7gNWuuHgR4MXHAVVJTjcag2sziK5fdn5UlreTn/5lbqYRjAQM29fl12ZWumG33F2aTzlmbLQeFsfzqKklgBNqFYlJJHUn9E/1toe7zsKRMQTnSX0IZGVvfhVtrUmeC8eGvEM7Ly+IuQc1t2o1HkdUjYA6lvqA/2v33qU9yG2GIuj7asqY+B3Lqom7ScIeRkDV8TwLyLqXdItJsbWH4DMWNj/6JyN99nqaXhkXAKLKKHt/bXk5KZr+fzEDlrj+mBikjgQtmDS/A==;S1sZq+WnTJCI/qm2g57kyw=="
 ---

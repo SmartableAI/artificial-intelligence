@@ -88,36 +88,17 @@ related:
         width: 950
         height: 629
         isCached: true
-  - title: "Black lawmakers call for ban on police use of facial recognition technology"
-    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
-    publishedDateTime: 2020-07-11T06:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
+  - title: "Facial recognition technology’s double-edged sword"
+    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-11T12:37:00Z
+    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
+    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
-  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
-    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
-    publishedDateTime: 2020-07-13T19:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 35
-    images:
-      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Albuquerque Journal
+      domain: abqjournal.com
+    quality: 39
   - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
     excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
     publishedDateTime: 2020-07-14T02:40:00Z

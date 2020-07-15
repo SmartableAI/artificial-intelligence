@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition linked to a second wrongful arrest by Detroit police"
-    excerpt: "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,"
-    publishedDateTime: 2020-07-10T22:55:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5"
-        width: 600
-        height: 350
-        isCached: true
-  - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
-    excerpt: "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,"
-    publishedDateTime: 2020-07-10T21:50:00Z
-    webUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084"
-    ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 79
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg"
-        width: 800
-        height: 449
-        isCached: true
   - title: "Police use facial-recognition tech to arrest another innocent man"
     excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
     publishedDateTime: 2020-07-10T23:08:00Z
@@ -72,33 +40,66 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
-    publishedDateTime: 2020-07-13T15:51:00Z
-    webUrl: "https://www.openpr.com/news/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
+      name: The Intercept
+      domain: theintercept.com
+    quality: 65
     images:
-      - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Facial recognition technology’s double-edged sword"
-    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-11T12:37:00Z
-    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
-    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-11T06:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
     type: article
     provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 39
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "This interactive map shows you whether police departments near you are using facial recognition, drones, body cameras, and other surveillance tech"
+    excerpt: "Electronic Frontier Foundation and student researchers found more than 5,300 instances of police using surveillance tech to keep tabs on citizens."
+    publishedDateTime: 2020-07-14T12:51:00Z
+    webUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f0d30753f737065695c2fe7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
+    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
+    publishedDateTime: 2020-07-13T19:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ic86w5XRXCbK5q8VcNrOavMtz+DItZ643uTp6dHgEqerL7N8/M5Z+fsj2soMkDLTSysP0IvqSqJb2PaBLlSHUcLOaHKPuZ6g2sEgEvqukvEgqOJ6svQJcykacRva9pF55btBnbtZPycqS22qZpeWAfi/tSnFNjxwQ7Xydhhkn7z+B7Js0k8gmjb275fvN/DjhlsvI/8V5F7HCpd2xEcq0u8+q/KMpM92hvgT9Oqb98u9dBweX1zex6a63ZCslCzEmWSJERkKldsDXmylF120ZRPsHaOWN1krFto8TUMqfrKjEiYKepRi9aVaiJQVaFvyL9rp1nx4OzMLACl5ferBNg==;tBdinVmpmeSxjqNuBe5E+w=="
 ---

@@ -20,83 +20,97 @@ topics:
   - AI
 
 related:
-  - title: "Facial recognition linked to a second wrongful arrest by Detroit police"
-    excerpt: "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,"
-    publishedDateTime: 2020-07-10T22:55:00Z
-    webUrl: "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
+  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
+    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
+    publishedDateTime: 2020-07-13T11:49:00Z
+    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
+    ampWebUrl: "https://amp.abc.net.au/article/12451554"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 66
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5"
-        width: 600
-        height: 350
+      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
+        width: 750
+        height: 420
         isCached: true
-  - title: "Detroit Police Wrongfully Arrested Another Black Man Falsely Identified by Face Recognition"
-    excerpt: "For more than a year, people opposed to giving police access to face recognition technology have pointed to criminal cases such as that of Willie Lynch. A Florida appellate court ruled last year that Lynch,"
-    publishedDateTime: 2020-07-10T21:50:00Z
-    webUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084"
-    ampWebUrl: "https://gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/detroit-police-wrongfully-arrested-another-black-man-fa-1844342084/amp"
+  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
+    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
+    publishedDateTime: 2020-07-14T03:32:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 79
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 66
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/kyikyyaysuwjda1eptlm.jpg"
-        width: 800
-        height: 449
+      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Police use facial-recognition tech to arrest another innocent man"
-    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
-    publishedDateTime: 2020-07-10T23:08:00Z
-    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
-    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
+  - title: "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology"
+    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ..."
+    publishedDateTime: 2020-07-11T00:00:00Z
+    webUrl: "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 74
+      name: Noozhawk
+      domain: noozhawk.com
+    quality: 59
     images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
+      - url: "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg"
+        width: 426
+        height: 293
+        isCached: true
+  - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
+    excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
+    publishedDateTime: 2020-07-13T22:57:00Z
+    webUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
+        width: 950
+        height: 629
+        isCached: true
+  - title: "Dimond: The double-edged sword of facial recognition technology"
+    excerpt: "On the television crime drama “FBI,” Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
+    publishedDateTime: 2020-07-14T04:00:00Z
+    webUrl: "https://www.winchesterstar.com/winchester_star/dimond-the-double-edged-sword-of-facial-recognition-technology/article_6bef52ea-1d0a-5cb1-abde-8260c2554833.html"
+    type: article
+    provider:
+      name: Winchester Star
+      domain: winchesterstar.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
-    publishedDateTime: 2020-07-13T15:51:00Z
-    webUrl: "https://www.openpr.com/news/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
+  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
+    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
+    publishedDateTime: 2020-07-14T02:40:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 12
     images:
-      - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-11T03:13:00Z
-    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    type: article
-    provider:
-      name: Aclu.org
-      domain: aclu.org
-    quality: 37
-    images:
-      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
-        width: 1200
-        height: 628
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
+        width: 926
+        height: 569
         isCached: true
 
 secured: "q+Jfa8w8zDhqYK9MFl343dMbnDgqMq6UxSr02jJcH/jbju6TdNLKqdtEufs3QxAy8We6BG3Ie6wod8OEWLzhDFKimW/Q0JnucBPg+uL/7N54hY54QpZZbV6gMXEV2cbWL2ASb5w3Sg/sOEWW81XDzrNjSrG4VnyTn+TIXwqTWIP+fIYoCbY9aRmYXuc/XEDQPO8bS9351D14Cssxd47fSuOxY4RUnDMeJLTTs+xI+Ro2P6eOITDCrjd3p1a1tJTAn7n9/tUjDA1/+Vt8bT7E7grRcIwfKk1uONdQWvv+zQeBtQcMjZGQr3YaIRdO5Os4/WMftuFhUIEe3Q15M6JGQw==;GyXrySfQAzQ2C8g9rSMWtQ=="

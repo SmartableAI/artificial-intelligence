@@ -40,6 +40,20 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "PICS: Japanese robot to clock in at store as retail automation in spotlight"
+    excerpt: "Picture: Reuters/Issei Kato The idea, dubbed telexistence, was first proposed by the start up's co-founder ... predicted Professor Takeo Kanade, an AI and robotics scientist at Carnegie Mellon University in the United States, who joined Telexistence ..."
+    publishedDateTime: 2020-07-15T15:43:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/pics-japanese-robot-to-clock-in-at-store-as-retail-automation-in-spotlight-51008950"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 52
+    images:
+      - url: "https://image-prod.iol.co.za/resize/4078x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/15/51008950/22-7-15T94311Z_2_LYNXNPEG6EHQ_RTROPTP_4_JAPAN-TECH-ROBOT.JPG&operation=CROP&offset=0x320&resize=4078x2294"
+        width: 650
+        height: 366
+        isCached: true
 
 secured: "wLMSKM7gNBJRRUZ2vULXHcgqJTAwMSupYuL/GqZp0qeOAgmAFSGkYDdNbT5eWd9n5J8s0Q/DJLTo50YjSummKyi25CszJV+m5AYtECVOeLzuPeSFw4UpwpequxwPxNl5RoX+qhUCauZmpyCNJBgG2j6LwYO1coSh+2BWr4c63X7TEbmQhGGhm+whE3hC3GS/Siwy0AKmb70H1Vh11yKLNgpTR3RIPwIg0f6dEu/0MfDmh3Gs5OHiXYhzyQzVx8XQDf7U9jJ/R4Dt3Py1hPZsYvoJF6vwI1jC13AmxVyrL2s/fC3TE5xkbUNUIPy9O/Hb/vArRV421o267/mvZS755w==;TnZX3PMt3pcc2IGy58PDEQ=="
 ---

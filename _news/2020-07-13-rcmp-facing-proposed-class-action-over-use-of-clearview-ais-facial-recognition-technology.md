@@ -193,6 +193,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
+    excerpt: "Steven Vance and Tim Janecyk have alleged that Amazon, Alphabet’s subsidiary Google, and Microsoft used photos of individuals to train their facial recognition technologies without taking prior consent, as reported by CNET. The photos were included in ..."
+    publishedDateTime: 2020-07-15T14:55:00Z
+    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "lkN3zCjHI7mnUyxPtyjfTnNJf9W5N5zdqksZV/7B28eQvt3xgR2SH5CD+zGcS448fcMHFJbYSN1zzOi7JYq/56Fwx4yZsx9UnMX4Q591mtE1pW2Tj58Hz3TrlfZ/97maNxurr/naDo/kWDVMocAFLnRLCrV1G/1mefoM7ba+Dvv0ThjRv5FwTsJa+JznEhmQdqkvznMQHsaJXrmoIpIpGWlqxnoO9MndUGlJIyENYgZUtx+n1OJjYoKeHZK2mvukw7rrn2D7o8lTaxhsyvlJ0znYkQSIpdG+itPQf0Km5OoUQ0MIL4c9sGlW+d+Ymux5ej0tMfeDmColkUi1DZf3gg==;cOCIvDv+eOWcElqXSTNP4g=="
 ---

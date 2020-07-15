@@ -1,0 +1,60 @@
+---
+category: news
+title: "PICS: Japanese robot to clock in at store as retail automation in spotlight"
+excerpt: "Picture: Reuters/Issei Kato The idea, dubbed telexistence, was first proposed by the start up's co-founder ... predicted Professor Takeo Kanade, an AI and robotics scientist at Carnegie Mellon University in the United States, who joined Telexistence ..."
+publishedDateTime: 2020-07-15T15:43:00Z
+webUrl: "https://www.iol.co.za/technology/gadgets/pics-japanese-robot-to-clock-in-at-store-as-retail-automation-in-spotlight-51008950"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: IOL News
+  domain: iol.co.za
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://image-prod.iol.co.za/resize/4078x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/15/51008950/22-7-15T94311Z_2_LYNXNPEG6EHQ_RTROPTP_4_JAPAN-TECH-ROBOT.JPG&operation=CROP&offset=0x320&resize=4078x2294"
+    width: 650
+    height: 366
+    isCached: true
+
+related:
+  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-15T09:51:00Z
+    webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525789604&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
+        width: 782
+        height: 545
+        isCached: true
+  - title: "FamilyMart to deploy robots in Japan stores"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-15T10:56:00Z
+    webUrl: "https://www.bangkokpost.com/tech/1951912/familymart-to-deploy-robots-in-japan-stores"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20200715/c1_1951912_700.jpg"
+        width: 700
+        height: 504
+        isCached: true
+
+secured: "EGaJcVXaJnmMjPO0XivoBJc9vF+oppAl+FUDPzvG5wZwPbWGIZa/Gv3g7VYXWJB5C4vMT3oIJ6+gxN6nbsNF7gXS1kPXZCKttRQWP2TZ7BrnEyPiZHee4NXMbQmRmPVBNcjumMwXJ3bcZ5hK/okZtY29gbvw/BPStbhzqi0dxBH13g1rcYGZZOC+FUy3OS/EyXoClQndsuRDKL0UEyhexBktt+9yaDDif4ZB0qj4s/lYVWDX6LN8WFQ8MEA+d6+FppPzjlp58gYPjsEAkdU2Trhnodyc8Qz4RcM35Dws64HGNUwIaMaLuo5vbpfJFAC51PXxp0nydG9dMmafH6A14g==;BAnq4qrOb/ZESDcu/EoLHA=="
+---
+

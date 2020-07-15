@@ -32,7 +32,7 @@ related:
     provider:
       name: MeriTalk
       domain: meritalk.com
-    quality: 35
+    quality: 37
     images:
       - url: "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_1176583042-min.jpg"
         width: 800

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T04:11:00Z
 webUrl: "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---"
 type: article
 quality: 121
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -21,6 +21,24 @@ images:
     width: 530
     height: 279
     isCached: true
+
+related:
+  - title: "Here’s what’s stopping AI from reaching human-like understanding"
+    excerpt: "In fact, our AI systems start to break as soon as they face situations that are slightly different from the data they’ve been trained on. Some scientists believe that such limits will be ..."
+    publishedDateTime: 2020-07-15T15:02:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/15/heres-whats-stopping-ai-from-reaching-human-like-understanding-syndication/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/15/heres-whats-stopping-ai-from-reaching-human-like-understanding-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/15/heres-whats-stopping-ai-from-reaching-human-like-understanding-syndication/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-3-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
 
 secured: "j6WIOyyyASxe+0DFD9yfZQjWJvuMN91EiSj7D4Cy1NjR2PHygAm7Z+EiSuiS9kF1Zvmyw8qqFgSKANI6XLAPMy9zt92ow1eyXOSTNeOeQG5kEeCD5QOURu7LVHzUFdYb9oNPGD2nj1ModGokNwN765RmSleM0XBypKV1BSavOXRpu4cuTO4CUyE/l/uaPK0etB09PV4KmVIdFdPJuSCsIdbHWZqapgNxbw9B6Sq/EJQlphgR2NGr7XYATGWt9zDQa0qQ3e9pOyuXdL5QoZDABnhJd4b6LJrBt1r3Mr7B2p38s+7L+XTlJK3Hnc4zvn7Q06dktTzMNFXNsrt/b5WP3w==;1q9/49DmA4KR50VV/dQLQA=="
 ---

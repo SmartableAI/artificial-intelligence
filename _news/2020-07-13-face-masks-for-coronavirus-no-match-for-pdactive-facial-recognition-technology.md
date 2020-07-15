@@ -24,69 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
-    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
-    publishedDateTime: 2020-07-13T11:49:00Z
-    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
-    ampWebUrl: "https://amp.abc.net.au/article/12451554"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
+  - title: "Police use facial-recognition tech to arrest another innocent man"
+    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
+    publishedDateTime: 2020-07-10T23:08:00Z
+    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
     type: article
     provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 66
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
-        width: 750
-        height: 420
-        isCached: true
-  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
-    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
-    publishedDateTime: 2020-07-14T03:32:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 66
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
+      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Diane Dimond: The Double-Edged Sword of Facial Recognition Technology"
-    excerpt: "On the television crime drama \"FBI,\" Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search, the computer spits out a name and address. Field ..."
-    publishedDateTime: 2020-07-11T00:00:00Z
-    webUrl: "https://www.noozhawk.com/article/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
-    ampWebUrl: "https://www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
-    cdnAmpWebUrl: "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/diane_dimond_double_edged_sword_of_facial_recognition_technology_20200711"
+  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
+    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
+    publishedDateTime: 2020-07-14T19:45:00Z
+    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
     type: article
     provider:
-      name: Noozhawk
-      domain: noozhawk.com
-    quality: 59
+      name: The Intercept
+      domain: theintercept.com
+    quality: 65
     images:
-      - url: "https://www.noozhawk.com/images/made/chrootimages/uploads/071120-dc-241205_750_426_293_s.jpg"
-        width: 426
-        height: 293
-        isCached: true
-  - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
-    excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
-    publishedDateTime: 2020-07-13T22:57:00Z
-    webUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
-        width: 950
-        height: 629
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Black lawmakers call for ban on police use of facial recognition technology"
     excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
@@ -104,33 +70,35 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Dimond: The double-edged sword of facial recognition technology"
-    excerpt: "On the television crime drama “FBI,” Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
-    publishedDateTime: 2020-07-14T04:00:00Z
-    webUrl: "https://www.winchesterstar.com/winchester_star/dimond-the-double-edged-sword-of-facial-recognition-technology/article_6bef52ea-1d0a-5cb1-abde-8260c2554833.html"
+  - title: "This interactive map shows you whether police departments near you are using facial recognition, drones, body cameras, and other surveillance tech"
+    excerpt: "Electronic Frontier Foundation and student researchers found more than 5,300 instances of police using surveillance tech to keep tabs on citizens."
+    publishedDateTime: 2020-07-14T12:51:00Z
+    webUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
     type: article
     provider:
-      name: Winchester Star
-      domain: winchesterstar.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
+      - url: "https://i.insider.com/5f0d30753f737065695c2fe7?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
-    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
-    publishedDateTime: 2020-07-14T02:40:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
+  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
+    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
+    publishedDateTime: 2020-07-11T03:13:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 12
+      name: Aclu.org
+      domain: aclu.org
+    quality: 37
     images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
-        width: 926
-        height: 569
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "RqpXX7DgtmgMTp01L/WvEPJOcDk/cZEQSVHnytuEuELX0crzdA16W9WOoYREY++a7MOHqoBC7aePzgQf22Pps4RyRbgUxBedDFXaCwbpQhqxZRMvd4/HI1GT/TSZlW4woY3DcpBZn2zOjXQYGs/H2mPpji0DbUz7wN7hS1MiMv2O4ZSIg1oyydNVhG7e9EONdkF2MllPokwaS8ZT3MXM70vbK3iT6NZVzyQ9LY5GbwqE78OrvC+cs3Y/uTBP7t9yey3gVeMNFPqLART8cSakQY0YZwYfCdaF5tvlTW9ASQ4yf9+WXeO130BP1nLg5xCbxbQUkgcc3+rnJUEMJr/bCQ==;LdQFCgW1b/yHK/VVURNQ5w=="

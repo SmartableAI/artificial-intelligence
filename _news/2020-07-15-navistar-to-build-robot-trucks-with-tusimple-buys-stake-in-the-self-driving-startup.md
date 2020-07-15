@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-r
 ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
 type: article
-quality: 67
-heat: 107
+quality: 84
+heat: 144
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
@@ -30,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navistar to develop self-driving trucks with TuSimple"
+    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+    publishedDateTime: 2020-07-15T12:04:00Z
+    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Here’s what one startup does when its self-driving cars get stuck"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
     publishedDateTime: 2020-07-11T13:00:00Z
@@ -74,6 +91,20 @@ related:
         width: 674
         height: 337
         isCached: true
+  - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
+    excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
+    publishedDateTime: 2020-07-15T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265784213/tusimple-finds-a-partner-to-help-it-build-a-fleet-of-robot-semi-trucks"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1594772418028.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Self-driving startup develops car without wheels"
     excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
     publishedDateTime: 2020-07-14T10:50:00Z
@@ -89,6 +120,6 @@ related:
         height: 465
         isCached: true
 
-secured: "nfakmnC6yie+1eQ+tqjianeSAgOTtO3Gjrp62lM6BlEjsJsD7INLdCqClzA/CL/exG+kbN6fiVQdkEizb8OlBOliLE4GWdSm6HJoMkDuL2hZWAX0wW4pBwwMQW3NACqymp1sQf9lPr0oFueVOsHVR9FfI2r2MZf2qlikjRKW4Z20uEvpaUK1psrLj6t5+VmsIn9e4vrfPhvt2wYiatOect5PxNaM2RPr/lKgNK6+5pYvRbQyHCX5YL4wWGAmf/8FpAlcs5J5tfOH2Zs6u6I8QBkV7hd4crQC4XHJDLpaToXH8CNtOesxnxurC1H61zFqhu6bjA0t8V2smMQRx0U6Dg==;bXznL+NCDOxb1yO3UYhIDA=="
+secured: "dXsgOUTU7pWc3SuudkjhmhPiwZCPuSkObBkGeF8igLtWobEV1sH4Cr5sYpPTi80jJexOja9CpRyBOpaNu49CTqcypCWt6fGijTX1dVuIpuGrPZp5SwXf2Jgh4jWcwznQDhdbNHH4GuvfHwmWjbYaf58aiQxUidnLiX7CBLHFVjApekevFYcNeEcRE7NxBlZIU1MPrW27a78bZeJpp7mbnfJK4IdCiay3aK6nczHlYhkhAWwjjhFCwO9RfkChrQWBPECCitDg1I3/SwFNZEVJrKZwS/5/6HPYjOB50FreqMmFtj5Shib8M7zupH4GkuMRSnUsVv7nZNCF6hFxbbPObL0kF52SuiYEmtocMlGZRURBw4SC2/ENwUzB4IGDuwRsWJoTdnc2LchCp6wgIYlNzAzjbH+sMNHRlGed8wEP0VqEWQ8mAhemDIEMB1iLmbCz4XZ8Mkxz1ga4wzTWGhFlTr7HmcLiSVr6O8TAFJUxrOK82mMYImV6z6WIhsxpoSONYnjD6fMyW1rK404oHJZ9rQ==;Z05wqjOPQxItlP7OWFHNRQ=="
 ---
 

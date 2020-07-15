@@ -5,8 +5,8 @@ excerpt: "John Wagner, deputy executive assistant commissioner at U.S. Customs a
 publishedDateTime: 2020-07-15T13:48:00Z
 webUrl: "https://www.meritalk.com/articles/exit-interview-cbp-biometrics-chief-wagner-talks-future-of-facial-recognition/"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_1176583042-min.jpg"
@@ -39,6 +40,6 @@ related:
         height: 260
         isCached: true
 
-secured: "LTwRN7V2mgWJxEgPRIJB5TA8udkpj3P708S2nw8VqPahgANUtMT2XOnrkxPukecV+m8X5Xo0wsdC9bUVkMRBu+1xy2gPC2Nd86P/1hWvoCe5gii0k4U000TBXZjK+5fJ1pMhx6929t3Dm8XlQx2gFA6Fin3MYV09w7ed/knFMS6f2oB62KdK89Tl1WmYfzoOJF2S3Ze+96zXN0CyPLDLimRuEzB6msh/MP6WEQyJWvzXjQpfMuxJXK/9SFWfHLKYoSxAmUpiqh3+vUSBI9Juule9o1TSyFuiL/nhWOr027xcxnS933MbMtP7Wd5BubI7GMSnam+N6O423zQIrA2I3A==;lBHoHhdSSn+LLNqKq0Z0eA=="
+secured: "ZQEzmdXWy0U4YJmy5SvReq2kPyLlABNLuumE2ZR5GRxL39C0D94lu9khK2+QvCzGRlXO1FSFdEtX3zQnGcNTvDcJ82FRB5UynqitT5yKn8zcgWAN90XPKAw+TJ8SxKDIEWdjPqHQexqThjU25rrjKzbgthlbzR7sGyq+jITWQSvhMrQ7WOkiLUh0a8ppYIejQAZPdfZDM+XZ57oIMUTOjIdrEozYa/O4QxR24AwBYzhf42lANhPXQhLyI+149PE4Drnx2NP9itQupYm2yv8Vv1LG+acrSh9HPBoIF2AJ/Ug7HWWIZ2Ckei4S2HvE6WjQgC3Ltjm/XI0AAg7u8s7LwwtZasv+S5fe42SM1+LKkDbDEX797Z9UCBjD0Y2Of9LAQIvxleQLiajyGh2iZzwRKqzWVv4Lru4+g6tWqqvzD1+3H8Hg2nEatR4MsUGD7O5aw1G+HDZkOOeNmiSXBwfu/5HGbXezNCQ3/uRJKcJCd76ynJSU2wjwNqPQjv3S8aInAn6PxG+tyukz+6a5wdPBxA==;AvsTkYxnuFXYmPBMBTWGfQ=="
 ---
 

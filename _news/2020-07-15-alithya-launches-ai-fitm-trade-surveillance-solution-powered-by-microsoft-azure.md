@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
-    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
-    publishedDateTime: 2020-07-14T19:45:00Z
-    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 65
-    images:
-      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
     excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000"
     publishedDateTime: 2020-07-15T11:39:00Z
@@ -52,35 +38,19 @@ related:
         width: 512
         height: 288
         isCached: true
-  - title: "Massachusetts Senate Passes Bill That Would Halt Police Use of Facial Recognition"
-    excerpt: "The Massachusetts state Senate approved a bill to revise police standards that would make the state the first in the U.S. to pause law enforcement’s use of facial recognition."
-    publishedDateTime: 2020-07-15T05:31:00Z
-    webUrl: "https://www.wsj.com/articles/massachusetts-senate-passes-bill-that-would-halt-police-use-of-facial-recognition-11594773110"
+  - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
+    excerpt: "Aureus has integrated its Anvesa® 3.0 solution with Microsoft Azure and Azure AI to leverage key artificial intelligence (AI) and machine learning capabilities to power new tools for legal professionals in their digital journey. The updated Anvesa® 3.0 ..."
+    publishedDateTime: 2020-07-13T08:43:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 46
     images:
-      - url: "https://images.wsj.net/im-209437/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "This interactive map shows you whether police departments near you are using facial recognition, drones, body cameras, and other surveillance tech"
-    excerpt: "Electronic Frontier Foundation and student researchers found more than 5,300 instances of police using surveillance tech to keep tabs on citizens."
-    publishedDateTime: 2020-07-14T12:51:00Z
-    webUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/5f0d30753f737065695c2fe7?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
+        width: 1706
+        height: 893
         isCached: true
 
 secured: "sf9nU04H4ZGmAXK2U6bKul8yTgJcR71XGhZQ+09DSeN7L4Di2067U2lRX0PfcdGcxxPs+tT3LU6t8nMhAN/X5DGpNl5JwhWX06J7tzlLUi3jfu1JLSdTmE0mtbxZha4P+nah9MZvaCPhEFKLFSWsWi0K1dt4vr5gvywqIveyIFpYe+42V6K31E8W4aXNPLKD5n/vw6ADAKgSLxGRKohYGb6szjzet+4KqopZ2lVv61dObPyeXk0OlKXTCE3kSc0uFaldTN6ZrnXQaT6+iFiax++nDSQ89rYXHxSP//fRYUXd2XFSGAQYjnCAlJBGt6WGV81BcX6CsNvf1a5YBQKUJw==;M6FRtbowv6KmoYt4+vOEfg=="

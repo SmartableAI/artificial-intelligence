@@ -182,6 +182,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
+    excerpt: "Steven Vance and Tim Janecyk have alleged that Amazon, Alphabet’s subsidiary Google, and Microsoft used photos of individuals to train their facial recognition technologies without taking prior consent, as reported by CNET. The photos were included in ..."
+    publishedDateTime: 2020-07-15T14:55:00Z
+    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

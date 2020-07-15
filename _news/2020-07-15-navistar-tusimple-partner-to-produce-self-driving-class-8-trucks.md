@@ -36,11 +36,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 84
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Navistar to develop self-driving trucks with TuSimple"
+    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+    publishedDateTime: 2020-07-15T12:04:00Z
+    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+        width: 817
+        height: 545
         isCached: true
   - title: "Here’s what one startup does when its self-driving cars get stuck"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
@@ -70,6 +86,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
+    excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
+    publishedDateTime: 2020-07-15T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265784213/tusimple-finds-a-partner-to-help-it-build-a-fleet-of-robot-semi-trucks"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1594772418028.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Self-driving startup develops car without wheels"
     excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
     publishedDateTime: 2020-07-14T10:50:00Z
@@ -85,6 +115,6 @@ related:
         height: 465
         isCached: true
 
-secured: "zPWFk0pbh0oh7loqnGH3gmOxNc9U+ArRWfPYBx+2cR7rLMOt51i7SJ/eVhfGzM6z2WiQnTCysqCnrDQUoDgRgmHf9oII2FFUhXytewMfE6QRdUhPdqlsjIvkjxYS8rMs3iZyhXhY0bH72m8AmFWlSvuvHcZFor86yaF9V24i8MXdgWSR8Yf7OSXihpFCyhr1Yjvv5Fz01peT+I4oyOisdf16hA/XyC/0ucSF44I4dljtU6bnjazNVFI7VOi02HIIwF1P86DAAwEkcwZLmsYG9EsIZ5PYHlpZLk4yeri/yg6irnWbgVxc8JH78zX4GK9NHaK+Vdd8XNNZO5biYx6hyQ==;g2yeKr4vS5b6JR3xDI61FQ=="
+secured: "WM3EkDOlD1/8YBkjcvRleDVG38nkbpMfiTh8PhFdG08i7yG0u7SouN5chmdi7tTF31Swf3E43ccGQUub0NSVCMBfSucO0JjdiZL/YomJmEirMsSXMbYd6v53rb1P+R2DLoDsNV4hkznxzxiWdkQI5CizMCQAb6hzrc6C68N4mjW/9g2i9N1F4gOscbE6TVoUDFTkjX49qMkYSbxLN7eROCdUgoxvv+yflAA1dLGLOZ2D+iFJ5+antQt6C2HITMPDnNm2UtGdmId6UXCn83xFj5hz5FkUgpNrpwPHG+0faDIoWOvn+AzmPzHSTtIGKmMlfhZRKk5V3Yrderx5Lz+BlyYg9ys6MLx4ngDITs+8pHLMLygtUGVu7ROkZ74nfhGIHEKzpSEGnnT1SmsY1bG7DZA94kR3DNCEW3PVR+1bHdLPrdGxSf0LMgLICRpr/dUY+DW5Okwf2pdHZ1vZLX7ACdLkKZO2AnqrpbEoQp6HTRkSRY9cCunI6bgWLKkEdrdIA7G40ZiNf+tNWXn7y+dvVA==;42Z7/ijc8FDP5RmkN11EXw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 731
     isCached: true
+
+related:
+  - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
+    excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
+    publishedDateTime: 2020-07-13T15:51:00Z
+    webUrl: "https://www.openpr.com/news/2089216/facial-recognition-market-forecast-and-trends-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "YHnIEMKrOVwT2DQdzSSmTTp5/13X2b4ZjYfxzBYBfJ+uhvX2U4O+c/uaA4BYxrOev0F5E+y5G+KEMU8mZh7rk5v5B1sUOIuyLSpYww6zgbQ/xTtxdTgJpG7swis/JOIZMHHifnrM50mgwNW9tIM3qFte22N4cVogVE4HGXEUefG9QuktjoCFnN95Y9wTCOSKzNRu/HjPHY//cU2FIQjFJpqi0oVcjZ5zy0dKlNixhbgbcP96EkTLmfbOkkXSG4ScGFqVdy7JrOG6h58eTflLYVSIKCtSt9gIJAPZ1zYvLE4pPfbm8CiDbfzAodZLBWGJgA2+TlCBZCq9qukIAY6zsTkf8+iis3W8J4n8m77Xn1J8JuVRREzTMuILoocQ/Eu2gMLNqZn0XwBtlCGhEzPIODMP+ySCoNYpy5L6WA/svSGm4gsJeeHRu6J+hG4LbXEd03rppdl5GIzofphZSXseKoutDjwJUTqUO5kPocLmT6l0M1LhL1IjyLGsYV/3G3XF;k2xGqqOtnz7IcFZ8GHnLyw=="
 ---

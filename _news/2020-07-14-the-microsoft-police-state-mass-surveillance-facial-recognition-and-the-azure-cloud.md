@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-14T19:45:00Z
 webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
 type: article
 quality: 65
-heat: 105
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Intercept
@@ -26,47 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
-    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000"
-    publishedDateTime: 2020-07-15T11:39:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
+  - title: "Police use facial-recognition tech to arrest another innocent man"
+    excerpt: "Let's say it together: Facial-recognition technology is a dangerous, biased mess. We are reminded of this obvious fact again with the news Friday that an innocent man, despite not"
+    publishedDateTime: 2020-07-10T23:08:00Z
+    webUrl: "https://mashable.com/article/arrested-facial-recognition-technology/"
+    ampWebUrl: "https://mashable.com/article/arrested-facial-recognition-technology.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/arrested-facial-recognition-technology.amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 65
+      name: Mashable
+      domain: mashable.com
+    quality: 74
     images:
-      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
-        width: 512
-        height: 288
+      - url: "https://mondrian.mashable.com/2020%252F07%252F10%252F5d%252F80b9cd49aa0d4a0b906ad256a389f1d0.d0075.jpg%252F1200x630.jpg?signature=HT2mMJzn-8fpT2VYJb4Yb0r1EAY="
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
-    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
-    publishedDateTime: 2020-07-15T11:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
+  - title: "Black lawmakers call for ban on police use of facial recognition technology"
+    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
+    publishedDateTime: 2020-07-11T06:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 64
+      name: USA Today
+      domain: usatoday.com
+    quality: 57
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Massachusetts Senate Passes Bill That Would Halt Police Use of Facial Recognition"
-    excerpt: "The Massachusetts state Senate approved a bill to revise police standards that would make the state the first in the U.S. to pause law enforcement’s use of facial recognition."
-    publishedDateTime: 2020-07-15T05:31:00Z
-    webUrl: "https://www.wsj.com/articles/massachusetts-senate-passes-bill-that-would-halt-police-use-of-facial-recognition-11594773110"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "https://images.wsj.net/im-209437/social"
-        width: 1280
-        height: 640
+      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "This interactive map shows you whether police departments near you are using facial recognition, drones, body cameras, and other surveillance tech"
     excerpt: "Electronic Frontier Foundation and student researchers found more than 5,300 instances of police using surveillance tech to keep tabs on citizens."
@@ -83,6 +73,34 @@ related:
       - url: "https://i.insider.com/5f0d30753f737065695c2fe7?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
+    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
+    publishedDateTime: 2020-07-11T03:13:00Z
+    webUrl: "https://www.aclu.org/press-releases/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
+    type: article
+    provider:
+      name: Aclu.org
+      domain: aclu.org
+    quality: 37
+    images:
+      - url: "https://www.aclu.org/files/images/Generic-SocialShare-1200x628.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
+    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
+    publishedDateTime: 2020-07-13T19:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "qU3UDYXbLIUWWQbRryyglNKEI4nJyPDnglWeg20e/MGNnOJ/2xqtiGo4pZSg9v7Ogw4byVk6kZoEWO4CrBEvrN/cNR3Ap+e6JlNH5HXqkTo3C0vOnNuDxQmimiIWE2U1KjWvoSjQEGzC+0h6dS8Tga0lHVpVhKbdaWfY++PLTwEzMobsOz8tS4yCmeSnzcJ3KQW9p+smwjLEnnHlmdee4e6E+mVal4G/DJZ+C0eVHymEUWurNXaz/m+x/eWAXiRdaMDvQ12ovxNauyxHaGBZQ21pToVJ2C6jfeRetsnF8vEjv2J8sCAiyqadkKvl4rMf00aUCLfo65WqXhtMcbpc/E3iBNCe9l8umCj/mL+2nC4wIJ5Pu17zjWktsz/TZ9A/x0DUoqTvU6G1aGmRueGcaGn3UxZmMfZye//A16ZW8zG0Y+KHdeiAfEfLdG8LPQz8opOyx9drcPrxPvM54s/feSJ2MtjPHczKjOmMJmhs6jckos1yrj9K6xkkc98MzFT6K+NHxI66D53g2imBc4uxJg==;RuzldBD1slgkQmxvqGAt2A=="
