@@ -40,6 +40,22 @@ related:
         width: 782
         height: 545
         isCached: true
+  - title: "Convenience store in Japan using robot to test out retail automation"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence,"
+    publishedDateTime: 2020-07-15T06:50:00Z
+    webUrl: "https://nypost.com/2020/07/15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
+    ampWebUrl: "https://nypost.com/2020/07/15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 74
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/robot-7.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "FamilyMart to deploy robots in Japan stores"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
     publishedDateTime: 2020-07-15T10:56:00Z

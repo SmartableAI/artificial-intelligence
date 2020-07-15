@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-15-baidu-tops-chinas-ai-public-cloud-services-market-report.md",
+      "title": "Baidu Tops China's AI Public Cloud Services Market: Report",
+      "excerpt": "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "publishedDateTime": "2020-07-15T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-microsoft-partners-with-land-olakes-to-build-agriculture-tech-on-azure.md",
+      "title": "Microsoft partners with Land O’Lakes to build agriculture tech on Azure",
+      "excerpt": "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg",
+          "width": 950,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
+      "publishedDateTime": "2020-07-15T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-microsoft-and-samsung-team-up-on-real-estate-and-property-management.md",
       "title": "Microsoft and Samsung team up on real estate and property management",
       "excerpt": "New pilot collaboration offers single, integrated portal for managing devices and smart appliances in buildings",
@@ -29,47 +129,6 @@
       "provider": {
         "name": "The Jerusalem Post Blogs",
         "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
-      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
-      "excerpt": "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -175,6 +234,49 @@
         "AI Hardware",
         "Microsoft AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-the-microsoft-police-state-mass-surveillance-facial-recognition-and-the-azure-cloud.md",
+      "title": "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud",
+      "excerpt": "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this.",
+      "sourceUrl": null,
+      "webUrl": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Intercept",
+        "domain": "theintercept.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "Microsoft AI"
       ]
     },
     {
@@ -619,6 +721,56 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-cognitive-analytics-market-2020-global-industry-analysis-size-share-growth-trends-and-forecast-2026.md",
+      "title": "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026",
+      "excerpt": "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1233,138 +1385,6 @@
         "name": "Insider Monkey",
         "domain": "insidermonkey.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
-      "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
-      "excerpt": "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/business/newsfeeds/prnewswire/202006250800PR_NEWS_USPR_____NY45714.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T13:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
-      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
-          "width": 1024,
-          "height": 449,
-          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T02:00:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments.md",
-      "title": "Enabling Technologies to Offer Three New Proactive, Painless, and Complimentary Security Assessments",
-      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home. To as",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
-      "publishedDateTime": "2020-06-28T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

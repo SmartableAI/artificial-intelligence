@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-15-heathrow-airport-deploys-anti-virus-robots-and-testing-to-skip-uk-quarantine.md",
+      "title": "Heathrow Airport Deploys Anti-Virus Robots And Testing To Skip U.K. Quarantine",
+      "excerpt": "London's Heathrow Airport is doing everything in its power to encourage travelers back to the skies. The airport has faced a bleak few months with the number of passengers in June down 95% from the previous year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f43d5ba9bb1000708a5c5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5905%26cropY1%3D299%26cropY2%3D3621",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
+      "publishedDateTime": "2020-07-15T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup.md",
       "title": "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup",
       "excerpt": "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups.",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 144,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -60,7 +110,7 @@
       "webUrl": "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -103,6 +153,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-ai-enabled-robotics-are-helping-to-strengthen-recycling-processing-capabilities.md",
+      "title": "AI-enabled Robotics are Helping to Strengthen Recycling Processing Capabilities",
+      "excerpt": "Roboticists think that, “computer vision, neural networks and modular robotics can enable a more intelligent, flexible approach to recycling.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/automation/ai-enabled-robotics-are-helping-strengthen-recycling-processing-capabilities",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/recycling-machine.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens.md",
       "title": "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens",
       "excerpt": "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for",
@@ -124,6 +215,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
+      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
+      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "publishedDateTime": "2020-07-14T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -442,6 +583,47 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
+      "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
+      "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/07/web-5371562_640.jpg",
+          "width": 640,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/amp/",
+      "publishedDateTime": "2020-07-14T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1216,170 +1398,6 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-elementary-robotics-raises-13-million.md",
-      "title": "Elementary Robotics Raises $13 Million",
-      "excerpt": "Elementary Robotics Inc., a downtown-based robotics startup, has raised $12.7 million in Series A funding. The raise announcement coincided with the launch of Elementary’s inspection and traceability robot for sale on the open market as of June 30.",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/news/2020/jul/06/elementary-robotics-raises-13-million/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ocbj.media.clients.ellingtoncms.com/img/photos/2020/07/02/PG10_ELEMENTARY_0706_IR1-2_t670.png?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d",
-          "width": 670,
-          "height": 401,
-          "title": "Elementary Robotics Raises $13 Million",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores.md",
-      "title": "Ximpatico Launches Kickstarter Campaign for Nabot, the Robot That Does Chores",
-      "excerpt": "Introduction of Nabot Nabot is a programmable robot that can autonomously perform tasks such as sanitizing packages, mopping the",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ximpatico-launches-kickstarter-campaign-for-nabot-the-robot-that-does-chores-301088489.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-11-startups-in-india-using-ai-and-robotics-to-fight-covid-19.md",
-      "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
-      "excerpt": "Startups are leveraging tools and solutions to help fight the pandemic, as the number of cases in the country cross 5 lakh mark.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/11-startups-in-india-using-ai-and-robotics-to-fight-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/coronavirus_AI_startups.jpg",
-          "width": 1200,
-          "height": 870,
-          "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-and-robotics-to-redefine-businesses-accenture.md",
-      "title": "AI and robotics to redefine businesses - Accenture",
-      "excerpt": "The 20th edition of Accenture's annual report predicts that artificial intelligence and robotics will be among the key technology trends that will redefine businesses over the next three years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/business/2020/0706/1151662-ai-and-robotics-to-redefine-businesses-accenture/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/000d9006-642.jpg",
-          "width": 642,
-          "height": 361,
-          "title": "AI and robotics to redefine businesses - Accenture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rte.ie/amp/1151662/ ",
-      "cdnAmpWebUrl": "https://www-rte-ie.cdn.ampproject.org/c/s/www.rte.ie/amp/1151662/ ",
-      "publishedDateTime": "2020-07-06T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
         "images": null,
         "publishers": null,
         "authors": null

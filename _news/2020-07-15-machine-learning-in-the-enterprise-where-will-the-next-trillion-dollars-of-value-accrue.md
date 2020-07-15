@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-th
 ampWebUrl: "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/amp/"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e3acab019f50006489bbf%2F0x0.jpg"

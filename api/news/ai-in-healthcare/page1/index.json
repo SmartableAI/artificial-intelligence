@@ -2,43 +2,34 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
-      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
-      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
+      "path": "_news/2020-07-15-a-new-rx-ai-for-operations-in-health-care.md",
+      "title": "A new Rx: AI for operations in health care",
+      "excerpt": "We may think of artificial intelligence (AI) in health care in terms of scientific advances, such as a cure for cancer or a science-fiction tricorder-like device. But in the real world, AI is making its initial impact in workflow and administrative tasks.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "webUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/07/PhilipsAICoverforWeb.jpg",
+          "width": 1500,
+          "height": 1123,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
-      "publishedDateTime": "2020-07-14T11:28:00-07:00",
+      "ampWebUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
+      "publishedDateTime": "2020-07-15T11:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

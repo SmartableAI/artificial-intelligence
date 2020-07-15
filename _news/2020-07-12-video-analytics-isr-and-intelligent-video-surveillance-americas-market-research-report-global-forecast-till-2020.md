@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Artificial Intelligence Products Market Report 2019"
-    excerpt: "(MENAFN - Nxtgen Reports) In this report, our team research the China Artificial Intelligence Products market by type, application, region and manufacturer 2014-2019 and forcast 2020-2025."
-    publishedDateTime: 2020-07-12T22:06:00Z
-    webUrl: "https://menafn.com/1100471251/China-Artificial-Intelligence-Products-Market-Report-2019"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498992"
-        width: 375
-        height: 250
-        isCached: true
   - title: "Europe Artificial Intelligence Products Market Report 2019"
     excerpt: "(MENAFN - Nxtgen Reports) In this report, our team research the Europe Artificial Intelligence Products market by type, application, region and manufacturer 2014-2019 and forcast 2020-2025."
     publishedDateTime: 2020-07-12T20:14:00Z

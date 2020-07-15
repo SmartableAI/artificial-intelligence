@@ -40,22 +40,6 @@ related:
         width: 1120
         height: 747
         isCached: true
-  - title: "Pony.ai to test self-driving cars in Shanghai"
-    excerpt: "Pony.ai will work with city regulators to deploy a self-driving fleet for test drives on public roads in Shanghai's northwestern Jiading district."
-    publishedDateTime: 2020-07-11T09:00:00Z
-    webUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    ampWebUrl: "https://technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2020/07/11/pony-ai-to-offer-robotaxi-services-in-shanghai/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://technode.com/wp-content/uploads/2019/09/pony.ai_-768x483.png"
-        width: 768
-        height: 483
-        isCached: true
   - title: "Nvidia delves into self-driving cars with the Drive PX2"
     excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
     publishedDateTime: 2020-07-14T02:41:00Z

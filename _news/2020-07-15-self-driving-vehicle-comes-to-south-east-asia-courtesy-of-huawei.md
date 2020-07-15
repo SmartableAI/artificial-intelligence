@@ -8,7 +8,7 @@ ampWebUrl: "https://techent.tv/2020/07/15/self-driving-vehicle-south-east-asia-h
 cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/07/15/self-driving-vehicle-south-east-asia-huawei/?amp"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

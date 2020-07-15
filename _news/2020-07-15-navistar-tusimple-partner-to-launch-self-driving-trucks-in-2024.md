@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-15T15:30:00Z
 webUrl: "https://www.ttnews.com/articles/navistar-tusimple-partner-launch-self-driving-trucks-2024"
 type: article
 quality: 24
-heat: 24
+heat: -1
+published: false
 
 provider:
   name: Transport Topics
@@ -22,6 +23,142 @@ images:
     height: 246
     isCached: true
 
-secured: "6cvy+u6UKqrdZX7hvU3T16h/lHaoAXmLKSdy/TzH4cSqTtHdvBwfNKgONhvB6Sorvodizd0C0LQ8l/NRHQF2Cr14+XWSKq5nNvSe31M6OdjcgEunWBsM2YLDWKoFss3LDXjJF43ZrVUphImkYyIKTlcEzSqIxBA46uuFgj/r3Kf6ZIX8Y1DVv9NkbL1/xFSEEOMudIrGGI2n9TAF1B9rvKX0wYsQM7mIXp/XUbrmNni1l3gfzBtfatFBb/o/gS01beHdOGqSmIwMxvRaaUrHwyv+Q1AwY++INsykr1PZIB/wAPGUg2H5hxM3UKRiNBVUS6PzS+qlMJRn2yEQJD3GSw==;VnSBuYRf7aufRFf0DX3q0A=="
+related:
+  - title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
+    excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
+    publishedDateTime: 2020-07-15T12:08:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Navistar to develop self-driving trucks with TuSimple"
+    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+    publishedDateTime: 2020-07-15T12:04:00Z
+    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Here’s what one startup does when its self-driving cars get stuck"
+    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
+    publishedDateTime: 2020-07-11T13:00:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "This self-driving startup built a “car without wheels” for remote driving"
+    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
+    publishedDateTime: 2020-07-11T13:00:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 53
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
+    excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
+    publishedDateTime: 2020-07-15T12:04:00Z
+    webUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/"
+    ampWebUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
+    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
+    type: article
+    provider:
+      name: trucks.com
+      domain: trucks.com
+    quality: 44
+    images:
+      - url: "https://www.trucks.com/wp-content/uploads/2020/07/tusimple-Nav-truck-674x337.jpg"
+        width: 674
+        height: 337
+        isCached: true
+  - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
+    excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
+    publishedDateTime: 2020-07-15T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265784213/tusimple-finds-a-partner-to-help-it-build-a-fleet-of-robot-semi-trucks"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1594772418028.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
+    excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
+    publishedDateTime: 2020-07-15T19:00:00Z
+    webUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
+    ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    type: article
+    provider:
+      name: THE TRUCKER
+      domain: thetrucker.com
+    quality: 37
+    images:
+      - url: "https://www.thetrucker.com/wp-content/uploads/2020/07/Level-4-Autonomous-Truck.jpg"
+        width: 720
+        height: 380
+        isCached: true
+  - title: "Self-driving startup develops car without wheels"
+    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
+    publishedDateTime: 2020-07-14T10:50:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Navistar, TuSimple Partner to Bring Self-driving Trucks to Market by 2024"
+    excerpt: "A collaboration between Navistar and TuSimple will accelerate testing and proving of technology capable of running commercial trucks at full driverless Level 4 operation by 2024."
+    publishedDateTime: 2020-07-15T18:04:00Z
+    webUrl: "https://www.truckinginfo.com/10121289/navistar-tusimple-partner-to-bring-self-driving-trucks-to-market-by-2024"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 23
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/navistar-tusimple-front-__-1200x630-s.jpg"
+        width: 1194
+        height: 630
+        isCached: true
+
+secured: "PzZZzVMNeejLfOxhMMOxb6bNF92vUABAG7Y3dhwpdlA0lm1iL1TVOTIKZFSyKhaSY6Vg909i4uQHRk5ge2PW/q8ISAdx72zisO60LyoOBRPqwFwbtBTWNZ1G9uL6PHhX03kXCm5Av4PpAm8yI9WOGXUMDO0BQaaBaTzvRYq+zoasOOlWtT7Q9mm1c9Pr9lY9+9zb2hn/bwKO12wEFuBaXOLlCpM+mHqBATW+ootDh+VJ8Ra+mdDZ8+hAA1cvPUgmRAzX9Cx0YyssRG7H89xpOYS3KdtGjOc7+EzTjqMW/Fl+TvvfiLUKJOYxcclW/nn+7BTGn98mjFmfUWpaR9XMqd0Pi2l8J7RddBjor74i3bBcx7yJc0EyYOStnCHS6X345ESwjKt6SJaXOXUcorY/sr4jqtp3XIahey4ohjowv2c1AOqMf3qLMBovkK/N9ucUEvDvWHdrfcv9Y/ePtIhPxB0vO7+iW1fGsbQYOc8DmYbeKHFFVMF7pWqySocnXzu5S8TgPWb4XFJG54er2PNvJQ==;kzCM5OZR1YKWE32nXfCHow=="
 ---
 

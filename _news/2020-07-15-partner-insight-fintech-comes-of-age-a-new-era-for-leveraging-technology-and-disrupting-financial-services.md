@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T06:23:00Z
 webUrl: "https://www.investmentweek.co.uk/sponsored/4017727/partner-insight-fintech-comes-age-era-leveraging-technology-disrupting-financial-services"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 370
     height: 229
     isCached: true
+
+related:
+  - title: "U.S. Fintech Bond Financial Secures $32 Million Through Series A Funding Round Led By Coatue"
+    excerpt: "Bond Financial, a U.S. fintech platform, announced on Wednesday it secured $32 million through its Series A funding round, which was led by Coatue with participation from existing seed investor Canaan and new strategic investors Goldman Sachs and Mastercard."
+    publishedDateTime: 2020-07-15T16:57:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/07/164092-u-s-fintech-bond-financial-secures-32-million-through-series-a-funding-round-led-by-coatue/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164092-u-s-fintech-bond-financial-secures-32-million-through-series-a-funding-round-led-by-coatue/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164092-u-s-fintech-bond-financial-secures-32-million-through-series-a-funding-round-led-by-coatue/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 33
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2017/01/Money-Dollars-Benjamin-5-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "Zonkz7Jb1cndDpv6BvJ+sO+msF8Y02YrMOlg6F8a1n8O0A34ggpaqt5pzu56689184issWN4Zh7idghOYBqQ7ILD+QfyWd4KkUxxijQxAKLgab3o7Tvz9WzyiP0ppScq34sWQcgKULSc0OBy5As8WWsr1gomF0OcrN37rwPliFgtCBWX9zLww81MwOpGY4B/FucujK3GDuzV1rKe3PF/80Y8xA5v6obKwslDKVF9TcaTmPymhRpeybjIEalaHSviAsodj88HEMydSGgK93WMsksRKN5A7zZ/XN04HT+qQRAT56cJ51eq3npeFheo0pN2oYlwL/0o52/Ju1EXQp1tZ2Webnwkme0guBkjqPqOxDzpu8vD9mG642bPjKIb0e3BvJVQniMww1fMlsBX2hgdChcvE3adjq8kWvoCJQ7Zoe4LH+qc5wYaVVmHNj80l3nBRQ4psmKnaae9eUwcW9itqiKUTZtg6Ocfif8opqs98I1QeNqNJ/toykhE/xaSa2We5GpZIO3oJm+53f+AQAKaPA==;5I095VA9HBAiGZ8D8iBJMg=="
 ---

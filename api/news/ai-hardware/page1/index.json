@@ -4,12 +4,12 @@
     {
       "path": "_news/2020-07-15-this-tiny-uk-startup-chipmaker-is-targeting-intel-and-nvidia-with-a-monster-ai-cpu.md",
       "title": "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU",
-      "excerpt": "Graphcore’s Colossus MK2 GC200 chip us made using TSMC’s 7 nm process technology and contains 59.4 billion transistors, more than Nvidia’s A100 GPU that has 54 billion transistors. Each Colossus MK2 GC200 IPU can provide 250 TeraFlops of AI compute ...",
+      "excerpt": "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
+      "webUrl": "https://www.techradar.com/sg/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -22,9 +22,9 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
-      "publishedDateTime": "2020-07-15T08:03:00-07:00",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
+      "publishedDateTime": "2020-07-15T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

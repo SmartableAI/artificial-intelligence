@@ -2,6 +2,852 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
+      "title": "Eye doctors getting more calls about Computer Vision Syndrome",
+      "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcrg.com/2020/07/02/eye-doctors-getting-more-calls-about-computer-vision-syndrome/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/W9FfCiLvOvHWsRU1FXmaKa54oPk=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/YVN66F2RNBIJ5GAQU25FQITL5I.png",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC Kcrg  9",
+        "domain": "kcrg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
+      "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
+      "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp",
+      "publishedDateTime": "2020-07-02T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-reddit-owes-its-moderators-more-than-an-updated-hate-speech-policy.md",
+      "title": "Reddit owes its moderators more than an updated hate speech policy",
+      "excerpt": "Should Reddit pay its volunteer moderators? The thought had not really occurred to me until last week, when I joined a call with CEO Steve Huffman and his general counsel, Benjamin Lee. The executives were briefing me and some other reporters about a significant expansion of the site’s content moderation policies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/interface/2020/7/2/21310135/reddit-should-pay-moderators-hate-speech-death-threats-content-policy-facebook-ad-boycott",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/GlXEZ13R9rO_e1DHuHupMg7_Ejg=/0x0:3200x2129/1400x933/filters:focal(1344x809:1856x1321):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67008981/1220230363.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Reddit owes its moderators more than an updated hate speech policy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/interface/2020/7/2/21310135/reddit-should-pay-moderators-hate-speech-death-threats-content-policy-facebook-ad-boycott",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/interface/2020/7/2/21310135/reddit-should-pay-moderators-hate-speech-death-threats-content-policy-facebook-ad-boycott",
+      "publishedDateTime": "2020-07-02T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-ibm-notre-dame-launch-lab-to-focus-on-tech-ethics.md",
+      "title": "IBM, Notre Dame Launch Lab to Focus on Tech Ethics",
+      "excerpt": "IBM Tech Ethics Lab will conduct research and produce guidelines for governments and businesses on the ethical use of emerging technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibm-notre-dame-launch-lab-to-focus-on-tech-ethics-11593682202",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-205092/social",
+          "width": 1280,
+          "height": 640,
+          "title": "IBM, Notre Dame Launch Lab to Focus on Tech Ethics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-what-conversations-with-15-fintech-ceos-revealed.md",
+      "title": "What Conversations With 15 FinTech CEOs Revealed",
+      "excerpt": "A month ago, my investment banking group hosted Rosenblatt’s 12th annual FinTech summit, bringing together 400 investors and senior industry executives from the US, UK, Europe, India, Hong Kong, and Singapore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efd2e103855ae0006058de7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "What Conversations With 15 FinTech CEOs Revealed",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/amp/",
+      "publishedDateTime": "2020-07-01T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane.md",
+      "title": "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane",
+      "excerpt": "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/",
+      "publishedDateTime": "2020-07-01T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
+      "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+      "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Common-Voice-e1593640326605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "publishedDateTime": "2020-07-01T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-rooting-out-ai-bias.md",
+      "title": "Rooting out AI bias",
+      "excerpt": "New research offers strategies to prevent algorithms used in business from pushing unethical policies. Why it matters: Machine-learning algorithms are increasingly being deployed in commercial settings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/IWbf2OXzJsvyKScfFonqb84J3KI=/fit-in/1366x1366/2020/07/01/1593642339719.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html",
+      "publishedDateTime": "2020-07-01T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-course-40530-g-microsoft-cloud-workshop-cognitive-services-and-deep-learning.md",
+      "title": "Course 40530-G: Microsoft Cloud Workshop: Cognitive Services and Deep Learning",
+      "excerpt": "In this workshop, you will learn to combine both pre-built artificial intelligence (AI) (in the form of various Cognitive Services) with custom AI (in the form of services built and deployed with Azure Machine Learning services).",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/learn/certifications/courses/40530",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Course 40530-G: Microsoft Cloud Workshop: Cognitive Services and Deep Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-use-azure-machine-learning-with-the-fairlearn-open-source-package-to-assess-the-fairness-of-ml-models.md",
+      "title": "Use Azure Machine Learning with the Fairlearn open-source package to assess the fairness of ML models",
+      "excerpt": "In this how-to guide, you will learn to use the Fairlearn open-source Python package with Azure Machine Learning to perform the following tasks: Assess the fairness of your model predictions. To learn more about fairness in machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-fairness-aml",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Use Azure Machine Learning with the Fairlearn open-source package to assess the fairness of ML models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-2019-q4-recipients-of-aws-machine-learning-research-awards.md",
+      "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
+      "excerpt": "The AWS Machine Learning Research Awards (MLRA) aims to advance machine learning (ML) by funding innovative research and open-source projects, training students, and providing researchers with access to the latest technology. Since 2017, MLRA has supported over 180 research projects from 73 schools and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/2019-q4-recipients-of-aws-machine-learning-research-awards/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "2019 Q4 recipients of AWS Machine Learning Research Awards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T13:05:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow.md",
+      "title": "Cisco uses Amazon SageMaker and Kubeflow to create a hybrid machine learning workflow",
+      "excerpt": "This is a guest post from members of Cisco’s AI/ML best practices team, including Technical Product Manager Elvira Dzhuraeva, Distinguished Engineer Debo Dutta, and Principal Engineer Amit Saha. Cisco is a large enterprise company that applies machine learning (ML) and artificial intelligence (AI) across",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/30/cisco-sagemaker-1.jpg",
+          "width": 1000,
+          "height": 446,
+          "title": "Cisco uses Amazon SageMaker and Kubeflow to create a hybrid machine learning workflow",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T12:22:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-elon-musk-stays-true-to-his-word-tesla-raises-full-self-driving-price-to-8000.md",
+      "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
+      "excerpt": "Keeping consistent with what Elon Musk had suggested in May, Tesla (NASDAQ:TSLA) announced today that the cost for the full self-driving (FSD) package is now $8,000 -- a $1,000 in",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580713%2Fmodel3-interior.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 698,
+          "title": "Elon Musk Stays True to His Word: Tesla Raises Full Self-Driving Price to $8,000",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/01/elon-musk-stays-true-to-his-word-tesla-raises-full.aspx",
+      "publishedDateTime": "2020-07-01T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube.md",
+      "title": "Google brings its AI-powered SmartReply feature to YouTube",
+      "excerpt": "Google’s SmartReply, the four-year old, A.I.-based technology that helps suggest responses to messages in Gmail, Android’s Messages, Play Developer Console, and elsewhere, is now being made available to YouTube Creators.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": "Google brings its AI-powered SmartReply feature to YouTube",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
+      "publishedDateTime": "2020-07-01T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics.md",
+      "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
+      "excerpt": "One notable exception is the state of Texas, thanks largely to lobbying from dating app Bumble. Bumble also uses AI to block out to detect lewd images before they reach their destination. Yesterday, its sister app Badoo launched a similar feature.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-90-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
+      "publishedDateTime": "2020-07-01T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-facebook-study-shows-how-social-media-may-influence-our-vacation-behavior.md",
+      "title": "Facebook study shows how social media may influence our vacation behavior",
+      "excerpt": "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=21&itm_content=1x7&itm_term=2376504",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
+      "publishedDateTime": "2020-07-01T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence.md",
+      "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
+      "excerpt": "YouTuber Funk Turkey has employed artificial intelligence to create a track in imitation of Iron Maiden entitled 'Power Gravy'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/07/GettyImages-53634054.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
+      "publishedDateTime": "2020-07-01T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-communications-for-the-enterprise.md",
+      "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
+      "excerpt": "Geoverse, a company specializing in interconnected private LTE/5G networks for the enterprise, announced its partnership with Orion Labs, the leading voice communication and automation platform for frontline workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldtechnologiesonline.com/doc/geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-0001",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200630005238/en/802032/4/OrionLabs_pic.jpg",
+          "width": 480,
+          "height": 312,
+          "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Field Technologies Online",
+        "domain": "fieldtechnologiesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
       "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
       "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
@@ -570,816 +1416,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system.md",
-      "title": "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system",
-      "excerpt": "PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system/article_8d713520-8eea-5745-98b8-5a8529e889a6.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications.md",
-      "title": "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications",
-      "excerpt": "AI technology is allowing manufacturers to increase efficiency ... The XiT4 is powered by an NVIDIA T4 Tensor Core GPU, which features 320 NVIDIA Turing™ Tensor Cores and 2,560 NVIDIA CUDA® cores for critical processes that can benefit from processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-9027172",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
-      "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
-      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other",
-      "sourceUrl": null,
-      "webUrl": "https://www.eejournal.com/industry_news/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Engineering Journal",
-        "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias.md",
-      "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
-      "excerpt": "A new paper from researchers at Salesforce proposes a technique for mitigating gender bias in word embeddings from large data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/IMG_20190530_125848__01-e1593559807331.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Salesforce researchers claim new method mitigates AI models’ gender bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
-      "publishedDateTime": "2020-07-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-as-data-grows-what-could-the-future-of-ai-look-like-in-banking.md",
-      "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
-      "excerpt": "AI in banking is discussed primarily in connection with specific features, but this is only the basic level of AI's potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efba7cd3855ae0007ddffe9%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "As Data Grows, What Could The Future Of AI Look Like In Banking?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/as-data-grows-what-could-the-future-of-ai-look-like-in-banking/amp/",
-      "publishedDateTime": "2020-07-01T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
-      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "publishedDateTime": "2020-07-01T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
-      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
-      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
-      "publishedDateTime": "2020-07-01T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-five-ways-you-can-protect-your-machine-learning-systems.md",
-      "title": "Five Ways You Can Protect Your Machine Learning Systems",
-      "excerpt": "There is no doubt that machine learning has opened up a lot of new avenues. However, for all its advantages, it is important to recognize its inherent vulnerabilities, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1191329481%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Five Ways You Can Protect Your Machine Learning Systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/07/01/five-ways-you-can-protect-your-machine-learning-systems/amp/",
-      "publishedDateTime": "2020-07-01T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-tusimple-adds-logistics-operators-to-self-driving-trucks-effort.md",
-      "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
-      "excerpt": "Self-driving trucking startup TuSimple is teaming up with big logistics operators to bulk up its delivery business as it lays the groundwork for a planned coast-to-coast autonomous freight network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-204436/social",
-          "width": 1280,
-          "height": 640,
-          "title": "TuSimple Adds Logistics Operators to Self-Driving Trucks Effort",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-adds-logistics-operators-to-self-driving-trucks-effort-11593604800",
-      "publishedDateTime": "2020-07-01T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-hbmsu-becomes-mena-regions-first-educational-institution-to-migrate-its-full-systems-and-applications-to-aws-cloud.md",
-      "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
-      "excerpt": "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
-      "publishedDateTime": "2020-07-01T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025.md",
-      "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
-      "excerpt": "The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights & increased operational efficiency are few of the factors driving the deep learning chip market worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
-      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
-      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
-      "title": "In These Factories, Inspector Robot Will Check Your Work",
-      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "In These Factories, Inspector Robot Will Check Your Work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-intento-raises-3-million-to-serve-increasing-demand-of-global-companies-for-ai-transformation.md",
-      "title": "Intento Raises $3 Million to Serve Increasing Demand of Global Companies for AI Transformation",
-      "excerpt": "Round led by Flint Capital; Intento hires top COO to scale global operations BERKELEY, CA / ACCESSWIRE / July 1, 2020 / Intento, a leading AI integration platform, today announces it has closed a $3 million seed round to expand its AI integration platform and meet the growing demand of global companies for AI transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
-      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of its sixth generation of Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors-2020-06-11",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-positive-effects-of-grasping-virtual-objects-on-memory-for-novel-words-in-a-second-language.md",
-      "title": "Positive effects of grasping virtual objects on memory for novel words in a second language",
-      "excerpt": "Theories of embodied cognition describe language processing and representation as inherently connected to the sensorimotor experiences collected during acquisition. While children grasp their world, collect bodily experiences and name them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-67539-9",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-67539-9/MediaObjects/41598_2020_67539_Fig2_HTML.png",
-          "width": 685,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-sogou-takes-a-top-spot-at-nlpcc-2020.md",
-      "title": "Sogou Takes a Top Spot at NLPCC 2020",
-      "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, today announced it ranked first",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-takes-a-top-spot-at-nlpcc-2020/article_74e60c11-db8d-58bd-8a12-82b71b7df93d.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Sogou Takes a Top Spot at NLPCC 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-process-management.md",
-      "title": "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management",
-      "excerpt": "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16464333",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333",
-      "publishedDateTime": "2020-07-01T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

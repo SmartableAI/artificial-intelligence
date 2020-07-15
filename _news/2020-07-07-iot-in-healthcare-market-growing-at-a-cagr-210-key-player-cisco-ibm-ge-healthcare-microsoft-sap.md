@@ -1,21 +1,29 @@
 ---
 category: news
 title: "IoT in Healthcare Market Growing at a CAGR 21.0% | Key Player Cisco, IBM, GE Healthcare, Microsoft, SAP"
-excerpt: "Capsule Technologies (US), Comarch SA (Poland), Cisco Systems (US), GE Healthcare (US), HQSoftware (Estonia), Huawei"
-publishedDateTime: 2020-07-07T16:50:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16538701/iot-in-healthcare-market-growing-at-a-cagr-21-0-key-player-cisco-ibm-ge-healthcare-microsoft-sap"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16538701"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16538701"
+excerpt: "The global Internet of Things (IoT) in Healthcare Market is expected to grow from USD 72.5 billion in 2020 to USD 188.2 billion by 2025 at a Compound Annual Growth Rate (CAGR) of 21.0% during the forecast period."
+publishedDateTime: 2020-07-07T16:49:00Z
+webUrl: "https://www.marketwatch.com/press-release/iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap-2020-07-07"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Pg9ddUdGUSDDK/NkL+GcqS21Sr+TxpcHjpkTOwzSzwA8NSV+FKJZOwdkSiaPGlq8gGnSBPaUmPNpH8J6gyuckvEFQ/pGoZdiDdYpAdCmQEOh+iFr1Nq0QNmxTLUDBthZceAX6HkkIprOHSMkPHnFBMmuJvoDiOkx8gfJ8dkFjCWAOJDS1vXL7b6qT2pnjCvORT46ZPuw5MyrQdxJxXNiLYRyBkTedbHmNmRDZOwGHeXFTxjAd4qlp6CeV/i1Z9lj3PgIHekQyFT4QO58bKl/meJCAAuktaJG4ZiXjaIOncZVI1mAsqTvGRA644q7ixF3R1NtxKDZrCGxd1fuZ5gvvQ==;PkHbPY/u8ObVIZ1WIm+o4g=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "t1lfvx3G/t/yDs0ox2Te2FlhIEyRa/z01y5/rjWqKM6u1wtbU5vm028VdXOTnfxmtDhEz1Xzg3cG/5EQUu/hskFFGX1q8MooBPan8iUGPRSwMfV21gH9uafCOWncNdR/4zL3784ZcATH/rAb63T7HsAdYLTwopRseZ+TQs3vTZ0iWGlvB0hTygCUVVOcu3Iv1ctFgA+nKlH4lf9VaXCg6SsdhqTCAsyN8B72PL6piK+qQ2/XNQJJR9nWvxtDatN55grL/LIcJo3RqmeO3C54+0+xxB9makfmMR2skVTLfQqcXTi/WUqqOXKvYOegRNLYyFJAnNtbklW2pppScZNBdg==;K1aPhfPpHBXkI0ePLslnkg=="
 ---
 

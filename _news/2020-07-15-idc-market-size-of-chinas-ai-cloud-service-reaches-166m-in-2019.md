@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Abacus.AI’s Autonomous AI Cloud Service Reaches General Availability"
-    excerpt: "RealityEngines.AI announced the general availability of its autonomous cloud AI service as well as a re-branding to Abacus.AI."
-    publishedDateTime: 2020-07-14T13:39:00Z
-    webUrl: "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech"
-    ampWebUrl: "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/"
+  - title: "Baidu Tops China's AI Public Cloud Services Market: Report"
+    excerpt: "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC)."
+    publishedDateTime: 2020-07-15T18:30:00Z
+    webUrl: "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0c70b424c99300079a255e%2F0x0.jpg"
-        width: 1199
-        height: 627
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize"
+        width: 1200
+        height: 769
+        isCached: true
+  - title: "China Artificial Intelligence Products Market Report 2019"
+    excerpt: "(MENAFN - Nxtgen Reports) In this report, our team research the China Artificial Intelligence Products market by type, application, region and manufacturer 2014-2019 and forcast 2020-2025."
+    publishedDateTime: 2020-07-12T22:06:00Z
+    webUrl: "https://menafn.com/1100471251/China-Artificial-Intelligence-Products-Market-Report-2019"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?498992"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "gjTd1uRvm+mC+rVsskI//FlloWZLAVOR7TSSD9PTIJ/X3qkYW4Mmz3tgCCJ+1qzdLQDeUijYzMGgyEgKmUFUWLixIQDsw4ExGqlxNLO4YeFdB7z1IaLKSSi1zdlQJa0AKWS+WCrRtOCOEZogonky46GJpoP/kGiLrlirBjIZO+Fjxxwv2CqjGMc3CuLH2F/hKZupxoEMHXv0/GPT6XgoLxBSmSUOjnuQmIEnX6yGblL3yb6cBYV/dvw2Vb2fz8RtHnDwh0K/ubhB2TNgMEEgbKSVdihkNUA0ch1vmzqoXz+B2pcYI+DZXr7vaXugljlTaBf1pWZ6ALeoTVsSE0YsiE73rcpmPCFAIr5J1qVeGBeyHFNV7MSK44B52cX0uTNQTmKWZZfCbl9ivWfD/sHF0FlYb4JGls+97lqf2b9jq03bjGflj3G697UIGx9NmRHcK1cI0iYZDCHPrRfAnR8NR2dvf2v4F1jUJsCuOe49mAXNxBNs31ZKw8uPmxWBBoAjTMUtY4h7FkhZrDyeD2qm3Q==;GCP8Xshu38eRrxTk4qL8fw=="

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/how-to-use-speech-to-text-on-word?am
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-word?amp"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How to use speech-to-text on a Windows computer to quickly dictate text without typing"
+    excerpt: "You can use the speech-to-text feature on Windows to dictate text in any window, document, or field that you could ordinarily type in."
+    publishedDateTime: 2020-07-13T18:42:00Z
+    webUrl: "https://www.businessinsider.com/how-to-use-speech-to-text-on-windows"
+    ampWebUrl: "https://www.businessinsider.com/how-to-use-speech-to-text-on-windows?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-windows?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5f08df161918244c8e6808d6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "phxzl2p0Vxz9MZbIErOj3tfXTI9SRUuuK9vfHmmtkEYqyk2POzgmPGaBVSrbskp3RLROhDprQ+nTx9UHG7iyOazM4/C3eAe28qwEW+0MUC/Buo7/Q5x03xatIws5R6tR5N2D9ti9o/MFTcmzg6/HJG3qUOsKpB9Ds6ueVdG9tELXcMsOxicrcPstNJEFVF4zZ/BoDZn058R17otJrZ4V8gAWcc2oMXSIUGezqcPDqwpPIilcK8N0Gf8wxPaw/0CDdWgU1w60XYdx2nG0fG0mAjcpEpthM3Opko5KEDuBq9xXE3E5O8b7g5ytHYa8dJEi5ExiRxeZ7wWojI/fwPbSUA==;DARNqy22yG31zPzZY1O2cg=="
 ---

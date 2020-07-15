@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-15-strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars.md",
+      "title": "Strong AI Versus Weak AI Is Completely Misunderstood, Including For AI Self-Driving Cars",
+      "excerpt": "Or, if you prefer, you can state it as weak versus strong AI (it’s okay to list them in either order). If you’ve been reading about AI in the popular press, the odds are that you’ve seen references to so-called strong AI and so-called weak AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1098040634%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-15T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup.md",
       "title": "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup",
       "excerpt": "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups.",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 144,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -263,7 +313,7 @@
       "webUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1040,6 +1090,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-06-deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
+      "title": "DeepMap Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
+      "excerpt": "DeepMap today announced it has been named to the Forbes AI 50, a list of the top private companies using artificial intelligence to",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmap-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029370101",
+      "publishedDateTime": "2020-07-06T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest.md",
       "title": "Self-Driving Cars Just Took a Big Leap Forward (Here’s How to Invest)",
       "excerpt": "Stock Market News, Stock Advice & Trading Tips Source: Shutterstock When Amazon (NASDAQ:AMZN) drops over a billion dollars",
@@ -1343,97 +1434,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised.md",
-      "title": "Trump administration hires tech firm to build a virtual border wall, an idea Democrats have praised",
-      "excerpt": "The company claims the artificial-intelligence software is capable ... chip technology developed by Tesla and other companies for driverless cars, Steckman said. CBP officials for years have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/77IQRJV374I6VF6BNTYRN77CNQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp",
-      "publishedDateTime": "2020-07-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane.md",
-      "title": "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane",
-      "excerpt": "Self-driving trucks startup TuSimple laid out a plan Wednesday to create a mapped network of shipping routes and terminals designed for autonomous trucking operations that will extend across the United States by 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck-close-up.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "TuSimple kicks off plan for a nationwide self-driving truck network with partners UPS, Xpress and McLane",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/tusimple-kicks-off-plan-for-a-nationwide-self-driving-truck-network-with-partners-ups-xpress-and-mclane/amp/",
-      "publishedDateTime": "2020-07-01T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

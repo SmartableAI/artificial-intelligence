@@ -2,6 +2,207 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-15-computer-vision-tech-helps-robots-get-a-grasp-on-transparent-objects.md",
+      "title": "Computer vision tech helps robots get a grasp on transparent objects",
+      "excerpt": "In order to see and then grasp objects, robots typically utilize depth-sensing cameras like the Microsoft Kinect. And while such cameras may be thwarted by transparent or shiny objects, scientists at Carnegie Mellon University have developed a work-around.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a0f78a7/2147483647/strip/true/crop/960x640+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F68%2F3aad48ba41c7af2fc5dfc6c49d4d%2F237348-web.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true",
+      "publishedDateTime": "2020-07-15T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-artie-releases-tool-to-measure-bias-in-speech-recognition-models.md",
+      "title": "Artie releases tool to measure bias in speech recognition models",
+      "excerpt": "Researchers at Artie released a tool to detect bias in speech recognition systems. In a proof of concept, they find evidence of bias in a Google model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/home-mini-aqua.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
+      "publishedDateTime": "2020-07-15T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-facial-recognition-is-everywhere-heres-what-we-can-do-about-it.md",
+      "title": "Facial Recognition Is Everywhere. Here’s What We Can Do About It.",
+      "excerpt": "You can opt out of facial recognition in some cases, but the history and future of the technology suggest we’ll need bigger solutions to its privacy problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2020/07/202007_facial-rec-630-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
+      "publishedDateTime": "2020-07-15T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-mit-researchers-find-systematic-shortcomings-in-imagenet-data-set.md",
+      "title": "MIT researchers find ‘systematic’ shortcomings in ImageNet data set",
+      "excerpt": "MIT researchers say the influential ImageNet data set has \"systematic annotation issues\" when used as a benchmark for evaluating object recognition models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/amp/",
+      "publishedDateTime": "2020-07-15T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-coping-with-inconsistent-facial-recognition-in-apple-photos.md",
       "title": "Coping with inconsistent facial recognition in Apple Photos",
       "excerpt": "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,",
@@ -205,6 +406,49 @@
       ]
     },
     {
+      "path": "_news/2020-07-14-the-microsoft-police-state-mass-surveillance-facial-recognition-and-the-azure-cloud.md",
+      "title": "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud",
+      "excerpt": "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this.",
+      "sourceUrl": null,
+      "webUrl": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Intercept",
+        "domain": "theintercept.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware.md",
       "title": "OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware",
       "excerpt": "A new gadget called the OpenCV AI Kit, or OAK, looks to replicate the success of Raspberry Pi and other minimal computing solutions, but for the growing fields of computer vision and 3D perception. Its new multi-camera PCBs pack a lot of capability into a small,",
@@ -363,7 +607,7 @@
       "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 126,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1194,239 +1438,6 @@
         "name": "ABC Kcrg  9",
         "domain": "kcrg.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition-technology.md",
-      "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
-      "excerpt": "Nearly 40 civil rights, privacy and technology groups sent a letter to Congressional leadership Thursday pushing for a federal moratorium on facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/facialrecognitiontech_070319istock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "Dozens of advocacy groups push for Congress to ban facial recognition technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/505563-dozens-of-advocacy-groups-push-for-congress-to-ban-facial-recognition?amp",
-      "publishedDateTime": "2020-07-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-the-organizations-positioned-to-lobby-against-a-us-ban-on-facial-recognition.md",
-      "title": "The organizations positioned to lobby against a US ban on facial recognition",
-      "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2020-04-06T151844Z_1_LYNXMPEG351EX_RTROPTP_4_G7-SUMMIT-CANADA-e1593619804343.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "The organizations positioned to lobby against a US ban on facial recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-01T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-facial-recognition-software-fails-to-correctly-identify-people-96-percent-of-the-time-according-to-detroits-chief-of-police.md",
-      "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
-      "excerpt": "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "publishedDateTime": "2020-06-30T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
-      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "publishedDateTime": "2020-06-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows.md",
-      "title": "SuperAnnotate Announces Strategic Partnership With OpenCV to Improve Annotation for Computer Vision Workflows",
-      "excerpt": "Annotated data is paramount for advances in self-driving cars, retail, healthcare and other industries; the market for data annotation tools is expected to reach $2.57 billion by 2027. Data preparation and engineering tasks represent over 80% of the time consumed in most AI and machine learning projects.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows-1029322728",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows-1029322728",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/superannotate-announces-strategic-partnership-with-opencv-to-improve-annotation-for-computer-vision-workflows-1029322728",
-      "publishedDateTime": "2020-06-30T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

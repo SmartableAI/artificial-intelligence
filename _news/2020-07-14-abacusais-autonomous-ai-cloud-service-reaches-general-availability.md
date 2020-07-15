@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-auton
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1199
     height: 627
     isCached: true
-
-related:
-  - title: "IDC: Market size of China's AI cloud service reaches $166m in 2019"
-    excerpt: "The market size of China's artificial intelligence cloud service recorded $166 million in 2019, according to the latest AI cloud service report by the global market consultancy IDC on Tuesday. As per the report,"
-    publishedDateTime: 2020-07-15T06:01:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202007/15/WS5f0e9ba3a3108348172599d2.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202007/15/5f0e9ea5a3108348fcdd7879.jpeg"
-        width: 684
-        height: 456
-        isCached: true
 
 secured: "8mIGtALSeylCzTmkCX+rxkF/z8L+5QqJXTDFqGkUJUKQQwPIUkVBNFxl3j5F0vpRBzFsjbC9mg0iCO4dDUnelMIllXX1glf3rq5ErDBS6VUJjMzADMWMHbhyG+TAAK6az5WxiUdxp9IaYDWwJe1AOfjUzLB7P+QUOvWIM/RLrVvTButhgV9C5y620dAsLB1qwwvFTVli7DWC9rWLwFpMANZtzcBGL7B0g9IDbrRnwXYNibz2Mhh/vVQgmGYY2j5sjch+rB+3OxefjjfhiZc/58VERD8BspfDBWHfX0bW7C3GtBYEjzDF0IrrEIBi2IUp6D7/BwbrG9NUyFlTo5PxVg==;Cff65We8pSGYHaSxmng+Xw=="
 ---

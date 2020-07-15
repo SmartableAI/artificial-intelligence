@@ -21,6 +21,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AI in Finance
 
 secured: "UUR/jJRZUHBoGomi4mu6JYAR5bRwWcNCcU2sIYYgosCNgLgjdHPG7FB+omehEbsI/IH0Te45NowVFstxKrKZO+4+sbWwFH4bcXsXWykKDZxYsUiN1Vg/j+tifgc9TqGvsmNU/LRRpOAJLgHSgS5rw7/xqn2c1w2/nn+e8ya+HyF4p0kXpMypqCbZnpwuKhlz2umZ/r12uM77DgICbBRhgL9EUt8i0UsNyvupuYmEybEoIbu9oJOLXvq1nQEzmtAyd214UAAneh/kcbapEornQF/s0CGVQ598KcVF364D5nnsS0gMUeQqPhBTl4yei3oNoJFADeHJTvEQ4LwsBy+MoQ==;1BRiu5MxK86wMU7bKrmGFw=="
 ---

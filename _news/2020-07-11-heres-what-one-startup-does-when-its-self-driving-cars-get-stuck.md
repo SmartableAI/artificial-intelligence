@@ -104,6 +104,22 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
+    excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
+    publishedDateTime: 2020-07-15T19:00:00Z
+    webUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
+    ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    type: article
+    provider:
+      name: THE TRUCKER
+      domain: thetrucker.com
+    quality: 37
+    images:
+      - url: "https://www.thetrucker.com/wp-content/uploads/2020/07/Level-4-Autonomous-Truck.jpg"
+        width: 720
+        height: 380
+        isCached: true
   - title: "Self-driving startup develops car without wheels"
     excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
     publishedDateTime: 2020-07-14T10:50:00Z
@@ -131,6 +147,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-truc-main.jpg?itok=WENGs4K-"
         width: 470
         height: 246
+        isCached: true
+  - title: "Navistar, TuSimple Partner to Bring Self-driving Trucks to Market by 2024"
+    excerpt: "A collaboration between Navistar and TuSimple will accelerate testing and proving of technology capable of running commercial trucks at full driverless Level 4 operation by 2024."
+    publishedDateTime: 2020-07-15T18:04:00Z
+    webUrl: "https://www.truckinginfo.com/10121289/navistar-tusimple-partner-to-bring-self-driving-trucks-to-market-by-2024"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 23
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/navistar-tusimple-front-__-1200x630-s.jpg"
+        width: 1194
+        height: 630
         isCached: true
 
 secured: "DBKNxmhwlkcAwznTYuLQN0yszQYTq4aLl7znxckQt4XPunkMvVnX+AP+UhUw/N/DEqbBPtisPX6aiXT3Y0n2zxTVBx6viSUKtSKwfooU4PYtNbxfO473Z1ea7r7vsTjntDs05qe16TcQd9EuHikACCppCGaWI/jGOAqVlcrj69hqAtTjyMTWlBgc0qLfYReBMmoPz4r6CnF71LRLKGzkASQ+5IUSOKDN5oMnmM6dpIW2aXKIqLFW3JDbc9zZrikRnfH8UFSHthZDarnGa/zYNg2f7PYHqkHPAxTwjCdu54gUIqJfzZrAgs9sfQSlAEBCzld/dfI14F+jnYBwRf5tVg==;H43ZXksUFJRH5J4XbYiW4Q=="

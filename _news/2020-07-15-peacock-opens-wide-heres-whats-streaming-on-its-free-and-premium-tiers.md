@@ -12,6 +12,10 @@ published: true
 provider:
   name: Deadline.com
   domain: deadline.com
+  images:
+    - url: "/assets/images/organizations/cnbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -40,6 +44,6 @@ related:
         height: 417
         isCached: true
 
-secured: "j6WIOyyyASxe+0DFD9yfZQjWJvuMN91EiSj7D4Cy1NjR2PHygAm7Z+EiSuiS9kF1Zvmyw8qqFgSKANI6XLAPMy9zt92ow1eyXOSTNeOeQG5kEeCD5QOURu7LVHzUFdYb9oNPGD2nj1ModGokNwN765RmSleM0XBypKV1BSavOXRpu4cuTO4CUyE/l/uaPK0etB09PV4KmVIdFdPJuSCsIdbHWZqapgNxbw9B6Sq/EJQlphgR2NGr7XYATGWt9zDQa0qQ3e9pOyuXdL5QoZDABnhJd4b6LJrBt1r3Mr7B2p38s+7L+XTlJK3Hnc4zvn7Q06dktTzMNFXNsrt/b5WP3w==;1q9/49DmA4KR50VV/dQLQA=="
+secured: "W2Sdn4lDQbfPdkyXEdddVJC1tia1xJjSdsxEovOo+cGOPiMlLjO6Uv3bkFLF/fZliaGv8e0IZ0LwHkVIE6qXier7EdlKXH+N3rWylfAQOl2AacdcyOwAwj+WXIrPdMNDXomi5nJMucTkDJMAZN7bAhfya23EB84FL0sj/OW1wyos6hvQKUpfD9e7LkEP+edJ27rZiBdB4G91WDBv7uvT1sbBSI1BdDW2B8yXTvJT+NzsmmbboFJ0Vb3yt1eiq4jt/K3AM8b29i4mnBSr8gNLBNcwcIEyjHJh4QuYUWYg+VZ0KAbw8VCACw6+32e6i64Xqw09/RAe6UlUzoeQ1S34rEnTiy4gw6z5rdoEVOo3j33+hLNPcsRE4i2If/ITkA/C5/tiyezbuNm9xUEPapSlC6wqw223OMA09sGgrWP/kviYCkBYE9ZNKfkguW7VaypU4NErWZluRI1mH79zKEC2tVsTsgu1KOdUl8LgzGk6NIL9WS+7AKXlj5BeINsTzMgeHL7Tw19h+tXyTkEkNCG4/Q==;aw5j7Xou27MrBr/xM44BgA=="
 ---
 

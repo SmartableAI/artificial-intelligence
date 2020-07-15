@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.co
 type: article
 quality: 98
 heat: 98
+published: true
 
 provider:
   name: TechRadar

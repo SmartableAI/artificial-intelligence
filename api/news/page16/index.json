@@ -2,6 +2,822 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-01-dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics.md",
+      "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
+      "excerpt": "One notable exception is the state of Texas, thanks largely to lobbying from dating app Bumble. Bumble also uses AI to block out to detect lewd images before they reach their destination. Yesterday, its sister app Badoo launched a similar feature.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-90-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
+      "publishedDateTime": "2020-07-01T11:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-facebook-study-shows-how-social-media-may-influence-our-vacation-behavior.md",
+      "title": "Facebook study shows how social media may influence our vacation behavior",
+      "excerpt": "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=21&itm_content=1x7&itm_term=2376504",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
+      "publishedDateTime": "2020-07-01T10:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence.md",
+      "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
+      "excerpt": "YouTuber Funk Turkey has employed artificial intelligence to create a track in imitation of Iron Maiden entitled 'Power Gravy'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2020/07/GettyImages-53634054.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
+      "publishedDateTime": "2020-07-01T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-communications-for-the-enterprise.md",
+      "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
+      "excerpt": "Geoverse, a company specializing in interconnected private LTE/5G networks for the enterprise, announced its partnership with Orion Labs, the leading voice communication and automation platform for frontline workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldtechnologiesonline.com/doc/geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-0001",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200630005238/en/802032/4/OrionLabs_pic.jpg",
+          "width": 480,
+          "height": 312,
+          "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Field Technologies Online",
+        "domain": "fieldtechnologiesonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
+      "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
+      "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stanford-university.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
+      "publishedDateTime": "2020-07-01T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane.md",
+      "title": "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane",
+      "excerpt": "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-tusimple-selfdriving-network-idUSKBN2425QS",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2425QS",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2425QS",
+      "publishedDateTime": "2020-07-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-the-organizations-positioned-to-lobby-against-a-us-ban-on-facial-recognition.md",
+      "title": "The organizations positioned to lobby against a US ban on facial recognition",
+      "excerpt": "Pressure on US lawmakers to create federal regulations on facial recognition has been mounting. Against that backdrop, industry groups have quietly lobbied to soften regulations and avoid an outright ban.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2020-04-06T151844Z_1_LYNXMPEG351EX_RTROPTP_4_G7-SUMMIT-CANADA-e1593619804343.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "The organizations positioned to lobby against a US ban on facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1876072/the-lobbyists-set-to-fight-a-us-ban-on-police-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-01T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-why-2020-is-a-rare-window-in-time-thats-hard-to-see-beyond.md",
+      "title": "Why 2020 is a rare window in time that's hard to see beyond",
+      "excerpt": "Never mind seeing beyond the fabled singularity of 2045. It's really hard to predict where we're going from the here and now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/jjR3OvgOzGo5s1W8Fc32Xs6NEmo=/0x1251:5616x4212/756x567/2020/06/30/c9102f24-6394-4b2b-9b0b-ea2d7a533006/gettyimages-1163715561.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Why 2020 is a rare window in time that's hard to see beyond",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/to-fix-the-future-start-figuring-out-where-we-are-right-now/",
+      "publishedDateTime": "2020-07-01T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
+      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "publishedDateTime": "2020-07-01T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
+      "title": "Ethics in the Balance: AI’s Implications for Government",
+      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/taskforce1.jpg",
+          "width": 940,
+          "height": 630,
+          "title": "Ethics in the Balance: AI’s Implications for Government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "publishedDateTime": "2020-07-01T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-how-to-use-the-new-ai-driven-nextcloud-inbox.md",
+      "title": "How to use the new AI-driven Nextcloud Inbox",
+      "excerpt": "Nextcloud Mail users will be thrilled with the new AI-driven inboxes. Learn the ins and outs of this new feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2018/07/26/02a83571-b370-453e-840a-b5c29b17be68/resize/1200x/34f2fb8ab33e3a6d77c764e619e19d2b/nextcloudhero.jpg",
+          "width": 1200,
+          "height": 938,
+          "title": "How to use the new AI-driven Nextcloud Inbox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-use-the-new-ai-driven-nextcloud-inbox/",
+      "publishedDateTime": "2020-07-01T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots.md",
+      "title": "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots",
+      "excerpt": "Pudu Technology, a Shenzhen-based startup designing robots for hospitals, restaurants, and offices, today announced it raised $15 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/07c9efa2-6612-42b1-8626-1abe610b97ed-e1593613750763.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 574,
+          "title": "Pudu Technology raises $15 million for ‘contact-free’ autonomous delivery robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/pudu-technology-raises-15-million-for-contact-free-autonomous-delivery-robots/amp/",
+      "publishedDateTime": "2020-07-01T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-yitu-technology-received-isoiec-277012019-certification-from-bsi-becomes-the-first-chinese-ai-company-to-obtain-it.md",
+      "title": "YITU Technology received ISO/IEC 27701:2019 certification from BSI, becomes the first Chinese AI company to obtain it",
+      "excerpt": "On June 30, 2020, YITU Technology, the world’s leading artificial intelligence (AI) company, received the ISO/IEC 27701:2019 certification from the British Standards Institution (BSI) for its privacy information management system,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/34a1b2fbe02403a209b95dc63fc98d14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work.md",
+      "title": "The robots are coming, and this is how they will change the future of work",
+      "excerpt": "Robotic systems have historically been kept separate from humans, and tucked away deep in factory lines. But as robots start mingling with humans in their workplaces, what is work going to look like?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/30/44b82d2a-c7eb-4458-89bb-a1aeff3fc18b/makrshakr-milanoduomo-bp-5972.jpg",
+          "width": 1152,
+          "height": 768,
+          "title": "The robots are coming, and this is how they will change the future of work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-robots-are-coming-and-this-is-how-they-will-change-the-future-of-work/",
+      "publishedDateTime": "2020-07-01T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-cio-jury-58-of-tech-leaders-say-robotics-will-play-a-significant-role-in-their-industry-within-the-next-two-years.md",
+      "title": "CIO Jury: 58% of tech leaders say robotics will play a significant role in their industry within the next two years",
+      "excerpt": "When asked, \"Will robotics have a significant effect on your industry in the next 1-2 years?\" seven out of 12 tech leaders said 'yes', while five said 'no'. That means 58% of tech",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cio-jury-58-of-tech-leaders-say-robotics-will-play-a-significant-role-in-their-industry-within-the-next-two-years/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/05/13/34c2d20f-05c7-42df-a650-410262e65ae5/thumbnail/1200x675/8986304453ac892ce66e1eeaefa00b8b/istock-1007845610.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "CIO Jury: 58% of tech leaders say robotics will play a significant role in their industry within the next two years",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cio-jury-58-of-tech-leaders-say-robotics-will-play-a-significant-role-in-their-industry-within-the-next-two-years/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cio-jury-58-of-tech-leaders-say-robotics-will-play-a-significant-role-in-their-industry-within-the-next-two-years/",
+      "publishedDateTime": "2020-07-01T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-robots-are-learning-workplace-etiquette-at-mit.md",
+      "title": "Robots are learning workplace etiquette at MIT",
+      "excerpt": "The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL). Robots need to know when it's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/05/13/34c2d20f-05c7-42df-a650-410262e65ae5/thumbnail/1200x675/8986304453ac892ce66e1eeaefa00b8b/istock-1007845610.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots are learning workplace etiquette at MIT",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "publishedDateTime": "2020-07-01T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system.md",
+      "title": "Hitachi and ThinkCyte announce collaboration to develop an AI-driven cell analysis and sorting system",
+      "excerpt": "PRNewswire/ -- Hitachi, Ltd. (TSE: 6501, \"Hitachi\") and ThinkCyte, Inc. (\"ThinkCyte\") today announced that they have entered into a collaboration focused on developing an artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/hitachi-and-thinkcyte-announce-collaboration-to-develop-an-ai-driven-cell-analysis-and-sorting-system/article_8d713520-8eea-5745-98b8-5a8529e889a6.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications.md",
+      "title": "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications",
+      "excerpt": "AI technology is allowing manufacturers to increase efficiency ... The XiT4 is powered by an NVIDIA T4 Tensor Core GPU, which features 320 NVIDIA Turing™ Tensor Cores and 2,560 NVIDIA CUDA® cores for critical processes that can benefit from processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-9027172",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanzen",
+        "domain": "finanzen.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers.md",
       "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google’s TensorFlow Lite for Microcontrollers",
       "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax” or “Company”), a leading supplier and fabless manufacturer of display drivers and other",
@@ -339,816 +1155,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-hbmsu-becomes-mena-regions-first-educational-institution-to-migrate-its-full-systems-and-applications-to-aws-cloud.md",
-      "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
-      "excerpt": "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
-      "publishedDateTime": "2020-07-01T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025.md",
-      "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
-      "excerpt": "The increasing investments in deep learning chip start-ups, prominence of quantum computing, and real time consumer behavior insights & increased operational efficiency are few of the factors driving the deep learning chip market worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-revolutionary-trends-in-industry-statistics-by-2020-2025-2020-07-01?mod=mw_quote_news",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Chip Market Revolutionary Trends in Industry Statistics by 2020-2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
-      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
-      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
-      "title": "In These Factories, Inspector Robot Will Check Your Work",
-      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "In These Factories, Inspector Robot Will Check Your Work",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-intento-raises-3-million-to-serve-increasing-demand-of-global-companies-for-ai-transformation.md",
-      "title": "Intento Raises $3 Million to Serve Increasing Demand of Global Companies for AI Transformation",
-      "excerpt": "Round led by Flint Capital; Intento hires top COO to scale global operations BERKELEY, CA / ACCESSWIRE / July 1, 2020 / Intento, a leading AI integration platform, today announces it has closed a $3 million seed round to expand its AI integration platform and meet the growing demand of global companies for AI transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
-      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of its sixth generation of Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors-2020-06-11",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T02:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-positive-effects-of-grasping-virtual-objects-on-memory-for-novel-words-in-a-second-language.md",
-      "title": "Positive effects of grasping virtual objects on memory for novel words in a second language",
-      "excerpt": "Theories of embodied cognition describe language processing and representation as inherently connected to the sensorimotor experiences collected during acquisition. While children grasp their world, collect bodily experiences and name them,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-020-67539-9",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-67539-9/MediaObjects/41598_2020_67539_Fig2_HTML.png",
-          "width": 685,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-sogou-takes-a-top-spot-at-nlpcc-2020.md",
-      "title": "Sogou Takes a Top Spot at NLPCC 2020",
-      "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, today announced it ranked first",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-takes-a-top-spot-at-nlpcc-2020/article_74e60c11-db8d-58bd-8a12-82b71b7df93d.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Sogou Takes a Top Spot at NLPCC 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-process-management.md",
-      "title": "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management",
-      "excerpt": "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16464333",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333",
-      "publishedDateTime": "2020-07-01T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
-      "title": "Lyft’s driverless cars are back on the streets of California",
-      "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
-      "publishedDateTime": "2020-06-30T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-kaggle-where-data-scientists-learn-and-compete.md",
-      "title": "Kaggle: Where data scientists learn and compete",
-      "excerpt": "Data science is typically more of an art than a science, despite the name. You start with dirty data and an old statistical predictive model and try to do better with machine learning. Nobody ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.amp.html",
-      "publishedDateTime": "2020-06-30T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-klarna-stock-benefits-from-growing-trends-in-retail-and-fintech.md",
-      "title": "Klarna Stock Benefits from Growing Trends in Retail and Fintech",
-      "excerpt": "To get a sense of the fintech, look at how it works ... Buy now, pay later apps — again, it’s about the AI and the data — are only doing a soft credit checks, which won’t hurt a consumer ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/klarna-stock-buy-now-pay-later-retail-trends-fintech-1029356167",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/klarna-stock-buy-now-pay-later-retail-trends-fintech-1029356167",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/klarna-stock-buy-now-pay-later-retail-trends-fintech-1029356167",
-      "publishedDateTime": "2020-06-30T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-nasa-funds-small-business-ideas-ranging-from-ai-medicine-to-plumbing-for-the-moon.md",
-      "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
-      "excerpt": "NASA says it’ll fund more than 400 ideas from small businesses, ranging from plumbing fixtures suitable for the moon to AI-based medical assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/200630-spacemedicine-630x419.jpg",
-          "width": 630,
-          "height": 419,
-          "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
-      "publishedDateTime": "2020-06-30T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california.md",
-      "title": "Lyft’s self-driving test vehicles are back on public roads in California",
-      "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/lyft-level-5-self-driving.jpg?w=1024",
-          "width": 1024,
-          "height": 671,
-          "title": "Lyft’s self-driving test vehicles are back on public roads in California",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california/amp/",
-      "publishedDateTime": "2020-06-30T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-nvidia-boosts-virtual-gpu-support-to-help-home-workers.md",
-      "title": "Nvidia boosts virtual GPU support to help home workers",
-      "excerpt": "The pandemic has changed the way organizations operate and many workers will continue to work from home once their coworkers began returning to the office which is why Nvidia has released a new version of its virtual GPU software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/KpEA6ngdEmLGGBXPQ35xQZ-1200-80.jpg",
-          "width": 1119,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-boosts-virtual-gpu-support-to-help-home-workers",
-      "publishedDateTime": "2020-06-30T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-smarter-phones-in-your-hacks-with-tensorflow-lite.md",
-      "title": "Smarter Phones In Your Hacks With TensorFlow Lite",
-      "excerpt": "If your neural network was written using Google’s TensorFlow framework then you’ve had the option of using TensorFlow Mobile, but it doesn’t use any of the phone’s accelerated hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/11/23/smarter-phones-in-your-hacks-with-tensorflow-lite/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/11/tensor_flow_lite_demo_fe.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-new-robot-technology-to-fight-covid-care-isolation.md",
-      "title": "New robot technology to fight Covid care isolation",
-      "excerpt": "That is why the new multi-disciplinary laboratory is aiming to create affordable technology that can support the care of vulnerable people cut off from human contact. It's not just the care that will be delivered at a distance - the lab itself will be open and remotely accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-scotland-53241556",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/10AA/production/_113166240_robot2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "New robot technology to fight Covid care isolation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-scotland-53241556",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-scotland-53241556",
-      "publishedDateTime": "2020-06-30T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-ethics-and-ai-an-unethical-optimization-principle.md",
-      "title": "Ethics and AI: An unethical optimization principle",
-      "excerpt": "EPFL professor Anthony Davison and co-authors provide a mathematical basis for concerns about ethical implications of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-06/epfd-eaa063020.php",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
-          "width": 900,
-          "height": 300,
-          "title": "Ethics and AI: An unethical optimization principle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
