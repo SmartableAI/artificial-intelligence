@@ -2,7 +2,7 @@
 name: "Lumiata"
 overview: "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital."
 type: "profile"
-heat: 50
+heat: 58
 
 website: http://www.lumiata.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Lumiata"
   url: "https://twitter.com/Lumiata"
-  followers: 1065
+  followers: 1063
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=1uxjtyJdxbU"
 
-secured: "69mqv8aRacEMBNWSdGA2JDuWj6rVlC1rvU4RhLyHaDwJjH8vXLTVMr9BxybKiPAPORlOFWaftorAGIOkc6PtfhTh9ofx84gCnkncuok/eZhRCOsIUbrjFZHKZWT+KQ2M7yyGlBU2yLa0JcjLwEiuYRhy9fp/IRenmyi4wXCu0VsVCHLP/no7gqacGcnobsomFPGYf8aTCOETYoe2UTwNs6/0op35sV+wv2vQr1ekdA2MsTF9rY/RiNyTGrIRhV7YJpKExnOUy8ZWUVYWYekpnQtEL6lyVrY1Mv3vDLdPmCJ0fnMkRIxRn93B2HWMOLY9Q4gZi9yBJWkXlYs9vDvWrLZRu7M7fijqc0tA1M59kerJkPiCxaBQn2O7b8dhKvr+;S3h0hyVNVzAB1uZiT8WTJw=="
+secured: "3vDOeLTva31BYkeNOq625QRUFIsxc9KqKhmJglBxwRCWnPD2YczxuF4tYU3WUnaPTCt9XhKIZscTkrOD3piEL2fYpUh5XKeP9oKs/kfpfrDUV+gAUINO/f7uQkHJ2eI3tXKLZVh//ncptPNLSA4T5D7BfwMsYyAUDN95Szy6LnKpLse+5aAdLth27NbCNyAr6vA2CORIvmHBDDnN0JuZSv8hqoN8oHaKPYTM49F9zzxkfl5XClYxdmklb+rKh4XiKvH4Vd33Y89CNi/7Tv24LHSCQduAQCJ9UVke+zzBbBNSm61mfWcvWf/BTo8TpPbrVWnIDOFIDIi0wJirEut3/qHz86lEn/D+enui1dxs4XNMwZ1WXiA5133EJYL9cJbi;xL/ZVQ1VUc0EPbBUOnYdQg=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Persado"
 overview: "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale"
 type: "profile"
-heat: 31
+heat: 41
 
 website: https://www.persado.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ig4B5roBgao"
 
-secured: "X2Yn12VVhZqUkXePp9amK7YOW8pfN2CY9yI8CVyyw1pVnVwR1AUof+FiIRcJwOFFcy1aoal5OQTHxuq/vBX6gv+cGAZEUOcAGkx8wvIMVmh1p+3oqEiQfcal1Pv9PSBuzkfcDt4BhLzZDiA3+Vog2RlFVkdUYIEfNFwcHvnCPgngupUm+Bl9P7punGJhIiksur+5p3u+Ek/BNuTPGdyhtpt+qW47BdOXJ1H87kxhKotJrCx7ND465JN1eiu3/KJiuR3oHriHPpkXUEgUtlS+2PxA07/C5Zy5YpwoavW+eKshqJ/syV/LeaTvfgkutUKvVUyxNaNUUiN/qQ8v09quTQEuMx2R1ySEpe7BnyTkiGwOMryuztUiWJO1Pfiq4gtk;TvWz8aXhsyTIgWL0aSERrw=="
+secured: "LEYGo5+p4SaN0YfaCYHYiz3sePC0N+nFpsUL6wPkrxaSOaNyPb2+I9iAahDXee8Bqi45itN0Wkd5PeeHiyDtAI1YubP4xCxAp3MWRCiGGgkbk+qfer/g+SOPk4sU5xcPsxDJm3RR5tY6nQZkbx5Vzb+gA30i6vFsJAVwFMvFEcAnl3OO+ISE5OVhXtR5z/Np0Uq2NEx+XZ1kpaCYt42iy1edn36z2m9xbPWAG+CriHO53oaoSqopNfQxk4QbP736jKCHXYjj6GCKjFrOYd5jDvUeKJh9XKRHS5WHlXnyPEJt5fmJFxVRW9hKKVKGXvYCZyrzfpA9b5vwFEMQEOYlVgkCxsJThE0HvMtj/W3Wkk2/ll856VAKQXZJKMFeyxUv;IIuO+7o8PmN3QN1tnAdPdg=="
 ---
 

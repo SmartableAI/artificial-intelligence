@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 72
+heat: 58
 
 website: https://arterys.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "K9ziQ5d1SpD47BVUK6N5EUdPF7NIQloo51U5myOVC6CQSQAJ6k23bRymCiWjoRcOBRoVrOYHJrU2xowLZMSufXUiP4nLgOZ1/PqW49M23rLcTCi6QjDLOji63Ih2DJMoinFCplhTYpGQPrkKOK5GO7KaUo07hzvD4MsDo0kWKsgzDLQEOCcsJL1dKvJPWDEJLKt/HZPiWdQDYQztCccsxBjxJb/G36hX+X/0h+2g6NTeYv2X5YF5T7lnSU9i2qnS901wv0FGGSottY3z4wS5OsPyjxmuN2dWAsgnypesqyaJZGwzVXgoF/4GtslbESE/pqzMZlO+At0mL/3dcxw9ZKV7FvAFes1DygZHN5Mz3F0TgYjLW+N7ObhG3NKgPRqR;x3t0dEw3HFkdwjqhdMIeyA=="
+secured: "5TVZWHj4/7bMPWPCrHoOCu+Bc/Zr15y2C55M+sZ+N0kW20DfpkE/TpCpVyyS5s8ab9cNAmLOXKmmWI4rGp4R5xjPeg2WIVW7TK9jYcsCttGPzYQRmxlyYESBtO5MwMEOkd3yu+AC6h4WkHqd9mYf8HtozP+hdQ7EmOL/gZZEV/j2YfT66XGb3F1+pCvVRy4CC03cPX63f7U/mNLo5AjgHrRjRWEVeSIKyCtLZohn4Z7zcx9csjpBQDMqMbltwN2D5VNqAB9EOZXryXppqDW3oe5Ig/TAzNcpVtjnlK60zITfu48/IXaM9V0O+a3Cu5/I7HkDfKvZxfQhCVuu33HftbNXGWAeF1Lh2Y8UKXjnbOe6bDfnINgKZyYxM0RAizaj;CGE9grvELdRJTwzs5xv81Q=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Baidu"
 overview: "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need."
 type: "profile"
-heat: 65
+heat: 106
 
 website: http://ai.baidu.com/
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "sYXfS5uwhj/q9FbfgNl6Ro1+o+KMAGFeomObizZ1DYY78zIt9G7234GaXuTsViJBPfsjG7ILbdcP3YuLaEZ6jC2aLM05vL3cd9wqXZX8sqHfoJJ9HtfJOIVzsC3Fcb23UjNntJBpDXjBD9bJz2GKLfnxb5laWjP2ZKPcpt3/X/zrZQVStMyrLAc0RrWwkzV6tFnpgLmziuJZn7VIAX3S0wBd6md7szKFXWimnr2yvbSs7mXur212fmt+lb5lQadFTWeIlD5/aoVRWdvzS4se/zrU5U9TWc4eJtyWEAcbeEvLBHhFmnR40Bl4sFyNJQ6BMOJs7YoTaNs1WBJvGFhaMpchuHK0EgCf5ej+eSPCDbBDuVzRNmuDkLb2dk6Pji6nI/vzAAa2w8XJMw2iX8C1yw==;h2BD2fazUHIPHU+pzeM8gg=="
+secured: "rO3kDvcRj44PVK+J45ECYzYKw3iRA69woXqOrS/u0/b1P/g8FzxyBjVddrRCqcovpDA/60MXYZrbDkcWNlLCNLyW4TXHrZiFZONkSi+8tLpBHGBfcCl6xUFUq+D6DxAYTfMZ9mPOQh6jgvJbKRFVXbPTjCWird+fwD0jPBEsDGJ3RGmtCzy171rl7hYHf1jULkMapyGZabctOrIc6lFR0apvrt1fyK/qrA91OC2tZfZPJlp3ZKExwrXB4o8ay1GlHDjERD5i3c5/q7pZcb5evHfm/MtoTxa744wBFejCtGO/7JT7eIpIAo6oCk/J7FV3bm1rJ/6RKpEFnP/LLokFV+HVRsshTbIUUhFq1W5+fuKABM8TEED1Cena262mzERPGOREJWo60TVC5yrDkUGGKQ==;HMxQBq+aufTihUulOreJ9g=="
 ---
 
