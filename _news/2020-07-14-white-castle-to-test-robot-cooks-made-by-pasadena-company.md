@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "A Robot Will Make Your White Castle Burger! Say Hello To ‘Flippy’"
+    excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
+    publishedDateTime: 2020-07-14T23:42:00Z
+    webUrl: "https://mynewsla.com/business/2020/07/14/a-robot-will-make-your-white-castle-burger-say-hello-to-flippy/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2017/10/abstract-1238247_640.jpg"
+        width: 640
+        height: 491
+        isCached: true
   - title: "White Castle to test new version of burger-flipping robot"
     excerpt: "Potential solutions lie in automation, and White Castle is prepared to give it a try with a pilot test of Robot-on-a-Rail (ROAR) technology. ROAR is an updated version of Flippy, an autonomous robotic kitchen assistant,"
     publishedDateTime: 2020-07-14T16:34:00Z

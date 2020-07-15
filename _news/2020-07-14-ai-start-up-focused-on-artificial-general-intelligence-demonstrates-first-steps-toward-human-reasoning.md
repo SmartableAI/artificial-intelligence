@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business 
 publishedDateTime: 2020-07-14T13:05:00Z
 webUrl: "https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html"
 type: article
-quality: 24
-heat: 24
+quality: 20
+heat: -1
 published: false
 
 provider:
@@ -14,9 +14,7 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI Hardware
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/1213863/Cognitive_Science_Logo.jpg?p=facebook"
@@ -24,6 +22,24 @@ images:
     height: 1095
     isCached: true
 
-secured: "YfCCcm+XpWmA3Y6iq7/t/qkUMDVG4K56SUV+a51DH/59lqAQ1vH/8sGYc42TUHgR9iuTqIvsgKn9qz5EVltxX1F85Ktg4cY55wYDwuA6vuhOYdzGQFk9wrQ21vicJj/9M+OLT8qjMneMOANt80nUKeS9tuwr0Mgv5uRYY80vS9dYkGWvXYGlDjJ8XsvgtVGg4kxiaM9bpsWv+yPIGId5bqIZM5KqRdToDwx8uzk51p9hGoSjIMWYf1L1T3f53+bCAaOHira2qxHd61DWsbsnFmRXxLQfespuK0li90NIXK7kVURJDsSA5yxddBgB5RmNa4mhzqcuPAnw9Va1dQm+2w==;2/fwjx+Dv0PbWGj/D9odKg=="
+related:
+  - title: "Is Artificial General Intelligence (AGI) On The Horizon? Interview With Dr. Ben Goertzel, CEO & Founder, SingularityNET Foundation"
+    excerpt: "Is AGI really around the corner, or are we chasing an elusive goal that we may never realize? Dr. Goertzel believes that we are now at a turning point in the history of AI."
+    publishedDateTime: 2020-07-15T01:56:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 44
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e5f635de5350006a46cbf%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "GyZxcncVoWDEDLuwYgzgDayh4+yOLUupUnyw+NybtShk9Dy0xvA3LAjX3hD1Sp7HyGzC8fVt63xeL1nl26V7yiOsTyiZIUtMbt154zVkXQ2eE1Xm987gQRXHz/rG2na+1iSJ3md2No9kXw9ToqcEBOX7vTFaG0/2os4XzH+Rp1qW5nvk83ReDA6nftuS/a2hcQtfzkx8o1pon1mP1QSyQvdcQ8HtMazS+kiOsPMzD1tIRDrXenzy1g579WTsBdZksGCd8x/zbQg8bAcqDn8QZY6ZaljTpMsofHBhk16PHVhwcJRDHlC8OBrMtfVMir5Uv8PN3KKYVzhTcA8IWveNag==;RMaZ8e/CbzMC2pRDjraquw=="
 ---
 

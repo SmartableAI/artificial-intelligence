@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T15:01:00Z
 webUrl: "https://www.lightreading.com/iot/samsung-microsoft-team-up-for-iot-services-in-real-estate-/d/d-id/762398"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Samsung To Develop Online Portal For Smart Building Management"
+    excerpt: "Microsoft Corp (MSFT) and Samsung have partnered up to build a set of digital maintenance tools to help building owners and property management companies"
+    publishedDateTime: 2020-07-14T11:09:00Z
+    webUrl: "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/"
+    ampWebUrl: "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 58
+    images:
+      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2020/07/shutterstock_1454623499-1024x683.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Samsung and Microsoft transform real estate and smart property management"
     excerpt: "Samsung Electronics Co. and Microsoft Corp. today announced a global collaboration focused on digitally transforming the real"
     publishedDateTime: 2020-07-13T15:00:00Z

@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "White Castle adds Flippy the robot to help cook"
+    excerpt: "White Castle announced a pilot program Tuesday to help cook burgers and fries using a robot named Flippy. The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy,"
+    publishedDateTime: 2020-07-15T00:19:00Z
+    webUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot"
+    ampWebUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 59
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "17B3IO8SkXYurR4y7/o2OTf9wtlbp9TeR45sqgMC5wDmkJEooX6frvEIAT8omNfxO3Z7Ho5trtFM8OY85SyXHQ299jROHQVNGTF4xhyI8LB11Q9WbIwYU1LGHYrJs7IpEOOmXWfsDKPGRgJP/dk98RQvdm20RnKrwFqUIidHtjs4yBDdOwY0nHeaoosBY7X5XD3+qI6bUvEHauXQVin++ZptLViUTqARnTeaNNy2NOGFt4LB9nbh/brZQSEUnMFlZF6ocLVIoMXuV47WWCKc4TkYqsuEuWofMwzHD0xJ7Mnb3tYvQIai8LCBA7FaGaPC/haxUlke+j2LZ0Gd3xFOGg==;2IAEAuxOt1iSGTa20tuDoA=="
 ---

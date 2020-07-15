@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-r
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
 type: article
 quality: 102
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Amazon, Google and Microsoft sued over photos in facial recognition database"
+    excerpt: "Amazon, Google parent Alphabet and Microsoft used people's photos to train their facial recognition technologies without obtaining the subjects' permission in violation of an Illinois biometric privacy statute,"
+    publishedDateTime: 2020-07-15T00:28:00Z
+    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Clearview AI stops offering facial recognition technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."

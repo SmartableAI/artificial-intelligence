@@ -74,20 +74,6 @@ related:
         width: 426
         height: 293
         isCached: true
-  - title: "Boston City Departments Can No Longer Use Facial Recognition"
-    excerpt: "BOSTON, Mass. — The 13-member Boston City Council unanimously voted June 24 to pass an ordinance banning the use of facial recognition surveillance technology by police and other city departments. The ban comes amid evidence that the technology is inaccurate when it comes to identifying people of color."
-    publishedDateTime: 2020-07-10T08:04:00Z
-    webUrl: "https://www.campussafetymagazine.com/public/boston-facial-recognition/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 41
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2020/07/face-rec.jpeg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
     excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
     publishedDateTime: 2020-07-14T02:40:00Z
