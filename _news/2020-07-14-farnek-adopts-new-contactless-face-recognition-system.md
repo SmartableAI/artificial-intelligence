@@ -168,6 +168,20 @@ related:
       name: heraldsun.com.au
       domain: heraldsun.com.au
     quality: 49
+  - title: "UK, Australia Investigate Facial Recognition Firm"
+    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
+    publishedDateTime: 2020-07-14T17:29:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21139951/uk-australia-investigate-facial-recognition-firm"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/07/16x9/2000.5f0cce797ed02.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

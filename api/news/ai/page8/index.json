@@ -2,6 +2,269 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-08-amazon-agrees-to-buy-self-driving-technology-startup-zoox.md",
+      "title": "Amazon agrees to buy self-driving technology startup Zoox",
+      "excerpt": "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200626&t=2&i=1523754758&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEG5P0G9",
+          "width": 810,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications.md",
+      "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+      "excerpt": "Dubai Electricity and Water Authority (DEWA) was awarded a certificate of acknowledgement from US-based NVIDIA Corporation for being the first UAE government organisation to adopt NVIDIA GPU Computing",
+      "sourceUrl": null,
+      "webUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.emirates247.com/polopoly_fs/1.695296.1594189204!/image/image.jpg",
+          "width": 749,
+          "height": 446,
+          "title": "DEWA is first UAE government entity to utilise NVIDIA GPU in AI applications",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "cdnAmpWebUrl": "https://www-emirates247-com.cdn.ampproject.org/c/s/www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295?ot=ot.AMPPageLayout",
+      "publishedDateTime": "2020-07-07T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Emirates247",
+        "domain": "emirates247.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety.md",
+      "title": "University of Melbourne and Cubic test AI camera to improve road safety",
+      "excerpt": "The University of Melbourne and Cubic Transportation Systems have partnered to test how an artificial intelligence camera can be used to improve road user safety and traffic management. As part of the project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/08/1cb27067-607c-459a-9525-285eb4948af9/gridsmart-final.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "University of Melbourne and Cubic test AI camera to improve road safety",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/university-of-melbourne-and-cubic-test-ai-camera-to-improve-road-safety/",
+      "publishedDateTime": "2020-07-07T18:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children.md",
+      "title": "UCLA launches an AI robot to support the emotional needs of children",
+      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "UCLA launches an AI robot to support the emotional needs of children",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "publishedDateTime": "2020-07-07T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia.md",
+      "title": "Mobileye and WILLER Partner on Self-Driving Mobility Solutions for Japan, Southeast Asia",
+      "excerpt": "Mobileye, an Intel Company, and WILLER, one of the largest transportation operators in Japan, Taiwan and the Southeast Asian region, today announced a strategic collaboration to launch an autonomous robotaxi service in Japan and markets across Southeast Asia,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/b7de7b2d211d46479c8b5f4956b7144b",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
+      "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
+      "excerpt": "In preparation for DesignCon 2020, here&#039;s a look at some of the latest research being done on AI inference at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cheng_AIEdge_Figure5.png",
+          "width": 1361,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-nanowire-network-could-advance-design-of-ai.md",
       "title": "Nanowire Network Could Advance Design of AI",
       "excerpt": "The network is part of a larger scientific aim to improve artificial intelligence through what’s called ... citing some recent developments in the areas such as the development of neural chips such as the Intel’s Nervana and IBM’s True North Chip.",
@@ -517,6 +780,56 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap.md",
+      "title": "IoT in Healthcare Market Growing at a CAGR 21.0% | Key Player Cisco, IBM, GE Healthcare, Microsoft, SAP",
+      "excerpt": "The global Internet of Things (IoT) in Healthcare Market is expected to grow from USD 72.5 billion in 2020 to USD 188.2 billion by 2025 at a Compound Annual Growth Rate (CAGR) of 21.0% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap-2020-07-07",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1101,331 +1414,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox.md",
-      "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-      "excerpt": "Amazon has purchased of Zoox, led by CEO Aicha Evans for $1.2 billion. With Evans at the helm, carving out her own lane in what’s shaping up to be a competitive self-driving car space, is the e-commerce giant in a position to dominate yet another industry?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1148406588%2F0x0.jpg",
-          "width": 1200,
-          "height": 827,
-          "title": "Amazon Speeds Towards $1.2 Billion Self Driving Black-Led Car Company Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2020/07/07/amazon-speeds-towards-12-billion-self-driving-black-led-car-company-zoox/amp/",
-      "publishedDateTime": "2020-07-07T05:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-self-driving-tech-is-becoming-a-game-of-partnerships.md",
-      "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-      "excerpt": "Making an autonomous vehicle is proving harder and costlier than many startups predicted. So they're teaming up with giants like Hyundai, Jaguar, and Ford.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f03caf26cd63b0e8be2ced6/master/pass/business_voyage.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Self-Driving Tech Is Becoming a Game of Partnerships",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-tech-game-partnerships/amp",
-      "publishedDateTime": "2020-07-07T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-from-ai-to-open-source-how-tech-is-changing-everything-about-the-future-of-healthcare.md",
-      "title": "From AI to open source, how tech is changing everything about the future of healthcare",
-      "excerpt": "The coronavirus pandemic has caused significant shifts in how healthcare is delivered. How many of these advances will last beyond the virus?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/07/cb1aeed9-c3de-46fe-84ef-1334feec0cf8/thumbnail/1200x675/7a57cb88b29b68d90e8c917d264ba786/istock-1180529694.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "From AI to open source, how tech is changing everything about the future of healthcare",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/",
-      "publishedDateTime": "2020-07-07T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure.md",
-      "title": "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure",
-      "excerpt": "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-sector-information-technology/digitate%E2%80%99s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/digitate%E2%80%99s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html",
-      "publishedDateTime": "2020-07-07T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-aws-announces-general-availability-of-amazon-codeguru.md",
-      "title": "AWS Announces General Availability of Amazon CodeGuru",
-      "excerpt": "AWS announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning. It provides intelligent recommendations for improving code quality and identifying an application's most expensive lines of code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/07/aws-amazon-codeguru-ga/en/headerimage/amazon-codeguru-development-cycle-1593945352149.jpeg",
-          "width": 1024,
-          "height": 469,
-          "title": "AWS Announces General Availability of Amazon CodeGuru",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-dont-ask-if-artificial-intelligence-is-good-or-fair-ask-how-it-shifts-power.md",
-      "title": "Don’t ask if artificial intelligence is good or fair, ask how it shifts power",
-      "excerpt": "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-020-02003-2",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-020-02003-2/d41586-020-02003-2_18169050.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-deepfakes-are-becoming-the-hot-new-corporate-training-tool.md",
-      "title": "Deepfakes Are Becoming the Hot New Corporate Training Tool",
-      "excerpt": "Coronavirus restrictions make it harder and more expensive to shoot videos. So some companies are turning to synthetic media instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efe224130e7532f3baa1d0a/master/pass/deepfakes-commercial-1220400443.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
-      "publishedDateTime": "2020-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

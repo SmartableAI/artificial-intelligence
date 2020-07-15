@@ -2,6 +2,307 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-09-how-ibm-is-fighting-covid-19-with-ai.md",
+      "title": "How IBM is fighting COVID-19 with AI",
+      "excerpt": "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
+      "title": "Break into artificial intelligence with this four-course online training for $35",
+      "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
+      "publishedDateTime": "2020-07-09T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
+      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
+      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
+          "width": 720,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "publishedDateTime": "2020-07-09T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-kernel-raises-53-million-to-bring-neuroscience-insights-to-businesses.md",
+      "title": "Kernel raises $53 million to bring neuroscience insights to businesses",
+      "excerpt": "Kernel raised $53 million to develop a new generation of brain tech that allows companies to leverage insights from the latest neuroscience.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/10625_04_1093-e1594293347834.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/amp/",
+      "publishedDateTime": "2020-07-09T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-how-artificial-intelligence-is-going-to-change-hotel-stays.md",
+      "title": "How Artificial Intelligence Is Going To Change Hotel Stays",
+      "excerpt": "ModiHost is a new platform for hotels that uses artificial intelligence to offer a better hotel management system, centered around personalization of the guest experience. In turn they aim to drive increased spending and brand loyalty. They say they’ve ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1175327832%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/amp/",
+      "publishedDateTime": "2020-07-09T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-ibm-expands-storage-portfolio-to-drive-ai-deployments.md",
+      "title": "IBM expands storage portfolio to drive AI deployments",
+      "excerpt": "IBM unveils new and updated storage products, including the new IBM Elastic Storage System 5000, which is scalable to yottabyte configurations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-expands-storage-portfolio-to-drive-ai-deployments/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/08/24f541a3-7a6f-46cf-a891-88481fcb021c/18181354.jpg",
+          "width": 720,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-expands-storage-portfolio-to-drive-ai-deployments/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-expands-storage-portfolio-to-drive-ai-deployments/",
+      "publishedDateTime": "2020-07-09T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-forget-penny-stocks-here-are-3-better-stocks-to-buy-in-july.md",
       "title": "Forget Penny Stocks, Here Are 3 Better Stocks to Buy in July",
       "excerpt": "It's easy to understand why some people gravitate toward penny stocks. The thinking goes that companies with microscopic valuations and cheap shares have the potential to post explosive gains in short periods of time.",
@@ -361,7 +662,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1122,288 +1424,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-teams-new-together-mode-is-designed-for-pandemic-era-meetings.md",
-      "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
-      "excerpt": "Microsoft is introducing some big updates to Microsoft Teams today. The software giant has been working on a new “Together Mode” for Teams ever since the COVID-19 pandemic began, and it’s designed to create a virtual live avatar of yourself that’s supposed to help you better engage with meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/GasK59zllzEgQCAlwMB8FuFUJeE=/0x0:1320x880/1400x933/filters:focal(555x335:765x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67031893/togethermodemicrosoftteams.0.jpg",
-          "width": 1320,
-          "height": 880,
-          "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features",
-      "publishedDateTime": "2020-07-08T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images.md",
-      "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
-      "excerpt": "Google says it will begin providing context around images in Google Images, based on the content of the webpages hosting those images.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1593073191933.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
-      "publishedDateTime": "2020-07-08T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
-      "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
-      "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/07/ezgif.com-webp-to-jpg-1.jpg",
-          "width": 920,
-          "height": 613,
-          "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/amp/",
-      "publishedDateTime": "2020-07-08T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-facebooks-speech-recognition-model-supports-51-different-languages.md",
-      "title": "Facebook’s speech recognition model supports 51 different languages",
-      "excerpt": "Facebook researchers developed a language model they say can recognize words in 51 different languages, including 'low-resource' languages like Persian.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s speech recognition model supports 51 different languages",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/amp/",
-      "publishedDateTime": "2020-07-08T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices.md",
-      "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices",
-      "excerpt": "Based on imec’s Analog in Memory Computing (AiMC) architecture utilizing GF’s 22FDX® solution, the new chip is optimized to perform deep neural network calculations on in-memory computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-buys-vision-system-vendor-orions-systems.md",
-      "title": "Microsoft buys vision system vendor Orions Systems",
-      "excerpt": "Microsoft is looking to combine the video and image content analysis technology it is acquiring with Orions Systems to supplement its own Dynamics 365 Connected Store app and Power Platform services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/08/2affdcdf-5569-410f-9f0b-03bbc3844369/msbuysorion.jpg",
-          "width": 1304,
-          "height": 929,
-          "title": "Microsoft buys vision system vendor Orions Systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "publishedDateTime": "2020-07-08T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

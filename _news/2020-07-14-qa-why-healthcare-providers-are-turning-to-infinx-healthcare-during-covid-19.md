@@ -37,20 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "3 Considerations for Leaders Investing in AI"
-    excerpt: "Compared to other industries, manfuacturing is at the beginning of its AI journey. While artificial intelligence (AI) has been prevalent in industries such as the financial sector, where algorithms and decision trees have long been used in approving or denying loan requests and insurance claims,"
-    publishedDateTime: 2020-07-10T20:25:00Z
-    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21136439/3-considerations-for-leaders-investing-in-ai"
-    type: article
-    provider:
-      name: IndustryWeek
-      domain: industryweek.com
-    quality: 37
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/07/AI.5f08cb3b38379.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 665
-        isCached: true
 
 secured: "ciNGqgdHrXYacy9DYc4ydG9e4IS8xB7jBGYmcI5sqC0XShEqw2j8oIOcIvNU6XHjZ7VUOZFbDeUUa8P45RurEIuyfc4PGnGB5E5yFeZsQ67hyd8nDtEh2S5DWD2xDP5QIx4x2chPPkImXOKvtfrS5AyV9cMq8J6khDv2soDUrZZBVrWnqm1OgW8AwKKwU6JkPJa/b7qcC3jXHTXD0rDwaW0Ooby9Ppun7DMPAJcOfWrEEmgtxvnu9I96FguagkzF+D2VTmbhkMz4TSKy0SHAk1ELdd9Y3mQFYYvrvNDRh+TEpFalOGq5XEg0m+12pwJcT6QstVuMbASnRQ8itjx+dw==;bcbkZL4spzYPFh+I78xnFg=="
 ---

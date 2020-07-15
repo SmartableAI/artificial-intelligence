@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "HSRC and Facebook launch project to identify AI research areas in Africa"
+    excerpt: "The Human Sciences Research Council (HSRC) has partnered with Facebook in the launch of a project to support interdisciplinary and independent academic research across Africa. The research will focus on the fields of AI,"
+    publishedDateTime: 2020-07-15T13:30:00Z
+    webUrl: "https://www.mediaupdate.co.za/media/149016/hsrc-and-facebook-launch-project-to-identify-ai-research-areas-in-africa"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 38
+    images:
+      - url: "https://dash.mediaupdate.co.za/story/image/149016/149016.jpg?v=637304257878269620"
+        width: 1311
+        height: 737
+        isCached: true
   - title: "New artificial intelligence institute strengthens Clemson University’s abilities in competitive field"
     excerpt: "the Medical University of South Carolina and Siemens Healthineers joined together in November for a summit aimed at finding new ways to improve healthcare with artificial intelligence. Anand ..."
     publishedDateTime: 2020-07-13T13:14:00Z

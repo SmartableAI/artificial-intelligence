@@ -7,8 +7,8 @@ webUrl: "https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-priva
 ampWebUrl: "https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7?amp"
 type: article
-quality: 51
-heat: 51
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "k56bYdC9u8HQBRzH4gTp+1HoliVieeGeFqMajtUEex77qH1BB4ODYRRzjoNDaC+EZUS5iv/rfR8QvsnF5JFyww1WOK6YpkRLawsW1eXmjrirI9yJT9WxxO34wU+E/wl2KzR3gJ/tohH/ri3dx6eyV2mDpbjdZN5upjlUhyOHsKMKBSwwVGz3+hSeOjxNwcGBA4cKKhuyH5dQiXkZJm1eoAe10BT2bDzvtG4DaKxR9RLOJqLBIv0lpH/RkxvZj6osMgfTXJWZNYwcwtCfgWQ1J+uPT9WfjtLz6bdaY19ar2e3z6WSVtMBao7ENZIfwJRw8AZJADOGfwWdg6xjEuD3ag==;sQfbxdDKF4muQAMLPIgS2w=="
+secured: "EZdl+Xr/HNgs1KDMSmiFeWjCR2b1pTvNPRcBTUyLvIAohTm6d0VjLcWQ3qohl7WIG9lmo0C0xE5TcuLQn3k0ArkQCY+3sB7S+/GG8HrH2HvoixZAPc0IkaTLxjxFR5Drbmai33tAJoeFTHoSTT8tL8UoJaKNQb2uL3kq/dw2C4mSwssUY6QQqGPsk5thAaAL+sY4C84Em5DldqEu4eV2V6XafhRtrdBUmszJvK8iSkV7X8OZ9+WT44o9IJoltl6UxAIupq5dLJfR5JRNEEk2RY61QmMZf9PWBCUQECi2qGMKigRoEOq+Eop2GEC2Mqa2ubU08alcROsKzlzUVrxt/fC1KQ+TRmiiv8k1a4N45MgdFgEnO9LuRR1ofV/DKc3QJaJVJ6rmA8LtYzIgkXlYYK2lmr0AW+oosbvZeFa5Qze4cKeJeMLHrccdS2hMJPaGHWYTyQfvpIR737HlLA4HfAVK6DTvMH+Kr/01mEyXoh6vf5J904kUVqp89pgf1QgW;EuCDJxl6dxU8I2QZGA/Dbw=="
 ---
 

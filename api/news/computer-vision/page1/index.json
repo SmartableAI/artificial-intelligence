@@ -109,7 +109,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -212,7 +212,7 @@
       "webUrl": "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 85,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -306,7 +306,7 @@
       "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -406,7 +406,7 @@
       "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -447,7 +447,7 @@
       "webUrl": "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -687,7 +687,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

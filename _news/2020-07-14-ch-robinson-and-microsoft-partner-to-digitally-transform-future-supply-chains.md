@@ -40,6 +40,36 @@ related:
         width: 1270
         height: 714
         isCached: true
+  - title: "C.H. Robinson, Microsoft alliance to digitally transform supply chains"
+    excerpt: "C.H. Robinson and Microsoft Corp. have formed and alliance to digitally transform supply chains of the future by combining C.H. Robinson’s Navisphere®, Microsoft Azure and Azure IoT to meet the changing demands of global supply chains."
+    publishedDateTime: 2020-07-15T13:00:00Z
+    webUrl: "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/"
+    ampWebUrl: "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/"
+    cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/"
+    type: article
+    provider:
+      name: air cargo
+      domain: stattimes.com
+    quality: 74
+    images:
+      - url: "https://www.stattimes.com/statbackend/assets/uploads/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.jpg"
+        width: 527
+        height: 397
+        isCached: true
+  - title: "C.H. Robinson joins forces with Microsoft to digitally transform supply chain"
+    excerpt: "C.H. Robinson and Microsoft Corp. on Tuesday announced they are joining forces to digitally transform supply chains of the future by combining the power of C.H. Robinson’s"
+    publishedDateTime: 2020-07-15T12:08:00Z
+    webUrl: "https://www.freshplaza.com/article/9235425/c-h-robinson-joins-forces-with-microsoft-to-digitally-transform-supply-chain/"
+    type: article
+    provider:
+      name: FreshPlaza
+      domain: freshplaza.com
+    quality: 51
+    images:
+      - url: "https://www.freshplaza.com/remote.axd?https://agfstorage.blob.core.windows.net/misc/FP_com/2020/07/15/CHLogo.jpg?preset=OgImage"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C.H. Robinson announces alliance with Microsoft to digitally transform the supply chain of the future"
     excerpt: "C.H. Robinson and Microsoft Corp. on Tuesday announced they are joining forces to digitally transform supply chains of the future by"
     publishedDateTime: 2020-07-14T13:00:00Z

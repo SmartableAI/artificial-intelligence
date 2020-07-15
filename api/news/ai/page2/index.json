@@ -2,6 +2,409 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-14-the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period.md",
+      "title": "The Market Growth for Artificial Intelligence (AI) Chip is Expected to Surge During the Forecast Period",
+      "excerpt": "Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic.md",
+      "title": "Study finds 195 robot deployments worldwide in response to the pandemic",
+      "excerpt": "A new preprint study identified over 195 robot deployments launched in response to the ongoing novel coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/amazon-scout.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
+      "publishedDateTime": "2020-07-14T09:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware.md",
+      "title": "OpenCV AI Kit aims to do for computer vision what Raspberry Pi did for hobbyist hardware",
+      "excerpt": "A new gadget called the OpenCV AI Kit, or OAK, looks to replicate the success of Raspberry Pi and other minimal computing solutions, but for the growing fields of computer vision and 3D perception. Its new multi-camera PCBs pack a lot of capability into a small,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/oak-opencv.gif",
+          "width": 670,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/opencv-ai-kit-aims-to-do-for-computer-vision-what-raspberry-pi-did-for-hobbyist-hardware/amp/",
+      "publishedDateTime": "2020-07-14T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-should-robots-pay-taxes.md",
+      "title": "Should Robots Pay Taxes?",
+      "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/should-rob/should-robots-pay-taxes_kaze.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "publishedDateTime": "2020-07-14T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge.md",
+      "title": "Facebook uses Amazon EC2 to evaluate the Deepfake Detection Challenge",
+      "excerpt": "In October 2019, AWS announced that it was working with Facebook, Microsoft, and the Partnership on AI on the first Deepfake Detection Challenge. Deepfake algorithms are the same as the underlying technology that has given us realistic animation effects in movies and video games. Unfortunately, those",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png",
+          "width": 692,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T09:27:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning.md",
+      "title": "Meet The Stanford AI Lab Alums That Raised $15 Million To Optimize Machine Learning",
+      "excerpt": "In 2019, after spending five years developing a ML platform at Stanford's AI Lab, the research team decided to spin out of the lab and create a company called Snorkel AI. Today, Snorkel AI came out of stealth mode announcing it had raised $15 million from investors like Greylock,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ae2de147a4f0006e5be31%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
+      "publishedDateTime": "2020-07-14T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-30-years-of-family-videos-in-an-ai-archive.md",
+      "title": "30 years of family videos in an AI archive",
+      "excerpt": "My dad got his first video camera the day I was born nearly three decades ago. “Say hello to the camera!” are the first words he caught on tape, as he pointed it at a red, puffy baby (me) in a hospital bassinet. The clips got more embarrassing from there, as he continued to film through many diaper changes,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pasted_image_0_rXp629k.png",
+          "width": 1600,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers.md",
+      "title": "OpenCV launches two 4K OAK spatial AI cameras for DIYers",
+      "excerpt": "The OpenCV Artificial Intelligence Kit (OAK) project that branched off from CommuteGuardian has introduced two 4K/60fps spatial AI cameras for use in a huge variety of products. The company",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/07/OAK_camera_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-an-ex-googlers-new-robot-reimagines-the-future-of-home-automation.md",
       "title": "An ex-Googler’s new robot reimagines the future of home automation",
       "excerpt": "Stretch is not a consumer robot that’s ready to roll into your apartment and start doing the dishes, but rather a research platform that Edsinger and Kemp hope will lay the groundwork for home automation in the years to come.",
@@ -59,7 +462,7 @@
       "webUrl": "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -349,6 +752,46 @@
       ]
     },
     {
+      "path": "_news/2020-07-14-grant-imahara-dies-former-mythbusters-white-rabbit-project-host-was-49.md",
+      "title": "Grant Imahara Dies: Former ‘MythBusters’ & ‘White Rabbit Project’ Host Was 49",
+      "excerpt": "Grant Imahara, a former MythBusters and White Rabbit Project host who earlier worked as a modelmaker for Industrial Light + Magic, died Monday of a a brain aneurysm.",
+      "sourceUrl": null,
+      "webUrl": "https://deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pmcdeadline2.files.wordpress.com/2020/07/grant-imahara-crop.jpg?w=1024",
+          "width": 1024,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/amp/",
+      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/amp/",
+      "publishedDateTime": "2020-07-14T04:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai.md",
       "title": "Pricefx raises $65 million to optimize product and service pricing with AI",
       "excerpt": "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital.",
@@ -394,47 +837,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsoft-samsung-to-develop-online-portal-for-smart-building-management.md",
-      "title": "Microsoft, Samsung To Develop Online Portal For Smart Building Management",
-      "excerpt": "Microsoft Corp (MSFT) and Samsung have partnered up to build a set of digital maintenance tools to help building owners and property management companies",
-      "sourceUrl": null,
-      "webUrl": "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://587710.smushcdn.com/809180/wp-content/uploads/2020/07/shutterstock_1454623499-1024x683.jpg?size=1024x1024&lossy=0&strip=1&webp=0",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/",
-      "cdnAmpWebUrl": "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/",
-      "publishedDateTime": "2020-07-14T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smarter Analyst",
-        "domain": "smarteranalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -546,7 +948,7 @@
       "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -945,7 +1347,7 @@
       "webUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1083,385 +1485,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-salesforce-chief-scientist-richard-socher-leaves-to-start-his-own-company.md",
-      "title": "Salesforce chief scientist Richard Socher leaves to start his own company",
-      "excerpt": "Take the latest VB Survey to share how your company is implementing AI today. Richard Socher today ... scientist at Salesforce to create his own startup company. During four years as chief ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/richard-socher-leaves-salesforce-to-start-his-own-company/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/richard-socher-salesforce-bloomberg.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/richard-socher-leaves-salesforce-to-start-his-own-company/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/richard-socher-leaves-salesforce-to-start-his-own-company/amp/",
-      "publishedDateTime": "2020-07-13T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsofts-ai-generates-voices-that-sing-in-chinese-and-english.md",
-      "title": "Microsoft’s AI generates voices that sing in Chinese and English",
-      "excerpt": "In a paper, researchers at Microsoft detail an AI system that can generate singing voices by training on publicly available data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/music-e1594663971833.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/microsofts-ai-generates-voices-that-sing-in-chinese-and-english/amp/",
-      "publishedDateTime": "2020-07-13T12:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-artificial-intelligence-predicts-which-planetary-systems-will-survive.md",
-      "title": "Artificial intelligence predicts which planetary systems will survive",
-      "excerpt": "Why don't planets collide more often? How do planetary systems—like our solar system or multi-planet systems around other stars—organize themselves? Of all of the possible ways planets could orbit, how many configurations will remain stable over the billions of years of a star's life cycle?",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/37-artificialin.jpg",
-          "width": 1152,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp",
-      "publishedDateTime": "2020-07-13T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv.md",
-      "title": "Build a work-from-home posture tracker with AWS DeepLens and GluonCV",
-      "excerpt": "Working from home can be a big change to your ergonomic setup, which can make it hard for you to keep a healthy posture and take frequent breaks throughout the day. To help you maintain good posture and have fun with machine learning (ML) in the process, this post shows you how to build a […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-work-from-home-posture-tracker-with-aws-deeplens-and-gluoncv/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/18/wfh-posture-tracker-015.jpg",
-          "width": 1000,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T11:40:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-camera-clad-rubber-fingertips-allow-robots-to-manipulate-cables-and-wires.md",
-      "title": "Camera-clad rubber fingertips allow robots to manipulate cables and wires",
-      "excerpt": "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2356592",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp",
-      "publishedDateTime": "2020-07-13T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-aws-deepracer-evo-and-sensor-kit-now-available-for-purchase.md",
-      "title": "AWS DeepRacer Evo and Sensor Kit now available for purchase",
-      "excerpt": "AWS DeepRacer is a fully autonomous 1/18th scale race car powered by reinforcement learning (RL) that gives machine learning (ML) developers of all skill levels the opportunity to learn and build their ML skills in a fun and competitive way. AWS DeepRacer Evo includes new features and capabilities to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/10/deepracer-evo-1.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T10:38:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-spinning-off-xiaoice-as-standalone-ai-venture-with-former-exec-harry-shum-as-chairman.md",
-      "title": "Microsoft spinning off XiaoIce as standalone AI venture, with former exec Harry Shum as chairman",
-      "excerpt": "Register today Subscribe to GeekWire's free newsletters to catch every headline Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Xiaoice-image-1600x900-1-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
-      "publishedDateTime": "2020-07-13T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars.md",
-      "title": "Female Robot Erica Slated As ‘Actress’ For New Movie Woefully Miscasts AI, Repercussions For Self-Driving Cars",
-      "excerpt": "You might be puzzled as to why any undue notice would come from opting to use a robot in a sci-fi movie, which has otherwise seemingly been the case for decades. Here’s the twist. The backers of the film are alleging that the robot will use AI and essentially act or perform in the same manner that a human actor might do so,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/13/female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1045998850%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/13/female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/13/female-robot-erica-slated-as-actress-for-new-movie-woefully-miscasts-ai-repercussions-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-07-13T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/miso-robotics-brings-ad
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
-  - title: "AMP Robotics Named to Forbes AI 50"
-    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of Amer"
-    publishedDateTime: 2020-07-10T20:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200710005481/en/AMP-Robotics-Named-Forbes-AI-50"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 71
-    images:
-      - url: "https://mms.businesswire.com/media/20200710005481/en/804686/23/AMP_Logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AMP Robotics Named to Forbes AI 50"
     excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America's"
     publishedDateTime: 2020-07-13T06:08:00Z

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft and Samsung team up on real estate and property management"
+    excerpt: "New pilot collaboration offers single, integrated portal for managing devices and smart appliances in buildings"
+    publishedDateTime: 2020-07-15T12:43:00Z
+    webUrl: "https://www.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140"
+    ampWebUrl: "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/164798"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Microsoft, Samsung To Develop Online Portal For Smart Building Management"
     excerpt: "Microsoft Corp (MSFT) and Samsung have partnered up to build a set of digital maintenance tools to help building owners and property management companies"
     publishedDateTime: 2020-07-14T11:09:00Z

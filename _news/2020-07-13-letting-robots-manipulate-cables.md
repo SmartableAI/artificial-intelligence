@@ -48,6 +48,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 62
+  - title: "Video: MIT develops robots that can manipulate cables"
+    excerpt: "The system uses a pair of soft robotic grippers with high resolution tactile sensors to manipulate freely moving cables. MIT said this could be used for anything from industrial a"
+    publishedDateTime: 2020-07-15T12:53:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15424/video-mit-develops-robots-that-can-manipulate-cables"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "bUNe1uIxnn4lYvMrmdeTmFknjjZjHHFJ+bIjVlwGlbHfmVkZB8qKkyz+WhS/azYtHoBMU1ndMf9Gh0+S0dAZi98jGgGs/ivXAcpZN/rV04+6Q6xBZLMtPO6OJPdVum72EULRimmdsrcg0ZDdHN48l+mnZ9GidJcNEKe5kXt/Dxl1fvTSnzG5hMBEdiga4807bzg6q/DGOysNlgzjDTSuVgrMSumsLqXmxsd1voTo8SutfzEJIR51rjFWL8GzEnMWEQ4cRCc4LLn66VhwS+gf2oVOU08SnE1xsBd2Z1zyGhUVsFPt0ugccGs2v09/LbfBxe7RUbgefHyf2Dlmk/NmCg==;c48zdQLcfUHQORoneOOIAQ=="
 ---

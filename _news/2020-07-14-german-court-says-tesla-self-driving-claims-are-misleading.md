@@ -62,22 +62,6 @@ related:
         width: 2500
         height: 1235
         isCached: true
-  - title: "Still a long road ahead for self-driving cars, despite Tesla claim"
-    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
-    publishedDateTime: 2020-07-10T20:13:00Z
-    webUrl: "https://timeslive.co.za/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/D9-513DHecAT80ZxEhZeQqBc0YqGyebFFJqJn5rjo5baNSFPyB7Wgc6-JL3L_gfDiOJsPhYOt2cgNE5c5z7I=s1000"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "German court bans Tesla ads over self-driving claims"
     excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
     publishedDateTime: 2020-07-14T14:24:00Z
@@ -120,6 +104,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/14/tesla-cant-use-its-autopilot-claim-in-germany.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
+    excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
+    publishedDateTime: 2020-07-15T12:24:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/15/575596.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 22
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/zoox-autonomous-driving.png"
+        width: 940
+        height: 940
         isCached: true
 
 secured: "ZnMWseImRsU91ID3CE3yrO9ZGNR1fLnb1VjrJ8CutLAlniRVwIX+K5bl8r2iOUvlSklpwpVZ3vxQyMAn5VLZvUWxlD/A+tIulGkcmnkREjCRREVU91CALm9krroGGjEYb2/htmWn58DasisCAWK7LMOvl2964COL5jRiojtnmhhDalRZoOuV+OJHBqChsOjGCpghl53gEg8bY5lx80qomjdZAsi3a3lek5pv1Ji6rZnVor0EwPRKHEY/nwB0yXsrCpq55ZoyUyrDYSljDe8bnDDqUSLNjLVbnb6+OJuWaYyhCWH9CVh3Mm50W6aH68xhzak0HARVHfMURQBIveGqsw==;V+nAwNk5vxcU9cmsig/XJw=="

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-12T07:23:00Z
 webUrl: "https://www.globaltimes.cn/content/1194235.shtml"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 709
     height: 399
     isCached: true
-
-related:
-  - title: "Self-driving startup develops car without wheels"
-    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
-    publishedDateTime: 2020-07-14T10:50:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "ayPR0KOP/zUR/HyEE16JEfHQUEpviC4oi2IZoFTg5UcaVPVZaKzfGLs0c1XoxN/fKQYn/Zi061xCf6fYbB6JOSWTuv11JAj1VrisFwlJ8bmdJCMJhr0rDftqo8RCGD7dAFlfrMD6QobJ//laRsL9fnbR3PxwuMBd2lh5drxxI2yzlHeab6wU9kiCVwqMFcA20OQmSViETzI7UTdS1PwZe/M6CWa+JxaAIMWrH6GCKdkAvMfx7bNAnH9QZDl6+MW6Sg1pkNDHINzJBkHjxtNb6sFD4HhekgWyCrxsmq09B70ogs7j2QYQqdKwMmTlwVqtXQ+YSmhJsW81JmtiOEbp9A==;CVPdNyTPom5qfgkbT5ccpw=="
 ---

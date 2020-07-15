@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facial-recognition-false-match-wrongful
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html"
 type: article
 quality: 89
-heat: 159
+heat: 139
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ACLU Statement on Second Wrongful Arrest due to Face Recognition Technology"
-    excerpt: "The Detroit Free Press reported this morning that Michael Oliver, a 25-year-old Black man from Detroit, was wrongfully arrested because of a false face recognition match last year. This now appears to be the second known case of someone being wrongfully arrested in the United States as a result of face recognition technology."
-    publishedDateTime: 2020-07-10T20:42:00Z
-    webUrl: "https://www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology"
-    ampWebUrl: "https://www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology?amp"
-    cdnAmpWebUrl: "https://www-commondreams-org.cdn.ampproject.org/c/s/www.commondreams.org/newswire/2020/07/10/aclu-statement-second-wrongful-arrest-due-face-recognition-technology?amp"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 57
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/users/user18439/cd_tall_logo_bw_tparent.png"
-        width: 288
-        height: 342
-        isCached: true
   - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
     excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
     publishedDateTime: 2020-07-13T15:51:00Z
@@ -93,22 +77,6 @@ related:
       - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
-    excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
-    publishedDateTime: 2020-07-10T19:59:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/07/10/facial-recognition-detroit-michael-oliver-robert-williams/5416363002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5416363002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5416363002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 51
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/08/PDTF/a0a03277-dd20-4bbe-bd87-28406ce1ffff-07082020_mikeoliver_jh-5.jpg?auto=webp&crop=2399,1349,x1,y22&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Facial recognition technology’s double-edged sword"
     excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"

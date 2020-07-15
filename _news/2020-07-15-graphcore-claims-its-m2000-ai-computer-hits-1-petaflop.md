@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Graphcore announces second gen AI chip, Colossus MK2"
-    excerpt: "Four of them together in a 1U M2000 delivers one petaflop of total AI compute, the company claims ... the found that the IPU was \"a clear winner in single precision against Nvidia’s V100 GPU (per-chip comparison),\" but while it \"delivers higher ..."
-    publishedDateTime: 2020-07-15T11:21:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/graphcore-announces-second-gen-ai-chip-colossus-mk2/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IPU_Machine_for_machine_intellige.2e16d0ba.fill-1200x630.jpg"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "cWefyunTEmYEGpm9roMgFJ780Yr0efQ4UzU5typ0w4saIA4TjzizaRVw3sn1Q/16gHXDRxORL/R3Lgg3sdYnEfh2N9ibH6pmIxQ+XyIswYDaRhyOZJhuksEZIzgUVw9GytP6UiOIFe6bBw2+GUdTSJsrOppHJUZdMRBkNhy0VfO6SWWl2OlK9k7actMMTiaDDqBUDMnTWj7DdLAjWlbIM2+AR4tzSZ9zhM4kDM3OcS8vMl0XOTzORzhJxBaGHz4fH+UoywMSRhkHXwUkQxqbv3eh/CaW63CdIbLWjMwblt0J2AtIa4ViesLNGS16EWS7aVZTQC4Ojk2RxGn/zrWvY5DLUhcrkz1gE0rWhAZQuyY7jDedXQOmvf40Vx9xZsipEe7oHihnNQFgrr/rNtK0NQqhkich8mcmfbLUcN2bvl+wx5W0JZ9X9A5rKLuYTc/z1HERt/WtuVag4O2/yW8Avc8P6aj+ShLc7Rz0J7uYK2R+X5EXeO/p9Whft3i29Wd2NK7ShIcdkTgHy0IdPyrm1Q==;5WIsdi2pZW8BfQcardpENg=="
 ---

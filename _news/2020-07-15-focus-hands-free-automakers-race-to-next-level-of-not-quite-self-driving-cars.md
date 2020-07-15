@@ -36,20 +36,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "BMW Takes Self-Driving to Level 3 Automation"
-    excerpt: "The iNext SUV is on track to become the first system on U.S. roads to utilize conditional automation according to SAE standards."
-    publishedDateTime: 2020-07-10T19:29:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21136427/bmw-takes-selfdriving-to-level-3-automation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/07/BMW_Fig._1_promo.5f08bc2097aa9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 698
-        isCached: true
 
 secured: "oC38jsxjLlq6G7ZPiKj8cJD4UBTPE33jC7RQ9xhL7KW/dqZO0PFNCL3raopZJI2EkPLAlYvXShFDWPBW9OQiT4tLMddUVUWFh6QCv7IQKXlOeNFMNT/yI5NY584VcYDHO+IX7PcTv5fLDBkce53xMWwMkSxiDLzH0zs88PXAQylGYRVit5AWaoCHFMDM+A6c3Qv/A6/8odmu/u1OsCiwdL9ylxpDY68v7GEODKYmWIGevu+Ib2ia3cxLlsgP01WEkO/HUBlh+NaluR9fvjjyhKPchk9QxfWKe987CnrCah0yB6wNO+m0I4OhYi5MnfFOocdZQFrodJSQhRNXjlWTZTs/rWMaeaoWq8poiLvzU0Q5oGov1y8h0d4/g7sjaurxu+kyZkSLh041Xh27WAsp2sJK8UY8WMv15vTImWpyQpkYDEqggMqhcPEtNcVBmjMRFv3IkZwDpivrbABlLquTsVSo6Ke6iIDH3i6MReX+LIe/WTEzOuBnvIUaxd1C+Pnlwx738/qzDmSHxsaQLhl87g==;uKtsiFrkbVBTYMxY5fvt3Q=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-l
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -41,21 +41,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "BMW Takes Self-Driving to Level 3 Automation"
-    excerpt: "The iNext SUV is on track to become the first system on U.S. roads to utilize conditional automation according to SAE standards."
-    publishedDateTime: 2020-07-10T19:29:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21136427/bmw-takes-selfdriving-to-level-3-automation"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2020/07/BMW_Fig._1_promo.5f08bc2097aa9.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 698
-        isCached: true
 
-secured: "3ADDhPWEr96uV7+rFMuGDuqkSTir+5TLf6mmgc9jImAPKRsveWW3g1UBXBA3HkI53m/JoXXXpat4S0u6uo7nNxtbh+GcqOhbCd5Krw0PhYPFafW3L7XMrK05ePBav+Qr15i7Ma2e90zd8iLDvO/VM8e5PZ9+8WeL8p0kuhU3z5qqyhzsOf/6MgFbStUFRNjTNmGEVMcAXe/98Y8vPYRJE6spd3vDi1+6dfaRpepGRUBUpq/umgqKiXxy13lGznkVVQkoJCBvjNlv24LQnqfcup7JIP2T38sWqCJp+VLqYopZB9oBfMnPVkQf5DpyR85/gTIpwbg0B2Eu1ZDcTalJig==;2l/bMdTC+z2Rl9RMXPveGg=="
+secured: "DPOW6yI40fLJa0JIvFKLNg/jSRudeqJsUvtuICWmHTm1b05j3BEdPtvEqTt7nrH5g25TeywycoyLmqz58k9eQhmwIAmyf3C+0dxJsEP3Y9+vrJLSDEOiTxoNajzBHYUMANPpICzYKIz2btZPxMWObAFtrUUmP5VNtjnvLccMyORg1zT1ZTmEreOkIYqbcsRIY+KMg5icv8Hi9WxLSUUDvjVojI6W3zZH4pVo1qHPzgS3zAb48EQl+nqJDAa3j33gtcIqSta2m8eyZYpYmdbE7RN8pMJgxDHF1CjgsArIFIZ/qmTHoXlQ3y61aQFN0kRPpEOSjFbSpk2Pesiiq7ziBaOZp6tVvg2lBbevx5jyQ66/+YgbPgOEhBsUbr6xSYg1oPP8S+NGybdN4NK6RWHFuDUvGB6avJo9dcMbSiRoImFiKkMK9J7J7mVZtqo4yqQziaEuQpyePhRRaAA9F1fX8+un3sFwpP9lyISgLJFZ2f0fqLBl0JpActUjUMM6E1c/pANv2t65/Hf3i6L2OfP/LQ==;NrDK0NNPYw10ej4vW+wTpw=="
 ---
 

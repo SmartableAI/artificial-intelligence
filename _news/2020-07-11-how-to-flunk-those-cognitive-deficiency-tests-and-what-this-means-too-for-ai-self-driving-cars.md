@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-11T15:40:00Z
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/11/how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 57
+published: false
 
 provider:
   name: Forbes
@@ -26,36 +26,6 @@ images:
     width: 1200
     height: 563
     isCached: true
-
-related:
-  - title: "Here’s what one startup does when its self-driving cars get stuck"
-    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
-    publishedDateTime: 2020-07-11T13:00:00Z
-    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/?comments=1"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "This self-driving startup built a “car without wheels” for remote driving"
-    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
-    publishedDateTime: 2020-07-11T13:00:00Z
-    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 53
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "JYKgZy5ReY4JWkgPy8N8cJ9WMNBCykmdR1yvjGcJEuBZLG4f/rx5tSR5fiARffEmoMOu2SbZNUZT5zmwUBoF6MAUqjVEIMI9wsMIoi/85EBvKsQ2nVYeJ3e/zC6hKQtj569JUCtaqPGX8tJ66sSLvw7Mvy+6ViaaZ6h0RhtOKLD7TTsNk8jX8kzAeCNzmQJ7vTvLY0BsurIU6HzJRuBukfBVIbZDm0ugnNYDHuc7G933mdxulbNuKFfI2NyfMALJ2CIZyoI/UvZaBqUih3PcWhU6bHjrQXj0+pHJkPfRalw8+UB5c0MdGqkz4T7xw+3QLRSiu4d8pDdWX0ruAwe7ByMO6KtwDL46JnxdwjehvxhNGbTcBel+4tKD9Z36r2V42fPnWS0Gh6V6gQ6cFZKoIA804HUg+zHLhwO8f1DLywphhRNA9KPO0awUDrerUTC7XN8IyMI1KR0lQY+vG8PcT7hR6AhI5Z1wb4jyUaY2zaJ+7deevG2hYn99hDY6g44VFmfuabdcpAKtvQKGFDY/zA==;aFgqUxNJkKnBQExYfJI7fw=="
 ---

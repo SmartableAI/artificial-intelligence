@@ -27,15 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Military Market 2025|Growth Rate, Growth Factors Impact on Global Market of COVID-19"
-    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
-    publishedDateTime: 2020-07-14T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2025growth-rate-growth-factors-impact-on-global-market-of-covid-19-2020-07-15"
+  - title: "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis"
+    excerpt: "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-07-15T12:52:00Z
+    webUrl: "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+    ampWebUrl: "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/T/7/T715385762_g.jpg"
+        width: 781
+        height: 512
+        isCached: true
+  - title: "Global Vehicle Speech Recognition System Market 2020 Industry Research, Business Growth, Future Investment and Emerging Trend to 2025"
+    excerpt: "MarketsandResearch.biz has announced a new report entitled Global Vehicle Speech Recognition System Market 2020"
+    publishedDateTime: 2020-07-14T14:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

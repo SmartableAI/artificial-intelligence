@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/alithya-launches-ai-fi-tm-trade-surveillance-solution-powered-by-microsoft-azure/article_799b4fa7-7527-584a-b238-0f1c1f27756d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 64
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Massachusetts Senate Passes Bill That Would Halt Police Use of Facial Recognition"
     excerpt: "The Massachusetts state Senate approved a bill to revise police standards that would make the state the first in the U.S. to pause law enforcement’s use of facial recognition."
     publishedDateTime: 2020-07-15T05:31:00Z
@@ -51,6 +65,22 @@ related:
       - url: "https://images.wsj.net/im-209437/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "This interactive map shows you whether police departments near you are using facial recognition, drones, body cameras, and other surveillance tech"
+    excerpt: "Electronic Frontier Foundation and student researchers found more than 5,300 instances of police using surveillance tech to keep tabs on citizens."
+    publishedDateTime: 2020-07-14T12:51:00Z
+    webUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/map-surveillance-technology-used-by-police-departments-across-the-us-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f0d30753f737065695c2fe7?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "PWwOEGQt8eASzd267YYgQCeRTA+iZMV+wZZOehcHxfUd0ZE3PbWSBHYaLTPAInknYIsA9hci9lsL87VyYSDSD7hbPyPrF++fxFZi0Ybbi0St+6nTXy0W2yGIQBD7A9CY04eVoeBl9Qjsl43Fvs99WzzmEm1/TSXwAQ3ewoR9Zxn+K5S7JKAj+uhOYuKRlksADH5Cm2iuFRiH+V5aVW6TMAl8Mh1wm1lX/H7E7afXkUfCB1r95nrrxD3E3NF84ovz+VyxTkAmV0JW8xo1WnJEWkUjXvSV6weqn0KSPr+VmznQGA7cUO1hf/ISrYdRr/b3oSN3Zyt+PRg7oFqfeEFUHw==;oOPe4LXO8qWvT/mgaEN/Gw=="

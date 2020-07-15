@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12451554"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
+    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
+    publishedDateTime: 2020-07-13T19:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
     excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."

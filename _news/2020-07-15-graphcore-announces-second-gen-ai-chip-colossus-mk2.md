@@ -24,23 +24,23 @@ images:
     isCached: true
 
 related:
-  - title: "Graphcore claims its M2000 AI computer hits 1 petaflop"
-    excerpt: "Chip startup Graphcore detailed its second-generation IPU and the M2000 AI computer, which the company claims can achieve up to a petaflop of compute."
-    publishedDateTime: 2020-07-15T07:04:00Z
-    webUrl: "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/"
-    ampWebUrl: "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/"
+  - title: "Graphcore Returns With Another Colossus AI Chip And System"
+    excerpt: "The competition to build the most advanced Artificial Intelligence (AI) processor is turning into a race to build some of largest and most advanced semiconductor chips ever made and new server platforms to take advantage of these mega chips. One of the ..."
+    publishedDateTime: 2020-07-15T13:25:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0eff06cbf8d20007293cbd%2F0x0.jpg"
+        width: 1141
+        height: 475
         isCached: true
 
-secured: "7HzW6utMD9vzkkExtndBjj9wXotvJsY6gXHm4Ht7SzLlikKhwQsYpvcWn7rof/iZr88ywyET2VyqOMPKU7g0/d8y9ThazKXpQ4Fy8BHdZdy2r7Gij9ARlUC7KBnb7QywSdueIkdarpBIT1cXCr/qPR71C3P7xPnJ+fZ3KSDQxt7Sl5NYdbhyE0nvIo77F0mLya88j83h/KwtauHCHmJqoPJHMbB7FYG3f4TYxatZ/dyJWaQbm4qU1LyT+zlrRFB6MUcRSdpLTJOBdqDxACh770iBiC3Zi7j77A0qIA6vmw2OZzbUlDAWL1Li251VG4ci9FNV/Q5xdVf0nFGxWDH5Sw==;3HmoN0W2bgri5O+NsWL2Ag=="
+secured: "izhLsV6jEVZl9GxY3MFfX/1fKeVsVgCNE3xaG6jkWyVCrQqDfApgXMEa9igbPs5mmbLoWpuYTXwut6pSTAsWepjFF2RybEYaFMjMz2Hopj/yLoCs4UjUmA2MTyrpLEZPPjVRxv8kf7CRT1Zk54Hfmxq9DSffzQWASvLz5BN/TZMl6TGyypX4suuvvS5u7xDvJDeYkyZa5BOCcRTrIIcgCrFb+IXxoTkYvbDsXhIRi59kG80QVXZvZTzDTBDwyDC6RqJjdvG2ek2KoMyhOyJffhxp9tbBd1A1vp20H62Kjkz4bJI5WF0JQ71ECatFQkwdxRD/YAfzfeMwhKwGWmG3R+DHqqa+wOCoyN59dDL7hL5rSSJQ8Xy7umJje+AxGCsMQP3MwuqGj/FpYrHiYe8J58CMctqnlQt/7si8qMAFf7M684SGVmlGwJco4krv2vfbbldg3lZt12kwSEhWIQg/9ECNXL85eBlz9f6g67X1l0LZBomuDndePT/w8ZqVHRJ2UvpdamU4NZhetKFVbcJQsQ==;80aFtT8NUguyejPMPMYqNg=="
 ---
 

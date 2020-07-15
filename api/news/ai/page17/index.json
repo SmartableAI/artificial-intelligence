@@ -2,6 +2,337 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-06-29-ihs-markit-selects-aws-as-its-preferred-cloud-infrastructure-provider.md",
+      "title": "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200629005060/en/IHS-Markit-Selects-AWS-Preferred-Cloud-Infrastructure",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200629005060/en/801532/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "IHS Markit Selects AWS as Its Preferred Cloud Infrastructure Provider",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-ihs-markit-selects-aws-as-its-preferred-cloudinfrastructure-provider.md",
+      "title": "IHS Markit Selects AWS as Its Preferred CloudInfrastructure Provider",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that IHS Markit Ltd. (NYSE: INFO) has selected AWS as its preferred",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ihs-markit-selects-aws-as-its-preferred-cloudinfrastructure-provider-2020-06-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "IHS Markit Selects AWS as Its Preferred CloudInfrastructure Provider",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-waymo-and-volvo-form-exclusive-self-driving-partnership.md",
+      "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
+      "excerpt": "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef97c751581aa000682bee9%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/",
+      "publishedDateTime": "2020-06-28T23:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments.md",
+      "title": "Enabling Technologies to Offer Three New Proactive, Painless, and Complimentary Security Assessments",
+      "excerpt": "Enabling Technologies has recognized that attackers are increasing their attacks while organizations are working from home. To as",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/enabling-technologies-to-offer-three-new-proactive-painless-and-complimentary-security-assessments-1029348367",
+      "publishedDateTime": "2020-06-28T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self-driving-robotaxi-service-in-shanghai.md",
+      "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
+      "excerpt": "Commuters can book free rides in Didi autonomous vehicles within designated areas in Shanghai’s Jiading District but human drivers still required on board for safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/29/079706d6-b9bb-11ea-b64b-070a892763db_image_hires_115443.jpg?itok=BOII168X&v=1593402889",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese ride-hailing giant Didi Chuxing launches pilot self-driving robotaxi service in Shanghai",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self",
+      "publishedDateTime": "2020-06-28T20:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-australian-government-sinks-au19-million-into-ai-health-research-projects.md",
+      "title": "Australian government sinks AU$19 million into AI health research projects",
+      "excerpt": "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/11/ab9d2ce5-1e6c-4bc7-900f-486392d74270/thumbnail/1200x675/6e917f26544cdf82f38dfd6728fb6793/istockphoto-abadonian-835879592.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Australian government sinks AU$19 million into AI health research projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "publishedDateTime": "2020-06-28T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-malaysia-builds-its-mass-transit-system-in-the-microsoft-cloud.md",
+      "title": "Malaysia builds its mass transit system in the Microsoft Cloud",
+      "excerpt": "a member of the Microsoft Partner Network and a leading provider of software solutions for engineers, architects, builders, and owner-operators, to create its cloud-based BIM system. MRTC uses Bentley’s CDE, which comprises cloud-provisioned services ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-my/2020/06/29/malaysia-builds-its-mass-transit-system-in-the-microsoft-cloud/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/07/MRT-Corp-SSP-Line-December-Taman-Naga-Emas-1-Large-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Malaysia builds its mass transit system in the Microsoft Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-power-efficient-neural-network-with-artificial-dendrites.md",
       "title": "Power-efficient neural network with artificial dendrites",
       "excerpt": "The lack of these critical functions in artificial neural networks compromises their performance, for example in terms of flexibility, energy efficiency and the ability to handle complex tasks.",
@@ -1069,337 +1400,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
-      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
-          "width": 630,
-          "height": 366,
-          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "publishedDateTime": "2020-06-26T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
-      "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-      "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/future-artificial-intelligence.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "publishedDateTime": "2020-06-26T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020.md",
-      "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
-      "excerpt": "It’s now o’clock, founders. A mere 12 hours stands between you and a chance to compete in Startup Battlefield and launch your pre-Series A startup during Disrupt 2020 — in front of the world’s influential technorati.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/30671212518_aabcb476d7_k.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Only 12 hours left to apply for Startup Battlefield at Disrupt 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/26/only-12-hours-left-to-apply-for-startup-battlefield-at-disrupt-2020/amp/",
-      "publishedDateTime": "2020-06-26T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-borsuk-the-adjustments-schools-face-in-the-coming-school-year-raise-deep-concerns-about-quality-of-learning.md",
-      "title": "Borsuk: The adjustments schools face in the coming school year raise deep concerns about quality of learning",
-      "excerpt": "In short, what is the learning experience going to be like for students? Consider a few of the challenges that lie ahead: Teacher-student relationships. Good relationships between teachers and students are crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jsonline.com/story/news/education/2020/06/26/borsuk-adjustments-schools-face-raise-concerns-quality-kids/3264644001/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Milwaukee Journal Sentinel",
-        "domain": "jsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ai-gatekeepers-are-taking-baby-steps-toward-raising-ethical-standards.md",
-      "title": "AI gatekeepers are taking baby steps toward raising ethical standards",
-      "excerpt": "AI is upending companies, industries, and humanity. For years, Brent Hecht, an associate professor at Northwestern University who studies AI ethics, felt like a voice crying in the wilderness.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/06/2018-10-24T101409Z_955373654_RC1A9170A420_RTRMADP_3_CHINA-SECURITY-e1593196340811.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "AI gatekeepers are taking baby steps toward raising ethical standards",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1874134/computer-scientists-will-enforce-rules-for-ai-ethics/amp/",
-      "publishedDateTime": "2020-06-26T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-70-million-sci-fi-flick-b-stars-an-ai-robot-named-erica.md",
-      "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-      "excerpt": "A movie, simply titled \"b,\" is currently in early production. What makes it unique is that it will be the first big-budget feature film to star an AI actor named Erica. Produced by the makers of Oscar-nominated film Loving Vincent,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-26-image-9.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "$70 million sci-fi flick 'b' stars an AI robot named 'Erica'",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85788-70-million-sci-fi-flick-b-stars-ai.html",
-      "publishedDateTime": "2020-06-26T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
-      "title": "Congress proposes ban on government use of facial recognition software",
-      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 291,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
-          "width": 1200,
-          "height": 831,
-          "title": "Congress proposes ban on government use of facial recognition software",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
-      "publishedDateTime": "2020-06-26T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

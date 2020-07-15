@@ -179,6 +179,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 39
+  - title: "UK, Australia Investigate Facial Recognition Firm"
+    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
+    publishedDateTime: 2020-07-14T17:29:00Z
+    webUrl: "https://www.manufacturing.net/home/news/21139951/uk-australia-investigate-facial-recognition-firm"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/07/16x9/2000.5f0cce797ed02.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "lkN3zCjHI7mnUyxPtyjfTnNJf9W5N5zdqksZV/7B28eQvt3xgR2SH5CD+zGcS448fcMHFJbYSN1zzOi7JYq/56Fwx4yZsx9UnMX4Q591mtE1pW2Tj58Hz3TrlfZ/97maNxurr/naDo/kWDVMocAFLnRLCrV1G/1mefoM7ba+Dvv0ThjRv5FwTsJa+JznEhmQdqkvznMQHsaJXrmoIpIpGWlqxnoO9MndUGlJIyENYgZUtx+n1OJjYoKeHZK2mvukw7rrn2D7o8lTaxhsyvlJ0znYkQSIpdG+itPQf0Km5OoUQ0MIL4c9sGlW+d+Ymux5ej0tMfeDmColkUi1DZf3gg==;cOCIvDv+eOWcElqXSTNP4g=="
 ---

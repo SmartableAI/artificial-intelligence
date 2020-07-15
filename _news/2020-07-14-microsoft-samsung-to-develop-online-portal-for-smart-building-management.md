@@ -8,8 +8,8 @@ ampWebUrl: "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-devel
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/"
 type: article
 quality: 58
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Smarter Analyst
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft and Samsung team up on real estate and property management"
+    excerpt: "New pilot collaboration offers single, integrated portal for managing devices and smart appliances in buildings"
+    publishedDateTime: 2020-07-15T12:43:00Z
+    webUrl: "https://www.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140"
+    ampWebUrl: "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/164798"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Samsung, Microsoft team up for IoT services in real estate"
     excerpt: "Samsung and Microsoft said they would combine their various offerings to sell IoT services to the real estate development and property management industries."
     publishedDateTime: 2020-07-14T15:01:00Z

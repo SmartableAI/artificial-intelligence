@@ -74,22 +74,6 @@ related:
         width: 2500
         height: 1235
         isCached: true
-  - title: "Still a long road ahead for self-driving cars, despite Tesla claim"
-    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
-    publishedDateTime: 2020-07-10T20:13:00Z
-    webUrl: "https://timeslive.co.za/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-    type: article
-    provider:
-      name: Times LIVE
-      domain: timeslive.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/D9-513DHecAT80ZxEhZeQqBc0YqGyebFFJqJn5rjo5baNSFPyB7Wgc6-JL3L_gfDiOJsPhYOt2cgNE5c5z7I=s1000"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "How Tesla’s Self-Driving Initiatives Add Value"
     excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
     publishedDateTime: 2020-07-13T15:42:00Z
@@ -116,6 +100,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/14/tesla-cant-use-its-autopilot-claim-in-germany.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
+    excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
+    publishedDateTime: 2020-07-15T12:24:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/15/575596.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 22
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/zoox-autonomous-driving.png"
+        width: 940
+        height: 940
         isCached: true
 
 secured: "PQIWEUIuRF6cgIYuxp7+TCb9/buhpbY946KG4twgkuaJge5hULASnD2mI5vHAo+ZqCRpvEcXeejd6vA1s59k5quxx4KCNltJyNePAEOhm8Lmv/rwuodT1PPtBumCq48A9+XGvzk5LPEDNTcv3x9oqUOPAjdBkC/vhS+pjoORAmjkMdecNhxSDAs84dwLnGTgCZrPIY9nIpoDCgu9zd7mIG//KWCELcKObsC06QPEOoHzrQtYra7ZRDVL9aHHjOJeRjULKmDuYg4ihoZZKGi9TTtFWQRBof8tF0bKbfNqPZPS9MRY8dhLBhXzPQYkDa2oDg137Q2WNDXWCfwOWdbBnQ==;ET9anukEpgmUBT36gn/+7A=="

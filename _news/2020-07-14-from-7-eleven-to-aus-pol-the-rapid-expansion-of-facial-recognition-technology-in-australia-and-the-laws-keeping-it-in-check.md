@@ -118,6 +118,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
+    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
+    publishedDateTime: 2020-07-13T19:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "qx/qVMAiUQkuEDvuvHS5fncL4udQZWMErgUXHQgqVM1fR9w2+n2ntf6G4IoNDCKLrl2prEScfSs/H3c68nOwdmfAE4jKsoUeysnZ6ecSYETtgB4aKhomVhUJr9LWeqFWXexPuZdMiIxUxaH+pakCw6tCxAwxpYe4yWWP32hhtrgCO8vJ6O8xCxEeM55S+4D8V5YGUh8X/72RxPhUK0uzpHiQr7ykBUI96EPFLs1/pob4RxJ5+bgORDedl4imoiw3qsuejys3C9fFng/OhxdpqbvFH3JDOdPqC2svSR9DW55XwOcXunPw+aH94DQvI4Eu7XfRzVTpNvoPZA9V3/VtK0yNtSkm5LOy0ROLXnkGuHUACnEXbHGP2patNYztSzDhEAEivHcZkTdJ8RuDkL0cMcdy9l351oE3YQROBtuezmKPVrxomK739KunwKpc5jX5a/d+pKHhg1ZFdLCcfYLA3m+KUh7KIyWKwU8zO+YdfRSjy+rNmfRGjHgUU7zcy6a1xeBRRPBBlMOtpLdSuBkWNA==;H3oXEDdfE5PCzPpR0I0NiA=="
 ---

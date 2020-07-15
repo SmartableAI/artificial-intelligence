@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-
 ampWebUrl: "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/"
 type: article
-quality: 73
-heat: 73
+quality: 173
+heat: 173
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 421
     isCached: true
 
-secured: "GxZ1zT+uEtxdumCSPIixX3Jfn5Rd2Hv1oE57IOQwnMf80pjhLpL6QuqTizPYTlS7U67uUM2FzauP/aICYVP3u762gPLOHvyNwyuy36dElCeo458EqrgQZaHkNP9ZnkdJ7yBU94ntO/ZMfjqjLjs6LtUDWkmI26xKBopBFwt5yPKXNSUAUUQJ4cwJq4sx2TS7kOPI+AogsXBPcNuv2IcJsunW5rSckegCvgV6DvtyIcuZ0NLrYjDN1vi5xGqf3nOB+v3u0JNBWj/KZ/nJa14nwjT8ls8J+D+eaEXmOOoRfHDjQLnJmuwAe0bYWF8fBYyzk9ahx3DR4+kFavSzUOjAYmbCAVOau/2GuiO31qzjXFapsLD5EClwJJVCLcDjGpFM4XZvRbOVG9AmxGoAQdbLQ8XdI65nXJvZyHuNGcPt8EbiqGerSIvZNUYVcWNqGHV3vF6+RhbmwZVUojQLwFXR3nLW3tcn0znye7DEYDtQV/M8HK2uLn/seIwtMEQJGgEcROnQjd4IAEV05es04Uosgg==;uRl33qTMJmhXnyRmhyiOMA=="
+secured: "o/Bc9eFOWK6tN6+s0q2+MYqCUuAOiueNZ8h+3lA//BIBmghEth1dGpw+p2zX12j14ts451g7Vo8aNuvptli9C2A1Ic1cE9rnY2qk3wTeC5Qb/WhIZ2b3lFsSoUrfV36jx9KgE4XACWKF078CvtTIWbeD3Iz4gWfWcoHAZ/RNRnWftCUqKtCkc7GdwdYTqsd8rrsSWXvzzQkDrq2NZNyUR8kcvaFPFhAzxs+P5XCxS7Nb9BoMKYbtGVWoeNh9fcK1WRaJf0i7D9xOgIprzXbnH9r8NNLkzhA2CeTnQ92m0Zt8nO3COcFAP6fYlHk8KqtRPgVwDp5/lA6JRdjsjHZrDLWKWx1hmdjdUouFvgzMgdq8dLrSvNUhrmDfktpDSMqjlz6tZOO9W0TglDpJMYmwGHeumi6iqj+JbJO9ivWGsbyWtUYRxceF9arDxUvnyQVkszKIZ7FKL/Xr8TOz4vR97/rQf4UQaIQ5ayOkdnr7fND29rAtuLkVp/Ll6OqepHSf6UHgD+u2/gHlOrEnsVijVNXDL4PsFCxJPZmV7/S5M/8=;N3GAzQuwB7W1bYP5AdyTwg=="
 ---
 

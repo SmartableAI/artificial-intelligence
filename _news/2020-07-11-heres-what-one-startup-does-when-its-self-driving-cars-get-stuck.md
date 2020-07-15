@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "How To Flunk Those Cognitive Deficiency Tests And What This Means Too For AI Self-Driving Cars"
-    excerpt: "This is especially being widely noted by some prominent politicians that appear to be attempting to vouch for having mental clarity upon reaching an age in life whereby cognitive decline often surfaces."
-    publishedDateTime: 2020-07-11T15:40:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/11/how-to-flunk-those-cognitive-deficiency-tests-and-what-this-means-too-for-ai-self-driving-cars/"
+  - title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
+    excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
+    publishedDateTime: 2020-07-15T12:08:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 57
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1164205135%2F0x0.jpg%3FcropX1%3D77%26cropX2%3D3614%26cropY1%3D105%26cropY2%3D1763"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
         width: 1200
-        height: 563
+        height: 676
         isCached: true
   - title: "This self-driving startup built a “car without wheels” for remote driving"
     excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
@@ -55,6 +57,36 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
+    excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
+    publishedDateTime: 2020-07-15T12:04:00Z
+    webUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/"
+    ampWebUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
+    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
+    type: article
+    provider:
+      name: trucks.com
+      domain: trucks.com
+    quality: 44
+    images:
+      - url: "https://www.trucks.com/wp-content/uploads/2020/07/tusimple-Nav-truck-674x337.jpg"
+        width: 674
+        height: 337
+        isCached: true
+  - title: "Self-driving startup develops car without wheels"
+    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
+    publishedDateTime: 2020-07-14T10:50:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "DBKNxmhwlkcAwznTYuLQN0yszQYTq4aLl7znxckQt4XPunkMvVnX+AP+UhUw/N/DEqbBPtisPX6aiXT3Y0n2zxTVBx6viSUKtSKwfooU4PYtNbxfO473Z1ea7r7vsTjntDs05qe16TcQd9EuHikACCppCGaWI/jGOAqVlcrj69hqAtTjyMTWlBgc0qLfYReBMmoPz4r6CnF71LRLKGzkASQ+5IUSOKDN5oMnmM6dpIW2aXKIqLFW3JDbc9zZrikRnfH8UFSHthZDarnGa/zYNg2f7PYHqkHPAxTwjCdu54gUIqJfzZrAgs9sfQSlAEBCzld/dfI14F+jnYBwRf5tVg==;H43ZXksUFJRH5J4XbYiW4Q=="

@@ -104,6 +104,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
+    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
+    publishedDateTime: 2020-07-13T19:54:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 35
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
     excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
     publishedDateTime: 2020-07-14T02:40:00Z
@@ -119,6 +133,6 @@ related:
         height: 569
         isCached: true
 
-secured: "0r/hOc1yTAH/dN49D7qTb/95mBJAlOEiaORTPsEv/Fool3wcjZ+Xr3mbHwC8V416xIiY9eVug9oLl1gnBzQU45t1R7NEsYYyCU8ZhXCl8nNx6wbPz07Vm/bJ8F2HKOKHSd6Ovr0a7nNNMmR13vZpod6rZDKOLfsBCOlaLiacqHPIcw81d23Ai7Bi8WWz0DPw2GlhEl/6tupfFmlFQZC3g02VnAXuTMgEyO+SaWJ3vFhFK6SZrDEP3zhyzimdnrUNskhHzemR0T+HPUSol0Cf+k6b8o0P7xpr06McCkrZZugDCKvhdUmb0ah0uCypQas56FZtHrJ9g07s7LhqJF2Fbg==;LxKGcHq1ESn7A5wRCA6l2g=="
+secured: "q4iY6K0LOTqcjFFB1rDUXdlBSTyPvLQMOfjFB0HAPKpp5Dq8QK9KGt0haCTQTSEUEMIfRN5Mg7M6X1XmX383KyAtNqa3+yClUqd5uKc+o2SxSJsJMKbEIRBcaiL/k+62SGwRMRS5UyXmUwJZfu1ibb2ExzcHdZRkPy8so9OliYR0fuVBqbpFx+cd96ZdTrM/peBvWpX70NUfkYzqFEyrxy2g9gHH4wxsiJXKaM0GB81w1pTkb9jF/gLxjwRg5RrQ/alwDc6vdpemTAxrwIAHBA1I5RM63ITCEkCflxH0dZ7GjFKY7gN0CpPAuCMTrayEMBqRHPj5DGa7/NUVATuvi5YSwHMlxbv4+qtWFziQs8s7anHtPMoztl/Ci+xiIDyUW0Zt8E4JFVLVxFVW5XlBSDA2u7OR84BTfze1d2JJ/hmOJB4BdpbDvnJUEyKTp1VS+f9o4iSZ/vGBLXmLnuQr6zw4J4ovsB+pesQRdI5BVRtQJXrLKMNza4JltRxzFFEv;Ect+9zSEwDEYc4Ty4DiWDA=="
 ---
 
