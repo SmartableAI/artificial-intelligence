@@ -104,22 +104,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida"
-    excerpt: "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes."
-    publishedDateTime: 2020-07-10T18:56:00Z
-    webUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/"
-    ampWebUrl: "https://www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/investigations/national-investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2509752/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 52
-    images:
-      - url: "https://media.nbcnewyork.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650"
-        width: 1200
-        height: 650
-        isCached: true
   - title: "Controversial Detroit facial recognition got him arrested for a crime he didn’t commit"
     excerpt: "Michael Oliver said he wasn't responsible for snatching a cell phone then damaging it in 2019. Evidence in the case supported him."
     publishedDateTime: 2020-07-10T19:59:00Z

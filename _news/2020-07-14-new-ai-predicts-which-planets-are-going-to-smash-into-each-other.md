@@ -57,6 +57,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "Artificial Intelligence Predicts Which Planetary Systems Will Survive 100,000 Times Faster"
+    excerpt: "Why don't planets collide more often? How do planetary systems — like our solar system or multi-planet systems around other stars — organize themselves? Of all of the possible ways planets could orbit,"
+    publishedDateTime: 2020-07-14T00:45:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-predicts-which-planetary-systems-will-survive-100000-times-faster/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-predicts-which-planetary-systems-will-survive-100000-times-faster/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-predicts-which-planetary-systems-will-survive-100000-times-faster/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 47
+    images:
+      - url: "https://scitechdaily.com/images/Kepler-431-System-Orbits-777x466.jpg"
+        width: 777
+        height: 466
+        isCached: true
 
 secured: "lQg7As86o3A5KALKCztm8t2jI0FsM9kspwW2z8QmAWBMFFa4R/NwuR6VRL0ETS3sqCPRXTU55lojpm6Grw7zcJR+qIplQzbbIMTDGla1QiG467XePOsMn/xUgrPqFc8xi0kfnOlrNYjgq7/+8jO5rVf04D/3qQOnJnLqTy1CcEupXx/yAptCUEBpZOEv6ABg0v2y0RMCHTOdb9iZGFLvN9vFupnXqW0cK6DpzypSpAhxw6GNfOv1syT2jjC1sQP+bUfEWEQGj3WUyi3N+Mbj5nm9kpwN2K/Rf/75oefhjAYs4Pe6V7oi2qIaGlC5jHO586203g1W4y2cruNmy+hH2g==;9zVJNiImQahjf66ZMMsbDQ=="
 ---

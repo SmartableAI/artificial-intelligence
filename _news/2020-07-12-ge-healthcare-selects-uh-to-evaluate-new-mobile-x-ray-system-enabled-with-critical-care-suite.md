@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "GE Healthcare chooses UH to clinically evaluate first-of-its-kind imaging system"
-    excerpt: "Physicians at University Hospitals Cleveland Medical Center completed the evaluation phase for the GE Healthcare Critical Care Suite in December, and the technology is now in daily clinical practice - flagging between seven to 15 collapsed lungs per day within the hospital."
-    publishedDateTime: 2020-07-10T17:19:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uhcm-ghc071020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 34
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/237205_web.jpg"
-        width: 1440
-        height: 1085
-        isCached: true
-
 secured: "ivfL278Ho2SRmR69PLQGqLxXVJ3G2GM20dT9ppcHJ3BPdwAXSHFbszuM6pHgGcl0us6blPLhOWivDrbOSGbVRH4JtggKi0B5f+AlBivDtNvuhnZV/RTey7CeZSwGANyPlgUZrZLn2fDl0FGQSCYMWjM7LbnC5iPnA0auxtJdvLVdTtWboQggJdqv1YcafBAOwkF6SJyI7Yo8dS/y0enJ0vGL/LLgXjmtVkGcuPLP0SEQZ21zyyQc0PGypSDTXFX3fi++VCjcF5caImqmUZeQLVOE1gNHucJODnfxa7oNm1r+G0EBm2yCOJtM1/9iHu8BQqegJOO6URS4RUISWIHNuw==;YiiN4ga9GZ32chQbaB/8fQ=="
 ---
 

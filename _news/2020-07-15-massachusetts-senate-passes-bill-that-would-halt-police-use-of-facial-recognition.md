@@ -42,7 +42,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
+        width: 512
+        height: 288
+        isCached: true
 
-secured: "nscyB43XEFfRTmYUF8pABDoxOhOfz48CuzYx/wYnfgUcIeHtApCH08m6jczMi/XscCq4B9/ZMd2o2hbylVqhmbVHTL8sztpYP9nVXQpAwCHty4unWEqgqi7/Zp2vgyNLxq8AdWLGtuwATusV+8RXn0a4qlxIX56q9sC/CikoBsGBDkNHU2zQ1W2jCuBmz2OS+PwretAyQL5T8O3zHATNz3FiJq09W4Kqizc3p49D/2p/HtNzP1OC73vMKTOt0BYw3WTQMZRwxQ4FixALp8IihVfiwe2NTC2vhj0PMmAqTYA0YMz3m74VUFnkPkfcjQEY8THkhp7PARywNwr3dlMLig==;+88ZA+xrGRKmkZ3+ekAzeQ=="
+secured: "vXq5dDT4oPv5/0jodQ6sOjgq/pVTJpTpp7w0K5FwSJes3eXxVzH1NxcZeGi/ASk9KNZxY5lrL3maLiujz70J/+5T3g6MqzbrPZsEySNiQhHhpjDZd63fF61IRo7bLZi8686ZwgZRM9fLqCL+BcA3WADHH4VcYoiCvnYJhvh458eXCGWsw2Cj/FtI4jonMfVabMU9t6WUiS7xZTMN+h1LuYTsxKeCMjItxDi3MOUq1ubCR6x9ZEbLOj4upfULzJnX+JoiruBZsj56WZ3jWaab2nuuvE4x7poLgXYPchYm9JV4TGLTNLmibKavIctOHvftLI0p5q3adJ6cHyyzszvuGFXRC0iYV+Izfe1VAvM1si7HkL/6m2sNW65dFIQ2UtLkQfAL7JZQHtj8YakFyzGIfN8kfXzrs8xChzrRMOzMSxGWevCKjnK6I0z41oAc5D7tZ+wHNN5qZXMpDzB+3gJoaMZLIpF1M1sZJeY1ZPvnK0hQNgZaoJQrIVdhx8R3xi+X2ouB9Whzd2iE5V+hYwLwkQ==;ngpmvpsWLNciV+VR5LrYFQ=="
 ---
 

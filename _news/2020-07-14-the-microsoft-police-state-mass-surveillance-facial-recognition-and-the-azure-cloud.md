@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T19:45:00Z
 webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
+    excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000"
+    publishedDateTime: 2020-07-15T11:39:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 65
+    images:
+      - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
+        width: 512
+        height: 288
+        isCached: true
   - title: "Massachusetts Senate Passes Bill That Would Halt Police Use of Facial Recognition"
     excerpt: "The Massachusetts state Senate approved a bill to revise police standards that would make the state the first in the U.S. to pause law enforcement’s use of facial recognition."
     publishedDateTime: 2020-07-15T05:31:00Z

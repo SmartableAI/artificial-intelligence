@@ -1,0 +1,46 @@
+---
+category: news
+title: "FamilyMart to deploy robots in Japan stores"
+excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+publishedDateTime: 2020-07-15T10:56:00Z
+webUrl: "https://www.bangkokpost.com/tech/1951912/familymart-to-deploy-robots-in-japan-stores"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Bangkok Post
+  domain: bangkokpost.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://static.bangkokpost.com/media/content/20200715/c1_1951912_700.jpg"
+    width: 700
+    height: 504
+    isCached: true
+
+related:
+  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-15T09:51:00Z
+    webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 100
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525789604&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
+        width: 782
+        height: 545
+        isCached: true
+
+secured: "wLMSKM7gNBJRRUZ2vULXHcgqJTAwMSupYuL/GqZp0qeOAgmAFSGkYDdNbT5eWd9n5J8s0Q/DJLTo50YjSummKyi25CszJV+m5AYtECVOeLzuPeSFw4UpwpequxwPxNl5RoX+qhUCauZmpyCNJBgG2j6LwYO1coSh+2BWr4c63X7TEbmQhGGhm+whE3hC3GS/Siwy0AKmb70H1Vh11yKLNgpTR3RIPwIg0f6dEu/0MfDmh3Gs5OHiXYhzyQzVx8XQDf7U9jJ/R4Dt3Py1hPZsYvoJF6vwI1jC13AmxVyrL2s/fC3TE5xkbUNUIPy9O/Hb/vArRV421o267/mvZS755w==;TnZX3PMt3pcc2IGy58PDEQ=="
+---
+

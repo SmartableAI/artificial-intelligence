@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-planetary-surv
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://wp-assets.futurism.com/2020/07/ai-predicts-exoplanets-catastrophic-crash-courses-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Artificial Intelligence Predicts Which Planetary Systems Will Survive 100,000 Times Faster"
+    excerpt: "Why don't planets collide more often? How do planetary systems — like our solar system or multi-planet systems around other stars — organize themselves? Of all of the possible ways planets could orbit,"
+    publishedDateTime: 2020-07-14T00:45:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-predicts-which-planetary-systems-will-survive-100000-times-faster/"
+    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-predicts-which-planetary-systems-will-survive-100000-times-faster/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-predicts-which-planetary-systems-will-survive-100000-times-faster/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 47
+    images:
+      - url: "https://scitechdaily.com/images/Kepler-431-System-Orbits-777x466.jpg"
+        width: 777
+        height: 466
         isCached: true
 
 secured: "UNjLyreMTtycTOqHn1IWG+9Seg3wbY53KmpJCVfe8fcOBqA5zzcNiPWcO6XzfCrxlT0GkRDDVXgHhSnJi3QQalcO0GTS2o919BTK1JDJUOImrOm9tKrV5S0rUQO+NXSzPO3JbNUoV1JqCw//BwVQSsT8nLNQrXQBuVeFzISA8OeqsoiuRLsjoNyceC1LrEzN1/bXSWUT8/P3Yj3n9b43WVWAqGSa/6NHxcdatz3xA0YsFSozUPNHuHMBZa+s0kRfJWvGChb2vv7wVMKKWWWgDP/lhjFQhsL1pa0qGihanoqH3b7F/DJ+T3FxocxAa0sD8PokLYBj0giz+3aeMg0sJUD/srljqtcxYluNrFxaXrfg9AtE5x9SlM+QlFkdEqGOdim4nJH0k/8zHZCeUeFSAg5wH8i0M6yq47ngqAPNscwtdyNnfvnZ8Nnw70QQPoYJM8fwKJKFAcvizHvbMncmD8cpxpC/iQoVWeo+6pucMDNzNDBUITXxkpiC4lEWFYL1JiYJeVAlKvnFTEeIkBYqMA==;SpauEpN5ihvtzfjxLMAY2w=="

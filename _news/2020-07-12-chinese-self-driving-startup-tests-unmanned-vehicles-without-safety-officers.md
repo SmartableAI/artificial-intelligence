@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Shanghai designates downtown open road for self-driving vehicles testing"
-    excerpt: "This is the first open road for self-driving vehicle testing in downtown area of a megacity in China. Shanghai had previously designated several open test roads in Jiading, Lingang and Fengxian areas in the suburbs."
-    publishedDateTime: 2020-07-11T23:26:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202007/12/WS5f0a4aa5a310834817258c9e.html"
+  - title: "Self-driving startup develops car without wheels"
+    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
+    publishedDateTime: 2020-07-14T10:50:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 38
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
     images:
-      - url: "https://img2.chinadaily.com.cn/images/202007/12/5f0a57dca3108348fcdca635.jpeg"
-        width: 719
-        height: 479
+      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
+        width: 620
+        height: 465
         isCached: true
 
 secured: "ayPR0KOP/zUR/HyEE16JEfHQUEpviC4oi2IZoFTg5UcaVPVZaKzfGLs0c1XoxN/fKQYn/Zi061xCf6fYbB6JOSWTuv11JAj1VrisFwlJ8bmdJCMJhr0rDftqo8RCGD7dAFlfrMD6QobJ//laRsL9fnbR3PxwuMBd2lh5drxxI2yzlHeab6wU9kiCVwqMFcA20OQmSViETzI7UTdS1PwZe/M6CWa+JxaAIMWrH6GCKdkAvMfx7bNAnH9QZDl6+MW6Sg1pkNDHINzJBkHjxtNb6sFD4HhekgWyCrxsmq09B70ogs7j2QYQqdKwMmTlwVqtXQ+YSmhJsW81JmtiOEbp9A==;CVPdNyTPom5qfgkbT5ccpw=="
