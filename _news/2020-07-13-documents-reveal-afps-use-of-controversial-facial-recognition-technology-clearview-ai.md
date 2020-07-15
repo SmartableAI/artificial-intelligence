@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.abc.net.au/article/12451554"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
 type: article
 quality: 66
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Black Democrats in Lansing propose banning facial recognition technology in Michigan"
-    excerpt: "Mounting calls to ban facial recognition technology are now coming from every level of government, from the city of Detroit to Congress. Black Democrats"
-    publishedDateTime: 2020-07-10T15:15:00Z
-    webUrl: "https://www.metrotimes.com/news-hits/archives/2020/07/10/black-democrats-in-lansing-propose-banning-facial-recognition-technology-in-michigan"
-    type: article
-    provider:
-      name: Metro Times
-      domain: metrotimes.com
-    quality: 32
-    images:
-      - url: "https://media1.fdncms.com/metrotimes/imager/u/slideshow/24905132/img_6993.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
     excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."

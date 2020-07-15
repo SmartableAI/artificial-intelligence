@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
         width: 640
         height: 426
+        isCached: true
+  - title: "Level 5 fully self-driving cars not due anytime soon"
+    excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
+    publishedDateTime: 2020-07-15T09:52:00Z
+    webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
+        width: 424
+        height: 282
         isCached: true
 
 secured: "qYklx/okxTOohmmbUbqi74FlK/CdnsFzC+oTkb0suk6abElyalLhx9pzFjXQZernRw7nPrtLRHKXsbxuI7pudDqn+o1Dj3Y4pOFieeSEqwhcQlj+sos3smY1TGfm5WflfBEQ3xIIJ81S5qz5Dt2VEMTo9nw5jOdWmIRXJzUKUZ7ysqmCZ3F07+P+QKA2w1PWLBatNnDlAnNCOkzqfVHMCCaEy2aBaofqOpIxax2ZBgwRwGDtpnfohiu8jUHvQdZmHDiu9FHj4r33LrFXJFaVfyAuJlubXNMneLl7eHpNr6b48hFcnxFR7p1X74iC+g+Mit5LrD9qCDH6eXL7bRvAF1YkC9IajvyctAjND9SZALEGGrmDo/hEAL73I20j4LClcOOr/ELnQIdF0gPJmGDUqoIGZT5dCoXsM6K6tkWvUCBACOeM89i0KxNvbcO2VIkR8jVGNzJAGVkvJouUGzhrrLmGDX7J0RA8OKHFhbfr6MEFzbeA1vEvhKVcZHi5iE0s0ure1JhEZKhBE69R2uYw2A==;36JdfbgVaENiE5RmA81UGA=="

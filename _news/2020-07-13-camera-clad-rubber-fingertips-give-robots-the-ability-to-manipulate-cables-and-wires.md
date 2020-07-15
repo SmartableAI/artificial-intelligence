@@ -2,8 +2,8 @@
 category: news
 title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
 excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-publishedDateTime: 2020-07-13T13:30:00Z
-webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=8&itm_content=2x4&itm_term=2356592"
+publishedDateTime: 2020-07-13T13:47:00Z
+webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
 type: article
@@ -25,9 +25,9 @@ topics:
 
 related:
   - title: "Camera-clad rubber fingertips allow robots to manipulate cables and wires"
-    excerpt: "Using cameras and a rubber fingertip, researchers just developed a robot arm that has more human-like dexterity when working with cables, rope, and wire."
-    publishedDateTime: 2020-07-13T14:02:00Z
-    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=21&itm_content=2x2&itm_term=2356592"
+    excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
+    publishedDateTime: 2020-07-13T17:43:00Z
+    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2356592"
     ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     type: article
@@ -52,6 +52,6 @@ related:
         height: 426
         isCached: true
 
-secured: "jlP1RQOmMemQ+cd/cp32cs45YcHoU9V2qc/Xo1QxbZl4FTovE2rmNQwn5D/GKBB315ufuHhtD7AukiEe0TGdPb0NN+gP869GMnwy+zWW7q4oZAGxcKAJpTOHegA0ndjhzba8J+AOwaipbpz8IuAWrxw6kflNVHVt/WbGnY+ANZX9LJBiB/PQHLQiIWmYHFLaMTlkyvsk783qLY69idqxBEFtEPj408/rYo36SkQ1/aDm6GUZzUexJjn+7h1wJm30RgwXHL7utNBhzu9I8YKSid8upkHgL4tZpzQVlgpcUff3kCOXr2Cmwi5lfLCwKEIvweOw04zZtAW3i2JTlRy79I6E+cd2zJsPp44XlWpA8HE/mR87DD1FeRJlqxUQWaQpXJ8ahhxM/hNOOHyQC1OKe2eQM+uDTn1jNwmdTGmj4+B0UKJ+AJZlrGDsblW6TtpZy8GHFT7PFUOwKFGL4+I7Req2LY5Sl9ocKFveZj4aoHpqm332IM6RLAJG/lQoTYo+TXhOfX9CgFQY7iDIbXaKjQ==;a5uh9tMjPrujhdoLe+zbZg=="
+secured: "5tBIzX8Iw5AN9EbfjfcfJ1cqcslaYBKynnJJDTVa0LnC+OBSRH/gKgk8YrCjOlD1TTbKx8bX9oK3wOMN8OoXnEGFtl8Etn/s0ep0Fz+YUUqGOHXcSVLg0MqF0+EEaJm6bGi3ksXEtOQEjjDoVCLwm+81ZSH6gWwYM0w4unkcgKdmDWWQ5F+6E/1MdYRoqDIvaEfVnhkKq7T3HJdBkrIr7NrXZtI93/4PTAcB/2WsivdQDy1xeHI4fF4ebCcAZ62/kZ1mnD1DTrxN3ctD7xic2ab5kb98Fqnl9paLK+76wlcxuWhCxlmWPpNDYn/IvHZNOLse+KU0wU2wDV3TYy+ptKE0ijJC7nueIKopnVMUk6mwNZctFOMElr+TYy4dQ0SbP078mbvF6+XtXOu+cYpyRrDJreLGBDVDyc/F8yKg3hsanCKl8w8GUQ38VN+HeriDIYyV50voZIuUZ8Xduc0l4KlDUEFp24ATiba2c/g+anKTx0Htqk5VCbHLqzVE9fAZCL3folqDe2/2rC5z7GDCRg==;XBpY082Dg5QuRW2YVCWlsA=="
 ---
 

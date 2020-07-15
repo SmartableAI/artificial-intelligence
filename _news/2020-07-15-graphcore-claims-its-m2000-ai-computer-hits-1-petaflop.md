@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-ach
 ampWebUrl: "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 95
+heat: 95
 published: true
 
 provider:
@@ -23,6 +23,8 @@ topics:
   - Computer Vision
   - AI
   - AI Hardware
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all"
@@ -30,6 +32,6 @@ images:
     height: 600
     isCached: true
 
-secured: "YvO3tmpRAc44E1J4gDT50NRgblfNwLPS/U4xT7Jlnq637oKwfXMIZ1GH9mj4tuxZEoBX5BVET0LI8nk0WMLtHPO12pDYhvu5fvtjkZSFNcr0nusplVjwwHhvNlQwU85kZnqSWXK2drP59FLFOGCw300WyauT807ngUhE0NspvT/qSL4Z0x67YjV2+ke0bA5rS2JzEna2Qarq6DdT+4omZaz3TmTw90eHUjnCs+eidM3wPUIZhe4DecLyqDMSA/rkj6qqy891ZYLZDbfCnau0sltzhrqFzq+Jpi8LGxr//vPgUvqR4M0i+frCktGXTnOj3M24rMFFa5uFbEIcESZeXw==;GbRLjrHYSuWyDXhglsw5gQ=="
+secured: "cWefyunTEmYEGpm9roMgFJ780Yr0efQ4UzU5typ0w4saIA4TjzizaRVw3sn1Q/16gHXDRxORL/R3Lgg3sdYnEfh2N9ibH6pmIxQ+XyIswYDaRhyOZJhuksEZIzgUVw9GytP6UiOIFe6bBw2+GUdTSJsrOppHJUZdMRBkNhy0VfO6SWWl2OlK9k7actMMTiaDDqBUDMnTWj7DdLAjWlbIM2+AR4tzSZ9zhM4kDM3OcS8vMl0XOTzORzhJxBaGHz4fH+UoywMSRhkHXwUkQxqbv3eh/CaW63CdIbLWjMwblt0J2AtIa4ViesLNGS16EWS7aVZTQC4Ojk2RxGn/zrWvY5DLUhcrkz1gE0rWhAZQuyY7jDedXQOmvf40Vx9xZsipEe7oHihnNQFgrr/rNtK0NQqhkich8mcmfbLUcN2bvl+wx5W0JZ9X9A5rKLuYTc/z1HERt/WtuVag4O2/yW8Avc8P6aj+ShLc7Rz0J7uYK2R+X5EXeO/p9Whft3i29Wd2NK7ShIcdkTgHy0IdPyrm1Q==;5WIsdi2pZW8BfQcardpENg=="
 ---
 

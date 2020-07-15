@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management"
-excerpt: "Partnership will enhance the leading no-code workflow and rules platform from Decisions by integrating machine learning and artificial intelligence produced by NLP"
-publishedDateTime: 2020-07-01T08:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/p16464347/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16464347"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464347"
+excerpt: "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ..."
+publishedDateTime: 2020-07-01T08:20:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16464333"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
   name: Benzinga.com
   domain: benzinga.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
 
-secured: "mO+pFq3f+XS6QW79DyZC+BkCfV9VS12s7Vpiiib1SHuErt9GBbW2sriM55PTDKm7Ebh0ewlFcT35l8nCvwU9qqeTEUBdMZ7ceq+4MnTjMAXEVIxo7mETc5Z6+/9aL0PIuUlsgnSBjcYTjC9lBzi3AHYIuLLvF92zowGNSDh0A7XYfc++8RAu/cTritIKYZJ37r5nWjKBfF/1COLkZuXzKJ7Fs9iUTvCDLQBpdI1iWpik6+aTkiqD7KoExPl5EAkTn+BwiOw/xcFkemOZ04n2529WQs7qAcN/mIYXnbT32/KZCaPd6WP4vrsQoJNsUBzDgPNz7Hl0AARhhVkUqovYxQ==;2a6051Tq0hpq+NcRknDmFg=="
+secured: "VkTTFb96Cxy5xLRaBSlA+g2jOG4S/0BATB+FdLsn3jz07qwqZTIpere+VJidRi7xnpL5EUoVlxAOUraAGaqn5GNndBqzNLvMsB5f9aoiKcx3kCRHNhxlslrC+7tXCdvcZx7bxim7FByHu5AXkCxCppYsB/1Afrj2jTET7zbbHDEy6hqax6nUWzxE9llsAnb95UKtNRKocJPPGjR9hZvQj61NjWWWgIX+WOH3r/UItR2XZ7eGlCkBdYdzLyffVGez1HfEw+K5l54l255HW+NZJVkrDzUMIuJvIbeaexv3zp1mN0KPoFlgDYEOKfjw4Y8ZI3ZAu4+fO4moIfC64cqXUw==;2rRGQwc/VwiaVlyHPNRBfg=="
 ---
 

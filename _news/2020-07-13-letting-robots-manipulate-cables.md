@@ -27,9 +27,9 @@ images:
 
 related:
   - title: "Camera-clad rubber fingertips allow robots to manipulate cables and wires"
-    excerpt: "Using cameras and a rubber fingertip, researchers just developed a robot arm that has more human-like dexterity when working with cables, rope, and wire."
-    publishedDateTime: 2020-07-13T14:02:00Z
-    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=21&itm_content=2x2&itm_term=2356592"
+    excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
+    publishedDateTime: 2020-07-13T17:43:00Z
+    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2356592"
     ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     type: article
@@ -39,8 +39,8 @@ related:
     quality: 68
   - title: "Camera-clad rubber fingertips give robots the ability to manipulate cables and wires"
     excerpt: "Tying a knot or plugging a charger into a port are tasks that require human-like dexterity, but thanks to research out of MIT’s Computer Science and Artificial Intelligence Laboratory ... is most likely destined to start in the automotive industry ..."
-    publishedDateTime: 2020-07-13T13:30:00Z
-    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=8&itm_content=2x4&itm_term=2356592"
+    publishedDateTime: 2020-07-13T13:47:00Z
+    webUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?itm_source=4&itm_content=2x4&itm_term=2376504"
     ampWebUrl: "https://www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/mit-csail-gelsight-research/?amp"
     type: article

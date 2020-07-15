@@ -70,6 +70,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Level 5 fully self-driving cars not due anytime soon"
+    excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
+    publishedDateTime: 2020-07-15T09:52:00Z
+    webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
+        width: 424
+        height: 282
+        isCached: true
 
 secured: "Et81togLMWGNtDyuYsOrFEdEXZN+0UdH6XdyQK1DwFmDgE38d/ykG4lFOQ3uqr2q7cw4du1xNkHH/dE+p+5Tu2C7wNXDCQQbiY6+skKcv452fp2bNlboALv3m2VmvN+Zco/P0/nynWFyGxO3nHLkVlIjDCtpH7IwJ0SVOdi0F/FvMC+pf9cd/M/hDfVq8b9/v3k6JWTO8OqeUJh9P2oujg/CQpIjNFGaipZbcbLn9sGi3UCJvDKQzWB3jbTzVKouO+hMq895vdqc+3Gr1hcFWmpxzg5lwvDKOlsrnsBgs2SkSyim4Gm+SBMc0NExJeLYsOKqMigHK9LndeGezNTgmw==;ulg+dRYTltvTCh3UWroi5Q=="
 ---
