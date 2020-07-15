@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Human Horizons' CTO Gives Keynote Speech at the World Artificial Intelligence Conference"
-excerpt: "Human Horizons' CTO, Mark Stanton was invited to deliver a keynote speech at WAIC 2020, in the Autonomous Driving Forum of the conference which aimed to gather prominent experts from all over the world to discuss V2X (Vehicle-to-Everything) technology."
-publishedDateTime: 2020-07-14T13:39:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference-1029392716"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference-1029392716"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference-1029392716"
+excerpt: "This year's World Artificial Intelligence Conference '(WAIC)' has the theme of \"Intelligent Connectivity, Indivisible Community\"."
+publishedDateTime: 2020-07-14T13:25:00Z
+webUrl: "https://www.prnewswire.com/news-releases/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference-301093085.html"
 type: article
-quality: 58
-heat: 58
-published: false
+quality: 28
+heat: 28
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "sPk/1bH7/jjbL2d30x6LGqrQvVqk7kqP0GrQBlRXKwGu0+OBBH8NB7ksTIaDpcKfDY2QVQ6RSfCEJUBb5jvlMNrPylTzCCVyjd9aCwdhgtj1c/3WdjBRalsR6vyisEEUVzW5395BvF8EnKWSAF/w7vcUW00R5PbDSl7v/7cL+qi6GHbGf8L6/gQgA9RIsAehXBQ+MjdLJZvu7b+ffoK000zoEv5OjlluhSLAEVYeucvl4df2uFmn+pF6j/jrF8ApTMNlBjIRX+0L7jgpsfW7NvN8P5YxFjl4i7AFBffRht1xw0SMor7/4Es63+eKTstmKEyKdX2cBAPuhO2A2SXX0jYKUhy2Pk7jUA48J1uV0IUe4zWP7NNgDbjDxRaEDA6HNfZb/8GSFO4SW8XdNRnEHJm6CDdOMgybDoyTE/ZXwhlZ/8TfMa+Sgl+p2XN87HdHiPyixYGNkRG+Q+lD0iL0FgnyL3IodBxz5sGZEz3mJ74hY3TzjfRPXU/tRlaehUwkGbUqAl5rLCYUa4kq19HQ9A==;IRTD9ESZO6GHImytnSH+ww=="
+images:
+  - url: "https://mma.prnewswire.com/media/1214222/Human_Horizons_Mark_Stanton.jpg?p=facebook"
+    width: 1920
+    height: 1005
+    isCached: true
+
+secured: "Hv1DX8ZEKok37slCELUVMMSQ/vjLhmcs0n9YGIFJtFURjhBIG4jdo8srx+VzQXPtRMn+YfWM7RPomr8LQp6Sbw15tB5bpF7wmueaph9f0RZN79ChiKmAYZV1qybnehFnSkdJn7wPebCgaQq7LbZIZQX2Ch0qolO7hEsD9Yhv1IvcRIwIzbNybF7VtiGcjPN9i6qW6bIEgj+ECb9fdp1kpKPL8+V6hMsxpU+kQOeNx1REcrLKEovjurYzW2FxfI0RvccSDfKo9ePOcpMd4I1tieCXG9B/gyYyk/c5WonZDagA6jgy9kufZPUr0irsO75OePYoovavpPcPBnSPW/DZ7Q==;XR0TEWRD1P6/IdyZlbpMJA=="
 ---
 

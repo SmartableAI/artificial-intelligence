@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-10T13:36:00Z
 webUrl: "https://seekingalpha.com/news/3590199-wimi-holographic-ar-ai-vision-to-drive-new-wave-of-5g-applications-sharesplus-95"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications"
-    excerpt: "WIMI cover from the holographic AI computer vision synthesis, holographic visual presentation, holographic interactive software development and holographic AR online and offline advertising, holographic ARSDK pay, 5 g holographic communication software ..."
-    publishedDateTime: 2020-07-10T09:30:00Z
-    webUrl: "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "WIMI Holographic AR+AI vision to drives a new wave of 5G applications, shares +95%"
     excerpt: "WIMI hologram cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services.The cloud solution finds application in various fields, such as home entertainment, lightfield cinema, performing arts system,"
     publishedDateTime: 2020-07-10T13:13:00Z

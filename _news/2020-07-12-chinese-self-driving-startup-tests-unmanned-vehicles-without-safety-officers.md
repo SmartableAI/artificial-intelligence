@@ -38,17 +38,6 @@ related:
         width: 719
         height: 479
         isCached: true
-  - title: "Russia’s top brass to prioritize using self-driving vehicles in Arctic"
-    excerpt: "In April, the Kamaz truck maker held successful trials of self-driving trucks in the Polar region, according to the head of the Khrulyov Military Logistics Academy"
-    publishedDateTime: 2020-07-10T09:10:00Z
-    webUrl: "https://tass.com/defense/1176863"
-    ampWebUrl: "https://tass.com/defense/1176863/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1176863/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 24
 
 secured: "ayPR0KOP/zUR/HyEE16JEfHQUEpviC4oi2IZoFTg5UcaVPVZaKzfGLs0c1XoxN/fKQYn/Zi061xCf6fYbB6JOSWTuv11JAj1VrisFwlJ8bmdJCMJhr0rDftqo8RCGD7dAFlfrMD6QobJ//laRsL9fnbR3PxwuMBd2lh5drxxI2yzlHeab6wU9kiCVwqMFcA20OQmSViETzI7UTdS1PwZe/M6CWa+JxaAIMWrH6GCKdkAvMfx7bNAnH9QZDl6+MW6Sg1pkNDHINzJBkHjxtNb6sFD4HhekgWyCrxsmq09B70ogs7j2QYQqdKwMmTlwVqtXQ+YSmhJsW81JmtiOEbp9A==;CVPdNyTPom5qfgkbT5ccpw=="
 ---

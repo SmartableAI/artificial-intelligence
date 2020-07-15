@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T13:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200713005160/en/ Untether-AI-Announces-New-Funding-Additions-Management"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

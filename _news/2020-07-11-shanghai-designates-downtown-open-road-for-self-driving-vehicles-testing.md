@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Russia’s top brass to prioritize using self-driving vehicles in Arctic"
-    excerpt: "In April, the Kamaz truck maker held successful trials of self-driving trucks in the Polar region, according to the head of the Khrulyov Military Logistics Academy"
-    publishedDateTime: 2020-07-10T09:10:00Z
-    webUrl: "https://tass.com/defense/1176863"
-    ampWebUrl: "https://tass.com/defense/1176863/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1176863/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 24
   - title: "Chinese self-driving startup tests unmanned vehicles without safety officers"
     excerpt: "Residents in Guangzhou, South China's Guangdong Province can take self-driving cars from June 23. The service was jointly launched by AutoNavi and self-driving ride company WeRide. Photo: WeRide Chinese autonomous driving startup WeRide obtained a license on Sunday to test its self-driving car in a designated area of South China's Guangzhou province without a safety officer,"
     publishedDateTime: 2020-07-12T07:23:00Z

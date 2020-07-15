@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Still a long road ahead for self-driving cars, despite Tesla claim"
-excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
-publishedDateTime: 2020-07-10T20:13:00Z
-webUrl: "https://timeslive.co.za/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
-cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+title: "How Tesla’s Self-Driving Initiatives Add Value"
+excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
+publishedDateTime: 2020-07-13T15:42:00Z
+webUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13"
+ampWebUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
 type: article
-quality: 74
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Times LIVE
-  domain: timeslive.co.za
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://lh3.googleusercontent.com/D9-513DHecAT80ZxEhZeQqBc0YqGyebFFJqJn5rjo5baNSFPyB7Wgc6-JL3L_gfDiOJsPhYOt2cgNE5c5z7I=s1000"
-    width: 1000
-    height: 667
-    isCached: true
 
 related:
   - title: "German Court Says Tesla Self-Driving Claims Are Misleading"
@@ -74,6 +68,22 @@ related:
         width: 2500
         height: 1235
         isCached: true
+  - title: "Still a long road ahead for self-driving cars, despite Tesla claim"
+    excerpt: "The road to fully self-driving vehicles remains riddled with obstacles, with years of refinements likely needed despite Tesla founder Elon Musk's claim to be able to produce one this year."
+    publishedDateTime: 2020-07-10T20:13:00Z
+    webUrl: "https://timeslive.co.za/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/features/2020-07-10-still-a-long-road-ahead-for-self-driving-cars-despite-tesla-claim/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/D9-513DHecAT80ZxEhZeQqBc0YqGyebFFJqJn5rjo5baNSFPyB7Wgc6-JL3L_gfDiOJsPhYOt2cgNE5c5z7I=s1000"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "German court bans Tesla ads over self-driving claims"
     excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
     publishedDateTime: 2020-07-14T14:24:00Z
@@ -106,17 +116,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "How Tesla’s Self-Driving Initiatives Add Value"
-    excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
-    publishedDateTime: 2020-07-13T15:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "German Court Bans Tesla Ads Making 'Misleading' Claims About Autopilot, Self-Driving"
     excerpt: "Tesla will no longer be able use phrases such as “full potential for autonomous driving” and “Autopilot inclusive” in future ads in Germany, a Munich court ruled Monday."
     publishedDateTime: 2020-07-14T16:48:00Z
@@ -145,6 +144,6 @@ related:
       domain: infosurhoy.com
     quality: 35
 
-secured: "EVvCq4V47X+gfGODeQxYfYUqPIvpBpqf1TRBJzORenU/o+eX5hQhqrMo9DVXOsXCnPuu1sy3corAqUzM0jBWaGklRd2wKgazSMxIaLszrFTt+GqO+dtrlTTSy9POxBjb3gMV04EC61+u5k8LCXKaBLNEJ0QDGSuOT4eF9ugCZ0z766IGePXLP46uasVCSR/dP6soYj8F9fM7ufVRkXVJPDPBpcbM/Nxtsz/3Vgm2ydwqt7k5rmEhq5OP+IIStavse+ePSEzHrHUjMgWsWrF8uqfYKGu2xmsQK9E7d5X1ouzd3tH4Ueb2jyUb0ELZpFW1EHeAo1HAqh5djkAebovSgw==;4eew8sgFZZR/kXN3QNuV2w=="
+secured: "FIHLDZuIc0o3Q8Gb1eSbTh4fg55S6QVO04hz+guq5wWJ4L03Se3qA7eEXP3jmKCOS6flFn2wFsCdaEB5kV/fB0B5IyGnRdi/3rIyH/MIQFRaRS/qrmGhY2eUEDSyhA1MNhrfIUAZLU06+eNBbJV0BFvK7WGQfd5KfXGsd+HNCacIaaVktAmXWQ2IuLBfV6U+REu+Tf4ERnqp5TM+z0nvn27CgBquHboie6BEgBDHnO6CP9bzpWTmayE5QW7CbWxB5U2ck+LrDNVT0o+LHFdLDN9QoLJ2TXWNSu0kPH1oa1rFe3uAuf8Qtkus6h76f97kFReQdn3MaVwMw8dqS2S2KxOYKV18fArwwLKajVt38EnFMQgsQx0OEjnYe4HOQeczgj9A0D+/MuUxxsBUjMo4LWaH9m/SUCluK3f1Kc8rp5XSNh10H6RNW0xsqHmtCbQE2SeyFWbdhO8yErvYGTztpNJrqMw6YRlqLpBphHo+qlaURaNjy3CjFuv/bqPPsze1fT8rKL955Nr1X3nYyJouEg==;BL0y6fv2HU5lznokMyJqAw=="
 ---
 

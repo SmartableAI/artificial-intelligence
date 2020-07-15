@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T17:44:00Z
 webUrl: "https://menafn.com/1100475872/ASM-Group-of-Institutes-Introduces-AWS-Educate-Cloud-Computing-Curricula-in-MBA-PGDM"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Indian Institutes To Teach Cloud Computing From AWS"
-    excerpt: "AWS Educate has been offered to students as optional or supplementary learning in higher education institutions. Based on the successful adoption of AWS Educate and value offered to students, the high"
-    publishedDateTime: 2020-07-10T10:02:00Z
-    webUrl: "https://analyticsindiamag.com/indian-institutes-to-teach-cloud-computing-from-aws/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/AWS.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "ASM Group of Institutes Introduces AWS Educate Cloud Computing Curricula in MBA/ PGDM in Emerging Technologies"
     excerpt: "The ASM Group of Institutes has announced that it will adopt cloud computing curricula from the Amazon Web Services (AWS) Educate global initiative into its mainstream college syllabus to"
     publishedDateTime: 2020-07-14T07:35:00Z

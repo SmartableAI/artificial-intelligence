@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T14:32:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14"
 type: article
 quality: 38
-heat: 38
+heat: 58
 published: false
 
 provider:

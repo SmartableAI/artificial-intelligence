@@ -5,15 +5,15 @@ excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business 
 publishedDateTime: 2020-07-14T13:05:00Z
 webUrl: "https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html"
 type: article
-quality: 20
-heat: -1
-published: false
+quality: 22
+heat: 22
 
 provider:
   name: PR Newswire
   domain: prnewswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -22,24 +22,6 @@ images:
     height: 1095
     isCached: true
 
-related:
-  - title: "Is Artificial General Intelligence (AGI) On The Horizon? Interview With Dr. Ben Goertzel, CEO & Founder, SingularityNET Foundation"
-    excerpt: "Is AGI really around the corner, or are we chasing an elusive goal that we may never realize? Dr. Goertzel believes that we are now at a turning point in the history of AI."
-    publishedDateTime: 2020-07-15T01:56:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 44
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e5f635de5350006a46cbf%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "GyZxcncVoWDEDLuwYgzgDayh4+yOLUupUnyw+NybtShk9Dy0xvA3LAjX3hD1Sp7HyGzC8fVt63xeL1nl26V7yiOsTyiZIUtMbt154zVkXQ2eE1Xm987gQRXHz/rG2na+1iSJ3md2No9kXw9ToqcEBOX7vTFaG0/2os4XzH+Rp1qW5nvk83ReDA6nftuS/a2hcQtfzkx8o1pon1mP1QSyQvdcQ8HtMazS+kiOsPMzD1tIRDrXenzy1g579WTsBdZksGCd8x/zbQg8bAcqDn8QZY6ZaljTpMsofHBhk16PHVhwcJRDHlC8OBrMtfVMir5Uv8PN3KKYVzhTcA8IWveNag==;RMaZ8e/CbzMC2pRDjraquw=="
+secured: "wYuqB15byVW8m7FlHwqQFhdIYlsLui/TImhGYhg3whqCJPpvgd8gqhsXYUpi/VC7QeDDIEiyr7iJ/L5OlSjErgEdPinLM5yAhnw0GbyhOG3a1iM7RKG3tCf6JTtF57igjpNKis8Caa/IXVtiBrDNIf6xHNEuauwr2HsHS6y35RisBPs0e+CKQ+f2cFrTFzJ9Q5GvAt/w4Dmfn4STzYkTxRhbzxVtFsG929wvRr969nnukOH6hQ5pHRWPYA8WIVYfPtdRV7f7XKFAyEkA5dYKiQAG7gEZG02cP2Qipmnwzc/vVMCoWLflmROBGtrui9HpRd6SQQRH38TcKRqj0kbDyg==;DZ9pKMVGIMwQsX4yNg3GFA=="
 ---
 
