@@ -90,6 +90,22 @@ related:
         width: 674
         height: 337
         isCached: true
+  - title: "TuSimple, Navistar join to develop self-driving semis for mass production"
+    excerpt: "The level 4 self-driving semi trucks being developed by TuSimple and Navistar would be able to perform all driving tasks and monitor the driving environment in certain circumstances."
+    publishedDateTime: 2020-07-16T00:45:00Z
+    webUrl: "https://tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.html"
+    ampWebUrl: "https://tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.amp.html"
+    type: article
+    provider:
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/fc/8fc8f6e1-5e5d-506c-af41-f001d0fece92/5f0f910a97019.image.jpg?crop=1762%2C991%2C0%2C92&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
     excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
     publishedDateTime: 2020-07-15T13:20:00Z

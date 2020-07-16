@@ -40,6 +40,22 @@ related:
         width: 1141
         height: 475
         isCached: true
+  - title: "Graphcore unveils new GC200 chip and the expandable M2000 IPU Machine that runs on them"
+    excerpt: "There is a lot riding on the use of artificial intelligence technology to help us take giant leaps ahead in solving complex challenges — whether it’s medical breakthroughs, building better cybersecurity or creating better navigation systems for cars and other moving objects."
+    publishedDateTime: 2020-07-16T01:26:00Z
+    webUrl: "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/"
+    ampWebUrl: "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "izhLsV6jEVZl9GxY3MFfX/1fKeVsVgCNE3xaG6jkWyVCrQqDfApgXMEa9igbPs5mmbLoWpuYTXwut6pSTAsWepjFF2RybEYaFMjMz2Hopj/yLoCs4UjUmA2MTyrpLEZPPjVRxv8kf7CRT1Zk54Hfmxq9DSffzQWASvLz5BN/TZMl6TGyypX4suuvvS5u7xDvJDeYkyZa5BOCcRTrIIcgCrFb+IXxoTkYvbDsXhIRi59kG80QVXZvZTzDTBDwyDC6RqJjdvG2ek2KoMyhOyJffhxp9tbBd1A1vp20H62Kjkz4bJI5WF0JQ71ECatFQkwdxRD/YAfzfeMwhKwGWmG3R+DHqqa+wOCoyN59dDL7hL5rSSJQ8Xy7umJje+AxGCsMQP3MwuqGj/FpYrHiYe8J58CMctqnlQt/7si8qMAFf7M684SGVmlGwJco4krv2vfbbldg3lZt12kwSEhWIQg/9ECNXL85eBlz9f6g67X1l0LZBomuDndePT/w8ZqVHRJ2UvpdamU4NZhetKFVbcJQsQ==;80aFtT8NUguyejPMPMYqNg=="
 ---

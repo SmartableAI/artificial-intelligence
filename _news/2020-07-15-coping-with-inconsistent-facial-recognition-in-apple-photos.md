@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-fa
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
+    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
+    publishedDateTime: 2020-07-15T20:20:00Z
+    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
   - title: "RealAML Launches Industry-first Facial Recognition"
     excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
     publishedDateTime: 2020-07-15T23:48:00Z

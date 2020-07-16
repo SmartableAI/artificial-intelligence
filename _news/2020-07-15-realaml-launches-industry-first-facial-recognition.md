@@ -36,6 +36,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
+    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
+    publishedDateTime: 2020-07-15T20:20:00Z
+    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
 
 secured: "OzneZkatO2mSqHuSQQ5KLjxvwABmGfT4C7cjxCCbxSfFDsS4ZEhFe0bg4L26rc1mJ8K99nCjBGwFT4DPaCTqIUq6li2W4upfuNzv0OVwc+5mel7ZTpPM9BgLl2fAP3Phmf429NA1lKAhM+6OWc7PJ32qzXIcYtaIdz3SxN5TiDuwUpqaX94g4q4cM4Htak+scHLgJE1N4kcU2wdNMuRXFLm4S09fWEuo165/pjbFYHGenzN4ovhsVGKUkJUPUASc/41NFlf6VOlFbiRzajHbPm2CWMbfWz1Ebvkljfpe59uJ5nGVm376LTDYIAFu/S7Th0ZX1o0dKz49kqOK3T1mPA==;C/C1pcW4OGsSFSg1IeeyQA=="
 ---

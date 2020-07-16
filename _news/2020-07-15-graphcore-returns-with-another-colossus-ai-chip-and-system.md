@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-ret
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Graphcore unveils new GC200 chip and the expandable M2000 IPU Machine that runs on them"
+    excerpt: "There is a lot riding on the use of artificial intelligence technology to help us take giant leaps ahead in solving complex challenges — whether it’s medical breakthroughs, building better cybersecurity or creating better navigation systems for cars and other moving objects."
+    publishedDateTime: 2020-07-16T01:26:00Z
+    webUrl: "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/"
+    ampWebUrl: "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 81
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Graphcore announces second gen AI chip, Colossus MK2"
     excerpt: "Four of them together in a 1U M2000 delivers one petaflop of total AI compute, the company claims ... the found that the IPU was \"a clear winner in single precision against Nvidia’s V100 GPU (per-chip comparison),\" but while it \"delivers higher ..."
     publishedDateTime: 2020-07-15T11:21:00Z

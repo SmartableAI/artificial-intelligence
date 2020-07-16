@@ -5,8 +5,8 @@ excerpt: "Artificial neural networks (ANN) are the algorithms typically used for
 publishedDateTime: 2020-07-15T23:13:00Z
 webUrl: "https://www.embedded.com/the-role-of-artificial-intelligence-in-autonomous-vehicles/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2020/07/07ah1_f1.jpg"
@@ -23,6 +24,6 @@ images:
     height: 463
     isCached: true
 
-secured: "zEi8I5CHyjxlGPdacRhY1mjJcOGNudC21G6gqf1GmFvnYlRfm6j+4M/rbfeedin9q0MiM7Ul72QHF1MiVc5vQcgOOvMneG9nZX6BA6ASffP//+ryoS3QqowUwsrF0Rd1RR084kHCLjs7tGuZLcTfHDVh/VQwZNDU9SQdFS0FVyzZqbgjnL8suzovyoZdekJ+UgaU7hXN20HfQve2ErTMQAYJRq3IgmCVVLfuN+JKe9aHlxByEOLX8Dng6p412chNWFYBlJDG6oSuxeoY3KF4GcqWcdOKx1nj+3qZ7qtYP26EXNkYmdIu3icA6+A0u1J0NJBmZGmKVwqu0mIVPX5zEw==;qh0gJuTZK9uOCWqemaHhuQ=="
+secured: "IvEpTe/rG/MJR+8KAnWjNewlq0uYPxEjYdDj5oQc0C7ccYALD3ZJ/ShPESAPuk2Kn0BaKiSH39QGqekFYWC8T+cFVGC2FOg0XIy5aenMFNjNw5tQC2Up2FossS8jdHTNilFh1WJ0U+1s/1gMbKJztF0+sUGUR2Wp/QB1P6tRanAKy7hWlce0n4Dl7k02ke/JUNd5r3DQvoVrdIaMh/hBiIXcn+RdWYLRmcsKb/rKmtJZYYfzRhhJTGludF1peKTt5RwFxkCHww3XAFFkkBvqeaGwNQjVCkmi2v5rd81ZNEsRlwfn0ZeKZgM0GDYP9EfvzP6Ssh5WnK6WYVH0NxcEA8KbVmno1O1kB0qpEJZOzq9s6hGUyCwRHHva/WyKUcHt+myIBQZagc8DoxFVb+qpQ7k9cLwSBMb8rVQ6RQn73vr27BsaMWYP8Uu4GDKWGEZSYZdbvPjxLZva7gYSTdjUzMnydjIOhZx19CvMWR/iBdH7g5NKoQpLhidEd7ZUsSGgxVktdjOgdvkPKEhvHFlX0A==;msm5pUVW5Y7cYtKSGUbwUQ=="
 ---
 
