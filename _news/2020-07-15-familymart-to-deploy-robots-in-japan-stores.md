@@ -70,6 +70,20 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Kangaroo-like robot to clock in at Japanese convenience store"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-16T02:43:00Z
+    webUrl: "https://www.itnews.com.au/news/kangaroo-like-robot-to-clock-in-at-japanese-convenience-store-550536"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-07-15T143435Z_1_LYNXNPEG6E14X_RTROPTP_4_JAPAN-TECH-ROBOT.JPG"
+        width: 1000
+        height: 708
+        isCached: true
 
 secured: "wLMSKM7gNBJRRUZ2vULXHcgqJTAwMSupYuL/GqZp0qeOAgmAFSGkYDdNbT5eWd9n5J8s0Q/DJLTo50YjSummKyi25CszJV+m5AYtECVOeLzuPeSFw4UpwpequxwPxNl5RoX+qhUCauZmpyCNJBgG2j6LwYO1coSh+2BWr4c63X7TEbmQhGGhm+whE3hC3GS/Siwy0AKmb70H1Vh11yKLNgpTR3RIPwIg0f6dEu/0MfDmh3Gs5OHiXYhzyQzVx8XQDf7U9jJ/R4Dt3Py1hPZsYvoJF6vwI1jC13AmxVyrL2s/fC3TE5xkbUNUIPy9O/Hb/vArRV421o267/mvZS755w==;TnZX3PMt3pcc2IGy58PDEQ=="
 ---

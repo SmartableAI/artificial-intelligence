@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis"
-excerpt: "\"This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,\" said Naman Shah, Co-Founder & President, Sentieo. \"Using our leading deep learning models,"
-publishedDateTime: 2020-07-06T10:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-2020-07-06"
+excerpt: "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,"
+publishedDateTime: 2020-07-06T10:20:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -18,12 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "mG0uBd1tyr4Wi4uEIezvzS72iepeOmlsiP2oGgH7xeKdLDtvz5e5A0jkP5nb6txpJZLm1cDQNNZSMzKpRYwKkHBK5hseiiUf3VMLmzUZRpCOGb+OwROHnLnBmqB+00V9y0N8x5DxHnS33tCuxBzsCSjyVbjLidt//zHKRYnUE0KofuJXFm5XDEBTqFLdlf4LZHnxdxtyINhrOUjSW2vJhvPH4TTfzWsJRvA5Xm68Jtc62qnhTNqiFCJM76RcOScg5PJlZeBQccaaufNtA9HJneSblLG/B3CMmW0ZXP8ZtM7EghJ2I8JIsqkjRaoego7qBUvLbVA3pt6YcBShVa1Msg==;H/8izRstgmpQm19UJ6hwcg=="
+secured: "kazlB04i/HEePls9fesnLjLNGQaAccalyA6BYC5/GIImc1GoxhuGrq6MvgFYavLcruq5Gh5VF8ydD33Dm1RQ9yT2CeWgo4Ckn/qJooDL3wkG6mlKT6NvSBmCG54YVH6r4u48KUqZgNhw3oYqGqsQYCpZOyBx33RCpIZFt8PrQUzl66AdjoGP+mATv7kWMv/Rfhz7K71zc8anuFEzfWufcRHupuSas6SxY7PA5D65J0dw6w2z+xHYP3CcA7XpRy76Z0CakXXjCfaPMXCuznxkEt4MeR11YL+9eSWkImoHTVOZ5jlMKahuHx5+a+GhkF6cYYfc1KvbZ7LxHYg4NsgVMQ==;XEhCkfpHV15iEQU3qAKXjA=="
 ---
 

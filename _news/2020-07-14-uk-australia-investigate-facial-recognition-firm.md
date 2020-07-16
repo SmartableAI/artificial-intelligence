@@ -161,17 +161,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Clearview AI’s facial recognition database shut down in Canada amid privacy probe"
-    excerpt: "Controversial facial recognition company Clearview AI has ceased its operations in Canada after federal and provincial authorities launched investigations into its activities."
-    publishedDateTime: 2020-07-11T11:00:00Z
-    webUrl: "https://www.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
-    ampWebUrl: "https://amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
-    cdnAmpWebUrl: "https://amp-heraldsun-com-au.cdn.ampproject.org/c/s/amp.heraldsun.com.au/technology/clearview-ais-facial-recognition-database-shut-down-in-canada-amid-privacy-probe/news-story/b78bfd0f2488f66488473fa55af39d3b"
-    type: article
-    provider:
-      name: heraldsun.com.au
-      domain: heraldsun.com.au
-    quality: 49
   - title: "Farnek adopts new contactless face recognition system"
     excerpt: "Leading UAE-based technology and sustainability-driven facilities management (FM) company Farnek has implemented a new contactless face recognition system to measure the temperature and monitor the attendance of its employees. The technology has been ..."
     publishedDateTime: 2020-07-14T14:24:00Z

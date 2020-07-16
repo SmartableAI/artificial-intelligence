@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/</loc>
+    <lastmod>2020-07-15T19:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6</loc>
     <lastmod>2020-07-15T17:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -331,6 +337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/aws-and-hsbc-reach-long-term-strategic-cloud-agreement-2020-07-15</loc>
+    <lastmod>2020-07-14T15:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/unpacking-ais-power-and-its-controversies-at-transform-2020/</loc>
     <lastmod>2020-07-14T14:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -355,7 +367,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -777,6 +789,12 @@
   <url>
     <loc>https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/</loc>
     <lastmod>2020-07-11T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/06/b16449200/capella-space-goes-all-in-on-aws</loc>
+    <lastmod>2020-07-10T17:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1299,6 +1317,12 @@
   <url>
     <loc>https://www.gizchina.com/2020/07/08/qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost/</loc>
     <lastmod>2020-07-08T10:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.webindia123.com/news/articles/Health/20200708/3589229.html</loc>
+    <lastmod>2020-07-08T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1855,14 +1879,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html</loc>
-    <lastmod>2020-07-06T03:03:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206</loc>
+    <lastmod>2020-07-06T03:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-2020-07-06</loc>
-    <lastmod>2020-07-06T03:00:00-07:00</lastmod>
+    <loc>https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html</loc>
+    <lastmod>2020-07-06T03:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

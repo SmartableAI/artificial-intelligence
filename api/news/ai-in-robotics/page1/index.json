@@ -110,7 +110,7 @@
       "webUrl": "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -239,10 +239,10 @@
       "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
       "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing",
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 116,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -281,8 +281,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {

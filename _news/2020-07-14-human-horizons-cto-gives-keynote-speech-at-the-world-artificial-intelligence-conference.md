@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Human Horizons' CTO Gives Keynote Speech at the World Artificial Intelligence Conference"
-excerpt: "This year's World Artificial Intelligence Conference '(WAIC)' has the theme of \"Intelligent Connectivity, Indivisible Community\"."
-publishedDateTime: 2020-07-14T13:25:00Z
-webUrl: "https://www.prnewswire.com/news-releases/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference-301093085.html"
+excerpt: "This year's World Artificial Intelligence Conference '(WAIC)' has the theme of \"Intelligent Connectivity, Indivisible Community\". The conference is a \"high-level, international, professional, market-oriented,"
+publishedDateTime: 2020-07-14T15:07:00Z
+webUrl: "https://www.autoblog.com/press-releases/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference_23784/"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1214222/Human_Horizons_Mark_Stanton.jpg?p=facebook"
-    width: 1920
-    height: 1005
-    isCached: true
 
 related:
   - title: "Key Highlights From The World Artificial Intelligence Conference In China"
@@ -38,6 +32,6 @@ related:
         height: 626
         isCached: true
 
-secured: "7THcOBQDXWnmQV3GXb1WqicQxoo+Xwv+rO8gi6h0W039RymDQPScogSpm884w4TLmXpY1Tl/D55MzNPWLMZA5sfrQuBLd12WBTTAhu7DlZgphkc0c0YBMXcYIhHVYIOdZzUrmBIe1W36j9YUhD+T2BiR1BHRYQccMwDy9jBFGKXcp80b5+v0AW7aSk1h/R/yjeKcJjuN8HGbeZiayqvl0zBfqmZ4xKCU/reLkBRC2uf/8xZ88paEW8RnWj6F2okX7zis+NymtJ/Bs4vukUheYis81MN0Ybv5tCRR7kG0FK/xSzXd5aYH45uMW7k3BTfshRrJI7rGNB6hZ8JZD23stXh8Kt+G1vxUOUSelNaeAYj3eD2FZwt3/+MFwbsg++jgg8i62OD2Eo0iMCEy4+SjZTN1+SgXHFlPvdGKH75/qq+XtvziaWvHJ5q3oS6GIB5dwyNn99oR4DTPTjwSmclNadYo+BYloBLSrtmnoq+d0ZT+0E3hCG7XTsg5+D1QwZji8Pt4n2aG3DZjvQVFgDWKqw==;sFcOQfdRnqxUqTjL/TKhAQ=="
+secured: "fY/D9jCjmyWlVtsJ8Vm09X9SPyb8gAYUm1c9Zv1Sa1vOnaNIHrCX+YbOCv/m1XDk1AVpyq3T2v8cF6l42Bbsq6YIIXZC8oBYBpsSvStkYUdTGg7fOJziDdVcNbbk4Jt94r4KqBXuOH9B5uUmjlDUWVb9lwm2UeX8PnAbw0lG8Dibnrl0LAxGs5qOrvrZY7OUK1WZ7swtUCZHet0zLQMcoA07eIRngLdfH07o9pMD5js6Ym/ZHojvW6ySX+j78oDT94LX/RHzLBIgvky/rjfmiY3iP4X9jVGjjEByBIBvdHoJs0+Nym7BbGA/YA4AEFHxOtLVQn+o933upCkwksXSAQ==;0mKk5qR+t8w3gEgEJiJjNA=="
 ---
 
