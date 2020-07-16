@@ -7,7 +7,7 @@ webUrl: "https://scitechdaily.com/is-what-i-see-what-i-imagine-neural-overlap-di
 ampWebUrl: "https://scitechdaily.com/is-what-i-see-what-i-imagine-neural-overlap-discovered-between-vision-and-imagination/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/is-what-i-see-what-i-imagine-neural-overlap-discovered-between-vision-and-imagination/amp/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scitechdaily.com/images/Ibis-Seen-by-Computer-777x518.jpg"
@@ -58,22 +59,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Is what I see, what I imagine? Study finds neural overlap between vision and imagination"
-    excerpt: "\"There's this brain-like artificial system, a neural network, that synthesizes images,\" Naselaris explained. \"It's like a biological network that synthesizes images.\" The Naselaris team trained ..."
-    publishedDateTime: 2020-07-11T06:36:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-neural-overlap-vision.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-neural-overlap-vision.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-neural-overlap-vision.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/iswhatiseewh.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "The Line Between Vision And Imagination Is Blurry"
     excerpt: "To explore this question, researchers used machine learning and insights from machine vision, which uses computers to view and process images. The researchers trained this network to see images and then took the next step of having the computer imagine images."
     publishedDateTime: 2020-07-13T17:02:00Z
@@ -89,6 +74,6 @@ related:
         height: 667
         isCached: true
 
-secured: "ks+/sNhVMOqwgpRMqCrN/hxX8A6wxiq49TJE1j5qJ2yAZiG0SQyhqokhKpXNodjzz5bVo5zkgJYtI+rwZ4+7TdeBT1teyyrx7E39hAwYWeQSL5jG8idQ0MVFbWp8sh3Fxrr10Oi24q0wtNf4WpHipzinQBX+6mTXMzuNkSG9SqY8i3y7RbKpd7jdtq20DTOtAbTGGfrMjp673gGowZZ5ofySIz/uyuDz9vAookn9HsiFLW+RRXfdZjyBJdHQPnFbFhfWmK7Y/EDUt3AiElns5ZnyQis38WWCp70h6zyuvlGohoAOdaBMnBT74HiGOxIHYvYSYmislrOTSUwvONBicw==;EYlQ0lkYQs6byv1QaxeUng=="
+secured: "ME/4pPLaj8nW/xFDl7KpafPnP+7R2lvfuXn/n7RrOPTSnhDnkoBZDYpcaP4k1rxRDlai4UcKo87HHllLI4Aw/n+MQgMvTYa1xexIcSTUMyZ9YZU6O3vCTlj6YL2xzhGjLWkxQTLFacr+jd9wcxtqH9IUzV3i+pty0hBVRiQGzeKoFiN8QohLs7FcLNeJQMsP/UmCE2YRDogp2F6KgPcXezLKR1G5Hb/zuTS5/jg059fgA9S2pJTKYdZ8tKQjf0t7l1SRp/IVYlkCWf/I44xlbKM6hxNYhmJnan2gnJBsEhfjbb5nomNzLFMH/UCLv0EvKzqJ7zaoBzfEAJI/ik9gnnW6mOUv36C0kMZEVm90wPUAWUgDhTYVJi8b5M78k/v1l+mRgWCQrH3yhGpREMp8RsnCQeAXBGdwG+ey0VBx/AKMG1qV2A6m5PErHWttJ4ZI8sKPhkeEf88UIxNw0inncc1A3RbmUJPSgBlqFpy4+VEN997ZPuWCdVZtS7P0ysZRie7v8+bj6BpPo/78u0CzlQ==;LhVnN5ZvpkvQoCP/eeysqQ=="
 ---
 

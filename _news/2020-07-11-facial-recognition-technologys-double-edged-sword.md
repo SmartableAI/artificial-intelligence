@@ -68,22 +68,6 @@ related:
         width: 950
         height: 629
         isCached: true
-  - title: "Black lawmakers call for ban on police use of facial recognition technology"
-    excerpt: "The ban on the use of facial recognition technology is one measure in a package of proposed police reforms announced Wednesday."
-    publishedDateTime: 2020-07-11T06:26:00Z
-    webUrl: "https://www.usatoday.com/story/news/local/michigan/detroit/2020/07/08/facial-recognition-software-police-michigan/5397596002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5397596002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5397596002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 57
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b1f0081c112157665f51305e396b4bb092b9ae31/c=0-202-3474-2165/local/-/media/2016/06/15/DetroitFreePress/DetroitFreePress/636015740602342535-MSP-1219-troopers.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Dimond: The double-edged sword of facial recognition technology"
     excerpt: "On the television crime drama “FBI,” Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
     publishedDateTime: 2020-07-14T04:00:00Z

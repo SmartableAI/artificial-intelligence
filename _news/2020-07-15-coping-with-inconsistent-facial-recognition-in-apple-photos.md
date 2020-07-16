@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-fa
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "RealAML Launches Industry-first Facial Recognition"
+    excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
+    publishedDateTime: 2020-07-15T23:48:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
 
 secured: "2KsxRa4o5GgpuzviN5eSjUD6TvlXIT57gnkclNoo7sOmIJPDuviJzFZjczluxMN4vjlvLrKH00SvfNgUKungwHd6b7LzElUL5lfzDrOzr/bTTeDwK7Zxexn062NIc13DlFWprwn/F0tySrvkaiD77ShCmkVoMUJzbPftn8XtWIWywMCcDlImvRIz0iA2s4+l5Z0tyW1O/R35GKju9Z7BFvq9qV7LreoXS9wnRd7DrwvOmGciwE/rTF0kPgmMuL6ws/AOGWwopggFhnWsmfpGL9s63gv3mXS/mkKsPiVzdu+2okEC1/PFXzvU7U3Lb1lzp52IIcTpodOwXyniYD6q7A==;GAs3Py/t5KY1Zp26kXrKqg=="
 ---

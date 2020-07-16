@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-13-todays-ai-productization-challenges-demand-domain-specific-architectures.md",
+      "title": "Today’s AI productization challenges demand domain specific architectures",
+      "excerpt": "Most newly emerging AI chips have strong horsepower engines, but fail to pump the data fast enough due to these three inefficiencies. Let’s zoom into what DSA really means for AI inference.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/computer-chip.GettyImages-1091383908.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/todays-ai-productization-challenges-demand-domain-specific-architectures/amp/",
+      "publishedDateTime": "2020-07-13T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-salesforce-chief-scientist-richard-socher-leaves-to-start-his-own-company.md",
       "title": "Salesforce chief scientist Richard Socher leaves to start his own company",
       "excerpt": "Take the latest VB Survey to share how your company is implementing AI today. Richard Socher today ... scientist at Salesforce to create his own startup company. During four years as chief ...",
@@ -909,7 +959,7 @@
       "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1359,56 +1409,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-teslas-approach-to-self-driving-technology-is-completely-different-from-its-rivals-see-how-it-works.md",
-      "title": "Tesla's approach to self-driving technology is completely different from its rivals. See how it works.",
-      "excerpt": "Tesla CEO Elon Musk is confident; last week, he said Tesla could achieve \"level five\" autonomy this year — meaning no human intervention required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f09d58c988ee30da759c364?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp",
-      "publishedDateTime": "2020-07-12T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

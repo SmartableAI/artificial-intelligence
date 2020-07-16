@@ -43,22 +43,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Is what I see, what I imagine? Study finds neural overlap between vision and imagination"
-    excerpt: "\"There's this brain-like artificial system, a neural network, that synthesizes images,\" Naselaris explained. \"It's like a biological network that synthesizes images.\" The Naselaris team trained ..."
-    publishedDateTime: 2020-07-11T06:36:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-neural-overlap-vision.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-07-neural-overlap-vision.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-neural-overlap-vision.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/iswhatiseewh.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Is What I See, What I Imagine? Neural Overlap Discovered Between Vision and Imagination"
     excerpt: "Medical University of South Carolina researchers report in Current Biology that the brain uses similar visual areas for mental imagery and vision, but it uses low-level visual areas less precisely with mental imagery than with vision."
     publishedDateTime: 2020-07-15T15:56:00Z
@@ -69,7 +53,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://scitechdaily.com/images/Ibis-Seen-by-Computer-777x518.jpg"
         width: 777
