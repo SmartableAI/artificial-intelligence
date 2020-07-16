@@ -2,6 +2,98 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
+      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
+      "publishedDateTime": "2020-07-01T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
+      "title": "Ethics in the Balance: AI’s Implications for Government",
+      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/taskforce1.jpg",
+          "width": 940,
+          "height": 630,
+          "title": "Ethics in the Balance: AI’s Implications for Government",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
+      "publishedDateTime": "2020-07-01T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-how-to-use-the-new-ai-driven-nextcloud-inbox.md",
       "title": "How to use the new AI-driven Nextcloud Inbox",
       "excerpt": "Nextcloud Mail users will be thrilled with the new AI-driven inboxes. Learn the ins and outs of this new feature.",
@@ -1066,79 +1158,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-process-management.md",
-      "title": "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management",
-      "excerpt": "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16464333",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333",
-      "publishedDateTime": "2020-07-01T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
-      "title": "Lyft’s driverless cars are back on the streets of California",
-      "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
-      "publishedDateTime": "2020-06-30T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

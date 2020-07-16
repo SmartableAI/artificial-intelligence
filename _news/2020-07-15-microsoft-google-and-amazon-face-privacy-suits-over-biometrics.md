@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Illinois residents sue tech giants for violating facial recognition privacy law"
+    excerpt: "Steven Vance and Tim Janecyk — have filed a lawsuit against three tech corporations including, Microsoft, Amazon, and Google’s parent company Alphabet, TechCrunch rep"
+    publishedDateTime: 2020-07-16T07:52:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/news/world/n6awi2/article32099795.ece/ALTERNATES/LANDSCAPE_615/BL16FR"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Tech Giants Face Privacy Suits Over Face ID 'Arms Race'"
     excerpt: "Technology industry behemoths including Amazon, Google and Microsoft are engaged in an \"arms race\" to develop facial recognition products that has involved stepping on the privacy rights of Illinois residents,"
     publishedDateTime: 2020-07-15T22:28:00Z

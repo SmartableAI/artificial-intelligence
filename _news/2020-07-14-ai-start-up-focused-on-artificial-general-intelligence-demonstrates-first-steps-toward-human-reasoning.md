@@ -5,7 +5,7 @@ excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business 
 publishedDateTime: 2020-07-14T13:49:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Is Artificial General Intelligence (AGI) On The Horizon? Interview With Dr. Ben Goertzel, CEO & Founder, SingularityNET Foundation"

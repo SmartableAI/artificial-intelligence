@@ -7,8 +7,8 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/a-new-tool-translates-4000
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/a-new-tool-translates-4000-year-old-stories-using-machine-learning/article32098001.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/a-new-tool-translates-4000-year-old-stories-using-machine-learning/article32098001.ece/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.thehindu.com/incoming/ykkm8z/article32098005.ece/ALTERNATES/LANDSCAPE_615/HieroglyphsJPG"
@@ -25,6 +26,6 @@ images:
     height: 384
     isCached: true
 
-secured: "cPb77ojasZeTD8uhnt7P8S3uSC/y/jqM6e9b4Efmihcz4ypI5QScbbO8t0FPBjfj1ihzA23ZF8/EDw5ZcMGVNw90xWMPBBnO6VXQUZVIXa/KL/54AKIe+21xdK5s5NuDcgV8lA0mQ9W+KueznU5TcYjrIM9Ip7f3yZj/Uzm0AHXBgbPb2uab0dFqbhai8iRlyXWzocbmzErRj1XLL6mY9f9bSRxiMboiJxER6ocaqVJuotkCTm4W/E5/AozoXIZLlSu3ZMkQeyu0iJ0P7o6qT0NYmmOp+I5D6HsCRI+iAgCMevUIQXSFE4mu/aKQvXS+XHl1vAKnTAjAy1Q5kcYIpg==;W1i8LD5KcyX8F7eAQZRoOA=="
+secured: "zc3Kj+5hUF8Vkh0xUUnjRNj7FoizQOa9N+i3vLOB7TwZtndjlZMhSZ3y3QzkNRDqrHK2x4CzPFHRHcG0Yrfdy52cQOwn/x8rdKyIO6CuqZGIR1JGdmGvW23dBBrLMPkpBL4Pvos20CSojBIDai0zAkRvkuWZxfgaLVbNCfRpJ68gHxuOXSi4UOrBvOtarR0LrklfiDgcmuc3QnIGGwFt3cG3A91E2TmeW7YbQgYDSI691LggUrPGA3TvIgq3PeuLxZr6yhp0mJ4gicG4xM2S2Tep82FATqs517gq3vBxF2YAbbGuKARIylcUWGBsn7LludxgQVUtErp1U1uCXm/ype50+eL9Snyk6K5Uv/3HhgUKN135ZtfO1rStUo6w2oeHRwj6eaVcQv3MAZKRo956mBA9C1mvPZXrHusBbLSCPRY7p7tcgJ9mmW3XcAAMOmMVe5HDT+wRVghj9VsWEWezAOBSb5QRyM211xuLdM5hIvhO48tvd5C40/l961W8xEhZHwIitX0ScEYuDTZSttG3wA==;TBUp4J2qBmzxc+WxaqEhzQ=="
 ---
 

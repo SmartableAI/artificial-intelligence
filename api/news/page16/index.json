@@ -2,6 +2,107 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-02-where-insights-meet-privacy-privacy-preserving-machine-learning.md",
+      "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
+      "excerpt": "As the rise and adoption of AI/ML parallels that of global privacy demand and regulation, businesses must be mindful of the security and privacy considerations associated with leveraging machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
+      "publishedDateTime": "2020-07-02T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-fraudscope-raises-7-million-to-tackle-health-care-fraud.md",
+      "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
+      "excerpt": "Venture capitalists are betting that startup FraudScope can help health insurers combat fraudulent claims, which cost them billions of dollars and are a growing concern because of the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/fraudscope-raises-7-million-to-tackle-health-care-fraud-11593682200",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-205009/social",
+          "width": 1280,
+          "height": 640,
+          "title": "FraudScope Raises $7 Million to Tackle Health-Care Fraud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-02T04:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-eye-doctors-getting-more-calls-about-computer-vision-syndrome.md",
       "title": "Eye doctors getting more calls about Computer Vision Syndrome",
       "excerpt": "Some eye doctors across Eastern Iowa say they are getting more calls as the pandemic is forcing more people to work from home, staring at a computer all day. It’s causing what they call Computer Vision Syndrome.",
@@ -1077,98 +1178,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-self-driving-cars-will-buyers-come-if-you-just-build-them-maybe.md",
-      "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-      "excerpt": "The first self-driving cars began to appear in the 1980s, so why aren't we all riding in them by now? Adoption levels of autonomous vehicles and other types of robotics and automation was a research project recently undertaken by MyPlanet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/06/07/81cdc6b1-4565-4a21-928e-3f9b8f1d7db6/resize/1200x/280ef93d6a5093f84a9f42d177b231c0/istock-953480702selfdrivingcar.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Self-driving cars: Will buyers come if you just build them? Maybe",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/self-driving-cars-will-buyers-come-if-you-just-build-them-maybe/",
-      "publishedDateTime": "2020-07-01T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-ethics-in-the-balance-ais-implications-for-government.md",
-      "title": "Ethics in the Balance: AI’s Implications for Government",
-      "excerpt": "As automation becomes an ever-more viable tool for government for everything from cameras on light poles to using AI to set prisoners’ bail, can policymakers ensure it is used responsibly and ethically?",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/taskforce1.jpg",
-          "width": 940,
-          "height": 630,
-          "title": "Ethics in the Balance: AI’s Implications for Government",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Ethics-in-the-Balance-AIs-Implications-for-Government.html?AMP",
-      "publishedDateTime": "2020-07-01T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

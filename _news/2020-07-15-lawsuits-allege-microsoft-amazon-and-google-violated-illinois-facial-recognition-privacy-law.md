@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-j
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Illinois residents sue tech giants for violating facial recognition privacy law"
+    excerpt: "Steven Vance and Tim Janecyk — have filed a lawsuit against three tech corporations including, Microsoft, Amazon, and Google’s parent company Alphabet, TechCrunch rep"
+    publishedDateTime: 2020-07-16T07:52:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 55
+    images:
+      - url: "https://www.thehindubusinessline.com/news/world/n6awi2/article32099795.ece/ALTERNATES/LANDSCAPE_615/BL16FR"
+        width: 615
+        height: 384
         isCached: true
   - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
     excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."

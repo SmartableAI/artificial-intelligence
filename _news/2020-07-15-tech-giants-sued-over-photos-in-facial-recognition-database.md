@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Tech Giants Sued Over Photos in Facial Recognition Database"
-excerpt: "Steven Vance and Tim Janecyk have alleged that Amazon, Alphabet’s subsidiary Google, and Microsoft used photos of individuals to train their facial recognition technologies without taking prior consent, as reported by CNET. The photos were included in ..."
-publishedDateTime: 2020-07-15T14:55:00Z
-webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
+excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
+publishedDateTime: 2020-07-15T14:56:00Z
+webUrl: "https://www.cfo.com/legal/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
 type: article
 quality: 39
 heat: -1
@@ -39,22 +39,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "The growing fight over police use of facial recognition"
-    excerpt: "In light of protests for racial justice, facial recognition has come under scrutiny for how it's used by police, leading to IBM, Amazon, and Microsoft pulling back on this tech."
-    publishedDateTime: 2020-07-11T13:45:00Z
-    webUrl: "https://www.cnbc.com/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Amazon, Google and Microsoft sued over photos in facial recognition database"
     excerpt: "Amazon, Google parent Alphabet and Microsoft used people's photos to train their facial recognition technologies without obtaining the subjects' permission in violation of an Illinois biometric privacy statute,"
@@ -198,6 +182,6 @@ related:
       domain: theglobeandmail.com
     quality: 29
 
-secured: "Gsg/domu3+xitJcL4FNNK2bOrlQg1ld6Yl+MEBsrmuXNtc4q7mxf4WTZETLf2Bi3d8EJlTl6vtBPM0ePc+MvnjZZMZyvInqYv7Pp4FOxlFKAVRPOLEcl3U8x9r0stmozKjh1cKuM5BNSsMVeJcEZNUIDjoOp1N4Y/uRfN5UVeDYRIbHjTLhxVeljMzBmMofv5AwGbQIbB3s+rchOLmKhoXujCLQQSYzDidVGPzQSKVwwMCn2fanKQdFCfzEW1U6jgWflcSckfv/z1dFTfLh/i73uZ5pk6q1xQpL3INTSnt2wEPGKaoJuQsXqeS7mE4bUZjhy607pVMdUV0B8pEY1MurSIzzNTpKvrVIesU9l1IfKe7kwji5NsaxbB9nCjTghWrCaj0fgoR53LHXcXnN7I8MSGAZCMsKKn9cFNbiezET7eo1zWYxiHca535m+dDsBDZgechJoViShmyv2dVlf0k9gDu7tIkbMQ3dAfhQTS4IJ6vx7R+KbHfvCWqr4o6R2EVla1Z9iX3WcMKAPLGXvsQ==;lg7FwwhaASBKuXWOv2oeKw=="
+secured: "fp3N+EF+aAq4Jwv6qqDAS80fHf6s57qEl0W9Zf+WAAScGDZmeG7tZ9SqKVttQLA1esTfWxbsOdm8ztWP4aHsBS6iBmonRUXiK58BzJVhrQAwjp+TeCaMloYZ2FaV41yZ/stvImj7OD7Z6XKzf1f9sVqM84ADPW3xuQw4ciAMeu7WjhvJkvbCg8gQNjdW2XUYmmwzcLgp65W/6WNt/O66ciMwUJ7Nz3fzj4wFXwCicOoKfpK8PB1JDNvSvIO3ERirzwfPj7Xp+gT9OZs3CC/Mut3Zq2TCqRs2YzIB35Ml3aKBVpkZF5cUXuLRmNwh7av8A/HmgoGfhgh2/zKeFJDyVg==;gGqv9RnundQkWD/z4AnPbw=="
 ---
 

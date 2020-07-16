@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-r
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
 type: article
 quality: 102
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The growing fight over police use of facial recognition"
-    excerpt: "In light of protests for racial justice, facial recognition has come under scrutiny for how it's used by police, leading to IBM, Amazon, and Microsoft pulling back on this tech."
-    publishedDateTime: 2020-07-11T13:45:00Z
-    webUrl: "https://www.cnbc.com/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/11/why-police-usage-of-facial-recognition-has-come-under-scrutiny.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611584-1594417777535v1.00_01_21_10.still011.jpg?v=1594417922"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Amazon, Google and Microsoft sued over photos in facial recognition database"
     excerpt: "Amazon, Google parent Alphabet and Microsoft used people's photos to train their facial recognition technologies without obtaining the subjects' permission in violation of an Illinois biometric privacy statute,"
     publishedDateTime: 2020-07-15T00:28:00Z
@@ -177,9 +161,9 @@ related:
         height: 675
         isCached: true
   - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
-    excerpt: "Steven Vance and Tim Janecyk have alleged that Amazon, Alphabet’s subsidiary Google, and Microsoft used photos of individuals to train their facial recognition technologies without taking prior consent, as reported by CNET. The photos were included in ..."
-    publishedDateTime: 2020-07-15T14:55:00Z
-    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
+    excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
+    publishedDateTime: 2020-07-15T14:56:00Z
+    webUrl: "https://www.cfo.com/legal/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
     type: article
     provider:
       name: CFO
