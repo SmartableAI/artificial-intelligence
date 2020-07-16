@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-r
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
 type: article
 quality: 102
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -88,22 +88,6 @@ related:
       - url: "https://www.sify.com/uploads/clearview_AI_wiki_uhngcNdeegdai.jpg"
         width: 700
         height: 500
-        isCached: true
-  - title: "Using facial recognition to curb COVID-19"
-    excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
-    publishedDateTime: 2020-07-14T00:06:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
-        width: 640
-        height: 360
         isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "Office says it will complete a related investigation focusing on RCMP use of Clearview AI’s facial-recognition technology"

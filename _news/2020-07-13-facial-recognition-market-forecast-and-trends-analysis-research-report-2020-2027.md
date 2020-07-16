@@ -36,11 +36,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 185
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1577c1888ec0000690735b%2F0x0.jpg%3FcropX1%3D573%26cropX2%3D3130%26cropY1%3D504%26cropY2%3D2061"
         width: 1200
         height: 731
+        isCached: true
+  - title: "Using facial recognition to curb COVID-19"
+    excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
+    publishedDateTime: 2020-07-14T00:06:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 59
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "u1acUHq7thaUQx5VpDrNO3jEUJ5L8GlYhMyZTU5Mj+iGkg0sEHH/CRw0XWq7VZQaovTGucRSAOoFQ5b3QZAl4KtP3jcfdCjNI1Y6ROMn51K4mUsglKwKZB6oeq6nrbG+/ZbWu9hnfheaU6k2oWaJH+AznrwF995UUs0V3MoldCyQug5U2HdJ4TgwcQDdW9oyGk0VY7MrnghejELhmMauoJnuKES8+f8vHXZm4kvMe892h/VU/5bfTljvO+W657yVhoqI433vx03lEhnZXm+SNGk9mcsSrwv+mrGzwtekVdqot+2hO0ShVC4uu1EszURPghIviGnyC+h9LkP9r3fIiwP3dt6U65kGmB+pjsp9H32Ss9YQyX2qnAoCpS592TaJ2h6jwuvBKbgqU2NrdLWE32h2Oop0HoaNgULrGJHysBpEBSs2ZBYp7p2L+VJQi4ZD2jLAQJt7QXFtAVI2bnxUxGQf2zyVtZ+VYlb2khcvaU4RrBT1JdnhUi8tWgRODp1DBiP3eoUncf11E0TxTdG62g==;zzbC0DT7UtiP0gN+nZmS+A=="

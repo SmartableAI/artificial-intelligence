@@ -40,6 +40,38 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
+    excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
+    publishedDateTime: 2020-07-16T12:19:00Z
+    webUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool"
+    ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/translate-/translate-ancient-hieroglyphs-with-googles-new-ai-powered-to_5e6j.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Google Launches an Egyptian Hieroglyph Translator"
+    excerpt: "Google has come up with a new way to translate hieroglyphics, the ancient Egyptian language written in symbols and illustrations."
+    publishedDateTime: 2020-07-16T13:18:00Z
+    webUrl: "https://propakistani.pk/2020/07/16/google-launches-an-egyptian-hieroglyph-translator/"
+    ampWebUrl: "https://propakistani.pk/2020/07/16/google-launches-an-egyptian-hieroglyph-translator/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/07/16/google-launches-an-egyptian-hieroglyph-translator/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/660/cpsprodpb/178A4/production/_113402469_whatsubject.jpg"
+        width: 660
+        height: 371
+        isCached: true
 
 secured: "k7SfTEOC8d0ZjndBgsn27MP+i3ZNLmRR4TQZdF7fwoQ4/40+8utBINhW+drmAA1Cy7McO5R6krH+mbdZTUz1iBhBEci12KXwXHaIK4Cr2V/G/8Pmmbmbs51o3+FThyADDutg/f1rchivaPCYasj25dNuK6duUU6WMoRuzXpyOExdaKW89byK2u1HMMlcdS2hwac6NiLIxSMfILgrbxcqY8T97uslSqfVEZwo1B+eQUiXYHv0FFGzZSxIgqR6yqWPf6empAm9fsPzNrFyKnMikXeyiz6GzyAJVb74mxn38IhelgVZOzNJ8SKK8SU1NyqCnKRLC/wc2tyjrkjH02dfm4tSMn51fXf1M9Gn4Cj85BMvJwD21MjpOw8hm32pySd84wca8AhxcGnBoceWopot78aqdeuxw2+wK87XxUAWtBHTdLQJkHeZx7WhijgpUw0nEHxtCgcpxsftPqM/U8Mvo50wuzKiSt3W6Z6RS9r9R3LMuHDlFW25ZOme8Nc8Qi3LxDiIB8bLlKGOCOUWmhykxQ==;YYIZtUAvjTUBfR89WzRCrg=="
 ---

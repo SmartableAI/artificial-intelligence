@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning
 ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
 type: article
-quality: 85
-heat: 95
+quality: 185
+heat: 205
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Using facial recognition to curb COVID-19"
+    excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
+    publishedDateTime: 2020-07-14T00:06:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 59
+    images:
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
     excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
     publishedDateTime: 2020-07-13T15:51:00Z
@@ -47,6 +63,6 @@ related:
         height: 300
         isCached: true
 
-secured: "YHnIEMKrOVwT2DQdzSSmTTp5/13X2b4ZjYfxzBYBfJ+uhvX2U4O+c/uaA4BYxrOev0F5E+y5G+KEMU8mZh7rk5v5B1sUOIuyLSpYww6zgbQ/xTtxdTgJpG7swis/JOIZMHHifnrM50mgwNW9tIM3qFte22N4cVogVE4HGXEUefG9QuktjoCFnN95Y9wTCOSKzNRu/HjPHY//cU2FIQjFJpqi0oVcjZ5zy0dKlNixhbgbcP96EkTLmfbOkkXSG4ScGFqVdy7JrOG6h58eTflLYVSIKCtSt9gIJAPZ1zYvLE4pPfbm8CiDbfzAodZLBWGJgA2+TlCBZCq9qukIAY6zsTkf8+iis3W8J4n8m77Xn1J8JuVRREzTMuILoocQ/Eu2gMLNqZn0XwBtlCGhEzPIODMP+ySCoNYpy5L6WA/svSGm4gsJeeHRu6J+hG4LbXEd03rppdl5GIzofphZSXseKoutDjwJUTqUO5kPocLmT6l0M1LhL1IjyLGsYV/3G3XF;k2xGqqOtnz7IcFZ8GHnLyw=="
+secured: "VWE9kaQxsnV6bwvZZ0Xs2MBgB3fiV75x4GLZ2T1J3DZtIVmGekeJEZKLPulmx0Va8wYqi6YdexM/GGCeCfJW4bXUNAeKYwvEj/9QTLgUzUxiVe5KHC4D9JoA88Fg0KRp+aKbeNtdANo6tyl4cINBoIewBGMsTArPE3jvynpqXzU4VUDvOoIWvHJtMVnSS6kxWCr5T6O+FJHrxJz7ZnZv0DnHEX4IXL7RBHKC6JboXmuSYBIHr1NYCwxdraM3tLx4SsJ+0R3ezKQcAN2Yn8U1TvOFKeOUoOa+FNMmhVJ4gdjEFoJiRakK9kFVHJwrymxYY+Yv7RDgcl7kPTcrRUAIxzh/iYBiB8HkBttqx6VUdH9/YKw9hguWbFRQ2i4NfjgAEKwSn9cXfAV8r+6FLvVkb3XXHZX9OPoME87ybLJl1f2s8ah7K32dFFJyVUB70sHR0OmUy8n/PAyc4ZtwsxDv45bfBLVL0k+BroAt7bxdFY7gIV6nsm6PQ/f1FxK+NMnnxxYzPZ1YmaM16z/h0zRpkQ==;MfE3Itxs2JlO1+nUpN93AQ=="
 ---
 

@@ -1193,32 +1193,23 @@
     {
       "path": "_news/2020-07-08-imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices.md",
       "title": "Imec and GLOBALFOUNDRIES Announce Breakthrough in AI Chip, Bringing Deep Neural Network Calculations to IoT Edge Devices",
-      "excerpt": "Based on imec’s Analog in Memory Computing (AiMC) architecture utilizing GF’s 22FDX® solution, the new chip is optimized to perform deep neural network calculations on in-memory computing ...",
+      "excerpt": "Imec and GLOBALFOUNDRIES® (GF®) today announced a hardware demonstration of a new artificial intelligence chip - GLOBALFOUNDRIES.com / imec-int.com.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/imec-and-globalfoundries-announce-breakthrough-in-ai-chip-bringing-deep-neural-network-calculations-to-iot-edge-devices-1029377588",
+      "webUrl": "https://www.newswiretoday.com/news/173239/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 106,
+      "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T09:06:00-07:00",
+      "publishedDateTime": "2020-07-08T11:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1228,8 +1219,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {

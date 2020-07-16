@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53420320"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
+    excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
+    publishedDateTime: 2020-07-16T12:19:00Z
+    webUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool"
+    ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
+    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/translate-/translate-ancient-hieroglyphs-with-googles-new-ai-powered-to_5e6j.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
+  - title: "Google Launches an Egyptian Hieroglyph Translator"
+    excerpt: "Google has come up with a new way to translate hieroglyphics, the ancient Egyptian language written in symbols and illustrations."
+    publishedDateTime: 2020-07-16T13:18:00Z
+    webUrl: "https://propakistani.pk/2020/07/16/google-launches-an-egyptian-hieroglyph-translator/"
+    ampWebUrl: "https://propakistani.pk/2020/07/16/google-launches-an-egyptian-hieroglyph-translator/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2020/07/16/google-launches-an-egyptian-hieroglyph-translator/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 44
+    images:
+      - url: "https://ichef.bbci.co.uk/news/660/cpsprodpb/178A4/production/_113402469_whatsubject.jpg"
+        width: 660
+        height: 371
+        isCached: true
   - title: "Fabricius: this new Google AI tool helps you decode and write in hieroglyphs"
     excerpt: "This means that Fabricius won't work as quickly as say, Google Translate, which works on modern-day languages. Before the Rosetta Stone was discovered in 1799, there was no making sense of the Egyptian hieroglyphs. Google Arts and Culture Instead ..."
     publishedDateTime: 2020-07-15T15:34:00Z
@@ -45,6 +77,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Dmv7GbRyGhJqqkPOlM2R1JSD9Qu6gHpOetj/9FjJx4Ju3b/2f8hEiCuOyOohLYGxdGDP2H6S7YVunzLdCJLbewpgyNYh4F7ijBPrUVwoz7moEk11YsD9YuP7jM4vuFeC5tXjN8t/4K2SQ+/aTJ4oXOVAyNdv39ztZ/sVcGuXOjGvYmwm2w1oCRcGqSQUoLAE5WJNSEQ73vh4Oukb619A8EGeZXhvI6ha4yCCy45h3v4LNv8V1GZXEs0LCRw3mo7m0PiMpUAJXmMEBbuWNBo+fWRJ7fINsMh4xfoS6+uw4eDdAaLdbLKlqHmfhPQVV8O0hazaMaeMWZKRnHGWoEZpwA==;NwKJDb1h59s3W/56IbDngg=="
+secured: "ND8Z/zr8FV3NIvnoyXEKGr9UynwABjXRSUpQ/XaUqNQ7yPWftkOsus9bDXpYtN9xi0RzYQTEoNjNo4r3eUpUox6bs25lxO4yaGjvWiUilTK1UBVGkK2hG4EBcKmaezX4lrJjqg73Rom5nm3zUFn0CfDMGO6jU0aVSA2JPZ5/glGib2n/gO5scKfdyAlxmpzJqA6KtcmMJhLDI1IDOpvsgjSUVcP8CTDowEN4fme3LVwWZNOtnaXslnygsGkZEqyJZGUBnWPjBSn/Y1uGaDkr3/qTqhaUOCX3WpYDsqOZtju+Yzox3arYCoRIbqbAIt1JJgeM/isbpctG0cSlgkxNMyyt3rqdUd+5xe9RX8/Qk3pTzvD6Jb0yNxPXh0Xd402/DUK75lFi1q9iXpZdJnC/kqMJJe9W28w0hscm/H6zyy1LuEuielrGhvO7255jowLYYNOPAvos4Wt3Cwrs8Wug2kh0L4dynPFc28wWBCEovQM8ysohT5Iun0F/40Zo4JdXHdVB1gFrBhbbCk+646Enlw==;dEngP5e9vx/iR6zpkL/T4w=="
 ---
 
