@@ -40,6 +40,22 @@ related:
         width: 1120
         height: 747
         isCached: true
+  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
+    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
+    publishedDateTime: 2020-07-16T19:51:00Z
+    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
+    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
   - title: "Level 5 fully self-driving cars not due anytime soon"
     excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
     publishedDateTime: 2020-07-15T09:52:00Z

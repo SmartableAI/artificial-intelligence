@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/</loc>
+    <lastmod>2020-07-16T12:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/</loc>
+    <lastmod>2020-07-16T12:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/</loc>
+    <lastmod>2020-07-16T12:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/16/twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation/</loc>
+    <lastmod>2020-07-16T12:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://pulse2.com/untether-ai-7-million-funding/</loc>
+    <lastmod>2020-07-16T11:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/</loc>
+    <lastmod>2020-07-16T11:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/</loc>
+    <lastmod>2020-07-16T11:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/</loc>
+    <lastmod>2020-07-16T11:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/</loc>
     <lastmod>2020-07-16T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -439,7 +487,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -967,7 +1015,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=8&amp;itm_content=2x4&amp;itm_term=2356592</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1423,6 +1471,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://news.webindia123.com/news/articles/Health/20200708/3589229.html</loc>
+    <lastmod>2020-07-08T09:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08</loc>
     <lastmod>2020-07-08T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1545,12 +1599,6 @@
   <url>
     <loc>https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/</loc>
     <lastmod>2020-07-08T04:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html</loc>
-    <lastmod>2020-07-08T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2383,6 +2431,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.vox.com/recode/2020/7/1/21308539/self-driving-autonomous-trucks-ups-freight-network</loc>
+    <lastmod>2020-07-01T21:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/dushyantshahrawat/2020/07/01/what-conversations-with-15-fintech-ceos-revealed/</loc>
     <lastmod>2020-07-01T17:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2625,6 +2679,12 @@
   <url>
     <loc>https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8</loc>
     <lastmod>2020-07-01T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2082806/artificial-intelligence-in-healthcare-diagnosis-market</loc>
+    <lastmod>2020-07-01T03:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

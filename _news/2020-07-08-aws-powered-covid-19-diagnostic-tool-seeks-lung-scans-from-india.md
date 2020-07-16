@@ -1,21 +1,19 @@
 ---
 category: news
 title: "AWS-powered Covid-19 diagnostic tool seeks lung scans from India"
-excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS) are seeking lung scan images from India to refine their open source model,"
-publishedDateTime: 2020-07-08T11:05:00Z
-webUrl: "https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
-ampWebUrl: "https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
+excerpt: "This tool is important because it becomes easier for doctors the world over to treat a patient if they know what disease they are suffering from and how badly that disease has infected that person. The same goes with Covid-19 patients."
+publishedDateTime: 2020-07-08T16:29:00Z
+webUrl: "https://news.webindia123.com/news/articles/Health/20200708/3589229.html"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "LHvPbooTa6BBoIIRNXm3QQXByI5ZJNBWf8+i8ZhgOOe14RBi4DLOOD/Vi5M6LQSM2PSxbCCeL/BXDy8M+Ni6lHs4EVHxYymoAZlhO1zDZdZ1l/zoK3jgipVBTlL6jYiDO6sntp5Ezk4m+80wN1aVQ2zEhEFi//UR45XERlotpGon7nnhimPj1HgYa9E1Uz53IB5gEhwmx+xZ0OCtND820R+67Pq85fi8UCTnEzA341OLkvf6LmogcRkOxK5Za8m4PiC3V7Lcutz5F3913hp240WMaf6+ONpwMGYf6Snx6BLWf/B/T+7FNAFb2fN7SN4T2oVQV7vSxJYW3+YIrSz4Fg==;Si9a7JtNMGnX1BPS2mf3Zg=="
+secured: "B7Ti3RWFSsgNocgh/vxDoKAV56LDvHUSEq3JFTVYI2lgPgPP8vfCgO2CrlrM3ozlZJGxGByoVsO591oJVidl+pEU3FUrdccuJLkczDF+OzN3XV3sVneYH+p+9e8sEtR14P4eGthLDqj1JrO1kdeLLMWNqWNQWz/00tiH144DKYg8engALR+HbBK8A9sWPsyBcdaWrdsYU0Z0mGDLT/x1LJK8g2n0kiArFQ00iSJ2ylrinEDozj0yTQhBYIWc4aXvDZL/pGd4OIwsTLocFOwmT6pdMLu/+WFdSGkrjzwXANz1vbXW8QFhxhCSoAT9op8IX7U/4Dt0EkyO6dDnrSDawA==;PdfHuyiX13QruoovIPwWgQ=="
 ---
 

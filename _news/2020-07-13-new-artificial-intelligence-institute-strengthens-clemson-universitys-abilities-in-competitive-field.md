@@ -55,18 +55,18 @@ related:
         height: 737
         isCached: true
   - title: "Marketing Artificial Intelligence Institute Launches AI Academy for Marketers with Dozens of On-Demand Courses"
-    excerpt: "Marketing Artificial Intelligence Institute announced today the launch of AI Academy for Marketers, an online education platform that"
+    excerpt: "Marketing Artificial Intelligence Institute announced today the launch of AI Academy for Marketers, an online education platform that helps marketers understand, pilot and scale artificial intelligence."
     publishedDateTime: 2020-07-15T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/marketing-artificial-intelligence-institute-launches-ai-academy-for-marketers-with-dozens-of-on-demand-courses-301094110.html"
+    webUrl: "https://apnews.com/PR Newswire/e83d7e622f04b7e47c307c75f53e6f79"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 32
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "v/r+bd0ddKb0GiL33WcFMICZNYtqm5kKnZHIW24mbDtHHI/AvNCs9qKo1He3PTOfBJkQZF88eGmHdaf57v8SSNuP6a/uP4ye9eTN8qy66HHu+lm0wMv6BwPYbsRQO7PTkZrbCYxNDgQcYISpSgMer3/+3GGB5fUZVd4bBMSK1FQO3JniIs+4NYCR7lHwdZuULPY8s9K6C1lu6jwj/3+HBmRFytySUUzJGk56uUU+gL13OicQ9kVEsfvpmERoDvhNRa2+tP66475crQoSkvfeh2auFAOrBL+2wfA5JJCwD6YPfiJsRd0tCMia4FOX4cYvLgsIAIKmCIxuCowqIGbhrgG/iuYdcTOZUhyi1cxHJEVNNDQXuSNliXTAhqa7EIPCi5KxUeeW+71+wUnP8wV/JonL7LVQ13Yc9bvPCNxv1R2iIaVi0I7hK6AIImPb71rSpnpQLMQjK6rADzlCSirYXwMPsmGYTiGwvuA1wjlMESpjYEy3/EsN2EbuLiMvi2odPu3uFX7haOG6oaUoYTzlKQ==;Bqj6Bbxb0OzGxRKqKkB7vQ=="

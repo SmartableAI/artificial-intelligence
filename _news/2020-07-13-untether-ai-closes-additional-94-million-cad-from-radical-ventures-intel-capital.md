@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "High-Performance AI Chip Company Untether AI Secures $7 Million"
+    excerpt: "Untether AI announced it has raised $7 million USD in funding led by Radical Ventures with participation by Intel Capital."
+    publishedDateTime: 2020-07-16T18:57:00Z
+    webUrl: "https://pulse2.com/untether-ai-7-million-funding/"
+    ampWebUrl: "https://pulse2.com/untether-ai-7-million-funding/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/untether-ai-7-million-funding/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
   - title: "Untether AI Announces New Funding and Additions to Management Team"
     excerpt: "Untether AI announced it has closed an additional $7 million USD funding led by Radical Ventures with participation by Intel Capital, both exist"
     publishedDateTime: 2020-07-13T13:00:00Z

@@ -73,6 +73,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 17
+  - title: "Verizon, IBM to Collaborate on 5G Edge Computing"
+    excerpt: "Verizon and IBM have agreed to work together on 5G and edge computing. The collaboration will combine the high speed and low latency of Verizon’s 5G and Multi-access Edge Compute (MEC) capabilities, IoT devices and edge sensors with IBM’s expertise in AI,"
+    publishedDateTime: 2020-07-16T18:23:00Z
+    webUrl: "https://www.telecompetitor.com/verizon-ibm-to-collaborate-on-5g-edge-computing/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 4
 
 secured: "ubdcflTASNYGi5ZEuEKP0eQwjXlp/SvRk1Upvbiicf/x6/zY/IuJ7b1M0+R9Yu1T4J6jgGyI976tfVGVuP/G3EvOMNTPHSpXKTJ/B+DsmJ8Gjotp3s0b2P6e+8oEu4MfAScBQiyH2bPKZIReOgVUO5DaopiHVXUyD9ohvf9mr0CI60/Wd5NlG+KW0PddeGqdOHCXngcAginQ3CiP67q2TOiKJpLbLgAD0xIY3lqkTmSBeR7U4OS2XmwP9+Vj48s0+sbDMEmaLedHiE0NycUC57IPfq/fm2+9oMS9OgnsSwr4eJ8lrv6b4DhX/RDV6Kprdbrvci1jCAitl65w7tHIqw==;SIwDt+YTZKLrYumZOHEY8g=="
 ---

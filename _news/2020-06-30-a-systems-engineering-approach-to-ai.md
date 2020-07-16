@@ -16,7 +16,14 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
-secured: "9x6iV+3MWQdkbP1uA6fAPZ1TB0II/R0IURPNV3qP2aPyjaP1J3e2alanzR22aRewknm/2VofIz60fQKu0/7k7rQQIrWfkzjbJkTI8h7HkSQyKXgc/2uJEPVt/cM6NNL8EXEtczo0cLoeYnGLRfQ+4Tytccn9+1vA5lqlbHprCv/WFwZgiXqpefkfQq9N8raquaUmCjbIocQMU8IlmAvxFHWUYFSaroVlIz8FsE2m2rXwmoNECpUclaoNg3N/Q5tAF/Bd2zv4es6peGafoMDRzaCjMThqu1CV0IVZX+9NBNNqpkwjOBTeGR6H+KlfGA1Jc1PZsQybuqjRMx7jsAMcCtkoYMzVo6llYkd/6N3m1ZE6/kSmCRkQ1Mk0Q0RpzBxoij6NQwPVkdJsRQABSL2i2YhmWzVRK25WKPgp0l1lUC/aJym2oyYWLL84HN3TopeeMbNore8Zzd6EYcQ48/2rSYey6RM0CVGDvVS9BISHNZHnwdQ0x/iw2LoVgeZF2UTAYMyPfu455ztRt+VkSNJl6Q==;OkI62c1A1uxXwK9NXK+4Gw=="
+images:
+  - url: "https://base.imgix.net/files/base/ebm/machinedesign/image/2020/06/IoT_968108284.5efb865fa82f3.png?auto=format&fit=max&w=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "QmKK7cX55KxWaZdBrg1IxvsxOa9NJbvoUrV6JBJZ4tgQAORA5U/aBPxz3bDwkR4A0O2fhmB6SpgvNGi0MtxE+X5o08QbBUf2UbWeXby7j0IdrLe75YIRi0T64u+Hb0hyHbAY7GWrzOSkbMbSr+iZv25F9/chHP2QER+278R12HNwfVDomYTeF+hKSLmHAYKpsJ372DO9qZwzTUpHYiH3LpSbdRsespMo7Aaqy/Yn8Tg8KNMt1bwArsKNLG3blE7JsiZdlVmV6jDJYJR1Y741QHZ3FZ1drmWkUOTG3Ts1I513e+WyeLHIYfDyZn6x3cng+fyWRttj652RUtdhKHsS4Q==;xSqHNDfrCHibSemVyfVM6A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bellevue-cam-630x362.png"
         width: 630
         height: 362
+        isCached: true
+  - title: "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies"
+    excerpt: "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence"
+    publishedDateTime: 2020-07-15T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-301093938.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 45
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "yPccJ2gLTk9jxcFc6Jv3hEOuc6zhodXANpDL765K/sI9UfbjzeB742QtVDOhMqnPIzeZd8emfKZmMeZJOUwaRi0kJJfHOoCM9I8bvaF2uJYHRGjPR3eh3g5mmpI5enrfX5XZxpOKUCVqWb0Bqn55Z8c9QMvlZhtTktfXByXYFH5zEdHal0MEHcjbwT/dOZ//eyUkGnKWEwPSm8yKW4krn3ZIpX5Jq4SqmfR8y4je1pzXci7coWTMGEuoCxEJJRwSLD57fIJ6/bcROfTEFIlN/HkU2mknDjazbMjjOh7Gr68JhcwpZ5oSK0HRkLoiNrlxqYTF87E7Xns41U+Fmh48Eg==;CkNakm50YODFh3dDwtjWaQ=="

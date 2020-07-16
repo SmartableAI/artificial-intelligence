@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "4 Important Types Of Bias To Tackle When Building AI Tools"
+    excerpt: "With every passing day, it gets more challenging to mitigate the biases that are powering AI tools and systems. Now more than ever, awareness and consideration of these biases need to be brought to the forefront of all AI development and implementation."
+    publishedDateTime: 2020-07-16T19:50:00Z
+    webUrl: "https://www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/"
+    ampWebUrl: "https://www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1255304161%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D489%26cropY2%3D4269"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "State Super moves to add machine learning tools"
     excerpt: "Australia's State Super has hired Neuberger Berman LLC for an equity mandate and to help the fund accelerate development of data science and machine learning tools that can complement its more traditional investment capabilities."
     publishedDateTime: 2020-07-13T04:00:00Z

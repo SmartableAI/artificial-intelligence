@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-busi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
 type: article
 quality: 77
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -78,7 +78,16 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "Verizon, IBM to Collaborate on 5G Edge Computing"
+    excerpt: "Verizon and IBM have agreed to work together on 5G and edge computing. The collaboration will combine the high speed and low latency of Verizon’s 5G and Multi-access Edge Compute (MEC) capabilities, IoT devices and edge sensors with IBM’s expertise in AI,"
+    publishedDateTime: 2020-07-16T18:23:00Z
+    webUrl: "https://www.telecompetitor.com/verizon-ibm-to-collaborate-on-5g-edge-computing/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 4
 
-secured: "mO3rKXScbTrfexWb4G/zv2sy543SOSJFFFXNFgmy9W6npNuD+ABf+7ITF18fSiX660oxf0LH7Z820wL/1RjKPDQVnmCzbF8I5N95Y4dBrppTNdiDDl4NvbXz+3juG6k1sDfJ+ZSNX9jRuIlvzGtoFdjN9IAoR8wDGTI9lLxg41hx33RdBIC6Xc6/s0oBjmOxuHTN9PYqZULiUCQOtJOZIWWXdIwGeqX+Liacw7KLE/jr5GYZ83tWe3e4iOaC+knDB7duMkDiNaHG7yf/0eROi32OQ13tL7yHYpNulbt/ozV8uolQ2MKnxyG1t7b/Gw13a0WoWIbcp2QHPyi4bB6Lrg==;DtovAxUrIWu2QRadutjpkA=="
+secured: "tB3KKdH/rrXpmGBkZAcLB6a7xZW/RQLB4CHp23xv/OC8SN03LvsKrfLoWHbj7fxcy76V+8X1zpSYVy7QhYS9iyzOG+4xfnS+hn1TcJcPDAm8jWE/AFyVQjBRKxPkafWszkAC0tYQwt6u509CR4yLrlRiD1BYGPf8Afuv0tsRaac+16yMrd9ZOvLQ7hehM+Q1diG9mMeJiQIps/2xIQsiAC4wr+yMv2ddChab/G2NpPFeYV3rynYUti0nIanKy+ZMlp4E5YfPh8sYhJxtkB0LUYXY+xPGANGIm+aB05R8ZrSmh3V3THgvTWTgBlkDqGIy7oZDWC+ZiDj8VSD/fqlUC/eTQh/PMnjBbMDmqPVdiE4njFTo/iZRg1bJTl/G2gJmynPDZXhV34z7DHGMhDKJ9Xves91w86JfXyqOVXkDI/PSGjFxeO1yQjO9Xwkr6nji9w5Xhnc+EdBewus2Q9aF0ync6raAwt+8YwdEhPpc5zMXbFf20wxDXB0+OkqvirIM;ODJ1G8ChV0tatOOxBTfVxw=="
 ---
 

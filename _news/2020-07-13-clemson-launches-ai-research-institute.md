@@ -39,18 +39,18 @@ related:
         height: 737
         isCached: true
   - title: "Marketing Artificial Intelligence Institute Launches AI Academy for Marketers with Dozens of On-Demand Courses"
-    excerpt: "Marketing Artificial Intelligence Institute announced today the launch of AI Academy for Marketers, an online education platform that"
+    excerpt: "Marketing Artificial Intelligence Institute announced today the launch of AI Academy for Marketers, an online education platform that helps marketers understand, pilot and scale artificial intelligence."
     publishedDateTime: 2020-07-15T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/marketing-artificial-intelligence-institute-launches-ai-academy-for-marketers-with-dozens-of-on-demand-courses-301094110.html"
+    webUrl: "https://apnews.com/PR Newswire/e83d7e622f04b7e47c307c75f53e6f79"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 32
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "New artificial intelligence institute strengthens Clemson University’s abilities in competitive field"
     excerpt: "the Medical University of South Carolina and Siemens Healthineers joined together in November for a summit aimed at finding new ways to improve healthcare with artificial intelligence. Anand ..."

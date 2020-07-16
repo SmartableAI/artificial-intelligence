@@ -78,6 +78,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 4
+  - title: "Verizon, IBM to Collaborate on 5G Edge Computing"
+    excerpt: "Verizon and IBM have agreed to work together on 5G and edge computing. The collaboration will combine the high speed and low latency of Verizon’s 5G and Multi-access Edge Compute (MEC) capabilities, IoT devices and edge sensors with IBM’s expertise in AI,"
+    publishedDateTime: 2020-07-16T18:23:00Z
+    webUrl: "https://www.telecompetitor.com/verizon-ibm-to-collaborate-on-5g-edge-computing/"
+    type: article
+    provider:
+      name: OTT
+      domain: telecompetitor.com
+    quality: 4
 
 secured: "mW+IrJCEJNhAwY6OShXq+qREepzHKiB3I4EtfNoE4rb5rsiWSIS0ZoIKfP06Nov1YTZBd+0lThrGChGXiQJHI48VrzP0JqEzu32aeVSrsUjc2uZJMEbmw/hJugBgcnGTA/6A4opVaMCecj+4KxwLdS+B6h2OAeHJ0IrftUEKTvaSTA+611aSXS9z4pv6CPfuWMAXV9FuNYigbGPSqpswNGJvxcoIAZejDWSPUskNd8U1NjtyLKLSteXoitBxl7ereozrbpBLmYZ4HUG8KryZueZDxBGJQvTWLHGxkv0Yh1jK2PPJ4tcliE+ZZEff3fZsLzJae2En5wjzXgR/WfJF4a9UG6jihyFgMBOtCjf9YHlr5zI1J+w+PXgdI1l/io2HeABL0wUuVVuYlvz54XbyrqNlZJy5ZHrQmpj1GDqNv/eKCsKEF3Jynk6xL2KrRjB5yr4fmsa9JFF7ahIuzd95q4kZISRjUNQHSdRdhVXbZCUd91g+subIZxm/BJW8fU2f85KfnxBEqzHOMSk2kg3teQ==;IBV/UyCXLCMJuaMlzLU0ag=="
 ---
