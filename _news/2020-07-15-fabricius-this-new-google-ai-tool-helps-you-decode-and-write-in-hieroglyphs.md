@@ -26,15 +26,15 @@ images:
 related:
   - title: "Google launches hieroglyphics translator powered by AI"
     excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs."
-    publishedDateTime: 2020-07-15T15:26:00Z
-    webUrl: "https://www.bbc.com/news/technology-53420320"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53420320"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320"
+    publishedDateTime: 2020-07-15T15:25:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-53420320"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53420320"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53420320"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 89
+      domain: bbc.co.uk
+    quality: 57
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg"
         width: 1024

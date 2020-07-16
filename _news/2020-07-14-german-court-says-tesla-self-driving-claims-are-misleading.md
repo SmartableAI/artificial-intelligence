@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-automatic-driving-on-city-streets.jpg?quality=82&strip=all"
         width: 2500
         height: 1235
+        isCached: true
+  - title: "German courts rule against Tesla's \"self driving\" claims"
+    excerpt: "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich."
+    publishedDateTime: 2020-07-16T09:51:00Z
+    webUrl: "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+    ampWebUrl: "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+    type: article
+    provider:
+      name: AM-online
+      domain: am-online.com
+    quality: 89
+    images:
+      - url: "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg"
+        width: 1200
+        height: 693
         isCached: true
   - title: "German court bans Tesla ads over self-driving claims"
     excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."

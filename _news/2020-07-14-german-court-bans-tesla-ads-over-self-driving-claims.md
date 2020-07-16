@@ -74,6 +74,22 @@ related:
         width: 2500
         height: 1235
         isCached: true
+  - title: "German courts rule against Tesla's \"self driving\" claims"
+    excerpt: "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich."
+    publishedDateTime: 2020-07-16T09:51:00Z
+    webUrl: "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+    ampWebUrl: "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+    type: article
+    provider:
+      name: AM-online
+      domain: am-online.com
+    quality: 89
+    images:
+      - url: "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg"
+        width: 1200
+        height: 693
+        isCached: true
   - title: "How Tesla’s Self-Driving Initiatives Add Value"
     excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
     publishedDateTime: 2020-07-13T15:42:00Z

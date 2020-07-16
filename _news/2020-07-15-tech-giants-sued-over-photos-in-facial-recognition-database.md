@@ -3,7 +3,7 @@ category: news
 title: "Tech Giants Sued Over Photos in Facial Recognition Database"
 excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
 publishedDateTime: 2020-07-15T14:56:00Z
-webUrl: "https://www.cfo.com/legal/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
+webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
 type: article
 quality: 39
 heat: -1
@@ -67,20 +67,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Concern is growing over police use of facial recognition"
-    excerpt: "In light of recent protests for racial justice, facial recognition technologies have come under scrutiny for the way in which they're deployed by police departments around the country."
-    publishedDateTime: 2020-07-11T16:54:00Z
-    webUrl: "https://www.cnbc.com/video/2020/07/11/concern-is-growing-over-police-use-of-facial-recognition.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 69
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106611583-1594417573102v1.00_00_11_15.still004.jpg?v=1594417647"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "NEC’s new facial recognition system can spot workers with masks on"
     excerpt: "NEC is reportedly using the advanced facial recognition system in an experiment it started Monday that aims to reduce the amount of touching in its offices and stem the spread of the coronavirus."
     publishedDateTime: 2020-07-13T16:13:00Z
@@ -182,6 +168,6 @@ related:
       domain: theglobeandmail.com
     quality: 29
 
-secured: "fp3N+EF+aAq4Jwv6qqDAS80fHf6s57qEl0W9Zf+WAAScGDZmeG7tZ9SqKVttQLA1esTfWxbsOdm8ztWP4aHsBS6iBmonRUXiK58BzJVhrQAwjp+TeCaMloYZ2FaV41yZ/stvImj7OD7Z6XKzf1f9sVqM84ADPW3xuQw4ciAMeu7WjhvJkvbCg8gQNjdW2XUYmmwzcLgp65W/6WNt/O66ciMwUJ7Nz3fzj4wFXwCicOoKfpK8PB1JDNvSvIO3ERirzwfPj7Xp+gT9OZs3CC/Mut3Zq2TCqRs2YzIB35Ml3aKBVpkZF5cUXuLRmNwh7av8A/HmgoGfhgh2/zKeFJDyVg==;gGqv9RnundQkWD/z4AnPbw=="
+secured: "8cGMbwZouC8Qgew4Gqj90u1Nruu4Wza/ym7ogNHHEHQpvYI3tUAgH462O7fcMPwdUgcy08lk9Cz3JHNTZoxN+U3KeJw3hOLnaWis2uWNpmYSuABMNySOMsTmhdGcSdK1rWJpYoyuFKd5saigHy4VDEWIecPk+0uK1B5/shNuG9pJTz6JgK3b0l4dcUDQfND42ukSi9oiahjFQlIPFE/2RhlSslBnMd2u3Xougn5uGPRmk/n/WXUVXgE3S66dVVy39pDoNTYLnIINHUXX0msPjHCV6hlv79ZYzfoTvnpxNDjJl0YSrKzVp7RU1+PuPywhvdb0tZu0DkYirI7pKKSeEQ==;Mr5kk3DSbjPJjKreke2IIQ=="
 ---
 

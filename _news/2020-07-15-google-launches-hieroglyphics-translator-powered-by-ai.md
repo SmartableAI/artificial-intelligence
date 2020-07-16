@@ -2,25 +2,20 @@
 category: news
 title: "Google launches hieroglyphics translator powered by AI"
 excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs."
-publishedDateTime: 2020-07-15T15:26:00Z
-webUrl: "https://www.bbc.com/news/technology-53420320"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-53420320"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320"
+publishedDateTime: 2020-07-15T15:25:00Z
+webUrl: "https://www.bbc.co.uk/news/technology-53420320"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-53420320"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-53420320"
 type: article
-quality: 89
-heat: 99
-published: true
+quality: 57
+heat: 67
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -45,6 +40,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MsTwmwcDKni1m5gjIr4Tm3hpd0fGHqKh8tbPURtvBaSIH0RbwSnUjJZuixuTrPp+D/cAyzI+UtfKDoCaH5TCWgGsLuK6w82ugOnNc/p94QKlHG3FB8aTGbPn9o86V6MbB05pDUyXfUWW1NjbQqTwMrPA2ZVkrHx2m6jegrs5OYeBbLzgFFkM5q7BscHclHC557SmrHx+QAWV++aAg6pClFRT8VGVXnC2MHRmFvF4p7AD3bDfrtzYsulf/fBwsxGlezMs6O7a6mhlZkdFszng2W2DzSzb5xnk4SfBwSiryCZ9wSRfACI9pc+zPRsuuXTg1Ub8KeJQQwdeXaOR+AB6PJtrf1SD/Aq+7WZHxTMIRcf0OY90mAaNugMg4MRyiML6Hrzd1tIDVreF+Rz96IKTlHBh/kX44+13lZBhceCNYWzEnNRl6D9qTYFfddkZ71GhBNXUyrjOppej9r1EL+kVGCXxPcsBcSIqNiERReHzU6JDxBksQLOcfcWrebO8XJub5sRV33nVNF+ARpyp98oT/A==;PAgPvgFIyruYahrcSv6e/w=="
+secured: "Vyr8lsABq1kk1iOZo9h6PKtXW7dNlk3rS9WM2kEXSksHJYhU06H7SZ920wwjbz8U76kl5cWkUVAVJBx18UhcaD9HJ+IGBIuECRwETz9LAPxGPF1C0oZtto9cipeVmwZnX2wxgUMdsfpOoFnbw7bLP+YZwIPhEN/KonqHUXyEtZpNybNhXfLmIeju33B3uvi3eC3NpQTi07U9sTn+7XDf0uYZrF/4nHxujZOQHqV6AqjxKbRS2mxVUkGm07Ms9zKZWoL27sPwk3iQHkrp38Ke0mVBX7vxDsJEFbKZvvLsvkzfDL5IatGPgOscVM2zG0g0o2iV4plrnEh8dwFQE7Abrg==;Q9KvhGRXJ0sNUKUDAgf9Bw=="
 ---
 

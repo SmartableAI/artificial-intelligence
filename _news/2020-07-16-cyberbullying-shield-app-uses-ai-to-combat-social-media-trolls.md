@@ -37,6 +37,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "This AI-based App Vows to Shield You from Social Media and Internet Trolls"
+    excerpt: "With longer time spent on the Internet due to coronavirus lockdown, younger people are more prone to troll encounters in social media. Good thing there is an"
+    publishedDateTime: 2020-07-16T08:20:00Z
+    webUrl: "https://infosurhoy.com/technology/this-ai-based-app-vows-to-shield-you-from-social-media-and-internet-trolls/"
+    ampWebUrl: "https://infosurhoy.com/technology/this-ai-based-app-vows-to-shield-you-from-social-media-and-internet-trolls/amp/"
+    cdnAmpWebUrl: "https://infosurhoy-com.cdn.ampproject.org/c/s/infosurhoy.com/technology/this-ai-based-app-vows-to-shield-you-from-social-media-and-internet-trolls/amp/"
+    type: article
+    provider:
+      name: InfoSur Hoy
+      domain: infosurhoy.com
+    quality: 37
 
 secured: "6fj2kIo5AHB8thGFp2UCFztNAB8zWwTEHrLnUhO1kxzyf7MR/imfqoLnkaEf4VCpc47QoiEg+V3ljMyciwNjWAd/aD0j9OKsB3G9dzgmlq5W7Zgu/sgFrbHmzixRJMXp9kq9lsEB2Kcpv4lC5N1sckCPULOzrSXktY08mQBl6OdpoBAOKhMObPkGl8w7grtXk3THf0Sx9vO3qfNS4s6rqKP4qHRirNK3es4d4Mk0DADwGMfoiBJdcEDkN4ZTrvpgO4G+S68g1iX/HpCP1WvC8RtBkRaPyfxHXHAKklXoV+qduCiLF3lM8GpLHXbRXPqd3CpEoGGwsujJRx6PIdC5MwZ1FRxJTni3f+tSaef7d+ljoVfGHLNttTrvkbHC2yg6c+3iuVcI4brRSbnYt/lCYyJENnTsZ9uvN5hDUM/5USBoKRNB12C3QQUkyvYjzo3eFf+wtHHal59QR8Q9QO21tDnYUS7R9CrN1F+G69nHk2giQgz/WbDJqNQRhgzMyFLlodpthzpXGlqZb/NDndgiyA==;of3jJWVhuopQAj/ouOeuiA=="
 ---

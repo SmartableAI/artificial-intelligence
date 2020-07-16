@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gulfnews.com/business/uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister-1.1594885958530</loc>
+    <lastmod>2020-07-16T00:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/</loc>
     <lastmod>2020-07-15T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/</loc>
     <lastmod>2020-07-15T16:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16</loc>
+    <lastmod>2020-07-15T15:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -151,12 +163,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53420320</loc>
-    <lastmod>2020-07-15T08:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu</loc>
     <lastmod>2020-07-15T08:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,12 +207,6 @@
   <url>
     <loc>https://www.wired.com/story/ethics-guide-tech-rewritten-workers/</loc>
     <lastmod>2020-07-15T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future</loc>
-    <lastmod>2020-07-15T05:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,7 +889,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=8&amp;itm_content=2x4&amp;itm_term=2356592</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1485,6 +1485,12 @@
   <url>
     <loc>https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm</loc>
     <lastmod>2020-07-08T03:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/</loc>
+    <lastmod>2020-07-08T03:01:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
