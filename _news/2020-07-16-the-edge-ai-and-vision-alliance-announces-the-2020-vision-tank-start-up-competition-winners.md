@@ -5,8 +5,8 @@ excerpt: "The Edge AI and Vision Alliance today announced the two winners of thi
 publishedDateTime: 2020-07-16T19:53:00Z
 webUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-301095130.html"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
@@ -23,6 +24,6 @@ images:
     height: 524
     isCached: true
 
-secured: "OeFGjy+vrM/2UC2lzerTPjCZMrSOvKsVnAQVAjmtEoeLfdI4obSyBSualDfdzu0ABEqwRhOQ9jjTiKdH4Rr3ZSqH8n+i29tznthj3u2tX7qmh68NUj+EBPSJjW3pZNPXmJLNt8hQtdrmcEXkgh4kssbvtj9HQuTBv88N/2G0ryTRcdWhl052vzFifOejFc/Wwnu8QPzjD2LkZkbfRWDGPHqdV0RbCtG1SNqL0Op6bBQrFG7wpU2Xgbg7f00uLyQxO8HTUUKC7UzHP2R7jYzH2QNgSRqUzgDdEAWv5RL/IlCFUGZqatNj25E6gaT/vvfWusG50+FCXCviefwrBBXLYg==;FacpN+TKWQDre172fdmsZA=="
+secured: "/uYkeGxeq2lyI/SZcM8l5TGSvSQiX6ySFxRDMGH0B0RFpmqPDiKZpYFtvFel5s/LmXk4dWRIZigPLfAknTlTrageNUtiyBMbAOXn6WLsvXujNlDgnByaUXVY7GqSk0u2Jawu5mM4j7GoJyqEeT2lpwj5R2+zQuWd9+OpfKFLUe+4BFjGAtdeVMNzn53K2b972+vP4s17HIO5TYvkauPUDUNr1PWFvzs+hhnUb2je0AFaDtHICtYRK6XTIXf1YMxJ02XoDLlyXZeamggKCPzLe8cQkRdFz7NHl8RHW5ISyKAmDCm/gpTvlC9mNFsiVGXqQaua+Iz7jOtAPYt5nNey7oGrejSRqraefs3pNrM3aii31Vy5n0HzYfRd6IKpj5cUqne2yOnqUrSm7opYquaVowICTSnQ542s552imldIdhalQ+9YeLUF1NOJKo130K6Ou6N1FQZoqXpBwxy3QQ+6j8karZNznPoIXXaP5F1h3lnKBsSuiwkK9Hy4dxT2PF7iF4MgowIMydrVKFQ/fRWd2Q==;QqJhUgHNDzFttPnHJr9JHA=="
 ---
 

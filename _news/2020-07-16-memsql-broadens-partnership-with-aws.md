@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T14:25:00Z
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/MemSQL-Broadens-Partnership-with-AWS-141867.aspx"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

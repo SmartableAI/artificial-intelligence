@@ -3,9 +3,9 @@ category: news
 title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
 excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
 publishedDateTime: 2020-07-15T19:00:00Z
-webUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
-ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
-cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+webUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
+ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
 type: article
 quality: 37
 heat: -1
@@ -161,6 +161,6 @@ related:
         height: 630
         isCached: true
 
-secured: "kbRN4F2ysdv4DgX7UUN9a9VZWLvGszdY19hyDDtnDzGN36AY7iPYvA0+Jr/IVKRfb+eawwbaw+HB9Rxip9uV+cEqZSWBsaV+H1cNKX0IlXfn+oNIOfjWiTiz+tUc5Ju7yTPs0YJVt/srZr5cGEfd/fOD4cpZaE3z0lQA274Tt6Qaya1FhPjbNLH4N59irT7AMHUUyteI2bLgy8fMszdnTwe4tU9KwDmCQPFn9/efANDqEC0pn93dzUrnjmC7vJJ+I26OPj3jjRpc9Q3jd+xGFd6XQHJ+xhn0Z0NdisXpcXhel/mu8C4nBEmpGO/eJ5NuHAtXBUvbiPV4fq4zqpqyq0b3NdUl/f1Nnhfolgj5Vgg6veU+1xBF3wDJksw0NusXlbC2K7r12POV8BGatc33K938mKdhED6gRswZjEh5ZotK3XWycJClXpyEpIAT8xtfose9LL4Ty1ekf8bKP+E2JSwPEbszvbg2r6vi/5q9HhvnwjDQP4lFJJR2D9KMHGJdQMlQ5AcglHoDzOXsSXh3Lw==;P0wdMgsiTfycWIh1qzeKqA=="
+secured: "1SMEBd1cyaKWFA08LRCI3QrDvQfuBR9m0DzbPaNEVATsOkET6OzTwB9ZiIjiO76CCJkg9Ux4b+yeBqf8LJ+0/cSU78nJvG4IZBCVRoHmoDjpzOkm2+lNH6YDJkpsBE+7CtIt+vTLqIQbNDlCA4IUU5XH0sLWHwcosISLR5wvYMEgRY17DuV0z5zSdroIpqiQ0OxnNPNcDxYCgWzIm7C06+KqpDIDyW2o6q2W3/HpEpWpMBPT1BZuKH73cheIp7LL75Ztl3JT/xnQkN7q2lHFHPOoBVXMz0/6eBnle5Y/DwEu85VNF2/u1v43PzjWReQ0KNKB9uqqtH0nXfD5X+uXiw==;WcFfPz9n7nObRe9s0xgbfQ=="
 ---
 
