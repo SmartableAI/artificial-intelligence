@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/</loc>
+    <lastmod>2020-07-16T08:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/big-backing-pair-doctors-ai-assist-technology/</loc>
+    <lastmod>2020-07-16T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/</loc>
     <lastmod>2020-07-16T06:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -979,7 +991,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10?tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10</loc>
     <lastmod>2020-07-09T18:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1483,8 +1495,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanznachrichten.de/nachrichten-2020-07/50121250-ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for-enterprises-008.htm</loc>
-    <lastmod>2020-07-08T05:10:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/ibm-to-acquire-wdg-automation-to-advance-ai-infused-automation-capabilities-for-enterprises-301090011.html</loc>
+    <lastmod>2020-07-08T05:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

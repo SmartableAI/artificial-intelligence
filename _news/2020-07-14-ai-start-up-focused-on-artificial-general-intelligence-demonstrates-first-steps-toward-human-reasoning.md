@@ -1,21 +1,26 @@
 ---
 category: news
 title: "AI Start-Up, Focused on Artificial General Intelligence, Demonstrates First Steps Toward Human Reasoning"
-excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated the first steps towards human"
-publishedDateTime: 2020-07-14T13:49:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html"
+excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated"
+publishedDateTime: 2020-07-14T13:05:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html"
 type: article
-quality: 2
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1213863/Cognitive_Science_Logo.jpg?p=facebook"
+    width: 2092
+    height: 1095
+    isCached: true
 
 related:
   - title: "Is Artificial General Intelligence (AGI) On The Horizon? Interview With Dr. Ben Goertzel, CEO & Founder, SingularityNET Foundation"
@@ -35,6 +40,6 @@ related:
         height: 800
         isCached: true
 
-secured: "EXo0t6N4HdJicBUneENi5NQ7Jl7o3G2lqqcEKOHdENvLtRg81VV+89Ns99wUVWKaL+e1u8BFippFJS7z3i6/R8LC584zeNEq6QRG1GLE/YbPBjgSh1ea8EgJEz/2uybkwilS0CsInVpFH3I0l7IXtB1i5d8gbt5IuS0vMFSGXj4GKDAiUfx19qSJX4YBuBlzFy9YeXkKTKXfBW3c9tMKxuwhjmcnLuXJpAz5U4iwcywBMh2n9HDSmXdM+R2c0MORU+jA5Y1/wbLaAlEOXXP4GTMbiKt3XuoQSXpBK131cFr05KBAwqyul21R82CbKwjPo6GvFNIQs84KcEkqEQaKBvDxVykXQN3zVOZ7+toZ8HHQyD7usk11vI4TbbWq9VlCBTaIDGwkpp2v1wAnVnJ/5Gi4w8FlAhwu/XFjs//pxzuBwRFtRzQjFtFTSRv9+hj+gDpOkEBJniT19mcd1eJLs5rpv1tXf9qiMfYmvzexH5FWwPuVzCqwdXFA6pAErhTzy1uBNVI7XOc6cnq3hizfqg==;mKzfQuMbwlLMa0sCcFyDMA=="
+secured: "G7HJgdxY47posK9JkeoRhNGfT/TMbf2DtbNDxB9wOlECwxI8FMqrolQCETakUD1pZ3Di2Sa/9qic0e/hzzJdJAxowAn9frgUvWYL6mXaFk86khpiaoFvUivV1gfPdlXpcLFVdFNhYCqfUPp6lC1is83zlXVuqUdJIVVHHmnreh6nxt/eRedw5jD43yva+BJuljYr2eR95iOC/nbr1X7Dv/RlCNa8dUaMzPRFp9ww5MueG8TG3nVADNnbNu4QeErfW02m3UPRdOrCkTDlhl3FYXQ3HSNb7XeSislkrtU7kT9Qa8h5xN2F4jixlvUulUPDMP1ZttGg3QFtbl+8zT+GEQ==;X3KW31d1TgtyIFz0U/phfg=="
 ---
 

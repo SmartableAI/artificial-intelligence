@@ -43,20 +43,20 @@ related:
         height: 576
         isCached: true
   - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
-    excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
-    publishedDateTime: 2020-07-16T12:19:00Z
-    webUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool"
-    ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
+    excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
+    publishedDateTime: 2020-07-16T14:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/353390"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/353390"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 89
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/translate-/translate-ancient-hieroglyphs-with-googles-new-ai-powered-to_5e6j.620.jpg"
-        width: 620
-        height: 349
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
   - title: "Fabricius: this new Google AI tool helps you decode and write in hieroglyphs"
     excerpt: "This means that Fabricius won't work as quickly as say, Google Translate, which works on modern-day languages. Before the Rosetta Stone was discovered in 1799, there was no making sense of the Egyptian hieroglyphs. Google Arts and Culture Instead ..."
@@ -73,6 +73,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mpLmlwdJj0IxnA3YH8WO+AYHkRWXC0HzenmfpCO5VtIfhSILzXqpOiYsyNVT747k/n6iRZ25ZisNBdHB90KhH0KToCkPckRRtLr1e72XMlda3svANn9mQIc4azMxiSM3u0L84xQdEuyscVObd05xHZ1AW6XX4QZETf7iJiYVIfHrGdTrVG1pUdYWVkIlypsNh0p2fyC6yPhMgYoyqFrsr4hLkiDO4a6ibCt0TTBSZhd7z0P8S78rIlxi8A8090kl/EeKeg7hAjKp9mGtD5oXWsye9r52ikZItYToMpxA7Ab0cLaZUS9PU6RrixxdGkavJPpWeQ+60j92kYoqF3mH+A==;jDV4L/k1msVQhwSe6kTtew=="
+secured: "ltPn/Cpy2d5hbYPRxKpxCvfh7q1fe6TikcLs2wtaRdd15lGpPOAkQZt58h8ssBcDHPTcbr03sVrRCDLtA8lNxpd3cQQrS+7fVGvoUnPqTd913I0E0tsK/HM22FbwCTTyHYKOXCuTC61o+dA1BkuVNQ7h28nRPTQT7OvrfOXTCrUIwEHI4bp1Iq464HN84HHHy15kLAgiTH3kdveZpDz4utZAZIdxSOrbfXjM8oTaLh46Ua06NFgvKpgPWg2gTYMPy3Pw88AnNSaSKG7SBsaPHftoSp4xq62NYC+TQE4qvHVVuac7+wJfQgfDz0Cr6DhzxRcQMt61RT9Fzv7f9H0shrcuCt34YjPuDHvCO4zMN8tG1kZw+Vyx1cWGa8EbjNUHMT6TeDVHw9851Sh/3p6WV7wBQK7tB4oI7WhsQn+gMFAnDK3cErfeaF4RLcO8i7hdqnOLTh5cVPlGoNsp9+24Ue/UmKpcPQgbZfosEXmPYTw8JDmT1j0QLBCQOkpkEKqnXU2+cZupIRm212KtSlC1DA==;OQRGVJlj45v109K8NHOM4Q=="
 ---
 

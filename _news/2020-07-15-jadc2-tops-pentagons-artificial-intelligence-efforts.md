@@ -5,8 +5,8 @@ excerpt: "The Pentagon’s Joint Artificial Intelligence Center is focused on ov
 publishedDateTime: 2020-07-15T22:18:00Z
 webUrl: "https://defensesystems.com/articles/2020/07/15/williams-jaic-ai.aspx"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/AI_Automation/AIdatamodel.jpg"

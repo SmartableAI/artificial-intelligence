@@ -41,20 +41,20 @@ related:
         height: 576
         isCached: true
   - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
-    excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
-    publishedDateTime: 2020-07-16T12:19:00Z
-    webUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool"
-    ampWebUrl: "https://uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
-    cdnAmpWebUrl: "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/127778/translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool?amp=1"
+    excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
+    publishedDateTime: 2020-07-16T14:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/353390"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/353390"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 89
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/t/translate-/translate-ancient-hieroglyphs-with-googles-new-ai-powered-to_5e6j.620.jpg"
-        width: 620
-        height: 349
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
   - title: "Google Launches an Egyptian Hieroglyph Translator"
     excerpt: "Google has come up with a new way to translate hieroglyphics, the ancient Egyptian language written in symbols and illustrations."

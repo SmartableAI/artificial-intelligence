@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Extreme Networks Schedules Fourth Fiscal Quarter and Year End 2020 Financial Results Conference Call and Webcast"
-excerpt: "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced plans to release financial results for its"
+excerpt: "Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today announced plans to release financial results for its fourth fiscal quarter, ended"
 publishedDateTime: 2020-07-14T11:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/extreme-networks-schedules-fourth-fiscal-quarter-and-year-end-2020-financial-results-conference-call-and-webcast-301092852.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/extreme-networks-schedules-fourth-fiscal-quarter-and-year-end-2020-financial-results-conference-call-and/article_5055b5f1-bb4d-5a60-8f6a-3bb404ea3b97.html"
 type: article
-quality: 3
-heat: 3
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook"
-    width: 1245
-    height: 653
-    isCached: true
-
-secured: "MpKwf8IuCU6LZzCWZivVR1BSsz9O4UuH5FmwfqKdW9aVY2b+IfQ1CkG0nRydIKq8oOQlisb5UyVwlN5gD0h4GrSOiG14uRgvmUzCi+Zg6fFZQZVGeXiLkdEhcDvh3+IjDTcQOuil4I7FyR9wc2QrvUXSMpyirdvE4L1k6BB+3xDbZ2f+AgNJVHj7T80vWlM4O9vxaWrqYgEn5yVKRbqHjE8vg4QvZOCcjCQP6gi5s+qLqaksV70q9lRUTxfyEmz28tH0SDLYlBVXhZMbCUmS7jNz6nb3S0oI5h0qkyMP//PC0GGVpAWsKBktPnYRl2bgVtqfndYsqYmmg97oearTZllM9pDxhg4UITfqmHMFbytgMymC81Cf1hiF4b/2WzYnNxbyHV5lrmxwsh3Vs+ov+qJFYbDRh1BsozxaQLKj1j7rZfgTlMzuzGlRkGiM+suHK3R625O+nt2vGpnQjgJDtRCTvg4Dv37vG5UWm5UB5PXfYPWPiZI/vSPD56Fck1TN2/qtrrBgxnj0F+OrVtUegQ==;2CNQ4+TqHyiBejGUkdv6Zg=="
+secured: "B9VEXuYwayfcFIyY6p898xCbpYmWuODxHAqH6BIBy/wUPG4K8rfZv+dzDt1RIuil+bKCI62BMyiAOU3Uex9k66CFvd7NipnqIg/2aMbdsnZwE5I1yvkknUd1iDlSH/8No3a8TbJKUgE+wh31CBu7X1/p4oWwTJ6Rc86sx4PbDaSOHr9/GvMCz3uuhCMX2WWYB02mpaDi9dXWhcPO5NQQ8XCTOU/09te5XusaGQlESk8sMHKpJAXgW63t3aLF6a8yHvp3At/nkCgLR1cu1HrrrigEqJLuah4iEdaWo/ONXdPP5i9KNl7zIs0V31xeF5NxV817soL1pUfRwc2rmzFgmQ==;LqS6Kes7teSlTexW4QKPhw=="
 ---
 

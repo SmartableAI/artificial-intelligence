@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T13:15:00Z
 webUrl: "https://arstechnica.com/information-technology/2020/07/this-device-keeps-alexa-and-other-voice-assistant-from-snooping-on-you/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 760
     height: 380
     isCached: true
+
+related:
+  - title: "A New Gadget Stops Voice Assistants From Snooping on You"
+    excerpt: "Meet LeakyPick, the low-cost audio spy detector for your Amazon Alexa, Google Home, and other network-connected devices."
+    publishedDateTime: 2020-07-16T14:00:00Z
+    webUrl: "https://www.wired.com/story/a-new-gadget-stops-voice-assistants-from-snooping-on-you/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/5f0f7b49eefe6b1223be2b44/191:100/w_1280,c_limit/Security_ars_alexa_1226031790.jpg"
+        width: 1280
+        height: 670
+        isCached: true
 
 secured: "nv5+KXDdPph2StK76F98ScKzXqBLnFO6SkSUQum9RcMefpOt4fADFo5fjKc+CLxWbNY4l8hi+ryeymyQ0omLgHjQkHZ9D+Bi/nW/DArQlArlOSrkIfwWWMCtEiD8CGH8ezaS/RzUm6nlwzLEiV+yPot1nWAtmTlyBhZrnrytIl9c9kTLqcsfDA5Q8P6was0pf/r7KxbD/U9UoN1Tnbntuk/NSdPIu+26EllMh6unHRVAsoJhDO2m4T0hphYua7bDYusgLRLPi8gU9ctgal8Ru+J5bBegNrHJYuGrSmYRNu/OB71RMKvyV17f9Y14FvaTNAJZAKBD9arja8wMxopzchKxV1GeLNKMjfYH7lbDbdTXw6OvUUoPPEMIDwJ30vMatkc5umWHEuvOecWiLxGq7f015ER6QaQpRmKtKGzcp0iPLGDobnLrsvN5x4sMhI46E+ALc/5IVXnxM07o3/OrwhVLk2+Hov2rhX/75+yEOHlJxKFTKuKUzOi/W3pzlKoWcgue0O2p3GovCFnQM0HC7w==;xz7oaRff7YAlGcfLgMiISQ=="
 ---

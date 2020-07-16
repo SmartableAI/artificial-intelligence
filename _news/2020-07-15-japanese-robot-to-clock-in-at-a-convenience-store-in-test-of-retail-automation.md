@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
 type: article
 quality: 100
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-16T13:35:00Z
+    webUrl: "https://www.nytimes.com/reuters/2020/07/16/business/16reuters-japan-tech-robot.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Convenience store in Japan using robot to test out retail automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence,"
     publishedDateTime: 2020-07-15T06:50:00Z
