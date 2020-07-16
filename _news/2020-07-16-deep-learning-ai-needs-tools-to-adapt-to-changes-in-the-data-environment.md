@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-nee
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/"
 type: article
-quality: 86
-heat: 96
+quality: 103
+heat: 113
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg"
@@ -44,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "omUeoa5+wRwsexeWZSTmR6f9sKaFoMuw/O2DfNQc1Ce1QWNPZUKPVRLZaiCduZl57PEQGg71SEkI4qZ/1LLjj15ckp7oTMpxRXQodlTQfWv8n18zn9m5C4fJ0+oykFPeCPkUYZvqE0ievZ8xgXySMXF4st8xIjfSx7uPhvFRfzXlVG6vcB+ZJshcmboT7sLZbRD0hoLJH5GcF66Yi69DyPz1fgNCQ8OV8sqy13LwhvJW2lDfWeWGhRw3G9NEcc2vcWZQwkHJe6xZFdedMo7klZmF/JUeyJJ93QewIDfyEePv0OVh4qZ3o5P31JqmZuU3Pix6qdMDai4qjaD5IoSiCg==;asojOvhmBLVZPkO5NojMtg=="
+secured: "yRfLdtDQgAMz/qi+hUeDorcDCEuWK+Kiv/a0bqRKOPld/AETLOqz/bRmKVREUtT6o0NNCMtfLPIj11Ewklg9Vz3NoDn6pxodWFLcoKQnMvJesFABfCnTTZMFTmaOLIBc9+H7uCNMnqbRwG401SQgYEhGpbqv5bgHGQP1B9yFfn9Rom4DVU7Vkxds7OvegM0AMMHAewS9hZeXth0NsrV7uH0P3awxhUYlF+61nGv7G0vtvXgDWpGyWX4/yUMftOxjZDmxKdbJv0WP8/DQTKMmJgS0pPx9SDVGr8PNjp6Zf5SnA2Va+43mgCUce5347gpEF3KFQ4kJy1nAQGe7KojfrEQHYqPcrRUrb1qKRe/FtfP4xwhdWDdFB+MGE6qqiYRSscTB27Ayn8XgWvA9DPPi3M33Ibb0LY9bDqSQCEH7VvVkiMqjYA46E+Rirb10Uy1kcTvW/9hWx1RoW6La11gPhUHigfRgbFJd6RUNieICU7bAJmEgHy105flKlBEX3RR6GY5qX9BgHGidUuZvYd/rOQ==;8gkyAibV8P0AN/RHQ3cwmg=="
 ---
 

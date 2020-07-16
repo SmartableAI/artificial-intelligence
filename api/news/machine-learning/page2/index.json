@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
+      "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
+      "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f04a3f0385b8d0006ef80ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D712%26cropY1%3D0%26cropY2%3D400",
+          "width": 712,
+          "height": 401,
+          "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
+      "publishedDateTime": "2020-07-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
+      "title": "Machine learning helps grow artificial organs",
+      "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp",
+      "publishedDateTime": "2020-07-07T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change.md",
       "title": "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change",
       "excerpt": "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
@@ -1305,107 +1397,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-smart-artificial-intelligence-needs-an-open-source-classroom.md",
-      "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
-      "excerpt": "Could the same 'human classroom' type need for interconnected cross-fertilization also help computers to ‘learn’ as they build their data-powered Artificial Intelligence (AI) knowledge bases and software-driven analytics engines?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1222798689%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
-      "publishedDateTime": "2020-06-26T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-how-machine-learning-finds-anomalies-to-catch-financial-cybercriminals.md",
-      "title": "How machine learning finds anomalies to catch financial cybercriminals",
-      "excerpt": "In the last few months, millions of dollars have been stolen from unemployment systems during this time of immense pressure due to coronavirus-related claims. A skilled ring of international fraudsters has been submitting false unemployment claims for individuals that still have steady work.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-6-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "How machine learning finds anomalies to catch financial cybercriminals",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/how-machine-learning-combats-financial-cybercrime-syndication/amp/",
-      "publishedDateTime": "2020-06-26T01:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

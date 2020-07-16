@@ -121,6 +121,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
+    publishedDateTime: 2020-07-16T17:28:00Z
+    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
+    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 44
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
     excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
     publishedDateTime: 2020-07-15T12:24:00Z

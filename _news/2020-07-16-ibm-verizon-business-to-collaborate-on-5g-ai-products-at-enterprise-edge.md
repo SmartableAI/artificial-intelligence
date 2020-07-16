@@ -18,6 +18,38 @@ topics:
   - AI
 
 related:
+  - title: "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise"
+    excerpt: "A joint effort to help companies harness edge computing and a low latency network with AI capabilities for real-time insights. By combining IBM's proven success in AI, with its AI data analytics tool Watson serving a host of industries, and Verizon's long ..."
+    publishedDateTime: 2020-07-16T17:08:00Z
+    webUrl: "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 77
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2019/06/11/64aa7866-0d0f-4a42-85d5-2ce16849056b/resize/1200x/380a3db2197135cd6c7eaa58bfbe393e/istock-1019082038.jpg"
+        width: 1200
+        height: 755
+        isCached: true
+  - title: "Verizon advances 5G edge computing with IBM deal, interoperability specs"
+    excerpt: "Edge computing will be critically important to delivering highly responsive cellular services in the 5G era, and Verizon is pushing the industry forward."
+    publishedDateTime: 2020-07-16T13:52:00Z
+    webUrl: "https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/"
+    ampWebUrl: "https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/10/IMG_1390-e1571836605481.jpeg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
     excerpt: "Verizon Business (NYSE: VZ) and IBM (NYSE: IBM) today announced they are entering into a collaboration to work together on"
     publishedDateTime: 2020-07-16T12:58:00Z
@@ -32,6 +64,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Verizon, IBM team up on 5G/edge computing for industrials"
+    excerpt: "Verizon Business (VZ +0.1%) and IBM (IBM +0.2%) are collaborating on 5G and edge computing. Their work will combine Verizon's 5G and Multi-access Edge Compute technologies with IBM's expertise in AI,"
+    publishedDateTime: 2020-07-16T14:04:00Z
+    webUrl: "https://seekingalpha.com/news/3591881-verizon-ibm-team-up-on-5g-edge-computing-for-industrials"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 4
 
 secured: "RhTPvTIPlHs0h+x4PAhKtnBlbPXfdctxIHDiIw9WQvbsyxRjfPFgle46m0/MY6TVS5xFV/LZVpWK29pFwj94OOLXPBx29ouKMGTfkJQIjDho7Ws2fg3xxwhA+AToOPYAz3zpzC4YbR5K92VnVSbElLInl/QauKb+cd+zvsFHITVNnK8iJRp1j3xKcVqQSuZJrSSoyLOwgxGU2YMMJb/JOUvohHG0+hbC2EktmtJclvewsmuF5aQMhCc+Fdoe9mmyC48YvZ+X3R5TyIUemzPmIv9Xg3QSOrhKrdWItTXC4muoVWVE+dcmxUsoR1USLwWuJb5MtvMRg+Sr3uaxEZ/hEw==;2NmkMhuTbedzwZHfR0nMvQ=="
 ---

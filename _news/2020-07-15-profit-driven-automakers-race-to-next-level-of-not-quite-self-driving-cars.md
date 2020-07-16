@@ -131,6 +131,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
+    publishedDateTime: 2020-07-16T17:28:00Z
+    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
+    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 44
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "mCc3C2++wleba0hIoRLVvvR/E3ZIarK86Rh2DYfrFC3WRkT9G9flyM8HPAHgq7kTjGk724l+hlSUFtwLKu5TG0gOiblIzU6iWygIhhyeKThXdFC3T+/2JbNvatlyHWdk87GzvbwbiFiWu8kezqec2Z9JU0AAsbJgXQ5OtAzC+puDuvcspH3C7Tt+utcXxib03bvWpfViCseecsGBAErmp1HvDZvrS2pFzZfn+j3uh01BzTQFgjX3/HM4cvC0ylRQvDmdSdzjquA3god5lZLsMWlKuqINlfqe+RwXkTUscMlmkCR917zquUC12JpH48kBOehD5DydWvUBMnE97CSQpQ==;pefyDLZYH1Z4tl8dRA5xwA=="
 ---

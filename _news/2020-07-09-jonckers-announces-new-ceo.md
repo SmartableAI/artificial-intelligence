@@ -3,23 +3,23 @@ category: news
 title: "Jonckers Announces New CEO"
 excerpt: "Silke Zschweigert Newly appointed CEO of Jonckers - a global leader in language platform technology and multilingual solutions (Photo: Business Wire) “I’m very privileged to be asked by the Board to be the next CEO of this dynamic and forward-thinking company,"
 publishedDateTime: 2020-07-09T15:08:00Z
-webUrl: "https://www.fltimes.com/business/national/jonckers-announces-new-ceo/article_fa4a300c-e68f-5ed2-97b0-22da8c9ff1ec.html"
+webUrl: "https://www.oleantimesherald.com/business/jonckers-announces-new-ceo/article_8f27717f-eec2-50de-bde3-851fcfac9078.html"
 type: article
 
 provider:
-  name: Finger Lakes Times
-  domain: fltimes.com
+  name: Olean Times Herald
+  domain: oleantimesherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
-    width: 1200
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "fKoNIAI27GBuj6Fks6H82uaN1hvR61ewinx68s2zaXpnO0S1j3OpA9Qb5rPpIaZDjhjcXSpcgs+NNfRJiPgT77OXCQ6GQswAKIgOcgjKqXWF85WTn5QG0HQmakypivsDqI1kmWeMib9SgQsZ0wMioq1DeEJjrF2YQEIKjdx3w6Rf2Zv9km8/jWibXd0eq3Xx/tCImz+TcKV/DqCsfW62GCA/58PboCZPxYQ281PlrU8tSXPotf6ewtBDf7kieTDB1yS1bIaA5RiqDswSliJDDkbbVqsYGYacYhpQCj8Qzp+PIFijvgqW2Y36aMdo4beHSaTEGoVpoEh928eBT92z3A==;RGyM/7ivmI2Sh11MIXB17w=="
+secured: "kgOM42foEN2sOQ28aWBmcl4beiVAcG7P8Iv1Q5Vz764fZJnMkQ/qRcRrzWukybClwuMKkXRlbuvX/khidZqTm/v6Y1/uVoszX+EaYTmJL5yLvLwX+ZbDEaMC5KNUKs8nvSu1d0OEbQmCBIFCWcx2bt23So02q7qExIPhjr4GcUXOTOsSTRJKb/DnoXJ9ZcWNkaBI/1XPwAyq2bXxN1yedK7IlWGfRSEbfXcq3InJvo8IRFHSemUigy7S/XuGtragXIK7LAFJRMATGTZuPBDjJQwmQ++BK7NrvSEbahA5hQ7cW4Udz6/hJVaThLuAPaaVNRkEpXNbF59sr7MlL66qhQ==;KV4owt9GmBt7LY7h1c1oqw=="
 ---
 

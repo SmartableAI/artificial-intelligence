@@ -2,6 +2,294 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-16-how-capital-ones-ai-assistant-achieved-99-nlu-accuracy.md",
+      "title": "How Capital One’s AI assistant achieved 99% NLU accuracy",
+      "excerpt": "The vision of building an AI assistant that takes complexity out of money, and makes money management easier, has been relentless.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-6.09.56-PM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/amp/",
+      "publishedDateTime": "2020-07-16T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help.md",
+      "title": "Adobe CIO Stoddard: AI bots can ‘cut toil,’ reduce demands for IT help",
+      "excerpt": "You may only know Adobe as the Photoshop company, but it has spent years integrating AI into its products, as well as its internal business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/adobetransform2020-e1594212394263.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
+      "publishedDateTime": "2020-07-16T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise.md",
+      "title": "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise",
+      "excerpt": "A joint effort to help companies harness edge computing and a low latency network with AI capabilities for real-time insights. By combining IBM's proven success in AI, with its AI data analytics tool Watson serving a host of industries, and Verizon's long ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/06/11/64aa7866-0d0f-4a42-85d5-2ce16849056b/resize/1200x/380a3db2197135cd6c7eaa58bfbe393e/istock-1019082038.jpg",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
+      "publishedDateTime": "2020-07-16T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-cloudera-built-its-conversational-ai-chops-by-keeping-things-simple.md",
+      "title": "Cloudera built its conversational AI chops by keeping things simple",
+      "excerpt": "It turns out if you're a data company with modern data architectures at the ready, you have a head start building out internal conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloudera-conversational-ai-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "publishedDateTime": "2020-07-16T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
+      "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
+      "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T716884054_g.jpg",
+          "width": 539,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "publishedDateTime": "2020-07-16T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
+      "title": "Why Diversity In AI Is So Important",
+      "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f8ae4933def000676671c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D600",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "publishedDateTime": "2020-07-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
       "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
       "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
@@ -9,7 +297,7 @@
       "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -47,7 +335,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -96,56 +385,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs.md",
-      "title": "Verizon advances 5G edge computing with IBM deal, interoperability specs",
-      "excerpt": "Edge computing will be critically important to delivering highly responsive cellular services in the 5G era, and Verizon is pushing the industry forward.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/IMG_1390-e1571836605481.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/amp/",
-      "publishedDateTime": "2020-07-16T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -965,247 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-commonspirit-health-leverages-data-and-ai-to-reimagine-health-care-after-the-pandemic.md",
-      "title": "CommonSpirit Health leverages data and AI to reimagine health care after the pandemic",
-      "excerpt": "The pandemic is forcing us to reimagine what a \"good\" health care system looks like. For CommonSpirit Health, that includes AI and personalized care.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/commonspirit-health-leverages-data-and-ai-to-reimagine-health-care-after-the-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rich-roth-commonspirit-health-transform-2020.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/commonspirit-health-leverages-data-and-ai-to-reimagine-health-care-after-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/commonspirit-health-leverages-data-and-ai-to-reimagine-health-care-after-the-pandemic/amp/",
-      "publishedDateTime": "2020-07-15T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artie-releases-tool-to-measure-bias-in-speech-recognition-models.md",
-      "title": "Artie releases tool to measure bias in speech recognition models",
-      "excerpt": "Researchers at Artie released a tool to detect bias in speech recognition systems. In a proof of concept, they find evidence of bias in a Google model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/home-mini-aqua.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "publishedDateTime": "2020-07-15T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-facial-recognition-is-everywhere-heres-what-we-can-do-about-it.md",
-      "title": "Facial Recognition Is Everywhere. Here’s What We Can Do About It.",
-      "excerpt": "You can opt out of facial recognition in some cases, but the history and future of the technology suggest we’ll need bigger solutions to its privacy problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2020/07/202007_facial-rec-630-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
-      "publishedDateTime": "2020-07-15T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-baidu-tops-chinas-ai-public-cloud-services-market-report.md",
-      "title": "Baidu Tops China's AI Public Cloud Services Market: Report",
-      "excerpt": "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "publishedDateTime": "2020-07-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-a-new-rx-ai-for-operations-in-health-care.md",
-      "title": "A new Rx: AI for operations in health care",
-      "excerpt": "We may think of artificial intelligence (AI) in health care in terms of scientific advances, such as a cure for cancer or a science-fiction tricorder-like device. But in the real world, AI is making its initial impact in workflow and administrative tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/07/PhilipsAICoverforWeb.jpg",
-          "width": 1500,
-          "height": 1123,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
-      "publishedDateTime": "2020-07-15T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

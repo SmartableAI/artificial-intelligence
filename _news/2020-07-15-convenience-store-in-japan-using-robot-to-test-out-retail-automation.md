@@ -42,19 +42,21 @@ related:
         width: 782
         height: 545
         isCached: true
-  - title: "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation"
+  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-16T13:35:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/07/16/business/16reuters-japan-tech-robot.html"
+    publishedDateTime: 2020-07-16T17:48:00Z
+    webUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
+    ampWebUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 80
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 70
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg"
+        width: 646
+        height: 450
         isCached: true
   - title: "PICS: Japanese robot to clock in at store as retail automation in spotlight"
     excerpt: "Picture: Reuters/Issei Kato The idea, dubbed telexistence, was first proposed by the start up's co-founder ... predicted Professor Takeo Kanade, an AI and robotics scientist at Carnegie Mellon University in the United States, who joined Telexistence ..."

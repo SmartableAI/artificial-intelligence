@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
+      "title": "Why Diversity In AI Is So Important",
+      "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f8ae4933def000676671c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D600",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "publishedDateTime": "2020-07-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-ponicode-raises-34-million-to-develop-ai-that-automates-code-testing.md",
       "title": "Ponicode raises $3.4 million to develop AI that automates code testing",
       "excerpt": "Ponicode raised $3.4 million for its artificial intelligence platform that checks the accuracy of code to save developers from a time-consuming task.",
@@ -211,7 +261,7 @@
       "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
       "excerpt": "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/",
+      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=8&itm_content=2x4&itm_term=2356592",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1407,47 +1457,6 @@
         "Facebook AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-lost-memories-war-crimes-evidence-threatened-by-ai-moderation.md",
-      "title": "'Lost memories': War crimes evidence threatened by AI moderation",
-      "excerpt": "From bombings and protests to the opening of a new health center, student journalist Baraa Razzouk has been documenting daily life in Idlib, Syria, for years, and posting the videos to his YouTube account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-socialmedia-rights-trfn/lost-memories-war-crimes-evidence-threatened-by-ai-moderation-idUSKBN23Q2TO",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23Q2TO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23Q2TO",
-      "publishedDateTime": "2020-06-19T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

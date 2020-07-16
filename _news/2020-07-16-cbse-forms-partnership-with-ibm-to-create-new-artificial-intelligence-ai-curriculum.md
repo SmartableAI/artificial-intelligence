@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T15:16:00Z
 webUrl: "https://www.republicworld.com/india-news/education/cbse-ibm-artificial-intelligence-cbse-result.html"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,21 @@ images:
     isCached: true
 
 related:
-  - title: "MemSQL Broadens Partnership with AWS"
-    excerpt: "MemSQL, The Database of Now for operational analytics and cloud-native applications, is expanding its collaboration with Amazon Web Services (AWS) by joining the AWS ISV Workload Migration Program (WMP)."
-    publishedDateTime: 2020-07-16T14:25:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/MemSQL-Broadens-Partnership-with-AWS-141867.aspx"
+  - title: "CBSE integrates Artificial Intelligence in high school curriculum, partners with IBM"
+    excerpt: "The Central Board of Secondary Education (CBSE) has integrated a new Artificial Intelligence (AI) course for class XI and XII in the current academic year (2020-2021). Developed in partnership with IBM, this course will be part of CBSE's Social Empowerment ..."
+    publishedDateTime: 2020-07-16T16:55:00Z
+    webUrl: "https://www.businesstoday.in/technology/news/cbse-integrates-artificial-intelligence-in-high-school-curriculum-partners-with-ibm/story/410129.html"
+    ampWebUrl: "https://m.businesstoday.in/lite/story/cbse-integrates-artificial-intelligence-in-high-school-curriculum-partners-with-ibm/1/410129.html"
+    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/cbse-integrates-artificial-intelligence-in-high-school-curriculum-partners-with-ibm/1/410129.html"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
+      name: Business Today
+      domain: businesstoday.in
+    quality: 50
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
+      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/a_i_505_160720102228.jpg?size=1200:675"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "9w96iTVJqC5GQFM0qNhRFa4sRND2kYKFqUTdtjxdFGtQ7RIc8tK3x24ef9/HR8WnMgJLfxsbwKP/sQhLxZ9+YF11fO2WdyLClfdofmvBENVy4H9PlvQAhyrzkYnUqAk+n3koogjZoiHgWJzlt1761XZCyxKRuoUcJg4tjqMyVwXNwL+Yt3JjvgFDyX72NoqOQ+evDcHXADd4cxyeMUlVBrbd1PKwh82ht7KL1cgu+Y4FXqfNAsrGLFk6iXrcySL+0Q+jXDbOvuRE4Ba2m1kZGA5ZuEk0PA+qJBDJNDPzgSCOslu7Wvs9EPf+XqPVth9aExg+fyTdcBgnw77hv60KwQ==;gbDcTYkuyFZGqttMCzM8wg=="

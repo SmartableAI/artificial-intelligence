@@ -2,6 +2,97 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
+      "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
+      "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T716884054_g.jpg",
+          "width": 539,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "publishedDateTime": "2020-07-16T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
+      "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
+      "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "publishedDateTime": "2020-07-16T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
       "title": "Why supervised learning is more common than reinforcement learning",
       "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
@@ -1355,98 +1446,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
-      "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
-      "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f04a3f0385b8d0006ef80ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D712%26cropY1%3D0%26cropY2%3D400",
-          "width": 712,
-          "height": 401,
-          "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
-      "publishedDateTime": "2020-07-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
-      "title": "Machine learning helps grow artificial organs",
-      "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg",
-          "width": 1920,
-          "height": 1357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp",
-      "publishedDateTime": "2020-07-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

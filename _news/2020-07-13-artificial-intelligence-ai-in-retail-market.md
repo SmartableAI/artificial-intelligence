@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2089130/artificial-intelligence-ai-in-ret
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089130/artificial-intelligence-ai-in-retail-market-overview"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 650
     height: 303
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Retail Marketing Firm Applies for OTCQB Listing"
+    excerpt: "\"By trading on the OTCQB® with DTC eligibility, we are being attentive to this investor demand, in a nation that has one of the largest retail markets,\" Loop CEO Rob Anson said in the release. \"With so many US-based opportunities and partnerships already in the pipeline,"
+    publishedDateTime: 2020-07-16T17:03:00Z
+    webUrl: "https://www.streetwisereports.com/article/2020/07/16/artificial-intelligence-retail-marketing-firm-applies-for-otcqb-listing.html"
+    type: article
+    provider:
+      name: streetwisereports.com
+      domain: streetwisereports.com
+    quality: 52
+    images:
+      - url: "https://www.streetwisereports.com/images/AS-StockTechnologyPhone211-18-900.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "hsB3nvkx1IGxJmfCQBgnXu0jMdpHRqVXLEgbf1fXiJ4hCZoX5CnP3r+ern+aemIXkfbel6gT5sGAJNbUL135VLDrz6Razk0+yuTBFPA0fTlpYe1Fk3TifbHG5dvKQRc1PLmQEOdQriLoBSQjnlUR3X6pBmhSrF+wvlcv2oIuBz4m4jDgS8WKIlrsVc2CfXSrjdPzN4DYP7J1NkKwAHeb5whTxcBPMpyN8X8wZahLDicIzKqTFhg9kCmCPi/X9dVJ8hHTjD4O3ElZKHoXPZIF5hDPEMPthHV7tAybarn2yV5J4AesghexNGTxENCDq82JlJd5vqNgxH0u5mQxLMrJuw==;IMhNsP4C17ZOtiULkMHxJw=="
 ---

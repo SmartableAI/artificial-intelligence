@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Japanese Robot to Clock In at a Convenience Store in Test of Retail Automation"
+title: "Japanese robot to clock in at a convenience store in test of retail automation"
 excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-publishedDateTime: 2020-07-16T13:35:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/07/16/business/16reuters-japan-tech-robot.html"
+publishedDateTime: 2020-07-16T17:48:00Z
+webUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
+ampWebUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
 type: article
-quality: 80
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Times
+  domain: dailytimes.com.pk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
+  - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg"
+    width: 646
+    height: 450
     isCached: true
 
 related:
@@ -103,6 +101,6 @@ related:
         height: 708
         isCached: true
 
-secured: "gNsGWWOVnuZ41PlnWIjtuK37bJqE7jCCjpHz46G+Q6Lc93wYhJhs9k27wuxoyDHRvRRl6Sre9qrqOP8vyamMEY9KU5rD2UWBBBwlrEMsw9+YFsaVoxVoOBWPc3Ng+gE3wamlYSfyr1JAUlGsgSFiAy6jhbArVPNxK9JSg3i/K+JrbNWaYd9RygMFJNsHtAAWSaL1G+BVWy/BVm451yHMFTT65Fwb8St/wgIXl2EIlwaUEUcBjR1oIuEwxhKU80MsFrv5heEbCMtGuzNMJTKGuh1mF82H1Ca25ORVSJiOICcV3FjcG6eyZZX62rk4Fy1MsglehTyDh0umrpRvkvE+mQ==;ka74DQ56t9rk8r2SKDTSyA=="
+secured: "Au+KSpj2NU5zr+/Btj/IpBAlq/xIK4BykN1tN5LbU54H1XKfMLvWWUZclXhRpvyyvMwAuhLWqlmORZwhweFzjaADvhpxEXu6J5lsmFgkpedTcXfNiA0s/UMtnBZvbbi6tECzU+uZXFZTAolOK9uHc8wifUhP1s/bQ3H+GUyRuTu+2D1xvEfol3badAH2D6cvZQKxt6tjdPbBpcU3m5krDQ142SazDUROExBV5HFFsGOphhTb3VFMCYUewUZTDNlGju5GPZUJihlfa4HVoFYtKZELIsnK3r8FOsUZywhJZs15O+RF28d6y1Y6NFAAdkgtWw98oDyCEDb9zKzXYZ1O4g==;WFatx8qTMrsslvPqWkjapw=="
 ---
 

@@ -2,26 +2,22 @@
 category: news
 title: "How Artificial Intelligence is Influencing the Drone Industry For Improved Performance"
 excerpt: "PALM BEACH, Florida, July 16, 2020 /PRNewswire/ -- The global Artificial Intelligence (AI) -based Drone Software market size is expected to continue its rapid growth through the next five years, according to several reports. A Research And Markets report ..."
-publishedDateTime: 2020-07-16T13:36:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/how-artificial-intelligence-is-influencing-the-drone-industry-for-improved-performance-800106401.html"
+publishedDateTime: 2020-07-16T16:20:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16651592/how-artificial-intelligence-is-influencing-the-drone-industry-for-improved-performance"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16651592"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16651592"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "mBEPMW/t6wZEMfekYVxeq+ftlTWCP4uGImjjse5/3fbxkfLOPlP1Ws2kT0pEwyp9dQAkwMnRx2Wu3PTU40iJPabHJteCya6R13b7fG9co4zXIE3QqxmvPpO8ccQ9gAV7CH6TEXiGL8Ke7MLRy9wrPn/ZHFkECbtOfGjJjIXuCwRGrMyKADdBrHl33E5bCW8tVVBAlECdOpsFGjuPEqFDrD4oKa+K0Kmy3cooXpiWhswkcYt1YhuYmk6EY37A9iKIQfF6R2SEa1nym9Ky8DFr7XjLPmNnNhVUjXcDZhP95lEHUJRiff8us50ZrMD7OEwE60Kn5A8Dl+uN7epXXcIICA==;DckAfPh4QpWam/PJoNEc+Q=="
+secured: "Ix/3ElxpQFVnDXn07GiZWAFzWqZG6yWmJvZL9cvNYCPvdC6AHhYCVXqwDWo8Kuyib5iy1zqUjaBor7kZC5sBOGAThxLc2LJ1t+J/kA0qqqu1UBSo4reljKQMRU407GiHJCW5bD7XOv2bIqPOEeqqcCbWAk0Ii3VkvfHeGEZ5RYXggzPEVZdkRyN2FP9jAAHZjrMxB2+s+U1qqYFZd2dVlraof/0nHxxtsGiyZoV1zBu4JB5WDeXnwXE/59/+pH8SZqLWrH084jyp1j6CNjyek55FtOoozANiIxCsCXlSfygdWm0NuHkqcb3M2/ves+UsoTU5e3KpoDJDlUcSkqzuSw==;H7CflX4imK5jOAM9YSQLFg=="
 ---
 

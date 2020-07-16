@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2089476/self-driving-cars-market-global-k
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089476/self-driving-cars-market-global-key-players-trends-share"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 666
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Supply Chain Market: Global Industry Analysis, Geographical Segmentation, Drivers, Challenges, Trends Forecasts By 2025"
+    excerpt: "Jul 16, 2020 (CDN Newswire via Comtex) -- This top-notch Artificial Intelligence in Supply Chain market research report has been structured by skillful"
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-global-industry-analysis-geographical-segmentation-drivers-challenges-trends-forecasts-by-2025-2020-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Human Capital Management Market by Software, Services, Deployment Model, Organization Size, and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "The \"Human Capital Management Market by Software (Core HR, Applicant Tracking System, HR Analytics, Workforce Management), Services, Deployment Model (cloud and on-premises), Organization Size, and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2020-07-13T07:53:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005235/en/Human-Capital-Management-Market-Software-Services-Deployment"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005235/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "vOhIQ7YOjKHa7k8WrrdYrqOjDSUVojtLkFIDN3gVFnGmdYWKtEHpr9iEQzjjYtI87Re25zy4Td+WqPwi8tfZlTxw8OMUKcGvB21iTy2pPyvPktxbwOu4wCqtQCmxuipGU5vpRn1VG2AfgpIeGsoAfvIJjHFov4MKjQ5cWtpDRWo+pw27Bazxf6RYo5dFQGS+GvoKXNj16G/C9QN8J+4tgEytvnw7tzOSpIdiFeDsQgZW8yYBXQj3Sv0fuQ7/9oxRoHwzrfT9THk6OGEs1GcKNHM2xbfQ2NuvqrPA0lVcTN57e+HVNwJiKnVlo+QtC/if/wSJlvAubbq4mY1MarGXuA==;HUkzKpX9w2UPKSTre7QYZQ=="
 ---
