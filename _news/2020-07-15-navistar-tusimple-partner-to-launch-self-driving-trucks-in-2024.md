@@ -56,34 +56,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Here’s what one startup does when its self-driving cars get stuck"
-    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
-    publishedDateTime: 2020-07-11T13:00:00Z
-    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/?comments=1"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 54
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "This self-driving startup built a “car without wheels” for remote driving"
-    excerpt: "Perhaps they worry that providing details—or even admitting they exist—will cast their self-driving technology in an unflattering light. So it was refreshing to see the self-driving startup Voyage unveil its remote driving console as if it was announcing a major new product—which,"
-    publishedDateTime: 2020-07-11T13:00:00Z
-    webUrl: "https://arstechnica.com/cars/2020/07/heres-what-one-startup-does-when-its-self-driving-cars-get-stuck/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 53
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_9uMRkhWD5wWlM6djdcWAOQ-760x380.jpeg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
     excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
     publishedDateTime: 2020-07-15T12:04:00Z

@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Human Horizons' CTO Gives Keynote Speech at the World Artificial Intelligence Conference"
-excerpt: "This year's World Artificial Intelligence Conference '(WAIC)' has the theme of \"Intelligent Connectivity, Indivisible Community\". The conference is a \"high-level, international, professional, market-oriented,"
-publishedDateTime: 2020-07-14T15:07:00Z
-webUrl: "https://www.autoblog.com/press-releases/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference_23784/"
+excerpt: "This year's World Artificial Intelligence Conference '(WAIC)' has the theme of \"Intelligent Connectivity, Indivisible Community\"."
+publishedDateTime: 2020-07-14T13:25:00Z
+webUrl: "https://www.prnewswire.com/news-releases/human-horizons-cto-gives-keynote-speech-at-the-world-artificial-intelligence-conference-301093085.html"
 type: article
-quality: 8
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1214222/Human_Horizons_Mark_Stanton.jpg?p=facebook"
+    width: 1920
+    height: 1005
+    isCached: true
 
 related:
   - title: "Key Highlights From The World Artificial Intelligence Conference In China"
@@ -32,6 +38,6 @@ related:
         height: 626
         isCached: true
 
-secured: "fY/D9jCjmyWlVtsJ8Vm09X9SPyb8gAYUm1c9Zv1Sa1vOnaNIHrCX+YbOCv/m1XDk1AVpyq3T2v8cF6l42Bbsq6YIIXZC8oBYBpsSvStkYUdTGg7fOJziDdVcNbbk4Jt94r4KqBXuOH9B5uUmjlDUWVb9lwm2UeX8PnAbw0lG8Dibnrl0LAxGs5qOrvrZY7OUK1WZ7swtUCZHet0zLQMcoA07eIRngLdfH07o9pMD5js6Ym/ZHojvW6ySX+j78oDT94LX/RHzLBIgvky/rjfmiY3iP4X9jVGjjEByBIBvdHoJs0+Nym7BbGA/YA4AEFHxOtLVQn+o933upCkwksXSAQ==;0mKk5qR+t8w3gEgEJiJjNA=="
+secured: "LIYzhlG1PPqkz+a+4yhnnxBIWCxNvKLw5/EvWTNbF+bBw+DWuNOT8L69x1cNhUxvkZrkas0iz0oGLTUlOTvKbfeQMbigdOQxiBVUlOWppTKfCYsv2RfMCHo/lMZW1Fy6NeMfvbbBA3UaBT7iMoegRgXj9C5aqbLD6xnhIEiWDWYVSQpYBHc5wdMFOG17K6Orb6AN4k0UO868ReF1BfpFmHwy9n2ibKwWYY9vcYkVfNOlWJ5rlxV3Fad+kFOgMQ03mxURrXrkzUUkK6ATk9tHgemwIhKCIm2fUFVZQ0fEJM/4jcfzC1HwusC6c+MXkZXl7d0fjcox3ZGSfxfHkGrgXQ==;nw7bQ9VdrKcXqhHg+0eyVQ=="
 ---
 

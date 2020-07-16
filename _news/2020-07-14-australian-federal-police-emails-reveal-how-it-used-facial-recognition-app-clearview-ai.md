@@ -58,17 +58,6 @@ related:
         width: 950
         height: 629
         isCached: true
-  - title: "Facial recognition technology’s double-edged sword"
-    excerpt: "Facial recognition programs are notoriously error prone, often misidentifying an innocent person as potentially guilty. At the same time these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-11T12:37:00Z
-    webUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html"
-    ampWebUrl: "https://www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    cdnAmpWebUrl: "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/1474888/facial-recognition-technologys-doubleedged-sword.html/amp"
-    type: article
-    provider:
-      name: Albuquerque Journal
-      domain: abqjournal.com
-    quality: 39
   - title: "Dimond: The double-edged sword of facial recognition technology"
     excerpt: "On the television crime drama “FBI,” Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
     publishedDateTime: 2020-07-14T04:00:00Z
