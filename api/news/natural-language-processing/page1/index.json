@@ -155,6 +155,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-google-launches-hieroglyphics-translator-powered-by-ai.md",
+      "title": "Google launches hieroglyphics translator powered by AI",
+      "excerpt": "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-53420320",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53420320",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320",
+      "publishedDateTime": "2020-07-15T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-microsoft-to-discontinue-windows-builds-of-php-programming-language.md",
       "title": "Microsoft to discontinue Windows builds of PHP programming language",
       "excerpt": "SEE: Natural language processing: A cheat sheet (TechRepublic) Some PHP developers are interpreting the move as a suggestion from Microsoft that developers use Windows Subsystem for Linux 2. \"PHP is a first-class citizen of Azure, they're simply going to ...",
@@ -661,16 +711,16 @@
       "title": "Jonckers Announces New CEO",
       "excerpt": "Silke Zschweigert Newly appointed CEO of Jonckers - a global leader in language platform technology and multilingual solutions (Photo: Business Wire) “I’m very privileged to be asked by the Board to be the next CEO of this dynamic and forward-thinking company,",
       "sourceUrl": null,
-      "webUrl": "https://www.oleantimesherald.com/business/jonckers-announces-new-ceo/article_8f27717f-eec2-50de-bde3-851fcfac9078.html",
+      "webUrl": "https://www.fltimes.com/business/national/jonckers-announces-new-ceo/article_fa4a300c-e68f-5ed2-97b0-22da8c9ff1ec.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/custom/image/6e0114c2-753e-11e6-8652-4b3e0020306e.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -682,8 +732,8 @@
       "publishedDateTime": "2020-07-09T08:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Olean Times Herald",
-        "domain": "oleantimesherald.com",
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1434,57 +1484,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
-      "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
-      "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Common-Voice-e1593640326605.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
-      "publishedDateTime": "2020-07-01T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],

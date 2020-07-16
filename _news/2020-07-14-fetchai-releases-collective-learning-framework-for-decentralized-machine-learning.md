@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "A deep learning model for detecting mental illness from user content on social media"
+    excerpt: "Users of social media often share their feelings or emotional states through their posts. In this study, we developed a deep learning model to identify a user’s mental state based on his/her posting information. To this end, we collected posts from ..."
+    publishedDateTime: 2020-07-16T10:52:00Z
+    webUrl: "https://www.nature.com/articles/s41598-020-68764-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 32
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-68764-y/MediaObjects/41598_2020_68764_Fig1_HTML.png"
+        width: 379
+        height: 685
+        isCached: true
   - title: "The New Face of AI: Presagen’s Federated Learning algorithm creates higher performing AI than traditional centralized learning"
     excerpt: "AI Healthcare company Presagen has developed a novel Federated Learning technique that can create better performing AI than traditional centralized training approaches. Federated Learning is a technique that allows AI to train on data distributed in different locations throughout the world,"
     publishedDateTime: 2020-07-14T15:53:00Z

@@ -36,6 +36,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "A robot walks into White Castle ..."
+    excerpt: "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots."
+    publishedDateTime: 2020-07-16T11:00:00Z
+    webUrl: "https://www.zdnet.com/article/a-robot-walks-into-white-castle/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
   - title: "White Castle hires 'Flippy' the robot"
     excerpt: "Continue Reading Below The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy, have already been testing the robot's ability to cook White Castle's fried foods at one location. If the pilot is successful ..."
     publishedDateTime: 2020-07-14T16:31:00Z

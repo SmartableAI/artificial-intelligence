@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Tenstorrent Achieves First-Pass Silicon Success for High-Performance AI Processor SoC Using Synopsys' Broad DesignWare IP Portfolio"
-excerpt: "PRNewswire/ -- Highlights: Tenstorrent achieved first-pass silicon success for its Grayskull AI processor SoC using DesignWare PCI Express 4.0, ARC"
-publishedDateTime: 2020-07-15T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/tenstorrent-achieves-first-pass-silicon-success-for-high-performance-ai-processor-soc-using-synopsys-broad-designware-ip-portfolio-301093923.html"
+excerpt: "Highlights: Tenstorrent achieved first-pass silicon success for its Grayskull AI processor SoC using DesignWare PCI Express 4.0"
+publishedDateTime: 2020-07-15T14:08:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/tenstorrent-achieves-first-pass-silicon-success-for-high-performance-ai-processor-soc-using-synopsys-broad-designware-ip-portfolio-1029397437"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/tenstorrent-achieves-first-pass-silicon-success-for-high-performance-ai-processor-soc-using-synopsys-broad-designware-ip-portfolio-1029397437"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tenstorrent-achieves-first-pass-silicon-success-for-high-performance-ai-processor-soc-using-synopsys-broad-designware-ip-portfolio-1029397437"
 type: article
-quality: 9
-heat: 9
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "jreqBct2+kxy5eOCWJq1B/WKdF9wBVVaZYUT04sEORZ4/3ppzQvhIwzJ2pFV6ixoteLDPLN9tEQGzIQ5pc0Up4KY0ZoMd2X5DO5O/0Rp4TiGq9n4aptnTsQcA1s31SJYXZlkLrQ9+5qAEmaUOzfqnI4ydxPTKqfwxoppfjtwgI1p2gdvXW990zPAsm6yPZv441r3hK9ourt+TwJ/KDR7A7D6dW004DQl1S5f87TwMU+oAmWIJDXU6WD7slIpKf1erv23lmGp0kjbfhm8Bn1x5rOnBs3D0+/Tf2hNq4IzQnNQRScAb3fzimGPDP/OtHITnSE9uzuzgq6uH3YevFRlvg==;T/rk7BjWPb6p3nnM/K7pLQ=="
+secured: "uzKEcWu16k1I3HbwzAwsIPzOwaz4F3dllkef9J3KaeXEJdmK482xo2mZWAmD4q38qoJy6FQUq3wLsAdX7CbWxx6Y0YPugiRCrJt9MdIeuHIB0wMCaTUdl7yfPnXrvJO7VNXn2MQGbLXnoK9iddU9l51tEJPft/qtBxMnJgUb8QMZ/i0HxV05d7O8PNgUi81ZE6pbOpEXZwcsqKE/UvYYJ/WR9+mOroKq6Q4WFIBUeNOcA0UowuSesq75saGhpL2pd/r04ak9Y0FwuMSEEBJHCvA0fWEEuIDnfT8EPR1kvGn/CuPqG3t+iJtHOO6wKc/9DJXW33gs+DDcYET9p6gN4g==;48aa4KWi00zGCMtJ7uCdpg=="
 ---
 

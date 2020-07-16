@@ -8,8 +8,8 @@ ampWebUrl: "https://www.labmanager.com/news/maximizing-the-power-of-deep-learnin
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Lab Manager
@@ -41,6 +41,20 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fGenomics-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Machine learning for marketers: Getting the strategies and processes right"
+    excerpt: "Machine learning has the potential to transform marketers' operations - but organisations need to overcome various hurdles to achieve success."
+    publishedDateTime: 2020-07-16T10:51:00Z
+    webUrl: "https://marketingtechnews.net/news/2020/jul/16/machine-learning-for-marketers-getting-the-strategies-and-processes-right/"
+    type: article
+    provider:
+      name: marketingtechnews.net
+      domain: marketingtechnews.net
+    quality: 37
+    images:
+      - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/07/applause-ai-artificial-intelligence-testing-solution-data-sets-scale-news.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "vDc9/NkRwq/9lcVajySPqUcQOi9jY+oGlTbRp4/4nfflZkfnYJCAhdDrVzZMWazflpJXefpodDbL4DRM6hhFYa4ZDs2xoDs62mIzFO4DgZcfC6Z3Lmy7YMy6Tv47/vpj2JfDQdzLUx0ABpR3eiNNDkOdacyWNjMPyjby9163SS7NlLKEQj938383PCQdc37cjbY93sgUaCCXWu0qHZm1V7yLQIQ6hR/RmJ25oAEaW901ZTHnhiQYbVzqlU51GFHu94oCy/2ZunZRUfryJBEGNXygL/Ayq7TVz2rkkGLMlwLTUr1UvjhZz6/emn4VGjFKWDBSaj8dnr1DljZmG/fE+PwoVQZumXmjfLnrtRrbFlg/iYAoaVAVxIsiQ96QD1hGCA2bzq8evSbQ+CghiSp6JUqiAOStXQwvrKwuEhd3m+MXXExpwms3yWfcsDHWEntcpwfBcaeLbEoT1mX2E3U0oxJrF3Am6wlYUjg9cUFM0x+syFA8Z8vdhEu86BP26q9mLXc9fN/REdsJLwCQSWRR2w==;tQ3ADWC8Amh3p5To2pkRMg=="

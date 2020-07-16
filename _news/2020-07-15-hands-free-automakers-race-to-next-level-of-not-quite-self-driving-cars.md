@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-l
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Automakers race to next level of not quite self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-16T11:26:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/automakers-race-next-level-not-quite-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "DPOW6yI40fLJa0JIvFKLNg/jSRudeqJsUvtuICWmHTm1b05j3BEdPtvEqTt7nrH5g25TeywycoyLmqz58k9eQhmwIAmyf3C+0dxJsEP3Y9+vrJLSDEOiTxoNajzBHYUMANPpICzYKIz2btZPxMWObAFtrUUmP5VNtjnvLccMyORg1zT1ZTmEreOkIYqbcsRIY+KMg5icv8Hi9WxLSUUDvjVojI6W3zZH4pVo1qHPzgS3zAb48EQl+nqJDAa3j33gtcIqSta2m8eyZYpYmdbE7RN8pMJgxDHF1CjgsArIFIZ/qmTHoXlQ3y61aQFN0kRPpEOSjFbSpk2Pesiiq7ziBaOZp6tVvg2lBbevx5jyQ66/+YgbPgOEhBsUbr6xSYg1oPP8S+NGybdN4NK6RWHFuDUvGB6avJo9dcMbSiRoImFiKkMK9J7J7mVZtqo4yqQziaEuQpyePhRRaAA9F1fX8+un3sFwpP9lyISgLJFZ2f0fqLBl0JpActUjUMM6E1c/pANv2t65/Hf3i6L2OfP/LQ==;NrDK0NNPYw10ej4vW+wTpw=="
 ---

@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-16-shield-ai-rejected-a-pivot-to-selfie-drones-now-its-drones-are-being-used-by-the-military-overseas.md",
+      "title": "Shield AI Rejected A Pivot To ‘Selfie Drones.’ Now Its Drones Are Being Used By The Military Overseas",
+      "excerpt": "The overseas deployment of the startup's drones comes full circle for cofounder Brandon Tseng, who came up with the idea as a Navy SEAL in Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee17ac1194e4200062e8f19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1236%26cropY1%3D185%26cropY2%3D1009",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
+      "publishedDateTime": "2020-07-16T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
+      "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
+      "excerpt": "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "publishedDateTime": "2020-07-16T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister.md",
       "title": "UAE open to work closely with Tesla on driverless cars, says minister",
       "excerpt": "The government plans to hand out data that would be useful to driver-less cars to help incentivize start-ups, Minister of State for Artificial Intelligence Omar Al Olama said. Dubai Future Lab ...",
@@ -739,7 +829,7 @@
       "webUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1022,55 +1112,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-pioneering-study-uses-traffic-cameras-and-ai-to-predict-future-promising-to-save-lives-and-money.md",
-      "title": "Pioneering study uses traffic cameras and AI to predict future, promising to save lives and money",
-      "excerpt": "In an effort to prevent deaths and injuries caused by crashes between vehicles, bikes and pedestrians, the city of Bellevue, Wash., set out more than five years ago to foresee the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bellevue-cam-630x362.png",
-          "width": 630,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/amp/",
-      "publishedDateTime": "2020-07-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
       "title": "How Intuit is moving from mobile-first to AI-first",
       "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
@@ -1321,6 +1362,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-google-launches-hieroglyphics-translator-powered-by-ai.md",
+      "title": "Google launches hieroglyphics translator powered by AI",
+      "excerpt": "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-53420320",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53420320",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320",
+      "publishedDateTime": "2020-07-15T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-this-tiny-uk-startup-chipmaker-is-targeting-intel-and-nvidia-with-a-monster-ai-cpu.md",
       "title": "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU",
       "excerpt": "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world.",
@@ -1367,106 +1458,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-microsoft-to-discontinue-windows-builds-of-php-programming-language.md",
-      "title": "Microsoft to discontinue Windows builds of PHP programming language",
-      "excerpt": "SEE: Natural language processing: A cheat sheet (TechRepublic) Some PHP developers are interpreting the move as a suggestion from Microsoft that developers use Windows Subsystem for Linux 2. \"PHP is a first-class citizen of Azure, they're simply going to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-to-discontinue-windows-builds-of-php-programming-language/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/11/bfc2d037-452b-4318-811b-aa093c648d91/resize/1200x/370fd8823f396de1262ccd764b276a5c/microsoft-build-1-copy.jpg",
-          "width": 1200,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-to-discontinue-windows-builds-of-php-programming-language/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-to-discontinue-windows-builds-of-php-programming-language/",
-      "publishedDateTime": "2020-07-15T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-to-use-speech-to-text-on-microsoft-word-to-write-and-edit-with-your-voice.md",
-      "title": "How to use speech-to-text on Microsoft Word to write and edit with your voice",
-      "excerpt": "Word supports speech-to-text, which lets you dictate your writing using voice recognition. Speech-to-text in Word is convenient and surprisingly accurate, and can help anyone who has issues typing with a typical keyboard. You can use speech-to-text in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0cb7373ad8610318757d34?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
-      "publishedDateTime": "2020-07-15T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

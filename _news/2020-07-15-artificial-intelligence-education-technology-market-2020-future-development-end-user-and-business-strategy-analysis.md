@@ -41,6 +41,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Artificial Intelligence in Education Market 2020- Future Development, End User and Business Strategy Analysis"
+    excerpt: "Artificial Intelligence in Education Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in Education Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-07-15T12:25:00Z
+    webUrl: "https://www.openpr.com/news/2090562/artificial-intelligence-in-education-market-2020-future"
+    ampWebUrl: "https://www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/T/7/T715260600_g.jpg"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
     excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
     publishedDateTime: 2020-07-15T10:15:00Z
