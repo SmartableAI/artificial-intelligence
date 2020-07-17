@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-17-ai-weekly-transform-2020-showcased-the-practical-side-of-ai-and-ml.md",
+      "title": "AI Weekly: Transform 2020 showcased the practical side of AI and ML",
+      "excerpt": "Luminaries including Google Brain ethicist Timnit Gebru and IBM AI ethics leader Francesca Rossi spoke about how women are advancing AI and leading the trend of AI fairness, ethics, and human ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rich-roth-commonspirit-health-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
+      "publishedDateTime": "2020-07-17T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-the-poetic-process-powering-real-time-language-translation-in-namibia.md",
       "title": "The poetic process powering real-time language translation in Namibia",
       "excerpt": "If we can design applications that are able to translate what we’re saying in real time,” Nekoto says, “then that’s one step closer toward economic [development].” That’s one of the goals of the Masakhane project,",
@@ -1418,47 +1469,6 @@
       "provider": {
         "name": "Local News 8",
         "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-ucla-debuts-98-percent-accurate-sign-language-translating-glove.md",
-      "title": "UCLA Debuts 98-Percent Accurate Sign Language-Translating Glove",
-      "excerpt": "UCLA researchers have now reportedly developed a new tech-driven glove that not only works for translating American Sign Language. It's also inexpensive",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/07/UCLA-ASL-sign-language-translating-gloves.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html/amp",
-      "publishedDateTime": "2020-07-02T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -31,17 +31,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 45
-  - title: "Frontline Systems' Analytic Solver® and RASON® Enable Creation and Deployment of Analytic Models on Azure, Power Platform"
-    excerpt: "Analytic Solver works in Microsoft Excel to enable business analysts who aren't data scientists to build and solve analytic models themselves. It is upward compatible from the Solver in Excel, which Frontline originally developed for Microsoft."
-    publishedDateTime: 2020-07-13T04:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/frontline-systems-analytic-solver-and-rason-enable-creation-and-deployment-of-analytic-models-on-azure-power-platform-1029386073"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/frontline-systems-analytic-solver-and-rason-enable-creation-and-deployment-of-analytic-models-on-azure-power-platform-1029386073"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-analytic-solver-and-rason-enable-creation-and-deployment-of-analytic-models-on-azure-power-platform-1029386073"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
 
 secured: "v7sEYVuv1LO8kInlWN9hsy++TxUp4OCM2O4q4T+kpjQwkRwYsDi/Htn8oyG4nHPAmaS5+HvdbxHri+HIoC7QRDP4yKc7NpXWiSmlbcL0fnqJ2kYCzb5hd0ehnDljvKsVolzwcLm6oJifa5CF+Vh+t0zhEwbgeVX+Hz9Z/5ssC1O6j3PLUHpCOnDctGsFiy6EvHZgCNOAOyiU/0Ydhdd06K//WYkqCX/QBf66KigspORd0nhujq6waRktxjilNBhB0TbiXJvhd+812hdQ8kHf7Pa8vxK8TbQhDa9AO2WtI3G0qRb6GCkC44RBXJTMrZpRewncQkHF7QQGj1CaojMIKQ==;vAssCFG705uDsyy3qv4E1g=="
 ---

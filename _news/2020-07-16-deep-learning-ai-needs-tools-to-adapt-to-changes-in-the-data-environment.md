@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1255304161%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D489%26cropY2%3D4269"
         width: 1200
         height: 675
-        isCached: true
-  - title: "State Super moves to add machine learning tools"
-    excerpt: "Australia's State Super has hired Neuberger Berman LLC for an equity mandate and to help the fund accelerate development of data science and machine learning tools that can complement its more traditional investment capabilities."
-    publishedDateTime: 2020-07-13T04:00:00Z
-    webUrl: "https://www.pionline.com/investing/state-super-moves-add-machine-learning-tools"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 39
-    images:
-      - url: "https://crain-platform-cpi-prod.s3.amazonaws.com/s3fs-public/styles/800x600/public/wu_charles_2019_head-main_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "nrtCuRrXt8jRw7I2nAeV+35y+4qo9mE9GHEkY5SaGvVy7wFC2CcWdJdH2z/oTbH9xjONcRLPHnpYwvcqzzEhI1gR1EO2Rx2z3lYJZdYrOqHp1T4EUdoPcfBDkbFKrSW2uUstZ1J9kkkfX17aH6KKP9lbwvE/zRcxWzR1u0IeZHVeZm5GnfKXattSAXFLAgoHMbP7+Zcx476sXb8Xd505eFDpCoHthxxIV/PMeiMYB/Gvv3BRKYIhRQlbjHEQaPddXPtABPZQ70K9JZZx2ktO5SFGWUibhzpg3TRpNxsWHjPcbZdztNPLTVREkJT37qLcmnQzMQjwdrsQgOyO5sZ86nt0CiIm6WSpre4/mF0fXyTwreL1ZpTqfC2cZGlqS0NqkP+QKG7nYMXBlUECl8paCvfC7/HCo+loMxSLuJjoMtj9QNBOrvoN5DGhXHZM/9ydwKmfVSDKpXwJE4aq1J7X/EM3EBLIcMQOTsPFHPfRPHBNpAtW8lCfzd5DfOvJnvsQ;Zq4tETEG2CfXNrGNKjsvJA=="

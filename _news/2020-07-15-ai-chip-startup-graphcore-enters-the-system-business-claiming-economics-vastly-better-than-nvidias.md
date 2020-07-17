@@ -46,6 +46,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "AI startup Graphcore launches Nvidia competitor"
+    excerpt: "A British chip startup has launched what it claims is the world's most complex AI chip, the Colossus MK2 or GC200 IPU (intelligence processing unit). Graphcore is positioning its MK2 against Nvidia's Ampere A100 GPU for AI applications. The MK2 and its ..."
+    publishedDateTime: 2020-07-17T21:04:00Z
+    webUrl: "https://www.networkworld.com/article/3567349/ai-startup-graphcore-launches-nvidia-competitor.html"
+    ampWebUrl: "https://www.networkworld.com/article/3567349/ai-startup-graphcore-launches-nvidia-competitor.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3567349/ai-startup-graphcore-launches-nvidia-competitor.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/07/ipu-machine-for-machine-intelligence-compute-100852152-medium.jpg"
+        width: 300
+        height: 225
+        isCached: true
 
 secured: "dXf47usFbO0A9aeodWWcdY+4ScpNHgyEsSEqIFraXOSsjxyUQiN5M/7FlzM5WjtyIr7Srrml4PIGkcJCl6exvMF5CNMzlY+PaNhyUtn4btf1lQ3ACUK4/3FObvdw7rijJllWNXiH45380eEm0aQ7Cbvul4K1laZh7dKz0s4Pr7q+tKeJTIxzS4L8VCelV52p0Z9qm8Iy3JZkzhhLkABBaOB6kGByAwAz2j0B8ahBA5f7Joj/L2P9aqz5b0ClZVNoVKB0OBmXUNWbkBckBEOzTy0WgCnxihq6tnVmazzwOuHplfuJdODodbpomBIk2+NlBOlqUJ7VIriZah2O/XGr2sO20PN0guD68TWKz4R+WxjML/n+I/tzVyPRshC6jeR9oPkmpATl8wnXIcsj53GPWcRV2BpvzdKrMw7/yIgH0bakED3CuJvXDtZt4y0Ctz3MDaEle5x8tBUHlyY6SYp8/X5s21Bf7pwd69t5VQV7dGpJ1MiyA3UsZPHkHus3k0IQwfke5hFsHz8ulYDZct6kMQ==;mPB4WoeHtRbBybV7hoFGFw=="
 ---

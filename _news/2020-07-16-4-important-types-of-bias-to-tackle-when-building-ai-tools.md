@@ -46,20 +46,6 @@ related:
         width: 876
         height: 548
         isCached: true
-  - title: "State Super moves to add machine learning tools"
-    excerpt: "Australia's State Super has hired Neuberger Berman LLC for an equity mandate and to help the fund accelerate development of data science and machine learning tools that can complement its more traditional investment capabilities."
-    publishedDateTime: 2020-07-13T04:00:00Z
-    webUrl: "https://www.pionline.com/investing/state-super-moves-add-machine-learning-tools"
-    type: article
-    provider:
-      name: Pensions&Investments
-      domain: pionline.com
-    quality: 39
-    images:
-      - url: "https://crain-platform-cpi-prod.s3.amazonaws.com/s3fs-public/styles/800x600/public/wu_charles_2019_head-main_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "L8xwKc9CIlavswbNBXN71pelFahVD/4+INM2IGpellrDs/nNwDsmJaSHhY4SciS7aPMluj2EBQIx9OSY6GMMzZYAiTrRPdeLMEOJvQBui/dRrQUs205UQE3u2N8ItsKE1CTYJuBddOZ9DHzI3lvizpTic2sme2r3q+kLZHolDY7n23jCE7JkVr1an/zZ87KUP6hsUJzJWdYiqKp16YsV+yusCaS69DcSMwXwIc60vjB2+1I79MNiRtGhenrbXl+Rgbe8Xav0L7/ZdXZ/gZh2lTMaAD2PPpo6/tsSTM626ogcov4taxDJV+d4l9WAJjXhfdVpNY3hBkWA6xt2qmtfgGEWlppmHweaYvUun3OfG+jSqN3XjPZsYHUSZtsc1sIBZwLas5aT7iGoh6Ds0wh5T9Sj2VvxDJhO//CdGlfXdBRZ4q1g1clcgRGb6xut7hGPiNy+cToRImMY/0PJN+4dlIhBnILQoYSU5TlFaCXNB9DBku0q46cG3Xl+1O/WzDRCBF8N5x9Wms7kmSe2mdDKmw==;oSQgcFTo7qN8NvKXYc1yPA=="
 ---

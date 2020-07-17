@@ -2,6 +2,240 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-15-ai-enabled-robotics-are-helping-to-strengthen-recycling-processing-capabilities.md",
+      "title": "AI-enabled Robotics are Helping to Strengthen Recycling Processing Capabilities",
+      "excerpt": "Roboticists think that, “computer vision, neural networks and modular robotics can enable a more intelligent, flexible approach to recycling.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/automation/ai-enabled-robotics-are-helping-strengthen-recycling-processing-capabilities",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/recycling-machine.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-caption-health-raises-53m-to-democratize-heart-scans-with-ai.md",
+      "title": "Caption Health Raises $53M To ‘Democratize’ Heart Scans With AI",
+      "excerpt": "We've really kind of cracked this problem where our AI empowers these medical providers to perform and interpret ultrasounds,” says Cadieu, who launched the company in 2013, along with CTO Kilian Koepsell.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e47d55de5350006a46be9%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/amp/",
+      "publishedDateTime": "2020-07-15T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-could-graphcores-second-chip-challenge-nvidia.md",
+      "title": "Could Graphcore’s Second Chip Challenge NVIDIA?",
+      "excerpt": "Today it introduced its second-generation product for AI, a massively parallel chip with 59.4 billion transistors that delivers some 250 Trillion Operations per Second (TOPS). However, the company’s potential to challenge NVIDIA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e8c05c604cd0007da11ee%2F0x0.jpg",
+          "width": 974,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
+      "publishedDateTime": "2020-07-15T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-graphcore-claims-its-m2000-ai-computer-hits-1-petaflop.md",
+      "title": "Graphcore claims its M2000 AI computer hits 1 petaflop",
+      "excerpt": "Chip startup Graphcore detailed its second-generation IPU and the M2000 AI computer, which the company claims can achieve up to a petaflop of compute.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
+      "publishedDateTime": "2020-07-15T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens.md",
+      "title": "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens",
+      "excerpt": "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
+      "publishedDateTime": "2020-07-14T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-ponicode-raises-34-million-to-develop-ai-that-automates-code-testing.md",
       "title": "Ponicode raises $3.4 million to develop AI that automates code testing",
       "excerpt": "Ponicode raised $3.4 million for its artificial intelligence platform that checks the accuracy of code to save developers from a time-consuming task.",
@@ -1239,245 +1473,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-google-cloud-announces-bigquery-omni-multicloud-analytics-solution.md",
-      "title": "Google Cloud announces BigQuery Omni multicloud analytics solution",
-      "excerpt": "The platform allows users to directly access data across Google Cloud, AWS and Azure without having to move or copy datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/13/471d3e68-41c0-421f-9dfe-07cf9015f603/resize/1200x/8139636760652dafe5a73109a9871561/google.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-announces-bigquery-omni-multicloud-analytics-solution/",
-      "publishedDateTime": "2020-07-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-grant-imahara-dies-former-mythbusters-white-rabbit-project-host-was-49.md",
-      "title": "Grant Imahara Dies: Former ‘MythBusters’ & ‘White Rabbit Project’ Host Was 49",
-      "excerpt": "Grant Imahara, a former MythBusters and White Rabbit Project host who earlier worked as a modelmaker for Industrial Light + Magic, died Monday of a a brain aneurysm.",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pmcdeadline2.files.wordpress.com/2020/07/grant-imahara-crop.jpg?w=1024",
-          "width": 1024,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2020/07/grant-imahara-dead-former-mythbusters-white-rabbit-project-host-was-49-1202984987/amp/",
-      "publishedDateTime": "2020-07-14T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai.md",
-      "title": "Pricefx raises $65 million to optimize product and service pricing with AI",
-      "excerpt": "Pricefx, a startup developing product and service pricing optimization software, has raised $65 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_138594755-e1594392349356.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/pricefx-raises-65-million-to-optimize-product-and-service-pricing-with-ai/amp/",
-      "publishedDateTime": "2020-07-14T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers.md",
-      "title": "Microsoft Power Virtual Agents: Now you can build no-code chatbots without developers",
-      "excerpt": "Microsoft uses its low-code Power Platform to help you quickly author and deploy chatbots on websites or in applications like Teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/09/9675ba33-f7eb-45a4-9555-94f67f48eeef/thumbnail/1200x675/91ca737ccb2619d4a34dc4c1a94d0d8d/20200608-lowcode-tom.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-virtual-agents-now-you-can-build-no-code-chatbots-without-developers/",
-      "publishedDateTime": "2020-07-14T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it.md",
-      "title": "5 reasons AI isn't being adopted at your organization (and how to fix it)",
-      "excerpt": "In both the public and private sectors, these are the barriers to meaningful adoption of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/30/81ed5293-9a77-4ace-8a37-5ee3bb6e7441/ai-ml-3.jpg",
-          "width": 800,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-reasons-ai-isnt-being-adopted-at-your-organization-and-how-to-fix-it/",
-      "publishedDateTime": "2020-07-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -1,30 +1,30 @@
 ---
 category: news
-title: "Autonomous trucking startup Plus.ai reportedly seeking $60M"
-excerpt: "Plus.ai, a self-driving trucking company based in the U.S. and China, is in talks to raise $60 million, the Information reported."
-publishedDateTime: 2020-07-17T17:02:00Z
-webUrl: "https://www.freightwaves.com/news/plusai-reportedly-seeking-%2460m"
-ampWebUrl: "https://www.freightwaves.com/news/plusai-reportedly-seeking-%2460m/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/plusai-reportedly-seeking-%2460m/amp"
+title: "Autonomous Trucking Startup Plus.ai Reportedly Seeking $60M"
+excerpt: "Plus.ai, an autonomous trucking startup based in the U.S. and China ... while others move full steam ahead with industry partnerships. In March, Starsky Robotics, a remote operated autonomous trucking startup shut down after failing to raise additional ..."
+publishedDateTime: 2020-07-17T20:01:00Z
+webUrl: "https://www.benzinga.com/news/20/07/16674898/autonomous-trucking-startup-plus-ai-reportedly-seeking-60m"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16674898"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16674898"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2020/07/Plus.ai-driving-in-sleet.jpg"
+  - url: "https://www.benzinga.com/files/images/story/2012/plus.ai-driving-in-sleet_1.jpg"
     width: 1200
     height: 839
     isCached: true
 
-secured: "oaqk3jtACwv8yWy0tddWAc1bx7ru1AQD7hI6vyWUApKYkZQBk32huBPESETaDOFLNF5Cm3vKZ+jjtXpu1vCjujmii88AIVHDaaPe4b9cr7R2n6DXeXkAKDCj+z1BvvywB3FlxjA8YQ+3w0dJLnjzP7Rdyq7l3zFcsLCnksxSiTZa3rKiWbCzkuuHZMk8v2aqN9AyMsTSD57O+wDAsy7jvjL1SQ+a1E+C0qT/kf5ivR4PDOTs8vPJPfIquSEmqWXngT3FU8kfmzcKhAQylMCcUpB+3HuVuFNb/nzeJ+13pX2AdP5drnDHvpvd+yvqUMxVxnsNzT9q9JbhzJt3A7VEEg==;uTWmHnkadSAn9DhAwcuNiQ=="
+secured: "DyAk33549qyox9qKOotuj6FP2yF2NK1jgu4K7kbKoLOW8/zsDaTiIiFjQSg8UbVPNanz5QqFxEUZtxVQ2fdmCs5jlpnvx4r6iSYEhmSxlHhGs4yUVPDsFDi0HMok0123F16A039eqW+Dec1OlvzWazZ0dG+q4cr8cqgL/wLSByKCatzlxJZX9OGcM6A+7GOC3or4Ex7i0bt4fVupX6rPI5dTktNZUfE18FLgxAWK6c7oo01r0TzQI1YCGhPYBCpCjyOA4WFqgIN4dxyM2Z4+LjXZ0pkThE4GMg48S/jpFxbbysEewAgT3JJBDQX/UYXotM7+4vN8iECe7oUDm1u4hQ==;3kh6FQ7SSG0lAxrwWpl+Yg=="
 ---
 

@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 731
         isCached: true
+  - title: "Disney's new AI is facial recognition for animation"
+    excerpt: "The pipeline leveraged existing facial recognition software, which the DTCI team then applied to its catalog of movies and TV shows. The module was able to successfully detect and recognize human faces from the onscreen action. Following that initial ..."
+    publishedDateTime: 2020-07-17T20:53:00Z
+    webUrl: "https://www.engadget.com/disneys-new-ai-is-facial-recognition-for-animation-163054440.html"
+    ampWebUrl: "https://www.engadget.com/amp/disneys-new-ai-is-facial-recognition-for-animation-163054440.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/disneys-new-ai-is-facial-recognition-for-animation-163054440.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
   - title: "Using facial recognition to curb COVID-19"
     excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
     publishedDateTime: 2020-07-14T00:06:00Z
@@ -75,6 +86,6 @@ related:
         height: 300
         isCached: true
 
-secured: "0Q1F3dD4oeoohu9xbBsp3dEaDq3v61/mr+vXPiDDs3YcCYjl3+AQiN4+2nBxqUhBJZBuEA5KcrepjLNxpHIlViG/G0zu98+C6yYzeESI2SRIsXHymTTucXUogJbd4ZBV+g6x1vm7NLCF0SzLAGnRSrp1tzkgaMMgJfgv6qhisClFF8ckdnVvKAu4Qd0mdUs8DvVKEzNUJje2BTOVFbjKuTD7C4N4FnWYYeObUGRTej86VjNjatd6KeMEAqduoobSd/VD1ovhSMb8JTe0Iuy2Wm/qsrHxHvPyMAHYD96YpEHw2cA4b7m7rN7tM7P5rJzlsk1USXLorAOJTUCItgzPOw==;LLQ++wBP7nOY0kMVAxQcUw=="
+secured: "NNqmVAPkimnK7mivqgSuDlEQ1Gg/bH72b65EZMWM8kI5gHsgrOpPy4OS8Ikg1qo/Egdqtsl9zXqUd2ER74DztUpiL2LFotFZD0nDGA+eNjSCbH46wPBbwyaRD7bULTdRArlzDV4kwSScsjpqs1ofE9rC/W+m8je8zLGAe3KBL2jETXMuPKE96PlNpQDMt0zjKroy9Vchkfu4X26ir+LXb/dowHG5XIQf91FqmEXJ6H5acNVLYMg2qOWxHL/j3HKukvaZYzRjDirr/b+j5ofwMFPjekU4Jx4IKR/4eJVp9S/TWsVt4zw4haNoMRbu6tjpJ4HALFOxSZh71hyFE5Orb6DpRcfIQNv4dMJXofGyDCoMOXXeJ99wG+R24Q4Rvyz2Ni3r4OnhdyxoWkojKOMRCn22xGR94eOG53q3hweyz1aLBaq22mA+Hha8dNBMa0nGKC5rxF8A32kpUUhwMMaDEv5AlyBxTZFrLLo33Fj08y/L32Db+rRO162freSlyXfKhdZ9MagkWwrkvw3rzKhDTQ==;3lq2W6jV5LPePM3j2XENEw=="
 ---
 

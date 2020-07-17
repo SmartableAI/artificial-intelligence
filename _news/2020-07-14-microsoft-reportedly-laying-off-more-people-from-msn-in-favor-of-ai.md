@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations"
+    excerpt: "Microsoft has reportedly cut \"hundreds\" of jobs in its MSN, Azure, and sales organizations as part of its end of financial year re-evaluations. However, they are not as massive as the previous years."
+    publishedDateTime: 2020-07-17T21:44:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 103
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Microsoft is reportedly making more job cuts at MSN in favor of an AI-driven system of selecting news stories"
     excerpt: "Staffing changes are relatively common within Microsoft around the time its new fiscal year rolls around on July 1."
     publishedDateTime: 2020-07-13T23:52:00Z

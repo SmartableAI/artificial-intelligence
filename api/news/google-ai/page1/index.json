@@ -552,6 +552,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-02-deep-learning-processor-ip-listing.md",
+      "title": "Deep learning processor IP Listing",
+      "excerpt": "Like the DV 700, the DV 500 is based ... Efficient and Versatile Computer Vision, Image, Voice, Natural Language, Neural Network Processor VIP9000 supports all popular deep learning frameworks (TensorFlow, Pytorch, TensorFlow Lite, ... The CEVA-XM4 imaging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/sip/?q=deep+learning+processor",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard.md",
       "title": "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard",
       "excerpt": "These two sources are fed into a neural network using TensorFlow. You train the system by driving the vehicle manually through the course a few times and then let it drive itself. In the video ...",
@@ -733,21 +765,39 @@
       "title": "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers",
       "excerpt": "With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite",
+      "webUrl": "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16443255",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255",
-      "publishedDateTime": "2020-06-30T03:17:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1342,56 +1392,6 @@
         "AI",
         "AI Ethics",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-why-ai-is-the-future-of-remote-security-monitoring.md",
-      "title": "Why AI Is The Future Of Remote Security Monitoring",
-      "excerpt": "The computer scientists and data modeling experts who created the popular machine learning framework TensorFlow have found that convolutional neural network-based models are the most effective at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eefc5f6db254b0006295634%2F0x0.jpg",
-          "width": 1200,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/21/why-ai-is-the-future-of-remote-security-monitoring/amp/",
-      "publishedDateTime": "2020-06-21T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

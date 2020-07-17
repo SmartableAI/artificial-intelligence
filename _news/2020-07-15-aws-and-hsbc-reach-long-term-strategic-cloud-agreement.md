@@ -3,7 +3,7 @@ category: news
 title: "AWS and HSBC Reach Long-Term Strategic Cloud Agreement"
 excerpt: "HSBC has selected AWS as a long-term strategic cloud provider to drive its digital transformation and deliver new and personalized banking services."
 publishedDateTime: 2020-07-15T07:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200715005162/en/AWS-HSBC-Reach-Long-Term-Strategic-Cloud-Agreement"
+webUrl: "https://www.businesswire.com/news/home/20200715005162/en/AWS-HSBC-Reach-Long-Term-Strategic-Cloud-Agreement/?feedref=JjAwJuNHiystnCoBq_hl-WsGkFyUNMTSNrPsg57HLEqqcp-o_pnudlUwsb5apQ1S4gUE65BTfjH3-pSuqdv0gW3cb3F4oTIgUqCPafFkgu5AneicJQDNboWvodvG82E0"
 type: article
 quality: 39
 heat: -1
@@ -48,6 +48,6 @@ related:
       domain: executivegov.com
     quality: 9
 
-secured: "+NnEdMevHK08KDoM0FnpAa2e7PY28nRBHoh/4Q/3JXF3FVQbzmF6QlD2mp37Psb6FpkEbTz/tyXnUmVbcU1XACCYd/vGtZ+w0Y7O6Nb7i0JH7pcPjQgbaCq9p13VLSVj5HrYIN4vbi1iAcjqT5Sh9o+riTtyVQlhogDrcG6mbBL7KImG6uk4Q5n9RDJ0eVBZMewsQ845CJ6vvX4O2A1bz6gsVe9TE6dOUgGdaizLD0Gw4DpuyGmsy5frKmk1Uv17l8t6LiTHIfzRsdCY2NK69mBzqItIyWG6kiQMvY/qFjMm/nWekaQc5F8s1ril3/mhK9GvTcVY3LsHLMQ1ODfQyg==;wWl1fgil3QhEVitP8JaeQA=="
+secured: "lXNowAbtlpQZXn+lul51vGOSKNnYxZEKu2Gc8deM8xHj+s2UDMgsQ14dwUAy78N3cashPMcWWKRgvBDtiT8+cvPX2zduLFkProA7Ye0YsfAwpO07m7Ep/4VcFlucA7hOuBIs4GKtIDUJLW/33M8LRqCu9JJQ0dAJFATYXsqgB94kXUFZ2OEeV8vwSD4q6FTchBsWEDBqSOdvMNxHZWqL7wVsNoYqeGEDMSaeursGAc5ag71UsrlgkhRby7OygLTOysn5Qq/hiHwV7XSvctdqmQFnmWQY3G3hjSCqj2cRjNc2SPXOthE+XSagIb9coAXeP0glcsxx2Ywaq9bi6jsmbA==;p0kmXH+wHr2HSzgxFT6H4A=="
 ---
 

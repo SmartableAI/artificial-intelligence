@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
+    excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."
+    publishedDateTime: 2020-07-17T12:00:00Z
+    webUrl: "https://apnews.com/b467a34562484b769bb04a71ab986f65"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
     excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
     publishedDateTime: 2020-07-17T15:51:00Z
@@ -89,6 +103,6 @@ related:
       domain: worldoil.com
     quality: 13
 
-secured: "bdavO2PoEtL30XrTIIDiF3FromLoOYQoFErvHlFI46oN0+JmL5zJoeKSKr1kNcLF7q1fywSI1DL0Q3nw6mJfT4wLiJrSPV/HvDeFj4fWnU0j98W2CJBgH0t5mkyp7DTQz+RLj54R4IHuC+0qJc7FTM470XQwQYTB4zTNf6RhHyvFZFJXrUqyLxXcC+igvLAZZMDFW16Q5Mj1h4aJVOOQIRru+dqHTZj+xCVqbmPetnXDpZ3aOhUWSQbYDH3eE2vYi5KynbBJB3TG3mGyJZTO7FCN+A19IXMmLu+rE4x++yij3xE5OenxWTIR3WjEQ8PH/JvHJRw/s6hX06x2eYsfMg==;TXeub5RGVZFlXLXKJP8Www=="
+secured: "jrMaYX4mY6Ra1T/EcJY7ejPlRWMO1JiUFlYWuq6bPSchsMXEu8bMl56nSXAug9MQ9ARySX7MwX/eY5KKcopgvQM5D+AuJoRvyqTVglx85eONNEH4I117dBjKQdEozmL61lnUj2vDjW/DE9YpftpJ8UT9xEEFILPpmTTqIi67FSSWnCWDxR06rwbzQlF9Kd4se47QvT7ZdPhF7Je/L85qn9tdZiaJ93Xoe4q6yim5zhVT9oi+VSw3hlPU0ELMtLe/4IEM2zuJYM9b6jMTlzYETbhLqlZ8b1UE+ll8khH1B2XyfXSt2VJq/bWJRE7qpSS3cB4foT2iuSBMLiTmywlKlFye4ugAbPIQDMcbnxAISN+CDSK4ed71/jGhuC1yod/NiH0ugmgZRv99wc4gMvLGoH+XaGJzCy6PW4Lx030eNoIvFConQA+qYNouGa1vpD/XgOjJeWveVFtJ8eXiQgKDp30LeEpWLd1h+5Ljw4q7mEdCVYp4vjISaRm14tOlMpunaExlBR6q0UQ8OdLOB1KTkw==;Va5ia/4z1YMc1vK5NWRn+Q=="
 ---
 

@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-17-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
+      "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
+      "excerpt": "Microsoft has reportedly cut \"hundreds\" of jobs in its MSN, Azure, and sales organizations as part of its end of financial year re-evaluations. However, they are not as massive as the previous years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "publishedDateTime": "2020-07-17T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts.md",
       "title": "Halliburton Partners Microsoft, Accenture To Advance Digital Capabilities - Quick Facts",
       "excerpt": "(RTTNews) - Halliburton Co. (HAL), Microsoft Corp. (MSFT) and Accenture plc (ACN) announced Friday that they have entered into a five-year strategic agreement to advance Halliburton's digital capabilities in Microsoft Azure. Halliburton said the strategic ...",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1245,6 +1295,47 @@
       ]
     },
     {
+      "path": "_news/2020-06-30-how-to-build-a-cognitive-enterprise.md",
+      "title": "How to Build a Cognitive Enterprise?",
+      "excerpt": "Enterprise Experience and Humanity Enterprise experience and humanity is an essential component of Cognitive Enterprise. In the end, for all the technology centricity of this new world, it is human power that envelopes and leverages this technology to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/how-to-build-a-cognitive-enterprise-nid-31499-cid-117.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cioreview.com/Rank_subcat_images/jzvMaster.jpg",
+          "width": 376,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
       "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
       "excerpt": "BNY Mellon has announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of US-listed fund launches and support the customisation of investment portfolios to preferred Environmental,",
@@ -1283,107 +1374,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-hunters-raises-15m-series-a-for-its-threat-hunting-platform.md",
-      "title": "Hunters raises $15M Series A for its threat-hunting platform",
-      "excerpt": "Hunters, a Tel Aviv-based cybersecurity startup that helps enterprises defend themselves from intruders and analyze attacks, today announced that it has raised a $15 million Series A funding round from Microsoft’s M12 and U.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Hunters-team-photo.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Hunters raises $15M Series A for its threat-hunting platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/hunters-raises-15m-series-a-for-its-threat-hunting-platform/amp/",
-      "publishedDateTime": "2020-06-30T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity.md",
-      "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
-      "excerpt": "Automation Anywhere sees enterprises investing in digital workers to build resiliency in their future business plans",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bb20c7c0ed449b8d619e48b358411162-1200-80.jpg",
-          "width": 622,
-          "height": 350,
-          "title": "Adoption of software robots by enterprises gains traction to keep business continuity",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity",
-      "publishedDateTime": "2020-06-30T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

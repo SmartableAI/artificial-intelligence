@@ -2,20 +2,28 @@
 category: news
 title: "Himax Launches WiseEye WE-I Plus HX6537-A to Support AI Deep Learning with Google's TensorFlow Lite for Microcontrollers"
 excerpt: "With support to TensorFlow Lite for Microcontrollers, developers are able to take advantage of the WE-I Plus platform as well as the integrated ecosystem from TensorFlow Lite for Microcontrollers ..."
-publishedDateTime: 2020-06-30T10:17:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16443255"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16443255"
+publishedDateTime: 2020-06-30T07:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
-secured: "B0EaQKuiHbvpC1AACBDANuuUUT4eOZmgSiuMCeFyplawyeY/tiLOQVnJiYcNx15Mhjy7iOlXyvFoow36rllqZLM3Ysr7fqlZlEYO7E/BXvUQN8R474x+4SBuTalGBPKJ/drAczKG6FOtJxleJeGyzGQg+3lBJ6I4zyhmVh71w/pBqI2AR8JGvQVR8kbjXOuzU3z01EdMzoCgzJYZfaC7HIrVTKcV/YV1u4V8uLRubJ9INPj5f2ziClat0CqqWXgHALRlKtX/WMuyBzXu0R2XF07ecIGKr7uU/Cch15IP0J3f748y8YNdWheyXVM7xD6VUPVOL1yPhSnqCcC7bXbcmA==;lOT/3UsAucsGl/mHCOYGAQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "CJa3iAJDu4sXjUoZf1PUVIqm6Vi2PHY7Zck2UFNaLYa1gn3Xm65lhN9d28ck0RStJFL2uPbJyd/ahobDBsAKWPyWJvehtII0rsD+1oPOXD7CU/5Swgqn6xOOMLHiJ7rGMmTBHq46ZBqeiPlYfZwCqsb1mS6PKaVH648b9nSm1/7i+2Wm7dEQX9P0Tkok6VhMn7O89SOch1li5m6r0NQ900q25w1oq2CLWxeMvXcJWfshG/bHrjMoSrI6kj9IRTKFFS+ZUhzFgoHKMFo6VTPueATjeMR2Au4F21ZZhu8/PkZl2ltyydIuDTqVysKBMulL5rwWv7q1b8J+i81SvgaumA==;vCSPCMCBbw/qna9KF62CCA=="
 ---
 

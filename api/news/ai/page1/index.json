@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-17-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
+      "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
+      "excerpt": "Microsoft has reportedly cut \"hundreds\" of jobs in its MSN, Azure, and sales organizations as part of its end of financial year re-evaluations. However, they are not as massive as the previous years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "publishedDateTime": "2020-07-17T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity.md",
+      "title": "A beginner’s guide to the AI apocalypse: Artificial stupidity",
+      "excerpt": "And despite its relative infancy, artificial intelligence isn’t as far from ... In other words: the robots won’t kill us out of spite, they’ll just forget we exist and transform the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/space_robot-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/amp/",
+      "publishedDateTime": "2020-07-17T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
       "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
       "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
@@ -48,6 +148,48 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-commentary-combine-optimization-machine-learning-and-simulation-to-move-freight.md",
+      "title": "Commentary: Combine Optimization, Machine Learning And Simulation To Move Freight",
+      "excerpt": "I have no financial ... of reinforcement learning adapted for high-dimensional problems in operations research, based on the insights gained over the decades of research conducted at CASTLE Labs. Reinforcement learning is a form of machine learning in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/20/07/16673419/commentary-combine-optimization-machine-learning-and-simulation-to-move-freight",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/aoaeh_commentary_071520_2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16673419",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16673419",
+      "publishedDateTime": "2020-07-17T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -108,7 +250,7 @@
       "webUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -147,7 +289,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -237,6 +380,105 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai.md",
+      "title": "Nvidia: Edge AI solves specific business problems, won’t kill cloud AI",
+      "excerpt": "While \"edge AI\" has become a buzzword in recent years, the actual value of nearby, cloud-like servers has been somewhat amorphous. Nvidia has answers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/nvidiatransform2020-e1594212068141.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/amp/",
+      "publishedDateTime": "2020-07-17T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap.md",
+      "title": "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP",
+      "excerpt": "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-17T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -397,7 +639,7 @@
       "webUrl": "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1195,254 +1437,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-dows-machine-learning-journey-in-international-trade.md",
-      "title": "Dow’s Machine Learning Journey In International Trade",
-      "excerpt": "Dr. John Wassick, Integrated Supply Chain Technology Fellow, Dow Inc., was on a supply chain panel at the ARC Industry Forum in Orlando.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1227496813%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
-      "publishedDateTime": "2020-07-16T11:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms.md",
-      "title": "How Google addresses ML fairness and eliminates bias in conversational AI algorithms",
-      "excerpt": "When it comes to algorithmic bias, how Google teaches Translate to recognize gender serves as an example of just how complex such a basic problem remains.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1130913708-e1594908132407.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/amp/",
-      "publishedDateTime": "2020-07-16T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-how-capital-ones-ai-assistant-achieved-99-nlu-accuracy.md",
-      "title": "How Capital One’s AI assistant achieved 99% NLU accuracy",
-      "excerpt": "The vision of building an AI assistant that takes complexity out of money, and makes money management easier, has been relentless.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-6.09.56-PM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/amp/",
-      "publishedDateTime": "2020-07-16T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help.md",
-      "title": "Adobe CIO Stoddard: AI bots can ‘cut toil,’ reduce demands for IT help",
-      "excerpt": "You may only know Adobe as the Photoshop company, but it has spent years integrating AI into its products, as well as its internal business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/adobetransform2020-e1594212394263.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
-      "publishedDateTime": "2020-07-16T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise.md",
-      "title": "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise",
-      "excerpt": "A joint effort to help companies harness edge computing and a low latency network with AI capabilities for real-time insights. By combining IBM's proven success in AI, with its AI data analytics tool Watson serving a host of industries, and Verizon's long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/06/11/64aa7866-0d0f-4a42-85d5-2ce16849056b/resize/1200x/380a3db2197135cd6c7eaa58bfbe393e/istock-1019082038.jpg",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
-      "publishedDateTime": "2020-07-16T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

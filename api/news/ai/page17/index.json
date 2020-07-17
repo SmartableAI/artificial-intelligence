@@ -2,6 +2,219 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-01-decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-process-management.md",
+      "title": "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management",
+      "excerpt": "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16464333",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333",
+      "publishedDateTime": "2020-07-01T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
+      "title": "Lyft’s driverless cars are back on the streets of California",
+      "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "publishedDateTime": "2020-06-30T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-kaggle-where-data-scientists-learn-and-compete.md",
+      "title": "Kaggle: Where data scientists learn and compete",
+      "excerpt": "Data science is typically more of an art than a science, despite the name. You start with dirty data and an old statistical predictive model and try to do better with machine learning. Nobody ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_robot_touch_human_hand_by_kentoh_gettyimages_1060703206-100817766-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3564164/kaggle-where-data-scientists-learn-and-compete.amp.html",
+      "publishedDateTime": "2020-06-30T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-klarna-stock-benefits-from-growing-trends-in-retail-and-fintech.md",
+      "title": "Klarna Stock Benefits from Growing Trends in Retail and Fintech",
+      "excerpt": "To get a sense of the fintech, look at how it works ... Buy now, pay later apps — again, it’s about the AI and the data — are only doing a soft credit checks, which won’t hurt a consumer ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/klarna-stock-buy-now-pay-later-retail-trends-fintech-1029356167",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/klarna-stock-buy-now-pay-later-retail-trends-fintech-1029356167",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/klarna-stock-buy-now-pay-later-retail-trends-fintech-1029356167",
+      "publishedDateTime": "2020-06-30T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-nasa-funds-small-business-ideas-ranging-from-ai-medicine-to-plumbing-for-the-moon.md",
+      "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+      "excerpt": "NASA says it’ll fund more than 400 ideas from small businesses, ranging from plumbing fixtures suitable for the moon to AI-based medical assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/06/200630-spacemedicine-630x419.jpg",
+          "width": 630,
+          "height": 419,
+          "title": "NASA funds small-business ideas ranging from AI medicine to plumbing for the moon",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/nasa-funds-small-business-ideas-ranging-plumbing-moon-ai-medicine-mars/amp/",
+      "publishedDateTime": "2020-06-30T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-lyfts-self-driving-test-vehicles-are-back-on-public-roads-in-california.md",
       "title": "Lyft’s self-driving test vehicles are back on public roads in California",
       "excerpt": "Lyft’s self-driving vehicle division has restarted testing on public roads in California, several months after pausing operations amid the COVID-19 pandemic. Lyft’s Level 5 program said Tuesday some of its autonomous vehicles are back on the road in Palo Alto and at its closed test track.",
@@ -700,6 +913,47 @@
       ]
     },
     {
+      "path": "_news/2020-06-30-how-to-build-a-cognitive-enterprise.md",
+      "title": "How to Build a Cognitive Enterprise?",
+      "excerpt": "Enterprise Experience and Humanity Enterprise experience and humanity is an essential component of Cognitive Enterprise. In the end, for all the technology centricity of this new world, it is human power that envelopes and leverages this technology to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/how-to-build-a-cognitive-enterprise-nid-31499-cid-117.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cioreview.com/Rank_subcat_images/jzvMaster.jpg",
+          "width": 376,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-30T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes.md",
       "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
       "excerpt": "Edtech company Edmentum has built a virtual assistant to help teachers master new education platforms quickly.",
@@ -1106,288 +1360,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-facial-recognition-software-fails-to-correctly-identify-people-96-percent-of-the-time-according-to-detroits-chief-of-police.md",
-      "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
-      "excerpt": "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "publishedDateTime": "2020-06-30T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-rios-comes-out-of-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics.md",
-      "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
-      "excerpt": "Bay Area-based robotics startup RIOS is coming out of stealth today to announce $5 million in funding. The round is being led by Valley Capital Partners and Morpheus Ventures, with participation from a long list of investors,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/ezgif-1-72d452008e01.gif",
-          "width": 600,
-          "height": 338,
-          "title": "RIOS comes out of stealth to announce $5M in funding for ‘industry-agnostic’ robotics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/rios-comes-out-out-stealth-to-announce-5m-in-funding-for-industry-agnostic-robotics/amp/",
-      "publishedDateTime": "2020-06-30T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry.md",
-      "title": "Thucydides And The Dragon: Artificial Intelligence And Sino-US Rivalry",
-      "excerpt": "The party wants China to become the dominant player in the world’s most advanced technologies, especially artificial intelligence. The defeat of the world’s best player of the board game Go in 2016 by AlphaGo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1163155775%2F0x0.jpg",
-          "width": 1200,
-          "height": 463,
-          "title": "Thucydides And The Dragon: Artificial Intelligence And Sino-US Rivalry",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/06/30/thucydides-and-the-dragon-artificial-intelligence-and-sino-us-rivalry/amp/",
-      "publishedDateTime": "2020-06-30T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-experts-facial-recognition-will-be-everywhere-whether-you-like-it-or-not.md",
-      "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-      "excerpt": "Facial recognition could soon become as commonplace as public Wi-Fi and security cameras. But with the advance of technology comes major ethical questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/us-technology-artificial-intelligence-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Experts: Facial recognition will be everywhere, whether you like it or not",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facial-recognition-everywhere-amazon-ibm/?amp",
-      "publishedDateTime": "2020-06-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-in-medicine-market-to-reach-1812-billion-at-496-cagr-by-2025-says-amr.md",
-      "title": "Artificial Intelligence in Medicine Market to Reach $18.12 Billion at 49.6% CAGR by 2025, Says AMR",
-      "excerpt": "The growth of the global artificial intelligence (AI) in medicine market is driven by the surge in AI capabilities due to increase in processing power, the need to compensate for the lack of skilled professionals in healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-medicine-market-to-reach-18-12-billion-at-49-6-cagr-by-2025-says-amr-1029354994",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-new-legislation-required-to-secure-us-semiconductor-leadership.md",
-      "title": "New legislation required to secure US semiconductor leadership",
-      "excerpt": "The U.S. needs aggressive public-private collaboration to ensure it continues to lead in a foundational technology it originally developed.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/dhs_computerchip_thinkstock.jpg",
-          "width": 980,
-          "height": 551,
-          "title": "New legislation required to secure US semiconductor leadership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership?amp",
-      "publishedDateTime": "2020-06-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

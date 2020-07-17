@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://www.pasadenastarnews.com/wp-content/uploads/2020/07/PAS-L-FLIPPY-0716-1.jpg?w=1024&h=768"
         width: 1024
         height: 768
+        isCached: true
+  - title: "White Castle is testing a burger-grilling robot named Flippy"
+    excerpt: "(CNN) -- White Castle is introducing a burger-grilling robot — and it might flip the entire restaurant ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger, was tested at Pasadena-based CaliBurger in ..."
+    publishedDateTime: 2020-07-17T20:43:00Z
+    webUrl: "https://www.azfamily.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_af262d4e-0235-589d-b9c2-82734f646861.html"
+    ampWebUrl: "https://www.azfamily.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_af262d4e-0235-589d-b9c2-82734f646861.amp.html"
+    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_af262d4e-0235-589d-b9c2-82734f646861.amp.html"
+    type: article
+    provider:
+      name: AZFamily
+      domain: azfamily.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/0/18/018b730a-ed1a-59ff-be3d-adcb6b10977d/5f1207202f13d.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "White Castle Set To Roll Out Flippy, A Burger-Flipping Robot"
     excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"

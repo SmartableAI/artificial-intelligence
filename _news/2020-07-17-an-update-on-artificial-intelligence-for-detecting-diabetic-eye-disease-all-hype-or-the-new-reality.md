@@ -5,8 +5,8 @@ excerpt: "Deep learning has shown substantial promise to date in automated image
 publishedDateTime: 2020-07-17T15:30:00Z
 webUrl: "https://www.endocrinologyadvisor.com/home/topics/diabetes/ai-detection-of-diabetic-retinopathy-expert-perspective/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.endocrinologyadvisor.com/wp-content/uploads/sites/9/2020/07/retinopathy_G_1209263882.jpg"

@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-m
 ampWebUrl: "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/rich-roth-commonspirit-health-transform-2020.jpg?w=1200&#038;strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "iJ5LFYSrPo0FL/jjPD3b+ou2jm3a/gAvNVbk3zv4vldRhzu+qAQO60HJ0ZgPgNHr3C730v1+L7tqp8evF0xJHhuKLpnPCOZPGc3mYwFds6lSTXW2n9aQXQ8YRMdtqNeUd2jtqa2t/cJ3HEUij2j/uJQPb6tnBT3SkRgbXYZIM1e/wV7DruLbG0MIZidakbChZUb8fWsZwj09eL1R4aF+SILoaSOrE+L2Jkw7vSoykoEfv3X94Yn1vXuGMyWqM/sRnl/BhHfUIocllUBCyWCt3scw90s4ksiM8wNJrVP0263tlVZQ7KckU5MXG9W2g6t6iT56rFvU25ttmb0+cdWQjw==;jHTgRi6V/fwv4YqAwCDeqA=="
+secured: "Why06FPEpc/rwojBBza3CK8a9VXtUFxxiUQolYvgGGO3QvI9/KaQY76+qcIMN2fhcAkHML5utRzGObHixkjFQGBya2Eu0hThqox8p6KZr3mKua2zfLa+9xP01Ug2y+Oh+wVwp10UZy3DO9fHGaD9XO1/5dboNDQCkt0X8hel/FoPybY94iZ3+XgLYxtnOhznPsS+uPnPEAPx7j7TG6C6DnVgHP89p9B9WjG70O5iOXmONGHBRW5CBJ1Q3H1WRwcQtW5aj0vJ5jbCZRsz6H8Qpb+bXyTtw/oGtNEpqdK6cQU9+VMsvMTDZQxeOEKvhIjt5dbhNA6FIRKwJjn/F5JP5JOTpqBVhAtbnPVSI3VLG5udUcjLik0E9Vdp32TBw2r9IpvRj6Kc9uN6JtK+7gdrUlJiJydB1geqfrykVol8RZPcxs8iICIDqwOs5p+MYtQKvHfUFIQ0eYh8E4RUfOlDkq2UMLVAAo40nVqkV8JGIHspVomdWugV2ONsl5EAMxtybsPW9szp+hpPgWbkzgbp7w==;pSn93hL+k9ko45XvCy4Gtg=="
 ---
 

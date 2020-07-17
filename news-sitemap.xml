@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations</loc>
+    <lastmod>2020-07-17T14:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/</loc>
+    <lastmod>2020-07-17T13:04:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/</loc>
     <lastmod>2020-07-17T12:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/news/20/07/16673419/commentary-combine-optimization-machine-learning-and-simulation-to-move-freight</loc>
+    <lastmod>2020-07-17T11:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -27,6 +45,18 @@
   <url>
     <loc>https://losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/</loc>
     <lastmod>2020-07-17T10:45:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/17/nvidia-edge-ai-solves-specific-business-problems-wont-kill-cloud-ai/</loc>
+    <lastmod>2020-07-17T10:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16</loc>
+    <lastmod>2020-07-17T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -765,12 +795,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y</loc>
     <lastmod>2020-07-13T19:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7</loc>
-    <lastmod>2020-07-13T16:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1705,12 +1729,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India</loc>
-    <lastmod>2020-07-08T05:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360</loc>
     <lastmod>2020-07-08T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1737,6 +1755,12 @@
   <url>
     <loc>https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/</loc>
     <lastmod>2020-07-08T04:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sify.com/movies/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-bollywood-uhikPAgbfgehg.html</loc>
+    <lastmod>2020-07-08T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2599,6 +2623,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.design-reuse.com/sip/?q=deep+learning+processor</loc>
+    <lastmod>2020-07-01T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/</loc>
     <lastmod>2020-07-01T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2977,6 +3007,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cioreview.com/news/how-to-build-a-cognitive-enterprise-nid-31499-cid-117.html</loc>
+    <lastmod>2020-06-30T11:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ibm.com/blogs/watson/2020/06/introducing-the-new-watson-discovery-premium-plan/</loc>
     <lastmod>2020-06-30T11:21:26-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3069,6 +3105,12 @@
   <url>
     <loc>https://thehill.com/opinion/technology/505054-new-legislation-required-to-secure-us-semiconductor-leadership</loc>
     <lastmod>2020-06-30T07:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
+    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3169,12 +3211,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
-    <lastmod>2020-06-30T03:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity</loc>
     <lastmod>2020-06-30T02:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3188,6 +3224,12 @@
   </url>
   <url>
     <loc>https://www.finanzen.net/nachricht/aktien/cognitive-grc-limited-launches-following-management-buyout-of-cordium-asia-limited-9021894</loc>
+    <lastmod>2020-06-30T00:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30</loc>
     <lastmod>2020-06-30T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3219,12 +3261,6 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
-    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

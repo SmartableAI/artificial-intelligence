@@ -2,6 +2,208 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-13-renewed-sanity-on-campus-yes-to-free-speech-no-to-football.md",
+      "title": "Renewed Sanity On Campus? Yes To Free Speech, No To Football?",
+      "excerpt": "To borrow from the Bard, “To Open, or Not to Open: That is the Question.” Most schools are planning on reopening in some fashion, and in recognition of the fact that interaction between faculty and students, and students with each other, is at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1246069736%2F0x0.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
+      "publishedDateTime": "2020-07-13T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans.md",
+      "title": "Eighth grader builds IBM Watson-powered AI chatbot for students making college plans",
+      "excerpt": "Harita Suresh, 13, developer of the AI chatbot Rita. Harita ... TensorFlow (up 62%), ChatBots (up 45%), Microsoft Azure (up 38%) are all on the upswing. Udemy's surprise? Bitcoin and cryptocurrency classes gained popularity by fourfold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/10/f18246a0-d75c-41fd-a7f4-5514fcb4db8a/resize/1200x/545cbe8ab7e80de2653ef37cf6138ed3/harita.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
+      "publishedDateTime": "2020-07-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-not-just-the-sprinkles-on-top-baking-ethics-into-ai-design.md",
+      "title": "Not Just The Sprinkles On Top: Baking Ethics Into AI Design",
+      "excerpt": "Chief Marketing Officer at Interactions, a conversational AI company, where he oversees all aspects of communications, sales and marketing. Let’s face it: When a company develops artificial intelligence (AI) that can offer us a medical diagnosis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140596351%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/amp/",
+      "publishedDateTime": "2020-07-13T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-ai-in-lending-fad-or-future.md",
+      "title": "AI In Lending: Fad Or Future?",
+      "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent lending platforms. Presumably, the return on each dollar invested in AI will be $1.99 by 2023 and $2.87 by 2028. Still, for many ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f071ccc4b08590006e1b2fa%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/amp/",
+      "publishedDateTime": "2020-07-13T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients.md",
       "title": "Exclusive: Endpoint Health Launches To Help Hospitals Treat Critically Ill Patients",
       "excerpt": "The company, which has not yet begun clinical trials, takes its name from the research outcome that indicates if a therapy in a trial has met its goal, or endpoint. The business model has three main components: an artificial intelligence-based software ...",
@@ -1217,207 +1419,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-facial-recognition-linked-to-a-second-wrongful-arrest-by-detroit-police.md",
-      "title": "Facial recognition linked to a second wrongful arrest by Detroit police",
-      "excerpt": "A false facial recognition match has led to the arrest of another innocent person. According to the Detroit Free Press, police in the city arrested a man for allegedly reaching into a person’s car, taking their phone and throwing it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-01%2F27dcb6e0-4475-11ea-bcff-3e894d2cc0e6&client=amp-blogside-v2&signature=3bea3551d519fce8b498f724c759d48c110b12f5",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facial-recognition-false-match-wrongful-arrest-224053761.html",
-      "publishedDateTime": "2020-07-10T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-the-path-to-real-world-artificial-intelligence.md",
-      "title": "The path to real-world artificial intelligence",
-      "excerpt": "Experts from MIT and IBM held a webinar this week to discuss where AI technologies are today and advances that will help make their usage more practical and widespread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "publishedDateTime": "2020-07-10T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-white-house-advisory-council-calls-on-us-to-increase-ai-funding-to-10-billion-by-2030.md",
-      "title": "White House advisory council calls on U.S. to increase AI funding to $10 billion by 2030",
-      "excerpt": "PCAST, an advisory council within the U.S. Office of Science and Technology, recommends increasing government investment in AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/10/white-house-advisory-council-calls-on-u-s-to-increase-ai-funding-to-10-billion-by-2030/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/12/White-House-Matt-Wade-Flickr-e1594409087293.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/10/white-house-advisory-council-calls-on-u-s-to-increase-ai-funding-to-10-billion-by-2030/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/white-house-advisory-council-calls-on-u-s-to-increase-ai-funding-to-10-billion-by-2030/amp/",
-      "publishedDateTime": "2020-07-10T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-ai-weekly-welcome-to-the-machine-venturebeats-ai-site.md",
-      "title": "AI Weekly: Welcome to The Machine, VentureBeat’s AI site",
-      "excerpt": "VentureBeat reorganized its site and branding to better faciliate the distinct communities it's cultivated around AI and gaming. Meet \"The Machine.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/10/ai-weekly-welcome-to-the-machine-venturebeats-ai-site/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/The-Machine-logo.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/10/ai-weekly-welcome-to-the-machine-venturebeats-ai-site/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/10/ai-weekly-welcome-to-the-machine-venturebeats-ai-site/amp/",
-      "publishedDateTime": "2020-07-10T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

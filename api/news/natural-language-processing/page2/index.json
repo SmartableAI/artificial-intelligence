@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-02-ucla-debuts-98-percent-accurate-sign-language-translating-glove.md",
+      "title": "UCLA Debuts 98-Percent Accurate Sign Language-Translating Glove",
+      "excerpt": "UCLA researchers have now reportedly developed a new tech-driven glove that not only works for translating American Sign Language. It's also inexpensive",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2020/07/UCLA-ASL-sign-language-translating-gloves.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/ucla-sign-language-translating-translator-glove-app-prototype-accurate-critics.html/amp",
+      "publishedDateTime": "2020-07-02T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-considering-the-american-voice.md",
       "title": "Considering the American Voice",
       "excerpt": "Irving Howe wrote for the Book Review about American literature — “moving from visions to problems, from ecstasy to trouble, from self to society” — on July 4, 1976. “Land of the free? Yes, but also home of the exploited.",
@@ -1359,38 +1400,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-attacks.md",
-      "title": "IRONSCALES Deploys Natural Language Processing to Automatically Prevent Business Email Compromise Attacks",
-      "excerpt": "TEL AVIV, Israel and ATLANTA, June 24, 2020 /PRNewswire-PRWeb/ -- IRONSCALES, the pioneer of self-learning email security, today announced that it has deployed natural language processing (NLP), using advanced machine learning (ML) and neural networks ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16368497/ironscales-deploys-natural-language-processing-to-automatically-prevent-business-email-compromise-",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16368497",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16368497",
-      "publishedDateTime": "2020-06-24T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 731
         isCached: true
+  - title: "Disney's new AI is facial recognition for animation"
+    excerpt: "The pipeline leveraged existing facial recognition software, which the DTCI team then applied to its catalog of movies and TV shows. The module was able to successfully detect and recognize human faces from the onscreen action. Following that initial ..."
+    publishedDateTime: 2020-07-17T20:53:00Z
+    webUrl: "https://www.engadget.com/disneys-new-ai-is-facial-recognition-for-animation-163054440.html"
+    ampWebUrl: "https://www.engadget.com/amp/disneys-new-ai-is-facial-recognition-for-animation-163054440.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/disneys-new-ai-is-facial-recognition-for-animation-163054440.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
   - title: "Could National Unrest Derail the Future of Facial Recognition?"
     excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
     publishedDateTime: 2020-07-17T19:35:00Z
