@@ -1,21 +1,29 @@
 ---
 category: news
-title: "IBM, Verizon collaborate on 5G and AI edge solutions"
-excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
-publishedDateTime: 2020-07-16T20:21:00Z
-webUrl: "https://www.controldesign.com/industrynews/2020/ibm-verizon-collaborate-on-5g-and-ai-edge-solutions/"
+title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
+excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
+publishedDateTime: 2020-07-17T07:40:00Z
+webUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/"
+ampWebUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
+cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
 type: article
-quality: 19
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Control Design
-  domain: controldesign.com
+  name: Voicendata.com
+  domain: voicendata.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.voicendata.com/wp-content/uploads/2020/05/Edge-computing-e1588659016774.jpg"
+    width: 430
+    height: 247
+    isCached: true
 
 related:
   - title: "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise"
@@ -49,22 +57,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/10/IMG_1390-e1571836605481.jpeg?w=1200&#038;strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
-    excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
-    publishedDateTime: 2020-07-17T07:40:00Z
-    webUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/"
-    ampWebUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 33
-    images:
-      - url: "https://www.voicendata.com/wp-content/uploads/2020/05/Edge-computing-e1588659016774.jpg"
-        width: 430
-        height: 247
         isCached: true
   - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
     excerpt: "Verizon Business (NYSE: VZ) and IBM (NYSE: IBM) today announced they are entering into a collaboration to work together on"
@@ -108,6 +100,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
+    excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
+    publishedDateTime: 2020-07-16T20:21:00Z
+    webUrl: "https://www.controldesign.com/industrynews/2020/ibm-verizon-collaborate-on-5g-and-ai-edge-solutions/"
+    type: article
+    provider:
+      name: Control Design
+      domain: controldesign.com
+    quality: 19
   - title: "IBM, Verizon Business to collaborate on 5G, AI products at Enterprise Edge"
     excerpt: "Verizon Business and IBM teamed up to work together on 5G and edge computing innovation to help enable the future of Industry 4.0. They plan to combine the high speed and low latency of Verizon's 5G and Multi-access Edge Compute (MEC) functionalities,"
     publishedDateTime: 2020-07-16T13:54:00Z
@@ -136,6 +137,6 @@ related:
       domain: telecompetitor.com
     quality: 4
 
-secured: "KC5ZC8m42jewPQr2LPMjESG2f6BPg+71ySfqAfgDfWNGPipKcpARLx62+PGxq724L5Q0RmR+TxBohybMyS8Mf5oe9ZM2ND6TldOUWoXZl5cnhHo79SZqXwfSEpwWgUvgCaBrRIWxccut0fpGQRhAgA0ebYS+Sj7R6kl6fXDW0mKb7irxua29T6YACxTdESOMvqLXP6pVjhiSHygUPO4Ef/U5IemDCSPTjQGie0pZsCaKnsRCLRjqKP8Ny5mx8yF8GLhUhYNEDKftQ13MdR23HPgS4blaKzWYtXtwTjith5Sl2s5ywFOXfzlX5h1W6Co04OplBxx4Z3ftPFyZ1oPUoA==;Rxn5H07Qlc7CZ0+kzrbAPw=="
+secured: "gF758v7JM8Q0tqfPPbJDlicP3OFQOkpvuk/5jJ5Webs/J0TkkmWUAyLSu0TQMQKJDGaY4tiORO54BhCDcLqg+DTtt+YCEF8OmPDI+cplfXBrTo4ESkPeuvTUWxm9f5Iic0+3wdGYdWTSCsKyuGtPsSGz3QeW0NRlOsFl1UA709e4mcPpb4IPZDoUmHmq3ssuTuSpRwK67ZmOfYBEpI4nXw4Oc68UY0paGb/9CFYx6XL1Bp03OU8mKC91XwCMjU/LHti/a+KDx5Qf/bHqvoehj5Oesm5wrytSeZmMxethxOqUVeyPjcBU2fqK7ljHrHIqoflU7+7G0vvh5jPooiZw5Q==;QjV3+gyz04AvdrsHd7Hh0w=="
 ---
 

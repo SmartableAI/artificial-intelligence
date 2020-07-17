@@ -1,28 +1,28 @@
 ---
 category: news
 title: "StealthPath Zero Trust Solution Wins IBM \"Think Build Grow' Competition"
-excerpt: "IBM has selected StealthPath to become a member of its Think Build Grow innovation ecosystem. This program identifies \"big idea\" solutio"
-publishedDateTime: 2020-07-15T21:23:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/stealthpath-zero-trust-solution-wins-ibm-think-build-grow-competition-1029399140"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/stealthpath-zero-trust-solution-wins-ibm-think-build-grow-competition-1029399140"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stealthpath-zero-trust-solution-wins-ibm-think-build-grow-competition-1029399140"
+excerpt: "IBM has selected StealthPath to become a member of its Think Build Grow innovation ecosystem. This program identifies \"big idea\""
+publishedDateTime: 2020-07-15T21:12:00Z
+webUrl: "https://www.prnewswire.com/news-releases/stealthpath-zero-trust-solution-wins-ibm-think-build-grow-competition-301094379.html"
 type: article
-quality: 54
-heat: 54
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "rxjsAkcRzO5dnYriaJKWNfRYVFU8bpUHX+Ala2EnFYTg0PkwYZxhOHirLefnzKlhDuOMrl6GoXnxODUN1iU8aZ3HyQS0GWMU+HlLdZT35ZNeB6SWovusSd25/EChmyil3QaJMmz+1RjEtvutR6hzG1pyU6ptMvQrC/+vts2f+VA/hDVrJmPnkiK4RAJmaPz9umilnWxIyHg+rozy219IHkDkRNX+OR3BaS6vkvXVbYqyJZfDtg6FR/w+c0apg4fn3Os/9JWj9Clw09omxCynkt2wnpondo0E2GDMNTqviT+1VfA+27kq5JO7R/US7NqTEiSXtPrP9C//QqB/fW04Pe7GFrh24rkKvSW2gBZilK9znQzt+Z5hqClLWUIOp7HGPiP1Q+VB63sXL1R8SpggNd35pild6LjH2fPf3fk7KhZg+yUEkO7JovN5XvBPM0ne/Hxi1Zp7FdMDO+BTvVC+wX+DAc420IbhgBjNDYBbFxvVaDil29dr9ekAu3P79QL4kZCANnIYmGktTtqX3MXyJA==;eGTHN5INveSC6nMDB+jPcQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1215274/IBM_has_selected_StealthPath_LLC.jpg?p=facebook"
+    width: 1000
+    height: 524
+    isCached: true
+
+secured: "Xqr1NDgy3kVJvUcxEiWszy2YOASru0g+5tynAe3WmUFjmi7CfOZd4GP+aQXELq8wEQjGjZTmwNNquLMF+ubR04HMG37eThWYZ+GbjtA6DevBQmD6zjOOfhLEzb/8elQEH5Lkz/GlEAmEKTMMAvdG/nQuC6pCg6wzsYj/b+D7vzpoJK1Ky76r92DSQ/bOTmwf3PkO4tbZBNGcYd4rvG+/Tm1PWWH0Zj4RrgasXCfBm7qieHTgpV8vUOz/ZegFPoseymoaHIpecePX9Mdi0FHi7RiuEHdMjJgZZkLTQWZXp0PlPLcB00WJLtYnmISnZr/I5zTBfBmL17qWvj4X64+aXw==;bFmJYi83XcknfYRt9topwQ=="
 ---
 
