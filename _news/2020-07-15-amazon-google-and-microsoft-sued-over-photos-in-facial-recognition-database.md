@@ -62,6 +62,22 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Federal agencies concerned face masks will thwart facial recognition tech"
+    excerpt: "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported."
+    publishedDateTime: 2020-07-17T14:55:00Z
+    webUrl: "https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/TSB8bFoAXUnsnwCyw0czZdijB_k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Clearview AI stops offering facial recognition technology in Canada"
     excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
     publishedDateTime: 2020-07-14T12:42:00Z

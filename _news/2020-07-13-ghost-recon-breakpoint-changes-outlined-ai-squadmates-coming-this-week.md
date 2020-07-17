@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI teammates are finally coming to Ghost Recon Breakpoint on July 15"
-    excerpt: "Ubisoft today announced that the highly requested AI teammates feature is finally coming to its cooperative tactical title Ghost Recon Wildlands, letting solo players gain help from three AI Ghosts."
-    publishedDateTime: 2020-07-12T21:54:00Z
-    webUrl: "https://www.neowin.net/news/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15"
-    ampWebUrl: "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 87
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1594590229_grb_screen01_teammates_goto_200712_9pm_cest_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
-  - title: "AI teammates coming to Ghost Recon Breakpoint on July 15"
-    excerpt: "On July 15, 2020, players can fire up Ghost Recon Breakpoint and enjoy the company of AI teammates, something I absolutely loved from Ghost Recon Wildlands. Your teammates are ful"
-    publishedDateTime: 2020-07-12T21:53:00Z
-    webUrl: "https://www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15"
-    ampWebUrl: "https://www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/119158/ai-teammates-coming-to-ghost-recon-breakpoint-on-july-15?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 57
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2020/07/12/ai-teammates-ghost-recon-breakpoint_feature.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Ghost Recon Breakpoint details AI Teammates and new Event"
     excerpt: "The biggest of those is the addition of AI Teammates for gamers who want to experience the game in solo mode. Check out the trailer for that here! Leave it to Ubisoft to turn around a ship that’s steered towards the cliffs. Time and time again has the ..."
     publishedDateTime: 2020-07-13T15:35:00Z

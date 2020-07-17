@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-buil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-16T16:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
     excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
     publishedDateTime: 2020-07-15T12:04:00Z

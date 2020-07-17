@@ -8,8 +8,8 @@ ampWebUrl: "https://pulse2.com/untether-ai-7-million-funding/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/untether-ai-7-million-funding/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Pulse 2.0
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Untether AI Announces New Funding and Additions to Management Team"
+    excerpt: "Untether AI announced it has closed an additional $7 million USD funding led by Radical Ventures with participation by Intel Capital, both exist"
+    publishedDateTime: 2020-07-13T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005160/en/ Untether-AI-Announces-New-Funding-Additions-Management"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005160/en/804762/23/New_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Untether AI closes additional $9.4 million CAD from Radical Ventures, Intel Capital"
     excerpt: "The company said this additional funding is part of its Series A round, which now sits at approximately $35 million CAD. The $9.4 million was led by Radical Ventures, with participation by Intel Capital,"
     publishedDateTime: 2020-07-13T20:37:00Z

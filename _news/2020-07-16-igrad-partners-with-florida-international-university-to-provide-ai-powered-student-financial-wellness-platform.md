@@ -1,24 +1,22 @@
 ---
 category: news
 title: "iGrad Partners with Florida International University to Provide AI-Powered Student Financial Wellness Platform"
-excerpt: "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students. San Diego, CA, July 16, 2020"
-publishedDateTime: 2020-07-16T13:08:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/r16651081/igrad-partners-with-florida-international-university-to-provide-ai-powered-student-financial-welln"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16651081"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16651081"
+excerpt: "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students."
+publishedDateTime: 2020-07-16T13:14:00Z
+webUrl: "https://www.pr.com/press-release/817036"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR
+  domain: pr.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "Ck4x/ubuaPizRRwHhudJmQzcEkZg5UR/Xlj+p6vDO3Xxup5iP72JL3w1dqZXBR7/ZYSPimxCVWmk8f0wxS1W4NEqDBLDKiPKURgty6txnrs57ZERSEnmUoEfVxF4f4wo4YkRsYfEq+Jr2+w+53uJTZk6j6sr/UditJraIHLKrt0xEMBFW6t+uIiGc/Ise6iPknnspkB5ImKwJhNTFIG+Dfh4M01XhTiZL7M4VNG4/x2Ohw/DF/ABxUlriPzqIZp3eVota2kiMD+mFOGcVWok0z2GfUqzw3bWkFRLp+7cJC5s3aYcR4rUTiYR3L1B7xx097ZQDF4hDpu7Q9MXjh5+Pg==;SmTxl7gBR0mpjRuIiUHu9w=="
+secured: "Eu1H0V06uXJfd6tJMjXjZxbsBuw3CJaziMcUobAa5XrMexSZ9w2ZER0mvjahQrxlSyZ6cy5XEvzJUQAlPOkehr40+VCGn0w9+DVvxdepbNK7XNBj4y1SJ4Ua/m8d1flrVq6/Edo2/uUoLbQOmcqVpi/6PNraq1CYByLY9r0gQovX0rkd+STjMUVqy6Bb0HrDTckE2ccaVqQ/bogM7sYr3eh5+b0Bw2k4ySZRlzNn7bbH9WXu3tQ8hZGbgXa90p8Uih15wC5eKEF1B+TXbcuL66l2M3W+RlagR44r38C0W6EqQAneYwXtUMLf0dTKin6O0v/PLpvlCdsZonI7n7FG/Z9Z72ddX0WhRXbsi71r419TOUA+FKnWVztDwiDpIG1OUo33E44Ppag5i9dJ8UBbf7kjlLlBZATBGjrCdn466gv18J67d4U0stdBb9H/TVKVzhxMPi+14vaP/ML8r7iwXF9opYHYksBnB0QBmtkoqVQNJfzMnLGy7y92yKVehjO/2w5UWpyyz46E/5t2SQ4fZw==;j7k7BeSjURnFu85nnvIFog=="
 ---
 

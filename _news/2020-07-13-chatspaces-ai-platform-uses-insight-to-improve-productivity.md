@@ -22,19 +22,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "HHLA implements machine learning for the first time to increase productivity"
-    excerpt: "Machine learning solutions provide us with many opportunities to increase productivity and capacity rates at the terminals.” The HHLA Chairwoman announced that further uses for ML were bound to be identified."
-    publishedDateTime: 2020-07-12T21:40:00Z
-    webUrl: "https://www.hellenicshippingnews.com/hhla-implements-machine-learning-for-the-first-time-to-increase-productivity/"
-    ampWebUrl: "https://www.hellenicshippingnews.com/hhla-implements-machine-learning-for-the-first-time-to-increase-productivity/amp/"
-    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/hhla-implements-machine-learning-for-the-first-time-to-increase-productivity/amp/"
-    type: article
-    provider:
-      name: Hellenic Shipping News Worldwide
-      domain: hellenicshippingnews.com
-    quality: 36
-
 secured: "3mu03QvC8R8+PxrNchfGA6/z6Z6j4eahg/EXJ6WWgUtIzyKzYItkkoE03o/7PmNVJgp1qq90YUPfdgyq8xlPamIaXLYn3y1K3tXbybHNhwleZZeUqbgdntCGhAoK7c0o8U3SVO3Cvj4np5MaszykWgjhbwvijzRoWHx8AIXet+/E5IaWWWYWv3vXdRJNRxB7+dmhuxot6BbFU894PYtrcR10AaiiEyuXN+0dR8d6EiHc3j/wc8VIDLlej8Jzs5ZmGqVEkpAGXTpT/RYt0bgnsnA4QDvQEiQYi0CIKh6hZ/GQtT5UXTbgzU7jM3oenNyQTeGmbYByy5K5nUbLetdkJw==;Tf9UmjUf21kXqrEhOq7IdQ=="
 ---
 

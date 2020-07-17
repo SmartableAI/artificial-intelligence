@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 960
     isCached: true
+
+related:
+  - title: "A Google Self-Driving Car Is at Fault for a Crash"
+    excerpt: "Google's self-driving car has been in an accident. The news is it's the first time one of its autonomous vehicles has been at fault."
+    publishedDateTime: 2020-07-17T04:33:00Z
+    webUrl: "https://bigthink.com/natalie-shoemaker/why-google-self-driving-car-crash-is-a-learning-experience"
+    ampWebUrl: "https://bigthink.com/why-google-self-driving-car-crash-is-a-learning-experience.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/why-google-self-driving-car-crash-is-a-learning-experience.amp.html"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 44
+    images:
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODQwNTk0Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxMTI5OTk1Mn0.tiynpTT4gCZrP2rEOlEr8sAveK8Uhd3YZRtXqKedFgA/img.jpg?width=980"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "PJ9ERIThILUQHwt3ODl5r/JGWrawUEX6YqEkxSiknatUk9x3e4Ag7VRVBtWdoUb5daUvT9PhblmZV0LfrdBIIorG+vGaw71hsfa8WOCx8d19X7DxrkI/juFrzsp6InM/1CeAjfYvOzRBzsRxBhPPEOdZ5TMo4LJdz+r6Jxmf4IRajdoLJczguFn4oEIEU9gFSAMxV6dJYGIcsY4CR2N5fqqQSUI26Sf/N145D/3fmUEYvJvQBaKHkdyf/VsPNgIR9qkarpS5QBzoC+5mpQtylc3mVTMn7CZsEA9/sxtMMH+A51rRBtpF6cxa6Sx3JAZjX2n0lIzygRoAgSSxPEispTBF3mZt3KQNob5+CCtsf02LP+AImO+EIWP0qF0LvlMNMadYySnXhvuhZfUEl1+bhTzH8NZQXk46uXnLMb46Mgrwv5WzFRqsSsBwmudY7ftlHZeexcBeDGhNK34/aU+h1WnKEqtsIc64TjfLb1RsOOzdx9NuOH75Cg131Hau7UM4exTxVSuplvr6z24kswI6lw==;cUnaegQDXKSBVRmmQHztqQ=="
 ---

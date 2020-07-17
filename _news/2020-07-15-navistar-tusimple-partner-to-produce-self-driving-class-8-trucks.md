@@ -58,6 +58,17 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-16T16:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
   - title: "TuSimple, Navistar join to develop self-driving semis for mass production"
     excerpt: "The level 4 self-driving semi trucks being developed by TuSimple and Navistar would be able to perform all driving tasks and monitor the driving environment in certain circumstances."
     publishedDateTime: 2020-07-16T00:45:00Z

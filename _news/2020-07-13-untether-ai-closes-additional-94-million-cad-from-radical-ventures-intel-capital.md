@@ -35,6 +35,20 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 54
+  - title: "Untether AI Announces New Funding and Additions to Management Team"
+    excerpt: "Untether AI announced it has closed an additional $7 million USD funding led by Radical Ventures with participation by Intel Capital, both exist"
+    publishedDateTime: 2020-07-13T13:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200713005160/en/ Untether-AI-Announces-New-Funding-Additions-Management"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200713005160/en/804762/23/New_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "NmzoEb7iDo81ElNxPGoRR9JzSLUc/IJdp6BuoSizxCM/m6FtRTH7LrGE1Af+fyYTbcooOhlFvblgEAqu5kCSA5iNcdS971mpKthxjGXwec3oPEeDcCjix01gHVteGehBIyCNLpXwxv532dOBEUgRiXij1Pcb3fe1bSUpfazPAVOUUVGDH5I3d4srRxwYc+N7ZTANVsMIR2gFYRBDToRVqcExl/p5y8BiTm6EAW+IZFkOMyJ6YHyFMmlo/t6xH1mCCFvmgErDfegCuFue4DgM1jtsr+b29N8UntRwJxDeXTEJ4Z6jvz8oSuK3RDm8hb30jHBoRZfsZb1gAN/70H5ora/jVN6lWl/sC11h6lH4rVC50FHP051fQ3BN34saTuzMCMqg1UyAMRr5MzP65QlNytJflJ28OrDyJImbmoP1zF1e+KRAncxR/f9Bcsm8OHmoBzbTz3tFT10Hi9wkZcO8CdhvJFYh1IQdrkK5SChl5VxwzQ2AwfsE4BY0sLBeJumd4woT+VGgsdjj2tfDGRLpYA==;sTaqjpll9zVhWw1MfESBMA=="
 ---

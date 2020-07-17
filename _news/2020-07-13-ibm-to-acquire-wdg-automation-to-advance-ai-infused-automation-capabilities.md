@@ -34,6 +34,45 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 61
+  - title: "Halliburton Teams Up to Advance Digital Capabilities with Microsoft, Accenture"
+    excerpt: "Halliburton, Microsoft Corp. and Accenture have entered into a five-year strategic agreement on July 17 to advance Halliburton’s digital capabilities in Microsoft Azure."
+    publishedDateTime: 2020-07-17T13:47:00Z
+    webUrl: "https://www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653"
+    ampWebUrl: "https://www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 55
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
+        isCached: true
+  - title: "Halliburton Forms Agreement with Accenture and Microsoft"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:16:00Z
+    webUrl: "https://www.financialbuzz.com/halliburton-forms-agreement-with-accenture-and-microsoft/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 39
+    images:
+      - url: "https://www.financialbuzz.com/wp-content/uploads/2019/10/Halliburton.jpg"
+        width: 571
+        height: 300
+        isCached: true
+  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:51:00Z
+    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
+    type: article
+    provider:
+      name: World Oil
+      domain: worldoil.com
+    quality: 13
 
 secured: "Alt8kmmQzKlN6ytNHx3xauUZ1/I5hGChKRYozOqj6bm1pwAHC/fKW1jK0Egc5ekm/Eko6O0XOt7vKu+DTRgwjhNTWYQmA9ie6cp8cf+YN0DdOP5G1ymEz2oT9Fgpx9KWv8oDguJzqTL1RjzOBFdK+d3jw41Yqc7nAP63ImTNxbkdoVlT4JW04MIm0cdpvF9VE3m3E1eF1OKtpiuimlA5Aefd/2D5SrnpEIhcCVwwgCLnm1Wtqt/KYGHPUvT38mrnaEyaO3fTfqeGNeGxEUK/39uu7WcdF/ZF4cQmOvWQwfvJkL17tLubWwt4nphZ02cza4CVeA7KlrtWemuVOTuJcQ==;gmbLjdJcyiF8H4PwAOZiTA=="
 ---
