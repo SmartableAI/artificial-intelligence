@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-16-suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims.md",
+      "title": "Suncorp Group taps into artificial intelligence and data to manage insurance claims",
+      "excerpt": "Using data to build claims reports to measure the health of the business was previously a tedious two-step process for frontline staff of Suncorp Group's insurance business. Speaking to ZDNet, Suncorp head of automation Tim Johnson explained how historically the process required staff to approach the business insights team to help produce the reports and find any anomalies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "publishedDateTime": "2020-07-15T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-the-top-16-companies-using-artificial-intelligence-to-revolutionize-drug-discovery-according-to-experts.md",
+      "title": "The top 16 companies using artificial intelligence to revolutionize drug discovery, according to experts",
+      "excerpt": "In 2014, there were an estimated 89 AI-backed companies focused on drug discovery. Now, there are as many as 214.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f035fb72618b902835797c6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
+      "publishedDateTime": "2020-07-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
       "title": "Why supervised learning is more common than reinforcement learning",
       "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
@@ -49,57 +138,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024.md",
-      "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
-      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1188,56 +1226,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-this-tiny-uk-startup-chipmaker-is-targeting-intel-and-nvidia-with-a-monster-ai-cpu.md",
-      "title": "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU",
-      "excerpt": "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/W2EjqVHnZHVD2SdUfx2iyi-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu",
-      "publishedDateTime": "2020-07-15T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

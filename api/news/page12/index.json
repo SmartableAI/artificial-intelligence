@@ -2,6 +2,155 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-08-artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos.md",
+      "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
+      "excerpt": "Artificial Intelligence is now helping wireless headsets to help people sound clearer and take part in calls and video chats with real audio clarity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efa095d236e830006d4071b%2F0x0.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2020/07/08/artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos/amp/",
+      "publishedDateTime": "2020-07-08T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight.md",
+      "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
+      "excerpt": "Robots and computer programs can help with social distancing and food delivery, but have been less helpful in developing a vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efe3bf5f435e6f478b28aac/master/pass/business_kai-fu_1052208482.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
+      "publishedDateTime": "2020-07-08T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-royal-marsden-powers-virtual-covid-19-agent-with-ibm-watson.md",
+      "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
+      "excerpt": "The Royal Marsden NHS Foundation Trust has partnered with IBM to launch an AI-powered virtual agent that will provide staff with up-to-date HR and workplace information as the UK emerges from lockdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815037/itpro/watson.jpg",
+          "width": 550,
+          "height": 326,
+          "title": "Royal Marsden powers virtual COVID-19 agent with IBM Watson",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356377/royal-marsden-powers-virtual-covid-19-agent-with-ibm?amp",
+      "publishedDateTime": "2020-07-08T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-4-self-driving-car-stocks-to-buy-for-the-long-haul.md",
       "title": "4 Self-Driving Car Stocks to Buy For the Long Haul",
       "excerpt": "Within the automobile sector, one of the high-growth segments in the coming years will be self-driving car stocks. Estimates suggest that between 2021 and 2030, the self-driving cars market is ...",
@@ -994,147 +1143,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap.md",
-      "title": "IoT in Healthcare Market Growing at a CAGR 21.0% | Key Player Cisco, IBM, GE Healthcare, Microsoft, SAP",
-      "excerpt": "The global Internet of Things (IoT) in Healthcare Market is expected to grow from USD 72.5 billion in 2020 to USD 188.2 billion by 2025 at a Compound Annual Growth Rate (CAGR) of 21.0% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap-2020-07-07",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes.md",
-      "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
-      "excerpt": "Researchers developed an AI tool -- WattScale -- that can identify energy-inefficient homes anywhere in a region with sufficient data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2009/10/power_lines-e1594136810494.jpg?w=1200&#038;strip=all",
-          "width": 1149,
-          "height": 550,
-          "title": "WattScale is an open source AI tool that identifies energy-wasting homes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/wattscale-is-an-open-source-ai-tool-that-identifies-energy-wasting-homes/amp/",
-      "publishedDateTime": "2020-07-07T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-machine-learning-helps-grow-artificial-organs.md",
-      "title": "Machine learning helps grow artificial organs",
-      "excerpt": "Researchers from the Moscow Institute of Physics and Technology, Ivannikov Institute for System Programming, and the Harvard Medical School-affiliated Schepens Eye Research Institute have developed a neural network capable of recognizing retinal tissues during the process of their differentiation in a dish.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/tissue.jpg",
-          "width": 1920,
-          "height": 1357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-machine-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-machine-artificial.amp",
-      "publishedDateTime": "2020-07-07T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

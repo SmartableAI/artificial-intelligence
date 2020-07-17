@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnet.com/news/watch-an-ai-edit-my-skate-video/</loc>
+    <lastmod>2020-07-16T18:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/</loc>
     <lastmod>2020-07-16T15:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +21,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/</loc>
     <lastmod>2020-07-16T12:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html</loc>
+    <lastmod>2020-07-16T12:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -153,12 +165,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/</loc>
     <lastmod>2020-07-15T16:52:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16</loc>
-    <lastmod>2020-07-15T15:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -339,6 +345,12 @@
   <url>
     <loc>https://www.wired.com/story/ethics-guide-tech-rewritten-workers/</loc>
     <lastmod>2020-07-15T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future</loc>
+    <lastmod>2020-07-15T05:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -585,6 +597,12 @@
   <url>
     <loc>https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui</loc>
     <lastmod>2020-07-14T05:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/</loc>
+    <lastmod>2020-07-14T05:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1453,6 +1471,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx</loc>
+    <lastmod>2020-07-08T12:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/08/googles-data-qna-is-an-ai-service-that-helps-business-users-get-answers-to-analytical-queries/</loc>
     <lastmod>2020-07-08T12:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1521,12 +1545,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/tellius-unveils-on-demand-ai-platform/</loc>
     <lastmod>2020-07-08T08:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08</loc>
-    <lastmod>2020-07-08T08:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1965,6 +1983,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/06/study-tests-whether-ai-can-convincingly-answer-existential-questions/</loc>
     <lastmod>2020-07-06T12:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n</loc>
+    <lastmod>2020-07-06T10:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2431,8 +2455,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-9033854</loc>
-    <lastmod>2020-07-02T05:09:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-301086165.html</loc>
+    <lastmod>2020-07-02T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
