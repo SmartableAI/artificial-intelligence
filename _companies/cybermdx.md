@@ -2,7 +2,7 @@
 name: "CyberMDX"
 overview: "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. "
 type: "profile"
-heat: 41
+heat: 42
 
 website: https://www.cybermdx.com/
 
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "CyberMDX"
 
-secured: "150LF7GGKn3kUAUfK6DkGr37JwJVzPUxqACt1/dsH3Gs1WRmPmaD2JRE2OFWxgfG9cy2zyh0jn/SeNlkOItsaWnagFlQl6ckR/XnYt8/4jMPArLPAjOBnaVBUHjkDKJYCnpZ5+GlnU+SWVCLwXbttQ6f24uv0HBOm+YzdBJaDLqfjbc4Ic8ypPfXjnKgJfoE1FFGz+gt+xhoEbrJd0mR5x2/ApfR9bJ4IMvZvwmPNftTDEHQIOd/VfNUv3EqgLOEpDFGLeYLGbJO4uJ2xD0O1SoURmwF0Xj8sloeeWTTFLRwGlXq62IVE3J1oe5TKIE+nL8BE8Ytfihvqve/PRFQ0FK0/IePhbQabBWW5gXTX+UyND7n8+qvpPKFY71B9W5j;SLo3vCWaZ/e39693p1cGiQ=="
+secured: "NIiR0CAv+prvGZCdAl/eM7ffEl5IzgOqGnYmBkiFa+x7sNZGAFmwfRI+5hKa3eU53ulnSFCPfdljm9tn39acJl1fsweIZfpfXmTNAX6an7kDImNDCBHmCq++mmYqGUNcCDye2ZOScJLob9SMqgqhqkdkg8YA73YHeJG5ArxBsxY/eqCWmJ0kBPbQ796D+qC8tD2pCA5BcsjRdhWcqBkCJorpRaa8KZwi6BIwN/sDQ+Q6CNiv9D9OkNoTkE6rI8cdjGFWOBBiZgj/fshEuzmY0Czgj2JC7ZHuvrinPA0jwraiN5+iYqDabikDLzLT7S7Iej8RSi5QjbJl363gw/w4CDf8reojVQwN2kS/2g3ybvMMSdHdtYqIz3VR7MY/6BRW;Ha+93KQB6XWTlLtDpMTR4w=="
 ---
 

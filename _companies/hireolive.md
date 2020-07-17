@@ -6,7 +6,7 @@ otherNames:
   - "CrossChx, Inc."
 overview: "Olive figures out where she can have an impact, onboards quickly, does her job extremely well, and gets smarter over time. For more information, visit www.hireolive.com."
 type: "profile"
-heat: 65
+heat: 71
 
 website: https://oliveai.com/
 
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=mYaqdIwAE24"
 
-secured: "1Qd63KL/MfeIXwXSGMxjEjcQIleJ56CB8uKOZqfSIN+2fSIOJDnV0/DGrYvImE5Nat0zzhlg0OqZGODC9VELeuxWFljwGwUtpH2bxpaqprDTRzoCjuA1zLtL+8X0t/WPoyCfO3I1/Ct3DNb8N0ERNMYF2jU7Yv0z7X989sqdOatUYWU8PxNumOCS7Xffz3qRNgOSk350Hfr571sx8xKE2eIU4Y36f+EF7wyAypYHvM2LCp4wpXhL5tQaoE6Kr5nEexTc9Flg2OoQyo71a/X3muxMaNHW3EePHaBRAd92tkjj/1gHPxvDElhdNVVZYlabYtY0gg32LAvstZ9AS6PegyX6inSuLc9WI5BRFrhI58U5EXUxuF4U9IuKuWhPKeLF;8UwI0ovvJW9kISaNo9hbsA=="
+secured: "c9LsbbbUMfjW2lRctHwtnGV+RW055xGAFTWB8XesX1qQd/euGw+RMtXEO1ultmEtOu42XJV3QwPlUyiezmui6I4GqUbridx7K4GlW7SE4jed42b2vW01XIZDjneQOfCtZ3KYZnXVHVzDb6MnXcug43cB3alhm1i5D03S4NsAy7r4QiyVuKhMO+attBDP3/io7Now44uPuIr3pd+K5I1iTvD01WtYUDznBpARlnXl3oLff3ZmwuurXSapOSjrq+gVTBBuA0cw1WEyTYMGbyhyCqHoEgBcXQZx9oTsESe7YgkL9F1ZwRvvaOKDSwB/dFSxUPWVqnsVvCcD8/guPIlwdGl3r62/MkWqnneFiuDvUUgZ+0Oj+vVX1NyAVxTLSJI+;66XrFCCmr35yV8rOqet1pA=="
 ---
 

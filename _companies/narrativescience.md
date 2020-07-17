@@ -2,7 +2,7 @@
 name: "Narrative Science"
 overview: "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge."
 type: "profile"
-heat: 78
+heat: 220
 
 website: https://narrativescience.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "narrativesci"
   url: "https://twitter.com/narrativesci"
-  followers: 7171
+  followers: 7178
 
 size: 51-200 employees
 yearFounded: 2010
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "dXh2yXUZ8gyrIUn0uywBK21i8qHCQiaCspGbomH0nbcexgYbpY9ORZ5/oJqkV9DKVttXHiRTkSh+cdKhM7YXTzqZuO20RfJUgyVPud8trTRtWKAjK69pyyTofzKl0esq8wIJM1gqoeBVhZ4xXSPS+EAqJYRGOUXZ28vmvah8x1bqdPBy0tCVopGGpABeuTCj9e+n7Gru/0fOuzRtVM/C0Kpp4D1bayZDuors/nwF32xndhauE7KP87v8/CR4/7etMedgSnsEekZHGGfTVpr++bqFDvEmnMK+viW5Xr3xs3EK3W+x/9QilvZ0kcWD1Lpn7N5Asz0ng3w19eWgQwWyG26mE1lDXwKkDQlgLiBwEzEOORVET/CXs0ntkD8qD/Vn;cCNoETc6HRRU1IT/aZnyww=="
+secured: "B57vhQgvumbhNld3u1x1HdZuESO79gg8hQJqDbDRq6fbJiTRUwzpDGKOQBDFGV4uLi3/6Hyt9F34MyQNk5IkTc7PrKubfKAOaEmoWN7TjnztYn5BNvKWAUWUJ21OoMZGM49MaTVsJD+QbT25cKAbTh735XRhbz+6MJiW1X2o+HDCTlCqbiStRbk7z94lFDt2CIaKcwCwqky9HgNBLS/aIGV2lZWHq+rupsHCEmuS50rz+O0P7OGCBjztdP9buqJ8Yx3+6bL7GL7v9q1+Pn/2ubby71LiGW7sXA5UqMRHsg10W6x82aJUY7J4wo/oqH52MLrdj3FDQr1C3jn4QAH0QdtPgK6WkIcApHDsm8Dc3Y0nzb3STGiUpnPuIEK48O39;cigQXbavNjYLpSlAk5ceTQ=="
 ---
 

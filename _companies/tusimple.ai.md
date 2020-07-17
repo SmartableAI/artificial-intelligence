@@ -4,7 +4,7 @@ otherNames:
   - "图森未来"
 overview: "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions."
 type: "profile"
-heat: 127
+heat: 108
 
 website: https://www.tusimple.com/
 
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Ff4orQdVjd3gXH/6891uGnlSCdD/GyNB98FFtG2rTdRpIYt/5S/lyb0zmMafMk6gYF5C8ySIpkOJGZS0QcOt3a4omLWPdq4aD1EjD2Lk6fC41CA+owhZIN3SKMrE7hc/stBrIP1lGDiu33zYZQavlVFvRDBdDfbuA7Foik24gN7V58JZ8oW72teqapZXxwILT0R43IMTC/SyBNCvpfpcRCTlGtSYOgcpdLdM39TiGpw66Q94hrtElNHLDiqbAbJjqO207+W2oqfFSgLxydd25dn+Qju3o7O9Hxe3k0DdzvKn7N2M3qRZjoMQGs1rnxr2O4j5GcRK5W5aDsNF0+MChvqG99J4NytalzuMvon5v7wX2Qg6kC7tQ+ZW+idvgKdT;OEH3ihRPjCQJ2lDPzD6rMw=="
+secured: "pchP5oNieDXN6OQ4ZMtaTuu3YWohDmEclJx7pM39xI4zyh0FeyE1NRTEtakeJ41c51SwScIAaAh+GfqCYwI0TsevFSiS1cVqGh9AM0gOpfuFN1/WqYalg52DkaY0ugD3XWVCb3Ed4eGk5HysSJ3Ala8z6NKuZ22ADYOifGW+0yM5nDwtTyqN6SJOWO33LTFXheJkV7iJqjyPm0DuR5naoLrcc8sO6EkLHgjU4OziJFsQr+85/HsImuQC/EPBM2aNqIRZhIu73pDECUHUtGjA/m171VX2ftw2GMz6ZjAP5blwH7oOZycbUS6JvV6q9zK53Jzx0hnFE3UDLQJXHWuBnGg0SobVl/enNx70+KCNOHa1DU2ABVvpahPUzoFi40xT;V7ZjHZzdjZX6hLVsM+/bcQ=="
 ---
 

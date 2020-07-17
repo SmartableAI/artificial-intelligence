@@ -2,7 +2,7 @@
 name: "Foodvisor"
 overview: "At Foodvisor we believe that healthy eating leads to a healthier lifestyle."
 type: "profile"
-heat: 50
+heat: 64
 
 website: http://www.foodvisor.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "foodvisor_app"
   url: "https://twitter.com/foodvisor_app"
-  followers: 1189
+  followers: 1190
 
 size: 11-50 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=H77GQBirQkM"
 
-secured: "5koYTT5x7Tu7XB1UcyWmdRb0yn1kc4x3wjk5PLMV2oigny2kWJ3lqMvpf1p9CcmtmH6mWST+jqqOMCPy9Q+bZupaSA3yEwf/2pbhqIRiPNTpdM8B4liTuwLhckL/zLSR8CugDgW1xZ3o2T/+6pvubxDWHxkZFEpZtKoJDHn39ROj9qTQLgIAKn92MzUtBSB2N7e/JlfEC4xK1dpmCGAhzsjM2VwEerG55qbzGYF6PtoPDPBTr3HQ0zDQwEkyRGXX5efwDwGuHMJdOI5SXkJmlkhNltapFxtyi7vLkfGqUFb+hjkiScizK+2IkvJR8r802N2ERkvVYkhAVmVCnpLZBtw4Cx0VfobIEra9l4f73p1Tt00WKGmPGjMDEy7C4f+L;RhAxdVgo/VMQZwGT69nT2g=="
+secured: "+up5NSm1448lNpjKqvhbbxoXoEHSSXkD814JsrsT/ovJcCCmyx6H+LeMQEZ1p4OljslDxOL+Qwq8ckuGTEumAMUCg1nBz6yFVqlugJ+X3kvOP8nRoc/eVE9dFgqw7XWSwLky+xnHhr9GTY2LK/GHTvsrnzTP7XLblbKaBXgRXydJ7M2BYBSczCRfuU/S27KncoRJT5VYCM9UxcAgDXrHDVmxc/nJJRNVZafUlB66OBhZpOrUATg+kro9sFQD1Zt1QDVuIjiJIAC/+689XTZpbdEMqcmhwZuRg1qZvInxCQUBstlrZiy6jx0IZVL6KTwDdU+gcEJdaYFJolOSC9VeM8O8Z7R3DCnxEJuAGkFP112AmMuc9at/gu9xlNmrxS2S;S2Oz3N86aZC9BSYhM5VIWA=="
 ---
 

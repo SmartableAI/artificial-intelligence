@@ -4,7 +4,7 @@ otherNames:
   - "Scale.ai"
 overview: "The Data Platform for AI: High quality training and validation data for AI applications."
 type: "profile"
-heat: 65
+heat: 92
 
 website: https://www.scale.com
 
@@ -49,6 +49,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "bDkQP2XkOLygLhIrEnxGzQGkorU7gF2nPan5OucwbFEISf9rZdSseef29lDsPUleLx8TxtRCn1v81kHamzOAhtWCEF+7CGX6HV7joDtiD5ek4tHJQZFzrQa4mUqzY8fbyKF3trrNOPOdW7L3IXiZrhrjNSG9TQp9bOhijaNsmwqpfyvaQA6D7YDOh4Kt5Op4OLkNGYUSWXsdmEXwA57aThGiJaP2iPyVkvhVMOmgFBnVrp2FYyWK3ZxdefhjshZhITRmRp81SlbdQM1sGmgyZqrNeq6QuSF/T5CRs7ERZ6pRdWX1kPM73MerpV+jJugyarbEYHFqvI0oRzELVWNIFMQg5XPfzioUs3euvztjXW9UT31ekh2Dd0Obf1BGX7My;nnFdyLsvLA30d+472YXxvQ=="
+secured: "wD8DsHxR8B+VTGo7rqRmYnO1FQ73QoMGQALVYPz8QLQVf0d9/6WVHdWQHMud19wuiQIcS9riNq9fxTDDzGln51h4I5W7UcWqmPoEtEPUW0HDh8koK8FR1BzDHyqlAZg0mzCynznoHieShcDr74Gv5LDMDk4jAH01tKcRqAe6Gnurev/PwOMdKtc26jy7PVXWAc65UJM6gIWaiIruIQPTZA1/rQGcsGI250JYdkPSCewgYAztQGu/LaSA93C+6txr0F6PM7Y8heQxG+2ph964hm5eYvQ74FUsiGmYAignNSonKLPpSy0/u77UZH10qsxXyiO75el+PZn2juf8iKKRB2eeUoScYUerm+xLkPTsoI3DtJY/yPK90qxeyVzje3Dy;a5UzzcUyamNwzwT84TWDog=="
 ---
 

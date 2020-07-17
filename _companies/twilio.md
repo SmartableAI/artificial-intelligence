@@ -2,7 +2,7 @@
 name: "Twilio"
 overview: "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers."
 type: "profile"
-heat: 206
+heat: 115
 
 website: https://www.twilio.com/
 
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Twilio"
 
-secured: "NnCxsLS/MLLYQqShmdAs99f//RHIYy6sHv579v5ObXeNSFPk7ArKQxjPhgWfGG4jY2GBJYqLWSnfJwuX2YCX/F0uoVJrnmeRRkbWOFsTj+xy/TPC5zuoa5RdCVaSkqQ4A4EKKtTPvHVBEIESxCXVjYtbhfUOVk12oqlQeNdhP6ioPAcwr87sEagWMdARhU4pqzKO2+wF4jSDj4evvFdsblA94QjLbBDIG79PoS2kOFDTozYBDh7iorRaay9YdSzz+Bsa+Eros5lPJkiJ72JT8n0j/Z6Y3+HQCXj01MJgmXSgHTfQ9Go98Ej/J015nuhr1OPd+g5vJ6FnC9Z3raOwYPrsDGmc+kgE4fL1wm61UvUhK5h/+BUZi7oeuHLXZ1hs58EkCGeEpoTFuQVu6XG3uw==;siqE91nI5c0LcC4MYncLlQ=="
+secured: "BThQREzPhWa+VT/9+z+NyS4Py4lK/iPRhEEwejWo3cPMtdZL0g/n5+gLa468DYykK0llfxonen15eB472WKX9qDjuH873Pjnd3b7zhF9TNl6UAc0/64aHyPnvHxce5if5PbYRrClSEmOtxno3ihVwdVmrKL9SzGHSdaHH4YOXi4qSZx6p3otwk9SJna6PiZXmzmktamlSGYnCg/RQRujuSLGPfccwoccwsu9YiQTfd5b6nUqBQG6shp1yPTNQj/VYZ+Ya9g66scbWlLSWKLhFgvWCRq8RSSFG6iTzsj3UNBgCOpZsM6cf1LI0VgDKDhMwbxV/BVc2RrGNF1i5RN0KIAO+67URemSj58otKHtGl5pCsvUQJe14syn+qPGKOQgkgm+kxFfgRH4SgKWPBBLyg==;g2Nsyqr+Qy6Kwy9yKuZc7A=="
 ---
 
