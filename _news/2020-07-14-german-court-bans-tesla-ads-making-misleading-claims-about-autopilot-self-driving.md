@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
+    publishedDateTime: 2020-07-17T13:08:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 24
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
   - title: "Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
     publishedDateTime: 2020-07-17T10:40:00Z
@@ -161,6 +175,15 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "VX7uidnQSweJx/jjp2GqNQYD4giyKWbtoIqnmC8Og4FunQSU76s9MGNRAGiyQnsl8xYYc405RcF2DCmIqxoyTITUfB4/4X290uDWLsJikQwok+N5r+r8nLeH0rlbPyT4CWalHJMNHqFz/ynxKbjQXKbh0wIF4taT7FtDXKp7CEJHQKg9M54A+v3d7xHqgXIMEewj3J250DNgG5z834ikvje3GnyxwmcJXER/8DEmPs4e1j8dHbFSSwb/JDOqJfgHDxzyH6yHPLO1ZH/UwwSzk1yuNsc+8QHH4TuoaewHNlPBqZ8vn8VF7d0QDjt/s/c71dgf9zMJ9gsJLzaBQ9Jpz4X3F8Y3c7Fo5haJDfinC8vs7PujBCIc6sLFLiVDQueLMYizcBjUZoXoA2lYpP1J7E3BW5oYP8kECl/ECtSufwi7AcTII8Pu0l1eKzli4Gi4dIyiRlDh6nMMtwzZl17OHkAVQ2MqGLspt9oKPGHkurjClnpBRvVkEbb8QIRVIznTIzvcuBoKweNuFUpd1Jt0KQ==;7ENIaD/GvvymcD627J7BIQ=="
 ---

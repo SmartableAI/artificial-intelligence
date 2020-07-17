@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 970
     height: 545
     isCached: true
+
+related:
+  - title: "AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia’s"
+    excerpt: "... up its new DGX100 server running multiple A100 processors designed for AI, emphasizing the complexity of its systems engineering as embodied in its motherboard. Startup Cerebras Systems last fall unveiled a system that is akin to a super-computer in a ..."
+    publishedDateTime: 2020-07-15T07:10:00Z
+    webUrl: "https://www.zdnet.com/article/ai-chip-startup-graphcore-enters-the-system-business-claiming-economics-vastly-better-than-nvidias/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startup-graphcore-enters-the-system-business-claiming-economics-vastly-better-than-nvidias/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startup-graphcore-enters-the-system-business-claiming-economics-vastly-better-than-nvidias/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 90
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/thumbnail/1200x675/1e8c48712d0946e6058d43f91553972c/2020-07-15-at-1-27-40-am.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7CBGjhfQ9j0YPHj8XHoacO0mQ5ulN2UlNsvbgcv+Jbj1wxL4t8vuOHzcKRk4GT2bpYHe8Rn/8j7Llcl3+Ij9GaoJJfT9kbuXa6ihTC7w4fTfy6zmiJXIdq3bZ3wHTQVxsEn0VbBz1tiJ6ZCYHpH3pBBEDjavCY4jNQgLs8QywWYASLocfiMJBvgUM9RuBDgDJYziErWFmdVdufPHXqo73GI4xv5S4AlSIGDyPkVWi7/JVPJP1cGwAXP2vpbl3OaQOyxYzFPfoeyOoCG8Xwi91pdfPF3e1VG34f7WUEyfJp70/ETiuiUWbhQQIJWYgRM5ybJNZfw/prYWcGRokEiNpA==;Cezl2yxk9TmtrRqr/wbYsA=="
 ---

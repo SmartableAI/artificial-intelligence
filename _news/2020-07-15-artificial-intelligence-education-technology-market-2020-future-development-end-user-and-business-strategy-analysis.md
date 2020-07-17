@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-17T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive AI (Artificial Intelligence) Market Size Growth Drivers As Well As Industry Challenges Opportunities To 2026"
     excerpt: "The Global Automotive AI (Artificial Intelligence) Market Research Report published by Reports and Data provides"
     publishedDateTime: 2020-07-14T08:10:00Z
@@ -78,20 +92,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-17T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

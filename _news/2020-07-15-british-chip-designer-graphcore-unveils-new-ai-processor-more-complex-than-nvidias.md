@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/15/21324103/ai-chips-nv
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu"
 type: article
 quality: 98
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia’s"
-    excerpt: "... up its new DGX100 server running multiple A100 processors designed for AI, emphasizing the complexity of its systems engineering as embodied in its motherboard. Startup Cerebras Systems last fall unveiled a system that is akin to a super-computer in a ..."
-    publishedDateTime: 2020-07-15T07:10:00Z
-    webUrl: "https://www.zdnet.com/article/ai-chip-startup-graphcore-enters-the-system-business-claiming-economics-vastly-better-than-nvidias/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-chip-startup-graphcore-enters-the-system-business-claiming-economics-vastly-better-than-nvidias/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chip-startup-graphcore-enters-the-system-business-claiming-economics-vastly-better-than-nvidias/"
+  - title: "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips"
+    excerpt: "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU."
+    publishedDateTime: 2020-07-17T13:26:00Z
+    webUrl: "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 90
+      name: The Motley Fool
+      domain: fool.com
+    quality: 104
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/thumbnail/1200x675/1e8c48712d0946e6058d43f91553972c/2020-07-15-at-1-27-40-am.jpg"
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582503%2Fgettyimages-1145990155.jpg&w=1200&op=resize"
         width: 1200
         height: 675
         isCached: true

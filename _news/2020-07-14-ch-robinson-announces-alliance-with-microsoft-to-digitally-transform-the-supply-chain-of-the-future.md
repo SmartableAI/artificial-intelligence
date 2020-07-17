@@ -98,6 +98,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft And CH Robinson Worldwide Partner To Digitally Advance Supply Chains (MSFT, CHRW)"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and CH Robinson Worldwide Inc (NASDAQ: CHRW) announced this week that they are partnering to digitally transform supply chains of the future."
+    publishedDateTime: 2020-07-17T12:37:00Z
+    webUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/"
+    ampWebUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 44
   - title: "C.H. Robinson, Microsoft partner on supply chain transparency"
     excerpt: "C.H. Robinson, Eden Prairie, Minn., and Microsoft are working to provide real-time visibility in the supply chain, a partnership that will accelerate innovation in transportation, according to the companies."
     publishedDateTime: 2020-07-14T17:54:00Z

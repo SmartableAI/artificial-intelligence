@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
+    publishedDateTime: 2020-07-17T13:08:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 24
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
   - title: "Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
     publishedDateTime: 2020-07-17T10:40:00Z
@@ -161,6 +175,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "mCc3C2++wleba0hIoRLVvvR/E3ZIarK86Rh2DYfrFC3WRkT9G9flyM8HPAHgq7kTjGk724l+hlSUFtwLKu5TG0gOiblIzU6iWygIhhyeKThXdFC3T+/2JbNvatlyHWdk87GzvbwbiFiWu8kezqec2Z9JU0AAsbJgXQ5OtAzC+puDuvcspH3C7Tt+utcXxib03bvWpfViCseecsGBAErmp1HvDZvrS2pFzZfn+j3uh01BzTQFgjX3/HM4cvC0ylRQvDmdSdzjquA3god5lZLsMWlKuqINlfqe+RwXkTUscMlmkCR917zquUC12JpH48kBOehD5DydWvUBMnE97CSQpQ==;pefyDLZYH1Z4tl8dRA5xwA=="
 ---

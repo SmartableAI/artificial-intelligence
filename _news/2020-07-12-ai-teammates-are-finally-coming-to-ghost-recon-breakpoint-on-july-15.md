@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
 type: article
 quality: 87
-heat: 147
+heat: 117
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Ghost Recon: Breakpoint Changes Outlined, AI Squadmates Coming Next Week"
-    excerpt: "This biggest change coming to Ghost Recon Breakpoint is the addition of AI Squadmates, which will arrive on July 15 as part of the game's next major update. The full team--composed of Fury, Fixit, and Vasily--can be activated and dismissed at will once you reach the main island."
-    publishedDateTime: 2020-07-12T19:14:00Z
-    webUrl: "https://www.gamespot.com/articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/ghost-recon-breakpoint-changes-outlined-ai-squadma/1100-6479616/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 56
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/original/1574/15746725/3531987-grbp_mtdt_scrn_11_life_is_harsh_high_mountain_1920_nl.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Ghost Recon: Breakpoint Changes Outlined, AI Squadmates Coming This Week"
     excerpt: "This biggest change coming to Ghost Recon Breakpoint is the addition of AI Squadmates, which will arrive on July 15 as part of the game's next major update. The full team--composed of Fury, Fixit, and Vasily--can be activated and dismissed at will once you reach the main island."
     publishedDateTime: 2020-07-13T02:04:00Z
@@ -93,26 +77,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Ghost Recon Breakpoint’s AI squadmates arrive this week, and they’re customisable"
-    excerpt: "Ubisoft went back and forth on including AI teammates in the run-up to Ghost Recon Breakpoint’s launch last year, eventually axing the feature. While some players had bucked at the AI’s suspiciously good aim and superhuman positioning speed in Wildlands,"
-    publishedDateTime: 2020-07-12T19:21:00Z
-    webUrl: "https://www.pcgamesn.com/ghost-recon-breakpoint/ai-teammates-release-date"
-    ampWebUrl: "https://www.pcgamesn.com/ghost-recon-breakpoint/ai-teammates-release-date?amp"
-    cdnAmpWebUrl: "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/ghost-recon-breakpoint/ai-teammates-release-date?amp"
-    type: article
-    provider:
-      name: PCGamesN
-      domain: pcgamesn.com
-    quality: 32
-  - title: "Ghost Recon Breakpoint Will Be Getting AI Teammates"
-    excerpt: "Ubisoft revealed today that they will be sending a new update to Tom Clancy's Ghost Recon Breakpoint which will bring AI teammates."
-    publishedDateTime: 2020-07-12T20:40:00Z
-    webUrl: "https://bleedingcool.com/games/ghost-recon-breakpoint-will-be-getting-ai-teammates/"
-    type: article
-    provider:
-      name: Bleeding Cool
-      domain: bleedingcool.com
-    quality: 17
 
 secured: "RtY5YwuamSeJI7kTEX57sMpEPs6a13j7/+2IKg99uaJZ//BBtswXE2u2HQ/FLje5APbdRpcn5YgNIOVQ4XKl7tSjAx7SbfiRPb6B+xn16HplDAws1EZiZl+MiVgGaKolEyYlOtSYoprPYD8mB4qgG2RXc496Ltgw2NMuYjbvaNYBNtiMnIlEQtsrJ1D+0ntU54pvdI+xSNm172uLkEl7+HOZKsB7yRV6p1ZyKxAPXpQ+9BHuDMViZvNQbrccjAW0Fi67jHD7OE86hpqHjbb7881GFLTWPtXqVXF92tQuar59bPlIKnud/PvqdElnw8FeDjnf6kfuF3NGHEemRFGlwZ1JX/DysDbD+MVJv14rK+IRQlqRKBpGmEpMXZ8RyksB6oxxWDA3SBvC16Nw2oLtJXiJ4DcDRab0JE9Da5QahQPI2hreHQCZ7ZnquWzF038ZBLWAjy+ZERSvvfITnQnPHL0Ojbl1YaDV3WvkpvR37IDzfM7BSntrBqFRCIZa3vBd;KvEDR5ER6tXmiBLb1qljTQ=="
 ---

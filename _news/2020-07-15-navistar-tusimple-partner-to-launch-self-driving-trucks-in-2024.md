@@ -146,6 +146,20 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Navistar Enters Self-Driving Trucks Market"
+    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
+    publishedDateTime: 2020-07-17T12:13:00Z
+    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Navistar, TuSimple Partner to Bring Self-driving Trucks to Market by 2024"
     excerpt: "A collaboration between Navistar and TuSimple will accelerate testing and proving of technology capable of running commercial trucks at full driverless Level 4 operation by 2024."
     publishedDateTime: 2020-07-15T18:04:00Z

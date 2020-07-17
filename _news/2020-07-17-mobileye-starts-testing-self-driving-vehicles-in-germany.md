@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
+    publishedDateTime: 2020-07-17T13:08:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 24
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
   - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
     excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
     publishedDateTime: 2020-07-15T12:24:00Z
@@ -161,6 +175,15 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "JNnG8ihoG4Whu+52+B+vcM/kOvnV9PVG1HmPUSjh6u3FCu0TT7BxMUN6O50gF7wRCr2zaLRNGcg5194b8qD92uoezqZJWDgcsn1kGI2xlLKFmKC7Bw4pBopTJ2PiyNPayixjMOOLcxfDIsRsSuBFmIVkvv9q8dk/T0sNppATz27KN0a12bJIgl58eLSaKWHIaOKy4v05GhcTZUfuEqwZA1mTgVPmpMk+kmzML872XpX8fDfR4yHPoo+iPv2GHELNi7r/8vZtctU6OhMHtOIJFAucM7ON90S1NN7N8W5W8oU+jjbbaUlcC/FYCGnTGFhOYhdJRXnoLoSdYNlOi7Kqpg==;hkVj3EKLqtHiA+L58f2mCA=="
 ---

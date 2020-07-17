@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
+      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
+      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "publishedDateTime": "2020-07-14T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-ch-robinson-microsoft-partner-to-boost-supply-chain-digitization.md",
       "title": "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization",
       "excerpt": "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the",
@@ -9,7 +59,7 @@
       "webUrl": "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1088,7 +1138,7 @@
       "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1407,55 +1457,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-is-reportedly-making-more-job-cuts-at-msn-in-favor-of-an-ai-driven-system-of-selecting-news-stories.md",
-      "title": "Microsoft is reportedly making more job cuts at MSN in favor of an AI-driven system of selecting news stories",
-      "excerpt": "Staffing changes are relatively common within Microsoft around the time its new fiscal year rolls around on July 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0cf14a3f737050a061e2f6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7?amp",
-      "publishedDateTime": "2020-07-13T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

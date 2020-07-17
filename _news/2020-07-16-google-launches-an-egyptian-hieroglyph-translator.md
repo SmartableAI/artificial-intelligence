@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google came up with an AI powered app that can efficiently translate Egyptian Hieroglyphs"
+    excerpt: "Google has recently launched an Ai powered Hieroglyphics translator called as Fabricius. The app is freely available at the Google Art and Culture website and application. The app was opened for downloading since Wednesday."
+    publishedDateTime: 2020-07-17T12:21:00Z
+    webUrl: "https://www.techjuice.pk/google-came-up-with-an-ai-powered-app-that-can-efficiently-translate-egyptian-hieroglyphs/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 30
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/07/google.jpg"
+        width: 700
+        height: 524
+        isCached: true
 
 secured: "ltPn/Cpy2d5hbYPRxKpxCvfh7q1fe6TikcLs2wtaRdd15lGpPOAkQZt58h8ssBcDHPTcbr03sVrRCDLtA8lNxpd3cQQrS+7fVGvoUnPqTd913I0E0tsK/HM22FbwCTTyHYKOXCuTC61o+dA1BkuVNQ7h28nRPTQT7OvrfOXTCrUIwEHI4bp1Iq464HN84HHHy15kLAgiTH3kdveZpDz4utZAZIdxSOrbfXjM8oTaLh46Ua06NFgvKpgPWg2gTYMPy3Pw88AnNSaSKG7SBsaPHftoSp4xq62NYC+TQE4qvHVVuac7+wJfQgfDz0Cr6DhzxRcQMt61RT9Fzv7f9H0shrcuCt34YjPuDHvCO4zMN8tG1kZw+Vyx1cWGa8EbjNUHMT6TeDVHw9851Sh/3p6WV7wBQK7tB4oI7WhsQn+gMFAnDK3cErfeaF4RLcO8i7hdqnOLTh5cVPlGoNsp9+24Ue/UmKpcPQgbZfosEXmPYTw8JDmT1j0QLBCQOkpkEKqnXU2+cZupIRm212KtSlC1DA==;OQRGVJlj45v109K8NHOM4Q=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-13T13:36:00Z
 webUrl: "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 666
     height: 350
     isCached: true
-
-related:
-  - title: "Europe Artificial Intelligence Products Market Report 2019"
-    excerpt: "(MENAFN - Nxtgen Reports) In this report, our team research the Europe Artificial Intelligence Products market by type, application, region and manufacturer 2014-2019 and forcast 2020-2025."
-    publishedDateTime: 2020-07-12T20:14:00Z
-    webUrl: "https://menafn.com/1100471252/Europe-Artificial-Intelligence-Products-Market-Report-2019"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?246028"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Video Analytics, ISR And Intelligent Video Surveillance Americas Market Research Report – Global Forecast till 2020"
-    excerpt: "By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services will command 47% of the global market."
-    publishedDateTime: 2020-07-12T21:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-research-report-global-forecast-till-2020-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Z+/EFjoDH4mv2fuv56I5WTfQCMlKCfUT7Cj5+JvI2UkwKNFCn5xBOd0cPhRqRvAXN+UDT/rWd4XGOwWmiSrg5XAUBmHqievTKHQrzAn22muPwT2cHqIsrX9yC2cw0B/M8dVpli0emTKOPAIq7b8EmBKRw+TOaFWNavVL6zHdLbO5Zg8V192MUY37CoLeBh0CYwVsUpE5rMveKG4Vy0mOqGgXMONKI3zkkOYmNDeXNS92xYPkJJtMNbzCvDu1BT0X1PcVQNgfuY0/VH8dUw5jwrL51/e2cQagVb/qFwmd02U/iiaN5r0cAcr/n/DyibmB2ZOWALAnv+8mDjtMqDEpQwDVoHMkWU1hAV8+ypLyWUgpiJUvEbqDWTVxsYvIsPTZYU02CrLzdv21XklkDN2wUY50l6OZqa48iKIDNYN5Wm650yrD5s0r7fiaUQEg62Gorgy7fmdvDuSt0W3DCqQ9+9yTpMUnDBC4WLkexKixI4bnjXUXhLbe5c+y6kQKvwcNQJywRjppajFC1Fv4+C2msQ==;I0/QZHBhA0r0eMFA2CRjQQ=="
 ---

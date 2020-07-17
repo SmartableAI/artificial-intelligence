@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-buil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
 type: article
 quality: 84
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-truc-main.jpg?itok=WENGs4K-"
         width: 470
         height: 246
+        isCached: true
+  - title: "Navistar Enters Self-Driving Trucks Market"
+    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
+    publishedDateTime: 2020-07-17T12:13:00Z
+    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
         isCached: true
   - title: "Navistar, TuSimple Partner to Bring Self-driving Trucks to Market by 2024"
     excerpt: "A collaboration between Navistar and TuSimple will accelerate testing and proving of technology capable of running commercial trucks at full driverless Level 4 operation by 2024."

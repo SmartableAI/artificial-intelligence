@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx</loc>
+    <lastmod>2020-07-17T06:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/</loc>
+    <lastmod>2020-07-17T06:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020</loc>
+    <lastmod>2020-07-17T05:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnn.com/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html</loc>
     <lastmod>2020-07-17T04:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -75,12 +93,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/16/twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation/</loc>
     <lastmod>2020-07-16T12:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://pulse2.com/untether-ai-7-million-funding/</loc>
-    <lastmod>2020-07-16T11:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -459,12 +471,6 @@
   <url>
     <loc>https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/</loc>
     <lastmod>2020-07-15T00:26:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu</loc>
-    <lastmod>2020-07-15T00:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1111,7 +1117,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1</loc>
+    <loc>https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications</loc>
     <lastmod>2020-07-10T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

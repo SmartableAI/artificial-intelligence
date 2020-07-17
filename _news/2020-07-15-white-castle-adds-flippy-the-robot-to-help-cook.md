@@ -72,6 +72,20 @@ related:
         width: 583
         height: 300
         isCached: true
+  - title: "Burger-flipping robot named Flippy being tested at White Castle"
+    excerpt: "(CNN) - White Castle is testing a burger-flipping robot named Flippy that could flip the entire restaurant industry. The chain announced a partnership with Miso Robotics, a Pasadena-based startup, to introduce Flippy,"
+    publishedDateTime: 2020-07-17T12:20:00Z
+    webUrl: "https://www.nbc-2.com/story/42380921/burgerflipping-robot-named-flippy-being-tested-at-white-castle"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 39
+    images:
+      - url: "https://WBBH.images.worldnow.com/images/18973502_G.jpeg?lastEditedDate=1574684789000"
+        width: 640
+        height: 363
+        isCached: true
 
 secured: "cZXmU1eBe7TanOmF0ZuT2UPPjKd9XirprBRvFb+AuUoRwu5cP45f+E42utx2v4Sy/Yk8RvANU3oXU2vSeBLYcN7GaCrNRS/bf0ZEmnAGzNcIOMMpSG1AJs4mqe673mG/QrHybEOwOzXfjOSLxrkWncKG/6tTy2T/6v/ygYzn23Spp6gqJy1qoGPEur16oflSEIVHbmIrnAu8dE5m9xugSMJ1AjYIBgTL7vt33zYOCDsMLEXnoq7/EOUB6mGF9GQnoVfTKZDxjJX21XHSd+MydHOodoR8cVYRbHFMG17d7/ukasrEN2/4J+xoKYto4V7IlBTMIs3GjhcY5fSWwAhpcw==;5odrQKbryCyqExKcYx4eiw=="
 ---

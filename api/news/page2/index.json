@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
+      "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
+      "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "publishedDateTime": "2020-07-16T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-big-backing-to-pair-doctors-with-ai-assist-technology.md",
+      "title": "Big backing to pair doctors with AI-assist technology",
+      "excerpt": "\"We believe Activ Surgical's platform and technology are poised to transform the surgical space by enabling existing surgical systems and robots to visualize what surgeons can't and guide them, thus making surgeries safer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/big-backing-pair-doctors-ai-assist-technology/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/15/6505f11f-3e03-4449-9f2a-ca3c437c9148/surgery.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/big-backing-pair-doctors-ai-assist-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/big-backing-pair-doctors-ai-assist-technology/",
+      "publishedDateTime": "2020-07-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea.md",
       "title": "Is Turning To AI In The Midst Of A Healthcare Crisis A Good Idea?",
       "excerpt": "Well, with artificial intelligence (AI), we don't have to ... Especially at the time when our healthcare system is under intense stress. However, my experience in AI security tells me that the implementation of AI into medicine should not be rushed.",
@@ -478,7 +577,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1107,104 +1206,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
-      "title": "How Chase is using AI to update banking",
-      "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "publishedDateTime": "2020-07-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
-      "title": "How Intuit is moving from mobile-first to AI-first",
-      "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-940325272.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
-      "publishedDateTime": "2020-07-15T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

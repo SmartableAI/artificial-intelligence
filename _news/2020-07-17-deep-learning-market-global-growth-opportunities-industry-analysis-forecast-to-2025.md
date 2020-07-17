@@ -5,7 +5,7 @@ excerpt: "The scope of the report includes a detailed study of Deep Learning Mar
 publishedDateTime: 2020-07-17T10:41:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
 type: article
-quality: 46
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

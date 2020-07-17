@@ -2,6 +2,56 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-10-facebook-ai-could-fix-one-of-the-most-annoying-problems-in-video-chat-apps.md",
+      "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
+      "excerpt": "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
+      "publishedDateTime": "2020-07-10T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-how-to-stop-sharing-sensitive-content-with-aws-ai-services.md",
       "title": "How to Stop Sharing Sensitive Content with AWS AI Services",
       "excerpt": "AWS has released a new tool that allows customers of its AI services to more easily stop sharing their datasets with Amazon for product improvement purposes: something that is currently a default opt-in for many AWS AI services.",
@@ -246,31 +296,31 @@
     {
       "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
       "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
-      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 10, 2020 / As a leader in holographic vision, WIMI Hologram Cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services. WIMI cover from the holographic AI computer vision synthesis, holographic visual ...",
+      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 10, 2020 / As a leader in holographic vision, WIMI Hologram Cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.accesswire.com/users/newswire/images/597017/1.jpg",
+          "width": 554,
+          "height": 259,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582427",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582427",
       "publishedDateTime": "2020-07-10T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1365,55 +1415,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-theres-an-ai-for-every-step-in-the-hiring-process.md",
-      "title": "There’s an AI for every step in the hiring process",
-      "excerpt": "From writing a job description to analyzing an interview, a growing crop of AI companies make the case that a hiring manager never needs to make a suboptimal decision again.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2016-06-13T120000Z_563916475_TM3EC6D0O9101_RTRMADP_3_LINKEDIN-M-A-MICROSOFT-e1594247240898.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/amp/",
-      "publishedDateTime": "2020-07-09T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

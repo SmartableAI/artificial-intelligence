@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "British chip designer Graphcore unveils new AI processor more complex than Nvidia’s"
-    excerpt: "The processor has 59.4 billion transistors and offers an eight times performance increase from the company’s Colossus MK1, says Graphcore. It boasts more than the 54 billion transistors found in Nvidia’s A100,"
-    publishedDateTime: 2020-07-15T07:23:00Z
-    webUrl: "https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu"
+  - title: "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU"
+    excerpt: "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world."
+    publishedDateTime: 2020-07-15T15:22:00Z
+    webUrl: "https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
+      name: TechRadar
+      domain: techradar.com
     quality: 98
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/eJg8AuhPLd-kiSwvB1AIpCNFHVk=/480x0/cdn.vox-cdn.com/uploads/chorus_asset/file/20083246/GC011_IPURACK_002_W4K.jpg"
-        width: 480
-        height: 360
+      - url: "https://cdn.mos.cms.futurecdn.net/W2EjqVHnZHVD2SdUfx2iyi-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
 
 secured: "dXf47usFbO0A9aeodWWcdY+4ScpNHgyEsSEqIFraXOSsjxyUQiN5M/7FlzM5WjtyIr7Srrml4PIGkcJCl6exvMF5CNMzlY+PaNhyUtn4btf1lQ3ACUK4/3FObvdw7rijJllWNXiH45380eEm0aQ7Cbvul4K1laZh7dKz0s4Pr7q+tKeJTIxzS4L8VCelV52p0Z9qm8Iy3JZkzhhLkABBaOB6kGByAwAz2j0B8ahBA5f7Joj/L2P9aqz5b0ClZVNoVKB0OBmXUNWbkBckBEOzTy0WgCnxihq6tnVmazzwOuHplfuJdODodbpomBIk2+NlBOlqUJ7VIriZah2O/XGr2sO20PN0guD68TWKz4R+WxjML/n+I/tzVyPRshC6jeR9oPkmpATl8wnXIcsj53GPWcRV2BpvzdKrMw7/yIgH0bakED3CuJvXDtZt4y0Ctz3MDaEle5x8tBUHlyY6SYp8/X5s21Bf7pwd69t5VQV7dGpJ1MiyA3UsZPHkHus3k0IQwfke5hFsHz8ulYDZct6kMQ==;mPB4WoeHtRbBybV7hoFGFw=="

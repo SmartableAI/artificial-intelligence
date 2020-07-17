@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
         width: 583
         height: 300
+        isCached: true
+  - title: "Burger-flipping robot named Flippy being tested at White Castle"
+    excerpt: "(CNN) - White Castle is testing a burger-flipping robot named Flippy that could flip the entire restaurant industry. The chain announced a partnership with Miso Robotics, a Pasadena-based startup, to introduce Flippy,"
+    publishedDateTime: 2020-07-17T12:20:00Z
+    webUrl: "https://www.nbc-2.com/story/42380921/burgerflipping-robot-named-flippy-being-tested-at-white-castle"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 39
+    images:
+      - url: "https://WBBH.images.worldnow.com/images/18973502_G.jpeg?lastEditedDate=1574684789000"
+        width: 640
+        height: 363
         isCached: true
 
 secured: "6gnz9h2G1AdRC997ccgukEFLsENfbsHQK6KY1xfbS+TFy0Cj0TvXfo9bS4+nYZpgiR2B8jnlXihwTVjNHu3UehON7jqQCIYdwkesYGg5ReMeTtpWQJ0RQLQr6B7bdlyhrU1tpdjO6V39rl57h10FyyKR9HP9Mw/GMPZenzO5oU60c/WXlpqLeoJC9Eb65LZ/RmB5zaZKBmaXDShLT26vpLuIjcLo8x+bCy7vEID2uau4pP0ZM/XTj3QUfnEMsEp2P4/q5hrFmIuKT6PqpvjcMPyGIn943UpInuvJO6Q5MMzKRlGWdJN9wjv1KNpHWwTPREcRgI9P4ntCZD9+UKB44tsKGeDFNJpO4FhTtXUmDxHWmn+8Cyq8DrmeBHFAc4h3szO5elbJl9ntyiGUXqRvix62xuUIyPQncuNWOPRr62ONVEkwmlIBuArCazshaFdZCYsSWaIZck9qYNb1zLXA/B3XLN38Zm/UhKy3OVdCYWE9rsipMNpVKVJHz9BgjSGo;ATmiOEByl8ggdstvNTKgQw=="

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-07-01-mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing.md",
+      "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+      "excerpt": "Mozilla updated Common Voice, its open source collection of transcribed voice data. It now contains over 7,000 hours of speech across 54 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Common-Voice-e1593640326605.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Mozilla Common Voice updates will help train the ‘Hey Firefox’ wakeword for voice-based web browsing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/mozilla-common-voice-updates-will-help-train-the-hey-firefox-wakeword-for-voice-based-web-browsing/amp/",
+      "publishedDateTime": "2020-07-01T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-rooting-out-ai-bias.md",
       "title": "Rooting out AI bias",
       "excerpt": "New research offers strategies to prevent algorithms used in business from pushing unethical policies. Why it matters: Machine-learning algorithms are increasingly being deployed in commercial settings.",
@@ -1124,38 +1175,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications.md",
-      "title": "Dynics announces AI-enabled vision system powered by NVIDIA T4 Tensor Core GPU to improve and automate 3D vision applications",
-      "excerpt": "AI technology is allowing manufacturers to increase efficiency ... The XiT4 is powered by an NVIDIA T4 Tensor Core GPU, which features 320 NVIDIA Turing™ Tensor Cores and 2,560 NVIDIA CUDA® cores for critical processes that can benefit from processing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/dynics-announces-ai-enabled-vision-system-powered-by-nvidia-t4-tensor-core-gpu-to-improve-and-automate-3d-vision-applications-9027172",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

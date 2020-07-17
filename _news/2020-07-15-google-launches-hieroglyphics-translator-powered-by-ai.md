@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-53420320"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://www.thenational.ae/image/policy:1.1049689:1594820142/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google came up with an AI powered app that can efficiently translate Egyptian Hieroglyphs"
+    excerpt: "Google has recently launched an Ai powered Hieroglyphics translator called as Fabricius. The app is freely available at the Google Art and Culture website and application. The app was opened for downloading since Wednesday."
+    publishedDateTime: 2020-07-17T12:21:00Z
+    webUrl: "https://www.techjuice.pk/google-came-up-with-an-ai-powered-app-that-can-efficiently-translate-egyptian-hieroglyphs/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 30
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/07/google.jpg"
+        width: 700
+        height: 524
         isCached: true
 
 secured: "ND8Z/zr8FV3NIvnoyXEKGr9UynwABjXRSUpQ/XaUqNQ7yPWftkOsus9bDXpYtN9xi0RzYQTEoNjNo4r3eUpUox6bs25lxO4yaGjvWiUilTK1UBVGkK2hG4EBcKmaezX4lrJjqg73Rom5nm3zUFn0CfDMGO6jU0aVSA2JPZ5/glGib2n/gO5scKfdyAlxmpzJqA6KtcmMJhLDI1IDOpvsgjSUVcP8CTDowEN4fme3LVwWZNOtnaXslnygsGkZEqyJZGUBnWPjBSn/Y1uGaDkr3/qTqhaUOCX3WpYDsqOZtju+Yzox3arYCoRIbqbAIt1JJgeM/isbpctG0cSlgkxNMyyt3rqdUd+5xe9RX8/Qk3pTzvD6Jb0yNxPXh0Xd402/DUK75lFi1q9iXpZdJnC/kqMJJe9W28w0hscm/H6zyy1LuEuielrGhvO7255jowLYYNOPAvos4Wt3Cwrs8Wug2kh0L4dynPFc28wWBCEovQM8ysohT5Iun0F/40Zo4JdXHdVB1gFrBhbbCk+646Enlw==;dEngP5e9vx/iR6zpkL/T4w=="

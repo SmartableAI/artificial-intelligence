@@ -24,31 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "High-Performance AI Chip Company Untether AI Secures $7 Million"
-    excerpt: "Untether AI announced it has raised $7 million USD in funding led by Radical Ventures with participation by Intel Capital."
-    publishedDateTime: 2020-07-16T18:57:00Z
-    webUrl: "https://pulse2.com/untether-ai-7-million-funding/"
-    ampWebUrl: "https://pulse2.com/untether-ai-7-million-funding/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/untether-ai-7-million-funding/amp/"
+  - title: "The Edge AI and Vision Alliance Announces the 2020 Vision Tank Start-Up Competition Winners"
+    excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition, which showcases the best new ventures using visual AI and computer vision in their products,"
+    publishedDateTime: 2020-07-16T20:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
     type: article
     provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 54
-  - title: "Untether AI closes additional $9.4 million CAD from Radical Ventures, Intel Capital"
-    excerpt: "The company said this additional funding is part of its Series A round, which now sits at approximately $35 million CAD. The $9.4 million was led by Radical Ventures, with participation by Intel Capital,"
-    publishedDateTime: 2020-07-13T20:37:00Z
-    webUrl: "https://betakit.com/untether-ai-closes-additional-9-4-million-cad-from-radical-ventures-intel-capital/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 33
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/Untether-AI-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
 
 secured: "+uGtVDJG4HeqLZleUdqZXZ5GYu6/GZ0TmkiKYSAXB7IjSer3kJGaDExPG3MSQWucO3H1RzDzb74N44eP0McRyfOUN34Z+KkY3get3bCtcIPywFc8Lmji3kb7h10qJaR1YIVoUuXhZ2HGE/FEeclhE25Dy3qWCsBIZqlPzWvyM1q4kLOckpn9MiVl2SxX3/KzOMKDt9NC60noju+HRgI7ZfCSW/xRGrDU2OqKX/aQMMhV3EcQOQe4sCI1YLPImtjTsJ1EItTvkol+bgvwJltklcZTiMn8qeriV5kAVezRZ1dxpaqt58aJ+Rfw5gSyeVRXPQEW4o1MYLfE0T2uSE8McXXpyk2PCbO+ckETK/pBCzEezFiLxjtPqMOXkCDyDM0eowehhgc+O0VmCAzsOu+cOB1/8zDlanIE9MwZu7ku2FCwam2xI5U1IqsCrqkBs350oanKZCBDgzh9YeZS7L2H7kLBhPEhgloyqBgBjEQ8XgS/aOLPRezUfzuy9gVSYzN8;U9RPO2+0MGRGE7z2iSdqhA=="
 ---
