@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
+    excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."
+    publishedDateTime: 2020-07-17T01:28:00Z
+    webUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/"
+    ampWebUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
+    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
+    type: article
+    provider:
+      name: Pasadena Star-News
+      domain: pasadenastarnews.com
+    quality: 59
+    images:
+      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2020/07/PAS-L-FLIPPY-0716-1.jpg?w=1024&h=768"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "17B3IO8SkXYurR4y7/o2OTf9wtlbp9TeR45sqgMC5wDmkJEooX6frvEIAT8omNfxO3Z7Ho5trtFM8OY85SyXHQ299jROHQVNGTF4xhyI8LB11Q9WbIwYU1LGHYrJs7IpEOOmXWfsDKPGRgJP/dk98RQvdm20RnKrwFqUIidHtjs4yBDdOwY0nHeaoosBY7X5XD3+qI6bUvEHauXQVin++ZptLViUTqARnTeaNNy2NOGFt4LB9nbh/brZQSEUnMFlZF6ocLVIoMXuV47WWCKc4TkYqsuEuWofMwzHD0xJ7Mnb3tYvQIai8LCBA7FaGaPC/haxUlke+j2LZ0Gd3xFOGg==;2IAEAuxOt1iSGTa20tuDoA=="
 ---

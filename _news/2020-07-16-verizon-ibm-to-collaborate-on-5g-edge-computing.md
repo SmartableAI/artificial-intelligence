@@ -64,6 +64,34 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
+    excerpt: "These will be jointly offered with IBM's market-leading Maximo Monitor with IBM Watson and advanced analytics ... and MEC capabilities with IBM's expertise in enterprise-grade AI and production automation can provide industrial innovation on a massive ..."
+    publishedDateTime: 2020-07-17T00:01:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20200716ny63809/ibm-and-verizon-business-to-collaborate-on-5g-and-ai-solutions-at-the-enterprise-edge"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 32
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "IBM and Verizon team up on 5G IoT tech for industry"
+    excerpt: "They’ll work together to deploy 5G wireless and edge computing infrastructure for IoT and future industry 4.0 deployments, they said. The partnership will combine Verizon’s low latency, 5G-based, multi-access edge computing architecture with its “ThingSpace” IoT platform."
+    publishedDateTime: 2020-07-17T00:01:00Z
+    webUrl: "https://siliconangle.com/2020/07/16/ibm-verizon-team-5g-iot-tech-industry/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/industry-2738423_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
     excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
     publishedDateTime: 2020-07-16T20:21:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
+    excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."
+    publishedDateTime: 2020-07-17T01:28:00Z
+    webUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/"
+    ampWebUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
+    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
+    type: article
+    provider:
+      name: Pasadena Star-News
+      domain: pasadenastarnews.com
+    quality: 59
+    images:
+      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2020/07/PAS-L-FLIPPY-0716-1.jpg?w=1024&h=768"
+        width: 1024
+        height: 768
         isCached: true
   - title: "White Castle Set To Roll Out Flippy, A Burger-Flipping Robot"
     excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"

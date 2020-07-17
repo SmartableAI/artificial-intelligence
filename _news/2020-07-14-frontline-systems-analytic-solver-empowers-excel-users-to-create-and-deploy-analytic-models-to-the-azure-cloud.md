@@ -1,28 +1,48 @@
 ---
 category: news
 title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-publishedDateTime: 2020-07-14T04:00:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
+excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
+publishedDateTime: 2020-07-14T04:19:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
+related:
+  - title: "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics"
+    excerpt: "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,"
+    publishedDateTime: 2020-07-15T04:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Frontline Systems' Analytic Solver® and RASON® Enable Creation and Deployment of Analytic Models on Azure, Power Platform"
+    excerpt: "Analytic Solver works in Microsoft Excel to enable business analysts who aren't data scientists to build and solve analytic models themselves. It is upward compatible from the Solver in Excel, which Frontline originally developed for Microsoft."
+    publishedDateTime: 2020-07-13T04:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/frontline-systems-analytic-solver-and-rason-enable-creation-and-deployment-of-analytic-models-on-azure-power-platform-1029386073"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/frontline-systems-analytic-solver-and-rason-enable-creation-and-deployment-of-analytic-models-on-azure-power-platform-1029386073"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-analytic-solver-and-rason-enable-creation-and-deployment-of-analytic-models-on-azure-power-platform-1029386073"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
 
-secured: "EhIqPgs6Y4sq38MIYI+2dC6zj41H9as1HvTTqyhkf9oE6Vm2PPhAC2B4dKE/vvbhkOB/eVCKRn9i6yRxLjH427E1c3Ln5nWPbgYUnwVThRC+PmTDOKEsQ/QZVML7/PawPJ9IB7+Hkzlq2JFetoPOwR2Yg6mZb9X1Fi7/jNFFSMMeFdkQ0JG9BbDkDqEWn3VbJPjqbTx2Fhe+88jrN59yJnJkGkB0ZzItq3i6E+gE05asxtettbDPq/PFIPU6VI2YKNezwZGT7Mo5cNEqAJsAP3OB5VDj/kxtnOU3WXq4opkAMFmoXJfTSGSKmcRg2habq8HBRfWeJtYxoTzo+JzIfA==;S3de4WRjoBQPNEM29GoVag=="
+secured: "v7sEYVuv1LO8kInlWN9hsy++TxUp4OCM2O4q4T+kpjQwkRwYsDi/Htn8oyG4nHPAmaS5+HvdbxHri+HIoC7QRDP4yKc7NpXWiSmlbcL0fnqJ2kYCzb5hd0ehnDljvKsVolzwcLm6oJifa5CF+Vh+t0zhEwbgeVX+Hz9Z/5ssC1O6j3PLUHpCOnDctGsFiy6EvHZgCNOAOyiU/0Ydhdd06K//WYkqCX/QBf66KigspORd0nhujq6waRktxjilNBhB0TbiXJvhd+812hdQ8kHf7Pa8vxK8TbQhDa9AO2WtI3G0qRb6GCkC44RBXJTMrZpRewncQkHF7QQGj1CaojMIKQ==;vAssCFG705uDsyy3qv4E1g=="
 ---
 

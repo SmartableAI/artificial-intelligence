@@ -1,48 +1,27 @@
 ---
 category: news
 title: "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications"
-excerpt: "WIMI cover from the holographic AI computer vision synthesis, holographic visual presentation, holographic interactive software development and holographic AR online and offline advertising, holographic ARSDK pay, 5 g holographic communication software ..."
+excerpt: "NEW YORK, NY / ACCESSWIRE / July 10, 2020 / As a leader in holographic vision, WIMI Hologram Cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services."
 publishedDateTime: 2020-07-10T09:30:00Z
-webUrl: "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1"
+webUrl: "https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16582427"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582427"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.accesswire.com/users/newswire/images/597017/1.jpg"
+    width: 554
+    height: 259
     isCached: true
 
-related:
-  - title: "WIMI Holographic AR+AI vision to drive a new wave of 5G applications, shares +95%"
-    excerpt: "WIMI hologram cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services.The cloud solution finds application in various fields, such as home entertainment, lightfield cinema, performing arts system,"
-    publishedDateTime: 2020-07-10T13:36:00Z
-    webUrl: "https://seekingalpha.com/news/3590199-wimi-holographic-ar-ai-vision-to-drive-new-wave-of-5g-applications-sharesplus-95"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 14
-  - title: "WIMI Holographic AR+AI vision to drives a new wave of 5G applications, shares +95%"
-    excerpt: "WIMI hologram cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services.The cloud solution finds application in various fields, such as home entertainment, lightfield cinema, performing arts system,"
-    publishedDateTime: 2020-07-10T13:13:00Z
-    webUrl: "https://seekingalpha.com/news/3590199-wimi-holographic-ar-ai-vision-to-drives-new-wave-of-5g-applications-sharesplus-95"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 13
-
-secured: "9rHjsalATWel2VKGpuB2phEq+LFlA7CnqM40VAIkysepmbZDv5LwB9SOSxfBUs4LiDCbMz9vmatV00CwDk/n+iWpvO1CRdtuDqZ8jKyjcfxzEAx9faWXjhVfFCCe5DcJUSdkcl0MawklBXeTj9Q0t1AqL0RMsTziAmJKghQhKlo2SvVkv+banRpqwhrZ6PDJ1syZk9d37K224K6KIf4fX7h/O7bw+/g78IAIZTOLlXCaei+knmkoiqgxx77xxc1BpACeFIAbiviwukWGVySAPCTcgvFMVyZrSgtuynsZNt2wny1IScGmWmA1IBlINT//qZJjz2JNMQfmMpOsZtUOoA==;kLRxh9qk42VKu92a/8166Q=="
+secured: "W8Z19KCWBlBco4W00y/BM6LXV8VNbQsqmTZxpPDUIPsn1KVf7GXkZqm2MtcDy2yc/GFigNzn1+RVlfCox+6Tk1vXt+stMnDEbI0kBhz/Bg9fjoWYKm7uWEPG+ge7WOPUjqfdA1whgxsUZDjdm6obi7mVt8eJOyrtFDO/Zjr99FyOxY2SDkOEa5Y9uBfaGwrKY7LpVSUCxkwsa3tBNdVUzCbus4XZO2FfGzcThZrFCyvEhDz/SoxvkEE+LJ7Hh8mltreSuANKLL1KjdOtGvFTAaQ5YxEzG14po8ptXRrsW79uoiWhHkWpggyoyBnT/lpC8vZb4167S106Dc0x4tyIDQ==;mIDtYV5eqUAT/OG/5j/OMw=="
 ---
 
