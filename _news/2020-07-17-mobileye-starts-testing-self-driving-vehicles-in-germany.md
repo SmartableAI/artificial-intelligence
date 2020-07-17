@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Mobileye starts testing self-driving vehicles in Germany"
-excerpt: "Mobileye, an Intel company, announced that it will start testing automated vehicles in Germany. The company had received a recommendation to obtain a permit to test the vehicles from the technical service provider TUV SUD,"
-publishedDateTime: 2020-07-17T08:42:00Z
-webUrl: "https://www.telecompaper.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany--1346914"
+excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
+publishedDateTime: 2020-07-17T10:40:00Z
+webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Telecompaper
-  domain: telecompaper.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+    width: 1200
+    height: 799
+    isCached: true
 
 related:
   - title: "German Court Says Tesla Self-Driving Claims Are Misleading"
@@ -156,6 +162,6 @@ related:
         height: 940
         isCached: true
 
-secured: "8UWQccQh2ddDnbRYXFr6bMleXr5Y7rdRhLg0ftWnyL0DiqUVVYv7/lnC12w3kiMREXl/3mH7O+aTrOP1UYZk3z1QoDTtAOiS2gOY88A1EHrQAkmGMRy9YSItdgjY/DKciU9YaGsO+7+/Ut0oSINYv1s+dFrUcqFtKWXv8YMWvxPZxvSZDVXVOmMSMmVc3V2h8DHA/H67RV3dGTnRNdWALbNVW1umVshrcxQ5MlPqnvhW88to4sA4NKgSUDju0Swys5aEW9WotFjYL/MSrfgaHbQfajRMIVSXjrWmnf/ps0/5SkCOV84bJhcm8BI10GZRKvrMDbU5MoenbSDVOBwuVA==;wVS2YYCpb9+d9N9IX7nqCA=="
+secured: "JNnG8ihoG4Whu+52+B+vcM/kOvnV9PVG1HmPUSjh6u3FCu0TT7BxMUN6O50gF7wRCr2zaLRNGcg5194b8qD92uoezqZJWDgcsn1kGI2xlLKFmKC7Bw4pBopTJ2PiyNPayixjMOOLcxfDIsRsSuBFmIVkvv9q8dk/T0sNppATz27KN0a12bJIgl58eLSaKWHIaOKy4v05GhcTZUfuEqwZA1mTgVPmpMk+kmzML872XpX8fDfR4yHPoo+iPv2GHELNi7r/8vZtctU6OhMHtOIJFAucM7ON90S1NN7N8W5W8oU+jjbbaUlcC/FYCGnTGFhOYhdJRXnoLoSdYNlOi7Kqpg==;hkVj3EKLqtHiA+L58f2mCA=="
 ---
 

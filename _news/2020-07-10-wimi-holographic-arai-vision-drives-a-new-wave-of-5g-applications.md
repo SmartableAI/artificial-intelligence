@@ -1,27 +1,25 @@
 ---
 category: news
 title: "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications"
-excerpt: "NEW YORK, NY / ACCESSWIRE / July 10, 2020 / As a leader in holographic vision, WIMI Hologram Cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services."
+excerpt: "NEW YORK, NY / ACCESSWIRE / July 10, 2020 / As a leader in holographic vision, WIMI Hologram Cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services. WIMI cover from the holographic AI computer vision synthesis, holographic visual ..."
 publishedDateTime: 2020-07-10T09:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16582427"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582427"
+webUrl: "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.accesswire.com/users/newswire/images/597017/1.jpg"
-    width: 554
-    height: 259
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "W8Z19KCWBlBco4W00y/BM6LXV8VNbQsqmTZxpPDUIPsn1KVf7GXkZqm2MtcDy2yc/GFigNzn1+RVlfCox+6Tk1vXt+stMnDEbI0kBhz/Bg9fjoWYKm7uWEPG+ge7WOPUjqfdA1whgxsUZDjdm6obi7mVt8eJOyrtFDO/Zjr99FyOxY2SDkOEa5Y9uBfaGwrKY7LpVSUCxkwsa3tBNdVUzCbus4XZO2FfGzcThZrFCyvEhDz/SoxvkEE+LJ7Hh8mltreSuANKLL1KjdOtGvFTAaQ5YxEzG14po8ptXRrsW79uoiWhHkWpggyoyBnT/lpC8vZb4167S106Dc0x4tyIDQ==;mIDtYV5eqUAT/OG/5j/OMw=="
+secured: "+k1Rh06GxuRGUN/ai1b7wkTM38VWWtZ5GpXvTtoYWteCaW+lZ55jqCV8rpfEnNxl4HQEyuONYShDjWuY+oYwPXTNrbjlUKhgYYReF3WUfzNfUBuTgO9s4VFnVurcZdW8c0kXJiCO0y75YY7J2dVQMoTBZQgy+C3njzrIaE/GwuYfVhshwzcB22X17aYixdBfVLiaDyFPvATNSMDRyjbXiTBA5fJ8+4grqk64Y04Ek4cyO3KKlSv1gxUmib3jtLOHHJHvffarsZtqtHAkrASsyrj3m93hjIvfQr2NdjkrzO3J63Da4ztDzP5dSd/flobj8onty5gGrksxQgCMjZkO6w==;I34ds/OKwi8ECIFs8NO8Sg=="
 ---
 

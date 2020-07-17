@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-15T14:46:00Z
 webUrl: "https://www.siliconrepublic.com/machines/unesco-draft-ethics-ai-guidelines"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: SiliconRepublic
@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Unesco launches global consultation on AI ethics"
+    excerpt: "The United Nations (UN) body opens up public consultation to help experts draft new global framework on AI ethics"
+    publishedDateTime: 2020-07-17T11:36:00Z
+    webUrl: "https://www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics"
+    ampWebUrl: "https://www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
   - title: "UNESCO launches worldwide online public consultation on the ethics of artificial intelligence"
     excerpt: "UNESCO is launching a global online consultation on the ethics of artificial intelligence, to give everyone around the world the opportunity to participate in the work of its"
     publishedDateTime: 2020-07-16T02:37:00Z

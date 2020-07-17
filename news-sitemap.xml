@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnn.com/2020/07/17/europe/france-cedric-chouviat-police-death-intl/index.html</loc>
+    <lastmod>2020-07-17T04:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17</loc>
+    <lastmod>2020-07-17T04:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/</loc>
+    <lastmod>2020-07-17T04:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17</loc>
     <lastmod>2020-07-17T02:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -331,6 +349,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.siliconrepublic.com/machines/unesco-draft-ethics-ai-guidelines</loc>
+    <lastmod>2020-07-15T07:46:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/</loc>
     <lastmod>2020-07-15T07:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -459,12 +483,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565</loc>
     <lastmod>2020-07-14T23:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.openpr.com/news/2090156/artificial-intelligence-in-the-education-sector-market</loc>
-    <lastmod>2020-07-14T21:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -663,12 +681,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/</loc>
     <lastmod>2020-07-14T02:04:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-future-scope-demands-and-projected-industry-growths-to-2026-2020-07-14</loc>
-    <lastmod>2020-07-14T01:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1063,14 +1075,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear</loc>
-    <lastmod>2020-07-10T06:40:00-07:00</lastmod>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
+    <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
-    <lastmod>2020-07-10T06:08:00-07:00</lastmod>
+    <loc>https://www.cbronline.com/news/aws-ai-services</loc>
+    <lastmod>2020-07-10T05:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1099,7 +1111,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications</loc>
+    <loc>https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1</loc>
     <lastmod>2020-07-10T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1143,6 +1155,12 @@
   <url>
     <loc>https://futurism.com/elon-musk-tesla-close-level-5-autonomy</loc>
     <lastmod>2020-07-09T17:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engineeringnews.co.za/article/automated-machine-learning-is-the-rising-star-of-ai-driven-industrial-analytics-2020-07-10</loc>
+    <lastmod>2020-07-09T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2995,12 +3013,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
-    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.bbc.com/news/53236921</loc>
     <lastmod>2020-06-30T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3147,6 +3159,12 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
+    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
+    publishedDateTime: 2020-07-17T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
     excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
     publishedDateTime: 2020-07-15T12:24:00Z
@@ -151,15 +165,6 @@ related:
         width: 940
         height: 940
         isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Mobileye, an Intel company, announced that it will start testing automated vehicles in Germany. The company had received a recommendation to obtain a permit to test the vehicles from the technical service provider TUV SUD,"
-    publishedDateTime: 2020-07-17T08:42:00Z
-    webUrl: "https://www.telecompaper.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany--1346914"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "TPqP/e0a6hMKVeL91ySndt2sAtgQ3QZQob9ulpyYJFhh7M69e55ldyg8B4fLN/ge4pDwf1G2O1n0y64QgV/SL1lBCKOorssnS8K8Ftil+hOIzvUHLaQKmFHjO3lytkHbKlzvlDyC7KlaVQxvfsWkkom41AeI7u7hcWj2njdfxI1UED9b+R7xNH7AlAMOymQnaKq3D/6fT/3puBStgP+lVOvjwzJPXZrJf+8z+nBQrpIbLJ6BARIipY8oS594W5YwpRXWnXWQjuQn72GICGo2trlKeR6xWIHuxItBWD2b6ghFTglrYWXLrcwGXyac0En1zjGWzXZTbe2pPR/OHlw/4uqLu5ZFEJiSDvE+4yIxjfCqpyB96LsVoxugUWkGIIg6S9GkYCUrKImmoi0OMs+BAoXgCUDNqHidpTzqBquP/XJAkGZRfFu8M5QbCNAe3lfwi64T1HWsVAolYdJz8JHfZ1bfDzc4pgwHZiJ233aTL6kOyi57vlJ1zlp9rgWXJInaytGfPNiUf1XA8SCYJiPqVw==;iyjDiXGjcgAe/Dn5DM7G+A=="
 ---

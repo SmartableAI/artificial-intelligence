@@ -39,6 +39,22 @@ related:
         width: 650
         height: 303
         isCached: true
+  - title: "Artificial Intelligence in Sports Market"
+    excerpt: "The ‘Global Artificial Intelligence in Sports Market Forecast to 2026’ published by Reports and Data takes a comprehensive approach towards studying the key trends influencing the growth of this sector."
+    publishedDateTime: 2020-07-17T10:46:00Z
+    webUrl: "https://www.openpr.com/news/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
+    ampWebUrl: "https://www.openpr.com/amp/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/7/T717938060_g.jpg"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "CCgT0La5flyp9PyVW9ai/ePnSgQ9NwaArwA1aP5nYEhww/lj2PH5jqt7NwLP+o6nKUy5zUUTo/A+dbnCxkXRTYWe9U8cu9CsX/cWTK+27vy+m4F7PmjxHkJdu5cibC9FhlF1xqm4fQqV0z1Rpk/jNzUlFuLcOrmJbwdwyQyFtMYy45P+PW6lhmqNVouT/fLByoBbf1U+GuapfHz+4uMtVcsm0N5f9VyVpeDnLloXDX6toiuRQhFTeWHaraKt8q7Xstm5gInRGblOv8PJ542CFor3VVT3nspLndc+hL3MXeKmjD+KY822P9sfp2mvvpk/h5cdGfL9Kof/pnZ4y4zrR36g4y7FZMxIvAj51XOMsiMyOFhd0Z9uMgPf8vmhvfqoxHvurUyc63Gpg/iVDzTD2yPDvDzkOAcnYRZ9th3br/mM734cruSpwa6JMFacJ2zwfYgayI5cm1I5kUVNHFtxf3mpS+vcThRGUKewO5mHynuUefAy3KGJ/l/1tNmQRhoTAbxwbakl6P85Ca1WSMmAiA==;EGwdn4HmU0VS3y1HBTxCKw=="
 ---

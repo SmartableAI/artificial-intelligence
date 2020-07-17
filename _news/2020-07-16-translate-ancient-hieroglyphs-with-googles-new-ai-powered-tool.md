@@ -5,7 +5,7 @@ excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key t
 publishedDateTime: 2020-07-16T18:00:00Z
 webUrl: "https://mashable.com/article/google-ai-ancient-translations-fabricius/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ="
@@ -71,6 +72,6 @@ related:
         height: 675
         isCached: true
 
-secured: "h9mlsl9Ut+ElKQSEA+rW5r8cK09M7my28lpcc6PbQvVivCljJVwHOpEsrlfVS1ZSkg3cPQ18ee+Y+d6lVNxS1I3byYpndBEiurunxspRlGb8/tSWfpt2jo3z8njvP3/BspRKr04EGyzJbrCD9TpUGRoSj8+GLhYLymmB4MZ1D9VbrUd4QqdZrcA+r2AdBfhZ691glWuvAmGNvZjmSHBRA9+qLRgj+Rsl/oOxWTsLqRpxIsWKOgBMlZp8cF17/ca6GXEWzLLxEN+5f2xtT6nJ5RgUiuOhI0gbkzWeS1CoTBQnFF6PSulSR4OHOj3kG7OQ9trHKs20DVtoUoZu7dreEw==;mJXg1729542YNS55nt6UBg=="
+secured: "MBYto8vGFKEzmxorapHLPWH8cJXFT4qxMXjzIBbiiezP8sdDgHnqzLHsOnblULQ8vqX+tLopKDDemu4/nmbo1eTHNOXNDovZbceNmlYWyGCaFv/1FrgXSDBMpLdgoWFZYWlKGE2fKad4i+WLfxNTj6tfztYITV+NgzEnedlXZ0zNsrcxJmjDMf91ugnBB/yF3gvqF6ZjE16+NtJGsTT2CrN2vERd0cRBZqGrMl2bxYzlLMT/pTnJpOJjeEyIO050G3+C2GDy/mDYzXBzrwpNuswI4QLZXoGUH/Y/Oh+bxEeGZqMBWohZvR9lkGqntp1Aat4EuAJXYU3OAcG4xr9n9lDFTRUvgrjp1WnkCcKIqXwfoMQ/RFeokZcXRkIRaQTWPM2dm6sbMnlTlQVTX18utE4HCn9mqFfUSbzqanEL9vHNcNy7seBvt5NaoPZ5ZuDraZsDp2wq4vOFpi8Jx/nc9X2oWwcRnu7SEvsdPMOpOasDYzcNg2I/svv8w1ZIHHaoijOyEsAHULqMfCxNy77qWg==;Mrw3Qf20BdbXxh4Cy/9fHw=="
 ---
 

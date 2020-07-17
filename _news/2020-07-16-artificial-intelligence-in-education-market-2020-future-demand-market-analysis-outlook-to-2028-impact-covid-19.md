@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T13:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
-    publishedDateTime: 2020-07-14T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market 2020-2025- Covid 19 Impact Analysis And Growth, Share, Key Players, Sales, Revenue"
     excerpt: "Natural Language Processing Market competition through top manufacturers/players, Price (USD/Unit), product portfolio, potential, price, aggressive analysis and main regional improvement fame. \"Natural Language Processing Market\" 2020-2025 Report offers detailed research and analysis of key aspects of the global Natural Language Processing market."
     publishedDateTime: 2020-07-15T03:57:00Z

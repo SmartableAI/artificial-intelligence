@@ -40,22 +40,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Study finds link between mental imagery and vision"
-    excerpt: "Medical University of South Carolina researchers report in Current Biology that the brain uses similar visual areas for mental imagery and vision, but it uses low-level visual areas less precisely with mental imagery than with vision."
-    publishedDateTime: 2020-07-12T18:10:00Z
-    webUrl: "https://www.news-medical.net/news/20200712/Study-finds-link-between-mental-imagery-and-vision.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200712/Study-finds-link-between-mental-imagery-and-vision.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200712/Study-finds-link-between-mental-imagery-and-vision.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Is What I See, What I Imagine? Neural Overlap Discovered Between Vision and Imagination"
     excerpt: "Medical University of South Carolina researchers report in Current Biology that the brain uses similar visual areas for mental imagery and vision, but it uses low-level visual areas less precisely with mental imagery than with vision."
     publishedDateTime: 2020-07-15T15:56:00Z

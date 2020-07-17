@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2089130/artificial-intelligence-ai-in-ret
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089130/artificial-intelligence-ai-in-retail-market-overview"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Sports Market"
+    excerpt: "The ‘Global Artificial Intelligence in Sports Market Forecast to 2026’ published by Reports and Data takes a comprehensive approach towards studying the key trends influencing the growth of this sector."
+    publishedDateTime: 2020-07-17T10:46:00Z
+    webUrl: "https://www.openpr.com/news/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
+    ampWebUrl: "https://www.openpr.com/amp/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/T/7/T717938060_g.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence Retail Marketing Firm Applies for OTCQB Listing"
     excerpt: "\"By trading on the OTCQB® with DTC eligibility, we are being attentive to this investor demand, in a nation that has one of the largest retail markets,\" Loop CEO Rob Anson said in the release. \"With so many US-based opportunities and partnerships already in the pipeline,"
     publishedDateTime: 2020-07-16T17:03:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-teammates-are-finally-coming-to-ghost-recon-breakpoint-on-july-15/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://gamespot1.cbsistatic.com/uploads/original/1574/15746725/3531987-grbp_mtdt_scrn_11_life_is_harsh_high_mountain_1920_nl.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Ghost Recon Breakpoint AI Teammates Release Date Revealed In New Trailer"
-    excerpt: "The release date for Ghost Recon Breakpoint‘s AI teammates release date has been confirmed as July 15 during today’s Ubisoft Forward Showcase. The Ghost Recon Breakpoint AI Teammates update will be the final major update for the game after weak sales ..."
-    publishedDateTime: 2020-07-12T19:01:00Z
-    webUrl: "https://www.psu.com/news/ghost-recon-breakpoint-ai-teammates-release-date-revealed-in-new-trailer/"
-    type: article
-    provider:
-      name: Play Station Universe
-      domain: psu.com
-    quality: 36
-    images:
-      - url: "https://www.psu.com/wp/wp-content/uploads/2020/07/ghost-recon-breakpoint-ai-teammates-release-date-revealed-in-new-trailer.jpg"
-        width: 1885
-        height: 1055
         isCached: true
   - title: "Ghost Recon Breakpoint’s AI squadmates arrive this week, and they’re customisable"
     excerpt: "Ubisoft went back and forth on including AI teammates in the run-up to Ghost Recon Breakpoint’s launch last year, eventually axing the feature. While some players had bucked at the AI’s suspiciously good aim and superhuman positioning speed in Wildlands,"

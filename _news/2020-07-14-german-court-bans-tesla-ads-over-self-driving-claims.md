@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
+    publishedDateTime: 2020-07-17T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
     excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
     publishedDateTime: 2020-07-15T12:24:00Z
@@ -147,15 +161,6 @@ related:
         width: 940
         height: 940
         isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Mobileye, an Intel company, announced that it will start testing automated vehicles in Germany. The company had received a recommendation to obtain a permit to test the vehicles from the technical service provider TUV SUD,"
-    publishedDateTime: 2020-07-17T08:42:00Z
-    webUrl: "https://www.telecompaper.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany--1346914"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "PQIWEUIuRF6cgIYuxp7+TCb9/buhpbY946KG4twgkuaJge5hULASnD2mI5vHAo+ZqCRpvEcXeejd6vA1s59k5quxx4KCNltJyNePAEOhm8Lmv/rwuodT1PPtBumCq48A9+XGvzk5LPEDNTcv3x9oqUOPAjdBkC/vhS+pjoORAmjkMdecNhxSDAs84dwLnGTgCZrPIY9nIpoDCgu9zd7mIG//KWCELcKObsC06QPEOoHzrQtYra7ZRDVL9aHHjOJeRjULKmDuYg4ihoZZKGi9TTtFWQRBof8tF0bKbfNqPZPS9MRY8dhLBhXzPQYkDa2oDg137Q2WNDXWCfwOWdbBnQ==;ET9anukEpgmUBT36gn/+7A=="
 ---

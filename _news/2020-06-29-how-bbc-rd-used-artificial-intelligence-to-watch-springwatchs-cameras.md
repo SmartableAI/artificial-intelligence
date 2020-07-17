@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.tvbeurope.com/wp-content/uploads/2020/06/springwatch.jpg"

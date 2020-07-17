@@ -38,7 +38,7 @@ related:
     provider:
       name: Mashable
       domain: mashable.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ="
         width: 1200

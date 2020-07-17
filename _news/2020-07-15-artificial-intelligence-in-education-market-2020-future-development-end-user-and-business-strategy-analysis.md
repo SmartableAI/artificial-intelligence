@@ -25,31 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market"
-    excerpt: "Global Artificial Intelligence in the Education Sector Industry research report offers granulated yet in-depth analysis of revenue share, market segments, revenue estimates and various regions across the globe."
-    publishedDateTime: 2020-07-15T04:57:00Z
-    webUrl: "https://www.openpr.com/news/2090156/artificial-intelligence-in-the-education-sector-market"
-    ampWebUrl: "https://www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715512134_g.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
-    excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
-    publishedDateTime: 2020-07-15T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2024-2020-07-15"
+  - title: "Automotive Artificial Intelligence (AI) Market : Industry Analysis 2020-and Opportunity Assessment 2020-2025"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-07-17T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive AI (Artificial Intelligence) Market Size Growth Drivers As Well As Industry Challenges Opportunities To 2026"
+    excerpt: "The Global Automotive AI (Artificial Intelligence) Market Research Report published by Reports and Data provides"
+    publishedDateTime: 2020-07-14T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-ai-artificial-intelligence-market-size-growth-drivers-as-well-as-industry-challenges-opportunities-to-2026-2020-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis"
+    excerpt: "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries."
+    publishedDateTime: 2020-07-15T12:52:00Z
+    webUrl: "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+    ampWebUrl: "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/T/7/T715385762_g.jpg"
+        width: 781
+        height: 512
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
+    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
+    publishedDateTime: 2020-07-14T01:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-17T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
