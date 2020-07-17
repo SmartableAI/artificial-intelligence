@@ -28,59 +28,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:52:00Z
-    webUrl: "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    ampWebUrl: "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
+  - title: "Global Voice and Speech Recognition Technology Industry"
+    excerpt: "This segment currently accounts for a 27.7% share of the global Voice and Speech Recognition Technology market. The U.S. Accounts for Over 26.9% of Global Market Size in 2020, While China is ..."
+    publishedDateTime: 2020-07-14T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-voice-and-speech-recognition-technology-industry-1029391677"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715385762_g.jpg"
-        width: 781
-        height: 512
-        isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
-    publishedDateTime: 2020-07-14T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2020-07-15T22:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16"
+  - title: "Far-Field Speech and Voice Recognition Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
+    excerpt: "Field Speech and Voice Recognition Market” 2024 Research Report provide in-depth study of the present state of the Industry. Initially, the report shows a basic overview of the industry including definitions,"
+    publishedDateTime: 2020-07-14T01:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-07-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial-Intelligence-in-Education Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID-19"
-    excerpt: "Education   Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
-    publishedDateTime: 2020-07-16T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

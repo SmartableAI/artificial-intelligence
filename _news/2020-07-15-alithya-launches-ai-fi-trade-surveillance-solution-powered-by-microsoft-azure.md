@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
-excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000"
-publishedDateTime: 2020-07-15T11:39:00Z
-webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
+excerpt: "Alithya Group inc., a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals offering enterprise solutions across Canada, the United States, and Europe, is proud to announce the launch of its AI-FI™ Trade Surveillance solution,"
+publishedDateTime: 2020-07-15T12:39:00Z
+webUrl: "https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020"
 type: article
-quality: 65
-heat: 85
+quality: 75
+heat: 105
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
-    width: 512
-    height: 288
-    isCached: true
 
 related:
   - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
@@ -38,6 +32,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Qlik Launches Global Program to Accelerate Analytics using SAP Data on Microsoft Azure Synapse"
+    excerpt: "Qlik ® today launched a joint global strategic program to accelerate analysis of SAP data by combining the automated data delivery capabilities of Qlik Data Integration with the agility and openness of the Microsoft Azure platform."
+    publishedDateTime: 2020-07-17T01:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qlik-launches-global-program-to-accelerate-analytics-using-sap-data-on-microsoft-azure-synapse-1029403000"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
   - title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
     excerpt: "Aureus has integrated its Anvesa® 3.0 solution with Microsoft Azure and Azure AI to leverage key artificial intelligence (AI) and machine learning capabilities to power new tools for legal professionals in their digital journey. The updated Anvesa® 3.0 ..."
     publishedDateTime: 2020-07-13T08:43:00Z
@@ -53,6 +56,6 @@ related:
         height: 893
         isCached: true
 
-secured: "PWwOEGQt8eASzd267YYgQCeRTA+iZMV+wZZOehcHxfUd0ZE3PbWSBHYaLTPAInknYIsA9hci9lsL87VyYSDSD7hbPyPrF++fxFZi0Ybbi0St+6nTXy0W2yGIQBD7A9CY04eVoeBl9Qjsl43Fvs99WzzmEm1/TSXwAQ3ewoR9Zxn+K5S7JKAj+uhOYuKRlksADH5Cm2iuFRiH+V5aVW6TMAl8Mh1wm1lX/H7E7afXkUfCB1r95nrrxD3E3NF84ovz+VyxTkAmV0JW8xo1WnJEWkUjXvSV6weqn0KSPr+VmznQGA7cUO1hf/ISrYdRr/b3oSN3Zyt+PRg7oFqfeEFUHw==;oOPe4LXO8qWvT/mgaEN/Gw=="
+secured: "GuYIqRPxar5h2ZLNE1Fl7QlgIk0eVIRPzyCJ/Aw9om1ust30L0/t654VlnCE2Kq41grrKbhJrOpXl/RUWfFg9m0yvnyWbrU9RoGoRWvI+gAdfJmZYZhQOPSPF5T81vnuqfqRHGaa9nqVVfwYqJDMBO0QjcJTvScvXWmVsKK80NRYHHgEH00E8e/SL/9WMUD4iGaI2Imn1jTtA3hAGSxs4++cKz3GbHa6AdOrhQ4mI/vuu0ICIQfzMrlDrqC8LQidoOSipB3h2o//orVfn1JwaXNAXj8lhiN2pAQ3fHJkBehHK5lXdJesTstdFZKMnW1XL86BTjvKNjc6db/K8A0MzQ==;KR1CQHHefu3+V4KFK+UtDg=="
 ---
 

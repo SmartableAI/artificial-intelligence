@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution"
-excerpt: "TROY, Mich., July 16, 2020 (GLOBE NEWSWIRE) -- Altair (NASDAQ:ALTR), a global technology company providing solutions in product development, high performance computing"
-publishedDateTime: 2020-07-16T11:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16647888/altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predict"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16647888"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16647888"
+excerpt: "“As a powerful solution that can be used by data scientists and business analysts alike, Knowledge Studio continues to lead the data science and machine learning market,” said Sam ..."
+publishedDateTime: 2020-07-16T11:20:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution-1029400851"
 type: article
-quality: 28
-heat: 28
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "zf0X+Co2QxzOlLsCwAgm2CeeEY1iErl7l3ULBKWLRE5WBpCtJFXshGr45WWkNzEakleJRZcFENqLrGxHN6eHfGeuSkf1Gk6RlnhDFU+I9VJ2JJ/5fFjF59vlWHyX7Pm3qqOZSk3SrOMCoP9OO37aqiTZI7DHtvC6TzP2qii4mGYBw142x/9H0RlvtWOTMIPRJZbzNX4p/BmUsEhvTVfXujzfTn6pJu6i21yginZBObDMNCSsAtEsk873jQXnwJvMsYTKG0ypCRl1rXvM/G7ld0lIWS4cRrPj5ILVCIYflCdPPOoF9OwK96JAalFdXkK4bkcNWrgeRAtD8iyKQeSJUw==;U5jYaHZn+CtMdL6Ctd087g=="
+secured: "wOC179iNar6wmUdOMIYJE7PyTttPuWDTsowki/vfErBnAdUlidDodxUD0067UjXEcy/7Jy6DmlAA4koSquVxzpgamKrfWmMuv5SYJBUL8vQn70rVNOLm927VSkz76dF4+IkJ/Wz6Nq6WftgAxYTGKS/r3pxoMHtaRKEMeNGDWLtqjF5BC2Ir4npUu0kr5Gv3hsESNzB8oGdCAao+Ks9TRAp7LbabcBMHKdFNrjCKf3NxmPUc22ae0ApJkvnqBcvZsflPwBq4jBQfgHZBoRvwVMYCpr483ZobDejHlkTkRqAHHDrgjaxltl4NL0jyBOpoxnMuI8Gk2mjxpWC4chv4wg==;0ZtI75Yrgfnr6woY7nWM9g=="
 ---
 

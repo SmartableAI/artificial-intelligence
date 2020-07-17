@@ -1,26 +1,32 @@
 ---
 category: news
-title: "Level 5 fully self-driving cars not due anytime soon"
-excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
-publishedDateTime: 2020-07-15T09:52:00Z
-webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
+title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
+excerpt: "Progress towards more autonomous and self-driving cars is fast. Here we look at the benefits of self-driving cars and how they could make our lives and our world better."
+publishedDateTime: 2020-07-17T04:26:00Z
+webUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/"
+ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Just Auto
-  domain: just-auto.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
-    width: 424
-    height: 282
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1127a0b7b73b000781170e%2F0x0.jpg"
+    width: 1200
+    height: 746
     isCached: true
 
 related:
@@ -39,22 +45,6 @@ related:
       - url: "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg"
         width: 1120
         height: 747
-        isCached: true
-  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
-    excerpt: "Progress towards more autonomous and self-driving cars is fast. Here we look at the benefits of self-driving cars and how they could make our lives and our world better."
-    publishedDateTime: 2020-07-17T04:26:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1127a0b7b73b000781170e%2F0x0.jpg"
-        width: 1200
-        height: 746
         isCached: true
   - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
     excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
@@ -86,7 +76,21 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Level 5 fully self-driving cars not due anytime soon"
+    excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
+    publishedDateTime: 2020-07-15T09:52:00Z
+    webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
+        width: 424
+        height: 282
+        isCached: true
 
-secured: "bBJxdnWqbIbyBEAk31K9Gah4v0KLgi2PM6Lx5wfFThL84Dx7z/heL7Gkypo89S60UiBMyuZS6YQoardQVXqGCl8VvZVjJOv6ZmxLJQPzSn54EodbYLs3Bu3oURCXmKLNrpCoH25ge0n9vmMDNcwpClcD2G1nKphTdCrD/A5heSO2XvoffG8LpzE696ciq53eL19UCbhPJ99OpSz8UKff4TjuXBaedtuDLjgEiFXwLJUH20mVDc21owzIxDQ5Klk1eFf9TOi6+PnLtCqpJjsWjhhKRN6vgwxJrh7wG4MsTCfhSkcvxKSafIzn5KZr4flGV33E3rJ3V9ggWf6NyogVqzvIOEPUBYkf6RJu/htKeUlavr3W8sldFj3NsM9g0w4Wy1gblSS2eE9/kBGi9pdMEa8UZrWQbNWaKzbosA3vmJt2jSC0KR1LQGaUh9+Ma9/ZNU0Yo9NYyuPt++n24/IuDucC/cANUlfS2rAMrkUMN1gTz/jYgX46S4r8P8bDazVVlsP/3TdsBrTjtT+BfOlhdA==;XBHjkC3B4n/Hq/TC2QcBqw=="
+secured: "p2kSbPW6ZqrBO/d+JJMqd/FeE/GidL5JbtGN88ETE/Yt2xGxkVNYIxt7g+3zYHoNLYsQcVheCbX+vocXYIV+0Y7Vr2pMuNMAGyPb+r4AO/VzoygnhQB0k3AiqXSWRblGPJkukrKmLsWiiIr2fu9T3xdey6TfBkhBdmmZGA9GublUC/55D2mKUgNUmlNvorwOdS0l8sgc56IWgftIWpr6yUZOvLUWtSLmbthrZubrUT2q17+4c5nzq6SMjIB/xmsBvzwjnut8jZD9m/6Ip9O+vMq7DmvvXXN4PewvGkkCg34Ojd1Q2530VbCEsIQLbewWSuhskXl+FAirNnR169pwRg==;umRPMnjnLx0Q08hqUJg9fw=="
 ---
 

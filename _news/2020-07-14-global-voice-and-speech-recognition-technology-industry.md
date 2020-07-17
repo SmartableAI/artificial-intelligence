@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Vehicle Speech Recognition System Market 2020 Industry Research, Business Growth, Future Investment and Emerging Trend to 2025"
+    excerpt: "MarketsandResearch.biz has announced a new report entitled Global Vehicle Speech Recognition System Market 2020"
+    publishedDateTime: 2020-07-14T14:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far-Field Speech and Voice Recognition Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
     excerpt: "Field Speech and Voice Recognition Market” 2024 Research Report provide in-depth study of the present state of the Industry. Initially, the report shows a basic overview of the industry including definitions,"
     publishedDateTime: 2020-07-14T01:27:00Z

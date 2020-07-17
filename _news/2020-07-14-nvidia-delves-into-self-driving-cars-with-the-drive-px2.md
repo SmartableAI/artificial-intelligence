@@ -40,6 +40,22 @@ related:
         width: 1120
         height: 747
         isCached: true
+  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
+    excerpt: "Progress towards more autonomous and self-driving cars is fast. Here we look at the benefits of self-driving cars and how they could make our lives and our world better."
+    publishedDateTime: 2020-07-17T04:26:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1127a0b7b73b000781170e%2F0x0.jpg"
+        width: 1200
+        height: 746
+        isCached: true
   - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
     excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
     publishedDateTime: 2020-07-16T19:51:00Z

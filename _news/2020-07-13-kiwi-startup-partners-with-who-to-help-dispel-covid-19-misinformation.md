@@ -23,31 +23,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google Machine Translation Helping Disseminate COVID-19 Information"
-    excerpt: "This tool translates web page content into over 100 different languages, and nearly all new information is coming in as PDFs several times a day"
-    publishedDateTime: 2020-07-12T12:19:00Z
-    webUrl: "https://www.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353"
-    ampWebUrl: "https://amp.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353"
+  - title: "Soul Machines' 'Florence' enlisted by WHO to fight COVID-19"
+    excerpt: "New Zealand-based Soul Machines, the developer of lifelike digital human assistants, is helping the World Health Organization to fight COVID-19 and smoking."
+    publishedDateTime: 2020-07-13T01:41:00Z
+    webUrl: "https://www.reseller.co.nz/article/681269/soul-machines-florence-enlisted-by-who-fight-covid-19/"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 59
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 24
     images:
-      - url: "https://data.ibtimes.sg/en/full/29052/google-logo.png"
-        width: 1280
-        height: 800
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/florence.png"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Google machine translation helping disseminate Covid-19 info"
-    excerpt: "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ..."
-    publishedDateTime: 2020-07-13T00:06:00Z
-    webUrl: "https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "FDnwFAdJDPcgkPf48Y3USGvnpT5WErTejCBT4oMOPrIV59q0lUK0oH0+rYhtlu4ewWw93csB5BLZOXP21oDDOmBz2qkA2YfCLn2pv+LvoSRY3ap4kH76JcBYRbyivXhYExi/Onamtl+81q2oLrlbEwpEnDgC7F3owMCZiNNf6R5WmZJMZZzA9aUYCzzdFmTQExjq6yXugLWgoHPzQiLea9QHYSZ3tEMTrEZuc8SRnMdgCXePHfETjOKu8x0kF/okWscEI/s2RvOrJhdkLToBSwFhbLCHA7cDH5QlbQ8hgTD9g+MnEIrFCdWt6G+yW0i4e/ZDJXu8DB2m7iz1VHBP7Q==;s5yd/P3X/MORdNBJcig/5A=="
 ---

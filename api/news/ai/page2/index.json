@@ -1391,46 +1391,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-artificial-intelligence-ai-consulting-market-2020-future-development-end-user-and-business-strategy-analysis.md",
-      "title": "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis",
-      "excerpt": "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T715385762_g.jpg",
-          "width": 781,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future",
-      "publishedDateTime": "2020-07-15T05:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-15-the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions.md",
       "title": "The Pentagon’s $1 Million Question: Can AI Predict An Enemy’s Emotions?",
       "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
@@ -1476,6 +1436,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-microsoft-and-samsung-team-up-on-real-estate-and-property-management.md",
+      "title": "Microsoft and Samsung team up on real estate and property management",
+      "excerpt": "New pilot collaboration offers single, integrated portal for managing devices and smart appliances in buildings",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImage/164798",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp",
+      "publishedDateTime": "2020-07-15T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }
