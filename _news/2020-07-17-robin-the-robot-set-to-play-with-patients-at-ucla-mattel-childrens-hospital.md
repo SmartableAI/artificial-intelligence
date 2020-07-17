@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbclosangeles.com/news/local/robin-the-robot-set-to-play
 cdnAmpWebUrl: "https://www-nbclosangeles-com.cdn.ampproject.org/c/s/www.nbclosangeles.com/news/local/robin-the-robot-set-to-play-with-patients-at-ucla-mattel-childrens-hospital/2397828/?amp"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "WALL-E? AI-Enabled Robot Rolls Through Halls Of UCLA Mattel Children’s Hospital To Visit Pediatric Patients"
+    excerpt: "Enter Robin the AI robot – a nearly 4-foot-tall ... attention and companionship.” Robin will start roaming the halls of the hospital this month and undergo a year of training, during which ..."
+    publishedDateTime: 2020-07-17T17:45:00Z
+    webUrl: "https://losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/"
+    ampWebUrl: "https://losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/amp/"
+    cdnAmpWebUrl: "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/amp/"
+    type: article
+    provider:
+      name: CBS Los Angeles
+      domain: cbslocal.com
+    quality: 56
+    images:
+      - url: "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2020/07/robin-robot-mattel-childrens-hospital.jpg?w=300"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Robot Set to `Play’ With Patients at UCLA Mattel Children’s Hospital"
     excerpt: "Share this article:A nearly 4-foot-tall robot named Robin is set to begin zipping around the hallways of UCLA Mattel Children’s Hospital soon to charm and delight young patients. The robot — which has large eyes like the movie robot WALL-E and a sleek plastic body — has interacted with one patient,"
     publishedDateTime: 2020-07-17T01:41:00Z

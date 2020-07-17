@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 731
         isCached: true
+  - title: "Could National Unrest Derail the Future of Facial Recognition?"
+    excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
+    publishedDateTime: 2020-07-17T19:35:00Z
+    webUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
     excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
     publishedDateTime: 2020-07-13T15:51:00Z

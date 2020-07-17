@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T09:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automotive Artificial Intelligence Market Overview with Impact of COVID-19 on Growth Opportunity by 2026"
+    excerpt: "Automotive computer science is predicted to witness vital growth within the close to future. To boot with major players within the automotive trade heavily finance in development of computer science for cars,"
+    publishedDateTime: 2020-07-17T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17?mod=mw_quote_news&tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Military Market 2025|Growth Rate, Growth Factors Impact on Global Market of COVID-19"
     excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
     publishedDateTime: 2020-07-14T21:47:00Z

@@ -51,6 +51,20 @@ related:
         width: 605
         height: 500
         isCached: true
+  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
+    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
+    publishedDateTime: 2020-07-17T16:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
+        width: 358
+        height: 268
+        isCached: true
   - title: "IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities"
     excerpt: "IBM's aim with the acquisition of the Brazil-based company is to advance its AI-infused automation capabilities, spanning business processes to IT operations. According to IBM, in today's digital era, companies are looking for new ways to create new ..."
     publishedDateTime: 2020-07-13T12:10:00Z
@@ -75,6 +89,6 @@ related:
       domain: worldoil.com
     quality: 13
 
-secured: "R9Y58DbWl8w62YqZ5wtAM37pkQgvCxTaUoaGZv7jxAgUhbEdgwuKlDo+5sX3DDCsHNiUpGZszd9y4awlHl64+x0tDZFfXBabG0vyjOkQFfmKFAm2mcRsExsM3ff+BJHUyt2ySz/jGIeyNtpxBuxBSal4+MCUnaIzpGjWKsij8c+ALLmJFjqgz+qm+dK98/UUCQRucWoRvxfmuwyZgmF+c7+VpMbiSnSb1xiJKJqNXzI7D1bLPPN77lgCL9t7AmZjNtic47rPay8RwlSrfheXGgqrHHyNfQNwEW7ByN1V4gm65RuDfpteA71rezbPX7+hQizVoO7MrBnE9dqriLthIg==;39IMIfBwS0lwnkfPLdYXZw=="
+secured: "QWb8ABwlJeE2qMDXmTA6z9ZALy3HIsvEfIgBwU1HpkBNWL0WxR1CGgtQRcaZDZDXyE96ro1Okjdv+WgjTLw1kEPtPTUfK/JqLP+yy6qTZJRjiU0aXEIZJqN9Ief+F8wJuP17LyOy32mUyaapYsGX6YRMaJUjIdtiQTeouP/z0tRJVTe9YWKzOxoEP+0cZQdJ5qC+ciIbHp6RxW0Ab4G1UiRwKLct7lE7tpqgsAfLGKx9CkRa3BiXLFJ8gJctK9jjGULKb5HMLRsE6LxteQDYUYpAGx4DrZ/QFzkhORfRf9fRnB1tCpyR/9v9lrvwf/utE3ysV52OCY1K4XYoEZ2OpWiQUqIwyR9DQ2xeH/6dIXE5EFLSqxQxWugdDjGkK2Mf0ct+Mx0RNB/lMkdf87QbzOMalgXF0oCzbXu3v8gPxaYpn4bZ/bew0Wla6Vj+T6I40b12shtFjnJx+5MODIckrSXGN9wmdPnkM/Q5pAvl3PLH6bQRPA8sD+mn06pswryw0RcO1XdBZveOdBhL2yX0Tw==;BfC3a06cQlFyeMYyimlMuw=="
 ---
 

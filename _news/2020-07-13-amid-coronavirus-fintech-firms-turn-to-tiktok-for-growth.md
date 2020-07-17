@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How the coronavirus is turbocharging Hong Kong’s fintech revolution"
-    excerpt: "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment."
-    publishedDateTime: 2020-07-12T23:37:00Z
-    webUrl: "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
-    ampWebUrl: "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution"
+  - title: "Fintech firms offer up timely deals for advisors"
+    excerpt: "Tools give advisors better ways to manage their businesses, connect with clients or prospects during challenging times"
+    publishedDateTime: 2020-07-17T08:45:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/globe-advisor/advisor-news/article-fintech-firms-offer-up-timely-deals-for-advisors/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/investing/globe-advisor/advisor-news/article-fintech-firms-offer-up-timely-deals-for-advisors/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/investing/globe-advisor/advisor-news/article-fintech-firms-offer-up-timely-deals-for-advisors/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 74
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 44
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_opinion/public/d8/images/methode/2020/07/13/fa81fb8e-c385-11ea-8c85-9f30eae6654e_image_hires_062204.jpg?itok=zG8-kynX&v=1594592533"
-        width: 1200
-        height: 630
+      - url: "https://www.theglobeandmail.com/resizer/M4bBunUmPJhbvZ9I-dgsdLEmdAQ=/760x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/Z77E35O2VFBD7KOB65FUOSIZMY.jpg"
+        width: 760
+        height: 450
         isCached: true
 
 secured: "gBARcmUxa+JOD74A3fqGB/Cn64EEKsOmUgSVFjrUyHVxpObJ00aYd1wDUW1nPsMoSWOUXFVF6y0RbtdV9IRfBkQkgSNPBS/TFfPG0ATOv1A/FdSVIRvXR4pY4ZUo7QglBBzP1awyuv7FPIqxs5Nccc5gvfnGQ8xxfd4xrNewd4p1jo9RtScHuZW/k1FAqmjQuWTkASUeUOQSMEMmqOFUrQeERFs6108si+8PdASmicTfZ8OjS3ZhJlUEcd6nfg2nvzkt0pbzFGEr5gJhBznjYyhlxkbHiwXpp6kYcADiviS357vSZaClmJCONZlqe9morVIJAWHMpsL8ir6g52fYUVB3V0iLfjBLf2xFpA521loDyN9PDP8D0L/2R8ayqp030I/uT4FgmSfILcvy4iBy229x40rV0x0KLm+x0Q1TAMryr9HnnVj9DWnaoSZZ0Vw1BNhRjDREpEkEhYW2ukLeIWwPFpdE7YGUdgbsJq5itac0zfZNDjUKLDwwqctflgrk5LgFLxkARE10RZ+wmkoBeA==;3x5cNGkQsSD5ebjl/j6xMg=="

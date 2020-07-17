@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
+    excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
+    publishedDateTime: 2020-07-16T14:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/353390"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/353390"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 91
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Google launches hieroglyphics translator powered by AI"
     excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs."
     publishedDateTime: 2020-07-15T15:26:00Z
@@ -39,20 +55,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Translate ancient hieroglyphs with Google's new AI-powered tool"
-    excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
-    publishedDateTime: 2020-07-16T18:00:00Z
-    webUrl: "https://mashable.com/article/google-ai-ancient-translations-fabricius/"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 71
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ="
-        width: 1200
-        height: 630
         isCached: true
   - title: "Google Launches an Egyptian Hieroglyph Translator"
     excerpt: "Google has come up with a new way to translate hieroglyphics, the ancient Egyptian language written in symbols and illustrations."

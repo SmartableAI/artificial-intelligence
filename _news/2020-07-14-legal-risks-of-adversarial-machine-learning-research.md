@@ -34,6 +34,22 @@ related:
         width: 1145
         height: 580
         isCached: true
+  - title: "Researchers warn court ruling could have a chilling effect on adversarial machine learning"
+    excerpt: "Watch the final day of VB Transform live on YouTube! A cross-disciplinary team of machine learning, security, policy, and law experts say inconsistent court interpretations of an anti-hacking law ..."
+    publishedDateTime: 2020-07-17T18:14:00Z
+    webUrl: "https://venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/06/oblique_facade_2_us_supreme_court.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "HHhdgxGN08nTJWY/TJF4MMVDhf6Q1hbZtHeEnSmaK9gQKHzjYpEoyK/FJTrR39aELm2RIFDAO3dreg2i855JO4fiQ/n+kKYX/pFSac1kQKc5Xh6JWe8UDTxhehEYFHT91N+2Rhc5+ntrwWthQXxZoLS7jyjmQX+7bg9PDG/7ENuqGNd2oJmzkitWLEibvdttZqz+NzIt7iOeg27Yrq1FCZk7FP/owsxMw2W/b1VglJq7/eUjbWwkefkc/UNly/AAixhiKjrnUSKt0UMgsetf0vMJXItkpzeSr80bRm8ptX5buzwK4Iaw3JVl+Pk66vN761CRWT+Q6FRAMOcbV2p+qA==;lRtGXAFmqKvY8+TWO5ZqRw=="
 ---

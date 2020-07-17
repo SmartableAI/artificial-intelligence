@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Translate ancient hieroglyphs with Google's new AI-powered tool"
-excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
-publishedDateTime: 2020-07-16T18:00:00Z
-webUrl: "https://mashable.com/article/google-ai-ancient-translations-fabricius/"
+title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
+excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
+publishedDateTime: 2020-07-16T14:11:00Z
+webUrl: "https://www.entrepreneur.com/article/353390"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/353390"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 91
+heat: 131
+published: true
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Machine Learning
+  - AI
+  - Natural Language Processing
 
 images:
-  - url: "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ="
-    width: 1200
-    height: 630
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -86,6 +92,6 @@ related:
         height: 524
         isCached: true
 
-secured: "MBYto8vGFKEzmxorapHLPWH8cJXFT4qxMXjzIBbiiezP8sdDgHnqzLHsOnblULQ8vqX+tLopKDDemu4/nmbo1eTHNOXNDovZbceNmlYWyGCaFv/1FrgXSDBMpLdgoWFZYWlKGE2fKad4i+WLfxNTj6tfztYITV+NgzEnedlXZ0zNsrcxJmjDMf91ugnBB/yF3gvqF6ZjE16+NtJGsTT2CrN2vERd0cRBZqGrMl2bxYzlLMT/pTnJpOJjeEyIO050G3+C2GDy/mDYzXBzrwpNuswI4QLZXoGUH/Y/Oh+bxEeGZqMBWohZvR9lkGqntp1Aat4EuAJXYU3OAcG4xr9n9lDFTRUvgrjp1WnkCcKIqXwfoMQ/RFeokZcXRkIRaQTWPM2dm6sbMnlTlQVTX18utE4HCn9mqFfUSbzqanEL9vHNcNy7seBvt5NaoPZ5ZuDraZsDp2wq4vOFpi8Jx/nc9X2oWwcRnu7SEvsdPMOpOasDYzcNg2I/svv8w1ZIHHaoijOyEsAHULqMfCxNy77qWg==;Mrw3Qf20BdbXxh4Cy/9fHw=="
+secured: "tac61kyEBqtYLFodWdXBAF4yluo7g1mkdZRG0f2JTXAvdMk9VT0gDjGDeDu5pTaezyycLjZmIGEBTCwdcBwv2xut8AW6/V2H4MnFx5jn8Sq+tNtiMSVL1ZcqRs+IQsdLcQZpEBTRnEQSqjjM2fY9czqf1Ol5zJ53o+LBG7YsfVqctVm+ZKpDDewUJaWZNpCByX/uDoy53fgtERd2JApk2NhBvJ0mWrYESadaOGx4gsxYLouyPxUUw3xxL4nIZNFZLBb4wcdOSe6RXCWbKu/l07wwyQ+XrnPbnUyexPyO4gsrr1ZwYX3j7JVriL9AThGL/CWvjVJJ3WVaidQ+t+xjqA==;6wNvCu4uKDGmGebSRT/Iwg=="
 ---
 

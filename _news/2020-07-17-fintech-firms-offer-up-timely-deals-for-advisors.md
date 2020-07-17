@@ -25,6 +25,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Amid coronavirus fintech firms turn to TikTok for growth"
+    excerpt: "A number of disruptors have been running ad campaigns on the global video sharing platform that boasts the most downloads of any app ever."
+    publishedDateTime: 2020-07-13T04:54:00Z
+    webUrl: "https://www.altfi.com/article/6802_fintech-firms-turn-to-tiktok-for-growth"
+    type: article
+    provider:
+      name: altfi.com
+      domain: altfi.com
+    quality: 24
+    images:
+      - url: "https://www.altfi.com/images/featured/fintech-firms-turn-to-tiktok-for-growth.jpg"
+        width: 1200
+        height: 719
+        isCached: true
+
 secured: "+GRnX/qjtooZX1WUZHJ0j4uwtX8IfA3+W3e3Cd7BcAm1UkHPjgNJjzDQApriPzWrIOvU9IKj/+2W92HOhHwAvu30W0E3Tq5Mi2qdaHRhqejL+WVLNS9PFaKZU58Hqm9GIyQ8aj2utwIiNrA/Gr02xKdfU9YTaY0ZzC8zims6fogfPMaUPOaTye+Yp5W29hgY79F3Pnfs9ND7nJLLv+tDSPTf1P/owGgGZqa74Rg+O4qU7Da0EJaD0V/052PhdrqtStNvikTQocWGbymXf9rdDQkGuTPrcuytOiFRuL57V1j0Yc2ptXBlzBI+BSYCDESyGsPC3ByF6WoEmQfF5Qy61r4CA0RoIkEol2TOQlQRBQLdhumMbbXNd9qUcbZ2qmqfQ11EMyrTwUKT4vTD50hqYWa7fS8b4i5LzznpR7xUFl6OJdFA4sgQX/FWFWfwZVOddZqbyGORz07atP0td9cLs/fvygILmRPKqvP7Rtcp/iWdSwNRe4VYB2zydNCj9k9vm7A7AXirRRFA/3n9ukW2TA==;uit6C0KmdkqCVB4hNnd17w=="
 ---
 

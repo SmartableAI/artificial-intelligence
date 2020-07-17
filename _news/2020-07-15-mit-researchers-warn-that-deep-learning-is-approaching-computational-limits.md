@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers warn court ruling could have a chilling effect on adversarial machine learning"
+    excerpt: "Watch the final day of VB Transform live on YouTube! A cross-disciplinary team of machine learning, security, policy, and law experts say inconsistent court interpretations of an anti-hacking law ..."
+    publishedDateTime: 2020-07-17T18:14:00Z
+    webUrl: "https://venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/researchers-warn-court-ruling-could-have-a-chilling-effect-on-adversarial-machine-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2017/06/oblique_facade_2_us_supreme_court.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Legal Risks of Adversarial Machine Learning Research"
     excerpt: "Kumar describes a paper he wrote with Jonathon Penney, Bruce Schneier, and Kendra Albert, which examines the potential legal risks to adversarial Machine Learning researchers."
     publishedDateTime: 2020-07-14T23:59:00Z

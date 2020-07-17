@@ -5,8 +5,8 @@ excerpt: "What frameworks, languages or other tech tools have you found to be mo
 publishedDateTime: 2020-07-17T15:40:00Z
 webUrl: "https://www.builtinchicago.org/2020/07/17/productionizing-machine-learning-models"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/2020-07/Pareto%20Intelligence.jpg"
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5y1z28+N2drOUjRiLY2JVZ+n/loZNwDYWTDfq8T4g0iNUB0d3LB6FIT2D762DcOPQ6EM9rpcv0812Mit1xcLL1Ljnmvn+KS8FPO5XX2bak6zgClA0usqxOXyd7F7eFbZzV8O4AyYy7/OllAbn+spQ34ZQB60gVjfVeTFKjv8v0o+klMCtiRkAjL7y9SFbj24BfIYhaADbWneY7+ZpBnZGRITtkTO048Pos819Mz6umI/T3FTxdVx/Oh/MyHi1w/zRvCKGOpfJykUraNaAxW3NZILjGOsAZ1r5WX59bXlsCL64gac98dOokv2i01pmhB+6LEdbPzDtpesW4NH0DvSoA==;16o2GAEJVsHi7ps3qHZb5g=="
+secured: "QxQXepkoCdPrMOWoC4emLe4VlE7/OG0m9+lKpzGNiik3plAPb/X7RfOB6vYe8RZD4asB2NAWa6XFhUmfSOc6XI2qs8vrEQV2YiygSiejPBlmEtLBUAkIaS5t4NIv8L5szKY4kSbbjzKUHZAzXBc4ngiNbvYs8J1ZXt0eOnYOAXVFdWYKA9RUFuTGdlCGkRB258RVnfqwWs0s2KblFfE9r+NEPfkro9+YrWb7U+IVmDskxhQCsqwYDlhcLpz3C5kHU9vN258BLp3qhy1PzUbTEQI2terWnk62E/8BD+wGRoth6sm86uLG29HlbjMtr6xeXnbixHsIHVW7ARtcANGlZQvewyGm6ZXdg6hhxSSeNUD/d2hf7JNzjVoRVpvR3Q3DzKAzMgzYrQza8D4Ba0khu5WvdPWd56XxKIDvk2aypESWJMYom+0ItimpP7SwZ4UZKXQTBwemUJO/2SlgQAXjNtLxs7FGUhpNd9QcsoeIPGyjmjo2ywlgONZovad3wZOXscx+tB9xYXMgCnxny5MMeg==;kTOMkKAxl74/r7Q2Z0MRxg=="
 ---
 

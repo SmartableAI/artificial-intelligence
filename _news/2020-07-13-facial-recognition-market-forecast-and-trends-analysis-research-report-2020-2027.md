@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 731
         isCached: true
+  - title: "Could National Unrest Derail the Future of Facial Recognition?"
+    excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
+    publishedDateTime: 2020-07-17T19:35:00Z
+    webUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
   - title: "Using facial recognition to curb COVID-19"
     excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
     publishedDateTime: 2020-07-14T00:06:00Z

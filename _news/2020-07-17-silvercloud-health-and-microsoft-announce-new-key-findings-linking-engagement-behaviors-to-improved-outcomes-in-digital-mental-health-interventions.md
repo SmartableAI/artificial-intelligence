@@ -5,8 +5,8 @@ excerpt: "SilverCloud Health collaborates with Microsoft in pioneering artificia
 publishedDateTime: 2020-07-17T15:25:00Z
 webUrl: "https://www.businesswire.com/news/home/20200717005245/en/SilverCloud-Health-Microsoft-Announce-New-Key-Findings"
 type: article
-quality: 1
-heat: 1
+quality: 3
+heat: 3
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mms.businesswire.com/media/20200717005245/en/806191/23/Updated-logo-%28002%29.jpg"
@@ -23,6 +24,6 @@ images:
     height: 627
     isCached: true
 
-secured: "xtPDF2BO+FKwHSPUN0tTWLWDfleWN5OdZtDO4nzCmdUit+3L6AfPmpyzgFvlNeC1wQur38VP7ADLMJkELrTNkA/mIh3s6j2kLJQaO2oe3yYqFgYsVZ07QDossIuSIv9nukRiemFVUZcQ46/KHHV+5e0fBsZJUUdh5B3B6xoXAUmEzpRqHnMwOu0bMxj2xoAKhy/xEjxXjYn3Ho071bxfDJ8kYbwKmIQ9P6lU4kXIemIjcjnQj1UTGqY+exj8gW3OM3vRsfPDLNoomVL/PHCIcg6NYvXeDY7IlXXK45IUXTBz/CA6HCuPYlC5UC+xn8GjgLVyRtuRn+/z8hNWu6FjAQ==;cjPTQGREqtRNcG3g+zhk/A=="
+secured: "3SI8Wwc7v5+AYzA+TgrwcSFjhTToDb/CtMprJUwiPSmpZkfb4gl4fQLdRBMFLyCJKGjOIVXCZeyBHUr37ZGc3TwwTF9KZ44lirA4A3Y2hkPDN5rbsV/iZKxWNrM+HqrJquxcQGnyKY9jlvdbpOc+p+jeYu27pbAWRcz2IFLg6Fs7HH+WZUUJ5SmzPisbtSyCGYSD26UBQ4RTXyWbMFSPeabupoCC19KBo+xvFYfY+RRSIfAlkCvnCjZsQzpfPkvcdLKYz/FOJVaCS6J9Xi0abJK+GkZ38P+bN0DzB2ypMI7QOlBXi6tfVdNv0s9t/A7uaYH0iejBhSTuzWHhIKsFNQa7yOwMBMQ5EjujCRvGDgjKvKABQ9JxnH3J2CTBILqfqK6SYI3Wy+xp496cTRBeP8XOxtmYWRu+GWXFQb9CqZEHDLToADp0P38nnkCu34apAJKt2vbCWfWnvBP7jy/9kXolkcT6UrYSGMD0fuYn1d/nM9n2ckPxvvRsiIhX3qVqjD+kJFD5i9Ryw/AIsfw9Iw==;pThcx32ytqzmtrjLdx/wsA=="
 ---
 

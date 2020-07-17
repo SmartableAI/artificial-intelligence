@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accen
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
         width: 605
         height: 500
+        isCached: true
+  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
+    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
+    publishedDateTime: 2020-07-17T16:33:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
+        width: 358
+        height: 268
         isCached: true
   - title: "Halliburton Forms Agreement with Accenture and Microsoft"
     excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
