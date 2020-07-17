@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Alpha Health Predictive AI Research Featured In Spotlight Session at the International Conference on Machine Learning"
-excerpt: "Alpha Health Inc, the first Unified Automation company for healthcare, announced today its paper describing the company’s method of using a neural network to predict health care billing claim denials will be featured as a spotlight session during the Healthcare Systems,"
-publishedDateTime: 2020-07-16T12:00:00Z
-webUrl: "https://apnews.com/PR Newswire/5da352b34e68b672b88cd056c7822bc1"
+excerpt: "Alpha Health Inc, the first Unified Automation company for healthcare, announced today its paper describing the company's method of using a"
+publishedDateTime: 2020-07-16T22:34:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/alpha-health-predictive-ai-research-featured-in-spotlight-session-at-the-international-conference-on-machine/article_606dad10-9812-5d86-b793-a9956e144b12.html"
 type: article
 quality: 31
 heat: 31
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "VoV9yaXuab+0CaljFBMjfsYxRFA5vcJVa54X665UrnKbgYFfHdTCfgfZ/9d4zZmqEPPBjibcMSuQooas9Ui2DeT5FADdOOuOkpt8UOSGXtTvxK5t4yYXtX1SO8S2o8PBBG1aZXCxL+YQ1Ez/ZDQAdFZsPtocFFRUh8r/Fz2qtqZm3u7EfXP5yvB8FHRo1WfqCt1aa1+ipdWln7A7utHH1STnrNcF1c65OT6FH5430N5Lr+I4LAVkPA1jZUY9duNHE0HQ7tjCcC/RbkaOImo8J4e44ZZnkkdj0egslz/C2tQysZulAI646JgbJdZHLX8tbg4WSylL2U9IJLI2jX3G+w==;kSuBs2sj11pUy2Zu05xGug=="
+secured: "HoNruQ5ZbTM4vVsySbkZvYf17JMggzZASbxJaGr2+AIy90gjwPGbqwDdwjob/8WeL+DeIaL0rJX/jO6naj2+Uu/euagmrXDKwYEjDE6k8iQ60NhAQS3CJduPAxwnkQiBX/1dBqiJrngjTWWfMb8SQPpOOh7cwML06bERTkjWvGmwdt1ywU3y0bTHdhaKi3XN+fdC4Q/2vN7ddWE9mCsKvU6dBCfYa6owitciLk6McomibLpwcH2RK1FN2FFZvvoZcEw3wQj/mA8mJNq/bfZE35sNo30bSUP00d/CpWI1hNnBY8It+Latev4/xsHOtNz7a0bVJBeipHgPEopW3qDtig==;jQFuE7EvbqNElXWxnayWQA=="
 ---
 

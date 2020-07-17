@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-busi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
 type: article
 quality: 77
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
+    excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
+    publishedDateTime: 2020-07-16T20:21:00Z
+    webUrl: "https://www.controldesign.com/industrynews/2020/ibm-verizon-collaborate-on-5g-and-ai-edge-solutions/"
+    type: article
+    provider:
+      name: Control Design
+      domain: controldesign.com
+    quality: 19
   - title: "IBM, Verizon Business to collaborate on 5G, AI products at Enterprise Edge"
     excerpt: "Verizon Business and IBM teamed up to work together on 5G and edge computing innovation to help enable the future of Industry 4.0. They plan to combine the high speed and low latency of Verizon's 5G and Multi-access Edge Compute (MEC) functionalities,"
     publishedDateTime: 2020-07-16T13:54:00Z

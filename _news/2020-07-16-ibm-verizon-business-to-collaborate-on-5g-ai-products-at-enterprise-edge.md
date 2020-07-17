@@ -64,6 +64,15 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
+    excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
+    publishedDateTime: 2020-07-16T20:21:00Z
+    webUrl: "https://www.controldesign.com/industrynews/2020/ibm-verizon-collaborate-on-5g-and-ai-edge-solutions/"
+    type: article
+    provider:
+      name: Control Design
+      domain: controldesign.com
+    quality: 19
   - title: "Verizon, IBM team up on 5G/edge computing for industrials"
     excerpt: "Verizon Business (VZ +0.1%) and IBM (IBM +0.2%) are collaborating on 5G and edge computing. Their work will combine Verizon's 5G and Multi-access Edge Compute technologies with IBM's expertise in AI,"
     publishedDateTime: 2020-07-16T14:04:00Z

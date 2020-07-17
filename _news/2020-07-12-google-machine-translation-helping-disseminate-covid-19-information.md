@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.ibtimes.sg/google-machine-translation-helping-disseminat
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/google-machine-translation-helping-disseminate-covid-19-information-48353"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Ellen
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google machine translation helping disseminate Covid-19 info"
-    excerpt: "Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 languages in the US alone."
-    publishedDateTime: 2020-07-12T05:19:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/articleshow/76918627.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms"
+  - title: "Kiwi startup partners with WHO to help dispel COVID-19 misinformation"
+    excerpt: "New Zealand AI startup Soul Machines has secured a partnership with the World Health Organisation, using its AI-enabled digital assistant to help quash misinformation around COVID-19, and also to help smokers kick the habit during the pandemic. Soul ..."
+    publishedDateTime: 2020-07-13T02:30:00Z
+    webUrl: "https://www.smartcompany.com.au/coronavirus/soul-machines-who-covid-19-misinformation/"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 59
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 22
     images:
-      - url: "https://www.businessinsider.in/thumb/76918627.cms?height=275&width=412"
-        width: 412
-        height: 275
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/01/Soul-Machines-Greg-Cross.jpg"
+        width: 681
+        height: 333
         isCached: true
   - title: "Google machine translation helping disseminate Covid-19 info"
     excerpt: "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ..."

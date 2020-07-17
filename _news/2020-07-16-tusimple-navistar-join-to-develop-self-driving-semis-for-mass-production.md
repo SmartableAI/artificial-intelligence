@@ -91,9 +91,9 @@ related:
   - title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
     excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
     publishedDateTime: 2020-07-15T19:00:00Z
-    webUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
-    ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
-    cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    webUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
+    ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
     type: article
     provider:
       name: THE TRUCKER

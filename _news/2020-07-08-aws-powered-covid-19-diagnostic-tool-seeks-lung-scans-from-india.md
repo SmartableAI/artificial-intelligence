@@ -1,19 +1,25 @@
 ---
 category: news
 title: "AWS-powered Covid-19 diagnostic tool seeks lung scans from India"
-excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS) are seeking lung scan images from India to refine their open source model,"
-publishedDateTime: 2020-07-08T11:05:00Z
-webUrl: "https://www.sify.com/movies/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-bollywood-uhikPAgbfgehg.html"
+excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ..."
+publishedDateTime: 2020-07-08T12:55:00Z
+webUrl: "https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "fteWWjnmnFDFh9EmCoE86vGUQ8YWbJJPkThmfxUEOC8fdZM2uj6LqShzI4r3oo/niZmEAu7fjenMPM6aUur4XKsgrQrX8lS+58BbcGtVI/mL+buXOhNQQFUbGDF8/HxHfExGzNyx2CYJpAl3iNn5+IJ3Sg83Y/F78Bwjy38dG9leFQ+jbb724WibPDnxW2UGV6a5Lkzrfx9U8R4hggmUCsvdAVTQ0YHpNI6girGTvpbSGgK+IZ+OTeXRDl/druRtb5Icf8L1eb7rjegm+uJ79cydcxZwcwS3jZK84HWAbgWA8VqPvysQ4kyEI22Unq1A3AhROxoDcenyu/wu5l8HGw==;CCxpZet9JfIdZfLqTOhjBw=="
+images:
+  - url: "https://menafn.com/updates/pr/2020-07/08/I_8004b0d3-2image_story.jpg"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "S9UDWfOraI+Rxwd1laoUfW1ETvfSQMFBYfNDyTs8cdaA0Bt7tAbr/7xa/zsDzEKJ4WWzUh9D09QCn+fGmORoi3fdraKJf9rqc/bt/Sf6QW/wpElo/ZMbSfTX09901qS/4G+mWHtwZnJpd1xO4YwulM++4XXRy+PvbY0y8Yhh1qM77GHpX7bnBe/rH3vEn1nQ8PSaIE6sWPixMxRj7sslWCV4LsSs+LwgPW3Lcj91BIEaMDJ6Bwy8KtirPa5R34fPCq9o34c/G2lZcwivbSfnEnKFH7OfMGQi/cmv1erc8L74/4gDnnEFPn/PROdtaxLhxdUE6ssBqihBwVw57jJGGw==;m5cH1G9YCOYvAjLdJ5mcLQ=="
 ---
 
