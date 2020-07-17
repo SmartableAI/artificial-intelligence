@@ -51,6 +51,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 39
+  - title: "Facial recognition is part of voters registration exercise – EC"
+    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
+    publishedDateTime: 2020-07-17T08:14:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
+        width: 600
+        height: 392
+        isCached: true
 
 secured: "D6VYZBMNYHzB+ueUpQ2diKUnHFgz/cg64sYm3MB41QaEqMZz6KY7HdMNZ4XdmNeM6YeSdAWtvavAL7oi9hRLdcxjt6wdRlJeUR78guQ3yDTEWHkIwZU4unlPE9X3gQKgADKgfSNvncv/QhRl9SEYr9HoTnLazayWs31I2noqfHKA/Zk96bIx5ZCO8moYY0lTaBtqrAyzh51EEothSTme5AZL/3rVYU8ljKMwaZcinuYoG3L8j87+R5GgwSaaitdhXsSmGJOR7/Thr0i1ihV3dsjXCBFOOuQ2gROfdJ7oEDaoEhT56MZ2KKeRpaiXG/uwwx7Emnu76Ms2FpJRtsTHHw==;bjnzeCA/hiKlvA7BNTDHJw=="
 ---

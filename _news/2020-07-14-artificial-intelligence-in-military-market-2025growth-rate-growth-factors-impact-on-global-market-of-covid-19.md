@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T21:47:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2025growth-rate-growth-factors-impact-on-global-market-of-covid-19-2020-07-15"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence (AI) Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact on Global Market of COVID-19"
-    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
-    publishedDateTime: 2020-07-14T01:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-2020-future-demand-market-analysis-outlook-to-2028-impact-on-global-market-of-covid-19-2020-07-06"
+  - title: "Artificial Intelligence Chipsets Market Overview with Impact of COVID-19 on Growth Opportunity by 2026"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-07-17T09:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automated Material Handling Equipment Market Overview with Impact of COVID-19 on Growth Opportunity by 2026"
+    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
+    publishedDateTime: 2020-07-17T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

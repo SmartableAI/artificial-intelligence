@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17</loc>
+    <lastmod>2020-07-17T02:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
+    <lastmod>2020-07-17T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/watch-an-ai-edit-my-skate-video/</loc>
     <lastmod>2020-07-16T18:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1047,6 +1059,12 @@
   <url>
     <loc>https://www.scmp.com/tech/big-tech/article/3092740/data-privacy-concerns-weigh-heavily-chinas-ai-leadership-ambitions</loc>
     <lastmod>2020-07-10T06:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear</loc>
+    <lastmod>2020-07-10T06:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

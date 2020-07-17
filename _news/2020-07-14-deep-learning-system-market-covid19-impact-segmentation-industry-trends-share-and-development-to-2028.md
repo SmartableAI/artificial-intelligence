@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T02:02:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Security Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall,"
+    publishedDateTime: 2020-07-17T09:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "COVID-19 Impact Review: What to Expect AI in Hardware Industry in 2020? | Know the Challenges and Trend Analysis"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content."
     publishedDateTime: 2020-07-13T10:10:00Z

@@ -86,6 +86,20 @@ related:
         width: 424
         height: 282
         isCached: true
+  - title: "Automakers race to next level of self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-17T08:30:00Z
+    webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "T1Yq5S6C1+te01LQ8gUJdZvfbSPT/xM/bXH+7JmK1tw/YvQTxB3zAnS5p6AO8wrObemcHhC84XJQ49xc5KLa6uqxfV0v5je/d4/rtCITSmX2ny5+q7915kY+IvK9Yx5sh1qS2EccvzRaNfaD9VXWZXcTGzsVkzeSLLfUnA7PxCLHAsgbe34/ntNlWnEmRLQDh5aIda0jL5Acf6o0fZUFfow9RwfRkTtsnG9kSLeuxtYZVibAVx74MqZ9rf32gLEmHVSQU51aJOPB5xB7g03/hx/9/gmfYGzlDdpMid6v6qXhi/r3tyPbnoMM12xt415hQ/OlT4QdoP8vGh3HgN5qDXU30NRHHRRHO51Bhp1sj/GmYa7nav2pZbZHG8P49KMGNuAfOPL7U/D2eKtMoNa8Lp1MC/Xnw1Rd/qbBIskbdxkCak2Xww9HBsGnna+cx6kYDhSL4L2dGf9gxmew28zJ4xsalbJHsD2rmFx6t23TcphFyL8Yu1M7tZevY1uHyLhCRZgrS4T3M2t5Y4BE3HKFqQ==;AS/6l4CTUDakbAknG1BqnQ=="
 ---

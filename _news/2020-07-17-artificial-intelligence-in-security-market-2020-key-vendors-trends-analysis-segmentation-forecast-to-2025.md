@@ -1,0 +1,75 @@
+---
+category: news
+title: "Artificial Intelligence in Security Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+excerpt: "The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall,"
+publishedDateTime: 2020-07-17T09:33:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-07-17"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Deep Learning System Market [COVID19 Impact] Segmentation, Industry trends, Share and Development to 2028"
+    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
+    publishedDateTime: 2020-07-14T02:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impact Review: What to Expect AI in Hardware Industry in 2020? | Know the Challenges and Trend Analysis"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content."
+    publishedDateTime: 2020-07-13T10:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-what-to-expect-ai-in-hardware-industry-in-2020-know-the-challenges-and-trend-analysis-2020-07-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Further Clinical Implementation of Deep Learning Segmentation in Treatment Planning System RayStation Takes Place at Leeds Cancer Centre"
+    excerpt: "The in-built deep learning segmentation thorax model in RayStation 8B provides fast and excellent performance for ipsilateral lung contouring in the hypofractionated breast RT scenario. Given the positive results,"
+    publishedDateTime: 2020-07-14T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/further-clinical-implementation-of-deep-learning-segmentation-in-treatment-planning-system-raystation-takes-place-at-leeds-cancer-centre-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "Pgc+N9n5VuElo0jsyvs48OZDJ+VKrqmvUWt/VgYqhvIgKcyhc4jXisaT6rbYtJwZS4m2YppjqwgSOPCmpVyXJUstSf/YyeUyKUsOdey1RITWj5VDTdb7uMMfULrd4bKUb+TjsSwmAZfsOql+DpkrikmvvV1tyJbQE8992mr5k9eLnY3LYnkkQM+zCvPm6cXl9qdxX4GkNCQmWvaSOrKMaJ5JtR0wbD3wv94Eu7BJOiBW4JfACPbRhDrZrnV5Iz0BohYYsgryD+dFBRU2qVUxudr0wP2dDsp82qK7I2X8gtuGKcCOvEISTFQ+j7J94eMZEqH1XpPrcJlWW+FX3GoGoQ==;+rCqOX8ci2lFDRb/Fga6XA=="
+---
+

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Mobileye, an Intel company, announced that it will start testing automated vehicles in Germany. The company had received a recommendation to obtain a permit to test the vehicles from the technical service provider TUV SUD,"
+    publishedDateTime: 2020-07-17T08:42:00Z
+    webUrl: "https://www.telecompaper.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany--1346914"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "ZnMWseImRsU91ID3CE3yrO9ZGNR1fLnb1VjrJ8CutLAlniRVwIX+K5bl8r2iOUvlSklpwpVZ3vxQyMAn5VLZvUWxlD/A+tIulGkcmnkREjCRREVU91CALm9krroGGjEYb2/htmWn58DasisCAWK7LMOvl2964COL5jRiojtnmhhDalRZoOuV+OJHBqChsOjGCpghl53gEg8bY5lx80qomjdZAsi3a3lek5pv1Ji6rZnVor0EwPRKHEY/nwB0yXsrCpq55ZoyUyrDYSljDe8bnDDqUSLNjLVbnb6+OJuWaYyhCWH9CVh3Mm50W6aH68xhzak0HARVHfMURQBIveGqsw==;V+nAwNk5vxcU9cmsig/XJw=="
 ---

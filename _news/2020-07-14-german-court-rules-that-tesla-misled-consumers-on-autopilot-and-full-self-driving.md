@@ -151,6 +151,15 @@ related:
         width: 940
         height: 940
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Mobileye, an Intel company, announced that it will start testing automated vehicles in Germany. The company had received a recommendation to obtain a permit to test the vehicles from the technical service provider TUV SUD,"
+    publishedDateTime: 2020-07-17T08:42:00Z
+    webUrl: "https://www.telecompaper.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany--1346914"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "xZz3b1AHuM+t/+zZcCdAt+TKme0N+Rd+ikEsGpnuqvPC/ZSZEcSv9zsKKbh1o2e5KC7BwbD/hX9595j/2knShRWgHs8riIZgbQWncokPfwrtqnduLsa8ZLhn0rRtNYdAzTdyZWgboRJ8ODoMNjxg5wTnbTvTmlOM4EPZEUma+2WhA7sUvWMUsX1/PxUZKlbRgzsM9uSv3mglXJzSx7UzFF0ddTMaraZ3TZVPHpg9F60I8rt7zcn/n1JL5QyGHG0/vA5/TxpCsP98HCgPdVM8pob7TCWy/QgAKn+ZQbWYt1FBeBfSNrAu2lmmjkxmDCllrwjVi5v8koQ4OrDngx2qye0FwLztdKr+JUMPrLwQu7Aghw8tPynVa5LHj4WvlhNiyjS704UfoRWsOjgNjSS4m38/icwEdb2mmC/6NhjVpEL267sOPZi6gHPl8ut++Ij0HC0RFnreNMMgsZSZ56r6P7e1918uPRa+tfm0EJjUP161JN4078t+e/MhJegGApI3;JX/rrhnFC2AWcIyO7XmoaQ=="
 ---

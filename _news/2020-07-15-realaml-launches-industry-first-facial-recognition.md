@@ -47,6 +47,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "Facial recognition is part of voters registration exercise – EC"
+    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
+    publishedDateTime: 2020-07-17T08:14:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
+        width: 600
+        height: 392
+        isCached: true
 
 secured: "OzneZkatO2mSqHuSQQ5KLjxvwABmGfT4C7cjxCCbxSfFDsS4ZEhFe0bg4L26rc1mJ8K99nCjBGwFT4DPaCTqIUq6li2W4upfuNzv0OVwc+5mel7ZTpPM9BgLl2fAP3Phmf429NA1lKAhM+6OWc7PJ32qzXIcYtaIdz3SxN5TiDuwUpqaX94g4q4cM4Htak+scHLgJE1N4kcU2wdNMuRXFLm4S09fWEuo165/pjbFYHGenzN4ovhsVGKUkJUPUASc/41NFlf6VOlFbiRzajHbPm2CWMbfWz1Ebvkljfpe59uJ5nGVm376LTDYIAFu/S7Th0ZX1o0dKz49kqOK3T1mPA==;C/C1pcW4OGsSFSg1IeeyQA=="
 ---

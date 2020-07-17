@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
         width: 424
         height: 282
+        isCached: true
+  - title: "Automakers race to next level of self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-17T08:30:00Z
+    webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "qYklx/okxTOohmmbUbqi74FlK/CdnsFzC+oTkb0suk6abElyalLhx9pzFjXQZernRw7nPrtLRHKXsbxuI7pudDqn+o1Dj3Y4pOFieeSEqwhcQlj+sos3smY1TGfm5WflfBEQ3xIIJ81S5qz5Dt2VEMTo9nw5jOdWmIRXJzUKUZ7ysqmCZ3F07+P+QKA2w1PWLBatNnDlAnNCOkzqfVHMCCaEy2aBaofqOpIxax2ZBgwRwGDtpnfohiu8jUHvQdZmHDiu9FHj4r33LrFXJFaVfyAuJlubXNMneLl7eHpNr6b48hFcnxFR7p1X74iC+g+Mit5LrD9qCDH6eXL7bRvAF1YkC9IajvyctAjND9SZALEGGrmDo/hEAL73I20j4LClcOOr/ELnQIdF0gPJmGDUqoIGZT5dCoXsM6K6tkWvUCBACOeM89i0KxNvbcO2VIkR8jVGNzJAGVkvJouUGzhrrLmGDX7J0RA8OKHFhbfr6MEFzbeA1vEvhKVcZHi5iE0s0ure1JhEZKhBE69R2uYw2A==;36JdfbgVaENiE5RmA81UGA=="

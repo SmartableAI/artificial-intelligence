@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution"
-excerpt: "“As a powerful solution that can be used by data scientists and business analysts alike, Knowledge Studio continues to lead the data science and machine learning market,” said Sam ..."
-publishedDateTime: 2020-07-16T11:20:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution-1029400851"
+excerpt: "TROY, Mich., July 16, 2020 (GLOBE NEWSWIRE) -- Altair (NASDAQ:ALTR), a global technology company providing solutions in product development, high performance computing"
+publishedDateTime: 2020-07-16T11:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16647888/altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predict"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16647888"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16647888"
 type: article
-quality: 38
-heat: 38
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "wOC179iNar6wmUdOMIYJE7PyTttPuWDTsowki/vfErBnAdUlidDodxUD0067UjXEcy/7Jy6DmlAA4koSquVxzpgamKrfWmMuv5SYJBUL8vQn70rVNOLm927VSkz76dF4+IkJ/Wz6Nq6WftgAxYTGKS/r3pxoMHtaRKEMeNGDWLtqjF5BC2Ir4npUu0kr5Gv3hsESNzB8oGdCAao+Ks9TRAp7LbabcBMHKdFNrjCKf3NxmPUc22ae0ApJkvnqBcvZsflPwBq4jBQfgHZBoRvwVMYCpr483ZobDejHlkTkRqAHHDrgjaxltl4NL0jyBOpoxnMuI8Gk2mjxpWC4chv4wg==;0ZtI75Yrgfnr6woY7nWM9g=="
+secured: "j5vLRCDJ4nex4Oi4g5hBdP8kAyIAzsrcHi1Crxa7kmjG00SQLsl6fzhjpCbQn4HgnO7F6Shq/1wruCT1OHl+pFoSqd+448OgLz7pkhH307lNKCfcsylRxZa2DeeihJ1W8ZOJNqm2ahOILoSWWpaD4/Q+ZI0LCq/oMwMrUbnCPbD3hoPPIMmt4TmGFkGZ+1rXaQiYSaHRscH28hRdFup5h/8to4tJ1DYrC9/4qbvkwZvBQjYxr9Zsi1n65A8oPJGjf0Ji8GlOdEj/1THZ3nsynG/wP9e/pdVV2qp11FcoVQ/Jp7n/xKo6OsYEcLGGKwRHO8uxG1QVt46eEw1tpEHdCQ==;onSDXBZVP0B63PSfsGEE0Q=="
 ---
 
