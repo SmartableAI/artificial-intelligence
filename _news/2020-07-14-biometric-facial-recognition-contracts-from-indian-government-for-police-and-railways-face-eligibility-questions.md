@@ -38,6 +38,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial recognition and periocular biometrics for masked faces developed by pdActive, EDGENeural.AI and FacePhi"
+    excerpt: "International fear that coronavirus is spreading at an alarming rate in public spaces has led to a number of touchless biometric systems and technologies being released by AI companies hoping to"
+    publishedDateTime: 2020-07-15T15:49:00Z
+    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-and-periocular-biometrics-for-masked-faces-developed-by-pdactive-edgeneural-ai-and-facephi"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/07125637/facial-recognition-can-identify-people-wearing-masks.jpg"
+        width: 802
+        height: 600
+        isCached: true
 
 secured: "hOMDRwQSQplWu/D3J8j9A0il2GV/wqK0rPH8pOSBNy7LuY1Eu7QaQQJll7b+gySLac6zulOzf1qSRtiD+CXJC/w47/1h2hoGR+bmGDBB1a/NWl07aqdPd2g9+LsKHnQ73fpfMu0NyFeyMgMCMHMI4cOBGWi8tz7bV9kesc43V2nskTflNqbLRusuEen49V5qmqZk8LpHfHIf52eJaOo6jiAnacje/OiCxAZoieJXsxmTRXkXrslNx1LXrWPMJcN+XdaO8pJuIScdOqZYCYWCa/VHdCHYHGvw0BJjZrsLvJFNdibrrNM4c6wmJvQM0lKcnx5Mkt0tf+Qxq82FIEyOdD2MfvpZPr6jhD83do8Zji1JygkFREhwHDOWTQIuqreiTf08DYQsWsXFxnTgpUmOVITcmd39HdmxrJ3dzN71z4pJ7Ff82bFZht7OtAUPXV1AV6FyODN1c1EsY6b7TO/5jT8OlC+NrdmRrh2r73B/+t+JU3D/BNBKFpFiVAOtpZYpauAlBFW2jPjMDJtEWymW3g==;ue38FwCgAbgxFCGER2lAVQ=="
 ---

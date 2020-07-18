@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition and periocular biometrics for masked faces developed by pdActive, EDGENeural.AI and FacePhi"
+    excerpt: "International fear that coronavirus is spreading at an alarming rate in public spaces has led to a number of touchless biometric systems and technologies being released by AI companies hoping to"
+    publishedDateTime: 2020-07-15T15:49:00Z
+    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-and-periocular-biometrics-for-masked-faces-developed-by-pdactive-edgeneural-ai-and-facephi"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/07125637/facial-recognition-can-identify-people-wearing-masks.jpg"
+        width: 802
+        height: 600
+        isCached: true
   - title: "Biometric facial recognition contracts from Indian government for police and railways face eligibility questions"
     excerpt: "Only independent companies and joint ventures will be able to bid on India’s Automated Facial Recognition System, not consortiums, companies were told during a meeting of potential bidders for the"
     publishedDateTime: 2020-07-14T20:25:00Z

@@ -3,7 +3,7 @@ category: news
 title: "Cognitive Analytics market 2020 - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2026"
 excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
 publishedDateTime: 2020-07-08T16:29:00Z
-webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08?dist=bigcharts&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "3YQMNjWet3AbaGUotZ2K3h6toEYcVXpcw+5cb5Pq6fTUzZlttz+JSEDi5X7+qI7+jEGcRnBfWFq/2Pk5mnzC+WSwJioWT2Ym6LKIiYRwgEYiVwpjvhccPuP4hy697ivcq3PPtKkT1GzX5L5thWkjb4O8PKsaXMsRbXmDxTcCzTUHflNymQJWDfe3DQexWrg75x81h00OpocEhg47vPfw3UrKtAiI+3qxL+5HeRyO0gpDfyMU/wa/ElmEOcsAqEm5rXGFJWSGkllaqi0mlbPYt3/htZw3SyyNbSzjc3bm0c5Cq753mgK3Gho8iJT2MqcyQYJWuWhv3zb3rjfFKS+kSg==;PRfDR3OZbsiPV6ixxrzmmQ=="
+secured: "TUH0MGYjWRqUjdwuU5FKS0JH8fXabyfih/eLgPJoo4Es3rdl+mjM40vS8C7BavjP/RU1AdVKNLEp0xHlD+ddHMp8VeH28N6o41r49ZRTt+gilHgkSnevOMwTUpL2ij0oDGiY8DnwPls72VRiQgFFWb2C2KYbJolQgAoK8Xv8EuyrW7cjd5+jzLySwZFjziFFohtgcN9OxnwrCA2usp9AAERWMa/m6sL/uqowFWEWzFjXn/tVbQBt+aOwJAQVRCnYKQHJYI6fRX3IjL8U6QNNmvHcsLpO1pAHlxYp+UDLfFu5HwRpd1SfFDSs3QeVktS+hKIP3dFpCiVPmDFhSxsCEg==;HV16A6SSHSNVpeJwrty3HA=="
 ---
 
