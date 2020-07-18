@@ -8,8 +8,8 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-buil
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
 type: article
 quality: 84
-heat: 204
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Navistar teams up with TuSimple to produce self-driving trucks by 2024"
+    excerpt: "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple."
+    publishedDateTime: 2020-07-15T20:29:00Z
+    webUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/"
+    ampWebUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 172
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Navistar to develop self-driving trucks with TuSimple"
     excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
     publishedDateTime: 2020-07-15T18:38:00Z
@@ -85,6 +101,22 @@ related:
         width: 674
         height: 337
         isCached: true
+  - title: "Self-driving semi-trucks are picking up speed"
+    excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
+    publishedDateTime: 2020-07-17T17:39:00Z
+    webUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+    ampWebUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 44
+    images:
+      - url: "https://images.axios.com/ifc7Ygzbr5pYhvK5seDPPNXtJZ0=/fit-in/1366x1366/2020/07/17/1595004050933.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "TuSimple, Navistar join to develop self-driving semis for mass production"
     excerpt: "The level 4 self-driving semi trucks being developed by TuSimple and Navistar would be able to perform all driving tasks and monitor the driving environment in certain circumstances."
     publishedDateTime: 2020-07-16T00:45:00Z
@@ -130,20 +162,6 @@ related:
       - url: "https://www.thetrucker.com/wp-content/uploads/2020/07/Level-4-Autonomous-Truck.jpg"
         width: 720
         height: 380
-        isCached: true
-  - title: "Self-driving startup develops car without wheels"
-    excerpt: "Designed to give instructions to a self-driving car. Self-driving startup Voyage built a physical \"Telessist Pod\" with software that allows a remote operator to give instructions to a self-driving car. Voyage CEO Oliver Cameron said that \"For all of this ..."
-    publishedDateTime: 2020-07-14T10:50:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/51176-self-driving-startup-develops-car-without-wheels"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "Navistar to Produce Self-Driving Trucks by 2024"
     excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."

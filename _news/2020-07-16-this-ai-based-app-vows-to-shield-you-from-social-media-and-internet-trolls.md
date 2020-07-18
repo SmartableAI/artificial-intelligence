@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence-Based App ‘Bullstop’ Developed to Combat Social Media Bullying-Trolling"
+    excerpt: "Computer scientists have launched an app, ‘Bullstop’ that uses novel artificial intelligence (AI) algorithms to combat trolling and bullying online. Also Read - Salute! Mumbai Police Lauded For Busting International Racket of Fake Social Media Profiles ..."
+    publishedDateTime: 2020-07-18T13:26:00Z
+    webUrl: "https://www.india.com/viral/artificial-intelligence-based-app-bullstop-developed-to-combat-social-media-bullying-trolling-4088518/"
+    ampWebUrl: "https://www.india.com/viral/artificial-intelligence-based-app-bullstop-developed-to-combat-social-media-bullying-trolling-4088518/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/artificial-intelligence-based-app-bullstop-developed-to-combat-social-media-bullying-trolling-4088518/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 45
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/07/pjimage-3-1-2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cyberbullying 'shield' app uses AI to combat social media trolls"
     excerpt: "The downloadable app, Bullstop, is the only anti-cyberbullying app that integrates directly to social media platforms to protect users from bullies and trolls messaging them directly. It was developed by Semiu Salawu,"
     publishedDateTime: 2020-07-15T23:43:00Z

@@ -154,17 +154,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
-    excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
-    publishedDateTime: 2020-07-13T19:08:00Z
-    webUrl: "https://www.theglobeandmail.com/canada/article-rcmp-facing-proposed-class-action-over-use-of-clearview-ais-facial/"
-    ampWebUrl: "https://www.theglobeandmail.com/amp/canada/article-rcmp-facing-proposed-class-action-over-use-of-clearview-ais-facial/"
-    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/canada/article-rcmp-facing-proposed-class-action-over-use-of-clearview-ais-facial/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 29
 
 secured: "XdThgPgG9V2g2RUOLvOtlz728ABZgdEAFO99smF/oNLgSGaZTCZoJZQhhMM2LTMS1s2zrODl56O13d8bbt0vxiGmcMgTgGRUZJeN6ax5ONAH0J2m+7/T2IZyT2rEJNtHZAJ9miOtWFHdbpPN9R949lHa+wVSBkOR+K9pvEhsJUY595Qosflv0nuu91Ac8mCRzwGmzaGc7VKj94erTucMgVzUqHkft82HDjQVejSGavNraaRmvIJzzPFd/HqM8jPYadTLIbWMptneinXQAcaZ+ungPwGNmNpN0hbXI4kEmriMRoXsP3mtZTiLpGY9QHhP71C+4oB7+JFGAYSB1kax6A==;hw/xj6pTE9Dl9lcRoHNZIg=="
 ---

@@ -1,29 +1,21 @@
 ---
 category: news
 title: "IoT in Healthcare Market Growing at a CAGR 21.0% | Key Player Cisco, IBM, GE Healthcare, Microsoft, SAP"
-excerpt: "The global Internet of Things (IoT) in Healthcare Market is expected to grow from USD 72.5 billion in 2020 to USD 188.2 billion by 2025 at a Compound Annual Growth Rate (CAGR) of 21.0% during the forecast period."
-publishedDateTime: 2020-07-07T16:49:00Z
-webUrl: "https://www.marketwatch.com/press-release/iot-in-healthcare-market-growing-at-a-cagr-210-key-player-cisco-ibm-ge-healthcare-microsoft-sap-2020-07-07"
+excerpt: "Capsule Technologies (US), Comarch SA (Poland), Cisco Systems (US), GE Healthcare (US), HQSoftware (Estonia), Huawei"
+publishedDateTime: 2020-07-07T16:50:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16538701/iot-in-healthcare-market-growing-at-a-cagr-21-0-key-player-cisco-ibm-ge-healthcare-microsoft-sap"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16538701"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16538701"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "t1lfvx3G/t/yDs0ox2Te2FlhIEyRa/z01y5/rjWqKM6u1wtbU5vm028VdXOTnfxmtDhEz1Xzg3cG/5EQUu/hskFFGX1q8MooBPan8iUGPRSwMfV21gH9uafCOWncNdR/4zL3784ZcATH/rAb63T7HsAdYLTwopRseZ+TQs3vTZ0iWGlvB0hTygCUVVOcu3Iv1ctFgA+nKlH4lf9VaXCg6SsdhqTCAsyN8B72PL6piK+qQ2/XNQJJR9nWvxtDatN55grL/LIcJo3RqmeO3C54+0+xxB9makfmMR2skVTLfQqcXTi/WUqqOXKvYOegRNLYyFJAnNtbklW2pppScZNBdg==;K1aPhfPpHBXkI0ePLslnkg=="
+secured: "gsSGX6DybXuSzcKv+8f9X6tPyCTsy2WvyGbgdvwgrYYNVpdtMpFebNG7aGf4jx3sZG+5GtBfYhMRo3HgFPdQd1M4HmlZGhyQVAklDA3dXcxCzt9u0y7Fbo0kY7nQIUbk9r2FrdIaSjE4gA24i+L+2tuOH1aXdci1Gf+Rh+Up6vEIHILyayDCq1jpOjWu+RAVsIzlY3SjEGV4A04mxGp/VHLGpH1MXTEYHYtBhkGL8QLk7YgvSlSmMl8+9jLuuXXpKbfi6yAUouA3yjb3mdViDKu/op9gihxkjy9kIQqnwz8sOhQvOyNSeMRoY0lIjmpvupeYaIP6Db49QO98cfZkvQ==;vFdGke4cxUgYhEzhloLuvw=="
 ---
 

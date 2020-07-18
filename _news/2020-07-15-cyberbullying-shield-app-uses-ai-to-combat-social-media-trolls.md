@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T23:43:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-07/au-ca071320.php"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence-Based App ‘Bullstop’ Developed to Combat Social Media Bullying-Trolling"
+    excerpt: "Computer scientists have launched an app, ‘Bullstop’ that uses novel artificial intelligence (AI) algorithms to combat trolling and bullying online. Also Read - Salute! Mumbai Police Lauded For Busting International Racket of Fake Social Media Profiles ..."
+    publishedDateTime: 2020-07-18T13:26:00Z
+    webUrl: "https://www.india.com/viral/artificial-intelligence-based-app-bullstop-developed-to-combat-social-media-bullying-trolling-4088518/"
+    ampWebUrl: "https://www.india.com/viral/artificial-intelligence-based-app-bullstop-developed-to-combat-social-media-bullying-trolling-4088518/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/artificial-intelligence-based-app-bullstop-developed-to-combat-social-media-bullying-trolling-4088518/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 45
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/07/pjimage-3-1-2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cyberbullying 'shield' app uses AI to combat social media trolls"
     excerpt: "Computer scientists from Aston University, Birmingham, have launched an app that uses novel artificial intelligence (AI) algorithms to combat trolling and bullying online."
     publishedDateTime: 2020-07-16T05:52:00Z

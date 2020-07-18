@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T15:25:00Z
 webUrl: "https://www.businesswire.com/news/home/20200717005245/en/SilverCloud-Health-Microsoft-Announce-New-Key-Findings"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Tyler Morning Telegraph
       domain: tylerpaper.com
-    quality: 2
+    quality: 19
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/custom/image/1d130320-7305-11e7-aad4-cf9f36fa6d1e.png"
         width: 1200

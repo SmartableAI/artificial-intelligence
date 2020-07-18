@@ -5,8 +5,8 @@ excerpt: "“By using artificial intelligence and machine learning ... we’re l
 publishedDateTime: 2020-07-17T16:52:00Z
 webUrl: "https://tylerpaper.com/ap/business/silvercloud-health-and-microsoft-announce-new-key-findings-linking-engagement-behaviors-to-improved-outcomes-in/article_28afb819-df53-54fa-9d98-77e8fae9fa91.html"
 type: article
-quality: 2
-heat: -1
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/custom/image/1d130320-7305-11e7-aad4-cf9f36fa6d1e.png"

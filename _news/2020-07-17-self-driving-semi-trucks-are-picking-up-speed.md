@@ -26,169 +26,194 @@ images:
     isCached: true
 
 related:
-  - title: "German Court Says Tesla Self-Driving Claims Are Misleading"
-    excerpt: "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology."
-    publishedDateTime: 2020-07-14T20:36:00Z
-    webUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html"
-    ampWebUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
+  - title: "Navistar teams up with TuSimple to produce self-driving trucks by 2024"
+    excerpt: "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple."
+    publishedDateTime: 2020-07-15T20:29:00Z
+    webUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/"
+    ampWebUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 172
     images:
-      - url: "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "German court rules that Tesla misled consumers on Autopilot and Full Self Driving"
-    excerpt: "Tesla misled consumers on the abilities of its automated driving systems, a Munich court ruled on Tuesday.  Tesla Germany is now banned from including \"full potential for autonomous driving\" and \"Autopilot inclusive\" in its advertising materials,"
-    publishedDateTime: 2020-07-14T16:46:00Z
-    webUrl: "https://www.cnbc.com/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
+  - title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
+    excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
+    publishedDateTime: 2020-07-15T12:08:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Tesla Autopilot and Full Self-Driving claims are judged ‘misleading’ by German court"
-    excerpt: "Tesla lost a case in a German court today over how the company advertises its Autopilot and Full Self-Driving, which the court judged “misleading.” Last year, we reported on Wettbewerbszentrale, which describes itself as “the largest and most influential nationwide and cross-border self-regulatory institution for enforcing the right to unfair competition,"
-    publishedDateTime: 2020-07-14T14:30:00Z
-    webUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/"
-    ampWebUrl: "https://electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/14/tesla-autopilot-full-self-driving-claims-judged-misleading-german-court/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-automatic-driving-on-city-streets.jpg?quality=82&strip=all"
-        width: 2500
-        height: 1235
-        isCached: true
-  - title: "German courts rule against Tesla's \"self driving\" claims"
-    excerpt: "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich."
-    publishedDateTime: 2020-07-16T09:51:00Z
-    webUrl: "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    ampWebUrl: "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    type: article
-    provider:
-      name: AM-online
-      domain: am-online.com
-    quality: 89
-    images:
-      - url: "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
         width: 1200
-        height: 693
+        height: 676
         isCached: true
-  - title: "German court bans Tesla ads over self-driving claims"
-    excerpt: "Germany has banned Tesla from repeating what a court says are misleading statements relating to its driver assistance systems and autonomous driving."
-    publishedDateTime: 2020-07-14T14:24:00Z
-    webUrl: "https://www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/"
-    ampWebUrl: "https://www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/german-court-bans-tesla-ads-over-self-driving-claims/amp/"
+  - title: "Navistar to develop self-driving trucks with TuSimple"
+    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+    publishedDateTime: 2020-07-15T18:38:00Z
+    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
+      name: Reuters
+      domain: reuters.com
     quality: 74
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/06/1208184787.jpg"
-        width: 1024
-        height: 681
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+        width: 817
+        height: 545
         isCached: true
-  - title: "German Court Bans Tesla Ads Making 'Misleading' Claims About Autopilot, Self-Driving"
-    excerpt: "Tesla will no longer be able use phrases such as “full potential for autonomous driving” and “Autopilot inclusive” in future ads in Germany, a Munich court ruled Monday."
-    publishedDateTime: 2020-07-14T16:48:00Z
-    webUrl: "https://www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154"
-    ampWebUrl: "https://www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154?amp=1"
+  - title: "Navistar Partners With TuSimple to Launch Self-Driving Trucks"
+    excerpt: "Navistar International Corporation NAV announced that it reached a partnership with TuSimple. The companies aim to develop SAE Level 4 self-driving trucks, whose production is targeted to start in 2024."
+    publishedDateTime: 2020-07-16T14:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/14/tesla-cant-use-its-autopilot-claim-in-germany.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
-    publishedDateTime: 2020-07-16T17:28:00Z
-    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
-    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
+    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
+    publishedDateTime: 2020-07-16T16:51:00Z
+    webUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
+    excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
+    publishedDateTime: 2020-07-15T12:04:00Z
+    webUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/"
+    ampWebUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
+    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
+    type: article
+    provider:
+      name: trucks.com
+      domain: trucks.com
     quality: 44
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.trucks.com/wp-content/uploads/2020/07/tusimple-Nav-truck-674x337.jpg"
+        width: 674
+        height: 337
         isCached: true
-  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
-    publishedDateTime: 2020-07-17T13:08:00Z
-    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
+  - title: "TuSimple, Navistar join to develop self-driving semis for mass production"
+    excerpt: "The level 4 self-driving semi trucks being developed by TuSimple and Navistar would be able to perform all driving tasks and monitor the driving environment in certain circumstances."
+    publishedDateTime: 2020-07-16T00:45:00Z
+    webUrl: "https://tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.html"
+    ampWebUrl: "https://tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.amp.html"
+    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.amp.html"
     type: article
     provider:
-      name: KitGuru
-      domain: kitguru.net
+      name: Arizona Daily Star
+      domain: tucson.com
+    quality: 43
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/fc/8fc8f6e1-5e5d-506c-af41-f001d0fece92/5f0f910a97019.image.jpg?crop=1762%2C991%2C0%2C92&resize=1024%2C576&order=crop%2Cresize"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
+    excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
+    publishedDateTime: 2020-07-15T13:20:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265784213/tusimple-finds-a-partner-to-help-it-build-a-fleet-of-robot-semi-trucks"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1594772418028.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
+    excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
+    publishedDateTime: 2020-07-15T19:00:00Z
+    webUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
+    ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
+    type: article
+    provider:
+      name: THE TRUCKER
+      domain: thetrucker.com
+    quality: 37
+    images:
+      - url: "https://www.thetrucker.com/wp-content/uploads/2020/07/Level-4-Autonomous-Truck.jpg"
+        width: 720
+        height: 380
+        isCached: true
+  - title: "Navistar to Produce Self-Driving Trucks by 2024"
+    excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."
+    publishedDateTime: 2020-07-15T21:45:00Z
+    webUrl: "https://www.americanmachinist.com/news/article/21136743/partners-to-produce-autonomous-trucks-by-2024-navistar-tusimple"
+    type: article
+    provider:
+      name: American Machinist
+      domain: americanmachinist.com
     quality: 24
     images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
-        width: 732
-        height: 330
+      - url: "https://base.imgix.net/files/base/ebm/americanmachinist/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 670
         isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
-    publishedDateTime: 2020-07-17T10:40:00Z
-    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
+  - title: "Navistar, TuSimple Partner to Launch Self-Driving Trucks in 2024"
+    excerpt: "Truck and engine maker Navistar International Corp. and TuSimple, a global self-driving technology company, announced they have entered into a strategic partnership."
+    publishedDateTime: 2020-07-15T15:30:00Z
+    webUrl: "https://www.ttnews.com/articles/navistar-tusimple-partner-launch-self-driving-trucks-2024"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-truc-main.jpg?itok=WENGs4K-"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
-    excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
-    publishedDateTime: 2020-07-15T12:24:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/07/15/575596.htm"
+  - title: "Navistar Enters Self-Driving Trucks Market"
+    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
+    publishedDateTime: 2020-07-17T12:13:00Z
+    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 22
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 24
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/07/zoox-autonomous-driving.png"
-        width: 940
-        height: 940
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
         isCached: true
-  - title: "Mobileye begins testing self-driving cars in Germany"
-    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
-    publishedDateTime: 2020-07-17T13:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+  - title: "Navistar, TuSimple Partner to Bring Self-driving Trucks to Market by 2024"
+    excerpt: "A collaboration between Navistar and TuSimple will accelerate testing and proving of technology capable of running commercial trucks at full driverless Level 4 operation by 2024."
+    publishedDateTime: 2020-07-15T18:04:00Z
+    webUrl: "https://www.truckinginfo.com/10121289/navistar-tusimple-partner-to-bring-self-driving-trucks-to-market-by-2024"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 23
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/navistar-tusimple-front-__-1200x630-s.jpg"
+        width: 1194
+        height: 630
+        isCached: true
 
 secured: "fR+v4PEEyj9SirS46KCsnAIJlWgQlvqw2Wt0O9CLm44t4mXg1nEZ4y6pOKfq+A2m6IfsSRncGTndGgYvxb/+Phh47ruGPZPRyZcg+tUYo2OlqA0WNzfVcZbqatOT2m1cryGBSeGgI4I4gtShbZbvUaIdRxlguarX2T8mTmlR6smeyl4WRu2tyMwj1/nqUhc+UbQr7e74djwGVSyyuZB3hkRclRypd3C6pqgeiSrm4co+X6g0W+I0mQ1v8O/ygjYzpel6BEaFLGKGcWVD+LMz+B7v//N0Go0r+tkyyhrYSOyXQ559S0PJZgxtDYta8Iaoj8GRfyY3zTE7VFMyE9DJ3lvHRCCC39I47sbWbc5k6Y26KgexPUgvTf0AKZ2uVbIe3Z2hJzl/Y7JW6AgFT/6gnqFp3A0KW811GR3reXOpSZxNHxVeFh+KILCpgLuCSSsMvtO3IgtHevvbkKL4PLFtE4ofZnTXStXmJgEFWVTwHIdvVq3OUL34I2IZoOuN4EZhWVbvC1alcbY3VLnISgXcjg==;Exs8+ntFHdP1ZV4sbZkLfg=="
 ---

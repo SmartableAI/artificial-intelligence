@@ -23,7 +23,7 @@ related:
   - title: "Intel's Mobileye will test self-driving cars at up to 80 MPH in Germany"
     excerpt: "Intel’s Mobileye self-driving division has received regulatory approval to test its vehicles on German roads, Intel announced."
     publishedDateTime: 2020-07-17T10:48:00Z
-    webUrl: "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html?bcmt=1"
+    webUrl: "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html"
     ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
     cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
     type: article

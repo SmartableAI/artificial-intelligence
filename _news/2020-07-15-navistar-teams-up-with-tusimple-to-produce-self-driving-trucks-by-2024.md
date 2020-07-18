@@ -1,51 +1,34 @@
 ---
 category: news
-title: "Navistar to develop self-driving trucks with TuSimple"
-excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-publishedDateTime: 2020-07-15T18:38:00Z
-webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
+title: "Navistar teams up with TuSimple to produce self-driving trucks by 2024"
+excerpt: "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple."
+publishedDateTime: 2020-07-15T20:29:00Z
+webUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/"
+ampWebUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 172
+heat: 302
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
-    width: 817
-    height: 545
+  - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
-  - title: "Navistar teams up with TuSimple to produce self-driving trucks by 2024"
-    excerpt: "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple."
-    publishedDateTime: 2020-07-15T20:29:00Z
-    webUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/"
-    ampWebUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 172
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
     excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
     publishedDateTime: 2020-07-15T12:08:00Z
@@ -61,6 +44,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Navistar to develop self-driving trucks with TuSimple"
+    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+    publishedDateTime: 2020-07-15T18:38:00Z
+    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+        width: 817
+        height: 545
         isCached: true
   - title: "Navistar Partners With TuSimple to Launch Self-Driving Trucks"
     excerpt: "Navistar International Corporation NAV announced that it reached a partnership with TuSimple. The companies aim to develop SAE Level 4 self-driving trucks, whose production is targeted to start in 2024."
@@ -219,6 +218,6 @@ related:
         height: 630
         isCached: true
 
-secured: "eoOMyVvZqvD/ZeYi9pMkP2jIV3rvmf91u0HUffOyzkAr4fGJn4PXnAuFFsIQt+X8ZFzS4V06YilD1lOKg6oJ0zaYQ/XtbmJ+F2WUnKmQKj+V9fuViY+1puDvlh3j8KQAHGsSnJD5LufkvoPstBclvASV40cls/RQSRw1HUxOPYjknvk/9Mch/AZwX7nTlVyr01c1KWj255TT/cxJsiCdTPOZkCLWYO5yP2D0Qpm61NhFlFf/3aIq76NHlchrVNbRwzu0Mc6yV1VfMz0IG29FCzSviLJAlHIRO0lmKCrflv/FkVitWGXjTinKukKXX6CbjsN71ikI2w1G0m8mP2M2FuxAICsIH0dmxVnEmFMKkbJS//h9loJmbW5RwcZSXwhIwRqst+BHvdBZ9eFnhG8aCxQINe8wlUp83gIOF9V1X0MAotta27mBVZHJC/ViqmewfNbx61KmJgUKIqm134dvLfgVeIDMbXmxL0SwGdwYqGpzrxt+mi56GzCsh/dz/fc75vH4p3+t+sIjgLKcL/2gfw==;aXYu8c0gpgPkWLu6EBXxoA=="
+secured: "nrmFENTvFo8JFEgg4r2SbieiHX9fEDiv/W5oRkEGCENl1TKSxKVki/i90zh1OEYyJLh+MfOfG5JtQVvcNkypkQHCDL2vTqWYPJbi1bm/mh4/s5THmA1/pXsGUdf1Jto3B+16s72+Yr23yqKFvqVUS/J4d2k5YiX/4XV9RT0vfJKvUCgdhmM9vDa2k3YkuyPBKKmOyQ+A78ogdxSrbG+VwF3LrztX45H/cACFg1B8Q/+PEhDWQHmCdHfB7DzqfE+ha6RguxWDCIz/FGSqMwB/Ixb1X6osDMlfxDEgrUJudWiAr8HeaDHbB2dzuSO0Bp/Oiajo6aV9Y1ZVWISq0QAEKQ==;5ExpTKh0B19TLZadLsV+CA=="
 ---
 
