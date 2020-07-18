@@ -7,7 +7,7 @@ webUrl: "https://www.openpr.com/news/2090562/artificial-intelligence-in-educatio
 ampWebUrl: "https://www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.openpr.com/T/7/T715260600_g.jpg"
@@ -114,6 +115,6 @@ related:
         height: 488
         isCached: true
 
-secured: "lSflXWZ0hHeCkVTTpxXkBiwdpptHhbtEhoG+zBztU+fwxV1cRsctJX4ca3hrOycEk3N5EqFQ+/9P7hk/CNaOtpR/FEImUqlOS301F1PI/KIEhVTbHD/7enHhi1mCGfB83+fbviEOMhQBVgnOvs4XT346gsRsIjML6pkPBiYGAL6m397Dzg9v4tbJxPmu4v7UGfSfaVssOJc7LU7tarOFPkqgazdo371u84SDw9RxEg+9mraVxvnitipIvHL8i7mMX2m9RykeiTRaU6hg37o4VtdQL5KYVpM4IucGy4OCEr2Q/da8bAinV+A+4o8vAYEakU3rl+t7zGCJf1RzHvuPQQ==;KVQsRtZXXnhFpakPfnWF6Q=="
+secured: "fNGoRp/Wcxh07lpttpi1F7Wt/6twJb5LJlxHodY6r/CTCjMJXF47e3M8/gVtCMqmPzVYhAK2szHrQyU27QngkhZMbh5j6rzSySdJoPlp/o//OSDDSv3DGj2TedJCuuslt8UT60OB6fciUxNagqAlixmMKBtLI6dKyhsIX0x020MKvE0jpGGa420WgMcOZFxlxtzyBKsmtkFmGYpNiosxktN3gwemZGQntqtegvjWTEnUm5ABreCVrgDx0A164d0KLKO6WkXT93hH37drfel7IEljZ9MtoFNP8zN5FCYyPBEsat0I07do5Y2UbDSLq5u5QEIMPoZsOcrvBQxNT8DSe6+QNk+i2dlxc6rznnKB89sGcn/PNEmZ27OureuP2TbEpI6dnOj3Wr+Az5ZXSv3gBKbWV5X/4TFXux9FZS1fsYwFV9Sq9N6CGTKt3SDSM0Of47F/oLvBGJQU+MnEJY1oJ6vvXwT5BOzV3VPKE8w9Ing8x/aRdJzHiOg0N+elq4v8;wyKWctKa9FsXcerqeAwcJg=="
 ---
 

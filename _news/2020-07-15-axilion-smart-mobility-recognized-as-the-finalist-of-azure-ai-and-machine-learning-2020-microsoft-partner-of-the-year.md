@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "Concurrency, Inc. Recognized as 2020 Microsoft Partner of the Year Finalist for Both Diversity & Inclusion Changemaker Award and AI & Machine Learning Award"
-    excerpt: "Concurrency, Inc. is a finalist for two 2020 Microsoft Partner of the Year Awards: Diversity & Inclusion Changemaker and AI & Machine Learning Award."
-    publishedDateTime: 2020-07-13T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200713005577/en/Concurrency-Recognized-2020-Microsoft-Partner-Year-Finalist"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
-    images:
-      - url: "https://mms.businesswire.com/media/20200713005577/en/804993/23/Concurrency_logo_-_JPEG.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "XnsgyY108QvCwulwNIIB/Lbx6iJHu9kJb++M3johJ9Wy9pwyKZDZLRBDLPS1O/hdg1sDrotPvqccA2mwLmUmfVXTTscmECzFZQySPlT6fym1aVgBGEkfrX9IIzmGBw6cmYNhKpGU43jG2b87nCU0ODlUm/3G+mLnQHOTlROa/f7Rxp842LV7qj4cAimIAn80VKAEW3/FgaTsyg/5W4fkqnVrZKqx6HneA3HqeUezwS6ken1WD6rxfoR6CAmf1VAutgXuvCWdKC/8ewE86JFIaZZPwd3dQ/QSyTQzrrAuUq4mBbXbeDR+dXDb8RHgF5DAiNkmARTilivEifgLFCi3Pg==;rBrB31Suhr7J8vGqMtrBsQ=="
 ---

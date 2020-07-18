@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-22-windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu.md",
+      "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+      "excerpt": "Adobe has been putting in GPU-accelerated machine learning in applications like Photoshop and Lightroom, while Corel has added AI-powered brushes to its natural material Painter. By opening DirectX's GPU compute to cross-platform APIs like Mesa3D ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/22/a12d1b1f-4aa8-4503-9d90-2c4e4936e64b/resize/1200x/b33bed0bf6b44bc77a5dce7fbd51c7e7/mesa-3d-tr.jpg",
+          "width": 1200,
+          "height": 732,
+          "title": "Windows 10 PCs: Why the new key to faster desktop applications is your GPU",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/windows-10-pcs-why-the-new-key-to-faster-desktop-applications-is-your-gpu/",
+      "publishedDateTime": "2020-06-22T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-computer-makers-unveil-50-ai-servers-with-nvidias-a100-gpus.md",
       "title": "Computer makers unveil 50 AI servers with Nvidia’s A100 GPUs",
       "excerpt": "Computer makers are launching 50 servers with Nvidia's A100 GPUs to power AI, data science, and scientific computing applications.",

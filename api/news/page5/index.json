@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-15-could-graphcores-second-chip-challenge-nvidia.md",
+      "title": "Could Graphcore’s Second Chip Challenge NVIDIA?",
+      "excerpt": "Today it introduced its second-generation product for AI, a massively parallel chip with 59.4 billion transistors that delivers some 250 Trillion Operations per Second (TOPS). However, the company’s potential to challenge NVIDIA,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e8c05c604cd0007da11ee%2F0x0.jpg",
+          "width": 974,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
+      "publishedDateTime": "2020-07-15T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-graphcore-claims-its-m2000-ai-computer-hits-1-petaflop.md",
+      "title": "Graphcore claims its M2000 AI computer hits 1 petaflop",
+      "excerpt": "Chip startup Graphcore detailed its second-generation IPU and the M2000 AI computer, which the company claims can achieve up to a petaflop of compute.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
+      "publishedDateTime": "2020-07-15T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens.md",
       "title": "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens",
       "excerpt": "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for",
@@ -9,7 +112,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": null,
       "type": "article",
@@ -938,6 +1041,46 @@
       ]
     },
     {
+      "path": "_news/2020-07-14-ai-predicts-which-planetary-systems-will-survive-and-which-wont.md",
+      "title": "AI predicts Which Planetary Systems Will Survive And Which Won't",
+      "excerpt": "Modeling the gravitational interaction between celestial bodies is hard work. Two objects is relatively easy, but add a third one in and things get so comp",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/e35174dd-41d9-54d6-9b4b-343b19416a1b/default-1594740244-cover-image.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/",
+      "publishedDateTime": "2020-07-14T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-an-ex-googlers-new-robot-reimagines-the-future-of-home-automation.md",
       "title": "An ex-Googler’s new robot reimagines the future of home automation",
       "excerpt": "Stretch is not a consumer robot that’s ready to roll into your apartment and start doing the dishes, but rather a research platform that Edsinger and Kemp hope will lay the groundwork for home automation in the years to come.",
@@ -1067,154 +1210,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks.md",
-      "title": "Traceable raises $20 million for AI system that shields cloud app APIs from cyberattacks",
-      "excerpt": "Traceable, a startup cofounded by former AppDynamics CEO Jyoti Bansal, has raised $20 million for its platform that protects cloud APIs from cyberattacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/amp/",
-      "publishedDateTime": "2020-07-14T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui.md",
-      "title": "BigQuery Omni pulls Google, AWS, and Azure analytics into one UI",
-      "excerpt": "Google has launched an early version of BigQuery Omni, it’s new analytics tool that lets users access and view data across Google Cloud and Amazon Web Services without leaving the Big Query UI. Powered by Google Anthos,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1594727792/itpro/BigQuery_Omni_google_press.png",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui?amp",
-      "publishedDateTime": "2020-07-14T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-auckland-based-photo-software-startup-narrative-raises-258-million-led-by-founders-fund.md",
-      "title": "Auckland-based photo software startup Narrative raises $2.58 million led by Founders Fund",
-      "excerpt": "For many freelance photographers, marketing their businesses and editing photos takes as much time, if not much more, than photoshoots. Founded in 2017, Auckland-based Narrative helps professional photographers with tools including a website builder and Narrative Select,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-627080844.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/auckland-based-photo-software-startup-narrative-raises-2-58-million-led-by-founders-fund/amp/",
-      "publishedDateTime": "2020-07-14T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

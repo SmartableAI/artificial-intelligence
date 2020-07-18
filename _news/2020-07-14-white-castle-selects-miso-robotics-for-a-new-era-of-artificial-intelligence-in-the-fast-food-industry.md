@@ -1,55 +1,44 @@
 ---
 category: news
 title: "White Castle Selects Miso Robotics for a New Era of Artificial Intelligence in the Fast Food Industry"
-excerpt: "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the first autonomous grilling and frying kitchen assistant,"
-publishedDateTime: 2020-07-14T09:31:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077"
+excerpt: "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the"
+publishedDateTime: 2020-07-14T09:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-301092746.html"
 type: article
-quality: 84
-heat: -1
+quality: 54
+heat: 64
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
-  - title: "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens"
-    excerpt: "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for"
-    publishedDateTime: 2020-07-15T06:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565"
+  - title: "A Robot Will Make Your White Castle Burger! Say Hello To ‘Flippy’"
+    excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
+    publishedDateTime: 2020-07-14T23:42:00Z
+    webUrl: "https://mynewsla.com/business/2020/07/14/a-robot-will-make-your-white-castle-burger-say-hello-to-flippy/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-  - title: "AMP Robotics Named to Forbes AI 50"
-    excerpt: "Company recognized among rising stars of artificial intelligence for its AI-guided robots transforming the recycling industry"
-    publishedDateTime: 2020-07-14T07:10:00Z
-    webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-named-forbes-ai-50"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 69
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
     images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/SSR%20-%20AMP%20Fleet%20Image.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://mynewsla.com/wp-content/uploads/2017/10/abstract-1238247_640.jpg"
+        width: 640
+        height: 491
         isCached: true
 
-secured: "jBW1KXTLxQ9iRYBTq8t3fiHfPhh3RX5mnfLULROra5COCmOdeN89qGi28CF0rgwU/HpSKRLdz7sU6DOed7JV9oTf1IC/+tqutk3S41HKHDSAHihlwvS6UPNURqoHRMd1hHjf7pAbNmt01LZqon0WT7bgs+iQp2cdJk9qk9KxVg+F+I0og9fPs4b0Ymn3OwPivIFREwTisV6/ObaDcuYXENL4Tev+Lc3c68ElgRdHSsr7OR6IaRJCG3UQfn5BDn1DEBQUPh1k1YD8v12rkKeK0aR/ArnrstDyUVWX6MjS+ytyB92od5N9OskG+1KX5mfLhleACx9LrA8xHAwnxBa/iw==;7PlN5370x2MUlWeBn0mkqw=="
+secured: "IEsRards17ycYql+zB5XgOKJEtPg87OHVD0uZqLBTBoqc46KnYzPM4eskAVCvC26Mj10Sj5oBdDjR6fxU8KHaD68qrDoxeA9MJcKP5z6ITvwtL7v+zRMmQztnOFuWyUNPOqiSnk5kOglQAy9w4GpzMPptpukF23If7rGmBFadiN6WZxxfW7agjz8QZ8iLTp43vt97l2ig563r2CiMYuNR87MTeaCvOVoS4HZO1NRXoEF+bsveCjBQbSISQV9ThXn/0QYRw9zANSo0/dZnzv8+PgLontDnvVdTae7pwFfRGCecRSYgNMP6Bsz7v9MyGJE0jvTa7M+/74+lO4+TR+fPA==;NOvT3HnZEXqchjeJMI78fw=="
 ---
 

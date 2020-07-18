@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
 type: article
 quality: 185
-heat: 215
+heat: 225
 published: true
 
 provider:
@@ -72,6 +72,22 @@ related:
       - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Facial recognition is tech so special it should be banned"
+    excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
+    publishedDateTime: 2020-07-18T10:32:00Z
+    webUrl: "https://www.thestar.com/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 59
+    images:
+      - url: "https://images.thestar.com/SNvkIuVfk53rgxKcN2NDTSiF3Tg=/1200x800/smart/filters:cb(1595006600990)/https://www.thestar.com/content/dam/thestar/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned/recognition.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "VWE9kaQxsnV6bwvZZ0Xs2MBgB3fiV75x4GLZ2T1J3DZtIVmGekeJEZKLPulmx0Va8wYqi6YdexM/GGCeCfJW4bXUNAeKYwvEj/9QTLgUzUxiVe5KHC4D9JoA88Fg0KRp+aKbeNtdANo6tyl4cINBoIewBGMsTArPE3jvynpqXzU4VUDvOoIWvHJtMVnSS6kxWCr5T6O+FJHrxJz7ZnZv0DnHEX4IXL7RBHKC6JboXmuSYBIHr1NYCwxdraM3tLx4SsJ+0R3ezKQcAN2Yn8U1TvOFKeOUoOa+FNMmhVJ4gdjEFoJiRakK9kFVHJwrymxYY+Yv7RDgcl7kPTcrRUAIxzh/iYBiB8HkBttqx6VUdH9/YKw9hguWbFRQ2i4NfjgAEKwSn9cXfAV8r+6FLvVkb3XXHZX9OPoME87ybLJl1f2s8ah7K32dFFJyVUB70sHR0OmUy8n/PAyc4ZtwsxDv45bfBLVL0k+BroAt7bxdFY7gIV6nsm6PQ/f1FxK+NMnnxxYzPZ1YmaM16z/h0zRpkQ==;MfE3Itxs2JlO1+nUpN93AQ=="

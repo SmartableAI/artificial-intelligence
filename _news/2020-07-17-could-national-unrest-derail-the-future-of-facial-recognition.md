@@ -69,6 +69,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Facial recognition is tech so special it should be banned"
+    excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
+    publishedDateTime: 2020-07-18T10:32:00Z
+    webUrl: "https://www.thestar.com/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 59
+    images:
+      - url: "https://images.thestar.com/SNvkIuVfk53rgxKcN2NDTSiF3Tg=/1200x800/smart/filters:cb(1595006600990)/https://www.thestar.com/content/dam/thestar/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned/recognition.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "NNqmVAPkimnK7mivqgSuDlEQ1Gg/bH72b65EZMWM8kI5gHsgrOpPy4OS8Ikg1qo/Egdqtsl9zXqUd2ER74DztUpiL2LFotFZD0nDGA+eNjSCbH46wPBbwyaRD7bULTdRArlzDV4kwSScsjpqs1ofE9rC/W+m8je8zLGAe3KBL2jETXMuPKE96PlNpQDMt0zjKroy9Vchkfu4X26ir+LXb/dowHG5XIQf91FqmEXJ6H5acNVLYMg2qOWxHL/j3HKukvaZYzRjDirr/b+j5ofwMFPjekU4Jx4IKR/4eJVp9S/TWsVt4zw4haNoMRbu6tjpJ4HALFOxSZh71hyFE5Orb6DpRcfIQNv4dMJXofGyDCoMOXXeJ99wG+R24Q4Rvyz2Ni3r4OnhdyxoWkojKOMRCn22xGR94eOG53q3hweyz1aLBaq22mA+Hha8dNBMa0nGKC5rxF8A32kpUUhwMMaDEv5AlyBxTZFrLLo33Fj08y/L32Db+rRO162freSlyXfKhdZ9MagkWwrkvw3rzKhDTQ==;3lq2W6jV5LPePM3j2XENEw=="
 ---

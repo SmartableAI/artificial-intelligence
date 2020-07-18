@@ -28,19 +28,19 @@ images:
 related:
   - title: "Japanese robot to clock in at a convenience store in test of retail automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-15T10:53:00Z
-    webUrl: "https://www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7?amp"
+    publishedDateTime: 2020-07-15T09:51:00Z
+    webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 100
     images:
-      - url: "https://i.insider.com/5f0ed07c2618b9694b3ba515?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 539
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
+        width: 782
+        height: 545
         isCached: true
   - title: "Japanese robot to clock in at a convenience store in test of retail automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."

@@ -41,20 +41,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "Concurrency, Inc. Recognized as 2020 Microsoft Partner of the Year Finalist for Both Diversity & Inclusion Changemaker Award and AI & Machine Learning Award"
-    excerpt: "Concurrency, Inc. is a finalist for two 2020 Microsoft Partner of the Year Awards: Diversity & Inclusion Changemaker and AI & Machine Learning Award."
-    publishedDateTime: 2020-07-13T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200713005577/en/Concurrency-Recognized-2020-Microsoft-Partner-Year-Finalist"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
-    images:
-      - url: "https://mms.businesswire.com/media/20200713005577/en/804993/23/Concurrency_logo_-_JPEG.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "q5DwcLshNsiYsaoT+0xP2dDNQQe+jWceZnxiw4FQlgruI7E/B2z/Uae/FpqJQW0YOsAaah4I2yZwjNWYqbrLyDVWCFFQ22jjIcPPD+kfc+shgEfPQafK5UF/VWdE7f0f5zMzbD3VhDAuBk9Tv80hPih6k/zo2nkzlXt2X1aAEMPPOQyZWYyl194XBUG1avwYfYbM+1jBh216VWZuTM21wbB8lRp7SV1wO6yG0IRlQ4aE/kRf5OZ2Z8pUw5ST3oUX4tR5JsmgiBke4tatmUt5k2q+KJu+syXLVLW9RrVnDIUbDBjZ9xgDuiq6y+AVt3qxtfYN5kcwlwIgHfH2E8AqJQ==;EfSt7yM26ZTR0vJjAxF0xQ=="
 ---

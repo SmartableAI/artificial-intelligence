@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Navistar to develop self-driving trucks with TuSimple"
-excerpt: "Truck maker Navistar International Corp. has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-publishedDateTime: 2020-07-15T12:38:00Z
-webUrl: "https://www.autonews.com/mobility-report/navistar-develop-self-driving-trucks-tusimple"
+excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+publishedDateTime: 2020-07-15T18:38:00Z
+webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
 type: article
-quality: 24
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/17MAILTRUCK-07.jpg"
-    width: 792
-    height: 415
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -40,6 +46,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Navistar Partners With TuSimple to Launch Self-Driving Trucks"
+    excerpt: "Navistar International Corporation NAV announced that it reached a partnership with TuSimple. The companies aim to develop SAE Level 4 self-driving trucks, whose production is targeted to start in 2024."
+    publishedDateTime: 2020-07-16T14:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
     publishedDateTime: 2020-07-16T16:51:00Z
@@ -184,6 +201,6 @@ related:
         height: 630
         isCached: true
 
-secured: "m1ubesNilohazY/dqhC7l/Es55SDPQuDYN6M8jAhocFTZoKYMTygkuRHMxDznqLRUBnO6wQXYy8UHuFQkZ5S9qeCupP/cjczd/qgOvZ0Ita9WuVx9ezOSdec0XRjQwitqlMv17/2bV9Y9p3m4+Dzv4bX63ihAaEOaNlSkli1NG7xnLxpQPDWwmNogQq53grTeTXObV8OQVN1ZGlrXXyW8WsigZEAOrIAHah296yTY8gYQ5yOxuuF52tPAGRG7r5j9kWuSa97AbVzQpJ2zWdO8EX7KLiaSIo0PfmM7PJ9z1al8DSWoqE1PWjXoZOZ/DtLlLomgoyNZs5XBx9FRwfWXQ==;yxtShBhmlUOmAnhcVVYa3Q=="
+secured: "+KkAVATgwKatosMaYapWvG3HZqN0zD4yEMADchYyeVz3hNrlXPLGH74nqisOo4Ixu/ce9WCT9kraXGppJA8E9ic4DGesj2yKMh4YY0aR5RvkiqO+6/sJVJIuqv0pPVN++LEjhfXV1/2GSfpZ9hWmgZG9HwBanEcGpnbuINF0+nFembRiERYGG221FfFjkeBL86JuH7yFewl5qPu6azTGHEe/+rRI9M1aG1zuqu5mpXakJ7ac/+Bt5boizuS/eVdFaIDxyWBxghfeoW715mC28Gz77bxZbjaFAs5x0K1ydD+0ds1p/z/ic+Rwb/uHE0ZnA+JirYLsVaNXS4YYjOzzlg==;baobRdWdT4wBo5e2yX7Z3w=="
 ---
 

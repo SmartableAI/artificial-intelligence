@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techradar.com/news/death-stranding-on-pc-almost-hits-60fps-at-8k-all-it-takes-is-a-dollar2500-nvidia-gpu</loc>
+    <lastmod>2020-07-18T04:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese</loc>
     <lastmod>2020-07-17T18:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -319,6 +325,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html</loc>
+    <lastmod>2020-07-15T21:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/</loc>
     <lastmod>2020-07-15T19:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -541,12 +553,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7</loc>
-    <lastmod>2020-07-15T03:53:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7</loc>
     <lastmod>2020-07-15T03:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -555,6 +561,12 @@
   <url>
     <loc>https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html</loc>
     <lastmod>2020-07-15T03:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
+    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -711,6 +723,12 @@
   <url>
     <loc>https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/</loc>
     <lastmod>2020-07-14T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/</loc>
+    <lastmod>2020-07-14T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

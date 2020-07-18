@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence predicts which planetary systems will survive"
-    excerpt: "Why don't planets collide more often? How do planetary systems—like our solar system or multi-planet systems around other stars—organize themselves? Of all of the possible ways planets could orbit, how many configurations will remain stable over the billions of years of a star's life cycle?"
-    publishedDateTime: 2020-07-13T19:02:00Z
-    webUrl: "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.html"
-    ampWebUrl: "https://phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-artificial-intelligence-planetary-survive.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/37-artificialin.jpg"
-        width: 1152
-        height: 576
-        isCached: true
   - title: "AI predicts Which Planetary Systems Will Survive And Which Won't"
     excerpt: "Modeling the gravitational interaction between celestial bodies is hard work. Two objects is relatively easy, but add a third one in and things get so comp"
     publishedDateTime: 2020-07-14T15:31:00Z

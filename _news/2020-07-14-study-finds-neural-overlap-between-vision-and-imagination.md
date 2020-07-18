@@ -43,20 +43,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "The Line Between Vision And Imagination Is Blurry"
-    excerpt: "To explore this question, researchers used machine learning and insights from machine vision, which uses computers to view and process images. The researchers trained this network to see images and then took the next step of having the computer imagine images."
-    publishedDateTime: 2020-07-13T17:02:00Z
-    webUrl: "https://www.science20.com/news_staff/the_line_between_vision_and_imagination_is_blurry-249298"
-    type: article
-    provider:
-      name: Science 2.0
-      domain: science20.com
-    quality: 24
-    images:
-      - url: "https://www.science20.com/files/images/imagery_ptsd.png"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "wBjpAILazj11e0mlHiBZCMAkhf5S7g74F00icxhLS8TqJd1VynQ/quDg8HNGOpkpJBm8FGAhrv3xW1bdBRJE6ONG4hNnwBhMDPbhVxjegDIS7puVHhMDHkD1FRB1pv0cOaD0Dlqhsmx+ETIUfc7MzXPEhaVHfXItuhiR9fSlJtWlO21V7q5GlQQ5kZyPBulNSa20/FdPexsstAWzhS02VTkHe4ewBwUQCACECeH2vCAWJVm3ocWUBaPpru1NCnU1btJbTTJtApGo7gNWuuHgR4MXHAVVJTjcag2sziK5fdn5UlreTn/5lbqYRjAQM29fl12ZWumG33F2aTzlmbLQeFsfzqKklgBNqFYlJJHUn9E/1toe7zsKRMQTnSX0IZGVvfhVtrUmeC8eGvEM7Ly+IuQc1t2o1HkdUjYA6lvqA/2v33qU9yG2GIuj7asqY+B3Lqom7ScIeRkDV8TwLyLqXdItJsbWH4DMWNj/6JyN99nqaXhkXAKLKKHt/bXk5KZr+fzEDlrj+mBikjgQtmDS/A==;S1sZq+WnTJCI/qm2g57kyw=="
 ---
