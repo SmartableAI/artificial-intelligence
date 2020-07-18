@@ -156,6 +156,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
+    publishedDateTime: 2020-07-18T03:43:00Z
+    webUrl: "https://www.npr.org/2020/07/17/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "RCMP facing proposed class action over use of Clearview AI’s facial-recognition technology"
     excerpt: "A Quebec photographer wants a judge to order the RCMP to destroy all of the images of Canadians it obtained through a controversial facial-recognition tool. Ha Vi Doan’s proposed class-action lawsuit filed in Federal Court seeks unspecified damages for ..."
     publishedDateTime: 2020-07-13T19:08:00Z

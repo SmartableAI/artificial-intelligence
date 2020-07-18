@@ -3,9 +3,9 @@ category: news
 title: "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU"
 excerpt: "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world."
 publishedDateTime: 2020-07-15T15:22:00Z
-webUrl: "https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
+webUrl: "https://www.techradar.com/in/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
+ampWebUrl: "https://www.techradar.com/in/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
 type: article
 quality: 98
 heat: 118
@@ -63,6 +63,6 @@ related:
         height: 225
         isCached: true
 
-secured: "7CBGjhfQ9j0YPHj8XHoacO0mQ5ulN2UlNsvbgcv+Jbj1wxL4t8vuOHzcKRk4GT2bpYHe8Rn/8j7Llcl3+Ij9GaoJJfT9kbuXa6ihTC7w4fTfy6zmiJXIdq3bZ3wHTQVxsEn0VbBz1tiJ6ZCYHpH3pBBEDjavCY4jNQgLs8QywWYASLocfiMJBvgUM9RuBDgDJYziErWFmdVdufPHXqo73GI4xv5S4AlSIGDyPkVWi7/JVPJP1cGwAXP2vpbl3OaQOyxYzFPfoeyOoCG8Xwi91pdfPF3e1VG34f7WUEyfJp70/ETiuiUWbhQQIJWYgRM5ybJNZfw/prYWcGRokEiNpA==;Cezl2yxk9TmtrRqr/wbYsA=="
+secured: "TwWjv5Fy9iO3PzbXgdhTGeg2cE4ke3PJn+FAatiuVDMkQeih5QNxKyoEHxuxp+AdbkS/DL7zgU3luIQV4n646SnWl3W8v1tthrSELa7v91m4yUHE2Y4tBYhnhXq1iEywNaA3SOF3YRR39or9xlGCLiv/zU27jO4FgbIoSov9ZuNgWIgOzrgm2W7EiW7eIKHRmYBbqfT99aO9HELf3JAAnmXtA4oe9YpD3NcHnNfyaax/MqURh762ZKaIsemLS9UyfwXiogE443P8Iryu1D+Bmmd8GiNQRA1ez8NFWWwzJQaP8HeRxhu5BQEAJrdVqvqlnXYrMIXcYIXoIiSPfwi+jw==;ezSsw4gQVMomoNT1w9fY3A=="
 ---
 

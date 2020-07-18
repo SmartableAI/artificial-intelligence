@@ -289,6 +289,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.tvtechnology.com/opinion/deep-learning-in-the-media-supply-chain</loc>
+    <lastmod>2020-07-16T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/</loc>
     <lastmod>2020-07-16T04:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -403,12 +409,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/</loc>
-    <lastmod>2020-07-15T11:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/</loc>
     <lastmod>2020-07-15T11:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -457,7 +457,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu</loc>
+    <loc>https://www.techradar.com/in/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu</loc>
     <lastmod>2020-07-15T08:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -655,7 +655,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -811,6 +811,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-technology-industry-2020-07-14</loc>
+    <lastmod>2020-07-14T00:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776</loc>
     <lastmod>2020-07-13T21:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -825,12 +831,6 @@
   <url>
     <loc>https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/</loc>
     <lastmod>2020-07-13T20:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y</loc>
-    <lastmod>2020-07-13T19:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1195,7 +1195,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=2&amp;itm_content=4x6&amp;itm_term=2443861</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

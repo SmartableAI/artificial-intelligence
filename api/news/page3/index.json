@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
+      "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
+      "excerpt": "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "publishedDateTime": "2020-07-16T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe.md",
       "title": "UK’s Drover raises $26M for to take its car subscription marketplace to Europe",
       "excerpt": "The future of transportation is in a moment of flux, and that continues to provide opportunities for startups to build solutions provide new ways for us to get from A to B. In the latest development,",
@@ -826,47 +867,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-a-new-rx-ai-for-operations-in-health-care.md",
-      "title": "A new Rx: AI for operations in health care",
-      "excerpt": "We may think of artificial intelligence (AI) in health care in terms of scientific advances, such as a cure for cancer or a science-fiction tricorder-like device. But in the real world, AI is making its initial impact in workflow and administrative tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/07/PhilipsAICoverforWeb.jpg",
-          "width": 1500,
-          "height": 1123,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
-      "publishedDateTime": "2020-07-15T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

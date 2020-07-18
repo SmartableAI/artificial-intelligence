@@ -8,8 +8,8 @@ ampWebUrl: "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence arrives to health care"
-    excerpt: "Artificial intelligence might evoke ideas of self-driving cars, algorithms beating the best players in chess, or a dystopic future of autonomous robots making us obsolete. Only recently, Google’s AlphaGo beat the best player in the game of Go ..."
-    publishedDateTime: 2020-07-13T09:44:00Z
-    webUrl: "https://spectator.sme.sk/c/22404205/the-arrival-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: SME
-      domain: spectator.sme.sk
-    quality: 43
-    images:
-      - url: "https://m.smedata.sk/api-media/media/image/spectator/8/62/6288268/6288268_1200x.jpeg?rev=3"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "GAVS Technologies Joins with Cherwell to Offer Artificial Intelligence for IT Operations"
     excerpt: "PRINCETON, NJ / ACCESSWIRE / July 13, 2020 / GAVS Technologies (GAVS) and Cherwell Software, a global leader in service management, have entered into a Technology Alliance Partnership, to deliver ZIF (Zero Incident Framework™),"
     publishedDateTime: 2020-07-14T03:00:00Z

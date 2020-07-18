@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-14T02:02:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Impact Review: What to Expect AI in Hardware Industry in 2020? | Know the Challenges and Trend Analysis"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content."
-    publishedDateTime: 2020-07-13T10:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-what-to-expect-ai-in-hardware-industry-in-2020-know-the-challenges-and-trend-analysis-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

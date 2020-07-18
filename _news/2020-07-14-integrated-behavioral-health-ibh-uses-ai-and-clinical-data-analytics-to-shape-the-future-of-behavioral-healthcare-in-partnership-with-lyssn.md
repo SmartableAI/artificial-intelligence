@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Integrated Behavioral Health (IBH) Uses AI and Clinical Data Analytics to Shape the Future of Behavioral Healthcare in Partnership with Lyssn"
-excerpt: "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services,"
+excerpt: "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services, announced the launch of its new Provider Clinical Data Analytics technology platform that uses artificial intelligence (AI) and machine learning to improve the quality and outcomes of talk therapy counseling."
 publishedDateTime: 2020-07-14T16:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn-301092304.html"
+webUrl: "https://apnews.com/PR Newswire/a1d3f7d5e51e8b91f694ebb58a8532a4"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1213206/Integrated_Behavioral_Health.jpg?p=facebook"
-    width: 1114
-    height: 583
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 627
         isCached: true
 
-secured: "iuclYt+wyNHjah4uaUktvG+tArJipUOjF/7VahPwei1U45peE8Ko/xJ14UImDtxZ6/Xb0kGt3sXdA0E/+Ut5eBFVxltNAKOW+lmdP3Fq20HCEBfF+buu4vKF2Qa+kBXxPkDONI4rWiqzDrcMeWuCRMa2wCcOaVBW3ZSkf2i+t7D4fPs0ULl+CY5x9auhfWRML6BQevYSdm4Uqms6mFzO5PeHg1QEyCUO4AnaWl74r9OMO8Vq83HQpmKzYJOu9d6ursgZnMrQRk/B+bxmfHpU4DDREJJDygeeml8ufbrBeWe4VA3ncwrYJ8KPxhtk1fJtjRFGcNuBSQvq+XCJt9BpRiBeL+kWWwvxcH0YakvybP4J5u7x8etsLmyRljzggTAi4RHLtAipaFJCNB1Bek3P/qV7gE9iqTuXALmRPbmjKftZAKsw3dZVSP2WudJxgkYm1uwwno5kCiatYX+6hbWQ2pIw+gaBbn3aS8UIF30ZQjGN7q3r0MKdgCBtgG+QJCK/LZV1VkGr1FV8dp7a2qCV3A==;OyovQ0M1EwFZ9UW2AOBtQw=="
+secured: "Q1v1l6H/UmWu0jqoC4PuTVo8/yyRVuyGvmU8x92KvTK7pVaAUwRQSRw2c8WFFrSyliqpJt+iaiD4MKOsGKlDnOc0K2W/muz9anywWYw92AvUjo/bhD5bXBKOcDeUV2UC0Zx5yXAbboHK8HFVIWZJdzYhAHddNWEwTuinkF1bjOs3u4TJ6sUuxbyYKI+QPTPldTapMKOoDCALqd0otaMd0Ohu7Aa2ygUlEvzn0YXyrFLjuSGzMvrUDp9QaUAvOkXs0nZvKXoK1/Gjo0lT7lECag5L7OI82dkUnpkDlKM7UOoyVjQIk8vC6RmYduG3ZWsW2j8LO9tbEU5LNTQvWsj9gQ==;AjFu4Ah1bbvyQGhTHwQchA=="
 ---
 

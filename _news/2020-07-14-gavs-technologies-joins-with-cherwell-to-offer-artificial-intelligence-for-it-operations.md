@@ -39,20 +39,6 @@ related:
         width: 1500
         height: 1123
         isCached: true
-  - title: "How artificial intelligence arrives to health care"
-    excerpt: "Artificial intelligence might evoke ideas of self-driving cars, algorithms beating the best players in chess, or a dystopic future of autonomous robots making us obsolete. Only recently, Google’s AlphaGo beat the best player in the game of Go ..."
-    publishedDateTime: 2020-07-13T09:44:00Z
-    webUrl: "https://spectator.sme.sk/c/22404205/the-arrival-of-artificial-intelligence.html"
-    type: article
-    provider:
-      name: SME
-      domain: spectator.sme.sk
-    quality: 43
-    images:
-      - url: "https://m.smedata.sk/api-media/media/image/spectator/8/62/6288268/6288268_1200x.jpeg?rev=3"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "sIQ2GmUQmsbWpE0leVApn3lDsVh64HR3IZu+lbm5PxWx9sQmPARBUH3n6zK73Era+klOvnndOp+n/JdNnpl/41HkJy9H7hamuu54Wp81IU6NhpZlkSVIk+Obv72G8iuBrAPMFTJFu+x4nhCPDAWzB3/kONkWPVvlxuUX+QG0/W/OQXo49dHE1xtZ+kwWhqSZa69/odLQRBKY+1qThRw10o6gKJO5r32oopJhfkpz2MyfwUFRwJ/u56hKQwUFpIkgaae4qBvpzDOn9bWg6xKSTbyBzQ++ADPKEd7zdi+NwPgNaoC+Q3q5kwwioRWbmJjV9G/k0ov/dSLwgWIvsBJhPg==;EAAxE91IHGKFT73ER802Vg=="
 ---

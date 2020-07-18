@@ -28,8 +28,8 @@ images:
 related:
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
-    publishedDateTime: 2020-07-18T00:41:00Z
-    webUrl: "https://www.salon.com/2020/07/17/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software"
+    publishedDateTime: 2020-07-18T02:54:00Z
+    webUrl: "https://www.salon.com/2020/07/17/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
     type: article
     provider:
       name: Salon

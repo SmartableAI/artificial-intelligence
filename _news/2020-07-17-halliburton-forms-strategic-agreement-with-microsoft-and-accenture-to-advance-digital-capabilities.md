@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
-excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."
+excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreeme"
 publishedDateTime: 2020-07-17T12:00:00Z
-webUrl: "https://apnews.com/b467a34562484b769bb04a71ab986f65"
+webUrl: "https://www.businesswire.com/news/home/20200717005090/en/Halliburton-Forms-Strategic-Agreement-Microsoft-Accenture-Advance"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200717005090/en/806195/23/4494504_HAL_RGB.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -103,6 +103,6 @@ related:
       domain: worldoil.com
     quality: 13
 
-secured: "efNIwHDugeTOgcQQdskqXhgau4JEJVr2NKBZKMJ1CIZtQZmMVDzcSNmZUbVo9ZTsy0YHBzq/oS0uvbMg4qIYe7M4omzq7ROsRf3LL0+tIZvmzfRl5m7SJss09yZD0EvY+car8b1FWoWsOZ99tXLXu/Lv4d4Cb9yC37UBisOZwLwEkuRURZCNcobj+A2KQqYgwqI0hgD3F7PJ3DiTpoRvUoItTW6kv8eVCPwUbueVWrXbqbHSOXe6X8KVrJGPt57vem2CLf75Aj4+sfJQN/LgXpJlOhFjCM4r1XSFmnrSBzWOEVjRfVnL/MWqd//XrDvuyitbbDQiu1pUC67nUieYNw==;cHxKvDyaano75BM7QgJDVw=="
+secured: "gijSM7e4DeEFRNFFbd0z7kdAw7z4HHI6+QLxeBJ29PmbzWIdRwQEgsPq7wTcMaxdFaSLwH3vJCo1CNIUvGHSeEdNlpROJomdCWn2q7czcCoxpbMSjPBr408qhCE7Qm2a6QrbjpU3Xl4KFq328LOmZhGYh4kfE1aWkqeB/vUkJFK/xoWGAflmpTtOA3McbG38N1XPL25mUsmL7UmhY6z2F/hRWt8+s5pj+braNnosbtJNp6oC+BhyTF3mafvaA3lfPzPYxGb+z5QflGEynSow4kSo1j5gEKefVRfc9yxV9RskEhmnW/2KhBMnk13ny1qy53CIoVpUJ0rCEFxGsbgYig==;LV4ODueRLXwkmYf2iGf/cg=="
 ---
 

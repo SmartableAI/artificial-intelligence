@@ -143,47 +143,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-a-new-rx-ai-for-operations-in-health-care.md",
-      "title": "A new Rx: AI for operations in health care",
-      "excerpt": "We may think of artificial intelligence (AI) in health care in terms of scientific advances, such as a cure for cancer or a science-fiction tricorder-like device. But in the real world, AI is making its initial impact in workflow and administrative tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/07/PhilipsAICoverforWeb.jpg",
-          "width": 1500,
-          "height": 1123,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/07/15/1004743/a-new-rx-ai-for-operations-in-health-care/amp/",
-      "publishedDateTime": "2020-07-15T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-14-the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period.md",
       "title": "The Market Growth for Artificial Intelligence (AI) Chip is Expected to Surge During the Forecast Period",
       "excerpt": "Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and",
@@ -1352,6 +1311,48 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-artificial-intelligence-positioned-to-be-a-game-changer.md",
+      "title": "Artificial intelligence positioned to be a game-changer",
+      "excerpt": "As we first reported last fall, the technology is so promising that IBM has staked its 106-year-old reputation on its version of artificial intelligence called Watson -- one of the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/07/4c200094-7e27-4334-8024-4d671b1d0625/thumbnail/1200x630/920095fe5576a423e4eb2cfdd3e5124e/ai-main.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial intelligence positioned to be a game-changer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
+      "publishedDateTime": "2020-06-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI",
         "AI in Healthcare"
       ]

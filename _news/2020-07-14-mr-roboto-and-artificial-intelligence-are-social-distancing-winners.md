@@ -3,7 +3,7 @@ category: news
 title: "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners"
 excerpt: "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing"
 publishedDateTime: 2020-07-14T18:28:00Z
-webUrl: "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14"
+webUrl: "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing"
 ampWebUrl: "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 360
         isCached: true
 
-secured: "8BKa779c//v6i7ZwTVx7CBQjRk82ZiN6sWuyA6tkGIvI2BPWXBFp6Uac4aVVzCXjohgmXexi2zJkaO/LK8vzULKAHQmszMmt3COQrSVNRe5e2nicxzo8LoN5DJtu8/CuvMXiiQLmmnlHpJcQpS3n7gHCPn/ot1m4vR1Bx2kpqUIcqwi8PZTE9l88/RqQDCaHrXzDOvYxcCGgW+RZEhSVJaM5xjYwANzAHoXgYVyJlpoPlt0BDR1E4giyJdNiIBYwTSGiWf2sNDrVW9g0KEfquqmQM9ZhwzP3x7AgwCfR/AwN9U5lI0fBZG2UY0v3Xvqpvw2mKijPHNi9LJkAoiaSng==;+QmilfmVwkW4O9p7XCp3Bw=="
+secured: "fVuTqBV5qJ/wYjift0KIst5HDxMwhoEbNUQXPAWLTjyFHRYZ98bqWVj4LQcF2XnfJFT6W+zowiO/0mBDJP8vOJQL1mtj20Ssn+MiFKmjBouK7l0QH8g5iY2iXH7qxgT4d5ZWGuMC+ZjmhMmR8nbxSP1ad2bj09CrC9bjJupYG0f4NE4UaT4/s3dltScBdfrj8zW2VsALVQwnIXUkFcEORI+lwX9sZ6xESBZODJ3CV/RUwfwFt+WwNnjnr1NyLCG9lYqmpXdOe3vROSKfyprmkEWFStiHr1Bak9k4KZGe5US2N38AFyoGRRCqxjuQLYrZFr2TGHFdOSzr7KJUQU9Nmg==;Hvesbv5Z3lX0yceleFdWug=="
 ---
 
