@@ -56,22 +56,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Paige, the computational pathology startup targeting cancer, closes a Series B at $70M"
-    excerpt: "Paige, the startup that spun out of the Memorial Sloan Kettering Cancer Center and launched in 2018 to help advance cancer research and care by applying AI to better understand cancer pathology, is today announcing a milestone in its growth story: it has raised a further $20 million from Goldman"
-    publishedDateTime: 2020-07-14T03:25:00Z
-    webUrl: "https://techcrunch.com/2020/07/13/paige-the-computational-pathology-startup-targeting-cancer-closes-series-b-at-70m/"
-    ampWebUrl: "https://techcrunch.com/2020/07/13/paige-the-computational-pathology-startup-targeting-cancer-closes-series-b-at-70m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/13/paige-the-computational-pathology-startup-targeting-cancer-closes-series-b-at-70m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 79
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/09/8696879946_c47d0f98fa_o.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world’s first autonomous AI service"
     excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world’s first fully autonomous AI service. As part of the launch,"
     publishedDateTime: 2020-07-14T13:00:00Z

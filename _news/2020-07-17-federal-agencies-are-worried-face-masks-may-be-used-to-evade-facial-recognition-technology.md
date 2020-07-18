@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
-    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
-    publishedDateTime: 2020-07-14T03:32:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
+  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
+    excerpt: "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ..."
+    publishedDateTime: 2020-07-17T22:30:00Z
+    webUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
+    ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 66
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 51
     images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png"
+        width: 800
+        height: 430
         isCached: true
   - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
     excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
@@ -57,6 +57,34 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
+    excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
+    publishedDateTime: 2020-07-18T02:54:00Z
+    webUrl: "https://www.salon.com/2020/07/17/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 31
+    images:
+      - url: "https://media.salon.com/2020/07/masks-protest-nyc-0717201.jpg"
+        width: 846
+        height: 571
+        isCached: true
+  - title: "Homeland Security Worries Covid-19 Masks Are Breaking Facial Recognition, Leaked Document Shows"
+    excerpt: "The rapid global spread and persistent threat of the coronavirus has presented an obvious roadblock to facial recognition’s similar global expansion. Suddenly everyone is covering their faces."
+    publishedDateTime: 2020-07-16T19:15:00Z
+    webUrl: "https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 27
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/blue-leaks-face-mask.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720"
+        width: 1440
+        height: 720
         isCached: true
 
 secured: "5eCcSkOx/fnN6wMBXIlUrIg/uZ+8iAgHKRVljSMxqoea6oBZo+qf3UlChc4Cgns8wje7P0xw1V8gUoGiuwKyXNG73K8WowiVCWYeO3tF7Kur3EaCY1OVxzkuqC7lm7g8mQ3M37Bn77T9PDYLXIYpVSK3I5sLujxJGSc7qkajBIuarJ3Sz8fIrAKjYd8/aJkfa9t/HHpvpYnoObH+48dD6IHbeiEogPUkuE5Y3OeM2hvaj5ayrIde+ZNQ05EScae8GX16yAeXKkhuRa2vyFirIcagMWPrf9218LKwQERSQaBfn8vKuFBjQEpp0UnEiQNjOs/HX2yMLMhcdXExCKtPVQFotLpyhXLGsQ4dprrMXevFMHi8HbxLuXhLYDyvAYXjgCU5LKdGmPlkdiLY4OYjJPd/WYk0OyPzIDlnTNvGHOzMEzqdBwN1f72+nwSf+/pgFRD3Qtk3C2EIYukuqRkj0uD6Qe8VgNIk8+Xi13MPcFJ3zYVYYIDG2mc1WMmzj5OnpKdLzV0CHHrnyDqxJyrhGA==;7zL+lgDSSASSfIvIy/Kxlg=="

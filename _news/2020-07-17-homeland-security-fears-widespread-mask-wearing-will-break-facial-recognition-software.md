@@ -8,7 +8,7 @@ ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
 type: article
 quality: 51
-heat: 71
+heat: 91
 published: true
 
 provider:
@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
+    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
+    publishedDateTime: 2020-07-17T22:58:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 49
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
+    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
+    publishedDateTime: 2020-07-18T02:17:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
     publishedDateTime: 2020-07-18T02:54:00Z

@@ -373,6 +373,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043</loc>
+    <lastmod>2020-07-15T16:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/</loc>
     <lastmod>2020-07-15T14:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -703,7 +709,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1261,7 +1267,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=12&amp;itm_content=1x7&amp;itm_term=2376504</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

@@ -553,6 +553,46 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-syniti-acquires-innovative-startup-virtyx-furthering-synitis-ai-cloud-native-offering.md",
+      "title": "Syniti Acquires Innovative Startup Virtyx Furthering Syniti's AI, Cloud-Native Offering",
+      "excerpt": "Syniti, a global data solution provider, today announced the acquisition of Virtyx Technologies, Inc., an innovative start-up that provides end-to-end AI-powered automatic monitoring and analytics for data transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043",
+      "publishedDateTime": "2020-07-15T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
       "title": "The right data: Transform’s panel of experts weigh in",
       "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
@@ -1147,56 +1187,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-baidu-tops-chinas-ai-public-cloud-services-market-report.md",
-      "title": "Baidu Tops China's AI Public Cloud Services Market: Report",
-      "excerpt": "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "publishedDateTime": "2020-07-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
