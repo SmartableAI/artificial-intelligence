@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-l
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
 type: article
 quality: 72
-heat: 92
+heat: 112
 published: true
 
 provider:
@@ -41,10 +41,38 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "Level 5 fully self-driving cars not due anytime soon"
+    excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
+    publishedDateTime: 2020-07-15T09:52:00Z
+    webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
+        width: 424
+        height: 282
+        isCached: true
   - title: "Automakers race to next level of not quite self-driving cars"
     excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
     publishedDateTime: 2020-07-16T13:19:00Z
     webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-not-quite-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Automakers race to next level of self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-17T08:30:00Z
+    webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-self-driving-cars"
     type: article
     provider:
       name: Automotive News

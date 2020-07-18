@@ -3,7 +3,7 @@ category: news
 title: "Facebook A.I. could fix one of the most annoying problems in video chat apps"
 excerpt: "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously."
 publishedDateTime: 2020-07-10T13:08:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=2&itm_content=4x6&itm_term=2443861"
+webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 type: article
@@ -20,6 +20,6 @@ topics:
   - Facebook AI
   - AI
 
-secured: "a0KE69ajtLbuGE/hA0KALorTQEuhNWCWNjiC7H8j9KbnDFkaQyjEzTxYwzXVxr/HY1uZz0+rakVSYc+/2CRnjocqKICfapZYQUG/sOX5Ywf3dbPyns+q6QcVJos+zAh4wDRlUVXtqknLbqwdNcjPE8HwxIo8SYiyfaqf0GfYWeqYhN4kp3TzDO0JWF/EayOrtpcKhuq1kp7Kc+TuOzxxcEt/ycflqMlrmYajC22l9sDtV+1aWSpDGlSwvOb2NrYse3Gs12EZP1ZqQxJR6cHDKc7oDc+HEr6yt66Ju0+pr9EXyoMWTQAdxDRmnVsy4Jc36MRwzorbWZckxm5IIFoKZdEO4Wh+ppbe3j24JvDgMo4Rg8OAiGZdHOTer7+OAxUI/804mxpa6ozOqYgEuUpFQjPVrF4q0QXhR8MvDxbJ3OsVAPV0Q1MKOejoQnqVr6bMJAlN/rZgjl+PtbJfJuh1WM1mY2UYQVew7BhGEhvEyuJmLPLXen7P86gRAQevFQg2;G+LL9baeFLEcSCMBdNNJbw=="
+secured: "bIHcAOH4lUCm23pPc9EdFGSOgtmTyJ73zqOcbPTUMLZTBg30TAp4+JR+X+Wu3EFDvOWiJcBkCMRoxndLAWedpzfePaq6ljIuYZxJ9rQwJW03l9RoJQ96265PspcNR9S3veCNAGm/dplNgJyfpOwX214G5zgeCTViHGgz26MQvMPBlqorL4YbqPm/mbvaE6fF8Rq+7jBrnmp3A7i+6dzLNsbBpo5RLqlXGc7RpqgRrzA+DY/exoMe+NqospZPrcugYMb901dkrqapLSUjJGTMEfoVrPTXqsdP7EZrEhUM3OTXehb/P/wOTMfDSJW0NmQ4Tm033A6c8k5sYLSOQhvW32b+PgFSRIT2TMLBou4AhBjJ56Mnh/JJyOCmIKMfW+XCkUyeYsFm9IxxYv5bLl9sp4YznmJrHrTWIqS3/G9gdJxtJLHjrCqMNkjRzm7es2wj3jHvSU5WTcYcPzP/XRVNfFBbmtJtsbzF3fwHxENoOhBC4Vmv36BwuSO9Tx0d6L/w41E5amPQEhfSdirFLI8E8A==;l+iWy00uQdJ+CnqqS4k4rw=="
 ---
 

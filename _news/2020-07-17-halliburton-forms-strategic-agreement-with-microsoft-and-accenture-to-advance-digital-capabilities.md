@@ -79,20 +79,6 @@ related:
         width: 571
         height: 300
         isCached: true
-  - title: "IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities"
-    excerpt: "IBM's aim with the acquisition of the Brazil-based company is to advance its AI-infused automation capabilities, spanning business processes to IT operations. According to IBM, in today's digital era, companies are looking for new ways to create new ..."
-    publishedDateTime: 2020-07-13T12:10:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-to-Acquire-WDG-Automation-to-Advance-AI-Infused-Automation-Capabilities-141754.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 35
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
     excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
     publishedDateTime: 2020-07-17T15:51:00Z
@@ -103,6 +89,6 @@ related:
       domain: worldoil.com
     quality: 13
 
-secured: "gijSM7e4DeEFRNFFbd0z7kdAw7z4HHI6+QLxeBJ29PmbzWIdRwQEgsPq7wTcMaxdFaSLwH3vJCo1CNIUvGHSeEdNlpROJomdCWn2q7czcCoxpbMSjPBr408qhCE7Qm2a6QrbjpU3Xl4KFq328LOmZhGYh4kfE1aWkqeB/vUkJFK/xoWGAflmpTtOA3McbG38N1XPL25mUsmL7UmhY6z2F/hRWt8+s5pj+braNnosbtJNp6oC+BhyTF3mafvaA3lfPzPYxGb+z5QflGEynSow4kSo1j5gEKefVRfc9yxV9RskEhmnW/2KhBMnk13ny1qy53CIoVpUJ0rCEFxGsbgYig==;LV4ODueRLXwkmYf2iGf/cg=="
+secured: "RkfKPPHVLgQ+MVL8NdW778EuK+RuCqqGlN82FRBG7FpQfNxzGWGBxxQ+jWVBCNuho0JVVdIHXTObvmyp4dBPysfnOwqldXLhfFn0eRqwvDq9Zf1X1P6ulLEUi8U26ETT+hqUsw9uIMc7VBEe7rTXDvZey0b/9fgMAnAKLoGT2UaagKDJ8NxqqWWiBDpuDmd8GpozzT9IRr9nnKRA5XOYYfMPu+ecsZKoJ+eMOfhg8dnGvn+Ko0E/PiEhutsN9nGpCmT9NCSSyTdRx43WEBh1/xHqjxBQY5MD6M3p+SLskeTdu6e36lK+R+xB4Hgb0aa63FkoGj7jgjbm8BjraSfGWMOYBZi7o2yJ/tIY4Uy2fG+UhdeSx0jaYVFxa+4S+CefjPgaMtxJnj8UyahvoRRUnRTI8XufbKRnsHQVPuDUV1hTt7dZ3t3DLOaSolklB7mM1zO3avJemak7eVqWKZQ93jOQDafb1e7xCLfzU1hu9KHo4wp68xEHSyNkpo7/NKotqPyfc6Jn88aMFY1A9pZxLA==;E+0PK6c6gBMD06/Vd4bZTg=="
 ---
 

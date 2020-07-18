@@ -157,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/</loc>
+    <lastmod>2020-07-16T21:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/watch-an-ai-edit-my-skate-video/</loc>
     <lastmod>2020-07-16T18:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -201,12 +207,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/16/twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation/</loc>
     <lastmod>2020-07-16T12:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://pulse2.com/untether-ai-7-million-funding/</loc>
-    <lastmod>2020-07-16T11:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -457,7 +457,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.techradar.com/in/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu</loc>
+    <loc>https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu</loc>
     <lastmod>2020-07-15T08:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -835,6 +835,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/</loc>
+    <lastmod>2020-07-13T20:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/</loc>
     <lastmod>2020-07-13T16:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -891,6 +897,12 @@
   <url>
     <loc>https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/</loc>
     <lastmod>2020-07-13T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/verizon-taps-google-cloud-for-contact-center-ai/</loc>
+    <lastmod>2020-07-13T09:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -999,6 +1011,12 @@
   <url>
     <loc>https://www.vice.com/en_au/article/n7w3gm/automoblow-self-driving-tesla-autopilot</loc>
     <lastmod>2020-07-12T23:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sify.com/movies/google-machine-translation-helping-disseminate-covid-19-info-news-bollywood-uhmf5Cgddbfii.html</loc>
+    <lastmod>2020-07-12T17:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1195,7 +1213,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=2&amp;itm_content=4x6&amp;itm_term=2443861</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2781,6 +2799,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/how-to-use-the-new-ai-driven-nextcloud-inbox/</loc>
     <lastmod>2020-07-01T08:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/lowering-dementia-risk-and-slowing-progression-of-disease-the-role-of-cognitive-reserve-and-cognitive-training/578DAA75348E9DCBBD14CAD631A1FD22</loc>
+    <lastmod>2020-07-01T07:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

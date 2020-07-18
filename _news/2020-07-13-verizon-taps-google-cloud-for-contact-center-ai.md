@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/verizon-taps-google-cloud-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-taps-google-cloud-for-contact-center-ai/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Google signs up Verizon for its AI-powered contact center services"
-    excerpt: "“Instead of telling people, ‘well, ‘here’s our natural language processing tools, here is speech recognition, here is text-to-speech and speech-to-text — and why don’t you just write a ..."
-    publishedDateTime: 2020-07-13T12:04:00Z
-    webUrl: "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/"
-    ampWebUrl: "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1184345208.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "IrRTybB4kKsc/Cby8PzSIOYxfAzaw60NBUfJrbelcW6v3fTt0UakimHlH/pQQHCod5pFXPwmKirHGeHtZ+aEcH4jn87S5HSsqQOQhO0l31M+elQlTIZUz4e718JoJxdLoumCJ7b74zAIeiFqHNuplidKj7OoOqkJYHF8yoJtWgl3M4/KuwZStFQMHaVa9K2WUKK7TTSSy0x5+fO5vr4cQngRQIi93WPFFHK+cDGndmOba6N7Jy24fClmW8KrKhRJwBAuKNIVcWTt4bnctXuPXlPGvfLea0DpI97bDv0NH6V31RVNok79qcKYmnHypLRKIFvJZBePrP0UOYRk1QqvuQ==;KrnkVoO/LYUjCV6N5itQwQ=="
 ---

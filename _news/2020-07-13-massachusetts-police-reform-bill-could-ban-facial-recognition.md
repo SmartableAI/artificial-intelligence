@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
-    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
-    publishedDateTime: 2020-07-13T11:49:00Z
-    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
-    ampWebUrl: "https://amp.abc.net.au/article/12451554"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 66
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
-        width: 750
-        height: 420
-        isCached: true
   - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
     excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
     publishedDateTime: 2020-07-14T03:32:00Z
@@ -89,48 +73,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Dimond: The double-edged sword of facial recognition technology"
-    excerpt: "On the television crime drama “FBI,” Special Agent Jubal Valentine brusquely orders an underling to run a photograph through facial recognition to identify a suspect. Boom! After a rocket-speed search,"
-    publishedDateTime: 2020-07-14T04:00:00Z
-    webUrl: "https://www.winchesterstar.com/winchester_star/dimond-the-double-edged-sword-of-facial-recognition-technology/article_6bef52ea-1d0a-5cb1-abde-8260c2554833.html"
-    type: article
-    provider:
-      name: Winchester Star
-      domain: winchesterstar.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/winchesterstar.com/content/tncms/custom/image/b90e1064-655d-11e6-b66e-837339c5a247.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
-    excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
-    publishedDateTime: 2020-07-13T19:54:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200713005643/en/Face-Masks-Coronavirus-Match-pdActive-Facial-Recognition"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 35
-    images:
-      - url: "https://mms.businesswire.com/media/20200713005643/en/805051/23/pdactiveLogo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
-    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
-    publishedDateTime: 2020-07-14T02:40:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 12
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
-        width: 926
-        height: 569
         isCached: true
 
 secured: "IIdbvTr6lBaIy3wrW/y/i3poLMpazOL5LhV8T3NzdaFClDCyADS8o/yvGOQXtcE/eUK8TQrdA/eIYQm2WDPiHemBkUhzaNucI4ZrmxMdQAdCQVqCtvkyUqCXp8bRaDxLrraRRVpNbZXta9x6WPQAc4x9r6/fWHUM0mz9P8kRK3aYF8U9Vlg7uJJHJehjGmfquFAsHnF5tw75UJD4Opm4TcbCMHo5Z3/KfBXl/sQTSYuccFiDpfjnP2YSfWWjh3RiFvEPO94asWCuVmRdNJQnWkTWg4vr1Dciua60F6uJ5XD7dPGwtF4xUHkLVbUvfjZmpUnWl7Ex4dsbREytQRZFRLCZshA/jAGnEcPimQxn/Ln3qriD7pf9i4GSMij0bN5LDMXbJCWrBaA8Xzpebe7Dc7Rqt4VE+uyjgiAPfsT2V1CpD8cIGTRlSSvzWahSd/MDZSpRxDtPALX4GEStwbbEdv9YH+csHOxMKmddiQ/hk8+82IMgIOcZfB7D9tNDHxw5;68Ja9l7rWKsVfktUHxs+3g=="

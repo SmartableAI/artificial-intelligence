@@ -55,6 +55,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Paige, the computational pathology startup targeting cancer, closes a Series B at $70M"
+    excerpt: "Paige, the startup that spun out of the Memorial Sloan Kettering Cancer Center and launched in 2018 to help advance cancer research and care by applying AI to better understand cancer pathology, is today announcing a milestone in its growth story: it has raised a further $20 million from Goldman"
+    publishedDateTime: 2020-07-14T03:25:00Z
+    webUrl: "https://techcrunch.com/2020/07/13/paige-the-computational-pathology-startup-targeting-cancer-closes-series-b-at-70m/"
+    ampWebUrl: "https://techcrunch.com/2020/07/13/paige-the-computational-pathology-startup-targeting-cancer-closes-series-b-at-70m/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/13/paige-the-computational-pathology-startup-targeting-cancer-closes-series-b-at-70m/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 79
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2016/09/8696879946_c47d0f98fa_o.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "AI Startup Deep Longevity Launches With Series A Financing and New AI System to Tackle Aging-related Diseases"
     excerpt: "Deep Longevity, a biotechnology company transforming longevity R&D through AI-discovered biomarkers of aging, came out of stealth today from Insil"
     publishedDateTime: 2020-07-14T16:00:00Z

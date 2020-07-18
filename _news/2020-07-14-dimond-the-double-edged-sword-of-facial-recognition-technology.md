@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T04:00:00Z
 webUrl: "https://www.winchesterstar.com/winchester_star/dimond-the-double-edged-sword-of-facial-recognition-technology/article_6bef52ea-1d0a-5cb1-abde-8260c2554833.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,86 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Documents reveal AFP's use of controversial facial recognition technology Clearview AI"
-    excerpt: "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ..."
-    publishedDateTime: 2020-07-13T11:49:00Z
-    webUrl: "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554"
-    ampWebUrl: "https://amp.abc.net.au/article/12451554"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 66
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2"
-        width: 750
-        height: 420
-        isCached: true
-  - title: "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI"
-    excerpt: "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial."
-    publishedDateTime: 2020-07-14T03:32:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 66
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Massachusetts Police Reform Bill Could Ban Facial Recognition"
-    excerpt: "(TNS) — Facial recognition, a controversial type of software criticized for its inaccuracies and potential to violate personal privacies, has been at the forefront of debates on surveillance throughout the country, and Massachusetts may now be poised to ..."
-    publishedDateTime: 2020-07-13T22:57:00Z
-    webUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Massachusetts-Police-Reform-Bill-Could-Ban-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/US-NEWS-MASSACHUSETTS-SENATES-OMNIBUS-POLICE-REFORM-MLV.JPG"
-        width: 950
-        height: 629
-        isCached: true
-  - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-17T22:58:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 49
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-18T02:17:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Face Masks for Coronavirus No Match for pdActive Facial Recognition Technology"
     excerpt: "Active, a leading technology company that has developed advanced artificial intelligence (AI) solutions for the retail space, announced today the la"
     publishedDateTime: 2020-07-13T19:54:00Z

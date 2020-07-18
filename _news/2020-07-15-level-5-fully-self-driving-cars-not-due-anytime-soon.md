@@ -24,67 +24,46 @@ images:
     isCached: true
 
 related:
-  - title: "The Intersection Between Self-Driving Cars and Electric Cars"
-    excerpt: "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs. Electric vehicles have limited range, and the first self ..."
-    publishedDateTime: 2020-07-13T11:05:00Z
-    webUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/"
-    ampWebUrl: "https://www.wired.com/story/intersection-self-driving-cars-electric/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp"
+  - title: "'Hands free': Automakers race to next level of not quite self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-15T10:49:00Z
+    webUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
     images:
-      - url: "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg"
-        width: 1120
-        height: 747
+      - url: "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
-  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
-    excerpt: "Progress towards more autonomous and self-driving cars is fast. Here we look at the benefits of self-driving cars and how they could make our lives and our world better."
-    publishedDateTime: 2020-07-17T04:26:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
+  - title: "FOCUS-'Hands free': Automakers race to next level of not quite self-driving cars"
+    excerpt: "\"If people don't know what they've got and how it actually operates, that's a safety issue,\" added Rosekind, who is chief safety innovation officer at self-driving startup Zoox, which is being acquired by Amazon.com IncAMZN.O. Jason Levine, head of the ..."
+    publishedDateTime: 2020-07-15T10:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1127a0b7b73b000781170e%2F0x0.jpg"
-        width: 1200
-        height: 746
-        isCached: true
-  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
-    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
-    publishedDateTime: 2020-07-16T19:51:00Z
-    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
-    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Automakers race to next level of not quite self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-16T13:19:00Z
+    webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-not-quite-self-driving-cars"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "Nvidia delves into self-driving cars with the Drive PX2"
-    excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
-    publishedDateTime: 2020-07-14T02:41:00Z
-    webUrl: "https://rappler.com/technology/nvidia-drive-px2"
-    type: article
-    provider:
-      name: Rappler
-      domain: rappler.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
-        width: 640
-        height: 426
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Automakers race to next level of self-driving cars"
     excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."

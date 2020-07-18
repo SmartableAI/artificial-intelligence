@@ -36,6 +36,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Nvidia delves into self-driving cars with the Drive PX2"
+    excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
+    publishedDateTime: 2020-07-14T02:41:00Z
+    webUrl: "https://rappler.com/technology/nvidia-drive-px2"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 24
+    images:
+      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
+        width: 640
+        height: 426
+        isCached: true
 
 secured: "LTtc4NqncnKW7ToexK8uokN40psxufcbHEHVxp3IDu15pOv7xvbU1+AnKfsmLmylI9FQNhu0s2EWuVrwDMdYmxm+ezYSi1n9JK7y6iN0qxUU36JvSX4+ZP2L6wXnuGOspmLVdS3ZVUrcS9lP86NDg+ZAUothzZYMJx5Kuj/4jZFE9lPTkiwDZ785tSCZayE3vOs2AlyTvteAA1X88l1l5QeRTBjn+G2TVhvcIBDCtAL3ymO0UI1p/3vJeSyNThE9C53XcqhlWisng60jGxHHrtDNd8xCPScE3tu6RqG7BicAo1+lvCC3wqwGTtL5Cg9jobe7Kp0BtZrf8r9e/p8k9E7ZOBu2P5ab0cX+Vpglqs8BCzVX1/0o9zHUqlC9cn2oKMCSHaEaCTOkGJlolj69ZreFgT/ebSXXT5rRXW0yy0Bz8OTlearcCtdYae/q9cMP0jGnNhlIyz2cmAB4pjCx8HCx9VVB9JL7ck3Ol+J6M3W9rBstPEoUg6H02X3+BnDWWCRhqIVQdeHLW0zw7ugdTQ==;4x+USXMUC6d+cPiGSaH6kg=="
 ---

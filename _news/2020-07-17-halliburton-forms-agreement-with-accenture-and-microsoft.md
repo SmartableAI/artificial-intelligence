@@ -65,20 +65,6 @@ related:
         width: 358
         height: 268
         isCached: true
-  - title: "IBM to Acquire WDG Automation to Advance AI-Infused Automation Capabilities"
-    excerpt: "IBM's aim with the acquisition of the Brazil-based company is to advance its AI-infused automation capabilities, spanning business processes to IT operations. According to IBM, in today's digital era, companies are looking for new ways to create new ..."
-    publishedDateTime: 2020-07-13T12:10:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/IBM-to-Acquire-WDG-Automation-to-Advance-AI-Infused-Automation-Capabilities-141754.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 35
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreeme"
     publishedDateTime: 2020-07-17T12:00:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-german
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia delves into self-driving cars with the Drive PX2"
+    excerpt: "Computer graphics card maker Nvidia is branching out to self-driving cars, introducing \"the world’s most powerful engine for in-vehicle artificial intelligence (AI)\" at the Consumer Electronics Show (CES) in Las Vegas on January 4 (January 5,"
+    publishedDateTime: 2020-07-14T02:41:00Z
+    webUrl: "https://rappler.com/technology/nvidia-drive-px2"
+    type: article
+    provider:
+      name: Rappler
+      domain: rappler.com
+    quality: 24
+    images:
+      - url: "https://assets2.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/28EDABB14AF24B20A660F4E07F8AA157/drive-px-2-20160105.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Her quest: How will self-driving cars affect everyday traffic?"
     excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
     publishedDateTime: 2020-07-16T21:36:00Z

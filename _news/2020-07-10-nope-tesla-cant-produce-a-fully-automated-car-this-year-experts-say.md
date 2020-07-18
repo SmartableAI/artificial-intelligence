@@ -19,6 +19,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-g4bflmnbi4coegebsi9036ohp2-20200710165249.Medi.jpeg"
+    width: 800
+    height: 448
+    isCached: true
+
 related:
   - title: "It’s hyberbole, Musk can’t bring out a fully automated Tesla this year, experts say"
     excerpt: "Developers are starting to realise the limits of artificial intelligence and the benefits of the human brain in handling many situations."
@@ -32,6 +38,6 @@ related:
       domain: asianage.com
     quality: 33
 
-secured: "JF1MJtr4PZ1U1/lVAjD6WAbTn7A40KJqM/5t69HHyxfPdeaBh/lrMaHIaHj9JxK+1AFfJ7YmKRnM4ON5LPSBo8s5Uqnbip/zNQ93sxkN9XEKfQ62hdsY+fb6MbyzLytIIH7R+TGj+3WawGYFx/IeebPqjQhPioYiwJhgnhuJRpzNA8B530LFYblm7NFcKIUtGyk2VR+ZyOIKKKWbENufxToZKjIx5WJ+2c7ICK8Kwzx4WWvDkgd5dt8e50poc1ILebsnddjwCYfCCyxfjuLVPulW8blR/WZFZCkpjUxJp1WjO6iqZePxoZURWBI1eabdJrK61eibbt3AEx4kDAtPoQ==;/jcqcYZbSvJ8jonw/uFmWQ=="
+secured: "iPn+7AKH+EkEE98uQaRQWFsYkcWBOYHZXXnIvcnP0KOt7q8fs/ze1QnaxrsN7qCV/X2KWqObjBztdj9dq3OOc/RcZ7WWEag2Wkr7Y8zDpCzKVo7UVpnIzgzEOJuY0HIUfsSB+K+7OeV2zb40Fl9+MARHUkcWlOPJsbhgUhJowfahMwdAWfJFpbMbEgyb34c/qFzCefWBS7/VigUjhiOuxBwzF7eOw3toQM4LI3PSuUY6Wjk0fb2KSiSVdyvs3ulR+WSY5OCKrNgp0GsbRZVyy8aNLIXNriD4O4cmQP2hXSSLJWSwoCj8TAwzRarsDDknF+BAfa7cctnWB33Bze/Rgg==;Jnm8mSVqHAl7kqkrCRYtkg=="
 ---
 

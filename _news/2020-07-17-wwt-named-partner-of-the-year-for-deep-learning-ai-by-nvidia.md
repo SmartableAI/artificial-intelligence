@@ -5,8 +5,8 @@ excerpt: "World Wide Technology (WWT) today announced that it has been selected 
 publishedDateTime: 2020-07-17T13:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg"
@@ -23,6 +24,6 @@ images:
     height: 627
     isCached: true
 
-secured: "xeZj+Iloq4sSg6bPzu43Dx62bCwJUJBkFrWHSNnF37+OVnbtdt164aXJrgt5wvosMVf8wIcW8wCECLHRO/d5rndC5DtZRBj+vkNlsqtuTtcbVs7U5j+7ORn8mE2cpPXoKirkpwOxyUBoOG77ppEzk3Vxdehvx6orCoVzS3pqVBkimqPkOVLVk8aklyB069kr0ppCQlD4olkcQfa5xebfcT5SA20pvmrrKvEgbfUacL0MBBDj4rZfobBeLTy5YiXobi+yORddGHLLuUphh+I1rnEm5sBFcnV2eBs7PYURxVvPPx1VHyyjaVse0KdfK22X4XNlVCuOGMvZrsSG4bP4JA==;JHHMd9JF1a+H87wsqfkLRw=="
+secured: "Zr1DskQ3z9NYIYSSGANCrh5G7HNbP6B+mOPRY1/QJft2A4c9YU/xMGNOgH9Nc1HvAXstuKfYIOTPMOczYSRUA7/3HmMnMp3buIxwk+lp4tVzFjifE85zBl1D8B0YakcAt9WvjXcKierq6bNqqDgYebYBNbOK2+AF0oM2ukza86MLlBRmsE8n0R8lGnp5SF6+ctmnwbrbNaARVIw8ObBLx9yjVB+JTiQ1QlAp+S/jviCCUBXWBxjUSnA7tO8EgrwKAHtBvvi8r6fUSqNxz1Kdgt4DQ0BGBuVCAuAwzUc4fbnOIVuAXDI1P7HqGdSkujPHKzQaaZt50T/PKjzmJbcBmDey1m3CK7aM8R9MN99uhuxKrLKui1FBwftsuXrHR1qph8R6FDJv5m/XmPC3U7Xl3Nn7DL+EAgnFN8b/c/2Ky5R7UxLfe2n33RQxFUkjSYxDEPId9aMHe12BPCkYIoCK9MOtFAfEVJaSSIa6ba+Yqc6dSO5hav7JxXksLf7WTsYwYqLysWfQa70uMp6uoktM3g==;Ivpvk0U6oLKVk3JFWhFKAQ=="
 ---
 
