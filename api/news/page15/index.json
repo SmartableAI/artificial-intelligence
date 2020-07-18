@@ -2,6 +2,47 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-07-aws-announces-general-availability-of-amazon-codeguru.md",
+      "title": "AWS Announces General Availability of Amazon CodeGuru",
+      "excerpt": "AWS announced the general availability of Amazon CodeGuru, a developer tool powered by machine learning. It provides intelligent recommendations for improving code quality and identifying an application's most expensive lines of code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/07/aws-amazon-codeguru-ga/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/07/aws-amazon-codeguru-ga/en/headerimage/amazon-codeguru-development-cycle-1593945352149.jpeg",
+          "width": 1024,
+          "height": 469,
+          "title": "AWS Announces General Availability of Amazon CodeGuru",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-dont-ask-if-artificial-intelligence-is-good-or-fair-ask-how-it-shifts-power.md",
       "title": "Don’t ask if artificial intelligence is good or fair, ask how it shifts power",
       "excerpt": "Law enforcement, marketers, hospitals and other bodies apply artificial intelligence (AI) to decide on matters such as who is profiled as a criminal, who is likely to buy what product at what price, who gets medical treatment and who gets hired.",
@@ -1034,55 +1075,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
-      "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
-      "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Holes-Bay-battery-energy-storage-facility-developed-by-Harmony-Energy-and-FRV-with-Tesla-Megapack-batteries.jpg?quality=82&strip=all&w=600",
-          "width": 600,
-          "height": 400,
-          "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
-      "publishedDateTime": "2020-07-06T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

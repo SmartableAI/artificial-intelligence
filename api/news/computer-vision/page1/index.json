@@ -150,7 +150,7 @@
       "webUrl": "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -451,7 +451,7 @@
       "webUrl": "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 225,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -544,6 +544,56 @@
         "AI Hardware",
         "Microsoft AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-massachusetts-senate-passes-bill-that-would-halt-police-use-of-facial-recognition.md",
+      "title": "Massachusetts Senate Passes Bill That Would Halt Police Use of Facial Recognition",
+      "excerpt": "The Massachusetts state Senate approved a bill to revise police standards that would make the state the first in the U.S. to pause law enforcement’s use of facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/massachusetts-senate-passes-bill-that-would-halt-police-use-of-facial-recognition-11594773110",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-209437/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1385,56 +1435,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-facial-recognition-software-fails-to-correctly-identify-people-96-of-the-time-detroit-police-chief-says.md",
-      "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
-      "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
-      "publishedDateTime": "2020-07-03T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

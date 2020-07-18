@@ -53,22 +53,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 84
-  - title: "Using facial recognition to curb COVID-19"
-    excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
-    publishedDateTime: 2020-07-14T00:06:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Facial recognition is tech so special it should be banned"
     excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
     publishedDateTime: 2020-07-18T10:32:00Z

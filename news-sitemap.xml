@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training</loc>
+    <lastmod>2020-07-18T09:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/</loc>
     <lastmod>2020-07-18T06:21:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -625,6 +631,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wsj.com/articles/massachusetts-senate-passes-bill-that-would-halt-police-use-of-facial-recognition-11594773110</loc>
+    <lastmod>2020-07-14T22:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/ponicode-raises-3-4-million-to-develop-ai-that-automates-code-testing/</loc>
     <lastmod>2020-07-14T21:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,7 +691,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -735,12 +747,6 @@
   <url>
     <loc>https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/</loc>
     <lastmod>2020-07-14T09:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.iflscience.com/space/ai-predicts-which-planetary-systems-will-survive-and-which-wont/</loc>
-    <lastmod>2020-07-14T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

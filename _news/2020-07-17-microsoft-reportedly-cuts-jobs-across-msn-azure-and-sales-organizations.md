@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg"
         width: 760
         height: 428
-        isCached: true
-  - title: "Microsoft is reportedly making more job cuts at MSN in favor of an AI-driven system of selecting news stories"
-    excerpt: "Staffing changes are relatively common within Microsoft around the time its new fiscal year rolls around on July 1."
-    publishedDateTime: 2020-07-13T23:52:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-msn-staff-cuts-news-algorithm-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
-    images:
-      - url: "https://i.insider.com/5f0cf14a3f737050a061e2f6?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft reportedly laying off more people from MSN in favor of AI"
     excerpt: "Just one month after letting go several contractors that worked on MSN, the news platform is reportedly laying off more humans in favor of AI. The new layoffs reportedly include some senior leaders of the Microsoft News editorial team."

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Sued For Using Image Dataset To Improve Its Facial Recognition Technology"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2020-07-15T22:04:00Z
+    webUrl: "https://lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 53
+    images:
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/11/microsoft-1024x711.jpg"
+        width: 1024
+        height: 711
+        isCached: true
   - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
     excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."
     publishedDateTime: 2020-07-15T23:17:00Z

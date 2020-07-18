@@ -2,6 +2,55 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
+      "title": "How Chase is using AI to update banking",
+      "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
+      "publishedDateTime": "2020-07-15T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
       "title": "How Intuit is moving from mobile-first to AI-first",
       "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
@@ -1030,7 +1079,7 @@
       "webUrl": "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 225,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1160,47 +1209,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-ai-enabled-robotics-are-helping-to-strengthen-recycling-processing-capabilities.md",
-      "title": "AI-enabled Robotics are Helping to Strengthen Recycling Processing Capabilities",
-      "excerpt": "Roboticists think that, “computer vision, neural networks and modular robotics can enable a more intelligent, flexible approach to recycling.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.waste360.com/automation/ai-enabled-robotics-are-helping-strengthen-recycling-processing-capabilities",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/recycling-machine.png",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

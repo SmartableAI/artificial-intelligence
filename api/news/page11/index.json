@@ -2,6 +2,56 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-09-digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning.md",
+      "title": "Digital Transformation Isn’t About ERP Anymore, It’s About Automation With Machine Learning",
+      "excerpt": "All good, for sure. But is this a sustainable role given what’s happening with machine learning? Clearly, companies will invest heavily in automaton to save money and eliminate, streamline and optimize processes. They will map and mine their business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1224178306%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
+      "publishedDateTime": "2020-07-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-10-ways-ai-is-improving-new-product-development.md",
       "title": "10 Ways AI Is Improving New Product Development",
       "excerpt": "Product Development teams the most advanced in their use of AL & ML achieve greater economies of scale, efficiency and speed gains.",
@@ -1119,55 +1169,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-garry-kasparov-on-ai-people-always-called-me-an-optimist.md",
-      "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
-      "excerpt": "Garry Kasparov is a political activist who’s written books and articles on artificial intelligence, cybersecurity and online privacy, but he’s best known for being the former World Chess Champion who took on the IBM computer known as Big Blue in the mid-1990s.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/05/img_9735.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
-      "publishedDateTime": "2020-07-08T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

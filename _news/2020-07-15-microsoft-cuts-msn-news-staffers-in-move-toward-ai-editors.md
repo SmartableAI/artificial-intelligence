@@ -8,7 +8,7 @@ ampWebUrl: "https://www.chron.com/business/amp/Microsoft-cuts-MSN-news-staffers-
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/business/amp/Microsoft-cuts-MSN-news-staffers-in-move-toward-15410497.php"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs"
-    excerpt: "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of"
-    publishedDateTime: 2020-07-13T23:23:00Z
-    webUrl: "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/"
-    ampWebUrl: "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/"
+  - title: "Microsoft jettisons dozens of full-time MSN jobs in favor of artificial intelligence"
+    excerpt: "in a move further away from human editors and toward using artificial intelligence to curate stories. The move comes six weeks after the Redmond, Washington-based technology giant told about 50 ..."
+    publishedDateTime: 2020-07-15T21:35:00Z
+    webUrl: "https://napavalleyregister.com/business/microsoft-jettisons-dozens-of-full-time-msn-jobs-in-favor-of-artificial-intelligence/article_2554af79-ad80-575e-8f80-aea29216d06d.html"
+    ampWebUrl: "https://napavalleyregister.com/business/microsoft-jettisons-dozens-of-full-time-msn-jobs-in-favor-of-artificial-intelligence/article_2554af79-ad80-575e-8f80-aea29216d06d.amp.html"
+    cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/business/microsoft-jettisons-dozens-of-full-time-msn-jobs-in-favor-of-artificial-intelligence/article_2554af79-ad80-575e-8f80-aea29216d06d.amp.html"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 173
+      name: Napa Valley Register
+      domain: napavalleyregister.com
+    quality: 50
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Milan-Italy-August-212302504-630x421.jpg"
-        width: 630
-        height: 421
+      - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/9/14/914a9075-0c89-56c1-bbea-f03522d2347d/5f0f721333951.image.jpg?resize=1024%2C681"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "IGObcG3TGMeWWbwJeQBuleZv7Z2Er/3Zo190HDVzbuAOx0HP2p1+tm+3VBhfWgrP3/jOLW5CExArvxgfwX8T/Vuopg1Kz0ZGR8/6Drz+b56sjvW5UugTw0B+Q3CAnvkB+QPLX+NwlmxVNsYMwQ2umvFtqX+UpYd32O+VheDgavg9nXlXCGJ6JlYMkWhFTxnSRHFbXoPa35pFA3TB1tl+o/x0UOkr6hu7K42/VMJC2Y1tkA7dJjFzh0+ozEoP40jstVxdsCF0JfhBtDS2sUaaXLez/CWGbBXQwd/aiyba/GFQepKeBDOtGNcV2KQhzTvzVfMwD9KUEtKyaym7gmDZL8wiht3AOy3hFt3vKa2OibgHD9EoU04m3NrqMHe4Ft2z9o4B4X2OZEXFx93Mu3LKTE9Lwt0M90Y7OJbtnRCHvi0NnsbaaqShqVcB9OnfpRYc0Hc2TfwRhX9FzwsVZtao024LhQc2YrLWeuTR0y2vlxbua92c392gI36arpn6Zlv3pHrAegsA6Z5PHpLOrIRslA==;dDmYJLl0Dl5rfsxBq9dOPg=="

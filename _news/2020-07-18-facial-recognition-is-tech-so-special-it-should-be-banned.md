@@ -69,22 +69,6 @@ related:
         width: 1119
         height: 630
         isCached: true
-  - title: "Using facial recognition to curb COVID-19"
-    excerpt: "Japanese electronics company NEC is trying to prevent the spread of the coronavirus by testing the use of facial recognition technology to reduce contact between employees. At its headquarters in ..."
-    publishedDateTime: 2020-07-14T00:06:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200713_30/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "LlifigE+iJOzqn8pWxVxYl1W+1bs5waQ98xscZ3U0dj+MB8kNXILSWGux9fYPh35Ctmbj52DbG97GaISnua+P/N42O5wQOB2A/Z4wpwaX7Vb2P7dhCUnt7wdG3SDEn0hXqv4j83+4fZCTlfbkENusBsYb9Cl+3ZCoqONsRixhjzIRwu4ONR4nNI5hTp82cwBwqr/A7DkjvBiM8atBsqan7mH5yH1wMFzOJtRDkj8gLK0TgqquxzsrhhMIuDABsd5RrWg3Tcl7Px4v9aNk6R9K6yB8Y9nyt6CT5ddiGvO86szSIbvGibiHpfyHyjPgVtttS4JSCHCV90F36IHk3uwlQ==;MGq1U9sdB9HjUxBF16GqxQ=="
 ---

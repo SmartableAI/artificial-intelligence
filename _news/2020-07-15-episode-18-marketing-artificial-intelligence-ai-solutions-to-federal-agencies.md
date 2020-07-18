@@ -5,8 +5,8 @@ excerpt: "A panel of three marketing officials discuss how their companies are t
 publishedDateTime: 2020-07-15T14:17:00Z
 webUrl: "https://federalnewsnetwork.com/market-chat/2020/07/episode-18-marketing-artificial-intelligence-ai-solutions-to-federal-agencies/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://federalnewsnetwork.com/wp-content/uploads/2017/04/gmu-logo-new.jpg"
@@ -22,6 +23,6 @@ images:
     height: 1436
     isCached: true
 
-secured: "UqKh/ZiIXCDkneDwP/3w4DYLh5t6sDD9eD5U/5WBQgAhn8jRWwxa/pgNy4jJpoWywib4Eqh08H3jDcT3bsQRDgpPBivA+gwAKhzNQ8oHwEjL0kSDTSHdcKFnWYbBCY0OOwi7YppKeQiYUbSaiw6lC5W9JdRrDqLR7Nls03XM+m5xrx6ku4DU4ckvpL7EWW6BTd/nBsf2URhqTIgPXTlcVci8v84B9jdIj1JqANAVswP/d/Two7Q1mkN/suEqlg7G5+P20Ej4Kzf3IorwRCeTPorfAL+G8j4qjX5EOh1WN0nsqImUDRKvvmkFcXlbJON45TB+wkCI6hffaPhWPrIr9w==;dhGhQIZFsvsaIKkzzj1G+Q=="
+secured: "0k++kYt0bu+jTCMeV5Cy3atLuiQ4GS3Azo17lh8YU6emIBfu0h+IAAp6iXSp7Bn26EfPIbU70mFqUhoI5xKcAJIwWQpPiM1Z96EdSvaUKU0yIfELteljemHznf+1yKGnhbnE0JcmPoHjOZ4gANvecWFZBHwY25t1aYDUGG8YW3ZA1zR3uFyTLcMcQFAmtNmYBQY1BG+Ik9ceFZbFmZMFcBiSC8XGfk/DMEZwvYVih8ZvkqQp3LBwGS7CQYFER8wrypgA7R0RirOfH/ZqAqQB0Tvv+ni75d4aZphYzrOmc3JT0B02hogshhGDldYOTXfFDIEEgY4IBi3sLjh6+lgE8nBUpsBlCBHP1ncb/Q8+T9B/QRIhx5D/HVuJAlGWadVSNptxqfdJdSTXRNMwIMHId0V7MX6LU9RlO8nQ/yZY5hA0ZBL7/MHkZsHw2TixdRN1nnqMn3lZQTRO6DRJcSBKkAMV8KT5xsGADkfFm9Iv+vNRkL0uVuMJoSp8C9ypMGxQUndioj/RT1k7GO4uVQKzQQ==;wUhVbdF9jtYOq1k+DKM/0Q=="
 ---
 

@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-18-dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training.md",
+      "title": "Dive into Microsoft Azure and Prep for Key Certifications with this Training",
+      "excerpt": "“Machine Learning in the Cloud with Azure Machine Learning” uses real data and Azure’s UI and predetermined algorithms to build understanding with Azure ML. Data Management and ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp",
+      "publishedDateTime": "2020-07-18T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality.md",
       "title": "AI needs systemic solutions to systemic bias, injustice, and inequality",
       "excerpt": "Griffin said that Hypergiant has a heuristic for its AI projects called “TOME,” for “top of mind ethics,” which they break down by use case. “With thus use case, is there a positive ...",
@@ -299,7 +340,7 @@
       "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1133,55 +1174,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire.md",
-      "title": "French AI Defense Startup Tracks Geospatial Data With New Savoir-Faire",
-      "excerpt": "Earthcube is a Paris-based startup formed to develop a new set of more complex algorithms designed to analyze and identify objects and ‘situations’ from satellite images, geospatial data or data from open sources of data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f117dadd0f077000607f3b5%2F0x0.jpg",
-          "width": 580,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/amp/",
-      "publishedDateTime": "2020-07-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
