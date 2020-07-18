@@ -8,7 +8,7 @@ ampWebUrl: "https://www.rawstory.com/2020/07/self-destruction-of-the-president-t
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/self-destruction-of-the-president-trump-stuns-observers-with-off-the-deep-end-press-conference/amp/"
 type: article
 quality: 31
-heat: 41
+heat: 31
 published: false
 
 provider:

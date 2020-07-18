@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/20
 type: article
 quality: 104
 heat: 104
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "e7j+ZcoF2DRDqmIty7Zs0gCQW5dkL/HHcusPX7EeNa4GLI+Bnq/E+7S4xOh65pbTyN3Ak8XFvxM0440RF+sgAQAUMYrxLqz/pysggmIW1uD9/+cc7u0R3lkk2lbL22yHHM6iupNsRrKPAbk3+t89a8UkfdDR8ZxQSKELc5cIpLY5AM3HWPb4jfk8G9Y+y1RVZvTNPU5VwsrhNd2PioMuTbfvOnFI45G3mlZOdvxlQFGKJq4vMDe09uHhx0/76Xzv278juPDog1HfOIdL2jSDH+aWQGI9YvAsyPsgA7Jq5FLj56+6I2Yct7fWEPJTJ4ke+A1l4CqWntq2KxU4JTTkYg==;yw9NTTS8/X0ZjxlZmqjJFA=="
+secured: "480c4qX4d9/3VBic+U3YHgZPFou7xCE57I98y25FKwwgqU63VBD7guNca2Za7S8hQ7jGtVR/Veb/RzvhDzIky3RgWxFQ2rj+VmmMNyGAVhtWS7meTALVOHFwBandjBJO8NR20sloveR4wZKBKjj8ubi1HnWsBEe9IGEV1rGC1xa+u0Q7Fg4nz/uiMV/vcXzFmMtJlMuCSoqsxfITd0f7wbU3MoJ8sZAWtKnhUR/I6FBCN7TXvRXAQ4d5Xtcn2DZ5MPj2LByMg23y+QOtxc5dY2Za7tazezlcCbtk91Ektg2Tnf1aC+O90ANly1hTtTSMB0046j3GMLzGZraYChJ0IY7UfkxJbN1Locs5iQsu2feK9zNJDid9xBRCks2OligOaOBk8lk8KQWJevJ7nday76XOUHF6Ecdh6l7P1R01b7cPSytUGvchw+doKfJrxRWyOpf5Jf0tyHbnC9ikQi+EGwhSizCohYuSUd/8iQ+1lQKwIScjDYULKDuhob3OmysQAA8fUzW7k2NlIBXU5ldSbQ==;Y01tI95xm/6dUUJp8GJgyQ=="
 ---
 

@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Farnek implements facial recognition to monitor health and attendance of employees to mitigate COVID-19 threat"
-    excerpt: "New biometric facial recognition system assesses staff body temperature via thermal imaging when employees enter Farnek offices or work sites ensuring a safe and secure working environment"
-    publishedDateTime: 2020-07-13T07:53:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Farnek_implements_facial_recognition_to_monitor_health_and_attendance_of_employees_to_mitigate_COVID19_threat-ZAWYA20200713072836/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200713072836/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200713072836/"
+  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
+    excerpt: "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ..."
+    publishedDateTime: 2020-07-17T22:30:00Z
+    webUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
+    ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 51
     images:
-      - url: "https://images.zawya.com/pr/images/2020/FFR_2020_07_13.JPG"
-        width: 450
-        height: 264
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png"
+        width: 800
+        height: 430
+        isCached: true
+  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
+    excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
+    publishedDateTime: 2020-07-18T00:41:00Z
+    webUrl: "https://www.salon.com/2020/07/17/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 31
+    images:
+      - url: "https://media.salon.com/2020/07/masks-protest-nyc-0717201.jpg"
+        width: 846
+        height: 571
         isCached: true
 
 secured: "C5eO/UiGuWBouSPBZzd7C3nee3XqqjjewJNMIaxQm2KmlJWlp7kYJqeXkMIWWalOXD5VcjL+QGzQB2DdQ7gjGGY16DWAzvtMDKOwdceORFq3Sc0aFd7Y/8YFCGtyFVK5KvK6S2BWU3u0ramP1t0f5h0NBVuGkR3FSBO+omaMqIgF2UJGn77GkvcIZ4F1EgRauKL1ObxUx5/nzMCW2LkEubQq6Ic17IsnrgnO3D3LM8gJW8aRIUSVJbh7ziNMwQhOlvx/T9UFNEpFg0jae6WFpmwPsn+2BPhAjjKEywJo52Ai8/By/+mNUppgO+tcEvaX5FTVd45VOC2UYeHIZfo1qg==;pi5Rn+JtL853s7F/GQVH3g=="

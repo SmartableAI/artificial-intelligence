@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T23:42:00Z
 webUrl: "https://mynewsla.com/business/2020/07/14/a-robot-will-make-your-white-castle-burger-say-hello-to-flippy/"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:

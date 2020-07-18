@@ -105,22 +105,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK, Australia investigate Clearview facial recognition firm"
-    excerpt: "London: Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites. Thursday’s announcement by the U ..."
-    publishedDateTime: 2020-07-13T06:04:00Z
-    webUrl: "https://www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
-    ampWebUrl: "https://www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/clearview_AI_wiki_uhngcNdeegdai.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "Office says it will complete a related investigation focusing on RCMP use of Clearview AI’s facial-recognition technology"
     publishedDateTime: 2020-07-14T16:08:00Z

@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-17T07:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/at-171-cagr-ai-in-fintech-market-size-will-reach-89849-million-usd-by-2025-2020-07-16"
 type: article
 quality: 65
-heat: 65
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -25,6 +26,33 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP"
+    excerpt: "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at"
+    publishedDateTime: 2020-07-17T16:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP"
+    excerpt: "Major growth factors for the market include customer’s demand for a personalized experience, increasing the need for inventory management and the growing influence of social media in the fashion industry."
+    publishedDateTime: 2020-07-16T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16657125/ai-in-fashion-market-growing-at-a-cagr-40-8-key-player-microsoft-ibm-google-aws-sap"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16657125"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16657125"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
 
 secured: "wsDTuTqDOekCiAeqIwJoNYV4YUbMYnvgyYlzpP7tPcqVTSkm6N/FHDGYoCCRwmRIOCcJuaMzYm5jFZ/rUdruwU6yVk8dQbPtmMm3Ye285eZiAYgnrzve6IEc9Fq7Zbs+ChaQGtkKmgose/x5mXfh5dzBtCtRpc1dCrdOuq3av+6BJ7ESMb0NihyKym6XUIpT91UVwBzUSKDsu8iPyAjhG0yi0oN9hDtYcaUocKa176VFNeGX+wmInKNI+68Fsi/Aq5hvleCtpZezAhm9xTLKVzYa6Hyo17VHMYnD2xRi++K4E6KcVXEJhJVWHtSc6raAQQDwpCikPCNP3XlT7gBpBA==;bCuGW36ZMT74ieb/CrpYKA=="
 ---

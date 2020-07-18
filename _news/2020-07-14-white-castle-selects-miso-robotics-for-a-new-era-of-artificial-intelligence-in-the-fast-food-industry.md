@@ -36,17 +36,6 @@ related:
       domain: businessinsider.com
     quality: 91
   - title: "AMP Robotics Named to Forbes AI 50"
-    excerpt: "Forbes has named AMP Robotics Corp. (“AMP”), a pioneer and leader in artificial intelligence (AI) and robotics for the recycling industry, one of America's"
-    publishedDateTime: 2020-07-13T06:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/w16600240/amp-robotics-named-to-forbes-ai-50"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16600240"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16600240"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 69
-  - title: "AMP Robotics Named to Forbes AI 50"
     excerpt: "Company recognized among rising stars of artificial intelligence for its AI-guided robots transforming the recycling industry"
     publishedDateTime: 2020-07-14T07:10:00Z
     webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-named-forbes-ai-50"

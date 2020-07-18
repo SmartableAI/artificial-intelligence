@@ -7,6 +7,7 @@ webUrl: "https://www.thedenverchannel.com/news/national/hi-tech-gyms-trading-dum
 type: article
 quality: 69
 heat: 69
+published: false
 
 provider:
   name: 7News and TheDenverChannel.com

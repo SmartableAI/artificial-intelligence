@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-fa
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
         width: 600
         height: 392
+        isCached: true
+  - title: "Facial recognition feature part of the Voters Registration Exercise"
+    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
+    publishedDateTime: 2020-07-18T00:40:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
+        width: 600
+        height: 358
         isCached: true
 
 secured: "2KsxRa4o5GgpuzviN5eSjUD6TvlXIT57gnkclNoo7sOmIJPDuviJzFZjczluxMN4vjlvLrKH00SvfNgUKungwHd6b7LzElUL5lfzDrOzr/bTTeDwK7Zxexn062NIc13DlFWprwn/F0tySrvkaiD77ShCmkVoMUJzbPftn8XtWIWywMCcDlImvRIz0iA2s4+l5Z0tyW1O/R35GKju9Z7BFvq9qV7LreoXS9wnRd7DrwvOmGciwE/rTF0kPgmMuL6ws/AOGWwopggFhnWsmfpGL9s63gv3mXS/mkKsPiVzdu+2okEC1/PFXzvU7U3Lb1lzp52IIcTpodOwXyniYD6q7A==;GAs3Py/t5KY1Zp26kXrKqg=="

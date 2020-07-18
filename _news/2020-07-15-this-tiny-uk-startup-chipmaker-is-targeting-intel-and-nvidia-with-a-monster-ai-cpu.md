@@ -56,7 +56,7 @@ related:
     provider:
       name: Network World
       domain: networkworld.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://images.idgesg.net/images/article/2020/07/ipu-machine-for-machine-intelligence-compute-100852152-medium.jpg"
         width: 300

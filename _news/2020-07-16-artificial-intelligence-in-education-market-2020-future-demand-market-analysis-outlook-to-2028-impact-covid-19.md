@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T13:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
 type: article
 quality: 30
-heat: 40
+heat: 30
 published: false
 
 provider:

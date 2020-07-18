@@ -7,6 +7,7 @@ webUrl: "https://www.prnewswire.com/news-releases/extreme-networks-schedules-fou
 type: article
 quality: 3
 heat: 3
+published: false
 
 provider:
   name: PR Newswire
@@ -22,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "OSWu7mnOSMLrU6RVkrJocAZcuNqXfIL4uiHBAA7dwsNZu3vtF99iRxWHYM61eBZz7a8GFUflCn09nREX+4fggIR2TEKl1+ZafFFtjG9juwQGuElITxfLQXcGWTb/+LtRjQPvq/nIUNti5gHQm9kk4uS0g9DO0feIEghbHJrpysN+n5VZM01gcQXXOv65qHpJJBa5St6nryYlhyKP3WfJIpCee+1ddFuIOcp1BdGffaSY5LrBPzWqClov1lnjyBwlwUZ1zJQj8Y7ntbhOhey6yXoiXJ5XBuuQaqkUKE0+gCSsy7Qk3mGo0amhQOVmEaZMetSkXZkNTkkqHQVmWzmC0g==;qXgOT+WkEvL7KLAzhZDHNw=="
+secured: "x+9vK3dgsH493KiELHX0se5GwRyQ2stFmo3vXgpMWfdCg+xNhwvLaIZbUdyHd3tT2hrtd247GnvcpfWMyAE2LaJlU/0pOv+u70u/pWIyhV+8esocJ9KG1dQYL3ffMVQGRuqSsgrSOrZyfL6vwdYXVpgEOBcy8rjQFS1jTujEL1ancj2id1d3K6XUW4D9bM9XLfu7S8g6mxP3sCqZgvljCoaUVJh8O2bKsriFzlg2dKVtoIIhZabRFRkjYzhww/QweBYCsIfWJpMAQFjb2VyX3oD7MVU5zx+i6C7bZdYBipq9UAffE6IPXm/u4yAD87ja49FY6KcVX0VsJ39m1xaYFgxjvrkcoEsObdbC2Jfz9cEyUSVeJZxVv5BgX/nuhC3E5t51UoixLgsJBcXySFAZZrFIVk+aRjGA/UzE5zxlXkOfDpVdVdq/bPR3JmjhsqZHlifl+7dpUY5EvuLCjZ13nZOt84als8X0s31MVfIjeAB7/kDNUD3sZuQWCw5vXGr2Bx0R2MkmkLrewlDvSTkqCA==;bEw4KVKFSyhfE7SnnWck7A=="
 ---
 

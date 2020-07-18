@@ -8,7 +8,8 @@ ampWebUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actua
 cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
+published: false
 
 provider:
   name: Boston.com
@@ -24,6 +25,40 @@ images:
     height: 478
     isCached: true
 
-secured: "PtLWSMwycqgu/iNA/SwQShE4BKqpt0bcvKNn+rwZE+BlkNThdY0iDNDQKnSqc9BM0hetpa+m8i7mrRtZHRBezNeBQtUX9wdFw9h0Yta1DhP3hF/xeQ9HgeSp94th4vQlI6G0QUj+HPyRZAr9PPqrSnIZQHqDTr+Nt73Jww83zTFui4lrP4l3UbEAJXW66Yru0Gz1DwCSPVUxrqjEC3RIy14D4SJvQ4Nq+EchjigDNPlR5ieNxF6IfYLjhO8szvKwIm4Q04bBRIqy9sxG62x7gQ5zD8p7uzBYr8sfOpQwX21r3k/PSGBCON/FFFSJ5cS1Y+JOYSNdw/AxGStEkIl2LA==;Wvi5Gwa3dUYbJq3IWDGcSQ=="
+related:
+  - title: "Strong AI Versus Weak AI Is Completely Misunderstood, Including For AI Self-Driving Cars"
+    excerpt: "Or, if you prefer, you can state it as weak versus strong AI (it’s okay to list them in either order). If you’ve been reading about AI in the popular press, the odds are that you’ve seen references to so-called strong AI and so-called weak AI,"
+    publishedDateTime: 2020-07-15T16:13:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 80
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1098040634%2F0x0.jpg"
+        width: 1200
+        height: 960
+        isCached: true
+  - title: "A Google Self-Driving Car Is at Fault for a Crash"
+    excerpt: "Google's self-driving car has been in an accident. The news is it's the first time one of its autonomous vehicles has been at fault."
+    publishedDateTime: 2020-07-17T04:33:00Z
+    webUrl: "https://bigthink.com/natalie-shoemaker/why-google-self-driving-car-crash-is-a-learning-experience"
+    ampWebUrl: "https://bigthink.com/why-google-self-driving-car-crash-is-a-learning-experience.amp.html"
+    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/why-google-self-driving-car-crash-is-a-learning-experience.amp.html"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 44
+    images:
+      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODQwNTk0Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxMTI5OTk1Mn0.tiynpTT4gCZrP2rEOlEr8sAveK8Uhd3YZRtXqKedFgA/img.jpg?width=980"
+        width: 980
+        height: 551
+        isCached: true
+
+secured: "+VqP2EsvQTSPDY6s5OuE/OQa4epGKBf9absah4HLUz8IlyLTHficsRoiN78Tbiu8ujfBGb8OfYW41J95pHT0Wx96gwPB3dI7aoZhGwl+DDSZXOMyNjpK0Mn+aMMTbNctKh+3qhbX8d1oT19Nyk71DFnSfFZlYNKDkXSzgF9JzDZ+6NSK7cTvVeWYhkJXgmKBDDxdWaWEzgHSRD/cpCr0vV6P1XwTR4vAffT3kQWssxc2CaRQIunCGp6T3CcpwzgEeSMoetvJlWuWtQ4OoJFoqE/JyLcjnRxH/Mx7QRyU84jA9uBpp2lTF0YFZaLxg1QEJ4cNZ/Luy8oOQnx/D+guOaPD0PCohwc1oJ9B3D21+IgAaxSKFnTBfTjDdkBfsJ2rFhp9hyP05SqDmwl5ijpVaRdx8VXVoa8an3fZMABt3TpgelMGACGX5SxS7nUnNZBCunOH/wyZ28+ataZGTbyxd85SqIjwfiNlIN25DKFFeInQ9nH2Kn+PN/VBxiGI/ePt0KpZT4/04FDuFNR/46E3Vg==;0bGq5OGejEq5tJXsY4kKow=="
 ---
 

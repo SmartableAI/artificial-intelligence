@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T17:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-global-industry-analysis-geographical-segmentation-drivers-challenges-trends-forecasts-by-2025-2020-07-16"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.openpr.com/T/7/T714463362_g.jpg"
         width: 666
         height: 800
-        isCached: true
-  - title: "Human Capital Management Market by Software, Services, Deployment Model, Organization Size, and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "The \"Human Capital Management Market by Software (Core HR, Applicant Tracking System, HR Analytics, Workforce Management), Services, Deployment Model (cloud and on-premises), Organization Size, and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-07-13T07:53:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200713005235/en/Human-Capital-Management-Market-Software-Services-Deployment"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200713005235/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "xtEdhh/ZqPkI5ya2OWCTmfrq5hlPoxVYtnDEiGf6mLeACly1sXAyEhCTB9Jkzy14dK11PJtXNUY4Caungsf+zsM7enRWfwg/whseJqQcsikKy7001ZHzWOP2fpOW0ZZLRabubuyMRtqdXUVV5/bGr2hDNKIHxtl+SPYjzNAUp/GI/xXObFwoABFBZBE5fbrJmrXjz1wepaopNx4Pmtkx13kv04NjWnHCdzmx6GkoduklhmwsJoIB4pGu59XZqgMhi8YDNFVcfTIb3Qg7mBS4XzY5iW+viAGWGvNhzKd0bx7oiT+FxCnAVFyU+q95ftdV/wVeY26NqK7z+UPUckzhgA==;wj3RDNMSjoTv6WBTExawjQ=="

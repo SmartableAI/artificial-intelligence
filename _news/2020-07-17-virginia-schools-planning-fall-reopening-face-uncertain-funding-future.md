@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/vir
 type: article
 quality: 59
 heat: 59
+published: false
 
 provider:
   name: WRIC

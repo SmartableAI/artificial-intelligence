@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T01:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-courses-for-nlp-market-report-2020-2028-the-demand-for-the-market-will-drastically-increase-in-the-future-covid-19-pandemic-2020-07-07?tesla=y"
 type: article
 quality: 34
-heat: 44
+heat: 34
 published: false
 
 provider:

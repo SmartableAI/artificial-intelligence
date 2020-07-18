@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T12:32:00Z
 webUrl: "https://analyticsindiamag.com/key-highlights-from-the-world-artificial-intelligence-conference-in-china/"
 type: article
 quality: 36
-heat: 46
+heat: 36
 published: false
 
 provider:

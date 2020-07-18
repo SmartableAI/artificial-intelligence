@@ -7,6 +7,7 @@ webUrl: "https://siliconangle.com/2020/07/17/greylock-partner-jerry-chen-road-st
 type: article
 quality: 15
 heat: 15
+published: false
 
 provider:
   name: SiliconANGLE
@@ -21,6 +22,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "plrh96szV4k9KSSbA7RTQ6l+7r6kfRNzhUOi2xyvWSkr+BaRu/eS0SwuZq8JduNoHgSwO/7iWnbWZkdjdLm9jf4xUweUfW8GoYHyuuD7fr5xHF5TqoaHr1sZKqP7JkNRr2fK7ETjX5wnusAK5Q3444e494dNon4lLHkYpw5sP1Q0gof2LCn4DOT07SwEjHgL+QU28PCAnWw928uphajUnP5lsigjF5osiYBTLOUTSHYvT8wDPuXZpQWf6QV5oqksgAQb02aY4yT3IoLMj5doFjDPcYx3B1bKU6bQ6NTafOeFBQ8074hL5mFPnRFhvsj+9doWJSlai4S3ni6UF0dMAw==;D3cPF+3omnBlfgxoZvcU+Q=="
+secured: "llWYPt4SiDCXSRMPh3vSaQvACm5pfqrGXfJpcBd0nMn/wnB4T93MUp4O8JI2SytrubdNLFs8JVSygJBv+5mWcgE7KK81YNNMBbMSYLRIXax+Y2N2FIu/ZbDWsH30hv6yCOhwGysPEhhMcUTE1IrUHQXJRp9TEayy78hjtfIgj5NxtxLLAJfqtzmYuL1Cy8Nn+VOjZl1RkLEhd1nPZHwf0AJXoR9PqsPvWZGAFyURBiwJ1bqt2/BcEZ+dAObLxkAP1XL9ZdxJumG5lILEjE1cKt1KL/SMgeXJ+da2jzvbtgZy9USlnEM0p6h6kM1p2WhBm20MfldY4WuuftsH46RNkka1TnSeaLIgT923FnI0+wF9Qrzy3UiKqa73PO/pROm4LEVyaGRYu/1VRVDZyk6FxkZcya3Dg6E8TW+KQThBqQRFSPrakr96o+qSTfPaMfphmEw0XMnb01/MkeqIcl0HLZIDjhlVjuQswBVHSxpA8NNM7ZXF/4O+/wB9zQOsBC7f/PRCl7MrYGppOzX5SUjH+w==;V4jzna3R1Yj/9O1S2Qj6NQ=="
 ---
 

@@ -62,6 +62,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 39
+  - title: "Facial recognition feature part of the Voters Registration Exercise"
+    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
+    publishedDateTime: 2020-07-18T00:40:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
+        width: 600
+        height: 358
+        isCached: true
 
 secured: "G4M6X4NNYjCQpOwoJHboBiIFqqsRuLMAuFLhxsj+coeOszlMRqkR9A3xgRvtL2afZxQSr7iTniqUGkA6+xWUIUXSUPmMVTQc9HK/+bVH2UXl0OOou6tc9Q0lhbiAZnmQY53T6dHqaS5MckTPXRF9HRBsYHnKnUUUrO7MjgNQc18hkcHxu3FojcvARBLKECAjJiOX8fHx6TqWkE8Zup8b16530GmtAGn4AkQjDDua/vUlm0klePqvsPT54abviJlpYC5yC0+RUBcNtjx4KuUq/EBGaPEcjUzaFm6X+yat18srR09IVW09Vb4IIWam/4QrGf3fAnSAWteKF/G2iu0uyA==;I+5bHy/WZ5y/2vZ306EfJA=="
 ---

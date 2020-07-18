@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T09:07:00Z
 webUrl: "https://www.nature.com/articles/s41467-020-17280-8"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

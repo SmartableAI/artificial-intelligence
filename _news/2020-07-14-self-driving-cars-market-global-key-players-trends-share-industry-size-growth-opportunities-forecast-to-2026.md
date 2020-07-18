@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Human Capital Management Market by Software, Services, Deployment Model, Organization Size, and Region - Global Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "The \"Human Capital Management Market by Software (Core HR, Applicant Tracking System, HR Analytics, Workforce Management), Services, Deployment Model (cloud and on-premises), Organization Size, and Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2020-07-13T07:53:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200713005235/en/Human-Capital-Management-Market-Software-Services-Deployment"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-    images:
-      - url: "https://mms.businesswire.com/media/20200713005235/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "vOhIQ7YOjKHa7k8WrrdYrqOjDSUVojtLkFIDN3gVFnGmdYWKtEHpr9iEQzjjYtI87Re25zy4Td+WqPwi8tfZlTxw8OMUKcGvB21iTy2pPyvPktxbwOu4wCqtQCmxuipGU5vpRn1VG2AfgpIeGsoAfvIJjHFov4MKjQ5cWtpDRWo+pw27Bazxf6RYo5dFQGS+GvoKXNj16G/C9QN8J+4tgEytvnw7tzOSpIdiFeDsQgZW8yYBXQj3Sv0fuQ7/9oxRoHwzrfT9THk6OGEs1GcKNHM2xbfQ2NuvqrPA0lVcTN57e+HVNwJiKnVlo+QtC/if/wSJlvAubbq4mY1MarGXuA==;HUkzKpX9w2UPKSTre7QYZQ=="
 ---

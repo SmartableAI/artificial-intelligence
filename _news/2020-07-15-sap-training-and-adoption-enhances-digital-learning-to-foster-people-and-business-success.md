@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/sap-training-and-adoption-enhances-digital-learning-to-foster-people-and-business-success-301090935.html"
 type: article
 quality: 29
-heat: 39
+heat: 29
 published: false
 
 provider:

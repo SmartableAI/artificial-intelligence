@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T13:48:00Z
 webUrl: "https://www.meritalk.com/articles/exit-interview-cbp-biometrics-chief-wagner-talks-future-of-facial-recognition/"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

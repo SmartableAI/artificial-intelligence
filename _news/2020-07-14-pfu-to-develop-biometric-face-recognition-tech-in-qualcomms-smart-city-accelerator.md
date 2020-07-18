@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T23:37:00Z
 webUrl: "https://findbiometrics.com/pfu-develop-face-recognition-tech-qualcomms-smart-city-accelerator-071407/"
 type: article
 quality: 33
-heat: 43
+heat: 33
 published: false
 
 provider:

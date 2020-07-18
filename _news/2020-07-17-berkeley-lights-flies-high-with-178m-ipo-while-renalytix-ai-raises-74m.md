@@ -7,6 +7,7 @@ webUrl: "https://www.bioworld.com/articles/455849-berkeley-lights-flies-high-wit
 type: article
 quality: 38
 heat: 38
+published: false
 
 provider:
   name: BioWorld

@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 960
         isCached: true
+  - title: "When will we actually see self-driving cars?"
+    excerpt: "Q. Okay, I have given up on a flying car, but when do you think we will see an actual self-driving car? A. There are a couple of inherent problems — legal and cultural. In every state that I have researched, there is a law that you need to have at least ..."
+    publishedDateTime: 2020-07-17T21:26:00Z
+    webUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars"
+    ampWebUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 44
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/07/Autonomous_Vehicles-Crashes_96424-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
 
 secured: "Dvqt33BmF1K/v/vkyhdHNYrE7XkTAL3T48Cb6Fpoybd+fyBwZYMDRjbUEcTzBrjtckwWOgy2+p8UC+zckhX2GpULjevMuPm4iSiou46EkF70lDYOoFByXvqxu/KsfRmnZgmqrMCvWRkEKspOlvy/lMrtXUsx6xbL8B6aQZw3/bDa0tEM9RAcCY/Mgk7A/OXpu0o9qLN6yXl6kmSdfiig5isEKAYyMLTvegBK7VzF+HPYKMy9PQDoIdt25DTaYSLEudcWPefsIx24gmCBiOgbCwiSFtIT4IctQwiXV/EKO/80oibR5/yu/MdTu9rSAGw/NOTQPx/8lh4UBgkYmI6ROQ==;c4ZpgTk8yiZrZJQ9xPIfqw=="
 ---

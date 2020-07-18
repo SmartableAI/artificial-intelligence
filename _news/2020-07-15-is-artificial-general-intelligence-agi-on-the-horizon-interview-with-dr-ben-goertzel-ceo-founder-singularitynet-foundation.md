@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/14/is-artificial-general-intelligence-agi-on-the-horizon-interview-with-dr-ben-goertzel-ceo--founder-singularitynet-foundation/amp/"
 type: article
 quality: 46
-heat: 56
+heat: 46
 published: false
 
 provider:

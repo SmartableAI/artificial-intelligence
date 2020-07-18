@@ -117,22 +117,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UK, Australia investigate Clearview facial recognition firm"
-    excerpt: "London: Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites. Thursday’s announcement by the U ..."
-    publishedDateTime: 2020-07-13T06:04:00Z
-    webUrl: "https://www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
-    ampWebUrl: "https://www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/uk-australia-investigate-clearview-facial-recognition-firm-news-topnews-uhngcNdeeedje.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/clearview_AI_wiki_uhngcNdeegdai.jpg"
-        width: 700
-        height: 500
-        isCached: true
   - title: "Farnek adopts new contactless face recognition system"
     excerpt: "Leading UAE-based technology and sustainability-driven facilities management (FM) company Farnek has implemented a new contactless face recognition system to measure the temperature and monitor the attendance of its employees. The technology has been ..."
     publishedDateTime: 2020-07-14T14:24:00Z
