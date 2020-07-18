@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T07:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-technology-industry-2020-07-14"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
-  - title: "Far-Field Speech and Voice Recognition Market 2020 Research Analysis by Product Overview and Scope and Suppression Systems Forecasts 2024"
-    excerpt: "Field Speech and Voice Recognition Market” 2024 Research Report provide in-depth study of the present state of the Industry. Initially, the report shows a basic overview of the industry including definitions,"
-    publishedDateTime: 2020-07-14T01:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-2020-research-analysis-by-product-overview-and-scope-and-suppression-systems-forecasts-2024-2020-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "NVOmeChMgYoW66uVPo4D7sG2HkUuvWY4nag7nlVcfDpZ37hXvfUuqOaaPCWQc12PWsseDWe0HRErEoK/bEWLs6qlpAMuY2BFBY5QvBFL2SLspsS4dIwixWTkC8nV8gy2v2byhQPT/4Zu9DNNwlg0uizfYaEVRzFNVLNw0Lrl4bmvaCybvrRs5bv4tHTmg5CkVgwsj7yFcRIZN7vHjkXs/aujlDa1mqiSTPd/AqSJ8EoJkOf4yHwU9lMbing2yCju+dz8Y+BXQobauCN0Xy2Cy+Bh71j7Zersdma6OcLEsYf3kKypADGp77ZTlEl3SrSLwUFFOB9iLIM1E2CeVgl51w==;n8OQj//87z4kb7GEpTM6Jw=="
 ---

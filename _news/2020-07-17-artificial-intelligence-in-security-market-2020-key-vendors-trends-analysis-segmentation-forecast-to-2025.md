@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T09:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-07-17"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning System Market [COVID19 Impact] Segmentation, Industry trends, Share and Development to 2028"
-    excerpt: "An estimated 51.2 % of the global population was using internet by the end of 2018 - International Telecommunication"
-    publishedDateTime: 2020-07-14T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-covid19-impact-segmentation-industry-trends-share-and-development-to-2028-2020-07-07?tesla=y"
+  - title: "Artificial Intelligence in Supply Chain Market: Global Industry Analysis, Geographical Segmentation, Drivers, Challenges, Trends Forecasts By 2025"
+    excerpt: "Jul 16, 2020 (CDN Newswire via Comtex) -- This top-notch Artificial Intelligence in Supply Chain market research report has been structured by skillful"
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-global-industry-analysis-geographical-segmentation-drivers-challenges-trends-forecasts-by-2025-2020-07-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Self-driving Cars Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2026"
+    excerpt: "This report presents a comprehensive overview, market shares, and growth opportunities of Self-driving Cars market by type, application, key manufacturers and key regions and countries."
+    publishedDateTime: 2020-07-14T06:15:00Z
+    webUrl: "https://www.openpr.com/news/2089476/self-driving-cars-market-global-key-players-trends-share"
+    ampWebUrl: "https://www.openpr.com/amp/2089476/self-driving-cars-market-global-key-players-trends-share"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089476/self-driving-cars-market-global-key-players-trends-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 22
+    images:
+      - url: "https://cdn.openpr.com/T/7/T714463362_g.jpg"
+        width: 666
+        height: 800
         isCached: true
 
 secured: "Pgc+N9n5VuElo0jsyvs48OZDJ+VKrqmvUWt/VgYqhvIgKcyhc4jXisaT6rbYtJwZS4m2YppjqwgSOPCmpVyXJUstSf/YyeUyKUsOdey1RITWj5VDTdb7uMMfULrd4bKUb+TjsSwmAZfsOql+DpkrikmvvV1tyJbQE8992mr5k9eLnY3LYnkkQM+zCvPm6cXl9qdxX4GkNCQmWvaSOrKMaJ5JtR0wbD3wv94Eu7BJOiBW4JfACPbRhDrZrnV5Iz0BohYYsgryD+dFBRU2qVUxudr0wP2dDsp82qK7I2X8gtuGKcCOvEISTFQ+j7J94eMZEqH1XpPrcJlWW+FX3GoGoQ==;+rCqOX8ci2lFDRb/Fga6XA=="

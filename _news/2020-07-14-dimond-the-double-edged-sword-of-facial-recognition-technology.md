@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "From 7-Eleven to Aus Pol: The rapid expansion of facial recognition technology in Australia, and the laws keeping it in check"
-    excerpt: "Facial recognition technology is increasingly being trialled and deployed around Australia. Queensland and Western Australia are reportedly already using real-time facial recognition through CCTV cameras. 7-Eleven Australia is also deploying facial ..."
-    publishedDateTime: 2020-07-14T02:40:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/facial-recognition-australia/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 12
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2020/07/file-20200709-34-1u8uyj3-e1594685877350.jpg"
-        width: 926
-        height: 569
-        isCached: true
-
 secured: "0leEUNKBCC06S7wtcli0b5zyP7FYAUH91erOYUd+F18bf/IJpEmsaOLD50tMhkkwFIc0B2N6Ys4/aZk9FU6it2yh6uDlov0fAfK9iT2TscKRtV2nsiTlp9V32ZRZlizFE+4CGm5ORzIenSF+9c0uc4jkoPAhYP56Xa6T7EkYQMorBgOcODT356i1wcOCTI/2uM+SgVsBoYhqXAq1/ULVNllw7P//Ky9lWm0SBRnZAo0N1oRkb3NJp1iCIhaQaE5okqRZNN/90SP0woIIpiCrK75ko/HsQAyJIIFXIblbc70sMH9RFVmpc91qgX3VsMDfe/MZ4eyZiK+IEzKBV+WQCA==;3vbCnevc1EfhL9MQHj1FfQ=="
 ---
 
