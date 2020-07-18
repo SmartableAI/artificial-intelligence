@@ -2,20 +2,20 @@
 category: news
 title: "Japanese robot to clock in at a convenience store in test of retail automation"
 excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-publishedDateTime: 2020-07-15T09:51:00Z
-webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
+publishedDateTime: 2020-07-15T10:53:00Z
+webUrl: "https://www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7"
+ampWebUrl: "https://www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7?amp"
 type: article
 quality: 100
 heat: 150
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525789604&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
-    width: 782
-    height: 545
+  - url: "https://i.insider.com/5f0ed07c2618b9694b3ba515?width=750&format=jpeg&auto=webp"
+    width: 750
+    height: 539
     isCached: true
 
 related:
@@ -105,6 +105,6 @@ related:
         height: 708
         isCached: true
 
-secured: "5ygyE3NriixzJ9HnyK/D3PAKbC2mQtzeKbqZJRr/EITHxPb7dQaQYsswBFqYtjXRc7hKNctE7CCFzGxq+dc5rbm17St4l/KqmD4ysSmUadO6daPPB9GOgfD5k/uYMvQY/ZZyNiHRCAJ2Pzb9O4k/FEnMWm+Ag3T4fqRwAPCTU1OFQ8FR7ylKJM3QGtQIE2J5F96dY9ra0IMXeXhPmGxvLarFCpRzvgBeIEUUyvRjhMJ5abxgMUX914D1HRQfUxSRv7G0pXj8Owt5SUj/NT/ZwjyvEuvFZok5cE26vy+xq8fGWz0AukBLWNP31U5P82RST9XdWUDTEUw+NLq+75luA3J8bXqwUvxkJkya9br98Y7SLQ0H+l7YDJhjWhhCSjCM8yzhP14ZPpL7Sn9cH5JpPzt17bTeWrBRTiAjhhG3bBDp8huxQv/XHHy9Zss/hcNENJ1OV6p+SFJvjY+zieV7sv8x1aCXPJjk8LAhjl9+1IP+bUsbl3k3URwDIkSmb6eb5d6v5W6hYd+oWhK54qqqag==;ylJS0zcVCJMQkL4z0Xm+vg=="
+secured: "zLTGv4g3drriZ3pMHkJZaaf2+xb2ObHWtM/NACyDZ8YoF9tdUfpIKR9FgPKYy/+JiUZCqF+zLnfpf85e28uGBMGWwQSD0KxSJSjIKQIHDryrb0/RjuPIGcj61vKxsljN7frlG4g3z4LOd8WWFnNB++Dq1DsEVytHoWNrUqX+/IOpwlVJ2ope3BkkBjMmYtFHCy0ASSpG4MZOp9thsS74fqiFNW7Zi9uitlAyKv5nA3dvobQ6BC49FXYJLS+JOf5dzrVlQ0RqduAZEsy7NwIYyh9GrKtcY+CuA8voGrp/OvxtwJYz/UeRh/bkQmU94E+6v6zlVD0D4dCmgxCRhaOBiw==;ESUxatyJ5Cnq9Ok5cJGqVA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "Samsung and Microsoft transform real estate and smart property management"
-    excerpt: "Samsung Electronics Co. and Microsoft Corp. today announced a global collaboration focused on digitally transforming the real"
-    publishedDateTime: 2020-07-13T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/samsung-and-microsoft-transform-real-estate-and-smart-property-management-301091948.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
         isCached: true
   - title: "Microsoft, Samsung Partnership: Azure Cloud Manages IoT Devices"
     excerpt: "Microsoft Azure IoT cloud services plus connected Samsung devices could unlock new ways for MSPs to push into building management services."

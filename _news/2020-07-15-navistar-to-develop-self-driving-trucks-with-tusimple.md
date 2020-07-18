@@ -1,32 +1,26 @@
 ---
 category: news
 title: "Navistar to develop self-driving trucks with TuSimple"
-excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-publishedDateTime: 2020-07-15T12:04:00Z
-webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
+excerpt: "Truck maker Navistar International Corp. has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+publishedDateTime: 2020-07-15T12:38:00Z
+webUrl: "https://www.autonews.com/mobility-report/navistar-develop-self-driving-trucks-tusimple"
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
-    width: 817
-    height: 545
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/17MAILTRUCK-07.jpg"
+    width: 792
+    height: 415
     isCached: true
 
 related:
@@ -190,6 +184,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7ZaC+riXweJknHaWmb+e9Qp37jQ6kqBkiyA9hoRlDRlQjHGNF9hNTWJlGskGWk9dNhw1T5Wh0hjapVpnq3TcoVe5i5ucvkjprFy8HGNVdI+O9QjiB9zUBEFwv7bOQA/k7Rqjrn0aHZUURkd9r/RuJtaSIAlDdrh19GPIx1At6TGS/iD56saG15HBm4F65PxxSvFTYgea/L6wOqkn3U9JIkE+ntSxPsgTrLB6FEwqZin79izZkdOz8gzx4pEsgtSKbqZI8wj8hpo44aGEY1JcZZ9HdhVTo5gNs15eQrWCjLfg6IEVQbn+uBd4EP1Ac1NM4eIHdRmZ6zOmU4kfrbJkWgoH5mlm8IYiF8FidkJM5RUIvZNiYl4WkqrP4s/tHPv3xXUSQ33Ay1Mr1qwyfNC3nOcK+qfyoJ36eXAJjsdMaWHh7LIjqi9rvrG0yTO+eBlJl1yq2pmbk3C1Dr51mF6juwvqItEPQo96XUk2LSyFPoZS4LcRpeli2x+xms0c9VYvvvoln8W1XMoNocl9+sUmEQ==;OQmom8BG2UMzn399+qfIhg=="
+secured: "m1ubesNilohazY/dqhC7l/Es55SDPQuDYN6M8jAhocFTZoKYMTygkuRHMxDznqLRUBnO6wQXYy8UHuFQkZ5S9qeCupP/cjczd/qgOvZ0Ita9WuVx9ezOSdec0XRjQwitqlMv17/2bV9Y9p3m4+Dzv4bX63ihAaEOaNlSkli1NG7xnLxpQPDWwmNogQq53grTeTXObV8OQVN1ZGlrXXyW8WsigZEAOrIAHah296yTY8gYQ5yOxuuF52tPAGRG7r5j9kWuSa97AbVzQpJ2zWdO8EX7KLiaSIo0PfmM7PJ9z1al8DSWoqE1PWjXoZOZ/DtLlLomgoyNZs5XBx9FRwfWXQ==;yxtShBhmlUOmAnhcVVYa3Q=="
 ---
 

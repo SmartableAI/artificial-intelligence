@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
 type: article
 quality: 185
-heat: 225
+heat: 215
 published: true
 
 provider:
@@ -72,22 +72,6 @@ related:
       - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200713_30_859002_L.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
-    publishedDateTime: 2020-07-13T15:51:00Z
-    webUrl: "https://www.openpr.com/news/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "VWE9kaQxsnV6bwvZZ0Xs2MBgB3fiV75x4GLZ2T1J3DZtIVmGekeJEZKLPulmx0Va8wYqi6YdexM/GGCeCfJW4bXUNAeKYwvEj/9QTLgUzUxiVe5KHC4D9JoA88Fg0KRp+aKbeNtdANo6tyl4cINBoIewBGMsTArPE3jvynpqXzU4VUDvOoIWvHJtMVnSS6kxWCr5T6O+FJHrxJz7ZnZv0DnHEX4IXL7RBHKC6JboXmuSYBIHr1NYCwxdraM3tLx4SsJ+0R3ezKQcAN2Yn8U1TvOFKeOUoOa+FNMmhVJ4gdjEFoJiRakK9kFVHJwrymxYY+Yv7RDgcl7kPTcrRUAIxzh/iYBiB8HkBttqx6VUdH9/YKw9hguWbFRQ2i4NfjgAEKwSn9cXfAV8r+6FLvVkb3XXHZX9OPoME87ybLJl1f2s8ah7K32dFFJyVUB70sHR0OmUy8n/PAyc4ZtwsxDv45bfBLVL0k+BroAt7bxdFY7gIV6nsm6PQ/f1FxK+NMnnxxYzPZ1YmaM16z/h0zRpkQ==;MfE3Itxs2JlO1+nUpN93AQ=="

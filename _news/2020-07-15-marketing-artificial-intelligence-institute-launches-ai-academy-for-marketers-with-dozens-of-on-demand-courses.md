@@ -51,20 +51,6 @@ related:
         width: 1311
         height: 737
         isCached: true
-  - title: "New artificial intelligence institute strengthens Clemson University’s abilities in competitive field"
-    excerpt: "the Medical University of South Carolina and Siemens Healthineers joined together in November for a summit aimed at finding new ways to improve healthcare with artificial intelligence. Anand ..."
-    publishedDateTime: 2020-07-13T13:14:00Z
-    webUrl: "https://newsstand.clemson.edu/mediarelations/new-artificial-intelligence-institute-strengthens-clemson-universitys-abilities-in-competitive-field/"
-    type: article
-    provider:
-      name: Clemson Gaduate School
-      domain: clemson.edu
-    quality: 28
-    images:
-      - url: "https://newsstand.clemson.edu/wp-content/uploads/2020/07/iStock-1140691167-800x400.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "jBFu53PYk644C9zAyIUPutMvzWgWHNWgI3j7Y0hN75UQVQdb9xqOtJMmRI+agXb77VOjF+0V13XMWK9UxjfRGq+gCW0pq2/YRvQfOs0IoSDgkTvaBaw5dZXoLpQAaD7eZvSc9D5YF0B/RwBhLe/K2gPyFf6l73L+i4oyI4aW924Si9t2ayQyOrK5PePIJwHhx91aeqlnrjEZRCaeZkJypZd5hNqslyCGm4i5MvLBu4LHWST9UocKOZK5IF2ConwOKSdHPgBjgQ3JF9zbc9hz0/TmiIsHUamyab/PDeeNn94JpeCK6aj4jx5iRZFXvF24R9yqC6xKNbNYZl+GQxOLmA==;1gUlLrmXJmogNUuhsdzcEw=="
 ---

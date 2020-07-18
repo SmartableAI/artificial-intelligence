@@ -106,17 +106,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "How Tesla’s Self-Driving Initiatives Add Value"
-    excerpt: "But many industry insiders and self-driving engineers are dubious of Musk’s claims. After all, level 5 autonomy means a truly self-driving car, that can drive anywhere, at any time, under any condition,"
-    publishedDateTime: 2020-07-13T15:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13"
-    ampWebUrl: "https://www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-teslas-self-driving-initiatives-add-value-2020-07-13?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
     publishedDateTime: 2020-07-16T17:28:00Z

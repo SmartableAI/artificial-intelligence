@@ -64,20 +64,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Samsung and Microsoft transform real estate and smart property management"
-    excerpt: "Samsung Electronics Co. and Microsoft Corp. today announced a global collaboration focused on digitally transforming the real"
-    publishedDateTime: 2020-07-13T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/samsung-and-microsoft-transform-real-estate-and-smart-property-management-301091948.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/24227/microsoft_corp_logo226_9217jpg.jpg?p=facebook"
-        width: 2695
-        height: 1414
-        isCached: true
   - title: "Samsung, Microsoft partner to transform real estate, smart property management"
     excerpt: "Samsung Electronics and Microsoft entered a global collaboration focused on digitally transforming the real estate development and property management industries. This collaboration, combining smart appliances and digital cloud technologies,"
     publishedDateTime: 2020-07-14T07:58:00Z

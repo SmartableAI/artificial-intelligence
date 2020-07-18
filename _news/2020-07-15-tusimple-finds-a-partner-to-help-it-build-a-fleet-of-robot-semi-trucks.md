@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Navistar to develop self-driving trucks with TuSimple"
-    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-    publishedDateTime: 2020-07-15T12:04:00Z
-    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
-        width: 817
-        height: 545
-        isCached: true
   - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
     excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
     publishedDateTime: 2020-07-16T16:51:00Z
@@ -128,6 +112,20 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/261ea911d7b033970507e3f32133077f_L.jpg"
         width: 620
         height: 465
+        isCached: true
+  - title: "Navistar to develop self-driving trucks with TuSimple"
+    excerpt: "Truck maker Navistar International Corp. has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
+    publishedDateTime: 2020-07-15T12:38:00Z
+    webUrl: "https://www.autonews.com/mobility-report/navistar-develop-self-driving-trucks-tusimple"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/17MAILTRUCK-07.jpg"
+        width: 792
+        height: 415
         isCached: true
   - title: "Navistar to Produce Self-Driving Trucks by 2024"
     excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."

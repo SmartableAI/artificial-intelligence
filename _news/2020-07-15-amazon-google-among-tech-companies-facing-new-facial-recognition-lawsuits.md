@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
+    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
+    publishedDateTime: 2020-07-17T17:33:00Z
+    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "RealAML Launches Industry-first Facial Recognition"
     excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
     publishedDateTime: 2020-07-15T23:48:00Z

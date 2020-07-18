@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market"
-    excerpt: "Global Artificial Intelligence in the Education Sector Industry research report offers granulated yet in-depth analysis of revenue share, market segments, revenue estimates and various regions across the globe."
-    publishedDateTime: 2020-07-15T04:57:00Z
-    webUrl: "https://www.openpr.com/news/2090156/artificial-intelligence-in-the-education-sector-market"
-    ampWebUrl: "https://www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
+  - title: "Artificial Intelligence in Drug Discovery Market Qualitative Insights On Application 2027"
+    excerpt: "The global Artificial Intelligence in Drug Discovery market is anticipated to garner a revenue of USD 259 million in 2019 and grow with a 40.8 of percentage all through the forecast period 2020-2027,"
+    publishedDateTime: 2020-07-17T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-qualitative-insights-on-application-2027-2020-07-17"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://cdn.openpr.com/T/7/T715512134_g.jpg"
-        width: 800
-        height: 532
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Y5aPUYvTOmGOPKO7BBdmoC3y+yx0FFDSlEixJ4jn8mD0rJ1B10IKBrPcVzpbM67JB0ElTBv0UkKJGRi49T3kOH+w/cXlGkV+QTCALPuJAPT9LQBTo3Cm+xOIiHoycaRkgx9TBjLyYacVTE3vQDms0P5J2WHafuscEV8/hXWyQCpQpSGxKNJgaSNz8hS2m5fDVl8U/dGw3OuytXaTECUnjqx3e9GNqRzVTf0kbfCtvREYnCIIP2jOl/nPkmiOiIr6iXwzTX9Ui56vOQ/MO8hBBA6ERYyyPobHhQZAE3cNVQppGrtXx72UMQKjEzcL1+5k4AA0GiQdzuWsNrYST84Gjw==;rSg82h+lESih3wT+HS+nAg=="

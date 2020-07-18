@@ -541,6 +541,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation-2020-7</loc>
+    <lastmod>2020-07-15T03:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7</loc>
     <lastmod>2020-07-15T03:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -549,12 +555,6 @@
   <url>
     <loc>https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html</loc>
     <lastmod>2020-07-15T03:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
-    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -655,7 +655,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1015,8 +1015,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.sify.com/movies/google-machine-translation-helping-disseminate-covid-19-info-news-bollywood-uhmf5Cgddbfii.html</loc>
-    <lastmod>2020-07-12T17:12:00-07:00</lastmod>
+    <loc>https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html</loc>
+    <lastmod>2020-07-12T17:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2409,6 +2409,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-07-03</loc>
     <lastmod>2020-07-03T15:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/ab16504272/global-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-2020-industry-analy</loc>
+    <lastmod>2020-07-03T12:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

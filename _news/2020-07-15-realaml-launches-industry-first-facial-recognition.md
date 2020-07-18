@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
+    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
+    publishedDateTime: 2020-07-17T17:33:00Z
+    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
     excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
     publishedDateTime: 2020-07-15T20:20:00Z

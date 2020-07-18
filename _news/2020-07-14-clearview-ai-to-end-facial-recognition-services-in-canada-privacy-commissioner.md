@@ -101,22 +101,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "NEC’s new facial recognition system can spot workers with masks on"
-    excerpt: "NEC is reportedly using the advanced facial recognition system in an experiment it started Monday that aims to reduce the amount of touching in its offices and stem the spread of the coronavirus."
-    publishedDateTime: 2020-07-13T16:13:00Z
-    webUrl: "https://nypost.com/2020/07/13/necs-new-facial-recognition-system-spots-masked-workers/"
-    ampWebUrl: "https://nypost.com/2020/07/13/necs-new-facial-recognition-system-spots-masked-workers/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/13/necs-new-facial-recognition-system-spots-masked-workers/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/sized-nec-coronavirus2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Farnek adopts new contactless face recognition system"
     excerpt: "Leading UAE-based technology and sustainability-driven facilities management (FM) company Farnek has implemented a new contactless face recognition system to measure the temperature and monitor the attendance of its employees. The technology has been ..."
     publishedDateTime: 2020-07-14T14:24:00Z

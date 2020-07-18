@@ -72,22 +72,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Facial Recognition Market Forecast and Trends Analysis Research Report 2020-2027"
-    excerpt: "The growing technological advancement across several industry verticals around the world is the major key drivers that are contributing to the growth of the facial recognition market The private and public sector are emphasizing on improving their high level of"
-    publishedDateTime: 2020-07-13T15:51:00Z
-    webUrl: "https://www.openpr.com/news/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089216/facial-recognition-market-forecast-and-trends-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/T/7/T713608013_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "4dO2n1zFZpDKshihN3lL9bRaaFpaGzMc8tb8szwyj1M1oft0xsMtpnb172AO87w0lqjH/E1B+Lkcfuf8j+NAVZ20l9bTjy5UsqV0RsfFRm9ggLlcju6YcK3tPoQ7CXSQdBO+OeCRaLlZs2qUsvu44rxWZ7r7r30XHpM4DEcEddwk4D9qMVs5C75IkLa9vfMYhgV95bfwwkuT3sALtVnBCxb6aAoxMIoPBJbC0p4Q3mTHjDOau4G+s9glKTAAezXg3et1eOzLz3syI9sBMMttxqssBqWMLGTUM4KoGrFQ2yM4JoA8RDsw13qD31fFiBN4ap8pI8nmoEWahNQWTtLBk8fzOTRO+KtBkeFzJ1UPYNGBl2JcvXbz4Buimg78kdc4kr8lLC81E2jvvTk7sVrCZWdJ3tCk+4GK5cD73QDFOC0plaIUDT5rAv1EGsLnx5711pTYqgoNGNxZ83Uq0RIBPZKJH5H2sMP9QcdwAerprtZLHk24+4Komi/TCLkICszF8OHtSNeXgvLbyYRGdHnCbQ==;qmc5/4MMmrPY1ru8LUJDAQ=="
 ---
