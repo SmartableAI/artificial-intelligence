@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T13:57:00Z
 webUrl: "https://www.businesswire.com/news/home/20200714005699/en/Frost-Sullivan-Radar-Ranks-Wolters-Kluwer-Top"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:

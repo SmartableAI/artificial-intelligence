@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T16:26:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/evolve-ip-releases-recap---ai-driven-speech-analytics-and-voice-recording-platform-for/article_259c3164-6d8d-5b96-bb26-f8708cffda45.html"
 type: article
 quality: 7
-heat: 7
+heat: 17
 published: false
 
 provider:

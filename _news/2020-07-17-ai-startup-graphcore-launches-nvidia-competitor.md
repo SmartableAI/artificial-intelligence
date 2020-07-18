@@ -7,7 +7,7 @@ webUrl: "https://www.networkworld.com/article/3567349/ai-startup-graphcore-launc
 ampWebUrl: "https://www.networkworld.com/article/3567349/ai-startup-graphcore-launches-nvidia-competitor.amp.html"
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3567349/ai-startup-graphcore-launches-nvidia-competitor.amp.html"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/07/ipu-machine-for-machine-intelligence-compute-100852152-medium.jpg"

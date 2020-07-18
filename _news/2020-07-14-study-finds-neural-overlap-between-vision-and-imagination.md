@@ -8,7 +8,7 @@ ampWebUrl: "https://www.labmanager.com/news/study-finds-neural-overlap-between-v
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/news/study-finds-neural-overlap-between-vision-and-imagination-23287/amp"
 type: article
 quality: 46
-heat: 46
+heat: 66
 published: false
 
 provider:

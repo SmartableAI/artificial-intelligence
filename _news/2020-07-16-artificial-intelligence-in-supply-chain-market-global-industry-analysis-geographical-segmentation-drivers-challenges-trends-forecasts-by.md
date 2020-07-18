@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T17:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-global-industry-analysis-geographical-segmentation-drivers-challenges-trends-forecasts-by-2025-2020-07-16"
 type: article
 quality: 44
-heat: 44
+heat: 64
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T23:43:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-07/au-ca071320.php"
 type: article
 quality: 37
-heat: 37
+heat: 57
 published: false
 
 provider:

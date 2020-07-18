@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T15:56:00Z
 webUrl: "https://www.sciencedaily.com/releases/2020/07/200714101240.htm"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

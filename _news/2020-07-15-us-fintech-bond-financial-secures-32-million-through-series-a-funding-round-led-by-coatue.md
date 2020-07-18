@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164092-u-s-fintech-bond-fin
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164092-u-s-fintech-bond-financial-secures-32-million-through-series-a-funding-round-led-by-coatue/amp/"
 type: article
 quality: 33
-heat: 33
+heat: 43
 published: false
 
 provider:

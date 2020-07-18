@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/majority-support-in
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/majority-support-indigenous-voice-to-parliament/news-story/48d882868f8817cbb0b860c3dcea18e3"
 type: article
 quality: 24
-heat: 24
+heat: 34
 published: false
 
 provider:

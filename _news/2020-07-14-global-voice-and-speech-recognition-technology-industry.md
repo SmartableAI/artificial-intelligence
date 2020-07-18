@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T12:00:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/global-voice-and-speech-recognition-technology-industry-1029391677"
 type: article
 quality: 49
-heat: 49
+heat: 69
 published: false
 
 provider:

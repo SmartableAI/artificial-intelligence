@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T17:32:00Z
 webUrl: "https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities"
 type: article
 quality: 25
-heat: 25
+heat: 35
 published: false
 
 provider:
