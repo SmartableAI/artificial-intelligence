@@ -247,6 +247,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-18-profound-aitm-risk-receives-ce-mark-in-europe.md",
+      "title": "ProFound AI(TM) Risk Receives CE Mark in Europe",
+      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced ProFound AI(TM) Risk received a CE Mark",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/profound-aitm-risk-receives-ce-mark-in-europe-2020-07-15",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction.md",
       "title": "Work-at-home AI surveillance is a move in the wrong direction",
       "excerpt": "We are already justifiably worried about being watched while out in public. Now we're increasingly being observed in our homes, too.",
@@ -1170,47 +1220,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-wall-e-ai-enabled-robot-rolls-through-halls-of-ucla-mattel-childrens-hospital-to-visit-pediatric-patients.md",
-      "title": "WALL-E? AI-Enabled Robot Rolls Through Halls Of UCLA Mattel Children’s Hospital To Visit Pediatric Patients",
-      "excerpt": "Enter Robin the AI robot – a nearly 4-foot-tall ... attention and companionship.” Robin will start roaming the halls of the hospital this month and undergo a year of training, during which ...",
-      "sourceUrl": null,
-      "webUrl": "https://losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2020/07/robin-robot-mattel-childrens-hospital.jpg?w=300",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/amp/",
-      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/07/17/ai-robot-ucla-mattel-childrens-hospital-pediatric-patients/amp/",
-      "publishedDateTime": "2020-07-17T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Los Angeles",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

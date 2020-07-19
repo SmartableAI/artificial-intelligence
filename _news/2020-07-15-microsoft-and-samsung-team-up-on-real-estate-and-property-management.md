@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 640
     height: 428
     isCached: true
-
-related:
-  - title: "Microsoft, Samsung Partnership: Azure Cloud Manages IoT Devices"
-    excerpt: "Microsoft Azure IoT cloud services plus connected Samsung devices could unlock new ways for MSPs to push into building management services."
-    publishedDateTime: 2020-07-14T21:53:00Z
-    webUrl: "https://www.channele2e.com/business/digital-transformation/microsoft-samsung-strategic-alliance/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 34
 
 secured: "ZBM5mSiUR1RZechoZitnnGLIWZ+EhIngb2A6hY7cos6ILueJEAAA3nAaVgqeUxXasqiE86ltbyqyd+R250BJZaDkGNWVhWFVGTdoyOGU3TjRoN61bCq0pyV2CHNOw+ksFyDAovThbsvQRhJ+mQnwRhxSAWMkZ/BupjO5kexn7dgNG4MRCgioEzgH0UpgxW5ZeEOpvgnUln9CxFtzD9dt4nl+X/OC7WSrrFXgaqzaHSMtnL4ZWCnB2ftnB9bhmPqHJGf42fMeZY4D1AavvLgGhKS3V+wnc0pYRymhhQvpOH+UCvFDzUlT/s6vfw1oRIpYZyfBHoyVCVlk7zflh/MMj+5jBdBW6a9S9MOigbN34HE74NNXY1xBDGZ/N3XzEJ0yHhb4+tSDEjuqAic7hmfD+KGGMPy0D6VArrqqdTlJMtSlPHsFX4MfqcluwZa1urOy87ewisDx5mLeYmJ00OKDzWJ/CJKgD/Kpw602lYGs/ndiKSWmyAw/bSEOH5cZ4CN+bO4fokK58ET+euM+SVv5uw==;n1w/zzAv28UGNMK7dgoNRg=="
 ---

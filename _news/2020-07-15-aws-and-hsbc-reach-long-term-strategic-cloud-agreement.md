@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T07:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200715005162/en/AWS-HSBC-Reach-Long-Term-Strategic-Cloud-Agreement"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and HSBC Reach Long-Term Strategic Cloud Agreement"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that HSBC Holdings plc (NYSE: HSBC) has selected AWS as a key,"
-    publishedDateTime: 2020-07-14T22:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-hsbc-reach-long-term-strategic-cloud-agreement-2020-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS Makes Strategic Cloud Agreement with HSBC Holdings; Dinesh Keswani, Frank Fallon Quoted"
     excerpt: "HSBC Holdings has selected Amazon Web Services (AWS) as a long-term strategic cloud provider to drive digital transformation and deliver personalized banking services, AWS reported on Wednesday.  “Our work with AWS is an example of how HSBC continues to invest in secure and advanced technologies to make our digital banking experience even better for customers,"
     publishedDateTime: 2020-07-15T20:44:00Z

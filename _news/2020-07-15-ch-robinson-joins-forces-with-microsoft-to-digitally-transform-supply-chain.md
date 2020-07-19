@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "C.H. Robinson and Microsoft partner to \"digitally transform\" future supply chains"
-    excerpt: "By combining their platforms, the leading companies aim to enable real-time visibility and meet the changing demands of evolving global supply chains."
-    publishedDateTime: 2020-07-14T21:47:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2020/07/14/c-h-robinson-and-microsoft-partner-to-digitally-transform-future-supply-chains/"
-    type: article
-    provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 49
-    images:
-      - url: "https://www.freshfruitportal.com/assets/uploads/2020/07/CHR-Microsoft-release-image-with-lockup_1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft And CH Robinson Worldwide Partner To Digitally Advance Supply Chains (MSFT, CHRW)"
     excerpt: "Microsoft Corporation (NASDAQ: MSFT) and CH Robinson Worldwide Inc (NASDAQ: CHRW) announced this week that they are partnering to digitally transform supply chains of the future."
     publishedDateTime: 2020-07-17T12:37:00Z

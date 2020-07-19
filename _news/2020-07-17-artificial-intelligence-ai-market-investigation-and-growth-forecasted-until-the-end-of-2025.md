@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T11:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Military Market 2025|Growth Rate, Growth Factors Impact on Global Market of COVID-19"
-    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
-    publishedDateTime: 2020-07-14T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-2025growth-rate-growth-factors-impact-on-global-market-of-covid-19-2020-07-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
