@@ -8,8 +8,8 @@ ampWebUrl: "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-dig
 cdnAmpWebUrl: "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: air cargo
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization"
-    excerpt: "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the"
-    publishedDateTime: 2020-07-14T17:23:00Z
-    webUrl: "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16617586"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-14_at_1.22.10_pm.png"
-        width: 1270
-        height: 714
-        isCached: true
   - title: "C.H. Robinson, Microsoft Team up to Digitize Supply Chains"
     excerpt: "In addition, in collaboration with Microsoft, C.H. Robinson built Navisphere Vision, a global real-time visibility product that uses Azure IoT solutions, machine learning and predictive analytics to assess potential disruptions across supply chains."
     publishedDateTime: 2020-07-15T15:55:00Z
@@ -95,15 +79,15 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 44
-  - title: "C.H. Robinson, Microsoft partner on supply chain transparency"
-    excerpt: "C.H. Robinson, Eden Prairie, Minn., and Microsoft are working to provide real-time visibility in the supply chain, a partnership that will accelerate innovation in transportation, according to the companies."
-    publishedDateTime: 2020-07-14T17:54:00Z
-    webUrl: "https://www.thepacker.com/article/ch-robinson-microsoft-partner-supply-chain-transparency"
+  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:51:00Z
+    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
     type: article
     provider:
-      name: The Packer
-      domain: thepacker.com
-    quality: 34
+      name: World Oil
+      domain: worldoil.com
+    quality: 13
 
 secured: "6VKoEFHmYJyPZ2u0FY8Cw2Dx43ZCftZb/8z+3qDd1VTq+h6Byj85czYdFXedN33NWCf9fz5zwxINwUo2GHSEkyR4cpcdbo3LpWX9oharNLrTXRZmgbUdicRkj0oPVd7vs0CmJSQM+hwRXVKhGmQu1utK0I0wD8a5VSMDesrgJNQXfsr47S0HKAyeO9cfoinwAysb1iGyh977HtanvpCh4XqHWbGex01YcXSDugs8AwrCIHpolqPLvcwOlW7ukmPJXSeXaNhDhbVbJt2xwFGUzvBWQXnMMGKmgLxprYKEqs0jZS0rYrS+3hnqqnoCqZX5mXulXrcZVrNTi7licXtj0jV8NRni8ABmQGto8/clo+i0bUbTfYwcs4UKjRSp1tAyTpNZ30ABwjuXheD5cQ2tBWloUQxpbft3skybKmkd9aOACWfJy4cQuGz56vNpf1Y6+lh6ibzEZLhwFgmm0QRt5XBw1zQADa8n/TCXBxCd2EgLTTE6jskGOJkCUxv4bj+4xYDZtTpQgVFOLCWYqiprOw==;egkzvCeKpNo4IeXYwqRPDg=="
 ---

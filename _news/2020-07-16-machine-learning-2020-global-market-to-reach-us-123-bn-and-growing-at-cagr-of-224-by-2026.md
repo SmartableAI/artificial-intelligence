@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16656425"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16656425"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,64 @@ images:
     width: 278
     height: 333
     isCached: true
+
+related:
+  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-17T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chipsets Market Overview with Impact of COVID-19 on Growth Opportunity by 2026"
+    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Chevron Phillips Chemical Company,"
+    publishedDateTime: 2020-07-17T09:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market 2020: key Vendors, Trends, Analysis, Segmentation, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Security Market is segmented on the lines of its application, technology, service type and regional. Basis of application is segmented into Anomaly Detection, Firewall,"
+    publishedDateTime: 2020-07-17T09:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market: Global Industry Analysis, Geographical Segmentation, Drivers, Challenges, Trends Forecasts By 2025"
+    excerpt: "Jul 16, 2020 (CDN Newswire via Comtex) -- This top-notch Artificial Intelligence in Supply Chain market research report has been structured by skillful"
+    publishedDateTime: 2020-07-16T17:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-global-industry-analysis-geographical-segmentation-drivers-challenges-trends-forecasts-by-2025-2020-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dHp43uP6vm7BrJdJzDpaHvu5aY/1TkE3djDdrI7B1Oo/jj4a7TJUw/2jZLLE+gYteprIl8RR+PkJrsTKTufYDdhKozIy/Nqu6NNCwC8+gH8Pi7tyZ+e2dIXtN+CS4k6Ayq81CKJ4u3Istm9/2gKoLJD41kolUsWF8Oo7ATlJcdLaqaAAQE1GwIsuMeWz4+Meg43G4nDOnJH/6e7BdqxKZLKs+i6WNNfjtMwXC3X38D0hxQuTl7FOh7oqWe2RFuylgVjjXRWirO70KUU8AD2wD0yc22wXkw4PPeWOpBLl4EXN5JWOR2P4CJRDATDNHfdbw6s31insClLmlPYgglbb1g==;I7VoTYn8IA42m5gH/NAGEw=="
 ---

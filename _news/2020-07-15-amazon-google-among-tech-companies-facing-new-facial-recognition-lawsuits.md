@@ -104,20 +104,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "UK, Australia Investigate Facial Recognition Firm"
-    excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
-    publishedDateTime: 2020-07-14T17:29:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21139951/uk-australia-investigate-facial-recognition-firm"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/07/16x9/2000.5f0cce797ed02.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "RealAML Launches Industry-first Facial Recognition"
     excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
     publishedDateTime: 2020-07-15T23:48:00Z

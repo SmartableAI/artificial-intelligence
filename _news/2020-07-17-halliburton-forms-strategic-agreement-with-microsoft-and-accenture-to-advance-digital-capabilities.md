@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
-excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreeme"
+excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."
 publishedDateTime: 2020-07-17T12:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200717005090/en/Halliburton-Forms-Strategic-Agreement-Microsoft-Accenture-Advance"
+webUrl: "https://apnews.com/b467a34562484b769bb04a71ab986f65"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200717005090/en/806195/23/4494504_HAL_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -79,16 +79,21 @@ related:
         width: 571
         height: 300
         isCached: true
-  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
-    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
-    publishedDateTime: 2020-07-17T15:51:00Z
-    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
+  - title: "UAE- Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
+    excerpt: "Saturday 18 July 2020 [ AETOS Wire ] ( BUSINESS WIRE )-- Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton''s digital capabilities in Microsoft Azure."
+    publishedDateTime: 2020-07-19T11:43:00Z
+    webUrl: "https://menafn.com/1100505899/UAE-Halliburton-Forms-Strategic-Agreement-With-Microsoft-and-Accenture-to-Advance-Digital-Capabilities"
     type: article
     provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 13
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
 
-secured: "RkfKPPHVLgQ+MVL8NdW778EuK+RuCqqGlN82FRBG7FpQfNxzGWGBxxQ+jWVBCNuho0JVVdIHXTObvmyp4dBPysfnOwqldXLhfFn0eRqwvDq9Zf1X1P6ulLEUi8U26ETT+hqUsw9uIMc7VBEe7rTXDvZey0b/9fgMAnAKLoGT2UaagKDJ8NxqqWWiBDpuDmd8GpozzT9IRr9nnKRA5XOYYfMPu+ecsZKoJ+eMOfhg8dnGvn+Ko0E/PiEhutsN9nGpCmT9NCSSyTdRx43WEBh1/xHqjxBQY5MD6M3p+SLskeTdu6e36lK+R+xB4Hgb0aa63FkoGj7jgjbm8BjraSfGWMOYBZi7o2yJ/tIY4Uy2fG+UhdeSx0jaYVFxa+4S+CefjPgaMtxJnj8UyahvoRRUnRTI8XufbKRnsHQVPuDUV1hTt7dZ3t3DLOaSolklB7mM1zO3avJemak7eVqWKZQ93jOQDafb1e7xCLfzU1hu9KHo4wp68xEHSyNkpo7/NKotqPyfc6Jn88aMFY1A9pZxLA==;E+0PK6c6gBMD06/Vd4bZTg=="
+secured: "AHzRG8I0E8199vTdmuZNun0/jGnp8em/cu1V+ofPm7kdkVFSv+cGaoW9bhWHsfM+TMUBg/ZY3YWu7848ghqrtlD4dBMATL/jgCErHWWT1z21ePZRdPT3p9yBzuyp+DhrVFE6GQD+Kiz+c6/Amnpi287BkeryHL5XkzpMaej/BI7AIjvoHNNy0SU8TseeWmr/shF8CXQdO2M7NUgWnU7XaBthBNJZv72cQFdf69s8Fd6B9nJwQZGA3UWZukDuGQ/deYicV8VtiHkGN+qazeuIsCnNGsBkGqoxZYbaCstRsQsRgKaNVv02wd+OU3dH9mZ/D2APugEdiv3g4hNkOA3jeA==;mVBb3b3eNdEcX5gFmrkCNg=="
 ---
 

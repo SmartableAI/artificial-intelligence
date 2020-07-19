@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Announcing the AI Innovation Awards winners at Transform 2020"
+    excerpt: "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,"
+    publishedDateTime: 2020-07-16T00:25:00Z
+    webUrl: "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/"
+    ampWebUrl: "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Female leaders talk ethics, advancing representation, and more at Transform’s Women in AI breakfast"
+    excerpt: "Powerful women from tech companies across the industry talk about how women can take their seats at the table in the technology industry."
+    publishedDateTime: 2020-07-17T13:11:00Z
+    webUrl: "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/"
+    ampWebUrl: "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 90
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-7.57.57-AM.png?w=1200&#038;strip=all"
+        width: 1200
+        height: 656
+        isCached: true
   - title: "Announcing nominees for the second annual Women in AI Awards"
     excerpt: "Winners will be announced on Friday, July 17 beginning at 3:55 pm. Awards will be made in 5 categories from Responsibility & Ethics of AI to AI Mentorship."
     publishedDateTime: 2020-07-15T14:17:00Z

@@ -2,6 +2,145 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-06-this-bangalore-based-startup-provides-omnichannel-solutions-to-retailers.md",
+      "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+      "excerpt": "Bringing Under One Roof Ace Turtle uses Rubicon 3.0, an artificial intelligence (AI)-based proprietary tech platform to integrate online and offline retail channels. The startup provides tailor-made omnichannel technology solutions for its clients that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/352846",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594044841-WhatsAppImage2020-07-06at73044PM.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This Bangalore-Based Startup Provides Omnichannel Solutions To Retailers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/352846",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/352846",
+      "publishedDateTime": "2020-07-06T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices.md",
+      "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
+      "excerpt": "AI often makes decisions with little human input, and it's hard to predict the circumstances under which they're likely to choose an unethical approach.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/07/question-mark-1872665_1280-AI-decisions-ethics.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": "AI Behaving Badly: New Model Could Help AI Make More Ethical Choices",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/amp/",
+      "publishedDateTime": "2020-07-06T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-why-infusing-ai-into-it-operations-is-more-about-the-data-than-about-ai-itself.md",
+      "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
+      "excerpt": "Almost every CIO I talk to boldly claims their enterprise is a “data-driven enterprise,” but the reality suggests a totally different story. With the help of AI, any enterprise can truly be a data-driven enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0242d8cd5e32000671586e%2F0x0.jpg",
+          "width": 974,
+          "height": 404,
+          "title": "Why Infusing AI Into IT Operations Is More About The Data Than About AI Itself",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andythurai/2020/07/06/ai-driven-enterprises/amp/",
+      "publishedDateTime": "2020-07-06T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
       "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
       "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
@@ -1244,147 +1383,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter.md",
-      "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
-      "excerpt": "With Google opening accelerators for Black and female founders, and with tech execs speaking about equalizing opportunities, I thought I'd at least be able to get a meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/AI_smarts.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 737,
-          "title": "An AI founder’s struggle to be seen in the age of Black Lives Matter",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/amp/",
-      "publishedDateTime": "2020-07-04T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
-      "title": "Larry Magid: Facial recognition loses support as bias claims rise",
-      "excerpt": "In a 2019 blog post about bias errors in Amazon’s Rekognition software, Buolamwini said, “among the most concerning uses of facial analysis technology involve the bolstering of mass surveillance, the weaponization of AI, and harmful discrimination in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2020/07/SJM-L-RECOGNITION-0807-01-1.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
-      "publishedDateTime": "2020-07-04T05:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis.md",
-      "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
-      "excerpt": "Artificial Intelligence and Machine Learning Market ” Global Report (2020-2026) provides market intelligence on the different segments based on type, application and geography. Market size and forecast has been provided in terms of both,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-size-2020-to-2026-segmentation-region-level-including-market-share-and-price-analysis-2020-06-23",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence and Machine Learning Market Size 2020 to 2026: Segmentation (Region Level) Including Market Share and Price Analysis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-03T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

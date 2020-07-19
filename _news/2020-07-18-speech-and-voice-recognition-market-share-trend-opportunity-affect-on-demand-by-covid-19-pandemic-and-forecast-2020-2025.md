@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -26,95 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Automotive Artificial Intelligence (AI) Market : Industry Analysis 2020-and Opportunity Assessment 2020-2025"
-    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
-    publishedDateTime: 2020-07-17T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-17T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:52:00Z
-    webUrl: "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    ampWebUrl: "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715385762_g.jpg"
-        width: 781
-        height: 512
-        isCached: true
-  - title: "Artificial Intelligence in Education Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Artificial Intelligence in Education Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in Education Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:25:00Z
-    webUrl: "https://www.openpr.com/news/2090562/artificial-intelligence-in-education-market-2020-future"
-    ampWebUrl: "https://www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715260600_g.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Artificial Intelligence Education Technology Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Artificial Intelligence Education Technology Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence Education Technology Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:43:00Z
-    webUrl: "https://www.openpr.com/news/2090583/artificial-intelligence-education-technology-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2090583/artificial-intelligence-education-technology-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090583/artificial-intelligence-education-technology-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715201228_g.jpg"
-        width: 786
-        height: 488
-        isCached: true
-  - title: "Speech Recognition Software Market 2020 Global Trend, Segmentation and Opportunities, Forecast 2025"
-    excerpt: "The speech recognition software is the latest advancement in technology to enhance security systems. The application of speech recognition in the healthcare and automotive sector is increasing at a faster pace. In the healthcare sectors, the speech ..."
-    publishedDateTime: 2020-07-15T18:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16638874/speech-recognition-software-market-2020-global-trend-segmentation-and-opportunities-forecast-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16638874"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16638874"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
 
 secured: "kAIuzdxl3kHQCj/Y8FkH110uGG7sWGhc0Wd7OIn4oMQef+glXZXyWV5n9/F1FnUgqy35Blgxfiar/ILNUK2jxul48ogHDXtG1YNm7wsBwV/KEfi2YtPzELFo1rx0ECeZPO5l9X3FjzckBPTAyjbErU+u2YYFohowLBnQMhuVmdUgtlviOdx2ndbnn0wIQICFydbsqNnIzWF4x+wtqRIVXCs3+QU/HDNrGBa8lnJN48yjhxmXu5KVYJpVk+taK0szuoQwxEDZnAiYriHR5SpSsj0B7IjTMYrSJ4cR6E67zhKkQsF+G3RP4TE8EcXo7dY0ozkRKDBJREr7VeM5adc4gw==;Vu7z7ki/uPOZ6VcHBdWPUA=="
 ---

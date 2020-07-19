@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization"
-    excerpt: "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the"
-    publishedDateTime: 2020-07-14T17:23:00Z
-    webUrl: "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16617586"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-14_at_1.22.10_pm.png"
-        width: 1270
-        height: 714
-        isCached: true
   - title: "C.H. Robinson, Microsoft alliance to digitally transform supply chains"
     excerpt: "C.H. Robinson and Microsoft Corp. have formed and alliance to digitally transform supply chains of the future by combining C.H. Robinson’s Navisphere®, Microsoft Azure and Azure IoT to meet the changing demands of global supply chains."
     publishedDateTime: 2020-07-15T13:00:00Z
@@ -95,15 +79,15 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 44
-  - title: "C.H. Robinson, Microsoft partner on supply chain transparency"
-    excerpt: "C.H. Robinson, Eden Prairie, Minn., and Microsoft are working to provide real-time visibility in the supply chain, a partnership that will accelerate innovation in transportation, according to the companies."
-    publishedDateTime: 2020-07-14T17:54:00Z
-    webUrl: "https://www.thepacker.com/article/ch-robinson-microsoft-partner-supply-chain-transparency"
+  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:51:00Z
+    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
     type: article
     provider:
-      name: The Packer
-      domain: thepacker.com
-    quality: 34
+      name: World Oil
+      domain: worldoil.com
+    quality: 13
 
 secured: "rsxynBppDQTf8a/iylz+gxcWb4ObKmhgjsmAFwmKmwuTof7rfNuuSlNdOzNux5rMWr35J6r+TxtzuUwyw19V2rP9LvHYvSs38c+d2x1Cvwg98RDT8HXRXCD4G9uNNVxmsQUVMcHImnUINcj7YmEzc3e8AJheGfG7UVqr4hoMHMTVmZl83zdC7yncNyEbGfUFvAuVHCoavYv0qhXcvD0W6ubg9a4lTUrj26UOzyC2E5DpXZt6FLc1+iFycsUdSTmWh/GTcm0z6fnBtggLcEBljB/xpvhz76O+I8PtWtmelCuf7TXBDayjkOZmJpzusmmKhuxxqtVWxV/YMDPRYUx9jU+bS9DC1BcQ4TE+Mxev1gl1mDJA+7OD87tR/BAD2PSIGEs4An2U/aPJTxtuFqREXY+9a2GN9Gar7wHgNoBVWHMqtGjBK7nRPPmgKC7obiPkPCKgcNg1uytHwRyJJa5ZbYaKotxynbf+Tj0p19jVQpRWeJ7eDsGzLUFccEyKj4QjjuxZYmpBXj5vg04SRswV/g==;gt/yH7hJkRo6ceUuopFtcw=="
 ---

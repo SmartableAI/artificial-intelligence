@@ -225,6 +225,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.md",
+      "title": "C.H. Robinson, Microsoft alliance to digitally transform supply chains",
+      "excerpt": "C.H. Robinson and Microsoft Corp. have formed and alliance to digitally transform supply chains of the future by combining C.H. Robinson’s Navisphere®, Microsoft Azure and Azure IoT to meet the changing demands of global supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stattimes.com/statbackend/assets/uploads/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.jpg",
+          "width": 527,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/",
+      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/",
+      "publishedDateTime": "2020-07-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "air cargo",
+        "domain": "stattimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
       "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
       "excerpt": "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000",
@@ -1340,38 +1381,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-for-machine-builders-its-open-season.md",
-      "title": "For Machine Builders, It’s Open Season",
-      "excerpt": "Today, software developers for the consumer market take advantage of open source code to enable connectivity, databases, visualization and more. Established developers in the industrial operational technology (OT) arena also are finding applications where they would like to use some of these same open source characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.machinedesign.com/automation-iiot/article/21135495/for-machine-builders-its-open-season",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
         "images": null,
         "publishers": null,
         "authors": null

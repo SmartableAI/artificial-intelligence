@@ -8,7 +8,7 @@ ampWebUrl: "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "This robot uses color cameras and AI to grab transparent objects"
-    excerpt: "Researchers from Carnegie Mellon University used machine learning and color cameras to train robots to grab clear and shiny objects."
-    publishedDateTime: 2020-07-14T17:57:00Z
-    webUrl: "https://thenextweb.com/neural/2020/07/14/this-robot-uses-color-cameras-and-ai-to-grab-transparent-objects/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/07/14/this-robot-uses-color-cameras-and-ai-to-grab-transparent-objects/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/14/this-robot-uses-color-cameras-and-ai-to-grab-transparent-objects/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-14T174454.288-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
 
 secured: "dLaUlycyzwggCMM8ylaczFkZBLMEMWXfRhj7SjylVeCAEg47/Z2Uy3qUJy/djteiHTKwgPZ6gdidStcveveCM8Y2ShngJdA5PXd31alxt7YHUxGtduBzKv6IzuZhLxKDCOCdpt+tD7UyfS0Mm7ZMFuifG0Rhr//l53D3Z5ONTMgGU31akVJrNwm6DO6uIycu7gD3JrFr5GIsEYKqNey8uc9TxWZBLe1WsPeLRY4okOLwUlTRbaWOFswFoPsFMMGJ93toJp85/CfvFb+c9KhPWhiDcsspvQZUca9NlyTpBS6q2/sXkzZnKnBgl2LoXSPbxloMw3QWtZhqlKc79GaApPRAB2siiCiefvAQOsKnGVKwcr20VJV4RL2VOR28rMFqEKmd5FcxLBRIYfTqHJ9HhAKR6IO4/384MlGwChn/h4r27r96OumoaODwiHgyJvTtn128163cqXY44aqrjoS/+ozWFmpkQ7Yvw9E3/B0MUCEA4yNNExVmuxv7CXMjH5o9UvEEpEpmh+In+/2UDa50eA==;nqJWmlqZYNIS6ZJLNYjXMA=="
 ---

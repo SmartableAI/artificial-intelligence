@@ -103,6 +103,57 @@
       ]
     },
     {
+      "path": "_news/2020-07-17-deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025.md",
+      "title": "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025",
+      "excerpt": "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-17T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-googles-fabricius-uses-machine-learning-to-decode-hieroglyphs.md",
       "title": "Google's Fabricius uses machine learning to decode hieroglyphs",
       "excerpt": "Google’s Arts and Culture vertical has been known to release fun apps and tools to help people engage with art and history. Now, the company is launching a web-based AI tool to let users interact with ancient Egyptian hieroglyphs and also help researchers decode the symbols with machine learning.",
@@ -881,18 +932,18 @@
     {
       "path": "_news/2020-07-14-bae-systems-mindful-technology-to-provide-transparency-and-build-user-trust-in-machine-learning-systems.md",
       "title": "BAE Systems’ MindfuL Technology to Provide Transparency and Build User Trust in Machine Learning Systems",
-      "excerpt": "BAE Systems' delivery of the MindfuL  (Photo: BAE Systems) Transitioning artificial intelligence-based systems from decision-making tools into true partners requires users to trust in their machine counterpart.",
+      "excerpt": "BAE Systems recently delivered software to the Defense Advanced Research Projects Agency (DARPA) as part of a contract under the agency’s Competency-Aware Machine Learning (CAML) program. The delivery of the MindfuL TM software is the first milestone in the program to improve the transparency of machine learning systems.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200714005224/en/",
+      "webUrl": "https://apnews.com/9d9f2fd55aca4991af788bab7dbf9168",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200714005224/en/805080/23/ES_-_BAE_Systems.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -904,8 +955,8 @@
       "publishedDateTime": "2020-07-14T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1390,56 +1441,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall.md",
-      "title": "New York City public schools will reopen with 'blended learning' in the fall",
-      "excerpt": "New York City, the largest school district in the US, revealed that students will partially return to schools in the fall using \"blended learning.\" Mayor Bill de Blasio on Wednesday said that public school students will attend in-person classes two to three days a week,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/FVZ4WPALIpd6pmHVCuQWAfRpRFk=/756x567/2020/04/24/a210ff3d-ed5d-459c-b234-7f29daf261bf/coronavirus-students-online-learning-schools-education-6137.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-york-city-public-schools-will-reopen-with-blended-learning-in-the-fall/",
-      "publishedDateTime": "2020-07-09T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

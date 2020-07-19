@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wired.com/story/best-ai-models-no-match-coronavirus/</loc>
+    <lastmod>2020-07-19T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/</loc>
     <lastmod>2020-07-18T18:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -169,12 +175,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/</loc>
-    <lastmod>2020-07-17T06:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020</loc>
     <lastmod>2020-07-17T05:33:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -187,8 +187,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17</loc>
-    <lastmod>2020-07-17T04:14:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17</loc>
+    <lastmod>2020-07-17T04:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -205,8 +205,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17</loc>
-    <lastmod>2020-07-17T02:35:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17</loc>
+    <lastmod>2020-07-17T03:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -403,6 +403,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/</loc>
+    <lastmod>2020-07-15T17:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6</loc>
     <lastmod>2020-07-15T17:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -417,6 +423,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043</loc>
     <lastmod>2020-07-15T16:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16</loc>
+    <lastmod>2020-07-15T15:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -577,12 +589,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/</loc>
-    <lastmod>2020-07-15T07:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/</loc>
     <lastmod>2020-07-15T06:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -596,6 +602,12 @@
   </url>
   <url>
     <loc>https://www.wired.com/story/ethics-guide-tech-rewritten-workers/</loc>
+    <lastmod>2020-07-15T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/</loc>
     <lastmod>2020-07-15T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -805,13 +817,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://apnews.com/PR%2520Newswire/a1d3f7d5e51e8b91f694ebb58a8532a4</loc>
+    <lastmod>2020-07-14T09:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.slashgear.com/opencv-launches-two-4k-oak-spatial-ai-cameras-for-diyers-14628844/</loc>
     <lastmod>2020-07-14T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200714005224/en/</loc>
+    <loc>https://apnews.com/9d9f2fd55aca4991af788bab7dbf9168</loc>
     <lastmod>2020-07-14T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1753,12 +1771,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx</loc>
-    <lastmod>2020-07-08T12:08:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/08/googles-data-qna-is-an-ai-service-that-helps-business-users-get-answers-to-analytical-queries/</loc>
     <lastmod>2020-07-08T12:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1827,6 +1839,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/tellius-unveils-on-demand-ai-platform/</loc>
     <lastmod>2020-07-08T08:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08</loc>
+    <lastmod>2020-07-08T08:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1981,14 +1999,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI</loc>
-    <lastmod>2020-07-08T00:27:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08</loc>
+    <lastmod>2020-07-08T00:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08?mod=mw_quote_news</loc>
-    <lastmod>2020-07-08T00:17:00-07:00</lastmod>
+    <loc>https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI</loc>
+    <lastmod>2020-07-08T00:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3319,6 +3337,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
+    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bbc.com/news/53236921</loc>
     <lastmod>2020-06-30T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3465,12 +3489,6 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
-    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

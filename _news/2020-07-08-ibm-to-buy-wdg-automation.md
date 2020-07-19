@@ -1,25 +1,21 @@
 ---
 category: news
 title: "IBM to Buy WDG Automation"
-excerpt: "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that"
-publishedDateTime: 2020-07-08T19:08:00Z
-webUrl: "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
-ampWebUrl: "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+excerpt: "IBM (NYSE: IBM) has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that enhances access to intelligent automation using software robots."
+publishedDateTime: 2020-07-08T15:25:00Z
+webUrl: "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08"
+ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "S8QjuGfWQdgBxrktdfv5Wlp3A2/rZn5WAL4EkOQkPHcxPYPJ4Mv+CQZ0wN70SnDxDQih1E4SErid1MRCAf7OhiFRCN8XnPVbGDyZJRzE7j3GjBdzes7LZzEyRHwMLK2P6trvRp6TqbWWP8uW+caQ7SU5YK/oZNqBpMIJd8ARS7mCPmbZNgIrIpTgJGKGGz9thTTWfq1qOQZZUx7XC48Bnmu6Dg9o2K45ffyfkadrSOiqGIncOh860AIsg3ojhs1jG2xrFzooBiRjYe59HI+ZyOQiorlq7Qf4Bvk2KXYpjix8qBexcpAjpwvDejcWQO+aL0u8c/L5WbWXZ2hcXxxpmg==;VamsuhP+EXswUpmlxVjzwA=="
+secured: "hztanTmOS6gElWriHGp5Vj06pGcZux9n5QUchErfb8qKxELKCCq/TK4a3LzK9EGZgqMtfr1IwLhtBYgoRrt2VbY2ryrEMczlLaiJyng4sYaimdItXfOSFWbKeroEIUKt2jG1Pl3cpVSG/W8igCWyxRtwNSdiUIo8c3xxcXC+I3M7qvyHVVeTdT5F15vIrLX7TmGNdMwNBvF//3Tqv7s46uN6nw//guBep+BLdxtXstl/HEyOYWjelNSsPvpLmS52A1nnTEUWyJrCKvU/VXEEIl+J0hpArIeQ3bgLeiBwMnwAth/xxiNRC/kRT6IbdrX1ZazFXlHqE9U+NmKj0vxceo0TmhPlcwpgsago+g7wOhWxRwO6d3DOXl+vipwPHbopORCKTXgBtkCpjwWFXie7vcqKD4zfqHzFoaYkNXmnPTAoHrZMRbusQDwR+5RuKmq+/hmH4Ca8U+k9jsBQzN33SJmipBFEH9rMptzwe3ZH5UTRKhrO3gIHzbW8N77r6Gxl;D6AADYbptp8sR9zybMwqfg=="
 ---
 

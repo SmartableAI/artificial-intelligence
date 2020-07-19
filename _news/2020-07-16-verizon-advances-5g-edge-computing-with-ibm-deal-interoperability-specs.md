@@ -104,6 +104,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "IBM and Verizon Business team up on 5G, edge computing tech"
+    excerpt: "IBM and Verizon Business are working together on projects that utilise 5G and edge computing technologies for industrial enterprises under a new collaboration effort."
+    publishedDateTime: 2020-07-19T11:19:00Z
+    webUrl: "https://www.arnnet.com.au/article/681427/ibm-verizon-business-team-up-5g-edge-computing-tech/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_dreamstime_2.jpg"
+        width: 740
+        height: 462
+        isCached: true
   - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
     excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
     publishedDateTime: 2020-07-16T20:21:00Z

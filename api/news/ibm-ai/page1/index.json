@@ -9,7 +9,7 @@
       "webUrl": "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 167,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -245,47 +245,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-08-ibm-to-buy-wdg-automation.md",
-      "title": "IBM to Buy WDG Automation",
-      "excerpt": "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "publishedDateTime": "2020-07-08T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-08-emerge-smarter-with-watson-how-conversational-ai-keeps-us-connected-in-a-post-covid-19-world.md",
       "title": "Emerge smarter with Watson: How conversational AI keeps us connected in a post-COVID-19 world",
       "excerpt": "\nWith the COVID-19 pandemic not yet in the rearview mirror, organizations are figuring out how emerge smarter, looking at how to keep employees safe, but productive, and how to best support customers and citizens seeking accurate, up-to-date information in a mostly remote world — all while trying to",
@@ -332,6 +291,38 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ibm-to-buy-wdg-automation.md",
+      "title": "IBM to Buy WDG Automation",
+      "excerpt": "IBM (NYSE: IBM) has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that enhances access to intelligent automation using software robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp",
+      "publishedDateTime": "2020-07-08T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {

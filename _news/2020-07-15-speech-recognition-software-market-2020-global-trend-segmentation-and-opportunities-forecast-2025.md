@@ -20,91 +20,29 @@ topics:
   - AI
 
 related:
-  - title: "Automotive Artificial Intelligence (AI) Market : Industry Analysis 2020-and Opportunity Assessment 2020-2025"
-    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
-    publishedDateTime: 2020-07-17T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17"
+  - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
+    excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
+    publishedDateTime: 2020-07-15T10:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2024-2020-07-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-17T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
+  - title: "Artificial-Intelligence-in-Education Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID-19"
+    excerpt: "Education   Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
+    publishedDateTime: 2020-07-16T13:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Consulting Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence (AI) Consulting Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:52:00Z
-    webUrl: "https://www.openpr.com/news/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    ampWebUrl: "https://www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090603/artificial-intelligence-ai-consulting-market-2020-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715385762_g.jpg"
-        width: 781
-        height: 512
-        isCached: true
-  - title: "Artificial Intelligence in Education Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Artificial Intelligence in Education Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in Education Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:25:00Z
-    webUrl: "https://www.openpr.com/news/2090562/artificial-intelligence-in-education-market-2020-future"
-    ampWebUrl: "https://www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090562/artificial-intelligence-in-education-market-2020-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715260600_g.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Artificial Intelligence Education Technology Market 2020- Future Development, End User and Business Strategy Analysis"
-    excerpt: "Artificial Intelligence Education Technology Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence Education Technology Market is segmented by Regions/Countries."
-    publishedDateTime: 2020-07-15T12:43:00Z
-    webUrl: "https://www.openpr.com/news/2090583/artificial-intelligence-education-technology-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2090583/artificial-intelligence-education-technology-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090583/artificial-intelligence-education-technology-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 34
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715201228_g.jpg"
-        width: 786
-        height: 488
-        isCached: true
-  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
-    excerpt: "Voice and Speech Recognition is the ability of a machine or program that can identify, distinguish and authenticate the voice of an individual speaker, understand and carry out spoken commands. Benefits of voice and speech recognition includes - encourages natural,"
-    publishedDateTime: 2020-07-18T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
