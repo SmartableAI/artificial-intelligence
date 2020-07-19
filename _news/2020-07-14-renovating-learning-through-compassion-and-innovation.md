@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Further Clinical Implementation of Deep Learning Segmentation in Treatment Planning System RayStation Takes Place at Leeds Cancer Centre"
-    excerpt: "The in-built deep learning segmentation thorax model in RayStation 8B provides fast and excellent performance for ipsilateral lung contouring in the hypofractionated breast RT scenario. Given the positive results,"
-    publishedDateTime: 2020-07-14T14:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/further-clinical-implementation-of-deep-learning-segmentation-in-treatment-planning-system-raystation-takes-place-at-leeds-cancer-centre-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "9Icm6VTHJ4noPQUftOQVugnSPu5z8BlHMVTptcVqaK8c/y4kyQHDW8d9+o5cp+WK2otLhKpkVJggIrd/IbJqWF4sPABax3FiUjsfwA7Kk5LCA4wM3FHqSKgbRheNMVVfz1EkQTT6yIjv7yFjZmxBOraRtlYU5lJf+l3CQn8JXKFT9QnxNka23SWnJlzMNhmtjpTXqlnpNPD83xy86LySt/gYMFaEl2UaGfJ/7KYnymvQMc8qPIHg1hXiq2/+6MeX8lv736g46b5dqszIiUt+jBuByYHqlYxc3CisdQhp9uvuWXs1G9BjknWeTWVY3F+iyMkBLhknkw9uFthZPcFA3UuSNiGPcBf+7C23UT8SaNWuOqGg2JhGgC3UMhWr5BP33MR4t0taoiMCxpg5GYDm5N1fml7GFbduaZx0jbXWUW+rGYCSl7uCJP3mPyZ2Irp6Rwa++aXFzpd/Ac2wIa+mJvWeY6/PlS2AiZECPw9u8bSZGJmy/CwgEqUg8SrDQXQ84291wxrWU5s1TY8WjdS3VQ==;LfwfVMls2RUNQrYIe+kgYw=="
 ---

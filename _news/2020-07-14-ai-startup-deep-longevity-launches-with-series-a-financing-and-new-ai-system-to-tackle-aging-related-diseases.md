@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "RealityEngines.AI becomes Abacus.AI and raises $13M Series A"
-    excerpt: "RealityEngines.AI, the machine learning startup co-founded by former AWS and Google exec Bindu Reddy, today announced that it is rebranding as Abacus.AI and launching its autonomous AI service ..."
-    publishedDateTime: 2020-07-14T13:11:00Z
-    webUrl: "https://techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/"
-    ampWebUrl: "https://techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-imsev208-063.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "iPYBShWcS5GpWymQbVsrLSZieVqiiUafOdHsdS9vFv/HTO7cSsjXxs22yQscRjI0MrUqcqxuFQKnXRMyP4VanvAg9hpBVFDxmL51hgkDkONbMsolWRgs5EZko2A9N6fs9nn07rk/RXvbo7qwVosZjYPPqp95xY+p2SDrtUpHja0jrGsqgvBSNB6hYwTVjlOrBwgH5z03pLeDj+wUvqGhyRXq/RXNLA2RFsB5ZvHvU5lrbM/Er6F6VHJZeB6xTp9zJvsGcB6q+sJy7myS30SKrUOnqs9eWUN3H1VVDAHebEhFFxwaF7b6xSrEF0eyphZdEaBpsgAurXGuX1SZRbu5wQ==;pAaLhCrmTwW7DocuYr581Q=="
 ---

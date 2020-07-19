@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-18T13:15:00Z
 webUrl: "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -43,6 +43,22 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
         width: 984
         height: 738
+        isCached: true
+  - title: "First self-driving taxis to hit Moscow streets in 2024"
+    excerpt: "A fleet of driverless taxis may start operating in the Russian capital within the next several years, according to Deputy Transport Minister Aleksey Semyonov. “If we efficiently start implementing the plan we are developing on the basis of our stakeholder authorities and key companies (the Transport Ministry,"
+    publishedDateTime: 2020-07-19T05:23:00Z
+    webUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/"
+    ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 44
+    images:
+      - url: "https://cdni.rt.com/files/2020.07/original/5f0f139785f5407b451936aa.JPG"
+        width: 1240
+        height: 838
         isCached: true
 
 secured: "8rWP31wntKfGk0bfsZD/1HAnAZJdaLJ73Ak//sRUdifqSvarYPvFS1R6deTyCCz+x0rcHc46qkdjlZn01+mW7v7kYy77hOtTEnzdHobOw1gLOBCr/VbhxSnA2jgoGdtKqAkJqH/UodM8eZLkYM7adT3eTRIHm019MVRddZu0rOupN8iNkzQALWrX3Fjjzw71jF/VDgCZbKgbdPzX4QRZvuE3k2mHS5QUbhs6uJYcyWrdsIKL03sEzuhNv1E1Ty3Pl9bZNb4fgcCDMsDd8BDsuZPVEt5UQxJmZRqBocOHktOknEbIrIkQZUuw6w/tYcx8NrECqrw1fCpX5XDLxrbI7LpxqoNeqwuSXEQ5MO/8yApngOnP9WI7bjFzhEj5cLK/Y5KTa1fcYjzzHtkHiDwYEZORH43KWTqnC0Eo4iyulaD2R5ksKVZ6sSLEaRGrI0c51NmHVx+GCBFTVKFFL2HjIzqCUC7ItqkJ+msaOXKIqt85SMVh6YRZVKuPXcEuzMplf73C6wqxd3F9qJKBFFQBBQ==;0a8ZmAQJKDM/TmUJOeAkfw=="

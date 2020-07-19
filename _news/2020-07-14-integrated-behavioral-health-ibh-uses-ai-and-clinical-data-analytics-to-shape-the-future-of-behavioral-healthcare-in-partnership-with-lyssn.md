@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-14T16:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn-301092304.html"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1114
     height: 583
     isCached: true
-
-related:
-  - title: "Frost & Sullivan Radar Ranks Wolters Kluwer as a Top 20 AI Innovation Leader in Healthcare IT"
-    excerpt: "Wolters Kluwer, Health, a leading global provider of trusted clinical technology and evidence-based solutions, is recognized by Frost & Sullivan a"
-    publishedDateTime: 2020-07-14T13:57:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200714005699/en/Frost-Sullivan-Radar-Ranks-Wolters-Kluwer-Top"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 43
-    images:
-      - url: "https://mms.businesswire.com/media/20200714005699/en/805278/23/Wolters-Kluwer-AI-Frost-Radar-closeup.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "r7D9pFEjwWm8xS72AJLM+iX9SvOttWjyMJgcoGq7AkR3jf9AA4Oq0zrGM/xq2RXVgSpKyp6rKFqyfiHxldIBLCZlHYLgxvBrJfTFOyrmtrWTrgC6TScVH7WSCSOp9M1wBZ0Huy7Jv2k2fCNPvqgxS3gGg53IIPpUsezeKRVm41WbDuUKe6VhOuUUWE87B1vyU/Sd7AMApz9x80RGYsZFX75giO1tttYUOmL4DAOXAYO4XT7zJ+5xxDx1tfHJdEBmO+0nfEIgL4AqVA/QoAb9WAV+SG5XX95S5pNvycSUQ9ZfCGuecKLaZrOrs76XCx7xO5Fb+z4CtGNomZdkVmsSf44zvlij4u8N1+0O+Cvef3DKFkNfiBL/Zw1eHjgtQRE3J4LOAMWoi7xxbXqdpJvCU5T8gQjpYA9gAlMfNj7JY24JN3YA0UmJ0Je03lG2B+z0GqE2JE0a0A6ANQCTRi7/D9kaDxYQ1WCgKt1cyJH7OTCBRNBcv8KtLQyd1gO7ivLGcU8U3nGey3KybcBBkMzSBQ==;3d2PwKN7LlBzXrQK7QtOug=="
 ---

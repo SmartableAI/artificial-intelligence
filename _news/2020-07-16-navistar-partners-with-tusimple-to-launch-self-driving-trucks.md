@@ -30,7 +30,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 172
+    quality: 174
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
         width: 1024
@@ -79,6 +79,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
+    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
+    publishedDateTime: 2020-07-19T06:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
+        width: 600
+        height: 237
+        isCached: true
   - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
     excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
     publishedDateTime: 2020-07-15T12:04:00Z

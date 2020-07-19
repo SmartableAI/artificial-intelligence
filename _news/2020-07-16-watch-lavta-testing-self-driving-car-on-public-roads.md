@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "First self-driving taxis to hit Moscow streets in 2024"
+    excerpt: "A fleet of driverless taxis may start operating in the Russian capital within the next several years, according to Deputy Transport Minister Aleksey Semyonov. “If we efficiently start implementing the plan we are developing on the basis of our stakeholder authorities and key companies (the Transport Ministry,"
+    publishedDateTime: 2020-07-19T05:23:00Z
+    webUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/"
+    ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 44
+    images:
+      - url: "https://cdni.rt.com/files/2020.07/original/5f0f139785f5407b451936aa.JPG"
+        width: 1240
+        height: 838
+        isCached: true
 
 secured: "T1Yq5S6C1+te01LQ8gUJdZvfbSPT/xM/bXH+7JmK1tw/YvQTxB3zAnS5p6AO8wrObemcHhC84XJQ49xc5KLa6uqxfV0v5je/d4/rtCITSmX2ny5+q7915kY+IvK9Yx5sh1qS2EccvzRaNfaD9VXWZXcTGzsVkzeSLLfUnA7PxCLHAsgbe34/ntNlWnEmRLQDh5aIda0jL5Acf6o0fZUFfow9RwfRkTtsnG9kSLeuxtYZVibAVx74MqZ9rf32gLEmHVSQU51aJOPB5xB7g03/hx/9/gmfYGzlDdpMid6v6qXhi/r3tyPbnoMM12xt415hQ/OlT4QdoP8vGh3HgN5qDXU30NRHHRRHO51Bhp1sj/GmYa7nav2pZbZHG8P49KMGNuAfOPL7U/D2eKtMoNa8Lp1MC/Xnw1Rd/qbBIskbdxkCak2Xww9HBsGnna+cx6kYDhSL4L2dGf9gxmew28zJ4xsalbJHsD2rmFx6t23TcphFyL8Yu1M7tZevY1uHyLhCRZgrS4T3M2t5Y4BE3HKFqQ==;AS/6l4CTUDakbAknG1BqnQ=="
 ---

@@ -34,20 +34,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Samsung, Microsoft team up for IoT services in real estate"
-    excerpt: "Samsung and Microsoft said they would combine their various offerings to sell IoT services to the real estate development and property management industries."
-    publishedDateTime: 2020-07-14T15:01:00Z
-    webUrl: "https://www.lightreading.com/iot/samsung-microsoft-team-up-for-iot-services-in-real-estate-/d/d-id/762398"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
 
 secured: "EjH5Nopvhd9xyjYbKsYyYDUrC8nsXnYZEB6SW2arsD0F4zT3f0t7wDOktYFCbcxUdpDwp+iWCZRPN0pzTOmm6ycYV4mT9jZmsz9zD+lTrKY9PfAj0EOp7JmCyx5cGaVv1sgbdnzm0KeFhMmTdoYr8I3XLXuWVmUtNdcc6yeG1Y97caPMNoXAtTa2unP2KpxQN484bLmb4hJyJRZk9luViIesvHFLDbVMFdWIdDmQ3u90IbHVjFkT0ZTVFpZQaYX6lS/9sAgsFMuq54eHzT584pU4tP9U6jTF5M5ZkfWK84dkcrQB8wwRVWxodrRau8Qh26aarsXQmb+695G9JXqkQfqgIv/r7tjx/7wQPNreOKwH+u/ru+MgX6fzqimMLrt/zny1Zgo+EPCjfqXw/6U6dLvlbpYVkj9FEk007YSaQiPWh2oiJgckfZlho7bOK4BvEM0+WKt+HoDm4qLdT5WxrZMv/ybHcTKpsCwOnc7eIZ6X2DJ88r0oQduvb/4G0aG4468EnB9GmkfeX2hVIQPCDg==;DP+iLyrRTSKcLebYODTnRA=="
 ---

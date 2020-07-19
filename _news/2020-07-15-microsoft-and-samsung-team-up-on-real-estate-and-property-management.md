@@ -8,8 +8,8 @@ ampWebUrl: "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Jerusalem Post Blogs
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung, Microsoft team up for IoT services in real estate"
-    excerpt: "Samsung and Microsoft said they would combine their various offerings to sell IoT services to the real estate development and property management industries."
-    publishedDateTime: 2020-07-14T15:01:00Z
-    webUrl: "https://www.lightreading.com/iot/samsung-microsoft-team-up-for-iot-services-in-real-estate-/d/d-id/762398"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Microsoft, Samsung Partnership: Azure Cloud Manages IoT Devices"
     excerpt: "Microsoft Azure IoT cloud services plus connected Samsung devices could unlock new ways for MSPs to push into building management services."
     publishedDateTime: 2020-07-14T21:53:00Z

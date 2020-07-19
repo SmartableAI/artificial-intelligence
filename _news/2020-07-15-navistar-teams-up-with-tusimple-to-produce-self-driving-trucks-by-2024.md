@@ -7,20 +7,21 @@ webUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-pr
 ampWebUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
 type: article
-quality: 172
-heat: 302
+quality: 174
+heat: 314
 published: true
 
 provider:
   name: TechCrunch
   domain: techcrunch.com
   images:
-    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
@@ -83,6 +84,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
+  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
+    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
+    publishedDateTime: 2020-07-19T06:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
+    images:
+      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
+        width: 600
+        height: 237
+        isCached: true
   - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
     excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
     publishedDateTime: 2020-07-15T12:04:00Z
@@ -218,6 +235,6 @@ related:
         height: 630
         isCached: true
 
-secured: "nrmFENTvFo8JFEgg4r2SbieiHX9fEDiv/W5oRkEGCENl1TKSxKVki/i90zh1OEYyJLh+MfOfG5JtQVvcNkypkQHCDL2vTqWYPJbi1bm/mh4/s5THmA1/pXsGUdf1Jto3B+16s72+Yr23yqKFvqVUS/J4d2k5YiX/4XV9RT0vfJKvUCgdhmM9vDa2k3YkuyPBKKmOyQ+A78ogdxSrbG+VwF3LrztX45H/cACFg1B8Q/+PEhDWQHmCdHfB7DzqfE+ha6RguxWDCIz/FGSqMwB/Ixb1X6osDMlfxDEgrUJudWiAr8HeaDHbB2dzuSO0Bp/Oiajo6aV9Y1ZVWISq0QAEKQ==;5ExpTKh0B19TLZadLsV+CA=="
+secured: "5rZ7Leb6gsR+tewjYvh+3uvksmLCOKhUjTS2ghn/7qaGwWaMk6OckjufUr/wKdfv+w2VcRw5VrvriflPfi/7gwm9y6fyCdffiYI84BEJme/C7k1UlcvAc3XH2fTN2P3jiv0379QBxeKm42nNKqWF6zYALIqZyGLSEmD+FdXZ23YfqTpCyHRjFdPNJQw1zZjRSIwmIGwSWEwONz1ky/UVNbh8pa9tWB25Z6GYU8fhUvlrLmL2Vqnxkdjxp4ehymShGS+r2E8K+jJsPF5bqLcgXqWsVJUsx1FX4fG5SQsniL35zERNejvQrrl6GrUkDXwAeOUK15lxOevhm6vR0ecolkl1J9WXRIKrqkdT8raOV21wwUtNUuVf03ZMdmvU8bvmiwRpPeLbW+p+zt0I7uKss5e5Z8sFAIWLMffIliMQHRjFo5Cq2Z0eOIt7mIvWsqCNNeTjALTk2TykgsRDY/i3wpoRo8YRkwrYzbgOcKo4alLnP2l1Q8mqgNWoUW0rUu8U+2IfPWuN/DIUvgQQsGv4HA==;eZ0WyOndwUbjwNiU3Fb3MQ=="
 ---
 

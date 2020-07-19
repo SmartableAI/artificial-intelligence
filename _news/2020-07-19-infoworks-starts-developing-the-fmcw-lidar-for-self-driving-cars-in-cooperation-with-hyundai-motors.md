@@ -1,33 +1,28 @@
 ---
 category: news
-title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
-excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
-publishedDateTime: 2020-07-15T12:08:00Z
-webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/"
-ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
+excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
+publishedDateTime: 2020-07-19T06:48:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
 type: article
-quality: 84
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
-    width: 1200
-    height: 676
+  - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
+    width: 600
+    height: 237
     isCached: true
 
 related:
@@ -46,6 +41,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
+    excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
+    publishedDateTime: 2020-07-15T12:08:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Navistar to develop self-driving trucks with TuSimple"
     excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
@@ -85,22 +96,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 49
-  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
-    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
-    publishedDateTime: 2020-07-19T06:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 45
-    images:
-      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
-        width: 600
-        height: 237
-        isCached: true
   - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
     excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
     publishedDateTime: 2020-07-15T12:04:00Z
@@ -236,6 +231,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dXsgOUTU7pWc3SuudkjhmhPiwZCPuSkObBkGeF8igLtWobEV1sH4Cr5sYpPTi80jJexOja9CpRyBOpaNu49CTqcypCWt6fGijTX1dVuIpuGrPZp5SwXf2Jgh4jWcwznQDhdbNHH4GuvfHwmWjbYaf58aiQxUidnLiX7CBLHFVjApekevFYcNeEcRE7NxBlZIU1MPrW27a78bZeJpp7mbnfJK4IdCiay3aK6nczHlYhkhAWwjjhFCwO9RfkChrQWBPECCitDg1I3/SwFNZEVJrKZwS/5/6HPYjOB50FreqMmFtj5Shib8M7zupH4GkuMRSnUsVv7nZNCF6hFxbbPObL0kF52SuiYEmtocMlGZRURBw4SC2/ENwUzB4IGDuwRsWJoTdnc2LchCp6wgIYlNzAzjbH+sMNHRlGed8wEP0VqEWQ8mAhemDIEMB1iLmbCz4XZ8Mkxz1ga4wzTWGhFlTr7HmcLiSVr6O8TAFJUxrOK82mMYImV6z6WIhsxpoSONYnjD6fMyW1rK404oHJZ9rQ==;Z05wqjOPQxItlP7OWFHNRQ=="
+secured: "eOGd7oy+PJHFZ7qrs/8aLn3zA9MsgG7KKzemMmT1LK4+po8tL97iQJ7HaLRPiT+0X7fC5KoKgE8cMvqheCkobHy9crtgjpYzNomY8FMhTnfHy6zw1dn6DxunBdGl/jV42SvQz/NW9MvbVeQA79V9pd2OorpxBBVBtpaxiTGcArg0pcoV0Yz1ihrnBGa0MtYHPUVMkxl8U7jE4OG81dkkJN7RsIYPAw3RcjcM4xUKAOmulXB1KthwPT+MWUJg9He/FzxpNiM/XQd3JXDpoWzH/mZgWm7ulsgvCi++lrmfu6ticjOg45ZIBh7tv5VTbeZ8xXorRj8tOnZ2W0O9LLAQlQ==;XQIfaa/VtnXEhYkERLwScw=="
 ---
 

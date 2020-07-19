@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "RealityEngines.AI becomes Abacus.AI and raises $13M Series A"
-    excerpt: "RealityEngines.AI, the machine learning startup co-founded by former AWS and Google exec Bindu Reddy, today announced that it is rebranding as Abacus.AI and launching its autonomous AI service ..."
-    publishedDateTime: 2020-07-14T13:11:00Z
-    webUrl: "https://techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/"
-    ampWebUrl: "https://techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/14/realityengines-ai-becomes-abacus-ai-and-raises-13m-series-a/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-imsev208-063.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI Startup Deep Longevity Launches With Series A Financing and New AI System to Tackle Aging-related Diseases"
     excerpt: "Deep Longevity, a biotechnology company transforming longevity R&D through AI-discovered biomarkers of aging, came out of stealth today from Insil"
     publishedDateTime: 2020-07-14T16:00:00Z
