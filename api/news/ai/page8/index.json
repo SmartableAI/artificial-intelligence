@@ -2,6 +2,55 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-10-the-best-way-for-companies-to-incorporate-esg-goals-is-by-using-data-science-and-ai.md",
+      "title": "The best way for companies to incorporate ESG goals is by using data science and AI",
+      "excerpt": "Junta Nakai, global industry leader for financial services at Databricks, explains why using tech is the key to truly realizing the benefits of ESG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f089ff34dca681cf8372305?width=1200&format=jpeg",
+          "width": 667,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7?amp",
+      "publishedDateTime": "2020-07-10T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-facebooks-ai-separates-speech-in-recordings-of-up-to-5-people.md",
       "title": "Facebook’s AI separates speech in recordings of up to 5 people",
       "excerpt": "Facebook researchers describe an AI system that can isolate speech from recordings of multiple speakers on a single microphone.",
@@ -1373,55 +1422,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ai-wants-to-make-your-writing-more-polite.md",
-      "title": "AI wants to make your writing more polite",
-      "excerpt": "Carnegie Mellon University scientists come up with a technique that automatically makes communication better mannered, thank you very much.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-wants-to-make-your-writing-more-polite/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-wants-to-make-your-writing-more-polite/",
-      "publishedDateTime": "2020-07-09T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200714005512/en/805230/23/75574499-30C1-4259-9CB2-B4555C80414E.jpg"
         width: 1200
         height: 627
-        isCached: true
-  - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world’s first autonomous AI service"
-    excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world’s first fully autonomous AI service. As part of the launch,"
-    publishedDateTime: 2020-07-14T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/2f458aecc38296d29e84d9e02fc62ac8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "w0hbn/1/KhXaZOnsdW6qwRVoVW89/Fd7iOmKD1gm+vUhh/zbdoT+b0A4rXX8NuVk5vnnhO7/FgMDHc5lJJyvf7JRudq/CSpdp3hFOth8ikGB1LVm4gqLjiE/JAgB41J8hSY++W2oncx2ZjnzHs8qiWzMUCRp4zPX3+Ub/v0DgJJmXdqlNqxuV226DQDXe0GAa5IDgBuesVokSYy1sodwceDtNbEvO60irqHPnKRYVrPv1vANdlFGg/SCPYXoBicE15DIhS6Wt5pheOwmnKm6Wm6tLt987bM0JphEpoNmoP+x67S91DkkcKvPw7pUSMQHJKvKVzgQx3DqQDv0IsS3Am5z/Ajskm/B+qKGksOSJXOEbQCDsqyGdy5p1hoDZlZ6+e82ryoFJgI2FYpRfHwbBjmfuRCGcsPscm28GmBRFLLheTG8+xp1djq/2JvKBfi8EBef35trsvoLZumOu4PV6bJXO2zd0/gmVGgYlpO1jn8EKT6vaVFAiqU85Tj1cjx4;fl40s8kYeSP+NdCNSYw8Hw=="

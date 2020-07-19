@@ -115,22 +115,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "White Castle to test out Flippy kitchen robot to cut down on human contact with food"
-    excerpt: "The idea is to reduce human contact with food during the cooking process and comes after many restaurants were crippled due to the pandemic."
-    publishedDateTime: 2020-07-14T12:24:00Z
-    webUrl: "https://www.usatoday.com/story/money/2020/07/14/white-castle-brings-flippy-burger-robot-kitchen-due-pandemic/5433415002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5433415002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5433415002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/ae01e88fefd295cc37badb44af413d36a92f9ba8/c=0-32-1608-940/local/-/media/2018/07/25/USATODAY/USATODAY/636681286027605686-Google-ChromeScreenSnapz039.png?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "A Robot Will Make Your White Castle Burger! Say Hello To ‘Flippy’"
     excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
     publishedDateTime: 2020-07-14T23:42:00Z
@@ -144,20 +128,6 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2017/10/abstract-1238247_640.jpg"
         width: 640
         height: 491
-        isCached: true
-  - title: "White Castle is Bringing Robots to the Kitchen"
-    excerpt: "White Castle announced Tuesday a planned pilot with the company to accelerate adoption of artificial intelligence and robotics throughout the 99-year-old, family-owned chain. White Castle will introduce the new version of Flippy, Robot-on-a-Rail ..."
-    publishedDateTime: 2020-07-14T12:00:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-food/white-castle-bringing-robots-kitchen"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-07/WhiteCastle.jpg?itok=dNAmDdNf"
-        width: 765
-        height: 446
         isCached: true
   - title: "White Castle Set To Roll Out Flippy, A Burger-Flipping Robot"
     excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
@@ -173,17 +143,6 @@ related:
         width: 583
         height: 300
         isCached: true
-  - title: "White Castle to test grilling, frying robot in restaurants"
-    excerpt: "White Castle is about to get a new assistant in the kitchen – a robotic one. The fast-food chain will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy, an autonomous grilling and frying kitchen assistant,"
-    publishedDateTime: 2020-07-14T11:06:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
-    ampWebUrl: "https://www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/columbus/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "White Castle to test new version of burger-flipping robot"
     excerpt: "Potential solutions lie in automation, and White Castle is prepared to give it a try with a pilot test of Robot-on-a-Rail (ROAR) technology. ROAR is an updated version of Flippy, an autonomous robotic kitchen assistant,"
     publishedDateTime: 2020-07-14T16:34:00Z

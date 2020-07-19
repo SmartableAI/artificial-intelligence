@@ -40,22 +40,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Microsoft, Samsung To Develop Online Portal For Smart Building Management"
-    excerpt: "Microsoft Corp (MSFT) and Samsung have partnered up to build a set of digital maintenance tools to help building owners and property management companies"
-    publishedDateTime: 2020-07-14T11:09:00Z
-    webUrl: "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/"
-    ampWebUrl: "https://www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/stock-news/microsoft-samsung-to-develop-online-portal-for-smart-building-management/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 58
-    images:
-      - url: "https://587710.smushcdn.com/809180/wp-content/uploads/2020/07/shutterstock_1454623499-1024x683.jpg?size=1024x1024&lossy=0&strip=1&webp=0"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft, Samsung Partnership: Azure Cloud Manages IoT Devices"
     excerpt: "Microsoft Azure IoT cloud services plus connected Samsung devices could unlock new ways for MSPs to push into building management services."
     publishedDateTime: 2020-07-14T21:53:00Z

@@ -78,17 +78,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Clearview AI stops offering facial recognition technology in Canada"
-    excerpt: "Clearview AI has said it would no longer offer its facial recognition services in Canada, the country's privacy commissioner announced on Monday, in response to an ongoing investigation into the company by provincial and federal privacy authorities."
-    publishedDateTime: 2020-07-14T12:42:00Z
-    webUrl: "https://in.mobile.reuters.com/article/amp/idINKBN24808H"
-    ampWebUrl: "https://in.mobile.reuters.com/article/amp/idINKBN24808H"
-    cdnAmpWebUrl: "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idINKBN24808H"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
   - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
     excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
     publishedDateTime: 2020-07-17T17:33:00Z

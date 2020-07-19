@@ -103,20 +103,6 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 44
-  - title: "C.H. Robinson announces alliance with Microsoft to digitally transform the supply chain of the future"
-    excerpt: "C.H. Robinson and Microsoft Corp. on Tuesday announced they are joining forces to digitally transform supply chains of the future by"
-    publishedDateTime: 2020-07-14T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ch-robinson-announces-alliance-with-microsoft-to-digitally-transform-the-supply-chain-of-the-future-301092520.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1213751/Microsoft_Corporation_CH_Robinson.jpg?p=facebook"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "Umo1uGDZAH7Y60hQedi5/0/5VZWYSToPUCzbAUd0Jk/4kGD3+o3Z+GVM187TBu7aX4RWccJMwMpdRLQWGPnpHJNnve8fZ1ymSn4sa/eTrVxV+s6gKZYtIpK1pboQHs7/9EDMz2Z4nmIvFXAmB/Dt/KVRHfZJ6Abhe8InKE8qkrukzE3NBa0Hlnou4kFI8v8Snsk+Up8HJqBuD+qzEfdalMA1jz/zgS20O4s3JdT3rB7bqUMpLRXYvcTwFvbwRxx0Rby2Q983Lcoulsx78BGPP3CspYNQK4tUKw/zgAbGWOKtByOspBeZd4+DAJAgD7Bmnr4J7Ol5vyv4/BGMTtODgg==;9YVZvujy5ZTXgsoSekU9Iw=="
 ---

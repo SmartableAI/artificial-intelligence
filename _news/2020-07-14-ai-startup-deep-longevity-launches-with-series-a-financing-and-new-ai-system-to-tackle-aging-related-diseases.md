@@ -56,20 +56,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "RealityEngines.AI rebrands as Abacus.AI, announces Series A funding and general availability of the world’s first autonomous AI service"
-    excerpt: "Abacus.AI, formerly RealityEngines.AI, an AI research and AI cloud services company, is announcing today the general availability of the world’s first fully autonomous AI service. As part of the launch,"
-    publishedDateTime: 2020-07-14T13:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/2f458aecc38296d29e84d9e02fc62ac8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 5
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "iPYBShWcS5GpWymQbVsrLSZieVqiiUafOdHsdS9vFv/HTO7cSsjXxs22yQscRjI0MrUqcqxuFQKnXRMyP4VanvAg9hpBVFDxmL51hgkDkONbMsolWRgs5EZko2A9N6fs9nn07rk/RXvbo7qwVosZjYPPqp95xY+p2SDrtUpHja0jrGsqgvBSNB6hYwTVjlOrBwgH5z03pLeDj+wUvqGhyRXq/RXNLA2RFsB5ZvHvU5lrbM/Er6F6VHJZeB6xTp9zJvsGcB6q+sJy7myS30SKrUOnqs9eWUN3H1VVDAHebEhFFxwaF7b6xSrEF0eyphZdEaBpsgAurXGuX1SZRbu5wQ==;pAaLhCrmTwW7DocuYr581Q=="
 ---

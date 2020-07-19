@@ -1,28 +1,22 @@
 ---
 category: news
 title: "PlateSmart ALPR Helps Authorities Stop Domestic Terrorist"
-excerpt: "Terrorism, both domestic and international, has become the bane of modern life in the United States. Just last month, the think tank Center"
-publishedDateTime: 2020-07-17T14:40:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/platesmart-alpr-helps-authorities-stop-domestic-terrorist/article_92f41004-9e6e-5928-903a-64d2d247c6c7.html"
+excerpt: "Mt. Lebanon, PA, police used ALPR technology to proactively locate terrorist and his vehicle containing multiple weapons and 30 bombs in real time just prior to intended attacks PlateSmart founder and CEO John Chigos — an acknowledged industry expert who established PlateSmart in the early 2000s in response to the Oklahoma City bombing as well as the 9/11 attacks and has been a leading proponent of the use of ALPR to prevent crime and terrorism — said Cofano is nothing more than a domestic terrorist and his apprehension potentially averted the deaths of countless innocent lives,"
+publishedDateTime: 2020-07-17T15:09:00Z
+webUrl: "https://www.autoblog.com/press-releases/platesmart-alpr-helps-authorities-stop-domestic-terrorist_23833/"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Autoblog
+  domain: autoblog.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "V/D03vWGq2GcBEsPYQk5xxC3PTjrA++J4k+1hBxb1wUM2WZ2WO+yRYn63tK8HXHyb5dgL3XBHhqiSjKsV7zlXG/VffTMEhkDAOPHNL4Pqj76XCGRvDhx7NcAm9k3M7SpiyW+C3xZPVfb6C8GIjs7kBdhQ/wCIZe8GNYDvNUHC6CHNHw2moCM2FI9VZeWthrqO/aVeY7ne4PO8dYmzyF5LJ4/IMppxV6lK4GWBpDRTLZxKuGFIzQRtnyasAHwNBGuK66Qs5PbLJ6BvFD48pEsiGWau+445VVPKGHPc+8Akqk+/ov3JBSYAf/v9hrCt/EppiTsSq/7UGFbTE9dwwkyFg==;U3kpkAiw9SuZNBdRhUlY7g=="
+secured: "GxIDF9ZQimxENKPg8q3N7ONO4+do7SiTW86EWL8M4NJ7WwvQgrEvY6iZmkzyZ4FOXe3RM6EPa8fq2s2t6QOipJrYUbRrd2bihT6avE6nxx6eYGduzS+CkT8NADvea5E/Pvwmn6eLbcFq6MRlIvy/z6MiUDrzC8IaOzYTAPxpzLzXyA1opCiR7ZlzdRLsyuo931BxKTPhHLQV7aR5FyfJ18XP7vEWMjfFg79fCrisGt3PK7yyoldeaKBrOHiTnOaIUCoDT0A1565be8vE9oEZBUHgue7rEIMRBRTfbVMko5ff0Qzx0IHSLFdM3UhNyk1bcmOHSBD96lp5kdYVwsO7BA==;xKkKEZQN/6h69TnkNV2Xhw=="
 ---
 

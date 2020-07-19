@@ -139,6 +139,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/</loc>
+    <lastmod>2020-07-17T10:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16</loc>
     <lastmod>2020-07-17T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1479,6 +1485,12 @@
   <url>
     <loc>https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/</loc>
     <lastmod>2020-07-09T08:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.dailymail.co.uk/news/article-8506589/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html</loc>
+    <lastmod>2020-07-09T08:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3265,12 +3277,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
-    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.bbc.com/news/53236921</loc>
     <lastmod>2020-06-30T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3367,6 +3373,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/06/g16443255/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite</loc>
+    <lastmod>2020-06-30T03:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techradar.com/news/adoption-of-software-robots-by-enterprises-gains-traction-to-keep-business-continuity</loc>
     <lastmod>2020-06-30T02:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3380,12 +3392,6 @@
   </url>
   <url>
     <loc>https://www.finanzen.net/nachricht/aktien/cognitive-grc-limited-launches-following-management-buyout-of-cordium-asia-limited-9021894</loc>
-    <lastmod>2020-06-30T00:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/himax-launches-wiseeye-we-i-plus-hx6537-a-to-support-ai-deep-learning-with-googles-tensorflow-lite-for-microcontrollers-2020-06-30</loc>
     <lastmod>2020-06-30T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3417,6 +3423,12 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
+    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
