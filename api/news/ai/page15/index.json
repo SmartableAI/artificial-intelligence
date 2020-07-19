@@ -2,6 +2,56 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire.md",
+      "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
+      "excerpt": "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F579500%2Fhand-holding-trophy-sticking-out-of-pile-of-money.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 883,
+          "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/05/3-stocks-to-buy-in-the-market-that-could-mint-the.aspx",
+      "publishedDateTime": "2020-07-05T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nysearcarobt-trading-up-09.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Up 0.9%",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT)’s stock price was up 0.9% on Friday . The company traded as high as $36.35 and last traded at $36.25, approximately 8,200 shares changed hands during trading.",
@@ -1339,55 +1389,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-youtube-will-let-ai-suggest-replies-to-video-comments.md",
-      "title": "YouTube Will Let AI Suggest Replies to Video Comments",
-      "excerpt": "Google announced Wednesday that it had implemented its SmartReply system for YouTube creators, which will give those users access to suggested replies based on what someone has commented. Unlike the SmartReply system Google currently uses for Gmail,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/tusrvqwjgzwa8v26s2gf.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "YouTube Will Let AI Suggest Replies to Video Comments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/youtube-will-let-ai-suggest-replies-to-video-comments-1844251206/amp",
-      "publishedDateTime": "2020-07-02T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

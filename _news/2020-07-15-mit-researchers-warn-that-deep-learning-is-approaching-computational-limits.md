@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-le
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Legal Risks of Adversarial Machine Learning Research"
-    excerpt: "Kumar describes a paper he wrote with Jonathon Penney, Bruce Schneier, and Kendra Albert, which examines the potential legal risks to adversarial Machine Learning researchers."
-    publishedDateTime: 2020-07-14T23:59:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-07/legal-risks-adversarial-machine-learning-research"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
 
 secured: "jn76YFul7TPWi6Ex5acLwk5PexChqO5+XtBIf/9yJNK/X0Pk4MtA/gHestbUOls1FlBMRk4uxm9NQgUyMJWW38tqj1WhyzTL+UsynV7EOT5g838iWx1oT/3hN2g96eWYo7nRRQxL8MHZ5HGK4jTRhS+lbUMsuyVt1pns1rA9qpNyo4EsC90EOrHkPCx+OTXbFjJ1HiauK1Ji3hEp5erppx9G0sA8HDXkI1y8jPDdDK7K39+gqD216ItRo+Jl/At6LgqkUKsHUGOhYrLqezWEHkyHj/cQgs+Y+mMWDaSXEcTJfSxGj2MpXu/cx49naVBP7SSgdxzLBYVLMU4a+7qxcd48uZL5ClAr55Fgezcxebw0B3o2c1AEHkq1kUpDmkslqpwu/ppS2ls8TkWOwav5CUnfsurImd6A+FiX46/2JQjz2TFhD0LnD+W0Ep575BcqX6PvnMIadzeq7/nzHpcSQGptDW+m0cDKfLgiUuAHE/FnNDWF78Oj6UYdjgXsohY4qdy0Dr02fdxbv8c5bfqaVg==;LEimK6NwcVhpgRLoCqc3tg=="
 ---

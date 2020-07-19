@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-deep-learning-in-the-media-supply-chain.md",
+      "title": "Deep Learning in the Media Supply Chain",
+      "excerpt": "Deep Learning is a subset of machine learning and uses artificial neural networks that enable the system to learn autonomously. Deep Learning enables the processing of amounts of data that is not practical to process manually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/opinion/deep-learning-in-the-media-supply-chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UVp4toMBipUZUtxdepAUBb-1200-80.jpg",
+          "width": 726,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "publishedDateTime": "2020-07-16T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-shield-ai-rejected-a-pivot-to-selfie-drones-now-its-drones-are-being-used-by-the-military-overseas.md",
       "title": "Shield AI Rejected A Pivot To ‘Selfie Drones.’ Now Its Drones Are Being Used By The Military Overseas",
       "excerpt": "The overseas deployment of the startup's drones comes full circle for cofounder Brandon Tseng, who came up with the idea as a Navy SEAL in Afghanistan.",
@@ -140,7 +181,7 @@
       "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 109,
       "tags": null,
       "images": null,
       "type": "article",
@@ -733,7 +774,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1371,55 +1412,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
-      "title": "How Chase is using AI to update banking",
-      "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "publishedDateTime": "2020-07-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

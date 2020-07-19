@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600</loc>
+    <lastmod>2020-07-19T09:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/</loc>
     <lastmod>2020-07-19T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -835,7 +841,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/a1d3f7d5e51e8b91f694ebb58a8532a4</loc>
+    <loc>https://www.prnewswire.com/news-releases/integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn-301092304.html</loc>
     <lastmod>2020-07-14T09:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2023,14 +2029,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08</loc>
-    <lastmod>2020-07-08T00:28:00-07:00</lastmod>
+    <loc>https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI</loc>
+    <lastmod>2020-07-08T00:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/news/picture/amazon-agrees-to-buy-self-driving-techno-idUSKBN23X0PI</loc>
-    <lastmod>2020-07-08T00:27:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08?mod=mw_quote_news</loc>
+    <lastmod>2020-07-08T00:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2425,14 +2431,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06</loc>
-    <lastmod>2020-07-06T04:09:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206</loc>
+    <lastmod>2020-07-06T03:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206</loc>
-    <lastmod>2020-07-06T03:20:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06?mod=mw_quote_news</loc>
+    <lastmod>2020-07-06T03:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3361,6 +3367,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
+    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bbc.com/news/53236921</loc>
     <lastmod>2020-06-30T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3507,12 +3519,6 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
-    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

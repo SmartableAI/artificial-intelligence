@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-19-caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow.md",
+      "title": "Caja Robotics offers smart machines for the warehouses of tomorrow",
+      "excerpt": "From the Spanish word for ‘box’ or ‘present,’ Caja offers a flexible set of solutions in an age when COVID-19 is making online shopping bigger than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/460907",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
+      "publishedDateTime": "2020-07-19T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-weird-ai-illustrates-why-algorithms-still-need-people.md",
       "title": "Weird AI illustrates why algorithms still need people",
       "excerpt": "These days, it can be very hard to determine where to draw the boundaries around artificial intelligence. What it can and can’t do is often not very clear, as well as where it’s future is headed. In fact,",
@@ -1172,55 +1213,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-uber-tooling-is-a-critical-part-of-ai-development-and-deployment.md",
-      "title": "Uber: Tooling is a critical part of AI development and deployment",
-      "excerpt": "He revealed this tidbit during a session at VentureBeat’s Transform 2020 summit, during which he spoke about Uber’s use of AI and internet of things (IoT) technologies at the edge and in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "publishedDateTime": "2020-07-17T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

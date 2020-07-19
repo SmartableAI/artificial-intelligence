@@ -37,22 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
-  - title: "White Castle adds Flippy the robot to help cook"
-    excerpt: "White Castle announced a pilot program Tuesday to help cook burgers and fries using a robot named Flippy. The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy,"
-    publishedDateTime: 2020-07-15T00:19:00Z
-    webUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot"
-    ampWebUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
     excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."
     publishedDateTime: 2020-07-17T01:28:00Z
@@ -84,34 +68,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/0/18/018b730a-ed1a-59ff-be3d-adcb6b10977d/5f1207202f13d.image.jpg?resize=1024%2C576"
         width: 1024
         height: 576
-        isCached: true
-  - title: "A Robot Will Make Your White Castle Burger! Say Hello To ‘Flippy’"
-    excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
-    publishedDateTime: 2020-07-14T23:42:00Z
-    webUrl: "https://mynewsla.com/business/2020/07/14/a-robot-will-make-your-white-castle-burger-say-hello-to-flippy/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 39
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2017/10/abstract-1238247_640.jpg"
-        width: 640
-        height: 491
-        isCached: true
-  - title: "White Castle Set To Roll Out Flippy, A Burger-Flipping Robot"
-    excerpt: "White Castle announced Tuesday that it is set to pilot a robot grill cook named Flippy, produced by Pasadena-based Miso Robotics. The burger chain plans to bring a new version of the robot that can grill and fry food — Flippy,"
-    publishedDateTime: 2020-07-14T23:42:00Z
-    webUrl: "https://mynewsla.com/business/2020/07/14/white-castle-set-to-roll-out-flippy-a-burger-flipping-robot/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 39
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
         isCached: true
   - title: "Burger-flipping robot named Flippy being tested at White Castle"
     excerpt: "(CNN) - White Castle is testing a burger-flipping robot named Flippy that could flip the entire restaurant industry. The chain announced a partnership with Miso Robotics, a Pasadena-based startup, to introduce Flippy,"

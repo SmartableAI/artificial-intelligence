@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Regtech Firms Lucinity, Hummingbird Secure Millions in Funding, will Further Develop AML Tech to Prevent Financial Crimes"
+    excerpt: "Regtech firms Lucinity, Hummingbird secure millions in funding, will further develop AML tech to prevent financial crimes."
+    publishedDateTime: 2020-07-19T17:17:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/07/164225-regtech-firms-lucinity-hummingbird-secure-millions-in-funding-will-further-develop-aml-tech-to-prevent-financial-crimes/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164225-regtech-firms-lucinity-hummingbird-secure-millions-in-funding-will-further-develop-aml-tech-to-prevent-financial-crimes/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164225-regtech-firms-lucinity-hummingbird-secure-millions-in-funding-will-further-develop-aml-tech-to-prevent-financial-crimes/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/AML-KYC-300x267.jpg"
+        width: 300
+        height: 267
+        isCached: true
   - title: "Partner Insight: Fintech comes of age: A new era for leveraging technology and disrupting financial services"
     excerpt: "Investment Week provides the latest investment news, analysis and opinion for wealth managers and the UK funds industry"
     publishedDateTime: 2020-07-15T06:23:00Z

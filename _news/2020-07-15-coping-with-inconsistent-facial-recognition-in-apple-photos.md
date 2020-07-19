@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-fa
 cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/TSB8bFoAXUnsnwCyw0czZdijB_k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg"
         width: 1400
         height: 933
-        isCached: true
-  - title: "Amazon, Google and Microsoft sued over photos in facial recognition database"
-    excerpt: "Amazon, Google parent Alphabet and Microsoft used people's photos to train their facial recognition technologies without obtaining the subjects' permission in violation of an Illinois biometric privacy statute,"
-    publishedDateTime: 2020-07-15T00:28:00Z
-    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
-        width: 756
-        height: 567
         isCached: true
   - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
     excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."

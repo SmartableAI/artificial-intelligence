@@ -74,22 +74,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Amazon, Google and Microsoft sued over photos in facial recognition database"
-    excerpt: "Amazon, Google parent Alphabet and Microsoft used people's photos to train their facial recognition technologies without obtaining the subjects' permission in violation of an Illinois biometric privacy statute,"
-    publishedDateTime: 2020-07-15T00:28:00Z
-    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
     excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
     publishedDateTime: 2020-07-15T20:20:00Z

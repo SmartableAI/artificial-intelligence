@@ -2,6 +2,55 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents.md",
+      "title": "CoreLogic launches AI driven platform for real estate agents",
+      "excerpt": "CoreLogic said that OneHome streamlines communication between agents and home buyers during the purchase process, while also providing access to financing, insurance and home improvement providers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2016/04/20/47a3b2bf-44da-4ee6-b992-835438f05049/thumbnail/1200x675/a5ea8a156af5329ed76d0bde668d79bc/istock000079198859medium.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "CoreLogic launches AI driven platform for real estate agents",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
+      "publishedDateTime": "2020-07-07T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
       "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
       "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
@@ -1137,56 +1186,6 @@
         "name": "Nature",
         "domain": "nature.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-deepfakes-are-becoming-the-hot-new-corporate-training-tool.md",
-      "title": "Deepfakes Are Becoming the Hot New Corporate Training Tool",
-      "excerpt": "Coronavirus restrictions make it harder and more expensive to shoot videos. So some companies are turning to synthetic media instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efe224130e7532f3baa1d0a/master/pass/deepfakes-commercial-1220400443.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
-      "publishedDateTime": "2020-07-07T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

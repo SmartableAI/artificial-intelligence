@@ -2,6 +2,38 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
+      "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
+      "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16398820/chatbot-market-growing-at-a-cagr-29-7-key-player-ibm-nuance-communications-google-aws-artificial-",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16398820",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16398820",
+      "publishedDateTime": "2020-06-25T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-generating-compositions-in-the-style-of-bach-using-the-ar-cnn-algorithm-in-aws-deepcomposer.md",
       "title": "Generating compositions in the style of Bach using the AR-CNN algorithm in AWS DeepComposer",
       "excerpt": "AWS DeepComposer gives you a creative way to get started with machine learning (ML) and generative AI techniques. AWS DeepComposer recently launched a new generative AI algorithm called autoregressive convolutional neural network (AR-CNN), which allows you to generate music in the style of Bach. In this",
@@ -1114,47 +1146,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships.md",
-      "title": "Renewed IBM and AELTC partnership set to take on the future, launching with a digital recreation of The Championships",
-      "excerpt": "The partnership renewal means IBM and Wimbledon will be able to seize new opportunities, with the next phase of their long term partnership",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/renewed-ibm-and-aeltc-partnership-set-to-take-on-the-future-launching-with-a-digital-recreation-of-the-championships-1029343105",
-      "publishedDateTime": "2020-06-25T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

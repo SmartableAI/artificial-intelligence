@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
-excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreeme"
+excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."
 publishedDateTime: 2020-07-17T12:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200717005090/en/Halliburton-Forms-Strategic-Agreement-Microsoft-Accenture-Advance"
+webUrl: "https://apnews.com/b467a34562484b769bb04a71ab986f65"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200717005090/en/806195/23/4494504_HAL_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
         height: 250
         isCached: true
 
-secured: "A9eEeVuBWXfCJaf+KbGaxu36MlA2fjD2cpWBd6i/OsI8NWudpOlLly4WVfnM8Ke6pPK+hIdEtVjgRMb/yJTdaCOvd6IEz8xFzW80BStPAnJB2ZS4J+vQ27sEWrcvTtOK4KDnWt/WMexiOGOEOKf2DBRDARfqcpfm1EihYDHspN/ODdw5jaw+LuoV1Q8G6xgieVBp64jSPY1TkpQhe62KfzsWho/UE2qpTn3OzXvLETWvslk6I4yx/u9+I2Y/99fX0Z+61qalOcE0chho7/bixGl5n49znzzjbPxotKQfGGxSaQPmEcj0orahyqXCzwPN7g5nE+l3wuLOQzFfoXtqqP+Mbk/YTb2KzERHXAU+hf5NhFOLMxg9KQp5Id4RKrjmSaHsrEzIxuKQfGsoFN3Dxrs/qdHjo3uvF+UQBz1Cb87+3P5smZ/QoVd2cCbGLY2E3QQoGebq+kRuOm0g/1of2GH9Fb+wlwjD+Wj8q7aQIZqTp7VboMz7+pqEl9NtFGP1EG/ZgtCTgq9xPm8jS0+eoA==;Wkvo9MBM+CZp85QpxQdB9A=="
+secured: "pPBR2h41WNwvqD8xNrS1sX5D7bhAy0RQwxIjzc0W2f5lyomojxWzFIF24Y1kajwF9CwYPwC8//OIpj6E1LvMyzfCmc+/FkYIObREi0Pc1iSnq3nTgNkvnVy8YlUh08hWmznzxdioMRxDhazGxlKtEnPugArCCNmvkkFHCxWqiSA9SVznaMG8i9Exzfz8b5A+vuapJoIHfEBOt6VLcChUwRE7c39bEgVlna0ZakIHx/myaI5ZKLMSxy+cyAwKAREaMUnj7yipzl01foK/PmQHFt5gvHLSR4V14giv58/9kP3ty64xclMNGL9EnwetV3/BXuxXhRh3XstK6mEYJQDBpg==;ulyZHd7DC3bSexgO+vA4bQ=="
 ---
 

@@ -2,6 +2,56 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-09-3-top-cloud-computing-stocks-to-buy-right-now.md",
+      "title": "3 Top Cloud Computing Stocks to Buy Right Now",
+      "excerpt": "However, the cloud infrastructure services market is where the heavyweights such as Amazon Web Services (AWS) and Microsoft Azure are knocking heads ... the tech giant is a cash machine, generating $13.7 billion in free cash flow in the most recent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.ycharts.com/charts/fbde3edd32771a69cf89f4c012e125bc.png",
+          "width": 720,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/3-top-cloud-computing-stocks-to-buy-right-now.aspx",
+      "publishedDateTime": "2020-07-09T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-kernel-raises-53-million-to-bring-neuroscience-insights-to-businesses.md",
       "title": "Kernel raises $53 million to bring neuroscience insights to businesses",
       "excerpt": "Kernel raised $53 million to develop a new generation of brain tech that allows companies to leverage insights from the latest neuroscience.",
@@ -1132,47 +1182,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ibm-to-buy-wdg-automation.md",
-      "title": "IBM to Buy WDG Automation",
-      "excerpt": "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx",
-      "publishedDateTime": "2020-07-08T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

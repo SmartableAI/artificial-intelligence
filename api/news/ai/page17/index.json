@@ -2,6 +2,47 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-01-rooting-out-ai-bias.md",
+      "title": "Rooting out AI bias",
+      "excerpt": "New research offers strategies to prevent algorithms used in business from pushing unethical policies. Why it matters: Machine-learning algorithms are increasingly being deployed in commercial settings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.axios.com/IWbf2OXzJsvyKScfFonqb84J3KI=/fit-in/1366x1366/2020/07/01/1593642339719.jpg",
+          "width": 1366,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-bias-machine-learning-2515d1a4-650d-4cd3-8e18-84c29bcacd1e.html",
+      "publishedDateTime": "2020-07-01T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-course-40530-g-microsoft-cloud-workshop-cognitive-services-and-deep-learning.md",
       "title": "Course 40530-G: Microsoft Cloud Workshop: Cognitive Services and Deep Learning",
       "excerpt": "In this workshop, you will learn to combine both pre-built artificial intelligence (AI) (in the form of various Cognitive Services) with custom AI (in the form of services built and deployed with Azure Machine Learning services).",
@@ -1338,56 +1379,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
-      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "publishedDateTime": "2020-07-01T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

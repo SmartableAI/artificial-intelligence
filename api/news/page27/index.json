@@ -2,6 +2,56 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-06-27-amazon-is-acquiring-self-driving-start-up-zoox.md",
+      "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
+      "excerpt": "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
+          "width": 1200,
+          "height": 676,
+          "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
+      "publishedDateTime": "2020-06-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-27-baidu-backed-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
       "title": "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public",
       "excerpt": "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles.",
@@ -1108,56 +1158,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-amazon-buys-self-driving-technology-company-zoox.md",
-      "title": "Amazon buys self-driving technology company Zoox",
-      "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919",
-          "width": 1920,
-          "height": 1080,
-          "title": "Amazon buys self-driving technology company Zoox",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
-      "publishedDateTime": "2020-06-26T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

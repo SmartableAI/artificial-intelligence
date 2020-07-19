@@ -2,6 +2,96 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-06-30-youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy.md",
+      "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
+      "excerpt": "Following on from the AI recreations of Metallica’s Deliverance Rides and Nirvana’s Smother, YouTuber and tech wizard Funk Turkey has used artificial intelligence to create a brand new Iron Maiden song",
+      "sourceUrl": null,
+      "webUrl": "https://www.kerrang.com/the-news/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.kerrangcdn.com/MaidenPowerGravy.jpg?auto=compress&fit=crop&w=1008",
+          "width": 1008,
+          "height": 567,
+          "title": "YouTuber Uses Artificial Intelligence To Make Fake Iron Maiden Song, Power Gravy",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy",
+      "cdnAmpWebUrl": "https://www-kerrang-com.cdn.ampproject.org/c/s/www.kerrang.com/amp/youtuber-uses-artificial-intelligence-to-make-fake-iron-maiden-song-power-gravy",
+      "publishedDateTime": "2020-06-30T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kerrang!",
+        "domain": "kerrang.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-daimler-backed-momenta-says-its-robotaxis-will-be-fully-driverless-and-profitable-in-2024.md",
+      "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
+      "excerpt": "In China and the U.S., there’s much debate about when and how humans will achieve fully autonomous robotaxis at scale — cars that chauffeur passengers under complex road conditions without safety drivers behind the wheel.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-30-at-12.08.36-PM-e1593490638906.png?w=680",
+          "width": 680,
+          "height": 362,
+          "title": "Daimler-backed Momenta says its robotaxis will be fully driverless and profitable in 2024",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/30/momenta-robotaxis/amp/",
+      "publishedDateTime": "2020-06-30T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-artificial-intelligence-services-global-market-report-2020-30-covid-19-growth-and-change.md",
       "title": "Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change",
       "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence Services Global Market Report 2020-30: Covid 19 Growth and Change\" -  The global artificial intelligence services market is expected to decline from $0.",
@@ -409,47 +499,6 @@
       "provider": {
         "name": "Futurism",
         "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company.md",
-      "title": "dotData Partners with Teradata, a Leading Cloud Data & Analytics Company",
-      "excerpt": "The integration leverages the robust enterprise data management and analytic capabilities of Teradata's Vantage platform and dotData's autoML 2.0 platform to create a powerful end-to-end data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1062,38 +1111,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-macquarie-university-hospital-walter-kmet-announces-plans-on-10th-birthday.md",
-      "title": "Macquarie University Hospital: Walter Kmet announces plans on 10th birthday",
-      "excerpt": "Australia’s only private university-led hospital has celebrated its tenth birthday with the chief executive stating he wants to make it renowned on a global scale. Macquarie University Hospital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytelegraph.com.au/newslocal/northern-district-times/macquarie-university-hospital-walter-kmet-announces-plans-on-10th-birthday/news-story/162b09059c6ccb8f8584f77aac1c838f",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "dailytelegraph.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

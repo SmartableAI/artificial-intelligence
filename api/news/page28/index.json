@@ -2,6 +2,56 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-26-amazon-buys-self-driving-technology-company-zoox.md",
+      "title": "Amazon buys self-driving technology company Zoox",
+      "excerpt": "Amazon is jumping deeper into the market for autonomous driving with the purchase of Zoox, which was valued at over $3 billion in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 284,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105525572-1540337875521main.00_02_15_18.still007.jpg?v=1540337919",
+          "width": 1920,
+          "height": 1080,
+          "title": "Amazon buys self-driving technology company Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/26/amazon-buys-self-driving-technology-company-zoox.html",
+      "publishedDateTime": "2020-06-26T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-volvo-cars-waymo-partner-to-build-self-driving-vehicles.md",
       "title": "Volvo Cars, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo will focus on the artificial intelligence and certain hardware, including cameras, lidar and radar, for the automated “driver.” Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo’s global brands ...",
@@ -1104,38 +1154,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-chatbot-market-growing-at-a-cagr-297-key-player-ibm-nuance-communications-google-aws-artificial-solutions.md",
-      "title": "Chatbot Market Growing at a CAGR 29.7% | Key Player IBM, Nuance Communications, Google, AWS, Artificial Solutions",
-      "excerpt": "Solutions segment to hold a larger market size during the forecast period. Chatbot solutions are gaining traction with the rising need to deliver 24*7 support related services to",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/06/ab16398820/chatbot-market-growing-at-a-cagr-29-7-key-player-ibm-nuance-communications-google-aws-artificial-",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16398820",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16398820",
-      "publishedDateTime": "2020-06-25T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

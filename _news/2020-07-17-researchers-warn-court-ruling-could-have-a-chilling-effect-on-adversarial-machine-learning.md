@@ -46,15 +46,6 @@ related:
         width: 1145
         height: 580
         isCached: true
-  - title: "Legal Risks of Adversarial Machine Learning Research"
-    excerpt: "Kumar describes a paper he wrote with Jonathon Penney, Bruce Schneier, and Kendra Albert, which examines the potential legal risks to adversarial Machine Learning researchers."
-    publishedDateTime: 2020-07-14T23:59:00Z
-    webUrl: "https://cyber.harvard.edu/story/2020-07/legal-risks-adversarial-machine-learning-research"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 19
 
 secured: "9YrAvD8vJsXVUiQ6zUV2HvXjbFPRc8+aMgNLK7Q3Rb6cI9tLNt9mTA/ZH4HOhBtAf04z7+cgdIranF4drPrEO/V+TvxU06uYR/91mUIgK+HTghc2M9Ga5e8TXeUYu0kESFInG0liGFmWDBkrnwOtd5p4f6SYysfjBy1QB+C9Lvwp3V0XHH5tGxC8lVsG38WFfeYg7tmPWYxq4Wr2OWz5+SgL+drXNZJtiQO/CsAwua6tWdk7zp5/mmU7YUKrpnNd6vDdnMdXaUKbNCcR9s2gPwXF/AFbqijaXKfYKPfxJO6oXYqOg/QNjii3fNgiQm5ndJygXET+7kFZkYYoTa3KR67M1DzK/Z2nr5450xs0m/ttmWel/tT4m69Nlkprv7IlDxomkN+Ojb6NoSjZIDG9DVuLtwKJZom2ppdO9CqlA7JooACwKUumgBpSuwG8G4m1F4ARMqlEmmGjgckfo+Fkvgluiaiwq7S96L58DpEnsXnQCNadHURugRU5TbaCTGd4ZSYLmblgAY40i7sFM5pYKg==;LMpBOLHGVL0ubVaf+8DkNQ=="
 ---
