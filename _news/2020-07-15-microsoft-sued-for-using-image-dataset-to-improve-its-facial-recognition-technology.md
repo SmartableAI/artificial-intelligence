@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "The Microsoft Police State: Mass Surveillance, Facial Recognition, and the Azure Cloud"
-    excerpt: "Microsoft helps police surveil and patrol communities through its own offerings and a network of partnerships — while its PR efforts obscure this."
-    publishedDateTime: 2020-07-14T19:45:00Z
-    webUrl: "https://theintercept.com/2020/07/14/microsoft-police-state-mass-surveillance-facial-recognition/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 65
-    images:
-      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/ms-police-state-final-theintercept.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Illinois residents sue tech giants for violating facial recognition privacy law"
     excerpt: "Steven Vance and Tim Janecyk — have filed a lawsuit against three tech corporations including, Microsoft, Amazon, and Google’s parent company Alphabet, TechCrunch rep"
     publishedDateTime: 2020-07-16T07:52:00Z

@@ -113,20 +113,6 @@ related:
         width: 640
         height: 491
         isCached: true
-  - title: "White Castle to Test Robot Cooks Made by Pasadena Company"
-    excerpt: "A Pasadena company is providing robotic cooks to the White Castle restaurant chain to test their ability to grill up hamburgers and fry french fries. Miso Robotics ’s “Flippy"
-    publishedDateTime: 2020-07-14T19:25:00Z
-    webUrl: "https://www.pasadenanow.com/main/white-castle-to-test-robot-cooks-made-by-pasadena-company/"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 39
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/07/33984633_10156379948463252_4260405393521377280_n-740x400.jpg"
-        width: 740
-        height: 400
-        isCached: true
   - title: "Burger-flipping robot named Flippy being tested at White Castle"
     excerpt: "(CNN) - White Castle is testing a burger-flipping robot named Flippy that could flip the entire restaurant industry. The chain announced a partnership with Miso Robotics, a Pasadena-based startup, to introduce Flippy,"
     publishedDateTime: 2020-07-17T12:20:00Z

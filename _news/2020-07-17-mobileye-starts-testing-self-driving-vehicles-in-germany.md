@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "German Court Says Tesla Self-Driving Claims Are Misleading"
-    excerpt: "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology."
-    publishedDateTime: 2020-07-14T20:36:00Z
-    webUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html"
-    ampWebUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
+  - title: "Intel's Mobileye will test self-driving cars at up to 80 MPH in Germany"
+    excerpt: "Intel’s Mobileye self-driving division has received regulatory approval to test its vehicles on German roads, Intel announced."
+    publishedDateTime: 2020-07-17T10:48:00Z
+    webUrl: "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html"
+    ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
+      name: Engadget
+      domain: engadget.com
+    quality: 74
     images:
-      - url: "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "German courts rule against Tesla's \"self driving\" claims"
-    excerpt: "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich."
-    publishedDateTime: 2020-07-16T09:51:00Z
-    webUrl: "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    ampWebUrl: "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    type: article
-    provider:
-      name: AM-online
-      domain: am-online.com
-    quality: 89
-    images:
-      - url: "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg"
-        width: 1200
-        height: 693
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fd5f2e2a0-c813-11ea-aeff-0b8af02ce9f4&client=amp-blogside-v2&signature=e719220b03335a26e58e6d925c87d6fd0db6fae6"
+        width: 600
+        height: 350
         isCached: true
   - title: "Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
@@ -72,6 +56,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Her quest: How will self-driving cars affect everyday traffic?"
+    excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
+    publishedDateTime: 2020-07-16T21:36:00Z
+    webUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 24
   - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
     publishedDateTime: 2020-07-17T13:08:00Z
@@ -86,29 +81,6 @@ related:
         width: 732
         height: 330
         isCached: true
-  - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
-    excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
-    publishedDateTime: 2020-07-15T12:24:00Z
-    webUrl: "https://www.insurancejournal.com/news/national/2020/07/15/575596.htm"
-    type: article
-    provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
-    quality: 22
-    images:
-      - url: "https://www.insurancejournal.com/app/uploads/2020/07/zoox-autonomous-driving.png"
-        width: 940
-        height: 940
-        isCached: true
-  - title: "Mobileye begins testing self-driving cars in Germany"
-    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
-    publishedDateTime: 2020-07-17T13:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "JNnG8ihoG4Whu+52+B+vcM/kOvnV9PVG1HmPUSjh6u3FCu0TT7BxMUN6O50gF7wRCr2zaLRNGcg5194b8qD92uoezqZJWDgcsn1kGI2xlLKFmKC7Bw4pBopTJ2PiyNPayixjMOOLcxfDIsRsSuBFmIVkvv9q8dk/T0sNppATz27KN0a12bJIgl58eLSaKWHIaOKy4v05GhcTZUfuEqwZA1mTgVPmpMk+kmzML872XpX8fDfR4yHPoo+iPv2GHELNi7r/8vZtctU6OhMHtOIJFAucM7ON90S1NN7N8W5W8oU+jjbbaUlcC/FYCGnTGFhOYhdJRXnoLoSdYNlOi7Kqpg==;hkVj3EKLqtHiA+L58f2mCA=="
 ---

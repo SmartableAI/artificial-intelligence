@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-l
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
 type: article
 quality: 72
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -82,6 +82,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
+    excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
+    publishedDateTime: 2020-07-15T12:24:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/15/575596.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 22
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/zoox-autonomous-driving.png"
+        width: 940
+        height: 940
         isCached: true
 
 secured: "DPOW6yI40fLJa0JIvFKLNg/jSRudeqJsUvtuICWmHTm1b05j3BEdPtvEqTt7nrH5g25TeywycoyLmqz58k9eQhmwIAmyf3C+0dxJsEP3Y9+vrJLSDEOiTxoNajzBHYUMANPpICzYKIz2btZPxMWObAFtrUUmP5VNtjnvLccMyORg1zT1ZTmEreOkIYqbcsRIY+KMg5icv8Hi9WxLSUUDvjVojI6W3zZH4pVo1qHPzgS3zAb48EQl+nqJDAa3j33gtcIqSta2m8eyZYpYmdbE7RN8pMJgxDHF1CjgsArIFIZ/qmTHoXlQ3y61aQFN0kRPpEOSjFbSpk2Pesiiq7ziBaOZp6tVvg2lBbevx5jyQ66/+YgbPgOEhBsUbr6xSYg1oPP8S+NGybdN4NK6RWHFuDUvGB6avJo9dcMbSiRoImFiKkMK9J7J7mVZtqo4yqQziaEuQpyePhRRaAA9F1fX8+un3sFwpP9lyISgLJFZ2f0fqLBl0JpActUjUMM6E1c/pANv2t65/Hf3i6L2OfP/LQ==;NrDK0NNPYw10ej4vW+wTpw=="

@@ -127,20 +127,6 @@ related:
         width: 583
         height: 300
         isCached: true
-  - title: "White Castle to Test Robot Cooks Made by Pasadena Company"
-    excerpt: "A Pasadena company is providing robotic cooks to the White Castle restaurant chain to test their ability to grill up hamburgers and fry french fries. Miso Robotics ’s “Flippy"
-    publishedDateTime: 2020-07-14T19:25:00Z
-    webUrl: "https://www.pasadenanow.com/main/white-castle-to-test-robot-cooks-made-by-pasadena-company/"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 39
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/07/33984633_10156379948463252_4260405393521377280_n-740x400.jpg"
-        width: 740
-        height: 400
-        isCached: true
 
 secured: "KzX7y/B3g2ZPWxf4O1Htuq3EA2VuH6KtuOeat7HtyiB34+EZwGbVcph9KRAJFCTLMxf/zvLPcvzvOU0ND9DmeFPBeUkAzQHPKepXQ41wCwi/OBf9K9XXJNf5Ep5AK88mskiReU9SU04WdvcCJUJilTzGAUKqUvivrBITGb4HpxY61Vzc5lkwtK7h+Mko5VjOuDaowXuwDosjIoxl//G3o0bFM7Uu0bIOJTEewKENhXSQL/sE9+hVscyd+7H5W7l2UcYvgtKc/PPHEH0qqPBWmFoIPl+PtTxaMHaXszDnO+DK01hfEK5IwgvvhCOOc90dreYD4g7HtUMUoWlZI6annaEF+5Q3AtleSD0bkHccL2WMwfdU+Zp+VSfnaxHQTy2bfJLbdoTbwww4bOY0Jq4i6uhrIiFhPATYkCLv/OWsMXUpG7oC/wKz4sTTROUDygM1FpBaK+u4vHAcLocClp7qz08k4vxcn3DddIHsx1xAR8onPWROfm7L5xOZs9fk7IxU;lCiW5KXZtNQMWy2bXSK32w=="
 ---

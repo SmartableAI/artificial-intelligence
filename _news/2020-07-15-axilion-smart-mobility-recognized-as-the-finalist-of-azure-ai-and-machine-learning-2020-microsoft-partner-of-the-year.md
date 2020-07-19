@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -22,19 +22,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Axilion Smart Mobility recognized as the finalist of Azure - AI and Machine Learning 2020 Microsoft Partner of the Year"
-    excerpt: "Axilion Smart Mobility today announced it was recognized as a finalist in Azure - AI and Machine Learning 2020 Microsoft Partner of the Year Award. The company was honored among"
-    publishedDateTime: 2020-07-14T19:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/p16620223/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16620223"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16620223"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 62
 
 secured: "XnsgyY108QvCwulwNIIB/Lbx6iJHu9kJb++M3johJ9Wy9pwyKZDZLRBDLPS1O/hdg1sDrotPvqccA2mwLmUmfVXTTscmECzFZQySPlT6fym1aVgBGEkfrX9IIzmGBw6cmYNhKpGU43jG2b87nCU0ODlUm/3G+mLnQHOTlROa/f7Rxp842LV7qj4cAimIAn80VKAEW3/FgaTsyg/5W4fkqnVrZKqx6HneA3HqeUezwS6ken1WD6rxfoR6CAmf1VAutgXuvCWdKC/8ewE86JFIaZZPwd3dQ/QSyTQzrrAuUq4mBbXbeDR+dXDb8RHgF5DAiNkmARTilivEifgLFCi3Pg==;rBrB31Suhr7J8vGqMtrBsQ=="
 ---

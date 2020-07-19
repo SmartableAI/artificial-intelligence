@@ -24,91 +24,75 @@ images:
     isCached: true
 
 related:
-  - title: "German Court Says Tesla Self-Driving Claims Are Misleading"
-    excerpt: "Tesla’s plans to steal buyers from German luxury automakers suffered a setback Tuesday after a court in Munich ruled that the California maker of electric cars made exaggerated promises about its autonomous driving technology."
-    publishedDateTime: 2020-07-14T20:36:00Z
-    webUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.html"
-    ampWebUrl: "https://www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/07/14/business/tesla-autopilot-germany.amp.html"
+  - title: "'Hands free': Automakers race to next level of not quite self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-15T10:49:00Z
+    webUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 72
     images:
-      - url: "https://static01.nyt.com/images/2020/07/14/business/14tesla/14tesla-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp"
+        width: 750
+        height: 500
         isCached: true
-  - title: "German courts rule against Tesla's \"self driving\" claims"
-    excerpt: "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich."
-    publishedDateTime: 2020-07-16T09:51:00Z
-    webUrl: "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    ampWebUrl: "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
-    cdnAmpWebUrl: "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims"
+  - title: "FOCUS-'Hands free': Automakers race to next level of not quite self-driving cars"
+    excerpt: "\"If people don't know what they've got and how it actually operates, that's a safety issue,\" added Rosekind, who is chief safety innovation officer at self-driving startup Zoox, which is being acquired by Amazon.com IncAMZN.O. Jason Levine, head of the ..."
+    publishedDateTime: 2020-07-15T10:29:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15?amp"
     type: article
     provider:
-      name: AM-online
-      domain: am-online.com
-    quality: 89
-    images:
-      - url: "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg"
-        width: 1200
-        height: 693
-        isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
-    publishedDateTime: 2020-07-16T17:28:00Z
-    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
-    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 44
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
-    publishedDateTime: 2020-07-17T13:08:00Z
-    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 24
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
-        width: 732
-        height: 330
-        isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
-    publishedDateTime: 2020-07-17T10:40:00Z
-    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Level 5 fully self-driving cars not due anytime soon"
+    excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
+    publishedDateTime: 2020-07-15T09:52:00Z
+    webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
     type: article
     provider:
       name: Just Auto
       domain: just-auto.com
     quality: 24
     images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
+        width: 424
+        height: 282
         isCached: true
-  - title: "Mobileye begins testing self-driving cars in Germany"
-    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
-    publishedDateTime: 2020-07-17T13:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+  - title: "Automakers race to next level of not quite self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-16T13:19:00Z
+    webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-not-quite-self-driving-cars"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Automakers race to next level of self-driving cars"
+    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
+    publishedDateTime: 2020-07-17T08:30:00Z
+    webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Autonomous%20%20BMW%20web_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "mCc3C2++wleba0hIoRLVvvR/E3ZIarK86Rh2DYfrFC3WRkT9G9flyM8HPAHgq7kTjGk724l+hlSUFtwLKu5TG0gOiblIzU6iWygIhhyeKThXdFC3T+/2JbNvatlyHWdk87GzvbwbiFiWu8kezqec2Z9JU0AAsbJgXQ5OtAzC+puDuvcspH3C7Tt+utcXxib03bvWpfViCseecsGBAErmp1HvDZvrS2pFzZfn+j3uh01BzTQFgjX3/HM4cvC0ylRQvDmdSdzjquA3god5lZLsMWlKuqINlfqe+RwXkTUscMlmkCR917zquUC12JpH48kBOehD5DydWvUBMnE97CSQpQ==;pefyDLZYH1Z4tl8dRA5xwA=="
 ---

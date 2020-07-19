@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "PJ9ERIThILUQHwt3ODl5r/JGWrawUEX6YqEkxSiknatUk9x3e4Ag7VRVBtWdoUb5daUvT9PhblmZV0LfrdBIIorG+vGaw71hsfa8WOCx8d19X7DxrkI/juFrzsp6InM/1CeAjfYvOzRBzsRxBhPPEOdZ5TMo4LJdz+r6Jxmf4IRajdoLJczguFn4oEIEU9gFSAMxV6dJYGIcsY4CR2N5fqqQSUI26Sf/N145D/3fmUEYvJvQBaKHkdyf/VsPNgIR9qkarpS5QBzoC+5mpQtylc3mVTMn7CZsEA9/sxtMMH+A51rRBtpF6cxa6Sx3JAZjX2n0lIzygRoAgSSxPEispTBF3mZt3KQNob5+CCtsf02LP+AImO+EIWP0qF0LvlMNMadYySnXhvuhZfUEl1+bhTzH8NZQXk46uXnLMb46Mgrwv5WzFRqsSsBwmudY7ftlHZeexcBeDGhNK34/aU+h1WnKEqtsIc64TjfLb1RsOOzdx9NuOH75Cg131Hau7UM4exTxVSuplvr6z24kswI6lw==;cUnaegQDXKSBVRmmQHztqQ=="
 ---

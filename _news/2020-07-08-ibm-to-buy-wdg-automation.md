@@ -1,21 +1,25 @@
 ---
 category: news
 title: "IBM to Buy WDG Automation"
-excerpt: "IBM (NYSE: IBM) has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that enhances access to intelligent automation using software robots."
-publishedDateTime: 2020-07-08T15:25:00Z
-webUrl: "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08"
-ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-buy-wdg-automation-2020-07-08?amp"
+excerpt: "IBM has reached an agreement to buy WDG Automation, a robotic process automation (RPA) company. The Brazilian company produces software based on artificial intelligence (AI) that"
+publishedDateTime: 2020-07-08T19:08:00Z
+webUrl: "https://www.fool.com/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/08/ibm-to-purchase-brazilian-ai-firm.aspx"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-secured: "hztanTmOS6gElWriHGp5Vj06pGcZux9n5QUchErfb8qKxELKCCq/TK4a3LzK9EGZgqMtfr1IwLhtBYgoRrt2VbY2ryrEMczlLaiJyng4sYaimdItXfOSFWbKeroEIUKt2jG1Pl3cpVSG/W8igCWyxRtwNSdiUIo8c3xxcXC+I3M7qvyHVVeTdT5F15vIrLX7TmGNdMwNBvF//3Tqv7s46uN6nw//guBep+BLdxtXstl/HEyOYWjelNSsPvpLmS52A1nnTEUWyJrCKvU/VXEEIl+J0hpArIeQ3bgLeiBwMnwAth/xxiNRC/kRT6IbdrX1ZazFXlHqE9U+NmKj0vxceo0TmhPlcwpgsago+g7wOhWxRwO6d3DOXl+vipwPHbopORCKTXgBtkCpjwWFXie7vcqKD4zfqHzFoaYkNXmnPTAoHrZMRbusQDwR+5RuKmq+/hmH4Ca8U+k9jsBQzN33SJmipBFEH9rMptzwe3ZH5UTRKhrO3gIHzbW8N77r6Gxl;D6AADYbptp8sR9zybMwqfg=="
+secured: "erhkWT2k/j6boEEIpCTdjEugtWVxm/rs+p7u63U9Wmq3tyquIirHnZDuxrJzw52QzKYEDZmMu90ZsfjQ6adUNwQh5Qmg6enh/iXStpgxK5b/WA4SYfYC3NsTBmiRfx9vU1Xo4Q4dhE5s0/juASa40ESAUas3hGyqMvIM+b7phQEwseO9Dh+26zizHr/FTlHw9xeaYbkkC/dGte4UWBXZKhkX87Cifn6g/oFWjbA2C8cwZu1egIARvIOAW7eBMiPI1YpmJrl7FuTpjKkq4k6OD7ZN7Jx6m4I8+DC0R9+11hhswKiMCcXE4bq88xp/rgnYUL79pQDhJNtcQvLEq4TZCQ==;66BFTs8bU3a18nih9QqppA=="
 ---
 

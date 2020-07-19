@@ -36,6 +36,50 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
+    publishedDateTime: 2020-07-16T17:28:00Z
+    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
+    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 44
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
+    publishedDateTime: 2020-07-17T13:08:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 24
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
+    publishedDateTime: 2020-07-17T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "LTtc4NqncnKW7ToexK8uokN40psxufcbHEHVxp3IDu15pOv7xvbU1+AnKfsmLmylI9FQNhu0s2EWuVrwDMdYmxm+ezYSi1n9JK7y6iN0qxUU36JvSX4+ZP2L6wXnuGOspmLVdS3ZVUrcS9lP86NDg+ZAUothzZYMJx5Kuj/4jZFE9lPTkiwDZ785tSCZayE3vOs2AlyTvteAA1X88l1l5QeRTBjn+G2TVhvcIBDCtAL3ymO0UI1p/3vJeSyNThE9C53XcqhlWisng60jGxHHrtDNd8xCPScE3tu6RqG7BicAo1+lvCC3wqwGTtL5Cg9jobe7Kp0BtZrf8r9e/p8k9E7ZOBu2P5ab0cX+Vpglqs8BCzVX1/0o9zHUqlC9cn2oKMCSHaEaCTOkGJlolj69ZreFgT/ebSXXT5rRXW0yy0Bz8OTlearcCtdYae/q9cMP0jGnNhlIyz2cmAB4pjCx8HCx9VVB9JL7ck3Ol+J6M3W9rBstPEoUg6H02X3+BnDWWCRhqIVQdeHLW0zw7ugdTQ==;4x+USXMUC6d+cPiGSaH6kg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T13:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
-    excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
-    publishedDateTime: 2020-07-15T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2024-2020-07-15"
+  - title: "Natural Language Processing Market 2020-2025- Covid 19 Impact Analysis And Growth, Share, Key Players, Sales, Revenue"
+    excerpt: "Natural Language Processing Market competition through top manufacturers/players, Price (USD/Unit), product portfolio, potential, price, aggressive analysis and main regional improvement fame. \"Natural Language Processing Market\" 2020-2025 Report offers detailed research and analysis of key aspects of the global Natural Language Processing market."
+    publishedDateTime: 2020-07-15T03:57:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265779720/natural-language-processing-market-2020-2025--covid-19-impact-analysis-and-growth-share-key-players-sales-revenue"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 16
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.bignewsnetwork.com/voa1594757122.jpg"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Speech Recognition Software Market 2020 Global Trend, Segmentation and Opportunities, Forecast 2025"
-    excerpt: "The speech recognition software is the latest advancement in technology to enhance security systems. The application of speech recognition in the healthcare and automotive sector is increasing at a faster pace. In the healthcare sectors, the speech ..."
-    publishedDateTime: 2020-07-15T18:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16638874/speech-recognition-software-market-2020-global-trend-segmentation-and-opportunities-forecast-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16638874"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16638874"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
 
 secured: "ArfFLBDxUYYZKY42TyavLxDwzLYVX01texccn74FtIuPdN1MZLeAX2qB6zicBjCIaIrQHPZ3rYeCrDczX3NKHFQGCpmjunPKrD1ygyapVVTNq/DCoYIwPRZRDdjXV5qIqdRkUsTknszy7j69Rnb4PQJs2bHDrm1sm6KX4Thlw2g8jpw1LkAFmvHhJSKbl8CFOY/CjN88FU5izE/A4dt3oSAn61o3Z3NFHcgGQpRvttGgM1W7l8Ojvk4uH1+HGoq4il/8JeoEWyNdPp7sVayb3Yk1wgbKWKYk2RP4zrjwYfBEZPgYhIMHBPcU82/JTSksATZ16q5arucIhTFvjlNJ1g==;J74gJDClHEyAWZP17jH0dg=="
 ---

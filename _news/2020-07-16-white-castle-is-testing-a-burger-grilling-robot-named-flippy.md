@@ -113,20 +113,6 @@ related:
         width: 583
         height: 300
         isCached: true
-  - title: "White Castle to Test Robot Cooks Made by Pasadena Company"
-    excerpt: "A Pasadena company is providing robotic cooks to the White Castle restaurant chain to test their ability to grill up hamburgers and fry french fries. Miso Robotics ’s “Flippy"
-    publishedDateTime: 2020-07-14T19:25:00Z
-    webUrl: "https://www.pasadenanow.com/main/white-castle-to-test-robot-cooks-made-by-pasadena-company/"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 39
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/07/33984633_10156379948463252_4260405393521377280_n-740x400.jpg"
-        width: 740
-        height: 400
-        isCached: true
   - title: "Burger-flipping robot named Flippy being tested at White Castle"
     excerpt: "(CNN) - White Castle is testing a burger-flipping robot named Flippy that could flip the entire restaurant industry. The chain announced a partnership with Miso Robotics, a Pasadena-based startup, to introduce Flippy,"
     publishedDateTime: 2020-07-17T12:20:00Z
@@ -142,6 +128,6 @@ related:
         height: 363
         isCached: true
 
-secured: "QfbBxgBdgEK7VbPkPAOv2nyzauVuAXE8ENbZ3rKMjokBFas93aHMmrbUs6UJuJvm7SzI+Iz5yXK03kVc2Q6ZRj/li0pIOXH6KWy//LnXVy66q/JBlyKPc+yXub/EeeQ6csXYLZ1bekQVpVsuNOpkL0LqqXYKFVuGEfKC8241alDH8+V0BHOlY1qFUHnlQJX3hTYXRhbtOiKDi+0t3W7lUkOocYIYF5qbvpJBFtYXi/Z9Mc4/PDTuDRocrBmHXJRKmHsaaOIrnYuN4oR4KuzySlgPC8pIxmrMBaXr1IN59UhSieKlS7X+9AzCR9pJlA7lzqczQB0GYDIjIEK9QCbOTg==;dDF2aUb2W9a6vsQOeK5Lqg=="
+secured: "TofbQPQhUA93B9bjOsSAdH6JDe+AvCnj9UaZBkkv8qnPeDaM0/wVZX5AYIn6KlYbjYkkQ0XDXvSloGFb6v5gzLAcYS5ZCwVY2dtgbzLAgkuDl8cwTAKAOppKxGV0Lf7nfl36kjvR+YQGU9LTi8a/n+bYCBrhjZgHkBA1jhAQOenCWG2tk2aEy2MsYZMW8Dw2VwMAi/kDstqLN/AonFBE4kZHwxJ9ibEo0Jw5Ty8ExJZKdBaUGEq5bX3v3P9R3k4HXHRntQI43di1ZLGijW8fsKyIkq/MyQTb254KpjzhG1lH4TSVA6TanRqDYefjlWkFLo+sl+5EAKi+CEbPbiiTBtuk8bmrZPvbieEfYh51ivfJvKNn1ycCRdldrTGkVuyN8mT9uXg0meR92qRSMC/sxd0EoP3/qbHqMRuyJLEKd2Wei7iF4WsIJ99fwnrdYVreGlJMRnN3Ljo4njVAW05slOHHa/G3rXA7o3zsOo4fEcGZwc7+OGhJkegL6o8R4bzh;YZlxyaxPBOE0C5ybX13BNg=="
 ---
 

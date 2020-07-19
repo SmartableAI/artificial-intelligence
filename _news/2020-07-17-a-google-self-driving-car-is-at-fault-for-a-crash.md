@@ -58,6 +58,15 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "9RXz2dO8ihQAmcO0aLLO/3sTJckCgv9bzKKcUAt07OyQoicQBfSguQEVmV4IsJjVJktYJ5Fdcw67DR357XMzjaC3f7xD0FH39YPENotLsRlW3HUvsZExqIhe/Q7Yslk6WPR8bvkcltLbWtDJ/x3wcsI5Casvq2L6oDtpccKGYHoEvARqxvmfsY8z/bhmxAV9JgxED0Woe7rseeCMaMoXXlpaom476PmYwar8Va3Lpgqdn54KXzA3xr02suzmyhEj+eToodwDQm6QZZv9jjUrV+JuRDjyXKW+mgMEE6UCxGnqpQLKlQEdtyT0Quo059nPfVDsAFU4CnA3spbtTwEJUIWUnYiuv71kw7mi5Fo1TeDRcsKzeYxyrl6Eb2mWF3A8uypxKtWkUv8OwwKMfda+xtuZXVRWkMEYkeJVztbS3UlXojVTWiDNGvK6KfyaBgzHTuX7+dApcG6XI/ohueGTXskS3A6kRljIb1TyhRf2Hln0gnrF8vkB8kVcvlfraF6w;Om5YVJK1UR+qjvKX7cp9Mg=="
 ---

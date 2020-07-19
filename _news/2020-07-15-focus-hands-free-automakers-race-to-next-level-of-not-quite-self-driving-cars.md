@@ -78,6 +78,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Profit-Driven Automakers Race to Next Level of Not Quite Self-Driving Cars"
+    excerpt: "It is an extra-cost option on most models. A more advanced $8,000 version, called Full Self Driving, adds automatic highway lane changes, automated parking and “assisted stops” at traffic-controlled intersections. Tesla says both variants are intended ..."
+    publishedDateTime: 2020-07-15T12:24:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/07/15/575596.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 22
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2020/07/zoox-autonomous-driving.png"
+        width: 940
+        height: 940
+        isCached: true
 
 secured: "oC38jsxjLlq6G7ZPiKj8cJD4UBTPE33jC7RQ9xhL7KW/dqZO0PFNCL3raopZJI2EkPLAlYvXShFDWPBW9OQiT4tLMddUVUWFh6QCv7IQKXlOeNFMNT/yI5NY584VcYDHO+IX7PcTv5fLDBkce53xMWwMkSxiDLzH0zs88PXAQylGYRVit5AWaoCHFMDM+A6c3Qv/A6/8odmu/u1OsCiwdL9ylxpDY68v7GEODKYmWIGevu+Ib2ia3cxLlsgP01WEkO/HUBlh+NaluR9fvjjyhKPchk9QxfWKe987CnrCah0yB6wNO+m0I4OhYi5MnfFOocdZQFrodJSQhRNXjlWTZTs/rWMaeaoWq8poiLvzU0Q5oGov1y8h0d4/g7sjaurxu+kyZkSLh041Xh27WAsp2sJK8UY8WMv15vTImWpyQpkYDEqggMqhcPEtNcVBmjMRFv3IkZwDpivrbABlLquTsVSo6Ke6iIDH3i6MReX+LIe/WTEzOuBnvIUaxd1C+Pnlwx738/qzDmSHxsaQLhl87g==;uKtsiFrkbVBTYMxY5fvt3Q=="
 ---
