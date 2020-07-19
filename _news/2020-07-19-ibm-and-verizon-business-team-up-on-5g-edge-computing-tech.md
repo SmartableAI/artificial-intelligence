@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
+    excerpt: "The business division of US telecommunications giant Verizon and IBM are collaborating to work together on 5G and edge computing “innovation” they say will help enable the future of Industry 4.0. The companies have announced they plan to combine the high speed and low latency of Verizon’s 5G and"
+    publishedDateTime: 2020-07-19T21:42:00Z
+    webUrl: "https://www.itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
     excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
     publishedDateTime: 2020-07-17T07:40:00Z

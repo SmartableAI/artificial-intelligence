@@ -1,25 +1,18 @@
 ---
 category: news
 title: "AI Start-Up, Focused on Artificial General Intelligence, Demonstrates First Steps Toward Human Reasoning"
-excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated"
-publishedDateTime: 2020-07-14T13:05:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html"
+excerpt: "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated the first steps towards human"
+publishedDateTime: 2020-07-14T13:49:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1213863/Cognitive_Science_Logo.jpg?p=facebook"
-    width: 2092
-    height: 1095
-    isCached: true
-
-secured: "Cjy0P/7GovLVKsEx0LO5QyaM5ASM6slmtV8zk2C3DJW4ix0S6UxYinvz7OLpz0MSANkxj+3WuaeXNjDJ6MVzRnBtMzPlZhqclhu++iLEqLoJfAwnjyO/3F3u7qqu83SU4fqOLxG7yCQ8mrfhByPS5EQXn0V3FZDFlkofAVSyJRg0dRA9YvEuYQCNaHOewyzFKOuSrrFlHiUodvrHhhceTleMQoE4a8qAhrkBMJ6facv616gXtVbLnvhDP6ri/AmDww+DYtfj8nczJ+JRyqoduNPffpbH4DatUyqSRDZbN9U1hidfegFU0Hp/hNKRwAzMXXGkBIHo3L5V5fy/c1+T5A==;KkT48BB89ea61nSHwu+NeQ=="
+secured: "952f5D9t0CA249wVDVjyEvwgx3CijgIT3gCww9A26lx6X0anjIUAauFbXstpL1ATkwlxqS6hVp0VhUzwZTFAF2NLZHu0vNiiMIO//cjOONQyhQ9Sw/cXmaxq3M6gK/MD1tSRCMJtfgAeTPx5HCf6TtAJtC17j3DL51HnpWf2rgNfgrsgq2x3+FuKnI+J7Ay9e2SCDEZq6wsYqVzhjMAgu7WugMvAzk2RF0kwTw655C4IBNVoiW/ylIeyEe80du5wSdgqC3w1qNAssNfNzJ1eSSAyHvnEmQteRHgzySrMT3tx82Hg9+B2ffhoiJxQDKsOGFn0WdikpsJvEh25oo7sGFkeB0JsojHy2891QOTE4v/3RzgFc3UisTOBa1iy8rnxBNUHn8Vkj6d8Ty4RitKm6MJ+dQlbX4k+yHofjNnsyb/s9so0FbAW1MezKjv6NNBHf7R6u5hxECAYBrazxJqIKGDROKVN23lQzPjh4PSMucBduJI3WZ9BCdMrKbt2qLcrz9TO8jVQ7C1JbFQoXzgkYQ==;ZKTeaCKokuDiFrjt166ctg=="
 ---
 

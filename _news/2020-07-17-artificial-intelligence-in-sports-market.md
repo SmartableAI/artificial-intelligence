@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2092204/artificial-intelligence-in-sports
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092204/artificial-intelligence-in-sports-market-growth-analysis-key"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 700
     height: 400
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in the Education Sector Market"
-    excerpt: "Global Artificial Intelligence in the Education Sector Industry research report offers granulated yet in-depth analysis of revenue share, market segments, revenue estimates and various regions across the globe."
-    publishedDateTime: 2020-07-15T04:57:00Z
-    webUrl: "https://www.openpr.com/news/2090156/artificial-intelligence-in-the-education-sector-market"
-    ampWebUrl: "https://www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2090156/artificial-intelligence-in-the-education-sector-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/T/7/T715512134_g.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "5T0NA0YMTH1VOE9WAAiy1+wJthc6eFjXAIC7mBRsaNlZJq/txoAhOZYbpnRgwV613j/T9QNkxHozSvMDgqp2dKUG1c+JmZNJL+MLvBTJuDDll3Ih8E6Lry4LcqB5mlTMCjHokN/6VSMFseTZ28ef0jzaM5wGxG8PBLcSncNRUOFzUX21OhGwfguGW3Fai2yVYjOexyNhzfrTBhjtd2kqlQWGzOA/n7dknpTDRXCTYQ4bZZ5rAgoZjRRdcIDdzBSjEE7lkMdr6GNtRTZ2or7xvNfguv6/kimeGomB0TqEEhcb1LvnawkXKEJbGgdyZ2PUdS2Nzpevaepny4Bej+euAHVcJhIFQl8OiaVRn2H9fpoj5OSE7s2LwZWYSZaI63sNMPbhPGdJhLzfNquicoRdu3hq4GK1IB2dMKTpXdOXVjIFD1g/l7FJeUkhUmALVWwgzuANTcGOnMimaYiPXGFG2EJKDqqybB3R5pSbu2ESWt/kv2PgX2rCaiy6Q3Ht5dMeRc5jZEc/DWvOU/iGDHX0xw==;rqedPPmK/o+PuVao/2um5A=="
 ---

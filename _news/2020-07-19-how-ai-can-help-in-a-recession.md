@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 658
     isCached: true
 
-secured: "T+CQstIteg2hd8KCyI+BmTjFdFgY7opRILUD/4GQ1BDjEQ0s0l2spyvHVNrn52upFz+SRlU18W9qnV1IckmozYq56Ie6NqEbyxuLnW1Qre326tqfTYF3jhVcI5mG/14DGAY9Ic+HWm8eULuHXWO9vv2BpMFgHO80NnWA+gw42txcWV7eiJ9R9K72H2eplHX3oFVmxjWlO3z6kVY0qqmgCCLVR2JsNwgksnjbBGQMHEJ+jKmePCMh53RFpWUaoElwB2sRIbZRLy0BiqP5PJl/gk7aRq8qur2R2gSPcXLO3/XjxLPbvlWDBIKzf/A38xEn5VWpxBx3MaxnOBY8GYHj8Q==;1D/vSh4tTq4cUPIQ7RNv9A=="
+secured: "xAzNJBCTemdjlfuE0cBsZMjwldQv/E7U20i2vvwzObh85upK2ZROU/fqCuvMPMa/Atl5brMxC6Kv2MyyUH9zBWUnLzXM/gjsmV/rcb1rohNrZoU6b1BoIouvnRAU5YPbXWdgJxbiZyGXwcCOwW7wrpNJgeUn39uQ1wihIAqny/0VabUKbWAGHZmLbDy4ccaNIqEGQzWICQTY2bliUzGVJQY5McYvVFUroV/rylcCc+zB8AxpTQnsUl5jQUUXglUxFKS2X7BrhO/zWqvtVJEonc+vftG3snN/w1DykP1lRkDw7aXbz5r2JoS6nIqCCN5MLOOzdFomV6ne/qWRnM9TPR5GpqFT9FezVqLDVBIjdp3EDqgoxNumSbcZbC/NeFh3s1R36Xv+oa76usysI2lC2fSYMtlnMF9UR9hfBgS+gXiyeUe8Lcyu6jotPqPP5bPS2xKtLcGAX7nJrqjmq49FqdGs5Li45Xp0bR1NSWj3r7WXLFOCg0i6leZhGMggt6TTImExCboprf7NvD7UkIpNpw==;lMcpXmWHkDX/ruopHrqIgA=="
 ---
 
