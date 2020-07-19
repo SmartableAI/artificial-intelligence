@@ -65,15 +65,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
-  - title: "Samsung, Microsoft partner to transform real estate, smart property management"
-    excerpt: "Samsung Electronics and Microsoft entered a global collaboration focused on digitally transforming the real estate development and property management industries. This collaboration, combining smart appliances and digital cloud technologies,"
-    publishedDateTime: 2020-07-14T07:58:00Z
-    webUrl: "https://www.telecompaper.com/news/samsung-microsoft-partner-to-transform-real-estate-smart-property-management--1346385"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
 
 secured: "jQw7ovGzEIbeXehCoWFzZRFS9ckcR2+DEnI0iXqfj2U2HZJIJv1r/QGznkFlHhSB+lQ8IFq2TxB5NefrLmeko9Jiqw3l8ImP/tGbx1CmQYy7/ZTt/jsnfXtnGwC5MndkVX1PD+eI4Yi4cJ2H8yzWmYSb+DyH4JKw0UYWkHhntcVRc3CLpe4VjRCXezVE3VKGcFJECePz6bB/sF/TCuoOToncS8sPJGNIv3sjE/TMJltydLDv0A4oX6ENgufAH9hrt88ivpWwIm95Mo9oUBgkTGLlpVwOVSN6EJN+WBX7mfYtqxyLWcphD/esQyRCgzcMTxl4y4A4TQFZ/4LLQ8dh0A==;IBR92ms7yAVNk+KL8rj2DA=="
 ---

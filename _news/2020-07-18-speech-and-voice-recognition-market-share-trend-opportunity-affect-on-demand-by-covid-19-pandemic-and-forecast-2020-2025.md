@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market : Industry Analysis 2020-and Opportunity Assessment 2020-2025"
-excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
-publishedDateTime: 2020-07-17T11:14:00Z
-webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17"
+title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
+excerpt: "Voice and Speech Recognition is the ability of a machine or program that can identify, distinguish and authenticate the voice of an individual speaker, understand and carry out spoken commands. Benefits of voice and speech recognition includes - encourages natural,"
+publishedDateTime: 2020-07-18T19:07:00Z
+webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
 type: article
-quality: 63
-heat: 123
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,6 +18,7 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -27,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automotive Artificial Intelligence (AI) Market : Industry Analysis 2020-and Opportunity Assessment 2020-2025"
+    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    publishedDateTime: 2020-07-17T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-industry-analysis-2020-and-opportunity-assessment-2020-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
     excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-17T10:41:00Z
@@ -89,20 +104,6 @@ related:
         width: 786
         height: 488
         isCached: true
-  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
-    excerpt: "Voice and Speech Recognition is the ability of a machine or program that can identify, distinguish and authenticate the voice of an individual speaker, understand and carry out spoken commands. Benefits of voice and speech recognition includes - encourages natural,"
-    publishedDateTime: 2020-07-18T19:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech Recognition Software Market 2020 Global Trend, Segmentation and Opportunities, Forecast 2025"
     excerpt: "The speech recognition software is the latest advancement in technology to enhance security systems. The application of speech recognition in the healthcare and automotive sector is increasing at a faster pace. In the healthcare sectors, the speech ..."
     publishedDateTime: 2020-07-15T18:10:00Z
@@ -115,6 +116,6 @@ related:
       domain: benzinga.com
     quality: 25
 
-secured: "QlKloF+C9AjinAJvSB0HUlC8HU4nJNpi/xl0O4+BwAkTauz90CTI38UpziRst8bJ2rhv8PvXuWdcEeypkuU+gaIBkdsZ18ZJSpSfCz12o/K8fFTxRT9QXIf7vHeq31dmEePG/KTxpo28yv5Bqs90j5v/RnjjuRHL24Cr7qKQ9nvzEIz2KGU6RmPJsR3bu5PXMN3h0vrDJsr9ZpEJHeYdl+Fp4s8cryNkONVnSyyueqSRanPMT02TbJuOb+Gn5DeehgDbQvja2ZMJZgCzkx6NSiRIo6ii6UJmqH7mThzEeQeFoRhJfNfWJ18Gvr/LhPMRkGbjw1xI1MNfm0zMevLfvA==;oVYFSnu4yIZWiwDxRCgqnA=="
+secured: "kAIuzdxl3kHQCj/Y8FkH110uGG7sWGhc0Wd7OIn4oMQef+glXZXyWV5n9/F1FnUgqy35Blgxfiar/ILNUK2jxul48ogHDXtG1YNm7wsBwV/KEfi2YtPzELFo1rx0ECeZPO5l9X3FjzckBPTAyjbErU+u2YYFohowLBnQMhuVmdUgtlviOdx2ndbnn0wIQICFydbsqNnIzWF4x+wtqRIVXCs3+QU/HDNrGBa8lnJN48yjhxmXu5KVYJpVk+taK0szuoQwxEDZnAiYriHR5SpSsj0B7IjTMYrSJ4cR6E67zhKkQsF+G3RP4TE8EcXo7dY0ozkRKDBJREr7VeM5adc4gw==;Vu7z7ki/uPOZ6VcHBdWPUA=="
 ---
 

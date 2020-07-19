@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive AI (Artificial Intelligence) Market Size Growth Drivers As Well As Industry Challenges Opportunities To 2026"
-    excerpt: "The Global Automotive AI (Artificial Intelligence) Market Research Report published by Reports and Data provides"
-    publishedDateTime: 2020-07-14T08:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-ai-artificial-intelligence-market-size-growth-drivers-as-well-as-industry-challenges-opportunities-to-2026-2020-07-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Education Market 2020- Future Development, End User and Business Strategy Analysis"
     excerpt: "Artificial Intelligence in Education Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Artificial Intelligence in Education Market is segmented by Regions/Countries."
     publishedDateTime: 2020-07-15T12:25:00Z
@@ -99,6 +85,31 @@ related:
         width: 786
         height: 488
         isCached: true
+  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
+    excerpt: "Voice and Speech Recognition is the ability of a machine or program that can identify, distinguish and authenticate the voice of an individual speaker, understand and carry out spoken commands. Benefits of voice and speech recognition includes - encourages natural,"
+    publishedDateTime: 2020-07-18T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Software Market 2020 Global Trend, Segmentation and Opportunities, Forecast 2025"
+    excerpt: "The speech recognition software is the latest advancement in technology to enhance security systems. The application of speech recognition in the healthcare and automotive sector is increasing at a faster pace. In the healthcare sectors, the speech ..."
+    publishedDateTime: 2020-07-15T18:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16638874/speech-recognition-software-market-2020-global-trend-segmentation-and-opportunities-forecast-2025"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16638874"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16638874"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "N2o+3JtaDCSelPb5X10HDhknMReYZAydwmp7hSpztkKquYnXxgZKfq0y5zfRqG1QIExkLt2Xz0BS8uYLDhyRjOA07YmNq0aZxjFz2tLO9VNgo6kaBsAEIKRqmTsuVhWhoEWELof+/BlEqNONnUkZYORipH9vOvUAaC2oali2+XjCAsnibr7pzE65qBVu0A9y2e8lBVGJ/+nLbFsCSO8GcJat6o1oNKTL128XOIskjwhmGxRfbqtYHidjrBWd4VuYgZ1fOen/WyYyvE00rGzM08JwiDDNqxOOTe4ex27z+T2e+zvf/jKZl5FbFAkbTMShU5CX2Cg3nOVv4U1SRi4wm+M/0+LgQXpEEyKjNtBAB4jdQkKmKMqZQZE3FrPnJoSqMoY9EFfedJLhRo8ID1dCov33FeD9FYOh8PJMUjgkVUg02hgHloL+ZdfDFYH3kfGCEEet6dgYOT0TfZBQXV9Lu0pAwK1/Sk42yl1hyfNMStuy6f/DtSrlqTjU8jqvhUyzXQs2D4QRwlCHxPD/xoaJAA==;F84derxS6G7MMHVCQMSg6g=="
 ---

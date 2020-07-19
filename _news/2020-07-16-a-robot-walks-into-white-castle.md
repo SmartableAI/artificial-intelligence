@@ -72,17 +72,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Flippy the kitchen robot is going to White Castle"
-    excerpt: "White Castle is about to get a new assistant in the kitchen — a robotic one. The iconic fast-food hamburger chain — considered the country's first — will embark on a pilot program with Pasadena, California-based Miso Robotics to install Flippy,"
-    publishedDateTime: 2020-07-14T08:15:00Z
-    webUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.html"
-    ampWebUrl: "https://www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/losangeles/news/2020/07/14/flippy-the-kitchen-robot-is-going-to-white-castle.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 39
   - title: "White Castle is Bringing Robots to the Kitchen"
     excerpt: "White Castle announced Tuesday a planned pilot with the company to accelerate adoption of artificial intelligence and robotics throughout the 99-year-old, family-owned chain. White Castle will introduce the new version of Flippy, Robot-on-a-Rail ..."
     publishedDateTime: 2020-07-14T12:00:00Z

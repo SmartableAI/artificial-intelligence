@@ -35,20 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 91
-  - title: "AMP Robotics Named to Forbes AI 50"
-    excerpt: "Company recognized among rising stars of artificial intelligence for its AI-guided robots transforming the recycling industry"
-    publishedDateTime: 2020-07-14T07:10:00Z
-    webUrl: "https://www.waste360.com/fleets-technology/amp-robotics-named-forbes-ai-50"
-    type: article
-    provider:
-      name: Waste360
-      domain: waste360.com
-    quality: 69
-    images:
-      - url: "https://www.waste360.com/sites/waste360.com/files/SSR%20-%20AMP%20Fleet%20Image.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "xtuPQsLCG2Tmi6/Km6x6yAloG4RdtT5OGt50Panm9TXz/ZoaXbIxN5S0dFCH6fT+Xv2aoUQKUOwbWyVtdmscOabUHQoTa0APZ3/6RcNLwy/8UGlf1CYxRZbwi0pFEFTwWC6vEOrexRAK0kPDK/h9fNN1jVRF0gWRBbFO3GiKYq/2nkXLsel1elXVvg1SY7Er5RW8py1VUakM1oB+on09qUr454/UdvCZ9qCb3yl0KVtEqzOuzyjaeGUNoglY8xdbu0x2SE/SFKPexrpora91WNy6mraexd7DDj44C/u8AI6jB9VVunku5d8vzGzhEKxIc473SNm5d8h1GYdF8m8Jiw==;cZtf9K5e3UCdFD4Q3OjXLg=="
 ---

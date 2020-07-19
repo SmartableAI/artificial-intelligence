@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Japanese Robot to Clock in at a Convenience Store in Test of Retail Automation"
+title: "Japanese robot to clock in at a convenience store in test of retail automation"
 excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-publishedDateTime: 2020-07-15T09:57:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
+publishedDateTime: 2020-07-15T09:51:00Z
+webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
 type: article
-quality: 80
-heat: 130
+quality: 100
+heat: 150
 published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
+    width: 782
+    height: 545
+    isCached: true
 
 related:
   - title: "Convenience store in Japan using robot to test out retail automation"
@@ -99,6 +105,6 @@ related:
         height: 708
         isCached: true
 
-secured: "7H/YgI2IM4kC4fdQ/bKmdZckm8a+Kou7GTlipcJ2mRFtXxZb0i6SDCh3GlOPXKKgciXu4vs+H7i3fzisGLdFJLum4bx5P8DwRQjYpCR7ptJ/dPtBs0MT08o/KpyqARyXlPnRDDRyxQtiIyFL6eIHVs5vCcCpTtHyl9zsVK2UA0SBT7+XF8I+CITI/lsaw0qBzC5FlOtC2nsw6LFBLZWhMHRJjXarVy/u3Q8ag+vqBnw5mPt5LL5DfaZQJU4bDIm4kejpMfk/NKH68L41CWDd80Qnkd9pscfdpvZ671rqYatFaO0s7cd+r5wW0tvl+196XNOVOFCYS1lW/n1d+tuNxjl66pzk3R/yE6d02dTZhNMw5vd0O7Qo8wkmmuUKcIDV1J980INbXV2CVdO6sC2OQDME6wwzmHHw6yLRKNYIJC6CG2GjYP0OHvvFDTZj7msXoycKUYB+VQxaPsuISEWzm0kVgcgC6BKVGB0b/Nmg0g9OQp82AOpte3oqccUYdivu;H38NvTJiEBBspev3rG/LKQ=="
+secured: "6wyM/vc7SsQrD2nI16My+ghVHgFGLgrnV8pNq5qcvYxJx0rDqaABg5yy0FNT5KXFPptjGm7afkYL7+h63jlbSQq9W0jOjzZGGyETz+3nw4VXayr74WBPbFr7XOhbq5/9i7x4XVxII3pSvjgXsOpcV1Vym4gaNB/gkRsvq8qU9b7Fw5IxB2LTnW3dT5LlUpsXhQMaECwJf+8m903YRHOWEtwh+0y4wxn2Ru0NUkrlW+qm8An6/ceGSSDePvGOFIaQw9U1FJPAQOl5nWGmvsKbx873m1Tq2t+lPZDm8gCGctHqS2RopVO7AwCLEgWKe+4r0TZ1Mq+rvm3TZRzdHDSjKw==;qGzlaTNo246r69CocgSUgw=="
 ---
 

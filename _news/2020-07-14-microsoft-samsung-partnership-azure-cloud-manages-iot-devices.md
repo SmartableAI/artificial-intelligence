@@ -64,15 +64,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "Samsung, Microsoft partner to transform real estate, smart property management"
-    excerpt: "Samsung Electronics and Microsoft entered a global collaboration focused on digitally transforming the real estate development and property management industries. This collaboration, combining smart appliances and digital cloud technologies,"
-    publishedDateTime: 2020-07-14T07:58:00Z
-    webUrl: "https://www.telecompaper.com/news/samsung-microsoft-partner-to-transform-real-estate-smart-property-management--1346385"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
 
 secured: "EjH5Nopvhd9xyjYbKsYyYDUrC8nsXnYZEB6SW2arsD0F4zT3f0t7wDOktYFCbcxUdpDwp+iWCZRPN0pzTOmm6ycYV4mT9jZmsz9zD+lTrKY9PfAj0EOp7JmCyx5cGaVv1sgbdnzm0KeFhMmTdoYr8I3XLXuWVmUtNdcc6yeG1Y97caPMNoXAtTa2unP2KpxQN484bLmb4hJyJRZk9luViIesvHFLDbVMFdWIdDmQ3u90IbHVjFkT0ZTVFpZQaYX6lS/9sAgsFMuq54eHzT584pU4tP9U6jTF5M5ZkfWK84dkcrQB8wwRVWxodrRau8Qh26aarsXQmb+695G9JXqkQfqgIv/r7tjx/7wQPNreOKwH+u/ru+MgX6fzqimMLrt/zny1Zgo+EPCjfqXw/6U6dLvlbpYVkj9FEk007YSaQiPWh2oiJgckfZlho7bOK4BvEM0+WKt+HoDm4qLdT5WxrZMv/ybHcTKpsCwOnc7eIZ6X2DJ88r0oQduvb/4G0aG4468EnB9GmkfeX2hVIQPCDg==;DP+iLyrRTSKcLebYODTnRA=="
 ---

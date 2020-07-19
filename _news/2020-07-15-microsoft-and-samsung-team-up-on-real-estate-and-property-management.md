@@ -8,7 +8,7 @@ ampWebUrl: "https://m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/microsoft-and-samsung-team-up-on-real-estate-and-property-management-635140/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -65,15 +65,6 @@ related:
       name: ChannelE2E
       domain: channele2e.com
     quality: 34
-  - title: "Samsung, Microsoft partner to transform real estate, smart property management"
-    excerpt: "Samsung Electronics and Microsoft entered a global collaboration focused on digitally transforming the real estate development and property management industries. This collaboration, combining smart appliances and digital cloud technologies,"
-    publishedDateTime: 2020-07-14T07:58:00Z
-    webUrl: "https://www.telecompaper.com/news/samsung-microsoft-partner-to-transform-real-estate-smart-property-management--1346385"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 15
 
 secured: "ZBM5mSiUR1RZechoZitnnGLIWZ+EhIngb2A6hY7cos6ILueJEAAA3nAaVgqeUxXasqiE86ltbyqyd+R250BJZaDkGNWVhWFVGTdoyOGU3TjRoN61bCq0pyV2CHNOw+ksFyDAovThbsvQRhJ+mQnwRhxSAWMkZ/BupjO5kexn7dgNG4MRCgioEzgH0UpgxW5ZeEOpvgnUln9CxFtzD9dt4nl+X/OC7WSrrFXgaqzaHSMtnL4ZWCnB2ftnB9bhmPqHJGf42fMeZY4D1AavvLgGhKS3V+wnc0pYRymhhQvpOH+UCvFDzUlT/s6vfw1oRIpYZyfBHoyVCVlk7zflh/MMj+5jBdBW6a9S9MOigbN34HE74NNXY1xBDGZ/N3XzEJ0yHhb4+tSDEjuqAic7hmfD+KGGMPy0D6VArrqqdTlJMtSlPHsFX4MfqcluwZa1urOy87ewisDx5mLeYmJ00OKDzWJ/CJKgD/Kpw602lYGs/ndiKSWmyAw/bSEOH5cZ4CN+bO4fokK58ET+euM+SVv5uw==;n1w/zzAv28UGNMK7dgoNRg=="
 ---
