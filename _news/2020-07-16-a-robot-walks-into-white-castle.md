@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-ca
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/"
 type: article
 quality: 69
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "White Castle hires 'Flippy' the robot"
-    excerpt: "Continue Reading Below The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy, have already been testing the robot's ability to cook White Castle's fried foods at one location. If the pilot is successful ..."
-    publishedDateTime: 2020-07-14T16:31:00Z
-    webUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot"
-    ampWebUrl: "https://www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/white-castle-flippy-robot.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "White Castle adds Flippy the robot to help cook"
     excerpt: "White Castle announced a pilot program Tuesday to help cook burgers and fries using a robot named Flippy. The fast-food chain and Miso Robotics, the artificial intelligence company that designed Flippy,"
     publishedDateTime: 2020-07-15T00:19:00Z
@@ -131,20 +115,6 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
         width: 583
         height: 300
-        isCached: true
-  - title: "White Castle to test new version of burger-flipping robot"
-    excerpt: "Potential solutions lie in automation, and White Castle is prepared to give it a try with a pilot test of Robot-on-a-Rail (ROAR) technology. ROAR is an updated version of Flippy, an autonomous robotic kitchen assistant,"
-    publishedDateTime: 2020-07-14T16:34:00Z
-    webUrl: "https://www.meatpoultry.com/articles/23461-white-castle-to-test-new-version-of-burger-flipping-robot"
-    type: article
-    provider:
-      name: Meat
-      domain: meatpoultry.com
-    quality: 39
-    images:
-      - url: "https://www.meatpoultry.com/ext/resources/MPImages/07-2020/071320/Flippy-ROAR-miso-robotics.jpg?height=635&t=1594743257&width=1200"
-        width: 953
-        height: 635
         isCached: true
   - title: "White Castle to Test Robot Cooks Made by Pasadena Company"
     excerpt: "A Pasadena company is providing robotic cooks to the White Castle restaurant chain to test their ability to grill up hamburgers and fry french fries. Miso Robotics ’s “Flippy"

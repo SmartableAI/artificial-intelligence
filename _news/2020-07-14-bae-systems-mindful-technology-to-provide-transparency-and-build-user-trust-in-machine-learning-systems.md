@@ -1,28 +1,25 @@
 ---
 category: news
 title: "BAE Systems’ MindfuL Technology to Provide Transparency and Build User Trust in Machine Learning Systems"
-excerpt: "BAE Systems recently delivered software to the Defense Advanced Research Projects Agency (DARPA) as part of a contract under the agency’s Competency-Aware Machine Learning (CAML) program. The delivery of the MindfuL TM software is the first milestone in the program to improve the transparency of machine learning systems."
+excerpt: "BAE Systems' delivery of the MindfuL  (Photo: BAE Systems) Transitioning artificial intelligence-based systems from decision-making tools into true partners requires users to trust in their machine counterpart."
 publishedDateTime: 2020-07-14T14:00:00Z
-webUrl: "https://apnews.com/9d9f2fd55aca4991af788bab7dbf9168"
+webUrl: "https://www.businesswire.com/news/home/20200714005224/en/"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200714005224/en/805080/23/ES_-_BAE_Systems.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "To5to76ks1odyb2wFW14ccSUc/56al+t4j9Q+Mq2Q7+mjTVQ+fa+bjsPrCXNotIO8lOd/PdWsfHODIbtBtc+hS7JhfIC42dmGynx7PwJ/oLmbfpU/94I7kwUrFdd94fozKv1jXnu+d6MIqBzRUnppJcEGrT1lKUqHnjgwHJI2Rh2Ew5mzPzbC/zW66QmydKSGRyntyvuUVEI8iEonT1UFxkuII44snIhVLnHquTz2lj1v+BvAXoTCK+0razun5hIsKXR8w1NUWYmJs45aFoqhJogRI9W0iu3NXJwyGDOOZh7mtY0lb93WnlI5azlY/wxYUZ3ab1VCdFi+S9VoGtC3A==;gWyo74OipFqKyw7eXavgUg=="
+secured: "YPbkQ1OaxR+uwObC4ZEG+4qPETJucbd5sf/BkkCQUUYQEM6B+eWC3t+k/rtqJfnDz2TqvOrP2TeC2rxyrqrG5S0G9uD3oQ2ZJHwRgZfj8bky1QqGPGEiAgEJjFAay2QFGW/+GNcCnu9voEQI0E23Pwa3qE7KO8rOvSlFsh+DIpgdcc1UxhNGk+AyyAunDpQXDHepv7UgispfN/86DeV8lvGsl9yf7CTyGSSSEl4JMVMoPxo+0bTQSk7K08nlB98QT/gXBLS53l/sTsSWGC+16hZm4o7cO/vYyj5eOJMInlSEGE33VIAKJ2YfRh9APA1lmbhtca9+Nzqi1IQtvl162g==;Id/hBoQUmTsM6lf1ZCaqPg=="
 ---
 

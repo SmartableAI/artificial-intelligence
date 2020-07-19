@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Deep Longevity Inc to collaborate with and launch aging clocks with Human Longevity Inc"
-    excerpt: "Deep Longevity Inc to collaborate with and provide an extensive range of deep biomarkers of aging to Human Longevity Inc"
-    publishedDateTime: 2020-07-14T16:13:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/dll-dli071320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 16
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/237347_web.jpg"
-        width: 400
-        height: 416
-        isCached: true
-
 secured: "aRpfUh0GXO72h/Ix3J0wDIx8SDqoPbahGdSn/63zIbfEA3AKK2ls8H9TyEEjBbmS8bBqPibWRumX9FM7fYi624dWGhvQxD8sjUkXJ9HdOreXTZO3jQGfcgzwJfMmUapF8OIjGWPN2gXucBi1pEdK037w/d2zZpfZcLNNZBiojtbkeTJqKKcTcJH55fHi8fnvp0L6E7nrVtr0DhRi5oJpLIQ+onYev+Vk07lrI9sKzwAhspHu0AEj7GsSJW4j4vC9YGKYUmTFt3WoKN+Xr88zU+PZEkoXAb734QBNVOFb6OfVR1Z8uBdkz7P0k4VHvqRpWDZe2Mr+djToo+xT5Z82ag==;B1gXt9ZAU9t2bbXgYpT3IQ=="
 ---
 

@@ -42,38 +42,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "German court rules that Tesla misled consumers on Autopilot and Full Self Driving"
-    excerpt: "Tesla misled consumers on the abilities of its automated driving systems, a Munich court ruled on Tuesday.  Tesla Germany is now banned from including \"full potential for autonomous driving\" and \"Autopilot inclusive\" in its advertising materials,"
-    publishedDateTime: 2020-07-14T16:46:00Z
-    webUrl: "https://www.cnbc.com/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/14/tesla-autopilot-self-driving-false-advertising-germany.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 99
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "German Court Bans Tesla Ads Making 'Misleading' Claims About Autopilot, Self-Driving"
-    excerpt: "Tesla will no longer be able use phrases such as “full potential for autonomous driving” and “Autopilot inclusive” in future ads in Germany, a Munich court ruled Monday."
-    publishedDateTime: 2020-07-14T16:48:00Z
-    webUrl: "https://www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154"
-    ampWebUrl: "https://www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/german-court-bans-tesla-ads-making-misleading-claims-about-autopilot-self-driving-3011154?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/14/tesla-cant-use-its-autopilot-claim-in-germany.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
     publishedDateTime: 2020-07-16T17:28:00Z

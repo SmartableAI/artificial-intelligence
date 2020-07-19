@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/axilion-smart-mobility-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/axilion-smart-mobility-recognized-as-the-finalist-of-azure-ai-and-machine-learning-2020-microsoft-partner-of-the-year-1029393925"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 62
-  - title: "Deutsche Telekom gets Microsoft partner of the year award"
-    excerpt: "Deutsche Telekom said it received a German Partner of the Year 2020 award from Microsoft for achievements in the areas of innovation and implementation of Microsoft solutions for customers. Microsoft assessed Telekom's partner activities in over 50 countries and praised the company's willingness to expand its"
-    publishedDateTime: 2020-07-14T15:09:00Z
-    webUrl: "https://www.telecompaper.com/news/deutsche-telekom-gets-microsoft-partner-of-the-year-award--1346479"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "XnsgyY108QvCwulwNIIB/Lbx6iJHu9kJb++M3johJ9Wy9pwyKZDZLRBDLPS1O/hdg1sDrotPvqccA2mwLmUmfVXTTscmECzFZQySPlT6fym1aVgBGEkfrX9IIzmGBw6cmYNhKpGU43jG2b87nCU0ODlUm/3G+mLnQHOTlROa/f7Rxp842LV7qj4cAimIAn80VKAEW3/FgaTsyg/5W4fkqnVrZKqx6HneA3HqeUezwS6ken1WD6rxfoR6CAmf1VAutgXuvCWdKC/8ewE86JFIaZZPwd3dQ/QSyTQzrrAuUq4mBbXbeDR+dXDb8RHgF5DAiNkmARTilivEifgLFCi3Pg==;rBrB31Suhr7J8vGqMtrBsQ=="
 ---

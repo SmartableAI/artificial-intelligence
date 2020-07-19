@@ -451,7 +451,7 @@
       "webUrl": "https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1406,36 +1406,36 @@
       ]
     },
     {
-      "path": "_news/2020-07-07-facial-recognition-market-to-surpass-12-billion-by-2026.md",
-      "title": "Facial recognition market to surpass $12 billion by 2026",
-      "excerpt": "To enhance tracking and security in public spaces, the facial recognition technologies market is expected to surge in the years ahead. In the era of digital transformation, more organizations are utilizing facial recognition technologies for a host of ...",
+      "path": "_news/2020-07-08-computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats.md",
+      "title": "Computer Vision Market (2020 To 2025) SWOT Analysis Has Been Used To Understand The Strength, Weaknesses, Opportunities And Threats",
+      "excerpt": "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08?mod=mw_quote_news",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 179,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/07/52407e3d-cfe0-434d-9778-e1df9e7274a5/resize/1200x/dd5a6f0f9bbb18f40fa1b8cffa7ccf91/facial-recognition-primipil.jpg",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 900,
-          "title": "Facial recognition market to surpass $12 billion by 2026",
+          "height": 630,
+          "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-market-to-surpass-12-billion-by-2026/",
-      "publishedDateTime": "2020-07-07T11:40:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T00:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

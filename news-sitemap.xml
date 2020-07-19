@@ -25,6 +25,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://thenextweb.com/plugged/2020/07/17/opencv-to-launch-budget-friendly-4k-spatial-camera-kits-for-ai-diyers/</loc>
+    <lastmod>2020-07-18T11:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training</loc>
     <lastmod>2020-07-18T09:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -357,6 +363,12 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339</loc>
     <lastmod>2020-07-16T04:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/stradigi-ai-introduces-self-service-machine-learning-platform-that-empowers-organizations-to-accelerate-ai-adoption-1029397373</loc>
+    <lastmod>2020-07-16T04:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -799,8 +811,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200714005224/en/</loc>
+    <lastmod>2020-07-14T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theverge.com/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch</loc>
     <lastmod>2020-07-14T06:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html</loc>
+    <lastmod>2020-07-14T06:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -813,12 +837,6 @@
   <url>
     <loc>https://www.techrepublic.com/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/</loc>
     <lastmod>2020-07-14T06:12:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html</loc>
-    <lastmod>2020-07-14T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1969,6 +1987,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08?mod=mw_quote_news</loc>
+    <lastmod>2020-07-08T00:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.emirates247.com/business/corporate/dewa-is-first-uae-government-entity-to-utilise-nvidia-gpu-in-ai-applications-2020-07-08-1.695295</loc>
     <lastmod>2020-07-07T23:38:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2187,6 +2211,12 @@
   <url>
     <loc>https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo</loc>
     <lastmod>2020-07-06T23:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.technowize.com/students-are-learning-about-ai-ethics/</loc>
+    <lastmod>2020-07-06T23:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2481,6 +2511,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/04/an-ai-founders-struggle-to-be-seen-in-the-age-of-black-lives-matter/</loc>
     <lastmod>2020-07-04T08:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.eastbaytimes.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/</loc>
+    <lastmod>2020-07-04T05:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2829,6 +2865,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/cisco-uses-amazon-sagemaker-and-kubeflow-to-create-a-hybrid-machine-learning-workflow/</loc>
     <lastmod>2020-07-01T12:22:49-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://people.com/politics/joe-biden-cant-wait-to-compare-cognitive-capability-with-donald-trump/</loc>
+    <lastmod>2020-07-01T11:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3277,12 +3319,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
-    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.bbc.com/news/53236921</loc>
     <lastmod>2020-06-30T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3429,6 +3465,12 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
+    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

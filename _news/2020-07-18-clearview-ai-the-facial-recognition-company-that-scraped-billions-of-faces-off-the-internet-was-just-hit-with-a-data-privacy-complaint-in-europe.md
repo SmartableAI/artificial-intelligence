@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
-    excerpt: "Office says it will complete a related investigation focusing on RCMP use of Clearview AI’s facial-recognition technology"
-    publishedDateTime: 2020-07-14T16:08:00Z
-    webUrl: "https://www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/"
-    ampWebUrl: "https://www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/amp/"
-    cdnAmpWebUrl: "https://www-vicnews-com.cdn.ampproject.org/c/s/www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/amp/"
-    type: article
-    provider:
-      name: Victoria News
-      domain: vicnews.com
-    quality: 55
-    images:
-      - url: "https://4rfnv3jdfte8qj2229aqgj4h-wpengine.netdna-ssl.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
 
 secured: "eWWMWqmlq74xUQE3cJK78jba5K/l2hnbxqczSJVNxI235wkSSgKYloHBsZpJ20q+PWn76iGzQP+rhsOXfUMzmykCRkM7LMDiAzTZ+Br0fA/TcNG4iEhwXwyuTRaap0uGbczWK+MM5Ix1kz0ed0y8umNcbrHmiNsAGpNI2rzY5woLXSL4AL0fk85LqK6d4IRRgle4S+ssjgLd0Hgf72wwUV1RbZEUqPSzbaazdcib3xMLZxoq217wqt+E5TVp4t76PYNDMwo/j6Yw+2FZGt0WLwkAhfujxmDpe/CsW56PSlPxv9u+9hfDWVx3NyClYdhi0rL8s0KS5ZeSw/WCUHyxqg==;27kbSqjdSIO5Z96yGhiNaA=="
 ---

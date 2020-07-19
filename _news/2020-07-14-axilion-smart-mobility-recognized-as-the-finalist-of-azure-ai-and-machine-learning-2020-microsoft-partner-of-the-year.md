@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 75
-  - title: "Deutsche Telekom gets Microsoft partner of the year award"
-    excerpt: "Deutsche Telekom said it received a German Partner of the Year 2020 award from Microsoft for achievements in the areas of innovation and implementation of Microsoft solutions for customers. Microsoft assessed Telekom's partner activities in over 50 countries and praised the company's willingness to expand its"
-    publishedDateTime: 2020-07-14T15:09:00Z
-    webUrl: "https://www.telecompaper.com/news/deutsche-telekom-gets-microsoft-partner-of-the-year-award--1346479"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "q5DwcLshNsiYsaoT+0xP2dDNQQe+jWceZnxiw4FQlgruI7E/B2z/Uae/FpqJQW0YOsAaah4I2yZwjNWYqbrLyDVWCFFQ22jjIcPPD+kfc+shgEfPQafK5UF/VWdE7f0f5zMzbD3VhDAuBk9Tv80hPih6k/zo2nkzlXt2X1aAEMPPOQyZWYyl194XBUG1avwYfYbM+1jBh216VWZuTM21wbB8lRp7SV1wO6yG0IRlQ4aE/kRf5OZ2Z8pUw5ST3oUX4tR5JsmgiBke4tatmUt5k2q+KJu+syXLVLW9RrVnDIUbDBjZ9xgDuiq6y+AVt3qxtfYN5kcwlwIgHfH2E8AqJQ==;EfSt7yM26ZTR0vJjAxF0xQ=="
 ---
