@@ -7,9 +7,9 @@ webUrl: "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with
 ampWebUrl: "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 81
+heat: 81
+published: true
 
 provider:
   name: TechCrunch
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135729958.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 683
     isCached: true
 
-secured: "j9hVb15tDsTVmH7gQ17nf/kiNLlJGmtPmtfT47NYqvLyQXfrVA0LEkeTPSr/9IQYANLRaj5n6Fd3x6l3IusSYHYpjSAM22Ko+MuCqzJusC+C9pMJtYPKLYXKfpOtPMGxhC8R5W5sg3S2LRGDpigeWV2i8Ol0kVg7HL2AQCeC8/cEZprDrgBKLsQ26wl8gybrg0I5ohPjjdwRgZG0ClykLMi3iguFEEYMushcK6Gs28W1swNPaW3DFp/2XeDGyiSzQFsHfabUmC4fF4G1FhOVuc+NNqtMVPgxgx7X+UsRvZxDYDRgk1Qbbv+Y96vSojEx1bLCeksOLor9mcOkkT4bNQ==;l11IfyxHGhkbstEiIbzJtw=="
+secured: "qg04sJ+UH+NS/V3iW6GaE05BrKNKLSyouHM1//yKp+C50+QuWsa8gS7wiH4piIrKvhl5fgqeLQ5Tvi3dnZg15Drwm4HbFfKrY+hZJRp64flZIbjT3lHY83R+mgu5F+DVb3vv8q5tulhtMsjfGEFNg5Y//FrIp4XxPwbjZL4Dq5oyTZybvTF3U6MGQpn0lzcruGOxBdVyFR85xgLF47tVfWjlY0epneo++KdAB6irhR15VkC/ooHUHDVbGL044o06/2cNbz0TTLDVL2ugrWr3xPqPZWNDj52lR/usVMOE1sUAK+QiuHHtxGR45E0olu+rSrx+R1b1Ncui6MlLiSAcs3H95kS1gTnb0pD8wi+sm7ikgytkklKLHx380aDWIxAMygppiRo3TtNIgeRoUYm9my0kpMVENdcgXHfU4c1SMdJWyEjt4V6KQVOsJJ+/4xnyznMHk8pDHDvRYbq54Z6dPLHgiR26Faek4HzWXUu/9xzdRkENqcF40gxOmbwGT12iJu2/uwpFHkhkFnDf/nY/qg==;TumOjt/K/ie6BHThwJOREA=="
 ---
 

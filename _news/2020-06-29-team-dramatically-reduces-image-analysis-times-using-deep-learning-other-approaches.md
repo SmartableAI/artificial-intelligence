@@ -1,42 +1,25 @@
 ---
 category: news
 title: "Team dramatically reduces image analysis times using deep learning, other approaches"
-excerpt: "Scientists have devised deep-learning and other approaches that dramatically reduce image-analysis times by orders of magnitude -- in some cases, matching the speed of image data acquisition itself."
-publishedDateTime: 2020-06-29T21:37:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/06/200629150539.htm"
+excerpt: "To loosen this major bottleneck, a team led by MBL Fellow Hari Shroff has devised deep-learning and other computational approaches that dramatically reduce image-analysis time by orders of ..."
+publishedDateTime: 2020-06-29T18:25:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-06/mbl-tdr062920.php"
 type: article
-quality: 42
-heat: 42
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Where Google is applying machine learning, predictive analytics in healthcare"
-    excerpt: "Google Cloud launched its healthcare API in April and has big plans for the future, according to Joe Corkery, director of product management, healthcare and life sciences at Google Cloud. He told Tech Republic that the application was built to enable interoperability and is focused on sharing medical records and digital images."
-    publishedDateTime: 2020-06-30T17:09:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/where-google-is-applying-machine-learning-predictive-analytics-in-healthcare.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 36
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/5.jpg"
-        width: 400
-        height: 300
-        isCached: true
+images:
+  - url: "https://www.eurekalert.org/images/meganav/browse-images.jpg"
+    width: 585
+    height: 363
+    isCached: true
 
-secured: "0jknoRCNKL8igvK1mP29bUQnS6nK9yDVrB5qTIHOQALcciLOsHHhOITrVqmNWaQUA/bNGLpnJBJNZVt74ih5BEP+S0W6wc4M/uCrYsM/Ap2qLwmY6HUH1lsAZmslFvjeGWaXY5tQRD827t2d8yUhjW3cNyToBI28Nq2NWQtLUXpf5hDLrGMs9BB/l++kqvR5HpceY1dW1RDgGFAJc95JlG7UqXxEzoepbsgPI6HF7JYibyOsU+mguEtA8uTloBFRyNhDz/ep88KXotKAS4cWJiCJErEjrVrvb1oT69Cv0M8/lfOJShDl0i9loVIZVgq+aJuSATmbG6DcIaeosMqwuA==;UC6XYQMsxfmO54WkYXLu6Q=="
+secured: "Uf1Kycd/N64sgoF05oysdfFzCn+IONqd/IZ7qQ4QdivXncpH8NL0+HSuPpbA+wCN8zb6jaJ8B2yfORDX0Gr5jJbm/+GsUQWFPGxQqm1z9G6vCbKFpq8vvQfDdJbKVZx/xbKyICWj5W9tiLce8ycrVaWgYGNGpHMHxJ4OQw0ll9AX6O9IU4CxTvoBdcb0WA5NESwtIEIDFZa651zNL4NXv4PiEuplz3tsBqWI79/ud33V07WQYJaM4QxGaW8Bjrfidqh6v8hm6gZrHpd22eSufOh+LaJcdukkdIG8IES1y0+ko9jn1YlRGVLwDQRJzK1djBI/Du+v2F4NJCEEl9G3gA==;iHJSW2WByFpB/e8TonQnGw=="
 ---
 

@@ -2,8 +2,8 @@
 category: news
 title: "Neural Network Software Market Report (2020 to 2025) – COVID-19 Growth and Change"
 excerpt: "The Neural Network Software Market is expected to exceed more than US$ 22.55 Billion by 2024 at a CAGR of 33.2% in the given forecast period. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-publishedDateTime: 2020-07-06T10:09:00Z
-webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06?mod=mw_quote_news"
+publishedDateTime: 2020-07-06T11:09:00Z
+webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "fvDbIjJq7GobuuAOly0wNibxd26wsTsY/C1+5M35xG4tqrEAOx8xBy/Yt0i7xDqpnyUoavDiCgC7nNSFTVABLGNRQWwZW7ZAHZHvAO04As/tmFhC9ksUGCN0Q5UiStncroE5v7CXu4RcrCDogY0PwEdaWHwoI364SUFVO+8pkM+4k8mpJVvObev5YT91E+6xbRxUEyvES/l5SoIbt0BJ5jtful59u6i21q4mSqVSldoBz2s0zNAGza3+TQ+DIRvR+a603czw5zge/sm4QNewSDsDYAZe+fCH2l0A2wqIj6fVwVdtASHftfr/m9+EQ4I53R7pF/z2cbs5v+5J2gwYbA==;gaxckpSLd/AhmZ/SF92H4g=="
+secured: "hI0TvpXjj6CKUmWThGsnp/6Qepe27H21fOjm3fFNf8vi9o8gG1nZ2xqJ4r1WXLb4hGqOJ0m0s4iFXpzCrTPppA38V+eR5tP7fXVxRfRMoZAjhHwfNhwt+0Jhzhle4lbp4n5tHLOuCFWkfgkG7GAPH9oZRfqCdxvv6rEIMEnLDVfyORLfyD3+lHGCA9LF89GbOmUknpj4fqhQD6VRSBxGY4VHGHrS24zFQ59oLZb+xLfmEMW430c7xO5N1ihEN1MPPZRUSEr/1gK0eW0WkzwguyrFc2Tb8KePMIp2Ksz+t4r8DNsDlssFF7GWIzfRy6mIxw493zwu1HDPjCoHmNPVKg==;ykUvt7k9ifyvWPfWlrp+zw=="
 ---
 

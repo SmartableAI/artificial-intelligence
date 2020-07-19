@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-how-an-ai-graphic-designer-convinced-clients-it-was-human.md",
+      "title": "How an AI graphic designer convinced clients it was human",
+      "excerpt": "Art. Lebedev Studio has built an AI designer that creates original company logos. Sergey Kulinkovich, the company's art director, told TNW how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-16T172150.239-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/amp/",
+      "publishedDateTime": "2020-07-16T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation.md",
+      "title": "Twitter CTO on machine learning challenges: ‘I’m not proud that we miss a lot of misinformation’",
+      "excerpt": "Twitter is making big investments in machine learning to weed out manipulation on its platform. These efforts show the promise of ML as well as the limits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1005528904-e1594915635314.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/twitter-cto-on-machine-learning-challenges-im-not-proud-that-we-miss-a-lot-of-misinformation/amp/",
+      "publishedDateTime": "2020-07-16T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-richard-socher-natural-language-processing-creates-value-in-the-enterprise.md",
+      "title": "Richard Socher: Natural language processing creates value in the enterprise",
+      "excerpt": "During a session at VentureBeat's Transform summit, former Salesforce chief scientist Richard Socher spoke about how AI can create value in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/da53d202-38f4-41a3-bc3a-051c83cbc1f9-e1594699876370.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
+      "publishedDateTime": "2020-07-16T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-dows-machine-learning-journey-in-international-trade.md",
+      "title": "Dow’s Machine Learning Journey In International Trade",
+      "excerpt": "Dr. John Wassick, Integrated Supply Chain Technology Fellow, Dow Inc., was on a supply chain panel at the ARC Industry Forum in Orlando.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1227496813%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
+      "publishedDateTime": "2020-07-16T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms.md",
       "title": "How Google addresses ML fairness and eliminates bias in conversational AI algorithms",
       "excerpt": "When it comes to algorithmic bias, how Google teaches Translate to recognize gender serves as an example of just how complex such a basic problem remains.",
@@ -962,195 +1161,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-the-top-16-companies-using-artificial-intelligence-to-revolutionize-drug-discovery-according-to-experts.md",
-      "title": "The top 16 companies using artificial intelligence to revolutionize drug discovery, according to experts",
-      "excerpt": "In 2014, there were an estimated 89 AI-backed companies focused on drug discovery. Now, there are as many as 214.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f035fb72618b902835797c6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
-      "publishedDateTime": "2020-07-15T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
-      "title": "Why supervised learning is more common than reinforcement learning",
-      "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ion-stoica.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
-      "publishedDateTime": "2020-07-15T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-syniti-acquires-innovative-startup-virtyx-furthering-synitis-ai-cloud-native-offering.md",
-      "title": "Syniti Acquires Innovative Startup Virtyx Furthering Syniti's AI, Cloud-Native Offering",
-      "excerpt": "Syniti, a global data solution provider, today announced the acquisition of Virtyx Technologies, Inc., an innovative start-up that provides end-to-end AI-powered automatic monitoring and analytics for data transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043",
-      "publishedDateTime": "2020-07-15T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024.md",
-      "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
-      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -1,17 +1,17 @@
 ---
 category: news
 title: "AutoX gets permit to run driverless testing in California"
-excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing on California roads."
-publishedDateTime: 2020-07-19T11:52:00Z
-webUrl: "https://www.sify.com/finance/autox-gets-permit-to-run-driverless-testing-in-california-news-topnews-uhtlO9fhcjbea.html"
+excerpt: "(MENAFN - IANS) San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing on California roads."
+publishedDateTime: 2020-07-19T16:30:00Z
+webUrl: "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
@@ -33,6 +33,6 @@ related:
         height: 337
         isCached: true
 
-secured: "kN8epTUE77KrjcSNOUacozAUl+s4fiWgLh3gXDuNBIfQxBBR9xIaxEqVP9lyqfcA2xzGwLt5Ir29sQGBuSO1gHBDJGmTjHM6eu5be5RXvX+ApruFCPedXdO+nruFqMrPrA80P4JBJNgWtGi5tMyT6oexl8yZBfw98boEJKfp5qXAlFhfOs3XaAuVyNOOPwLBkEeEfserUHCjJUPBLoNgMHJrBEfO2SisRaqI8G+kwNG8Xkv8IwzYXUB1Ju5v+8WCp7KymLcOoDUnRAB4Deu5y2HcXxWWhpdbp1UPSrnLOqdjop+d0z0waXZ8UDdmPdBOwH3FnKNHyK3OMMeQ/4Vs1Q==;yZ0Sk9iDid6fZVicb33HbQ=="
+secured: "5/daTShIsyg7gYOltThY50552rVTEZ+e0CKhJTm6A4VIL+CoLDDOYpFX+nPjlZH+4+xOCwVueYeI7qS3o+wi7l1ca/gyg1/6NbBaC5uc7K+P9S4MPVLm6cJqWLsOvLYmtg23+FEP140lemLU5eNIuPX3eAY/fral74ZlN9bBgHIatZuybylLgMYw8L5P8g3/pebHpOJvBxzFuNXrSBDk02Yy3RyxiqPco1ZexEWL+BwdtHRdSge1N1rortyNYcQwW0dCcMJMeODHmB1RG/J89LSqG2TBbVKAX/BugpyGXFaF36HU04SS9wcjKniRMx6D18mnxcVIRyhV4gEWnBdmoA==;9jv5tSYiIwrdnIuip2Ppjw=="
 ---
 

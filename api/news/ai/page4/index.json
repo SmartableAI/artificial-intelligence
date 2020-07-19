@@ -2,6 +2,206 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-15-facial-recognition-is-everywhere-heres-what-we-can-do-about-it.md",
+      "title": "Facial Recognition Is Everywhere. Here’s What We Can Do About It.",
+      "excerpt": "You can opt out of facial recognition in some cases, but the history and future of the technology suggest we’ll need bigger solutions to its privacy problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2020/07/202007_facial-rec-630-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
+      "publishedDateTime": "2020-07-15T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-baidu-tops-chinas-ai-public-cloud-services-market-report.md",
+      "title": "Baidu Tops China's AI Public Cloud Services Market: Report",
+      "excerpt": "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
+      "publishedDateTime": "2020-07-15T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-microsoft-partners-with-land-olakes-to-build-agriculture-tech-on-azure.md",
+      "title": "Microsoft partners with Land O’Lakes to build agriculture tech on Azure",
+      "excerpt": "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg",
+          "width": 950,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
+      "publishedDateTime": "2020-07-15T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-heathrow-airport-deploys-anti-virus-robots-and-testing-to-skip-uk-quarantine.md",
+      "title": "Heathrow Airport Deploys Anti-Virus Robots And Testing To Skip U.K. Quarantine",
+      "excerpt": "London's Heathrow Airport is doing everything in its power to encourage travelers back to the skies. The airport has faced a bleak few months with the number of passengers in June down 95% from the previous year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f43d5ba9bb1000708a5c5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5905%26cropY1%3D299%26cropY2%3D3621",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
+      "publishedDateTime": "2020-07-15T11:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
       "title": "How Chase is using AI to update banking",
       "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
@@ -1261,199 +1461,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-ai-enabled-robotics-are-helping-to-strengthen-recycling-processing-capabilities.md",
-      "title": "AI-enabled Robotics are Helping to Strengthen Recycling Processing Capabilities",
-      "excerpt": "Roboticists think that, “computer vision, neural networks and modular robotics can enable a more intelligent, flexible approach to recycling.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.waste360.com/automation/ai-enabled-robotics-are-helping-strengthen-recycling-processing-capabilities",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/recycling-machine.png",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T00:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-caption-health-raises-53m-to-democratize-heart-scans-with-ai.md",
-      "title": "Caption Health Raises $53M To ‘Democratize’ Heart Scans With AI",
-      "excerpt": "We've really kind of cracked this problem where our AI empowers these medical providers to perform and interpret ultrasounds,” says Cadieu, who launched the company in 2013, along with CTO Kilian Koepsell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e47d55de5350006a46be9%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/amp/",
-      "publishedDateTime": "2020-07-15T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-could-graphcores-second-chip-challenge-nvidia.md",
-      "title": "Could Graphcore’s Second Chip Challenge NVIDIA?",
-      "excerpt": "Today it introduced its second-generation product for AI, a massively parallel chip with 59.4 billion transistors that delivers some 250 Trillion Operations per Second (TOPS). However, the company’s potential to challenge NVIDIA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e8c05c604cd0007da11ee%2F0x0.jpg",
-          "width": 974,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
-      "publishedDateTime": "2020-07-15T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-graphcore-claims-its-m2000-ai-computer-hits-1-petaflop.md",
-      "title": "Graphcore claims its M2000 AI computer hits 1 petaflop",
-      "excerpt": "Chip startup Graphcore detailed its second-generation IPU and the M2000 AI computer, which the company claims can achieve up to a petaflop of compute.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
-      "publishedDateTime": "2020-07-15T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],
