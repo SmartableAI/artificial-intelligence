@@ -2,7 +2,7 @@
 name: "Blue Canoe Learning"
 overview: "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement."
 type: "profile"
-heat: 50
+heat: 42
 
 website: http://bluecanoelearning.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=xGsl-hTLi_g"
 
-secured: "zbaXgqp5BL+bTe6O9+BW9nFSXWz8b3ia5w34c24QXcWP5dkbem8A6Jz9NdWpxt5RmZMlHycHqgp4Xp1j8mSRsb5FhQU6h77wEEbhCkX2Ebeovf67MT/WNzBwgE3wRVJY1ExOn6xpFikNXIZ3OBTtlIgod0Xxnl7+zuxMwELWRJ0ZnEzs9CnjQYbmxZbNakJle03xWM5iQD0YdPWHGs/K3e7eDliV9VzlPpC6fifRB+FMQjx6hOdnukAaziZtphbSx+Wjcm4Kly30Ql0zJdoIhgUclzBfBm5JcnAbg8VSgfnNe3y8C5gZtVgXb9t8sz2+IV7kuPEiNisgVyeUtFDWnJ9sGua43jOKDsbxJFqHO5pf4BJnSPoAFUcDkLAVyhAt;TxC00zWW64FEyof5MmpU1w=="
+secured: "JztL/2mIaPr38k6qsIu4+vS+PCW1M+e2qTJPTdz4B8jUEUHOmNsQoA4cvp3WfmR19+8bjqvBtm0adEbSAhiKchQsHBrgn5ZvQ8yeVzTZ6jKjyZO07KLOSUriLflO0NqdDFJ6bnGWo6GVTRy5O+jcazUOpbIDHPp9kXHHfvs16Qie/NT6nl83K9Nyq5lPodUMM5/jkoREYifWtfAbsVT2Ll5w1XJ4OEYFqFDMpya23K0Mp2ee9IjBqV3utaEpC++Gtb4Jc+pC9hHj67CypSCVbJ26bTW1BbkanVy3heT3sAX1q4u0HvPt4xlUthNZ+Kp1DpQ+257nCb/IfDB8Yykm/gSYRaXknvQTyQBkFOroAP5FzvvdCMCsjWizBc6Aic2Z;YCXAnYNjJoVVcvyK4wfCHg=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "qctrlHQ"
   url: "https://twitter.com/qctrlHQ"
-  followers: 2014
+  followers: 2015
 
 size: 11-50 employees
 yearFounded: 2017
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Ez300fBAfY8"
 
-secured: "shTxCbZ2/rcoMW/3EvB+3ivolIFwVe4kjxeji7T3HT7tIN8CFQpEXKkk8vwp/1ffWjprrUrchYIL/2q8YElHocziiR88bpP7JldnwNxdb3V4am1Uk2I5bDRwTC736gxezE/hzLh7PxG0e10ZMMkNev7cZl2vnlGKrN+XKQYLoVoLXKk/8ESlTiSTRmB6J3oNRDr18bVALu+AdXfKrDcNhGQ8eB+1GxWZuAxq0cQs5rh+uTQ8oxpeo+7SOqogQVWxLMKRRFtsUBUKYWU4ZAOJU2oSlpQvZUt1BAZ/yV72rsb5x5Ig+ACge6spvlaHkuuQmgteX9PiFAKB3pvp4wE6LranxGxkMjGifuvKa+iti0JA8KqlzdGTl5wilwnqdsQL;wxt7Gx6bckItRpu1ZEU7Gw=="
+secured: "gNR3k06kt34GZqpqKO6SVMWS41eLW+LFqBA3qQqIyEjorfCD+Ld1r9rIK1XyrbLrQVGbs0xQkD9XB1Y6r4xtVtw1J0b9LEDgYK2MJs2UxzO9OANY/SE2+THYW/SPa7B9RigGjmt/Pb/qtMSZ4n9Jg6s2CxuMrn8OUgS53+oPrDQ7GMrLowtfEv7F0EVEVD7ZP2PDnhqXRx/INxAArpelwsGu9VwqPaAr3If5SdrMpD+98V/3tpV9ToLEMH2XXLRrV274CsCQ7LL0S/xLIdJcDFaK28WC/kxqw0veBNPNKCjDLIjf9ldytGSp4WUC66h0CkYStpM20TcwIr5P+c/7kUBbfu+/CxeAud49rwbmLTvd13YSpM/jq0P9B/l/P8M2;AUd6M/POLPKjRkSKOZr+FA=="
 ---
 
