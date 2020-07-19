@@ -14,7 +14,7 @@ website: https://t.co/1QmLHUi5s4
 twitter:
   username: kaifulee
   url: https://twitter.com/kaifulee
-  followers: 1586342
+  followers: 1586340
 
 googleScholar:
   url: https://scholar.google.com/citations?user=lm2nBYkAAAAJ
@@ -38,6 +38,6 @@ images:
     isCached: true
     title: "Kai-Fu Lee"
 
-secured: "wmdb0AF5/xVCBnv/BG9knuK7dqnezLsR5X2i0+9L4uCHtmOfGNiPM4K4MvPhsekdF3Jrvw8Un20iG/oV4UeA0E6MQOApxd3ZXvRtTMUwQ5yJ2U3Y1NBHenWMVefRvxnxjTt3JDt4ikVQQhJmaZWMIDSQwlIGPqYzHzrJsXbb/n63vyCki9lFiJf7ANiEFYSuq/cg6BURkpbQqOfi4Tzsi45ImhwMpJ3Kj1aHW8D165AEerbLqJ5gwas7RpF3MJ0fr46NZ5IKkChgEATkrQnImfWZcsu0/6uj+s+qRXGCk73sGCkC+JA4xDr2FhXGxJepxpTUB/0GEvjXG6Gn59yfHglhnDcn4QtH5fE+EL2N6NMF3fzY0U2OMAxTwH/0wefIJLdZcYkN+zyIfdTHMtAOaQ==;ZrYUFQI/jRocFfnQ3CpoPQ=="
+secured: "X7hkK7jvJek/NfCF3sRDDI3j132OouvOSOOtpsv+P783ncuFOurFSdjA8BBzoz5FzhBllYLnDYPk2U26YN9TO+pyi4YCNWQBXH8vBYfh90i0ZZX20Yo+k71t0zQoFwQwt1X3amivYe5uHMFCYBpA77tGMGjW9f1hBVduwmcjapE9Lr/KiRiiE4hQo11OB/wL93E/ZBsoQAKssV7ST5+iyZSNtSVIA3gncj9FM4GN307LJCtFkcx4o/1L1e/ZZyN/JRy7dVhPeR07+zi3o+wfdyk+JnHvhd19UGQUTTK8NE3vSJy7MjzfCrcfR1aB5emRkKiSsVXas+lRGaahEXkAr3Z0LyRdXEDvh0SoeaZ/m9wJWQMqQrqhrvsJdF+R+V9Is0lqpdf/KG5G7FfJIl+POw==;Ovdl/ck4iygLxOWR72vU1w=="
 ---
 
