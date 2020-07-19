@@ -2,6 +2,106 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-07-01-ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027.md",
+      "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+      "excerpt": "This detailed market study covers AI in fashion market growth opportunities and competitive scenarios, which can assist the stakeholders in understanding market trends and prospects in the AI in the fashion market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-global-industry-analysis-size-share-and-forecast-2020-2027-2020-07-01",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fashion Market Global Industry Analysis, size, share and Forecast 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-in-these-factories-inspector-robot-will-check-your-work.md",
+      "title": "In These Factories, Inspector Robot Will Check Your Work",
+      "excerpt": "Artificially intelligent camera systems look for defects and misplaced parts in many industries. The coronavirus pandemic makes them extra useful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efbb71e9798446ce8080210/master/pass/business_inspection_461971920.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "In These Factories, Inspector Robot Will Check Your Work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factories-inspector-robot-check-work/amp",
+      "publishedDateTime": "2020-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-intento-raises-3-million-to-serve-increasing-demand-of-global-companies-for-ai-transformation.md",
       "title": "Intento Raises $3 Million to Serve Increasing Demand of Global Companies for AI Transformation",
       "excerpt": "Round led by Flint Capital; Intento hires top COO to scale global operations BERKELEY, CA / ACCESSWIRE / July 1, 2020 / Intento, a leading AI integration platform, today announces it has closed a $3 million seed round to expand its AI integration platform and meet the growing demand of global companies for AI transformation.",
@@ -1024,106 +1124,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning.md",
-      "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
-      "excerpt": "The researchers claim MARGE learns to paraphrase, translate, and summarize text without any fine-tuning, a potential step toward systems that can perform any text task from pre-training alone. In machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s MARGE AI summarizes and translates documents without fine-tuning",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/facebooks-marge-ai-summarizes-and-translates-documents-without-fine-tuning/amp/",
-      "publishedDateTime": "2020-06-30T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex.md",
-      "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
-      "excerpt": "Organizations across industries have a large number of physical documents such as invoices that they need to process. It is difficult to extract information from a scanned document when it contains tables, forms, paragraphs, and check boxes. Organization have been addressing these problems with manual",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deriving-conversational-insights-from-invoices-with-amazon-textract-amazon-comprehend-and-amazon-lex/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/25/conversational-insights-001.jpg",
-          "width": 1000,
-          "height": 564,
-          "title": "Deriving conversational insights from invoices with Amazon Textract, Amazon Comprehend, and Amazon Lex",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T12:49:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

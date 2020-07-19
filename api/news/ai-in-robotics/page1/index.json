@@ -94,6 +94,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
+      "title": "A robot walks into White Castle ...",
+      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 199,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "publishedDateTime": "2020-07-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.md",
       "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Shares Up 5%",
       "excerpt": "Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) shares shot up 5% on Tuesday . The company traded as high as $123.51 and last traded at $123.51, 10,035 shares were traded during mid-day trading.",
@@ -283,7 +324,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": null,
       "type": "article",
@@ -321,7 +362,7 @@
       "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
       "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 114,
@@ -1339,56 +1380,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-shoppers-will-interact-with-robots-but-do-have-limits.md",
-      "title": "Shoppers Will Interact With Robots, But Do Have Limits",
-      "excerpt": "Consumers are open to robots aiding their shopping journey and even making their next meal but draw the line at a machine spending their money without their involvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197242566%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Shoppers Will Interact With Robots, But Do Have Limits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/amp/",
-      "publishedDateTime": "2020-07-07T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

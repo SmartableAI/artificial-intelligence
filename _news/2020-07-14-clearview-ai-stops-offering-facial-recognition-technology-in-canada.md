@@ -24,21 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "Supermarket chain Mercadona faces GDPR probe over facial recognition system"
-    excerpt: "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,"
-    publishedDateTime: 2020-07-14T09:49:00Z
-    webUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under"
-    ampWebUrl: "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp"
+  - title: "Coping with inconsistent facial recognition in Apple Photos"
+    excerpt: "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,"
+    publishedDateTime: 2020-07-15T10:21:00Z
+    webUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html"
+    ampWebUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
+    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 102
+      name: Macworld
+      domain: macworld.com
+    quality: 89
     images:
-      - url: "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg"
-        width: 2000
-        height: 1125
+      - url: "https://images.idgesg.net/images/article/2020/07/apple-photos-100851579-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Amazon, Google, Microsoft sued over photos in facial recognition database"
     excerpt: "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies."
@@ -88,49 +88,33 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
-    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
-    publishedDateTime: 2020-07-18T23:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
+    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
+    publishedDateTime: 2020-07-17T17:33:00Z
+    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
     images:
-      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
-        width: 1747
-        height: 1311
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
-    excerpt: "Office says it will complete a related investigation focusing on RCMP use of Clearview AI’s facial-recognition technology"
-    publishedDateTime: 2020-07-14T16:08:00Z
-    webUrl: "https://www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/"
-    ampWebUrl: "https://www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/amp/"
-    cdnAmpWebUrl: "https://www-vicnews-com.cdn.ampproject.org/c/s/www.vicnews.com/news/clearview-ai-to-end-facial-recognition-services-in-canada-privacy-commissioner/amp/"
+  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
+    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
+    publishedDateTime: 2020-07-15T20:20:00Z
+    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
     type: article
     provider:
-      name: Victoria News
-      domain: vicnews.com
-    quality: 55
-    images:
-      - url: "https://4rfnv3jdfte8qj2229aqgj4h-wpengine.netdna-ssl.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
-  - title: "Farnek adopts new contactless face recognition system"
-    excerpt: "Leading UAE-based technology and sustainability-driven facilities management (FM) company Farnek has implemented a new contactless face recognition system to measure the temperature and monitor the attendance of its employees. The technology has been ..."
-    publishedDateTime: 2020-07-14T14:24:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Farnek_adopts_new_contactless_face_recognition_system-SNG_179558150/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_179558150/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_179558150/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
+      name: Reuters
+      domain: reuters.com
+    quality: 67
   - title: "UK, Australia Investigate Facial Recognition Firm"
     excerpt: "Privacy watchdogs in Britain and Australia have opened a joint investigation into facial recognition company Clearview AI over its use of personal data “scraped” off social media platforms and other websites."
     publishedDateTime: 2020-07-14T17:29:00Z
@@ -145,6 +129,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "RealAML Launches Industry-first Facial Recognition"
+    excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
+    publishedDateTime: 2020-07-15T23:48:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
   - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
     excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
     publishedDateTime: 2020-07-15T14:56:00Z
@@ -158,6 +153,34 @@ related:
       - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Facial recognition is part of voters registration exercise – EC"
+    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
+    publishedDateTime: 2020-07-17T08:14:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
+        width: 600
+        height: 392
+        isCached: true
+  - title: "Facial recognition feature part of the Voters Registration Exercise"
+    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
+    publishedDateTime: 2020-07-18T00:40:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
+        width: 600
+        height: 358
         isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."

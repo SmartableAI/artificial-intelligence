@@ -20,17 +20,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Integrating drone-borne thermal imaging with artificial intelligence to locate bird nests on agricultural land"
-    excerpt: "Untapping their large potential requires integrating these tools. We combine drone-borne thermal imaging with artificial intelligence to locate ground-nests of birds on agricultural land. We show, for the first time,"
-    publishedDateTime: 2020-07-14T09:16:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-67898-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 0
-
 secured: "15G1yANqCutgdWB+eDExeFQGJSagP+8J6xilEVSUWhfT/1jft+wcjn1/VXqTHSTwDDtw6VDwxbeds6AL/YiKXL2JXt3rmPQSTyYJDoSJQH/sUVhxUOEia1n3Y1pqH/vveWbOTMAhHCbpLdOXHEH8Lx/MnXWLxsvL9zbWIGXYPFkMJUwrp+6/Y9fJ/FOTQjk8oL1DKCecsfLuEYkdjM8i2P1Rydp5Un/8V6urNzaDLEolPc0LOfe/aLpbBz6a7k9fCAlWI3sCoi0S4kGt7yuDclTuf7pPn9t5mojfAk4XmqYDdHyzN7I9PINdjDavweYlHp6faJTX9IhdBm/LiFujBA==;3b3E9EWCU4n2yN1uGauZQw=="
 ---
 

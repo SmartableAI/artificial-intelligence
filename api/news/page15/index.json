@@ -2,6 +2,105 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-07-researchers-use-ai-and-audio-to-predict-where-objects-will-land.md",
+      "title": "Researchers use AI and audio to predict where objects will land",
+      "excerpt": "Researchers at Carnegie Mellon University explored whether sound could be used to train AI models to predict the motion of objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83d6151a-7563-4fe7-91ca-6c11a06275bf-e1594107458536.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI and audio to predict where objects will land",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/",
+      "publishedDateTime": "2020-07-07T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips.md",
+      "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
+      "excerpt": "Xmems is unveiling Montara, which the company believes will bring high-quality audio, reliability, and better costs for headphone earbuds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/montara.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/amp/",
+      "publishedDateTime": "2020-07-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-incorporating-ai-in-telehealth-chatbots.md",
       "title": "Incorporating AI in telehealth chatbots",
       "excerpt": "Tonya Hall talks to Evan Kohn, chief business officer and head of marketing at Pypestream, to learn more about the difference between scripted vs pre-defined AI chatbots and how both of these roles can be used to enhance the telehealth experience.",
@@ -993,108 +1092,18 @@
     {
       "path": "_news/2020-07-06-questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model.md",
       "title": "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model",
-      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI)",
+      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex today announces it has entered the AI marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16519557",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16519557",
-      "publishedDateTime": "2020-07-06T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats.md",
-      "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
-      "excerpt": "The snag is that most CIOs don’t have experience with this form of intellectual property. Trade secret protection doesn’t require CIOs to share details about the methods they use, which is a must-do for patents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef74817accb250006e7ba56%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Is Today’s Hottest Technology, So CIOs Need To Learn How To Protect It From Copycats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/07/06/ai-is-todays-hottest-technology-so-cios-need-to-learn-how-to-protect-it-from-copycats/amp/",
-      "publishedDateTime": "2020-07-06T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest.md",
-      "title": "Self-Driving Cars Just Took a Big Leap Forward (Here’s How to Invest)",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips Source: Shutterstock When Amazon (NASDAQ:AMZN) drops over a billion dollars",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600e.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/self-driving-cars-just-took-a-big-leap-forward-heres-how-to-invest-1029369699",
-      "publishedDateTime": "2020-07-06T09:37:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T10:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1117,7 +1126,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Healthcare",
         "AI"
       ]
     }

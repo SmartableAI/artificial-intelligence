@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T00:17:00Z
 webUrl: "https://www.sbs.com.au/nitv/article/2020/07/15/hugely-encouraging-voice-parliament-advocates-boosted-poll"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 704
     height: 396
     isCached: true
-
-related:
-  - title: "Majority support indigenous voice to parliament"
-    excerpt: "Campaigners for a constitutionally enshrined indigenous voice to parliament have been buoyed by polling indicating support for the concept is increasing."
-    publishedDateTime: 2020-07-14T10:04:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/majority-support-indigenous-voice-to-parliament/news-story/48d882868f8817cbb0b860c3dcea18e3"
-    ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/majority-support-indigenous-voice-to-parliament/news-story/48d882868f8817cbb0b860c3dcea18e3"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/majority-support-indigenous-voice-to-parliament/news-story/48d882868f8817cbb0b860c3dcea18e3"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
 
 secured: "G3djG6W+c9aLseExtP/7/7+2ioiCVE7sXs+p3vUBjAreiz1d95vUJKD/dPOAnjof5SAdjwlPmnCP3q04MAbGNfxjoDht81o+1mFnOxn4k9NHm3mUjhB8/P9GHCJ2xH4tZ52gurk1b5A5EI5kwng8ZAMyqbMr3eNWU1FTZ6FurmFBIopeFE/3QLPJgy0A+BSFQSFh6W+wxjjaPnxHOiajMJjiVffJbUdevs+UcLxK8PHuee4szHD++gQsQsjO6pPOTPCTnCFHmTpx6q2ghpOcelV58gO7Pty0o4O8Ipm4WsAMau2/dp87jf5SDFXsy3SSpHn9kDR3lCnKSoOfi2kW3dijiFXygdeXgOjVQazpiOBFQJCFcTief8K5aKtyqHExHo0sfrgoVDhuAVNG9EWirAR96WbwWylVTeyatkcSHAZBoKJv1d5/ZAjsY8DMBdv59WFZAx4XyGrbYBNADl6j/pFMDAXqmQVcoy/+r5e8cddAy3kki28qryNn82Fjxpqh0u8D5uqMAEU47+9DcXyteA==;raVzUaf64DBWKm/r6PnEtA=="
 ---

@@ -809,23 +809,32 @@
     {
       "path": "_news/2020-07-06-questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model.md",
       "title": "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model",
-      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI)",
+      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex today announces it has entered the AI marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16519557",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16519557",
-      "publishedDateTime": "2020-07-06T10:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T10:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

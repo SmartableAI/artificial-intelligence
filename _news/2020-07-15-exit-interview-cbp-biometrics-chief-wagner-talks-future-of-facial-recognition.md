@@ -53,20 +53,6 @@ related:
         width: 802
         height: 600
         isCached: true
-  - title: "Biometric facial recognition contracts from Indian government for police and railways face eligibility questions"
-    excerpt: "Only independent companies and joint ventures will be able to bid on India’s Automated Facial Recognition System, not consortiums, companies were told during a meeting of potential bidders for the"
-    publishedDateTime: 2020-07-14T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202007/biometric-facial-recognition-contracts-from-indian-government-for-police-and-railways-face-eligibility-questions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "IDEMIA Wins the Security Industry Association (SIA) Award for the Best New Biometric Product for Its VisionPass Advanced Facial Recognition Device"
     excerpt: "IDEMIA, the global leader in Augmented Identity, today announces that VisionPass, its newly launched advanced facial recognition device, won the SIA N"
     publishedDateTime: 2020-07-15T07:24:00Z

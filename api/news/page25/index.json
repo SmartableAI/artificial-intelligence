@@ -2,6 +2,105 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
+      "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
+      "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103415766-GettyImages-466716374.jpg?v=1532564180",
+          "width": 3000,
+          "height": 2000,
+          "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "publishedDateTime": "2020-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country.md",
+      "title": "Image Recognition Market2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country",
+      "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country-2020-06-29",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Image Recognition Market2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-artificial-intelligence-in-social-media-market-share-size-growth-and-segmentation-google-llc-facebook-inc-amazon-web-services.md",
       "title": "Artificial Intelligence in Social Media Market Share, Size, Growth and Segmentation |Google LLC, Facebook Inc, Amazon Web Services",
       "excerpt": "The research report titled, Artificial Intelligence in Social Media Market is latest published by MarketResearch.Biz. The Artificial Intelligence in Social Media market has been garnering high-quality momentum in latest years.",
@@ -1101,87 +1200,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm.md",
-      "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
-      "excerpt": "Market.us newly added the Global AI Image Recognition Market report that gives meticulous scrutiny of aggressive market conditions based on producing volume, sales, and earnings. The ai image recognition report handles the distribution chain analysis of high Key players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-image-recognition-market-covid-19-pandemic-update-competitive-analysis-till-2029-google-and-ibm-2020-06-28",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Image Recognition Market (Covid-19 Pandemic Update) : Competitive Analysis Till 2029 || Google and IBM",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-28T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-behringer-deepmind-12-polyphonic-analog-synth.md",
-      "title": "Behringer DeepMind 12 Polyphonic Analog Synth",
-      "excerpt": "We provide a safe community for finding the gear you want. As its name suggests, the Behringer DeepMind 12 is a 12-voice polyphonic analog synth, with a 49-note velocity- and and aftertouch-sensitive keyboard. Each voice comprises three digitally generated ...",
-      "sourceUrl": null,
-      "webUrl": "https://reverb.com/item/34393726-behringer-deepmind-12-polyphonic-analog-synth",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-27T18:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

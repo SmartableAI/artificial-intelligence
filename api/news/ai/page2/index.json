@@ -1417,36 +1417,27 @@
       ]
     },
     {
-      "path": "_news/2020-07-16-uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe.md",
-      "title": "UK’s Drover raises $26M for to take its car subscription marketplace to Europe",
-      "excerpt": "The future of transportation is in a moment of flux, and that continues to provide opportunities for startups to build solutions provide new ways for us to get from A to B. In the latest development,",
+      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
+      "title": "A robot walks into White Castle ...",
+      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
       "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 163,
+      "heat": 199,
       "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T02:02:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "publishedDateTime": "2020-07-16T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1462,6 +1453,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

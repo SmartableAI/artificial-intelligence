@@ -2,6 +2,106 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-07-deepfakes-are-becoming-the-hot-new-corporate-training-tool.md",
+      "title": "Deepfakes Are Becoming the Hot New Corporate Training Tool",
+      "excerpt": "Coronavirus restrictions make it harder and more expensive to shoot videos. So some companies are turning to synthetic media instead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5efe224130e7532f3baa1d0a/master/pass/deepfakes-commercial-1220400443.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-drives-real-businesses-deepfake-technology/amp",
+      "publishedDateTime": "2020-07-07T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-chinese-ai-start-up-cambricon-to-raise-us3677-million-through-ipo-on-shanghais-star-market.md",
+      "title": "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market",
+      "excerpt": "Cambricon, one of China’s most valuable AI chip start-ups, has set a listing price of 64.39 yuan per share on Shanghai’s Star Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/07/dad4dcb4-c017-11ea-8c85-9f30eae6654e_image_hires_143815.jpg?itok=Dc-FV1XS&v=1594103901",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese AI start-up Cambricon to raise US$367.7 million through IPO on Shanghai’s Star Market",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3092125/chinese-ai-start-cambricon-raise-us3677-million-through-ipo",
+      "publishedDateTime": "2020-07-06T23:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-american-hospital-dubai-recognised-for-excellence-in-robotics-surgery.md",
       "title": "American Hospital Dubai recognised for excellence in robotics surgery",
       "excerpt": "UK-based leading publication Global Brands Magazine conferred the award to American Hospital Dubai for overall excellence and robust healthcare ; American Hospital Dub",
@@ -471,23 +571,32 @@
     {
       "path": "_news/2020-07-06-questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model.md",
       "title": "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model",
-      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI)",
+      "excerpt": "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex today announces it has entered the AI marketplace,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16519557",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16519557",
-      "publishedDateTime": "2020-07-06T10:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T10:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1219,97 +1328,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis.md",
-      "title": "Sentieo Drives Improved Sector Investment and Competitive Strategies With New Machine Learning-Driven Analysis",
-      "excerpt": "This latest release brings a new way for equity and corporate analysts to get to performance insights at the sector or peer group level,” said Naman Shah, Co-Founder & President, Sentieo. “Using our leading deep learning models,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-learn-pytorch-the-best-free-online-courses-and-tutorials.md",
-      "title": "Learn PyTorch: The best free online courses and tutorials",
-      "excerpt": "Look no further than these excellent free resources to master the development of deep learning models using PyTorch",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/04/abstract-fire-rays-100152558-100264577-large.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": "Learn PyTorch: The best free online courses and tutorials",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563527/learn-pytorch-the-best-free-online-courses-and-tutorials.amp.html",
-      "publishedDateTime": "2020-07-06T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,106 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-06-27-amazon-is-acquiring-self-driving-start-up-zoox.md",
+      "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
+      "excerpt": "Amazon has announced that it is acquiring self-driving car startup Zoox in a deal estimated to be worth over $1 billion. Foster City, California-based Zoox has founded in 2014 and raised $955 million funding from investors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207206375%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D254%26cropY2%3D3068",
+          "width": 1200,
+          "height": 676,
+          "title": "Amazon Is Acquiring Self-Driving Start-Up Zoox",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/06/27/amazon-is-acquiring-self-driving-start-up-zoox/amp/",
+      "publishedDateTime": "2020-06-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-27-baidu-backed-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
+      "title": "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public",
+      "excerpt": "Velodyne Lidar, in which Baidu and Ford invested US$150 million in 2016, makes radar-like systems used in autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/27/019fd42e-b830-11ea-94a5-08ba74052128_image_hires_125654.jpeg?itok=1xTXJ5JH&v=1593233821",
+          "width": 1200,
+          "height": 630,
+          "title": "Baidu-backed maker of self-driving vehicle sensors said to be in talks to go public",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090835/baidu-backed-maker-self-driving-vehicle-sensors-said-be-talks-go",
+      "publishedDateTime": "2020-06-26T21:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-amazon-gets-into-self-driving-game-with-zoox-deal.md",
       "title": "Amazon gets into self-driving game with Zoox deal",
       "excerpt": "CNBC's Deirdre Bosa on Amazon's move into self-driving. With CNBC's Melissa Lee and the Fast Money traders, Guy Adami, Tim Seymour, Brian Kelly and Jeff Mills. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more ...",
@@ -1307,105 +1407,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-embracing-ai-technologies-while-harnessing-the-power-of-the-heart.md",
-      "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
-      "excerpt": "When the world is moving so fast and the speed of change is dizzying, we must remember who we are to remain fully human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F943181920%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": "Embracing AI Technologies While Harnessing The Power Of The Heart",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/embracing-ai-technologies-while-harnessing-the-power-of-the-heart/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-five-ways-quiet-workers-can-increase-their-visibility-and-recognition.md",
-      "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-      "excerpt": "\"My workplace doesn’t work for quiet people.\" Peter describes himself as quietly confident. He's used to being recognized for his achievements by his bosses. However, when the new director (less appreciative and more of an alpha type) appeared in his company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F117460704%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": "Five Ways Quiet Workers Can Increase Their Visibility And Recognition",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/06/26/five-ways-quiet-workers-can-increase-their-visibility-and-recognition/amp/",
-      "publishedDateTime": "2020-06-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

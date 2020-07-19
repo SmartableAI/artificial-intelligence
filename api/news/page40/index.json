@@ -2,6 +2,97 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-06-18-serbian-parliamentary-vote-campaign-taps-greek-beaches-chinese-robots.md",
+      "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+      "excerpt": "On Monday June 15, President Vučić visited the Center for Robotics and Artificial Intelligence in Education (CRVIO) in Belgrade, holding a public meeting with a humanoid robot made in China, called Ema. They held a conversation in Serbian. Vučić ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://globalvoices.org/wp-content/uploads/2020/06/20200516-Aleksandar-Vucic-online-rally-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Serbian parliamentary vote campaign taps Greek beaches, Chinese robots",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/06/18/serbian-parliamentary-vote-buildup-takes-in-greek-beaches-chinese-robots/amp/",
+      "publishedDateTime": "2020-06-18T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models.md",
+      "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+      "excerpt": "Microsoft announced that it acquired ADRM Software, a provider of large-scale industry data models used by companies as 'information blueprints.'",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft acquires ADRM Software to beef up Azure with industry data models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/microsoft-acquires-adrm-software-to-beef-up-azure-with-industry-data-models/amp/",
+      "publishedDateTime": "2020-06-18T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-pg-diploma-in-data-science-and-artificial-intelligence-ai.md",
       "title": "PG Diploma in Data Science and Artificial Intelligence (AI)",
       "excerpt": "Data Science and Artificial Intelligence (AI), has emerged as a thriving field from Industry Utility and Employability point of view. This market is likely to swell to $20 billion by 2025. Companies a",
@@ -1015,90 +1106,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.md",
-      "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
-      "excerpt": "OS firewall operating system, the firewalls are better equipped to defend IoT devices and containers, whether on-prem or in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/cso_security_lock_firewall_fires_threats_exploits_by_matejmo_gettyimages-879868000_2400x1600-100798015-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Machine learning in Palo Alto firewalls adds new protection for IoT, containers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3562705/machine-learning-in-palo-alto-firewalls-adds-new-protection-for-iot-containers.amp.html",
-      "publishedDateTime": "2020-06-17T17:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-congressman-calls-out-amazons-performative-facial-recognition-moratorium.md",
-      "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-      "excerpt": "[The] 102-word blog post announcement fails to specify whether Amazon will stop selling Rekognition to police departments during the moratorium; whether the company will stop the development of ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F18%252Fd0%252F067b134488834b6bac8bfc91b9731822.499d9.jpg%252F1200x630.jpg?signature=1lDWOXpdt8JocVS38IojVBFjb5o=",
-          "width": 1200,
-          "height": 630,
-          "title": "Congressman calls out Amazon's 'performative' facial-recognition moratorium",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/congress-gomez-letter-amazon-rekognition-police-moratorium.amp",
-      "publishedDateTime": "2020-06-17T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

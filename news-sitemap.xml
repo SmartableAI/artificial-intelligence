@@ -355,6 +355,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.zdnet.com/article/a-robot-walks-into-white-castle/</loc>
+    <lastmod>2020-07-16T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
     <lastmod>2020-07-16T02:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -595,6 +601,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7</loc>
+    <lastmod>2020-07-15T04:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html</loc>
     <lastmod>2020-07-15T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -727,7 +739,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2233,8 +2245,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n</loc>
-    <lastmod>2020-07-06T10:00:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811</loc>
+    <lastmod>2020-07-06T10:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -1,21 +1,23 @@
 ---
 category: news
 title: "Questex Enters the Artificial Intelligence Information Market, the First Market to Launch through New Fierce Model"
-excerpt: "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI)"
-publishedDateTime: 2020-07-06T17:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16519557/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-n"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16519557"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16519557"
+excerpt: "As companies transform digitally and infrastructure becomes more agile, the prospect of leveraging artificial intelligence (AI) has never been more promising. Questex today announces it has entered the AI marketplace,"
+publishedDateTime: 2020-07-06T17:18:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/questex-enters-the-artificial-intelligence-information-market-the-first-market-to-launch-through-new-fierce-model-1029369811"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "07svg6MJ5Hd8w+Y1Jhm3Eh3f5fv74jI/J4fwSGDd3iG/FKq6XVdxgY5B7XoNpA56jQxGFLQOVNPUSeBpgZEqOE8HpU1iM0tdu7PopznfcQEpm4rZJEGRjHBbEZJMSWAvgVUxg+K1wNmt8rUAbquHssVyrIFsgINS+BSIP6vUW9eatmENROD7mTys6wGRMIj8qplChkcpymrB9NEO232pP33qUhWnHXnrYEP6FetFZepxwcttbNQGYB2lBUVZPcbO6NMqNe6GH8F2mSCpaBhn8kPK7En5HzK1IC2VE8OLSRfikWu83qYaO9nP55a/HhwH1YnIgwkY6AaoYyQdezn29A==;3tRfoyjuc3kwC3L2ABnzgQ=="
+secured: "cfO2184coH0LerZGmlI0EFHZuY2F5uEPvsbDAiHlK2SR6Dsa6uF2Sud9ZFU4T8N1Sk1M1tFz6qpc2DGU6Rszf2sZ9J/5rVldksei57mJ1iuYD7ov+77kbNEPlyAagRRCFmKai83BEY1g5AmjhNCnBP/IB8Vqmd+TlHzxgzFD0RJhHOU9CBBROdPJ4Hn6AHdsdDoSFxx7zMUUAJuy/Yr1wUYn+C4DgLY+1KHj6Teoe5Q3FKFMegV/s+zvFsYBPphBkB62pB4f07HYftzwBeWw2ZJdzroz2iH+FPIWGEZBR25Rq2n3ucMwR2iT+FpLNyKKUDmqoqxCupPWHLUUQX8geg==;M2Z0gt5h3mrjpBGyhMXGlQ=="
 ---
 

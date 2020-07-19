@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-15-how-to-use-speech-to-text-on-microsoft-word-to-write-and-edit-with-your-voice.md",
+      "title": "How to use speech-to-text on Microsoft Word to write and edit with your voice",
+      "excerpt": "Word supports speech-to-text, which lets you dictate your writing using voice recognition. Speech-to-text in Word is convenient and surprisingly accurate, and can help anyone who has issues typing with a typical keyboard. You can use speech-to-text in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f0cb7373ad8610318757d34?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-use-speech-to-text-on-word?amp",
+      "publishedDateTime": "2020-07-15T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-unesco-launches-global-consultation-for-draft-ethics-of-ai-guidelines.md",
       "title": "UNESCO launches global consultation for draft ‘ethics of AI’ guidelines",
       "excerpt": "To help build a draft resolution on how AI can be developed and deployed, UNESCO is seeking global policymakers and AI experts.",
@@ -432,6 +482,57 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-clearview-ai-the-facial-recognition-company-that-scraped-billions-of-faces-off-the-internet-was-just-hit-with-a-data-privacy-complaint-in-europe.md",
+      "title": "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe",
+      "excerpt": "Zoé Vilain, chief privacy and strategy officer at Jumbo Privacy, tried to find out what data Clearview AI had about her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5806c115c52402c3008b54aa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7?amp",
+      "publishedDateTime": "2020-07-15T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
       "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
       "excerpt": "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000",
@@ -530,7 +631,7 @@
       "webUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 139,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -964,7 +1065,7 @@
       "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1344,105 +1445,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing.md",
-      "title": "AI startup Abacus goes live with commercial deep learning service, takes $13M Series A financing",
-      "excerpt": "With $18.25 million in venture capital money from Eric Schmidt, Jerry Yang, and other luminaries, Abacus Tuesday opened its deep learning service for general customer availability, with the intent of making it easy for companies to customize and scale AI in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/27/fa97eb58-ce3e-4839-b7aa-dd8934dfb30c/thumbnail/1200x675/a825add05e6df14e53ed8ac733095f6d/dumonteil-and-herrera-covid-19-n-protein-edited.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-goes-live-with-commercial-deep-learning-service-takes-13m-series-a-financing/",
-      "publishedDateTime": "2020-07-14T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages.md",
-      "title": "Microsoft’s SoftNER AI uses unsupervised learning to help triage cloud service outages",
-      "excerpt": "In a new paper, Microsoft researchers detail an AI system that parses cloud service interruption incident descriptions to help with triaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/microsofts-softner-ai-uses-unsupervised-learning-to-help-triage-cloud-service-outages/amp/",
-      "publishedDateTime": "2020-07-14T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
