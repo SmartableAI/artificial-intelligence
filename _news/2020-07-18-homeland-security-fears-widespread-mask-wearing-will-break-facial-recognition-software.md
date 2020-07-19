@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Government Leak: Cops Terrified Masks Will Block Facial Recognition"
+    excerpt: "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports."
+    publishedDateTime: 2020-07-17T21:02:00Z
+    webUrl: "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition"
+    ampWebUrl: "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ..."
     publishedDateTime: 2020-07-17T22:30:00Z

@@ -2,6 +2,97 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-15-coping-with-inconsistent-facial-recognition-in-apple-photos.md",
+      "title": "Coping with inconsistent facial recognition in Apple Photos",
+      "excerpt": "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/apple-photos-100851579-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html",
+      "publishedDateTime": "2020-07-15T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
+      "title": "Japanese Robot to Clock in at a Convenience Store in Test of Retail Automation",
+      "excerpt": "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 130,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp",
+      "publishedDateTime": "2020-07-15T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-tiktok-gets-facial-recognition-on-americans-and-sends-to-chinatrump-official.md",
       "title": "TikTok ‘Gets Facial Recognition’ On Americans And Sends To China—Trump Official",
       "excerpt": "The threat of a U.S. ban on TikTok has become more real, with the latest warning from Trump's National Security Adviser.",
@@ -9,7 +100,7 @@
       "webUrl": "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 225,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -881,7 +972,7 @@
       "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
       "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 114,
@@ -975,7 +1066,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1016,7 +1107,8 @@
         "AI Hardware",
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
+        "AI in Autos",
+        "AWS AI"
       ]
     },
     {
@@ -1118,106 +1210,6 @@
         "AI",
         "AI Hardware",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-should-robots-pay-taxes.md",
-      "title": "Should Robots Pay Taxes?",
-      "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/should-rob/should-robots-pay-taxes_kaze.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
-      "publishedDateTime": "2020-07-14T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge.md",
-      "title": "Facebook uses Amazon EC2 to evaluate the Deepfake Detection Challenge",
-      "excerpt": "In October 2019, AWS announced that it was working with Facebook, Microsoft, and the Partnership on AI on the first Deepfake Detection Challenge. Deepfake algorithms are the same as the underlying technology that has given us realistic animation effects in movies and video games. Unfortunately, those",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png",
-          "width": 692,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T09:27:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

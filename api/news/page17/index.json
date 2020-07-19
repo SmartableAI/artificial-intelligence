@@ -2,6 +2,96 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-05-why-ai-continues-to-deliver-results-in-a-pandemic.md",
+      "title": "Why AI Continues To Deliver Results In A Pandemic",
+      "excerpt": "AI-at-scale leaders continue to make progress on their AI initiatives at the same pace as before the Covid-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0100437185870006e1613d%2F0x0.jpg",
+          "width": 1200,
+          "height": 571,
+          "title": "Why AI Continues To Deliver Results In A Pandemic",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/05/why-ai-continues-to-deliver-results-in-a-pandemic/amp/",
+      "publishedDateTime": "2020-07-05T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-05-volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles.md",
+      "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+      "excerpt": "Volvo and Waymo will integrate Waymo's self-driving tech into an all-new mobility focussed electric vehicle architecture",
+      "sourceUrl": null,
+      "webUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gaadiwaadi.com/wp-content/uploads/2020/06/Volvo-and-Waymo-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Volvo & Google’s Waymo Join Hands To Develop Self-Driving Vehicles",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://gaadiwaadi-com.cdn.ampproject.org/c/s/gaadiwaadi.com/volvo-googles-waymo-join-hands-to-develop-self-driving-vehicles/amp/",
+      "publishedDateTime": "2020-07-05T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gaadiwaadi.com",
+        "domain": "gaadiwaadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths.md",
       "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
       "excerpt": "Will AI hold up a mirror to society forcing us to look not only at how we treat beings unlike us but also how we interact with and treat one another? Is the future of artificial intelligence, human-like robots?",
@@ -1095,88 +1185,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-robots-at-dubai-expo-2020-to-enrich-visitor-experience.md",
-      "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
-      "excerpt": "UAE - Terminus Technologies, a China-based leader in smart technologies such as artificial intelligence and robotics, has been named the Expo 2020 Dubai's latest Premier Partner and has signed a long-term lease at District 2020 as part of the innovation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Robots_at_Dubai_Expo_2020_to_enrich_visitor_experience-SNG_178632150/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Robots at Dubai Expo 2020 to enrich visitor experience",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_178632150/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_178632150/",
-      "publishedDateTime": "2020-07-02T22:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business.md",
-      "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
-      "excerpt": "As Black Lives Matter protests swept across the United States, IBM, Amazon and Microsoft took a stand: They halted sales of facial recognition technology to American police departments, and called on the government to regulate the powerful emerging technology.",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/money/2020/07/02/amazon-and-microsoft-stopped-working-with-police-on-facial-recognition-for-others-its-still-big-business/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2019/11/Money-logo-new-860x484.jpg",
-          "width": 860,
-          "height": 484,
-          "title": "Amazon and Microsoft stopped working with police on facial recognition. For others it’s still big business",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-02T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

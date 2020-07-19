@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-18-how-4-companies-are-using-ai-to-solve-waste-issues-on-earth-in-space.md",
+      "title": "How 4 Companies Are Using AI To Solve Waste Issues On Earth & In Space",
+      "excerpt": "Waste recognition, space junk, and food waste are a few of the challenges that artificial intelligence is helping humanity tackle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1387b66398dc0006c88875%2F0x0.jpg%3FcropX1%3D17%26cropX2%3D4000%26cropY1%3D530%26cropY2%3D2770",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/amp/",
+      "publishedDateTime": "2020-07-18T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-18-50-of-food-grown-globally-is-wasted-can-ai-fix-it.md",
+      "title": "50% Of Food Grown Globally Is Wasted. Can AI Fix It?",
+      "excerpt": "We waste 1.6 billion tons of food every year while 25 million starve and another billion are malnourished. Can AI fix it? If one startup in Berlin is successful, just maybe. The global food supply chain is mind-bogglingly complex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f136ec41e6baf0007127258%2F0x0.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/amp/",
+      "publishedDateTime": "2020-07-18T15:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction.md",
       "title": "Work-at-home AI surveillance is a move in the wrong direction",
       "excerpt": "We are already justifiably worried about being watched while out in public. Now we're increasingly being observed in our homes, too.",
@@ -341,47 +439,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-17-homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software.md",
-      "title": "Homeland Security fears widespread mask-wearing will break facial recognition software",
-      "excerpt": "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/",
-      "publishedDateTime": "2020-07-17T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
       "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
       "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
@@ -527,6 +584,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-government-leak-cops-terrified-masks-will-block-facial-recognition.md",
+      "title": "Government Leak: Cops Terrified Masks Will Block Facial Recognition",
+      "excerpt": "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp",
+      "publishedDateTime": "2020-07-17T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1107,88 +1205,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-female-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast.md",
-      "title": "Female leaders talk ethics, advancing representation, and more at Transform’s Women in AI breakfast",
-      "excerpt": "Powerful women from tech companies across the industry talk about how women can take their seats at the table in the technology industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-7.57.57-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "publishedDateTime": "2020-07-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts.md",
-      "title": "Halliburton Partners Microsoft, Accenture To Advance Digital Capabilities - Quick Facts",
-      "excerpt": "(RTTNews) - Halliburton Co. (HAL), Microsoft Corp. (MSFT) and Accenture plc (ACN) announced Friday that they have entered into a five-year strategic agreement to advance Halliburton's digital capabilities in Microsoft Azure. Halliburton said the strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp",
-      "publishedDateTime": "2020-07-17T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

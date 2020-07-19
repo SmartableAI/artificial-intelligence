@@ -5,8 +5,8 @@ excerpt: "Increasing applications of AI-based technologies, along with the risin
 publishedDateTime: 2020-07-14T17:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

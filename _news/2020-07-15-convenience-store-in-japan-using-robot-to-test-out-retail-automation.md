@@ -26,22 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
+  - title: "Japanese Robot to Clock in at a Convenience Store in Test of Retail Automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-15T09:51:00Z
-    webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
+    publishedDateTime: 2020-07-15T09:57:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
-        width: 782
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 80
   - title: "Japanese robot to clock in at a convenience store in test of retail automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
     publishedDateTime: 2020-07-16T17:48:00Z

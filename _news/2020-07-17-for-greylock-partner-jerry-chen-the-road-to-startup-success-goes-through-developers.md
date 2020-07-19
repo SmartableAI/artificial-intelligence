@@ -5,8 +5,8 @@ excerpt: "Ten Silicon Valley startup companies disclosed funding of over $270 mi
 publishedDateTime: 2020-07-17T21:48:00Z
 webUrl: "https://siliconangle.com/2020/07/17/greylock-partner-jerry-chen-road-startup-success-goes-developers-cubeconversations/"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/Jerry-Chen-CLEAN-Thumb.jpg"

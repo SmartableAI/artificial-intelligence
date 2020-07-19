@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/"
 type: article
 quality: 83
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "http://media.foxbusiness.com/BrightCove/854081161001/202003/3939/854081161001_6144382899001_6144373475001-vs.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "White Castle is testing a burger-grilling robot named Flippy"
+    excerpt: "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ..."
+    publishedDateTime: 2020-07-16T16:03:00Z
+    webUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.html"
+    ampWebUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
+    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
+    type: article
+    provider:
+      name: WSMV
+      domain: wsmv.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/2/aa/2aa4ca08-648c-530f-a824-3d5c1a507c5d/5f120708e7951.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
     excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."

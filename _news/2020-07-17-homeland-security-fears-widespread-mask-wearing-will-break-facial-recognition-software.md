@@ -8,8 +8,8 @@ ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
 type: article
 quality: 51
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Raw Story
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Government Leak: Cops Terrified Masks Will Block Facial Recognition"
+    excerpt: "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports."
+    publishedDateTime: 2020-07-17T21:02:00Z
+    webUrl: "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition"
+    ampWebUrl: "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
     excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
     publishedDateTime: 2020-07-17T22:58:00Z

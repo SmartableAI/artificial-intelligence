@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UMass professor calls for creation of federal office to regulate controversial facial recognition technology"
+    excerpt: "Miller wants an agency, structured like the FDA, to be tasked with regulating the use of facial recognition technology."
+    publishedDateTime: 2020-07-16T10:36:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+        isCached: true
   - title: "New biometrics solutions and facial recognition updates for pandemic recovery trend this week"
     excerpt: "New solutions and deployments of biometrics for helping society recover from the COVID-19 pandemic feature prominently among the top stories on Biometric Update this week. New technologies for"
     publishedDateTime: 2020-07-18T18:09:00Z

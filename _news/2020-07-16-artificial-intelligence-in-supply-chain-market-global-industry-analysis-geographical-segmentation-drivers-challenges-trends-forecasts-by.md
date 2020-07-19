@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2026"
-    excerpt: "This report presents a comprehensive overview, market shares, and growth opportunities of Self-driving Cars market by type, application, key manufacturers and key regions and countries."
-    publishedDateTime: 2020-07-14T06:15:00Z
-    webUrl: "https://www.openpr.com/news/2089476/self-driving-cars-market-global-key-players-trends-share"
-    ampWebUrl: "https://www.openpr.com/amp/2089476/self-driving-cars-market-global-key-players-trends-share"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2089476/self-driving-cars-market-global-key-players-trends-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 22
-    images:
-      - url: "https://cdn.openpr.com/T/7/T714463362_g.jpg"
-        width: 666
-        height: 800
-        isCached: true
 
 secured: "xtEdhh/ZqPkI5ya2OWCTmfrq5hlPoxVYtnDEiGf6mLeACly1sXAyEhCTB9Jkzy14dK11PJtXNUY4Caungsf+zsM7enRWfwg/whseJqQcsikKy7001ZHzWOP2fpOW0ZZLRabubuyMRtqdXUVV5/bGr2hDNKIHxtl+SPYjzNAUp/GI/xXObFwoABFBZBE5fbrJmrXjz1wepaopNx4Pmtkx13kv04NjWnHCdzmx6GkoduklhmwsJoIB4pGu59XZqgMhi8YDNFVcfTIb3Qg7mBS4XzY5iW+viAGWGvNhzKd0bx7oiT+FxCnAVFyU+q95ftdV/wVeY26NqK7z+UPUckzhgA==;wj3RDNMSjoTv6WBTExawjQ=="
 ---

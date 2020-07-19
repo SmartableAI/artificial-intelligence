@@ -2,6 +2,97 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-24-direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-43.md",
+      "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
+      "excerpt": "Shares of Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) were up 4.3% during mid-day trading on Monday . The stock traded as high as $112.41 and last traded at $112.",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": "Direxion Daily Robotics Artificial Intelligence & Automation Index Bull 3X Shares (NYSEARCA:UBOT) Trading Up 4.3%",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/06/23/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-trading-up-4-3.html/amp",
+      "publishedDateTime": "2020-06-23T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-mercedes-benz-nvidia-deepen-autonomous-driving-alliance.md",
+      "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
+      "excerpt": "Semiconductor maker Nvidia Corp has struck a deal with Germany's Daimler to develop and equip Mercedes-Benz cars with a next generation chip and software platform that could eventually be used for autonomous driving functions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-nvidia-daimler-autonomous-idUSKBN23U2W5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523230547&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M1PR",
+          "width": 813,
+          "height": 545,
+          "title": "Mercedes-Benz, Nvidia deepen autonomous driving alliance",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U2W5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U2W5",
+      "publishedDateTime": "2020-06-23T22:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-aws-and-formula-1-announce-six-new-racing-performance-stats.md",
       "title": "AWS and Formula 1 announce six new racing performance stats",
       "excerpt": "The newly introduced performance stats include Car Performance Scores, Ultimate Driver Speed Comparison, Driver Skills Rating, and others. They will roll out in the current, 2020 season.",
@@ -1059,97 +1150,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-qualcomm-puts-ai-and-5g-in-the-hands-of-robotics-designers.md",
-      "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-      "excerpt": "According to Qualcomm’s press release, the platform features artificial intelligence (AI) and machine learning (ML) capabilities while still minimizing power consumption. This platform has been designed specifically for applications in robotics ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.allaboutcircuits.com/news/qualcomm-puts-ai-5g-in-hands-robotics-designers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/RB5_Platform.jpg",
-          "width": 700,
-          "height": 301,
-          "title": "Qualcomm Puts AI and 5G in the Hands of Robotics Designers",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-chinas-didi-aims-for-1-million-robotaxis-on-its-platform-by-2030.md",
-      "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
-      "excerpt": "China's ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030, an executive said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-china-autonomous-didi-idUSKBN23U1U4",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200623&t=2&i=1523192451&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG5M140",
-          "width": 817,
-          "height": 545,
-          "title": "China's Didi aims for 1 million robotaxis on its platform by 2030",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN23U1U4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN23U1U4",
-      "publishedDateTime": "2020-06-23T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

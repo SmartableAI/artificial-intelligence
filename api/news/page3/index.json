@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
+      "title": "Why Diversity In AI Is So Important",
+      "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f8ae4933def000676671c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D600",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "publishedDateTime": "2020-07-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment.md",
+      "title": "Deep Learning AI Needs Tools To Adapt To Changes In The Data Environment",
+      "excerpt": "No market is stagnant while remaining relevant. How and when to update DL systems, as they are used in more and more places, is important. The ability to analyze the data sets is critical, both for initial feature engineering and as an ongoing process to keep the systems relevant and accurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed90450d3f5a6000627e3ca%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/amp/",
+      "publishedDateTime": "2020-07-16T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
       "title": "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool",
       "excerpt": "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML.",
@@ -1086,107 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-artie-releases-tool-to-measure-bias-in-speech-recognition-models.md",
-      "title": "Artie releases tool to measure bias in speech recognition models",
-      "excerpt": "Researchers at Artie released a tool to detect bias in speech recognition systems. In a proof of concept, they find evidence of bias in a Google model.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/home-mini-aqua.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/",
-      "publishedDateTime": "2020-07-15T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-facial-recognition-is-everywhere-heres-what-we-can-do-about-it.md",
-      "title": "Facial Recognition Is Everywhere. Here’s What We Can Do About It.",
-      "excerpt": "You can opt out of facial recognition in some cases, but the history and future of the technology suggest we’ll need bigger solutions to its privacy problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2020/07/202007_facial-rec-630-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/",
-      "publishedDateTime": "2020-07-15T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

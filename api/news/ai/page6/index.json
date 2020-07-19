@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
+      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
+      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
+      "publishedDateTime": "2020-07-13T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
+      "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
+      "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Milan-Italy-August-212302504-630x421.jpg",
+          "width": 630,
+          "height": 421,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
+      "publishedDateTime": "2020-07-13T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people.md",
       "title": "Carnegie Mellon’s robotic painter is a step toward AI that can learn art techniques by watching people",
       "excerpt": "In a newly published research paper, Carnegie Mellon researchers propose a robotic painter that learns from human demonstrations.",
@@ -1318,88 +1408,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-google-machine-translation-helping-disseminate-covid-19-info.md",
-      "title": "Google machine translation helping disseminate Covid-19 info",
-      "excerpt": "San Francisco, July 12 (IANS) Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/google-machine-translation-helping-disseminate-covid-19-info-news-education-uhmf5Jcggfhff.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-12T17:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-how-the-coronavirus-is-turbocharging-hong-kongs-fintech-revolution.md",
-      "title": "How the coronavirus is turbocharging Hong Kong’s fintech revolution",
-      "excerpt": "Forced to adapt quickly, Hong Kong’s banking and financial services industry has hastened its adoption of digital transformation and AI in the name of survival, supported by a rapidly evolving regulatory environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_opinion/public/d8/images/methode/2020/07/13/fa81fb8e-c385-11ea-8c85-9f30eae6654e_image_hires_062204.jpg?itok=zG8-kynX&v=1594592533",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/comment/opinion/article/3092803/how-coronavirus-turbocharging-hong-kongs-fintech-revolution",
-      "publishedDateTime": "2020-07-12T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

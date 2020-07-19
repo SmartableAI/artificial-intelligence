@@ -2,6 +2,88 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-06-29-predictive-oncology-inc-announces-receipt-of-cash-proceeds-of-22-million-from-exercise-of-warrants.md",
+      "title": "Predictive Oncology Inc. Announces Receipt of Cash Proceeds of $2.2 Million from Exercise of Warrants",
+      "excerpt": "Predictive Oncology Inc. (the “Company,” “Predictive Oncology,” “we,” “our” or “us”) (NASDAQ: POAI), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/3c33301f1798b8eba9bf0cc88241f83b",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
+      "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
+      "excerpt": "PRNewswire/ -- The Bank of New York Mellon Corporation (\"BNY Mellon\") today announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/business/newsfeeds/prnewswire/202006250800PR_NEWS_USPR_____NY45714.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-cnvrgio-collaborates-with-red-hat-to-deliver-an-accelerated-production-ml-workflow-with-mlops-on-red-hat-openshift-for-the-ai-enterprise.md",
       "title": "cnvrg.io Collaborates With Red Hat to Deliver an Accelerated Production ML Workflow With MLOps on Red Hat OpenShift for the AI Enterprise",
       "excerpt": "PRNewswire/ -- cnvrg.io, the data science platform simplifying model management and introducing advanced MLOps to the industry, today announced",
@@ -1318,105 +1400,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup.md",
-      "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
-      "excerpt": "Medical technology company Brainlab has acquired video game surgery training company Level Ex. Terms of the deal were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/level-ex-3.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": "Medical tech firm Brainlab acquires Level Ex surgery game startup",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/29/medical-tech-firm-brainlab-acquires-level-ex-surgery-game-startup/amp/",
-      "publishedDateTime": "2020-06-29T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-advancing-azure-service-quality-with-artificial-intelligence-aiops.md",
-      "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-      "excerpt": "As Mark mentioned when he authored the Advancing Reliability blog series, building and operating a global cloud infrastructure at the scale of Azure is a complex task with hundreds of ever-evolving service components, spanning more than 160 datacenters and across more than 60 regions.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/advancing-azure-service-quality-with-artificial-intelligence-aiops/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/23aa03d8-6047-40dd-9a74-f9785e4ca016.png",
-          "width": 1024,
-          "height": 449,
-          "title": "Advancing Azure service quality with artificial intelligence: AIOps",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-29T02:00:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

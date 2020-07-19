@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-01-hbmsu-becomes-mena-regions-first-educational-institution-to-migrate-its-full-systems-and-applications-to-aws-cloud.md",
+      "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
+      "excerpt": "We congratulate our wise leadership on our unprecedented regional achievement & take pride in HBMSU’s leading position that supports UAE's competitiveness on global educational landscape” Mansoor Al Awar: “With our adoption of AWS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/HBMSU_becomes_MENA_regions_first_educational_institution_to_migrate_its_full_systems_and_applications_to_AWS_Cloud-ZAWYA20200701110907/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "HBMSU becomes MENA region's first educational institution to migrate its full systems and applications to AWS Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200701110907/",
+      "publishedDateTime": "2020-07-01T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
       "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of its sixth generation of Amazon",
@@ -1316,47 +1357,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-amazon-web-services-joins-efforts-to-protect-biodiversity.md",
-      "title": "Amazon Web Services joins efforts to protect biodiversity",
-      "excerpt": "Education, Research, Healthcare, and Nonprofit Organizations, Asia-Pacific, Worldwide Public Sector, Amazon Web Services Aria Nagasastra, director of Finance and Administration, WWF-Indonesia How can",
-      "sourceUrl": null,
-      "webUrl": "https://vietreader.com/news/1950-amazon-web-services-joins-efforts-to-protect-biodiversity.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vietreader.com/uploads/posts/2020-06/amazon-web-services-joins-efforts-to-protect-biodiversity-1.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T22:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "vietreader.com",
-        "domain": "vietreader.com",
         "images": null,
         "publishers": null,
         "authors": null

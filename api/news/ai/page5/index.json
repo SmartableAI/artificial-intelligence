@@ -2,6 +2,97 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
+      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
+      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "publishedDateTime": "2020-07-14T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-ch-robinson-microsoft-partner-to-boost-supply-chain-digitization.md",
+      "title": "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization",
+      "excerpt": "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-14_at_1.22.10_pm.png",
+          "width": 1270,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16617586",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586",
+      "publishedDateTime": "2020-07-14T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period.md",
       "title": "The Market Growth for Artificial Intelligence (AI) Chip is Expected to Surge During the Forecast Period",
       "excerpt": "Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and",
@@ -9,7 +100,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -50,7 +141,8 @@
         "AI Hardware",
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
+        "AI in Autos",
+        "AWS AI"
       ]
     },
     {
@@ -997,7 +1089,7 @@
       "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 192,
+      "heat": 202,
       "tags": null,
       "images": [
         {
@@ -1047,7 +1139,7 @@
       "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1366,96 +1458,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
-      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
-      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "publishedDateTime": "2020-07-13T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
-      "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
-      "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Milan-Italy-August-212302504-630x421.jpg",
-          "width": 630,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "publishedDateTime": "2020-07-13T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

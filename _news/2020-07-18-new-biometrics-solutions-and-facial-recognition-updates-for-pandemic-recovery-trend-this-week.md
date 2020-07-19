@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UMass professor calls for creation of federal office to regulate controversial facial recognition technology"
+    excerpt: "Miller wants an agency, structured like the FDA, to be tasked with regulating the use of facial recognition technology."
+    publishedDateTime: 2020-07-16T10:36:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+        isCached: true
 
 secured: "pk/N/mAEGXe+4OsNhR0rbLahT9wGuDffu/FwyJrmL40pXp8xMBybdCZFu1YLKH8M/mSHKlavmn+8bchJCXQrKuSKQv/KtOgSwpT4ePz1zCxUwHAzwVjaAumR1tZCI2x7BCFjzI8flBlmLFHUTbxAq8Kaz+Xv7wiZZ3+pZNk1Ozgo9GMYDIiySgxMGgb3ysp2CM+0oocieoEcyDUD0mf0p25pzPFi92p3lnhoJUnqHcGgmJtqCjvk6lYpzZXDT0x85tmw/64EBGXB/7iNR26WZ9DWdIEL75359iHuMojaGkDq9nLHu9terQ02LTpsUKLLMW6LccXAOMbElJLv9CtNCeQBcbq2BzYLUlv6nGTMgVBiMxK/vsIb7QLG9S4jA5adefrDj4xwyToqoDRe+Gk44YCG3Zz5h0gMEkPOBhcZlLXg26IY94vlSeQOrUebI405vkfyxvNL0WaU2ufo8IN3aevduJmnYGE3acjYKro+mZkKxOiROUxZh4D+zWprsi2wLPPq4b8e6mExNzO39LHHfA==;MNqAOQC5bVlePKXnP4Ficg=="
 ---

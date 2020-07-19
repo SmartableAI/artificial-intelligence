@@ -99,6 +99,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
+  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
+    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
+    publishedDateTime: 2020-07-18T23:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
+        width: 1747
+        height: 1311
+        isCached: true
   - title: "Clearview AI to end facial-recognition services in Canada: privacy commissioner"
     excerpt: "Office says it will complete a related investigation focusing on RCMP use of Clearview AI’s facial-recognition technology"
     publishedDateTime: 2020-07-14T16:08:00Z

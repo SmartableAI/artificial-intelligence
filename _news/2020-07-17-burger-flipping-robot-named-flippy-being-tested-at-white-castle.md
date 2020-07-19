@@ -56,6 +56,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White Castle is testing a burger-grilling robot named Flippy"
+    excerpt: "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ..."
+    publishedDateTime: 2020-07-16T16:03:00Z
+    webUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.html"
+    ampWebUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
+    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
+    type: article
+    provider:
+      name: WSMV
+      domain: wsmv.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/2/aa/2aa4ca08-648c-530f-a824-3d5c1a507c5d/5f120708e7951.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
     excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."
     publishedDateTime: 2020-07-17T01:28:00Z
@@ -103,6 +119,6 @@ related:
         height: 300
         isCached: true
 
-secured: "xMxsfJ3srKPRcKIdzMtsv+ZPHF4OXqRBRKe99ReevzJaPgow8z3ghEIsy+uqTdNBI1a4rxSlk89D5NVtxZfyYy5Afg4nP//cbZEaj43KlTWZM6PnCnlMzJHj48ptlRsHY+Gl6D1wnNICz0qJiT3Oua2japJxEze0viKyS8Jeg54BXflATw/P8ODFc3dvuuR7k3KzaxIG3jr1vmTN44wMiHy30F2OWuJ9sAR3uPKc5uL6c8Muo22b082wWFjwZmqUMApxhcD7PmLGEyzB4Ecsu+5nQBfNUN9LTqXgvyz1sf8nCcqzVQgqzTBmcu76B1m7AQA7vwwIYtZ4pImEzQIP9A==;V42SWLfk4Q3eEjOpv5I9TA=="
+secured: "KzX7y/B3g2ZPWxf4O1Htuq3EA2VuH6KtuOeat7HtyiB34+EZwGbVcph9KRAJFCTLMxf/zvLPcvzvOU0ND9DmeFPBeUkAzQHPKepXQ41wCwi/OBf9K9XXJNf5Ep5AK88mskiReU9SU04WdvcCJUJilTzGAUKqUvivrBITGb4HpxY61Vzc5lkwtK7h+Mko5VjOuDaowXuwDosjIoxl//G3o0bFM7Uu0bIOJTEewKENhXSQL/sE9+hVscyd+7H5W7l2UcYvgtKc/PPHEH0qqPBWmFoIPl+PtTxaMHaXszDnO+DK01hfEK5IwgvvhCOOc90dreYD4g7HtUMUoWlZI6annaEF+5Q3AtleSD0bkHccL2WMwfdU+Zp+VSfnaxHQTy2bfJLbdoTbwww4bOY0Jq4i6uhrIiFhPATYkCLv/OWsMXUpG7oC/wKz4sTTROUDygM1FpBaK+u4vHAcLocClp7qz08k4vxcn3DddIHsx1xAR8onPWROfm7L5xOZs9fk7IxU;lCiW5KXZtNQMWy2bXSK32w=="
 ---
 

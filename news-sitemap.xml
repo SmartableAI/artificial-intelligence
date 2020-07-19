@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/cathyhackl/2020/07/18/how-4-companies-are-using-ai-to-solve-waste-issues-on-earth--in-space/</loc>
+    <lastmod>2020-07-18T16:52:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/</loc>
+    <lastmod>2020-07-18T15:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/18/work-at-home-ai-surveillance-is-a-move-in-the-wrong-direction/</loc>
     <lastmod>2020-07-18T12:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,12 +55,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/</loc>
-    <lastmod>2020-07-17T15:30:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/</loc>
     <lastmod>2020-07-17T15:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,6 +69,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/</loc>
     <lastmod>2020-07-17T14:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
+    <lastmod>2020-07-17T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -595,8 +607,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
-    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
+    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -709,7 +721,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1267,7 +1279,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=12&amp;itm_content=1x7&amp;itm_term=2376504</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1333,7 +1345,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10?tesla=y</loc>
     <lastmod>2020-07-09T18:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
