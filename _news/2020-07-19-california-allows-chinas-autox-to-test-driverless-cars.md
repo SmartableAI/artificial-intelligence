@@ -54,6 +54,20 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "How Fast Is China’s Demand For Autonomous Driving Technology Growing?"
+    excerpt: "With the continuous adoption and promotion of technologies such as AI and 5G in the automotive field, autonomous driving is something many companies are trying to achieve in the near future. With the relaxation of laws and regulations on autonomous vehicles and the continuous landing of autonomous driving technologies and products,"
+    publishedDateTime: 2020-07-20T10:33:00Z
+    webUrl: "https://analyticsindiamag.com/how-fast-is-chinas-demand-for-autonomous-driving-technology-growing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/autonomous-cars.jpg"
+        width: 866
+        height: 578
+        isCached: true
   - title: "AutoX gets permit to run driverless testing in California"
     excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing ... is to empower the world with Artificial Intelligence (AI) drivers to ..."
     publishedDateTime: 2020-07-20T00:05:00Z

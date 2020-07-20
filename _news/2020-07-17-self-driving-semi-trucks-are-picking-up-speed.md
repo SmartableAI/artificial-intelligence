@@ -26,16 +26,48 @@ images:
     isCached: true
 
 related:
-  - title: "Navistar Partners With TuSimple to Launch Self-Driving Trucks"
-    excerpt: "Navistar International Corporation NAV announced that it reached a partnership with TuSimple. The companies aim to develop SAE Level 4 self-driving trucks, whose production is targeted to start in 2024."
-    publishedDateTime: 2020-07-16T14:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
+  - title: "Aurora expands to Texas in bid to ramp up self-driving truck efforts"
+    excerpt: "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8"
+    publishedDateTime: 2020-07-20T18:24:00Z
+    webUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/"
+    ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024"
+        width: 1024
+        height: 571
+        isCached: true
+  - title: "Aurora Jumps Into Robo-Delivery Race With Self-Driving Truck And Van Tests In Texas"
+    excerpt: "The Silicon Valley-based developer of software and hardware for autonomous vehicles is joining the pivot to driverless delivery vehicles as Covid-19 slows robotaxi plans."
+    publishedDateTime: 2020-07-20T18:02:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f15d91f3041c40006bad88e%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving startup Aurora expands vehicle testing to Texas"
+    excerpt: "(Reuters) - Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+    publishedDateTime: 2020-07-20T18:14:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 54
   - title: "Navistar Enters Self-Driving Trucks Market"
     excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."

@@ -62,6 +62,20 @@ related:
         width: 563
         height: 337
         isCached: true
+  - title: "How Fast Is China’s Demand For Autonomous Driving Technology Growing?"
+    excerpt: "With the continuous adoption and promotion of technologies such as AI and 5G in the automotive field, autonomous driving is something many companies are trying to achieve in the near future. With the relaxation of laws and regulations on autonomous vehicles and the continuous landing of autonomous driving technologies and products,"
+    publishedDateTime: 2020-07-20T10:33:00Z
+    webUrl: "https://analyticsindiamag.com/how-fast-is-chinas-demand-for-autonomous-driving-technology-growing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/autonomous-cars.jpg"
+        width: 866
+        height: 578
+        isCached: true
 
 secured: "qsYVMhRAUJZ0tZMuGx5tXR2vE3HVlPu7OXb+LTYlbD0eg/1CePI55fJV2upUIiWzaDzXGwpQKZYOPVunL4OA2PPzUaJp1V4cYqt1lQ3DfvvP3YQr09Oc/cvqdHqHvZa3OiTpXyTJ3Ow8VqPia0hxqVTaQYG414dSysNTj35gIXd4AONU3bQQ5/JFK38c47Ykak0hcoZaiOfqLTlHBSULj8SHeOnVpfPm/FhKr4VYu4ZwDdOVl2riPo/1zXJ8EKeQlXIcWpHDn/JR9SpR+H2R22W/C5mM7MMRTI01gLopVBTaRcMp6ihOTR09yyyUKnAwMIEkEMuES21Mg5zD8Yq/aA==;9DUurlU/9TLWJR3YSSyjxw=="
 ---

@@ -3,7 +3,7 @@ category: news
 title: "How Automation, AI And Analytics Driving Martech Amidst Market Challenges"
 excerpt: "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges."
 publishedDateTime: 2020-07-20T17:34:00Z
-webUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/?ss=cmo-network"
+webUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/"
 ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
 type: article
@@ -55,6 +55,6 @@ related:
         height: 217
         isCached: true
 
-secured: "Hht8jGQhPYoC0Wir9SeKNhIDJDuPVhAkVC4e5P0QGWLGsYhHsx8LHrMVt0nTPzkcGJsv4GDImdKqi9KhC8ySETNT3sKeOM6IXmob11dwDnCSOonnQfnjYipegZM7S6pVpgJHFuG9JhhSC+sdE3D2MbxFo/lq+0JL2Z25G2ibGnkKPLgNpkW+sOgZs5fc5a0SWdFI+3tTxvGh3h0JayIqdOX7uf/3wTTqFzhPaYOIc9yLAr4tT+x6l1WMrfad36633KnFxoor8RroD+s/pZ02F+yUl7/5xjVOaqGMGUIwUI6z2RGMs9GjLDyqcMagXHdJAVHVFH/EnkMCAeBJlRzYSQ==;9f4ipbhTWP0UdNnnWCWh3g=="
+secured: "cTSKjzXXM/T1G+aag4vwsykVKHWkLtS+ga97VW32NhylHDOhw2T90bU44Bz82AKLIC5XROsOOV+FubAGu6l5qQ/v8xE37Ef6a3z8p8357uEo6Hnoebke2iMT4q6Xf7CC14MfWuruLbvNA0W2hNTwaRf0gegreCfYpeob6HFgv4uBsV7ZIBZAyMPaF3XHyvjJaLepd8dAivlYLeaFuMyT5F2YmKYLij9CCZGFWVU2CmBth75kMYSIO7vm/QVP7eIt1QgXa1hJtVtoGQrUW06rH5ZrdpaiM3rObK0H5k+mbnysloVRR4LY6EzpDlpjtdKJSUB9YHNCJCJAGmAH2AjGPQ==;zjR+O24HOW9+sCmVNX4row=="
 ---
 

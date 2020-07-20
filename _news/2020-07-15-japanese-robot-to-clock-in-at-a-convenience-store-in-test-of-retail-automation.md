@@ -1,21 +1,18 @@
 ---
 category: news
-title: "Japanese robot to clock in at a convenience store in test of retail automation"
+title: "Japanese Robot to Clock in at a Convenience Store in Test of Retail Automation"
 excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-publishedDateTime: 2020-07-15T09:51:00Z
-webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
+publishedDateTime: 2020-07-15T09:57:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation?context=amp"
 type: article
-quality: 100
-heat: 140
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,72 +20,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
-    width: 782
-    height: 545
-    isCached: true
-
-related:
-  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
-    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-16T17:48:00Z
-    webUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
-    ampWebUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 70
-    images:
-      - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg"
-        width: 646
-        height: 450
-        isCached: true
-  - title: "PICS: Japanese robot to clock in at store as retail automation in spotlight"
-    excerpt: "Picture: Reuters/Issei Kato The idea, dubbed telexistence, was first proposed by the start up's co-founder ... predicted Professor Takeo Kanade, an AI and robotics scientist at Carnegie Mellon University in the United States, who joined Telexistence ..."
-    publishedDateTime: 2020-07-15T15:43:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/pics-japanese-robot-to-clock-in-at-store-as-retail-automation-in-spotlight-51008950"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 52
-    images:
-      - url: "https://image-prod.iol.co.za/resize/4078x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/15/51008950/22-7-15T94311Z_2_LYNXNPEG6EHQ_RTROPTP_4_JAPAN-TECH-ROBOT.JPG&operation=CROP&offset=0x320&resize=4078x2294"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "FamilyMart to deploy robots in Japan stores"
-    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-15T10:56:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1951912/familymart-to-deploy-robots-in-japan-stores"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20200715/c1_1951912_700.jpg"
-        width: 700
-        height: 504
-        isCached: true
-  - title: "Kangaroo-like robot to clock in at Japanese convenience store"
-    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-16T02:43:00Z
-    webUrl: "https://www.itnews.com.au/news/kangaroo-like-robot-to-clock-in-at-japanese-convenience-store-550536"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/2020-07-15T143435Z_1_LYNXNPEG6E14X_RTROPTP_4_JAPAN-TECH-ROBOT.JPG"
-        width: 1000
-        height: 708
-        isCached: true
-
-secured: "tK3R1Zw3AndOKY/ONa5v4VH0qgqwRB4kny4eBmFsZBp7MhbA7Pf1haU45eHNd2EihB7vbgHdrCP+Y0yugvheLIn3JZkp7ypcI7wfkc8N658DV2b9UxGHAS/yJobY2jmFdZQuZtTncbvYdnzZqwdfdwx2skdZwi4N9VnGgWWFxjKzeZaw6upgXYzvoEWLi3Havf9FHs9NNh07YGoFVqowuRgS9jpG4zdm0fimPVIbbUeuZ+tlIgBrwnU0NpNydx4solz9tCOGxa3rURFBQHUK1B1VzlwKeSi+Vdk7pXilQu30R8JhwFI3GgZ8rapyOAhUlIKwpgcLq6ts/2iS7Wsn89bLKrPLwgnj7uFDMFTs4BwEupgpQ1LtmI4efz2N5uvCvMzWLZhGS1BfS23ORD8Zwb1Qnhs9e3/7Tz/x+wt6d0Nox2z9K57JfqNH+xXjLyXXzYJJVpKm1yGn8jpaKr4BgnQYOdkBwJlR0qUwPnb02jBZb134HpDztQrDNzK3c/gFZ93DOB1uIEe204TrN+k4hQ==;21owxvddzLHxt7saurj6lA=="
+secured: "GMSpGK1XJsKXFsDM+75IeD7PPClSrsGVfg68U7frVNMK+YJj3aGJQfQcPJS3rN9ZMzuoq8xBXC1yJMl9vG/E0133xFGqR3YwRdU7hc87pqp/EKSFMq+KfhA4yFTbtMzI4bPGTp5XTKRSVJgmmUnCHtmwA/Wjh8r9KbSYg/P1naIbbTsT7TEFlcHUmomKlhv8+6XuI4JlR4JfECtVD/3ZGbfqlYMwkSVj86e/sNnZOE4MhCzX7gMasE/yyYCPFiZjiyGTjJSv6G961hH+v3qMOMSfHF21dQBF3vptY/84ZEKvUUn/RczV14B/3MaLmKIfyNWB9PuiWQcW5OJFILoDVaQkla7BOMMrq6cah00gckQTJu2t+9SoEMCbtqRR8pqrF8gTRdXhIGP4wGcl6dbYoCcrTPq5CtP7wOqp4alVh/FSqPmQnrtI8jCQ5syEbWxvTwKlKXRfqJXi0/Cx7Oa80j2ZY+FFClM64TRQxcquh0IEgzukfnlpSQxRdjKkaYyD;OuquvznrGEyWXrgHWqWWSw=="
 ---
 

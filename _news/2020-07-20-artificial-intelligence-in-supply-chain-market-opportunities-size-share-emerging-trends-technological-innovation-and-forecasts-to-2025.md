@@ -5,7 +5,7 @@ excerpt: "The MarketWatch News Department was not involved in the creation of th
 publishedDateTime: 2020-07-20T14:50:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-07-20"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

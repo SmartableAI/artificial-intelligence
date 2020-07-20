@@ -42,20 +42,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "Translate ancient hieroglyphs with Google's new AI-powered tool"
-    excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
-    publishedDateTime: 2020-07-16T18:00:00Z
-    webUrl: "https://mashable.com/article/google-ai-ancient-translations-fabricius/?trk=organization-update-content_share-video-embed_share-article_title"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 69
-    images:
-      - url: "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ="
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google launches hieroglyphics translator that uses AI to to decipher Ancient Egyptian script - Daily Mail"
     excerpt: "The new Google tool teaches the basics of hieroglyphics but also uses machine learning to give academics a fast way to decode hieroglyphics."
     publishedDateTime: 2020-07-20T11:22:00Z

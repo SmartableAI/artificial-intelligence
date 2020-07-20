@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -37,17 +37,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "UNESCO launches worldwide online public consultation on the ethics of artificial intelligence"
-    excerpt: "UNESCO is launching a global online consultation on the ethics of artificial intelligence, to give everyone around the world the opportunity to participate in the work of its"
-    publishedDateTime: 2020-07-16T02:37:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-launches-worldwide-online-public-consultation-on-the-ethics-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-launches-worldwide-online-public-consultation-on-the-ethics-of-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-launches-worldwide-online-public-consultation-on-the-ethics-of-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 43
 
 secured: "GPMUNOd+Ami0kPv39NNjLwLDFRd4GILDIe/iJ7ZEFHENqrWN5NCu4rDjyfdQVqNEOrN8ko4YJ/gt7pdJ3rcbLh47z3arF4f0Hx0Xe/y8IZmT7SoElA1WIiTSdntF5v9wAyn1V4HAtMvvfwzwX3bSoZxfLa3hZ0hfQ8zdLIPYxDAf49IN3W8l6KIsnI2wh70QGFmq+Q/ZI8ltwFGzUbv4hLeZ2N+hK6l6GnnJoHVlBexmi4nlvtLodqjlsesZs6cdGP+qfzmrxKCDIoOFongwSBc9gjH2ESIjdEAdBrxgEgM6fC61XNtgJ8SL4nRWkeYHJ+36hzBorFU3YozcpvGGgdaH6SxKGkNxvY0wWD2U7ZIchb7LSZEgbtpadc25un3FAA5RkPYPlLz9nkEzvcvIAWjmye9VcnAQ0DfezjfPlkEe6lJBCn0pF1+gaZaAnGrbGR1rkiO1I7ySCHK0F2+VpTBzKTWC65qv3phTsPRY7uHk2iWJnXqlaGXxdrv1xkNjjLFmQRSoSWKV3xJInTDINw==;S5pmP/s55W7DBKPHjDywmw=="
 ---

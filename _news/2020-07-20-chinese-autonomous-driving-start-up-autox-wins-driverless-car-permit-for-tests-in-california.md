@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomo
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-07-16/b423dfff-aff9-41fb-9e57-dd320820f42a.jpg"
         width: 563
         height: 337
+        isCached: true
+  - title: "How Fast Is China’s Demand For Autonomous Driving Technology Growing?"
+    excerpt: "With the continuous adoption and promotion of technologies such as AI and 5G in the automotive field, autonomous driving is something many companies are trying to achieve in the near future. With the relaxation of laws and regulations on autonomous vehicles and the continuous landing of autonomous driving technologies and products,"
+    publishedDateTime: 2020-07-20T10:33:00Z
+    webUrl: "https://analyticsindiamag.com/how-fast-is-chinas-demand-for-autonomous-driving-technology-growing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/autonomous-cars.jpg"
+        width: 866
+        height: 578
         isCached: true
   - title: "AutoX gets permit to run driverless testing in California"
     excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing ... is to empower the world with Artificial Intelligence (AI) drivers to ..."

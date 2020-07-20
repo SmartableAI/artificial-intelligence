@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics"
-    excerpt: "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today."
-    publishedDateTime: 2020-07-16T22:51:00Z
-    webUrl: "https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
+  - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
+    excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
+    publishedDateTime: 2020-07-16T14:11:00Z
+    webUrl: "https://www.entrepreneur.com/article/353390"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/353390"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
     images:
-      - url: "https://cnet3.cbsistatic.com/img/SiyZiBYppuIEyDDEe5w99KqglmI=/2020/07/16/fcb92e46-e3e2-49c8-a471-03d29f43236f/tomb-of-beni-hassan-macquarie-university-1.jpg"
-        width: 1280
-        height: 720
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
   - title: "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs"
     excerpt: "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ..."

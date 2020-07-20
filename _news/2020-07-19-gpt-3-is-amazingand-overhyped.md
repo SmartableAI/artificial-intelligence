@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2020/07/19/gpt-3-is-amazingand-ov
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/07/19/gpt-3-is-amazingand-overhyped/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/07/19/gpt-3-is-amazingand-overhyped/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 174
+heat: 174
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 797
     isCached: true
 
-secured: "u02hyfbvWfAN6HpmSa/Wh4eIvQ4kgam0R/993oBBt7iWwzmEd4IRf7s0HH1GtY1M9Kpk9jBCTzw5bWbOEhVvaB5ROj/h8/+MaZ2Of+6cRrrjw4sDyQZzTw7Zfi58TKRqX/1+Jg1o0454zFp60kHjwNB6DfZRiOUGEc/QccLtIGaOuOjJdrk/Ky1RUJhLuGzEBSb1A6bA8CwHtyBspmcDx5G5+Z72lp2PUV/mTVfYQZaBh6enAB4OvX/uCs5NU5gfmv5eyLVVPROTUdDNZ5Mo2juP/aj+PTJvrHf5sxafJm4bVWWNSVQHrdoGNNywk449gJY/YTDSAex8WWWXYIe9E+uI2gtV75o12CJBVz84QWE1xn9sBQSy1UJjxQTUn36GZ02I38eC2DiLT6FQa2Dmuf6mU3fzaGncM+Kwb1hVWHruoxjV5irdHdxOQUhcn0Z82Qha6A1bh18p01L2A+4PmClWPJ13ikdkT4LLzxIrK7+fH5WDSVfpNt2EdC/ilRl66/2NnuSTgR2A7kT5tydfVg==;SbidmTPlCQzYLxhnLF5XXg=="
+secured: "K5y6FkDojvhpT3BILT+o6xZo73Ulio4Ca4qVuSSNkoX0wOHVkr7I4oaRenoxUGBTKHpVXcB0NXhavV1kFVesDO/Y31ISx9SNsWKbid4uCxUVhvaJH8DCTFL61286wPvZJn1jMa81b1IErdkorFbkWn9+ahmyJsUVQ00dUFI88pveZ2Vs1drsbMasLSKACIUTLADKx8k66I/+g76RNkfTCVwGaQzACrivtyMAdFKVN9vxOFTmGKq6sQhtxyYOiBrH3dh6hT/VVz7jYpjjjhNorvbdB+DkfscVDhgU0hBBtcev/DzXiU9OibJ/PY9mrCaUraQDD5WoyHbcRv2vpc4JRURLhK2P8KVhFwEaEq1D7Ducn2tSkAIVPtymvJtw/9VTTJ4N7zJfRR1loSdLIC7mP7B0ODSHxD714ARF077V98XdJ5E+y+fgXODPaYb3Mq/Yab6EqPzfhW0XqLalqUQOfPxxNWEmpr6RSPuTKtyPCl6O4+1m9LmiebjuCeLsvyjjsVKPtROb/7yxWRWUO+y3CRjW4qQhmgKm+aG/fbzkO1Q=;rcizKnYwxRtSJrI9YsJuUw=="
 ---
 

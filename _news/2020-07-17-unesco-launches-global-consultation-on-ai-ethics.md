@@ -36,17 +36,6 @@ related:
         width: 2849
         height: 1472
         isCached: true
-  - title: "UNESCO launches worldwide online public consultation on the ethics of artificial intelligence"
-    excerpt: "UNESCO is launching a global online consultation on the ethics of artificial intelligence, to give everyone around the world the opportunity to participate in the work of its"
-    publishedDateTime: 2020-07-16T02:37:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-launches-worldwide-online-public-consultation-on-the-ethics-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-launches-worldwide-online-public-consultation-on-the-ethics-of-artificial-intelligence/?amp"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-launches-worldwide-online-public-consultation-on-the-ethics-of-artificial-intelligence/?amp"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 43
 
 secured: "evoAFxaz2ThvMpkcvrBU4re+4947ot2BuxdApVwsS/indsU21U6lpx6IzKP/exmpSTDMQm8kIq9EU+lZamNDJLBXSFwJc0SqAO28dlEDFLf7PyLVi5ljX1A8lsBwfDEGHNuvmHZIf0g9kQ2nJrBN33NRXOFu/LG3i687y1MpHXXgNlG/tI0V09zPqCtICZ3Bdb9UR/vc7wNmD8d8zBu5Hwk2uCUowNRaqWMiwXdBpW/hIdbKPbazzbhTo1oA/6pXAnsWRn1Oax6M6fr27t5DsCiktd7RXsebX6Y7dk0lWE2CLQ8v0IFHU79kCcQZeGWCnroeC5SsvdqfQ5TS5JPuoEt6/ETo2BVGlGB+FFBAhKpumjvvPgpnyjItnjgqAk9prDstRXrC2kkz3SjCj+6HeulIACt3WtPfCs2F03tRtJlqizt85AbiPs9hSEelfhwXfRpE9zKhxBtv67cQiTkEahH7/+uyMbY5MgobDIfJLdap+RA5pFVuvIFbQdkq7rTasKJFPLixjyNzUWSDwesEog==;++L9/edmtMb8k6Ml25aPmA=="
 ---

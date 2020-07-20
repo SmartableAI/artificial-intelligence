@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-tur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 138
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aurora will test its fleet of self-driving cars and semi trucks in Texas"
+    excerpt: "Aurora, the startup founded by former lead engineer for Google’s self-driving project Chris Urmson, is bringing its fleet of test vehicles to Texas. It’s the latest company to shift resources to the Lone Star State,"
+    publishedDateTime: 2020-07-20T18:10:00Z
+    webUrl: "https://www.theverge.com/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 73
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/vbvXQSC8uS1rzfsd1Yql8zNKbBk=/0x0:4032x2268/1400x933/filters:focal(1694x812:2338x1456):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67082226/Texas_Pacifica.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
     excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
     publishedDateTime: 2020-07-18T13:15:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
         width: 984
         height: 738
+        isCached: true
+  - title: "For Aurora Innovation, trucks and Texas are signs of self-driving future"
+    excerpt: "Hauling goods and freight has become a priority in a self-driving industry once predicated upon carrying passengers in robotaxis. It should be no surprise then that logistics hubs have become hot spots for new testing grounds."
+    publishedDateTime: 2020-07-20T18:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/aurora-innovation-trucks-and-texas-are-signs-self-driving-future"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Mobileye begins testing self-driving cars in Germany"
     excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
