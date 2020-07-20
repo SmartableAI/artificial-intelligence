@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T10:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17?mod=mw_quote_news&tesla=y"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Automated Material Handling Equipment Market Overview with Impact of COVID-19 on Growth Opportunity by 2026"
-    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
-    publishedDateTime: 2020-07-17T09:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-overview-with-impact-of-covid-19-on-growth-opportunity-by-2026-2020-07-17"
+  - title: "COVID-19 Impact Review on Artificial Intelligence in Construction Market"
+    excerpt: "The Artificial Intelligence in Construction Market size is estimated to generate a revenue of $2,642.4 million"
+    publishedDateTime: 2020-07-20T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-on-artificial-intelligence-in-construction-market-2020-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

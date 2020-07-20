@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/</loc>
+    <lastmod>2020-07-20T06:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/covid-19-impact-review-on-artificial-intelligence-in-construction-market-2020-07-20</loc>
+    <lastmod>2020-07-20T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businessinsider.com/tusimple-building-network-of-self-driving-delivery-trucks-us-2024-2020-7</loc>
+    <lastmod>2020-07-20T06:26:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board</loc>
+    <lastmod>2020-07-20T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/</loc>
+    <lastmod>2020-07-20T06:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/patrickmoorhead/2020/07/20/oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer/</loc>
+    <lastmod>2020-07-20T06:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/20/1306738-syndication/</loc>
+    <lastmod>2020-07-20T05:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbesagencycouncil/2020/07/20/five-terms-marketers-should-know-to-succeed-in-an-ai-future/</loc>
+    <lastmod>2020-07-20T05:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html</loc>
     <lastmod>2020-07-20T03:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -153,12 +201,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/</loc>
     <lastmod>2020-07-18T06:21:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7</loc>
-    <lastmod>2020-07-18T06:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -349,6 +391,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible</loc>
+    <lastmod>2020-07-16T12:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/</loc>
     <lastmod>2020-07-16T12:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -447,6 +495,12 @@
   <url>
     <loc>https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/</loc>
     <lastmod>2020-07-16T08:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16</loc>
+    <lastmod>2020-07-16T07:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1513,7 +1567,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=10&amp;itm_content=1x6&amp;itm_term=2377121</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1695,6 +1749,12 @@
   <url>
     <loc>https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/</loc>
     <lastmod>2020-07-09T08:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/mim-software-inc-receives-fda-510k-clearance-for-deep-learning-auto-contouring-software-301091012.html</loc>
+    <lastmod>2020-07-09T08:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -114,7 +114,7 @@ related:
     provider:
       name: ifsecglobal.com
       domain: ifsecglobal.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
         width: 770

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-18T13:15:00Z
 webUrl: "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,37 +28,44 @@ images:
     isCached: true
 
 related:
-  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
-    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
-    publishedDateTime: 2020-07-16T19:51:00Z
-    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
-    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+  - title: "Former Ford President Joins Self-Driving Radar Startup’s Board"
+    excerpt: "Joe Hinrichs, a former top executive at Ford Motor Co. who left the company earlier this year, is making a tentative return to the auto industry by joining the board of a startup developing technology for self-driving cars and driver-assistance features."
+    publishedDateTime: 2020-07-20T13:06:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+  - title: "Former Ford exec Hinrichs joins board of self-driving radar startup"
+    excerpt: "More than four months after retiring as Ford's automotive president, Joe Hinrichs has resurfaced on the board of a U.S. company pioneering a unique sensor for autonomous vehicles. Hinrichs, 53, has joined the board of directors at WaveSense,"
+    publishedDateTime: 2020-07-20T12:43:00Z
+    webUrl: "https://europe.autonews.com/move/former-ford-exec-hinrichs-joins-board-self-driving-radar-startup"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
-        width: 984
-        height: 738
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Hinrichs-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "First self-driving taxis to hit Moscow streets in 2024"
-    excerpt: "A fleet of driverless taxis may start operating in the Russian capital within the next several years, according to Deputy Transport Minister Aleksey Semyonov. “If we efficiently start implementing the plan we are developing on the basis of our stakeholder authorities and key companies (the Transport Ministry,"
-    publishedDateTime: 2020-07-19T05:23:00Z
-    webUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/"
-    ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
+  - title: "Former Ford exec Joe Hinrichs joins board of self-driving radar startup"
+    excerpt: "Hinrichs, 53, has joined the board of directors at WaveSense, a startup that uses ground-penetrating radar to help self-driving vehicles better understand and navigate road environments. \"WaveSense is delivering the most precise and reliable vehicle ..."
+    publishedDateTime: 2020-07-20T11:21:00Z
+    webUrl: "https://www.autonews.com/executives/former-ford-exec-joe-hinrichs-joins-board-self-driving-radar-startup"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 44
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://cdni.rt.com/files/2020.07/original/5f0f139785f5407b451936aa.JPG"
-        width: 1240
-        height: 838
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Hinrichs-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "8rWP31wntKfGk0bfsZD/1HAnAZJdaLJ73Ak//sRUdifqSvarYPvFS1R6deTyCCz+x0rcHc46qkdjlZn01+mW7v7kYy77hOtTEnzdHobOw1gLOBCr/VbhxSnA2jgoGdtKqAkJqH/UodM8eZLkYM7adT3eTRIHm019MVRddZu0rOupN8iNkzQALWrX3Fjjzw71jF/VDgCZbKgbdPzX4QRZvuE3k2mHS5QUbhs6uJYcyWrdsIKL03sEzuhNv1E1Ty3Pl9bZNb4fgcCDMsDd8BDsuZPVEt5UQxJmZRqBocOHktOknEbIrIkQZUuw6w/tYcx8NrECqrw1fCpX5XDLxrbI7LpxqoNeqwuSXEQ5MO/8yApngOnP9WI7bjFzhEj5cLK/Y5KTa1fcYjzzHtkHiDwYEZORH43KWTqnC0Eo4iyulaD2R5ksKVZ6sSLEaRGrI0c51NmHVx+GCBFTVKFFL2HjIzqCUC7ItqkJ+msaOXKIqt85SMVh6YRZVKuPXcEuzMplf73C6wqxd3F9qJKBFFQBBQ==;0a8ZmAQJKDM/TmUJOeAkfw=="

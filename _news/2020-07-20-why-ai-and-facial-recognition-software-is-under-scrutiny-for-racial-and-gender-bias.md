@@ -5,7 +5,7 @@ excerpt: "In the light of the Black Lives Matter protests, facial recognition an
 publishedDateTime: 2020-07-20T09:26:00Z
 webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
 type: article
-quality: 48
+quality: 50
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Ethics
 
 images:
   - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"

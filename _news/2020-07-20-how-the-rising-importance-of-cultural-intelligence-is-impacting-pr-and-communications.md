@@ -1,0 +1,49 @@
+---
+category: news
+title: "How The Rising Importance Of Cultural Intelligence Is Impacting PR And Communications"
+excerpt: "Cultural intelligence and empathy, along with my survival kit for communications, are the golden rules that I believe will be able to help us, the public relations practitioners from all over the world, to work with artificial intelligence, leverage it for ..."
+publishedDateTime: 2020-07-20T13:06:00Z
+webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/"
+ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/"
+type: article
+quality: 65
+heat: 75
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1181224216%2F0x0.jpg"
+    width: 1200
+    height: 793
+    isCached: true
+
+related:
+  - title: "Artificial intelligence data centers take on greater importance in facing the very real threat of COVID-19"
+    excerpt: "The Cleveland Clinic is mentioned in this Wall Street Journal story about the role of data science centers in developing artificial intelligence and other applications to help diagnose and treat diseases,"
+    publishedDateTime: 2020-07-17T17:16:00Z
+    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/artificial-intelligence-data-centers-take-greater-importance-facing-very-real"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 19
+    images:
+      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/clinic_2.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "UA2Did0wdGlcS7hWIaklwhKblhcqQUKB8dT4CCSZRks+KGgUppip92L7UHcl6PPuk3UjX2gSXQC8VG25tPYbl7f2bJBuAEbj84pGlcZ+lVrgQnMPvUNe+SbuYAEmEwUFGXsP11fZfhKrUBnErvWuFUdocehSDKuaVQJn+1c+GOuZzjg9FJvAWwxgX7rdVOhb2g27oV6j+o2x0vStVm7mRfzJ3siGCCuX3wA4BYjwtlksgIZ7pPuU2dDwjUQFH3TsK2X9L2vSi+sI14tgECdXF53RtxM4f1XUlXeCUiHHHc5Dg+4VPRRv2ivDa0+fCvukB6zVSojxPgrs3P8QvmCEgw==;A0DUnCcLcqD44X89Y/50jg=="
+---
+

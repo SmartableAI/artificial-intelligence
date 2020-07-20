@@ -58,22 +58,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Google launches hieroglyphics translator that uses AI to to decipher Ancient Egyptian script - Daily Mail"
-    excerpt: "The new Google tool teaches the basics of hieroglyphics but also uses machine learning to give academics a fast way to decode hieroglyphics."
-    publishedDateTime: 2020-07-20T11:22:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8540329/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 42
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/20/11/30970914-0-image-a-15_1595241610437.jpg"
-        width: 636
-        height: 382
-        isCached: true
   - title: "Google came up with an AI powered app that can efficiently translate Egyptian Hieroglyphs"
     excerpt: "Google has recently launched an Ai powered Hieroglyphics translator called as Fabricius. The app is freely available at the Google Art and Culture website and application. The app was opened for downloading since Wednesday."
     publishedDateTime: 2020-07-17T12:21:00Z

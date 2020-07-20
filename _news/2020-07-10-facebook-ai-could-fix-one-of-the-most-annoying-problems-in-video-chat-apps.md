@@ -3,7 +3,7 @@ category: news
 title: "Facebook A.I. could fix one of the most annoying problems in video chat apps"
 excerpt: "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously."
 publishedDateTime: 2020-07-10T13:08:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/"
+webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=10&itm_content=1x6&itm_term=2377121"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 type: article
@@ -20,12 +20,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "KkCW/0VNUjRjqwN6cp3HSmXSVdrJPi09V1Sisk9t/D9WtRpPs5YcPfKM2PQeq7V/LEIkvD1v5IFAknoz4dC3sO/QdaLlTjIUxXyBIv1jZ/hpGy48H3wYnnwyMRtPXW4yP0/vKpZdxfchMHcX/Rxxn4lW498GWMIxUwJnMPoIYuGxs0Z2KIW72PyeMMuTW3ZwA0FPCL0YuFFt+Ldbg5clXaHK4zR/8UWs6xSST2uGjFNVBzhJVPJLF1POlqoIA081P/QhbS0txsa0TVBH4bn2gYqGKlvOBaXThqn+9tKR3C7RK/s8EHZB0jDhEE/EU3vlAcnIghGnT0Uudd7NgjEteJSG8OIvoX3LcpMigFkrvSYzlCAg30h8u5ORvKuKe3E2qnZR+IS5ST1ezndM2nyNudUUX7FSRBYulzbB9HUVD/+vlIqIKN0X0KHZIDwkBbgCvQzqtAtyv2nrqYgpf1BhHnV45TlNkvL2NZYc4byAAxdwxqfGyP1wTeN6sddONQ7C9nJUbXwH/WMzfYaPqTURSA==;TsT8J5wyDBZznsUhR+RobQ=="
+secured: "+AJnuJHn8b/k8zsodvMNGAm9uhLqZoDs/YDlTpfVd8hvGSHGpW8waz1cZjKHUmddcPfHXzU7PBHHznJLpfercWzVo1fjY3hw9A4JYHhuijeJ48k/sm9PrRmJ27w+L2i341xmB2TGihp5cc/QxRu1SImjZb6z2beBNIJYQWOEsw9g6gKyoxhbSTP6ph37P1/BNcZD7EfYrvBGO4u/SGNuqqSgzC/9f7peqgE0vwNPV0dExUwBXC+uD4K9YLCDcafI45NzFXQiOVb0CTDKwQ+FEFWSGS4dv89YSMAJTuMDsU/m9rQfQ4vgpAo4nZxNN9b2PrYyjyJXnnZuLW2Np6Dfj9lhUzY6nOuNoPrSbEFySG1nVbM4eE4+6zqQOZI9qxZpLbENnuBZif7C/FSQkG8qi6ww3OwmpW+zVJ2nfWz29J0Ncc8amtcorcTkheZik06SXI5n22JvVxdijoZ4J+oWvv7grBcP+eA3soUyMEUdaFBqNVKGIc9iCqmH2WTNCJUNb4t9eMwJ5TM5zZYihmjMDA==;S3Nd4JZICwsdDn0ieav0mQ=="
 ---
 

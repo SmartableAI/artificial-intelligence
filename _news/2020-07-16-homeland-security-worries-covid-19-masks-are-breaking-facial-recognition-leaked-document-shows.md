@@ -104,6 +104,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
+    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
+    publishedDateTime: 2020-07-20T09:26:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 50
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
     excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
     publishedDateTime: 2020-07-17T22:58:00Z
@@ -119,20 +133,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
-    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
-    publishedDateTime: 2020-07-20T09:26:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 48
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
-        width: 770
-        height: 500
         isCached: true
   - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
     excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."

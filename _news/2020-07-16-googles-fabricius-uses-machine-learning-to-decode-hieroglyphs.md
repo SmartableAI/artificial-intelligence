@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google launches hieroglyphics translator that uses AI to to decipher Ancient Egyptian script - Daily Mail"
+    excerpt: "The new Google tool teaches the basics of hieroglyphics but also uses machine learning to give academics a fast way to decode hieroglyphics."
+    publishedDateTime: 2020-07-20T11:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8540329/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/20/11/30970914-0-image-a-15_1595241610437.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "A new tool in Google’s Arts & Culture app makes understanding hieroglyphics fun"
     excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language."
     publishedDateTime: 2020-07-19T16:04:00Z
