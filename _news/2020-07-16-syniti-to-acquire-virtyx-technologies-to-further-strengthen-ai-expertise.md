@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "Huuuge Games acquires Dutch advertising startup"
-    excerpt: "Mobile developer Huuuge Games has acquired Dutch advertising startup Playable Platform for an undisclosed amount. Based in Amsterdam, the startup has developed AI-driven technology to automate the optimisation of marketing creatives such as playable ads and interactive videos."
-    publishedDateTime: 2020-07-15T10:35:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-07-15-huuuge-games-acquires-dutch-advertising-startup"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 2
 
 secured: "f96RNCdnlogHtPRZ/R6G5FeGUQRUAzGmmngOjvdU4/3IS4FqBjgGMfhZBO2yutfqQxjKg9xKCJ5NXb3Jer3T56cec6Ptv3H/E+ZyNYAZ76+OEz9uRl5tabEye5SxWBQVLJljKoea5esQ00wH100NyuccPniNhZGZ+GNtO0FQmHdtW7yRNXKR5GmxVni5XdX9nA6FTvCWhPoJ+EcIo224OxcgGyGb7zmloHdxH6slLWDgt8ZXWyOBrh6tfyebEromqzjznoZ5r8yBRBsABDlckkv17CHkr4m9tyaJl8pXo4yfzlJ20B2okOjsIQSbtWqbE6/wkCCJ/JgXVbAApMicrQ==;KG1vg6YN+CKSbOSspC+PSA=="
 ---

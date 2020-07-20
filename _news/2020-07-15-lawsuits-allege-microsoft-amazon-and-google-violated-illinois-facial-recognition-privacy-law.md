@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-j
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/"
 type: article
 quality: 78
-heat: 118
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,22 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "Illinois residents sue tech giants for violating facial recognition privacy law"
-    excerpt: "Steven Vance and Tim Janecyk — have filed a lawsuit against three tech corporations including, Microsoft, Amazon, and Google’s parent company Alphabet, TechCrunch rep"
-    publishedDateTime: 2020-07-16T07:52:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
+  - title: "Amazon, Google, Microsoft sued over photos in facial recognition database"
+    excerpt: "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies."
+    publishedDateTime: 2020-07-16T01:24:00Z
+    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 55
+      name: CNET
+      domain: cnet.com
+    quality: 88
     images:
-      - url: "https://www.thehindubusinessline.com/news/world/n6awi2/article32099795.ece/ALTERNATES/LANDSCAPE_615/BL16FR"
-        width: 615
-        height: 384
+      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
+        width: 756
+        height: 567
         isCached: true
+  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
+    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
+    publishedDateTime: 2020-07-17T17:33:00Z
+    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
+    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
+    publishedDateTime: 2020-07-15T20:20:00Z
+    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
   - title: "Microsoft Sued For Using Image Dataset To Improve Its Facial Recognition Technology"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2020-07-15T22:04:00Z
@@ -62,6 +89,20 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
+    excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
+    publishedDateTime: 2020-07-15T14:56:00Z
+    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
     excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."
     publishedDateTime: 2020-07-15T23:17:00Z
@@ -76,17 +117,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Tech Giants Face Privacy Suits Over Face ID 'Arms Race'"
-    excerpt: "Technology industry behemoths including Amazon, Google and Microsoft are engaged in an \"arms race\" to develop facial recognition products that has involved stepping on the privacy rights of Illinois residents,"
-    publishedDateTime: 2020-07-15T22:28:00Z
-    webUrl: "https://www.law360.com/articles/1292149/tech-giants-face-privacy-suits-over-face-id-arms-race"
-    ampWebUrl: "https://www.law360.com/amp/articles/1292149"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1292149"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
 
 secured: "m46HtbylBjb7etI+QTs3uJYRsnOXMsj31WJJdfInmZBPP5u0Ku3JohlOMQdbh378+72hugjpxAkm6XunoH7KEgpPARoPVcT3LHI95TIBsHG3dRVmG3IdrSqErgndZqcYWAXEMkL6CsvWvpGMFolvCY19NJOFOSAx+Dy+K/2n32vdqSyp3KOGHFmyT2A5tiatF/oQLTxJbFKscllfhAge8uzZWLxGY1taY1+ehVu2NfgXVz9N+5HZzxymdYiFBvfV+APSBXRcsKVd13Py4dh5LYuHWMoTv2ePJNkoJfOwSeW+osbdyp9PjMtxg3XPRcL1RTvPAsu7U0544c1bUUgrGPkE7Eh66d2aeJp/hF5TvRe9aTfLID6ZCx32kM5N/TNjejzceOMVvvV9y8MPZo+RFIvfqkhEg3B37TfRzKRwSNAHJ4o3n79mGor/8y1A0dLFL7221T4K+KwtdIJVfODM4Iwv58YFzF7snsUDbCBHZ9rOMwDFCWGtnYWlcu2KUMm5;h/4D1c5wKyLGaSkTpelidg=="
 ---

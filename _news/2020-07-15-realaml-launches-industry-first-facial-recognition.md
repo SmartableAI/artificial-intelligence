@@ -20,38 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Coping with inconsistent facial recognition in Apple Photos"
-    excerpt: "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,"
-    publishedDateTime: 2020-07-15T10:21:00Z
-    webUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html"
-    ampWebUrl: "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
-    cdnAmpWebUrl: "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html"
-    type: article
-    provider:
-      name: Macworld
-      domain: macworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/apple-photos-100851579-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Amazon, Google, Microsoft sued over photos in facial recognition database"
-    excerpt: "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies."
-    publishedDateTime: 2020-07-16T01:24:00Z
-    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "Federal agencies concerned face masks will thwart facial recognition tech"
     excerpt: "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported."
     publishedDateTime: 2020-07-17T14:55:00Z
@@ -68,89 +36,169 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
-    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
-    publishedDateTime: 2020-07-17T17:33:00Z
-    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+  - title: "Could National Unrest Derail the Future of Facial Recognition?"
+    excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
+    publishedDateTime: 2020-07-17T19:35:00Z
+    webUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 68
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
         isCached: true
-  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
-    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
-    publishedDateTime: 2020-07-15T20:20:00Z
-    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
+  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
+    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
+    publishedDateTime: 2020-07-18T23:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
-    excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
-    publishedDateTime: 2020-07-15T14:56:00Z
-    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
+        width: 1747
+        height: 1311
         isCached: true
-  - title: "Facial recognition is part of voters registration exercise – EC"
-    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
-    publishedDateTime: 2020-07-17T08:14:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
+  - title: "Government Leak: Cops Terrified Masks Will Block Facial Recognition"
+    excerpt: "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports."
+    publishedDateTime: 2020-07-17T21:02:00Z
+    webUrl: "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition"
+    ampWebUrl: "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 39
+      name: Futurism
+      domain: futurism.com
+    quality: 59
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
+      - url: "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg"
         width: 600
-        height: 392
+        height: 315
         isCached: true
-  - title: "Facial recognition feature part of the Voters Registration Exercise"
-    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
-    publishedDateTime: 2020-07-18T00:40:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
+  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
+    excerpt: "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ..."
+    publishedDateTime: 2020-07-17T22:30:00Z
+    webUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
+    ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 39
+      name: The Raw Story
+      domain: rawstory.com
+    quality: 51
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
-        width: 600
-        height: 358
+      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
-    excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
-    publishedDateTime: 2020-07-18T03:43:00Z
-    webUrl: "https://www.npr.org/2020/07/17/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
+  - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
+    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
+    publishedDateTime: 2020-07-17T22:58:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 33
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 49
     images:
-      - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
-        width: 1400
-        height: 787
+      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
+        width: 636
+        height: 382
         isCached: true
+  - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
+    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
+    publishedDateTime: 2020-07-18T02:17:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "UMass professor calls for creation of federal office to regulate controversial facial recognition technology"
+    excerpt: "Miller wants an agency, structured like the FDA, to be tasked with regulating the use of facial recognition technology."
+    publishedDateTime: 2020-07-16T10:36:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+        isCached: true
+  - title: "Facial recognition and periocular biometrics for masked faces developed by pdActive, EDGENeural.AI and FacePhi"
+    excerpt: "International fear that coronavirus is spreading at an alarming rate in public spaces has led to a number of touchless biometric systems and technologies being released by AI companies hoping to"
+    publishedDateTime: 2020-07-15T15:49:00Z
+    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-and-periocular-biometrics-for-masked-faces-developed-by-pdactive-edgeneural-ai-and-facephi"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/07125637/facial-recognition-can-identify-people-wearing-masks.jpg"
+        width: 802
+        height: 600
+        isCached: true
+  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
+    excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
+    publishedDateTime: 2020-07-18T02:54:00Z
+    webUrl: "https://www.salon.com/2020/07/17/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 31
+    images:
+      - url: "https://media.salon.com/2020/07/masks-protest-nyc-0717201.jpg"
+        width: 846
+        height: 571
+        isCached: true
+  - title: "Homeland Security Worries Covid-19 Masks Are Breaking Facial Recognition, Leaked Document Shows"
+    excerpt: "The rapid global spread and persistent threat of the coronavirus has presented an obvious roadblock to facial recognition’s similar global expansion. Suddenly everyone is covering their faces."
+    publishedDateTime: 2020-07-16T19:15:00Z
+    webUrl: "https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/"
+    type: article
+    provider:
+      name: The Intercept
+      domain: theintercept.com
+    quality: 27
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/blue-leaks-face-mask.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720"
+        width: 1440
+        height: 720
+        isCached: true
+  - title: "The double-edged sword of facial recognition technology"
+    excerpt: "Facial recognition programs are notoriously error-prone, often misidentifying an innocent person as potentially guilty. At the same time, these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-15T14:35:00Z
+    webUrl: "https://www.lewistownsentinel.com/opinion/2020/07/the-double-edged-sword-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: LewistownSentinel.com
+      domain: lewistownsentinel.com
+    quality: 19
 
 secured: "OzneZkatO2mSqHuSQQ5KLjxvwABmGfT4C7cjxCCbxSfFDsS4ZEhFe0bg4L26rc1mJ8K99nCjBGwFT4DPaCTqIUq6li2W4upfuNzv0OVwc+5mel7ZTpPM9BgLl2fAP3Phmf429NA1lKAhM+6OWc7PJ32qzXIcYtaIdz3SxN5TiDuwUpqaX94g4q4cM4Htak+scHLgJE1N4kcU2wdNMuRXFLm4S09fWEuo165/pjbFYHGenzN4ovhsVGKUkJUPUASc/41NFlf6VOlFbiRzajHbPm2CWMbfWz1Ebvkljfpe59uJ5nGVm376LTDYIAFu/S7Th0ZX1o0dKz49kqOK3T1mPA==;C/C1pcW4OGsSFSg1IeeyQA=="
 ---

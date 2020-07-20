@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon, Google, Microsoft sued over photos in facial recognition database"
+    excerpt: "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies."
+    publishedDateTime: 2020-07-16T01:24:00Z
+    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 88
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Lawsuits allege Microsoft, Amazon and Google violated Illinois facial recognition privacy law"
     excerpt: "In a set of new lawsuits, two Illinois residents argue that three tech giants violated state laws prohibiting the use of personal biometric data without permission. Illinois residents Steven Vance and Tim Janecyk allege that images of their faces appeared in IBM’s “Diversity in"
     publishedDateTime: 2020-07-15T21:10:00Z
@@ -40,22 +56,33 @@ related:
         width: 1024
         height: 685
         isCached: true
-  - title: "Illinois residents sue tech giants for violating facial recognition privacy law"
-    excerpt: "Steven Vance and Tim Janecyk — have filed a lawsuit against three tech corporations including, Microsoft, Amazon, and Google’s parent company Alphabet, TechCrunch rep"
-    publishedDateTime: 2020-07-16T07:52:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/world/illinois-residents-sue-tech-giants-for-violating-facial-recognition-privacy-law/article32099796.ece/amp/"
+  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
+    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
+    publishedDateTime: 2020-07-17T17:33:00Z
+    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 55
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
     images:
-      - url: "https://www.thehindubusinessline.com/news/world/n6awi2/article32099795.ece/ALTERNATES/LANDSCAPE_615/BL16FR"
-        width: 615
-        height: 384
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
+    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
+    publishedDateTime: 2020-07-15T20:20:00Z
+    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
   - title: "Microsoft Sued For Using Image Dataset To Improve Its Facial Recognition Technology"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2020-07-15T22:04:00Z
@@ -72,17 +99,20 @@ related:
         width: 1024
         height: 711
         isCached: true
-  - title: "Tech Giants Face Privacy Suits Over Face ID 'Arms Race'"
-    excerpt: "Technology industry behemoths including Amazon, Google and Microsoft are engaged in an \"arms race\" to develop facial recognition products that has involved stepping on the privacy rights of Illinois residents,"
-    publishedDateTime: 2020-07-15T22:28:00Z
-    webUrl: "https://www.law360.com/articles/1292149/tech-giants-face-privacy-suits-over-face-id-arms-race"
-    ampWebUrl: "https://www.law360.com/amp/articles/1292149"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1292149"
+  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
+    excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
+    publishedDateTime: 2020-07-15T14:56:00Z
+    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
+      name: CFO
+      domain: cfo.com
+    quality: 39
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "v6/Sw2iqu9MQRJfapjSk3587xwllcG/Jk3AwwpV9LBVDBABa9dB5ujyliLjOWQZxb+TuUVSvsEhASJ5QlCO2b/MF730BMI61dclPPEFHnInIUjuAvsIrmUblfJKYEnZWGBAV5VcKKr+jIpdHQClu/m9r1+XtaXU05AUQqFH7Z5s9Cqigk+p5rTEboGv8ZyhJfKYXqJb1VuM5OjYJKoLtMiRK4MGEPhcVKxZSPAfdMOetrQAwOISbypMZBBr2cgHorzmMYoHGmqlyKGW0QKT7iwKAmajyaH6ORGockxQSV0ZaBK6ZBd7M85iagXix2H6cz86hquw3p/Ed8zWMQpbCVg==;VPdxVjuSImejBFNs1y2veg=="
 ---

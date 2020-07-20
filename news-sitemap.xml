@@ -151,12 +151,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
-    <lastmod>2020-07-17T14:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/</loc>
     <lastmod>2020-07-17T13:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -219,6 +213,12 @@
   <url>
     <loc>https://thenextweb.com/neural/2020/07/17/ai-researchers-say-weve-squeezed-nearly-as-much-out-of-modern-computers-as-we-can/</loc>
     <lastmod>2020-07-17T08:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests</loc>
+    <lastmod>2020-07-17T07:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -343,6 +343,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/</loc>
+    <lastmod>2020-07-16T10:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/</loc>
     <lastmod>2020-07-16T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -457,6 +463,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/</loc>
+    <lastmod>2020-07-15T18:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/</loc>
     <lastmod>2020-07-15T17:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -475,12 +487,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043</loc>
-    <lastmod>2020-07-15T16:44:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16</loc>
     <lastmod>2020-07-15T15:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -489,12 +495,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/</loc>
     <lastmod>2020-07-15T14:38:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/</loc>
-    <lastmod>2020-07-15T14:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -699,12 +699,6 @@
   <url>
     <loc>https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/</loc>
     <lastmod>2020-07-15T04:54:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7</loc>
-    <lastmod>2020-07-15T04:41:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

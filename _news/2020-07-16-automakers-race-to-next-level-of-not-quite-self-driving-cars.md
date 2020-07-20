@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-16T13:19:00Z
 webUrl: "https://europe.autonews.com/automakers/automakers-race-next-level-not-quite-self-driving-cars"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,47 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Hands free': Automakers race to next level of not quite self-driving cars"
-    excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
-    publishedDateTime: 2020-07-15T10:49:00Z
-    webUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 72
-    images:
-      - url: "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "FOCUS-'Hands free': Automakers race to next level of not quite self-driving cars"
-    excerpt: "\"If people don't know what they've got and how it actually operates, that's a safety issue,\" added Rosekind, who is chief safety innovation officer at self-driving startup Zoox, which is being acquired by Amazon.com IncAMZN.O. Jason Levine, head of the ..."
-    publishedDateTime: 2020-07-15T10:29:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-hands-free%3A-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-07-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Level 5 fully self-driving cars not due anytime soon"
-    excerpt: "In widely reported remarks, Tesla CEO, Elon Musk said last week that he believed the electric car company would have \"basic functionality\" for level 5 vehicle autonomy complete by the end of the year."
-    publishedDateTime: 2020-07-15T09:52:00Z
-    webUrl: "https://www.just-auto.com/comment/level-5-fully-self-driving-cars-not-due-anytime-soon_id196671.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "http://i4.aroq.com/3/2018-08-10-11-41-ceoelonmuskatfirstuksupercharger_cropped_70.jpg"
-        width: 424
-        height: 282
-        isCached: true
   - title: "Automakers race to next level of self-driving cars"
     excerpt: "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation."
     publishedDateTime: 2020-07-17T08:30:00Z

@@ -20,49 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Computer Networks 2020 Market Segmentation,Application,Technology & Market Analysis Research Report To 2024"
-    excerpt: "The Artificial Intelligence in Computer Networksmarket report offers a brief summary in conjunction with the most pertinent factors and challenges play a role in the industry. Regulations and policies with respect to the market variables are taken into consideration."
-    publishedDateTime: 2020-07-15T10:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-computer-networks-2020-market-segmentationapplicationtechnology-market-analysis-research-report-to-2024-2020-07-15"
+  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
+    excerpt: "Voice and Speech Recognition is the ability of a machine or program that can identify, distinguish and authenticate the voice of an individual speaker, understand and carry out spoken commands. Benefits of voice and speech recognition includes - encourages natural,"
+    publishedDateTime: 2020-07-18T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial-Intelligence-in-Education Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID-19"
-    excerpt: "Education   Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
-    publishedDateTime: 2020-07-16T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing (NLP) Market Research with COVID-19 After Effects, Growth Set to Rise Significantly during 2020 and 2027"
-    excerpt: "Market launched by Fior Markets segmented by type, application, regions offers the fundamental summary of the global market. The report examines the global Natural Language Processing (NLP) market, the market current flow and patterns,"
-    publishedDateTime: 2020-07-17T15:49:00Z
-    webUrl: "https://galusaustralis.com/2020/07/758596/global-natural-language-processing-nlp-market-research-with-covid-19-after-effects-growth-set-to-rise-significantly-during-2020-and-2027/"
-    ampWebUrl: "https://galusaustralis.com/2020/07/758596/global-natural-language-processing-nlp-market-research-with-covid-19-after-effects-growth-set-to-rise-significantly-during-2020-and-2027/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/07/758596/global-natural-language-processing-nlp-market-research-with-covid-19-after-effects-growth-set-to-rise-significantly-during-2020-and-2027/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 25
-    images:
-      - url: "https://i1.wp.com/canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg?ssl=1"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "WTwh0w0n9sBQMR0HVnObOzP8dbEVyfjqsw27UB7DE8fuwKIuUSjNyaJCdM/WLP55C8892YkUczw5ETaN+1LCJoLCGQyoXS28/yAAFAsQcotQ4SMFCu38LtmiJJ61cPU6cu8uoB8E0flZKmFttvAu6OiZQ11x3tDQcOupK+60B7CJgrXV877fYRCS/9ztAVu0ntZnSdtBK+VLsLJu1Ss/2goT+bjHhLqek0alOwTZq34Bg7sYbA+svVzxADlsp+qO/KX3gBqBLswx4SmMuYBvrRPNNHhHsEUD0PmUUQuoqblmMoY/BXXp1VP0MRgJHlhyaD8IYV7I91I7kVdequBbAQ==;RriBAvLDRzmXjNXkaDd7JQ=="

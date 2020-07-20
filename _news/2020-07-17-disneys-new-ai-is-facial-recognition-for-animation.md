@@ -24,37 +24,21 @@ topics:
   - AI
 
 related:
-  - title: "TikTok ‘Gets Facial Recognition’ On Americans And Sends To China—Trump Official"
-    excerpt: "The threat of a U.S. ban on TikTok has become more real, with the latest warning from Trump's National Security Adviser."
-    publishedDateTime: 2020-07-15T09:45:00Z
-    webUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/"
-    ampWebUrl: "https://www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2020/07/15/tiktok-trump-warning-facial-recognition-data-sends-china-ban/amp/"
+  - title: "Facial Recognition Is Everywhere. Here’s What We Can Do About It."
+    excerpt: "You can opt out of facial recognition in some cases, but the history and future of the technology suggest we’ll need bigger solutions to its privacy problems."
+    publishedDateTime: 2020-07-15T18:43:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 185
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1577c1888ec0000690735b%2F0x0.jpg%3FcropX1%3D573%26cropX2%3D3130%26cropY1%3D504%26cropY2%3D2061"
-        width: 1200
-        height: 731
-        isCached: true
-  - title: "Could National Unrest Derail the Future of Facial Recognition?"
-    excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
-    publishedDateTime: 2020-07-17T19:35:00Z
-    webUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
-        width: 1119
-        height: 630
+      - url: "https://cdn.thewirecutter.com/wp-content/uploads/2020/07/202007_facial-rec-630-630x420.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Facial recognition is tech so special it should be banned"
     excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
@@ -72,35 +56,47 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UMass professor calls for creation of federal office to regulate controversial facial recognition technology"
-    excerpt: "Miller wants an agency, structured like the FDA, to be tasked with regulating the use of facial recognition technology."
-    publishedDateTime: 2020-07-16T10:36:00Z
-    webUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html"
-    ampWebUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+  - title: "Facial recognition: IT and police in delicate dance"
+    excerpt: "Privacy and rights groups worry about the implications of the use of facial recognition technology by law enforcement"
+    publishedDateTime: 2020-07-16T10:50:00Z
+    webUrl: "https://rappler.com/technology/features/facial-recognition-it-police-delicate-dance"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
-    quality: 40
+      name: Rappler
+      domain: rappler.com
+    quality: 39
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
-        width: 2233
-        height: 1675
+      - url: "https://assets2.rappler.com/2020/06/1592464321-facial-recognition.jpg"
+        width: 360
+        height: 360
         isCached: true
-  - title: "New biometrics solutions and facial recognition updates for pandemic recovery trend this week"
-    excerpt: "New solutions and deployments of biometrics for helping society recover from the COVID-19 pandemic feature prominently among the top stories on Biometric Update this week. New technologies for"
-    publishedDateTime: 2020-07-18T18:09:00Z
-    webUrl: "https://www.biometricupdate.com/202007/new-biometrics-solutions-and-facial-recognition-updates-for-pandemic-recovery-trend-this-week"
+  - title: "Facial recognition is part of voters registration exercise – EC"
+    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
+    publishedDateTime: 2020-07-17T08:14:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
+        width: 600
+        height: 392
+        isCached: true
+  - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
+    publishedDateTime: 2020-07-18T03:43:00Z
+    webUrl: "https://www.npr.org/2020/07/17/892433132/judge-facebooks-550-million-settlement-in-facial-recognition-case-is-not-enough"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "4dO2n1zFZpDKshihN3lL9bRaaFpaGzMc8tb8szwyj1M1oft0xsMtpnb172AO87w0lqjH/E1B+Lkcfuf8j+NAVZ20l9bTjy5UsqV0RsfFRm9ggLlcju6YcK3tPoQ7CXSQdBO+OeCRaLlZs2qUsvu44rxWZ7r7r30XHpM4DEcEddwk4D9qMVs5C75IkLa9vfMYhgV95bfwwkuT3sALtVnBCxb6aAoxMIoPBJbC0p4Q3mTHjDOau4G+s9glKTAAezXg3et1eOzLz3syI9sBMMttxqssBqWMLGTUM4KoGrFQ2yM4JoA8RDsw13qD31fFiBN4ap8pI8nmoEWahNQWTtLBk8fzOTRO+KtBkeFzJ1UPYNGBl2JcvXbz4Buimg78kdc4kr8lLC81E2jvvTk7sVrCZWdJ3tCk+4GK5cD73QDFOC0plaIUDT5rAv1EGsLnx5711pTYqgoNGNxZ83Uq0RIBPZKJH5H2sMP9QcdwAerprtZLHk24+4Komi/TCLkICszF8OHtSNeXgvLbyYRGdHnCbQ==;qmc5/4MMmrPY1ru8LUJDAQ=="

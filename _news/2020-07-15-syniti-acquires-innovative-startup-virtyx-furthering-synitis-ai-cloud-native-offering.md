@@ -8,8 +8,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/syniti-acquires-innovat
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/syniti-acquires-innovative-startup-virtyx-furthering-syniti-s-ai-cloud-native-offering-1029399043"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Huuuge Games acquires Dutch advertising startup"
-    excerpt: "Mobile developer Huuuge Games has acquired Dutch advertising startup Playable Platform for an undisclosed amount. Based in Amsterdam, the startup has developed AI-driven technology to automate the optimisation of marketing creatives such as playable ads and interactive videos."
-    publishedDateTime: 2020-07-15T10:35:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2020-07-15-huuuge-games-acquires-dutch-advertising-startup"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 2
 
 secured: "gGjWNVkbkaDWNWD95vk/64lCCRXRlBWnVKdlCdYduDJlxrAeU5ArYkOrlWeg5cNQ/SYdZmfxKpIbZ0wifCcdMdrD+6pmqsY/b5yw7pbSAWrXrRtbX7j1wj4tw9mI2Nu/QhxqtKUAqt9UqlyVxZrgEsp4qs44wGfgPu+OWNcfM9vISdxXkv+9oNuw1EAN48IU/cv0h57+zztWk3KekU23Uy3L3aQahZD3LUWK6iDIIw+Im7boy5MoIs2hvpcAIcu0SQOtBXDufEaqClzhlwnKPVi9pFEnmqXS3WL3OhQSy1DnJWt+2ddXKvXCbqHnySkDLk2SnspFnPYaE/fwUc242w==;XjR9lttCxJvNoVHhsX7lgg=="
 ---

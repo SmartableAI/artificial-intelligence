@@ -1,27 +1,21 @@
 ---
 category: news
-title: "Homeland Security Worries Covid-19 Masks Are Breaking Facial Recognition, Leaked Document Shows"
-excerpt: "The rapid global spread and persistent threat of the coronavirus has presented an obvious roadblock to facial recognition’s similar global expansion. Suddenly everyone is covering their faces."
-publishedDateTime: 2020-07-16T19:15:00Z
-webUrl: "https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/"
+title: "The double-edged sword of facial recognition technology"
+excerpt: "Facial recognition programs are notoriously error-prone, often misidentifying an innocent person as potentially guilty. At the same time, these programs have proven to be wildly successful in catching criminals,"
+publishedDateTime: 2020-07-15T14:35:00Z
+webUrl: "https://www.lewistownsentinel.com/opinion/2020/07/the-double-edged-sword-of-facial-recognition-technology/"
 type: article
-quality: 27
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Intercept
-  domain: theintercept.com
+  name: LewistownSentinel.com
+  domain: lewistownsentinel.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/blue-leaks-face-mask.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720"
-    width: 1440
-    height: 720
-    isCached: true
 
 related:
   - title: "Federal agencies concerned face masks will thwart facial recognition tech"
@@ -191,16 +185,21 @@ related:
         width: 846
         height: 571
         isCached: true
-  - title: "The double-edged sword of facial recognition technology"
-    excerpt: "Facial recognition programs are notoriously error-prone, often misidentifying an innocent person as potentially guilty. At the same time, these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-15T14:35:00Z
-    webUrl: "https://www.lewistownsentinel.com/opinion/2020/07/the-double-edged-sword-of-facial-recognition-technology/"
+  - title: "Homeland Security Worries Covid-19 Masks Are Breaking Facial Recognition, Leaked Document Shows"
+    excerpt: "The rapid global spread and persistent threat of the coronavirus has presented an obvious roadblock to facial recognition’s similar global expansion. Suddenly everyone is covering their faces."
+    publishedDateTime: 2020-07-16T19:15:00Z
+    webUrl: "https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/"
     type: article
     provider:
-      name: LewistownSentinel.com
-      domain: lewistownsentinel.com
-    quality: 19
+      name: The Intercept
+      domain: theintercept.com
+    quality: 27
+    images:
+      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/blue-leaks-face-mask.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720"
+        width: 1440
+        height: 720
+        isCached: true
 
-secured: "C5eO/UiGuWBouSPBZzd7C3nee3XqqjjewJNMIaxQm2KmlJWlp7kYJqeXkMIWWalOXD5VcjL+QGzQB2DdQ7gjGGY16DWAzvtMDKOwdceORFq3Sc0aFd7Y/8YFCGtyFVK5KvK6S2BWU3u0ramP1t0f5h0NBVuGkR3FSBO+omaMqIgF2UJGn77GkvcIZ4F1EgRauKL1ObxUx5/nzMCW2LkEubQq6Ic17IsnrgnO3D3LM8gJW8aRIUSVJbh7ziNMwQhOlvx/T9UFNEpFg0jae6WFpmwPsn+2BPhAjjKEywJo52Ai8/By/+mNUppgO+tcEvaX5FTVd45VOC2UYeHIZfo1qg==;pi5Rn+JtL853s7F/GQVH3g=="
+secured: "RBdMuRPpPTCq6UKyAzRbboXcwNP7nyFG6KfikXGdKQk0h7ws7CgxUmiJm7UFqH3hz7bu5AE3OXYfCUXaCWGBNcQDyKU9L1XTxS3qiS2Y75BXpsYMAHgei0j9yG6dCXp1ZRrVbaJR8y7AcL0liu8s2nAw/8P6YK7yQw56+Y7QqC16vUYJDtR9wycT6hr59N9AHr4bwk/XoosPTWikAGcJcCUlKEAvHAsuYKPuzBuv/wZwSAbE1QFlAlVQDSRtpA0Ofso6m+ijzZzWckdrOXbNsh2i3nzNmNy/eFMw8A4e1kFT/nMJRUVizfqrhKe+28yhVvCL9Pn7AC+KmIPAn8Tkmg==;Sk+5dei7HJgroPGyxxx44g=="
 ---
 

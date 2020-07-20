@@ -26,22 +26,6 @@ images:
 related:
   - title: "Japanese robot to clock in at a convenience store in test of retail automation"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-15T09:51:00Z
-    webUrl: "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G138"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM"
-        width: 782
-        height: 545
-        isCached: true
-  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
-    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
     publishedDateTime: 2020-07-16T17:48:00Z
     webUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
     ampWebUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
@@ -55,20 +39,6 @@ related:
       - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg"
         width: 646
         height: 450
-        isCached: true
-  - title: "FamilyMart to deploy robots in Japan stores"
-    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-15T10:56:00Z
-    webUrl: "https://www.bangkokpost.com/tech/1951912/familymart-to-deploy-robots-in-japan-stores"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20200715/c1_1951912_700.jpg"
-        width: 700
-        height: 504
         isCached: true
   - title: "Kangaroo-like robot to clock in at Japanese convenience store"
     excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."

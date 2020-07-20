@@ -25,33 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Delta Pushes Biometric Facial Recognition for Safer Passenger Experience"
-    excerpt: "The airline is hoping that the primer will make passengers feel more comfortable with facial recognition, which will in turn encourage more people to embrace contactless screening technologies. In that regard, the primer reflects the growing interest in ..."
-    publishedDateTime: 2020-07-17T20:34:00Z
-    webUrl: "https://findbiometrics.com/delta-pushes-biometric-facial-recognition-safe-passenger-experience-071702/"
+  - title: "Facial recognition feature part of the Voters Registration Exercise"
+    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
+    publishedDateTime: 2020-07-18T00:40:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
     type: article
     provider:
-      name: SecuriMetrics HIIDE
-      domain: findbiometrics.com
-    quality: 38
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
     images:
-      - url: "https://findbiometrics.com/wp-content/uploads/Airpalne-Sky1-e1421265590288.jpg"
-        width: 1280
-        height: 761
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
+        width: 600
+        height: 358
         isCached: true
-  - title: "Facial recognition and periocular biometrics for masked faces developed by pdActive, EDGENeural.AI and FacePhi"
-    excerpt: "International fear that coronavirus is spreading at an alarming rate in public spaces has led to a number of touchless biometric systems and technologies being released by AI companies hoping to"
-    publishedDateTime: 2020-07-15T15:49:00Z
-    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-and-periocular-biometrics-for-masked-faces-developed-by-pdactive-edgeneural-ai-and-facephi"
+  - title: "New biometrics solutions and facial recognition updates for pandemic recovery trend this week"
+    excerpt: "New solutions and deployments of biometrics for helping society recover from the COVID-19 pandemic feature prominently among the top stories on Biometric Update this week. New technologies for"
+    publishedDateTime: 2020-07-18T18:09:00Z
+    webUrl: "https://www.biometricupdate.com/202007/new-biometrics-solutions-and-facial-recognition-updates-for-pandemic-recovery-trend-this-week"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 34
+    quality: 28
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/07125637/facial-recognition-can-identify-people-wearing-masks.jpg"
-        width: 802
-        height: 600
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Biometrics expert discusses facial recognition regulation as Massachusetts’ proposed ban moves forward"
     excerpt: "A bill has been passed by the State Senate of Massachusetts which could block biometric facial recognition from use by police in the state until the end of 2021, the Wall Street Journal reports."

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-15T11:19:00Z
 webUrl: "https://www.nature.com/articles/s41598-020-67823-8"
 type: article
 quality: 7
-heat: -1
+heat: 7
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 685
     height: 478
     isCached: true
-
-related:
-  - title: "Early triage of critically ill COVID-19 patients using deep learning"
-    excerpt: "The sudden deterioration of patients with novel coronavirus disease 2019 (COVID-19) into critical illness is of major concern and early assessment would be vital. Here, the authors show that a deep learning-based survival model can predict the risk of COVID-19 patients developing critical illness based on clinical characteristics at admission."
-    publishedDateTime: 2020-07-15T09:07:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-17280-8"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-17280-8/MediaObjects/41467_2020_17280_Fig1_HTML.png"
-        width: 683
-        height: 685
-        isCached: true
 
 secured: "26d41P71jdwMyUfcKhRle2r+Y3Hx7nOVSeDpZ+QbZUfqjeVG1ehwVGBU/cTHyaseOsJ2lHbPTdVG3PZ0xH8P7EKPWOYLebop3Q74sjF0Bz4xJU+rfima4BoFKrrwuJezdYIJgFsH/Aj8XNGumRul1pMR90qkOscP5D6cO20wLpk23Cw2y+9OxDhx+CLINccG9lNccSw42jlciQtocPdaQwPJ05sgJOSX3v8uzfcRVEFncBGzvtC47P+gq4ZlSMZ09Cl1eJG79fMh6Agv92z4/uDLlwLW6fOXuty74b3LRRxSn6a5zs2z1K8KK62aS+oqR8K7gICb56HfOP5/VV23Mg==;lh88CJiP4PUwKiwufsRk8w=="
 ---

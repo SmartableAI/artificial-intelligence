@@ -24,6 +24,54 @@ images:
     isCached: true
 
 related:
+  - title: "Federal agencies concerned face masks will thwart facial recognition tech"
+    excerpt: "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported."
+    publishedDateTime: 2020-07-17T14:55:00Z
+    webUrl: "https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 88
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/TSB8bFoAXUnsnwCyw0czZdijB_k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Could National Unrest Derail the Future of Facial Recognition?"
+    excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
+    publishedDateTime: 2020-07-17T19:35:00Z
+    webUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Could-National-Unrest-Derail-the-Future-of-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1139687675+(1).jpg"
+        width: 1119
+        height: 630
+        isCached: true
+  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
+    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
+    publishedDateTime: 2020-07-18T23:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
+        width: 1747
+        height: 1311
+        isCached: true
   - title: "Government Leak: Cops Terrified Masks Will Block Facial Recognition"
     excerpt: "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports."
     publishedDateTime: 2020-07-17T21:02:00Z
@@ -88,6 +136,47 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "UMass professor calls for creation of federal office to regulate controversial facial recognition technology"
+    excerpt: "Miller wants an agency, structured like the FDA, to be tasked with regulating the use of facial recognition technology."
+    publishedDateTime: 2020-07-16T10:36:00Z
+    webUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html"
+    ampWebUrl: "https://www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/police-fire/2020/07/facial-recognition-technology-umass-amherst-professor-calls-for-creation-of-federal-office-to-regulate-controversial-software-says-high-risk-uses-should-be-banned.html?outputType=amp"
+    type: article
+    provider:
+      name: MassLive
+      domain: masslive.com
+    quality: 40
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/7NGWZRDEXBG6FJBJU6FT4J7SPU.jpeg"
+        width: 2233
+        height: 1675
+        isCached: true
+  - title: "RealAML Launches Industry-first Facial Recognition"
+    excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
+    publishedDateTime: 2020-07-15T23:48:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 39
+  - title: "Facial recognition and periocular biometrics for masked faces developed by pdActive, EDGENeural.AI and FacePhi"
+    excerpt: "International fear that coronavirus is spreading at an alarming rate in public spaces has led to a number of touchless biometric systems and technologies being released by AI companies hoping to"
+    publishedDateTime: 2020-07-15T15:49:00Z
+    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-and-periocular-biometrics-for-masked-faces-developed-by-pdactive-edgeneural-ai-and-facephi"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/07125637/facial-recognition-can-identify-people-wearing-masks.jpg"
+        width: 802
+        height: 600
+        isCached: true
   - title: "Homeland Security Worries Covid-19 Masks Are Breaking Facial Recognition, Leaked Document Shows"
     excerpt: "The rapid global spread and persistent threat of the coronavirus has presented an obvious roadblock to facial recognition’s similar global expansion. Suddenly everyone is covering their faces."
     publishedDateTime: 2020-07-16T19:15:00Z
@@ -102,6 +191,15 @@ related:
         width: 1440
         height: 720
         isCached: true
+  - title: "The double-edged sword of facial recognition technology"
+    excerpt: "Facial recognition programs are notoriously error-prone, often misidentifying an innocent person as potentially guilty. At the same time, these programs have proven to be wildly successful in catching criminals,"
+    publishedDateTime: 2020-07-15T14:35:00Z
+    webUrl: "https://www.lewistownsentinel.com/opinion/2020/07/the-double-edged-sword-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: LewistownSentinel.com
+      domain: lewistownsentinel.com
+    quality: 19
 
 secured: "bzhlS1w3Jdld+B2uV4r+opwMXQOtTidt9GqQxRDz3MIxc3n6sQJ3dgOabLAtWFOHgAOYu3lL4oLauRt4caRcayeENlBEA3jT3SW15g6a46O1fgDXHW71KHym6VNlwivpd6vQ+hurr9WZriLs0+qfjoI5BD0lQIZ9wNZUC4yVwo/LsTiZ+FnQwPcA/U+N5RXSeVfRP8QlHYoWzgknvNl2u0e7pFUeliZE66M7ijAghnHDcksMDbYG0XRR6LVCUnz/fjQYjvbLFh3aQSeIfLyn09KkTXdw5cuAjJE33mQYx2kXpBkGRbTJ/NgBdYqiNDSsRJBN2kX2oIgJWnn9ruTWBSufd9OfK30U+QpYcARHStq5+VVYhOWpUWyBhZyFeQdk2Xkdth6I+AQOZ3IUoaHFy996oxeMUwt/r4HwSNYUVGgoXv/rmC2/wPUI3bTA3ITt9DQb0wY1BOPFKASymOP6IfOB5B5i0kfo72EDT1d5onWXd/n01ebcX4Z4hfh5BARz5PpGyototLYfB+ng4xPs2g==;BuTFcgu6glEROrbLaRlijQ=="
 ---
