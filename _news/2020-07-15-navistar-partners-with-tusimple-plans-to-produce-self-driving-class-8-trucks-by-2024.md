@@ -128,20 +128,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
-    excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
-    publishedDateTime: 2020-07-15T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265784213/tusimple-finds-a-partner-to-help-it-build-a-fleet-of-robot-semi-trucks"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1594772418028.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Navistar to Produce Self-Driving Trucks by 2024"
     excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."
     publishedDateTime: 2020-07-15T21:45:00Z

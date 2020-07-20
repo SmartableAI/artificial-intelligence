@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accen
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp"
 type: article
 quality: 61
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
       name: World Oil
       domain: worldoil.com
     quality: 13
+  - title: "Halliburton forms strategic deal with Microsoft, Accenture to advance digital functionalities"
+    excerpt: "Halliburton, Microsoft and Accenture entered into a five-year strategic agreement to advance Halliburton’s digital functionalities in Microsoft Azure. Under the agreement ... the Halliburton Data Lake using machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-07-20T07:49:00Z
+    webUrl: "https://www.telecompaper.com/news/halliburton-forms-strategic-deal-with-microsoft-accenture-to-advance-digital-functionalities--1347073"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "MOz1VpASpxQ68eMntK2szJInxucWxipe9Tuw8+cpkHjRrFm3AnKgJix1ET//hW/EWZExL90pdesV2hGnEEvXd73FNVypi1b1sPUCIQhacEdCh3VKyEOdgZJ1YuT6rJMpGLe89CzO6dqZ1DEYmrp83P8dBom3QTi+T7ZpvK/REXCta5BHfFsZOQiUS7zRoqNy5/faZabmUjG86h08thFpj4aVQli3QmkKa/zWNj1rhFpFLvK3JyL6ONp8NJh/+vtZ1n7a7K/J+4hK/NOlyUVbdqH2hJf+sH6W1+nuutLx6/68XrnvmoyINS4D08Y32ZxhrJ+eQuq9paN4XazdBly7aq3LofvRN/5ERks2aVFOQoSD+rX+qyCIVAHJVtiaMJBVYNALaECTyIvGSIUSi0wHvE9X8WIfSiW5IbjvLgMeDH/6vbvb9Ym0ymHEjrUCRXeb2B2UgSNSGYiLvrr/rWa/qM6m1rMmjIpqqCGp0Keiymw71tUdVVvwpgUjUXx+ILq0;qhrDmU/+HJrjs5bwbTHzhA=="
 ---

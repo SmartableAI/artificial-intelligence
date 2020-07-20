@@ -99,20 +99,6 @@ related:
         width: 1024
         height: 711
         isCached: true
-  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
-    excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
-    publishedDateTime: 2020-07-15T14:56:00Z
-    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 39
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "v6/Sw2iqu9MQRJfapjSk3587xwllcG/Jk3AwwpV9LBVDBABa9dB5ujyliLjOWQZxb+TuUVSvsEhASJ5QlCO2b/MF730BMI61dclPPEFHnInIUjuAvsIrmUblfJKYEnZWGBAV5VcKKr+jIpdHQClu/m9r1+XtaXU05AUQqFH7Z5s9Cqigk+p5rTEboGv8ZyhJfKYXqJb1VuM5OjYJKoLtMiRK4MGEPhcVKxZSPAfdMOetrQAwOISbypMZBBr2cgHorzmMYoHGmqlyKGW0QKT7iwKAmajyaH6ORGockxQSV0ZaBK6ZBd7M85iagXix2H6cz86hquw3p/Ed8zWMQpbCVg==;VPdxVjuSImejBFNs1y2veg=="
 ---

@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 656
         isCached: true
-  - title: "Announcing nominees for the second annual Women in AI Awards"
-    excerpt: "Winners will be announced on Friday, July 17 beginning at 3:55 pm. Awards will be made in 5 categories from Responsibility & Ethics of AI to AI Mentorship."
-    publishedDateTime: 2020-07-15T14:17:00Z
-    webUrl: "https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/"
-    ampWebUrl: "https://venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-nominees-for-the-second-annual-women-in-ai-awards/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/07/2VB_8679-1.jpg?fit=800%2C401&strip=all"
-        width: 800
-        height: 401
-        isCached: true
 
 secured: "yMEU2YGxEeI39O1p0MEnfaPfaBsSuFEGh82E4d0JjM7PpG5cWIPyrjSToFEjrsjDfW72AlvdKy/c13xPl42wDnx3ukex9z8kcCV4wT2H8KHb5SNrowCwL7WiXiwku2ugELlvcCxWTu0/EwdL3ppztTMgie9a2YKXfBO0kxMfwn6Y6YJ7npURDR8ZeLaq3dXjJ7rUkCfqhjEbU5XYFtH+h7S+Ts5cdcuW4FXs8sugHf0zTZJ+ZgcG2GMt3XaCyPENL6MRoCCi8NP+wRP8235iqn0F9IqwmP3gvU0sTqUsEK0Jrm6GmVisiYnWROSEAGX93Ivm90hGmUNjgLimJ2mAbRE0i8a8Ikgkk3T/Ly96q6/2dj8fkPk3eOaV4X173vvrF0Vz0eiRcYOlCgc4ZRFB1cieFizMwGiyP0YWmNbawjTE9ji+E9aSQ/p+ZkB27gE4+BNWO37HM4a2lLsz0ng0kRTAGAgdVk55jlCdE6LeT2ECG145bIc2fZIyNqga+/XmWEQdON1aXxjGJZUs8MukXg==;qMFdAHWBCsi3TkzgltCEVQ=="
 ---

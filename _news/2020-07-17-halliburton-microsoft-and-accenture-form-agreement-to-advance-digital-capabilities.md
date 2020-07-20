@@ -112,6 +112,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Halliburton forms strategic deal with Microsoft, Accenture to advance digital functionalities"
+    excerpt: "Halliburton, Microsoft and Accenture entered into a five-year strategic agreement to advance Halliburton’s digital functionalities in Microsoft Azure. Under the agreement ... the Halliburton Data Lake using machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-07-20T07:49:00Z
+    webUrl: "https://www.telecompaper.com/news/halliburton-forms-strategic-deal-with-microsoft-accenture-to-advance-digital-functionalities--1347073"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "L/duawHv73n+pBOCcaVsFS1GrMQCiWwlckzZVDTW/Hg2vaoqc7SVWCAzaIlYmQ4d8zIeiqslpTQo2TDDbsa5XVqTdG9FD6myJVxWs4lD9HK+GzyecVyndY/s6qryOqFw6hFg69X8Qt1GGqezEWOrREBwDmhwP7QaMbrdHtHbXfViSKyeBIf0uN8AzGkVL/wFmYxkfB4HXxcEaK1yoI/JwnZcVcGEIlZ9y+j+hjPqZ2FQWrpevoL18p8PUARcCxSDo8zP7yiwShrTtTfaMgqMhDWCprd4Y+JNlWm+k9q42K7VQ2aD2BFLLJl/Uh9VxSiiO0iU99Mxg41mpOa0qUscig==;h7pKQhs0I6w5ZN86vdABrQ=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
+    excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
+    publishedDateTime: 2020-07-20T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2092901/artificial-intelligence-software-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+    images:
+      - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "DBHpv/Stz0bBPq06OWixtu241IWLN0TVM1I5jzsiyaQNIdInhh2Y1JnlEEoj+pOh9iUD4t57yPaYQI0jXgwgMkapJoB4aIHlVcrrXm+yx6x5dR8IWXizvgtK/XKX3wz5NN11Opl4FGkC9AChyx1vKsvbJ85muZNQRN8t7yj90pYq1sAxpDnPENBumH7yQKNWbRlA5VROoQZ7E3eQzOUvhVtkoj6jliCWRM+l/qgVkQENEN1u8qUxnV596Wdju/M6iz7iG3cwOxnbdr3Oyqym1Eaar0lYrx/zF7f26BSkW62wqrqDzxBcFbts4buozfWsXiFcPqtn4Pg0IZrpbWvbNA==;zepf1nllQTL9WHRocgWKEw=="
 ---

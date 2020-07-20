@@ -126,6 +126,22 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "NEC Corp. and Infrared Cameras Inc. to deploy thermal temperature screening and facial recognition technology at Hawaii's airports"
+    excerpt: "NEC Corporation, NEC Corporation of America and their partner, Infrared Cameras Inc., were selected by the Hawaii Department of Transportation (HDOT) to provide thermal temperature screening"
+    publishedDateTime: 2020-07-20T06:08:00Z
+    webUrl: "https://www.sourcesecurity.com/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 44
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/920/nec-corp-to-provide-hawaii-s-airports-with-passenger-screening-technology-920x533.jpg"
+        width: 920
+        height: 533
+        isCached: true
   - title: "UMass professor calls for creation of federal office to regulate controversial facial recognition technology"
     excerpt: "Miller wants an agency, structured like the FDA, to be tasked with regulating the use of facial recognition technology."
     publishedDateTime: 2020-07-16T10:36:00Z
@@ -195,15 +211,6 @@ related:
         width: 1440
         height: 720
         isCached: true
-  - title: "The double-edged sword of facial recognition technology"
-    excerpt: "Facial recognition programs are notoriously error-prone, often misidentifying an innocent person as potentially guilty. At the same time, these programs have proven to be wildly successful in catching criminals,"
-    publishedDateTime: 2020-07-15T14:35:00Z
-    webUrl: "https://www.lewistownsentinel.com/opinion/2020/07/the-double-edged-sword-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: LewistownSentinel.com
-      domain: lewistownsentinel.com
-    quality: 19
 
 secured: "IuXrRo8zct+RuOjWq9YuI8qeR2VdPasc/f/yMsbWrckewhlI6TosNVy8HcXEhIWLNYa0jMNtgRp6Wm37MpMrUCHYwyriJI1jULlykughNBJCIfYfCaRkSxA2YIH/sl+SSV6VrpZxjZdY8/1lQQw3Rfk9ArlpDiMev69nysUG1Yxhpiz7/0BEyFfQYY1BvCbtz+VzuddcI7dNBL5pPXg70Vs/jdU67QEh4tfqDa6qIepmc5isFsNd8y7sq/vtl1xQsLryVdrzW4WQq1mjhGqDarYOdmAQ1ZHxSb67d3QkahnpraO2Vzqo4vkBinQm872EA6dv+7VJ32NlAaRA9T1MNb8DQmQz+2drAjz0TAooNuQyuCfaAsmvM/v+24nqyqtpWbcQbUoOJMqaMSm+liOsvFoqxbA5kvTrZlI2Bo84JQZEGf+k+98/YLlm2XUcNvssc10ahKGjkikK5MF+TrYdM7bS8sXEwGN0epmOpZOmq30VqVMZh/QlTASv5xg8FdpvR4zAOnG46SA05U0nI2qaFA==;EHL2fiLEaaNh2+5zqMBHuA=="
 ---

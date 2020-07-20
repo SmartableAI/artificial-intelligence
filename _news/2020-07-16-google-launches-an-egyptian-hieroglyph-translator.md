@@ -58,6 +58,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs"
+    excerpt: "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ..."
+    publishedDateTime: 2020-07-20T07:12:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 59
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/07/75c5eeba-ancient-egyptian-gods-and-heiroglyphs.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Fabricius: this new Google AI tool helps you decode and write in hieroglyphs"
     excerpt: "This means that Fabricius won't work as quickly as say, Google Translate, which works on modern-day languages. Before the Rosetta Stone was discovered in 1799, there was no making sense of the Egyptian hieroglyphs. Google Arts and Culture Instead ..."
     publishedDateTime: 2020-07-15T15:34:00Z

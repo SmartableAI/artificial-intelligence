@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T11:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -55,6 +55,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
+    excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
+    publishedDateTime: 2020-07-20T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2092901/artificial-intelligence-software-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 42
+    images:
+      - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "IY86Uvqpy/BSgyLdUI1e2DhmQlPhSJIx4UFEm4jose347HAsVS/3FF7bzKR8oLpItKpUdipVM584D9n21WIgiWqWEp/RPhDjHl95+wFxpdsiaM7vI6ctqBlCZhH4e5IeASA/Q34hPL4S66tWRaD1jEED0yaaUWz2WfflcFO8TiKrzFRV5CJQKEP78ytilRV2M4RcPPE0szxKT1fzhnYzSmYKB+NrS/xGnAWxqOvo7wVhyVOMTYI58eR+V8HslTvWRczf8h/o9wQh2+W7wLyBiMIJSH/kAr9JR8xAfPkZYVx1YKbwLoFqfYIc9JcpTeSMgbUg5VJZr3lxrZH89NdHQw==;lrH5byiJepseSL4BI5+pxg=="

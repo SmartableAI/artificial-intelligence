@@ -113,6 +113,15 @@ related:
       name: World Oil
       domain: worldoil.com
     quality: 13
+  - title: "Halliburton forms strategic deal with Microsoft, Accenture to advance digital functionalities"
+    excerpt: "Halliburton, Microsoft and Accenture entered into a five-year strategic agreement to advance Halliburton’s digital functionalities in Microsoft Azure. Under the agreement ... the Halliburton Data Lake using machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-07-20T07:49:00Z
+    webUrl: "https://www.telecompaper.com/news/halliburton-forms-strategic-deal-with-microsoft-accenture-to-advance-digital-functionalities--1347073"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 8
 
 secured: "pPBR2h41WNwvqD8xNrS1sX5D7bhAy0RQwxIjzc0W2f5lyomojxWzFIF24Y1kajwF9CwYPwC8//OIpj6E1LvMyzfCmc+/FkYIObREi0Pc1iSnq3nTgNkvnVy8YlUh08hWmznzxdioMRxDhazGxlKtEnPugArCCNmvkkFHCxWqiSA9SVznaMG8i9Exzfz8b5A+vuapJoIHfEBOt6VLcChUwRE7c39bEgVlna0ZakIHx/myaI5ZKLMSxy+cyAwKAREaMUnj7yipzl01foK/PmQHFt5gvHLSR4V14giv58/9kP3ty64xclMNGL9EnwetV3/BXuxXhRh3XstK6mEYJQDBpg==;ulyZHd7DC3bSexgO+vA4bQ=="
 ---

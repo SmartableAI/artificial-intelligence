@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/07/15/graphcore-second-generation-chip/a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/graphcore-second-generation-chip/amp/"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: TechCrunch
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Graphcore Returns With Another Colossus AI Chip And System"
-    excerpt: "The competition to build the most advanced Artificial Intelligence (AI) processor is turning into a race to build some of largest and most advanced semiconductor chips ever made and new server platforms to take advantage of these mega chips. One of the ..."
-    publishedDateTime: 2020-07-15T13:25:00Z
-    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/"
-    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0eff06cbf8d20007293cbd%2F0x0.jpg"
-        width: 1141
-        height: 475
-        isCached: true
 
 secured: "X3di1mTmWfV2/2NkY9Q+E817M1D6H5OrVdcGqkXn4tvLsSbEUwC8mzwWBMQDZvyQ0SSYH7USyTJo7JmWbZuvCfWc60A2YPJNvxkhRWyPLnJOIT72U6tRGqikexgbW8QyEWM0JAfCeWagsYn4btypSxs9A2MR3goWLbEzEY7C7JpTp1D8Igb4boskorsz5oxiyU+Go9uLDU/Xmuch1tOs2pvu05t1NGfzjIwK1Gc+0GSc1GjMtbTvNM2xnxUjdbygq2PBQk0+1WwMd7M9zA/V6PC0bRBopISazSoLRYtUpzpa++wfzF5j+/DYnYOu81D1xK2WYu2MB+Q+Erpx/EeyTkFkIv00ldWrHMtyYf1Zxt+HFk3PnpqiuCR57ME0BmEjShjnyXhCOeIxVa7tIgqoAKsU9O7bB9j1y8PvAe2aj7u1lrYr1JE4PHJ1+u2klApz1bBA6FmLsqyxHTGYky1y0UKLDV0V0Tfx6SX1iE9yxx3UCo/1X4J8ZV3D/EzFpWfZ;EFxPJBOEGPW0cYSURVBV9w=="
 ---

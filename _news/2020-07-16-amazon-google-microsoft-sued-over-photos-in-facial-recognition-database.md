@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sue
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
 type: article
 quality: 88
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://lawstreetmedia.com/wp-content/uploads/2019/11/microsoft-1024x711.jpg"
         width: 1024
         height: 711
-        isCached: true
-  - title: "Tech Giants Sued Over Photos in Facial Recognition Database"
-    excerpt: "Google, Amazon, and Microsoft are facing lawsuits filed by two Illinois residents on allegations of violating a state law governing biometric privacy."
-    publishedDateTime: 2020-07-15T14:56:00Z
-    webUrl: "https://www.cfo.com/artificial-intelligence/2020/07/tech-giants-sued-over-photos-in-facial-recognition-database/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 39
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/07/GettyImages-1205539001-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
     excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."

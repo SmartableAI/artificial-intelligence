@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-19T16:30:00Z
 webUrl: "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese autonomous driving start-up AutoX wins driverless car permit for tests in California"
+    excerpt: "AutoX is the third company to win such a driverless permit from the California DMV, after Google-backed Waymo and California-based Nuro."
+    publishedDateTime: 2020-07-20T06:31:00Z
+    webUrl: "https://www.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit"
+    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/7737d176-ca52-11ea-9c1b-809cdd34beb3_image_hires_143152.jpg?itok=MeUHKAnS&v=1595226717"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "California allows China's AutoX to test driverless cars"
     excerpt: "California has given Chinese autonomous driving company AutoX a permit to test driverless vehicle on surface roads in the city of San Jose, according to the California Department of Motor Vehicles (DMV)."
     publishedDateTime: 2020-07-19T09:38:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252486285/Unesco-launches-global
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics?amp=1"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "UNESCO launches global consultation for draft ‘ethics of AI’ guidelines"
-    excerpt: "To help build a draft resolution on how AI can be developed and deployed, UNESCO is seeking global policymakers and AI experts."
-    publishedDateTime: 2020-07-15T14:46:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/unesco-draft-ethics-ai-guidelines"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/07/AdobeStock_321918445_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "UNESCO launches worldwide online public consultation on the ethics of artificial intelligence"
     excerpt: "UNESCO is launching a global online consultation on the ethics of artificial intelligence, to give everyone around the world the opportunity to participate in the work of its"
     publishedDateTime: 2020-07-16T02:37:00Z

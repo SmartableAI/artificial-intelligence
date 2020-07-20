@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/"
 type: article
 quality: 174
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/fc/8fc8f6e1-5e5d-506c-af41-f001d0fece92/5f0f910a97019.image.jpg?crop=1762%2C991%2C0%2C92&resize=1024%2C576&order=crop%2Cresize"
         width: 1024
         height: 576
-        isCached: true
-  - title: "TuSimple finds a partner to help it build a fleet of robot semi trucks"
-    excerpt: "US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal,"
-    publishedDateTime: 2020-07-15T13:20:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265784213/tusimple-finds-a-partner-to-help-it-build-a-fleet-of-robot-semi-trucks"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1594772418028.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
     excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
