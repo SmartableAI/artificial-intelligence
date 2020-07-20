@@ -2,6 +2,56 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-15-fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker.md",
+      "title": "Fine-tuning a PyTorch BERT model and deploying it with Amazon Elastic Inference on Amazon SageMaker",
+      "excerpt": "Text classification is a technique for putting text into different categories, and has a wide range of applications: email providers use text classification to detect spam emails, marketing agencies use it for sentiment analysis of customer reviews, and discussion forum moderators use it to detect inappropriate",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T08:34:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-google-launches-hieroglyphics-translator-powered-by-ai.md",
       "title": "Google launches hieroglyphics translator powered by AI",
       "excerpt": "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs.",
@@ -631,6 +681,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
+      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
+      "excerpt": "Alithya Group inc., a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals offering enterprise solutions across Canada, the United States, and Europe, is proud to announce the launch of its AI-FI™ Trade Surveillance solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-drifts-latinx-founders-beat-long-odds-to-build-360-million-ai-powered-sales-startup.md",
       "title": "Drift’s Latinx Founders Beat Long Odds To Build $360 Million AI-Powered Sales Startup",
       "excerpt": "Three companies and 12 years later, Cancel and Torres are the founders of Drift, an AI-powered sales software startup that features on Forbes’ second annual AI 50 list of the most promising U.S.-based startups, one of nine companies building productivity ...",
@@ -728,47 +810,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
-      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
-      "excerpt": "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T04:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -879,7 +920,7 @@
       "webUrl": "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1149,56 +1190,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-could-graphcores-second-chip-challenge-nvidia.md",
-      "title": "Could Graphcore’s Second Chip Challenge NVIDIA?",
-      "excerpt": "Today it introduced its second-generation product for AI, a massively parallel chip with 59.4 billion transistors that delivers some 250 Trillion Operations per Second (TOPS). However, the company’s potential to challenge NVIDIA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e8c05c604cd0007da11ee%2F0x0.jpg",
-          "width": 974,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
-      "publishedDateTime": "2020-07-15T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

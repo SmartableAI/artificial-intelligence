@@ -42,20 +42,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Partner Insight: Fintech comes of age: A new era for leveraging technology and disrupting financial services"
-    excerpt: "Investment Week provides the latest investment news, analysis and opinion for wealth managers and the UK funds industry"
-    publishedDateTime: 2020-07-15T06:23:00Z
-    webUrl: "https://www.investmentweek.co.uk/sponsored/4017727/partner-insight-fintech-comes-age-era-leveraging-technology-disrupting-financial-services"
-    type: article
-    provider:
-      name: Investment Week
-      domain: investmentweek.co.uk
-    quality: 5
-    images:
-      - url: "https://www.investmentweek.co.uk/api/v1/wps/20f79f8/5d89f2e3-8acd-4dfd-bf83-e5af22bbbaa9/4/Bruce-370x229.jpg"
-        width: 370
-        height: 229
-        isCached: true
 
 secured: "Teh0Hyu5v34KisPwjI1Vt/oRPacXlHJiGJbYgmdTR70NKi7SZlSxzKVKi7dMTyDWgz5A694zDYGkm/9Gko+SnEouJMTgPeNvoZ3g7w16bCOBrIJY5J67I0HqlOf/p49gNBojNBvR8D6LN+rCx64EaU90/MKNtUIJA9TlvuMgT93fQ/QRgCI8RpRmILETETBKdoOz+FOAVgtHnQR7m0vg4Qa1MM1CO/2lZFM+7RpKE94GAA4j9CVW7RifhJbHTOkl0lAWPy3O6+rSjSedZNk7g4IV+mzDDmR9QYBxO4QZp1TItCYF05HellxfkxzxxYiTiwREVuSBIdDIWF8PjAnF4cL9ORhhCCDG5y7A2comDFqzVSGrWHRYK7H5s9pk7o5JCz8/EjrF9EcQ9L41460L/t0ZoGXcHkevs3+woen4Gp+h48UMF/sBiMW/wAKWY+SspR8u52pZ4/aiEozMGWpKjJ7z6IBbrZf3iSOdOXckpXe8+VHVJgoXbSy/ah2duzrxQgZJOZhFmBmyM2MEg7RMxg==;53TBam4PkCJtqaoJQabyHw=="
 ---

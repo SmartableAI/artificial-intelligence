@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/</loc>
+    <lastmod>2020-07-19T15:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/</loc>
     <lastmod>2020-07-19T11:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -679,6 +685,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020</loc>
+    <lastmod>2020-07-15T05:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/</loc>
     <lastmod>2020-07-15T04:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -687,12 +699,6 @@
   <url>
     <loc>https://www.businessinsider.com/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7</loc>
     <lastmod>2020-07-15T04:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html</loc>
-    <lastmod>2020-07-15T04:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -781,6 +787,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla</loc>
+    <lastmod>2020-07-14T21:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/</loc>
     <lastmod>2020-07-14T20:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -823,7 +835,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -907,12 +919,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html</loc>
-    <lastmod>2020-07-14T06:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech</loc>
     <lastmod>2020-07-14T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -925,6 +931,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html</loc>
+    <lastmod>2020-07-14T06:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/</loc>
     <lastmod>2020-07-14T06:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -933,6 +945,12 @@
   <url>
     <loc>https://www.itpro.co.uk/data-insights/sql/356444/bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui</loc>
     <lastmod>2020-07-14T05:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/worldwide-natural-language-processing-industry-to-2024---strategic-growth-opportunities/article_af5acba5-e8e0-5c44-b513-da898e6db4b4.html</loc>
+    <lastmod>2020-07-14T05:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1131,6 +1149,12 @@
   <url>
     <loc>https://www.openpr.com/news/2089130/artificial-intelligence-ai-in-retail-market-overview</loc>
     <lastmod>2020-07-13T06:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/global-statistical-natural-language-processing-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2025-2020-07-13?mod=mw_quote_news&amp;tesla=y</loc>
+    <lastmod>2020-07-13T06:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1363,6 +1387,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation-2020-07-10?mod=mw_quote_news</loc>
+    <lastmod>2020-07-10T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7</loc>
     <lastmod>2020-07-10T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1471,7 +1501,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10?tesla=y</loc>
     <lastmod>2020-07-09T18:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1683,6 +1713,12 @@
   <url>
     <loc>https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/</loc>
     <lastmod>2020-07-09T06:08:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://asianage.com/technology/in-other-news/090720/dissent-suppression-apart-uae-using-its-extensive-surveillance-network-in-bid-to-curb-coronavirus.html</loc>
+    <lastmod>2020-07-09T05:52:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3403,12 +3439,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company-9023868</loc>
-    <lastmod>2020-06-30T07:29:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.bbc.com/news/53236921</loc>
     <lastmod>2020-06-30T06:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3555,6 +3585,12 @@
   <url>
     <loc>https://futurism.com/learn-big-data-and-machine-learning-skills-right-at-home-with-this-training</loc>
     <lastmod>2020-06-29T17:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
+    <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

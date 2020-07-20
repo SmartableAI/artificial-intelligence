@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-p
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 769
     isCached: true
-
-related:
-  - title: "IDC: Market size of China's AI cloud service reaches $166m in 2019"
-    excerpt: "The market size of China's artificial intelligence cloud service recorded $166 million in 2019, according to the latest AI cloud service report by the global market consultancy IDC on Tuesday. As per the report,"
-    publishedDateTime: 2020-07-15T06:01:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202007/15/WS5f0e9ba3a3108348172599d2.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202007/15/5f0e9ea5a3108348fcdd7879.jpeg"
-        width: 684
-        height: 456
-        isCached: true
 
 secured: "Ctjr4GwFU5BfkUlUyWFwAPM0mpx8yG2m0foKwEQSpYIOXQCdAyFZT8CzzL4HFFQAv9S/M/eP3tG5qIwLFpTHDo8zcF79Y8/xs6halVv754wLN7qzRWas/0UpeTMrPVEZEdc1dV+kQ6AU84oXf79o2N4ezva/Z7IOFdU+ii/mlttn1oKM3IgH+bC284yXAaEtcHWHwtUdpMH9ObxDgMtFeyLV5LpFAVOeuEJHoBLgPCAflLFvnNTZurM9lDMC3xpDMZZUIy+IRJeNmXcoGm3/oYBiDVikOpyQX9YCFNUhQjEsVBZCYJ5JSbjI7sCD9S0E41iCVBLcScQ+iEmsaBcRXt6fZYU/RfWD3Sxq8hJerTZZige0CEiyaNwiLoF/RHZN4Tlk71NVPQVDjb1yeS7JeQuEs+GRNBo6lNb5OH0RlObF8db2SqYSVCnyndQBuwKUbdo2/2rr1/qJGufIX9jeRltyqeBm9cicUbUnyccLzHRuOHoIwm0MgtXOD68Lc6+D;XE2F+UBIRva3VdxoAYDGBA=="
 ---

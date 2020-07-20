@@ -1,28 +1,28 @@
 ---
 category: news
 title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
-excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies have become increasingly important. IBM is a proven leader ..."
-publishedDateTime: 2020-07-17T21:09:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-852806406.html"
+excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
+publishedDateTime: 2020-07-17T21:12:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
     width: 600
     height: 315
     isCached: true
 
-secured: "+YWVZDqWu5IIkz4uKPzCBMJ7NT5bd0J7EkHxxZL8EtK3gjNvA1EO04arXUg0medKsH+cVPZvlCU9YsEzEy9RcoqzBkuicqKLQaNI2WEVBLuLcaNo96bFwCL7QftfXzCxmb3051b9Vs1ooX3e9rVU7q9EXn9MG2rBIdkgs92wWIo77m7wvt9c2Vyl9UHVxAECGZ3YHOH/GMcJgTYdJHRW468FiWUGRI1JzxZvmqFv6SnewvkITgBkIg1F5YH+6bsaFwT1uf2eyGtP8EevWOWl8bOxgrnmELUwMSMQAGtNPvV01Z14jUI5X2Szz1c0d29Y7HMCFs31pu7HixA5wfVyag==;OXDfK7klcLdh0XCUl/CBtw=="
+secured: "Og9R7WZ5HV6lN6IzXEc44b28hSZz+kF8OUCFaWLnpgN5o6/IQ7zNxY9L9lpIii+GTi4fy469cS0kwhbcK1YoRnWLgSYSCVIhQ5wCkZ8n2QKQMmYuJcZV4UfTRY7gJbLVGWWp5/GaAGTDiVcC/E8LUWyoY5q7rKtfJghJ2nR14MkuLG455WIRwq08pX69FPusVQLg9EyuST+Kn9MpcJZOAt4Kqfi/AoJU3LQgOMn4EWQt1Djb9+2Ejz/nc8zI7uI5FMzkVOrKEms2uvIQvPGvYl7IrvsxUwI9WAGGQn+L5VrT20rnQy8EX/UuwMekbQ0NtYFEflsukfrd3QDi7KUy3g==;EtJTMKiGHvRkjC6hX9s6Mw=="
 ---
 

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure"
-excerpt: "PRNewswire/ - Alithya Group inc. (TSX: ALYA) (NASDAQ: ALYA) (« Alithya »), a leader in digital strategy and technologies employing more than 2,000"
-publishedDateTime: 2020-07-15T11:39:00Z
-webUrl: "https://www.prnewswire.com/news-releases/alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure-301093861.html"
+excerpt: "Alithya Group inc., a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals offering enterprise solutions across Canada, the United States, and Europe, is proud to announce the launch of its AI-FI™ Trade Surveillance solution,"
+publishedDateTime: 2020-07-15T12:39:00Z
+webUrl: "https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020"
 type: article
-quality: 65
-heat: 75
+quality: 75
+heat: 105
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1214660/Alithya_Alithya_Launches_AI_FI__Trade_Surveillance_Solution_Powe.mp4?p=medium"
-    width: 512
-    height: 288
-    isCached: true
 
 related:
   - title: "Alithya Launches AI-FI(TM) Trade Surveillance Solution Powered by Microsoft Azure"
@@ -38,7 +32,27 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Qlik Launches Global Program to Accelerate Analytics using SAP Data on Microsoft Azure Synapse"
+    excerpt: "Qlik ® today launched a joint global strategic program to accelerate analysis of SAP data by combining the automated data delivery capabilities of Qlik Data Integration with the agility and openness of the Microsoft Azure platform."
+    publishedDateTime: 2020-07-17T01:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/qlik-launches-global-program-to-accelerate-analytics-using-sap-data-on-microsoft-azure-synapse-1029403000"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "Qlik Launches Global Program to Accelerate Analytics using SAP Data on Microsoft Azure Synapse"
+    excerpt: "Qlik ® today launched a joint global strategic program to accelerate analysis of SAP data by combining the automated data delivery capabilities of Qlik Data Integration with the agility and openness of the Microsoft Azure platform."
+    publishedDateTime: 2020-07-16T17:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16656829/qlik-launches-global-program-to-accelerate-analytics-using-sap-data-on-microsoft-azure-synapse"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16656829"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16656829"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
 
-secured: "quZtTROtcEm6aZoS/TaxrT3SGWatnVxngElUCu9VaM6+GyQSiC0zyTtLgWCmlSl4eZHnkOg5wBH2z28f8r+kAnXbbNHbjxybr8q2LBuGY8xTcQrd0uRUchmf+5JiZE3CYEMXyRPx2m9/MigJEX8nDQKARZ0fwiNa4vv58sF9twuOjfFk68U4ILkfaGblwRb/TI8Fg+8f13IeijuvXdsuLoZai1SM5eT3vrXbLu5j6y1XEBkEkGf5g0RfGDcGRgCI7cZrQ1+Gvczowh5uPecSXwzRQD0LXxWJOhBslSny8pqQZWgzrVPBzM+eWOg5fRvqU/+morXbQG9ZXWNkr7Icyg==;UhqPBwQB1CphnUo2hMgG1Q=="
+secured: "tCavl59Qxi7dFflKzeHXNfxAdBAh2hUl+8FFM/B5jOSE/u/6rW+AxRUh34Hv6e+jZhWLCCzDY6qMBZzEn3CSVNQIZN/zAMP6kAmXCTrHtKgAp2THfpKIqkUOOzK6OgC04N10vIDHW6CZUURJeq7dhtT1iYpT8DR0p0FzpqP1AdjBqBW1WbGqCOEolpBuFGZdXujSFy/baKWMn61nEwsr8irCeYbzxygSmsYWV9Y1IP0wHIORk7nUlvHMJPmcMS4DrbsPKbmnPowMnA+X10fY7417cEo6BGJUUGRUFmHSK0mQ0DwDBoIimQna1E6E+IDqaA+yZtcCnu8bDWMRfoHYgA==;csEUGaRmjx+OGebn7jrn0Q=="
 ---
 

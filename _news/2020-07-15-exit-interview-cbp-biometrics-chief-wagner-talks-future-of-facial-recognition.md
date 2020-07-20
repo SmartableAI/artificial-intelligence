@@ -53,6 +53,20 @@ related:
         width: 802
         height: 600
         isCached: true
+  - title: "Biometrics expert discusses facial recognition regulation as Massachusetts’ proposed ban moves forward"
+    excerpt: "A bill has been passed by the State Senate of Massachusetts which could block biometric facial recognition from use by police in the state until the end of 2021, the Wall Street Journal reports."
+    publishedDateTime: 2020-07-16T17:07:00Z
+    webUrl: "https://www.biometricupdate.com/202007/biometrics-expert-discusses-facial-recognition-regulation-as-massachusetts-proposed-ban-moves-forward"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "IDEMIA Wins the Security Industry Association (SIA) Award for the Best New Biometric Product for Its VisionPass Advanced Facial Recognition Device"
     excerpt: "IDEMIA, the global leader in Augmented Identity, today announces that VisionPass, its newly launched advanced facial recognition device, won the SIA N"
     publishedDateTime: 2020-07-15T07:24:00Z

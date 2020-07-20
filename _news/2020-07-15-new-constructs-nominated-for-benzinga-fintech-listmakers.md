@@ -1,28 +1,28 @@
 ---
 category: news
 title: "New Constructs Nominated for Benzinga Fintech Listmakers"
-excerpt: "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been"
-publishedDateTime: 2020-07-15T11:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/new-constructs-nominated-for-benzinga-fintech-listmakers-301093598.html"
+excerpt: "The Benzinga Fintech Listmakers is a compilation of companies within various fintech categories that are working to revolutionize the industry. The voting process will close on Oct. 20. Vote for New Constructs at this link."
+publishedDateTime: 2020-07-15T11:25:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-constructs-nominated-for-benzinga-fintech-listmakers-1029396377"
 type: article
-quality: 24
-heat: 24
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1214734/New_Constructs_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "f8ueOo6gPuLHoL/KUci1pePO7cIIwh6ezE42W3ocGYrsoaYZlTCIcp/4d/Pz6UVG8jqFETzFl7b2RFNxPQM3ceLMv8e8rfs0EdePxxT0vW26iK34RSW16PfgucuhmIYi0uFZskdZcicJnLCx/RawP7qNi6k1UQH1YtTNSY8FGxV0h1bNdMNgP3uI3vuWoe9RKiJAxAoUOKWRJEG0DMLmtAX+MrCYN4H1lUxmdeGkvZximaxV8A6m+GYyFrALbM8piP8ZvI/ejA0nCwFkfZPtEdzzMSslCQVU12JuBzZ4vcYvCPJRjws/ZkoEdFmDFFgxMhMnPcFpHDN7gd1RnATD1LA++D6bngPQnH+MWLGcZl0dO+PVd0Xs3YGFK6Uz4jy3Mx/MF6QKbYwVohHdK642NTKSzYqGGHplRgdW8pzTaFIQ3CqwwL7WIc2CF5E0+EPRvxqeUFamKNNqCih7hIOlP4Gy3p1liZHpEwEawJ3Vtc9KhuUKeXVFUCceM4OHjgXVxWsvRFyygHk0HGeK2POGkw==;oDJ9Hpt61lVORVgrfDs2bw=="
+secured: "0bbqIPwwsJ6jnVR/MlDIJZoq43gwmu9Wx6DEoBBdrn4SyblzO1irGivKS+g9cf+1GVbQYG9sQlNzDO5gtl+hTFld0YvBxpFbU+Z/MIkX8NyOHuqP1IcvR4iTeMwWwn2tv1fm3CkhxJQSmnCrehhAwF3uWTPQbx82Uxg/8gFHWoZYsvOJ6qkEs6a+orHcsjItOHWwntiadNprFdT+O4lSJtK12GQSSAnjQvlCQ10TtLUHmM8kZx+XfxjZ3Hw+Xmq55gmcYikgqzAn/un7uo8XhaNdMCXl0IizQSarQlHn4SyqNiKq2sufz5oxF2XtBrZpKDG6Z0ziP8fIuXHUheHNgQ==;xcbiYZm8aewtgUZdQ55RgA=="
 ---
 

@@ -2,6 +2,297 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-25-gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr.md",
+      "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
+      "excerpt": "The global GPU Market size is expected to reach USD 103.60 billion by 2026, at a significant growth rate of 30 % during the forecasted period from 2020 to 2026. The market report provides an analysis of the global GPU Market for the period 2015-2026,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-to-reach-10360-bn-globally-by-2026-at-30-cagr-2020-06-25",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "GPU Market to Reach $103.60 Bn, Globally by 2026 at 30% CAGR",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ai-is-now-a-c-suite-imperative.md",
+      "title": "AI is now a C-suite imperative",
+      "excerpt": "Machines can work at infinitely higher speed and the pressure on the C-suite has never been higher. Now the execs are turning to AI to help them make the best decisions in as short a time as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/priority_high_priorities_importance_important_urgent_thinkstock_680720450-100749329-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI is now a C-suite imperative",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3563885/ai-is-now-a-c-suite-imperative.amp.html",
+      "publishedDateTime": "2020-06-25T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-startup-genome-80-regions-have-produced-unicorns-as-tech-democratizes.md",
+      "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
+      "excerpt": "Startup Genome warned of a “mass extinction event” coming because of the pandemic. VB Transform 2020 Online - July 15-17. Join leading AI executives: Register for the free livestream.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/sg.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": "Startup Genome: 80 regions have produced unicorns as tech democratizes",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/startup-genome-80-regions-have-produced-unicorns-with-the-democratization-of-tech-ecosystems/amp/",
+      "publishedDateTime": "2020-06-25T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-circadia-gets-fda-nod-for-ai-powered-respiratory-monitor.md",
+      "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
+      "excerpt": "Startup Circadia Technologies has received FDA approval for a bedside device that remotely monitors breathing using artificial intelligence and that has been shown to help detect Covid-19 symptoms such as breathlessness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-202428/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Circadia Gets FDA Nod for AI-Powered Respiratory Monitor",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/circadia-gets-fda-nod-for-ai-powered-respiratory-monitor-11593077402",
+      "publishedDateTime": "2020-06-25T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
+      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "publishedDateTime": "2020-06-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
+      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
+      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
+          "width": 715,
+          "height": 398,
+          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-aws-upgrades-sagemaker-labeling-tool.md",
       "title": "AWS Upgrades SageMaker Labeling Tool",
       "excerpt": "Amazon Web Services has added a 3D visualization capability to its SageMaker data labeling tool used to build training data sets for machine learning",
@@ -1068,276 +1359,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-intelligence-for-medical-technology.md",
-      "title": "Artificial Intelligence for Medical Technology",
-      "excerpt": "Small and medium medical-technology enterprises (SME) in Baden Württemberg are set to soon use artifical intelligence (AI) methods for the improvement and new development of their products. The expertise for this has been provided by the Project Group for Automation in Medicine and Biotechnology (PAMB) at Fraunhofer IPA and the Application Center for Intelligent Machines in Medical Technology (ANIMMED) at Mannheim University Hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news749988",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": "Artificial Intelligence for Medical Technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-taking-on-talent-managements-most-urgent-challenge-with-ai.md",
-      "title": "Taking On Talent Management's Most Urgent Challenge With AI",
-      "excerpt": "The most urgent talent management issue every business is facing today is how to improve Diversity and Inclusion (DI) by reducing the potential of bias and evaluating candidates on capabilities first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3606977416e0007c6d575%2F0x0.jpg",
-          "width": 1199,
-          "height": 458,
-          "title": "Taking On Talent Management's Most Urgent Challenge With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
-      "publishedDateTime": "2020-06-24T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-facial-recognition-to-predict-criminals-sparks-row-over-ai-bias.md",
-      "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
-      "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-53165286",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53165286",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286",
-      "publishedDateTime": "2020-06-24T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-you-can-now-get-a-botox-treatment-plan-with-help-from-ai.md",
-      "title": "You can now get a Botox treatment plan with help from AI",
-      "excerpt": "Using Botox to enhance your cheekbones or alter your appearance is all the rage, thanks to the Kardashians and Hadids of the world. One doctor is trying to bring Botox back to its wrinkle-fighting basics — with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fa3%252F79defb9eb0a74d5a948f15bab526fad3.abb42.jpg%252F1200x630.jpg?signature=Jb-PPpyXWIZZNj5VRsPtL14uX6Y=",
-          "width": 1200,
-          "height": 630,
-          "title": "You can now get a Botox treatment plan with help from AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
-      "publishedDateTime": "2020-06-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-blue-ridge-enhances-machine-learning-capabilities-for-price-optimization.md",
-      "title": "Blue Ridge Enhances Machine Learning Capabilities for Price Optimization",
-      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... which leverage machine learning to quickly identify opportunities and simulate pricing ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-ridge-enhances-machine-learning-capabilities-for-price-optimization-1029338347",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
-      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
-      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
-      "publishedDateTime": "2020-06-24T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

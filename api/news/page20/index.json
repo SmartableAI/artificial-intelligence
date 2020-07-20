@@ -2,6 +2,290 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-02-mit-takes-down-popular-ai-dataset-due-to-racist-misogynistic-content.md",
+      "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
+      "excerpt": "MIT permanently pulled its 80 Million Tiny Images dataset—a popular image database used to train machine learning systems to identify people and objects in an environment. The reason? It used racist,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dobhuewgleklvyonjkjx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "MIT Takes Down Popular AI Dataset Due to Racist, Misogynistic Content",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mit-takes-down-popular-ai-dataset-due-to-racist-misogy-1844244206/amp",
+      "publishedDateTime": "2020-07-02T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-larry-magid-facial-recognition-loses-support-as-bias-claims-rise.md",
+      "title": "Larry Magid: Facial recognition loses support as bias claims rise",
+      "excerpt": "Following the lead of San Francisco, Boston and several other cities, Detroit is poised to end a contract with a company that provides facial recognition technology to its police department. And it’s not just Larry Magid (Gary Reyes / Mercury News) cities that are backing away from the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2018/08/SJM-L-RECOGNITION-0807-01.jpg?w=1024&h=768",
+          "width": 1024,
+          "height": 768,
+          "title": "Larry Magid: Facial recognition loses support as bias claims rise",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2020/07/02/magid-facial-recognition-accused-in-racial-bias-being-pulled-back-by-cities-and-companies/amp/",
+      "publishedDateTime": "2020-07-02T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work.md",
+      "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
+      "excerpt": "Align Technology's Chief Digital Officer Sreelakshmi Kolli is using machine learning and DevOps tactics to power the company's digital transformation. Kolli led the cross-functional team that developed the latest version of the company's My Invisalign app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/02/e10d0e71-25ac-478a-860a-296fb2b1a2e0/resize/1200x/fa952c92b39946fdcbc676d984647dc5/istock-1150345648.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "My Invisalign app uses machine learning and facial recognition to sell the benefits of dental work",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/my-invisalign-app-uses-machine-learning-and-facial-recognition-to-sell-the-benefits-of-dental-work/",
+      "publishedDateTime": "2020-07-02T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api.md",
+      "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+      "excerpt": "The Raspberry Pi Foundation has announced it's bringing the OpenVX 1.3 API to Raspberry Pi devices to improve computer vision on the popular single-board computers. The new open and royalty-free API comes from the Khronos Group,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/02/6401a79a-c8f7-459b-a88d-9de3e85cfb53/openvx1.gif",
+          "width": 600,
+          "height": 371,
+          "title": "Raspberry Pi: Now computer-vision apps get boost with Khronos OpenVX API",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/raspberry-pi-now-computer-vision-apps-get-boost-with-khronos-openvx-api/",
+      "publishedDateTime": "2020-07-02T05:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-connecting-the-industrial-internet-of-things-with-smart-ai-objects.md",
+      "title": "Connecting The Industrial Internet Of Things With Smart AI Objects",
+      "excerpt": "John Clemons is a Consultant for Rockwell Automation and Maverick Technologies, a leading platform-independent automation solutions provider Smart manufacturing, Industry 4.0 and the industrial internet of things (IIoT) are discussed constantly in the manufacturing world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/connecting-the-industrial-internet-of-things-with-smart-ai-objects/amp/",
+      "publishedDateTime": "2020-07-02T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-02-where-insights-meet-privacy-privacy-preserving-machine-learning.md",
+      "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
+      "excerpt": "As the rise and adoption of AI/ML parallels that of global privacy demand and regulation, businesses must be mindful of the security and privacy considerations associated with leveraging machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Where Insights Meet Privacy: Privacy-Preserving Machine Learning",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/02/where-insights-meet-privacy-privacy-preserving-machine-learning/amp/",
+      "publishedDateTime": "2020-07-02T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-07-02-inheart-raises-42-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations.md",
       "title": "inHEART Raises $4.2 Million to Improve Treatments for Cardiac Arrhythmias With Medical Imaging, Artificial Intelligence and Numerical Simulations",
       "excerpt": "PRNewswire/ -- inHEART, providing a cloud-based medical image analysis solution for cardiac interventions on patients with arrhythmias, has closed a round",
@@ -880,275 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-google-brings-its-ai-powered-smartreply-feature-to-youtube.md",
-      "title": "Google brings its AI-powered SmartReply feature to YouTube",
-      "excerpt": "Google’s SmartReply, the four-year old, A.I.-based technology that helps suggest responses to messages in Gmail, Android’s Messages, Play Developer Console, and elsewhere, is now being made available to YouTube Creators.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": "Google brings its AI-powered SmartReply feature to YouTube",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/01/google-brings-its-ai-powered-smartreply-feature-to-youtube/amp/",
-      "publishedDateTime": "2020-07-01T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics.md",
-      "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
-      "excerpt": "One notable exception is the state of Texas, thanks largely to lobbying from dating app Bumble. Bumble also uses AI to block out to detect lewd images before they reach their destination. Yesterday, its sister app Badoo launched a similar feature.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-90-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Dating app Badoo is now using AI to detect unsolicited dick pics",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/01/dating-app-badoo-is-now-using-ai-to-detect-unsolicited-dick-pics/amp/",
-      "publishedDateTime": "2020-07-01T11:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-facebook-study-shows-how-social-media-may-influence-our-vacation-behavior.md",
-      "title": "Facebook study shows how social media may influence our vacation behavior",
-      "excerpt": "Facebook scientists want to know more about what vacation snaps could reveal about travel behavior and the world’s most popular locations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?itm_source=21&itm_content=1x7&itm_term=2376504",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-study-vacation-images/?amp",
-      "publishedDateTime": "2020-07-01T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence.md",
-      "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
-      "excerpt": "YouTuber Funk Turkey has employed artificial intelligence to create a track in imitation of Iron Maiden entitled 'Power Gravy'.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2020/07/GettyImages-53634054.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": "YouTuber creates ‘new’ Iron Maiden song ‘Power Gravy’ using artificial intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/youtuber-creates-new-iron-maiden-song-power-gravy-using-artificial-intelligence-2699446?amp",
-      "publishedDateTime": "2020-07-01T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-communications-for-the-enterprise.md",
-      "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
-      "excerpt": "Geoverse, a company specializing in interconnected private LTE/5G networks for the enterprise, announced its partnership with Orion Labs, the leading voice communication and automation platform for frontline workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldtechnologiesonline.com/doc/geoverse-partners-with-orion-labs-to-deliver-frontline-workforce-0001",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200630005238/en/802032/4/OrionLabs_pic.jpg",
-          "width": 480,
-          "height": 312,
-          "title": "Geoverse Partners With Orion Labs To Deliver Frontline Workforce Communications For The Enterprise",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-01T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Field Technologies Online",
-        "domain": "fieldtechnologiesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments.md",
-      "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
-      "excerpt": "Stanford AI Lab (SAIL) researchers created an AI technique called LILAC to allow reinforcement learning algorithms to operate in dynamic environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/stanford-university.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Stanford AI researchers introduce LILAC, reinforcement learning for dynamic environments",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/stanford-ai-researchers-introduce-lilac-reinforcement-learning-for-dynamic-environments/amp/",
-      "publishedDateTime": "2020-07-01T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -66,6 +66,20 @@ related:
         width: 802
         height: 600
         isCached: true
+  - title: "Biometrics expert discusses facial recognition regulation as Massachusetts’ proposed ban moves forward"
+    excerpt: "A bill has been passed by the State Senate of Massachusetts which could block biometric facial recognition from use by police in the state until the end of 2021, the Wall Street Journal reports."
+    publishedDateTime: 2020-07-16T17:07:00Z
+    webUrl: "https://www.biometricupdate.com/202007/biometrics-expert-discusses-facial-recognition-regulation-as-massachusetts-proposed-ban-moves-forward"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "qYgWKAUXNlFI1tT+gDFGvkCUQpVsng113hYb4mORtVtq0QS4QEF28pQBvSKRa1VcRn3j8K7ddLEhkKgAfDHAcfFyIU8/EPzt4XgtSQhb1Aj1OBZ5x6pzj4mhvn9h8E1nRtp6a3GGWwyaaX8jBawUX4vbuorLQ3bFGDuTVbgJ5BEiAAXX4Zd72Ive9AVjL44AiOZxUAcF919epWl8XmuzXopbr515M+jc7tsRs3EuqcC4/iLhcJ9IYFS+AVnxBCqS3hRMI4IWhauZpMDRhbl22O+l0YN5tbhbh3CNNTiNp5uW9V33oliVZbZDLzr7DElieL57NibXE1Z9++ql2+tdKMLC9WRMCiBFv2thaRWHPYiZBUqBpQtMpXBWhO4jKG5jxG3QURfERwY8lsIGIAZWgKB8cuR+Dh5yE7zPrrEk795AlvW747jINmyUd2EY2KN4gdG2inPAyGE6bWbo34LF9BYdN4zrngjOoPrLnqjHnRWppX1ue321kt3QWpfpxnmM5uT4C1DdUJNwX1y9XCtKDQ==;uQyZBBkkTaw7MaEBrfpmWQ=="
 ---
