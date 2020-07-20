@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ProFound AI Risk Receives CE Mark in Europe"
-    excerpt: "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced ProFound AI Risk received a CE Mark in Europe. ProFound AI Risk is the first and only clinical decision support tool that provides an accurate two-year,"
-    publishedDateTime: 2020-07-15T12:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/12725237-profound-ai-risk-receives-ce-mark-europe/all"
-    type: article
-    provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 19
 
 secured: "uoJ0jMimWcBMTQR9LETWNhnRrL4KLi4L5Bitm1OUwfVXRwpkaG1x0KOPtZwBFukgZtUNDoBZrnrioJDbBzk1ohkYjetSziH9MjVEtOldxn16Vukf2XE8UnFivYq+ofzOLCNZss7UPEnUZWCuhP7Qdaqdm82i/DpX1CJ+rWcxis3YC9/JiOnFvGSzQAsaLYKELDlA/RhEXRe8p4CNDrTRiIQDlKylpII4bQ+mJeQsLFPMwFcQu/HgAftB0ajzv7Z616b+i0BJbxJ55s4vRuicE364z2p7FDKN8yQQ+1M1dT2RCUq336kjdKv4ZTZFYNKQEj6/BMZEAEsO0TN8shlkWA==;sMSg5Bp1ze3eqWsmjcLSGg=="
 ---

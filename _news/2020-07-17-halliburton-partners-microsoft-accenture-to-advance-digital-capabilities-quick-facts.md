@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accen
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp"
 type: article
 quality: 61
-heat: 111
+heat: 131
 published: true
 
 provider:
@@ -50,6 +50,17 @@ related:
         width: 358
         height: 268
         isCached: true
+  - title: "Microsoft And CH Robinson Worldwide Partner To Digitally Advance Supply Chains (MSFT, CHRW)"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and CH Robinson Worldwide Inc (NASDAQ: CHRW) announced this week that they are partnering to digitally transform supply chains of the future."
+    publishedDateTime: 2020-07-17T12:37:00Z
+    webUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/"
+    ampWebUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 44
   - title: "Halliburton Forms Agreement with Accenture and Microsoft"
     excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
     publishedDateTime: 2020-07-17T15:16:00Z
@@ -92,6 +103,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:51:00Z
+    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
+    type: article
+    provider:
+      name: World Oil
+      domain: worldoil.com
+    quality: 13
 
 secured: "MOz1VpASpxQ68eMntK2szJInxucWxipe9Tuw8+cpkHjRrFm3AnKgJix1ET//hW/EWZExL90pdesV2hGnEEvXd73FNVypi1b1sPUCIQhacEdCh3VKyEOdgZJ1YuT6rJMpGLe89CzO6dqZ1DEYmrp83P8dBom3QTi+T7ZpvK/REXCta5BHfFsZOQiUS7zRoqNy5/faZabmUjG86h08thFpj4aVQli3QmkKa/zWNj1rhFpFLvK3JyL6ONp8NJh/+vtZ1n7a7K/J+4hK/NOlyUVbdqH2hJf+sH6W1+nuutLx6/68XrnvmoyINS4D08Y32ZxhrJ+eQuq9paN4XazdBly7aq3LofvRN/5ERks2aVFOQoSD+rX+qyCIVAHJVtiaMJBVYNALaECTyIvGSIUSi0wHvE9X8WIfSiW5IbjvLgMeDH/6vbvb9Ym0ymHEjrUCRXeb2B2UgSNSGYiLvrr/rWa/qM6m1rMmjIpqqCGp0Keiymw71tUdVVvwpgUjUXx+ILq0;qhrDmU/+HJrjs5bwbTHzhA=="
 ---

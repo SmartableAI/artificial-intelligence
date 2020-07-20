@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-ret
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/07/GC011_IPURACK_003_W4K.jpg?w=1024"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Graphcore announces second gen AI chip, Colossus MK2"
-    excerpt: "Four of them together in a 1U M2000 delivers one petaflop of total AI compute, the company claims ... the found that the IPU was \"a clear winner in single precision against Nvidia’s V100 GPU (per-chip comparison),\" but while it \"delivers higher ..."
-    publishedDateTime: 2020-07-15T11:21:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/graphcore-announces-second-gen-ai-chip-colossus-mk2/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IPU_Machine_for_machine_intellige.2e16d0ba.fill-1200x630.jpg"
-        width: 600
-        height: 316
         isCached: true
 
 secured: "NbM9HF55GXp3w7MBHt2HtQuIVT+71fKgUebRYpuOhtJxPSBISOWkIojsooB4xCGDUJj/M51AAOXaOnzLMCDqxPJaSYBX+RY6bH/5N+dtN5A1kuE5WxBrgz8lHVeAl2+5xu+RTZYIB4NorgxzlKSJZ5P1kfE370igDBGdAINHHXuRtQxmeo4jcbLsqygnKo3aVoqZ8d1QN/b0xJ9msjjtu4cvL7l89gYM/BkyxxgOdRbmxPWYPAyVtkupvpeLKMtGagUEHRQAPoMveZIGmseLX4JaIx4LX8+Dh37nk9zXt/xGQQsC+O5EmKWY0U7SEdzx4mEX2Kt1/euHkc1zXkuvWRvhqzv9FNNQdcDVT4r42r/VL+Y7w6yleZ/HH3B50noAvaJIvbaVorQKEz5/y7482wd1w2q4zzD4fAGLDC3W0MYRluwuGWddg6T3mC47qD0/WzXPX0S58LTOgNFnA6/fKT9fSq7McK/u2KtAPLZUanpgQg+82Z39zmz5SHF9Q53h;GTv9cKJJag/JIbtsuxMYLQ=="

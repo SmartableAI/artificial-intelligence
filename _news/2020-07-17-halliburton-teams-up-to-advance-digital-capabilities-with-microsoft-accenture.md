@@ -51,6 +51,17 @@ related:
         width: 358
         height: 268
         isCached: true
+  - title: "Microsoft And CH Robinson Worldwide Partner To Digitally Advance Supply Chains (MSFT, CHRW)"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and CH Robinson Worldwide Inc (NASDAQ: CHRW) announced this week that they are partnering to digitally transform supply chains of the future."
+    publishedDateTime: 2020-07-17T12:37:00Z
+    webUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/"
+    ampWebUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 44
   - title: "Halliburton Forms Agreement with Accenture and Microsoft"
     excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
     publishedDateTime: 2020-07-17T15:16:00Z
@@ -93,6 +104,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:51:00Z
+    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
+    type: article
+    provider:
+      name: World Oil
+      domain: worldoil.com
+    quality: 13
 
 secured: "FB8U+pgsZpi3h/fpe4+XGIooyaBPJe8qFvOcpsScWpUfuqvfFuqf+5NzLnhFM0mubHI619rrbg+o8cHAqc+kMZNo72LjuJZ/MWgUcYJ1x+k28m9oxZusGRBs20FeyIvU1FWSCd4L/nfngTET5E4PYWqj4Cj2hY+JD2N+7jaKwQl5Fq50CNuEGrO4JWNfHENcJWocUu2PZt+4kDbHR+wsEYX0uPE/0e+S2l8457ixV4KIvQ6I6jY0LC5Lp4tJiRS/tdY0Gr0WLqkcp1vWie6CNUuuYh+Zc42dxcTHJPrS3iDSuhAwi482WJyyUPs4ktpUvBUMYcpTvVOw/iW9NZ2ZwA==;A4aymNf8Ifcqw8x+CJLoRQ=="
 ---

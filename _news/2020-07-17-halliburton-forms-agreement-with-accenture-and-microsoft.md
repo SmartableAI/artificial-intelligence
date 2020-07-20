@@ -65,6 +65,17 @@ related:
         width: 358
         height: 268
         isCached: true
+  - title: "Microsoft And CH Robinson Worldwide Partner To Digitally Advance Supply Chains (MSFT, CHRW)"
+    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and CH Robinson Worldwide Inc (NASDAQ: CHRW) announced this week that they are partnering to digitally transform supply chains of the future."
+    publishedDateTime: 2020-07-17T12:37:00Z
+    webUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/"
+    ampWebUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 44
   - title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."
     publishedDateTime: 2020-07-17T12:00:00Z
@@ -93,6 +104,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
+    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
+    publishedDateTime: 2020-07-17T15:51:00Z
+    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
+    type: article
+    provider:
+      name: World Oil
+      domain: worldoil.com
+    quality: 13
 
 secured: "QWb8ABwlJeE2qMDXmTA6z9ZALy3HIsvEfIgBwU1HpkBNWL0WxR1CGgtQRcaZDZDXyE96ro1Okjdv+WgjTLw1kEPtPTUfK/JqLP+yy6qTZJRjiU0aXEIZJqN9Ief+F8wJuP17LyOy32mUyaapYsGX6YRMaJUjIdtiQTeouP/z0tRJVTe9YWKzOxoEP+0cZQdJ5qC+ciIbHp6RxW0Ab4G1UiRwKLct7lE7tpqgsAfLGKx9CkRa3BiXLFJ8gJctK9jjGULKb5HMLRsE6LxteQDYUYpAGx4DrZ/QFzkhORfRf9fRnB1tCpyR/9v9lrvwf/utE3ysV52OCY1K4XYoEZ2OpWiQUqIwyR9DQ2xeH/6dIXE5EFLSqxQxWugdDjGkK2Mf0ct+Mx0RNB/lMkdf87QbzOMalgXF0oCzbXu3v8gPxaYpn4bZ/bew0Wla6Vj+T6I40b12shtFjnJx+5MODIckrSXGN9wmdPnkM/Q5pAvl3PLH6bQRPA8sD+mn06pswryw0RcO1XdBZveOdBhL2yX0Tw==;BfC3a06cQlFyeMYyimlMuw=="
 ---

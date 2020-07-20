@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Navistar To Build Robot Trucks With TuSimple, Buys Stake In The Self-Driving Startup"
-    excerpt: "The production deal is a big step forward and the first of its kind in the highly competitive autonomous trucking space, where TuSimple vies with Alphabet Inc.﻿﻿’s Waymo and a host of rival startups."
-    publishedDateTime: 2020-07-15T12:08:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/15/navistar-to-build-robot-trucks-with-tusimple-buys-stake-in-the-self-driving-startup/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e346dd9e481000725b956%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3000%26cropY1%3D124%26cropY2%3D1813"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Navistar to develop self-driving trucks with TuSimple"
     excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
     publishedDateTime: 2020-07-15T18:38:00Z
@@ -104,27 +88,11 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
         width: 600
         height: 237
-        isCached: true
-  - title: "Navistar, TuSimple Partner to Produce Self-Driving Class 8 Trucks"
-    excerpt: "Navistar and autonomous truck startup TuSimple said they will co-develop self-driving semi-trucks targeted for production by 2024."
-    publishedDateTime: 2020-07-15T12:04:00Z
-    webUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/"
-    ampWebUrl: "https://www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
-    cdnAmpWebUrl: "https://www-trucks-com.cdn.ampproject.org/c/s/www.trucks.com/2020/07/15/navistar-tusimple-autonomous-truck/amp/"
-    type: article
-    provider:
-      name: trucks.com
-      domain: trucks.com
-    quality: 44
-    images:
-      - url: "https://www.trucks.com/wp-content/uploads/2020/07/tusimple-Nav-truck-674x337.jpg"
-        width: 674
-        height: 337
         isCached: true
   - title: "Self-driving semi-trucks are picking up speed"
     excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."

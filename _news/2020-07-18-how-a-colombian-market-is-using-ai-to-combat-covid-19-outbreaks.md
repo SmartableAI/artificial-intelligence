@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/world-latin-america-53388656"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Robots Provide High-Tech Support to Combat COVID-19"
+    excerpt: "Since the COVID-19 outbreak, the Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), funded by"
+    publishedDateTime: 2020-07-20T01:59:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16682640/robots-provide-high-tech-support-to-combat-covid-19"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16682640"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16682640"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "70oEg8aVGc+1qA05VAdzdD49eb4FMRkfKXhbzb7d7utq19gkTNH7FAgXVFVJIrjTOiCL0UDLVq9ov6ZZD5lICuuzjrTTl9c+MiCFjzF8mU+nUth9KHa7o5IsGJIqksKNWwrn6zV9F8mxo2RjrrhECgsB0lLDSr+7sbS0IMDEfXXJbOwAvo+jwEYMvbxOggLqufDTrjujx8PSHZ8vhyuHFPPWvBNj62t17h5S1mUxGqkgjkQHtikwRIjSINM1CgYTmLnhaKLKSrtbCDUjiSQqq7avPMuli8fDs/PKGLZYZ6jR+EwdX2X6BiZQz500f/D3w99l0U17b+zvKodMeJxSkrDk4MpN8sdqRGYXKiOPJaQukk13xKsmyhPqYHQNYtuJvnR7amy+XZePWLOXOdVnVZHVTXkMzVfKb1HqRBqMSVwzB+U0er0e2cPVphljcQ0XkfYSHnXX45Dsw/3NNOGw2rDBeSISafRpfucc0iayeULzSZ5dsaY0NGC/jgcUshGT5oGkCQjvY259aHNKMbdkNw==;lTJpJeVA8AhPEveAT5f9bQ=="
 ---

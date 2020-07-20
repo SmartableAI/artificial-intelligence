@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T19:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/profound-aitm-risk-receives-ce-mark-in-europe-2020-07-15"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "ProFound AI Risk Receives CE Mark in Europe"
-    excerpt: "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced ProFound AI Risk received a CE Mark in Europe. ProFound AI Risk is the first and only clinical decision support tool that provides an accurate two-year,"
-    publishedDateTime: 2020-07-15T12:00:00Z
-    webUrl: "https://www.wallstreet-online.de/nachricht/12725237-profound-ai-risk-receives-ce-mark-europe/all"
-    type: article
-    provider:
-      name: wallstreet online
-      domain: wallstreet-online.de
-    quality: 19
 
 secured: "GVnOYcU7QaDV82d/wNmLf1wvcg5AkqFu2Ofk4IvLJ3/AlmwqYgYH08MoBZY5H+sXZ5GgcLQtJDU0y9XHsbU1eZ7iH0I24WXM+BOqHEymjeYcsMpqOFjDD5/eLNTFA3/qlzmokzlWfz643fecBWKXivZnltweY42MIxDK8znAmE2iqiCijM/heVw42psc9cGZCYuGzhv1fK1HLUneMSjMWRBNNcxihdmQ+Sc3USI5588SfLN0FYd/aHNvr4fG+ER/4Fv4amHbBcnrX3+jTg4rZUVrdxCX9M22qP/Drj9xD9CUVjNNbT47nVlLc1ciVn5qfLGVnRtyZ8kK/zWivXEEXw==;A9AynI6jCrGgBi2C5fvpNw=="
 ---

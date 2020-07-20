@@ -46,20 +46,6 @@ related:
         width: 1141
         height: 475
         isCached: true
-  - title: "Graphcore announces second gen AI chip, Colossus MK2"
-    excerpt: "Four of them together in a 1U M2000 delivers one petaflop of total AI compute, the company claims ... the found that the IPU was \"a clear winner in single precision against Nvidia’s V100 GPU (per-chip comparison),\" but while it \"delivers higher ..."
-    publishedDateTime: 2020-07-15T11:21:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/graphcore-announces-second-gen-ai-chip-colossus-mk2/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/IPU_Machine_for_machine_intellige.2e16d0ba.fill-1200x630.jpg"
-        width: 600
-        height: 316
-        isCached: true
 
 secured: "X3di1mTmWfV2/2NkY9Q+E817M1D6H5OrVdcGqkXn4tvLsSbEUwC8mzwWBMQDZvyQ0SSYH7USyTJo7JmWbZuvCfWc60A2YPJNvxkhRWyPLnJOIT72U6tRGqikexgbW8QyEWM0JAfCeWagsYn4btypSxs9A2MR3goWLbEzEY7C7JpTp1D8Igb4boskorsz5oxiyU+Go9uLDU/Xmuch1tOs2pvu05t1NGfzjIwK1Gc+0GSc1GjMtbTvNM2xnxUjdbygq2PBQk0+1WwMd7M9zA/V6PC0bRBopISazSoLRYtUpzpa++wfzF5j+/DYnYOu81D1xK2WYu2MB+Q+Erpx/EeyTkFkIv00ldWrHMtyYf1Zxt+HFk3PnpqiuCR57ME0BmEjShjnyXhCOeIxVa7tIgqoAKsU9O7bB9j1y8PvAe2aj7u1lrYr1JE4PHJ1+u2klApz1bBA6FmLsqyxHTGYky1y0UKLDV0V0Tfx6SX1iE9yxx3UCo/1X4J8ZV3D/EzFpWfZ;EFxPJBOEGPW0cYSURVBV9w=="
 ---
