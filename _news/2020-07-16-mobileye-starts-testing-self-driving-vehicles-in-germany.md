@@ -58,6 +58,20 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Self-Driving Cars Will Race in Indianapolis. Tesla Can’t Take Part."
+    excerpt: "Universities will compete in the Indianapolis 50 in 2021. It’s a new event helping bring autonomous driving to the masses."
+    publishedDateTime: 2020-07-20T21:31:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-tesla-indianapolis-50-race-indy-50-51595280596"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-211059/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Her quest: How will self-driving cars affect everyday traffic?"
     excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
     publishedDateTime: 2020-07-16T21:36:00Z

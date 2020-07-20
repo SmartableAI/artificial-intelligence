@@ -2,6 +2,206 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-14-should-robots-pay-taxes.md",
+      "title": "Should Robots Pay Taxes?",
+      "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/should-rob/should-robots-pay-taxes_kaze.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
+      "publishedDateTime": "2020-07-14T09:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge.md",
+      "title": "Facebook uses Amazon EC2 to evaluate the Deepfake Detection Challenge",
+      "excerpt": "In October 2019, AWS announced that it was working with Facebook, Microsoft, and the Partnership on AI on the first Deepfake Detection Challenge. Deepfake algorithms are the same as the underlying technology that has given us realistic animation effects in movies and video games. Unfortunately, those",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png",
+          "width": 692,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T09:27:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning.md",
+      "title": "Meet The Stanford AI Lab Alums That Raised $15 Million To Optimize Machine Learning",
+      "excerpt": "In 2019, after spending five years developing a ML platform at Stanford's AI Lab, the research team decided to spin out of the lab and create a company called Snorkel AI. Today, Snorkel AI came out of stealth mode announcing it had raised $15 million from investors like Greylock,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ae2de147a4f0006e5be31%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
+      "publishedDateTime": "2020-07-14T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-30-years-of-family-videos-in-an-ai-archive.md",
+      "title": "30 years of family videos in an AI archive",
+      "excerpt": "My dad got his first video camera the day I was born nearly three decades ago. “Say hello to the camera!” are the first words he caught on tape, as he pointed it at a red, puffy baby (me) in a hospital bassinet. The clips got more embarrassing from there, as he continued to film through many diaper changes,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pasted_image_0_rXp629k.png",
+          "width": 1600,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn.md",
       "title": "Integrated Behavioral Health (IBH) Uses AI and Clinical Data Analytics to Shape the Future of Behavioral Healthcare in Partnership with Lyssn",
       "excerpt": "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services,",
@@ -1193,195 +1393,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-booyaaa-australian-federal-police-use-of-clearview-ai-detailed.md",
-      "title": "'Booyaaa': Australian Federal Police use of Clearview AI detailed",
-      "excerpt": "One staff member used the application on her personal phone, while another touted the success of the Clearview AI tool for matching a mug shot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/07/f9505b32-b5b7-444e-b118-26ef7aac0688/thumbnail/1200x675/464bc1c92770038b1e169494a5ca1b3d/istock-458668953.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "publishedDateTime": "2020-07-13T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
-      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
-      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
-      "publishedDateTime": "2020-07-13T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
-      "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
-      "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Milan-Italy-August-212302504-630x421.jpg",
-          "width": 630,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "publishedDateTime": "2020-07-13T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people.md",
-      "title": "Carnegie Mellon’s robotic painter is a step toward AI that can learn art techniques by watching people",
-      "excerpt": "In a newly published research paper, Carnegie Mellon researchers propose a robotic painter that learns from human demonstrations.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot252032_photos_v2_x2201_photos_v2_x2-e1594676869134.png?w=1200&#038;strip=all",
-          "width": 1144,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
-      "publishedDateTime": "2020-07-13T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

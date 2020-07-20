@@ -1,9 +1,9 @@
 ---
 category: news
-title: "Giants in the AIoT Chip Industry - Qualcomm, Alibaba and WIMI Entering the Battlefield"
-excerpt: "HONG KONG, CHINA / ACCESSWIRE / July 20, 2020 / In recent years, the word AIoT has gradually become active in people's vision. AIoT (AI+IoT) means combining artificial intelligence with the Internet of Things to form a new integrated discipline."
-publishedDateTime: 2020-07-20T09:56:00Z
-webUrl: "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry---qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20"
+title: "Giants in the AIoT Chip Industry – Qualcomm, Alibaba and WIMI Entering the Battlefield"
+excerpt: "In recent years, the word AIoT has gradually become active in people's vision. AIoT (AI+IoT) means combining artificial intelligence with the Internet of Things to form a new integrated discipline. With the development of artificial intelligence technology,"
+publishedDateTime: 2020-07-20T20:56:00Z
+webUrl: "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20"
 type: article
 quality: 76
 heat: 76
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "DOKb0f6ZIgAy9HXyaj+qCgxBoeMLp67PPCzB7rK2CjYAMaaVuf6WvCUbDZo4T2pCWui8aBIMZc+20nLyIYi4zgrPT2WEJiYKAg+WNWz8h/dxOh61SIZUmGepDet8Jlz8uwUEDnrfVJlGe40rejZaTjOO0kTgMuXZ3Pn2obDP2tThN+D8StIBKbRnFhRXcQnrIKIVS5es3ON8uAQ/vYb7dYUea9mQTeUbFhyTK0TvnWGHjbAVqgkBEdF4wl6+LS7oKIONCMozqELvNq86oWSr1G3U7U3YFMf1IFE0gI4GUN1Disy6pJbLQmqNRq1eiP7VHhv2e4fPnLp+gImWg1AQtQ==;MRIdEyjHFKdXeuKDpgOgqg=="
+secured: "nVF0CrAnXuWeH4vSyPSdlkMQLeX/oxzmHaneav2UAf6jTwVUlTo9OrAb1IcUtSJR9SnRxfYHZvUNdY7wKj9/oayqz/8uh6ZxKKwGmPFIiCKwM0bWxxVSVbeOgBuJINfTmeVa/wuea/1KZgP9dH44aVWobDacpdepxiPAdyehdbqVKQqifKlOnZin4ED84OGqZQSnrANsv4oeh3wAkEBQeqEbOCffCqhWrwMbZJmJu0O23Y4sucTImvEuJr37yD1a6fYORRMXDmuPCOUXIEUaSiJNO1dpO90yQen1fc47GPPixtzrrl8OchASTfWkHmweuBd8AG63XPubp4Pph+rV0Q==;IK1UaUvtpBrfPkdhPO0WSA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -40,21 +40,7 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 50
-  - title: "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution"
-    excerpt: "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ..."
-    publishedDateTime: 2020-07-16T04:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 28
-    images:
-      - url: "https://ml.globenewswire.com/media/fe824bfb-2796-46db-84df-d3c016abf98d/medium/altair-knowledge-studios-wizard-will-select-all-models-but-t.PNG"
-        width: 300
-        height: 217
-        isCached: true
 
-secured: "cTSKjzXXM/T1G+aag4vwsykVKHWkLtS+ga97VW32NhylHDOhw2T90bU44Bz82AKLIC5XROsOOV+FubAGu6l5qQ/v8xE37Ef6a3z8p8357uEo6Hnoebke2iMT4q6Xf7CC14MfWuruLbvNA0W2hNTwaRf0gegreCfYpeob6HFgv4uBsV7ZIBZAyMPaF3XHyvjJaLepd8dAivlYLeaFuMyT5F2YmKYLij9CCZGFWVU2CmBth75kMYSIO7vm/QVP7eIt1QgXa1hJtVtoGQrUW06rH5ZrdpaiM3rObK0H5k+mbnysloVRR4LY6EzpDlpjtdKJSUB9YHNCJCJAGmAH2AjGPQ==;zjR+O24HOW9+sCmVNX4row=="
+secured: "M8heQzl2PhaRLxw9+MYXF/X63BMF0uZd0FcC/pye92VEexdzePtVE3mNRdpbZBFqPL66AUYGFHpQwU70iT2ggM0EERxJAXWVjYmL70Kqw2klT/IuV/wNOWX3d69X4Y2q2DT9EcjjvHfSWj+1Yv+/Q8Bry1Qw8emE+dfP9zarrqgn+7+Y6HSPA6iYr/G8Flo/zBHprU8IZoqQi5RnpWmnzOX39rYCyKPQZB1K4Wuw39eF2g+kQ/HuGGn7A/p+Mp131THhpfNAWgBj1RA5AzIHLsPUT46kyz8uhr74nFMLGCTjkIjUr/QPOt+VyWmUUwG/3P7FmaLpdtAo8qefGiLrqjbLTBcapudDtj396nw7z20EUtugjnoJSw6zOa1nu6SVyhHQNs1dSB+pxLfaXNx4AuvITMNxEaurCEgLAedPNKykA/VFjp8T115gBC1EVenBdHE4gCVRNPHEXDqqdtajb3E+aBN+Gx4zDtos2OESnQ11YlNqkKook4F5qleZnuDcWyKq2vlCWmio+5FXu85Q+w==;3ALn0tUOLERFou/os1OqPw=="
 ---
 

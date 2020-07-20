@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20</loc>
+    <lastmod>2020-07-20T13:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/</loc>
     <lastmod>2020-07-20T12:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -99,12 +105,6 @@
   <url>
     <loc>https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html</loc>
     <lastmod>2020-07-20T03:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry---qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20</loc>
-    <lastmod>2020-07-20T02:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -427,6 +427,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
+    <lastmod>2020-07-17T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/</loc>
     <lastmod>2020-07-16T21:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -643,6 +649,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wxyz.com/news/region/detroit/facial-recognition-technology-led-to-this-detroiters-wrongful-arrest</loc>
+    <lastmod>2020-07-15T17:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/</loc>
     <lastmod>2020-07-15T17:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -667,7 +679,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16</loc>
     <lastmod>2020-07-15T15:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -877,8 +889,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nytimes.com/reuters/2020/07/15/technology/15reuters-navistar-intl-tusimple.html</loc>
+    <lastmod>2020-07-15T05:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/</loc>
     <lastmod>2020-07-15T04:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/new-constructs-nominated-for-benzinga-fintech-listmakers-301093598.html</loc>
+    <lastmod>2020-07-15T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -895,8 +919,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
-    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
+    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1027,7 +1051,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3163,6 +3187,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.nature.com/articles/s41598-020-67647-6</loc>
+    <lastmod>2020-07-01T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/</loc>
     <lastmod>2020-07-01T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3811,7 +3841,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
     <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

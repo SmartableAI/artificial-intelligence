@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-16-alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants.md",
+      "title": "Alexa and Google Assistant execs on future trends for AI assistants",
+      "excerpt": "Executives leading Alexa and Google Assistant teams say multimodal experiences and unsupervised learning are notable trends for AI assistants.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/alexa-google-assistant.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
+      "publishedDateTime": "2020-07-16T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-trump-daughter-ivanka-show-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
       "title": "Trump, daughter Ivanka show support for Goya Foods, in possible violation of ethics rules",
       "excerpt": "Watchdogs warned that Ivanka Trump’s support for Goya may violate rules. “You can’t use your official position to promote a private business,” said Noah Bookbinder, execut",
@@ -1154,47 +1204,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
-      "title": "A robot walks into White Castle ...",
-      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "publishedDateTime": "2020-07-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

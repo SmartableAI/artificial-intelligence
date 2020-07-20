@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-mach
 ampWebUrl: "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-2.32.52-PM.jpg?w=1024"
@@ -29,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "pWLDzSjPECVsX387eiZNfw5bw+QytArz2ZtvBkEd0IWMVjLYRg85FxSakt6/tGr4V6Y3YJyBG/AK7uy9flL0TQMsttut15BRsxWrELYgk+/bzR+OYFADA8geHGiZ7o4TEwPp83MRJ7beMclRhHm7lV74GZ6K+88JnqDtrC/RdnJldtYkzg+rmC6IQfrcuKuA/oTz8HWRSSoZnG9CDaULm9kG2jnetIp7CA1UwIFREOx15KOX43DiJHbxYoqd7NDfHbnzScKZnYEKlvKeB3PQe1Py2973TXGAoBz+A5jZV1tQ7sNftjTAwdR+E2V8nVcwwD2rFtMlsbHEHOHJH+sY1w==;9uorlj1DdfN2p8g04XfjxQ=="
+secured: "w57HTTayqEMUO0VxTOQPWlnCfTAXAuXmwxDPbaV/ivqqFSm4cIaLKYXRkY+I1gkVkiZymYK+ySfzbh52Xa19vjVYB8BDCsWPOOequkVCw7I6S75RCana4oDcOnhdcjK741VbubmpZY8PuzMuiU5CI/YINP7KDgi4MciHKjgYq+XW5GidtggefLPMzoxannwFmF1jfP5X2ylCNBFqOGy0+E4KsTPJocG4Wo/wdT2GNllnAkI8DfP+BguX1G6edJkDG2yL7YKvIDaBjgzW5FFqweK4OiyY99IZD++AArOtVcGfysAXpMK/9BXWJySFWpsJcjvjNzO1daRB9etFbERtPNUdlfVkwenDeZiPh69FGIs+XfhAOWkrtsNDXMRraBe0gCpw0yvwrsUwOvKp14saQOB681KUtlDiTiPnPicUm2cLlAuGOMhZvagj2wFClljsuazOm0TO/pf032KytZWJ7eH8DKqznn4ADtmsiCwwBbBvhp13EcFZdhJFMVZ07eu/e2GkJ3QCIrTenfoZziDmbA==;OLaU/HAxasr2BOEKF/cb+g=="
 ---
 

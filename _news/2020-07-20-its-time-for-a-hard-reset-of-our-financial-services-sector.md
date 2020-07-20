@@ -1,9 +1,9 @@
 ---
 category: news
 title: "It’s time for a hard reset of our financial services sector"
-excerpt: "They say that history has a habit of repeating itself, and the global financial crisis of 2007-08 was similarly significant for the world of finance. At the time, banking was defined by its complexity, innovation was stagnant, and there was little choice..."
-publishedDateTime: 2020-07-20T09:04:00Z
-webUrl: "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
+excerpt: "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking"
+publishedDateTime: 2020-07-20T09:24:00Z
+webUrl: "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720?link=TD_fnlondon_home.27995a643976ebba"
 ampWebUrl: "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 cdnAmpWebUrl: "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 499
     isCached: true
 
-secured: "VuqBW8eiYpLUuHpY7StW2bD880j/e1i49kHB8vi5CIlE8+904TwsmnhJy5JQRSfWm8jxyoB33K/ui9c3O0zKdrtbAMP78tu6/A3igkEuL0EIfmOnm2IFVVvwLuG1MVwvtrWwlz0dufJ/j5IyMvbEoQVImGeiJcD6NDD27+iIn7T6NodN1oImAUzZELjWqScOX7M97FAiSlpmivVz5hNI1wdgmtCcD+oxb8b6XG1K3R9j/PJKSKulYbK8iETnInpmDNqwRotwB3dWPzSOcptkLS4GOMpbasR+VY/+4MtKhRTIi5mD6mx3HR+z6L8MMe6bXZv1DOFUjaioIc2MU0R8SSEruor4ZDydzUq4wLffrU0qoKVvjSO9gn1laoet76fpV+mnnV0irejGN1fxAQ/3rfFto83tvxJ/VkcL0jqAQUgr8DGq2rXpUsxAm3rhivFpITpdeNC0sISFqMESNk3cmvn92FFbWHKXIn3Dvuas8G0B9CG5U8iJMmPsdzMtsV7H+Wh8KWkqnCaYTerNYDrhOg==;Rv8CBgFNfAaLYTghBLcaNA=="
+secured: "CcpMutvWQihnkkT24fuz8GmPf6OjMbzESk415y1kLbpoKEqwNRX8twUFbFY7ttebl/JeI22xVutIjgwztnmoY/uyduYpPwDeHjwHHu6Gk0i2h2c16sn5cd+evXuhZhlVw07FOJQBk3n9rREZD9DwsVmwJrkzvMGZlbTyjhoeoO1bTMmEwk7pybwHX4WiICr1KMXVuPvMzdVIi+8mR69Yved6jdX7rSrCmg36nKOw2IvUU8v0+g2gNYqwfpoNu90q4AgI1Kkk5y0qDtJe28Fz0TzOFv8sR2ZeMLUSX045lcVRZ6QSshd+2EJdOmiKaRm93z2oDkQw228MBG0vcdxqTQ==;1Th+8HXnsn1BrzsppkH6vw=="
 ---
 

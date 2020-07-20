@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identif
 ampWebUrl: "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&#038;strip=all"
@@ -28,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ZddUS4hkCIQbeqhSn2YwEWSIcbq4RJGF3BK5/OTTr8cNO81U89H27XcGnimF0fymYvMPCXbACs5wWqVGMWKVx87OXrXD302Si2WlqJzhArHwcPxPvifAzCQ7XYGZQLBrDUx0UMkjAzhyqlwgUM+Ja0gGkSxmeqD6/+wLZ7c7ukdVdicH3z7tUr0A4m3yOF3F8t9aWxzbjNs0UnoRUwfCLshXBBk/UFFEG+sV2NhBedQJVImcjyYgs1ScLdImtyaY4V//9uueWcEIpfUR5Jrl2iuO7higXpOY+g8f5sRxzNOzPMEycJogUyixB0dhwyeodlnNkS263Sql9KXokfwi/w==;YSaFpxvN2DBny3YvdY7fdQ=="
+secured: "QiotMN8zfNiUDGD5LNhvO1ZYxqJbfQKDw0LgxxIoqOcFX87RbWrGV+stcd6YmruOv//OuNF/JGiyvrfOKlnQP6kJ9i4rV7W3r/xSc3JNq9NpRGZCZWcaH7BU+4iV0I/+/vljcY4jgcdMwCXO15QF0s6moH1H9X7OvDSIbMGpcga/jMz+0I6lHjc45mh93lX6hJ3GmxYrEaWmFXbD5S1MH5p+gYdFwsMqNQHCRzOuCTTEskSfaPKsTgGrzo6QelwUcTTuhjfi1Ap+YcHn7w7/+zDdwQ07+nue034Ryf9K7+yO75khNpP/SPUgpvumwc8zrfq1lUXp4R5eO6WNBqlEaeSZNZEetiC2lGp3q6+wZL8iJJUyjARufE3yPZ/WwudJHMW4BEdBQhUYAhsyuUw3MGg6hFHzBDBJa0MeuQ1Q+60PFL22IS0I0dtSHlKn+Mp33xOTwvWLmjlkZ9AlL5nPghLK4utQyKyWD0p9EjUviWO/YTsiXf9wkca+DQywnihMuUc9gYgGoE7SvGljtdIVTQ==;5XtVlxCyzHBYg9nd+5EDvQ=="
 ---
 

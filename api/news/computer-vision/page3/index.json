@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-23-police-forces-in-canada-are-quietly-adopting-facial-recognition-tech.md",
+      "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
+      "excerpt": "Police in York and Peel regions are in the process of buying the technology, which has been shown to be racially biased.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5ef0f57c83ca6d009d2c6d35/lede/1592850289955-cctv-1144371_1920.jpeg?crop=0.8911xw:0.7561xh;0xw,0.1597xh",
+          "width": 1710,
+          "height": 961,
+          "title": "Police Forces in Canada Are Quietly Adopting Facial Recognition Tech",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/xg8wp4/police-forces-in-canada-are-quietly-adopting-facial-recognition-tech",
+      "publishedDateTime": "2020-06-23T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-bpn-14770-ameliorates-memory-and-cognitive-impairments-by-regulation-of-dynamics-in-a-beta-production-and-clearance.md",
       "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
       "excerpt": "In this study, a novel perspective drug BPN-14770 was given to mice. The mice were then put through a series of behavioral tests such as a novel object recognition test and the Morris water maze, to see if the novel substance helped the condition.",

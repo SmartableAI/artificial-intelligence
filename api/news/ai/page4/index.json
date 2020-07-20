@@ -2,6 +2,55 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-16-cloudera-built-its-conversational-ai-chops-by-keeping-things-simple.md",
+      "title": "Cloudera built its conversational AI chops by keeping things simple",
+      "excerpt": "It turns out if you're a data company with modern data architectures at the ready, you have a head start building out internal conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloudera-conversational-ai-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "publishedDateTime": "2020-07-16T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
       "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
       "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
@@ -776,6 +825,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-16-facial-recognition-technology-led-to-this-detroiters-wrongful-arrest.md",
+      "title": "Facial recognition technology led to this Detroiter's wrongful arrest",
+      "excerpt": "Michael Oliver is the latest Detroiter to come forward with a story of a wrongful arrest due to facial recognition technology. The news comes as City Council debates extending DPD's contract with facial recognition technology provider DataWorks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wxyz.com/news/region/detroit/facial-recognition-technology-led-to-this-detroiters-wrongful-arrest",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/60bc0ad/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F6e1%2Fbe88c4e651db4a7dbe102614d7272948%2F6e16c35e0d2047d98eee83f489fccf02%2Fposter_596d4d61d9d747849895a4fa826019f0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T17:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WXYZ Detroit",
+        "domain": "wxyz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
       "title": "Announcing the AI Innovation Awards winners at Transform 2020",
       "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",
@@ -971,7 +1061,7 @@
       "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
       "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16?mod=mw_quote_news",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1314,104 +1404,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-dotdata-20-platform-delivers-ai-insights-for-enterprises.md",
-      "title": "DotData 2.0 platform delivers AI insights for enterprises",
-      "excerpt": "DotData is announcing version 2.0 of its artificial intelligence and machine learning platform for enterprises so they can adopt AI tools more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/dotdata-launches-2-0-platform-to-deliver-ai-insights-for-enterprises/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/dotdata-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/dotdata-launches-2-0-platform-to-deliver-ai-insights-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/dotdata-launches-2-0-platform-to-deliver-ai-insights-for-enterprises/amp/",
-      "publishedDateTime": "2020-07-15T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-visa-harnessed-data-and-ai-to-prevent-25-billion-in-fraud.md",
-      "title": "How Visa harnessed data and AI to prevent $25 billion in fraud",
-      "excerpt": "Visa says it prevents $25 billion in annual fraud thanks to the AI it has developed. The path Visa took to get there offers lessons to other companies.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-visa-harnessed-data-and-ai-to-prevent-25-billion-in-fraud/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1187838626-e1594813008422.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-visa-harnessed-data-and-ai-to-prevent-25-billion-in-fraud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-visa-harnessed-data-and-ai-to-prevent-25-billion-in-fraud/amp/",
-      "publishedDateTime": "2020-07-15T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

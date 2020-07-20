@@ -2,6 +2,89 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-26-ironscales-adds-natural-language-processing-to-its-email-security-kit.md",
+      "title": "Ironscales Adds Natural-Language Processing To Its Email Security Kit",
+      "excerpt": "Email security firm Ironscales has deployed natural-language processing (NLP) to detect common business email compromise (BEC) attacks. The firm uses machine learning and neural networks to help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/353068/ironscales-adds-natural-language-processing-to-its.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-congress-proposes-ban-on-government-use-of-facial-recognition-software.md",
+      "title": "Congress proposes ban on government use of facial recognition software",
+      "excerpt": "The Facial Recognition and Biometric Technology Moratorium Act would explicitly ban police from using the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 291,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/26/7c55ee40-db2b-451e-81be-dcf139a52efd/resize/1200x/deba963ae5747533086f986458e1d090/facial-recognition-software-image.jpg",
+          "width": 1200,
+          "height": 831,
+          "title": "Congress proposes ban on government use of facial recognition software",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/congress-proposes-ban-on-government-use-of-facial-recognition-software/",
+      "publishedDateTime": "2020-06-26T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-custom-or-out-of-the-box-choose-the-right-nlp-model-for-your-enterprise.md",
       "title": "Custom, Or Out Of The Box? Choose The Right NLP Model For Your Enterprise",
       "excerpt": "In the legal industry, for example, LegalMation—a firm that provides AI tools to help lawyers automate routine tasks—uses newly available NLP capabilities from Watson NLU to review complex ...",

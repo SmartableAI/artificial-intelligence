@@ -68,6 +68,20 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Self-Driving Cars Will Race in Indianapolis. Tesla Can’t Take Part."
+    excerpt: "Universities will compete in the Indianapolis 50 in 2021. It’s a new event helping bring autonomous driving to the masses."
+    publishedDateTime: 2020-07-20T21:31:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-tesla-indianapolis-50-race-indy-50-51595280596"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 39
+    images:
+      - url: "https://images.barrons.com/im-211059/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
     publishedDateTime: 2020-07-17T13:08:00Z

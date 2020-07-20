@@ -2,6 +2,211 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-07-01-aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors.md",
+      "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of its sixth generation of Amazon",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-the-sixth-generation-of-amazon-ec2-instances-powered-by-aws-graviton2-processors-2020-06-11",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AWS Announces General Availability of the Sixth Generation of Amazon EC2 Instances Powered By AWS Graviton2 Processors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-positive-effects-of-grasping-virtual-objects-on-memory-for-novel-words-in-a-second-language.md",
+      "title": "Positive effects of grasping virtual objects on memory for novel words in a second language",
+      "excerpt": "Theories of embodied cognition describe language processing and representation as inherently connected to the sensorimotor experiences collected during acquisition. While children grasp their world, collect bodily experiences and name them,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-67539-9",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-67539-9/MediaObjects/41598_2020_67539_Fig2_HTML.png",
+          "width": 685,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-sogou-takes-a-top-spot-at-nlpcc-2020.md",
+      "title": "Sogou Takes a Top Spot at NLPCC 2020",
+      "excerpt": "PRNewswire/ -- Sogou Inc. (NYSE: SOGO) (\"Sogou\" or \"the Company\"), an innovator in search and a leader in China's internet industry, today announced it ranked first",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sogou-takes-a-top-spot-at-nlpcc-2020/article_74e60c11-db8d-58bd-8a12-82b71b7df93d.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sogou Takes a Top Spot at NLPCC 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-01T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-process-management.md",
+      "title": "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management",
+      "excerpt": "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16464333",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333",
+      "publishedDateTime": "2020-07-01T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
+      "title": "Lyft’s driverless cars are back on the streets of California",
+      "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/lyfts-driverless-cars-are-back-on-california-streets/?amp",
+      "publishedDateTime": "2020-06-30T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-kaggle-where-data-scientists-learn-and-compete.md",
       "title": "Kaggle: Where data scientists learn and compete",
       "excerpt": "Data science is typically more of an art than a science, despite the name. You start with dirty data and an old statistical predictive model and try to do better with machine learning. Nobody ...",
@@ -927,244 +1132,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes.md",
-      "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
-      "excerpt": "Edtech company Edmentum has built a virtual assistant to help teachers master new education platforms quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/04/23/3dd79642-a672-4227-b2e8-7498cd4015eb/resize/1200x/ee8113922f79a3209e5641984ac6c549/virtual-classroom.jpg",
-          "width": 1200,
-          "height": 968,
-          "title": "K-12 school use AI and automation to customize lessons and pivot from in-person to online classes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/k-12-school-use-ai-and-automation-to-customize-lessons-and-pivot-from-in-person-to-online-classes/",
-      "publishedDateTime": "2020-06-30T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey.md",
-      "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-      "excerpt": "To learn more about where your company stands now, and how the market is evolving in the AI-first era, take the VB AI Survey now.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/wocintechchat.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Where does your organization stand on the AI curve? (Find out with this survey)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/where-does-your-organization-stand-on-the-ai-curve-find-out-with-this-survey/amp/",
-      "publishedDateTime": "2020-06-30T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle.md",
-      "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
-      "excerpt": "Be an in-demand, certified tech professional with 87+ hours of content on Python, Tensorflow, Machine and Deep Learning while saving over $750 off the normal cost of this certification.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1593504884_product_40143_product_shot_wide_story.jpg",
-          "width": 760,
-          "height": 380,
-          "title": "Save 95% off this Ultimate Artificial Intelligence Scientist Certification Bundle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-this-ultimate-artificial-intelligence-scientist-certification-bundle/",
-      "publishedDateTime": "2020-06-30T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-how-a-former-soldier-went-from-self-taught-truck-driver-to-helping-alphabets-waymo-usher-in-the-era-of-self-driving-semis.md",
-      "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
-      "excerpt": "Jon Rainwater instructs safety drivers for Waymo Via, the self-driving company's freight and deliveries unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5efa5b5bf34d0565f1297c75?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How a former soldier went from self-taught truck driver to helping Alphabet's Waymo usher in the era of self-driving semis",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-employee-former-us-army-soldier-self-driving-trucks-alphabet-2020-6?amp",
-      "publishedDateTime": "2020-06-30T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure.md",
-      "title": "BNY Mellon Launches New Data and Analytics Solutions Offerings, Collaborates with Microsoft to Build Solutions on Microsoft Azure",
-      "excerpt": "BNY Mellon has announced the launch of three new Data and Analytics Solutions offerings designed to help investment managers better manage their data, improve the success of US-listed fund launches and support the customisation of investment portfolios to preferred Environmental,",
-      "sourceUrl": null,
-      "webUrl": "https://hubbis.com/news/bny-mellon-launches-new-data-and-analytics-solutions-offerings-collaborates-with-microsoft-to-build-solutions-on-microsoft-azure",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hubbis.com/bundles/app/home/images/icon_search.png",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hubbis",
-        "domain": "hubbis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

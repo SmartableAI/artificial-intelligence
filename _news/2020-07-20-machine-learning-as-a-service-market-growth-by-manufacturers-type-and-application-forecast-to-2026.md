@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning Chips Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
+    excerpt: "Jul 20, 2020 (CDN Newswire via Comtex) -- The latest launched research document namely Global Machine Learning Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 provides an in-depth analysis of the market size, share ..."
+    publishedDateTime: 2020-07-20T20:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chips-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "WYkZbJNNQp4SqjrO0IoPQvfjchZ2kBb+fp+DNiZosOGogVfczdNcJ710K5hSUeq9ZJdJzofCX5VvVRZMhM0Fmg4QVQBP0VtkJqgk79seUpopi8zOCM5uzC95oBwkuL7l4X+oxJU6QNZ/Uqwnd2KUN+f7Quw+DMRsGt1MlwuYb2E7FCREjQmtclqeEFAZieHh60IjKIp8/GUeZP441tsz04JJKKrNa2yrIpr8SJOOYr7bgdQM4MIwC/JbG9XaBNmVBPIHk9qjfsF+4CnW3Gh2Gjkj7lSGUYnsTzcx6cPdZZQOHaJT2f7FWtWJT+YZBpUjXp4RtE/9AAb9WMtCjJofBQ==;HMV0tc12NmJDFETIefnVVw=="
 ---

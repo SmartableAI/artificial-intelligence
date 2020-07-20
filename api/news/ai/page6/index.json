@@ -2,6 +2,197 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-15-new-constructs-nominated-for-benzinga-fintech-listmakers.md",
+      "title": "New Constructs Nominated for Benzinga Fintech Listmakers",
+      "excerpt": "PRNewswire/ -- New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-constructs-nominated-for-benzinga-fintech-listmakers-301093598.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1214734/New_Constructs_Logo.jpg?p=facebook",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars.md",
+      "title": "'Hands free': Automakers race to next level of not quite self-driving cars",
+      "excerpt": "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
+      "publishedDateTime": "2020-07-15T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-coping-with-inconsistent-facial-recognition-in-apple-photos.md",
+      "title": "Coping with inconsistent facial recognition in Apple Photos",
+      "excerpt": "It is extremely handy to tag people you know in photos you take. You can then easily find images of those people across time and at specific events. This feature appears in Photos in iOS, iPadOS, and macOS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/apple-photos-100851579-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3566372/coping-with-inconsistent-facial-recognition-in-apple-photos.amp.html",
+      "publishedDateTime": "2020-07-15T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
+      "title": "Japanese robot to clock in at a convenience store in test of retail automation",
+      "excerpt": "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200716&t=2&i=1525982928&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E0JM",
+          "width": 782,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24G138",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G138",
+      "publishedDateTime": "2020-07-15T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-tiktok-gets-facial-recognition-on-americans-and-sends-to-chinatrump-official.md",
       "title": "TikTok ‘Gets Facial Recognition’ On Americans And Sends To China—Trump Official",
       "excerpt": "The threat of a U.S. ban on TikTok has become more real, with the latest warning from Trump's National Security Adviser.",
@@ -1004,7 +1195,7 @@
       "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
       "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing",
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1242,206 +1433,6 @@
         "AI",
         "AI Hardware",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-should-robots-pay-taxes.md",
-      "title": "Should Robots Pay Taxes?",
-      "excerpt": "Federal taxes are due this week in the US. But what about our synthetic coworkers? Should they cough up, too? Jordan Harrod, a Harvard-MIT PhD student, has something to say on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/s/should-rob/should-robots-pay-taxes_kaze.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/127754/should-robots-pay-taxes?amp=1",
-      "publishedDateTime": "2020-07-14T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge.md",
-      "title": "Facebook uses Amazon EC2 to evaluate the Deepfake Detection Challenge",
-      "excerpt": "In October 2019, AWS announced that it was working with Facebook, Microsoft, and the Partnership on AI on the first Deepfake Detection Challenge. Deepfake algorithms are the same as the underlying technology that has given us realistic animation effects in movies and video games. Unfortunately, those",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/facebook-uses-amazon-ec2-to-evaluate-the-deepfake-detection-challenge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/10/25/Deepfake-692x630.png",
-          "width": 692,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T09:27:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning.md",
-      "title": "Meet The Stanford AI Lab Alums That Raised $15 Million To Optimize Machine Learning",
-      "excerpt": "In 2019, after spending five years developing a ML platform at Stanford's AI Lab, the research team decided to spin out of the lab and create a company called Snorkel AI. Today, Snorkel AI came out of stealth mode announcing it had raised $15 million from investors like Greylock,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0ae2de147a4f0006e5be31%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2020/07/14/meet-the-stanford-ai-lab-alums-that-raised-15-million-to-optimize-machine-learning/amp/",
-      "publishedDateTime": "2020-07-14T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-30-years-of-family-videos-in-an-ai-archive.md",
-      "title": "30 years of family videos in an AI archive",
-      "excerpt": "My dad got his first video camera the day I was born nearly three decades ago. “Say hello to the camera!” are the first words he caught on tape, as he pointed it at a red, puffy baby (me) in a hospital bassinet. The clips got more embarrassing from there, as he continued to film through many diaper changes,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pasted_image_0_rXp629k.png",
-          "width": 1600,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
-      "publishedDateTime": "2020-07-14T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
