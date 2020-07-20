@@ -2,6 +2,179 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-06-18-kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai.md",
+      "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
+      "excerpt": "Kaia Health, a startup developing an AI-powered app to help manage -- and reduce -- chronic pain, has raised $26 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/771b40a0-8596-4e45-ac82-8cdd7015a2b2-e1592189066236.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Kaia Health raises $26 million to help manage chronic pain with AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/18/kaia-health-raises-26-million-to-help-manage-chronic-pain-with-ai/amp/",
+      "publishedDateTime": "2020-06-18T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-ai-in-computer-vision-market-covid-19-impact-2020-future-development-manufacturers-trends-share-size-and-forecast.md",
+      "title": "AI In Computer Vision Market (COVID-19 Impact) 2020- Future Development, Manufacturers, Trends, Share, Size and Forecast",
+      "excerpt": "Global AI In Computer Vision Market Size, Status and Forecast 2020-2026 Industry 2020 Market Research Report” A new report added by DeepResearchReports.com to its research database. Global AI In ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2076909/ai-in-computer-vision-market-covid-19-impact-2020-future",
+      "publishedDateTime": "2020-06-18T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-microsoft-announces-azure-machine-learning-courses-on-udacity.md",
+      "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+      "excerpt": "Microsoft and Udacity are offering an introductory Azure Machine Learning course and a scholarship to a more complex course.",
+      "sourceUrl": null,
+      "webUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/06/Microsoft-Azure-Udacity-Microsoft.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft Announces Azure Machine Learning Courses on Udacity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/06/18/microsoft-announces-azure-machine-learning-courses-on-udacity-xcxwbn/?amp",
+      "publishedDateTime": "2020-06-18T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
+      "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+      "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761",
+          "width": 600,
+          "height": 350,
+          "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "publishedDateTime": "2020-06-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-lenovo-launches-data-center-servers-aimed-at-ai-analytics-workloads.md",
       "title": "Lenovo launches data center servers aimed at AI, analytics workloads",
       "excerpt": "Lenovo on Thursday launched two new data center servers aimed at supporting AI and analytics workloads ... The ThinkSystem SR860 V2 server also offers GPU support, accommodating four double-wide 300W or eight single-wide GPUs. Lenovo is also rolling ...",

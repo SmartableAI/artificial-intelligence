@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "WWT Named Partner of the Year for Deep Learning AI by NVIDIA"
-    excerpt: "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the"
-    publishedDateTime: 2020-07-17T13:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
+  - title: "Deeplearning4j: Deep learning and ETL for the JVM"
+    excerpt: "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ..."
+    publishedDateTime: 2020-07-20T10:05:00Z
+    webUrl: "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html"
+    ampWebUrl: "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 56
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg"
+      - url: "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg"
         width: 1200
-        height: 627
+        height: 800
+        isCached: true
+  - title: "Machine learning for marketers: Getting the strategies and processes right"
+    excerpt: "Machine learning has the potential to transform marketers' operations - but organisations need to overcome various hurdles to achieve success."
+    publishedDateTime: 2020-07-16T10:51:00Z
+    webUrl: "https://marketingtechnews.net/news/2020/jul/16/machine-learning-for-marketers-getting-the-strategies-and-processes-right/"
+    type: article
+    provider:
+      name: marketingtechnews.net
+      domain: marketingtechnews.net
+    quality: 37
+    images:
+      - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/07/applause-ai-artificial-intelligence-testing-solution-data-sets-scale-news.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "tckA+n0VrrlsBiHisy0lYY3ZLkyCqv1GroV9I+jLXs7Cj5SJ8jNqYX8cDYKJ9yVvN6cPQQxloFbtS6T3UtMbW0PKW/aKCEm1jJZ4KIco0sbR1kwHgwAdrM2h4RIfEaV/SId2T5HbFEl4aIYZ7wdu0q6peiSYcR0dnIA8DKp5qQE+t34TQ+i1fw6p1cm/paDFy82oTlpLuR7Jg291AAT4GbyXoztAE3uY80YJpTPZG1eVagwLCYI87E6iU5cHpHAf+H3Kg/hbFsGSxqh/HtkchZhugMTupHIwm7Vk4tQ5nsNRMne20IzbqaL7/pxddvMVZ+p0RN0p0jB3/xAbRRVelA==;inzaPrbef3FhoGnlsvBh4Q=="

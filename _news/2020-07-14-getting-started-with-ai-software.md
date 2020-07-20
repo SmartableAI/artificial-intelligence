@@ -1,32 +1,25 @@
 ---
 category: news
 title: "Getting Started With AI Software"
-excerpt: "To derive insights from all this data, organizations need substantial compute power, coupled with developer tools and optimized algorithms."
-publishedDateTime: 2020-07-14T11:50:00Z
-webUrl: "https://www.infoworld.com/resources/205772/getting-started-with-ai-software"
+excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+publishedDateTime: 2020-07-14T11:51:00Z
+webUrl: "https://www.cio.com/resources/205772/getting-started-with-ai-software"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CIO
+  domain: cio.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "Z6SUgMX2PCYWjlyZdJ/MZIJIsj6QIExNpQ7rJqOxbRXNKMO5mAf2nQkwFfwWCKf9A/VdheSii4GbbuHbiLEiwnhVyZHDISggDJNQgo2tKTvOVL86KPGu6uc1GRg8PqKPRUMjv9zD5OimLFRbI8jnKR00fP2bXfFVsv6MdAt9LP32zPVP6AV3R9456yQEx2JrIeDbtyyTlzpRFh/i8vqDP9gGQ3lju2LXX0OmwVTO7KLIKrhD36vfv88+5qYUJTI0mkPD9ue7eH6e7WYUEZHrlCHAwP34DiFFJtfuWKuvhl4hkapcrWpcKv/UIKmfb1YoijnZFhO9B+Q/+DxnzLjbOTFqxYeyuEYHa0ZsXdNUmwHUlX1mKPWSh9HVNyUtv3j4outsHNDJ6Zp90xkF9lm9iVIyYDR69driDp1x/ewFxi7nACfAjVuSUpi2BtQ6vICmF27rB4KFHpzpT2GLUflNEz3LdmkltmHgLCJWKipA8jaCIJqfO8a56jQ7Re0NwBzf;oTyZ8nlNX6y75xZ0fVYWCw=="
+secured: "U8ND/oB5H7DWhGDjUZlRGr6IDSBFFlXhr+H0ck9Y1nYTlbCXQ8hQ4tQ7KPqIN56pKu3GyyvCCE18mifRym/yMzg6YgCmv9Vk2AaemA6VbjD3fD2s0EebWVdTp5KoUote7r8OabKVeNxc5UNLc6HTT+rPoHoblSute8VrJHkwJzOgfVGW0YAINH+a7T9zBsBnZeAK/NhoGLcgGrBKb9ylXp+iHz3JQVytpbJW2VNGyotjuyIXfMMb2l8jmoYZXyFcidbFRmo85Q264n0/cv4BOFn+mX59dQGFh0B5syt1xV2MD1NNatoav4I1QQwk5jJcBXqhfoCBWpGnxbsJev8jDQ==;NnSU0DTsEWDDp7dt5cDrfw=="
 ---
 

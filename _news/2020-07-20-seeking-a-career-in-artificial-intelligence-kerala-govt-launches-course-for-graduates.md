@@ -7,8 +7,8 @@ webUrl: "https://www.newindianexpress.com/states/kerala/2020/jul/20/seeking-a-ca
 ampWebUrl: "https://www.newindianexpress.com/states/kerala/2020/jul/20/seeking-a-career-in-artificial-intelligence-kerala-govt-launches-course-for-graduates-2172297.amp"
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/kerala/2020/jul/20/seeking-a-career-in-artificial-intelligence-kerala-govt-launches-course-for-graduates-2172297.amp"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/3/5/w600X390/declare_AI.jpg"
@@ -24,6 +25,6 @@ images:
     height: 390
     isCached: true
 
-secured: "R0eOUE4gKVtn68W8mAz8ZNjx8VH7mEyUeLp97clorA3HHGd0GisQ/HTCGnFMCfhWD+kPBZz2dbqhufxvnKcovVCNgxAtRP8WeWabIE2D5L8dJgB/EAdJrHMjTAZJvv1AMZUlTFpL7SuG5EOZ8IXtVP9h/XQkbGSMpBUswQIUhCs95lewyM+fyirkWcGApmqpOomSR+Xz+BY9HTJtBVf4I4JlW2nd8l+iV69p3HdJ/Sn3OEijrsoSTuqVRnWiWdXjcbnW/CS+ReFNsWOC+4/fHZK+J6hC0+ADPTMIVLQhJVzRz4apLkWX2Dn3W++AkdV5ICEiWJT9w1Pi7AQcqsWC4g==;WKGqWc3r2i/amVKHTTgOYg=="
+secured: "2y7SyTcgx2aAymBeBEoxu7bntyrxGB2J4zLSJy6VAu3JFlppSY/nw+gijZp7xIuA4RjPHo+2SDvVNUUf5Heb5k1ZFgdave3dWHuqXsQX3cr5zcNo8XLV9AtgxHvXCYCtxBnBI3PuR2GALckdzYYub+a+Q/avSJvgbqKyc5UWZsJU1mpVv3I6hvG8EMW+3p6o5QTNqjM9UV+ppwCIZaAKK5i2107p3tPgaD3n2BtfrbaWv2IzqOLYIEb14ToLvtw2b+bfCDLCimd24odMWikA61TNE3GPDsgCCAswRRKEPr40VAOHEfODVD8H/bypFe25mP6YqiHrOib1yAHfSFNIsNduae20EoJojhZaWxdFDwV2NfFdB5xCnD2YMummX6H+p9v3cvJgpLpmREs/dmL60fyokA+K4zJFr4TX3pZm2dOlVITUzxIjP2gma56qhKOxlflIiSzh7VrOErhPRGysc5W6tzSm0vft5el9hLA0hf12/+tmW+O28r2IYNmY75yqDtqVVBlXNPUTFYaa7IeTpA==;2a03OU9IzTHBeU918U8bXg=="
 ---
 

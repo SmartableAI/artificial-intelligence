@@ -42,22 +42,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Navistar to develop self-driving trucks with TuSimple"
-    excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-    publishedDateTime: 2020-07-15T18:38:00Z
-    webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Navistar Partners With TuSimple to Launch Self-Driving Trucks"
     excerpt: "Navistar International Corporation NAV announced that it reached a partnership with TuSimple. The companies aim to develop SAE Level 4 self-driving trucks, whose production is targeted to start in 2024."
     publishedDateTime: 2020-07-16T14:54:00Z
@@ -112,22 +96,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Navistar partners with TuSimple, plans to produce self-driving Class 8 trucks by 2024"
-    excerpt: "Navistar International Corp. has partnered with TuSimple to co-develop SAE Level 4 self-driving Class 8 trucks, the companies announced July"
-    publishedDateTime: 2020-07-15T19:00:00Z
-    webUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/"
-    ampWebUrl: "https://www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
-    cdnAmpWebUrl: "https://www-thetrucker-com.cdn.ampproject.org/c/s/www.thetrucker.com/trucking-news/equipment-tech/navistar-partners-with-tusimple-plans-to-produce-self-driving-class-8-trucks-by-2024/amp/"
-    type: article
-    provider:
-      name: THE TRUCKER
-      domain: thetrucker.com
-    quality: 37
-    images:
-      - url: "https://www.thetrucker.com/wp-content/uploads/2020/07/Level-4-Autonomous-Truck.jpg"
-        width: 720
-        height: 380
-        isCached: true
   - title: "Navistar to Produce Self-Driving Trucks by 2024"
     excerpt: "The commercial vehicle and diesel engine manufacturer has taken a stake in TuSimple, and together the two plan to start manufacturing SAE Level 4, Class 8 trucks with that firm's autonomous technology."
     publishedDateTime: 2020-07-15T21:45:00Z
@@ -155,20 +123,6 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
         width: 768
         height: 432
-        isCached: true
-  - title: "Navistar, TuSimple Partner to Bring Self-driving Trucks to Market by 2024"
-    excerpt: "A collaboration between Navistar and TuSimple will accelerate testing and proving of technology capable of running commercial trucks at full driverless Level 4 operation by 2024."
-    publishedDateTime: 2020-07-15T18:04:00Z
-    webUrl: "https://www.truckinginfo.com/10121289/navistar-tusimple-partner-to-bring-self-driving-trucks-to-market-by-2024"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 23
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/navistar-tusimple-front-__-1200x630-s.jpg"
-        width: 1194
-        height: 630
         isCached: true
 
 secured: "pi9eKjFiE7hP7DuZCwYbhcJ2Wl3ZJytMA5qneqhWOKEA95Y64Slrlcvm2L3CsjwdLqXYIcSRpN/NESZlizZyoCMi4COa/iUdh5K0ZTX1HTY8e0HaGreBkIPuAinPgmjjclSnbxBteLcMSpUDNFn29U4sc5RNj5b1IwSPKc7E/s6GqwMSMTZDnsKgLdeiFZJR0odk2OoAHt8jGg2jbWcQx2+EaFkx5E+ecE1RsxgWUJw6+7n8g2QLdMmjABk0LuNzqLMdc94+Dajc/ZcIVSksdgnk66zXpxi5zz4LPxTqLhVD6DLKZuQU3s6xMzHQ2Yb9G760w+CkFHN+UnaxG9PiY2moPk3oSqfzBD/a/0sfr4GIAulItQbkAL50x3S+CVcqh/0yR0ZuPr+ytNo6r0TeFyU5cd7SGKPhg+vAr17g7oKmo1uPkYuvEFqjPqVh6Z7X0Uekv+aT7qnh45hi/od+nv6AapxACuGyNAnsNJQDBfVnhNv7I6OdQKtpq0OgAS9g/Wzah9gUNsTmQg3AmZePag==;7ZIlprgucPz1kFH6QEZkFA=="

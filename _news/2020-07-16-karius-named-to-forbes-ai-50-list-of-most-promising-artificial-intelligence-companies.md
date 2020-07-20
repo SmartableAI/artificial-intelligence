@@ -8,7 +8,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -22,24 +22,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Pioneering study uses traffic cameras and AI to predict future, promising to save lives and money"
-    excerpt: "In an effort to prevent deaths and injuries caused by crashes between vehicles, bikes and pedestrians, the city of Bellevue, Wash., set out more than five years ago to foresee the future."
-    publishedDateTime: 2020-07-15T17:15:00Z
-    webUrl: "https://www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/"
-    ampWebUrl: "https://www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pioneering-study-uses-traffic-cameras-ai-predict-future-promising-save-lives-money/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 74
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/07/bellevue-cam-630x362.png"
-        width: 630
-        height: 362
-        isCached: true
 
 secured: "yPccJ2gLTk9jxcFc6Jv3hEOuc6zhodXANpDL765K/sI9UfbjzeB742QtVDOhMqnPIzeZd8emfKZmMeZJOUwaRi0kJJfHOoCM9I8bvaF2uJYHRGjPR3eh3g5mmpI5enrfX5XZxpOKUCVqWb0Bqn55Z8c9QMvlZhtTktfXByXYFH5zEdHal0MEHcjbwT/dOZ//eyUkGnKWEwPSm8yKW4krn3ZIpX5Jq4SqmfR8y4je1pzXci7coWTMGEuoCxEJJRwSLD57fIJ6/bcROfTEFIlN/HkU2mknDjazbMjjOh7Gr68JhcwpZ5oSK0HRkLoiNrlxqYTF87E7Xns41U+Fmh48Eg==;CkNakm50YODFh3dDwtjWaQ=="
 ---

@@ -27,19 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Speech Recognition Software Market 2020 Global Trend, Segmentation and Opportunities, Forecast 2025"
-    excerpt: "The speech recognition software is the latest advancement in technology to enhance security systems. The application of speech recognition in the healthcare and automotive sector is increasing at a faster pace. In the healthcare sectors, the speech ..."
-    publishedDateTime: 2020-07-15T18:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16638874/speech-recognition-software-market-2020-global-trend-segmentation-and-opportunities-forecast-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16638874"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16638874"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-
 secured: "kAIuzdxl3kHQCj/Y8FkH110uGG7sWGhc0Wd7OIn4oMQef+glXZXyWV5n9/F1FnUgqy35Blgxfiar/ILNUK2jxul48ogHDXtG1YNm7wsBwV/KEfi2YtPzELFo1rx0ECeZPO5l9X3FjzckBPTAyjbErU+u2YYFohowLBnQMhuVmdUgtlviOdx2ndbnn0wIQICFydbsqNnIzWF4x+wtqRIVXCs3+QU/HDNrGBa8lnJN48yjhxmXu5KVYJpVk+taK0szuoQwxEDZnAiYriHR5SpSsj0B7IjTMYrSJ4cR6E67zhKkQsF+G3RP4TE8EcXo7dY0ozkRKDBJREr7VeM5adc4gw==;Vu7z7ki/uPOZ6VcHBdWPUA=="
 ---
 

@@ -24,22 +24,65 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Is Everywhere. Here’s What We Can Do About It."
-    excerpt: "You can opt out of facial recognition in some cases, but the history and future of the technology suggest we’ll need bigger solutions to its privacy problems."
-    publishedDateTime: 2020-07-15T18:43:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/"
-    ampWebUrl: "https://www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/how-facial-recognition-works/amp/"
+  - title: "Amazon, Google, Microsoft sued over photos in facial recognition database"
+    excerpt: "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies."
+    publishedDateTime: 2020-07-16T01:24:00Z
+    webUrl: "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 88
     images:
-      - url: "https://cdn.thewirecutter.com/wp-content/uploads/2020/07/202007_facial-rec-630-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg"
+        width: 756
+        height: 567
         isCached: true
+  - title: "Lawsuits allege Microsoft, Amazon and Google violated Illinois facial recognition privacy law"
+    excerpt: "In a set of new lawsuits, two Illinois residents argue that three tech giants violated state laws prohibiting the use of personal biometric data without permission. Illinois residents Steven Vance and Tim Janecyk allege that images of their faces appeared in IBM’s “Diversity in"
+    publishedDateTime: 2020-07-15T21:10:00Z
+    webUrl: "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/"
+    ampWebUrl: "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024"
+        width: 1024
+        height: 685
+        isCached: true
+  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
+    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
+    publishedDateTime: 2020-07-17T17:33:00Z
+    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 68
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amazon, Google among tech companies facing new facial recognition lawsuits"
+    excerpt: "Alphabet Inc's Google, along with Amazon.com Inc, Microsoft Corp and FaceFirst Inc are facing new federal lawsuits in California and Washington alleging they unlawfully collected biometric data to improve facial recognition technology."
+    publishedDateTime: 2020-07-15T20:20:00Z
+    webUrl: "https://www.reuters.com/article/biometricprivacy-facialrecognition/amazon-google-among-tech-companies-facing-new-facial-recognition-lawsuits-idUSL2N2EM20V"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2EM20V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
   - title: "Facial recognition is tech so special it should be banned"
     excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
     publishedDateTime: 2020-07-18T10:32:00Z
@@ -56,33 +99,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition: IT and police in delicate dance"
-    excerpt: "Privacy and rights groups worry about the implications of the use of facial recognition technology by law enforcement"
-    publishedDateTime: 2020-07-16T10:50:00Z
-    webUrl: "https://rappler.com/technology/features/facial-recognition-it-police-delicate-dance"
+  - title: "Microsoft Sued For Using Image Dataset To Improve Its Facial Recognition Technology"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2020-07-15T22:04:00Z
+    webUrl: "https://lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Rappler
-      domain: rappler.com
-    quality: 39
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 53
     images:
-      - url: "https://assets2.rappler.com/2020/06/1592464321-facial-recognition.jpg"
-        width: 360
-        height: 360
-        isCached: true
-  - title: "Facial recognition is part of voters registration exercise – EC"
-    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
-    publishedDateTime: 2020-07-17T08:14:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
-        width: 600
-        height: 392
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/11/microsoft-1024x711.jpg"
+        width: 1024
+        height: 711
         isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
@@ -97,6 +128,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
+    excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."
+    publishedDateTime: 2020-07-15T23:17:00Z
+    webUrl: "https://www.law.com/therecorder/2020/07/15/microsoft-google-and-amazon-face-privacy-suits-over-biometrics/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 24
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/data-points-Article-202007151929.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "4dO2n1zFZpDKshihN3lL9bRaaFpaGzMc8tb8szwyj1M1oft0xsMtpnb172AO87w0lqjH/E1B+Lkcfuf8j+NAVZ20l9bTjy5UsqV0RsfFRm9ggLlcju6YcK3tPoQ7CXSQdBO+OeCRaLlZs2qUsvu44rxWZ7r7r30XHpM4DEcEddwk4D9qMVs5C75IkLa9vfMYhgV95bfwwkuT3sALtVnBCxb6aAoxMIoPBJbC0p4Q3mTHjDOau4G+s9glKTAAezXg3et1eOzLz3syI9sBMMttxqssBqWMLGTUM4KoGrFQ2yM4JoA8RDsw13qD31fFiBN4ap8pI8nmoEWahNQWTtLBk8fzOTRO+KtBkeFzJ1UPYNGBl2JcvXbz4Buimg78kdc4kr8lLC81E2jvvTk7sVrCZWdJ3tCk+4GK5cD73QDFOC0plaIUDT5rAv1EGsLnx5711pTYqgoNGNxZ83Uq0RIBPZKJH5H2sMP9QcdwAerprtZLHk24+4Komi/TCLkICszF8OHtSNeXgvLbyYRGdHnCbQ==;qmc5/4MMmrPY1ru8LUJDAQ=="
