@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/?ss=cmo-network</loc>
+    <lastmod>2020-07-20T10:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20</loc>
+    <lastmod>2020-07-20T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/</loc>
     <lastmod>2020-07-20T08:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -229,6 +241,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/</loc>
+    <lastmod>2020-07-17T16:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/</loc>
     <lastmod>2020-07-17T15:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -343,8 +361,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020</loc>
-    <lastmod>2020-07-17T05:33:00-07:00</lastmod>
+    <loc>https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/</loc>
+    <lastmod>2020-07-17T06:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -375,12 +393,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17</loc>
     <lastmod>2020-07-17T03:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
-    <lastmod>2020-07-17T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -523,12 +535,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.entrepreneur.com/article/353390</loc>
-    <lastmod>2020-07-16T07:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.zdnet.com/article/big-backing-pair-doctors-ai-assist-technology/</loc>
     <lastmod>2020-07-16T07:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -615,6 +621,12 @@
   <url>
     <loc>https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6</loc>
     <lastmod>2020-07-15T17:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sciencedaily.com/news/strange_offbeat/health_medicine/</loc>
+    <lastmod>2020-07-15T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -932,6 +944,12 @@
   </url>
   <url>
     <loc>https://www.designnews.com/electronics-test/how-facebook-combining-augmented-reality-and-ai</loc>
+    <lastmod>2020-07-14T16:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/materials-assembly/prosthetic-arm-can-sense-touch-move-wearers-thoughts</loc>
     <lastmod>2020-07-14T16:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1585,7 +1603,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=24&amp;itm_content=2x2&amp;itm_term=2356592</loc>
+    <loc>https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=10&amp;itm_content=1x6&amp;itm_term=2377121</loc>
     <lastmod>2020-07-10T06:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2767,6 +2785,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.mddionline.com/rd/5-lessons-dean-kamen?qt-qmed_resources_widget=1</loc>
+    <lastmod>2020-07-04T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain</loc>
     <lastmod>2020-07-04T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3345,6 +3369,12 @@
   <url>
     <loc>https://apnews.com/b27e0212bb0a29103a83f4ea36c439c8</loc>
     <lastmod>2020-07-01T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://diginomica.com/different-experiences-different-perspectives-better-decision-making-neurodiversity-hr-equation</loc>
+    <lastmod>2020-07-01T03:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

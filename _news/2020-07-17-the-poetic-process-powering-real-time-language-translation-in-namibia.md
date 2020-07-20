@@ -3,13 +3,11 @@ category: news
 title: "The poetic process powering real-time language translation in Namibia"
 excerpt: "If we can design applications that are able to translate what we’re saying in real time,” Nekoto says, “then that’s one step closer toward economic [development].” That’s one of the goals of the Masakhane project,"
 publishedDateTime: 2020-07-17T08:00:00Z
-webUrl: "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/"
-ampWebUrl: "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/"
-cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/"
+webUrl: "https://qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Quartz
@@ -29,6 +27,6 @@ images:
     height: 761
     isCached: true
 
-secured: "bf3ozG+R8DKGUQLmHu2f6QOdI3k2jaKtLc3Mw/JMry01/PTDUi/yYHOL//m08Rhq1GIc/PhqizPwa3eoNCeLRTo2sMj8r+jGznM1eFF42UwuRD5JpP4g9oWERHBLC478a2QH5F5refNpY064P6ya1a7ZWelgBsILXiWymjUE9GdHgy9JP9eT/D+JDgrO2aAIST7X7NelT57cuBOth6gWu57n07nfFRWES4QKB4y0Cv3geYUj71uTWO8veSII5Ql7j+UuqkSOshUzWI921oh5Hy5hRZAKqTPK/6VXH2SuVDdULwWChFF1xIXl2QxLkmBQR+2wevxheZiA5gtnNP+JFRBfFq1zJ6qUDbWO7i6kM1WFZzAwy15+J/pXJdxX8SiSJpA5dgoBGZhIBRZ+Bkb3xxowrbBr+BnogA2JeJZMN0xzi+Eky3rgMNK/Ek3VwtLbGX+YPYJmUlGxRWhkYmhgrD5X91O5vfv3pwUIvIg0oLmx8hZHJlwqf+kvg1kVI88A6aOYu/j0CETOUUnE3mBOSA==;Pbq3P+eGSF77EoyaR5WK+A=="
+secured: "+lexvozRpyKKLSRjry6prQAQHQszfJlttDcusWjIEaGiTZfA6ZHkJfbBv/iGhFBG4bGXfOf4Mh5D4eIJ55/OeeZG1QSZd+6yINuuuPh1F4OG2ETlQlQF7oRg1I6WGqdcNjqi7mZvDNaI8yC64+rhDiAPLqN5ng2GmbNNX4c/qh7nPiuT/i10Ngnmr7VukfL7CBz2ZDC/iTBf9t31mUUY0jDNZ/EM2u1tniGY+KSrqqi+U4wwTeF4iWGoqGJskNb8j31qjUGIx3/YuxV3PZvgA7/6djNFNOFzaVvllnLdJsSUOeZ6bdlq020s5AjHvAsC+HfF63O05K9CHuMZNLxwcg==;ucmolGxwDDe8aGY/drxh4g=="
 ---
 

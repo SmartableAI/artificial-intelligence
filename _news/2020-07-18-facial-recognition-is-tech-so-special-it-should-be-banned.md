@@ -83,20 +83,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
-    excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."
-    publishedDateTime: 2020-07-15T23:17:00Z
-    webUrl: "https://www.law.com/therecorder/2020/07/15/microsoft-google-and-amazon-face-privacy-suits-over-biometrics/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/data-points-Article-202007151929.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "LlifigE+iJOzqn8pWxVxYl1W+1bs5waQ98xscZ3U0dj+MB8kNXILSWGux9fYPh35Ctmbj52DbG97GaISnua+P/N42O5wQOB2A/Z4wpwaX7Vb2P7dhCUnt7wdG3SDEn0hXqv4j83+4fZCTlfbkENusBsYb9Cl+3ZCoqONsRixhjzIRwu4ONR4nNI5hTp82cwBwqr/A7DkjvBiM8atBsqan7mH5yH1wMFzOJtRDkj8gLK0TgqquxzsrhhMIuDABsd5RrWg3Tcl7Px4v9aNk6R9K6yB8Y9nyt6CT5ddiGvO86szSIbvGibiHpfyHyjPgVtttS4JSCHCV90F36IHk3uwlQ==;MGq1U9sdB9HjUxBF16GqxQ=="
 ---

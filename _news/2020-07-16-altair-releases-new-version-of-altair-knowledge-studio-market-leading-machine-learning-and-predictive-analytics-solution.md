@@ -24,20 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Altair Releases New Version of Altair(R) Knowledge Studio(R) Market-leading Machine Learning and Predictive Analytics Solution"
-    excerpt: "\"As a powerful solution that can be used by data scientists and business analysts alike, Knowledge Studio continues to lead the data science and machine learning market,\" said Sam Mahalingam, Altair chief technology officer."
-    publishedDateTime: 2020-07-19T04:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine-learning-and-predictive-analytics-solution-2020-07-16-7184020"
+  - title: "How Automation, AI And Analytics Driving Martech Amidst Market Challenges"
+    excerpt: "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges."
+    publishedDateTime: 2020-07-20T17:34:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/?ss=cmo-network"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1073605244%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 802
         isCached: true
+  - title: "Augmented Analytics: How Smart Features Are Changing Business Intelligence"
+    excerpt: "The latest breakthroughs in business intelligence and analytics are seeing the application of heuristics, machine learning (ML), artificial intelligence and automation to improve data access and data quality, uncover hidden patterns and correlations in ..."
+    publishedDateTime: 2020-07-20T13:13:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 50
 
 secured: "k0H2H26/vxaog/fRb/jwFM6J3c6K2pRWyD6SsxpFeSz54W4Lb8M2NgZjw9X1S2bNQFwLrBDmHbUOpe1BYOBMMFIBsZeyi7PsiaPPELVY5E5zz7F8rhlWecaaWDFeGzlIc8ZwqLQqszqo/GkToU27IZlKtHM2NWS6GtjoIQcchgZ4POgovjmWACJ+9PJ4iZdXOJZCQiTLeh/Ee9PVeLQn1iDbn+dS1O8hJVdGlHqH7jp5zswclmj36hlRNj8Ano5oDi4+LxFrtcAHYOFGLWk6Q3I0OJTpcYpN8NFCH0NYqoqrcjLjJFhJTfj5DseHUtNr5oqOaYQpxWoroHgaMqK56w==;qFZNPK/WYj/tH/0CaCNOOw=="
 ---

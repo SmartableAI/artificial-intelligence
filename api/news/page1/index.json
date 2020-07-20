@@ -2,6 +2,87 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-20-how-automation-ai-and-analytics-driving-martech-amidst-market-challenges.md",
+      "title": "How Automation, AI And Analytics Driving Martech Amidst Market Challenges",
+      "excerpt": "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/?ss=cmo-network",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1073605244%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/",
+      "publishedDateTime": "2020-07-20T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton.md",
+      "title": "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton",
+      "excerpt": "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
+      "publishedDateTime": "2020-07-20T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-deepminds-ai-automatically-generates-reinforcement-learning-algorithms.md",
       "title": "DeepMind’s AI automatically generates reinforcement learning algorithms",
       "excerpt": "In a study published on the preprint server Arxiv.org, DeepMind researchers describe a reinforcement learning algorithm-generating technique that discovers what to predict and how to learn it by ...",
@@ -59,7 +140,7 @@
       "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -98,7 +179,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -209,7 +291,7 @@
       "webUrl": "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "type": "article",
@@ -448,7 +530,7 @@
       "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1109,96 +1191,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow.md",
-      "title": "Caja Robotics offers smart machines for the warehouses of tomorrow",
-      "excerpt": "From the Spanish word for ‘box’ or ‘present,’ Caja offers a flexible set of solutions in an age when COVID-19 is making online shopping bigger than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/460907",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
-      "publishedDateTime": "2020-07-19T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-weird-ai-illustrates-why-algorithms-still-need-people.md",
-      "title": "Weird AI illustrates why algorithms still need people",
-      "excerpt": "These days, it can be very hard to determine where to draw the boundaries around artificial intelligence. What it can and can’t do is often not very clear, as well as where it’s future is headed. In fact,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-1-5-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/amp/",
-      "publishedDateTime": "2020-07-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -28,45 +28,63 @@ images:
     isCached: true
 
 related:
-  - title: "Former Ford President Joins Self-Driving Radar Startup’s Board"
-    excerpt: "Joe Hinrichs, a former top executive at Ford Motor Co. who left the company earlier this year, is making a tentative return to the auto industry by joining the board of a startup developing technology for self-driving cars and driver-assistance features."
-    publishedDateTime: 2020-07-20T13:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
+  - title: "The Famous AI Turing Test Put In Reverse And Upside-Down, Plus Implications For Self-Driving Cars"
+    excerpt: "The goal of those that develop AI consists of one day being able to have a computer-based system that can exhibit human intelligence, doing so in the widest and deepest of ways that human intelligence exists and showcases itself."
+    publishedDateTime: 2020-07-20T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-  - title: "Former Ford exec Hinrichs joins board of self-driving radar startup"
-    excerpt: "More than four months after retiring as Ford's automotive president, Joe Hinrichs has resurfaced on the board of a U.S. company pioneering a unique sensor for autonomous vehicles. Hinrichs, 53, has joined the board of directors at WaveSense,"
-    publishedDateTime: 2020-07-20T12:43:00Z
-    webUrl: "https://europe.autonews.com/move/former-ford-exec-hinrichs-joins-board-self-driving-radar-startup"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Hinrichs-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176737178%2F0x0.jpg%3FcropX1%3D508%26cropX2%3D4329%26cropY1%3D96%26cropY2%3D3239"
+        width: 1200
+        height: 987
         isCached: true
-  - title: "Former Ford exec Joe Hinrichs joins board of self-driving radar startup"
-    excerpt: "Hinrichs, 53, has joined the board of directors at WaveSense, a startup that uses ground-penetrating radar to help self-driving vehicles better understand and navigate road environments. \"WaveSense is delivering the most precise and reliable vehicle ..."
-    publishedDateTime: 2020-07-20T11:21:00Z
-    webUrl: "https://www.autonews.com/executives/former-ford-exec-joe-hinrichs-joins-board-self-driving-radar-startup"
+  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
+    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
+    publishedDateTime: 2020-07-19T06:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Hinrichs-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
+        width: 600
+        height: 237
         isCached: true
+  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
+    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
+    publishedDateTime: 2020-07-16T19:51:00Z
+    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
+    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 44
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
+        width: 984
+        height: 738
+        isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "8rWP31wntKfGk0bfsZD/1HAnAZJdaLJ73Ak//sRUdifqSvarYPvFS1R6deTyCCz+x0rcHc46qkdjlZn01+mW7v7kYy77hOtTEnzdHobOw1gLOBCr/VbhxSnA2jgoGdtKqAkJqH/UodM8eZLkYM7adT3eTRIHm019MVRddZu0rOupN8iNkzQALWrX3Fjjzw71jF/VDgCZbKgbdPzX4QRZvuE3k2mHS5QUbhs6uJYcyWrdsIKL03sEzuhNv1E1Ty3Pl9bZNb4fgcCDMsDd8BDsuZPVEt5UQxJmZRqBocOHktOknEbIrIkQZUuw6w/tYcx8NrECqrw1fCpX5XDLxrbI7LpxqoNeqwuSXEQ5MO/8yApngOnP9WI7bjFzhEj5cLK/Y5KTa1fcYjzzHtkHiDwYEZORH43KWTqnC0Eo4iyulaD2R5ksKVZ6sSLEaRGrI0c51NmHVx+GCBFTVKFFL2HjIzqCUC7ItqkJ+msaOXKIqt85SMVh6YRZVKuPXcEuzMplf73C6wqxd3F9qJKBFFQBBQ==;0a8ZmAQJKDM/TmUJOeAkfw=="
 ---

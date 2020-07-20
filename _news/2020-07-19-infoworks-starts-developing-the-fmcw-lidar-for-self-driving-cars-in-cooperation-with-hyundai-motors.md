@@ -27,63 +27,61 @@ images:
     isCached: true
 
 related:
-  - title: "Navistar Partners With TuSimple to Launch Self-Driving Trucks"
-    excerpt: "Navistar International Corporation NAV announced that it reached a partnership with TuSimple. The companies aim to develop SAE Level 4 self-driving trucks, whose production is targeted to start in 2024."
-    publishedDateTime: 2020-07-16T14:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/navistar-partners-with-tusimple-to-launch-self-driving-trucks-2020-07-16?amp"
+  - title: "The Famous AI Turing Test Put In Reverse And Upside-Down, Plus Implications For Self-Driving Cars"
+    excerpt: "The goal of those that develop AI consists of one day being able to have a computer-based system that can exhibit human intelligence, doing so in the widest and deepest of ways that human intelligence exists and showcases itself."
+    publishedDateTime: 2020-07-20T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self-driving semi-trucks are picking up speed"
-    excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
-    publishedDateTime: 2020-07-17T17:39:00Z
-    webUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    ampWebUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176737178%2F0x0.jpg%3FcropX1%3D508%26cropX2%3D4329%26cropY1%3D96%26cropY2%3D3239"
+        width: 1200
+        height: 987
+        isCached: true
+  - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
+    excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
+    publishedDateTime: 2020-07-18T13:15:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
+    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
+    publishedDateTime: 2020-07-16T19:51:00Z
+    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
+    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
     quality: 44
     images:
-      - url: "https://images.axios.com/ifc7Ygzbr5pYhvK5seDPPNXtJZ0=/fit-in/1366x1366/2020/07/17/1595004050933.jpg"
-        width: 1366
-        height: 768
+      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
-  - title: "TuSimple, Navistar join to develop self-driving semis for mass production"
-    excerpt: "The level 4 self-driving semi trucks being developed by TuSimple and Navistar would be able to perform all driving tasks and monitor the driving environment in certain circumstances."
-    publishedDateTime: 2020-07-16T00:45:00Z
-    webUrl: "https://tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.html"
-    ampWebUrl: "https://tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tusimple-navistar-join-to-develop-self-driving-semis-for-mass-production/article_f3032b37-0c4d-5eb2-ae2c-4a867839cfff.amp.html"
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 43
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/8/fc/8fc8f6e1-5e5d-506c-af41-f001d0fece92/5f0f910a97019.image.jpg?crop=1762%2C991%2C0%2C92&resize=1024%2C576&order=crop%2Cresize"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Navistar Enters Self-Driving Trucks Market"
-    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
-    publishedDateTime: 2020-07-17T12:13:00Z
-    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
-        width: 768
-        height: 432
-        isCached: true
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "0eTmkA2UT5snbIAoWaXQMIASVUPGvgzk6TCfrRPLwEAUjnHcZ8plOjRiTaTm+9X9I8QAIYi3x93QHteWKdROEaJxWHmiLdFeI2BKYw22pCCGJC6zcp5qz13JO2dZLs3qDCyOP8oViXF7VweL1YMoDAezzHpfark/pA7s06g4ayDhWwTbkBLXFH+PxhM1gLikKIv/8JH5gaC7xWIvHDMLZYfSaQWcKLkXVBCJKne1D8sj4dpAl2UN38Ka10ZGbW42Qch+mDeH3b1SRpBSA/YOkZp2oZNvvScuDFmgtW39ZWeP4HTrsr4ql8qsS/OwMMvoCLtQlSOH7onMl6BCLVXda4lPPnm+T89QkIOoNDOFthsSSwFvoBvQKxIJEgrfwSCY9KME6mKv/tEkU+X+uWfQgnnBpZ/Q9PtkB3+8wpg0HzuQaxdnT3tDFMn5OQ3TnuctaH9TwB1rsPCS4Jnw68uPMqT43k1FWAFvc2EvgBcMfn4N+NUe02xvsxNLuDoNc9uJ;9hs2Pvu6jtnnP2rMAqV1Hg=="
 ---

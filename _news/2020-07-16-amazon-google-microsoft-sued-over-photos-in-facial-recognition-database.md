@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sue
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/"
 type: article
 quality: 88
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
         width: 1400
         height: 787
-        isCached: true
-  - title: "Microsoft, Google and Amazon Face Privacy Suits Over Biometrics"
-    excerpt: "The lawsuits target the companies' use of IBM’s Diversity in Faces Dataset, developed to reduce racial and gender inaccuracies and biases in facial recognition technology."
-    publishedDateTime: 2020-07-15T23:17:00Z
-    webUrl: "https://www.law.com/therecorder/2020/07/15/microsoft-google-and-amazon-face-privacy-suits-over-biometrics/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 24
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/data-points-Article-202007151929.jpg"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "BCkDys8HZnSyu3pdJzshQ0dBLmaDsC6yLnJdjjFOSJhWEbM3iNQ77rzmuBYuEI185OqOtvcykfPlhfVDpSTZ+YQOmWf5yAtsxYQ54GTe4jVGjg34wTcA+1XJYCyFmUn+C3JGYB+8Cqfn482tfiZ1zy7CnlEhOdKLlgr75w/De3ZZtWdBDj5K0XO2iYlhE+U9AW04qCzZZT/OXs3Apae0dxk+OJlfKlV2c1vvBFGBa7MEg1Da2Y3orp21DP88ajndQedxmDQqiL9Znal5iFzAfXv+enZ77VDbkxSXhsPSjCefipJn4t/+8AsWIQBbjVsnLeCddR2MTj0AhX9lpX6fHWvy6du8z8ieGVs4ozeFLzMeKOJvxjr/FfTp9Zo41qlYk/Frju26eEeMc9gTkL8dJ04pFxDNCBiAKk28Id8U0X9WA4rgQ8zahbfpg0Lm5vnp7uGuAJmhqxl27SaTwk9WFR5pZbTqAKEu3/BO+avtN6wJK/DMf8Kb76PoHyx5obQjYjNKmULM7TDZ6qk/nXQj2g==;n3wd1F5ES9zOCwkp5TcITQ=="

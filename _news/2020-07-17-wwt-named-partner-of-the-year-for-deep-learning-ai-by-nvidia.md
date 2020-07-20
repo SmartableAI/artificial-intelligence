@@ -28,7 +28,7 @@ related:
   - title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA"
     excerpt: "SFL Scientific today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Service Delivery Partner of the Year 2019 for the Americas for the second year in a row. The NPN selected SFL Scientific for its AI consulting and development services,"
     publishedDateTime: 2020-07-20T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200720005375/en/"
+    webUrl: "https://www.businesswire.com/news/home/20200720005375/en/SFL-Scientific-Named-Partner-Year-AI-Services"
     type: article
     provider:
       name: Business Wire

@@ -18,92 +18,67 @@ topics:
   - AI
 
 related:
-  - title: "Intel's Mobileye will test self-driving cars at up to 80 MPH in Germany"
-    excerpt: "Intel’s Mobileye self-driving division has received regulatory approval to test its vehicles on German roads, Intel announced."
-    publishedDateTime: 2020-07-17T10:48:00Z
-    webUrl: "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html"
-    ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
+  - title: "The Famous AI Turing Test Put In Reverse And Upside-Down, Plus Implications For Self-Driving Cars"
+    excerpt: "The goal of those that develop AI consists of one day being able to have a computer-based system that can exhibit human intelligence, doing so in the widest and deepest of ways that human intelligence exists and showcases itself."
+    publishedDateTime: 2020-07-20T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fd5f2e2a0-c813-11ea-aeff-0b8af02ce9f4&client=amp-blogside-v2&signature=e719220b03335a26e58e6d925c87d6fd0db6fae6"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176737178%2F0x0.jpg%3FcropX1%3D508%26cropX2%3D4329%26cropY1%3D96%26cropY2%3D3239"
+        width: 1200
+        height: 987
+        isCached: true
+  - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
+    excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
+    publishedDateTime: 2020-07-18T13:15:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
+    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
+    publishedDateTime: 2020-07-19T06:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
         width: 600
-        height: 350
+        height: 237
         isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
-    publishedDateTime: 2020-07-16T17:28:00Z
-    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
-    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
+    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
+    publishedDateTime: 2020-07-16T19:51:00Z
+    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
+    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
     type: article
     provider:
-      name: TelecomTV
-      domain: telecomtv.com
+      name: Patch
+      domain: patch.com
     quality: 44
     images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "When will we actually see self-driving cars?"
-    excerpt: "Q. Okay, I have given up on a flying car, but when do you think we will see an actual self-driving car? A. There are a couple of inherent problems — legal and cultural. In every state that I have researched, there is a law that you need to have at least ..."
-    publishedDateTime: 2020-07-17T21:26:00Z
-    webUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars"
-    ampWebUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 44
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/07/Autonomous_Vehicles-Crashes_96424-850x478.jpg"
-        width: 850
-        height: 478
-        isCached: true
-  - title: "Her quest: How will self-driving cars affect everyday traffic?"
-    excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
-    publishedDateTime: 2020-07-16T21:36:00Z
-    webUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 24
-  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
-    publishedDateTime: 2020-07-17T13:08:00Z
-    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 24
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
-        width: 732
-        height: 330
-        isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
-    publishedDateTime: 2020-07-17T10:40:00Z
-    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
-        width: 1200
-        height: 799
+      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
+        width: 984
+        height: 738
         isCached: true
 
 secured: "F+lanHl8Vrq1FGqx4xqqRu9lLeJw/hBLJvHA6n3h4ghOXJf9U8aHBxJybB9qn5EaDRE7OZofwOFlmmp3+cC46J3F52mLyvuqpRXgNnaQjFFp6t/ctcUhyy752UrxfoD5bqK8zoFtS0kNzXUdgOAXlvd06oPEUL4OJa3tl/oYu5wim+6fwtPGQmwwdbeO3Jgu0WxH4qzRu0ZJSdzcmyD8SaAsnoN+AWdyOaiU1u2hoAMj84wSlevDkk0b8uClVASF9qJ8rVxNW/h7UE9vgAsXgrPhR5Z42z0uo77lFeeP+CQOCjboSyrMACI0gMWlDGOB0VR4QuPmGAyXh6fqrXV9aKfVdN654f/mD9ChqPebzWamUxyd1Fzhy3h8kgUPDfTBlc4cODRY/AjHXSLrnKWUjLIoIhlsr7GBF10xexHjuSVVAvkVKrHmp7br/D4hr0hupfj6ahPkdI7qGgnDYSV4l5zRrEnUeQinZvZGsFPCB9py2ButY4ITpqu2tQRViorM22HCND/H5hpX5lkydp1gfw==;zXoZXezZvHA9pzd/gl1wPQ=="

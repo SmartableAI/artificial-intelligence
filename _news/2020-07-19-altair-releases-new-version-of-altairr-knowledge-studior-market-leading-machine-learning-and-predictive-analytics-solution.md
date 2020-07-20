@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-19T04:40:00Z
 webUrl: "https://www.marketwatch.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine-learning-and-predictive-analytics-solution-2020-07-16-7184020"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution"
-    excerpt: "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ..."
-    publishedDateTime: 2020-07-16T04:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 28
-    images:
-      - url: "https://ml.globenewswire.com/media/fe824bfb-2796-46db-84df-d3c016abf98d/medium/altair-knowledge-studios-wizard-will-select-all-models-but-t.PNG"
-        width: 300
-        height: 217
-        isCached: true
 
 secured: "KvUfg1NF8GxCXxxY0yKLECxDFYGIgWgUzahQNynYxMhqGo2hvfyB/NnPp6S1GN/utJ28/KixAhuS30U//EbtksQRU4NWtzDWIQcJ4SKdNiZyjuSoL3AMquzRc3dtesscioTRONINTKvqZs+B11hNjTSDbfhG75ADm7iOeMLWVtBHh4zurTL6hW/FmndyQS9gU8bpe4ykVT8Z9SfD/UknzNf2LOXzj04qcaZtKJs8JzvU100r0VXbMYSu+7rINWUScbaf4ha5nh1WUBVys/G/uqXvYKIUdFu665PR29uiar0BX2Quz9MyvtFXACBVQSkTT2mTbSdGO/IdEBjyahlInQ==;lrccQNRqF/ThDYq6O9j0kg=="
 ---

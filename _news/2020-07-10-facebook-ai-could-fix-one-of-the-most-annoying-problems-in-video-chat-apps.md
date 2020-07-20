@@ -3,7 +3,7 @@ category: news
 title: "Facebook A.I. could fix one of the most annoying problems in video chat apps"
 excerpt: "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously."
 publishedDateTime: 2020-07-10T13:08:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=24&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=10&itm_content=1x6&itm_term=2377121"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 type: article
@@ -20,6 +20,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "NTNS/2qr/VtdiF3KIe19bm9tCyI59C72p0q2gHD+/C1U7l1DBxKfchJSddOo0mnq78tH3uQH/hzMmtzsJVJNuwnW2J8sLnb7h8oFMUm0509Tb4TByOYEJ6VUAQ2S6/WZeK5SDE1SxztlLNys8UAyybaebDo/0t+RkTrWR4MoZDWo5N0WUNf7/PNTfC3lFCUqPhYFBmWiZHxKj4pLfuefF+f6PGUY9/TTlVW0Xx5vHAK52OBYUPDZWPl6duXFbsK8W1F7OvlRA2SUjtpRRLRwSL9BrLWLAEsQs+MVlmQYdpJq98f+KWC252lm+5qNoJ7mcIGSf7HTGx9SeEOndyPoHUY2XhHMuBTxhi2tmsEVvtBHzP6OtOForzU/mZqx6hIvh3ldtTlJLAfDbxXdeWtStJg+gq5UsTI23sWwPJ44kfupsjaUWf06F8o8L9bUuEOb134G8vSGcswPEMzZQFFeZj+5y93Wd/ASprEnbsTqYmKd4ES949hvw5OIxz87mbJhjfExZwOUSW69h8BpsO5xcg==;Rj6Pn0b7llYpxy9gIWJCUA=="
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "WX0rt1/yFhi25nNmwdJalpXgJix8ycwZhkHHH7J6dRzHEyRHEhmPYJGm1NnXwW7m7roDMV4DK84EQpVrjeUlr/sNQMugfOavHEQlOWlcc80PgXyzGVtsHkTiFEFm9qMp4gUf3EN2gU0nCC6zpGUpW2oPk8VW464eubD1Exz+1NX7YQV9FJra62tZfdbSMxmtzfwtSv/0M8D4oISsn5XyPz0pxBVfovvQnFFrAW9VYllez7wGpwOVzTjvtnKSEVl3ifKe3+kzGdfAp4AtEmGiVPGk2uIQsJZT4Ptg7vghM5V7Op/xUMC6YoW2JPqamDWWrIb06+ywQUxVlnG5HT+Q7w==;iiTJumlKxWmjI8xlDsKNMg=="
 ---
 

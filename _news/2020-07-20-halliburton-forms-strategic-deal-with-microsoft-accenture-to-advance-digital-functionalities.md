@@ -18,6 +18,17 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton"
+    excerpt: "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ..."
+    publishedDateTime: 2020-07-20T17:23:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 99
   - title: "Halliburton Partners Microsoft, Accenture To Advance Digital Capabilities - Quick Facts"
     excerpt: "(RTTNews) - Halliburton Co. (HAL), Microsoft Corp. (MSFT) and Accenture plc (ACN) announced Friday that they have entered into a five-year strategic agreement to advance Halliburton's digital capabilities in Microsoft Azure. Halliburton said the strategic ..."
     publishedDateTime: 2020-07-17T12:33:00Z
@@ -74,31 +85,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
         width: 358
         height: 268
-        isCached: true
-  - title: "Microsoft And CH Robinson Worldwide Partner To Digitally Advance Supply Chains (MSFT, CHRW)"
-    excerpt: "Microsoft Corporation (NASDAQ: MSFT) and CH Robinson Worldwide Inc (NASDAQ: CHRW) announced this week that they are partnering to digitally transform supply chains of the future."
-    publishedDateTime: 2020-07-17T12:37:00Z
-    webUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/"
-    ampWebUrl: "https://pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/microsoft-and-ch-robinson-partnership/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 44
-  - title: "Halliburton Forms Agreement with Accenture and Microsoft"
-    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
-    publishedDateTime: 2020-07-17T15:16:00Z
-    webUrl: "https://www.financialbuzz.com/halliburton-forms-agreement-with-accenture-and-microsoft/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 39
-    images:
-      - url: "https://www.financialbuzz.com/wp-content/uploads/2019/10/Halliburton.jpg"
-        width: 571
-        height: 300
         isCached: true
   - title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."

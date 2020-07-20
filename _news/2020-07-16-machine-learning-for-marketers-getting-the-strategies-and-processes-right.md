@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pick up 87 hours of training on AI, machine learning, and more for under $35"
+    excerpt: "From self-driving cars to image recognition, machine learning is already transforming the world. The Ultimate Artificial Intelligence Scientist Certification Bundle helps you understand the technology,"
+    publishedDateTime: 2020-07-20T17:41:00Z
+    webUrl: "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html"
+    type: article
+    provider:
+      name: Macworld
+      domain: macworld.com
+    quality: 81
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Harness the Power of AI and Machine Learning"
     excerpt: "Download this resource to learn how you can harness the power of AI and machine learning to turn surplus into valuable business insights."
     publishedDateTime: 2020-07-16T22:35:00Z

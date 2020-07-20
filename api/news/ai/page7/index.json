@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-14-abacusais-autonomous-ai-cloud-service-reaches-general-availability.md",
+      "title": "Abacus.AI’s Autonomous AI Cloud Service Reaches General Availability",
+      "excerpt": "RealityEngines.AI announced the general availability of its autonomous cloud AI service as well as a re-branding to Abacus.AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0c70b424c99300079a255e%2F0x0.jpg",
+          "width": 1199,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/",
+      "publishedDateTime": "2020-07-14T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps.md",
+      "title": "New end-to-end platform uses AI and distributed tracing to secure cloud-native apps",
+      "excerpt": "With $20M in series A funding from Unusual Ventures, Traceable protects apps from growing cyberattacks. Traceable, a new end-to end application security monitoring platform, launched on Tuesday with $20 million in series A funding. Financed by Unusual ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/05/27/7ce25759-713a-4629-97e8-ffd12ed38563/resize/1200x/00165140829cc6c11ff89c0186ec0366/istock-847491272.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/",
+      "publishedDateTime": "2020-07-14T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks.md",
+      "title": "Traceable raises $20 million for AI system that shields cloud app APIs from cyberattacks",
+      "excerpt": "Traceable, a startup cofounded by former AppDynamics CEO Jyoti Bansal, has raised $20 million for its platform that protects cloud APIs from cyberattacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/traceable-raises-20-million-for-ai-system-that-shields-cloud-app-apis-from-cyberattacks/amp/",
+      "publishedDateTime": "2020-07-14T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-bigquery-omni-pulls-google-aws-and-azure-analytics-into-one-ui.md",
       "title": "BigQuery Omni pulls Google, AWS, and Azure analytics into one UI",
       "excerpt": "Google has launched an early version of BigQuery Omni, it’s new analytics tool that lets users access and view data across Google Cloud and Amazon Web Services without leaving the Big Query UI. Powered by Google Anthos,",
@@ -1266,154 +1413,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-aws-deepracer-evo-and-sensor-kit-now-available-for-purchase.md",
-      "title": "AWS DeepRacer Evo and Sensor Kit now available for purchase",
-      "excerpt": "AWS DeepRacer is a fully autonomous 1/18th scale race car powered by reinforcement learning (RL) that gives machine learning (ML) developers of all skill levels the opportunity to learn and build their ML skills in a fun and competitive way. AWS DeepRacer Evo includes new features and capabilities to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deepracer-evo-and-sensor-kit-now-available-for-purchase/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/10/deepracer-evo-1.jpg",
-          "width": 900,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T10:38:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-microsoft-spinning-off-xiaoice-as-standalone-ai-venture-with-former-exec-harry-shum-as-chairman.md",
-      "title": "Microsoft spinning off XiaoIce as standalone AI venture, with former exec Harry Shum as chairman",
-      "excerpt": "Register today Subscribe to GeekWire's free newsletters to catch every headline Former Microsoft AI and Bing chief Harry Shum joins fast-growing startup News Break as chairman",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/Xiaoice-image-1600x900-1-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-spinning-off-xiaoice-standalone-ai-venture-former-exec-harry-shum-chairman/amp/",
-      "publishedDateTime": "2020-07-13T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-verizon-taps-google-cloud-for-contact-center-ai.md",
-      "title": "Verizon taps Google Cloud for Contact Center AI",
-      "excerpt": "Read More Google Cloud on Monday announced that Verizon is piloting its Contact Center AI technology to improve its customer experiences. The deal shows Google making progress in its broad plans to win over the telecommunications industry with its cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/verizon-taps-google-cloud-for-contact-center-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/10/04/2e67b15e-0829-4ed6-99da-91694134f9e5/thumbnail/1200x675/92fd3e23cc4dab3e809ad7659da97bc5/verizon-store.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/verizon-taps-google-cloud-for-contact-center-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/verizon-taps-google-cloud-for-contact-center-ai/",
-      "publishedDateTime": "2020-07-13T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

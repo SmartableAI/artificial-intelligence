@@ -2,6 +2,38 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-20-microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton.md",
+      "title": "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton",
+      "excerpt": "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
+      "publishedDateTime": "2020-07-20T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing.md",
       "title": "AI News Index: Worried About Government Data Collection For Covid-19 Contact Tracing?",
       "excerpt": "Recent AI stats highlight the current state of adoption of AI by enterprises worldwide, the future of deep learning, and consumers’ attitudes regarding Covid-19 contact tracing.",
@@ -221,38 +253,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts.md",
-      "title": "Halliburton Partners Microsoft, Accenture To Advance Digital Capabilities - Quick Facts",
-      "excerpt": "(RTTNews) - Halliburton Co. (HAL), Microsoft Corp. (MSFT) and Accenture plc (ACN) announced Friday that they have entered into a five-year strategic agreement to advance Halliburton's digital capabilities in Microsoft Azure. Halliburton said the strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 151,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp",
-      "publishedDateTime": "2020-07-17T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

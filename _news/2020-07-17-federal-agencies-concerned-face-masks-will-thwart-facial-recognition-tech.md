@@ -46,6 +46,22 @@ related:
         width: 1119
         height: 630
         isCached: true
+  - title: "Why facial recognition algorithms can’t be perfectly fair"
+    excerpt: "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ..."
+    publishedDateTime: 2020-07-20T16:40:00Z
+    webUrl: "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    ampWebUrl: "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 74
+    images:
+      - url: "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop"
+        width: 320
+        height: 205
+        isCached: true
   - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
     excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
     publishedDateTime: 2020-07-18T23:01:00Z
@@ -172,17 +188,6 @@ related:
         width: 2233
         height: 1675
         isCached: true
-  - title: "RealAML Launches Industry-first Facial Recognition"
-    excerpt: "Wellington-based RegTech, RealAML is leading the way in digital compliance, launching the first locally built facial recognition tool for NZ businesses to identify their clients beyond a doubt. “Buying NZ made usually means paying more for it,"
-    publishedDateTime: 2020-07-15T23:48:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2007/S00268/realaml-launches-industry-first-facial-recognition.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 39
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
     publishedDateTime: 2020-07-18T02:54:00Z
