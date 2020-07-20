@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry---qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20</loc>
+    <lastmod>2020-07-20T02:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj</loc>
+    <lastmod>2020-07-20T01:28:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/</loc>
+    <lastmod>2020-07-20T01:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon</loc>
+    <lastmod>2020-07-20T00:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit</loc>
     <lastmod>2020-07-19T23:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -405,6 +429,12 @@
   <url>
     <loc>https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/</loc>
     <lastmod>2020-07-16T08:09:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.entrepreneur.com/article/353390</loc>
+    <lastmod>2020-07-16T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -937,12 +967,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html</loc>
-    <lastmod>2020-07-14T06:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech</loc>
     <lastmod>2020-07-14T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -951,6 +975,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/</loc>
     <lastmod>2020-07-14T06:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html</loc>
+    <lastmod>2020-07-14T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1495,7 +1525,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications</loc>
+    <loc>https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1</loc>
     <lastmod>2020-07-10T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1525,7 +1555,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10?tesla=y</loc>
     <lastmod>2020-07-09T18:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2527,14 +2557,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06</loc>
-    <lastmod>2020-07-06T04:09:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206</loc>
+    <lastmod>2020-07-06T03:20:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/sentieo-drives-improved-sector-investment-and-competitive-strategies-with-new-machine-learning-driven-analysis-1029368206</loc>
-    <lastmod>2020-07-06T03:20:00-07:00</lastmod>
+    <loc>https://www.marketwatch.com/press-release/neural-network-software-market-report-2020-to-2025-covid-19-growth-and-change-2020-07-06?mod=mw_quote_news</loc>
+    <lastmod>2020-07-06T03:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3891,6 +3921,12 @@
   <url>
     <loc>https://www.scmp.com/tech/enterprises/article/3090956/chinese-ride-hailing-giant-didi-chuxing-launches-pilot-self</loc>
     <lastmod>2020-06-28T20:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mysanantonio.com/news/article/Anders-Ericsson-cognitive-psychologist-and-15372831.php</loc>
+    <lastmod>2020-06-28T19:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

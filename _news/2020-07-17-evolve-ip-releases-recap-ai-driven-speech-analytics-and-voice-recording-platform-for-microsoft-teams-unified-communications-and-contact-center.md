@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T05:57:00Z
 webUrl: "https://www.newswiretoday.com/news/173306/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Extends Speech Analytics Business Intelligence Beyond Contact Centers and Into Every Business Department"
-    excerpt: "Evolve IP®, the world's leading provider of Work Anywhere(TM) solutions, today announced that it has released Evolve RECAP for Microsoft Teams, the Evolve"
-    publishedDateTime: 2020-07-15T16:26:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/evolve-ip-releases-recap---ai-driven-speech-analytics-and-voice-recording-platform-for/article_259c3164-6d8d-5b96-bb26-f8708cffda45.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 7
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "JyIC+wqT44LipPHH+96pNeypA8RplQb3M1ijwRgGqHWa2pdP0GoxJbDt02IwFPqFywHoEjxRcv2i4+zobgIsMIbMTedNT3J9E02Lr44LEPBZrAr1jjGO8RCRvv8AEaaYTLhatfS5lnOjR/J2GQPkQG31y1HEMzy0Zr+syItzgfOU3JQuw42lY+a7eSMg5LuH8VBIOM7ZnRwwaFfGSuLG4rWGLkl6PN13ydotHPbXUklH/pdhv7jrbBpsFW9aP2HANnMQq0UEi/bMViEVHUx4vVMupvo1oKV4GPjXYS82R7wDv7SJAuR42++bxKYq9SZNPyeuYegSaIsYYRldl4RN9c3gwPViKHyVYMefLuJOZSNefmjGZBqoug/gaPUTh0TfCDBAPdXUrEO4zP8Ahi4Qr1d61/8ibMWVY36I8qOjbR9EjmizySkZZhhZ1Aep+p9fPeCBBW8CnOOwE0bUpg0/5XVNGvsmZ8Vq0wlLP/DLtLolg59uU9qS5BxvtgSJEJbvYidV++c7hNSnn5eVo6f1iA==;hm35tK9I/0TrqzcUk5cKAg=="
 ---

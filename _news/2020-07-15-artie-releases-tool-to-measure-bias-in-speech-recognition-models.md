@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "PerformLine Releases Tools to Prevent Racial Bias and Discrimination in Marketing and Customer Interactions"
-    excerpt: "By using discovery methods, artificial intelligence, and natural language processing, the PerformLine platform automatically flags questionable content or language across the web, in email, in social media posts, and within messages and call centers where ..."
-    publishedDateTime: 2020-07-15T15:23:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=141835"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 6
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/131140-0620_ConversationalAI_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
 
 secured: "FnJvzDADxFAROl2utEuIvr3j8CGyr4SdH4kGPVrTfvIgR+BIZysaa9P8/oFmy3PpZ4YsRqu5DqsGKPE6s6T0Df8TanNrtCHDAhKnQ7YAXVroPPFg0f7Q0xG5wrb7aaRSl3GObvqTcjNpg9Gh4Vh3gKcc37uOv7CDSmDuheMVsOrO88mCF4aK4u9S+75i1R8PoJe/akch9XeTgAHOvg8Tg8WhwCxev+Kbir3LkMtxF642p8XRuHohJKTZVabEaecPmC8Xvhy6OAjDE0Etx9/q1R095LD51VEDFLLMUv4fc/qxEekn+PhtadXT5pvNHIxcLJO+er/8Jiy8olbsKsmBcJx28z5txaBpjEN3cuSQfdTo02NX7Dyb9iaaoixoK6BZS3eez3EvW0Rnan76E2OjWL+6oCpLMY9shX/B4Lbx0RohQjKuuTznkFofCrfcBw3zi6HN4MQ8lzhRt+kJpW0Y5pesJ3zKewbbb3fOmdaR8K0dea9okqOS2H7cyt5j6Yre;YAJlmoFH68CaAavr8bBfcw=="
 ---

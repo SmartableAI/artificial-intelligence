@@ -1,0 +1,62 @@
+---
+category: news
+title: "Japanese robot to clock in at a convenience store in test of retail automation"
+excerpt: "By Tim Kelly In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+publishedDateTime: 2020-07-20T08:31:00Z
+webUrl: "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
+ampWebUrl: "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+cdnAmpWebUrl: "https://cyprus--mail-com.cdn.ampproject.org/c/s/cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+type: article
+quality: 70
+heat: -1
+published: false
+
+provider:
+  name: Cyprus Mail
+  domain: cyprus-mail.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://cyprus-mail.com/wp-content/uploads/2020/07/japan-robot-1024x720.jpg"
+    width: 1024
+    height: 720
+    isCached: true
+
+related:
+  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-16T17:48:00Z
+    webUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
+    ampWebUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
+    type: article
+    provider:
+      name: Daily Times
+      domain: dailytimes.com.pk
+    quality: 70
+    images:
+      - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg"
+        width: 646
+        height: 450
+        isCached: true
+  - title: "Kangaroo-like robot to clock in at Japanese convenience store"
+    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
+    publishedDateTime: 2020-07-16T02:43:00Z
+    webUrl: "https://www.itnews.com.au/news/kangaroo-like-robot-to-clock-in-at-japanese-convenience-store-550536"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-07-15T143435Z_1_LYNXNPEG6E14X_RTROPTP_4_JAPAN-TECH-ROBOT.JPG"
+        width: 1000
+        height: 708
+        isCached: true
+
+secured: "jZoaMg5sOepL4yh0BjYq2u23g66lA39IO/bcfyTRbj/AXIo+YTSAcehbvuQSEik8WE5WwFcWxuxUX65uP+NzfJXdpc3AhzV+a5g5ut4ViWCKWrBG1iEOah9J2KhaFn+H9anl5ytONIqihC1alUIzzAqj61XJcD3RVpArQDGZNoSfYw3JPIYTwJC77A7So2TBuIYQAVINV0VGvjuRPcz43IL8ylpert31+t766ldwbRQA6Mud2RYelDZtoB8eR+pxesIinodQgOM3TnL7/b89Nrwooh2y5iDINgHZ3WDDUb67/mXgIw5HB5P0GUZZpkglTlzcyfqrhfJ5S6pP28Ou2g==;w8+LlHgdW6tPhXV04GiBHg=="
+---
+

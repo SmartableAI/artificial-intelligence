@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google launches hieroglyphics translator powered by AI"
-    excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs."
-    publishedDateTime: 2020-07-15T15:26:00Z
-    webUrl: "https://www.bbc.com/news/technology-53420320"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53420320"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
     excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
     publishedDateTime: 2020-07-16T14:11:00Z
@@ -74,20 +58,6 @@ related:
         width: 660
         height: 371
         isCached: true
-  - title: "Fabricius: this new Google AI tool helps you decode and write in hieroglyphs"
-    excerpt: "This means that Fabricius won't work as quickly as say, Google Translate, which works on modern-day languages. Before the Rosetta Stone was discovered in 1799, there was no making sense of the Egyptian hieroglyphs. Google Arts and Culture Instead ..."
-    publishedDateTime: 2020-07-15T15:34:00Z
-    webUrl: "https://www.thenational.ae/arts-culture/fabricius-this-new-google-ai-tool-helps-you-decode-and-write-in-hieroglyphs-1.1049695"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 36
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.1049689:1594820142/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google came up with an AI powered app that can efficiently translate Egyptian Hieroglyphs"
     excerpt: "Google has recently launched an Ai powered Hieroglyphics translator called as Fabricius. The app is freely available at the Google Art and Culture website and application. The app was opened for downloading since Wednesday."
     publishedDateTime: 2020-07-17T12:21:00Z
@@ -103,6 +73,6 @@ related:
         height: 524
         isCached: true
 
-secured: "yhCqI06A5MAJqxOvImqUS5noJFe8oJns1GcYbLR9difzVt+G1ygr/QH4ndp0CBN1aZljUXLTCrNggWCS5jP+ERLYFopLPp3KrmBdzWSVV1qVK+HjOZri1uKwg024dCZ8HSQJqiydXMdwObj98Odq19aAI62j0Lbu8tKKMMCLjGbFS3yThZVDipkV6cZtSzXlfPuWAjIqoPLwQz6iYOKD+l5wbpkQWHNS3n7Ns3BJdAOmKwkpK8HKE4qW7apKKHI3dNJtnnnfi56at67EKwsFAE2I1pVLgRnuysY6I7cbHOkpeAgDNjHSufrjfmiXZOCRhSidPRkcmYFF+rCIhr5chA==;J8KYASxjk7Ih/b8TS5Uwxg=="
+secured: "62/Vcqop7MO0bBVuUI3hXVyPmhZSPq3sLgWlfgiGBMyJcPVBFxXa0uGLxsjNpYkPIFiDKqhCh50PSjXvGXsAT66k921HfwIQpWN0IoxzWMWCrHpe/3lVpn55JzGLTfft+bX6S5IMMYop44S/T+tw5GK3qIoysisMsrMIEmKxI7H4XknnSrcCljTNjKWY0bBR5EVllXVCc+vwU6TxTpgp+oOIkK0UjJ07v+4Bz1nFTshESKOF2T0Eh2t8th1Z+w0EkUMnm5pHIQcVVqXprW8Gs0vNjXiTUPS/cTZXPRUBxF38OKpmPzDxVdOsNa6Ji1VH3hAMTl/f/uuV57+YSb1ezw9SjWtVjhwI0Z3b3Lwys0hn0bV6fzbERbR35yhsJ7DRA79/WI9oJknv67eEkz1FcWVuZd8AOgMY/pIauoTpEXqW5unOmz0Zp4kiNXUg+LrKLxMYi2OX5paC3AKoJvhtn47L6o5WG4SWMp0AHtHAfKQxhKlcsXwVfEyAIkNA5hXkuscHZH7jtuUn6MYsVuitQw==;TSniPcDQgydpz9w7yLjnMA=="
 ---
 

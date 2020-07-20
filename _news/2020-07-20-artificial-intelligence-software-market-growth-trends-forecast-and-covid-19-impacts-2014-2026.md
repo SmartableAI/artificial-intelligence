@@ -7,7 +7,7 @@ webUrl: "https://www.openpr.com/news/2092901/artificial-intelligence-software-ma
 ampWebUrl: "https://www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
@@ -68,6 +69,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Zc9DUg8iqqS1j0o5h+8NKpoh0gyBJ8nd2NkZzKs+wZazcheC6dNOSxhQkkIFvJxq0MYNhdma3GL7ix2txA0Bi6TpM7JWq6B3xu2P3Q0Wh7bo+bsZQsUwMfYDVXixZUNHAB/2VIBjvMVC8lTKZap3UjqoqXXfveNFPnfE2M3u3tgg/fyx8r/luOYAr7r6CxYpgwnoepiB8zl4iVmE5LTWZkpxYszCVWeC1/xwLYYmCBkR4DiLFXzTSuJ7whs1aBzUJxAXVO3eYOLIECJqoInYSMOGoDkHxc0u0axgwCMWkw4v25Ea0V0LLJIG/BjAovsPgvdaBq3c8L/iRnug9hBEDQ==;eyK/L0Pqx4pxNhATd7iOQQ=="
+secured: "wlUgUNlrrGTnO8p4Gptiqc+IuLbu45+J4LmbkPYhGvA3Xg2HDwNeXJjp9NFf8aidgMjJtMInmslGz3MxBDCwgS3DebTAziTPK0P9ssBS0C45cb5zYC5wwIb8ZTk9FcSRpuF3TU0JeVOJVWJMjpzVGPX+Ab+KGqD7oqVA+Zm+Dj29TTCXqu4zfb/mAs5+x/O6KkM4NFGhS+BRhWROK7MIlRGsKv8W5qTt9kKMpJV9aT2mdANSk2gipWJgJCCj5JEL3QxeP/h4X1B8cHqYinDuk+tFr0GhxAHInAxh3zwd6BmhMsun1mcN4Cq9YYCiwkRnmdRLRf9jT4rfbRFbcyQWO2IaRB06lXd35JQQuAbmPlDMePLujOJE//18R3OvqCe+S5b6RwhvUsoYXB2QHDfPh3rrjICtTxnm+3VjWlBpgLmFRrGFKOO4ue2DgJwRzfzTdvknUHO2jjnnGjI+gOcAFJm9YECEAJWL9lXdw1fbF6+pSIaA5eEDqBgTArdTAadHdI67a/gQAIQgeqZ1CEJ8Dg==;98BCthPuQBtZR4BI3L1GRg=="
 ---
 

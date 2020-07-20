@@ -353,6 +353,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
+      "title": "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool",
+      "excerpt": "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/353390",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353390",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390",
+      "publishedDateTime": "2020-07-16T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
       "title": "Announcing the AI Innovation Awards winners at Transform 2020",
       "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",
@@ -462,7 +512,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1400,56 +1450,6 @@
         "name": "Olean Times Herald",
         "domain": "oleantimesherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-kernel-raises-53-million-to-bring-neuroscience-insights-to-businesses.md",
-      "title": "Kernel raises $53 million to bring neuroscience insights to businesses",
-      "excerpt": "Kernel raised $53 million to develop a new generation of brain tech that allows companies to leverage insights from the latest neuroscience.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/10625_04_1093-e1594293347834.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/kernel-raises-53-million-to-make-neuroscience-insights-accessible-to-businesses/amp/",
-      "publishedDateTime": "2020-07-09T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

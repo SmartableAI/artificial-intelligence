@@ -37,6 +37,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 61
+  - title: "Halliburton in Microsoft Deal"
+    excerpt: "Halliburton, Microsoft and Accenture have entered into a five-year agreement to advance Halliburton's digital capabilities in Microsoft Azure."
+    publishedDateTime: 2020-07-20T09:38:00Z
+    webUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/"
+    ampWebUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
+    cdnAmpWebUrl: "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
+    type: article
+    provider:
+      name: Rigzone
+      domain: rigzone.com
+    quality: 59
+    images:
+      - url: "https://images.rigzone.com/images/news/articles/162765_582x327.png"
+        width: 582
+        height: 327
+        isCached: true
   - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
     excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
     publishedDateTime: 2020-07-17T16:33:00Z

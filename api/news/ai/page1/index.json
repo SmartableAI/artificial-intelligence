@@ -2,6 +2,197 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-20-giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield.md",
+      "title": "Giants in the AIoT Chip Industry - Qualcomm, Alibaba and WIMI Entering the Battlefield",
+      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 20, 2020 / In recent years, the word AIoT has gradually become active in people's vision. AIoT (AI+IoT) means combining artificial intelligence with the Internet of Things to form a new integrated discipline.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry---qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
+      "title": "Unesco invites public comments on ethics of AI",
+      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
+          "width": 2849,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "publishedDateTime": "2020-07-20T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
+      "title": "Corporate execs are starting to get skittish about AI",
+      "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2010-08-10T120000Z_532442558_GM1E68A17IK01_RTRMADP_3_JAPAN-ECONOMY-SHIRAKAWA-e1595019940905.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "publishedDateTime": "2020-07-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-after-smics-stellar-debut-chinese-ai-chip-maker-cambricon-technologies-soars-350-per-cent-in-shanghai.md",
+      "title": "After SMIC’s stellar debut, Chinese AI chip maker Cambricon Technologies soars 350 per cent in Shanghai",
+      "excerpt": "Cambricon’s gains make it the seventh-largest company on the Star Market, but it is unlikely to post profit until 2022 amid rapidly increasing R&D expenses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/e102abda-ca52-11ea-9c1b-809cdd34beb3_image_hires_151603.jpg?itok=GR-pTyWE&v=1595229370",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "publishedDateTime": "2020-07-20T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-chinese-autonomous-driving-start-up-autox-wins-driverless-car-permit-for-tests-in-california.md",
       "title": "Chinese autonomous driving start-up AutoX wins driverless car permit for tests in California",
       "excerpt": "AutoX is the third company to win such a driverless permit from the California DMV, after Google-backed Waymo and California-based Nuro.",
@@ -297,7 +488,7 @@
       "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1252,204 +1443,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-how-pixar-uses-ai-and-gans-to-create-high-resolution-content.md",
-      "title": "How Pixar uses AI and GANs to create high-resolution content",
-      "excerpt": "Watch the final day of VB Transform live on YouTube! As digital animators continue to push the boundaries of technology and creativity, the technical teams that support them are turning to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/pixar2ts-e1594990621109.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/amp/",
-      "publishedDateTime": "2020-07-17T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity.md",
-      "title": "A beginner’s guide to the AI apocalypse: Artificial stupidity",
-      "excerpt": "And despite its relative infancy, artificial intelligence isn’t as far from ... In other words: the robots won’t kill us out of spite, they’ll just forget we exist and transform the world ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/space_robot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/amp/",
-      "publishedDateTime": "2020-07-17T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ebay-cto-ai-is-now-an-ecosystem-for-us.md",
-      "title": "eBay CTO: AI is now an ‘ecosystem’ for us",
-      "excerpt": "Watch the final day of VB Transform live on YouTube! While eBay could have used any number of existing AI platforms to enhance its various products, the company instead elected to build its own AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
-      "publishedDateTime": "2020-07-17T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
-      "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
-      "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/04/11/7f14de97-e97a-4051-a342-644378ddf1d4/resize/1200x/2fe4d638fcfc2c8d05a64a57d184b147/istock-912675036.jpg",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "publishedDateTime": "2020-07-17T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

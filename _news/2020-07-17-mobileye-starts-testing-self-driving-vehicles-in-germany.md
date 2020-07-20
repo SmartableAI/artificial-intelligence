@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "When will we actually see self-driving cars?"
+    excerpt: "Q. Okay, I have given up on a flying car, but when do you think we will see an actual self-driving car? A. There are a couple of inherent problems — legal and cultural. In every state that I have researched, there is a law that you need to have at least ..."
+    publishedDateTime: 2020-07-17T21:26:00Z
+    webUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars"
+    ampWebUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 44
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/07/Autonomous_Vehicles-Crashes_96424-850x478.jpg"
+        width: 850
+        height: 478
+        isCached: true
   - title: "Her quest: How will self-driving cars affect everyday traffic?"
     excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
     publishedDateTime: 2020-07-16T21:36:00Z
@@ -81,6 +97,15 @@ related:
         width: 732
         height: 330
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "JNnG8ihoG4Whu+52+B+vcM/kOvnV9PVG1HmPUSjh6u3FCu0TT7BxMUN6O50gF7wRCr2zaLRNGcg5194b8qD92uoezqZJWDgcsn1kGI2xlLKFmKC7Bw4pBopTJ2PiyNPayixjMOOLcxfDIsRsSuBFmIVkvv9q8dk/T0sNppATz27KN0a12bJIgl58eLSaKWHIaOKy4v05GhcTZUfuEqwZA1mTgVPmpMk+kmzML872XpX8fDfR4yHPoo+iPv2GHELNi7r/8vZtctU6OhMHtOIJFAucM7ON90S1NN7N8W5W8oU+jjbbaUlcC/FYCGnTGFhOYhdJRXnoLoSdYNlOi7Kqpg==;hkVj3EKLqtHiA+L58f2mCA=="
 ---

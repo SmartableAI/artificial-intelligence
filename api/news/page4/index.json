@@ -2,6 +2,219 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-16-deep-learning-in-the-media-supply-chain.md",
+      "title": "Deep Learning in the Media Supply Chain",
+      "excerpt": "Deep Learning is a subset of machine learning and uses artificial neural networks that enable the system to learn autonomously. Deep Learning enables the processing of amounts of data that is not practical to process manually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/opinion/deep-learning-in-the-media-supply-chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UVp4toMBipUZUtxdepAUBb-1200-80.jpg",
+          "width": 726,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "publishedDateTime": "2020-07-16T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-shield-ai-rejected-a-pivot-to-selfie-drones-now-its-drones-are-being-used-by-the-military-overseas.md",
+      "title": "Shield AI Rejected A Pivot To ‘Selfie Drones.’ Now Its Drones Are Being Used By The Military Overseas",
+      "excerpt": "The overseas deployment of the startup's drones comes full circle for cofounder Brandon Tseng, who came up with the idea as a Navy SEAL in Afghanistan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee17ac1194e4200062e8f19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1236%26cropY1%3D185%26cropY2%3D1009",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
+      "publishedDateTime": "2020-07-16T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
+      "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
+      "excerpt": "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
+      "publishedDateTime": "2020-07-16T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
+      "title": "A robot walks into White Castle ...",
+      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
+      "publishedDateTime": "2020-07-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-german-courts-rule-against-teslas-self-driving-claims.md",
+      "title": "German courts rule against Tesla's \"self driving\" claims",
+      "excerpt": "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich.",
+      "sourceUrl": null,
+      "webUrl": "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg",
+          "width": 1200,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
+      "cdnAmpWebUrl": "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
+      "publishedDateTime": "2020-07-16T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AM-online",
+        "domain": "am-online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe.md",
       "title": "UK’s Drover raises $26M for to take its car subscription marketplace to Europe",
       "excerpt": "The future of transportation is in a moment of flux, and that continues to provide opportunities for startups to build solutions provide new ways for us to get from A to B. In the latest development,",
@@ -531,7 +744,7 @@
       "webUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 284,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -878,7 +1091,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -968,254 +1181,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-baidu-tops-chinas-ai-public-cloud-services-market-report.md",
-      "title": "Baidu Tops China's AI Public Cloud Services Market: Report",
-      "excerpt": "Follow @dannyvena Baidu (NASDAQ:BIDU) boasts the highest market share in China's fast-growing artificial intelligence (AI) public cloud services market, according to a recent report by the International Data Corporation (IDC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582423%2Fbaidu-ai-public-cloud-idc.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 769,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/15/baidu-tops-chinas-ai-public-cloud-services-market.aspx",
-      "publishedDateTime": "2020-07-15T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-microsoft-partners-with-land-olakes-to-build-agriculture-tech-on-azure.md",
-      "title": "Microsoft partners with Land O’Lakes to build agriculture tech on Azure",
-      "excerpt": "Microsoft’s latest cloud partnership is with Land O’Lakes, the farming giant which will use Microsoft’s Azure technologies to spur sustainable farming practices and help farmers be more efficient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/1.jpeg",
-          "width": 950,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/",
-      "publishedDateTime": "2020-07-15T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-heathrow-airport-deploys-anti-virus-robots-and-testing-to-skip-uk-quarantine.md",
-      "title": "Heathrow Airport Deploys Anti-Virus Robots And Testing To Skip U.K. Quarantine",
-      "excerpt": "London's Heathrow Airport is doing everything in its power to encourage travelers back to the skies. The airport has faced a bleak few months with the number of passengers in June down 95% from the previous year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f43d5ba9bb1000708a5c5%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5905%26cropY1%3D299%26cropY2%3D3621",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelerobson/2020/07/15/heathrow-airport-deploys-anti-virus-robots--and-testing-to-skip-uk-quarantine/amp/",
-      "publishedDateTime": "2020-07-15T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-chase-is-using-ai-to-update-banking.md",
-      "title": "How Chase is using AI to update banking",
-      "excerpt": "Last Chance: Register for Transform, VB's AI event of the year, hosted online July 15-17. As one of the so-called “big four” U.S. banks, Chase needs little in the way of introduction.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/JPMorganChase.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/amp/",
-      "publishedDateTime": "2020-07-15T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
-      "title": "How Intuit is moving from mobile-first to AI-first",
-      "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-940325272.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
-      "publishedDateTime": "2020-07-15T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

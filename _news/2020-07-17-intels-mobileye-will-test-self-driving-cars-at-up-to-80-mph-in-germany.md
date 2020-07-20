@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-german
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
 type: article
 quality: 74
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "When will we actually see self-driving cars?"
+    excerpt: "Q. Okay, I have given up on a flying car, but when do you think we will see an actual self-driving car? A. There are a couple of inherent problems — legal and cultural. In every state that I have researched, there is a law that you need to have at least ..."
+    publishedDateTime: 2020-07-17T21:26:00Z
+    webUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars"
+    ampWebUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 44
+    images:
+      - url: "https://www.boston.com/wp-content/uploads/2020/07/Autonomous_Vehicles-Crashes_96424-850x478.jpg"
+        width: 850
+        height: 478
         isCached: true
   - title: "Her quest: How will self-driving cars affect everyday traffic?"
     excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
@@ -85,6 +101,15 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Mobileye begins testing self-driving cars in Germany"
+    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
+    publishedDateTime: 2020-07-17T13:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "VlrsxslmI5yKQZSh38+2dO7c2Xul3wle+5K9ZMJI6Fd6VdVC+1EWQApg9u+fuFQifg1B/Wds541GpnQ4VuJ8YF3F7fKZGHrUV3v2zyZYHcBRAjQOLIdR4C/wJMxoibkO/qDTqZw+RXlcvuvxzkEoIZeo/OnzsRfnq3+DkbYom1Ng/SDzo1L8PCZnarIZKrIzekNv3UDmfn3G5ymtFAa0E83cf/C4C3uMjRvRqz9taIAHKfxExKGdmsEOAeWm0eWBTC8RweiEqVj5/XuV8K/Ot1DTrpfFmjQ2AKHArB+2QlQun/Lfi0xcgzoqqXO9e7zZ+1bJLf6TR2jXQj1pSNEQXgXhuIafYQ2pjXk91PeYL1p8n4Ze8PzlejYDjFld3MvIuDogem2nm6VJ8F/d0MKzcAd6CugkR4uAXiIbBEpxG1CjhtnexXbY1lVlttL7shmuyYQw/TDUL4TjoXJQdeTk0aZLTVW1Meh2nm2IUb5HeFd8cz2AOolC4Jb4E0FNmp5vvdN0LBRumg5H9weM0/wk8g==;WtCiGvhTe6ChcdDv2gK4aQ=="
 ---

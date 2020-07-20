@@ -2,6 +2,247 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-09-ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft.md",
+      "title": "AI researchers create testing tool to find bugs in NLP from Amazon, Google, and Microsoft",
+      "excerpt": "A testing tool called CheckList found mistakes in commercially available AI from Amazon, Google, and Microsoft; CheckList won Best Paper award at ACL.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Microsoft.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/amp/",
+      "publishedDateTime": "2020-07-09T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-elon-musk-says-full-self-driving-tesla-tech-very-close.md",
+      "title": "Elon Musk says full self-driving Tesla tech 'very close'",
+      "excerpt": "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said. It was already \"very close\" to achieving the basic requirements of this \"level-five\" autonomy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-53349313",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/102CA/production/_113305266_hi062234983.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53349313",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53349313",
+      "publishedDateTime": "2020-07-09T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
+      "title": "UK And Australia To Probe Clearview AI Facial Recognition",
+      "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 326,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190624951%2F0x0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2020/07/09/uk-and-australia-to-probe-clearview-ai-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-09T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-theres-an-ai-for-every-step-in-the-hiring-process.md",
+      "title": "There’s an AI for every step in the hiring process",
+      "excerpt": "From writing a job description to analyzing an interview, a growing crop of AI companies make the case that a hiring manager never needs to make a suboptimal decision again.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2016-06-13T120000Z_563916475_TM3EC6D0O9101_RTRMADP_3_LINKEDIN-M-A-MICROSOFT-e1594247240898.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1878476/ai-hiring-tools-aim-to-automate-every-step-of-recruiting/amp/",
+      "publishedDateTime": "2020-07-09T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-elon-musk-says-tesla-vehicles-are-very-close-to-being-completely-autonomous-and-will-reach-basic-functionality-by-end-of-2020-allowing-the.md",
+      "title": "Elon Musk says Tesla vehicles are 'very close' to being completely autonomous and will reach 'basic functionality' by end of 2020, allowing the cars to drive without human input",
+      "excerpt": "Tesla CEO Elon Musk speaking by video during the World Artificial Intelligence Conference said the EV maker is 'very close' to achieving complete autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-8506589/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/07/09/15/30578508-0-image-a-17_1594306081798.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8506589/amp/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8506589/amp/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
+      "publishedDateTime": "2020-07-09T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ai-helps-british-research-center-use-machine-learning-to-fight-covid-19.md",
       "title": "AI helps British research center use machine learning to fight COVID-19",
       "excerpt": "Using the Israeli company's technology, the center can now conduct more experiments, utilize resources more efficiently, and speed up completion of data science models",
@@ -937,236 +1178,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-forget-penny-stocks-here-are-3-better-stocks-to-buy-in-july.md",
-      "title": "Forget Penny Stocks, Here Are 3 Better Stocks to Buy in July",
-      "excerpt": "It's easy to understand why some people gravitate toward penny stocks. The thinking goes that companies with microscopic valuations and cheap shares have the potential to post explosive gains in short periods of time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F580986%2Fcoins-and-cash.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/09/forget-penny-stocks-3-better-stocks-to-buy-in-july.aspx",
-      "publishedDateTime": "2020-07-09T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-after-the-pandemic-doctors-want-their-new-robot-helpers-to-stay.md",
-      "title": "After the pandemic, doctors want their new robot helpers to stay",
-      "excerpt": "She’d arranged for Violet, an autonomous ultraviolet cleaning machine, to start ... Movidius AI chips to map and navigate its surrounding environment. Though, as Kiernan notes, humans still have to wipe down the “nooks and crannies the robot can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/21317055/robot-coronavirus-hospital-pandemic-help-automation",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Gf49ygmF7dUWmFGGVR691_R6_3U=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67034956/acastro_200707_4090_robots_hospitals_0001.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/21317055/robot-coronavirus-hospital-pandemic-help-automation",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/21317055/robot-coronavirus-hospital-pandemic-help-automation",
-      "publishedDateTime": "2020-07-09T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-imec-and-globalfoundries-announce-ai-chip-breakthrough.md",
-      "title": "Imec and GLOBALFOUNDRIES announce AI chip breakthrough",
-      "excerpt": "“This test chip is a critical step forward in demonstrating to the industry how 22FDX can significantly reduce the power consumption of energy-intensive AI and machine learning applications.” Looking ahead, GF will include AiMC as a feature able to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/imec-and-globalfoundries-announce-ai-chip-breakthrough/228710/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/228710/chip.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-china-calls-for-joint-development-in-ai-to-reduce-risk-of-technology-gap-between-rich-and-poor-countries.md",
-      "title": "China calls for joint development in AI to reduce risk of technology gap between rich and poor countries",
-      "excerpt": "Chinese government officials and some of the country’s top business leaders call for stronger global collaboration at WAIC summit",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/09/0b50d3f2-c1bc-11ea-8c85-9f30eae6654e_image_hires_165721.jpg?itok=dJJTBLhy&v=1594285050",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3092501/china-calls-joint-development-ai-reduce-risk-technology-gap-between",
-      "publishedDateTime": "2020-07-09T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-meet-the-robot-chemist-that-can-perform-its-own-experiments-wvideo.md",
-      "title": "Meet the robot chemist that can perform its own experiments (w/video)",
-      "excerpt": "A robot that might typically be found in a car assembly line can be modified to operate in a chemistry laboratory alongside humans, reports a paper published this week in Nature (\"A mobile robotic chemist\"). The robot is linked to machine-learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41586-020-2442-2?error=cookies_not_supported&code=96a5891f-2592-4d33-9962-1b71863a0744",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-020-2442-2/MediaObjects/41586_2020_2442_Fig1_HTML.png",
-          "width": 583,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google launches hieroglyphics translator powered by AI"
-    excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language. The feature has been added to its Arts & Culture app. It also allows users to translate their own words and emojis into shareable hieroglyphs."
-    publishedDateTime: 2020-07-15T15:26:00Z
-    webUrl: "https://www.bbc.com/news/technology-53420320"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-53420320"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53420320"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 89
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1688C/production/_113400329_whatsubject.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
     excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
     publishedDateTime: 2020-07-16T14:11:00Z
@@ -87,20 +71,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/660/cpsprodpb/178A4/production/_113402469_whatsubject.jpg"
         width: 660
         height: 371
-        isCached: true
-  - title: "Fabricius: this new Google AI tool helps you decode and write in hieroglyphs"
-    excerpt: "This means that Fabricius won't work as quickly as say, Google Translate, which works on modern-day languages. Before the Rosetta Stone was discovered in 1799, there was no making sense of the Egyptian hieroglyphs. Google Arts and Culture Instead ..."
-    publishedDateTime: 2020-07-15T15:34:00Z
-    webUrl: "https://www.thenational.ae/arts-culture/fabricius-this-new-google-ai-tool-helps-you-decode-and-write-in-hieroglyphs-1.1049695"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 36
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.1049689:1594820142/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "3iq0EZ9LylZm07T1xL7YhrrZ+Ytet2OuqINw+XcCipP+H52L98GpevQgxXtgfmUS/hoHH+RKbnOdbpO1JCk5Qk0hMvn3sMbczWMIMuJUHZziPIX0VLH6INAawZPXL5FMI9ALE4g6J/y479if9v2coUCcJIgbR8m7ERcjoDGF94SsNGEnLISof9kXbs0LByuPVz0mpIZyO5if7rnmqapL+HIlTZfTkPQ0Dm+Wa4JmojeBJo+kBmo6zA43s0lfc0UdbMAiJqpoW+yXzZI5CkZbz93OXD+TbcQuVhCynyQ4qVVP5Qwe2C9jaTm+std83v6lc7rp1WTrDbjpXLdjNEJBHDSFnVu4qgGQk5u/vD6ZjjXwVZcjodPOdC4p7SzwdW1nOtzBgOViJuMTndVVZ9HZydXyMfmgj1qQlupEhP7ACuZNExO9susf0KnwTxLvWoIxmAhcTElrL7MUuvgbWBCtVCqAHXwxaFxEbAHiARMJ3YvAO23V4dcg96ytrp2ZOfv53T9JwLa59mW1+Zz8Su4Crg==;d1PcfPKE3fnx6r5v+1d+gQ=="

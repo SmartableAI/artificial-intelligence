@@ -122,6 +122,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
+    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
+    publishedDateTime: 2020-07-20T09:26:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 48
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
+        width: 770
+        height: 500
+        isCached: true
   - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
     excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
     publishedDateTime: 2020-07-18T02:17:00Z
@@ -165,20 +179,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 39
-  - title: "Facial recognition and periocular biometrics for masked faces developed by pdActive, EDGENeural.AI and FacePhi"
-    excerpt: "International fear that coronavirus is spreading at an alarming rate in public spaces has led to a number of touchless biometric systems and technologies being released by AI companies hoping to"
-    publishedDateTime: 2020-07-15T15:49:00Z
-    webUrl: "https://www.biometricupdate.com/202007/facial-recognition-and-periocular-biometrics-for-masked-faces-developed-by-pdactive-edgeneural-ai-and-facephi"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/07125637/facial-recognition-can-identify-people-wearing-masks.jpg"
-        width: 802
-        height: 600
-        isCached: true
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
     publishedDateTime: 2020-07-18T02:54:00Z

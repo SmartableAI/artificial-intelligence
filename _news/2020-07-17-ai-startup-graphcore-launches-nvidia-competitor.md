@@ -8,7 +8,7 @@ ampWebUrl: "https://www.networkworld.com/article/3567349/ai-startup-graphcore-la
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3567349/ai-startup-graphcore-launches-nvidia-competitor.amp.html"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 300
     height: 225
     isCached: true
-
-related:
-  - title: "This tiny UK startup chipmaker is targeting Intel and Nvidia with a monster AI CPU"
-    excerpt: "Graphcore, a U.K.-based AI computing startup, has unveiled its new Colossus MK2 GC200 intelligence processing unit (IPU) featuring 59.4 billion transistors, making it currently the most complex chip in the world."
-    publishedDateTime: 2020-07-15T15:22:00Z
-    webUrl: "https://www.techradar.com/nz/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-tiny-uk-startup-chipmaker-targets-intel-and-nvidia-with-monster-ai-cpu"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 98
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/W2EjqVHnZHVD2SdUfx2iyi-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
 
 secured: "TgcWjvk3idC47l8jxPf+qrM8pUEaIlVsSd3LY0MNr8aiMiNnv7oF72ts5ai5xZnW44/hNPzLdtQTSFefRkcGtAuhyxSrcJmcbRYdmnoNMj/F05REphnZoTSm8cH2IiEsgR/O+dwAp4wBhf+rFrQZ+tXrIXCYguC0p8G50xHrqC+rFg4gwGHHdex+mts2lH1Aa19m+CVlBhiBsWOeMQnp5hZuHcR90vlMXeuqQU2y9kfAja8P/jT2cKOaecLeKpX69bUamt+iGBu43QBxpF0Bv9cEKLJf0xUuJDkDOXa+VNrKFzM+MyA05ZpWpIi6ZXA0r5Zeip6EqLeUndFIZTM8XQ==;jxJdsfmRsZoOFq3sEe6DKA=="
 ---

@@ -5,7 +5,7 @@ excerpt: "Machine learning as a service Market incorporates a comprehensive vary
 publishedDateTime: 2020-07-20T06:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

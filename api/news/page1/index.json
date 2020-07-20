@@ -2,6 +2,197 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-20-giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield.md",
+      "title": "Giants in the AIoT Chip Industry - Qualcomm, Alibaba and WIMI Entering the Battlefield",
+      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 20, 2020 / In recent years, the word AIoT has gradually become active in people's vision. AIoT (AI+IoT) means combining artificial intelligence with the Internet of Things to form a new integrated discipline.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry---qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
+      "title": "Unesco invites public comments on ethics of AI",
+      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
+          "width": 2849,
+          "height": 1472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
+      "publishedDateTime": "2020-07-20T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
+      "title": "Corporate execs are starting to get skittish about AI",
+      "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2010-08-10T120000Z_532442558_GM1E68A17IK01_RTRMADP_3_JAPAN-ECONOMY-SHIRAKAWA-e1595019940905.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
+      "publishedDateTime": "2020-07-20T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-after-smics-stellar-debut-chinese-ai-chip-maker-cambricon-technologies-soars-350-per-cent-in-shanghai.md",
+      "title": "After SMIC’s stellar debut, Chinese AI chip maker Cambricon Technologies soars 350 per cent in Shanghai",
+      "excerpt": "Cambricon’s gains make it the seventh-largest company on the Star Market, but it is unlikely to post profit until 2022 amid rapidly increasing R&D expenses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/e102abda-ca52-11ea-9c1b-809cdd34beb3_image_hires_151603.jpg?itok=GR-pTyWE&v=1595229370",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
+      "publishedDateTime": "2020-07-20T00:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-chinese-autonomous-driving-start-up-autox-wins-driverless-car-permit-for-tests-in-california.md",
       "title": "Chinese autonomous driving start-up AutoX wins driverless car permit for tests in California",
       "excerpt": "AutoX is the third company to win such a driverless permit from the California DMV, after Google-backed Waymo and California-based Nuro.",
@@ -297,7 +488,7 @@
       "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1004,204 +1195,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-how-a-colombian-market-is-using-ai-to-combat-covid-19-outbreaks.md",
-      "title": "How a Colombian market is using AI to combat Covid-19 outbreaks",
-      "excerpt": "Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín. Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/world-latin-america-53388656",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12D0/production/_113461840_whatsappimage2020-07-01at11.55.59am-2-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/world-latin-america-53388656",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656",
-      "publishedDateTime": "2020-07-17T22:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-after-jack-mas-holographic-appearance-at-an-ai-conference-shares-of-this-chinese-company-soared.md",
-      "title": "After Jack Ma’s holographic appearance at an AI conference, shares of this Chinese company soared",
-      "excerpt": ". But not in person – he appeared as a holographic projection at the event on July 9, which took place mostly online amid the coronavirus pandemic The day after Ma’s speech at the conference, shares for a relatively obscure Chinese company nearly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/18/b5a7e496-c7e6-11ea-86df-6d561651b5f4_image_hires_093712.jpg?itok=_yCoEWJZ&v=1595036239",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093617/after-jack-mas-holographic-appearance-ai-conference-shares-chinese",
-      "publishedDateTime": "2020-07-17T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models.md",
-      "title": "Why Unity claims synthetic data sets can improve computer vision models",
-      "excerpt": "And, Romero said, those problems don’t go away with scale. For example, computer vision systems for AVs learn from road events like car accidents, which are (fortunately) so rare that it’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/unity-technologies-transform-2020-romero.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
-      "publishedDateTime": "2020-07-17T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
-      "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
-      "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/e382c098-5b42-483a-a6fd-1bbcfc69881e-e1594767341313.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/amp/",
-      "publishedDateTime": "2020-07-17T15:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

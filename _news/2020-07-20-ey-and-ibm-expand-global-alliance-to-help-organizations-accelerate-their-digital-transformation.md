@@ -29,16 +29,16 @@ images:
 
 related:
   - title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
-    excerpt: "\"The EY-IBM Alliance is built on providing differentiating and transformational business value for clients. As organizations learn how to adapt to today's new normal, leveraging the cloud ..."
-    publishedDateTime: 2020-07-17T20:59:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html"
+    excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
+    publishedDateTime: 2020-07-17T21:12:00Z
+    webUrl: "https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Finanzen
+      domain: finanzen.net
     quality: 12
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
         width: 600
         height: 315
         isCached: true

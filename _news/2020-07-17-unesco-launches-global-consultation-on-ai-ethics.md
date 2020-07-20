@@ -8,7 +8,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252486285/Unesco-launches-global
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics?amp=1"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Unesco invites public comments on ethics of AI"
+    excerpt: "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ..."
+    publishedDateTime: 2020-07-20T08:28:00Z
+    webUrl: "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj"
+    ampWebUrl: "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg"
+        width: 2849
+        height: 1472
+        isCached: true
   - title: "UNESCO launches worldwide online public consultation on the ethics of artificial intelligence"
     excerpt: "UNESCO is launching a global online consultation on the ethics of artificial intelligence, to give everyone around the world the opportunity to participate in the work of its"
     publishedDateTime: 2020-07-16T02:37:00Z

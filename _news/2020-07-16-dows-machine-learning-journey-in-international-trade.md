@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-lea
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "What It's Like To Be An Intern In Our Machine Intelligence Lab"
-    excerpt: "Tell us a little bit more about your role at Nasdaq. As a data science and machine learning intern, I am working with a team in Nasdaq’s Machine Intelligence Lab to collaboratively build an AI-based option listings framework. Our goal with this project ..."
-    publishedDateTime: 2020-07-15T15:43:00Z
-    webUrl: "https://www.nasdaq.com/articles/what-its-like-to-be-an-intern-in-our-machine-intelligence-lab-2020-07-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/what-its-like-to-be-an-intern-in-our-machine-intelligence-lab-2020-07-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-its-like-to-be-an-intern-in-our-machine-intelligence-lab-2020-07-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "Bsz7phfUjRi7fpdgwL/H0+MpZObRpi7x7gvv0kZPPAfNPt6ZmQRD1td7TlaGztmpVoruIxve3sIekmwdwSMacl9aOitk8rBCtb4y2hjA0K+pIyIM9fptqYubM2eFiureiTQJz1jKmdV7pawhvCTP+klr2IxO9wUEl50A8zs9zsRqARccCRAm8t7jDYHsUYPV7Rva93DwfgO9BAY4V5PW893M5OvPHYQxx+xL9AbFNkqvP2WYnRhf7nrwQ25ygYF6Z7m8AsTuUx7li/ViwLxjely9mJhY7fB0hMmjciNtps479HYfZsPD5yn1VeYhmuUGw+x4btFcmjtktEmQF5xgs+uHId0j4nV2j5r8A5dw7xJbXQKmZ9nHOxk0bxwWjcLgRhOqj6t4Hs0GgihL+wDX3K3MT49/y81p6u1bbPE1w4/vU6XbC5cu14rgV4T83rwejJLXLkfDEmUqBmMqhuRMh4kOPHquBw1VZ3FOZTOQxyA5fTHU0lupAKm+1h7bQRClpidJdY/Xq2I+zwTRQiRFTg==;wF5q6bOZZfGff6Rtj0wZZQ=="
 ---

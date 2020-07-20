@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-17-the-poetic-process-powering-real-time-language-translation-in-namibia.md",
+      "title": "The poetic process powering real-time language translation in Namibia",
+      "excerpt": "If we can design applications that are able to translate what we’re saying in real time,” Nekoto says, “then that’s one step closer toward economic [development].” That’s one of the goals of the Masakhane project,",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/07/Image-from-iOS-16.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/",
+      "publishedDateTime": "2020-07-17T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-5-ways-self-driving-cars-could-make-our-world-and-our-lives-better.md",
+      "title": "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better",
+      "excerpt": "Progress towards more autonomous and self-driving cars is fast. Here we look at the benefits of self-driving cars and how they could make our lives and our world better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1127a0b7b73b000781170e%2F0x0.jpg",
+          "width": 1200,
+          "height": 746,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/",
+      "publishedDateTime": "2020-07-16T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-watch-ai-edit-my-skate-video.md",
+      "title": "Watch AI edit my skate video",
+      "excerpt": "It's hard to know what to do with 360 footage, but maybe AI can fix that problem. I took the Insta360 One R to the skate park and let it edit my footage for me.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/watch-an-ai-edit-my-skate-video/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/RA2sMVZdETZv8DhmAcN8GDMCIuk=/2020/07/15/4cfa2ae2-d8d5-4ca3-8339-0b6ce21f048a/nic-insta360-v3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/watch-an-ai-edit-my-skate-video/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/watch-an-ai-edit-my-skate-video/",
+      "publishedDateTime": "2020-07-16T18:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics.md",
+      "title": "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics",
+      "excerpt": "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/SiyZiBYppuIEyDDEe5w99KqglmI=/2020/07/16/fcb92e46-e3e2-49c8-a471-03d29f43236f/tomb-of-beni-hassan-macquarie-university-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
+      "publishedDateTime": "2020-07-16T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants.md",
       "title": "Alexa and Google Assistant execs on future trends for AI assistants",
       "excerpt": "Executives leading Alexa and Google Assistant teams say multimodal experiences and unsupervised learning are notable trends for AI assistants.",
@@ -357,7 +556,7 @@
       "webUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -878,6 +1077,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
+      "title": "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool",
+      "excerpt": "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/353390",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353390",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390",
+      "publishedDateTime": "2020-07-16T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-big-backing-to-pair-doctors-with-ai-assist-technology.md",
       "title": "Big backing to pair doctors with AI-assist technology",
       "excerpt": "\"We believe Activ Surgical's platform and technology are poised to transform the surgical space by enabling existing surgical systems and robots to visualize what surgeons can't and guide them, thus making surgeries safer,",
@@ -973,219 +1222,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-deep-learning-in-the-media-supply-chain.md",
-      "title": "Deep Learning in the Media Supply Chain",
-      "excerpt": "Deep Learning is a subset of machine learning and uses artificial neural networks that enable the system to learn autonomously. Deep Learning enables the processing of amounts of data that is not practical to process manually.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/opinion/deep-learning-in-the-media-supply-chain",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/UVp4toMBipUZUtxdepAUBb-1200-80.jpg",
-          "width": 726,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
-      "publishedDateTime": "2020-07-16T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-shield-ai-rejected-a-pivot-to-selfie-drones-now-its-drones-are-being-used-by-the-military-overseas.md",
-      "title": "Shield AI Rejected A Pivot To ‘Selfie Drones.’ Now Its Drones Are Being Used By The Military Overseas",
-      "excerpt": "The overseas deployment of the startup's drones comes full circle for cofounder Brandon Tseng, who came up with the idea as a Navy SEAL in Afghanistan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee17ac1194e4200062e8f19%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1236%26cropY1%3D185%26cropY2%3D1009",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/16/shield-ai-ryan-brandon-tseng-ai-50-interview/amp/",
-      "publishedDateTime": "2020-07-16T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies.md",
-      "title": "Karius Named to Forbes AI 50 List of Most Promising Artificial Intelligence Companies",
-      "excerpt": "Karius, the world leader in liquid biopsy for infectious diseases, was named one of America's most promising artificial intelligence companies by Forbes. The Karius ® Test uses novel genomics and AI approaches to identify more than 1,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/karius-named-to-forbes-ai-50-list-of-most-promising-artificial-intelligence-companies-1029397339",
-      "publishedDateTime": "2020-07-16T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-a-robot-walks-into-white-castle.md",
-      "title": "A robot walks into White Castle ...",
-      "excerpt": "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/a-robot-walks-into-white-castle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/",
-      "publishedDateTime": "2020-07-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-german-courts-rule-against-teslas-self-driving-claims.md",
-      "title": "German courts rule against Tesla's \"self driving\" claims",
-      "excerpt": "Electric car brand Tesla has been banned from making claims that its cars have “self-driving” technology, by a court in Munich.",
-      "sourceUrl": null,
-      "webUrl": "https://www.am-online.com/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.am-online.com/media/1/root/model-3-rhdjpeg_w1200.jpg",
-          "width": 1200,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
-      "cdnAmpWebUrl": "https://www-am--online-com.cdn.ampproject.org/c/s/www.am-online.com/amp/news/car-manufacturer-news/2020/07/16/german-courts-rule-against-tesla-s-self-driving-claims",
-      "publishedDateTime": "2020-07-16T02:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AM-online",
-        "domain": "am-online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

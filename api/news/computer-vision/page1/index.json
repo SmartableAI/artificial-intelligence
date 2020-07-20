@@ -309,7 +309,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1080,47 +1080,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
-      "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
-      "excerpt": "NEW YORK, NY / ACCESSWIRE / July 10, 2020 / As a leader in holographic vision, WIMI Hologram Cloud (NASDAQ:WIMI) specializes in computer vision holographic cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/ac16582427/wimi-holographic-ar-ai-vision-drives-a-new-wave-of-5g-applications",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/597017/1.jpg",
-          "width": 554,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582427",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582427",
-      "publishedDateTime": "2020-07-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-09-uk-and-australia-to-probe-clearview-ai-facial-recognition.md",
       "title": "UK And Australia To Probe Clearview AI Facial Recognition",
       "excerpt": "The British and Australian data protection authorities have opened an investigation into the controversial facial recognition technology firm Clearview AI.",
@@ -1444,6 +1403,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-computer-vision-have-you-seen-the-light.md",
+      "title": "Computer vision – have you seen the light?",
+      "excerpt": "From detecting tumours to identifying wear in machines, computer vision can help improve our world – but not everything is plain sailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1593772338/itpro/2020/07/shutterstock_robotic_vision_computer_vision.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "Computer vision – have you seen the light?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356341/computer-vision-have-you-seen-the-light?amp",
+      "publishedDateTime": "2020-07-05T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

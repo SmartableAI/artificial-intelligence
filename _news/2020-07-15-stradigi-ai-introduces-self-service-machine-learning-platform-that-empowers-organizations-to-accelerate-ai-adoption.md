@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1214744/Stradigi_AI_Inc__Stradigi_AI_Introduces_Self_Service_Machine_Lea.jpg?p=facebook"

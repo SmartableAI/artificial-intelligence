@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Unesco invites public comments on ethics of AI"
+    excerpt: "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ..."
+    publishedDateTime: 2020-07-20T08:28:00Z
+    webUrl: "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj"
+    ampWebUrl: "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
+    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg"
+        width: 2849
+        height: 1472
+        isCached: true
   - title: "Unesco launches global consultation on AI ethics"
     excerpt: "The United Nations (UN) body opens up public consultation to help experts draft new global framework on AI ethics"
     publishedDateTime: 2020-07-17T11:36:00Z

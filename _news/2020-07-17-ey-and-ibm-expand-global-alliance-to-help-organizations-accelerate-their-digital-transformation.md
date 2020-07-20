@@ -1,24 +1,24 @@
 ---
 category: news
 title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
-excerpt: "\"The EY-IBM Alliance is built on providing differentiating and transformational business value for clients. As organizations learn how to adapt to today's new normal, leveraging the cloud ..."
-publishedDateTime: 2020-07-17T20:59:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html"
+excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
+publishedDateTime: 2020-07-17T21:12:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
     width: 600
     height: 315
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "gWdQzEM/Ul4BncaJry6FTH8q5Ell9nBWXicWqXEtdNXx+1rABqhc2ujcLUttnJNk4cgnGe2G8EH5QILTLe6wO/Sfzg4SjDObF50EZwKWeHnnuNV20FeyQKxMyERXs7JaILhEuobdsBITkjDCKdn039C2T3i5zmpLF1lmD0a74ow7wI5g9urXXiJkX8kDL8qUyXo+50yOouKwHFjR2lvG7U7hYT//fo7939D7GP0XgdmEAxT8UDFWlYYyDrbibgatcQ0NGVT5Lk3MpssYymyvOAddZxfGB0wZEm5o/jahG2DZP8AJzshSFy1fVVoFs2HQA4Xc1WBnAXSjZgk2oU4RJg==;noeX48p1fUWy6fE9erLDMg=="
+secured: "+hYDzsPcryNCfdHIxG2yQ1th5EP/vfrYl4efV1gjoL1TS0pte+5m8aulTrAnsJpuKlwfB9j++DTenjSfsC674fcTSp84i/qXdXGKgaY3pWtpeAuiwCQfkNZsmME6hcbTF325M79ahuO+5CGjhndW6TQ0CAjaozq7eLziX+JI3hCh7AJ3Hxz1J0KFxvaxrde6T1fPQIDiTQdHWhHVJDPTaLS5bYmE1LnNmEHDvvZCXAkRZk0WjoWvizQiOTLPiW+lqyKG4+6CDRhQ0BRMFEiGpIx1fI8wfdUavKoLmKdlfpXmHXEWr4N69SAFR+N220Y3M7ExcRqf6Da/dVXvFqTxHA==;v71KubcllYEseKM0fYhDcQ=="
 ---
 

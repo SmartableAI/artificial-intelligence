@@ -2,6 +2,257 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-15-mit-researchers-warn-that-deep-learning-is-approaching-computational-limits.md",
+      "title": "MIT researchers warn that deep learning is approaching computational limits",
+      "excerpt": "In a newly published study, MIT researchers find evidence that deep learning will soon (or already has) run up against computational limits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all",
+          "width": 1145,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
+      "publishedDateTime": "2020-07-15T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024.md",
+      "title": "Navistar teams up with TuSimple to produce self-driving trucks by 2024",
+      "excerpt": "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 274,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
+      "publishedDateTime": "2020-07-15T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-ivanka-trump-tweets-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
+      "title": "Ivanka Trump tweets support for Goya Foods in possible violation of ethics rules",
+      "excerpt": "Donald Trump follows daughter’s post with own tweet claiming that boycott backfired and ‘people are buying like crazy’ US President Donald Trump and his daughter and adviser Ivanka Trump are rallying support for Goya Foods on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_044115.jpg?itok=ImVw9Yyn&v=1594845867",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
+      "publishedDateTime": "2020-07-15T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning.md",
+      "title": "How an award-winning AI-powered software is helping students with remote learning",
+      "excerpt": "Amira has received four new awards for effectiveness and innovation with helping students become better readers from afar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/15/8a254762-4df0-47a8-8772-b68921f6bd31/resize/1200x/38d70874f50e1c4b971a8326192b9e43/amira-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
+      "publishedDateTime": "2020-07-15T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-computer-vision-tech-helps-robots-get-a-grasp-on-transparent-objects.md",
+      "title": "Computer vision tech helps robots get a grasp on transparent objects",
+      "excerpt": "In order to see and then grasp objects, robots typically utilize depth-sensing cameras like the Microsoft Kinect. And while such cameras may be thwarted by transparent or shiny objects, scientists at Carnegie Mellon University have developed a work-around.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/a0f78a7/2147483647/strip/true/crop/960x640+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F68%2F3aad48ba41c7af2fc5dfc6c49d4d%2F237348-web.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true",
+      "publishedDateTime": "2020-07-15T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-dotdata-20-platform-delivers-ai-insights-for-enterprises.md",
       "title": "DotData 2.0 platform delivers AI insights for enterprises",
       "excerpt": "DotData is announcing version 2.0 of its artificial intelligence and machine learning platform for enterprises so they can adopt AI tools more quickly.",
@@ -156,7 +407,7 @@
       "webUrl": "https://venturebeat.com/2020/07/15/artie-releases-tool-to-measure-bias-in-speech-recognition-models/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1234,227 +1485,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.md",
-      "title": "C.H. Robinson, Microsoft alliance to digitally transform supply chains",
-      "excerpt": "C.H. Robinson and Microsoft Corp. have formed and alliance to digitally transform supply chains of the future by combining C.H. Robinson’s Navisphere®, Microsoft Azure and Azure IoT to meet the changing demands of global supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stattimes.com/statbackend/assets/uploads/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains.jpg",
-          "width": 527,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/",
-      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/news/ch-robinson-microsoft-alliance-to-digitally-transform-supply-chains/amp/",
-      "publishedDateTime": "2020-07-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "air cargo",
-        "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions.md",
-      "title": "The Pentagon’s $1 Million Question: Can AI Predict An Enemy’s Emotions?",
-      "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959878254%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
-      "publishedDateTime": "2020-07-15T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-alithya-launches-ai-fi-trade-surveillance-solution-powered-by-microsoft-azure.md",
-      "title": "Alithya Launches AI-FI™ Trade Surveillance Solution Powered by Microsoft Azure",
-      "excerpt": "Alithya Group inc., a leader in digital strategy and technologies employing more than 2,000 highly qualified professionals offering enterprise solutions across Canada, the United States, and Europe, is proud to announce the launch of its AI-FI™ Trade Surveillance solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/alithya-launches-ai-fitm-trade-surveillance-solution-powered-by-microsoft-azure-2020",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-drifts-latinx-founders-beat-long-odds-to-build-360-million-ai-powered-sales-startup.md",
-      "title": "Drift’s Latinx Founders Beat Long Odds To Build $360 Million AI-Powered Sales Startup",
-      "excerpt": "Three companies and 12 years later, Cancel and Torres are the founders of Drift, an AI-powered sales software startup that features on Forbes’ second annual AI 50 list of the most promising U.S.-based startups, one of nine companies building productivity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed96235d5799d0007010974%2F0x0.jpg%3FcropX1%3D454%26cropX2%3D5181%26cropY1%3D0%26cropY2%3D3151",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kenrickcai/2020/07/15/drift-david-cancel-elias-torres-ai-50-interview/amp/",
-      "publishedDateTime": "2020-07-15T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars.md",
-      "title": "'Hands free': Automakers race to next level of not quite self-driving cars",
-      "excerpt": "Automakers have many names for new systems that allow for hands-free driving, but no safety or performance standards to follow as they roll out the most significant changes to vehicle technology in a generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f0ed4b4f0f4194e5c33bb62?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hands-free-automakers-race-to-next-level-of-not-quite-self-driving-cars-2020-7?amp",
-      "publishedDateTime": "2020-07-15T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

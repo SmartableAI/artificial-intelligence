@@ -48,7 +48,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -97,6 +97,6 @@ related:
         height: 630
         isCached: true
 
-secured: "dHp43uP6vm7BrJdJzDpaHvu5aY/1TkE3djDdrI7B1Oo/jj4a7TJUw/2jZLLE+gYteprIl8RR+PkJrsTKTufYDdhKozIy/Nqu6NNCwC8+gH8Pi7tyZ+e2dIXtN+CS4k6Ayq81CKJ4u3Istm9/2gKoLJD41kolUsWF8Oo7ATlJcdLaqaAAQE1GwIsuMeWz4+Meg43G4nDOnJH/6e7BdqxKZLKs+i6WNNfjtMwXC3X38D0hxQuTl7FOh7oqWe2RFuylgVjjXRWirO70KUU8AD2wD0yc22wXkw4PPeWOpBLl4EXN5JWOR2P4CJRDATDNHfdbw6s31insClLmlPYgglbb1g==;I7VoTYn8IA42m5gH/NAGEw=="
+secured: "6ozOHehPYDikaglQqHVIlS9bLcCnB9hGSPfBpMSUQfmlGo6ltyXaHNia1bPSTT78lhJDVqPnCVdX+YGotIFW9i13jWxwI7FQ4cCfeYGAZ+ZU4kJ2VZuf3bepBlAbJYCDZ6CcKI/eDikH2BgXdSJ4Xcq5Q6uwHTR4FMyEdfayBi/rSvNuuBw6sxxxieXUOoNZ8UyksImwETqkqituDRFM/mZSj/qlBZ56IEKLzPzp0Gn8mBL49nPfBVfsnRCmf5U1svLNdBvvKaHFjBnyhFZV7nMZIvppRL6CX2yVTfleYyJ7A1tLHKGd6+QVOmMCLDXG0fFRUFeKrU5MwyqerK6PUp7VduzT1UZHN4gH2QZq1y807KMHCGM6aj9bqFyNHKm+FhxXAVENAG+SS3D7xb5Ck9V8Jy9Q1yoZUgqF9CnQWzS+rDU+V5aZH94cmRzZKSwCRCOrb0A7O+Cuo8E3DW4VJ0JjrlNLLmlrzpNyk1nWkj3Y02KmhDAoKvxrurpdKq0d;G/A7d/jyX9jwnGv6iko6yA=="
 ---
 

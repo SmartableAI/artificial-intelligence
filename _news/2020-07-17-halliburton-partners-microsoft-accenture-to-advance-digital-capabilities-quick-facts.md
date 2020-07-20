@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accen
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp"
 type: article
 quality: 61
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Halliburton in Microsoft Deal"
+    excerpt: "Halliburton, Microsoft and Accenture have entered into a five-year agreement to advance Halliburton's digital capabilities in Microsoft Azure."
+    publishedDateTime: 2020-07-20T09:38:00Z
+    webUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/"
+    ampWebUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
+    cdnAmpWebUrl: "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
+    type: article
+    provider:
+      name: Rigzone
+      domain: rigzone.com
+    quality: 59
+    images:
+      - url: "https://images.rigzone.com/images/news/articles/162765_582x327.png"
+        width: 582
+        height: 327
+        isCached: true
   - title: "Halliburton Teams Up to Advance Digital Capabilities with Microsoft, Accenture"
     excerpt: "Halliburton, Microsoft Corp. and Accenture have entered into a five-year strategic agreement on July 17 to advance Halliburton’s digital capabilities in Microsoft Azure."
     publishedDateTime: 2020-07-17T13:47:00Z

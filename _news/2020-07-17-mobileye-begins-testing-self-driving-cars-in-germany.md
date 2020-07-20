@@ -18,37 +18,37 @@ topics:
   - AI
 
 related:
-  - title: "Strong AI Versus Weak AI Is Completely Misunderstood, Including For AI Self-Driving Cars"
-    excerpt: "Or, if you prefer, you can state it as weak versus strong AI (it’s okay to list them in either order). If you’ve been reading about AI in the popular press, the odds are that you’ve seen references to so-called strong AI and so-called weak AI,"
-    publishedDateTime: 2020-07-15T16:13:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/"
+  - title: "Intel's Mobileye will test self-driving cars at up to 80 MPH in Germany"
+    excerpt: "Intel’s Mobileye self-driving division has received regulatory approval to test its vehicles on German roads, Intel announced."
+    publishedDateTime: 2020-07-17T10:48:00Z
+    webUrl: "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html"
+    ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
+      name: Engadget
+      domain: engadget.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1098040634%2F0x0.jpg"
-        width: 1200
-        height: 960
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fd5f2e2a0-c813-11ea-aeff-0b8af02ce9f4&client=amp-blogside-v2&signature=e719220b03335a26e58e6d925c87d6fd0db6fae6"
+        width: 600
+        height: 350
         isCached: true
-  - title: "A Google Self-Driving Car Is at Fault for a Crash"
-    excerpt: "Google's self-driving car has been in an accident. The news is it's the first time one of its autonomous vehicles has been at fault."
-    publishedDateTime: 2020-07-17T04:33:00Z
-    webUrl: "https://bigthink.com/natalie-shoemaker/why-google-self-driving-car-crash-is-a-learning-experience"
-    ampWebUrl: "https://bigthink.com/why-google-self-driving-car-crash-is-a-learning-experience.amp.html"
-    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/why-google-self-driving-car-crash-is-a-learning-experience.amp.html"
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "The AV testing in Germany in real-world traffic is starting now in and around Munich. “Mobileye is eager to show the world our best-in-class self-driving vehicle technology and safety solutions as we get closer to making safe, affordable self-driving ..."
+    publishedDateTime: 2020-07-16T17:28:00Z
+    webUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/"
+    ampWebUrl: "https://www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/emerging-tech/mobileye-starts-testing-self-driving-vehicles-in-germany-39225/amp/"
     type: article
     provider:
-      name: Big Think
-      domain: bigthink.com
+      name: TelecomTV
+      domain: telecomtv.com
     quality: 44
     images:
-      - url: "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xODQwNTk0Ni9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYxMTI5OTk1Mn0.tiynpTT4gCZrP2rEOlEr8sAveK8Uhd3YZRtXqKedFgA/img.jpg?width=980"
-        width: 980
-        height: 551
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "When will we actually see self-driving cars?"
     excerpt: "Q. Okay, I have given up on a flying car, but when do you think we will see an actual self-driving car? A. There are a couple of inherent problems — legal and cultural. In every state that I have researched, there is a law that you need to have at least ..."
@@ -65,6 +65,45 @@ related:
       - url: "https://www.boston.com/wp-content/uploads/2020/07/Autonomous_Vehicles-Crashes_96424-850x478.jpg"
         width: 850
         height: 478
+        isCached: true
+  - title: "Her quest: How will self-driving cars affect everyday traffic?"
+    excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
+    publishedDateTime: 2020-07-16T21:36:00Z
+    webUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
+    type: article
+    provider:
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 24
+  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
+    publishedDateTime: 2020-07-17T13:08:00Z
+    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
+    type: article
+    provider:
+      name: KitGuru
+      domain: kitguru.net
+    quality: 24
+    images:
+      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
+        width: 732
+        height: 330
+        isCached: true
+  - title: "Mobileye starts testing self-driving vehicles in Germany"
+    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
+    publishedDateTime: 2020-07-17T10:40:00Z
+    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "F+lanHl8Vrq1FGqx4xqqRu9lLeJw/hBLJvHA6n3h4ghOXJf9U8aHBxJybB9qn5EaDRE7OZofwOFlmmp3+cC46J3F52mLyvuqpRXgNnaQjFFp6t/ctcUhyy752UrxfoD5bqK8zoFtS0kNzXUdgOAXlvd06oPEUL4OJa3tl/oYu5wim+6fwtPGQmwwdbeO3Jgu0WxH4qzRu0ZJSdzcmyD8SaAsnoN+AWdyOaiU1u2hoAMj84wSlevDkk0b8uClVASF9qJ8rVxNW/h7UE9vgAsXgrPhR5Z42z0uo77lFeeP+CQOCjboSyrMACI0gMWlDGOB0VR4QuPmGAyXh6fqrXV9aKfVdN654f/mD9ChqPebzWamUxyd1Fzhy3h8kgUPDfTBlc4cODRY/AjHXSLrnKWUjLIoIhlsr7GBF10xexHjuSVVAvkVKrHmp7br/D4hr0hupfj6ahPkdI7qGgnDYSV4l5zRrEnUeQinZvZGsFPCB9py2ButY4ITpqu2tQRViorM22HCND/H5hpX5lkydp1gfw==;zXoZXezZvHA9pzd/gl1wPQ=="

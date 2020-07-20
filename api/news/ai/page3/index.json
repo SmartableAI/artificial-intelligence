@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-16-richard-socher-natural-language-processing-creates-value-in-the-enterprise.md",
+      "title": "Richard Socher: Natural language processing creates value in the enterprise",
+      "excerpt": "During a session at VentureBeat's Transform summit, former Salesforce chief scientist Richard Socher spoke about how AI can create value in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/da53d202-38f4-41a3-bc3a-051c83cbc1f9-e1594699876370.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/richard-socher-natural-language-processing-creates-value-in-the-enterprise/amp/",
+      "publishedDateTime": "2020-07-16T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-dows-machine-learning-journey-in-international-trade.md",
+      "title": "Dow’s Machine Learning Journey In International Trade",
+      "excerpt": "Dr. John Wassick, Integrated Supply Chain Technology Fellow, Dow Inc., was on a supply chain panel at the ARC Industry Forum in Orlando.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1227496813%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
+      "publishedDateTime": "2020-07-16T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms.md",
+      "title": "How Google addresses ML fairness and eliminates bias in conversational AI algorithms",
+      "excerpt": "When it comes to algorithmic bias, how Google teaches Translate to recognize gender serves as an example of just how complex such a basic problem remains.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1130913708-e1594908132407.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-google-addresses-ml-fairness-and-eliminates-bias-in-conversational-ai-algorithms/amp/",
+      "publishedDateTime": "2020-07-16T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-darpa-pays-1-million-for-an-ai-app-that-can-predict-an-enemys-emotions.md",
+      "title": "DARPA Pays $1 Million For An AI App That Can Predict An Enemy’s Emotions",
+      "excerpt": "The science of using AI to detect and predict emotions is shaky but the U.S. military and a handful of well-funded startups are hoping to prove the doubters wrong, whatever the risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959878254%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/amp/",
+      "publishedDateTime": "2020-07-16T11:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
       "title": "Japanese robot to clock in at a convenience store in test of retail automation",
       "excerpt": "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
@@ -378,6 +577,56 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-translate-ancient-hieroglyphs-with-googles-new-ai-powered-tool.md",
+      "title": "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool",
+      "excerpt": "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/353390",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/353390",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390",
+      "publishedDateTime": "2020-07-16T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1160,257 +1409,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-mit-researchers-warn-that-deep-learning-is-approaching-computational-limits.md",
-      "title": "MIT researchers warn that deep learning is approaching computational limits",
-      "excerpt": "In a newly published study, MIT researchers find evidence that deep learning will soon (or already has) run up against computational limits.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all",
-          "width": 1145,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
-      "publishedDateTime": "2020-07-15T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024.md",
-      "title": "Navistar teams up with TuSimple to produce self-driving trucks by 2024",
-      "excerpt": "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 284,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
-      "publishedDateTime": "2020-07-15T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-ivanka-trump-tweets-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
-      "title": "Ivanka Trump tweets support for Goya Foods in possible violation of ethics rules",
-      "excerpt": "Donald Trump follows daughter’s post with own tweet claiming that boycott backfired and ‘people are buying like crazy’ US President Donald Trump and his daughter and adviser Ivanka Trump are rallying support for Goya Foods on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_044115.jpg?itok=ImVw9Yyn&v=1594845867",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "publishedDateTime": "2020-07-15T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning.md",
-      "title": "How an award-winning AI-powered software is helping students with remote learning",
-      "excerpt": "Amira has received four new awards for effectiveness and innovation with helping students become better readers from afar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/15/8a254762-4df0-47a8-8772-b68921f6bd31/resize/1200x/38d70874f50e1c4b971a8326192b9e43/amira-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-an-award-winning-ai-powered-software-is-helping-students-with-remote-learning/",
-      "publishedDateTime": "2020-07-15T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-computer-vision-tech-helps-robots-get-a-grasp-on-transparent-objects.md",
-      "title": "Computer vision tech helps robots get a grasp on transparent objects",
-      "excerpt": "In order to see and then grasp objects, robots typically utilize depth-sensing cameras like the Microsoft Kinect. And while such cameras may be thwarted by transparent or shiny objects, scientists at Carnegie Mellon University have developed a work-around.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/a0f78a7/2147483647/strip/true/crop/960x640+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F68%2F3aad48ba41c7af2fc5dfc6c49d4d%2F237348-web.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/robots-grasp-transparent-shiny-objects/?amp=true",
-      "publishedDateTime": "2020-07-15T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
