@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T13:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
-secured: "BPuVV2nB2sHI8EtOLVc8fLt8FiPa3P5xiYj9vkeVJrE0v9T56V+T+EuBeOn2pL5yQ35Tg/6pB+Fs5WXUTI+AYusBVID4CwKaqBhkLzYrPUpePAbagwW+TDGAjO8pvLLfgjqvCrLwBykNlJqKpWQWQJhOcbFakEd7rIFtHCC8pXxG3/Q2DZQzvIGz32T/mggJu8T2I41Ru50Nlfe5P4fywJigXntWbF2v9JYYF72AG8YFZoEAgWcv4+MedhMmSiS7nU9LWj8+kUIz8i9ri6mb1PWhe2h89KdaqMdKBim2Na2uvNJAaJoega1YX4vmrHvcR2NPOZNzT+3qRxsXT9OMnA==;rdyCUDd6C5X+QS18L0mlDw=="
+related:
+  - title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA"
+    excerpt: "SFL Scientific today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Service Delivery Partner of the Year 2019 for the Americas for the second year in a row. The NPN selected SFL Scientific for its AI consulting and development services,"
+    publishedDateTime: 2020-07-20T14:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200720005375/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+
+secured: "/yvxUOsXFkdV6ZFETsUVD2RNlTWetNycxIR6kpetZBh3YX06zJm2o28v+AD3oQVfXpUPgN1xRSCMVEI2qH//79MSuJ5/IoFC7u/Ml6T+UZMi+Vk2tZBnKkpWF/F3lZPsJIZd1TzO+EZc1Rpg9Uw25SqovJy1Ey47LSzaQVEEMmmMPS53raIOYJjx4cbrC7w+0e1kZVXvL0B8aLL5eT/HTgOzqNJ5EufCxodl8JdOjDOhkYTa9D9Vh4wULsbfFYFZRI/1uaWt8wx/hFAJU9mAeJUZPEdv2z+3DoB6ZHNHCCZAidweekWV2GgN+G1bFawgEEioAkSKhBXAByI1ir7o4cKpBniEUKl5pDFyIg7R4Fiew7aedYTQdNKheQHXUHZcnAg1ASBGVLOiGFqLtv3wfJGu3sELaxQ37lL20W1fEZ6oVBD31HBoLKWh65WVYqUMKb6nFA52r+z0TXOpwtE4Z5PhDJ4K0/GFb3d8oFqnWaaFNELjs3FlWsuV+ofd4RdIpga+f5rflb7mTMl60F53tA==;RvDd4AUndmSMOXQNwzla0Q=="
 ---
 

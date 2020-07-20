@@ -1,24 +1,26 @@
 ---
 category: news
 title: "CGS Positioned as a Major Contender in Everest Group's Learning Services PEAK Matrix 2020"
-excerpt: "CGS, a global provider of business applications, enterprise learning and outsourcing services, has been recognized as a"
-publishedDateTime: 2020-07-20T12:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16686733/cgs-positioned-as-a-major-contender-in-everest-groups-learning-services-peak-matrix-2020"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16686733"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16686733"
+excerpt: "Through tech-forward engaging programs, leveraging AI, AR/VR, machine learning and gamification, CGS provides professional development solutions, blending emerging technology with essential ..."
+publishedDateTime: 2020-07-20T12:46:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/cgs-positioned-as-a-major-contender-in-everest-group-s-learning-services-peak-matrix-2020-1029409738"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-secured: "tKi8AgUnN77wLpwLe4+WsTx1hAYHiwAWjfNJdEFqFQX2q0hh/BVuYb01KwltDOcqA5ym8MtFswaUgSLKGw5M7HSWg9AEScqKwcx7Bm5VkSCZ5WpVlLRwhDaN+Or8nfj5+s1J/9d5WHA4Vy+SN8zY55Nc1yFMcjQ4W9lPwfHrqxsMkUS9n/doD1MqeQQD6UtX15ia+eBStifM8HYRX4/cg4bnEmIsXmT/uofz8OdralG1NGqGEi3YFyr+PlhfEKSFYQybD0J0xlDBG93SdI7CUG5LZx4PiFp4cIKe7bjY33o+FgEL6BvbHUKFnYvU29+xJezIPQUPIIYy/MgpjrSQ3V1TKaXD+3rEP0UIwcIv2S5EhY+IlLtXHGQQWSqeYbnYi7JZ+Xcukp9oqJu6IR9xizZwgJ1zyn6G8E08wPornv1iNbddVmaBX//33mm7iFg475/HBGnPqAGLPLEaiaI1id5xsjqCJRhN18X4+vZA/9b7dKqAuAgVWMtAeNgaJAS8ZrUVz8epQ2I6Ue5sqsF6yA==;55WnbE61MF8K+ZH/Wf6Dpg=="
+secured: "1uR14DJa2Cic1zPIDZ4uqrQ4k7QTu3Nx/UWAlUsg9gTGSvsU2G/VETKYeTfddz4DxlT021JI+QdY/eBUBF7pRFBjI7NankhaknrgDe0azlaN3H+dKQ5/3xnnisXuiz4iG2IjMgz8ThPJpZfifew4Or41aamDYI56QR7d6bsqRJwheXcrHFUIi6tYDiAUCk23CpMHj4GwHl1SYwn/5OAlC0B2VDlrL/Z5VP3Kd1XJCj4x7rwajIYYnSM8vRhdmk9tKNgmDzHFFFHWW/8VI3o3pfKpEq4SXf5RQV9Kfz3ntLokbxqAUa2C5rusviUSUkyqpRq75R80xkAPdi9KUFo1Kw==;hXor6IwFt8nHToQHuZFN9g=="
 ---
 

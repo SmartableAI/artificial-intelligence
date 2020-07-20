@@ -53,22 +53,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 84
-  - title: "Lawsuits allege Microsoft, Amazon and Google violated Illinois facial recognition privacy law"
-    excerpt: "In a set of new lawsuits, two Illinois residents argue that three tech giants violated state laws prohibiting the use of personal biometric data without permission. Illinois residents Steven Vance and Tim Janecyk allege that images of their faces appeared in IBM’s “Diversity in"
-    publishedDateTime: 2020-07-15T21:10:00Z
-    webUrl: "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/"
-    ampWebUrl: "https://techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/facial-recognition-lawsuit-vance-janecyk-bipa/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024"
-        width: 1024
-        height: 685
-        isCached: true
   - title: "Facial recognition is tech so special it should be banned"
     excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
     publishedDateTime: 2020-07-18T10:32:00Z
@@ -84,22 +68,6 @@ related:
       - url: "https://images.thestar.com/SNvkIuVfk53rgxKcN2NDTSiF3Tg=/1200x800/smart/filters:cb(1595006600990)/https://www.thestar.com/content/dam/thestar/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned/recognition.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Microsoft Sued For Using Image Dataset To Improve Its Facial Recognition Technology"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2020-07-15T22:04:00Z
-    webUrl: "https://lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/microsoft-sued-for-using-image-dataset-to-improve-its-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 53
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/11/microsoft-1024x711.jpg"
-        width: 1024
-        height: 711
         isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
