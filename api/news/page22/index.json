@@ -2,6 +2,56 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-07-01-the-robot-thats-keeping-facilities-clean-during-covid-19.md",
+      "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+      "excerpt": "As workplaces re-open after the Covid-19 lockdown, attention is turning to how they can be as clean as possible. Researchers from MIT are working on a robot that uses UV light to sanitize any working environment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef2f96644713a0007ed4670%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Robot That's Keeping Facilities Clean During Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adigaskell/2020/07/01/the-robot-thats-keeping-facilities-clean-during-covid-19/amp/",
+      "publishedDateTime": "2020-07-01T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-01-five-ways-you-can-protect-your-machine-learning-systems.md",
       "title": "Five Ways You Can Protect Your Machine Learning Systems",
       "excerpt": "There is no doubt that machine learning has opened up a lot of new avenues. However, for all its advantages, it is important to recognize its inherent vulnerabilities, too.",
@@ -1091,57 +1141,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress.md",
-      "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
-      "excerpt": "Tech giants joined universities and nonprofits and backed a national AI research cloud, something supporters say will help the U.S. innovate and compete.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/fei-fei-condoleeza.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 580,
-          "title": "AWS, Google, and Mozilla back national AI research cloud bill in Congress",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/30/aws-google-and-mozilla-back-national-ai-research-cloud-bill-in-congress/amp/",
-      "publishedDateTime": "2020-06-30T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

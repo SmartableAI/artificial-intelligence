@@ -182,7 +182,7 @@
       "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -396,21 +396,30 @@
       "title": "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics",
       "excerpt": "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": null,
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16623858",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16623858",
-      "publishedDateTime": "2020-07-14T21:00:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568",
+      "publishedDateTime": "2020-07-14T21:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

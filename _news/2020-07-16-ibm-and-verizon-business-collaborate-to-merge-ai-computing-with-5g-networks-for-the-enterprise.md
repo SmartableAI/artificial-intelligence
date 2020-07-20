@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-busi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
 type: article
 quality: 77
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
     quality: 39
     images:
       - url: "https://www.itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
+        width: 375
+        height: 249
+        isCached: true
+  - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
+    excerpt: "“These will be jointly offered with IBM’s market-leading Maximo Monitor with IBM Watson and advanced analytics ... s expertise in enterprise-grade AI and production automation can provide ..."
+    publishedDateTime: 2020-07-20T01:54:00Z
+    webUrl: "https://itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
         width: 375
         height: 249
         isCached: true

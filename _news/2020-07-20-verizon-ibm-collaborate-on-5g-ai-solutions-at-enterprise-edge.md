@@ -1,28 +1,26 @@
 ---
 category: news
-title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
-excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
-publishedDateTime: 2020-07-17T07:40:00Z
-webUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/"
-ampWebUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
-cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
+title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
+excerpt: "“These will be jointly offered with IBM’s market-leading Maximo Monitor with IBM Watson and advanced analytics ... s expertise in enterprise-grade AI and production automation can provide ..."
+publishedDateTime: 2020-07-20T01:54:00Z
+webUrl: "https://itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
 type: article
-quality: 33
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Voicendata.com
-  domain: voicendata.com
+  name: ITWire
+  domain: itwire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.voicendata.com/wp-content/uploads/2020/05/Edge-computing-e1588659016774.jpg"
-    width: 430
-    height: 247
+  - url: "https://itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
+    width: 375
+    height: 249
     isCached: true
 
 related:
@@ -72,19 +70,21 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
-    excerpt: "“These will be jointly offered with IBM’s market-leading Maximo Monitor with IBM Watson and advanced analytics ... s expertise in enterprise-grade AI and production automation can provide ..."
-    publishedDateTime: 2020-07-20T01:54:00Z
-    webUrl: "https://itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
+  - title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
+    excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
+    publishedDateTime: 2020-07-17T07:40:00Z
+    webUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/"
+    ampWebUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
+    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
+      name: Voicendata.com
+      domain: voicendata.com
+    quality: 33
     images:
-      - url: "https://itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
-        width: 375
-        height: 249
+      - url: "https://www.voicendata.com/wp-content/uploads/2020/05/Edge-computing-e1588659016774.jpg"
+        width: 430
+        height: 247
         isCached: true
   - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
     excerpt: "Verizon Business (NYSE: VZ) and IBM (NYSE: IBM) today announced they are entering into a collaboration to work together on"
@@ -179,6 +179,6 @@ related:
       domain: telecompetitor.com
     quality: 4
 
-secured: "eBVQ2f13Pqqfgo59XlDqkZ9BxUlR4+9C/djwAYDt4TycgbAuGqzeNJymcUx5RKocQW6yhsUcc94FjX03n03cWi2vF+Zlp3KYP7oPXWTE9QvWni+KNxc5uexPw/MsTtuO4Ov/5N5IGKgivB4TSHheBeS1pec1+fUfBS7GcY8vv2LtYPK6rLOn0oZ+KEs+Fu75zhcWyG6/x65tPlEAtLUlDjjiD3j9bm5/kV7snvKAJ0tby8yo/oCJMT1ahfBHrKCsyMOeaSY/5OWX3uyW0gMwb2ErCnjDIljBWLUN4SlZmACfXpTe3/jDuvz2MVT0N2BUsSqNbHin5AlccxWMrWPoJhCwxcyw9VpdbvE0r2TQr990euR/H11+qpb+1x/3ZXCq4eEkTpy781+NQL1iH3ouDvjUsqzNkGcd5c0N+qYRN7rCfA8aodP3GgQvm5AZTXZebseMzdQDTMvQzfYdwBFzUdpIMmZI/P22Ml4pKv7oMsLSVDZNpnXT+1To73ujT8amkxP62rgseCr3bweBY5+54g==;69LU3gzIbzu1++qqokAJnA=="
+secured: "sMbxrUvcxyb41oXvsFTXwCXLv32TIuovVS5kgCBMxhircuqRiL/QHl5HjVxXR06ruHw0c1xsQpfAnkvVOcRKD9tLotZfQXgV2ZZOLfeXuHCm+S2Mc8+wrzl7ihvXl+e8D9bpNC1Ms06v+mIS0j1UYzUXooLpEl1HY1FPoGidXKu8Mu+1hpKHQjosJdSzyv7dkzKKpW2RhLmXXlPyimCj6phUfmT1ZrlpvhZXOZWFbpFyGAA8FwKhRnnnB46+vUatEPVpLgdoS3o66SNDzDZd+SZtq+t0eND/ggeHtfHDlvu26QWi9gGmMLPmFX2ZGe11IXEMzjxqvY9gKBzfBpMamw==;liDS7shsVnJHekaqxH7cVw=="
 ---
 

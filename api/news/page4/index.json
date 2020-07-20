@@ -2,6 +2,46 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-16-suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims.md",
+      "title": "Suncorp Group taps into artificial intelligence and data to manage insurance claims",
+      "excerpt": "Using data to build claims reports to measure the health of the business was previously a tedious two-step process for frontline staff of Suncorp Group's insurance business. Speaking to ZDNet, Suncorp head of automation Tim Johnson explained how historically the process required staff to approach the business insights team to help produce the reports and find any anomalies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/suncorp-group-taps-into-artificial-intelligence-and-data-to-manage-insurance-claims/",
+      "publishedDateTime": "2020-07-15T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
       "title": "Announcing the AI Innovation Awards winners at Transform 2020",
       "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",
@@ -898,7 +938,7 @@
       "webUrl": "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1186,57 +1226,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue.md",
-      "title": "Machine Learning In The Enterprise: Where Will The Next Trillion Dollars Of Value Accrue?",
-      "excerpt": "Who will create and capture the next trillion dollars of value in machine learning? From large incumbents to startups creating horizontal tools and vertically-integrated applications, machine learning is upending the status quo across industries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e3acab019f50006489bbf%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/amp/",
-      "publishedDateTime": "2020-07-15T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

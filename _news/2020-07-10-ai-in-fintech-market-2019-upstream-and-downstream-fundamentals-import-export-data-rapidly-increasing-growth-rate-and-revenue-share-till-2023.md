@@ -3,7 +3,7 @@ category: news
 title: "AI in Fintech Market 2019: UpStream and Downstream Fundamentals, Import-Export Data, Rapidly Increasing Growth Rate and Revenue Share Till 2023"
 excerpt: "According to the latest research “AI in Fintech Market” share is predicted to gain better growth in upcoming years."
 publishedDateTime: 2020-07-10T01:54:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10?tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "e9Ikei8c7vCvdItRzgZ6UatWt/dJsc20l1jFjJQN78MlTur9w7gz4kXILvCKQrZce3aPOn4Ln6gtH4DDe7IBYmN31+ee3xeAkCrxGaVQYZfOiRpvrOisza/ammHJfKtBl/E9/LvyqR6A9LAbqu6Bxcqnib6Q2DzLjOzV/TfohuQ0HEsOlFUe/J+TAwNc2JqA5mwO4gq4LUpu0A7smPbV5hKVKvvJ+aHrCVKfDKMJlORvRWhH7N3qoaDyAUw3BCc2wiQ807AbMX3t3CqJAbA6qUR4VnpnTDAYs1/oJqjD5pcfRuI3az5uD6x3J6IrIZXpTUxINQC5dprYukLG/MWW1Q==;NkXjHYB34J7ccH1fm6QLFQ=="
+secured: "jYKM/seyrw9p2b2LjkGIk7p8I46RQToDA9drGB4sZCJ42z0M3k9suKGYhequyH6HT3OTdo+JbTLNPacd3ckdEiiELLkH/QWKwQ3C+xVSqpqeHSWJsBDa6fNBcIsD+JPcDT78OSNu38j5ZQnL40hU8m2vMLSLbAc8CaHAeM4ZZ2oUQwSaAXZ69+0o9ZIjrIGklV/LKiaCE/B2dAtjthhJevA9F2w1Ji15uqZBUdWiAakjppI7gBsPX1vyhUAGP5SVOop7BvM8GK/8l/PO7R8lwdHixqtEd4nygANR0Mxtlpm4hSJD1x4q1lBX8e06c1yTEIZ7A7DXJ5yGsFAqmhc/PQ==;pKx/A+Hl5ZTsrrB1ajyIRA=="
 ---
 

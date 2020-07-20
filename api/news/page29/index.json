@@ -2,6 +2,56 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-06-26-the-little-known-ai-firms-whose-facial-recognition-tech-led-to-a-false-arrest.md",
+      "title": "The little-known AI firms whose facial recognition tech led to a false arrest",
+      "excerpt": "The opaque industry that sells facial recognition technology, and the patchwork of police policies that govern its use, have made effective oversight extremely difficult.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/2020-06-17T180157Z_1_LYNXMPEG5G1Z6_RTROPTP_4_USA-POLICE-SURVEILLANCE-e1593123970767.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "The little-known AI firms whose facial recognition tech led to a false arrest",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1873731/the-unknown-firms-whose-facial-recognition-led-to-a-false-arrest/amp/",
+      "publishedDateTime": "2020-06-26T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-this-edtech-startup-uses-ai-to-provide-affordable-education.md",
       "title": "This Edtech Startup Uses AI To Provide Affordable Education",
       "excerpt": "ConveGenius provides learning solutions from kindergarten to class 10, and has aligned with 20 curriculums and 16 state boards",
@@ -1060,47 +1110,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
-      "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
-      "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zjP2N2xjGJFxRBAuuBowSg-1200-80.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "publishedDateTime": "2020-06-25T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

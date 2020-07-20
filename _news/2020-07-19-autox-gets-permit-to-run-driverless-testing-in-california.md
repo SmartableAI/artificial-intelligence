@@ -5,8 +5,8 @@ excerpt: "(MENAFN - IANS) San Francisco, July 19 (IANS) Alibaba-backed autonomou
 publishedDateTime: 2020-07-19T16:30:00Z
 webUrl: "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2020-07/19/I_11b7d50c-cimage_story.jpg"
+    width: 400
+    height: 266
+    isCached: true
 
 related:
   - title: "California allows China's AutoX to test driverless cars"
@@ -33,6 +39,6 @@ related:
         height: 337
         isCached: true
 
-secured: "5/daTShIsyg7gYOltThY50552rVTEZ+e0CKhJTm6A4VIL+CoLDDOYpFX+nPjlZH+4+xOCwVueYeI7qS3o+wi7l1ca/gyg1/6NbBaC5uc7K+P9S4MPVLm6cJqWLsOvLYmtg23+FEP140lemLU5eNIuPX3eAY/fral74ZlN9bBgHIatZuybylLgMYw8L5P8g3/pebHpOJvBxzFuNXrSBDk02Yy3RyxiqPco1ZexEWL+BwdtHRdSge1N1rortyNYcQwW0dCcMJMeODHmB1RG/J89LSqG2TBbVKAX/BugpyGXFaF36HU04SS9wcjKniRMx6D18mnxcVIRyhV4gEWnBdmoA==;9jv5tSYiIwrdnIuip2Ppjw=="
+secured: "Lhx7r0am9bU4uHnl+Y/a9Coix7ZbTmuu/WV2orKcoElSjuTvnPZuWSCGt5DYEimEFNLThOg4ON5WwPyquhJXkN2cCy9klT/3v3YY5K9IFMfq24NDWmM0CllNjenA2Sv2RChO/tCUI0CBIPEed6DARWadcIBgXYLaunf/OggJxBP8OIC10K0gMY3343cwa7VtYjI1d1VRDlW7wIJXCJSNSMHE/XKj2tedK/K2mkV22EJ2GVannXj+u5wh7H3VD0HwhpKu7seN2toi0Mbo7GtO3W6NPuvf2NsVyP7AUM/YKoeLqos4td9BeRPjcLt3HXWisDzcavpNfcznPmyz8CzbHA==;/voEcncr8Hlr187XCknKBQ=="
 ---
 

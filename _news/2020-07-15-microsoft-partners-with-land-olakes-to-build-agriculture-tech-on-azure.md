@@ -8,7 +8,7 @@ ampWebUrl: "https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-a
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft to trial Azure IoT platform with Samsung smart home tech"
+    excerpt: "Tech giants combine Samsung smart appliances, Azure IoT, and digital cloud tech to ‘create better experiences’ for smart building managers and residents"
+    publishedDateTime: 2020-07-20T00:56:00Z
+    webUrl: "https://techwireasia.com/2020/07/microsoft-to-trial-azure-iot-platform-with-samsung-smart-home-tech/"
+    ampWebUrl: "https://techwireasia.com/amp/2020/07/microsoft-to-trial-azure-iot-platform-with-samsung-smart-home-tech/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/07/microsoft-to-trial-azure-iot-platform-with-samsung-smart-home-tech/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2020/07/shutterstock_1662237379-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "C.H. Robinson Announces Partnership with Microsoft"
     excerpt: "C.H. Robinson and Microsoft Corp. recently announced they are combining the power of C.H. Robinson’s Navisphere, Microsoft Azure and Azure IoT to meet the changing demands of evolving global supply chains."
     publishedDateTime: 2020-07-15T19:57:00Z

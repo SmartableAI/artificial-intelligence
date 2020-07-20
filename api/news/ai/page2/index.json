@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-17-ai-weekly-transform-2020-showcased-the-practical-side-of-ai-and-ml.md",
+      "title": "AI Weekly: Transform 2020 showcased the practical side of AI and ML",
+      "excerpt": "Luminaries including Google Brain ethicist Timnit Gebru and IBM AI ethics leader Francesca Rossi spoke about how women are advancing AI and leading the trend of AI fairness, ethics, and human ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rich-roth-commonspirit-health-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
+      "publishedDateTime": "2020-07-17T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-uber-tooling-is-a-critical-part-of-ai-development-and-deployment.md",
       "title": "Uber: Tooling is a critical part of AI development and deployment",
       "excerpt": "He revealed this tidbit during a session at VentureBeat’s Transform 2020 summit, during which he spoke about Uber’s use of AI and internet of things (IoT) technologies at the edge and in ...",
@@ -297,7 +348,7 @@
       "webUrl": "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1374,7 +1425,7 @@
       "webUrl": "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1413,55 +1464,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-cloudera-built-its-conversational-ai-chops-by-keeping-things-simple.md",
-      "title": "Cloudera built its conversational AI chops by keeping things simple",
-      "excerpt": "It turns out if you're a data company with modern data architectures at the ready, you have a head start building out internal conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloudera-conversational-ai-transform-2020.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
-      "publishedDateTime": "2020-07-16T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
