@@ -1,12 +1,12 @@
 ---
 category: news
 title: "WWT Named Partner of the Year for Deep Learning AI by NVIDIA"
-excerpt: "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ..."
-publishedDateTime: 2020-07-17T14:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200717005015/en/"
+excerpt: "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the"
+publishedDateTime: 2020-07-17T13:30:00Z
+webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
 type: article
-quality: 39
-heat: 39
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -14,7 +14,7 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 images:
@@ -34,6 +34,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "c2VgUYPk8QdLsoFJpPUJf+nvW5/I9CdWPqmysLLN2nkm2K61EkQPjU/PXtJm5yeQ3CiHhgfg7+4R2uRB1AgiHiIHv2xp6r5rRh+1EzTuornig/2wNkd9EOsbdfWdpos98RHivdaEitc3xGlvp2L3/sirCeb2ou0CcKynW6bs18gQllYj4vlUbYVzjC5/HpZx1nGImxqLqYerrKaWQJjrZGN2wjVLg/UHxIWblQWW3TBbNV3/kbZXyAKzYPDgr9/W2g6GGxBRu5i87WmVHQ4qpZNK2TbEJVWPLIGSdJz1fCrTiCcCC4zGRYsa5/wZhiEodR9/38HtlunJZgY0s4Jyhg==;W5J3VxtfIoVqkwzHNGRTGQ=="
+secured: "SJz/c0XcvQHO1QW5bXerduNwMwxLEj3yk9pHBJEIuQdvlRg9SWDVBEq47XcyQ9D5AJXLmy+JrgWXLYZYBbySKcm4WDUlor67LWJA12Mkm7UXB8t/ZhDxnpqEKDrF5XROoYrUi9iDg1UVKLuxTmOyDjmq/6blwIofcR3EAYcEvUZng6uURB6pjGOn7cBCBXyTBtZ1Tv3mCf/GNC3eeo0rSCc2H+ZNkugOcq2ONE2amm7pi/+LPKGAMPNhQ37dSLs3sDRisg2bHiMve2czFZtFp53/4BrZZNWZD6y1kgjeF0hABoRMDFFtLAk4bCaI3CeZAKzxmmEG7PF34ic72kAa7w==;+PXEJaVHVYzdPXWb08F0aw=="
 ---
 

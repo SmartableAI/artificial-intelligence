@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Artificial-Intelligence-in-Education Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID-19"
-    excerpt: "Education   Market, 2020-2028' to its database of market research collaterals consisting of overall market scenario with prevalent and future growth prospects, among other growth strategies used by key players to stay ahead of the game."
-    publishedDateTime: 2020-07-16T13:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19-2020-07-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "Qq8yyLH0eIHO8jmX4hZDCU5M8Eqf6On12Y2yK+iZHmq3F7n2gLSsUu1Er8Znt2mvNxdsVwChaBg6vPDhRBKKn8nuAYeAFrhPNONvFhZCPhghJSAnEaPSgCfOtzmFz4QCnqJyoVLQj2cSCo/c5I+9oXf1i/4IZ4rc+qoOMZKntkDG7Bhnw1J8tQ2DxuTeociNozifuDe+bTAsEeyoYLvBNeg8E3fcIuloY1PAc6nfr2mDedkIGRw2ljdi7CYGHRB/KowVFlLZDPWWyg/zHoEiG2zJSGGZYGW9HYamuDm3CgFvVyS+FhU00AIlQor2XhV3scFqCJK2z9d8jS0KBZMAnw==;uMj3ulDm/BzFVB/UKyVJYw=="
 ---
 

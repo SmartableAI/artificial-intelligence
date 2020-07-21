@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-busi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
 type: article
 quality: 77
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.voicendata.com/wp-content/uploads/2020/05/Edge-computing-e1588659016774.jpg"
         width: 430
         height: 247
-        isCached: true
-  - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
-    excerpt: "Verizon Business (NYSE: VZ) and IBM (NYSE: IBM) today announced they are entering into a collaboration to work together on"
-    publishedDateTime: 2020-07-16T12:58:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/ibm-and-verizon-business-to-collaborate-on-5g-and-ai-solutions-at-the-enterprise-edge/article_3eb2c934-1e8e-5c92-9e2e-15f098922426.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 32
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/da/dda7e99f-e470-54a0-afec-a29238bbefca/5f104b5849aa6.image.jpg"
-        width: 400
-        height: 209
         isCached: true
   - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
     excerpt: "These will be jointly offered with IBM's market-leading Maximo Monitor with IBM Watson and advanced analytics ... and MEC capabilities with IBM's expertise in enterprise-grade AI and production automation can provide industrial innovation on a massive ..."
