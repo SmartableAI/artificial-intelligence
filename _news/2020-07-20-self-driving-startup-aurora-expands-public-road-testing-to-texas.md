@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Navistar Enters Self-Driving Trucks Market"
-excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
-publishedDateTime: 2020-07-17T12:13:00Z
-webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
+title: "Self-driving startup Aurora expands public road testing to Texas"
+excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"
+publishedDateTime: 2020-07-20T19:16:00Z
+webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/07/20/self-driving-startup-aurora-expands-public-road-testing-texas/5473753002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/5473753002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5473753002"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Material Handling & Logistics
-  domain: mhlnews.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
-    width: 768
-    height: 432
+  - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -83,23 +85,21 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Self-driving startup Aurora expands public road testing to Texas"
-    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"
-    publishedDateTime: 2020-07-20T19:16:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/07/20/self-driving-startup-aurora-expands-public-road-testing-texas/5473753002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5473753002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5473753002"
+  - title: "Navistar Enters Self-Driving Trucks Market"
+    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
+    publishedDateTime: 2020-07-17T12:13:00Z
+    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 24
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
         isCached: true
 
-secured: "0gGdjWEj0CfLAiSzLNi955ELQ2LHFND9eLaWL8j4IZjY8cu8NIbTfNgjPqFN8JP9YQ9tbEO1QR5AAqAl6R1H6wORSTNQonRuSNqSO9OAhWxJpqlAkQbKNlEAqhY95df4OXKrVuBRLS7dUxi4RhxZ2MeJXVGlvId1vVWVnEmfTqycu+is/AWgtDqCN9LtNJzBMZ+rYfLsOS3yiVa5ZTR6ss3GOLCEcG+AOpiws8KlNadW683xKXm7GQfmrXuNDqm2Fbidau2vqRK1DoIQEynXRidE2kubEz522rkgfpZzgo8Z0hUopKE89P08YJlj+vdzU04GBLhRNXpA2vV6H/ZGq8FbW3t93wFZAzVZV3K4hxzFRAKgLjLn90BCIZFxoRyHFqir4vyES6Knj8F52mnf+x6u60OdyUbQR3UDph95M+s00UUS52XFB7UOQZ4au2gdCq3np4CnW0vqMYGViBqWG6KUZMo8B/+PQuuuJQLY65RfknVYS+YRNp7LPPsMItxGTVSSzacj/7w81GdHD91M5Q==;fXA2q7oMMHu5gm5eN2AXuw=="
+secured: "x5M7ZjLJzfZGNiBUricbTI6dhfNG3BNhExo2ZAd6Ku06yoacJHWjcv/+PTohhjgnjViN3nY5RiNBbbnDpqZHdH1MGEkcBhXgzY4nnNaXFPwpZsL66k5cMie8Gt6a48MQyZ9iyODRgu9pYUY7q6VcQcslt8Zk66/u9dK4fs1KcPCODRiWxQe+/j/dxZtRzIIUdDI8I/H+v1vZc36amD9VcFthU97jnH9q8jTcdAsV/wcwE/icN3oo8bjcyolI7v94dPVePTRshBhWSVbcXpbpPk7hwJmWi09ucVToV7JgKXKqdQBGh39+EGogCbjj5QCjQmhgQaLMsD96rA0tgrAgzw==;GczslUXvZmP3cXevSY38dQ=="
 ---
 

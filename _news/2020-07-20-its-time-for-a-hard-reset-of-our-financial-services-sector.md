@@ -3,7 +3,7 @@ category: news
 title: "It’s time for a hard reset of our financial services sector"
 excerpt: "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking"
 publishedDateTime: 2020-07-20T09:24:00Z
-webUrl: "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720?link=TD_fnlondon_home.27995a643976ebba"
+webUrl: "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 ampWebUrl: "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 cdnAmpWebUrl: "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 499
     isCached: true
 
-secured: "CcpMutvWQihnkkT24fuz8GmPf6OjMbzESk415y1kLbpoKEqwNRX8twUFbFY7ttebl/JeI22xVutIjgwztnmoY/uyduYpPwDeHjwHHu6Gk0i2h2c16sn5cd+evXuhZhlVw07FOJQBk3n9rREZD9DwsVmwJrkzvMGZlbTyjhoeoO1bTMmEwk7pybwHX4WiICr1KMXVuPvMzdVIi+8mR69Yved6jdX7rSrCmg36nKOw2IvUU8v0+g2gNYqwfpoNu90q4AgI1Kkk5y0qDtJe28Fz0TzOFv8sR2ZeMLUSX045lcVRZ6QSshd+2EJdOmiKaRm93z2oDkQw228MBG0vcdxqTQ==;1Th+8HXnsn1BrzsppkH6vw=="
+secured: "vI/Z3NYUTZrrZUJzCx55ey5ajUl94+eo6BGG8gFMt5p+FhDQumjy30MDZ1Xycbs8Fvt6tDLguj+7zew/ZOmmxhsH6KpH5yoY12GH2165qLGsr+vg++R0rK8tfjnZ0HRk9Iv2ScRRw0UmtGbb1t9f9ESMUmEcXIEiTE0N6IgL8g1Y+I0DOhOweyancWhj1/9wJ4xRallP602l1FV2nY86MCxtpYsnr3/gUTbpz/hoC1El7Lek2+23Jo2f+Pyl2q2Y9fWNmUOSAha2DAuU/K1Ke0R8Mm0qYamwcVkbPWVAVO2hzY1O+cDwE454WG2Fez3HQMFpOI1Rv2fPTH1FeWqrVQ==;+9BMM+4GUMK0KALjBWDS+w=="
 ---
 

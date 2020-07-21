@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-german
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -115,6 +115,17 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Aurora Innovation to test self-driving truck tech in Texas"
+    excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"
+    publishedDateTime: 2020-07-20T20:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
 
 secured: "VlrsxslmI5yKQZSh38+2dO7c2Xul3wle+5K9ZMJI6Fd6VdVC+1EWQApg9u+fuFQifg1B/Wds541GpnQ4VuJ8YF3F7fKZGHrUV3v2zyZYHcBRAjQOLIdR4C/wJMxoibkO/qDTqZw+RXlcvuvxzkEoIZeo/OnzsRfnq3+DkbYom1Ng/SDzo1L8PCZnarIZKrIzekNv3UDmfn3G5ymtFAa0E83cf/C4C3uMjRvRqz9taIAHKfxExKGdmsEOAeWm0eWBTC8RweiEqVj5/XuV8K/Ot1DTrpfFmjQ2AKHArB+2QlQun/Lfi0xcgzoqqXO9e7zZ+1bJLf6TR2jXQj1pSNEQXgXhuIafYQ2pjXk91PeYL1p8n4Ze8PzlejYDjFld3MvIuDogem2nm6VJ8F/d0MKzcAd6CugkR4uAXiIbBEpxG1CjhtnexXbY1lVlttL7shmuyYQw/TDUL4TjoXJQdeTk0aZLTVW1Meh2nm2IUb5HeFd8cz2AOolC4Jb4E0FNmp5vvdN0LBRumg5H9weM0/wk8g==;WtCiGvhTe6ChcdDv2gK4aQ=="
 ---

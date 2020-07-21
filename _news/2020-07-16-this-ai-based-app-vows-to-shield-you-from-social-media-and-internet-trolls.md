@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cyberbullying 'shield' app uses AI to combat social media trolls"
-    excerpt: "Computer scientists from Aston University, Birmingham, have launched an app that uses novel artificial intelligence (AI) algorithms to combat trolling and bullying online."
-    publishedDateTime: 2020-07-16T05:52:00Z
-    webUrl: "https://medicalxpress.com/news/2020-07-cyberbullying-shield-app-ai-combat.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 37
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/app.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "tZGXRAASp3kuVd/xOhM8MhScn4s4HRB78N9wLrBjxVWDufH73VNAVE+RKYSQ37evgOSBjAPlWhcv2nHgJQGHXOJKJHG1qN0YNP/jOR7L2r7myATdCWjfy+YB2QyTmaxwyzmVR1+xnQ6K81btqwnsShPpD17ck0rAc8BfSDxt6yayArxLuYQ5FOGPOiT3bVqZeIc+AFkRSXDTHTscsBz1tsHhJtUL7ai2TYBqzr6fxcCdGMbxFMwd3G/3XRm2FsjuK0uhc65k1UwD1vTs4mXzSZ95XzmuLxZRWBwXpV4qnLnj7566JFtaoVfFsZRSpiAbqDkw0PBFeYSMyt12qsdypw==;2bzvW2RSZrSBz7ME/CFo5g=="
 ---

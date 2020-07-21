@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -47,15 +47,15 @@ related:
         height: 675
         isCached: true
   - title: "Self-driving startup Aurora expands vehicle testing to Texas"
-    excerpt: "(Reuters) - Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-    publishedDateTime: 2020-07-20T18:14:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+    excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+    publishedDateTime: 2020-07-20T18:24:00Z
+    webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "Self-driving semi-trucks are picking up speed"
     excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
@@ -72,6 +72,22 @@ related:
       - url: "https://images.axios.com/ifc7Ygzbr5pYhvK5seDPPNXtJZ0=/fit-in/1366x1366/2020/07/17/1595004050933.jpg"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Self-driving startup Aurora expands public road testing to Texas"
+    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"
+    publishedDateTime: 2020-07-20T19:16:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/07/20/self-driving-startup-aurora-expands-public-road-testing-texas/5473753002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5473753002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5473753002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Navistar Enters Self-Driving Trucks Market"
     excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Self-driving startup Aurora expands vehicle testing to Texas"
-excerpt: "(Reuters) - Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-publishedDateTime: 2020-07-20T18:14:00Z
-webUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7"
-ampWebUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+publishedDateTime: 2020-07-20T18:24:00Z
+webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -72,6 +72,22 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Self-driving startup Aurora expands public road testing to Texas"
+    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"
+    publishedDateTime: 2020-07-20T19:16:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/07/20/self-driving-startup-aurora-expands-public-road-testing-texas/5473753002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5473753002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5473753002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Navistar Enters Self-Driving Trucks Market"
     excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
     publishedDateTime: 2020-07-17T12:13:00Z
@@ -87,6 +103,6 @@ related:
         height: 432
         isCached: true
 
-secured: "Esb3jL4MaUoDySKFmrMbwmfIOBxQyT0CCrGju7ypAtWyZDyjbg9k3Ol4et9RYz0oBIV45dxJhlKe6jKbngs20v1/jAvMEaku+LZVo6iCHq2FsLrv3SQY8AHl5s3RTcYMIdAagqAkQXvcVe0QvpfNC2kHXx3HMfleJ1APox5OQrfhO4gVx7Ghe2gRjTlwx4+woTm/FQd617Z3xPsbYCJ8FWnGvkB8wtCEw0dhFhw9AsRdVmQ1G+MGv+Nq02j/eAXM3g/rIWqpDIc9Vdti7gLqd7oyOiBMqmZGF3UMdtBWpsLDyCSWjaQNy5tegQ3pEajhbX2OED0TBCnUg7JtPV6wkg==;A9dhImeG8i2lgfJhT+cPHA=="
+secured: "b/pDja+dWk/OkrjnsX4i1OBAFzMtqgJDC/JAKR3yLnYJ6qByj1venjVsPMfil60+FQVKKaQ9WUAhBwAQREHfZB3aoqN7RnIqtpLVa5T5/ZZxxQIrzzhhlQSBtcbeztrkVjYk8e4DeXpmrVH1NmOCp554R3XHs/ApTEM9BFVP36jdGaP4txxzC3KifPMa/wgrT3M9mfWlO/sd/IldEBom2cGIyT5NrHK5AXs4ZOpxU1cqwWu97EeTtkREC6iQ/b2VuALsZAGjN3RQRzfUBu8BCvdznXmpAn1M3wA28g0JyJidPO6ygjRhLgnUOSkm666TG3I+6M4hSNi5aNNOCq2MQA==;qrTo610OBVuxsAq55Vn0qA=="
 ---
 

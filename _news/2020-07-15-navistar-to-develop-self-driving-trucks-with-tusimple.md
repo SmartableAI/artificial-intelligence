@@ -1,16 +1,18 @@
 ---
 category: news
-title: "Navistar to Develop Self-Driving Trucks With TuSimple"
+title: "Navistar to develop self-driving trucks with TuSimple"
 excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-publishedDateTime: 2020-07-15T12:21:00Z
-webUrl: "https://www.nytimes.com/reuters/2020/07/15/technology/15reuters-navistar-intl-tusimple.html"
+publishedDateTime: 2020-07-15T18:38:00Z
+webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
 type: article
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,11 +21,11 @@ topics:
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200715&t=2&i=1525820867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6E11J"
+    width: 817
+    height: 545
     isCached: true
 
-secured: "nctoyUbbrqEqxFCu/bRLA9KdeRvgUGvHGNXI1oHboJUdd4zzofTaCkAqjI1qbDPpj0ua5Wxt45gpbPrBYSbv4q4ZPY/i/yB6asLgzlcb2XvVEY7aLkI5eEJav/twxrSergvNMQ6tJMu/uYUy9nMWfHarJm0jJoGLFLat5c8QjEV40t/ukGiIezWXBq4YhbtcmmUXpe9Zx/znCAMnqPUXpbtxG8ZpUSHHXBYI2eSaN3NcL3qNj5jk/ezoXneUcKSOFaIAFabEfdxf9pZFcNI/EuT/Rbgbo6T9oIf8LCWRIjJqgI7Zu0wbEdQRwaXq7SarhyOzcPlLHpkP9J8/j30b1Q==;pB03U6boXDq8ComAEz6NTg=="
+secured: "V7aPsow1beQemUrKuHH89XDlOUDrwfsMKnsZ0e3s6L32AGanLBqBrYljicPL/tDOXCiPqsnbNVr5jxYwRv5ZqdwN35QzgpNXY/UKHShuWI2w0YLCvVWx4ZUdMzv4XhpE8eaaAnYTvfI37PAWgKqzuPycI/LbFhC18peELVqM4G59NcKqIVAB0DTOxjL3/LeCNDfN18cuXTG7vYN6iDMszABVi5lWzIdeG2ps4Jc4SrCn4erSULBrAeii+WCjTc7Y/GBPx70Mews7tCeDbZ7fS1UQEfqMb4DNRf272MRu2aj4nkD0Rvswn+F7GlG8TUpcPdgdaBPyRq+7t8M/moeSsQ==;/89irFCHr3VnxSUV/cwIaw=="
 ---
 

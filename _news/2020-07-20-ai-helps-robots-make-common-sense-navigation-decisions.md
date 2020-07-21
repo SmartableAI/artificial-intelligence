@@ -5,8 +5,8 @@ excerpt: "Researchers from Carnegie Mellon University and Facebook Artificial In
 publishedDateTime: 2020-07-20T20:00:00Z
 webUrl: "https://electronics360.globalspec.com/article/15453/ai-helps-robots-make-common-sense-navigation-decisions"
 type: article
-quality: 19
-heat: 19
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 secured: "aSHQDNET36YEue9pBuPKmeER3s5q8fz21/xTik5fnIthaQ7lTmzTg+BM9YC+K/Ck6mDDMdwnO7kU7M815cWcwLh/NEg6ZoKib2o9mw8GhAZwnyJgBn4Wscp4RuP6nn1B0JC2YffIZdpeJTFK6UrPC2Ia5xTU3NlK1fHAqwFjehDavwp44NSKPrWoWKx/RCDdSo+IpVdeSMPMD7h7ZWD/7Yj7fWCcYQanom7d2KE4AkhrFcJGa3nCf8de5mMv8DHqYQaKP4MmwOC+iLeyr0SuTYbReUKySFX5cRg0rNcKjTQCMCxco0bcWy/8IFrwvj+ZSx3pqOeXo8CvjbCTEgk8SAF7lKJvN+kvoNvJ14rJICGdr186s5x57P9RMOa51/fLZu/oV+GEf0USKd/R9xCqJR0iSpnMtXsH1+yFuJW9znVaBc6a37DW/YXxQVBr+GE1upkff+lve8SFSowVJgyEWhPZVguwlhim8IMtjfZFpHpk9aI0tffzaTW7yjQVn8nRvIRECGepU38pk+KFvjEsJA==;sMQ1x1TLp1gpJgrOBhEEkw=="
 ---
