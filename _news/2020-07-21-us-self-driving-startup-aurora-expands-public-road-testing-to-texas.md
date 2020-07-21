@@ -1,36 +1,45 @@
 ---
 category: news
-title: "The Famous AI Turing Test Put In Reverse And Upside-Down, Plus Implications For Self-Driving Cars"
-excerpt: "The goal of those that develop AI consists of one day being able to have a computer-based system that can exhibit human intelligence, doing so in the widest and deepest of ways that human intelligence exists and showcases itself."
-publishedDateTime: 2020-07-20T15:35:00Z
-webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/"
-ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
+title: "US self-driving startup Aurora expands public-road testing to Texas"
+excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
+publishedDateTime: 2020-07-21T04:35:00Z
+webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/21/us-self-driving-startup-aurora-expands-public-road-testing-to-texas"
 type: article
-quality: 78
-heat: 148
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Autos
+  - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176737178%2F0x0.jpg%3FcropX1%3D508%26cropX2%3D4329%26cropY1%3D96%26cropY2%3D3239"
-    width: 1200
-    height: 987
+  - url: "https://apicms.thestar.com.my/uploads/images/2020/07/21/788898.jpeg"
+    width: 1240
+    height: 697
     isCached: true
 
 related:
+  - title: "The Famous AI Turing Test Put In Reverse And Upside-Down, Plus Implications For Self-Driving Cars"
+    excerpt: "The goal of those that develop AI consists of one day being able to have a computer-based system that can exhibit human intelligence, doing so in the widest and deepest of ways that human intelligence exists and showcases itself."
+    publishedDateTime: 2020-07-20T15:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176737178%2F0x0.jpg%3FcropX1%3D508%26cropX2%3D4329%26cropY1%3D96%26cropY2%3D3239"
+        width: 1200
+        height: 987
+        isCached: true
   - title: "Aurora will test its fleet of self-driving cars and semi trucks in Texas"
     excerpt: "Aurora, the startup founded by former lead engineer for Google’s self-driving project Chris Urmson, is bringing its fleet of test vehicles to Texas. It’s the latest company to shift resources to the Lone Star State,"
     publishedDateTime: 2020-07-20T18:10:00Z
@@ -93,20 +102,6 @@ related:
         width: 984
         height: 738
         isCached: true
-  - title: "US self-driving startup Aurora expands public-road testing to Texas"
-    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
-    publishedDateTime: 2020-07-21T04:35:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/21/us-self-driving-startup-aurora-expands-public-road-testing-to-texas"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/21/788898.jpeg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "For Aurora Innovation, trucks and Texas are signs of self-driving future"
     excerpt: "Hauling goods and freight has become a priority in a self-driving industry once predicated upon carrying passengers in robotaxis. It should be no surprise then that logistics hubs have become hot spots for new testing grounds."
     publishedDateTime: 2020-07-20T18:00:00Z
@@ -131,6 +126,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "XWEV7BmKmyjBpOZ66faozkk8njFUcaQ+FDAe7FCHUpqYznKHw/3vUp/JEFwIQv/3sJuzbNDLWkOco+0hG3MaLM6BHcaBr9tRPbwXAPuhkLy0JYcMuDz0I+kWqt/ngzWcgCLp+nKI6MGbfmZm8TXSR9ZArVw4FMlcruzVymKWt4fy3+v1UZRkj6E9jICZ15qL9Tz0SyTX8yLbYqJaxhBy4zV53FsP9K855nbyiYkIomGUW0YuFp5amuErJCcTS5Z9TyAEbU0GXoHw09MDEhK8eWYhX0jH/eSLeFfUFr3QqsdSGoqxPg5zLm7cANWsS78ruK8WtM3/qYTA1rYUr/m04gDESTXQHjoygD3pvhNkuKHKRnCyNJbHj03UPX4JwKJyVfs1bbB32CGhbHjPnMckRx42k+3a6yX2qB2EuIW4i4rj8FXjZjy3l/IiyaHuvIDMq+PBF+4m8vEY/9bKwdbdJ19fWo8KPSI2vaFskMXBHILx7vREqa4YIyErTz92l5G7;ZP4GvcVGNeXqUt9VsWT19A=="
+secured: "Pydo86BF5be7Q6uKBkOg10G1ws6tfM/eziaKoq7gEOo21kwTv9Gn9oAwI1Hue6f/JdJaBPfkEejFx1XdKOJA2saD4wg66TPsLNeAMOcgIVVMSL4RUQfeKwYtwNo+HDgDtlMw5zALzbLEESkRG/WfLQ6VE3ax8qzay+zn4NIJVRc2h3jPXqiJpMeJTCIbwirao3+gs364XxWT8TXbr8S9m03OdDYbynTjrOrmOGRJQqZ1XxBkkP2J7pd+8pXWVdq/cyckR89oa74P7js1uA42ZypM/+qVpstQl/7pHgCRNd5RRNeqlm3xoq9SZ9b/BCI8DDUAHZfKW6HC2Fzk/aW8qQ==;L1Fp5vpT9FwdnCkwY3B7Sw=="
 ---
 

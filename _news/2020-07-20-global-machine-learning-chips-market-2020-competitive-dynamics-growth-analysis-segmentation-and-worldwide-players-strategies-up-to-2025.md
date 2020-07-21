@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-21T06:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026-2020-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning 2020 Global Market to Reach US$ 12.3 Bn And Growing At CAGR Of 22.4 % By 2026"
     excerpt: "Machine Learning Market” WiseGuyReports.com Publish A New Market Research Report on –\" Machine Learning 2020 Global Market to Reach US$ 12.3 Bn And Growing"
     publishedDateTime: 2020-07-16T17:20:00Z

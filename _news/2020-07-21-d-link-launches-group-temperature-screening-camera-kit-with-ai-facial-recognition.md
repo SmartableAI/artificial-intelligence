@@ -1,30 +1,24 @@
 ---
 category: news
 title: "D-Link Launches Group Temperature Screening Camera Kit with AI Facial Recognition"
-excerpt: "T is the advanced solution for fast, accurate temperature monitoring and high-quality footage in public spaces TAIPEI, July 21, 2020 /PRNewswire/ -- D-Link today announced the"
+excerpt: "T Group Temperature Screening Camera Kit that can simultaneously scan up to 30 people with a rapid response time within 30 ms, eliminating queues in busy public areas such as office buildings, factories,"
 publishedDateTime: 2020-07-21T02:00:00Z
-webUrl: "https://www.asiaone.com/business/d-link-launches-group-temperature-screening-camera-kit-ai-facial-recognition-0"
-ampWebUrl: "https://www.asiaone.com/business/d-link-launches-group-temperature-screening-camera-kit-ai-facial-recognition-0?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/d-link-launches-group-temperature-screening-camera-kit-ai-facial-recognition-0?amp"
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16701040/d-link-launches-group-temperature-screening-camera-kit-with-ai-facial-recognition"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16701040"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16701040"
 type: article
-quality: 69
-heat: 69
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jul2020/pr-newswire_500_4_961.jpg?itok=NLNwF897"
-    width: 763
-    height: 509
-    isCached: true
-
-secured: "WO+gWqXSpc3qwOhSwsWXqphdjYqTlKgC9nzfjpwrNUV6cwRzuv07BqXNBr1k6Ah/K0XRJahfHxjRfZncmADLy+hzQz3J0Y4W6nXIPKbmUcKWJb5ZE8O1ZX2rVzoPHwnOR/oIOpy9Bqot5kJ1VbO+zgKuG0eMol7MduNrWPmcVlGhyq12rNYvy+nojAxD+bbIhSTWIXeDW1UuTTHPwnvPktys2T940Syog4S0ZDV0uMZlxdaLHFhn3e0paalQTVGfS48iA32oOU9Sr7PMgGALbjyc2s9ZpYbrr6umYR/S7wJWA1ZN6l3kKcj8C+/jmhwGXy0Mm9nbcqR7++e0a1/6mgbFqs7XQdjewPeeLgSTKlwQcJJqtDoj5IXKerNHpxlK0x8A4okvJVcH9723tTuEnZOdE3Kfg3K554fPNbD/E7My0UgzaPPDvg2xyOOL908m0rVtgMQUZI5gxYKVnucgxq5RUaUyT50JgjRVfmkU+GOy/+ZZNvkq0+A3sqPDHoUxQbphjFitjtuF5Gn3Plm+FA==;f5c7nhdNrMM3DUp0i1907g=="
+secured: "YnFxn4mRd1lDkyxaRE8wZ7dBXRVkKpUeE3ywuNFxp9lq2jB2ePoIXrli9JRfc4RkcvWFAgu9BjbxWj2QHEpm6BhZD1DH7FxEl0Gyfh2rD4b7vrgiSLPxfynRpj7iQ2HsJUEZFvTVSlzTZHitywjX/Z794CQe+TieCwEJVJnGhrIfwKXZaygryNpyZqHynlaHs5trd51psb1M+5+UXSIh0VdpNeMLauzh0/x3QZ5uc9lihKJTuyjiiUYFrOz4Okf9jTwefEAuzSRqInSLjCn9xHlUGxQP4Jvgp7qS5rSc1gYHVO8m0Zkd8lz2bsaM3AUIlxzgbEm1BUajxJaxgkPw6nky61SX6VPYsfnQUF4pVjERPrUv3IAa0iZfbpyWq/9jqNpPKVHqKCeVS/FgRgCr5TvGoDqWxNoqclJpQq/vb0vmC9wIqKQE1Xgmu7RjJBbcySX+ePE9xCxktH6G+yHr9qBy4ief5UL4Mk7e+5JexzmzkJF6OXViwxbgM8mCLYTSRnuZbAZBvccvtbygkB5aEQ==;xyeyVro3UOKUNPxZSH28DA=="
 ---
 

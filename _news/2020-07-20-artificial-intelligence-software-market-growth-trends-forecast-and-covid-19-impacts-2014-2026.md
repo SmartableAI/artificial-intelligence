@@ -82,6 +82,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
+    excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
+    publishedDateTime: 2020-07-21T07:15:00Z
+    webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 38
+    images:
+      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
 
 secured: "wlUgUNlrrGTnO8p4Gptiqc+IuLbu45+J4LmbkPYhGvA3Xg2HDwNeXJjp9NFf8aidgMjJtMInmslGz3MxBDCwgS3DebTAziTPK0P9ssBS0C45cb5zYC5wwIb8ZTk9FcSRpuF3TU0JeVOJVWJMjpzVGPX+Ab+KGqD7oqVA+Zm+Dj29TTCXqu4zfb/mAs5+x/O6KkM4NFGhS+BRhWROK7MIlRGsKv8W5qTt9kKMpJV9aT2mdANSk2gipWJgJCCj5JEL3QxeP/h4X1B8cHqYinDuk+tFr0GhxAHInAxh3zwd6BmhMsun1mcN4Cq9YYCiwkRnmdRLRf9jT4rfbRFbcyQWO2IaRB06lXd35JQQuAbmPlDMePLujOJE//18R3OvqCe+S5b6RwhvUsoYXB2QHDfPh3rrjICtTxnm+3VjWlBpgLmFRrGFKOO4ue2DgJwRzfzTdvknUHO2jjnnGjI+gOcAFJm9YECEAJWL9lXdw1fbF6+pSIaA5eEDqBgTArdTAadHdI67a/gQAIQgeqZ1CEJ8Dg==;98BCthPuQBtZR4BI3L1GRg=="
 ---

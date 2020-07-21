@@ -8,7 +8,7 @@ ampWebUrl: "https://www.hellenicshippingnews.com/machine-learning-insight-saves-
 cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/machine-learning-insight-saves-250000-tonnes-of-shipping-co2-emissions/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -18,24 +18,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "250,000 tonnes of shipping CO2 emissions saved thanks to machine learning insight"
-    excerpt: "Maritime engineers have trained an energy shipping app to save over a quarter of a million tonnes of CO2 emissions by applying machine learning to its predictive system."
-    publishedDateTime: 2020-07-16T13:55:00Z
-    webUrl: "https://phys.org/news/2020-07-tonnes-shipping-co2-emissions-machine.html"
-    ampWebUrl: "https://phys.org/news/2020-07-tonnes-shipping-co2-emissions-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-tonnes-shipping-co2-emissions-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://phys.b-cdn.net/tmpl/v5/img/phys_308px.png"
-        width: 308
-        height: 308
-        isCached: true
 
 secured: "x63nTe+FxRuHJpwqLhm/67O6EwgyLuD6A3nKxETSu2TuRxFhpSS3SjiSVTv/b5rzThdPGOFJHrlDkcLTIANkkKTh33WtRLL4HFDEhHOq8nPZmjqPVBj8j8g0gtmY/TojhoDBUfNdUlAFX4G/kgfAmm3v2bWiJo6TCm2xamdakIuRK/gvlAwzPmTr56K7xrMvJhr50wPz14LgrDLjAnLk3EXx5ea3NF3/7TNgr68bTf0bLmqnDzl3SzD2OmpW9gnsLV39MkDmjBi8BSBt4hoH1+avx4ki2/lB0mKQLgQnKdbVYfWDy8UkhNMi+PA4rgvuyQ1GkIbQBFEr0I2+z14DDqfo9dYjXokPKSIWLt3M+HtF7jPkfxvu6OZXsX/Ciz1s9HybMydKD7jFngXVCdw9LFqtSM2qs9CybWj7gq0kQmg60PHX7KCPY6sYeF21R0rzp/lZZJ1wkpCdYtFvDh0JDaPnZoD3HGZKWRxrO2cjNlRYj2J2hS9NpKf63NhMDyQw;mJp/Ivh2zQ53z4o6JQOfRw=="
 ---

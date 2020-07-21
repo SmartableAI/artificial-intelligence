@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
+title: "Deep Learning Market 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
 excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-publishedDateTime: 2020-07-17T10:41:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
+publishedDateTime: 2020-07-21T06:23:00Z
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026-2020-07-21"
 type: article
-quality: 63
-heat: 103
-published: true
+quality: 55
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,9 +18,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-17T10:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service Market Growth By Manufacturers, Type And Application, Forecast To 2026"
     excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
     publishedDateTime: 2020-07-20T06:06:00Z
@@ -38,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-21T06:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026-2020-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -88,6 +88,6 @@ related:
         height: 630
         isCached: true
 
-secured: "BiFl/Ob0FjqmuDA4kdxPwFw+XWasTnGjACYJY2tcCGBBYrpe81UiFwYlJntmPOW3X5ob3VqVhmJvsOxYcppwctyNwglgKUdD29rf3yQeOPjQRi93wyMgnlMl74yjAsLd8B0054LgxQrDHeCk7gLZXn9ilZ0HQ+ZgFU491lbrhrP3nxpoMCtAwgjnu7DjbxsgeH2wqhX5HwmUlIWkMNkAacQkhZuTTXVo7Kyt2N2QuIo7ztx2oA0IoBpXlUDpxQR+1NTbGw8anbcDFjTxYK60ifojBEfNfhz48H9XcAZVRVmxb08zcxry/CT3m5SCZ571MzxyYpEy574u0q8Jm2apww==;YuAzGGSIFjLDa+E3vavPiw=="
+secured: "d80IbzZrqGC/9CdGvgZV0PXwCxiVgTOrpWxHDFwgPXSlX9VfB8o1ceifv0FLXGwuEPcwnvOr9XHgeGQQ9iifGgYIpsovz0DnkDhyAldjciDpTbhwUDpA7DYj4aO3qliKBHacbk9RXjLHeZBuqAphixxyLmNLljLWmfsJpgDhDW34JlEPgIq/H6X5152oealL3rj/PJx7STM3mUcLdkQb0lA9BWtRFudmkOEhS3CBYsCRIpc8gBvEJLGtADrj7te6ARamYo2KYUwFBVkuqxd7jUKUtS624iDyBaSg/5kxrGOmffQJIxXtuLU3s0EM3jh/s3UHFw4l5rhTM8vCF1upAw==;jfWBMOG6yYGfKL9VRcZTpg=="
 ---
 

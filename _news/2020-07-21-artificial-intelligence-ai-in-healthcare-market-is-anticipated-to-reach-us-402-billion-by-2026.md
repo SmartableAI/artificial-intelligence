@@ -1,30 +1,25 @@
 ---
 category: news
-title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in ..."
-publishedDateTime: 2020-07-20T14:50:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-07-20"
+title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
+excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
+publishedDateTime: 2020-07-21T07:15:00Z
+webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
 type: article
-quality: 50
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: mynewsdesk.com
+  domain: mynewsdesk.com
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
+    width: 1024
+    height: 1024
     isCached: true
 
 related:
@@ -70,6 +65,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in ..."
+    publishedDateTime: 2020-07-20T14:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
     excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
     publishedDateTime: 2020-07-20T06:46:00Z
@@ -86,21 +95,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
-    excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
-    publishedDateTime: 2020-07-21T07:15:00Z
-    webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 38
-    images:
-      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
 
-secured: "RRAHEXxSkFptIn3pPRxvmxsab0nGUFLxBMzphkCJdMQZtpYoGMw5s8//TPOeSOncK7vQQBIu1Fod2v8QQs6N3K86/3QN6MIonhHtsgvcLyWThn50E8E1LI+UAjAlcZmJcT5TB8r5jXL/ZxVhTzzUWrjvVPiwC0mYBrTSVq546BWucxesYchKoCkCY3NBfs+NF8MjLsheISZ5+te4i/drOL3Tw64Ecph8eimvU9x1Ct966wgYEpraYYgYycykkBAi7N1PFYPoKqnBJO4oXabARyB+IWtkWneftrHOMd2zwSwTWWBG+vcrnc+lO6q7ezp+Eg5uP2GEFTIAaDFP25aLuA==;BkPwTHZQNVr2Gw4skmwWPw=="
+secured: "GTXNuvphd9yx7H6kxu9mKRUAMQOa6DZmlpyFFstBnuJ7y2SYidoFABeKbQZpmXUaMGYnF7bJQsXqUU1ao6O3hZRzvXDZArBqjavlCcqAQ+GuL5ialEG+3BbkE12bCpKItBDH3o9E+wIsEOXFPcIF2dxBjQIfGvlF1H5MERqD+OpaPAGr6n/QgEX251+vhqH+QwwDScyGkQrzI3qjqNcQ+Ay2BQH7Idoe1PMm8JTIzWygl9itaakQG+su6+QyHJ/9cs+/SEACIHygCNj3Ycd3p2Q6oxfNyshZ7zrFjZxoHxGJWfkzP0VymifeVOVQ8bli7XMe9tvjmNIPxkkaTa0MPw==;HI6zSaBNCwIJr4WBvM3YlQ=="
 ---
 

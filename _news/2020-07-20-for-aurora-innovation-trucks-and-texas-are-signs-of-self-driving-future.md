@@ -102,6 +102,20 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "US self-driving startup Aurora expands public-road testing to Texas"
+    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
+    publishedDateTime: 2020-07-21T04:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/21/us-self-driving-startup-aurora-expands-public-road-testing-to-texas"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/21/788898.jpeg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "Mobileye begins testing self-driving cars in Germany"
     excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
     publishedDateTime: 2020-07-17T13:00:00Z

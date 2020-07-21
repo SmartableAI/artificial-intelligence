@@ -34,22 +34,6 @@ related:
         width: 1200
         height: 755
         isCached: true
-  - title: "Verizon advances 5G edge computing with IBM deal, interoperability specs"
-    excerpt: "Edge computing will be critically important to delivering highly responsive cellular services in the 5G era, and Verizon is pushing the industry forward."
-    publishedDateTime: 2020-07-16T13:52:00Z
-    webUrl: "https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/"
-    ampWebUrl: "https://venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/verizon-advances-5g-edge-computing-with-ibm-deal-interoperability-specs/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/IMG_1390-e1571836605481.jpeg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
     excerpt: "The business division of US telecommunications giant Verizon and IBM are collaborating to work together on 5G and edge computing “innovation” they say will help enable the future of Industry 4.0. The companies have announced they plan to combine the high speed and low latency of Verizon’s 5G and"
     publishedDateTime: 2020-07-19T21:42:00Z
@@ -159,24 +143,6 @@ related:
       name: Control Design
       domain: controldesign.com
     quality: 19
-  - title: "IBM, Verizon Business to collaborate on 5G, AI products at Enterprise Edge"
-    excerpt: "Verizon Business and IBM teamed up to work together on 5G and edge computing innovation to help enable the future of Industry 4.0. They plan to combine the high speed and low latency of Verizon's 5G and Multi-access Edge Compute (MEC) functionalities,"
-    publishedDateTime: 2020-07-16T13:54:00Z
-    webUrl: "https://www.telecompaper.com/news/ibm-verizon-business-to-collaborate-on-5g-ai-products-at-enterprise-edge--1346836"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 17
-  - title: "Verizon, IBM team up on 5G/edge computing for industrials"
-    excerpt: "Verizon Business (VZ +0.1%) and IBM (IBM +0.2%) are collaborating on 5G and edge computing. Their work will combine Verizon's 5G and Multi-access Edge Compute technologies with IBM's expertise in AI,"
-    publishedDateTime: 2020-07-16T14:04:00Z
-    webUrl: "https://seekingalpha.com/news/3591881-verizon-ibm-team-up-on-5g-edge-computing-for-industrials"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 4
 
 secured: "suIQaWjxg1Ib9WVK2I1Mx9JW3TT0iCn71heMPVnXGZEgj9SwXzJx+mJoJThGbsXKRWu/Wgo6Aa6sqcH5kudu0dfnUXfa6ip844CjWKNs+g1nSIPOmxKk2JxPbh9/17kFQ81kKbq3XbZzYsA5MMK2KfD3FunQS4kF44nudZbZX9endddstKxrnnxSwbPkeZ4DxtIUQuNaEXsg9UIKsumoMxIT41ZN+Zk6z+j9a5XAYFUks5oEM/HY//irEmhtOXrIOCLeRcbaL3ZvI+o6XlxOaMNa4uAQZGeXQWjzWdh7EDrMaYvODMHm4+kILyTm8Ji6UF6J3aQDn+/HOuB+XyUCe4BnBO6hV2lWG+VUl26nBVQAnwgTz2MZvpi3UdtBgA4XXwGgpt3CsjUtr6yhOY4x6pUUNyYgxPS157fNTvj9w9fpPg3pWOaTYELkhxPq9NP1vqxOZg+DAJAoRNc4GAStxdJubnzcyJ7/8yGZWNHgzc5JWEXHh2yM7s5wjVc8xzCYbWdO1dD55ISsf3Ei0uUZUQ==;8FVeAt9WukSTHdBK5tqX9w=="
 ---

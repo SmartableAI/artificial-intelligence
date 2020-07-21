@@ -92,6 +92,20 @@ related:
         width: 984
         height: 738
         isCached: true
+  - title: "US self-driving startup Aurora expands public-road testing to Texas"
+    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
+    publishedDateTime: 2020-07-21T04:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/21/us-self-driving-startup-aurora-expands-public-road-testing-to-texas"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/21/788898.jpeg"
+        width: 1240
+        height: 697
+        isCached: true
   - title: "For Aurora Innovation, trucks and Texas are signs of self-driving future"
     excerpt: "Hauling goods and freight has become a priority in a self-driving industry once predicated upon carrying passengers in robotaxis. It should be no surprise then that logistics hubs have become hot spots for new testing grounds."
     publishedDateTime: 2020-07-20T18:00:00Z

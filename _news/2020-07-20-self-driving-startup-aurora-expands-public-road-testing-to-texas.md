@@ -59,15 +59,15 @@ related:
         height: 675
         isCached: true
   - title: "Self-driving startup Aurora expands vehicle testing to Texas"
-    excerpt: "(Reuters) - Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-    publishedDateTime: 2020-07-20T18:14:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+    excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+    publishedDateTime: 2020-07-20T18:24:00Z
+    webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "Self-driving semi-trucks are picking up speed"
     excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
@@ -100,6 +100,6 @@ related:
         height: 432
         isCached: true
 
-secured: "x5M7ZjLJzfZGNiBUricbTI6dhfNG3BNhExo2ZAd6Ku06yoacJHWjcv/+PTohhjgnjViN3nY5RiNBbbnDpqZHdH1MGEkcBhXgzY4nnNaXFPwpZsL66k5cMie8Gt6a48MQyZ9iyODRgu9pYUY7q6VcQcslt8Zk66/u9dK4fs1KcPCODRiWxQe+/j/dxZtRzIIUdDI8I/H+v1vZc36amD9VcFthU97jnH9q8jTcdAsV/wcwE/icN3oo8bjcyolI7v94dPVePTRshBhWSVbcXpbpPk7hwJmWi09ucVToV7JgKXKqdQBGh39+EGogCbjj5QCjQmhgQaLMsD96rA0tgrAgzw==;GczslUXvZmP3cXevSY38dQ=="
+secured: "37U1KqrUszAmuHvI5nHX9qbeu+Ypp23PPlTsC1/sJPhI/MUgQcPWDEprKgxhUalgC2/Qm72LWgbMYCPJVZRC2oxY1n8QX1Vd52C8ea9Y0V2/VvtLXqNWsZeakt1iqKfPYfXd3FS4zgzaWMTL7B2cc9hJfglqwBZC+HA1RbQhF2yIUSs0zXJ1TG1oml1nlz5+k/a3J7TJUpJJZ+7SiyLcEYNpw7rSI3vvMPmaz12NrcY8CvtAKtW1R/jTR1syhNQ2YuAVy9fA8koZxPTDjNg6BmQXfATcKQejCWxxCEtrNajdijZGHXzR/XGrCDOJ8sVefYR/gziIb8NRyXlOnk/zFNaUhrkNWTliaSE3d8a+pQsqtCNFxUQksDlNiXM5gDbCpTwIBDV9JYbBG0BeA3c2E4vmlKAHwdMjY9RA2iCVTjgFfBGwkvwEWqZ7iLeOqxRMfseIiqcPrAVaHpI21HmqXEa259/KFi3KO65G8khAnkXM+O/tbiOfpxmJFJnDgTYc;Qja8bekD+6Xl5XzxDowPCw=="
 ---
 

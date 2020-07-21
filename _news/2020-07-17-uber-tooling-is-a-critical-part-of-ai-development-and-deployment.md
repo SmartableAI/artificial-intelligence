@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-a
 ampWebUrl: "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,25 +21,13 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all"
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Global Precision Medical Imaging Market: Propelling due to Growing Research and Development - PMI"
-    excerpt: "Pfizer decided to work with Boston-based Concerto HealthAI for a collaboration that will apply Concerto's eurekaHealth artificial intelligence technology to precision oncology research. The partnership will use the AI platform to gain faster actionable ..."
-    publishedDateTime: 2020-07-20T15:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16690419/global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16690419"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16690419"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "FoaV6cVxqOx+78rH639Y/VsuZgD41hW9Q7XkgJ7HpbJJXjCQyyM3L1bVJUYBs3P5QwAemdJ0axXW2+Pe0W8mBvy9vWSdLQNRgmJBjhjtFozOrBwm5GcsMHLpbh29XTzUvIqzKxH9X3jAxv9vNjoHduqcDGhNZPzYzt4eFU1Fy9bHUqPAvuhCQ5Q9Il7MhQRwajLS8a/sI6uwE3BbSmOJNnOosU0jk4y/whU3xjHrw1hjmz3/XKLHxgn1CPYK0+4eiB10da1Er/qxSpaZwc2+SccUDNnN7ckqf5wTyvtUduQoNUYgBjSrszo+LimnmXh1rx3W9E32oc0EMlB/16KKv/k6J8iL8a0ITSjvczJOlSeII11iw0RJXz0L1496L64PhvScbhDA484AUhRajmW/FC79xeYkjmwE/FXrS50nt3dxleoFJqM3jKOmKqmY0zLDd9i3XtYirCpkyHWYOp2fQs8BordvQZ/v5pdbHtuIBl4Z1woVRWYtYPY2AHMGnvlKBvFoYXCA9HYVzhjdkQA6oA==;RnGcYt/apR9RJF51QWeQZw=="
 ---
