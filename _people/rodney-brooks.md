@@ -21,7 +21,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.ca/citations?user=BCGgwlEAAAAJ
-  citations: 46741
+  citations: 46754
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Rodney_Brooks
