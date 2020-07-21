@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/capitalpress.com/content/tncms/assets/v3/editorial/d/4c/d4c74798-cb85-11ea-9dcd-5bad18b11395/5f173dc6caa84.image.jpg?resize=579%2C630"
@@ -23,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "2kqbCX3SXtrGuvyLDMvhg7e+Ao+oA9dOASiapFPO2QJSwOGxl4FzhCWTAwr3fqVNgH2uSAJOthLhx8x3yjVZWjUXuUV0Cjwbc+2BvJroVCrSb3QABnL8uFDmfd5/yS+qMEueqK4HaE9m02CavKM1HePpXVzRtPYmpXJe9FyG4l6GlTitP9hs7Hv4PoRpdH7WbGm0BmFfYjYkMBlDMkiAIRVPC0331z3peK1mRd74Mp+hgYRgpEDYr+SgDr8/Ql+Tqfj+/5/QZZxLQbFUl8AEor3/l85yTq4UT4moewKRXXmIAEFe4M/jAoSn0U12v9mWMzlLAmozah+vp8wKTksMWw==;MMb2bE15wcgVYjJDdRBADg=="
+secured: "7YpTf2F2hwPQwTdFhgRwDzjVtgEZyOxm3eaeRcsh0zL5RtOBYzkZDLVOoDUG3PzFK3HYv+oWeqmYaAsfLCWs+uAylWJkOLQcbGGRwF2+zDgCvpD74vHE5StYlDubqNhUEXD4NGnhGbGGISuJERKNUsAe0DLrEaFpHuFkdZOijGZJ2QxSnDtJk7DlLqFDiQA2Ge2xUvTpWOJUEN+2H1g7dzIL+REsp8Zue9I9U25bixWVVXW0mTEsEKYioY1MmqPcLEO8Gen7bIbN/eZu2gfJjGOeYcpjbwp/IfPYDgwd1awXCehqkkyJQP8EdZRfUllmweFI3n/X/ICi1TC81buHsmmQ7XlhKLcPlGMEBJ8Zgau9ABTA6JiBjU2OkqQoexBeM9avsWrjfP9smBI0Zj+2kUnc5Tk7660o5gF5FLhONUzH0/e7BW11pZc3vL3H+SjgBJ6NgGvYqqJ7my3WSZLh0wStcrHzMXCBrHQUEpG0XI3MMvCCFr+SjaVQzZ+ZujOUfv6vqlahriyvj/QIH9hbKQ==;6CFyLRzA/YMvkK7xiRk3Ug=="
 ---
 

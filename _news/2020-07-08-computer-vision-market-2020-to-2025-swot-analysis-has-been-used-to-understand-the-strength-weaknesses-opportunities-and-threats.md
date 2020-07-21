@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Computer Vision Market (2020 To 2025) SWOT Analysis Has Been Used To Understand The Strength, Weaknesses, Opportunities And Threats"
-excerpt: "The Final Report will cover the impact analysis of COVID-19 on this industry: Computer Vision can be best defined as a branch of computer science which deals with improving the digitization and processing of computer aided tasks for better understanding."
-publishedDateTime: 2020-07-08T07:17:00Z
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08?mod=mw_quote_news"
+excerpt: "At Verified Market Intelligence, we provide a market study that encompasses both qualitative and quantitative assessments of latest trends for the market segmentations classified by our analysts. According to our research team,"
+publishedDateTime: 2020-07-08T08:08:00Z
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2020-to-2025-swot-analysis-has-been-used-to-understand-the-strength-weaknesses-opportunities-and-threats-2020-07-08"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ZT64S2a21cspolZ0H9k6wcOHIEohZCG4sC1IGsiqUSoB2tSjhbItZ8rnmXUqHd68AOhjYbdKqVVt6osFb+5Hgy7Ek4x3TXwB6kXxPjRyCOsCzJKTlKu9U/rltLA40jc4Cu8p+GN9RA5IKFIWbKtEHju1vTMAQnHmDQJcf0XSTvNNXAVwnVuCQ+XCRkvYGJPl/Y7V6+01ohl8y7M/m544heZLq6fKKQ0byQw2gXQm3Qxg2El4AlKhH3diEuHiOrPSQZOKNNpDvRmcrymd0ki3ukF9EIrcXC1va/gNbFgayFXBgIgOg62LZTqrsPz0JvHgyHv3y6Kir+V82y8y6O4sjA==;HYwTTsEjOEvZznyAgztL+g=="
+secured: "lhyuK5lqWFa0oalJdqlhFrw7h2Q6KfIjyFxxgVEupUXEPf3wfw5irN8D5eX9++OEBVPPG3n0vOI1DEYMaWTtFsC6XPZgiK5l9qLQhn1tDU99mtV5GndkeV/x7cIctHb3/Y7KEySxgbY7dTNP6/PgEupwNn1SLPxLAmATLc3YfxH6D/L1ohWWAYXEhQNAOoZqXdxQB2cCMAPGeQ3jh+uyOJU7DDZYmDZCQHR/hvv1fqY96tqNQzABf5+QF6cuNRQboMGK8G9I787NE7HUhju6hADDqs0gpmMJogQ/KfN+A5PGXn/e6/1TalMt7Syp0Sfy/Yc2HUyGtRV4UD/F3Yjpeg==;Yvve0OIVI5besFGSQEJKYA=="
 ---
 

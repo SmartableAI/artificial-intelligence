@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T08:14:00Z
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

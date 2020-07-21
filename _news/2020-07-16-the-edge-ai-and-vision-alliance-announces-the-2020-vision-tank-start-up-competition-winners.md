@@ -12,6 +12,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
@@ -19,6 +21,6 @@ images:
     height: 524
     isCached: true
 
-secured: "B3Zcp5cwSq+1aM25Y6cuDGO9PNmg9T1Z1PSNljE6WFDBbZAMCTa8py9BKdEOV9KGzQ8pmeNNTu/1xYqiTqJXUAczhtfv/wcI3vYmsZ9kgojr5NAgLopJ9qOM8N+XiHlHytmIU/NER6JvKoDLvS0DfP0ndjmOasHSfhFta3wVydAIx5HXBF+B98hxOLN8hR5pZOsQesJ9Li/ispnBnYhHeW16QVwTzao/I8WHgzfYakJM8Hy1VCrC020Nky1RsTUwrJ2Zu087RwHz2SYeLVFqYxvvYy4d3QRUUmP/x3kI3JjojZz4+/IUYNF8kSijlPmyvzVA9ru15EhyzHtZFOulIA==;PahcD7bqDNqOkgzx1ji0tA=="
+secured: "DVACq7n8lJ1hhwf67AKsKz17zEDrb6175g7hKyonnHc6PIQtHsSbleXvOY+KU2P9qoM7PwhEVXaGMwyXbYCYbUjI4GF+ksqUL++0+c5SylmKhqvGXNG7EkTbwFE6LtKBYG1kzYOCiV9RwLhGtNHzMzTHCz2b1p+uBWyF5CMkxSY+CObgS9ltffrxbCw1di7qnALBw0SQlc94IPhxMN9QjEtxe4xKjl8gGzAOSt/gL3r7oMIDPVvBxLBqLFavAJd5CvQLWRmjoEdJS/q81XB/q4hyfT2gGvuqSWUCT9p/V/u1HXK55f2WhwzuSR+ydLsOdH7nbbNvJyhuIbiTeuZg8UL1dD6pdSn+lcYERmOtgxW1Twf27XKdMPy6PIjh0ZZqm9olMq4pqss3HZ+fW02lOdHgTEonYcOrVU+1smyPUF5OpYqOtYw3AeI5pTacTLhopGuqFTI0XXsRaMxkeZbUDQzSWT4xtmYzr5JsPhI1IMe8XOoORdYGFkFrLwt0hd2fSRAy03sHhTbQhW3qLJJQwg==;kMaRgrgvfAKUN9uU5l8nHw=="
 ---
 
