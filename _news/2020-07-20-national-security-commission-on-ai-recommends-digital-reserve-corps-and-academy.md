@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T20:06:00Z
 webUrl: "https://www.fedscoop.com/nscai-commission-recommends-digital-reserve-corps-academy/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 2323
     height: 1290
     isCached: true
-
-related:
-  - title: "Educational Robots Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2028 Imapct on market of COVID -19"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-07-21T02:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2028-imapct-on-market-of-covid--19-2020-07-20?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "wTjdbrhplDV1rT9Q7bAOKsWFMdP2k5p6NtxkjjBjJ+ysGff9O4Lfhu5Rk8W+Tfy0cmJfan/+TM6jHtdQ3w1I+u0dZ0EgORwb0w9SIAnQYv19XmZhQB30m1RLliZYIisb9zKxkNJPvupJmcJ5tdLUETS7KTwirvP9LoklGb1QZhfIQbmVS3sPZEPGM+Bi2vv+MBN+QesijJqxt53H+yGNarL+TWjwiqXSSNrWa1q7TFC8aZie8TTqAPDhW3aBeCL4RRjqp01E+VpL/HoBBz5Mmi9XBgKLnSTtZDjMa1tK2+yveetMUhQNfM50axqtrRgHo3RaKXOuLJno9XGeZQhIp7np/X9AHoAceHPTHlA25iCJC0bWgzC6MTVeSsVT7AouoibKb9OLdOwA9sr8UJX3vhUJINsrJgA19eUqiXPd2zAPXE1hurMg2Qluj+THN4H+DuLBcuPW1GuBXYKoHEOzI+iuSI3fVmTRb2E651M8ieBfeH8fMNvxC00mtAdV/8CJJqkyTnpNXy2e71wmCNoajg==;yBg2IOm04ni5Wbm72dMpWw=="
 ---

@@ -56,6 +56,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google launches hieroglyphics translator that uses AI to to decipher Ancient Egyptian script - Daily Mail"
+    excerpt: "The new Google tool teaches the basics of hieroglyphics but also uses machine learning to give academics a fast way to decode hieroglyphics."
+    publishedDateTime: 2020-07-20T11:22:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8540329/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8540329/amp/Google-launches-hieroglyphics-translator-uses-AI-decipher-Ancient-Egyptian-script.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/20/11/30970914-0-image-a-15_1595241610437.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "3iq0EZ9LylZm07T1xL7YhrrZ+Ytet2OuqINw+XcCipP+H52L98GpevQgxXtgfmUS/hoHH+RKbnOdbpO1JCk5Qk0hMvn3sMbczWMIMuJUHZziPIX0VLH6INAawZPXL5FMI9ALE4g6J/y479if9v2coUCcJIgbR8m7ERcjoDGF94SsNGEnLISof9kXbs0LByuPVz0mpIZyO5if7rnmqapL+HIlTZfTkPQ0Dm+Wa4JmojeBJo+kBmo6zA43s0lfc0UdbMAiJqpoW+yXzZI5CkZbz93OXD+TbcQuVhCynyQ4qVVP5Qwe2C9jaTm+std83v6lc7rp1WTrDbjpXLdjNEJBHDSFnVu4qgGQk5u/vD6ZjjXwVZcjodPOdC4p7SzwdW1nOtzBgOViJuMTndVVZ9HZydXyMfmgj1qQlupEhP7ACuZNExO9susf0KnwTxLvWoIxmAhcTElrL7MUuvgbWBCtVCqAHXwxaFxEbAHiARMJ3YvAO23V4dcg96ytrp2ZOfv53T9JwLa59mW1+Zz8Su4Crg==;d1PcfPKE3fnx6r5v+1d+gQ=="
 ---

@@ -1,21 +1,21 @@
 ---
 category: news
 title: "Self-driving startup Aurora expands vehicle testing to Texas"
-excerpt: "(Reuters) - Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-publishedDateTime: 2020-07-20T18:14:00Z
-webUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7"
-ampWebUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+publishedDateTime: 2020-07-20T23:06:00Z
+webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -103,6 +103,6 @@ related:
         height: 432
         isCached: true
 
-secured: "ChBV1WC4yZSnAw0KIkUVGziJa29VeUNX8S9jMB8GBcP7dXzhJEh4TTOpU65XcxoqYtZVogGPEszXmxk1ZCwjQcGBNEJsBv9CuMOjfsJQPgJHoRZQxAMvktHpf0AdsjA7D2CQw9YJ0PKLisvBhdqvSxeOyn2p8kvameGY5/cMyPatkucu9KWUsHXH431Z1HzC3kwMHKUgLZ7YvGsppXGheb8tBM0X8PDj7JVrINndNGnS5ImA8NUZCnUL6Jdf5glCrak8dZFatKsVUzYXaJiE9gT2KVtEzQ328cvG3zmN464scgoBaxFb7KSjoZKRUnekQAfXlpzsRG6cXmEPY4OWPQ==;HPGn5yYLK0RsFcMtgJ0w3A=="
+secured: "hEVJwStpIBVZ6TNwEvBiCx9TiqFVzs0eXtRVm+SgEo2tMNZVRyItYhndRXBLuR0mjZOrdir4+L40DMBC+RqiRfawsAwfLj/WN4Hqva2QWMwmO7n0XiyLLZhnYJ+gbw+NeVntJZb/+fmZHa2Aus1tlr9WaLIaGLWk/kVvedu6Kpzou2uffjGpDAYCrrNjAeV4VSne0J3GkA7lVVuopSNw05s/InreRi3WhxHHHkHYYiVdpXh7SiKkz7NmaHxhBLc17Lk7+4vhIbtN0FN6PgjKVSYMLWpTUFilVEuWAYFR+BHvkeTWN2gt0aRU2CLW7IpRpVy4zvPSZCvwWmkOQeXraw==;M4ndCFqhe+hbg8XTE5j24g=="
 ---
 

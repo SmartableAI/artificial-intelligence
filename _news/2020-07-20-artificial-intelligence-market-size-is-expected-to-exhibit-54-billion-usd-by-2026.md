@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-20T17:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: MarketWatch
@@ -26,6 +26,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Manufacturing Market Worth $16.7 Billion by 2026 - Exclusive Report by MarketsandMarkets"
+    excerpt: "According to the new market research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology"
+    publishedDateTime: 2020-07-21T13:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-07/50228132-artificial-intelligence-in-manufacturing-market-worth-dollar-16-7-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "XQcPFmjtnyqppsGSEZJzAzaqgFfKubxx/+UmFtTBQiZL7J1tDGKWJ5mTVZHCSnGTNZA4s0BqMgqZjGL6xY7+DvSUIWyl5fJTHM+n8DUP3ogCN6H7Mq+EjD91VlyC/OqFuNAAl/ECGGlhe60beTRrGFcn6g3dXDj2/UY9E3VbmwWJUpjpGhi6pQft02dULVJyzOnirrEhkuvcB8yTlL5ZL5+TvV1ctON0nK39gjIKRqdayvBweJ8VkJXkzrgA+Fl6rn3vgTjBIQFBfs+AqjCxlDKOjp+weUDMbND2NArckMeyxxM9rYSd8PidGy/H+Zb2i0BLp8zXmY/JhJdNpE4GAA==;Wu8Ou3JqGEV4QHRw3inoxw=="
 ---

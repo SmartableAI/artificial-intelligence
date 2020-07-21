@@ -150,7 +150,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -180,6 +180,38 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-igrad-partners-with-florida-international-university-to-provide-ai-powered-student-financial-wellness-platform.md",
+      "title": "iGrad Partners with Florida International University to Provide AI-Powered Student Financial Wellness Platform",
+      "excerpt": "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr.com/press-release/817036",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR",
+        "domain": "pr.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1304,47 +1336,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-30-artificial-intelligence-ai-market-size-is-expected-to-reach-usd-1694118-million-in-2025-valuates-reports.md",
-      "title": "Artificial intelligence (AI) Market Size is Expected to Reach USD 169,411.8 Million in 2025 - Valuates Reports",
-      "excerpt": "PRNewswire/ -- The global Artificial Intelligence (AI) market size is expected to reach USD 169,411.8 Million in 2025, from USD 4,065.0 Million in",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-ai-market-size-is-expected-to-reach-usd-169-411-8-million-in-2025---valuates-reports-301085882.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

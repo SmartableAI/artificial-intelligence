@@ -86,22 +86,6 @@ related:
         width: 600
         height: 237
         isCached: true
-  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
-    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
-    publishedDateTime: 2020-07-16T19:51:00Z
-    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
-    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
   - title: "For Aurora Innovation, trucks and Texas are signs of self-driving future"
     excerpt: "Hauling goods and freight has become a priority in a self-driving industry once predicated upon carrying passengers in robotaxis. It should be no surprise then that logistics hubs have become hot spots for new testing grounds."
     publishedDateTime: 2020-07-20T18:00:00Z

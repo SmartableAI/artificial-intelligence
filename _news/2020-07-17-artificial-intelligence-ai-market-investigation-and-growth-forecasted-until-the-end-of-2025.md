@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T11:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence in Food & Beverages Market : Key Facts, Dynamics, Segments and Forecast Predictions Presented Until 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 21, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Food & Beverages Market is further estimated to grow at a CAGR of 41 % from 2019 to reach USD 938.91 ..."
+    publishedDateTime: 2020-07-21T12:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-key-facts-dynamics-segments-and-forecast-predictions-presented-until-2025-2020-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "IY86Uvqpy/BSgyLdUI1e2DhmQlPhSJIx4UFEm4jose347HAsVS/3FF7bzKR8oLpItKpUdipVM584D9n21WIgiWqWEp/RPhDjHl95+wFxpdsiaM7vI6ctqBlCZhH4e5IeASA/Q34hPL4S66tWRaD1jEED0yaaUWz2WfflcFO8TiKrzFRV5CJQKEP78ytilRV2M4RcPPE0szxKT1fzhnYzSmYKB+NrS/xGnAWxqOvo7wVhyVOMTYI58eR+V8HslTvWRczf8h/o9wQh2+W7wLyBiMIJSH/kAr9JR8xAfPkZYVx1YKbwLoFqfYIc9JcpTeSMgbUg5VJZr3lxrZH89NdHQw==;lrH5byiJepseSL4BI5+pxg=="

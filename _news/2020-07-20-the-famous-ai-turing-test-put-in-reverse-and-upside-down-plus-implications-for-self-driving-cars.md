@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-tur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
 type: article
 quality: 78
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
         width: 600
         height: 237
-        isCached: true
-  - title: "WATCH: LAVTA Testing Self-Driving Car On Public Roads"
-    excerpt: "No passengers will be in the vehicle as they travel a mile-long route near the Dublin/Pleasanton BART station."
-    publishedDateTime: 2020-07-16T19:51:00Z
-    webUrl: "https://patch.com/california/dublin/watch-lavta-testing-self-driving-car-public-roads"
-    ampWebUrl: "https://patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/28855605/watch-lavta-testing-self-driving-car-on-public-roads"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/shutterstock/23681188/20200716/034343/styles/patch_image/public/shutterstock-596947877___16153315909.jpg?width=984"
-        width: 984
-        height: 738
         isCached: true
   - title: "US self-driving startup Aurora expands public-road testing to Texas"
     excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."

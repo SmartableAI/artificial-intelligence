@@ -2,6 +2,305 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-17-announcing-the-women-in-ai-awards-winners.md",
+      "title": "Announcing the Women in AI Awards winners",
+      "excerpt": "They have all made outstanding contributions in the AI field, from advancing the work in ethics and fairness in AI, to trailblazing research critical to AI innovation, to ensuring young women ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Women-in-AI-Awards-Transform-2020.png?w=1200&#038;strip=all",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/women-in-ai-awards-2020-winners/amp/",
+      "publishedDateTime": "2020-07-17T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models.md",
+      "title": "Why Unity claims synthetic data sets can improve computer vision models",
+      "excerpt": "And, Romero said, those problems don’t go away with scale. For example, computer vision systems for AVs learn from road events like car accidents, which are (fortunately) so rare that it’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/unity-technologies-transform-2020-romero.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/amp/",
+      "publishedDateTime": "2020-07-17T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
+      "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
+      "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/e382c098-5b42-483a-a6fd-1bbcfc69881e-e1594767341313.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems/amp/",
+      "publishedDateTime": "2020-07-17T15:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations.md",
+      "title": "Microsoft reportedly cuts jobs across MSN, Azure, and sales organizations",
+      "excerpt": "Microsoft has reportedly cut \"hundreds\" of jobs in its MSN, Azure, and sales organizations as part of its end of financial year re-evaluations. However, they are not as massive as the previous years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595019621_microsoft_layoffs_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations/",
+      "publishedDateTime": "2020-07-17T14:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-how-pixar-uses-ai-and-gans-to-create-high-resolution-content.md",
+      "title": "How Pixar uses AI and GANs to create high-resolution content",
+      "excerpt": "Watch the final day of VB Transform live on YouTube! As digital animators continue to push the boundaries of technology and creativity, the technical teams that support them are turning to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/pixar2ts-e1594990621109.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/how-pixar-uses-ai-and-gans-to-create-high-resolution-content/amp/",
+      "publishedDateTime": "2020-07-17T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge.md",
+      "title": "Silicon Valley execs and Pentagon AI chief talk AI at the edge",
+      "excerpt": "Returning to the subject of tactical edge AI today, Mulchandani said advances in batteries, chip sets, algorithms, and other areas will be necessary to make progress in deploying AI at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/edge-computer-vision-transform.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/amp/",
+      "publishedDateTime": "2020-07-17T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity.md",
       "title": "A beginner’s guide to the AI apocalypse: Artificial stupidity",
       "excerpt": "And despite its relative infancy, artificial intelligence isn’t as far from ... In other words: the robots won’t kill us out of spite, they’ll just forget we exist and transform the world ...",
@@ -797,7 +1096,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-investigation-and-growth-forecasted-until-the-end-of-2025-2020-07-17",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 122,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1176,306 +1475,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics.md",
-      "title": "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics",
-      "excerpt": "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/SiyZiBYppuIEyDDEe5w99KqglmI=/2020/07/16/fcb92e46-e3e2-49c8-a471-03d29f43236f/tomb-of-beni-hassan-macquarie-university-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/",
-      "publishedDateTime": "2020-07-16T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants.md",
-      "title": "Alexa and Google Assistant execs on future trends for AI assistants",
-      "excerpt": "Executives leading Alexa and Google Assistant teams say multimodal experiences and unsupervised learning are notable trends for AI assistants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/alexa-google-assistant.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/alexa-and-google-assistant-execs-on-future-trends-for-ai-assistants/amp/",
-      "publishedDateTime": "2020-07-16T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-trump-daughter-ivanka-show-support-for-goya-foods-in-possible-violation-of-ethics-rules.md",
-      "title": "Trump, daughter Ivanka show support for Goya Foods, in possible violation of ethics rules",
-      "excerpt": "Watchdogs warned that Ivanka Trump’s support for Goya may violate rules. “You can’t use your official position to promote a private business,” said Noah Bookbinder, execut",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/16/36e941ca-c6d5-11ea-86df-6d561651b5f4_image_hires_151441.jpg?itok=NQ_Cedet&v=1594883689",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3093358/ivanka-trump-tweets-support-goya-foods-possible",
-      "publishedDateTime": "2020-07-16T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-4-important-types-of-bias-to-tackle-when-building-ai-tools.md",
-      "title": "4 Important Types Of Bias To Tackle When Building AI Tools",
-      "excerpt": "With every passing day, it gets more challenging to mitigate the biases that are powering AI tools and systems. Now more than ever, awareness and consideration of these biases need to be brought to the forefront of all AI development and implementation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1255304161%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D489%26cropY2%3D4269",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/07/16/4-important-types-of-bias-to-tackle-when-building-ai-tools/amp/",
-      "publishedDateTime": "2020-07-16T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-how-valuable-is-your-ai-trust-currency.md",
-      "title": "How valuable is your AI trust currency?",
-      "excerpt": "Trustworthy AI depends on building trust in your people, processes, data, tools, and models, including mechanisms for building trust into your AI itself.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1175710243.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
-      "publishedDateTime": "2020-07-16T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-googles-fabricius-uses-machine-learning-to-decode-hieroglyphs.md",
-      "title": "Google's Fabricius uses machine learning to decode hieroglyphs",
-      "excerpt": "Google’s Arts and Culture vertical has been known to release fun apps and tools to help people engage with art and history. Now, the company is launching a web-based AI tool to let users interact with ancient Egyptian hieroglyphs and also help researchers decode the symbols with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F8fab2660-c79e-11ea-affc-56b15034444f&client=amp-blogside-v2&signature=655d75e8b6d0f4dffdb77b553b0294a2b58bbdd5",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
-      "publishedDateTime": "2020-07-16T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

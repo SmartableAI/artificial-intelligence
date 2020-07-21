@@ -147,6 +147,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Black Lives Matter forces an IBM U-turn on facial recognition"
+    excerpt: "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ..."
+    publishedDateTime: 2020-07-21T12:00:00Z
+    webUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/"
+    ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 59
+    images:
+      - url: "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Opinion: Unregulated facial recognition use poses risks for Detroit"
     excerpt: "Wrongful arrests should be a wake-up call for Detroit residents, as well as others concerned about criminal justice reforms, Chavis and Trainum write."
     publishedDateTime: 2020-07-21T03:07:00Z
@@ -254,20 +270,6 @@ related:
       - url: "https://media.salon.com/2020/07/masks-protest-nyc-0717201.jpg"
         width: 846
         height: 571
-        isCached: true
-  - title: "Homeland Security Worries Covid-19 Masks Are Breaking Facial Recognition, Leaked Document Shows"
-    excerpt: "The rapid global spread and persistent threat of the coronavirus has presented an obvious roadblock to facial recognition’s similar global expansion. Suddenly everyone is covering their faces."
-    publishedDateTime: 2020-07-16T19:15:00Z
-    webUrl: "https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/"
-    type: article
-    provider:
-      name: The Intercept
-      domain: theintercept.com
-    quality: 27
-    images:
-      - url: "https://theintercept.imgix.net/wp-uploads/sites/1/2020/07/blue-leaks-face-mask.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1440&h=720"
-        width: 1440
-        height: 720
         isCached: true
 
 secured: "mmeGs0jhWlepkjyNOxnz/AKMZtIC1VIK+6Tv+/WIjU+Owao+BZgagsNxzgz7UT9YNV2fj3reIMUhf6h+QEHA7RcXy/pKQIHhK9vt1i7sKrh/AyhfOJDxQvDOqSDJfduoMvONCZxpXxry3b/HU1oFegtnNAFgxUqiJDjBr6v9fjpBRMheBcjGxeam159k95BVaFEfXrVBKOsWGLc0wUOsSzovVsuAz/rNKU6/WcwpmlxIiMNK2qtgAn3rvE82MKXqQLRWQRh0BLzXugKLH3/LOJK94D0tNL4sETqfb/N3Vn5XhJmlFyvfFRk3UkWfggdIyI87FEvQC8vZIDCmHDRHmyXIEmOB56n1IxTmKM92xzVfphmoTDirfED5uHk1rHBWHtOMF4R5mvDJTm49Loi7BlpFfOgciEu/G4jCzBa/zaD3fY4AtHY5kIC9lMNYWBeIM+78kNVRQLCWH6JAVznZAaBNwxh2MAle1EgVucoLFOBUpfIRgolGzHcUgjz8pjm5NDdz9/2HjRnhIW3N7/4FYg==;EGQuyeE41XLgnNvOu/boRQ=="

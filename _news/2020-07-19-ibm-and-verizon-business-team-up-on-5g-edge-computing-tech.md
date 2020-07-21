@@ -133,15 +133,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
-    excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
-    publishedDateTime: 2020-07-16T20:21:00Z
-    webUrl: "https://www.controldesign.com/industrynews/2020/ibm-verizon-collaborate-on-5g-and-ai-edge-solutions/"
-    type: article
-    provider:
-      name: Control Design
-      domain: controldesign.com
-    quality: 19
 
 secured: "jY5kBI0FByD7L2yIZ62ujqN7Nlag6bUBWKThazjXrkgLPFccaAvskOLvSYloOFmM1b6XxP5Lc4TvhEptsgc55g8nZ2nfEL72m0VTqu2B9mP8I6Zpwpj3fPisXyqL3Fi0zOwugfzctRc1BQmwPElf6h5ihUYMzjnLw/OKlR9nGbfH5ms6WKHJEOZ68C9+WN5xFEQ8h5UOEN8Ow0N9QaZ/a/bTK9CybQ3+ykw0UIPTA8/vzOTAo7WMYDTGEhAYcN/vE8F1uVQ5E3f7BLNBnFvVSvmW0s+GbZ5oZoq7cYJ8PqtwJoLqC/zzo5NWh0Vg6Dy1Ew/zbsqaeTPWKs1cPY7EFkvLgwPNy7vxxIg3NXwK/Xy55CPtrGf1Ei7/jPeiAwYL8IhKsj6ZznLalgdH5eRMy0TyftozMG1eUJj5B+svtRhmLJ4QTCSk3/uKLvRwnGP+Mr5O4C6SC+MhYockgKhZgaJlIYZbYbamqffMURZ2nkeF4QGsM8sJ+v6nnJ2LikHLcO7otLZWOQKEwdL5SidxFg==;1dOV6CVOCD0PO+5Mgyj/wA=="
 ---

@@ -35,6 +35,20 @@ related:
       name: Bloomberg
       domain: bloomberg.com
     quality: 54
+  - title: "Slow progress on self-driving is putting startups in a bind"
+    excerpt: "Progress on self-driving technology has been slower than many people expected just a few years ago. Google's Waymo was aiming to launch a fully driverless taxi service by the end of 2018 but missed its deadline."
+    publishedDateTime: 2020-07-21T13:24:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/slow-progress-on-self-driving-is-putting-startups-in-a-bind/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_Pr5XpBQ5LyTklgHdbBkKkw-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Former Ford exec Hinrichs joins board of self-driving radar startup"
     excerpt: "More than four months after retiring as Ford's automotive president, Joe Hinrichs has resurfaced on the board of a U.S. company pioneering a unique sensor for autonomous vehicles. Hinrichs, 53, has joined the board of directors at WaveSense,"
     publishedDateTime: 2020-07-20T12:43:00Z

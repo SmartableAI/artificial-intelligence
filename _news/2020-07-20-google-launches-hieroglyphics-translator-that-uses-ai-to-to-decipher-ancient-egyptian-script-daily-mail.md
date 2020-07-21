@@ -27,37 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Fabricius uses machine learning to decode hieroglyphs"
-    excerpt: "Google’s Arts and Culture vertical has been known to release fun apps and tools to help people engage with art and history. Now, the company is launching a web-based AI tool to let users interact with ancient Egyptian hieroglyphs and also help researchers decode the symbols with machine learning."
-    publishedDateTime: 2020-07-16T19:34:00Z
-    webUrl: "https://www.engadget.com/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html"
-    ampWebUrl: "https://www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html"
+  - title: "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics"
+    excerpt: "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today."
+    publishedDateTime: 2020-07-16T22:51:00Z
+    webUrl: "https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F8fab2660-c79e-11ea-affc-56b15034444f&client=amp-blogside-v2&signature=655d75e8b6d0f4dffdb77b553b0294a2b58bbdd5"
-        width: 600
-        height: 350
+      - url: "https://cnet3.cbsistatic.com/img/SiyZiBYppuIEyDDEe5w99KqglmI=/2020/07/16/fcb92e46-e3e2-49c8-a471-03d29f43236f/tomb-of-beni-hassan-macquarie-university-1.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "A new tool in Google’s Arts & Culture app makes understanding hieroglyphics fun"
-    excerpt: "Google has launched a hieroglyphics translator that uses machine learning to decode ancient Egyptian language."
-    publishedDateTime: 2020-07-19T16:04:00Z
-    webUrl: "https://www.telegraphindia.com/science-tech/a-new-tool-in-googles-arts-culture-app-makes-understanding-hieroglyphics-fun/cid/1786771"
-    ampWebUrl: "https://www.telegraphindia.com/amp/technology/a-new-tool-in-googles-arts-culture-app-makes-understanding-hieroglyphics-fun/cid/1786771"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/technology/a-new-tool-in-googles-arts-culture-app-makes-understanding-hieroglyphics-fun/cid/1786771"
+  - title: "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs"
+    excerpt: "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ..."
+    publishedDateTime: 2020-07-20T07:12:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 40
+      name: This Day
+      domain: thisdaylive.com
+    quality: 59
     images:
-      - url: "https://assets.telegraphindia.com/telegraph/2020/Jul/1595168221_1lead.jpg"
-        width: 900
-        height: 506
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2020/07/75c5eeba-ancient-egyptian-gods-and-heiroglyphs.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Google came up with an AI powered app that can efficiently translate Egyptian Hieroglyphs"
+    excerpt: "Google has recently launched an Ai powered Hieroglyphics translator called as Fabricius. The app is freely available at the Google Art and Culture website and application. The app was opened for downloading since Wednesday."
+    publishedDateTime: 2020-07-17T12:21:00Z
+    webUrl: "https://www.techjuice.pk/google-came-up-with-an-ai-powered-app-that-can-efficiently-translate-egyptian-hieroglyphs/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 30
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/07/google.jpg"
+        width: 700
+        height: 524
         isCached: true
 
 secured: "ethBAITA1LXRvvkSLrFUFqF801OSf7uRmUh0AZTs9slMhdHio3e27DcGuMoCi1NHK744mlMP/b1KrB8/OGnED5wFRTBXC/0TZQRMJcpl8FjNATXpBYLNdLWXLKHjLQMoTxDmeYM6DOYTHp/vYvsAaTw7rQd2dr5rIj7Zq7Jt/ae39B2Sc+ENEbxcR9WrLUAIfkX8N8WADphnD13rNZmrf31Spf/Bgl52uD6US3wkSC0tdNibwfl/wYAsw25GwHYEg9wqb58uxZdLTmzO1TShMsEexqa3r/+Z/lfQqwcs/75A/jpDfY7RrJxFFQgks+m8MFcg0Ui1/Y6wZt2WUOKs6ZlhI2+9wQ6hymfifRVTGOxGmZcxI9uxivKDDyeQhnqNWG6j2jS3kpPQBIIRHfjrp6NDMmZ0iCIs9TNXZu3ZV01TNF6gOc7uVuhtYy4tQlIbVMgSdwXusXpv9w7q6sAi8Edc/KPIijrnJia+YLbI2Cm+QYThNshC1L/hbX0p3byly8GUR1I0dxaw0EdlG3XkEQ==;MgMZeZpj708Qbi61zTx3PQ=="

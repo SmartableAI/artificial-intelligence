@@ -47,15 +47,15 @@ related:
         height: 675
         isCached: true
   - title: "Self-driving startup Aurora expands vehicle testing to Texas"
-    excerpt: "(Reuters) - Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-    publishedDateTime: 2020-07-20T18:14:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7"
-    ampWebUrl: "https://www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-startup-aurora-expands-vehicle-testing-to-texas-2020-7?amp"
+    excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+    publishedDateTime: 2020-07-20T23:06:00Z
+    webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "Self-driving semi-trucks are picking up speed"
     excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."

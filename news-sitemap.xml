@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/</loc>
+    <lastmod>2020-07-21T06:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/ai-is-accelerating-the-move-to-a-touchless-world/</loc>
+    <lastmod>2020-07-21T06:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/</loc>
+    <lastmod>2020-07-21T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/</loc>
+    <lastmod>2020-07-21T05:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/</loc>
+    <lastmod>2020-07-21T05:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596</loc>
+    <lastmod>2020-07-21T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/</loc>
     <lastmod>2020-07-21T04:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -9,12 +45,6 @@
   <url>
     <loc>https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their</loc>
     <lastmod>2020-07-21T03:39:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-07-21/u-k-scientists-tap-ai-for-better-ventilation-for-covid-patients</loc>
-    <lastmod>2020-07-21T01:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -39,6 +69,12 @@
   <url>
     <loc>https://www.theverge.com/2020/7/20/21331974/wyze-cam-ai-person-detection-free-pay-what-you-want-model-experiment</loc>
     <lastmod>2020-07-20T17:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.ibm.com/blogs/watson/2020/07/lets-talk-about-talent/</loc>
+    <lastmod>2020-07-20T17:00:52-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -81,6 +117,12 @@
   <url>
     <loc>https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20</loc>
     <lastmod>2020-07-20T10:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20</loc>
+    <lastmod>2020-07-20T10:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -649,6 +691,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.pr.com/press-release/817036</loc>
+    <lastmod>2020-07-16T06:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/16/is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea/</loc>
     <lastmod>2020-07-16T06:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1069,14 +1117,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568</loc>
-    <lastmod>2020-07-14T21:15:00-07:00</lastmod>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla</loc>
+    <lastmod>2020-07-14T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1471,12 +1519,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
-    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1545,6 +1587,12 @@
   <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
+    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1825,7 +1873,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10?tesla=y</loc>
+    <loc>https://www.marketwatch.com/press-release/ai-in-fintech-market-2019-upstream-and-downstream-fundamentals-import-export-data-rapidly-increasing-growth-rate-and-revenue-share-till-2023-2020-07-10</loc>
     <lastmod>2020-07-09T18:54:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2503,6 +2551,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/</loc>
+    <lastmod>2020-07-07T10:47:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/</loc>
     <lastmod>2020-07-07T10:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2631,12 +2685,6 @@
   <url>
     <loc>https://www.zdnet.com/article/all-the-ways-covid-19-has-changed-healthcare-and-should-you-get-used-to-them/</loc>
     <lastmod>2020-07-07T04:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.indiainfoline.com/article/news-sector-information-technology/digitate%25E2%2580%2599s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html</loc>
-    <lastmod>2020-07-07T04:25:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3949,7 +3997,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html</loc>
     <lastmod>2020-06-29T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

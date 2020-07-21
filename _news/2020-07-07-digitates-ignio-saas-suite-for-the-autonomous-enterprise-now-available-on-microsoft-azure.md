@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Digitate’s ignio SaaS Suite for the autonomous enterprise now available on Microsoft Azure"
-excerpt: "Customers can now avail the full benefit of ignio’s cognitive capabilities along with the economy, agility and scalability of the cloud."
-publishedDateTime: 2020-07-07T11:25:00Z
-webUrl: "https://www.indiainfoline.com/article/news-sector-information-technology/digitate’s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-information-technology/digitate%E2%80%99s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-information-technology/digitate%E2%80%99s-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure-120070700541_1.html"
+title: "Digitate’s ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure"
+excerpt: "The award-winning ignio suite consists of five standalone software products – ignio AIOps, ignio AI.WorkloadManagement, ignio AI.ERPOps, Cognitive ... Microsoft Corp., said, “Business leaders in every industry are focused on how to offer trusted ..."
+publishedDateTime: 2020-07-07T17:47:00Z
+webUrl: "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/"
+ampWebUrl: "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp"
 type: article
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/misc/2015-01/15/full/tcs1-1421292882-0159300.jpg"
-    width: 350
-    height: 233
+  - url: "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Tata-Consultancy-Services.png?fit=1280%2C598&ssl=1"
+    width: 1280
+    height: 598
     isCached: true
 
-secured: "+6j5hsgYJ95CbyG91pQpnfOeS2k3Dit22FJPQrE2hUm0b0qp8li7Fej6bRmUnXn/Sl4QX7VE6wRYsebgnNsIRSfi555fO7JHb+AdtkWA5OA6SCNw4zvZQtXjJeU7zZo1bfMGKse7z0QduhJeYsBx23kJi3F6fEnxCe+CuWia5c0LbkSfxOySprRWYGpc2h4wr+tGfiuvsjRej+GHx8mFTnkZz/Vxj6d1jFPhKG5QOSPPPDU3BnSvO4Ey1UGgkTb/AVlBe6AzRgdEX/Ey6Qc3qqlD5xtzjvHX3TId6kvIEmH4CBx7dHWtzRoV9vNqj7CumFniN5X42aSXEyD5muR1Sw==;g+KlVHjs0w2WJORPALUgXA=="
+secured: "NdhzO+gcA6Xn5U0j1lCwCTm4PO/xKVGPx9Vqy5eBsDAN7R3Sw9g5eQFG1elBjIJ9bptMNoeUSfpps8K4MT/zegKHltNvOgoexqjE0Lo/X181W9rxYQVZ/SJ+3NHcR8Q3wS/BTWdFsAVz4kJuEQFuZb1FbDzbLcPpcAA1GtfAyNa2upSsh8QQVt2+0j1dIcuzOQm4elKumI7ZZs0OlnDvDDNWwAM7GEgIbOM/UgZ/Bb7xLLEN/0riwe1pjUMev/FRWNnqrAPo5SjU+c/etugO9iAtbBia2ftv+fq8N4q2o7icuXFVfbRKfR4Ye7MIH0D1Y4RJ/Yg2h4mqJq6kUQBXfw==;IYJ/1l3TDKX+U3dmXy22QQ=="
 ---
 
