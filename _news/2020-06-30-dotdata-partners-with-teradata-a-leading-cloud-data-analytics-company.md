@@ -3,7 +3,7 @@ category: news
 title: "dotData Partners with Teradata, a Leading Cloud Data & Analytics Company"
 excerpt: "The integration leverages the robust enterprise data management and analytic capabilities of Teradata's Vantage platform and dotData's autoML 2.0 platform to create a powerful end-to-end data ..."
 publishedDateTime: 2020-06-30T00:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/dotdata-partners-with-teradata-a-leading-cloud-data-analytics-company/article_441af317-5819-511a-9ceb-d5e897aba38a.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 720
     isCached: true
 
-secured: "oXfkSEVEtTmOZxaLWJWxEdsG5i8T2Lp7XSNwzVkxkZnQ7dZYQYWvs9qyZNGEgVtD1z8EF2ARcqMoZrPq6dIMXAKym5GPV6kGsB+GSoOrF0BDlajbOkKnad3eZEgBXXh6UEzZ8RxiRiFX2ghT1pmn4vIPHuFbshj5G6YISHuRk4GYHC/gSO4O07cUO/+7gNNyB42bwvJ3lDgI3QPlReq7LfwIONJGDXzvjQ6Pdj4QWAjfEVtpAjJ35JZCKql6jAtxedXc/4NTG3C3CQhHR83kJYgPafsVEjDTP0FwmmKA0vBYac4sNZp3dGldzRzOiLZWgJ5dMiga+JUxBo1UyDFuXA==;SKZLCfgzOhAF5df8ufdK8w=="
+secured: "6GEG8+YgiasWeZEyqiCVP5c7VDPJzKB0QfkbeNyRT1tb7oKVNOYtbs30bS4hARaBbvZvI2Sc34sigQuN+rAyya6LF+1kBKqYd8HNU3u4Z9GyVsL/WC+g+68uTH57J1k2Ylfmo5sPE/zhaNb7foFLdaYHKuEsCWOqDosGukFiLxBkDZJJOIaSp8sPYcF859ZXUo78K9J9IJz7qE4GHgXsT6jZHKYmaoKeA+Y9ggGb+gUxdXPBGSi9hKKKX/2mNDVwaSN3e9hlywui4FlCkbCf9QKn/oZuirvYKlzrsNbBFjn3FU72e1zaOjn4nRU6yjaEUaBMRNgfult45oduv2Hg3A==;ffLkrrkEOKKsAWyBfZGLRQ=="
 ---
 

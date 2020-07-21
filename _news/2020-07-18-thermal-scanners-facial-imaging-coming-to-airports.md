@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-18T16:48:00Z
 webUrl: "https://www.mauinews.com/news/local-news/2020/07/thermal-scanners-facial-imaging-coming-to-airports/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

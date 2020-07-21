@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-o
 cdnAmpWebUrl: "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

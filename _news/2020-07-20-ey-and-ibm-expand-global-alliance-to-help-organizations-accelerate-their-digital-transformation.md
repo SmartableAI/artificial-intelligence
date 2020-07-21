@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T03:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-2020-07-17"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

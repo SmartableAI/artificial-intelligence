@@ -8,7 +8,7 @@ ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:
