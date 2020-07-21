@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.sciencemag.org/sites/default/files/071320-thumbnail.png"

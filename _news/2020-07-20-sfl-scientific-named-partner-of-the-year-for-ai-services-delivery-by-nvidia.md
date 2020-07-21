@@ -19,14 +19,14 @@ topics:
 
 related:
   - title: "WWT Named Partner of the Year for Deep Learning AI by NVIDIA"
-    excerpt: "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the"
-    publishedDateTime: 2020-07-17T13:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
+    excerpt: "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ..."
+    publishedDateTime: 2020-07-17T14:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200717005015/en/"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 56
+    quality: 39
     images:
       - url: "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg"
         width: 1200

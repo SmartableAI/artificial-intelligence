@@ -23,6 +23,7 @@ topics:
   - AI
   - IBM AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg"

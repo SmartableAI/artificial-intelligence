@@ -8,8 +8,8 @@ ampWebUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-bu
 cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: WSMV
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "A robot walks into White Castle ..."
-    excerpt: "Did you know White Castle was the country's first fast-food hamburger chain, getting its start 1921? The quick-serve restaurant has kept pretty true to its roots, which makes it an unlikely partner for a company that makes robots."
-    publishedDateTime: 2020-07-16T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/a-robot-walks-into-white-castle/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-robot-walks-into-white-castle/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
     excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."
     publishedDateTime: 2020-07-17T01:28:00Z

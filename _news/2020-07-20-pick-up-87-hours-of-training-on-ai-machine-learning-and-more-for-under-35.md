@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning for marketers: Getting the strategies and processes right"
-    excerpt: "Machine learning has the potential to transform marketers' operations - but organisations need to overcome various hurdles to achieve success."
-    publishedDateTime: 2020-07-16T10:51:00Z
-    webUrl: "https://marketingtechnews.net/news/2020/jul/16/machine-learning-for-marketers-getting-the-strategies-and-processes-right/"
-    type: article
-    provider:
-      name: marketingtechnews.net
-      domain: marketingtechnews.net
-    quality: 37
-    images:
-      - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/07/applause-ai-artificial-intelligence-testing-solution-data-sets-scale-news.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "2bIrMvVS8A8ynI5JRwsXNb9jcTi8X9lkMrYBfWhsXpGnh5cAtOwOdozQGXe6plF4TrDxu/roWAWcfCkn9jAEMY9Pdbu5tzLrednQvMkc0zKQgRziBuqUm+NUNakxEw2roJCe5X0eIfXtdeFGaObzsL9J3n+0tZzy26V4OE1Arxrv6iaaFZKkPZ4Gm762fRffWnetIsN63O9947ODCuR15j+xzzFVaWLDtXNXIApBlQV/TvOiFjmOWsK4YjUaPC+OPjD4waKLtvB/kYjVnzRcMkJM6xPmVNcwdz7WxVfOu8ZaOGCDrk6IJ/o6AO+FIQnhYd/XNuA3UIPyEfnhAWuoCQVG9wOj+FeynwEkuF6WzTRwHB4QWAE2TY2K8lq76rRSbS3Qa6OYbkV6zpi+4+CnAtNjJeZk484gffkC83NMukaNgt0/Esz4Q/bmyN2SBaiyQI5H71SIMsS1S46FMdb8kT/+6fbJGtQZTIh4UcN6cyEq4/Ez9D5WtJp7BLu9j//fCFqfmTSXovz1P63b0HeG0A==;0T73SVOrJCH6kYYr6c5A9Q=="
 ---

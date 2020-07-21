@@ -1,37 +1,25 @@
 ---
 category: news
 title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
-publishedDateTime: 2020-07-14T04:19:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
+excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
+publishedDateTime: 2020-07-14T04:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
 type: article
-quality: 18
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics"
-    excerpt: "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,"
-    publishedDateTime: 2020-07-15T04:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
-secured: "n4sBnyDEEO8QLir/TURsQEe6gxgaozCn5sg/VSC1+h2hl8vJ9e8zGIkZiS/hwB+oc2A7t56eOcLChSCzhZ4/BmqmeY0mIn4Hz1384jJnBRGW5l38QCjEg1/bfWu8cltga6HDN80IBRsu3CYz59atv3onCGaoPdrTama/M3Uy6Dcd9zNiYj6TsJUd7KkKIwMKLjOLlyvcQNMkQBTnEzSsyirNMzVBg0idL1DCiW1TogrDLmxtf67LILRpGzhycJLj8tBikGVCAInGRvSWYJHEgJOOqs9oLU9sn45yaT5t1KZbB4+uXf5ryzyRZSmCsYNXjLker1fGJHVmsLIyVWU4FQ==;/nd6cg2j++j3tD2/vmdBBQ=="
+secured: "cub53FealpCxn5i7Rsi209o7jDXDUdmU7EPZMN5XChfMxqw0As5WpIIhfk/aNmb/7JQ8hW2+Mb/8zCyL52gGw+zIXJYwpl48+e47DsdshXFpFQPY7vrMmbDJ2cgXdsBtTebsyU8x8FmCIhAnJANeVLNf650xRQkMoURJl98Am41Pv8/JIJLlWE73VHFl78n8oyyjyOsHn+TxEHL4sWZBHmb4yWgPFd7IhbHhA5jRfp1YRzLZROzZSsJmrp0mh8jtEA0pOhiNIuXJz//y6YeDMnQ/LA0leWF3+piqoNbambyxJkQ0TgGxXi8wAWSdny1i7cctKtdIlOhViFjOjrqVRg==;V5LYmkxQObFwiVWWsRDCDw=="
 ---
 

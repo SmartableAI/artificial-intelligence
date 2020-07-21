@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learni
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://fcw.com/~/media/GIG/FCW/FCWlogo.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Machine learning for marketers: Getting the strategies and processes right"
-    excerpt: "Machine learning has the potential to transform marketers' operations - but organisations need to overcome various hurdles to achieve success."
-    publishedDateTime: 2020-07-16T10:51:00Z
-    webUrl: "https://marketingtechnews.net/news/2020/jul/16/machine-learning-for-marketers-getting-the-strategies-and-processes-right/"
-    type: article
-    provider:
-      name: marketingtechnews.net
-      domain: marketingtechnews.net
-    quality: 37
-    images:
-      - url: "https://marketingtechnews.net/wp-content/uploads/sites/6/2020/07/applause-ai-artificial-intelligence-testing-solution-data-sets-scale-news.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "dnHSTzJWt8BgVVh411/SEgR8ur9tEfa0NBOJg8nWtwAqhpecn2t469KlO+NkE7oz/hZmzgBrSWhgjdEtjl6WT6a4m6ip2tQRzEsxTCwBp2WKaUtt0ENdlUy7jbjwI1rohoYvMrxB+YWFFkeHHR2S0udFjXz+HnnGqEnK6aEOr8Hv9B4Kn2+La3cGTPHhmOcD9tmC9aJIJ3ZNW4CxKGepOayvalvQ1QM1QmIEpNCBpYYkm0vbZsvotH2IB1YMxUHZs86bsznJ7XLY8hFRtftSz1AioJx+xNO/3phPC2LrZclfmKSKlhXJio+BiMLKMPgMGzg3FEFGIPSvnIt99oYIe48+/YTXAEs2jeQBeI2LreSPLYD557aQbeFqhvTFQfhiyLhJBKTO5kaSbhuSmdqOF1v56xkuu7JnKXkHiScUFKWLbLZ2oYALPHxZufOLdloQxt//zrQNWewq3gdqbhWMqEAJy5wlepNFEaa+2FE3LwDkPCSiAGjpIkvO9HYZKSYo;+80UjXX/wEz0RHSX2dv6qA=="

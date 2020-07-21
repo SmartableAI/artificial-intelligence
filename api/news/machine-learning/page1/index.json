@@ -110,7 +110,7 @@
       "webUrl": "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1372,7 +1372,8 @@
       "topics": [
         "AI",
         "IBM AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Robotics"
       ]
     },
     {

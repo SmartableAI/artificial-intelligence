@@ -5,8 +5,8 @@ excerpt: "Jul 20, 2020 (Market Insight Reports) -- Selbyville, Delaware Accordin
 publishedDateTime: 2020-07-20T17:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

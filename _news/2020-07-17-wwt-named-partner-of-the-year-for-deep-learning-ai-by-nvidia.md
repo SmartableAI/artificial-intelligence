@@ -1,12 +1,12 @@
 ---
 category: news
 title: "WWT Named Partner of the Year for Deep Learning AI by NVIDIA"
-excerpt: "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the"
-publishedDateTime: 2020-07-17T13:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
+excerpt: "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ..."
+publishedDateTime: 2020-07-17T14:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200717005015/en/"
 type: article
-quality: 56
-heat: 66
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - Machine Learning
 
 images:
   - url: "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg"
@@ -35,6 +34,6 @@ related:
       domain: businesswire.com
     quality: 17
 
-secured: "/yvxUOsXFkdV6ZFETsUVD2RNlTWetNycxIR6kpetZBh3YX06zJm2o28v+AD3oQVfXpUPgN1xRSCMVEI2qH//79MSuJ5/IoFC7u/Ml6T+UZMi+Vk2tZBnKkpWF/F3lZPsJIZd1TzO+EZc1Rpg9Uw25SqovJy1Ey47LSzaQVEEMmmMPS53raIOYJjx4cbrC7w+0e1kZVXvL0B8aLL5eT/HTgOzqNJ5EufCxodl8JdOjDOhkYTa9D9Vh4wULsbfFYFZRI/1uaWt8wx/hFAJU9mAeJUZPEdv2z+3DoB6ZHNHCCZAidweekWV2GgN+G1bFawgEEioAkSKhBXAByI1ir7o4cKpBniEUKl5pDFyIg7R4Fiew7aedYTQdNKheQHXUHZcnAg1ASBGVLOiGFqLtv3wfJGu3sELaxQ37lL20W1fEZ6oVBD31HBoLKWh65WVYqUMKb6nFA52r+z0TXOpwtE4Z5PhDJ4K0/GFb3d8oFqnWaaFNELjs3FlWsuV+ofd4RdIpga+f5rflb7mTMl60F53tA==;RvDd4AUndmSMOXQNwzla0Q=="
+secured: "c2VgUYPk8QdLsoFJpPUJf+nvW5/I9CdWPqmysLLN2nkm2K61EkQPjU/PXtJm5yeQ3CiHhgfg7+4R2uRB1AgiHiIHv2xp6r5rRh+1EzTuornig/2wNkd9EOsbdfWdpos98RHivdaEitc3xGlvp2L3/sirCeb2ou0CcKynW6bs18gQllYj4vlUbYVzjC5/HpZx1nGImxqLqYerrKaWQJjrZGN2wjVLg/UHxIWblQWW3TBbNV3/kbZXyAKzYPDgr9/W2g6GGxBRu5i87WmVHQ4qpZNK2TbEJVWPLIGSdJz1fCrTiCcCC4zGRYsa5/wZhiEodR9/38HtlunJZgY0s4Jyhg==;W5J3VxtfIoVqkwzHNGRTGQ=="
 ---
 
