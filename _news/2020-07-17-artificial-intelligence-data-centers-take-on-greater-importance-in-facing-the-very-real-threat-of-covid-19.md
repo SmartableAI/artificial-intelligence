@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 793
         isCached: true
+  - title: "Leading the Intelligence Community After 2020’s Upheavals"
+    excerpt: "The IC must be a leader in the application of game-changing technologies like artificial intelligence and quantum computing, but it must partner closely with private sector innovators to get there. Fourth, ensure opportunities for underrepresented groups."
+    publishedDateTime: 2020-07-21T16:56:00Z
+    webUrl: "https://www.govexec.com/management/2020/07/leading-intelligence-community-after-2020s-upheavals/167030/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 22
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2020/07/20/shutterstock_765005305/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "R0wYy+mHjyrydKRGLdw/BfRCoYQTH3ExLda1rTsOPpy8P9/8akEjeDm5oHlkDxLc3mvAX2PXv/p48OWKQGKWEqi/vwl3CiUDOd9VeEXM9t6WyL6zYohktvHMN6wVl16EZ8BWtqjp4qnEmE9bWCBx5PVv0QdD52gzlNtdavZ02rjZXFtYRCQ4dcrz6Et0/MDwR8BDrYuVGQZWGhgHHBatz1tqYQNkwDL1T9Jm4RT/X7x1ZzI11cvmJhkVypM+UZB3MEfRq1x8xRHSUGFJp6068EUFGrooy6NnNhZQ+YSQSNMN9r9yGbr3sL80DfXN+bYzhoYxGRUuva9+KnRNF6PchWvk1l6DlAHhDsYKI21WSPawkpX7SYgoK6ub56Cr6FucZhf/p/79fDDlj7gzxsITxQiNISRkOF+89fDp7owYS5ttB4YHYQjeTTLuXompVbiiX88hoUIFmiZi3oHErS0Olr0AVNpndfVAbuKeJ8UBwn88wzKElhxLuMSKUll//yweR01qHs5/ulGEuCDy3qqNxg==;Boyb5gI1eGVYFuek4hzaDw=="
 ---

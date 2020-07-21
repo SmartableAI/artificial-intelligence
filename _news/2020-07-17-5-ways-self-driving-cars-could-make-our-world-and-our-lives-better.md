@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driv
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/17/5-ways-self-driving-cars-could-make-our-world-and-our-lives-better/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "This Formula E Champ's Brain Waves Could Change Self-Driving Cars"
+    excerpt: "Self-driving cars have made great strides over the years, but the algorithms that compose their brains still sometimes struggle to make the right decisions under dangerous conditions, like slick asphalt right after a rainstorm. So who better to train the ..."
+    publishedDateTime: 2020-07-21T15:49:00Z
+    webUrl: "https://www.popularmechanics.com/technology/a33368570/race-car-drivers-brains-improve-self-driving-cars/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/amp33368570/race-car-drivers-brains-improve-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp33368570/race-car-drivers-brains-improve-self-driving-cars/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-07-21-at-9-40-57-am-1595338887.png?crop=1.00xw:0.529xh;0.00160xw,0.0473xh&resize=1200:*"
+        width: 1078
+        height: 541
+        isCached: true
   - title: "Self-driving cars ‘very close’ says Musk"
     excerpt: "Fully autonomous driving without a driver is \"very close\" to become reality according to Elon Musk, founder of Tesla. Musk addressed the World Artificial Conference on Thursday saying he is"
     publishedDateTime: 2020-07-19T15:58:00Z

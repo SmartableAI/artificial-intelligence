@@ -76,20 +76,6 @@ related:
         width: 430
         height: 247
         isCached: true
-  - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
-    excerpt: "These will be jointly offered with IBM's market-leading Maximo Monitor with IBM Watson and advanced analytics ... and MEC capabilities with IBM's expertise in enterprise-grade AI and production automation can provide industrial innovation on a massive ..."
-    publishedDateTime: 2020-07-17T00:01:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20200716ny63809/ibm-and-verizon-business-to-collaborate-on-5g-and-ai-solutions-at-the-enterprise-edge"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
     excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
     publishedDateTime: 2020-07-21T00:49:00Z
@@ -103,20 +89,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/9dddf62e74fd7d48241065b6ee8f32df.jpg?t=20200721_004537"
         width: 752
         height: 408
-        isCached: true
-  - title: "IBM and Verizon team up on 5G IoT tech for industry"
-    excerpt: "They’ll work together to deploy 5G wireless and edge computing infrastructure for IoT and future industry 4.0 deployments, they said. The partnership will combine Verizon’s low latency, 5G-based, multi-access edge computing architecture with its “ThingSpace” IoT platform."
-    publishedDateTime: 2020-07-17T00:01:00Z
-    webUrl: "https://siliconangle.com/2020/07/16/ibm-verizon-team-5g-iot-tech-industry/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/industry-2738423_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "IBM and Verizon Business team up on 5G, edge computing tech"
     excerpt: "IBM and Verizon Business are working together on projects that utilise 5G and edge computing technologies for industrial enterprises under a new collaboration effort."

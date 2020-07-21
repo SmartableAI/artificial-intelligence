@@ -40,6 +40,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Self-driving industry takes to the highway after robotaxi failure"
+    excerpt: "When Sebastian Thrun was starting Google’s self-driving car project in 2009, commercialising the technology was not on anyone’s mind. “We focused on the technology more than anything else, not the go-to-market plan,"
+    publishedDateTime: 2020-07-21T15:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/21/self-driving-autonomous-car-business-shift-focus.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "xhj5qrkNHmiAmVumE4ojcA6ipwCZIq/iXpW9Uovxqxey1IF6paS+rF+vkHnB4AbfsoKViz0fcWylAvDaMeq1yqj99ByhmVO+uniTZnw0JhSrUL5PFILygWtuimitpYjYzr0VbMcCn5hR9F7JGBUQCZVQ6tdMCrPpmTIF6dNO2JUtK6jy+7hyXil32+FAt3BvGX6UVJnL4A5rz0vlOqykmSvmPxt3m1+c+4YMN5xTX908B7nLFCv8edgIDUenRJXHYu89BIQZAqEY4IXtUn9uDe+gsXRxYQXsZW9g1PM1d2O7hqXfqtPf8gCBkWVMRZMSn1cDfRHYzsGMWXFpe/3lVg==;9pdYw2wlyYyj0vI4trDoSQ=="
 ---

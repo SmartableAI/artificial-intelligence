@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 746
         isCached: true
+  - title: "This Formula E Champ's Brain Waves Could Change Self-Driving Cars"
+    excerpt: "Self-driving cars have made great strides over the years, but the algorithms that compose their brains still sometimes struggle to make the right decisions under dangerous conditions, like slick asphalt right after a rainstorm. So who better to train the ..."
+    publishedDateTime: 2020-07-21T15:49:00Z
+    webUrl: "https://www.popularmechanics.com/technology/a33368570/race-car-drivers-brains-improve-self-driving-cars/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/amp33368570/race-car-drivers-brains-improve-self-driving-cars/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp33368570/race-car-drivers-brains-improve-self-driving-cars/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-07-21-at-9-40-57-am-1595338887.png?crop=1.00xw:0.529xh;0.00160xw,0.0473xh&resize=1200:*"
+        width: 1078
+        height: 541
+        isCached: true
 
 secured: "kKAbOWThtAEFuvVJEJn59OaPOEBSx0AaCLSAap3Ix7PzA09H0pudUowOq3LjHtlCyylFkf1EQbjKlU7Po8mw9VHAcJ3gH5lBWiXRtK4hzKeOr9cBQ50/2UgUgkfI8V0su9Dt31u42qMkfUTpnAxV5pnQ9JQIjEcGBaRES6G3yhiLnjiRTLbNGzG1UBgjJmnAMxGgDFd51Ijt8+E5asLfWhctyE6HYk2MOTRg8fsVDrJOdBakmj6UxXBG4/6/ftj4555GbxeOg0pb9WRODuyQzWGAvNGa1kFgFwLhlYlhZA0AX4nzcNJENzN1EoCqLP/FLXhvPewzZhDq+2s0FQ6qB3JMOlCcqqSzcr6kXKGyq+uZ6LdZhafDIxFUBn1V0v97P0ybSEJ9MlxGvLSHkmYSfelEIgfH9wcD79R3nBRwxepGGnouebPVxV/HFaEQXcrgSCC1qLYw9ajbul6/0YHGBwIgDGp4x/PwLoikkyGK/dTeWBLTOl3axRhLc5MvHtdilvjXk8EeMA5rBM+I+MFimg==;Pi6I2mY1amM+6MNt9Av8bA=="
 ---
