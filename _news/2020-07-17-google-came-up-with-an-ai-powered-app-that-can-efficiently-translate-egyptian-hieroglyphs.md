@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what 'LOL' looks like in ancient Egyptian hieroglyphics"
-    excerpt: "A new Google machine learning tool shows that pictogram symbols of yore were pretty similar to emojis of today."
-    publishedDateTime: 2020-07-16T22:51:00Z
-    webUrl: "https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/SiyZiBYppuIEyDDEe5w99KqglmI=/2020/07/16/fcb92e46-e3e2-49c8-a471-03d29f43236f/tomb-of-beni-hassan-macquarie-university-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Google Launches AI Tool that Translates Ancient Egyptian Hieroglyphs"
     excerpt: "The new AI-powered tool from Google decodes ancient Egyptian hieroglyphics, and even lets you translate modern words and emojis into the 5,000-year-old symbols. The tool works by analysing historical records and definitions of the language. It explores the ..."
     publishedDateTime: 2020-07-20T07:12:00Z
@@ -71,6 +55,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/07/20/11/30970914-0-image-a-15_1595241610437.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Google launches online translator that can decipher ancient Egyptian hieroglyphics"
+    excerpt: "But thanks to Google Cloud's AutoML technology and AutoML Vision, these programmes have given developers the technical edge that equips a machine to recognise a vast selection of images. Although its \"Play\" translation option is not as academically ..."
+    publishedDateTime: 2020-07-21T13:48:00Z
+    webUrl: "https://www.ibtimes.co.uk/google-launches-online-translator-that-can-decipher-ancient-egyptian-hieroglyphics-1680963"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 18
+    images:
+      - url: "https://d.ibtimes.co.uk/en/full/1580340/ancient-egypt.png"
+        width: 1000
+        height: 349
         isCached: true
 
 secured: "3iq0EZ9LylZm07T1xL7YhrrZ+Ytet2OuqINw+XcCipP+H52L98GpevQgxXtgfmUS/hoHH+RKbnOdbpO1JCk5Qk0hMvn3sMbczWMIMuJUHZziPIX0VLH6INAawZPXL5FMI9ALE4g6J/y479if9v2coUCcJIgbR8m7ERcjoDGF94SsNGEnLISof9kXbs0LByuPVz0mpIZyO5if7rnmqapL+HIlTZfTkPQ0Dm+Wa4JmojeBJo+kBmo6zA43s0lfc0UdbMAiJqpoW+yXzZI5CkZbz93OXD+TbcQuVhCynyQ4qVVP5Qwe2C9jaTm+std83v6lc7rp1WTrDbjpXLdjNEJBHDSFnVu4qgGQk5u/vD6ZjjXwVZcjodPOdC4p7SzwdW1nOtzBgOViJuMTndVVZ9HZydXyMfmgj1qQlupEhP7ACuZNExO9susf0KnwTxLvWoIxmAhcTElrL7MUuvgbWBCtVCqAHXwxaFxEbAHiARMJ3YvAO23V4dcg96ytrp2ZOfv53T9JwLa59mW1+Zz8Su4Crg==;d1PcfPKE3fnx6r5v+1d+gQ=="

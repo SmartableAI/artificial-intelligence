@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-29-the-3-weeks-that-changed-everything.md",
+      "title": "The 3 Weeks That Changed Everything",
+      "excerpt": "Imagine if the National Transportation Safety Board investigated America’s response to the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/politics/archive/2020/06/how-white-house-coronavirus-response-went-wrong/613591/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/c7zPQiFShImvsFvzoeKHqUhwbLA=/570x321/filters:format(png)/media/img/mt/2020/06/Atlantic_NTSB_v2/original.png",
+          "width": 570,
+          "height": 321,
+          "title": "The 3 Weeks That Changed Everything",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.theatlantic.com/amp/article/613591/",
+      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/613591/",
+      "publishedDateTime": "2020-06-29T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-machines-that-can-understand-human-speech-the-conversational-pattern-of-ai.md",
       "title": "Machines That Can Understand Human Speech: The Conversational Pattern Of AI",
       "excerpt": "Conversation and human language is a particularly challenging area for computers, since words and communication is not precise. Learn more about the conversational pattern of AI.",

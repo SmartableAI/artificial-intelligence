@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/infoblox-inc-built-a-patent-pending-homograph-attack-detection-model-for-dns-with-amazon-sagemaker/</loc>
+    <lastmod>2020-07-21T08:30:22-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/</loc>
+    <lastmod>2020-07-21T08:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://mashable.com/article/amazon-scout-robot-delivery-vehicles/</loc>
+    <lastmod>2020-07-21T06:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/</loc>
     <lastmod>2020-07-21T06:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -139,6 +157,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businessinsider.com/goldman-sachs-mulling-rollout-of-marcus-ai-assistant-2020-7</loc>
+    <lastmod>2020-07-20T08:27:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/</loc>
     <lastmod>2020-07-20T06:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -219,6 +243,12 @@
   <url>
     <loc>https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon</loc>
     <lastmod>2020-07-20T00:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/</loc>
+    <lastmod>2020-07-20T00:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -463,6 +493,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx</loc>
+    <lastmod>2020-07-17T10:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap-2020-07-16</loc>
     <lastmod>2020-07-17T09:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -477,12 +513,6 @@
   <url>
     <loc>https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests</loc>
     <lastmod>2020-07-17T07:55:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx?source=eptyholnk0000202&amp;yptr=yahoo&amp;bcmt=1</loc>
-    <lastmod>2020-07-17T06:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -759,6 +789,12 @@
   <url>
     <loc>https://theenterpriseleader.com/2020/07/15/direxion-daily-robotics-artificial-intelligence-automation-index-bull-3x-shares-nysearcaubot-shares-up-5.html</loc>
     <lastmod>2020-07-15T21:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://itwire.com/market/fintech-the-payment-app-launches-new-payment-platform.html</loc>
+    <lastmod>2020-07-15T19:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1117,14 +1153,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568</loc>
+    <lastmod>2020-07-14T21:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla</loc>
-    <lastmod>2020-07-14T21:00:00-07:00</lastmod>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1519,6 +1555,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
+    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1587,12 +1629,6 @@
   <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
-    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

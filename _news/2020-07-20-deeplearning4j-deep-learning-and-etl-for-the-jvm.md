@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learni
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Harness the Power of AI and Machine Learning"
-    excerpt: "Download this resource to learn how you can harness the power of AI and machine learning to turn surplus into valuable business insights."
-    publishedDateTime: 2020-07-16T22:35:00Z
-    webUrl: "https://fcw.com/whitepapers/2020/06/snowflake-harness-the-power-of-ai-and-machine-learning-061520.aspx?tc=page0"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 54
-    images:
-      - url: "https://fcw.com/~/media/GIG/FCW/FCWlogo.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "dnHSTzJWt8BgVVh411/SEgR8ur9tEfa0NBOJg8nWtwAqhpecn2t469KlO+NkE7oz/hZmzgBrSWhgjdEtjl6WT6a4m6ip2tQRzEsxTCwBp2WKaUtt0ENdlUy7jbjwI1rohoYvMrxB+YWFFkeHHR2S0udFjXz+HnnGqEnK6aEOr8Hv9B4Kn2+La3cGTPHhmOcD9tmC9aJIJ3ZNW4CxKGepOayvalvQ1QM1QmIEpNCBpYYkm0vbZsvotH2IB1YMxUHZs86bsznJ7XLY8hFRtftSz1AioJx+xNO/3phPC2LrZclfmKSKlhXJio+BiMLKMPgMGzg3FEFGIPSvnIt99oYIe48+/YTXAEs2jeQBeI2LreSPLYD557aQbeFqhvTFQfhiyLhJBKTO5kaSbhuSmdqOF1v56xkuu7JnKXkHiScUFKWLbLZ2oYALPHxZufOLdloQxt//zrQNWewq3gdqbhWMqEAJy5wlepNFEaa+2FE3LwDkPCSiAGjpIkvO9HYZKSYo;+80UjXX/wEz0RHSX2dv6qA=="

@@ -5,7 +5,7 @@ excerpt: "The MarketWatch News Department was not involved in the creation of th
 publishedDateTime: 2020-07-21T12:32:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-food-beverages-market-key-facts-dynamics-segments-and-forecast-predictions-presented-until-2025-2020-07-21"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

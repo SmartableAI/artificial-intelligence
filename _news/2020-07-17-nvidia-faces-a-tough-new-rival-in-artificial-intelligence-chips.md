@@ -1,14 +1,14 @@
 ---
 category: news
 title: "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips"
-excerpt: "British chip designer Graphcore recently unveiled the Colossus MK2, also known as the GC200 IPU (Intelligence Processing Unit), which it calls the world's most complex chip for AI applications. The chip offers eight times the performance of its ..."
-publishedDateTime: 2020-07-17T13:27:00Z
-webUrl: "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx?source=eptyholnk0000202&yptr=yahoo&bcmt=1"
+excerpt: "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU."
+publishedDateTime: 2020-07-17T17:15:00Z
+webUrl: "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -28,6 +29,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ie1JUyoS6iuNYBRg5yCOqBnoW8zi588grQ2MB35PbVh/bTGDdzXUONKtKkWA4IBLpH6tI4wWVtxS4l/S6Y8royKZLbUMCM0e2dZgtxxH6pmEKCoOahPoCMe5As4c93w5qMjhBLFRtoxKk6IY2/V7ydgfHmwDzyKapVBWV5rDbJ8bgQ2enzD9CFG6Ujilohz7nSgV80I3f6rsxlQ86aVv32zshkDtFURVfaPcjVXv1B9h7ZSNEHaS85SEzwcpM7Y6nPuFXGpFdkd8+HpHBMGvaj1skzt4pJWk2HVJlaemnx0CAd4KUdqPxqU2MOEySAC9s4QMQVDnU8zq9+t/tO0gxQ==;U6Wwxeuxc+G6ggPxzFxIyA=="
+secured: "2rc8LtCKpfoHe9FQRVg6j/VoiZVGLg4NpGaWDzHNA5A5YSEUyrF2rU5l8rSImh7RJSM6j1HzMoclM+fXHOpeOJBYhMbB+UU14z+qIJW6spaOeHfiXYlll83CqiigtlrhpAHcLogs5WojcZObH+NH7IcXAu3/2HiNWH6H9hK6dStlfAJJoJrWZoYdMtwXMplBx1x8jP6dmU9sc5TUsiv+/Y/MY18jKp1XXZ9wnwNKuJP85OVeNkt/DLVAea0Ls+bAdJ5PftLRgpN5QtWHTDxiPE1ce8vc0+D3ykMJvZyLQcs8NrzbLkkwyR2krMN0zyVTD+51MY0d5YkUc3dxAcGkdg==;K85lhwaspQtEi7LgVqoRCg=="
 ---
 

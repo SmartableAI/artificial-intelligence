@@ -104,7 +104,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

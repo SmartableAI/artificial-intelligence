@@ -70,17 +70,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Her quest: How will self-driving cars affect everyday traffic?"
-    excerpt: "With self-driving cars poised to take their place on the nation’s roadways, a University of Massachusetts Lowell researcher is helping forecast just what their arrival might mean for everyday traffic. Danjue Chen, an assistant professor of civil and ..."
-    publishedDateTime: 2020-07-16T21:36:00Z
-    webUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/07/16/metro/her-quest-how-will-self-driving-cars-affect-everyday-traffic/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 24
   - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
     excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
     publishedDateTime: 2020-07-17T13:08:00Z

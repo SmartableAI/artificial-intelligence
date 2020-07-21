@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Harness the Power of AI and Machine Learning"
-    excerpt: "Download this resource to learn how you can harness the power of AI and machine learning to turn surplus into valuable business insights."
-    publishedDateTime: 2020-07-16T22:35:00Z
-    webUrl: "https://fcw.com/whitepapers/2020/06/snowflake-harness-the-power-of-ai-and-machine-learning-061520.aspx?tc=page0"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 54
-    images:
-      - url: "https://fcw.com/~/media/GIG/FCW/FCWlogo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2bIrMvVS8A8ynI5JRwsXNb9jcTi8X9lkMrYBfWhsXpGnh5cAtOwOdozQGXe6plF4TrDxu/roWAWcfCkn9jAEMY9Pdbu5tzLrednQvMkc0zKQgRziBuqUm+NUNakxEw2roJCe5X0eIfXtdeFGaObzsL9J3n+0tZzy26V4OE1Arxrv6iaaFZKkPZ4Gm762fRffWnetIsN63O9947ODCuR15j+xzzFVaWLDtXNXIApBlQV/TvOiFjmOWsK4YjUaPC+OPjD4waKLtvB/kYjVnzRcMkJM6xPmVNcwdz7WxVfOu8ZaOGCDrk6IJ/o6AO+FIQnhYd/XNuA3UIPyEfnhAWuoCQVG9wOj+FeynwEkuF6WzTRwHB4QWAE2TY2K8lq76rRSbS3Qa6OYbkV6zpi+4+CnAtNjJeZk484gffkC83NMukaNgt0/Esz4Q/bmyN2SBaiyQI5H71SIMsS1S46FMdb8kT/+6fbJGtQZTIh4UcN6cyEq4/Ez9D5WtJp7BLu9j//fCFqfmTSXovz1P63b0HeG0A==;0T73SVOrJCH6kYYr6c5A9Q=="
 ---

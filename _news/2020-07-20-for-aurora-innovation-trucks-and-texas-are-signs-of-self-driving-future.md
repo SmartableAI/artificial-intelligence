@@ -56,6 +56,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "In An Industry First, Plus.AI To Submit Their Self-Driving Trucks To Independent Testing"
+    excerpt: "Self-driving truck developer Plus.ai announced today they have finalized an agreement with the Transportation Research Center to conduct rigorous independent testing of their Automated Driving System in realistic conditions."
+    publishedDateTime: 2020-07-21T13:55:00Z
+    webUrl: "https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 60
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f16eba8345feb000791c18f%2F0x0.jpg"
+        width: 1200
+        height: 703
+        isCached: true
   - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
     excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
     publishedDateTime: 2020-07-18T13:15:00Z

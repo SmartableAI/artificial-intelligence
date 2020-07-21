@@ -1,22 +1,28 @@
 ---
 category: news
 title: "INFICON to Provide Computer Vision Location Tracking System for the Semiconductor Industry with NextMove VTS"
-excerpt: "VisAbility’s vision tracking system complements the functionality provided by INFICON’s operations management software, including NextMove VTS™ and Factory Scheduler™, to bring accurate and automatic real time WIP location tracking to electronics ..."
-publishedDateTime: 2020-07-21T13:51:00Z
-webUrl: "https://www.oaoa.com/news/business/inficon-to-provide-computer-vision-location-tracking-system-for-the-semiconductor-industry-with-nextmove-vts/article_645f56ea-1ec1-5e23-85b3-1a9b2518e0c5.html"
+excerpt: "About VisAbility Solutions VisAbility Solutions is a leading provider of cutting-edge computer vision software to enhance productivity in many markets. We set to develop a unique approach for tracking assets using a traditional label that has been in use ..."
+publishedDateTime: 2020-07-21T13:28:00Z
+webUrl: "https://www.businesswire.com/news/home/20200721005590/en/"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "+Chf4Ii5/ew89KhjfQjMIl4XYi7t2JcbbHWLCyGwjQHmqEUenXjJgLZWLHwEBJ5NaZvRrBpLu1IRKIQO5PFVQaiYI5DeRVJyew0LNBNqHLgNu5hmjGW8V3Dhn3kS4/03DWfUeExd9JsYOtEs6JJAve8ie0dcAjN7EEhG68HRqEcwGjZlmjsGNWbU9pczROi/4h3F4OgZnosN3JPjWD2x/ERs6vnUw96cZlKsMwScJleMahd8Dx4DCoitn6O/z9Jtotir0RL6vyDh65w9M81ab4g/5lgi7DG6/dhclvsvfeJH5/IaGpt+HBdMt648mPU2nXoHpPRUNPKkLwJOkt3f8Q==;aBTp8pEaxur9ij5YfNRF7A=="
+images:
+  - url: "https://mms.businesswire.com/media/20200721005590/en/46994/23/INF_Logo_2-C.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "w1hW1CFv+MwLyDw/jkW0cr2IxBic/e3YS+UxHS7D52Uwu6dUm6PIs368ahget4tT2VwEXaNJR8REvB5T2WfgCIU7YmGdqGssYeYStLN6ZuQ5s9Abw8htDlpYgcM1w3/7WvDpGYmTFYt9gfoqOWr7BSiR5P+Cw+b8fufCRp/bcGJwaOeitxc5Vo5srt3F6l6sOy5MdNZSADrr8LkckgDEP7fvkywD3EWMdHcOugBgTWiyUjmyvoAAHaTn6NUTQxEAdhLb+mDOaVZTDmrdE39HH1w6JLiDh0zMmarsb/w6Ir6SlWjfE5cmw9JlcB5a9XOpbZFfqZv5R3YbXExtezIl6w==;nsTXf9fbOcypurGr3pXEtQ=="
 ---
 
