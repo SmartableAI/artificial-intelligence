@@ -114,6 +114,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
+    excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
+    publishedDateTime: 2020-07-21T00:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/17625-ibm-verizon-business-to-collaborate-on-5g-ai-and-edge-computing-solutions-for-industry-4-0"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 28
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/9dddf62e74fd7d48241065b6ee8f32df.jpg?t=20200721_004537"
+        width: 752
+        height: 408
+        isCached: true
   - title: "IBM and Verizon team up on 5G IoT tech for industry"
     excerpt: "They’ll work together to deploy 5G wireless and edge computing infrastructure for IoT and future industry 4.0 deployments, they said. The partnership will combine Verizon’s low latency, 5G-based, multi-access edge computing architecture with its “ThingSpace” IoT platform."
     publishedDateTime: 2020-07-17T00:01:00Z

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Self-Driving Car Market – COVID-19 Impact Analysis, Business Profiles and Forecast 2020 to 2024"
-excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car ..."
-publishedDateTime: 2020-07-20T07:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20?mod=mw_quote_news"
+excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+publishedDateTime: 2020-07-20T06:50:00Z
+webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20"
 type: article
 quality: 42
 heat: 42
@@ -42,21 +42,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face biometrics forecast to surpass $15B by 2027 as verticals and applications expand"
-    excerpt: "The global biometrics market will grow by $18.1 billion from 2020 to 2024, a CAGR of 10 percent, on increasing demand for surveillance and security applications and government initiatives, a"
-    publishedDateTime: 2020-07-20T22:31:00Z
-    webUrl: "https://www.biometricupdate.com/202007/face-biometrics-forecast-to-surpass-15b-by-2027-as-verticals-and-applications-expand"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/30135857/SnapPay-biometric-facial-recognition-payment-technology.png"
-        width: 1108
-        height: 701
-        isCached: true
 
-secured: "sK/avOR7PSbGZFSAf3z/j/EQfi476DC/HZRBSbYheb1ic1lny8Q/0jJ/7qncIxmoFo0/4p/kJIPaaTgMxzhiWwEzUuBuUn5s76FjC81oS72bA6mPMNiVlEsZMkvU/a6qFppcPaOwFmIqruO8MFgCt+CP70vl2xrXEIgrCE7x0fxl0Jq3cEPXodf7icmHMWKJ4uOdti0l4B2MFBOsuP3jseqv5un6pMX/ZrOLv2jNVXMMVrtykIH8psBGd8AFElI6Je0faIVdV9kE0i6MXy5GCXh8OTOfrlsdm8DlKfORdcxE8PtQ2GXagRPOqK7r3YvUGx9dMG+tFTpWFRVjsNJYnw==;SHyEXIHvwi1cx0radPQ+gg=="
+secured: "Qq8yyLH0eIHO8jmX4hZDCU5M8Eqf6On12Y2yK+iZHmq3F7n2gLSsUu1Er8Znt2mvNxdsVwChaBg6vPDhRBKKn8nuAYeAFrhPNONvFhZCPhghJSAnEaPSgCfOtzmFz4QCnqJyoVLQj2cSCo/c5I+9oXf1i/4IZ4rc+qoOMZKntkDG7Bhnw1J8tQ2DxuTeociNozifuDe+bTAsEeyoYLvBNeg8E3fcIuloY1PAc6nfr2mDedkIGRw2ljdi7CYGHRB/KowVFlLZDPWWyg/zHoEiG2zJSGGZYGW9HYamuDm3CgFvVyS+FhU00AIlQor2XhV3scFqCJK2z9d8jS0KBZMAnw==;uMj3ulDm/BzFVB/UKyVJYw=="
 ---
 

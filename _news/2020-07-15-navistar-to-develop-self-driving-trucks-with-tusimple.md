@@ -2,8 +2,8 @@
 category: news
 title: "Navistar to develop self-driving trucks with TuSimple"
 excerpt: "Truck maker Navistar International Corp has bought a minority stake in TuSimple and aims to co-develop self-driving trucks by 2024 with the technology company as it rolls out a national U.S. autonomous freight network,"
-publishedDateTime: 2020-07-15T18:38:00Z
-webUrl: "https://www.reuters.com/article/us-navistar-intl-tusimple-idUSKCN24G1L0"
+publishedDateTime: 2020-07-15T12:04:00Z
+webUrl: "https://www.reuters.com/article/navistar-intl-tusimple-idUSL2N2EL14O"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24G1L0"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24G1L0"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 545
     isCached: true
 
-secured: "V7aPsow1beQemUrKuHH89XDlOUDrwfsMKnsZ0e3s6L32AGanLBqBrYljicPL/tDOXCiPqsnbNVr5jxYwRv5ZqdwN35QzgpNXY/UKHShuWI2w0YLCvVWx4ZUdMzv4XhpE8eaaAnYTvfI37PAWgKqzuPycI/LbFhC18peELVqM4G59NcKqIVAB0DTOxjL3/LeCNDfN18cuXTG7vYN6iDMszABVi5lWzIdeG2ps4Jc4SrCn4erSULBrAeii+WCjTc7Y/GBPx70Mews7tCeDbZ7fS1UQEfqMb4DNRf272MRu2aj4nkD0Rvswn+F7GlG8TUpcPdgdaBPyRq+7t8M/moeSsQ==;/89irFCHr3VnxSUV/cwIaw=="
+secured: "t2oS/u9C/Iannw8eWXv9idR9u2HyOB7dtknL0ALFWYfa/ypnX9C6euU2+qLezzVapRr5LsFO/O8p/lzcQV0BYFZb3XF7TUz6KMGKgi5YMvmaObnI+dkaCc0Nvy/KWxjpEc08CbhflpzfTA7j4D0zE0qQVBI7gjvbB78iLZ5KTonBoO5XnXNNPWYZPrZICicuur3tMJ/Y5YzSgSqK2IuuxRktzPCBC0NrNm7KGD8lGxR6SdMDVi0W2EmrICHVjkVInLt+TXL3l7sgTmU6lolYhAqx8zWLXJ1QC6BabHboukZD3yvlfh2wtFQvj5PWmfhb1KGDcezHasEFxsPlee2Q3g==;ZSmmRJZt5U9RIscfqMJD4w=="
 ---
 

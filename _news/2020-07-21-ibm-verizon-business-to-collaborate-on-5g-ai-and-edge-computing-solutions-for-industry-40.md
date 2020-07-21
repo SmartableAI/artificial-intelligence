@@ -1,26 +1,26 @@
 ---
 category: news
-title: "IBM and Verizon Business team up on 5G, edge computing tech"
-excerpt: "IBM and Verizon Business are working together on projects that utilise 5G and edge computing technologies for industrial enterprises under a new collaboration effort."
-publishedDateTime: 2020-07-19T11:19:00Z
-webUrl: "https://www.arnnet.com.au/article/681427/ibm-verizon-business-team-up-5g-edge-computing-tech/"
+title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
+excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
+publishedDateTime: 2020-07-21T00:49:00Z
+webUrl: "https://www.thefastmode.com/technology-solutions/17625-ibm-verizon-business-to-collaborate-on-5g-ai-and-edge-computing-solutions-for-industry-4-0"
 type: article
-quality: 24
+quality: 28
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Deep
+  domain: thefastmode.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_dreamstime_2.jpg"
-    width: 740
-    height: 462
+  - url: "https://www.thefastmode.com/media/k2/items/src/9dddf62e74fd7d48241065b6ee8f32df.jpg?t=20200721_004537"
+    width: 752
+    height: 408
     isCached: true
 
 related:
@@ -128,20 +128,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
-    excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
-    publishedDateTime: 2020-07-21T00:49:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/17625-ibm-verizon-business-to-collaborate-on-5g-ai-and-edge-computing-solutions-for-industry-4-0"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 28
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/9dddf62e74fd7d48241065b6ee8f32df.jpg?t=20200721_004537"
-        width: 752
-        height: 408
-        isCached: true
   - title: "IBM and Verizon team up on 5G IoT tech for industry"
     excerpt: "They’ll work together to deploy 5G wireless and edge computing infrastructure for IoT and future industry 4.0 deployments, they said. The partnership will combine Verizon’s low latency, 5G-based, multi-access edge computing architecture with its “ThingSpace” IoT platform."
     publishedDateTime: 2020-07-17T00:01:00Z
@@ -155,6 +141,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/industry-2738423_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "IBM and Verizon Business team up on 5G, edge computing tech"
+    excerpt: "IBM and Verizon Business are working together on projects that utilise 5G and edge computing technologies for industrial enterprises under a new collaboration effort."
+    publishedDateTime: 2020-07-19T11:19:00Z
+    webUrl: "https://www.arnnet.com.au/article/681427/ibm-verizon-business-team-up-5g-edge-computing-tech/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/ibm_dreamstime_2.jpg"
+        width: 740
+        height: 462
         isCached: true
   - title: "IBM, Verizon collaborate on 5G and AI edge solutions"
     excerpt: "The new partnership will focus on enabling the industrial sector to improve operations, optimize production quality and enhance worker safety via 5G-enabled IoT technologies."
@@ -193,6 +193,6 @@ related:
       domain: telecompetitor.com
     quality: 4
 
-secured: "jY5kBI0FByD7L2yIZ62ujqN7Nlag6bUBWKThazjXrkgLPFccaAvskOLvSYloOFmM1b6XxP5Lc4TvhEptsgc55g8nZ2nfEL72m0VTqu2B9mP8I6Zpwpj3fPisXyqL3Fi0zOwugfzctRc1BQmwPElf6h5ihUYMzjnLw/OKlR9nGbfH5ms6WKHJEOZ68C9+WN5xFEQ8h5UOEN8Ow0N9QaZ/a/bTK9CybQ3+ykw0UIPTA8/vzOTAo7WMYDTGEhAYcN/vE8F1uVQ5E3f7BLNBnFvVSvmW0s+GbZ5oZoq7cYJ8PqtwJoLqC/zzo5NWh0Vg6Dy1Ew/zbsqaeTPWKs1cPY7EFkvLgwPNy7vxxIg3NXwK/Xy55CPtrGf1Ei7/jPeiAwYL8IhKsj6ZznLalgdH5eRMy0TyftozMG1eUJj5B+svtRhmLJ4QTCSk3/uKLvRwnGP+Mr5O4C6SC+MhYockgKhZgaJlIYZbYbamqffMURZ2nkeF4QGsM8sJ+v6nnJ2LikHLcO7otLZWOQKEwdL5SidxFg==;1dOV6CVOCD0PO+5Mgyj/wA=="
+secured: "DzJuu6hsTDFdODtsrnKg/xkKn2IKQVL9ViVpgHeV/JRYVXHJk1yGFT6wmJ0ihkOUu00E5JvFFrJ5IMlDbreC/5DNTjRJRS1yzlKaWKHBqLDCdF/UOksL+6LTNSr/rvg0mUh86M248U0Irr2cjXPJRgQBhWC0OgZpuR4diIRDLve9FpgY1P2iixHY5Elm7RGEIUXIgYGynRTgJzS+WBa7U7FVcubGuJbhR7IfZJY5OvGMHWy5USRVbaj8D/pm6CqkJQ5Sakmr2jH3JDAHbFyIoEAZTqY4XZi7UaZaGv1BOtd0JbvG/bAZlNYautj39+O1+cGPWCNCYNqOVCKlDjxRsw==;lmOK7MSKRmlYWRF/YsUYsw=="
 ---
 
