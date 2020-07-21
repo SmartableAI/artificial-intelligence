@@ -42,17 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP"
-    excerpt: "Major growth factors for the market include customer’s demand for a personalized experience, increasing the need for inventory management and the growing influence of social media in the fashion industry."
-    publishedDateTime: 2020-07-16T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16657125/ai-in-fashion-market-growing-at-a-cagr-40-8-key-player-microsoft-ibm-google-aws-sap"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16657125"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16657125"
+  - title: "Artificial Intelligence in Drug Discovery Market Next Big Thing | Major Giants- IBM, Microsoft, Google, Atomwise"
+    excerpt: "A new research document is added in HTF MI database of 200 pages titled as Global Artificial Intelligence in Drug Discovery Market Size study by Component Software Services by Technology Machine Learning Deep Learning Others by Application Immuno Oncology Neurodegenerative"
+    publishedDateTime: 2020-07-17T16:55:00Z
+    webUrl: "https://www.openpr.com/news/2092581/artificial-intelligence-in-drug-discovery-market-next-big-thing"
+    ampWebUrl: "https://www.openpr.com/amp/2092581/artificial-intelligence-in-drug-discovery-market-next-big-thing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092581/artificial-intelligence-in-drug-discovery-market-next-big-thing"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: openpr.com
+      domain: openpr.com
+    quality: 36
+    images:
+      - url: "https://cdn.openpr.com/T/7/T717244058_g.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "wA7k8INZCB6FBUpbl/DhaGIYMyTvCOyAuq1d7PYI1fvlslXc96IIDdCEIxDyDlZPV3XeNFs36ZNMYJVZubSLh1drqPpO1EsUvBm76cQSsH8NnLpo8im3Ji8KRSnA4wyX4zQ9TAdDEByUtHocVVCtZ0d4yEvv4iZDPtPvAYroARYQi+ofQxUrbodUzMc4kzzHaOp03Ic5hZQxotVum5+fIzVnHH9jZG48GHMQjGDxmF10xlVjmfqjLtKO6LbFuSwAowDQPgmd44mtIe2Pv9e3JgDQpwEJer3koC6EsIzChOTHvViyQh1cqOmHMd44pmRsnW4evF56w9IIjMqJ5OVnOQ==;F4E9Eot3nZltrNZWFNah/A=="
 ---

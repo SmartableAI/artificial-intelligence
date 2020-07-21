@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning 2020 Global Market to Reach US$ 12.3 Bn And Growing At CAGR Of 22.4 % By 2026"
-    excerpt: "Machine Learning Market” WiseGuyReports.com Publish A New Market Research Report on –\" Machine Learning 2020 Global Market to Reach US$ 12.3 Bn And Growing"
-    publishedDateTime: 2020-07-16T17:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16656425/machine-learning-2020-global-market-to-reach-us-12-3-bn-and-growing-at-cagr-of-22-4-by-2026"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16656425"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16656425"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.abnewswire.com/uploads/1594886914.jpeg"
-        width: 278
-        height: 333
-        isCached: true
 
 secured: "Grkzev71G2jM81xv7xzeUw6f/ZFfqm0ux73/PW0cdHtZ5cbTGLDZOR48UCX+Hqs317me6o5M6TCC5nmVi4C4Q+sqWmIifz5DQxr1c5dOpB2KiK49WYp1autrLSLOOYzU2tcDAwq2x5snPfPe7deLXDsHOUO1PzTQcN0LNw8npMLKeDYL0RXcl4PE+aAICKgTSsfXj3Rp7xm3V622f552Qv6VMAds3G2iUyqdlNyUFzGyLElPt1NUiUuq4l4ApG09qEzkAXOIUIwRidbybXqpRjyZChPQF1yxIVKD9fVoJzd+L7dTWnLB+3vmBscVtEcgmFOuAwYS6aH7fJHOqiIX+g==;/aBuw/oOz8LBsjPFcHR6tA=="
 ---

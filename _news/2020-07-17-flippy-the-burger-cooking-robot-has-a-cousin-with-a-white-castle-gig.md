@@ -8,8 +8,8 @@ ampWebUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be
 cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Pasadena Star-News
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "White Castle is testing a burger-grilling robot named Flippy"
-    excerpt: "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ..."
-    publishedDateTime: 2020-07-16T16:03:00Z
-    webUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.html"
-    ampWebUrl: "https://www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
-    cdnAmpWebUrl: "https://www-wsmv-com.cdn.ampproject.org/c/s/www.wsmv.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_f6b9f889-7774-58b6-acc2-1ba4d0463481.amp.html"
-    type: article
-    provider:
-      name: WSMV
-      domain: wsmv.com
-    quality: 59
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wsmv.com/content/tncms/assets/v3/editorial/2/aa/2aa4ca08-648c-530f-a824-3d5c1a507c5d/5f120708e7951.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "White Castle is testing a burger-grilling robot named Flippy"
     excerpt: "(CNN) -- White Castle is introducing a burger-grilling robot — and it might flip the entire restaurant ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger, was tested at Pasadena-based CaliBurger in ..."
     publishedDateTime: 2020-07-17T20:43:00Z

@@ -5,7 +5,7 @@ excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will s
 publishedDateTime: 2020-07-21T07:15:00Z
 webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
 type: article
-quality: 38
+quality: 55
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"

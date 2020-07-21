@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-19T21:42:00Z
 webUrl: "https://www.itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise"
-    excerpt: "A joint effort to help companies harness edge computing and a low latency network with AI capabilities for real-time insights. By combining IBM's proven success in AI, with its AI data analytics tool Watson serving a host of industries, and Verizon's long ..."
-    publishedDateTime: 2020-07-16T17:08:00Z
-    webUrl: "https://www.techrepublic.com/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 77
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2019/06/11/64aa7866-0d0f-4a42-85d5-2ce16849056b/resize/1200x/380a3db2197135cd6c7eaa58bfbe393e/istock-1019082038.jpg"
-        width: 1200
-        height: 755
-        isCached: true
   - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
     excerpt: "“These will be jointly offered with IBM’s market-leading Maximo Monitor with IBM Watson and advanced analytics ... s expertise in enterprise-grade AI and production automation can provide ..."
     publishedDateTime: 2020-07-20T01:54:00Z
@@ -53,6 +37,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
         width: 375
         height: 249
+        isCached: true
+  - title: "Verizon And IBM Will Partner On 5G And AI"
+    excerpt: "Verizon (NYSE:VZ) and IBM (NYSE:IBM) announced on Wednesday an extensive new partnership that would focus on a host of forward-looking technology, including 5G, edge computing, and artificial intelligence (AI)."
+    publishedDateTime: 2020-07-17T09:43:00Z
+    webUrl: "https://www.ibtimes.com/verizon-ibm-will-partner-5g-ai-3012900"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/25/ibm.jpg"
+        width: 594
+        height: 395
         isCached: true
   - title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
     excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
@@ -70,6 +68,15 @@ related:
         width: 430
         height: 247
         isCached: true
+  - title: "FMC Corporation Collaborates with Cyclica to Improve Research Efficiency Using Artificial Intelligence"
+    excerpt: "FMC Corporation has entered into a collaboration with Cyclica Inc, a leading biotechnology company specializing in artificial intelligence and computational biophysics, to accelerate and improve the efficiency of discovering new crop protection chemistry."
+    publishedDateTime: 2020-07-20T01:08:00Z
+    webUrl: "https://www.nasdaq.com/press-release/fmc-corporation-collaborates-with-cyclica-to-improve-research-efficiency-using"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 33
   - title: "IBM and Verizon Business to Collaborate on 5G and AI Solutions at the Enterprise Edge"
     excerpt: "These will be jointly offered with IBM's market-leading Maximo Monitor with IBM Watson and advanced analytics ... and MEC capabilities with IBM's expertise in enterprise-grade AI and production automation can provide industrial innovation on a massive ..."
     publishedDateTime: 2020-07-17T00:01:00Z
@@ -135,15 +142,6 @@ related:
       name: Control Design
       domain: controldesign.com
     quality: 19
-  - title: "Verizon, IBM to Collaborate on 5G Edge Computing"
-    excerpt: "Verizon and IBM have agreed to work together on 5G and edge computing. The collaboration will combine the high speed and low latency of Verizon’s 5G and Multi-access Edge Compute (MEC) capabilities, IoT devices and edge sensors with IBM’s expertise in AI,"
-    publishedDateTime: 2020-07-16T18:23:00Z
-    webUrl: "https://www.telecompetitor.com/verizon-ibm-to-collaborate-on-5g-edge-computing/"
-    type: article
-    provider:
-      name: OTT
-      domain: telecompetitor.com
-    quality: 4
 
 secured: "IesXp4mAUyW/SimubVEELTmchbS9rjx61cnbXwR6ScEq8bLiE+Jmn8rZHVPzRi+RGPi82iJYDl+mQbloy8PqPTltWg09jNBHOTcnULDh2/w44YRti7gTnEv1gxrnlZ7F8lb784mWJqdLz8Am0MIZ+vWty5uVgtQ0I/Oz6KKuR0lXjxcmG0QEJ31F72utoWnFK0/hXqnJJZHQUCtD9jTSANJkrO+InZQ3WsMIBloTw6XKcwJrG8N6yuF00sbC9GevwKGiAa0r51oxqpS2oxKmyyEqo5rDs8SfnaiQ1i66Uii0lfffMUbtbZR3lEfP3xLPHOaa5j3evkDai3uhYL0ymp6vLxRPfSW/M2mM3LwFjHVhRe+TabUTSzQv1dTUvJ+aqmnTvJmOdh3YBKDLNix3VrbtPu/svTpK42jLzsgvJM/Iw5a6NcUMmi4FCxYkkLaFRfGbjZ1dsWOxjVwYjLzPZnxdqm1IB/dTBUvBjPht9HQtz/4wbNyColt3eNybmUNX;ZRvfkjTnUppvFmiQHL2SWA=="
 ---

@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
+    excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
+    publishedDateTime: 2020-07-21T07:15:00Z
+    webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 55
+    images:
+      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
     excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
     publishedDateTime: 2020-07-20T06:46:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
-    excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
-    publishedDateTime: 2020-07-21T07:15:00Z
-    webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 38
-    images:
-      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
-        width: 1024
-        height: 1024
         isCached: true
 
 secured: "RRAHEXxSkFptIn3pPRxvmxsab0nGUFLxBMzphkCJdMQZtpYoGMw5s8//TPOeSOncK7vQQBIu1Fod2v8QQs6N3K86/3QN6MIonhHtsgvcLyWThn50E8E1LI+UAjAlcZmJcT5TB8r5jXL/ZxVhTzzUWrjvVPiwC0mYBrTSVq546BWucxesYchKoCkCY3NBfs+NF8MjLsheISZ5+te4i/drOL3Tw64Ecph8eimvU9x1Ct966wgYEpraYYgYycykkBAi7N1PFYPoKqnBJO4oXabARyB+IWtkWneftrHOMd2zwSwTWWBG+vcrnc+lO6q7ezp+Eg5uP2GEFTIAaDFP25aLuA==;BkPwTHZQNVr2Gw4skmwWPw=="

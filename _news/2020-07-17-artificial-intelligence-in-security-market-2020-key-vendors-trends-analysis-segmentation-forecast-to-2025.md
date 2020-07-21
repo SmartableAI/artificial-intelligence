@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market: Global Industry Analysis, Geographical Segmentation, Drivers, Challenges, Trends Forecasts By 2025"
-    excerpt: "Jul 16, 2020 (CDN Newswire via Comtex) -- This top-notch Artificial Intelligence in Supply Chain market research report has been structured by skillful"
-    publishedDateTime: 2020-07-16T17:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-global-industry-analysis-geographical-segmentation-drivers-challenges-trends-forecasts-by-2025-2020-07-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Pgc+N9n5VuElo0jsyvs48OZDJ+VKrqmvUWt/VgYqhvIgKcyhc4jXisaT6rbYtJwZS4m2YppjqwgSOPCmpVyXJUstSf/YyeUyKUsOdey1RITWj5VDTdb7uMMfULrd4bKUb+TjsSwmAZfsOql+DpkrikmvvV1tyJbQE8992mr5k9eLnY3LYnkkQM+zCvPm6cXl9qdxX4GkNCQmWvaSOrKMaJ5JtR0wbD3wv94Eu7BJOiBW4JfACPbRhDrZrnV5Iz0BohYYsgryD+dFBRU2qVUxudr0wP2dDsp82qK7I2X8gtuGKcCOvEISTFQ+j7J94eMZEqH1XpPrcJlWW+FX3GoGoQ==;+rCqOX8ci2lFDRb/Fga6XA=="
 ---

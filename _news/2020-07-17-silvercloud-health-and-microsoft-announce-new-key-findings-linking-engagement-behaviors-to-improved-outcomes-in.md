@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T16:52:00Z
 webUrl: "https://tylerpaper.com/ap/business/silvercloud-health-and-microsoft-announce-new-key-findings-linking-engagement-behaviors-to-improved-outcomes-in/article_28afb819-df53-54fa-9d98-77e8fae9fa91.html"
 type: article
 quality: 19
-heat: 29
+heat: 19
 published: false
 
 provider:

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-p
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI
 
 related:
+  - title: "Former Ford top executive joins self driving sensor startup WaveSense - reports"
+    excerpt: "Former Ford president of automotive, Joe Hinrichs, has joined the board of directors at WaveSense, a Boston based startup that uses ground penetrating radar to help self driving vehicles better understand and navigate road environments, media reports said."
+    publishedDateTime: 2020-07-21T11:48:00Z
+    webUrl: "https://www.just-auto.com/news/former-ford-top-executive-joins-self-driving-sensor-startup-wavesense-reports_id196776.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 35
+    images:
+      - url: "http://i4.aroq.com/3/2020-07-21-12-34-joehinrichs_skv_7412_cropped_90.jpg"
+        width: 424
+        height: 282
+        isCached: true
   - title: "Former Ford exec Hinrichs joins board of self-driving radar startup"
     excerpt: "More than four months after retiring as Ford's automotive president, Joe Hinrichs has resurfaced on the board of a U.S. company pioneering a unique sensor for autonomous vehicles. Hinrichs, 53, has joined the board of directors at WaveSense,"
     publishedDateTime: 2020-07-20T12:43:00Z

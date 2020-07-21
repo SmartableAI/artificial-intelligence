@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
+    excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
+    publishedDateTime: 2020-07-21T07:15:00Z
+    webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
+    type: article
+    provider:
+      name: mynewsdesk.com
+      domain: mynewsdesk.com
+    quality: 55
+    images:
+      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in ..."
     publishedDateTime: 2020-07-20T14:50:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market is Anticipated to Reach US$ 40.2 Billion by 2026"
-    excerpt: "The ​Global Artificial Intelligence (AI) in Healthcare Market will surpass $ 40.2 billion by 2026, representing an average annual growth rate of 49.7"
-    publishedDateTime: 2020-07-21T07:15:00Z
-    webUrl: "https://www.mynewsdesk.com/us/pressreleases/artificial-intelligence-ai-in-healthcare-market-is-anticipated-to-reach-us$-40-dot-2-billion-by-2026-3022628"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 38
-    images:
-      - url: "https://d9qz450atvita.cloudfront.net/assets/graphics/logos/mynewsdesk-dfa651f50b8d922b50d4a45a7ec1677e9b42e11968483f7b3563cb727540e36e.jpg"
-        width: 1024
-        height: 1024
         isCached: true
 
 secured: "IY86Uvqpy/BSgyLdUI1e2DhmQlPhSJIx4UFEm4jose347HAsVS/3FF7bzKR8oLpItKpUdipVM584D9n21WIgiWqWEp/RPhDjHl95+wFxpdsiaM7vI6ctqBlCZhH4e5IeASA/Q34hPL4S66tWRaD1jEED0yaaUWz2WfflcFO8TiKrzFRV5CJQKEP78ytilRV2M4RcPPE0szxKT1fzhnYzSmYKB+NrS/xGnAWxqOvo7wVhyVOMTYI58eR+V8HslTvWRczf8h/o9wQh2+W7wLyBiMIJSH/kAr9JR8xAfPkZYVx1YKbwLoFqfYIc9JcpTeSMgbUg5VJZr3lxrZH89NdHQw==;lrH5byiJepseSL4BI5+pxg=="

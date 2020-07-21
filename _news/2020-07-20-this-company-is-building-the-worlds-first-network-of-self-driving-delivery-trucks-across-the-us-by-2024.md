@@ -30,17 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "TuSimple starts self-driving truck network with UPS, Berkshire Hathaway's McLane"
-    excerpt: "U.S. technology company TuSimple on Wednesday launched a self-driving freight network with UPS and Berkshire Hathaway Inc supply chain unit McLane that it said should operate nationwide by 2024 and start running some driverless trucks routes by 2021."
-    publishedDateTime: 2020-07-16T16:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tusimple-starts-self-driving-truck-network-with-ups-berkshire-hathaways-mclane-2020-07-01?amp"
+  - title: "New partnership to bring world's first self-driving truck network to North America"
+    excerpt: "TuSimple and Navistar International have entered into a partnership to co-develop a U.S. network of self-driving trucks targeted for production by 2024."
+    publishedDateTime: 2020-07-21T04:21:00Z
+    webUrl: "https://www.freshfruitportal.com/news/2020/07/21/new-partnership-to-bring-worlds-first-self-driving-truck-network-to-north-america/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
+      name: Fresh Fruit Portal
+      domain: freshfruitportal.com
+    quality: 18
+    images:
+      - url: "https://www.freshfruitportal.com/assets/uploads/2020/07/media-slide1_bg.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "zo3hkNhlfD8M25jP+VDUtP0VogU3/9QsmNaIMpD/ZrdyzY3YqIcZ5XAg9YLqkZB/FQq5+O/eD1Ey01PDFx5LJHlakbSdcA3ySo32SwtZEHph1QzayNnMQI5oF8rOVLCX0FS/8sBnzotBfHD6ted5pU3ISdkvTf/mUqMzYBlkH3szLsEPCCQblA8SxJuLGXbysIrqOgFOlYhJ1L/sRgMxc99oI1UQ1Cag2limdZ9GNaxzYx7tZVyCE6fzkC1CSNIZ7iXwQMIzNybdC2R/uqq/9aa9LhrbxBAX0g2LnSGDb+WPnM2hwMqSPGLiyxfsi5s3KIVropvdFmwxsEumAKrj8J87YnSLdGSOgZB3uhpDYyBiomx1nS+9l/Bcc6HHcyzYCdDwKJWq+sHCbSIsbBBEdRS1Eaj/gR76e6jzZGe0gxOyFE+SCcT4W7f/bDVrZJ+RBjVlUUYK1akUZh3hcZzk205J0OhMa9rY9KsHpH8GUMyggRyMTI5Iex/7AsCbdjzIfQmm9+hVTNduje6yg8HgUQ==;1RoBAcphAjfAXuaLN98xbA=="
 ---

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips"
-excerpt: "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU."
-publishedDateTime: 2020-07-17T13:26:00Z
-webUrl: "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
+excerpt: "British chip designer Graphcore recently unveiled the Colossus MK2, also known as the GC200 IPU (Intelligence Processing Unit), which it calls the world's most complex chip for AI applications. The chip offers eight times the performance of its ..."
+publishedDateTime: 2020-07-17T13:27:00Z
+webUrl: "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx?source=eptyholnk0000202&yptr=yahoo&bcmt=1"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx"
 type: article
-quality: 104
-heat: 104
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -29,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Wv+4wJzu9F27r39CyX03R8n+GQw0z03x1GBRBGYPR5FgjUrg996LpyKWjsgUSRYEOmkp+X2FN3HSzxec5NeRbDu0jX2Sm1AG7a/L8nk0++kGuQDQAqBhZMvKYf/LHphkbxh/F15blrmtLJfu0iOmBPsbEPX2tnwCH293f6GDzTVNPo7FbhAK2JtKuFlwPCsaivU2dsdaCs9F83byyZE2HcPs8DOn7oZiAdITkyAybhuSDVL7luRF0kixX/AcZHHbMZfLgXtQcXHh+M1lwBg1IGYyZ5Lyn0mR2JJvTiDo8/UxHcU0IygIoexYs0/390Ur7A9VzfZzpVBusqZJaRmRk6TtmB0cCR8KO2Ee0ejYVLKEd8wDQZasAfc/kFIiFmiC136CcVqtWGadxzcUgcBSzuUnm57nQ0qpf0iSrUsSb9Ov0H21Pp8uCN6D0W9+PPpJIPk35KhKr/h2bk3Sg6EIAJlKkYP2y5DmiXo7EgATQVDwkGv1XLsnlSGWYeGjdwFn;C8mdzJ9sRkm5DGWsMAI4qA=="
+secured: "dpD4YdoYixIoAaAz7OFfYyGjI+LCWXOrN2sHn6dbqIrzYsgd08X/6hQmhS4HDtZ4UPdfq3sT2GppTKiHzwV6PnprUxVRLdVsQlKYAuOIG2zeSAeUaE3jkQInMy0SV8y+NR7Pfki1Ci4k/baVveyCvNdowfusMcB0xkE/225bwTogVzMQ1a1ekqAHQ402LgSVABmJn4VnaYnoG66UEs3kxkOoQaVrYTn+V/0klTSqEEvrZtC3GO26ekdwt41DkQxT3iqICNnwcNYhEj1JLNULa0C3M3bta7QWJf8b6IWZVYWTEXE8xFTvnowAVaqyepDHuhNffcSd18S099aT3igFVw==;ww7OzWqRQKF5WYFIZ/7ezA=="
 ---
 

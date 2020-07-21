@@ -5,6 +5,9 @@ excerpt: "Phillip Securities, the brokerage arm of PhillipCapital has announced 
 publishedDateTime: 2020-07-21T09:37:00Z
 webUrl: "https://www.finextra.com/pressarticle/83390/phillip-securities-launches-ai-driven-stock-discovery-module"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Finextra

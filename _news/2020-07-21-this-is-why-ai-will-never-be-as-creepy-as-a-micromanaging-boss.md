@@ -5,6 +5,9 @@ excerpt: "Can Artificial Intelligence (AI) ever be as creepy as your boss? Well,
 publishedDateTime: 2020-07-21T09:17:00Z
 webUrl: "https://www.fastcompany.com/90529991/this-is-why-ai-will-never-be-as-creepy-as-a-micromanaging-boss?partner=feedburner"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Fast Company

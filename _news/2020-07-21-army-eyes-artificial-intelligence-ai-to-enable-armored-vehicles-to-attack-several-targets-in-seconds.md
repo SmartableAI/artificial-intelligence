@@ -7,6 +7,7 @@ webUrl: "https://www.militaryaerospace.com/computers/article/14179977/combat-veh
 type: article
 quality: 38
 heat: 38
+published: false
 
 provider:
   name: Military
@@ -22,6 +23,6 @@ images:
     height: 625
     isCached: true
 
-secured: "dpXY95R8LOQgAGMjmf/CCHn8d5EhUIXbezdtI9egdXs/pfC+l+IoB0t6wLTlLWa0hZ41w5TZUbdkv0a7oWEufxfkLJdwZ4q+WaBEbxY3JNpVLJC5seLLsX/eEglE8ioApgUp05YpfBy12xEbvl7Tty+soad6RITiMKUy9audfdKPLd9wlbG7cYt7VpFJd2QY98BZv44LdB+OjrDazOVNqeqc84c1UNp7ph7otYdnOvc5m7AVdScn33OHv1JIovc0e1tMyl/65pAs+V0gyhG8Gq+RgMdZmQ8ikrHN0xGixjSAts478/a8zUe/t0S2xuPg1LfEsSPXg6XKNipd9csj1A==;b4BxBW5NjVZiz9DG4okUAw=="
+secured: "VoIdI1YZTahhfPcczmy1pQU4ymCK2JnnH/08n3XlCL5bMeGC+FV6U9ZDZwGJ+1cpL4C5oocxmLS7+XWMRYDbwWXvH2Cy8TQmNDZuaWFWLolBBi+VXo1pdzXD2ohixqpl4QijhYH1SN23LGrntiKBGfXv9TfW9HX2Qajyarhp2hvAHZGJOupeDqA3/y5FDBnkfQtsZIp50lUaVEQ0YSP9hjBOrOVT089GMmsODO0Ss9bJ7D2J2UGIPb64ivqM69MJyOqKqsXphEX558LuTWjWSM9K/Fbqi73NlsUN/IrWhdkM6vXv4yvaTJmlwhvqqZM5eP0y7hI1p1D97UdIgtFE4Kn1Bf1Fi08jdWoCnpW0lRBwad7Jv2ZBQi/bV0h08ckEqCnklk9EiuGU2ktQYuxu9u6x7EKhwYHogXmcm2JzES31ousJ5pmTVVk8dpEqCCq0cN1J3AG9ifUjUmWfwXeFc0QekMCPmsIcwpbEfK2EuYIKiiFWRUdB6JKIC4/vkXjBCRr/EuOtSWB+ZV1xnWHEsw==;GhuosmV0bHHQ1UpdVJIwkA=="
 ---
 

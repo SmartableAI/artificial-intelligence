@@ -8,8 +8,8 @@ ampWebUrl: "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-c
 cdnAmpWebUrl: "https://cyprus--mail-com.cdn.ampproject.org/c/s/cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: Cyprus Mail
@@ -24,24 +24,6 @@ images:
     width: 1024
     height: 720
     isCached: true
-
-related:
-  - title: "Japanese robot to clock in at a convenience store in test of retail automation"
-    excerpt: "In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation."
-    publishedDateTime: 2020-07-16T17:48:00Z
-    webUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/"
-    ampWebUrl: "https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
-    cdnAmpWebUrl: "https://dailytimes-com-pk.cdn.ampproject.org/c/s/dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/"
-    type: article
-    provider:
-      name: Daily Times
-      domain: dailytimes.com.pk
-    quality: 70
-    images:
-      - url: "https://dailytimes.com.pk/assets/uploads/2020/07/Japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.jpg"
-        width: 646
-        height: 450
-        isCached: true
 
 secured: "jZoaMg5sOepL4yh0BjYq2u23g66lA39IO/bcfyTRbj/AXIo+YTSAcehbvuQSEik8WE5WwFcWxuxUX65uP+NzfJXdpc3AhzV+a5g5ut4ViWCKWrBG1iEOah9J2KhaFn+H9anl5ytONIqihC1alUIzzAqj61XJcD3RVpArQDGZNoSfYw3JPIYTwJC77A7So2TBuIYQAVINV0VGvjuRPcz43IL8ylpert31+t766ldwbRQA6Mud2RYelDZtoB8eR+pxesIinodQgOM3TnL7/b89Nrwooh2y5iDINgHZ3WDDUb67/mXgIw5HB5P0GUZZpkglTlzcyfqrhfJ5S6pP28Ou2g==;w8+LlHgdW6tPhXV04GiBHg=="
 ---

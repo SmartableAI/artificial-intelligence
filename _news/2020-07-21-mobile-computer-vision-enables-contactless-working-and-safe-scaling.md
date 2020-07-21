@@ -7,6 +7,9 @@ webUrl: "https://www.itproportal.com/features/mobile-computer-vision-enables-con
 ampWebUrl: "https://www.itproportal.com/amp/features/mobile-computer-vision-enables-contactless-working-and-safe-scaling/"
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/mobile-computer-vision-enables-contactless-working-and-safe-scaling/"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: IT Pro Portal
@@ -22,6 +25,6 @@ images:
     height: 451
     isCached: true
 
-secured: "iMQFsRgLXEwmFR2mKXj2YXHcetGiBKVnlggZhNDvmfigkgSV4l3v2LI+PxdHMGQeSt4MJtixTPc3kPi/SOf/rIbQkf2ZPe6xB03kNOvPlRoth7NBrVL0IwaIFj1CYQ4pNypBVe5onav3TxyDFMCuC2Kr8UFs/LnDQcuzmzkJeUIJah653Ln+8Dh9WkLU7aQdhCd8NPeEdJOu4zJFO/9gyZ9hhFpjJoJnzb++CgQrYggcL0BBjywEc2w+vjIQ5sL9yL6uoWQYpHaMEXbZyETKqtxuEWXyZtkOlyE7ldCnjmMA2W7pBdgKliy/oDfTQE+mCsG/nJBScIEfSw5+QnToWg==;z6JVaafVftsWywyRtgt7tQ=="
+secured: "DpkPXc9BPKP9QmqqXkJmhaA3a4Xksfu+WZKLaehHgruaoSJCWhw7EqPCiywtQMkTfbxIwY2TyqporvvbLeWCH8IZc1WwLYjd4nxHJ9MPOWSL324dkihWcnXkoL7hsGedgPV4DVUwGDO4ulBQelt9EaE3UteKCVRNk7iurieQuQBA/kbGuNCiLy3BlhzPueJK7MLXd+otm38CokzaGdyK3p4tExCiuA7nlP3tboCea/udnWp1K9n4XYUs9G39T/ya4IvNUrFi3QXd9UomVvx1BwNZXMs6DAZ+xE1ifMLD/lGFWeBngB9DSRoZDFbj7yvAPOUcbOVku5ihQs9kSJEZSugxJO25D7hEgTq1/1crY5DATlY3bS2gkm8+TOcSZ18wcvcdy5GiI99AVkYEN2jQymP9R6289ujKLvvFg4Yuby6CQRKmOtQrNOmBi6QbTDbJqcwU84/mPRk3sZLcquAMByqaGhlHXcTACSWEU742Ade9//FaCKFKesavBQD/qpxgYseLp1mLGNGS0JindS1CTw==;3XkK8fckC9xoEpZGjoLB4Q=="
 ---
 
