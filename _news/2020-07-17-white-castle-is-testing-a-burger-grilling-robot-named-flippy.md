@@ -8,7 +8,7 @@ ampWebUrl: "https://www.azfamily.com/news/us_world_news/white-castle-is-testing-
 cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/news/us_world_news/white-castle-is-testing-a-burger-grilling-robot-named-flippy/article_af262d4e-0235-589d-b9c2-82734f646861.amp.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flippy, the burger-cooking robot, has a cousin with a White Castle gig"
-    excerpt: "Miso Robotics’ robots are designed to speed production and improve the allocation of labor at fast-food restaurants."
-    publishedDateTime: 2020-07-17T01:28:00Z
-    webUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/"
-    ampWebUrl: "https://www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
-    cdnAmpWebUrl: "https://www-pasadenastarnews-com.cdn.ampproject.org/c/s/www.pasadenastarnews.com/2020/07/16/flippy-roar-will-soon-be-working-burgers-at-white-castle/amp/"
-    type: article
-    provider:
-      name: Pasadena Star-News
-      domain: pasadenastarnews.com
-    quality: 59
-    images:
-      - url: "https://www.pasadenastarnews.com/wp-content/uploads/2020/07/PAS-L-FLIPPY-0716-1.jpg?w=1024&h=768"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Burger-flipping robot named Flippy being tested at White Castle"
     excerpt: "(CNN) - White Castle is testing a burger-flipping robot named Flippy that could flip the entire restaurant industry. The chain announced a partnership with Miso Robotics, a Pasadena-based startup, to introduce Flippy,"
     publishedDateTime: 2020-07-17T12:20:00Z

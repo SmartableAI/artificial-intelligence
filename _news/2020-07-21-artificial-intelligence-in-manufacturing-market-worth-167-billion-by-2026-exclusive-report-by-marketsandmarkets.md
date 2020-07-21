@@ -1,20 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence in Manufacturing Market Worth $16.7 Billion by 2026 - Exclusive Report by MarketsandMarkets"
-excerpt: "According to the new market research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology"
-publishedDateTime: 2020-07-21T13:33:00Z
-webUrl: "https://www.finanznachrichten.de/nachrichten-2020-07/50228132-artificial-intelligence-in-manufacturing-market-worth-dollar-16-7-billion-by-2026-exclusive-report-by-marketsandmarkets-008.htm"
+title: "Artificial Intelligence in Manufacturing Market Worth $16.7 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
+excerpt: "According to the new market research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and"
+publishedDateTime: 2020-07-21T13:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-manufacturing-market-worth-16-7-billion-by-2026--exclusive-report-by-marketsandmarkets-301096935.html"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Market Size is Expected to Exhibit 54 billion USD by 2026"
@@ -32,6 +39,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6Cl3fZRD5r7xAx5ZrebHwhHrMNNp8Cjj4/IJm6Fk8mVjj+cMEwxFhcK/mkbq/JHdJ+CR+6UjduvktHftv1Tk2DaNd8iplBLMPPQ8aJJA3OkjGye75JVnn/vBLKEuuKiZIwybEv69IRiAJ16Z5wQYyHvReE9XfKEbZDC+rLzHjMcqrvlRVtisF+7sLqiIYch7DAeq3mDOM2G3j4iUckDyQpFAAJja90av/AM1llIWN88D320FxJiZXMSgup+DZv3HZnSerdy0hFGya/1Z6jvJr3f12aWFqORNtjkPki7X8tPHidK0lsvImHrfj92Lte5SSe4dFOTU8fAaYiQ+mbn+vw==;op/XDVVMCSknMK/XaDdxzg=="
+secured: "bASwf2JDPaq/3MyT9huDKtucO3SJNxDCyAeyNnFLU9Cx/tiyVXqV4Q1y3dK1onv+FFheqEIr2sXghLqiUHEPwqnafVHY7qalfDH2S/9cMikwUZRVzHtuRW9iYz8dfrgBO893YFr41+F/V+t3+5yQ0gDpLlz1ZApIqF/AejeL4F+VebMD4Sg6g659QMab2U6Ge7CyRBgEpShpOyCgXmrXDawUNvCl9CYTSuCjxVe6eM/Vh1jXICDz7NQ1UN6HUqc9S5ne0je/XmqVIwtr3SKGfQBd85UxUgGPp1avCJnlZ7+18xmeLzSPUBmqfTdoc/rVUqF7cGi5/m+Raxu3Ub5MFQ==;vfdZPKxG7FC60MKzDvSCMw=="
 ---
 

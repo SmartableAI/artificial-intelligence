@@ -38,6 +38,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EY And IBM Deepen Partnership To Accelerate Digital Transformations For Clients"
+    excerpt: "EY and IBM (NYSE: IBM) recently announced an enhanced global multi-year alliance built to help organizations accelerate digital transformation and improve client outcomes."
+    publishedDateTime: 2020-07-21T19:12:00Z
+    webUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/"
+    ampWebUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ey-and-ibm-deepen-partnership/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 20
 
 secured: "K0N+thWe/ALi0cmBgf5AGXfttS0mHTBFJZKFldHLg7fhk0zPTGNWfg1/n82bioIzi8KYpGknvDOfwSkBjd016nWGZ26pwuYF1TVc4k5K6cvK61zYYf6bv0NiR6kuP4inUuEF/LPw7CnFl0T9u0HncfW8COmo5Uu+Q5EqGBGi1Q5q/T714Ki0N8aK/4TTzsVf3EsTFJj+SdfzuZ6qDaYAiHLZCoOoH7ZLJRwy48f6fYEr2RbARKoHJ4DeorYaTFdEtQLX4qeAiWasNvy219zx+E3CKVqkAEVkDJJR9YI8vMXu8uI4wBjukLLNVIrFGAmDGPT5VCDa3sf65teQyRiJTA==;tKUpYJeD7EN6GhS8pcZ9ew=="
 ---

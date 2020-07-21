@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "EY And IBM Deepen Partnership To Accelerate Digital Transformations For Clients"
+    excerpt: "EY and IBM (NYSE: IBM) recently announced an enhanced global multi-year alliance built to help organizations accelerate digital transformation and improve client outcomes."
+    publishedDateTime: 2020-07-21T19:12:00Z
+    webUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/"
+    ampWebUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ey-and-ibm-deepen-partnership/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 20
   - title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
     excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
     publishedDateTime: 2020-07-17T21:12:00Z
