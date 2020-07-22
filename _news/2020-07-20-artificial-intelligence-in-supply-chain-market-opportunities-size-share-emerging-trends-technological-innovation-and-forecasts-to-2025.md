@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market Growth, Current Trends and Forecast till 2024"
+    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
+    publishedDateTime: 2020-07-22T08:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-growth-current-trends-and-forecast-till-2024-2020-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automated Material Handling Equipment Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025"
     excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
     publishedDateTime: 2020-07-21T05:35:00Z

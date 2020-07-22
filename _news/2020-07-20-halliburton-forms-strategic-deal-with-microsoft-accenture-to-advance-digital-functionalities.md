@@ -45,20 +45,6 @@ related:
         width: 582
         height: 327
         isCached: true
-  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
-    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
-    publishedDateTime: 2020-07-17T16:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
-        width: 358
-        height: 268
-        isCached: true
   - title: "UAE- Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Saturday 18 July 2020 [ AETOS Wire ] ( BUSINESS WIRE )-- Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton''s digital capabilities in Microsoft Azure."
     publishedDateTime: 2020-07-19T11:43:00Z
@@ -73,15 +59,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
-    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
-    publishedDateTime: 2020-07-17T15:51:00Z
-    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
-    type: article
-    provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 13
 
 secured: "LOekIgPG63h20LkQ4TGM2RGejn5XxOtNW40mhkHwyqVeKv28xGzWEvX0q1+50LuwNcoGVItBWZ+OT0720DqxhbsAU6OeBgIqQS/Ks/h3z4rpRaGTgaHwo6c13e5VFZQorDlF68fHGTQhqxpAjsmkAk4ncM7jX60JpEExsD+ciioS/uPP/2fuBzuntX830mFImhm9bTdxvDt8d3LYhe4jf9yWQK7xgyyDzRp+oJ5s/maKhZ/mzCDvMUhk22jQZ1VTqA0H+fYZ5nNFMSRcFHhHuC+zvHdyKL1kcapPW+lRx1IeU6I544umYFnSdqve6DOs5YdTUQ+qwYj4IM6l8my7Mg==;GWOcXNTQx+bgKjPqAvmxzg=="
 ---

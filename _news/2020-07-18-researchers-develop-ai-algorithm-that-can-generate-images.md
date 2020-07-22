@@ -41,6 +41,20 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms"
+    excerpt: "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative)."
+    publishedDateTime: 2020-07-21T21:55:00Z
+    webUrl: "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 44
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "J37Pt4ZFY65C9BxOM6ZafSLWou6TfAGS+prt2zrMEUoxwJj2E8Il8Ofqd1oizn5FNnO3l3Fyv/2vgDheLHPCl8AI9yXee3alRORHTXRo6IZ19DcfWM0aiCjSr8yU48z88ria/TooM91xd+vG/XXDkcUKUsm0nrsdyohqZ5TCo3lWQtnSEZh319SACnRyR+s8QO5ojbTiYwFDrjT9XU8agfFaa3m6EjhnUB8mRdhNS03lrhzHXOQkv5FdaopCKbvkZzKy/nry/Rls9SY5wDR5yAPoHIXhdnzYVAjSVxZ3B2MpUevBwpm+U9XDr+uRJj6l8TYCoIl9MnZb/vF7RveJ7A==;XL+Vu605lcL09uCVWEnKOw=="
 ---

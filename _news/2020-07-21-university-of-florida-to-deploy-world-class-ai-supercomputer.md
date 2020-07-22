@@ -61,6 +61,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 60
+  - title: "Nvidia joins forces with University of Florida to build AI supercomputer"
+    excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said."
+    publishedDateTime: 2020-07-22T09:01:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 38
 
 secured: "ckfwCjz4ZE1xMXYfXD+rKH77XOH7EDGm9/S1ZlQWzjlqW2LxYevHEm0na3ktWixwPKdKggo2FxFnJjPJHGbCJO++tK4KXVufNYeRrI/fXrvnF6Q+Slcce6A3aOhLEeB8QeacyOzov4knsoBBPkmuXDC/dMeMtfEjZJl9zoetb6VtBTWJ2zyXbj6KmE00eYjXZY8Rls5b7TQ4CdBqhImU1/d1asdei5Q+dFJ1KfU7azSII6ypSdGVYmd5TVcaTUv8L+BjCuyU6tXiESKHugcT5VJs+YL6VY8mUwZ2sL9baP6Ma9oeK/ABNRNjPNjA4kz9yFyUXkl2zv5T0sgoEQxEyAEtuHoLWPS0b/r8rWPBXcEoVz5Y9eoqIKagZkRz0n2e4qpmJZY3WGm3XPHehxCIzD5yE1lB/f8KqXCGA+7IyV+TjZqznS9qbodeDi1icb0EoB4ebKlpdAtT8oNHuFvltqWTUHdrK/zLNvddc/FOccCcxA9KN0n20wuEzHLy7pUXHitniIw+OIJHzgYelLxq7Q==;DQBV3UukXC+SXeIkZ3IIFg=="
 ---

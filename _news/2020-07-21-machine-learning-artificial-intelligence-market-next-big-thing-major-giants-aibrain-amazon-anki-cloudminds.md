@@ -7,9 +7,9 @@ webUrl: "https://www.openpr.com/news/2094065/machine-learning-artificial-intelli
 ampWebUrl: "https://www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: openpr.com
@@ -18,6 +18,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.openpr.com/T/7/T721816721_g.jpg"

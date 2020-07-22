@@ -1032,6 +1032,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-08-aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india.md",
+      "title": "AWS-powered Covid-19 diagnostic tool seeks lung scans from India",
+      "excerpt": "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Health/20200708/3589229.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights.md",
       "title": "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights",
       "excerpt": "FORMULA 1 (F1) turns 70 years old in 2020 and is one of the few sports that combines real-time skill with engineering and technical prowess. Technology has always played a central role in F1; where the evolution of the rules and tools is built into the DNA of F1. This keeps fans engaged and drivers […]",
@@ -1109,38 +1141,6 @@
       "provider": {
         "name": "Hart Energy",
         "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india.md",
-      "title": "AWS-powered Covid-19 diagnostic tool seeks lung scans from India",
-      "excerpt": "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

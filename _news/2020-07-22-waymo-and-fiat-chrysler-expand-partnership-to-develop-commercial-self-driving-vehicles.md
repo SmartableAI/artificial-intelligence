@@ -72,6 +72,38 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
+    excerpt: "The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker ... Waymo way ahead of its Chinese peers, like Yandex and Baidu, whose cars have driven only about a million miles as of ..."
+    publishedDateTime: 2020-07-22T07:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/incoming/om0u9d/article32158570.ece/ALTERNATES/LANDSCAPE_615/Waymo"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Alphabet's Waymo, Fiat Chrysler Deepen Partnership To Develop Self-Driving Light Commercial Vehicles"
+    excerpt: "Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG)-owned Waymo said Monday that it is expanding its partnership with Fiat Chrysler Automobiles NV (NYSE: FCAU) and the two"
+    publishedDateTime: 2020-07-22T08:32:00Z
+    webUrl: "https://www.benzinga.com/news/20/07/16726081/alphabets-waymo-fiat-chrysler-deepen-partnership-to-develop-self-driving-light-commercial-vehicles"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16726081"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16726081"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/2019-ram-pm-vlp-gallery-exterior-08.jpg.image_.2880.jpg"
+        width: 2880
+        height: 1400
+        isCached: true
   - title: "Waymo, FCA expand self-driving partnership for passenger, delivery vehicles"
     excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"
     publishedDateTime: 2020-07-22T05:00:00Z

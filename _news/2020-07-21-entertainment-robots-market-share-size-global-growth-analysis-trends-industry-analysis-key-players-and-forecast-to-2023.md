@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Marketing Market to See Booming Growth with IBM, Google, Intel"
+    excerpt: "Latest released the research study on Global Artificial Intelligence for Marketing Market , offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence for Marketing Market research report shows the latest market insights,"
+    publishedDateTime: 2020-07-22T09:57:00Z
+    webUrl: "https://menafn.com/1100522463/Artificial-Intelligence-for-Marketing-Market-to-See-Booming-Growth-with-IBM-Google-Intel"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
 
 secured: "tIPaGLSGB6GP1tsvBAMJgt9LBlMOP9o9/ZCjDOyBTgaa0rhc92lrpJYp7M8vJ8TYlabCHN8oPmy34hYoSPi3DprQ5Hdl87AcNEiBJ15BEHQWJ3SORufd9f2sAGYSurhN2E7h2Skgr+DcAPlO1MWBumha7ghbv+kPKufZzSuTazYYlw2eVYjXOyx8lluoUsL+EKRmFniBGFRUVkokXpni3OWFsPG2kVx0gzPj2ls2ddzjerJo7vPBuSX0ggINO87NUnZgvLhy5MhvBA0/rDSdbnvWifEpSvyxpPqGlZsrhaecEXUwLzg2Yhw8bIkHvkpLH7+zifUIyO22Z90z6J8psA==;3K3dBm5VzxgwvoZiOf2Zmw=="
 ---

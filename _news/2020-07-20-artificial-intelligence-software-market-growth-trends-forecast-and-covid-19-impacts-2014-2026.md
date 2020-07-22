@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Military Market Growth, Current Trends and Forecast till 2024"
+    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of"
+    publishedDateTime: 2020-07-22T08:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-growth-current-trends-and-forecast-till-2024-2020-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in ..."
     publishedDateTime: 2020-07-20T14:50:00Z

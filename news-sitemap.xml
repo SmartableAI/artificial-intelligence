@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mashable.com/article/police-warning-protesters-face-masks-coronavirus-facial-recognition/</loc>
+    <lastmod>2020-07-22T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gizmochina.com/2020/07/22/foxconn-to-invest-over-9-billion-for-new-chip-plant-in-china/</loc>
+    <lastmod>2020-07-22T02:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/</loc>
     <lastmod>2020-07-21T23:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -27,12 +39,6 @@
   <url>
     <loc>https://www.theverge.com/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms</loc>
     <lastmod>2020-07-21T16:11:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms</loc>
-    <lastmod>2020-07-21T14:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -103,6 +109,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443</loc>
+    <lastmod>2020-07-21T07:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mashable.com/article/amazon-scout-robot-delivery-vehicles/</loc>
     <lastmod>2020-07-21T06:56:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -123,6 +135,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/</loc>
     <lastmod>2020-07-21T06:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing</loc>
+    <lastmod>2020-07-21T05:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -339,12 +357,6 @@
   <url>
     <loc>https://www.forbes.com/sites/bernardmarr/2020/07/20/the-10-best-ai-and-data-science-masters-courses-for-2021/</loc>
     <lastmod>2020-07-19T21:41:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.bloomberg.com/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets</loc>
-    <lastmod>2020-07-19T20:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1663,6 +1675,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
+    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1731,12 +1749,6 @@
   <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
-    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2449,6 +2461,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://news.webindia123.com/news/Articles/Health/20200708/3589229.html</loc>
+    <lastmod>2020-07-08T09:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08</loc>
     <lastmod>2020-07-08T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2547,12 +2565,6 @@
   <url>
     <loc>https://www.prnewswire.com/news-releases/runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19-301090026.html</loc>
     <lastmod>2020-07-08T06:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India</loc>
-    <lastmod>2020-07-08T05:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

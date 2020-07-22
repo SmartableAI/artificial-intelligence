@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
 type: article
 quality: 99
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
         width: 582
         height: 327
         isCached: true
-  - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
-    excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
-    publishedDateTime: 2020-07-17T16:33:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/halliburton-close-its-data-centers-move-microsoft-azure-cloud/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 54
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
-        width: 358
-        height: 268
-        isCached: true
   - title: "UAE- Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Saturday 18 July 2020 [ AETOS Wire ] ( BUSINESS WIRE )-- Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton''s digital capabilities in Microsoft Azure."
     publishedDateTime: 2020-07-19T11:43:00Z
@@ -64,15 +50,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Halliburton, Microsoft and Accenture form agreement to advance digital capabilities"
-    excerpt: "The strategic agreement with Microsoft and Accenture is an important step in our adoption of new technology and applications to enhance our digital capabilities, drive additional business agility and reduce capital expenditures,"
-    publishedDateTime: 2020-07-17T15:51:00Z
-    webUrl: "https://www.worldoil.com/news/2020/7/17/halliburton-microsoft-and-accenture-form-agreement-to-advance-digital-capabilities"
-    type: article
-    provider:
-      name: World Oil
-      domain: worldoil.com
-    quality: 13
   - title: "Halliburton forms strategic deal with Microsoft, Accenture to advance digital functionalities"
     excerpt: "Halliburton, Microsoft and Accenture entered into a five-year strategic agreement to advance Halliburton’s digital functionalities in Microsoft Azure. Under the agreement ... the Halliburton Data Lake using machine learning and artificial intelligence ..."
     publishedDateTime: 2020-07-20T07:49:00Z

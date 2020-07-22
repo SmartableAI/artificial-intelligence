@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-19T04:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Marketing Market to See Booming Growth with IBM, Google, Intel"
+    excerpt: "Latest released the research study on Global Artificial Intelligence for Marketing Market , offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence for Marketing Market research report shows the latest market insights,"
+    publishedDateTime: 2020-07-22T09:57:00Z
+    webUrl: "https://menafn.com/1100522463/Artificial-Intelligence-for-Marketing-Market-to-See-Booming-Growth-with-IBM-Google-Intel"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
 
 secured: "9h9g/xLmpe23x9GSJUBtv0WUKBJWtse3hDxV7oe5Dazv4LBTkCorO2osAp1ez//3WhUQkcpzpSZmFlz+3Pwg1FuTLKVWhLWnBATmsVBveDeTPz7iHpNhDzgSuONujF1OjEiHTHPQSwx95OmKA7POaAtFm7n05c7StMsF+MeAzwrIfq93vBSiI0WdGvZz4e1if6c6lOib/r3jXA/6fglowWZKXUMHVrfj+XmvdxeA6G1uC8Fz8MmDAKT7t/laYdc5fraUSvw6CnoTml/qvB4s1PAubiaA0P9WHI/IENemuLCeWagHEp7N43MvYPgy5/vAmdQA6SaFnyebOiiTVqtMuQ==;AuONQ0CTzx6Wml77RiPcCg=="
 ---

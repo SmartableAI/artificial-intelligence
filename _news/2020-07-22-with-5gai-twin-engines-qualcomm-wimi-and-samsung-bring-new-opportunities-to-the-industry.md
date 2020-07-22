@@ -1,32 +1,30 @@
 ---
 category: news
 title: "With 5G+AI Twin Engines – Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
-excerpt: "The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has brought opportunities for the server market to speed up development,"
-publishedDateTime: 2020-07-22T00:28:00Z
-webUrl: "https://www.marketwatch.com/press-release/with-5gai-twin-engines-qualcomm-wimi-and-samsung-bring-new-opportunities-to-the-industry-2020-07-21"
+excerpt: "The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has"
+publishedDateTime: 2020-07-22T00:14:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16724462/with-5g-ai-twin-engines-qualcomm-wimi-and-samsung-bring-new-opportunities-to-the-industry"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16724462"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16724462"
 type: article
-quality: 58
-heat: 58
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://i.ibb.co/YytWkNY/1.png"
+    width: 554
+    height: 314
     isCached: true
 
-secured: "e54IVpuzBjpWZAUmddWwLH5LnnFM+28zO4ljd9x5GbPjPeTqriV3X6kE8Z3JeANuIXbgxB3wDuL4uVPNNh1R2jcReDrvn5e6RTwHg5/CfVNWPSAMhqUErkPK3aeYgFM0s50CAp18w7LxtiADIPWnnhB0Bb7XxuQAHERkLJiFoasis5ocWsao89wH82+ejE+Qibx1X+vjPIMWafvykwHSDWjQQcdZbk6Y6v/c3VWVirm4rnUnb36G1m74+uEleCwwctsSeaXkyfGq2ekWDq54OKsU3nCzI/oR4BhYP9CrYKDVsCkA1YncafXn/uNi5tY1eoSvCXdQ+ppjr8WIoY+ERw==;MrDkR2+xDJh7b69eAY8zag=="
+secured: "IZJ3jhKRu3ivBIzn+4Subto4CqhXfoDMwqnjstZI+5OJiskFyrrwdv44i13mLcIL7HJHSlZx6jJyf4razQ2dfXU8UJVp/LK4Yvzd8iYlHtG4KYzaFkpgPo7FvAHC2FVkzCqMML2XpixJoFIs1sBDCDU9jSr88jxh4jzoFMCIcvpl6uatzrWQnO0wcvCUhf5msrLV22vCZGZOiBrSgTk40T9vcSyOmq4Was8LMvhfdf71Kcx6+IZUdI4UmzATmdWemeHWXM+G+bL69UBNvDYvKjEDgxEO5xTpbn3k+rBrIDWaGKNseVF2prvazWio97xb78sGmaMAoSQUQJbZRgLI0A==;nSOqqNuRwRZkiTVe7xblXg=="
 ---
 

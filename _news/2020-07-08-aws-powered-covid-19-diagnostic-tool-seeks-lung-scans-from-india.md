@@ -2,18 +2,18 @@
 category: news
 title: "AWS-powered Covid-19 diagnostic tool seeks lung scans from India"
 excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ..."
-publishedDateTime: 2020-07-08T12:55:00Z
-webUrl: "https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India"
+publishedDateTime: 2020-07-08T16:34:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Health/20200708/3589229.html"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "NnEoREBojezUdCczg+4NeRTcZs//83hwFCVYRNSCvU2e4AstkfjH9Q6fkz48+UBGjirVnfgEPrbaaNYWQ+6H31LkUuROwW/lU0a8SLUB1c0pqNNxxEBYpl2BwUdhJeKZb5QM83tlKl1GcFcCi/bmbAprLstAexa3cL5uQkXbAl/6XFoq/yOjdpV8D/szdWjcTX+eZVdRvbv05/i+LZ7pYDCnaAm77cDfvkC47S9sC6VCZXa7qJsxnlcmWSaSg9PGm6TinJMSMKCCX5xh0TXNKpNKSre+DqkonWdQStyVU/73xw1cVq2Sd5sPOsPwTePApXbFR/qSqjIrnRg/Ln5uHQ==;mvHvwteeHOY01a4XeLsN2Q=="
+secured: "Bhfyl/kF4bAZ/3H3VCYgJToJx/5NKddEvbv50oiOWGNPv9T/YiWaQs7DBkEiz9RDvKESU131bmnncJPenelRHY/Wp6ON/6/Wgtpa3QipMzmrtnBx8DVVC/UVFCpO0EYVyQ9/axUGYkuuULLPzgEjhue3leqaqsezBtL8HKz9s6/3bU+SPLbCrLzlnfD6kLfjkKhhlnqlHphdkrTH3QgpGBVgdMQt9B0u2JssfZEvUVwAxwxCZUv3PxPGBZuO80S0tX5Qui2BRuPBLvR88LkCLORXISx9m6y6W6gkPreHmVdcPZkGXlIEPUfqacHPZ7fHFnxBxlgFoZ5Lqjv8Wv5PeQ==;cV0FlNkn/6RHGFvwAzO39w=="
 ---
 

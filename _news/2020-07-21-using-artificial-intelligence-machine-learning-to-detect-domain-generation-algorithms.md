@@ -5,16 +5,15 @@ excerpt: "We will also cover some unique and cutting-edge methods leveraging art
 publishedDateTime: 2020-07-21T21:55:00Z
 webUrl: "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 44
+heat: -1
+published: false
 
 provider:
   name: CIO
   domain: cio.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -24,21 +23,39 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers develop new learning algorithm to boost AI efficiency"
-    excerpt: "TU Graz computer scientists Robert Legenstein and Wolfgang Maass are working on energy-efficient AI systems inspired by the functioning of the human brain."
-    publishedDateTime: 2020-07-22T04:23:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/07/22/researchers-develop-new-learning-algorithm-to-boost-ai-efficiency/"
+  - title: "DeepMind’s AI automatically generates reinforcement learning algorithms"
+    excerpt: "In a study published on the preprint server Arxiv.org, DeepMind researchers describe a reinforcement learning algorithm-generating technique that discovers what to predict and how to learn it by ..."
+    publishedDateTime: 2020-07-20T15:48:00Z
+    webUrl: "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/"
+    ampWebUrl: "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 41
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/21083603/legenstein-maass-researchers.jpg"
-        width: 1000
-        height: 713
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&#038;strip=all"
+        width: 1198
+        height: 600
+        isCached: true
+  - title: "Researchers develop AI algorithm that can generate images"
+    excerpt: "An AI algorithm is capable of automatically generating realistic-looking images from bits of pixels. Why it matters: The achievement is the latest evidence that AI is increasingly able to learn from and copy the real world in ways that may eventually allow algorithms to create fictional images that are indistinguishable from reality."
+    publishedDateTime: 2020-07-18T18:45:00Z
+    webUrl: "https://www.axios.com/ai-algorithm-images-robot-8fd3e13f-aedc-4eeb-b22f-47a651f02186.html"
+    ampWebUrl: "https://www.axios.com/ai-algorithm-images-robot-8fd3e13f-aedc-4eeb-b22f-47a651f02186.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/ai-algorithm-images-robot-8fd3e13f-aedc-4eeb-b22f-47a651f02186.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 57
+    images:
+      - url: "https://images.axios.com/t-uDSyQb03ERDPRBS_47YQaJwT8=/fit-in/1366x1366/2020/07/18/1595082939817.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
-secured: "nhDWN7ueTBx4cDfaqWrEdhtWujbJOnGYRyupnblk/yP7OpTnz5BKth6isBCVk02CULKWq2gzVgaHuIUAjfLWcaZY3HVOUJB/Eh1J/qFgF9JP25+aH8H8XcHN+uASoM5Jp4efmZzbSzFbQ42RuGlZAPy8YJ3oR5RGA7zYe8JC9Ug0pS1PyezeTme42/DkHR9Op/39sgiF9pcWAZtKPctkeQooK0XzOHtVv8wr34uYPodS6akJzR/jZz41pBdG+dogX6wjds+sUo9Ts3NZl+e5x+vt6MOFPpJOM90WXoCWcVxO6p6Ka66idJ3ZEd0wko4jezBTeNzor+I/USgQuNNFjg==;Qw0F/oY7N+V5RuMsEM//fg=="
+secured: "EtJldfjmvt9+2O29eUJ0g9d/xgrX/5g7ceODb9MMQAxJ491fbXyBFGmOcPIGAimYWCoqoHJqVyWHOVGzjHeQNjHEiGqDC9geR5zPKXwlItuN07/k7+FJOi/zqlG0JxmKUeHKcEFcujN7iL9L3jLQ+HcUtndcayi61+T/JDsDetRNb3NVZoSrbKXDG9NuH83BCspHw+9We9StF6uXA2dzwBQDpX/+acQN/kgFTRbckbG98oBGaMQaGzy0x53l8EhayhXVP1+QDvnJ7yULiV3JckmskFo5ceL+HU/25liJ/p/gQ/hRoPNFNrWNXoFacPmkodVA9KhyA8mYxkc4Sai0Fw==;hK0Nk3kPs8O6J/iUUmUzLQ=="
 ---
 

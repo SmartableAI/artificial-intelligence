@@ -8,7 +8,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-pa
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -51,6 +51,17 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 60
+  - title: "Nvidia joins forces with University of Florida to build AI supercomputer"
+    excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said."
+    publishedDateTime: 2020-07-22T09:01:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 38
   - title: "University of Florida to Deploy World-Class AI Supercomputer"
     excerpt: "The University of Florida will stand up a state-of-the-art AI supercomputer, powered by the latest Nvidia technology, to tackle major challenges such as"
     publishedDateTime: 2020-07-21T19:19:00Z
