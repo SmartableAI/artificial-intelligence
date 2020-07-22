@@ -102,6 +102,17 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Aurora Innovation to test self-driving truck tech in Texas"
+    excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"
+    publishedDateTime: 2020-07-20T20:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
 
 secured: "hEVJwStpIBVZ6TNwEvBiCx9TiqFVzs0eXtRVm+SgEo2tMNZVRyItYhndRXBLuR0mjZOrdir4+L40DMBC+RqiRfawsAwfLj/WN4Hqva2QWMwmO7n0XiyLLZhnYJ+gbw+NeVntJZb/+fmZHa2Aus1tlr9WaLIaGLWk/kVvedu6Kpzou2uffjGpDAYCrrNjAeV4VSne0J3GkA7lVVuopSNw05s/InreRi3WhxHHHkHYYiVdpXh7SiKkz7NmaHxhBLc17Lk7+4vhIbtN0FN6PgjKVSYMLWpTUFilVEuWAYFR+BHvkeTWN2gt0aRU2CLW7IpRpVy4zvPSZCvwWmkOQeXraw==;M4ndCFqhe+hbg8XTE5j24g=="
 ---

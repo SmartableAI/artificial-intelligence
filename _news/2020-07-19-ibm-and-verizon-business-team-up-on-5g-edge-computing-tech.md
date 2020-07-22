@@ -52,20 +52,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Verizon And IBM Will Partner On 5G And AI"
-    excerpt: "Verizon (NYSE:VZ) and IBM (NYSE:IBM) announced on Wednesday an extensive new partnership that would focus on a host of forward-looking technology, including 5G, edge computing, and artificial intelligence (AI)."
-    publishedDateTime: 2020-07-17T09:43:00Z
-    webUrl: "https://www.ibtimes.com/verizon-ibm-will-partner-5g-ai-3012900"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/25/ibm.jpg"
-        width: 594
-        height: 395
-        isCached: true
   - title: "FMC Corporation Collaborates with Cyclica to Improve Research Efficiency Using Artificial Intelligence"
     excerpt: "FMC Corporation has entered into a collaboration with Cyclica Inc, a leading biotechnology company specializing in artificial intelligence and computational biophysics, to accelerate and improve the efficiency of discovering new crop protection chemistry."
     publishedDateTime: 2020-07-20T01:08:00Z

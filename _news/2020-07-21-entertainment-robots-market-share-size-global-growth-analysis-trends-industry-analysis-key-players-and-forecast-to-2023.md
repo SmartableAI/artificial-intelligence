@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T12:22:00Z
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Robots Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
+    excerpt: "Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions."
+    publishedDateTime: 2020-07-19T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Educational Robots Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2028 Imapct on market of COVID -19"
     excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
     publishedDateTime: 2020-07-21T02:04:00Z

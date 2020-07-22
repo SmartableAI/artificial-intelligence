@@ -23,22 +23,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "A solution to the learning dilemma for recurrent networks of spiking neurons"
-    excerpt: "In addition, it suggests a method for powerful on-chip learning in energy-efficient spike-based hardware for artificial intelligence. Networks of neurons in the brain differ in at least two essential aspects from deep neural networks in machine learning ..."
-    publishedDateTime: 2020-07-17T09:11:00Z
-    webUrl: "https://www.nature.com/articles/s41467-020-17236-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-17236-y/MediaObjects/41467_2020_17236_Fig1_HTML.png"
-        width: 635
-        height: 685
-        isCached: true
-
 secured: "Fa8KxanZR8Y21TLXzlEl12WVMBUVMd89ADiO6kGTVdxn5SA3WtF/TL5L5fiP5DhvQgQaRJ7cCu/NIcjOEsasvtvcO0Q1JYmJcBikVlZ3aN+HDeKh57wZP29q/wtPIR928+3I68CuzC90a6fLD7U/bqjGeFUTw1rJHporSezkWx9uurfEun/Nc4rZvH1Elxe8rpSxxuVbtEFKs5nzylaNqPRZGhlEp6ouqm28trtIPRxTsjwev6vR3HgXEeTkEOqYjPD3G3pD75604k+h+UELvdvL0BejUT/RbK413ui+KiOWUjVqq1835gindAWrLodn8geBvALJjtwL6PlYQnkJGV3SkrtCAz7gNE0nOsBS2B01FIPNHQmUEY2WmGAloEw3AK/rey1GW1ySZ2y7e9uDGAEw1YvLjKTBj1Bp507+e3QjZIhxInFEnRpsmbzuYqcWq6pJupw6mr2AqltAqECM3d7RenVEc8TOn71M2ZByb+thDrgujZzljRaYcceBsl9O;xNM249LSe7h4Tx9tPn4qzQ=="
 ---
 

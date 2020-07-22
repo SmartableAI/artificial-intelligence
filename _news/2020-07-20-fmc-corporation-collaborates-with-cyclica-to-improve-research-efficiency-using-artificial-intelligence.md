@@ -46,20 +46,6 @@ related:
         width: 375
         height: 249
         isCached: true
-  - title: "Verizon And IBM Will Partner On 5G And AI"
-    excerpt: "Verizon (NYSE:VZ) and IBM (NYSE:IBM) announced on Wednesday an extensive new partnership that would focus on a host of forward-looking technology, including 5G, edge computing, and artificial intelligence (AI)."
-    publishedDateTime: 2020-07-17T09:43:00Z
-    webUrl: "https://www.ibtimes.com/verizon-ibm-will-partner-5g-ai-3012900"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/02/25/ibm.jpg"
-        width: 594
-        height: 395
-        isCached: true
   - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
     excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
     publishedDateTime: 2020-07-21T00:49:00Z

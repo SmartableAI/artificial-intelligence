@@ -20,79 +20,94 @@ topics:
   - AI
 
 related:
-  - title: "Intel's Mobileye will test self-driving cars at up to 80 MPH in Germany"
-    excerpt: "Intel’s Mobileye self-driving division has received regulatory approval to test its vehicles on German roads, Intel announced."
-    publishedDateTime: 2020-07-17T10:48:00Z
-    webUrl: "https://www.engadget.com/mobileye-testing-autonomous-cars-germany-104521486.html"
-    ampWebUrl: "https://www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/mobileye-testing-autonomous-cars-germany-104521486.html"
+  - title: "Aurora expands to Texas in bid to ramp up self-driving truck efforts"
+    excerpt: "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8"
+    publishedDateTime: 2020-07-20T18:24:00Z
+    webUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/"
+    ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 74
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Fd5f2e2a0-c813-11ea-aeff-0b8af02ce9f4&client=amp-blogside-v2&signature=e719220b03335a26e58e6d925c87d6fd0db6fae6"
-        width: 600
-        height: 350
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024"
+        width: 1024
+        height: 571
         isCached: true
-  - title: "When will we actually see self-driving cars?"
-    excerpt: "Q. Okay, I have given up on a flying car, but when do you think we will see an actual self-driving car? A. There are a couple of inherent problems — legal and cultural. In every state that I have researched, there is a law that you need to have at least ..."
-    publishedDateTime: 2020-07-17T21:26:00Z
-    webUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars"
-    ampWebUrl: "https://www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/cars/car-guides/2020/07/17/when-will-we-actually-see-self-driving-cars/amp"
+  - title: "Aurora Jumps Into Robo-Delivery Race With Self-Driving Truck And Van Tests In Texas"
+    excerpt: "The Silicon Valley-based developer of software and hardware for autonomous vehicles is joining the pivot to driverless delivery vehicles as Covid-19 slows robotaxi plans."
+    publishedDateTime: 2020-07-20T18:02:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
     type: article
     provider:
-      name: Boston.com
-      domain: boston.com
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f15d91f3041c40006bad88e%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Self-driving startup Aurora expands vehicle testing to Texas"
+    excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
+    publishedDateTime: 2020-07-20T23:06:00Z
+    webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Self-driving semi-trucks are picking up speed"
+    excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
+    publishedDateTime: 2020-07-17T17:39:00Z
+    webUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+    ampWebUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
     quality: 44
     images:
-      - url: "https://www.boston.com/wp-content/uploads/2020/07/Autonomous_Vehicles-Crashes_96424-850x478.jpg"
-        width: 850
-        height: 478
+      - url: "https://images.axios.com/ifc7Ygzbr5pYhvK5seDPPNXtJZ0=/fit-in/1366x1366/2020/07/17/1595004050933.jpg"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Self-Driving Cars Will Race in Indianapolis. Tesla Can’t Take Part."
-    excerpt: "Universities will compete in the Indianapolis 50 in 2021. It’s a new event helping bring autonomous driving to the masses."
-    publishedDateTime: 2020-07-20T21:31:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-tesla-indianapolis-50-race-indy-50-51595280596"
+  - title: "Self-driving startup Aurora expands public road testing to Texas"
+    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"
+    publishedDateTime: 2020-07-20T19:16:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/07/20/self-driving-startup-aurora-expands-public-road-testing-texas/5473753002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/5473753002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5473753002"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 44
     images:
-      - url: "https://images.barrons.com/im-211059/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Intel-owned Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Intel acquired the Mobileye’s self-driving car firm for $15 billion with the aim to push the company’s self-driving car efforts forward. Now yet another major step has been taken. TÜV SÜD (English: Southern Technical Inspection Association ),"
-    publishedDateTime: 2020-07-17T13:08:00Z
-    webUrl: "https://www.kitguru.net/channel/generaltech/christopher-nohall/intel-owned-mobileye-starts-testing-self-driving-vehicles-in-germany/"
-    type: article
-    provider:
-      name: KitGuru
-      domain: kitguru.net
-    quality: 24
-    images:
-      - url: "https://www.kitguru.net/wp-content/uploads/2020/07/Intel-Mobileye_Munich-scaled-732x330.jpg"
-        width: 732
-        height: 330
-        isCached: true
-  - title: "Mobileye starts testing self-driving vehicles in Germany"
-    excerpt: "Mobileye says Germany's independent technical service provider, TÜV Süd, had awarded it an automated vehicle testing permit."
-    publishedDateTime: 2020-07-17T10:40:00Z
-    webUrl: "https://www.just-auto.com/news/mobileye-starts-testing-self-driving-vehicles-in-germany_id196739.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
         width: 1200
-        height: 799
+        height: 675
+        isCached: true
+  - title: "Navistar Enters Self-Driving Trucks Market"
+    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
+    publishedDateTime: 2020-07-17T12:13:00Z
+    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 24
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "dBW9IlN8f/5vKFkSCGqFKWEi7K9g2Jmysmx04xXAFoQMOUCBK6YCpP3g3oSUsNMr7KRP+j4CGCjL37/Xa/IGMngowLqsGn52Cjw8JJUANG9PVwv49FNaec/K9U3gRzkT7rrXvKslxpLjy7lffRR8s9DCIZdOpW8nEfo+/zJSk2ZsP2/sWsp9yVQksh1OdKTLtsK65fXehb83sGmtfKs/wpXmo70vkqfCOxpulOLagXZf+iVnJieV6MT6oZxCducIVGZGAyBkFkKRXc6kJZcok6jFrS2kuR/kbN09SRjf83aqEcWGT5drtOSC/hezQ76T9ddJokJYVYtOfbL2vyQzW9w/f10wDn/EC+aAaAdw495sMOnHo52jzJibnhRyf8yNTTESw87EL80YNrKTlQfyrwPu7Z9XNz5mckptIFkI3ksJDje839YX21MKJ21BM7V2qUqTQcIz+TOEKr1iQI9gqEEwFmi9WjNDc8s71OUsg8x6cwbQZZoQYpX0ExvDhKXZ;2wEzII2+3LfjMrvk65IjYQ=="

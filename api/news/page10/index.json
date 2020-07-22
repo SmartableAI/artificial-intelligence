@@ -2,6 +2,56 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-14-30-years-of-family-videos-in-an-ai-archive.md",
+      "title": "30 years of family videos in an AI archive",
+      "excerpt": "My dad got his first video camera the day I was born nearly three decades ago. “Say hello to the camera!” are the first words he caught on tape, as he pointed it at a red, puffy baby (me) in a hospital bassinet. The clips got more embarrassing from there, as he continued to film through many diaper changes,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/pasted_image_0_rXp629k.png",
+          "width": 1600,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/photos/30-years-family-videos-ai-archive/amp/",
+      "publishedDateTime": "2020-07-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-integrated-behavioral-health-ibh-uses-ai-and-clinical-data-analytics-to-shape-the-future-of-behavioral-healthcare-in-partnership-with-lyssn.md",
       "title": "Integrated Behavioral Health (IBH) Uses AI and Clinical Data Analytics to Shape the Future of Behavioral Healthcare in Partnership with Lyssn",
       "excerpt": "PRNewswire/ -- IBH Population Health Solutions (Integrated Behavioral Health, Inc.), a national leader in behavioral health technology and services, announced the launch of its new Provider Clinical Data Analytics technology platform that uses artificial intelligence (AI) and machine learning to improve the quality and outcomes of talk therapy counseling.",
@@ -1033,6 +1083,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-14-white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry.md",
+      "title": "White Castle Selects Miso Robotics for a New Era of Artificial Intelligence in the Fast Food Industry",
+      "excerpt": "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-301092746.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-how-artificial-intelligence-and-robotic-industry-is-going-to-upsurge-post-covid-19.md",
       "title": "How Artificial Intelligence and Robotic industry is going to upsurge post-Covid-19",
       "excerpt": "In a world that is constantly changing and improving, artificial intelligence and robotics is immensely valuable in adapting to new trends",
@@ -1070,96 +1161,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-global-voice-and-speech-recognition-technology-industry.md",
-      "title": "Global Voice and Speech Recognition Technology Industry",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-technology-industry-2020-07-14",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T00:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-smart-retail-tech-startup-cloudpick-raises-series-a-funding.md",
-      "title": "Smart Retail Tech Startup Cloudpick Raises Series A+ Funding",
-      "excerpt": "Cloudpick, the technology startup providing smart retail and artificial intelligence solutions, announced recently that it has raised Series A+ round of funding led by Cathay Innovation. Prior to this,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
-      "publishedDateTime": "2020-07-13T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

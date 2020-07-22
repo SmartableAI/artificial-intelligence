@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-20T06:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Global Growth, Opportunities, Industry Analysis & Forecast to 2025"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-17T10:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-growth-opportunities-industry-analysis-forecast-to-2025-2020-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
     excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
     publishedDateTime: 2020-07-21T06:23:00Z
