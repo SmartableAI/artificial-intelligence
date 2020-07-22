@@ -8,8 +8,8 @@ ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: The Raw Story
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Government Leak: Cops Terrified Masks Will Block Facial Recognition"
-    excerpt: "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports."
-    publishedDateTime: 2020-07-17T21:02:00Z
-    webUrl: "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition"
-    ampWebUrl: "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
+  - title: "Best Life: Facial recognition software helps doctors during aneurysm surgery"
+    excerpt: "“It uses like facial recognition like on the phone and creates a 3D reconstruction and overlay it right there in the operating room,” Dr. Malas illustrated. A CT scan taken before surgery is combined with an x-ray taken during surgery creating that 3D ..."
+    publishedDateTime: 2020-07-20T16:36:00Z
+    webUrl: "https://www.wmcactionnews5.com/2020/07/20/best-life-d-aneurysm-repair-smartphones/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
+      name: Action News 5
+      domain: wmcactionnews5.com
+    quality: 36
     images:
-      - url: "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.wmcactionnews5.com/resizer/rbHay5hbNo128QGSixhgbNUO_Hc=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/OCLSIBUPDJCGLPH34R4SLYZ4WE.bmp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."

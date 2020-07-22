@@ -24,55 +24,39 @@ images:
     isCached: true
 
 related:
-  - title: "Exams that use facial recognition may be 'fair' – but they're also intrusive"
-    excerpt: "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias"
-    publishedDateTime: 2020-07-22T06:00:00Z
-    webUrl: "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
+  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
+    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
+    publishedDateTime: 2020-07-18T23:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23"
-        width: 600
-        height: 360
+      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
+        width: 1747
+        height: 1311
         isCached: true
-  - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-17T22:58:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
+    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
+    publishedDateTime: 2020-07-21T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 49
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-18T02:17:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
 
-secured: "4FR8sJHO9oMs5iTlaref8zljo4YpAJ7/JD5sDVFHJr0xR+EGH89zkcAdnTPFdPhiC9Sx2QAnhBBRIn8iKHoPq+xGx67kznDi3WQB4OZI93Nozj+n/Gq3j3v+b4OCXY2P0ZD+vil3X7RSaDyEiD4Z2ljbX4nwkB7LnVgEJhFgLa0zgclWdpTvHavzmm8JLVn5EgZs/0uSNMpndLzJyS7no2xCFuNUSv1GM3SORdoCx9NTzBgMgIjEuUOePMAfPF1LJmxsEVLT8Cu1EoOL3k9iWCblaMD4aqm6delA/gSiSANNEzZcbj+le0h1s+/hmnUbm+SlNTs5AEUByAX4yXFaiQ==;mBQazlACXm1kmvNnqgI17A=="
+secured: "KOWkhWLlBcmws93cqBGlxaDpXfctjl8xsmg9j6+V/i5pYX2nL/TG1sNSD4SxacBHuTY+EJEWDPyoRjImDmrr9gTiNh2oVJwo482qBXonrQW0i3voDRX0NNsyKIH6Pq8fhfJF9gtUwGXR2WjgNH3z6AAAuccvT2VMFZHW1BSCOuL03b8VLUqu1W8eNsabBuR6Sj0hs6g04Fnd7wsE5wQC1y5XU0e9x3coByeud8K3HAAXwYNjTdOPbgfDT42y8kOAB9auh50idoWQI9OYC+0L7uHzyLQ4fpOr5Ec9VF5AirSBexnmB4zUi10l0EdMHKjiuov8Lb3+cl8poSArR1KLVQO5642+T7ZiALI3dR7ikBqHlJm/l9sBdsMG4a0K+MF2+kPeKpSbWFclo+5j1dSLXdjLPtn13C1yJXxH+3YgmoSBVRZbPDBMD62cODMrzToFhRcUv+blTJHqM/na9gkKErGnWnkVqMYOob3eiwjt677VrXFTu5G3Kg4M7Pg3ZlTwhblf+/w6dZzS1VUKMgELQw==;vMSVFicCRYlpmznpcMuu/g=="
 ---
 

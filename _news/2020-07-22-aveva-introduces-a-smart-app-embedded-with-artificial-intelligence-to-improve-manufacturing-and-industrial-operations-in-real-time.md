@@ -18,6 +18,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "UiPath Announces Integrations with Amazon Web Services to Allow Organizations to Modernize Customer Experiences and Scale Enterprise Productivity"
+    excerpt: "UiPath, a leading enterprise Robotic Process Automation software company, today announced it has integrated its end-to-end platform for hyperautomation"
+    publishedDateTime: 2020-07-22T12:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200722005133/en/UiPath-Announces-Integrations-Amazon-Web-Services-Organizations"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20200722005133/en/718791/23/new_uipath_logo_orange.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "DY0caJhwkO8zMdWgRQhHQu4X6mFkleWj4On17yVG072fv4SDtfLq1pzK0O8mbsyZeVVVd6q6pteKNBFbp8kIT1Inoz5IS/lRL0gCgT1zA9EZnZSVsWE8isZFPlrdph2AlVupkNhSgWwdOKnBL9q/OWxOhDtmThuxrLWbfPjDRubCDqc+Q4FQA/8i7+XAjyBhhXqDShELe7DaS1LuVSmIkOKqjTHAllFWjDRyV02f+ED2drxK4FwawgHwsVKtYNhF25r0Jl92WXNoGoqvVtmxqe0+Ad4Cgu8TSvFFR76EVNdqpmIrEHVTsvsO4vlrl53kpyCztnUxw0HfhDEov26vaGcJDSrwympojQO4eyOXLMuh9Lr/Emzj59OAx3HYYQAKNdsnGxsE0LxUrTPD7VLNwuxUuGhdrYsU1gRFuRVIP2fIKa9lXloAwi0ZFCGTdqpRz42ZNMUh5BeAzRvQUVIxA0XOdJRLOo9hlXyYu1uVJAgt4I5fKXbG/phY2x4dmtFEoIfdWX6KcpUIwDyS4NWaoA==;DicRTbti1dA2NSSSjKp5Qw=="
 ---
 

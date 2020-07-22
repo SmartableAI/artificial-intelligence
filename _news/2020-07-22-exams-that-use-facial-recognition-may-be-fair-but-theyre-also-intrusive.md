@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-re
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
 type: article
 quality: 71
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,42 +30,56 @@ images:
     isCached: true
 
 related:
-  - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-17T22:58:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+  - title: "Why facial recognition algorithms can’t be perfectly fair"
+    excerpt: "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ..."
+    publishedDateTime: 2020-07-20T16:40:00Z
+    webUrl: "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    ampWebUrl: "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 49
+      name: The Conversation
+      domain: theconversation.com
+    quality: 74
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
+      - url: "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop"
+        width: 320
+        height: 205
         isCached: true
-  - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-18T02:17:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+  - title: "Facial recognition is tech so special it should be banned"
+    excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
+    publishedDateTime: 2020-07-18T10:32:00Z
+    webUrl: "https://www.thestar.com/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
+      name: The Star
+      domain: thestar.com
+    quality: 59
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
+      - url: "https://images.thestar.com/SNvkIuVfk53rgxKcN2NDTSiF3Tg=/1200x800/smart/filters:cb(1595006600990)/https://www.thestar.com/content/dam/thestar/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned/recognition.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Counterpoint: The hidden threat of facial recognition technology"
-    excerpt: "A law enforcement vehicle outfitted with facial recognition and artificial intelligence systems is seen during the NVIDIA GPU Technology Conference in Washington, D.C. (SAUL LOEB/AFP via Getty Images) Civil rights advocates have long warned that facial ..."
-    publishedDateTime: 2020-07-22T11:33:00Z
-    webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
+    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
+    publishedDateTime: 2020-07-20T09:26:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 50
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Why we must arm police with facial recognition systems"
+    excerpt: "It’s now evident in the Unites States that there are pockets within police departments that have demonstrated racial bias. This has resulted in a"
+    publishedDateTime: 2020-07-22T11:26:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/why-we-must-arm-police-with-facial-recognition-systems/"
     type: article
     provider:
       name: SC Media

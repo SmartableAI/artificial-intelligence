@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800</loc>
+    <lastmod>2020-07-22T06:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/</loc>
+    <lastmod>2020-07-22T06:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/ai-text-generator-gpt-3-learning-language-fitfully/</loc>
     <lastmod>2020-07-22T04:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -37,12 +49,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased</loc>
-    <lastmod>2020-07-21T23:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/</loc>
     <lastmod>2020-07-21T22:17:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,6 +69,12 @@
   <url>
     <loc>https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms</loc>
     <lastmod>2020-07-21T14:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html</loc>
+    <lastmod>2020-07-21T14:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -187,8 +199,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/</loc>
+    <lastmod>2020-07-21T05:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/21/leaders-from-google-adobe-and-more-talk-benefits-and-bias-at-the-conversational-ai-summit/</loc>
     <lastmod>2020-07-21T04:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their</loc>
+    <lastmod>2020-07-21T03:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -273,6 +297,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20</loc>
     <lastmod>2020-07-20T10:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608</loc>
+    <lastmod>2020-07-20T09:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -463,6 +493,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493</loc>
+    <lastmod>2020-07-18T16:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/johnkoetsier/2020/07/18/50-of-food-grown-globally-is-wasted-can-ai-fix-it/</loc>
     <lastmod>2020-07-18T15:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -531,6 +567,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/17/why-unity-claims-synthetic-data-sets-can-improve-computer-vision-models/</loc>
     <lastmod>2020-07-17T15:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/</loc>
+    <lastmod>2020-07-17T15:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1195,6 +1237,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.morningstar.com/news/business-wire/20200715005132/memsql-expands-collaboration-with-amazon-web-services-joins-isv-workload-migration-program</loc>
+    <lastmod>2020-07-15T05:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/thomasbrewster/2020/07/15/the-pentagons-1-million-question-can-ai-predict-an-enemys-emotions/</loc>
     <lastmod>2020-07-15T05:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1705,8 +1753,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
-    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388170</loc>
+    <lastmod>2020-07-13T06:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

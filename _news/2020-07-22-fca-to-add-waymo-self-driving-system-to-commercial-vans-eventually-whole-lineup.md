@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fiat And Waymo Strengthen Partnership To Develop Self-driving Vehicles"
+    excerpt: "Automaker Fiat Chrysler and Alphabet's autonomous driving technology company Waymo have further expanded their partnership by signing an exclusive deal to develop self-driving light commercial vehicles."
+    publishedDateTime: 2020-07-22T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/fiat-and-waymo-strengthen-partnership-to-develop-self-driving-vehicles-2020-07-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/fiat-and-waymo-strengthen-partnership-to-develop-self-driving-vehicles-2020-07-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fiat-and-waymo-strengthen-partnership-to-develop-self-driving-vehicles-2020-07-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans"
     excerpt: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans The deal also means Waymo's self-driving technology is to be used eventually across FCA's fleet. Check out this story on Freep.com: https://www.freep.com/story/money/cars/chrysler/2020/07/22/fiat ..."
     publishedDateTime: 2020-07-22T07:21:00Z
@@ -99,6 +110,22 @@ related:
       name: Detroit Free Press
       domain: freep.com
     quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
+    excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
+    publishedDateTime: 2020-07-22T12:16:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5485167002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5485167002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 58
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"
         width: 1200
@@ -183,6 +210,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "/PbYFeFPe8NFJKb3nPKg4s6gaMMwqS8sOx15ccQGy1mr6va3uZPtegNL6OCziFzfSRg9fpMKeiTU0XZmFxEqfkHTZuPb7JRTA389tm7cBI+UxaCpzJuRzM9+NWtQAbLoJqUi6GsVGbCZt+Wc5ngv8ERaSlXYNileCbZCPGNMjZpy41S3My2Rfq4DX1EVlBjyz35py2V7fxe8DZhQLNatlXQX3PeHOWh5tS0aOVSYpJp3ZVOqgCuX6RvLldtuJxbZ9fgqdxVLcx4vHYu6G+NCoV9e/WS5ePzaaH3I+6DWok79dciETK5FrT1X0qwhvwsd4BKU4sRUh6xeaE1SCuOtyA==;XX1XvfseaGkRASzyTpofKA=="
+secured: "en/pyw1brG6CcNSo6Cg4d7S4YakQPVHXBvOLlu7mLSjDvPfgaXPeAGRkM8W6hBOzOobhfW5hSanTVDtmSNtPm9ZKODp1oz508+IwOUHUTvyIxRP1bJn6ESFHhbT28N00bW6eDjNU46vMnZqVH5+6mGK6/aynej/AH7D7GwBuDQXpcmZ+mEI4wewa8mRd4QmL31iu0XQOCnSziqvsH/bLYs2LLLUlXubhuO4yiOCSdxPL1W/uOBhsCYK6djxtB5Jll9SNiTauH1IGCwK+VKMTZnaieVi0afAcWs/dXZMTd21pQEkAsL8JtZBXWB0fMzQQGhmY0t3AplggSqfzlBYVcd3cESpRN80zjepnbJXZVPws5SU+9m4Ej+4xeSMS0mRXcNKSYv1V0O3nyeWlI3qLsjX8Kxm1WJLmU2sfKtJ4kZvt4I2wiPiBP9NfB1+hYVo9bqo7md50XEEYs5vHaKB7LrzG5l+WpOis8vVZ+Fxl1ZqM6Zm8RAboSFYOyiYoO5WlIEFk3CzJOqt0BDFT/xn/xA==;HTVlpXNh85K2wpCqF2ErAA=="
 ---
 

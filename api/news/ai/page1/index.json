@@ -2,6 +2,104 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
+      "title": "Autodesk Acquires Construction AI Company Pype",
+      "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-211866/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
+      "publishedDateTime": "2020-07-22T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-huddlai-wants-to-bring-more-intelligence-to-online-meetings.md",
+      "title": "huddl.ai wants to bring more intelligence to online meetings",
+      "excerpt": "As the pandemic has shut down in-person meetings, and pushed us online, products like Zoom, Cisco WebEx, Google Meet and Microsoft Teams have become part of our daily lives. Into the fray jumps huddl.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Huddl.ai-Meeting-Moments-Screen-Shot.png?w=680",
+          "width": 680,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/22/huddl-ai-wants-to-bring-more-intelligence-to-online-meetings/amp/",
+      "publishedDateTime": "2020-07-22T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-did-a-person-write-this-headline-or-a-machine.md",
       "title": "Did a Person Write This Headline, or a Machine?",
       "excerpt": "GPT-3 was built by directing machine-learning algorithms to study the statistical patterns in almost a trillion words collected from the web and digitized books. The system memorized the forms of countless genres and situations, from C++ tutorials to ...",
@@ -250,7 +348,7 @@
       "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -293,56 +391,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
-      "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
-      "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "publishedDateTime": "2020-07-21T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
       "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
       "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
@@ -350,7 +398,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 199,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -533,6 +581,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-21-state-senate-to-vote-on-facial-recognition-moratorium-bill.md",
+      "title": "State Senate to vote on facial recognition moratorium bill",
+      "excerpt": "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/dc/bdc5a438-188a-11e7-a429-2ff44cfdd520/58e27d54bdfe4.image.jpg?resize=1024%2C713",
+          "width": 1024,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html",
+      "cdnAmpWebUrl": "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html",
+      "publishedDateTime": "2020-07-21T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Niagara Gazette",
+        "domain": "niagara-gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses.md",
       "title": "Roomality uses AI to render window-sized 3D landscapes without glasses",
       "excerpt": "Now a company called Roomality plans to use AI to deliver an immersively large 3D experience at home, without the need for glasses. The concept is fairly straightforward. Two cameras mounted above ...",
@@ -671,7 +760,7 @@
       "webUrl": "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 117,
       "tags": null,
       "images": null,
       "type": "article",
@@ -700,8 +789,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -1312,105 +1400,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-how-nasa-built-a-self-driving-car-for-its-next-mars-mission.md",
-      "title": "How NASA Built a Self-Driving Car for Its Next Mars Mission",
-      "excerpt": "Perseverance is significantly more autonomous than any of NASA’s previous four rovers and is designed to be what Philip Twu, a robotics system engineer at NASA’s Jet Propulsion Laboratory, calls a “self-driving car on Mars.” Like the ones on Earth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f15b1cc3be74bc75e5b4ca0/master/pass/Science_Marscomputer_PIA23469-IOTW-full_res.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
-      "publishedDateTime": "2020-07-21T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-smarthops-ai-tool-matches-small-freight-carriers-with-available-loads.md",
-      "title": "SmartHop’s AI tool matches small freight carriers with available loads",
-      "excerpt": "SmartHop, a startup leveraging AI to match small freight carriers with available loads, has secured $4.5 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Smarthop-1.jpg?w=1200&#038;strip=all",
-          "width": 1152,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
-      "publishedDateTime": "2020-07-21T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

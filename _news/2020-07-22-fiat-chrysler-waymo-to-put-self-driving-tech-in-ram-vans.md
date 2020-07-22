@@ -90,6 +90,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fiat And Waymo Strengthen Partnership To Develop Self-driving Vehicles"
+    excerpt: "Automaker Fiat Chrysler and Alphabet's autonomous driving technology company Waymo have further expanded their partnership by signing an exclusive deal to develop self-driving light commercial vehicles."
+    publishedDateTime: 2020-07-22T13:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/fiat-and-waymo-strengthen-partnership-to-develop-self-driving-vehicles-2020-07-22"
+    ampWebUrl: "https://www.nasdaq.com/articles/fiat-and-waymo-strengthen-partnership-to-develop-self-driving-vehicles-2020-07-22?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fiat-and-waymo-strengthen-partnership-to-develop-self-driving-vehicles-2020-07-22?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
+    excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
+    publishedDateTime: 2020-07-22T12:16:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5485167002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5485167002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 58
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving startup Aurora expands vehicle testing to Texas"
     excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
     publishedDateTime: 2020-07-20T23:06:00Z
@@ -183,6 +210,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "VtewPoS2gO6oYgwX0pWLG1vpesRvF8SsJhyBJgGrEjSmO0CBKvF5oX6gUKHOkUJRRIfj+GWtHTY6Q1N1vcPile/QmpRHaCOzN9lKGF7R3zgJlFDDeHyej+3oHrF/7PX+Q2y8rwtL9bwJsFFAEcEQVY2Wh6rtsque5ZS0IxcwpikZiXDkZ1fG2s4tPUYz8Omiqo6xQXMoWxJftnhBVDuVHRMnrr/KJJ+jWsZdaDn1nz+5I45BDvVltk6Lsu5j/1a9VEJP32rKhLQmuz3npyHmZPtaTo3RI+YsmS+1n8hLYExc/CjmyfUdYKVc7jKd4NqL+8LEMk1wbSYEfayunUnR3A==;Tvb8LNxWUz2CfzLrozSw6Q=="
+secured: "nsxIbzIW8sfnltuvhxzsqv1QMTyKTxL1U3RP98ZxxTpFQyr+sgHaH0+23pV+OrIprct2b2SMLAXzja+3Sf8y9Vpz7Eg28AkOgNEfc6R5s9e+l0dIF2IPbiRprRfzpP4eMku/dNNnuMU7jlfgU0T+0acvx6C2FM3VxLKvB8I0OgYO1brFPfPsYFviviwIoyXuuS55PowzqWDs0upgH25lihYE4Bj6WZnRP8481mBQWb4J9s33+H716BUrEdEluutNXoc42Cz2nX+3+lDWifRvCRUsBGVqc39eTyn5q5f1KIgZ1F4vobjIybxi3dw0gLvPkUFUztDegR+0l1yQLWA5izNi3wSgub2Wpsx+Wji9ipuyG/idQe5p9ZnlILTEIOHy6BVt8sf80REOh/nOghPD0+Lcvjc3nvRwF/+zr8sgv6G74YW0h75KgjRuwfBwT3R0jRssrQOjYWf+RyS4WAohzwZUosfSgY98fUhAn63R0adghSd6XZr4ENVEO8md55d6YNEdAMyJGl0RGNJ34pMzsA==;URgu670A5SfrJtNJ5rAGQw=="
 ---
 

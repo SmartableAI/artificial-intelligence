@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
-excerpt: "The driverless tractors segment of the agricultural robots ... farms is also contributing to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and ..."
-publishedDateTime: 2020-07-13T13:36:00Z
-webUrl: "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html"
+excerpt: "Driverless tractors are quickly taking ... to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer ..."
+publishedDateTime: 2020-07-13T13:43:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388170"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388170"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388170"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
-    isCached: true
-
-secured: "hhAv706ZKV3YLEGKVS5wX1qac025QRpYxqpGN3j0NJXqhYoWySNvt5mz3M8i7EGy+lx0frR7P6dt2wk1rw8mywIqrF7fmNjEQadyTUuuMpfW92hSbFDlQSqZcG+/RkBQqyNRQYnfcK6jSsdwX+qJ0eAmleIroBlnTfJ8ymcnZXTiNbnFpjDr3Gn+5HTCW1RgCGQ60fhbFym/T2ZgwSRNbiYZIGx+wSRSra0ksN56J1vrRmF4X8Y7lXh774E4S2lgUKbGDuZk9cpFQAjpwXQ8Mme0Nwjo00B8qtAEXPdZD3JkB+Xg1XpVSR20/cSR5Ti5u83Ht6xJvrIYtMoBgz8l4KbuxJDMpiVdQ0G+uzbzdI8PT0gQEUFeZb1rmTWbxVZ+HOGafVQ9H7blvhfwlUqxV0qGpxRUiOSpQtTk/l1joyB5GxHW3DqSHiq+AMyqDF20zQn5enXpCSmzKh6AGNWmcnPsK6Zm+BP1HGjw9E91SC+xLBE05aiw0/TKf4QhqWTFdOFNd95kE8pw/qHFqC4Jgw==;MUtgFiddy+QwDXvV11QPWQ=="
+secured: "j1cyHtCJNGkZD/DXgDdhEM3GhWLF/39qAVhQFSo5gRBh//XL2mEvwfbFbbNtycdICvQL3AsNk9cZPIwW2C3JNgQxD2ZcMopu7cD3JQyE6Bdem5HvuHEHrHoxjGeoWdNcU0DJezL45DlkHqMgASQ4jWpPDP29A5AY9JtSjP2ryTXkcEn/eOdUNLigPFni31tz2sAGi4WjGU4Fz/CotQJbctZUpsW5DRCt+YdJvanOaC0ndAAV4f5IicEk1M20qtxlahwi7MmP0YuyYK4PtHjD0pKnSd73Cf4YR70NmKV4pyTqDVqMVeG0QmqpiAr678KZ2jFHjcBOj6XKpGNZIy1EtQ==;WeqZ7iV+6Mfoa8xMYjuhjw=="
 ---
 

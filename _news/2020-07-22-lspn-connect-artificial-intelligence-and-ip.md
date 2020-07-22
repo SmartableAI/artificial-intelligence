@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence (AI) offers exciting and unprecedented opportu
 publishedDateTime: 2020-07-22T11:21:00Z
 webUrl: "https://www.worldipreview.com/news/lspn-connect-artificial-intelligence-and-ip-19976"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.worldipreview.com/media/image/aaaaiiiphonlamaiphoto.jpg"
@@ -22,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "b3AsJt1d07NaVGuaWdNehpVkNeugGggJNFX+OdHxk7ZtymZJ8HgxLSaewk2LBsn/r/jf9h1viSyTt7rzqs9Og1Ky/ql2Zk+UidpTU7kOjnUTnqWJ8f6+Jn9Z2P55a4tH5zHbbsWa+mkm33yZayKxWbEGUYCzoUZ0FMrIPaTHuCDIDVmpgidaikAEefbzn07LkOwcldxXFFPMFJxtbCqOYv+MwxQYohDX6Wrg+Cb3KzkmCKwm2xUJNZyZwM06mPTehZ789+oBNGp9BthbR6SCZgYdgbCpwgUNZ8ha0Davg9Ac3H9G4oPQ2Pz5twydI/o+NzDqSfGuZ9deZNdF5J+7Kw==;7AU49GJma00E7DBP1xHDAg=="
+secured: "WzJoQQu8AFPlYQTXCEandj6ky3wtv5Ev3nwmmtVR1vP85M74p+qlVoj6883GtF4Y6993aAp5+5BW1gcwmrh0njqm48drzkQnyPX39h5cobno4YDsg5QtbZCsY5+YxGESzVqFyA5Ilrrve+8jIWift+mZiuzvmgtA9Qs18pT8QCyRcz5tpDpY6n/8NtuE64G9UhBpxJf3gQHHpmd2j6DAINgA8E9mQCxTChu5koymvfsJ0kltZbinxp6LlWqWyPn7Ta9X9aCuUE1ZJviUecu0QndxtQPeJSUeHFDjVTWomQYQeAY98/bAkevOtO18rqFe7OEgR3vHLx5w+ShmOsi23DyfoB+06Jao5W37axLC0LS9JSZffHMuqHKxNOHbeGWN5TWslXe/9Hz5UQO4cvUrtnE9F6XZTOKXMFOWTdIxnOXgxdlDHPFY6vuIauO6zYpr2sFZZj1rSORsKR+ro6sU/uFLEozHHeJMr4e/JVi35Wj6jzEFJUOodMJ16CSCl+SRlbor12tMMqA2MAcmQYekKQ==;AgzO93937ZfW0ErJ/ouonQ=="
 ---
 

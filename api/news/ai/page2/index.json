@@ -2,6 +2,105 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-21-how-nasa-built-a-self-driving-car-for-its-next-mars-mission.md",
+      "title": "How NASA Built a Self-Driving Car for Its Next Mars Mission",
+      "excerpt": "Perseverance is significantly more autonomous than any of NASA’s previous four rovers and is designed to be what Philip Twu, a robotics system engineer at NASA’s Jet Propulsion Laboratory, calls a “self-driving car on Mars.” Like the ones on Earth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f15b1cc3be74bc75e5b4ca0/master/pass/Science_Marscomputer_PIA23469-IOTW-full_res.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/how-nasa-built-a-self-driving-car-for-its-next-mars-mission/amp",
+      "publishedDateTime": "2020-07-21T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-smarthops-ai-tool-matches-small-freight-carriers-with-available-loads.md",
+      "title": "SmartHop’s AI tool matches small freight carriers with available loads",
+      "excerpt": "SmartHop, a startup leveraging AI to match small freight carriers with available loads, has secured $4.5 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Smarthop-1.jpg?w=1200&#038;strip=all",
+          "width": 1152,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/smarthops-ai-tool-matches-small-freight-carriers-with-available-loads/amp/",
+      "publishedDateTime": "2020-07-21T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace",
       "excerpt": "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ...",
@@ -39,6 +138,47 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition.md",
+      "title": "Black Lives Matter forces an IBM U-turn on facial recognition",
+      "excerpt": "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -89,6 +229,56 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-alipay-allows-pet-owners-to-buy-insurance-by-using-facial-recognition-on-their-cats-and-dogs.md",
+      "title": "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs",
+      "excerpt": "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/21/3cd591c0-cb20-11ea-9c1b-809cdd34beb3_image_hires_175945.jpg?itok=ylDU3jZF&v=1595325600",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
+      "publishedDateTime": "2020-07-21T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -290,7 +480,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -711,6 +901,47 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
+      "title": "Why facial recognition algorithms can’t be perfectly fair",
+      "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop",
+          "width": 320,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
+      "publishedDateTime": "2020-07-20T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1199,239 +1430,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-2084-what-happens-when-artificial-intelligence-meets-big-brother.md",
-      "title": "2084: What happens when artificial intelligence meets Big Brother",
-      "excerpt": "A professor of mathematics at the University of Oxford, doubling as a philosopher of science and religion, John Lennox has some pretty unique insights to put forward when it comes to the future of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/10/621dc6a7-f340-450b-8d06-b36fb968a62d/thumbnail/1200x675/514c5532a548be1da7ad4d60559ea82d/nhs-app.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2084-what-happens-when-artificial-intelligence-meets-big-brother/",
-      "publishedDateTime": "2020-07-20T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation.md",
-      "title": "Japanese robot to clock in at a convenience store in test of retail automation",
-      "excerpt": "By Tim Kelly In August, a robot vaguely resembling a kangaroo will begin stacking sandwiches, drinks and ready meals on shelves at a Japanese convenience store in a test its maker, Telexistence, hopes will help trigger a wave of retail automation.",
-      "sourceUrl": null,
-      "webUrl": "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cyprus-mail.com/wp-content/uploads/2020/07/japan-robot-1024x720.jpg",
-          "width": 1024,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
-      "cdnAmpWebUrl": "https://cyprus--mail-com.cdn.ampproject.org/c/s/cyprus-mail.com/2020/07/20/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/amp/",
-      "publishedDateTime": "2020-07-20T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cyprus Mail",
-        "domain": "cyprus-mail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-unesco-invites-public-comments-on-ethics-of-ai.md",
-      "title": "Unesco invites public comments on ethics of AI",
-      "excerpt": "Specialised agency UNESCO has rolled out a global online public consultation process on the ethics of artificial intelligence (AI). This move, according to UNESCO, is to give everyone around the world the opportunity to participate in the work of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/LPwQ57l6xJGqNgkj",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/07/AI-laptop-2020.jpg",
-          "width": 2849,
-          "height": 1472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj",
-      "publishedDateTime": "2020-07-20T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-corporate-execs-are-starting-to-get-skittish-about-ai.md",
-      "title": "Corporate execs are starting to get skittish about AI",
-      "excerpt": "Corporate boards have begun to worry about the ethical ramifications of turning so much power over to the machines.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/07/2010-08-10T120000Z_532442558_GM1E68A17IK01_RTRMADP_3_JAPAN-ECONOMY-SHIRAKAWA-e1595019940905.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1882153/corporate-execs-are-starting-to-get-skittish-about-ai/amp/",
-      "publishedDateTime": "2020-07-20T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-after-smics-stellar-debut-chinese-ai-chip-maker-cambricon-technologies-soars-350-per-cent-in-shanghai.md",
-      "title": "After SMIC’s stellar debut, Chinese AI chip maker Cambricon Technologies soars 350 per cent in Shanghai",
-      "excerpt": "Cambricon’s gains make it the seventh-largest company on the Star Market, but it is unlikely to post profit until 2022 amid rapidly increasing R&D expenses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/20/e102abda-ca52-11ea-9c1b-809cdd34beb3_image_hires_151603.jpg?itok=GR-pTyWE&v=1595229370",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/markets/article/3093892/after-smics-stellar-debut-chinese-ai-chip-maker-cambricon",
-      "publishedDateTime": "2020-07-20T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

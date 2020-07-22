@@ -36,7 +36,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 69
+    quality: 67
   - title: "Nvidia collaborates with the University of Florida to build 700-petaflop AI supercomputer"
     excerpt: "A $70 million partnership between Nvidia and the University of Florida will fund the creation of one of the most powerful academic AI supercomputers."
     publishedDateTime: 2020-07-21T18:36:00Z

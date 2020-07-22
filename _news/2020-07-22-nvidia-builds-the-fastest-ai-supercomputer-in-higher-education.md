@@ -34,7 +34,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 69
+    quality: 67
   - title: "Chip maker Nvidia and University of Florida to build 'fastest AI supercomputer in higher education'"
     excerpt: "The machine will be used to apply AI across a ,amy areas like calculations pertaining to rising sea levels, aging populations, data security, urban transportation and food insecurity."
     publishedDateTime: 2020-07-21T19:35:00Z
@@ -88,6 +88,6 @@ related:
         height: 449
         isCached: true
 
-secured: "6sfsR7UCzFkUo+s9WK2m2DNrvULfMei19tq0tWoqEN8p22TuTwRVtgGlE73kNgW7mQ/XUhVztaASAA3GPfZZj9lf2U+xLglbBFD8EX+ccoXVmB1FrQ7xVRfIWZT9MGDR0yEYpGzRCWqtH2QctNq6Jm4FOONC8ukdCt9Jg4bVN024GqXKNm5/FA5cjwWr7upJD33PNOHtyYaPjvI5pHlOk2mOivz9VvvEBthGJHZ8ly82y+lee1R+Pd4GE5lKyleKcpmIXOO4bqVh9a/ZWMAu72I/rrsq5ZjH1UcCW6zSl0ugA7r8PSrw2h2CZveUt0pkXxCaO//i7QvoqQaBGIit5g==;jAne2WThqCEg9U2W7WRE/A=="
+secured: "pMerraACJ12KPZqvv/1UI8Xu6OUs0uX1Udpm08Gtx6tx+clc9o7OP4LbBpc2NkSN1lptdlQm0iL6+qVWIIKqKGkld6foqUrXSqfSrUMHtctDXXcsjWsazqcHq4VugtzYiNrP+NU5EdKEb6xOFzQZbKETDG+3iXdZ5/UyF3CM8FVMZ78+miutZ46VCMUX2m0IavXkCcM/6+FHTQx3lrJ6By6twcMTV3I3EOqyrDE+gd3b7USzMPSNC/uxJBBwok92laiVRkGUKOnIAdAnPfZfDv7IBF/VtH8EWJlDwLtWgEParx54Mx3AluPkvMM523XPkMH3hz1HbzdQ5sBzDACbLroDiWq+o3rOa/AdJKl653pu96tQL2LJxATN/umfwMqCeSNxu/PROkcJD/tPLueahDznLTs/zJwBLzbMvc1NvioSqhCnUop1N+/8I9YZrHPbQYgInxuZBbjvz17VgC9n4DQz07Q6mcYYq251szF6CrDxzWDi+uXW4zWo/7Mb+w4S8ADOzOlJdbCL0+d3wGyhFA==;mvzHTC98+z2rn4g5sz/24Q=="
 ---
 

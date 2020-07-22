@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
+    excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"
+    publishedDateTime: 2020-07-22T02:23:00Z
+    webUrl: "https://www.globaltimes.cn/content/1195270.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 27
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-02/42e2dcb4-d86a-4852-971d-482bdd9d8dcd.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
 secured: "6quiB/DaGoehA3vyRunsSyExL2ExSsCOfm3G+j6OeiS5Cs2vSQ+tXLTBuVzJsyUdQMLxbdUYebzp8sT7FqJU0pvcvY1i1lrCc0h+vu5x6tZR+ktTElcapFVeZgICKeE6CCWwG6+C6cZDNuO/EAIL83lw8C/AUQvu2QV122qNnLiWCDviEmjHnbjX60Tk55C6ULt7j5qSIsRw3EbFOQ+VuK9VutciQGxFwwa2qiXIPS/GiI7/U5/En291YrK1e5bNf5Z2d/1kC2BVhaqFMvOHXJesVovfYAKgf4idSIyJlHmcGM9qhcgkH3AOtid+9+JzB9XENsUe348HtFnVVNZT0evaCxV8P6zMLsR7oW75GBRTrARojR6u0kU7NGCdWUzWyc7Ds2Ts+qZqAiiJCesZ9JsZcQS81CSW9EhQNLWYJR4x4uU+Iw56bzv3jvY0gJQki8sCTPS4x4nrt0yXPZqd4OUUECsD/Ac6OU0ZfHQe9bikveGM9U2TjozNYUJCXhIsgH17TH0U3pDAs069QZegCA==;aaCh+nMkoQACWIjZGFzaUg=="
 ---

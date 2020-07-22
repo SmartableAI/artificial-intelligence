@@ -7,8 +7,8 @@ webUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partn
 ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
 type: article
-quality: 69
-heat: 119
+quality: 67
+heat: 117
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - AI Hardware
 
 related:
   - title: "Chip maker Nvidia and University of Florida to build 'fastest AI supercomputer in higher education'"
@@ -91,6 +90,6 @@ related:
         height: 449
         isCached: true
 
-secured: "Kut2vzv2yp0SHktfVNISeVXAzr1+UryNq8uariaeaAAr7YfWd905Vmgw96+qsJJ3k3BgBmiE8OAbI8xLmvWY20DjojIa852qTi7oRyTrFGrFa5SU12KFyqSrbrgO3kDI+3RY8uFMJRZcbwcg/A01VuYfy7pQTEfQWiwUCJj8Jdaw14nCrGdPW4z8A5kLRap4Bu6unvA3Y61lDDNUgn4H35j49BvGt/FdKFi8xLh0xu4DsKfdnigzWdpqfBTivBpuGd5VaCFyoK3Svhn6mELxTC4Q2JnuHTwko8Atzf0LMrOkDzbM9DYu5Hs2ya4u+MKjwu3Nw1rGXLmMpWz65dowFrIEaVd1VDl/J11C+DVFoK817BaIAiS2KUvgRr/3glXJS8FKAfRnr6KOHUDLXMD7c/1Fb1Y07hFujrANz9Fq8Wpo/4kVWsrUwK2d4+/nLf2kCDiQrkXeQVQ8e4z0DtRGDhQ86yy2wHjUA0OwETuIOACZ7zZSkJYHwSjZSZk6cWL38g/7o9r4/crWuD5CkhQ6Cw==;hSC2+/Xcs1wurJbDE70ZBg=="
+secured: "kSM0sU26Ahi0MdXFHKbl4m/1pSkfsXIbXihmPiXnXTHQzFk8c4tOBzrqIH02N6b+W/qJrTpgNL5Kt9DghAB4zc5ZAXJbUyEM1qndF07YvcsB5GfBOAP1XFwCcFINPBcdBe+cPnkfrAUmeZicle/UbpSksGHXZqnJRlFU4wq7EU6Fk3fppu8WpC0+kdLt/M/ziMpM4T9UX3VF5PsBEck2zxC+R87A5tj5l5+Q22DV5QuLAgcG1im4Q52NVdQ4inosWhMiK5YIYGo2VZoMTcMVDjsYzHNGA5vuiYwf2tK9LCRwbZMzDXOC0DrZ9c0Jj3+DfMF30D8MjxVSi+GZh0RVqI+nibT9wL2XKoYNKq5jU/+Anl9yxbs+H9I1p9LMVBt4KDWziabr2LpR8SA0kBtuL1N89vXFtqw7TnEMukbknWVb2908Z+7XZfcEq2XlJAh5f7weTTIk+oR1FyKn/7XuVIVxWEwFEI/vUe3GK0sBBkIvFrO9Uvx3ebogIdKZymNi+QwBfKU5VXLsbQ8mOHRZHQ==;r3qcizLDGrOjOO+Ph2VX2w=="
 ---
 

@@ -39,6 +39,20 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 20
+  - title: "EY and IBM Partner on Digital Transformation to Help Clients Address Business Challenges"
+    excerpt: "EY (formerly known as Ernst & Young) and IBM have announced an enhanced, global multi-year alliance to help organizations accelerate digital transformation and improve client outcomes, including leveraging the hybrid cloud capabilities of Red Hat OpenShift,"
+    publishedDateTime: 2020-07-22T13:32:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/EY-and-IBM-Partner-on-Digital-Transformation-to-Help-Clients-Address-Business-Challenges-141921.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 15
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
     excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
     publishedDateTime: 2020-07-17T21:12:00Z
