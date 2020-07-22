@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2020/07/19/google-launches-ai-tool-that-translates-ancient-egyptian-hieroglyphs/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/07/20/11/30970914-0-image-a-15_1595241610437.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Google came up with an AI powered app that can efficiently translate Egyptian Hieroglyphs"
-    excerpt: "Google has recently launched an Ai powered Hieroglyphics translator called as Fabricius. The app is freely available at the Google Art and Culture website and application. The app was opened for downloading since Wednesday."
-    publishedDateTime: 2020-07-17T12:21:00Z
-    webUrl: "https://www.techjuice.pk/google-came-up-with-an-ai-powered-app-that-can-efficiently-translate-egyptian-hieroglyphs/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 30
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/07/google.jpg"
-        width: 700
-        height: 524
         isCached: true
   - title: "Google launches online translator that can decipher ancient Egyptian hieroglyphics"
     excerpt: "But thanks to Google Cloud's AutoML technology and AutoML Vision, these programmes have given developers the technical edge that equips a machine to recognise a vast selection of images. Although its \"Play\" translation option is not as academically ..."

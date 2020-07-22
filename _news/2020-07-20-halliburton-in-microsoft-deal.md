@@ -37,17 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Halliburton Partners Microsoft, Accenture To Advance Digital Capabilities - Quick Facts"
-    excerpt: "(RTTNews) - Halliburton Co. (HAL), Microsoft Corp. (MSFT) and Accenture plc (ACN) announced Friday that they have entered into a five-year strategic agreement to advance Halliburton's digital capabilities in Microsoft Azure. Halliburton said the strategic ..."
-    publishedDateTime: 2020-07-17T12:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020"
-    ampWebUrl: "https://www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/halliburton-partners-microsoft-accenture-to-advance-digital-capabilities-quick-facts-2020?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 61
   - title: "Halliburton Teams Up to Advance Digital Capabilities with Microsoft, Accenture"
     excerpt: "Halliburton, Microsoft Corp. and Accenture have entered into a five-year strategic agreement on July 17 to advance Halliburton’s digital capabilities in Microsoft Azure."
     publishedDateTime: 2020-07-17T13:47:00Z
@@ -77,20 +66,6 @@ related:
       - url: "https://media.datacenterdynamics.com/media/images/FrackingHalliburton.width-358.jpg"
         width: 358
         height: 268
-        isCached: true
-  - title: "Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
-    excerpt: "Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton’s digital capabilities in Microsoft Azure."
-    publishedDateTime: 2020-07-17T12:00:00Z
-    webUrl: "https://apnews.com/b467a34562484b769bb04a71ab986f65"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 25
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "UAE- Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Saturday 18 July 2020 [ AETOS Wire ] ( BUSINESS WIRE )-- Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton''s digital capabilities in Microsoft Azure."

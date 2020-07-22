@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Plus.ai partners with Transportation Research Center to test self-driving trucks"
+    excerpt: "Plus.ai, the Silicon Valley-based self-driving truck technology startup, announced on Tuesday an agreement with the Transportation Research Center (TRC) to test Plus.ai's"
+    publishedDateTime: 2020-07-21T15:59:00Z
+    webUrl: "https://www.benzinga.com/markets/20/07/16711823/plus-ai-partners-with-transportation-research-center-to-test-self-driving-trucks"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16711823"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16711823"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-21_at_11.55.26_am_0.png"
+        width: 1468
+        height: 858
+        isCached: true
   - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
     excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
     publishedDateTime: 2020-07-19T06:48:00Z
@@ -148,15 +164,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Mobileye begins testing self-driving cars in Germany"
-    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
-    publishedDateTime: 2020-07-17T13:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "8rWP31wntKfGk0bfsZD/1HAnAZJdaLJ73Ak//sRUdifqSvarYPvFS1R6deTyCCz+x0rcHc46qkdjlZn01+mW7v7kYy77hOtTEnzdHobOw1gLOBCr/VbhxSnA2jgoGdtKqAkJqH/UodM8eZLkYM7adT3eTRIHm019MVRddZu0rOupN8iNkzQALWrX3Fjjzw71jF/VDgCZbKgbdPzX4QRZvuE3k2mHS5QUbhs6uJYcyWrdsIKL03sEzuhNv1E1Ty3Pl9bZNb4fgcCDMsDd8BDsuZPVEt5UQxJmZRqBocOHktOknEbIrIkQZUuw6w/tYcx8NrECqrw1fCpX5XDLxrbI7LpxqoNeqwuSXEQ5MO/8yApngOnP9WI7bjFzhEj5cLK/Y5KTa1fcYjzzHtkHiDwYEZORH43KWTqnC0Eo4iyulaD2R5ksKVZ6sSLEaRGrI0c51NmHVx+GCBFTVKFFL2HjIzqCUC7ItqkJ+msaOXKIqt85SMVh6YRZVKuPXcEuzMplf73C6wqxd3F9qJKBFFQBBQ==;0a8ZmAQJKDM/TmUJOeAkfw=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-share-trends-regional"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Emerging Market and Legal Trends in the Top Five Global Startup Ecosystems"
-    excerpt: "The recently published Global Startup Ecosystem Report 2020 ranks the top global startup ecosystems by metrics including performance, funding, connectedness, talent, and knowledge to highlight the winning startup cities worldwide."
-    publishedDateTime: 2020-07-17T11:18:00Z
-    webUrl: "https://www.ipwatchdog.com/2020/07/17/emerging-market-legal-trends-top-five-global-startup-ecosystems/id=123353/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 20
-    images:
-      - url: "https://www.ipwatchdog.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-12.57.07-PM.png"
-        width: 326
-        height: 258
         isCached: true
   - title: "Digital Health Market Trends 2020, Size Projection, Applications, Growth Statistics, Regional Insights, Sales and Share Value By 2025"
     excerpt: "New emerging technologies such as artificial intelligence, robotics ... Tongue-Stabilizing Devices (TSDs), Epap Therapy Devices, Position Control Devices, Chin Straps), Distribution Channel (Retail Pharmacies and Online Stores) and Region (Americas ..."

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Navistar Enters Self-Driving Trucks Market"
-    excerpt: "Navistar International Corp. has taken a minority stake in TuSimple, a self-driving technology business, and established a development partnership with the company, which they say will produce SAE Level 4 self-driving trucks by 2024."
-    publishedDateTime: 2020-07-17T12:13:00Z
-    webUrl: "https://www.mhlnews.com/transportation-distribution/article/21136840/navistar-enters-selfdriving-trucks-market"
-    type: article
-    provider:
-      name: Material Handling & Logistics
-      domain: mhlnews.com
-    quality: 24
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2020/07/Navistar_tusimple_truck_800.5f0f77a4b06e6.5f10b8dbbfd9f.png?auto=format&fit=max&w=1200"
-        width: 768
-        height: 432
         isCached: true
   - title: "Aurora Innovation to test self-driving truck tech in Texas"
     excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"

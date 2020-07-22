@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-20T06:21:00Z
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -28,21 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Neural Network Software Market"
-    excerpt: "The component based, the neural network software market segments are services, artificial neural networks, deep neural networks, and platform among other. The artificial neural networks segment can earn substantial revenue for the global market in the ..."
-    publishedDateTime: 2020-07-17T11:54:00Z
-    webUrl: "https://www.openpr.com/news/2092243/neural-network-software-market-2020-global-size-share-key"
-    ampWebUrl: "https://www.openpr.com/amp/2092243/neural-network-software-market-2020-global-size-share-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092243/neural-network-software-market-2020-global-size-share-key"
+  - title: "Machine Learning as a Service Market Growth By Manufacturers, Type And Application, Forecast To 2026"
+    excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
+    publishedDateTime: 2020-07-20T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://cdn.openpr.com/T/7/T717664215_g.jpg"
-        width: 800
-        height: 353
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
+    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
+    publishedDateTime: 2020-07-21T06:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026-2020-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "u6sQpGXmUHHumEyUgRq475yILusiRFFxOWdhdX4MOF10DfyA+k61va1BA0KzOyd18DSZL+4wlNHNvjg7O/6SYGCdPJ/e0Qm4/tVffp/kBm8W4K9LwGooGH0E/tHkiLPcoJnFseOOZs6i2uRKagoX+m0inEArtddC4mcnSinHljIXNY0o6bnrz1h2b5L3SeCj+LkGT/forPaXqdCg1Ww7b/nrxsP/pgVE+Re+qndZEqqP0+33k6/EeSnTg/H53V4y+vHzMMXQrpGbMW77RvdVwaDILM2ayaQybubqrmKd4ZCF1Jr/7TZ4v6TzlYRKOc3zm9yL2TI28D540oBF1dYJIA==;F5j9Q2ZrpR8V7bIO0GbaSA=="

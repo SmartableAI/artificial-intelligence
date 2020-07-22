@@ -1,26 +1,24 @@
 ---
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2020 Vision Tank Start-Up Competition Winners"
-excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition,"
-publishedDateTime: 2020-07-16T19:53:00Z
-webUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-301095130.html"
+excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition, which showcases the best new ventures using visual AI and computer vision in their products,"
+publishedDateTime: 2020-07-16T20:14:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-  - AI in Robotics
-  - Computer Vision
 
-images:
-  - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
-    width: 1000
-    height: 524
-    isCached: true
-
-secured: "DVACq7n8lJ1hhwf67AKsKz17zEDrb6175g7hKyonnHc6PIQtHsSbleXvOY+KU2P9qoM7PwhEVXaGMwyXbYCYbUjI4GF+ksqUL++0+c5SylmKhqvGXNG7EkTbwFE6LtKBYG1kzYOCiV9RwLhGtNHzMzTHCz2b1p+uBWyF5CMkxSY+CObgS9ltffrxbCw1di7qnALBw0SQlc94IPhxMN9QjEtxe4xKjl8gGzAOSt/gL3r7oMIDPVvBxLBqLFavAJd5CvQLWRmjoEdJS/q81XB/q4hyfT2gGvuqSWUCT9p/V/u1HXK55f2WhwzuSR+ydLsOdH7nbbNvJyhuIbiTeuZg8UL1dD6pdSn+lcYERmOtgxW1Twf27XKdMPy6PIjh0ZZqm9olMq4pqss3HZ+fW02lOdHgTEonYcOrVU+1smyPUF5OpYqOtYw3AeI5pTacTLhopGuqFTI0XXsRaMxkeZbUDQzSWT4xtmYzr5JsPhI1IMe8XOoORdYGFkFrLwt0hd2fSRAy03sHhTbQhW3qLJJQwg==;kMaRgrgvfAKUN9uU5l8nHw=="
+secured: "/8AKKDMbDcx40Vu78CDCae8kO/EDelrOxm/azOLxdfKR3KrVOpFR9R1aIZ9okmg453DoxPJPlTeA3qI2LpBl6xjzckd0SzZ73QMD6QQBqk4agQu12mSGjrbf0xPVegy9NHhVaMA0n/D11IaJebR/Ix55yF6RhafFEEWTIlPHkrIBV/YaJcASEvBXKZGXCskj4Ey6aqZI9IyWX9+Z2yhT6+LwNr0qIW3OcqdL9Pv7p7N7Xbu51z5XFQPLlIbwLB2dXXijCkOo+B/1QWseUMKuOk6VhNRJu7lEO3LlXIUaBpLheDwkEmGS+Y00n3yYtF57Gn53dSs3Vz3sIcVq8Fm9hQ==;pttTQmW1weOn6So7HYLyfA=="
 ---
 

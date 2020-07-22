@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Neural Network Software Market Growth By Manufacturers, Type And Application, Forecast To 2026"
+    excerpt: "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and ..."
+    publishedDateTime: 2020-07-20T06:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning as a Service Market Growth By Manufacturers, Type And Application, Forecast To 2026"
     excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
     publishedDateTime: 2020-07-20T06:06:00Z
@@ -38,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Chips Market 2020 Competitive Dynamics, Growth Analysis, Segmentation and Worldwide Players Strategies up to 2025"
-    excerpt: "Jul 20, 2020 (CDN Newswire via Comtex) -- The latest launched research document namely Global Machine Learning Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 provides an in-depth analysis of the market size, share ..."
-    publishedDateTime: 2020-07-20T20:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chips-market-2020-competitive-dynamics-growth-analysis-segmentation-and-worldwide-players-strategies-up-to-2025-2020-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

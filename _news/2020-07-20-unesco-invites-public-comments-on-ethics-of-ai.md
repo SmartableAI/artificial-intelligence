@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/LPwQ57l6xJGqNgkj"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 2849
     height: 1472
     isCached: true
-
-related:
-  - title: "Unesco launches global consultation on AI ethics"
-    excerpt: "The United Nations (UN) body opens up public consultation to help experts draft new global framework on AI ethics"
-    publishedDateTime: 2020-07-17T11:36:00Z
-    webUrl: "https://www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics"
-    ampWebUrl: "https://www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252486285/Unesco-launches-global-consultation-on-AI-ethics?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
 
 secured: "GPMUNOd+Ami0kPv39NNjLwLDFRd4GILDIe/iJ7ZEFHENqrWN5NCu4rDjyfdQVqNEOrN8ko4YJ/gt7pdJ3rcbLh47z3arF4f0Hx0Xe/y8IZmT7SoElA1WIiTSdntF5v9wAyn1V4HAtMvvfwzwX3bSoZxfLa3hZ0hfQ8zdLIPYxDAf49IN3W8l6KIsnI2wh70QGFmq+Q/ZI8ltwFGzUbv4hLeZ2N+hK6l6GnnJoHVlBexmi4nlvtLodqjlsesZs6cdGP+qfzmrxKCDIoOFongwSBc9gjH2ESIjdEAdBrxgEgM6fC61XNtgJ8SL4nRWkeYHJ+36hzBorFU3YozcpvGGgdaH6SxKGkNxvY0wWD2U7ZIchb7LSZEgbtpadc25un3FAA5RkPYPlLz9nkEzvcvIAWjmye9VcnAQ0DfezjfPlkEe6lJBCn0pF1+gaZaAnGrbGR1rkiO1I7ySCHK0F2+VpTBzKTWC65qv3phTsPRY7uHk2iWJnXqlaGXxdrv1xkNjjLFmQRSoSWKV3xJInTDINw==;S5pmP/s55W7DBKPHjDywmw=="
 ---

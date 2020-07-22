@@ -29,7 +29,7 @@ related:
   - title: "Self-Driving Cars Will Race in Indianapolis. Tesla Can’t Take Part."
     excerpt: "Universities will compete in the Indianapolis 50 in 2021. It’s a new event helping bring autonomous driving to the masses."
     publishedDateTime: 2020-07-20T21:31:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-tesla-indianapolis-50-race-indy-50-51595280596"
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-tesla-indianapolis-50-race-indy-50-51595280596?refsec=hp_INTERESTS_technology"
     type: article
     provider:
       name: Barron's

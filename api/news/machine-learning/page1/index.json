@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-21-using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms.md",
+      "title": "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms",
+      "excerpt": "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative).",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/cio/CIO_logo_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
       "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
       "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
@@ -203,14 +244,14 @@
       ]
     },
     {
-      "path": "_news/2020-07-20-machine-learning-as-a-service-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
-      "title": "Machine Learning as a Service Market Growth By Manufacturers, Type And Application, Forecast To 2026",
-      "excerpt": "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance.",
+      "path": "_news/2020-07-20-neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026.md",
+      "title": "Neural Network Software Market Growth By Manufacturers, Type And Application, Forecast To 2026",
+      "excerpt": "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20",
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -225,7 +266,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-19T23:06:00-07:00",
+      "publishedDateTime": "2020-07-19T23:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -249,8 +290,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Finance"
+        "AI"
       ]
     },
     {
@@ -1423,58 +1463,6 @@
         "Machine Learning",
         "AI in Autos",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-the-path-to-real-world-artificial-intelligence.md",
-      "title": "The path to real-world artificial intelligence",
-      "excerpt": "Experts from MIT and IBM held a webinar this week to discuss where AI technologies are today and advances that will help make their usage more practical and widespread.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/the-path-to-real-world-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-path-to-real-world-artificial-intelligence/",
-      "publishedDateTime": "2020-07-10T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

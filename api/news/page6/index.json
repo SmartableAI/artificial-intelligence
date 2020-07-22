@@ -2,6 +2,55 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-16-adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help.md",
+      "title": "Adobe CIO Stoddard: AI bots can ‘cut toil,’ reduce demands for IT help",
+      "excerpt": "You may only know Adobe as the Photoshop company, but it has spent years integrating AI into its products, as well as its internal business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/adobetransform2020-e1594212394263.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
+      "publishedDateTime": "2020-07-16T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-ibm-and-verizon-business-collaborate-to-merge-ai-computing-with-5g-networks-for-the-enterprise.md",
       "title": "IBM and Verizon Business collaborate to merge AI computing with 5G networks for the enterprise",
       "excerpt": "A joint effort to help companies harness edge computing and a low latency network with AI capabilities for real-time insights. By combining IBM's proven success in AI, with its AI data analytics tool Watson serving a host of industries, and Verizon's long ...",
@@ -1058,56 +1107,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-amazon-google-microsoft-sued-over-photos-in-facial-recognition-database.md",
-      "title": "Amazon, Google, Microsoft sued over photos in facial recognition database",
-      "excerpt": "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "publishedDateTime": "2020-07-15T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

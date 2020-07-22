@@ -70,6 +70,22 @@ related:
         width: 1200
         height: 703
         isCached: true
+  - title: "Plus.ai partners with Transportation Research Center to test self-driving trucks"
+    excerpt: "Plus.ai, the Silicon Valley-based self-driving truck technology startup, announced on Tuesday an agreement with the Transportation Research Center (TRC) to test Plus.ai's"
+    publishedDateTime: 2020-07-21T15:59:00Z
+    webUrl: "https://www.benzinga.com/markets/20/07/16711823/plus-ai-partners-with-transportation-research-center-to-test-self-driving-trucks"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16711823"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16711823"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-21_at_11.55.26_am_0.png"
+        width: 1468
+        height: 858
+        isCached: true
   - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
     excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
     publishedDateTime: 2020-07-18T13:15:00Z
@@ -144,15 +160,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "Mobileye begins testing self-driving cars in Germany"
-    excerpt: "TÜV SÜD, a German technical service provider, enabled Mobileye to obtain approval from German authorities by validating the vehicle and functional safety concepts of Mobileye’s AV test vehicle. The testing can be performed anywhere in Germany including urban and rural areas as well as on the Autobahn at regular driving speeds of up to 130 kilometers per hour."
-    publishedDateTime: 2020-07-17T13:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15440/mobileye-begins-testing-self-driving-cars-in-germany"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "QSy92jcF3JA7F2oSst6DA4Btt3O4JD4P/jceWDNgeVe4b9dU5tbHthAwyPKh3wKRdOwwbLYovMdDoR45s8BZyEAAct9CoKu1MWDPvlnBSwqP2h+xxjWrFbXDC/siQeeq9hWjED9kNRFU/WJVnugYRtpOAThoupL4ASouUHQ6QTL2FxlXbvKy95Or2F83adZxhoatrVCuYPjz00PIjBR7l6CaCYVQjyF+mnwON7WvHKfoEjOwqcZP8GeCxu03Sx4bvNSdeRVkpvBVN+tpkERaJyvFhVkXaJBmQIKW3CCS8AplRASwBBsOvSJGyAPvdeuAebud8kJBgOtvcUh4ZNOT/heceCQ5/XZMNWI3ifyRYhDhTgMfqMnLSpdImlwKJkS/a195VvwpP0vMR2rYbaZJcgsQHP8QeUT+trpHCOAGJE5XNJlBy+H5DUIKC2d33jz5ARyx1jQkvR7QtRK1UqLqbLkmC8jCQ5nBn6livtxihTFYYoS8WRnfYeVwsbu7FkTUpuVVtmywcWYEuPgDinOztg==;dacy91wUIkXrqkKTfgTsnA=="
 ---

@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emerging Market and Legal Trends in the Top Five Global Startup Ecosystems"
-    excerpt: "The recently published Global Startup Ecosystem Report 2020 ranks the top global startup ecosystems by metrics including performance, funding, connectedness, talent, and knowledge to highlight the winning startup cities worldwide."
-    publishedDateTime: 2020-07-17T11:18:00Z
-    webUrl: "https://www.ipwatchdog.com/2020/07/17/emerging-market-legal-trends-top-five-global-startup-ecosystems/id=123353/"
-    type: article
-    provider:
-      name: IPWatchdog
-      domain: ipwatchdog.com
-    quality: 20
-    images:
-      - url: "https://www.ipwatchdog.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-12.57.07-PM.png"
-        width: 326
-        height: 258
-        isCached: true
 
 secured: "mHapLiG8fGMJPZ1TY+b+HlzvI8FN5f1vSBfA13vkf2Pz3BiPUvls3By+atPky5+aFT+f+VW05I69/9KghAoBiTN3/x5qxlx+Jg1ghPKCj+PZ197PIpSXt7zJfB32Tls1/AwvW2/w7p7+qI6i8+aR0cgE3NU92jw+HSppIXIbWn/u1BaYpe87R7uP7nW+Oz2uDT4jqdMzVTKpbdkZZPIHxf3rx96WesHQFqsdIJz8XIyVpQbYji8mfeVLUmSxzZhOzfoRN2oIGqeg5/dFwyKLTSvU+TE/JOwpOQ0om5lnYTR2hh2tZlG2WQ+4Rck+WN6OtI+s7KD3N11N2LMh2r9GbqSE5ILPueW0fYsE7UTcwMhQm5j+GJMRNFar2sFl14Rz3Ii+PirpEdw4Yz7z5eMri89idzcFsCBOOJoV+mHgafUz+7ZtWR52/Zep2W6uRSoQhZcLKWJ7qKL0opdi2JYaTIvjP7N4haXaR47g/z2hTJHiCX418V0rpNcZBIHHAotlH3mFkYf2Wi6H8hMq9SgYhw==;VyJqn+oC61GL+CPnwR18cg=="
 ---

@@ -42,6 +42,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in ..."
+    publishedDateTime: 2020-07-20T14:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
+    excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
+    publishedDateTime: 2020-07-20T06:46:00Z
+    webUrl: "https://www.openpr.com/news/2092901/artificial-intelligence-software-market-growth-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "zUwBvrn85201V1FHckhAeDVLdhfdwNdC0r1o+zMszz4mgtdsXLnFCSGtMAdO8r47RG7HjkfHSLcLnhp8pWxJGH6/Y/fM8qOJSOgYaCcqtRb10HRVbWT43lv2g/XqjbqGhpwqhHOiwC1ZofZKl0Cd7Rmrzn7r74toloP5KzxdGjjxUO2Syilqg77fUm4N86xTJQNQTxL+ZYeiVUZoBT+ANWoCmDzEeYuwQ268E4W+3i7WhilCwOoG2/C71B1UCcLJ6rHfYEULJafLiNo2Kk4NOEK45qt/znazBn2MP/3BpJdNxjFYIw0DfGffEHEt8J0yN6JSVjVrthCA2N3MfN+peg==;ezfvjIP6/oKTOHFAxr6Rxg=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Cybersecurity Services Market Trends: Leveraging Artificial Intelligence, Machine Learning And Blockchain Technologies For Cyber Defense"
 excerpt: "Leveraging artificial intelligence (AI), machine learning and blockchain technologies for cyber defense is a key trend in the cybersecurity services market. Cybersecurity vendors integrate artificial intelligence (AI) and machine learning principles into their solutions to tackle crucial hyper-connected workplace risks,"
 publishedDateTime: 2020-07-21T21:20:00Z
-webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21"
 type: article
-quality: 51
-heat: 51
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -27,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "6qJYpBM2jCoYJ6Ln3+ZL/DLQwOMNbDvhp4TorKLT/OLb+aHzgJS0F2fXI4dUrnUUa6SdVVZtNM03uDYIyQXFcJBKHsb6Y5hofyVYPW1Wy0Kbjqq265Vr1hd0MRO7FwraGd8C6l38Oxaefin7p16X9ijIGKdu+b1EoHPzHwx82y9Ess5UDPgt94th4oJlHFwK95xPbLRXeeV2t62LM6qUfaaUep+m76DLzmwBvoPwb0qr357llDDU5FDZa6hNiK2DLgsDVvZju4IoNK9IN0QOgWHEngjoQoW9pesyRkwaNuLCcBsVa73z6MAO/ICllkAUUCnApn4oH7PZkNpzNr3rcw==;xfJnxIN5JuQ1smIkGJUyMA=="
+secured: "N5+/Cyr7Des4cY5oToqebltTJv7MQAwcXTEextzrsaeV+XH6R6mSqbhl2mHYx3WL+YMjkSSFUO0S2sJ6HzItNtL1RLtVHENh2nG6bC/mUVoI9KEilLFFMo7n7KooFYD+hd3Ote9tnyoxVbpHkvhSTDI8MsQqgKCXxbdcaGoj6dsO8afQNjuz1WMxofxNr7hOStqxWYAPu3gzOHubXEkVWDKKpEzhKd0ev5JNn+McW7VzBeev60gAa0O/xgP6aiRN7/ibIj+kGoaefK3359GWFJK0ZMQxHb1gzwc6zHX3b7SaQUM8TFkcJj7FkvGLidiCSOKhsugnS8sDA8wQceRcuA==;hu1gEqkcAhRV1YcK9QQDgA=="
 ---
 
