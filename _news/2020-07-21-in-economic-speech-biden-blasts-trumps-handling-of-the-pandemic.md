@@ -7,6 +7,9 @@ webUrl: "https://www.nbcnews.com/politics/meet-the-press/blog/meet-press-blog-la
 ampWebUrl: "https://www.nbcnews.com/news/amp/blog/ncna988541"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/blog/ncna988541"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: NBC News

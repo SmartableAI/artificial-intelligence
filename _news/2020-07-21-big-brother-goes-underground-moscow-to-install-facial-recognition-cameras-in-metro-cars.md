@@ -7,6 +7,9 @@ webUrl: "https://www.rt.com/russia/495441-moscow-metro-facial-recognition-camera
 ampWebUrl: "https://www.rt.com/russia/495441-moscow-metro-facial-recognition-cameras/amp/"
 cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/russia/495441-moscow-metro-facial-recognition-cameras/amp/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: RT

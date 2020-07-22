@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-17T11:23:00Z
 webUrl: "https://semiengineering.com/spiking-neural-networks-place-data-in-time/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

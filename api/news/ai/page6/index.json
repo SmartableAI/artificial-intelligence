@@ -2,6 +2,297 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-16-the-top-16-companies-using-artificial-intelligence-to-revolutionize-drug-discovery-according-to-experts.md",
+      "title": "The top 16 companies using artificial intelligence to revolutionize drug discovery, according to experts",
+      "excerpt": "In 2014, there were an estimated 89 AI-backed companies focused on drug discovery. Now, there are as many as 214.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f035fb72618b902835797c6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/top-16-companies-using-ai-discover-new-drugs-2020-6?amp",
+      "publishedDateTime": "2020-07-15T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-human-quirks-health-medicine.md",
+      "title": "Human Quirks: Health & Medicine",
+      "excerpt": "July 15, 2020 — In a groundbreaking new study, researchers have 3D printed a functioning centimeter-scale human heart pump in the lab. The discovery could have major implications for studying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/news/strange_offbeat/health_medicine/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
+      "title": "Why supervised learning is more common than reinforcement learning",
+      "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/ion-stoica.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/why-supervised-learning-is-more-common-than-reinforcement-learning/amp/",
+      "publishedDateTime": "2020-07-15T16:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024.md",
+      "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
+      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024-2020-07-16",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-15T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
+      "title": "The right data: Transform’s panel of experts weigh in",
+      "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-3.40.29-PM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
+      "publishedDateTime": "2020-07-15T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-mit-researchers-warn-that-deep-learning-is-approaching-computational-limits.md",
+      "title": "MIT researchers warn that deep learning is approaching computational limits",
+      "excerpt": "In a newly published study, MIT researchers find evidence that deep learning will soon (or already has) run up against computational limits.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/nvidia-selene.jpg?w=1200&#038;strip=all",
+          "width": 1145,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-warn-that-deep-learning-is-approaching-computational-limits/amp/",
+      "publishedDateTime": "2020-07-15T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024.md",
       "title": "Navistar teams up with TuSimple to produce self-driving trucks by 2024",
       "excerpt": "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple.",
@@ -1194,296 +1485,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-unesco-launches-global-consultation-for-draft-ethics-of-ai-guidelines.md",
-      "title": "UNESCO launches global consultation for draft ‘ethics of AI’ guidelines",
-      "excerpt": "To help build a draft resolution on how AI can be developed and deployed, UNESCO is seeking global policymakers and AI experts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/unesco-draft-ethics-ai-guidelines",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2020/07/AdobeStock_321918445_Editorial_Use_Only.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry.md",
-      "title": "Deep Dive Into Big Pharma AI Productivity: One Study Shaking The Pharmaceutical Industry",
-      "excerpt": "The pharmaceutical business is perhaps the only industry on the planet, where to get the product from idea to market the company needs to spend about a decade, several billion dollars, and there is about 90% chance of from the time it takes from discovery to a marketed product may take a decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0d8d3475efdd00063f95cc%2F0x0.jpg",
-          "width": 1200,
-          "height": 873,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2020/07/15/deep-dive-into-big-pharma-ai-productivity-one-study-shaking-the-pharmaceutical-industry/amp/",
-      "publishedDateTime": "2020-07-15T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-graphcore-returns-with-another-colossus-ai-chip-and-system.md",
-      "title": "Graphcore Returns With Another Colossus AI Chip And System",
-      "excerpt": "The competition to build the most advanced Artificial Intelligence (AI) processor is turning into a race to build some of largest and most advanced semiconductor chips ever made and new server platforms to take advantage of these mega chips. One of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0eff06cbf8d20007293cbd%2F0x0.jpg",
-          "width": 1141,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/15/graphcore-returns-with-another-colossus-ai-chip-and-system/amp/",
-      "publishedDateTime": "2020-07-15T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-gyant-raises-136-million-for-its-ai-telehealth-platform.md",
-      "title": "Gyant raises $13.6 million for its AI telehealth platform",
-      "excerpt": "Gyant, a startup developing an AI-powered digital platform for health providers, has raised a $13.6 million funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/gyant-raises-13-6-million-for-its-ai-telehealth-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Gyant.Logotype.HorizontalLeft-e1594182837413.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/gyant-raises-13-6-million-for-its-ai-telehealth-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/gyant-raises-13-6-million-for-its-ai-telehealth-platform/amp/",
-      "publishedDateTime": "2020-07-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin.md",
-      "title": "National University of Singapore used Intel neuromorphic chip to develop touch-sensing robotic ‘skin’",
-      "excerpt": "Researchers at the National University of Singapore used an Intel-designed neuromorphic chip to create touch-sensing robotic \"skin.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/7d2e4946-42e2-44e0-acbf-4da10f08eec1-e1594251380414.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/national-university-of-singapore-used-intel-neuromorphic-chip-to-develop-touch-sensing-robotic-skin/amp/",
-      "publishedDateTime": "2020-07-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-an-ethics-guide-for-tech-gets-rewritten-with-workers-in-mind.md",
-      "title": "An Ethics Guide for Tech Gets Rewritten With Workers in Mind",
-      "excerpt": "The Ethical Explorer Pack is designed to help Silicon Valley's rank and file—not just CEOs—steer products away from harmful directions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f0e550a669fd9d0df83f383/master/pass/Top_Art_Digital_Illo.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ethics-guide-tech-rewritten-workers/amp",
-      "publishedDateTime": "2020-07-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

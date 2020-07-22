@@ -7,6 +7,9 @@ webUrl: "https://www.computerworld.com/article/3567649/aussie-developers-get-qua
 ampWebUrl: "https://www.computerworld.com/article/3567649/aussie-developers-get-quantum-computing-service-in-the-cloud.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3567649/aussie-developers-get-quantum-computing-service-in-the-cloud.amp.html"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Computerworld

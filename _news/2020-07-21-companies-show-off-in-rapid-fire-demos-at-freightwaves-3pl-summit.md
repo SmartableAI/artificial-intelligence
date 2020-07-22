@@ -7,6 +7,9 @@ webUrl: "https://www.benzinga.com/markets/20/07/16718397/companies-show-off-in-r
 ampWebUrl: "https://amp.benzinga.com/amp/content/16718397"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16718397"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Benzinga.com

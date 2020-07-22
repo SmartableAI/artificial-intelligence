@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-22-visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud.md",
+      "title": "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud",
+      "excerpt": "Visa Inc. (NYSE: V) today announced a digital tool to help U.S. financial institutions with their efforts to combat new account fraud – estimated at",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/visa-introduces-advanced-identity-score-to-help-financial-institutions-prevent-new-account-fraud-2020-06-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Visa Introduces Advanced Identity Score to Help Financial Institutions Prevent New Account Fraud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report.md",
       "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
       "excerpt": "AI interfaces and chatbots have significantly improved customer service. The AI-focused Fintech market is expected to grow at a CAGR of about 21% in the next 5 years. In another new report ...",

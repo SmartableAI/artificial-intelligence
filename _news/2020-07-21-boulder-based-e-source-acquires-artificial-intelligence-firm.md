@@ -7,6 +7,9 @@ webUrl: "https://www.dailycamera.com/2020/07/21/boulder-based-e-source-acquires-
 ampWebUrl: "https://www.dailycamera.com/2020/07/21/boulder-based-e-source-acquires-artificial-intelligence-firm/amp/"
 cdnAmpWebUrl: "https://www-dailycamera-com.cdn.ampproject.org/c/s/www.dailycamera.com/2020/07/21/boulder-based-e-source-acquires-artificial-intelligence-firm/amp/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: Daily Camera

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T15:59:00Z
 webUrl: "https://www.pcgamer.com/asus-ai-noise-cancelling-mic-adapter-review-performance/"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

@@ -5,8 +5,8 @@ excerpt: "The use of artificial intelligence in agriculture is expected to surge
 publishedDateTime: 2020-07-21T19:53:00Z
 webUrl: "https://www.capitalpress.com/ag_sectors/research/artificial-intelligence-will-have-big-role-in-ags-future-scientists-say/article_40dc358c-c83a-11ea-971c-2f6043c93ce5.html"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:

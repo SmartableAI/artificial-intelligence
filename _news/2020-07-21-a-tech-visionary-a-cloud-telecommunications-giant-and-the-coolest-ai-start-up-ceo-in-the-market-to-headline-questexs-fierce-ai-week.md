@@ -7,6 +7,9 @@ webUrl: "https://www.benzinga.com/pressreleases/20/07/g16718666/a-tech-visionary
 ampWebUrl: "https://amp.benzinga.com/amp/content/16718666"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16718666"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: Benzinga.com

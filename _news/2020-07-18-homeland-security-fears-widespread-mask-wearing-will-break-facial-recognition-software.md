@@ -163,6 +163,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "NYPD sued for refusing to disclose records about facial recognition use"
+    excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
+    publishedDateTime: 2020-07-21T20:02:00Z
+    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/"
+    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
+        width: 2560
+        height: 1282
+        isCached: true
   - title: "Opinion: Unregulated facial recognition use poses risks for Detroit"
     excerpt: "Wrongful arrests should be a wake-up call for Detroit residents, as well as others concerned about criminal justice reforms, Chavis and Trainum write."
     publishedDateTime: 2020-07-21T03:07:00Z
@@ -178,6 +194,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
+    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"
+    publishedDateTime: 2020-07-20T03:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
     excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
@@ -273,6 +303,20 @@ related:
         width: 920
         height: 533
         isCached: true
+  - title: "DHS Worried About Face Masks Thwarting Biometric Facial Recognition: Leaked Docs"
+    excerpt: "The DHS is complaining that COVID-19 is limiting the utility of its surveillance apparatus by hindering the effectiveness of facial recognition"
+    publishedDateTime: 2020-07-20T21:16:00Z
+    webUrl: "https://findbiometrics.com/leaked-documents-dhs-biometric-facial-recognition-doesnt-work-masks-072005/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 34
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock-468851584-e1524503242109.jpg"
+        width: 702
+        height: 554
+        isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
     publishedDateTime: 2020-07-18T03:43:00Z
@@ -286,6 +330,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Judge: Facebook’s $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
+    publishedDateTime: 2020-07-19T02:00:00Z
+    webUrl: "https://www.kpbs.org/news/2020/jul/17/judge-facebooks-550-million-settlement-in-facial/"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 33
+    images:
+      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg"
+        width: 1470
+        height: 827
         isCached: true
 
 secured: "bzhlS1w3Jdld+B2uV4r+opwMXQOtTidt9GqQxRDz3MIxc3n6sQJ3dgOabLAtWFOHgAOYu3lL4oLauRt4caRcayeENlBEA3jT3SW15g6a46O1fgDXHW71KHym6VNlwivpd6vQ+hurr9WZriLs0+qfjoI5BD0lQIZ9wNZUC4yVwo/LsTiZ+FnQwPcA/U+N5RXSeVfRP8QlHYoWzgknvNl2u0e7pFUeliZE66M7ijAghnHDcksMDbYG0XRR6LVCUnz/fjQYjvbLFh3aQSeIfLyn09KkTXdw5cuAjJE33mQYx2kXpBkGRbTJ/NgBdYqiNDSsRJBN2kX2oIgJWnn9ruTWBSufd9OfK30U+QpYcARHStq5+VVYhOWpUWyBhZyFeQdk2Xkdth6I+AQOZ3IUoaHFy996oxeMUwt/r4HwSNYUVGgoXv/rmC2/wPUI3bTA3ITt9DQb0wY1BOPFKASymOP6IfOB5B5i0kfo72EDT1d5onWXd/n01ebcX4Z4hfh5BARz5PpGyototLYfB+ng4xPs2g==;BuTFcgu6glEROrbLaRlijQ=="

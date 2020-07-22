@@ -7,6 +7,9 @@ webUrl: "https://venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-s
 ampWebUrl: "https://venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/roomality-uses-ai-to-render-window-sized-3d-landscapes-without-glasses/amp/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: VentureBeat

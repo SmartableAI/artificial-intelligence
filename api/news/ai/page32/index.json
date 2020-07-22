@@ -2,6 +2,385 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-23-worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era.md",
+      "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+      "excerpt": "Planned before the coronavirus pandemic erupted, the Hybri app lets users create a partner, friend or family member. Once created, the digital partner or friend comes to life using either VR or AR, with users able to interact with them through either a smartphone alone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c3a78d2fdf0006333444%2F0x0.jpg",
+          "width": 1200,
+          "height": 719,
+          "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
+      "publishedDateTime": "2020-06-23T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace.md",
+      "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
+      "excerpt": "RapidAPI,the world’s largest API Marketplace that helps developers find and connect to thousands of APIs, announced today that it has added a dozen",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rapidapi-expands-support-for-microsoft-azure-cognitive-services-on-the-worlds-largest-api-marketplace-2020-05-27?mod=mw_quote_news&tesla=y",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RapidAPI Expands Support for Microsoft Azure Cognitive Services on the World’s Largest API Marketplace",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-didi-chuxing-targets-1-million-autonomous-taxis-by-2030.md",
+      "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
+      "excerpt": "China’s ride-hailing giant Didi Chuxing aims to operate more than 1 million self-driving cars through its platform by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/Didi.png?w=1200&#038;strip=all",
+          "width": 1199,
+          "height": 603,
+          "title": "Didi Chuxing targets 1 million autonomous taxis by 2030",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/didi-chuxing-targets-1-million-autonomous-taxis-by-2030/amp/",
+      "publishedDateTime": "2020-06-23T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-painter-2021-harnesses-the-power-of-ai-for-professional-artists.md",
+      "title": "Painter 2021 Harnesses the Power of AI for Professional Artists",
+      "excerpt": "AI-Based Art Styles Make the most of Painter's innovative AI ... Painter 2021 now also offers twice as many GPU-accelerated stamp brushes, up to four times faster drip and liquid brush technologies, and quicker brush and tool switching.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/g16351260/painter-2021-harnesses-the-power-of-ai-for-professional-artists",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16351260",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16351260",
+      "publishedDateTime": "2020-06-23T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-microsoft-azure-and-johns-hopkins-medicine-have-partnered-to-accelerate-precision-medicine.md",
+      "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
+      "excerpt": "Microsoft Azure and Johns Hopkins Medicine partnered to leverage Microsoft's AI and analytics tools to facilitate precision medicine breakthroughs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-johns-hopkins-partner-to-advance-precision-medicine-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ef1fdc8f0f419685c235043?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Azure and Johns Hopkins Medicine have partnered to accelerate precision medicine",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-researchers-propose-ai-system-that-reverse-engineers-black-box-apps.md",
+      "title": "Researchers propose AI system that reverse-engineers black box apps",
+      "excerpt": "In a preprint paper, researchers propose an AI technique that reverse-engineers programs without any privileged knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/23/researchers-propose-ai-that-reverse-engineers-black-box-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1079201610-e1592874115155.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers propose AI system that reverse-engineers black box apps",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/23/researchers-propose-ai-that-reverse-engineers-black-box-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/23/researchers-propose-ai-that-reverse-engineers-black-box-apps/amp/",
+      "publishedDateTime": "2020-06-23T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027.md",
+      "title": "Artificial Intelligence (AI) Market Trends, Size, Shares, Overview and Forecast by 2020-2027",
+      "excerpt": "As per the research held by Acumen Research and Consulting, \"the global Artificial Intelligence (AI) market anticipated to exceed US$ 160 Bn by 2027, along with the projected CAGR of 49% from 2020 to 2027\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-trends-size-shares-overview-and-forecast-by-2020-2027-2020-06-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market Trends, Size, Shares, Overview and Forecast by 2020-2027",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-23-rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform.md",
+      "title": "Rasa raises $26M led by A16Z for its open source conversational AI platform",
+      "excerpt": "As chatbots and other AI-based services like interactive voice apps continue to become more ubiquitous, a startup that’s built software to help create and — critically — improve how they work over time is announcing a significant funding round to continue expanding its business.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/06/bots-glitch.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Rasa raises $26M led by A16Z for its open source conversational AI platform",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/rasa-raises-26m-led-by-a16z-for-its-open-source-conversational-ai-platform/amp/",
+      "publishedDateTime": "2020-06-23T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-conversational-ai-startup-rasa-shows-steady-growth-with-fresh-26-million.md",
       "title": "Conversational AI startup Rasa shows steady growth with fresh $26 million",
       "excerpt": "Rasa, a startup developing open source conversational AI tools, raised $26 million in venture capital from Andreessen Horowitz and others.",
@@ -969,370 +1348,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-folding-based-compression-of-point-cloud-attributes.md",
-      "title": "Folding-based compression of point cloud attributes",
-      "excerpt": "Folding-based compression of point cloud attributes - mauriceqch/pcc_attr_folding",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/mauriceqch/pcc_attr_folding",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://repository-images.githubusercontent.com/222734193/0b922680-b240-11ea-849c-66c8d6b4652b",
-          "width": 1280,
-          "height": 552,
-          "title": "Folding-based compression of point cloud attributes",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-ai-researchers-condemn-predictive-crime-software-citing-racial-bias-and-flawed-methods.md",
-      "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
-      "excerpt": "At the time of writing, more than 50 employees working on AI at companies like Facebook, Google and Microsoft had signed on to an open letter opposing the research and imploring its publisher to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1236590500.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "AI researchers condemn predictive crime software, citing racial bias and flawed methods",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/23/ai-crime-prediction-open-letter-springer/amp/",
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-applying-for-technical-roles.md",
-      "title": "Applying for technical roles",
-      "excerpt": "We answer the Women in Machine Learning community's questions about applying for a job in industry.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Women-in-machine-learning-A-look-into-the-technical-interview-process",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/a7e8Kag7pYvvx5kOvdSuSg80YBVRh9ROA_1iPRqIHXauAiO6MJCdpnSt_54v6Tm7lHiymfla0JyVjJYlAPCYlZ_zz6WQFFYPa-ofaQ",
-          "width": 512,
-          "height": 288,
-          "title": "Applying for technical roles",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-bpn-14770-ameliorates-memory-and-cognitive-impairments-by-regulation-of-dynamics-in-a-beta-production-and-clearance.md",
-      "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
-      "excerpt": "In this study, a novel perspective drug BPN-14770 was given to mice. The mice were then put through a series of behavioral tests such as a novel object recognition test and the Morris water maze, to see if the novel substance helped the condition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/eln/students/undergraduate-research/2020-cosae-poster-gallery/host-page-with-sidebar.host.html/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi.detail.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.buffalo.edu/content/shared/www/eln/poster-gallery/individual-posters/shivani-avasthi/_jcr_content/par/image.img.512.auto.png/1588181447746.png",
-          "width": 512,
-          "height": 338,
-          "title": "BPN-14770 Ameliorates Memory and Cognitive Impairments by Regulation of Dynamics in A-beta Production and Clearance",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-noninvasive-system-lets-people-mind-control-robot-arm.md",
-      "title": "Noninvasive system lets people ‘mind control’ robot arm",
-      "excerpt": "Using a noninvasive brain-computer interface, researchers have developed the first-ever successful mind-controlled robotic arm with the ability to continuously track and follow a computer cursor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurity.org/brain-computer-interface-robotic-arm-2088502/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2019/06/robot-hand-on-dark-background_1600.jpg",
-          "width": 1600,
-          "height": 915,
-          "title": "Noninvasive system lets people ‘mind control’ robot arm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-apple-ios-14-the-top-new-features-coming-to-the-iphone.md",
-      "title": "Apple iOS 14: the top new features coming to the iPhone",
-      "excerpt": "Widgets used to be an afterthought in iOS, but starting with iOS 14 the company is changing course and making them a lot more data-rich and customizable. These can now have multiple sizes, and it looks like Apple has",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/06/2020-06-22-image-24.jpg",
-          "width": 1248,
-          "height": 857,
-          "title": "Apple iOS 14: the top new features coming to the iPhone",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85725-apple-ios-14-top-new-features-coming-iphone.html",
-      "publishedDateTime": "2020-06-22T15:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.md",
-      "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
-      "excerpt": "Azure IoT users can look for additional security and monitoring capabilities as Microsoft announces plans to buy CyberX",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/iot_security-100675572-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft is buying CyberX to bolster its Azure IoT security",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3563889/microsoft-is-buying-cyberx-to-bolster-its-azure-iot-security.amp.html",
-      "publishedDateTime": "2020-06-22T15:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks.md",
-      "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
-      "excerpt": "Advantech and Crystal Group are teaming up to power that evolution based on AV trends, compute requirements, and a rugged COTS philosophy converging for breakthrough innovation in selfdriving truck designs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/204893/rugged-cots-platform-takes-on-fast-changing-needs-of-self-driving-trucks",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Rugged COTS Platform Takes On Fast-Changing Needs of Self-Driving Trucks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-22T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

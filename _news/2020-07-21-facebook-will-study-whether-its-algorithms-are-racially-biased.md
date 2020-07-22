@@ -7,6 +7,9 @@ webUrl: "https://www.theverge.com/2020/7/21/21333405/facebook-instagram-racial-b
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms"
 type: article
+quality: 74
+heat: 74
+published: true
 
 provider:
   name: The Verge
@@ -26,6 +29,6 @@ images:
     height: 933
     isCached: true
 
-secured: "fwxuh3kkNuXLgFk1yAYLqnVU2sLjRzWEWEG5QuQ94cWvQpDqth55mq8ZbwghFnj0PIgaLcvrV1eDUz/pGShiCR35FGsGZS+VxV4uBvpMvwOOAfcC3yK7BmeGAEUXf7zVqFKTFQn6G3LGFRtvhgO/baR1la0DxEhHiVv3lHd/9oqpXEEDP4vipCFINw7NU1qxkaooknISZa8uEzRgMkLrcz6++ZV96BE6i/siFU2tO/WvlBaAX9eN040TE/8XHWJ4Hsyw5hLY6LSVZmvgptumYdONKFiZcZTGQn3Lm5Ve7zJhe6c4Om7a2O7DOeYq+hmOkx5QK32qv+0cSnChRUVmYg==;XRn1yhlOCVVCwvBMkyzHOQ=="
+secured: "hmO0OLo4mk4BbcU68uQut93/xpbiwzEOwJN7K6NAYIffqc7NCuDNZ4+qZCU2RCYBMl014QbZphxLMNDmT5dBEO5hm+QRciRWP8LfIP4FLHqGKLPw6l/A8JoL5Rk7Q+oYZCNrpNa85SOA3mFeu+7/xX9GcahWnLTPgCqoGS6RKVkpQkyft4J0y6S9QEC7iFw6q45lg9EHni6XOfvqK75q5wQaXuDGEZnW/TKq0mRWjKzCAsqyzPv3CBAMiCV+FIo3tBD+P0oWqbbnG3PIkaixNy1vOoJvFMOD6gANzCrMBa2G/XybiUiuwz4lWcokzkQzO6RhulimQUOiNVdAl6FsPEBOyCnRviOhvxt8divS2/ryqV2BHnHUvYYiqjX+78Bbib4tc2PCgKfIuwh6XInvQTnt6MSdmHhEXPOht2YlZhrudVD57WnLZjvRi7ZlYe86KgF3siLrdutZw9nEvWYmrw4nomO0mvThIeCSjnY+ut46CLvV0G8XF6sILs9lD4qjHskFP1AtqBt4wQ3vq6voqw==;RaulKa6E+KkEOXj0BJVL7A=="
 ---
 

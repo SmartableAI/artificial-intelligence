@@ -8,7 +8,7 @@ ampWebUrl: "https://www.brookings.edu/blog/techtank/2020/07/21/john-allen-and-da
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/techtank/2020/07/21/john-allen-and-darrell-west-discuss-artificial-intelligence-on-the-lawfare-podcast/amp/"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2200
     height: 1386
     isCached: true
-
-related:
-  - title: "The Lawfare Podcast: John Allen and Darrell West on Artificial Intelligence"
-    excerpt: "Darrell West is vice president of the Brookings Institution and director of Governance Studies at Brookings. John Allen is the president of the Brookings Institution and a retired U.S. Marine Corps four-star general."
-    publishedDateTime: 2020-07-17T09:01:00Z
-    webUrl: "https://www.lawfareblog.com/lawfare-podcast-john-allen-and-darrell-west-artificial-intelligence"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 17
 
 secured: "xLzmOOrdqCJ9Ug3LDX5sAer5RqdaIKUtfTvNgD7IXft/ug9+ZSZsj8xswgLBQejnpMzlEFdWMkI3tQxQPMSzei1BjpKphIhAKv+/B9MqNMrEwVHInPJFOAJuvWYw8woS4BIKBpD4XPTbten6YcWZEFh4TyHfWALcbxPr8oxrFq88H6xyaWC7gIp/GPiVuGUuKhCI2wRBb5Bb8JjCtEiDed2IVLZNOc+g989ogv4YWzF1hNKc7Fqe/s91h2Qc/C9ciQLfO3K1ZQ+C6bS3Y/Ng+05TxTxfXpRULu2cw/rUdhxpX63kGKhRis/7TzJjtsqm2LXFzL/E5wD1EAA4siBGho7J0rD622aUeeFI2T4YiR/UIjspamhuKbvqS3mlcTIZmkY1XXNzuDYrk5h5YHD/QUIjl1sl57nMYNy0PZzLLROp9WgqaLK29cHEN3aFOrxGA3hbwfpPNhxIb94rWl3qg2OZ9N/HVi32ezlPFrKx3rKbQSOEdPDzWuIRTS064YACdaxGsOd2X0TvHL52yGlbrg==;xqdUuZlFfUMSC/Fk5C6gmQ=="
 ---

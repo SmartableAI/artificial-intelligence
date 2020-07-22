@@ -5,6 +5,9 @@ excerpt: "In this GDC 2018 talk Showdown's Alex Casassovici and Beatriz Miravet
 publishedDateTime: 2020-07-21T20:11:00Z
 webUrl: "https://gamasutra.com/view/news/366803/Video_Using_machine_learning_live_telemetry__computer_vision_to_manage_communities.php"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Gamasutra

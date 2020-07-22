@@ -5,6 +5,9 @@ excerpt: "Inheart SAS completed its first funding round of $4.2 million to impro
 publishedDateTime: 2020-07-21T23:34:00Z
 webUrl: "https://www.bioworld.com/articles/477281-inheart-raises-42m-for-launch-of-its-cloud-based-image-analysis-system-for-cardiac-arrhythmia"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: BioWorld
@@ -20,6 +23,6 @@ images:
     height: 635
     isCached: true
 
-secured: "HzHM3bzMqJ5f6lZ5kf73xGvuL+mwXNCkaRiTB1qi+2MWyEjOmPKpOZmCdX0hekr0TJWRlq4DSPFQJPU/aTXpgVm6vyxi6iDZ0SJoxgN8Tm/aTEF40Xzbgs2uHE75dRofc26x7OAxzlNPaKGO3rmczB9pXQg6gWaVOB+MsK151r08yRoaE1oWf3zFsuEVwUgZpcqMh24aApKx9sH/9ba6m2zTLjS7v+H3cHaAQCmN6PlIYW+oGv6/BRNUsdoUiUr1M20+Ml4WZEDZaHmSmFKNFE9xcoUWXxWZ+2SBDgmKO3wL4vc/KfIAD8YCOl4VgCBH9z+9fBZW9WuOXWnDJkSVqA==;f+t4BEFTnoUazr/Fdmddow=="
+secured: "nMn/0mEwTRgkVu52vTS21Ygf2YvJstQ0H1T1FuxhQNtxral+DJZtPTga+A1ZsyARW37OVBIiCH10dq14No4LfYeKBk3VdbhwcSk36KixJWF6k9oKwsClaF6+EaYq1Rg5GfKTDvWV7k6ED2/2NTji2bvpGJimtomvvREzZxSHbrZwu6R9tl35HgHX/xhd5T5Mzg/4dCw+sO/tVzipbjnlbcRvlzX069/iDb7AMQT+r07An+9WSUYzwAiNAnlr2PVWKsksk6FHlSJh0kj3qKAgTDKVdANrZSurr7AqJm20Wya+YIcINQ3fXbgBAuX7VfqaLzv2mRQ2s616+KoePboCmcfswnr3GG41S8aHrkGKZvG08qrr8LZ36Fvea+/sbZZqEf05MKjp5464/jv3QrvuzxS1yEmiIBkMnlWpuaJdNuekUF9jlQluc8CvHTTuIBZB3o830MNqHXm5zAuBAvlz+GFJk7pW3Xgy7SH6Lw20NQbCcy3b8Al6Y/mMu6gJtplPa2WTm3MvoqVUjetFSvjhhQ==;BEhJPJvP7at3K2qUf5K3/Q=="
 ---
 

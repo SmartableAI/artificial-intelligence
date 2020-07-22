@@ -5,6 +5,9 @@ excerpt: "Leveraging artificial intelligence (AI), machine learning and blockcha
 publishedDateTime: 2020-07-21T21:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21"
 type: article
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: MarketWatch

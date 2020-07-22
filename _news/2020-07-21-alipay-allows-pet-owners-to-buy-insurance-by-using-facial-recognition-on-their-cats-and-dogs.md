@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-o
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "USD 501 using facial recognition device to increase building safety"
+    excerpt: "A local school district is hoping to make its buildings safer for students. Educators in the Topeka Public School District will be rolling out what’s called a"
+    publishedDateTime: 2020-07-21T02:30:00Z
+    webUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/"
+    ampWebUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
+    cdnAmpWebUrl: "https://www-ksnt-com.cdn.ampproject.org/c/s/www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
+    type: article
+    provider:
+      name: KSNT
+      domain: ksnt.com
+    quality: 59
+    images:
+      - url: "https://www.ksnt.com/wp-content/uploads/sites/86/2020/07/facialrec.jpg?w=844&h=478&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facial recognition feature part of the Voters Registration Exercise"
     excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
     publishedDateTime: 2020-07-18T00:40:00Z

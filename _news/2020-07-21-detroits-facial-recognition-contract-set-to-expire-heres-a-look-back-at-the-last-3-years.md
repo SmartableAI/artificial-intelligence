@@ -5,6 +5,9 @@ excerpt: "Detroit's three-year, $1 million-contract with facial recognition soft
 publishedDateTime: 2020-07-21T21:11:00Z
 webUrl: "https://www.wxyz.com/news/region/detroit/detroits-facial-recognition-contract-set-to-expire-heres-a-look-back-at-the-last-3-years"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: WXYZ Detroit

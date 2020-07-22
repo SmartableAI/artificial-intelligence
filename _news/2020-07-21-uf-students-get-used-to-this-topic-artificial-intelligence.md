@@ -7,6 +7,9 @@ webUrl: "https://www.tampabay.com/news/education/2020/07/21/uf-students-get-used
 ampWebUrl: "https://www.tampabay.com/news/education/2020/07/21/uf-students-get-used-to-this-topic-artificial-intelligence/?outputType=amp"
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/education/2020/07/21/uf-students-get-used-to-this-topic-artificial-intelligence/?outputType=amp"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: Tampa Bay Times
@@ -15,6 +18,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://www.tampabay.com/resizer/4ykkMe4LP1HQpddaKinZgUS5y1U=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/THTEHLK2NJAFNAX5ROFBPA3CZE.jpg"
@@ -22,6 +27,6 @@ images:
     height: 450
     isCached: true
 
-secured: "mxP+7dnOIBum8LT0Jp6O5bdTcFJgwDL/ipVuLfhGCpeNJSlRNe4aG6Za5Ef0DW8KUnAdNqc1DFB0Da7QHAuA3kgtRaObGQ0Ch1L4w2KiMfGr7JwtXcTdEkWLCthDzDhyM5j7kU2UVcLhLKadsQodyvl30G47w1QAJx9zznvOPEKkxcnlbOHsIgZbZgV1E0edaKaDb//0LXp23WEsMi1zgbNOCKmSlTH05gUOljMUUxMS9LsOQif4LznODjR41W4U5b2SwBODES/nbQ2wFueknJL9ORilTX2ysbgAczUPtHHsMJb8WPUK2LLv3LXnMLcL9Z/YBJx2h9zS9C5oKGnK0w==;rHimYpyMuzZirmS4O26Riw=="
+secured: "PSd33ambANnsGjB9qlciiRPlMy0cptydilm5RgA8KNn05biJDkNy/jNOUXGA77lTOCXaWv7tSWKU34MdNfmPOQUo49u9L38a6+agdFU3ye6SKm/WqEX+Cwl1fcUtPZEzolkf8tYdlWHNgoM8IW+n4NogDs56WVImfYaFDy2XDBYWwycj6tqeSEzhVOYeKa7hfxwswHRTEA7cXR9e4OVUFEgkqGEpYSzY0ELYF/+ehPgHU3e4fuBhZsDTSO6YkYn0Ku1fh04eJQ4yfzU6bSiLQZ3E4D67yS+StprHpJtE10VCoWmMZH/bHrDkoLobxEKH5lpQkOrYfx2LUiGbi5jSTQEt6SXO8ClLP8YFCq4ceKOyFMPoPp2en1fHt+bq9U1HccrH8xdCSLvy8fiG3YwYcEOwugsmjTDya4bUf2M4WDGM5wJCi3FT3uiu73IV+66Ilw6r8pKT7ZV8bMXUIFaUPS/N0hLV7x1aas545MtC5EOWdFacPwgi8p5H6ML2Ws4loeZpBi1sAuwqehE06/5nLA==;WhtsGUWgFy6PWG251jPxdQ=="
 ---
 

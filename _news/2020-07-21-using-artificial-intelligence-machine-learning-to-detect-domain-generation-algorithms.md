@@ -5,6 +5,9 @@ excerpt: "We will also cover some unique and cutting-edge methods leveraging art
 publishedDateTime: 2020-07-21T21:55:00Z
 webUrl: "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: CIO

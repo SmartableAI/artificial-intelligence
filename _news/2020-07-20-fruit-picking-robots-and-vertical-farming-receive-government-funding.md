@@ -34,6 +34,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI and Machine Learning Gain Momentum with Algo Trading & ATS Amid Volatility"
+    excerpt: "An increasing number of capital markets firms are adopting machine learning and other artificial intelligence techniques to build algorithmic trading systems that learn from data without relying on rules-based systems. With the hiring of data scientists ..."
+    publishedDateTime: 2020-07-21T19:57:00Z
+    webUrl: "https://www.finextra.com/blogposting/19118/ai-and-machine-learning-gain-momentum-with-algo-trading-amp-ats-amid-volatility"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
 
 secured: "66Tq9B7Pry/JpfkcPnugHDQwvIQmUqoV3X550obkBfbElpWDs6vyxLEJ6zxDJV7AXfJXEcFgig0ZuA0c1g3Fx2zorON9/uY21csUeNcu6ogHEZaX/htxpGs7J4b6DfCjIcZNjegZO0Lc5UB2cKRoHeJfGBHjC5BeZcteX4LOaGIfbWBP/sxSzaHWy4fKJaTYNtkzh6VjLH+9auX3il7b04K5lOtNBneuWTFmA9vkJypyPeLjtDsLYu2LYLgklUFSCteoEtPWtgEAaZ2OfvmZqIW3X1voUJ+X5DUfStXkiPuqQqWXSra8cLwBiauwo1ioMn9FDrGDd5ahcVFy3Mg5JA==;GUdyC4ipP3yAhgWKhtLC9w=="
 ---

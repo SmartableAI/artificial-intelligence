@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Healthcare Interoperability Market, 2019–2024"
+    excerpt: "Artificial intelligence (AI), for example ... the exchange of data files that are formatted in standard ways. Within healthcare, the fast healthcare interoperability resources (FHIR) standard ..."
+    publishedDateTime: 2020-07-21T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-interoperability-market-2019-2024-1029414066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Insights on the Worldwide Healthcare Interoperability Industry to 2024 - ResearchAndMarkets.com"
     excerpt: "The \"Global Healthcare Interoperability Market ... APIs can be defined to provide access to basic data sets all the way to complete program processes. Artificial intelligence (AI), for example, is primarily done through APIs, where data is provided ..."
     publishedDateTime: 2020-07-20T16:57:00Z

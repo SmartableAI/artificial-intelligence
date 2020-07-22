@@ -100,6 +100,36 @@ related:
         width: 600
         height: 237
         isCached: true
+  - title: "Aurora Is Bringing Self-Driving Cars And Trucks To Texas"
+    excerpt: "Self-driving startup Aurora Innovation has announced it will expand its testing operations to Texas, in addition to the testing it is already conducting in California and Pennsylvania. Aurora was founded by the former lead engineer for Google’s self-driving project Chris Urmson and tests its hardware and software in Chrysler Pacifica minivans and Class 8 tractor-trailers."
+    publishedDateTime: 2020-07-21T21:35:00Z
+    webUrl: "https://www.carscoops.com/2020/07/aurora-is-bringing-self-driving-cars-and-trucks-to-texas/"
+    ampWebUrl: "https://www.carscoops.com/2020/07/aurora-is-bringing-self-driving-cars-and-trucks-to-texas/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/07/aurora-is-bringing-self-driving-cars-and-trucks-to-texas/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/07/Aurorab-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "Plus.ai to Test Self-Driving Trucks with Multi-Vehicle Approach"
+    excerpt: "Self-driving truck developer Plus.ai recently made an agreement with the Transportation Research Center (TRC) to conduct capability tests of Plus.ai’s self-driving system using a multi-vehicle approach."
+    publishedDateTime: 2020-07-21T23:07:00Z
+    webUrl: "https://www.truckinginfo.com/10121806/plus-ai-to-test-self-driving-trucks-with-multi-vehicle-approach"
+    type: article
+    provider:
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 39
+    images:
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/plus-ai-__-1200x630-s.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "US self-driving startup Aurora expands public-road testing to Texas"
     excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
     publishedDateTime: 2020-07-21T04:35:00Z

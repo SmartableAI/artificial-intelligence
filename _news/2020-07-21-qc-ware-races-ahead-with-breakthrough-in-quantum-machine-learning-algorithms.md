@@ -1,25 +1,28 @@
 ---
 category: news
 title: "QC Ware Races Ahead With Breakthrough in Quantum Machine Learning Algorithms"
-excerpt: "Industry impact of Forge Data Loaders Forge offers two types of data loaders: the Forge Parallel Data Loader and the Forge Optimized Data Loader, which optimally transform classical data to quantum states to be readily used in machine learning applications."
-publishedDateTime: 2020-07-21T14:34:00Z
-webUrl: "https://www.prnewswire.com/news-releases/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-301096711.html"
+excerpt: "QC Ware, the leader in enterprise software and services for quantum computing, today announced a significant breakthrough in quant"
+publishedDateTime: 2020-07-21T14:54:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1217215/QC_Ware_Corp_New_Forge_Table_Infographic.jpg?p=facebook"
-    width: 657
-    height: 343
-    isCached: true
-
-secured: "JFLuo0XlcGixAZxysS5RZtaog5fnZSWkoBKbaiegWQsSuyvIg8Ui7mCmoulWtw2d9rF+4fKM8W93vmFrL88wXZqFmXGCZGVoyHhj0qmqfu/EZGkOFWXXt5uD8w6eY/qFtxR3/vkOR+oADJiWzyREaSqcsVKpQlqxCd68U0qYQZVtLhv2kT3KCNXbnjg3kdF6amFRfyP8wEaQWSpm3Ua0BnlJcpKMUb9krimOj9qG4ChEVsAanTyBXkq7MTk3tgEZpjXl7SuD8pgbOwZ94mXrSvTnCL44WVKi53cAzORokSS6Qxml+EZwH2RDtaeqC2VduyygkNaKCRKylybCRcodRA==;LzQmViMzJ2fVyFGQuMBc8Q=="
+secured: "E7C6NR3VdBmW8hvY6mqMStKGVitM0kwWO70Yzjtbum1wG6fSXnRvNmPR3heygzzO7ePuR3/QtH9ez6Y6zVHKxcZEdIZAGbqjWvbFjcFd8jVC0EbxKVCiA8QPDSmQLwX/mUFZzi+kVztHRz+P+7f2wzI92J8oAXe5L2IZxOZXJ1Pcgl9hP/JO9foevG6ISmgKx8f4/Qg8GCQWO73HzgdLRofc45w7acbVsyCK16g6PEwCZG1s8Tul3NDtoj+klzoilUFfgxFXuP7QyfqNecVsPdz4Z/kIU3B1bkgQpClpRtLqfb2eyNg/90vb44DW9S9A+euy0VPwwKr4rI8pUGkTSrwQB2e1hErIHySn6d+Z/KqZ/x+tffN3lZJ7dsCtmiQtPhwTMW19SBSR5lJr7O9qTaEgByl52u2ME3eFhMDG0mc0lmsV3wxi/G+lKJAxcEQmzTHrkOU7TcYBSyUierHaLd1vL7LUUDO6FXV0BHdz+CYqKxMvr+AoQV4lJHUfcDJsGiiz1et31YuTkdToIavHpg==;E9Ky57iJx/dcRe8kU8TYVA=="
 ---
 

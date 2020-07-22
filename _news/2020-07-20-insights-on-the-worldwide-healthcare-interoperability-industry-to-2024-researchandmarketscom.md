@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T16:57:00Z
 webUrl: "https://www.register-herald.com/region/insights-on-the-worldwide-healthcare-interoperability-industry-to-2024---researchandmarkets-com/article_92db4a0f-6e22-5445-9777-f2221e1b0c0e.html"
 type: article
 quality: 27
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Healthcare Interoperability Market, 2019–2024"
+    excerpt: "Artificial intelligence (AI), for example ... the exchange of data files that are formatted in standard ways. Within healthcare, the fast healthcare interoperability resources (FHIR) standard ..."
+    publishedDateTime: 2020-07-21T12:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-interoperability-market-2019-2024-1029414066"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Insights on the Worldwide Healthcare Interoperability Industry to 2024 – ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)-- The \"Global Healthcare Interoperability Market ... data sets all the way to complete program processes. Artificial intelligence (AI), for example, is primarily done ..."
     publishedDateTime: 2020-07-21T13:04:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-w
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI and Machine Learning Gain Momentum with Algo Trading & ATS Amid Volatility"
+    excerpt: "An increasing number of capital markets firms are adopting machine learning and other artificial intelligence techniques to build algorithmic trading systems that learn from data without relying on rules-based systems. With the hiring of data scientists ..."
+    publishedDateTime: 2020-07-21T19:57:00Z
+    webUrl: "https://www.finextra.com/blogposting/19118/ai-and-machine-learning-gain-momentum-with-algo-trading-amp-ats-amid-volatility"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
   - title: "Fruit picking robots and vertical farming receive government funding"
     excerpt: "It is one of nine new projects supported by a £24 million package from the UK government, where big data, artificial intelligence, and robotics are being used to help cuts costs in UK farming and reduce greenhouse gas emissions in the food supply chain."
     publishedDateTime: 2020-07-20T09:08:00Z

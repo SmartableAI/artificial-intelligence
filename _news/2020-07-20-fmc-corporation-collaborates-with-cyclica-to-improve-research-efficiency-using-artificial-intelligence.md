@@ -60,22 +60,6 @@ related:
         width: 594
         height: 395
         isCached: true
-  - title: "IBM, Verizon combine 5G and edge computing expertise to build future Industrial 4.0 solutions"
-    excerpt: "Verizon Business and IBM  have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0."
-    publishedDateTime: 2020-07-17T07:40:00Z
-    webUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/"
-    ampWebUrl: "https://www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
-    cdnAmpWebUrl: "https://www-voicendata-com.cdn.ampproject.org/c/s/www.voicendata.com/ibm-verizon-business-combine-expertise-5g-ai-solutions-enterprise-edge/amp/"
-    type: article
-    provider:
-      name: Voicendata.com
-      domain: voicendata.com
-    quality: 33
-    images:
-      - url: "https://www.voicendata.com/wp-content/uploads/2020/05/Edge-computing-e1588659016774.jpg"
-        width: 430
-        height: 247
-        isCached: true
   - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
     excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
     publishedDateTime: 2020-07-21T00:49:00Z

@@ -149,6 +149,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "NYPD sued for refusing to disclose records about facial recognition use"
+    excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
+    publishedDateTime: 2020-07-21T20:02:00Z
+    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/"
+    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 59
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
+        width: 2560
+        height: 1282
+        isCached: true
   - title: "Opinion: Unregulated facial recognition use poses risks for Detroit"
     excerpt: "Wrongful arrests should be a wake-up call for Detroit residents, as well as others concerned about criminal justice reforms, Chavis and Trainum write."
     publishedDateTime: 2020-07-21T03:07:00Z
@@ -164,6 +180,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
+    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"
+    publishedDateTime: 2020-07-20T03:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-07-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
     excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
@@ -259,6 +289,20 @@ related:
         width: 920
         height: 533
         isCached: true
+  - title: "DHS Worried About Face Masks Thwarting Biometric Facial Recognition: Leaked Docs"
+    excerpt: "The DHS is complaining that COVID-19 is limiting the utility of its surveillance apparatus by hindering the effectiveness of facial recognition"
+    publishedDateTime: 2020-07-20T21:16:00Z
+    webUrl: "https://findbiometrics.com/leaked-documents-dhs-biometric-facial-recognition-doesnt-work-masks-072005/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 34
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/iStock-468851584-e1524503242109.jpg"
+        width: 702
+        height: 554
+        isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
     publishedDateTime: 2020-07-18T03:43:00Z
@@ -272,6 +316,20 @@ related:
       - url: "https://media.npr.org/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg?s=1400"
         width: 1400
         height: 787
+        isCached: true
+  - title: "Judge: Facebook’s $550 Million Settlement In Facial Recognition Case Is Not Enough"
+    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
+    publishedDateTime: 2020-07-19T02:00:00Z
+    webUrl: "https://www.kpbs.org/news/2020/jul/17/judge-facebooks-550-million-settlement-in-facial/"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 33
+    images:
+      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg"
+        width: 1470
+        height: 827
         isCached: true
   - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
     excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
@@ -288,6 +346,6 @@ related:
         height: 571
         isCached: true
 
-secured: "bOMGitSWl8QUUkXEYJDKNfceGWZgnhhR4n8emm9qNEtKWtynDJPxtY6KG7ozOsAHj6TcUcYtY+zgYhERjtLmT1KmtGI/FEXfSnkVP6UgaSihzVU9QXZFXBxCacdXaYKSGfgjOmTRFK5ZkD5N1miX1Aj8k4g1pbK6Nf3TtNji5WnPpKmTnFs0s2TRs8ORaPARYwU6Gr6gdrc4xnaEmYy3uPmu5+LvZWjAeV1EiTCYGKW0IkSKmgnl44hVALiDX2paW8UxT8IuFTB54lkOxk8oOKQRSjCYehLNINQvWoSM0Kj1Gtz6629bWiYsYRQocq1EDlh1K9+ut3cy1RX1BcQ6fQ==;BLqVW+qA+uzfqd5WoZ9rOQ=="
+secured: "mz53ebH3uS2w90rAop76UCpJKbpTOm8bEmSY96lJ2sLWrrZ06fMtJrrhQGXyVRS/pFbTwA0vWJdoDMLmf2LX8DMSCH4mRA5wylj04SzjF6V9VS23PgWzzHd9UQg+WLG/QpnkodjyKNfp8WzLo/8tVKRQXkIRNKuHO83X/YKMAp6c5HD638cjzSKDKb2wfkMxHySPEggcx1f9QBuIJQipzYXdgdL3iUsikZyVVlGScvmtu0AN/E10MlgZamEwlKxP1LzOv33r8/gQr2X8mzD1Fj5BQttUL2WAZA5lr+oStDwtje0ZNEl643rIuUZdqNCOS+x6NU+pNGcTvBe04KYOBUoD4wofBEcQHFPZ/Hy95Q3PfCr1+7clc1VXbdWbP+Uih+e/0/F/rqM2hiea7/nYlAncbPwOiRy000qLyWUf7AzTz1ySf4HGDhaqTTqwYxzwkcJsCiI/fjpkUaojat55SeiDCYYvfQiH8vSGOWcBBh62sO43u9r4ONK7kWKfQZtL;WF7j3s7YdStfRRoZpk+d0A=="
 ---
 

@@ -5,6 +5,9 @@ excerpt: "Walmart Canada plans to invest $3.5 billion (Canadian) in a multi-pron
 publishedDateTime: 2020-07-21T04:15:00Z
 webUrl: "https://www.supermarketnews.com/retail-financial/walmart-canada-unveils-35-billion-expansion-plan"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Supermarket News

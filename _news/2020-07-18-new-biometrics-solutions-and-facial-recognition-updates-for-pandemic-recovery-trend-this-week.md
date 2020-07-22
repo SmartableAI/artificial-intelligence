@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition is part of voters registration exercise – EC"
-    excerpt: "The Electoral Commission (EC) has reacted to a report published on social media which sought to cast doubts about the existence of the Facial Recognition Feature as part of"
-    publishedDateTime: 2020-07-17T08:14:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-is-part-of-voters-registration-exercise-EC-1009786"
+  - title: "Facial recognition may become the new norm post-COVID-19"
+    excerpt: "From banking to marketing, Facial recognition has penetrated several industries, this technology could become the new normal post-COVID-19. Here's how."
+    publishedDateTime: 2020-07-21T23:47:00Z
+    webUrl: "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19"
+    ampWebUrl: "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp"
     type: article
     provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
+      name: Your Story
+      domain: yourstory.com
+    quality: 59
+    images:
+      - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Canal View launches new thermal, face recognition system"
+    excerpt: "Starting this week when an employee enters the facility for their shift, they’ll now be screened by a new thermal face recognition system."
+    publishedDateTime: 2020-07-20T21:56:00Z
+    webUrl: "https://www.uppermichiganssource.com/2020/07/20/canal-view-launches-new-thermal-face-recognition-system/"
+    type: article
+    provider:
+      name: Upper
+      domain: uppermichiganssource.com
     quality: 39
     images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/865/86556649.jpg"
-        width: 600
-        height: 392
+      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/WVaN8X7u9xgZqCtht-F0GnPNzkI=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5SOGIIJ2WJFA5PGIMXY44MBKOU.png"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "pk/N/mAEGXe+4OsNhR0rbLahT9wGuDffu/FwyJrmL40pXp8xMBybdCZFu1YLKH8M/mSHKlavmn+8bchJCXQrKuSKQv/KtOgSwpT4ePz1zCxUwHAzwVjaAumR1tZCI2x7BCFjzI8flBlmLFHUTbxAq8Kaz+Xv7wiZZ3+pZNk1Ozgo9GMYDIiySgxMGgb3ysp2CM+0oocieoEcyDUD0mf0p25pzPFi92p3lnhoJUnqHcGgmJtqCjvk6lYpzZXDT0x85tmw/64EBGXB/7iNR26WZ9DWdIEL75359iHuMojaGkDq9nLHu9terQ02LTpsUKLLMW6LccXAOMbElJLv9CtNCeQBcbq2BzYLUlv6nGTMgVBiMxK/vsIb7QLG9S4jA5adefrDj4xwyToqoDRe+Gk44YCG3Zz5h0gMEkPOBhcZlLXg26IY94vlSeQOrUebI405vkfyxvNL0WaU2ufo8IN3aevduJmnYGE3acjYKro+mZkKxOiROUxZh4D+zWprsi2wLPPq4b8e6mExNzO39LHHfA==;MNqAOQC5bVlePKXnP4Ficg=="
