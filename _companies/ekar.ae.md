@@ -2,7 +2,7 @@
 name: "Ekar"
 overview: "ekar is a market defining start up company in the UAE. Through the use of a smartphone app and installed technology in rental cars, users are able to seamlessly search, book and unlock our cars safely and securely for personal driving use."
 type: "profile"
-heat: 32
+heat: 58
 
 website: https://ekar.ae/
 
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Ekar"
 
-secured: "bIhIkokDgdahsNdmB/QpvLjBCx5R5BtM6AM90+R/toT7osep0zP+p/Fkf5Bo5p/Nbx26SCCqtvlzEKtEboO/wWskRCdSl5a9JCOUdpqQBh8L4OMsmoz+hPf8aXdW9J41EaotukjsJnn+sX/4PjfnHDfrLIwmYNqw9pe0YkgGhZ6bc5Nx2qAOYCz5yIEwMgVPe1VBH2Uvg/hJHa1hnsiKj6Y6ecs+zD0NoF3JYWwW2e/hZvAcHvLIknt32BQxrA2QJsmCIeJ4ycnljJF3Da4HFQqUAZGXx4APQY21HAeLtu/wz0JrUBd/7+tKQ6Mf9pcYNIBHnbRHiFYQJ04GlNFGIrK0o8F1F2TkeQqzgt89O3YRSHivTw0QLm8oZu24xhTI;vNhhyhoha0XC9qzg5VB+KA=="
+secured: "LPGbNh52a+1JytL0dSAoy55406jbT6TP7Y4D14Rq/OL98RzkdNX9hjrbebT6I1ewarCw1heLOxHxSwEDZPmvFbuaMJgckht6CNp35F8tdRxqGVXDtoWzvky3JXl9p6pPgeCeoVhsoNgYv/pSboIazjiqm2z3hYK3La6/Sdgd7ySjQVPsYCyOIGMU+tOd0TBF0FNXDWVoci4l4fp57GSUxaprI4sTRi//oWtHWxiH0krRK9+9ti0fjOVUjmfx/bXIzorcV7b4SyabzcJkmRxltbJvlFuD7BojKx7Mv/gclApdt8KVfbQIZHb5FWi4J5JL4bYU2Zo7H1BM7OJHA6aPKmm+7HfcBDbwf7vTSGFvJZPUooIToXQPvf0HrX5SIoai;92sEgENzSyaCl+g0peqQNg=="
 ---
 

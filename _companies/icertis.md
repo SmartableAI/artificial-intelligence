@@ -2,7 +2,7 @@
 name: "Icertis"
 overview: "Icertis, the leading enterprise contract management platform in the cloud, solves the hardest contract management problems on the easiest to use platform. With Icertis, companies accelerate their business by increasing contract velocity, protect against risk by ensuring regulatory and policy compliance, and optimize their commercial relationships by maximizing revenue and reducing costs. The AI-infused Icertis Contract Management (ICM) platform is used by companies like 3M, Airbus, Cognizant, Daimler, Microsoft and Sanofi to manage 6.5 million contracts in 40+ languages across 90+ countries."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://www.icertis.com/
 
@@ -40,6 +40,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "d0964xG5ahMyqS3FhnBWqq7pcjrF/vXlx7v6BFrOyYbco2e8gsJr8BnqXviPQnYTip4JgUEWp8+SXVQaQqLqv205TylpHFvRqf2o4JiCmMCnWG3E9U7IHapuc4Ao4rsB0/S7vOaEUmbRWUpAmWkiEsGAfQMyIKSx6nCuOhwNqvSAohXQ19mYBNuRGfaFqrgpwjoo/86+7NHHP0tsv2ukS4hK9oCh/QlAodYVDscRsOP4pJXGUZyHZJrqzDHlxs+LbaHGtmaYywOkDeyDDh11hzr3GfNxVYkKsQQ6pGWMaCGwdHE5OmU/IUd0TL/01SaM4ocKTGXthAUGBXI/pwFzrFek0pBFvkPiCV8GwBTmABvKXIuxT45HM4fzGzSna94p;v3uGPusvAcvR00jjkP7sxA=="
+secured: "G5h+unjeOUTTpt30vJzcFpxx0HlMON9Tdmpx00flIIGUMdOYl/upaSOgrH2XZaKQHqhE/lG72AkJhwT0Lksuna7RcljJ1ytTVAI06v41/Rns74FweYgcpPftsdJSZLtDvp3yDvv/wiwjxLrPdmelfbE71QE9jIfQ4dwywbdogkSPcQxCK2KPB5kdOmjNJvbCR/+d8KqY4l9GO5E+7QRUBvWon/2iFbtIeC3EvFGa6kmuDyOZE59LXa4W5KDrmaTDc/uTo/4oQbo4FM0wMaiUJBKUCW6xEpDnp0o6b0jLlGK9WPhRErAZie5Y+2N36Lt9ObxDZAnv8uCeELq1/D53zsq50Y0jBFkPJZl+Talma/B0HxTYBqkD70MaR+Kum/Bk;bLsKDKcNb7asc+ldLAaHKg=="
 ---
 

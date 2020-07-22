@@ -2,7 +2,7 @@
 name: "Dataminr"
 overview: "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries."
 type: "profile"
-heat: 87
+heat: 58
 
 website: https://www.dataminr.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dataminr"
   url: "https://twitter.com/dataminr"
-  followers: 14484
+  followers: 14483
 
 size: 201-500 employees
 yearFounded: 2009
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "SaaXXEJW4oU9WTxkq5V7IR811wfjo0ncfdUa30Icrp23aRMcyabsvChMHzV5PB5bdwec6L2MewaTECNXrWPzSHU08UkPRp5jxB4np2hDdcnMGUPASVTJ/34HpX9XQig3nHDWeWOTF+l+6d3+YJby8Tyo1OE3Z2RpRsqZgWgvtG+0QuaswLKmPds0eIIheOyCxdDo6glkqHBgKMPXiBxu5lyJfjnuC7S1iSXiVqnLnd17E4LiFZS7oBV6Qcd6tLBob9EMgVEcxpaLgFkpcbb6D42CAywqzjcdVujNiOxkQ87Kdg/pSeZoDXR9vigCS/LWBhy7gO/TOpT9tDmXZIJQKUt5jYbRONLMGDBmHVSOjp5niT+6hWQBSQpu2AYeeBHhE9Uk/shgtcIVA8+kVsJzDA==;nDBSFw28Ob5g0eC14LmOZg=="
+secured: "+DERONtEX0UwDPfw2Upfyo/bGuwY/UGpJsCTLf420Mo6gcCEFuTzQ2vRby+KbHcbj1WAhxJNNSi5RXdH7T4+UsAPWxdHkV3p9m/F6aGSXQOCAFtAUTVy8sI70upqswjB+tOKv8SldG06h/UOz0/7BF5jePa5iyTsmHJttIJdN7xEgho0IOPibRwm/DX5FQa4i6BGgGsPSZu3r5ghpD69ousLF9pA+sxFNriGIM7Bv8YmwpeN7jDSnuKUiB901W0M9Z5ijVrRsfFzD6XTMS9y2Zr3I5Xt4plsG6QMuy5mmzybmnykHVb3LW8Idcu/tRpGsen3u3xajT3DJxUeB9604+lhMjOY1wbM6lxCqQ3piFmQzM+tCPXXLHsYzJsG0V/XRYm/hrZKw4tVHQxU1ib2sA==;cAr6B+dnHSEyU8BIo2t8cQ=="
 ---
 
