@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-be
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Gizmodo Australia
@@ -40,6 +40,22 @@ related:
       - url: "https://images.theconversation.com/files/348548/original/file-20200721-133010-ua0qda.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=212&fit=crop"
         width: 320
         height: 212
+        isCached: true
+  - title: "People are using artificial intelligence to help sort out their divorce. Would you?"
+    excerpt: "An online app called Amica is now using artificial intelligence to help separating couples make parenting arrangements and divide their assets. For many people, the coronavirus pandemic has put ..."
+    publishedDateTime: 2020-07-22T16:13:00Z
+    webUrl: "https://phys.org/news/2020-07-people-artificial-intelligence-divorce.html"
+    ampWebUrl: "https://phys.org/news/2020-07-people-artificial-intelligence-divorce.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-people-artificial-intelligence-divorce.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/peopleareusi.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "YeTc/eRZzGDXiCTA9UeJLl8tVUIX5qPy+CUjzwWQCz9Z4XheTepUk8/FtrCLNAzYjIG5p+NaUqWE4g6LtsmVFeXJ7yfZ0yrV8CdeXGwQR8STyJ+0K9HuEmT1MtggSmX4WJ2sc/sv3UWGnZhUmgKlQkmh/4B9aa3seXuRsp6WoHeQr2OQYcm0c58wEnaPs0sJrPiZNLAVLsx9ZT1SPK83brnMWvatwVkIyTBD8387hSlXFQ51gwJ2pNvjfRc5b5CXX1C2Tt/hSiIhcHizxK+5kPpDen93wbVio5brvv4spKmxNpJpoeogeLh3Ze86Vfy2Sc+ksGAhefLXaHx1y492Ku5FsLcmunovmITOEhNzSTXrVmKprVuCK1tIOUlMSmLh2LAo8TR8sceheN86tQOPLzIguX/BCymgWB9P5zkv88LB4+HwOJUoUZMx/FBwcurgJU+XaKynglsXTnLH9YpRI/yxIt5DDdmRYXRTXAzH0hgTxoR1htqubX9aAbWLh3FAEH6a0yPuSGfyhqyjzNUx6A==;IZvPwFl0V2UjvzOfTd6xfQ=="

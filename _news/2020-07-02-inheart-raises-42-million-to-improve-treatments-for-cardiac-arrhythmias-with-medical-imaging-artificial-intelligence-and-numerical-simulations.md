@@ -1,19 +1,25 @@
 ---
 category: news
 title: "inHEART Raises $4.2 Million to Improve Treatments for Cardiac Arrhythmias With Medical Imaging, Artificial Intelligence and Numerical Simulations"
-excerpt: "Future will be even brighter with artificial intelligence that already allows ... become a worldwide leader in image-guided diagnosis, therapy planning and navigation software solutions for ..."
-publishedDateTime: 2020-07-02T12:09:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-9033854"
+excerpt: "PRNewswire/ -- inHEART, providing a cloud-based medical image analysis solution for cardiac interventions on patients with arrhythmias, has closed a round"
+publishedDateTime: 2020-07-02T12:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-301086165.html"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "NvYoRd6dAoSBdx+tokQ/vLz/l4hzyfP2gxa4jp5uvw0ZIW5AWDkodxZW5zPWxqfyqf0WO8Gtyq+fmt8tggFy3yDAyh9mia5EdXvvN4PnNDWUIX13hRtxXOiO9mP1WlopaV9+p98FU0lzv5BWQjaIXaoNl4Ik420sTbTMZsfNPF5GZAy0tFQ35EpCjCalQogrwV2GB0fkd5pKVHFRCf9FlKLSN+R/1i3/kz+aDDE3i0N4/SRXaEz7LdCgi1YQG7TG9EVNo+1cQW7VTrkQers5xDFWdigfafv3hwCvis2U+dLz8/zDtTM4HrdMagJi2H6mUgr8PbEMyeUGCEE8n2XhXQ==;YtO9UXVTLvZPsaR+fe77xA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1198554/inHEART_Logo.jpg?p=facebook"
+    width: 1280
+    height: 670
+    isCached: true
+
+secured: "6D7ZD/gxLbdtwDP9Zn6aPYODjACpehUzSsP6m/7B2t2AVO2e6ZZrwAwJ7kqS2guZRPG4qWnW7EuHpnQbrUyMaMwQ8Mzvw7PZafQltsgpBC8DuiOvpFJo/pPhVWGj8kzeZCeUHsgnlAdfazuTz0Tr5Sl0df4/+JqVFUxwBWb8X5H4J7xncCa1bWeYW9BnIU8/g1k98I7oz1KW6HKHZKRbaJcypRprhurJ1Bl7zPjv/WgMHVM8PZ3diIF415J/QWG4ZbHcU3fLBKbv0SdsZjhPtyvd5IcEH1gsQHrGfe0BG3F+fv7LKkXehQ+uUSpRrv9+fdUzax8N4nU1GHOKJhl7Eg==;NrBfqAsfK8uhcFENh2F9LA=="
 ---
 

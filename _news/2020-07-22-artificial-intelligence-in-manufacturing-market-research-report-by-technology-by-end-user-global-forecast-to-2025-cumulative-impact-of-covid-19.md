@@ -25,8 +25,8 @@ topics:
 related:
   - title: "COVID-19 Negative Impact on Global Industrial Robotics Market - Exclusive [200 pages] Reports by Research Dive"
     excerpt: "The progress of industrial robots through artificial intelligence and machine learning in the forecast period is predicted to create more investment opportunity. The enforcement of lockdown in various parts of the world has created a disruption among ..."
-    publishedDateTime: 2020-07-22T12:34:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/covid-19-negative-impact-on-global-industrial-robotics-market--exclusive-200-pages-reports-by-research-dive-301097963.html"
+    publishedDateTime: 2020-07-22T12:51:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/covid-19-negative-impact-on-global-industrial-robotics-market-exclusive-200-pages-reports-by-research-dive-866612079.html"
     type: article
     provider:
       name: PR Newswire

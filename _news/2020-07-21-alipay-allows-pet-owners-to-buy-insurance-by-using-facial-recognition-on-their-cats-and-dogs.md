@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-o
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition feature part of the Voters Registration Exercise"
-    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
-    publishedDateTime: 2020-07-18T00:40:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
-        width: 600
-        height: 358
         isCached: true
 
 secured: "hQ5C4R2tTW5ZcHvHQhMStUGo9tcLeCcPwZLNsVkm2qOSW+9txqeP8njzKHxtHdTERdETE3AXVde9T/JdAPObSkbUyT9TpfDGa6uFCAfdbjoxzh+WeRNT5V8ebQva9k+8C//YkPnWIvUGKcGG1TVOvpbUh1PeRSe3MDM3olxclKWfSiPX3t6otnfzQauJcoXz/+AEE9QArbRks+C3yaQ6TFGErOn4WqrPI6LTt94hQGkzbbupu96v2sX/hrt52z/1Ajh6RHs41DtIsUv/hExXmI1xGpOXZSwD+WOc9jRfG5MAz/jnRvRvw+oh0c+DLyx2+pctPOKa0tqofLsQk6zk3dOZwtbssbXMvBfH8fkQaEvA/bdvTIjDWrHRW6A6jj/8CvVMCqzjqjFFISPIrKJPyQ4pVaZArTxLeHh5rMuihnyOmF6628AhzM+4lA8XjBwn/0y67WnPHZocp4ETwwIyp4KXK3A6s7AJUJiqt4Ot0d1zE1pg5bY1dNwi11qV8rwIEVQLamAZaSv608yOBkvVAw==;gJrAa6whdNYEV6BJ5sGzhw=="

@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-21-youcanbookme-optimizes-your-apps-thanks-to-amazon-codeguru.md",
+      "title": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru",
+      "excerpt": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, “YouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.” At YoucanBook.me, we like to say that we’re “a small company that does great things.” Many",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/youcanbookme-1.jpg",
+          "width": 800,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T09:22:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-microsoft-launches-ai-powered-dynamics-365-retail-and-anti-fraud-services.md",
+      "title": "Microsoft launches AI-powered Dynamics 365 retail and anti-fraud services",
+      "excerpt": "During its Inspire 2020 conference, Microsoft unveiled new retail- and fraud-focused services to address pandemic-related issues and other challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Connected-Store-hero.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 689,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
+      "publishedDateTime": "2020-07-21T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms.md",
+      "title": "QC Ware Races Ahead With Breakthrough in Quantum Machine Learning Algorithms",
+      "excerpt": "QC Ware, the leader in enterprise software and services for quantum computing, today announced a significant breakthrough in quant",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443",
+      "publishedDateTime": "2020-07-21T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-amazon-rolls-out-little-delivery-robot-to-more-cities.md",
       "title": "Amazon rolls out little delivery robot to more cities",
       "excerpt": "Amazon is rolling out its robot delivery trial to more cities. The e-commerce giant launched its delivery system, Amazon Scout, in January 2019 using electric, autonomous vehicles that can navigate sidewalks to deliver packages.",
@@ -471,7 +611,7 @@
       "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -521,7 +661,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -711,7 +851,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1274,146 +1414,6 @@
         "AI Ethics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing.md",
-      "title": "AI News Index: Worried About Government Data Collection For Covid-19 Contact Tracing?",
-      "excerpt": "Recent AI stats highlight the current state of adoption of AI by enterprises worldwide, the future of deep learning, and consumers’ attitudes regarding Covid-19 contact tracing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1220705417%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/07/20/ai-news-index-worried-about-government-data-collection-for-covid-19-contact-tracing/amp/",
-      "publishedDateTime": "2020-07-20T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-former-ford-president-joins-self-driving-radar-startups-board.md",
-      "title": "Former Ford President Joins Self-Driving Radar Startup’s Board",
-      "excerpt": "Joe Hinrichs, a former top executive at Ford Motor Co. who left the company earlier this year, is making a tentative return to the auto industry by joining the board of a startup developing technology for self-driving cars and driver-assistance features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board",
-      "publishedDateTime": "2020-07-20T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications.md",
-      "title": "How The Rising Importance Of Cultural Intelligence Is Impacting PR And Communications",
-      "excerpt": "Cultural intelligence and empathy, along with my survival kit for communications, are the golden rules that I believe will be able to help us, the public relations practitioners from all over the world, to work with artificial intelligence, leverage it for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1181224216%2F0x0.jpg",
-          "width": 1200,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/",
-      "publishedDateTime": "2020-07-20T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -76,20 +76,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facial recognition feature part of the Voters Registration Exercise"
-    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
-    publishedDateTime: 2020-07-18T00:40:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 39
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
-        width: 600
-        height: 358
-        isCached: true
 
 secured: "qHYDks2+Jecll1ARh9S4Mw5z0Rn8h2yHDEjVg7bjbadXYi9jErQJlzJ99+hva94wIGhFYtKOCNNy1pZlHkkz9j9m+O0JBCr4IFwVQLs+w/rqPSG3Rrn0CtCjijawofxWQM3X2E+Q6nVyzA9esh8dYAwFWDoykxOXv1AJ0oJ+MbhUM+os9vD+v/+MINf8CAg0mRjXa/GOjMFOVU/9coDBgKnjLcnmUtGtf0MWJ46hle25ncYJcA8uT2CZty2p5zajpVkAM2FEQtgv1DTRIy4v3TD6fART8uDZhXlbmQ6zFmBPAWk78GUcDT8fhpknKCirjES3h56R8xvTlCJxM62I0g==;cTFhgf8SUyy9jhRguSTPHg=="
 ---

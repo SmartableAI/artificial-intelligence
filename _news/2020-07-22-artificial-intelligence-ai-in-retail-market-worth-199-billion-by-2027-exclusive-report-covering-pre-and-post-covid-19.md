@@ -29,7 +29,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Share, Trend, Opportunity, Affect On Demand By COVID-19 Pandemic And Forecast 2020-2025"
+    excerpt: "Voice and Speech Recognition is the ability of a machine or program that can identify, distinguish and authenticate the voice of an individual speaker, understand and carry out spoken commands. Benefits of voice and speech recognition includes - encourages natural,"
+    publishedDateTime: 2020-07-18T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-trend-opportunity-affect-on-demand-by-covid-19-pandemic-and-forecast-2020-2025-2020-07-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

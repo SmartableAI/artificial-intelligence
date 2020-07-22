@@ -41,6 +41,22 @@ related:
         width: 1085
         height: 589
         isCached: true
+  - title: "People are using artificial intelligence to help sort out their divorce. Would you?"
+    excerpt: "An online app called Amica is now using artificial intelligence to help separating couples make parenting arrangements and divide their assets. For many people, the coronavirus pandemic has put ..."
+    publishedDateTime: 2020-07-22T16:13:00Z
+    webUrl: "https://phys.org/news/2020-07-people-artificial-intelligence-divorce.html"
+    ampWebUrl: "https://phys.org/news/2020-07-people-artificial-intelligence-divorce.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-people-artificial-intelligence-divorce.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/peopleareusi.jpg"
+        width: 1356
+        height: 668
+        isCached: true
 
 secured: "B7keNG6gb2u3Dga0Y9oIjMiY/wzsTsiGEXt/lXpE4aFppVrNB5eW4S4jsqCI+HU3LWf7ZrnafD+y4aL8Hqy/sMJ08Uv4aS04xU8FNEr/SHcvDFvJWC/drzRFdYArpDNGavYVJwH4KmsXJwA6fZTyAXU6yZlPSJrRjEQQXo210ZNIF5aZzuSW1A8oCP80GAGl20b12ZjMu2CoNbWtHoknjZpTO6QmeNxEa/BNLSCJ9Qn7pXvVcWCgbZt+JeCAXI8WaIg1VREfffSZKY70Y6g/HZEIQou5PGxh8jS4e5gaRuDOmujpYijdjW8FbrWQC20n9VNg0/AsUM/rZKJ87m7viXPGLl42x8I2pIkDrEI9st/55LzBVWW7e74tTbvXv05hba/AsNZ1qrC2zCp6LJ+Mr6vWp9wadQSf9G0MwFzAOsLx2YTzur7lfjTkIvY2al+c99lBIBuUnBKExbG2R8RHsu2aIl+LzV4xdB7iZjMLuaYMmVtkRvJ6WwAShSF24EPmK07UjUIjKisFraxJI5A3pQ==;YxWrjWAVtlDOTmUy3/c57w=="
 ---
