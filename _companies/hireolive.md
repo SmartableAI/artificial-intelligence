@@ -20,7 +20,7 @@ crunchbase:
 twitter:
   username: "hire_olive"
   url: "https://twitter.com/hire_olive"
-  followers: 1830
+  followers: 1831
 
 size: 51-200 employees
 yearFounded: 2012
