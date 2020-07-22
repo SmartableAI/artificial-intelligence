@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Federal agencies concerned face masks will thwart facial recognition tech"
-    excerpt: "The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported."
-    publishedDateTime: 2020-07-17T14:55:00Z
-    webUrl: "https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 88
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/TSB8bFoAXUnsnwCyw0czZdijB_k=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Disney's new AI is facial recognition for animation"
     excerpt: "The pipeline leveraged existing facial recognition software, which the DTCI team then applied to its catalog of movies and TV shows. The module was able to successfully detect and recognize human faces from the onscreen action. Following that initial ..."
     publishedDateTime: 2020-07-17T20:53:00Z
@@ -51,6 +35,22 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 84
+  - title: "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs"
+    excerpt: "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ..."
+    publishedDateTime: 2020-07-21T10:39:00Z
+    webUrl: "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
+    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 78
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/21/3cd591c0-cb20-11ea-9c1b-809cdd34beb3_image_hires_175945.jpg?itok=ylDU3jZF&v=1595325600"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Could National Unrest Derail the Future of Facial Recognition?"
     excerpt: "Even before the nationwide call for police reform, facial recognition was struggling to win public support. A Pew poll last September showed that only around half of Americans thought police departments could be trusted to use the biometric tool responsibly."
     publishedDateTime: 2020-07-17T19:35:00Z
@@ -99,38 +99,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
-    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
-    publishedDateTime: 2020-07-18T23:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
-    images:
-      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
-        width: 1747
-        height: 1311
-        isCached: true
-  - title: "Government Leak: Cops Terrified Masks Will Block Facial Recognition"
-    excerpt: "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports."
-    publishedDateTime: 2020-07-17T21:02:00Z
-    webUrl: "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition"
-    ampWebUrl: "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Facial recognition is tech so special it should be banned"
     excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
     publishedDateTime: 2020-07-18T10:32:00Z
@@ -162,6 +130,22 @@ related:
       - url: "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Facial recognition may become the new norm post-COVID-19"
+    excerpt: "From banking to marketing, Facial recognition has penetrated several industries, this technology could become the new normal post-COVID-19. Here's how."
+    publishedDateTime: 2020-07-21T23:47:00Z
+    webUrl: "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19"
+    ampWebUrl: "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 59
+    images:
+      - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "NYPD sued for refusing to disclose records about facial recognition use"
     excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
@@ -195,6 +179,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "State Senate to vote on facial recognition moratorium bill"
+    excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
+    publishedDateTime: 2020-07-21T21:28:00Z
+    webUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/dc/bdc5a438-188a-11e7-a429-2ff44cfdd520/58e27d54bdfe4.image.jpg?resize=1024%2C713"
+        width: 1024
+        height: 713
+        isCached: true
   - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
     excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"
     publishedDateTime: 2020-07-20T03:24:00Z
@@ -225,22 +225,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
-    excerpt: "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ..."
-    publishedDateTime: 2020-07-17T22:30:00Z
-    webUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
-    ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
     excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
     publishedDateTime: 2020-07-20T09:26:00Z
@@ -255,53 +239,75 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Federal agencies are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-17T22:58:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+  - title: "Facial recognition feature part of the Voters Registration Exercise"
+    excerpt: "The facial recognition feature is also being used to capture the biometric data of applicants for the compilation of the new voters register, the Electoral Commission has said."
+    publishedDateTime: 2020-07-18T00:40:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Facial-recognition-feature-part-of-the-Voters-Registration-Exercise-1010383"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 49
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 39
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/334/33472444.jpg"
+        width: 600
+        height: 358
         isCached: true
-  - title: "Federal agencies in the US are worried face masks may be used to evade facial recognition technology"
-    excerpt: "... The US Department of Homeland Security is reportedly worried that face coverings will stymie the police's use of facial recognition technology. According to a report from The Intercept, a bulletin drafted by the DHS discusses the effects of widespread ..."
-    publishedDateTime: 2020-07-18T02:17:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8535491/amp/Federal-agencies-worried-face-masks-used-evade-facial-recognition-technology.html"
+  - title: "Canal View launches new thermal, face recognition system"
+    excerpt: "Starting this week when an employee enters the facility for their shift, they’ll now be screened by a new thermal face recognition system."
+    publishedDateTime: 2020-07-20T21:56:00Z
+    webUrl: "https://www.uppermichiganssource.com/2020/07/20/canal-view-launches-new-thermal-face-recognition-system/"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 44
+      name: Upper
+      domain: uppermichiganssource.com
+    quality: 39
     images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
-        width: 636
-        height: 382
+      - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/WVaN8X7u9xgZqCtht-F0GnPNzkI=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5SOGIIJ2WJFA5PGIMXY44MBKOU.png"
+        width: 980
+        height: 551
         isCached: true
-  - title: "NEC Corp. and Infrared Cameras Inc. to deploy thermal temperature screening and facial recognition technology at Hawaii's airports"
-    excerpt: "NEC Corporation, NEC Corporation of America and their partner, Infrared Cameras Inc., were selected by the Hawaii Department of Transportation (HDOT) to provide thermal temperature screening"
-    publishedDateTime: 2020-07-20T06:08:00Z
-    webUrl: "https://www.sourcesecurity.com/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
+  - title: "Delta Pushes Biometric Facial Recognition for Safer Passenger Experience"
+    excerpt: "The airline is hoping that the primer will make passengers feel more comfortable with facial recognition, which will in turn encourage more people to embrace contactless screening technologies. In that regard, the primer reflects the growing interest in ..."
+    publishedDateTime: 2020-07-17T20:34:00Z
+    webUrl: "https://findbiometrics.com/delta-pushes-biometric-facial-recognition-safe-passenger-experience-071702/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 44
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/920/nec-corp-to-provide-hawaii-s-airports-with-passenger-screening-technology-920x533.jpg"
-        width: 920
-        height: 533
+      - url: "https://findbiometrics.com/wp-content/uploads/Airpalne-Sky1-e1421265590288.jpg"
+        width: 1280
+        height: 761
+        isCached: true
+  - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
+    excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."
+    publishedDateTime: 2020-07-20T20:08:00Z
+    webUrl: "https://www.meritalk.com/articles/house-dems-look-to-ban-funding-for-facial-recognition-for-law-enforcement/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 38
+    images:
+      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/shutterstock_680587558-min.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Best Life: Facial recognition software helps doctors during aneurysm surgery"
+    excerpt: "“It uses like facial recognition like on the phone and creates a 3D reconstruction and overlay it right there in the operating room,” Dr. Malas illustrated. A CT scan taken before surgery is combined with an x-ray taken during surgery creating that 3D ..."
+    publishedDateTime: 2020-07-20T16:36:00Z
+    webUrl: "https://www.wmcactionnews5.com/2020/07/20/best-life-d-aneurysm-repair-smartphones/"
+    type: article
+    provider:
+      name: Action News 5
+      domain: wmcactionnews5.com
+    quality: 36
+    images:
+      - url: "https://www.wmcactionnews5.com/resizer/rbHay5hbNo128QGSixhgbNUO_Hc=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/OCLSIBUPDJCGLPH34R4SLYZ4WE.bmp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Judge: Facebook's $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "Facebook agreed earlier this year to pay $550 million to settle the suit, which claims that the tech giant illegally used facial-recognition technology in its \"tag suggestions\" service. The deal was the largest-ever payout as the result of a class-action ..."
@@ -331,19 +337,19 @@ related:
         width: 1470
         height: 827
         isCached: true
-  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
-    excerpt: "... document reveals that the agency has expressed concern that the widespread adoption of face masks will impede facial recognition surveillance technology. The agency acknowledges that the Centers for Disease Control and Prevention (CDC) urges people to ..."
-    publishedDateTime: 2020-07-18T02:54:00Z
-    webUrl: "https://www.salon.com/2020/07/17/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
+  - title: "New biometrics solutions and facial recognition updates for pandemic recovery trend this week"
+    excerpt: "New solutions and deployments of biometrics for helping society recover from the COVID-19 pandemic feature prominently among the top stories on Biometric Update this week. New technologies for"
+    publishedDateTime: 2020-07-18T18:09:00Z
+    webUrl: "https://www.biometricupdate.com/202007/new-biometrics-solutions-and-facial-recognition-updates-for-pandemic-recovery-trend-this-week"
     type: article
     provider:
-      name: Salon
-      domain: salon.com
-    quality: 31
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
     images:
-      - url: "https://media.salon.com/2020/07/masks-protest-nyc-0717201.jpg"
-        width: 846
-        height: 571
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "D+0mvgzZ1AMmalpgqerGU+B0qIfKzkcTOMaZzyBXLVxNFKy7d7EGY1DrAniM56fzCvfh9ZQbMvQi5lzvmjjrm1sGGcGAvW37GfwIuS39EFfUyjtf9fQMM2fkZqZJ1GWD68B0orggxqCjVgd2nntxlmhkLDGRnBu5/S1NgUVFoifoHHdhvRe2iwa+thltTFDtS0RbRMernf9CEQbvZZJyQ9MZ3N5Z17RD6Yu0V6qUH1so6V02Y8tTWe1Yj3Q+q/VpJw80s8rKMmdSwuHeWwqarx3Jp5SVWjkV6ZxeMqFtFlNNLVy3S/QAulv8Fvc+ru1QXLQMmobiT2Ai/ypi783DqCKOE/GvYfjUBDni4B+OcWhyr0P8Mca17ItPP3w3GuJMSHHnNEhmCTkH/VL0v+5WqGGaus4MxVNGkoHommDxyJp5r6dm0T/8zGjmT4PIm3a/vNQ6Uj+3dVhNkfFN6R8ppjCZVM2cAlOZT/248lC6MLLQ3eq7GIgFMFgf/nYAAoqdPvbPyzxsvgJHbDBuo0Cq5Q==;IgjXFq8rdBtHYd5JZXnqgw=="

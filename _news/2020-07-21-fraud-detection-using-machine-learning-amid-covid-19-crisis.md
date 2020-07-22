@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businesstimes.com.sg/asean-business/fraud-detection-usin
 cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/fraud-detection-using-machine-learning-amid-covid-19-crisis?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 440
     height: 293
     isCached: true
+
+related:
+  - title: "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases"
+    excerpt: "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%."
+    publishedDateTime: 2020-07-22T06:49:00Z
+    webUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/"
+    ampWebUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "6quiB/DaGoehA3vyRunsSyExL2ExSsCOfm3G+j6OeiS5Cs2vSQ+tXLTBuVzJsyUdQMLxbdUYebzp8sT7FqJU0pvcvY1i1lrCc0h+vu5x6tZR+ktTElcapFVeZgICKeE6CCWwG6+C6cZDNuO/EAIL83lw8C/AUQvu2QV122qNnLiWCDviEmjHnbjX60Tk55C6ULt7j5qSIsRw3EbFOQ+VuK9VutciQGxFwwa2qiXIPS/GiI7/U5/En291YrK1e5bNf5Z2d/1kC2BVhaqFMvOHXJesVovfYAKgf4idSIyJlHmcGM9qhcgkH3AOtid+9+JzB9XENsUe348HtFnVVNZT0evaCxV8P6zMLsR7oW75GBRTrARojR6u0kU7NGCdWUzWyc7Ds2Ts+qZqAiiJCesZ9JsZcQS81CSW9EhQNLWYJR4x4uU+Iw56bzv3jvY0gJQki8sCTPS4x4nrt0yXPZqd4OUUECsD/Ac6OU0ZfHQe9bikveGM9U2TjozNYUJCXhIsgH17TH0U3pDAs069QZegCA==;aaCh+nMkoQACWIjZGFzaUg=="
 ---

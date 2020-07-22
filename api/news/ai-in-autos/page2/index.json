@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-08-4-self-driving-car-stocks-to-buy-for-the-long-haul.md",
+      "title": "4 Self-Driving Car Stocks to Buy For the Long Haul",
+      "excerpt": "Within the automobile sector, one of the high-growth segments in the coming years will be self-driving car stocks. Estimates suggest that between 2021 and 2030, the self-driving cars market is ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600a.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/amp/",
+      "publishedDateTime": "2020-07-08T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-amazon-agrees-to-buy-self-driving-technology-startup-zoox.md",
       "title": "Amazon agrees to buy self-driving technology startup Zoox",
       "excerpt": "The logo of Amazon is seen at the company logistics center in Lauwin-Planque, northern France, April 22, 2020 after Amazon extended the closure of its French warehouses until April 25 incl",
@@ -1332,56 +1373,6 @@
         "name": "Gulf News",
         "domain": "gulfnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-waymo-and-volvo-form-exclusive-self-driving-partnership.md",
-      "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
-      "excerpt": "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef97c751581aa000682bee9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidsilver/2020/06/29/waymo-and-volvo-form-exclusive-self-driving-partnership/amp/",
-      "publishedDateTime": "2020-06-28T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

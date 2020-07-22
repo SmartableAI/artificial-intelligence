@@ -45,22 +45,6 @@ related:
         width: 582
         height: 327
         isCached: true
-  - title: "Halliburton Teams Up to Advance Digital Capabilities with Microsoft, Accenture"
-    excerpt: "Halliburton, Microsoft Corp. and Accenture have entered into a five-year strategic agreement on July 17 to advance Halliburton’s digital capabilities in Microsoft Azure."
-    publishedDateTime: 2020-07-17T13:47:00Z
-    webUrl: "https://www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653"
-    ampWebUrl: "https://www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653?amp"
-    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653?amp"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 55
-    images:
-      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
-        width: 605
-        height: 500
-        isCached: true
   - title: "Halliburton to close its data centers, move to Microsoft Azure cloud"
     excerpt: "One of the world's largest oil field service companies, Halliburton joins a growing number of companies that have turned to the cloud to maximize their ability to extract fossil fuels. \"The scientific consensus is clear."
     publishedDateTime: 2020-07-17T16:33:00Z

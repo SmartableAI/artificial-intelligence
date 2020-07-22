@@ -2,6 +2,79 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-07-08-aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india.md",
+      "title": "AWS-powered Covid-19 diagnostic tool seeks lung scans from India",
+      "excerpt": "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1100452786/AWS-powered-Covid-19-diagnostic-tool-seeks-lung-scans-from-India",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts.md",
+      "title": "IBM To Acquire WDG Automation For Undisclosed Financial Terms - Quick Facts",
+      "excerpt": "(RTTNews) - International Business Machines Corp. (IBM) said Wednesday that it has agreed to acquire WDG Soluções Em Sistemas E Automação De",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-wdg-automation-for-undisclosed-financial-terms-quick-facts-1029376360",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/IBM-To-Acquire-WDG-Automation-For-Undisclosed-Financial-Terms-Quick-Facts-1029376360",
+      "publishedDateTime": "2020-07-08T05:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-fintech-industry-expert-rates-vantagepoint-ai-software-as-highly-recommended.md",
       "title": "FinTech Industry Expert Rates VantagePoint AI Software As \"Highly Recommended\"",
       "excerpt": "Legendary FinTech Editor Darrell Jobman Reviews VantagePoint Software in the latest edition of TradersWorld MagazineWesley Chapel, Florida, July",
@@ -1040,96 +1113,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation.md",
-      "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
-      "excerpt": "Hungarian autonomous driving startup AImotive is leveraging its technology to address a different industry and growing need: autonomous satellite operation. AImotive is teaming up with C3S, a supplier of satellite and space-based technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/AImotive_C3S_image_01_1600px.jpg?w=1024",
-          "width": 1024,
-          "height": 640,
-          "title": "Autonomous driving startup turns its AI expertise to space for automated satellite operation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/07/autonomous-driving-startup-turns-its-ai-expertise-to-space-for-automated-satellite-operation/amp/",
-      "publishedDateTime": "2020-07-07T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure.md",
-      "title": "Digitate’s ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure",
-      "excerpt": "The award-winning ignio suite consists of five standalone software products – ignio AIOps, ignio AI.WorkloadManagement, ignio AI.ERPOps, Cognitive ... Microsoft Corp., said, “Business leaders in every industry are focused on how to offer trusted ...",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/04/Tata-Consultancy-Services.png?fit=1280%2C598&ssl=1",
-          "width": 1280,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure/?amp",
-      "publishedDateTime": "2020-07-07T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
+      "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
+      "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
+      "publishedDateTime": "2020-07-21T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms.md",
       "title": "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms",
       "excerpt": "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative).",
@@ -1410,59 +1460,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-11-prepare-for-artificial-intelligence-to-produce-less-wizardry.md",
-      "title": "Prepare for Artificial Intelligence to Produce Less Wizardry",
-      "excerpt": "A new paper argues that the computing demands of deep learning are so great that progress on tasks like translation and self-driving is likely to slow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f0663989798446ce8080282/master/pass/business_artificial-intelligence_687292162.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
-      "publishedDateTime": "2020-07-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Facebook AI"
       ]
     }
   ],

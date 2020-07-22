@@ -51,22 +51,6 @@ related:
         width: 582
         height: 327
         isCached: true
-  - title: "Halliburton Teams Up to Advance Digital Capabilities with Microsoft, Accenture"
-    excerpt: "Halliburton, Microsoft Corp. and Accenture have entered into a five-year strategic agreement on July 17 to advance Halliburton’s digital capabilities in Microsoft Azure."
-    publishedDateTime: 2020-07-17T13:47:00Z
-    webUrl: "https://www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653"
-    ampWebUrl: "https://www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653?amp"
-    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/halliburton-teams-advance-digital-capabilities-microsoft-accenture-188653?amp"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 55
-    images:
-      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
-        width: 605
-        height: 500
-        isCached: true
   - title: "UAE- Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
     excerpt: "Saturday 18 July 2020 [ AETOS Wire ] ( BUSINESS WIRE )-- Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton''s digital capabilities in Microsoft Azure."
     publishedDateTime: 2020-07-19T11:43:00Z

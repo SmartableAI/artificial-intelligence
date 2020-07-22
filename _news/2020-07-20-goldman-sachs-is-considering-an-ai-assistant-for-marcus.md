@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-20T15:27:00Z
 webUrl: "https://www.businessinsider.com/goldman-sachs-mulling-rollout-of-marcus-ai-assistant-2020-7"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Business Insider
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Goldman Sachs is building an AI-powered digital assistant and checking account for its Marcus consumer bank. Here's how it's shaping up."
-    excerpt: "Marcus' head of product, Adam Dell, is laser-focused on rolling out AI-driven digital banking products."
-    publishedDateTime: 2020-07-17T14:32:00Z
-    webUrl: "https://www.businessinsider.com/marcus-goldman-sachs-mobile-banking-strategy-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-    images:
-      - url: "https://i.insider.com/5f108c79988ee370677569d6?width=1200&format=jpeg"
-        width: 750
-        height: 375
-        isCached: true
 
 secured: "DvztWs5CyfyjF88DNu7UQKiMXc3kNxAJQERl0klKfqwPckl4RngqQecH/QBNYpCuS+ov/FvNMpCQNDDq0MZZvtLvmzZzkjCEiNY8rjQN77v3AY+CxdJoNoYZ6MItLCjJZS9uEMJtddUFTnoOUjqKaNbaxKkXwpttNYlf4XPcms0blrveNQf29S0QxV/bM3bWc6s4qyEm+BOnhW+ZOyFTQoj2ddcrkh/8fGEceZsDFxNMiOlbXs0OwRYPIBMhHpumR42u/Nubly8V4Hmg/zibyLYOWBOrpUJD+YLklhPjBsbVLm73FIdIfiHWFpxWRVpb5cYSDYhzK86+fI4SEr0xjA==;YfX0kVdtpOQ4MTl9I7SprQ=="
 ---

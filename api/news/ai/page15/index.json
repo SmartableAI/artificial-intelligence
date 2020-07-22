@@ -2,6 +2,105 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-08-ibm-makes-its-rpa-move-acquires-wdg-automation.md",
+      "title": "IBM makes its RPA move, acquires WDG Automation",
+      "excerpt": "After all, Krishna predicts every company will revolve around AI. While Blue Prism ... Automation into its Cloud Pack for Automation. IBM also added that WDG Automation capabilities will be embedded into Watson AIOps and Cloud Pak for Multicloud Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/07/cdb821ee-ec47-4cc9-8473-cc2c21e0adf4/thumbnail/1200x675/ce9d2a4355f6a9b4cb982a96bcaa3b38/galaxy-unpacked-aug-5.png",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM makes its RPA move, acquires WDG Automation",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-makes-its-rpa-move-acquires-wdg-automation/",
+      "publishedDateTime": "2020-07-08T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-facebook-civil-rights-audit-urges-mandatory-algorithmic-bias-detection.md",
+      "title": "Facebook civil rights audit urges ‘mandatory’ algorithmic bias detection",
+      "excerpt": "An independent civil rights review found the company's efforts to detect algorithmic bias are falling short and leave users vulnerable to manipulation.",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2020/07/NRP-Civil_Rights_Audit_Report_banner_FINAL.jpg?fit=4000%2C2251",
+          "width": 4000,
+          "height": 2251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/07/civil-rights-audit-report/amp/",
+      "publishedDateTime": "2020-07-08T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-runai-supports-ai-centre-to-speed-up-machine-learning-particularly-in-the-fight-against-covid-19.md",
       "title": "Run:AI Supports AI Centre to Speed Up Machine Learning, Particularly in the Fight Against Covid-19",
       "excerpt": "AI, a company virtualizing AI infrastructure, today announced that it is working with the London Medical Imaging & Artificial",
@@ -1245,105 +1344,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-corelogic-launches-ai-driven-platform-for-real-estate-agents.md",
-      "title": "CoreLogic launches AI driven platform for real estate agents",
-      "excerpt": "CoreLogic said that OneHome streamlines communication between agents and home buyers during the purchase process, while also providing access to financing, insurance and home improvement providers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2016/04/20/47a3b2bf-44da-4ee6-b992-835438f05049/thumbnail/1200x675/a5ea8a156af5329ed76d0bde668d79bc/istock000079198859medium.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "CoreLogic launches AI driven platform for real estate agents",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/corelogic-launches-ai-driven-platform-for-real-estate-agents/",
-      "publishedDateTime": "2020-07-07T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
-      "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
-      "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

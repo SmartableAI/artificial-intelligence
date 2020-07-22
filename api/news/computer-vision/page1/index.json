@@ -2,77 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-21-facial-recognition-may-become-the-new-norm-post-covid-19.md",
-      "title": "Facial recognition may become the new norm post-COVID-19",
-      "excerpt": "From banking to marketing, Facial recognition has penetrated several industries, this technology could become the new normal post-COVID-19. Here's how.",
+      "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
+      "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
+      "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19",
+      "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 79,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
-          "width": 300,
-          "height": 300,
+          "url": "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp",
-      "publishedDateTime": "2020-07-21T16:47:00-07:00",
+      "ampWebUrl": "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
+      "publishedDateTime": "2020-07-21T23:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-alipay-allows-pet-owners-to-buy-insurance-by-using-facial-recognition-on-their-cats-and-dogs.md",
-      "title": "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs",
-      "excerpt": "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/21/3cd591c0-cb20-11ea-9c1b-809cdd34beb3_image_hires_175945.jpg?itok=ylDU3jZF&v=1595325600",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
-      "publishedDateTime": "2020-07-21T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -123,6 +82,88 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-government-leak-cops-terrified-masks-will-block-facial-recognition.md",
+      "title": "Government Leak: Cops Terrified Masks Will Block Facial Recognition",
+      "excerpt": "Leaked documents reveal that the Department of Homeland Security (DHS) has been particularly concerned about how masks block the facial recognition used to surveil Americans, The Intercept reports.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/government-leak-cops-terrified-masks-block-facial-recognition-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/government-leak-cops-terrified-masks-block-facial-recognition/amp",
+      "publishedDateTime": "2020-07-17T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-disneys-new-ai-is-facial-recognition-for-animation.md",
+      "title": "Disney's new AI is facial recognition for animation",
+      "excerpt": "The pipeline leveraged existing facial recognition software, which the DTCI team then applied to its catalog of movies and TV shows. The module was able to successfully detect and recognize human faces from the onscreen action. Following that initial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/disneys-new-ai-is-facial-recognition-for-animation-163054440.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 304,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/disneys-new-ai-is-facial-recognition-for-animation-163054440.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/disneys-new-ai-is-facial-recognition-for-animation-163054440.html",
+      "publishedDateTime": "2020-07-17T13:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -290,6 +331,48 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners.md",
+      "title": "The Edge AI and Vision Alliance Announces the 2020 Vision Tank Start-Up Competition Winners",
+      "excerpt": "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-301095130.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1361,97 +1444,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida.md",
-      "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
-      "excerpt": "Rape, murder, armed robbery. Miami Police say they’ve made arrests in those violent crimes and in property crimes using a controversial facial recognition program, Clearview AI. The department says the technology has helped them to identify 28 people linked to crimes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcmiami.com/2019/09/FACIAL-RECOGNITION-2.png?fit=1200%2C650",
-          "width": 1200,
-          "height": 650,
-          "title": "Despite Concerns, Law Enforcement Use of Facial Recognition Expands in South Florida",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp",
-      "cdnAmpWebUrl": "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/investigations/despite-concerns-law-enforcement-use-of-facial-recognition-expands-in-south-florida/2259663/?amp",
-      "publishedDateTime": "2020-07-08T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 6 South Florida",
-        "domain": "nbcmiami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-buys-vision-system-vendor-orions-systems.md",
-      "title": "Microsoft buys vision system vendor Orions Systems",
-      "excerpt": "Microsoft is looking to combine the video and image content analysis technology it is acquiring with Orions Systems to supplement its own Dynamics 365 Connected Store app and Power Platform services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/08/2affdcdf-5569-410f-9f0b-03bbc3844369/msbuysorion.jpg",
-          "width": 1304,
-          "height": 929,
-          "title": "Microsoft buys vision system vendor Orions Systems",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-buys-ai-vision-system-vendor-orions-systems/",
-      "publishedDateTime": "2020-07-08T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
