@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-29-big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof.md",
+      "title": "Big Tech rides out yet another global crisis and piles up big profits, but are they recession-proof?",
+      "excerpt": "Google is most widely known for its search engine and mobile OS, but it has also invested in driverless cars, robots, artificial intelligence, genetic testing, and biotechnology. Facebook is ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/24/190724-big-tech_16c24559b73_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "publishedDateTime": "2020-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-waymo-and-volvo-form-exclusive-self-driving-partnership.md",
       "title": "Waymo And Volvo Form Exclusive Self-Driving Partnership",
       "excerpt": "Waymo and Volvo announced an “exclusive” partnership to integrate Waymo’s self-driving technology onto Volvo’s vehicular platform.",
@@ -1372,56 +1413,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-lyft-details-how-its-going-to-make-self-driving-cars-safer.md",
-      "title": "Lyft details how it's going to make self-driving cars safer",
-      "excerpt": "Lyft’s self-driving team called Level 5 has published its first ever Voluntary Safety Self-Assessment (VSSA) report (PDF), giving us a glimpse of how it plans to make sure that its autonomous vehicles are safe to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F71f7b8b0-b52c-11ea-bfde-95534e1b930b&client=amp-blogside-v2&signature=7aea62f88da4d147a2e9b5531fd0e4915575118a",
-          "width": 600,
-          "height": 350,
-          "title": "Lyft details how it's going to make self-driving cars safer",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lyfts-publishes-first-safety-assessment-report-104539689.html",
-      "publishedDateTime": "2020-06-23T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

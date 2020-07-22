@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/20/deepminds-ai-automatically-genera
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://images.axios.com/t-uDSyQb03ERDPRBS_47YQaJwT8=/fit-in/1366x1366/2020/07/18/1595082939817.jpg"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms"
-    excerpt: "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative)."
-    publishedDateTime: 2020-07-21T21:55:00Z
-    webUrl: "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 44
-    images:
-      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "3zPSedw2ESm8hDaUFK1MKuuUin31Rse5IEEDQZh4ADibKIc65CYx8JaCJ2GuyK2rPQKAKODlr41hompQ47fY3XTJoH0rgwU/gla1ayu/qJUD24cFZ2/K/yOC1+2napljAl0r7aHF/1NU/YtQ6EleUJscdQLqm+cFboO32Q9V9z7cHxvz+eQyF/vPxHGhu8T8BAajYsKeF3koUZtd5+7Lp4p4rum4KOEd+3ERoqKIPtti9DYlsFFm3wOc8timnxG4wtOiobVcQ2Bi1xtgxYOD5/NJJ6/uybD175db1ZERJ6G1X9IDy9De0kh0bGuEg2FKZ2QgyWVopBvTTUiXtFr8aCOeyg06DRuyWWChsqiWXeo98ABdiITeVEljcCQTgKrWGigaIoSZeWWFxWe+FY+xfYe8enpO4F8N3YEiVQKzBs0ol4WybZCv7h0kDRy5+F/5tyCBHYbe8+h9Ko+4XuuJ3ba1iGiHQ1bOjRGcasEABgjsGtxyVL2B6mxnoz71NkDf;OvkiuHPB8qI6hiPzxEEg/g=="

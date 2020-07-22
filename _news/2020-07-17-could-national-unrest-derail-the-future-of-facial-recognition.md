@@ -69,22 +69,6 @@ related:
         width: 320
         height: 205
         isCached: true
-  - title: "Microsoft Sued for Training Facial Recognition Tech by Using Faces Without Consent"
-    excerpt: "Microsoft, alongside Google and Amazon is accused of using face without consent to train its facial recognition technology."
-    publishedDateTime: 2020-07-17T17:33:00Z
-    webUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/07/17/microsoft-sued-for-training-facial-recognition-tech-by-using-faces-without-consent-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 68
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Facial-Recognition-Microsoft.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facial recognition is tech so special it should be banned"
     excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
     publishedDateTime: 2020-07-18T10:32:00Z
@@ -252,6 +236,20 @@ related:
       - url: "https://gray-wluc-prod.cdn.arcpublishing.com/resizer/WVaN8X7u9xgZqCtht-F0GnPNzkI=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/5SOGIIJ2WJFA5PGIMXY44MBKOU.png"
         width: 980
         height: 551
+        isCached: true
+  - title: "Why we must arm police with facial recognition systems"
+    excerpt: "A display shows a facial recognition system for law enforcement during the NVIDIA GPU Technology Conference, in Washington, DC, November 1, 2017. /(SAUL LOEB/AFP via Getty Images) It’s now evident in the Unites States that there are pockets within police ..."
+    publishedDateTime: 2020-07-22T11:33:00Z
+    webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/why-we-must-arm-police-with-facial-recognition-systems/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
         isCached: true
   - title: "Delta Pushes Biometric Facial Recognition for Safer Passenger Experience"
     excerpt: "The airline is hoping that the primer will make passengers feel more comfortable with facial recognition, which will in turn encourage more people to embrace contactless screening technologies. In that regard, the primer reflects the growing interest in ..."

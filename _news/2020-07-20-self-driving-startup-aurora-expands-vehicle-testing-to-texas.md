@@ -24,81 +24,167 @@ topics:
   - AI
 
 related:
-  - title: "Aurora expands to Texas in bid to ramp up self-driving truck efforts"
-    excerpt: "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8"
-    publishedDateTime: 2020-07-20T18:24:00Z
-    webUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/"
-    ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
+  - title: "FCA, Waymo team up on Level 4 self-driving commercial vehicles"
+    excerpt: "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands."
+    publishedDateTime: 2020-07-22T05:17:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024"
-        width: 1024
-        height: 571
+      - url: "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg"
+        width: 1200
+        height: 644
         isCached: true
-  - title: "Aurora Jumps Into Robo-Delivery Race With Self-Driving Truck And Van Tests In Texas"
-    excerpt: "The Silicon Valley-based developer of software and hardware for autonomous vehicles is joining the pivot to driverless delivery vehicles as Covid-19 slows robotaxi plans."
-    publishedDateTime: 2020-07-20T18:02:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
+  - title: "Fiat Chrysler and Waymo sign exclusive deal on self-driving commercial vehicles"
+    excerpt: "Fiat Chrysler and Waymo have agreed on an exclusive deal to develop self-driving commercial vehicles. The automaker also will use Waymo's autonomous vehicle technology on its global fleet of future vehicles."
+    publishedDateTime: 2020-07-22T05:07:00Z
+    webUrl: "https://www.cnbc.com/2020/07/22/fiat-chrysler-and-waymo-sign-deal-on-self-driving-commercial-vehicles.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/22/fiat-chrysler-and-waymo-sign-deal-on-self-driving-commercial-vehicles.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/22/fiat-chrysler-and-waymo-sign-deal-on-self-driving-commercial-vehicles.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 85
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106084003-1565993209608waymo-10.jpg?v=1565993221"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Waymo and Fiat Chrysler’s next big project is to develop self-driving Ram vans"
+    excerpt: "Waymo and Fiat Chrysler Automobiles have inked a deal to develop and test autonomous cargo vans and other light commercial vehicles designed to shuttle goods. The deal is the latest example of Waymo's efforts to build out the delivery arm of its autonomous vehicle technology business."
+    publishedDateTime: 2020-07-22T05:23:00Z
+    webUrl: "https://techcrunch.com/2020/07/21/waymo-and-fiat-chrysler-expand-partnership-to-develop-self-driving-ram-vans/"
+    ampWebUrl: "https://techcrunch.com/2020/07/21/waymo-and-fiat-chrysler-expand-partnership-to-develop-self-driving-ram-vans/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/waymo-and-fiat-chrysler-expand-partnership-to-develop-self-driving-ram-vans/amp/"
+    type: article
+    provider:
+      name: YAHOO!
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Ram-ProMaster.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Waymo, Fiat Chrysler Form Deep Partnership To Get Self-Driving Cars And Trucks To Market"
+    excerpt: "The broad alliance extends across Fiat Chrysler's brands and will focus on robotic Ram-brand light commercial vehicles."
+    publishedDateTime: 2020-07-22T05:02:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 68
+    quality: 80
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f15d91f3041c40006bad88e%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f178331107158000722c8da%2F0x0.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-driving semi-trucks are picking up speed"
-    excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
-    publishedDateTime: 2020-07-17T17:39:00Z
-    webUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    ampWebUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
+  - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans"
+    excerpt: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans The deal also means Waymo's self-driving technology is to be used eventually across FCA's fleet. Check out this story on Freep.com: https://www.freep.com/story/money/cars/chrysler/2020/07/22/fiat ..."
+    publishedDateTime: 2020-07-22T07:21:00Z
+    webUrl: "https://www.freep.com/story/money/cars/chrysler/2020/07/22/fiat-chrysler-waymo-self-driving-ram-vans/5481720002/"
+    ampWebUrl: "https://amp.freep.com/amp/5481720002"
+    cdnAmpWebUrl: "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/5481720002"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 59
     images:
-      - url: "https://images.axios.com/ifc7Ygzbr5pYhvK5seDPPNXtJZ0=/fit-in/1366x1366/2020/07/17/1595004050933.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Self-driving startup Aurora expands public road testing to Texas"
-    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"
-    publishedDateTime: 2020-07-20T19:16:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/mobility/2020/07/20/self-driving-startup-aurora-expands-public-road-testing-texas/5473753002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5473753002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5473753002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/20/PDTN/e291cedf-dba1-459b-bdc9-6279718dc0b5-aurora.jpg?auto=webp&crop=885,498,x525,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Aurora Innovation to test self-driving truck tech in Texas"
-    excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"
-    publishedDateTime: 2020-07-20T20:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
+  - title: "Alphabet's Waymo, Fiat Chrysler Deepen Partnership To Develop Self-Driving Light Commercial Vehicles"
+    excerpt: "Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG)-owned Waymo said Monday that it is expanding its partnership with Fiat Chrysler Automobiles NV (NYSE: FCAU) and the two"
+    publishedDateTime: 2020-07-22T08:32:00Z
+    webUrl: "https://www.benzinga.com/news/20/07/16726081/alphabets-waymo-fiat-chrysler-deepen-partnership-to-develop-self-driving-light-commercial-vehicles"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16726081"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16726081"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/2019-ram-pm-vlp-gallery-exterior-08.jpg.image_.2880.jpg"
+        width: 2880
+        height: 1400
+        isCached: true
+  - title: "Waymo, FCA expand self-driving partnership"
+    excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"
+    publishedDateTime: 2020-07-22T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-fca-expand-self-driving-partnership"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/WaymoPacifica-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Waymo, FCA expand self-driving partnership for passenger, delivery vehicles"
+    excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"
+    publishedDateTime: 2020-07-22T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymo-fca-expand-self-driving-partnership-passenger-delivery-vehicles"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/WaymoPacifica-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "FCA to add Waymo self-driving system to commercial vans, eventually whole lineup"
+    excerpt: "Waymo is perhaps the leader in the race to develop a safe and robust self-driving system, and it's just strengthened its relationship with Fiat Chrysler Automobiles. The two companies announced Wednesday plans to start testing a Level 4 version of Waymo's ..."
+    publishedDateTime: 2020-07-22T10:03:00Z
+    webUrl: "https://www.motorauthority.com/news/1128955_fca-to-add-waymo-self-driving-system-to-commercial-vans-eventually-whole-lineup"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 34
+    images:
+      - url: "https://images.hgmsites.net/hug/2019-ram-promaster_100664713_h.jpg"
+        width: 1920
+        height: 1281
+        isCached: true
+  - title: "Waymo and Fiat Chrysler expand partnership to develop commercial self-driving vehicles"
+    excerpt: "Self-driving car company Waymo and Fiat Chrysler Automobiles are expanding their autonomous vehicle partnership to commercial vehicles and Fiat Chrysler will develop fully self-driving vehicles exclusively with Waymo going forward,"
+    publishedDateTime: 2020-07-22T07:38:00Z
+    webUrl: "https://www.thenational.ae/business/waymo-and-fiat-chrysler-expand-partnership-to-develop-commercial-self-driving-vehicles-1.1052861"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 31
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.1052860:1595403505/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Waymo, Fiat Chrysler ink commercial self-driving partnership"
+    excerpt: "strategic technology partner for \"Level 4\" fully self-driving technology across its full product portfolio. The collaboration will start with the Ram ProMaster full-size van, though it's likely to ..."
+    publishedDateTime: 2020-07-22T07:41:00Z
+    webUrl: "https://seekingalpha.com/news/3593447-waymo-fiat-chrysler-ink-commercial-self-driving-partnership"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "hEVJwStpIBVZ6TNwEvBiCx9TiqFVzs0eXtRVm+SgEo2tMNZVRyItYhndRXBLuR0mjZOrdir4+L40DMBC+RqiRfawsAwfLj/WN4Hqva2QWMwmO7n0XiyLLZhnYJ+gbw+NeVntJZb/+fmZHa2Aus1tlr9WaLIaGLWk/kVvedu6Kpzou2uffjGpDAYCrrNjAeV4VSne0J3GkA7lVVuopSNw05s/InreRi3WhxHHHkHYYiVdpXh7SiKkz7NmaHxhBLc17Lk7+4vhIbtN0FN6PgjKVSYMLWpTUFilVEuWAYFR+BHvkeTWN2gt0aRU2CLW7IpRpVy4zvPSZCvwWmkOQeXraw==;M4ndCFqhe+hbg8XTE5j24g=="
 ---

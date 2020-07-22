@@ -2,6 +2,47 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-23-qumulo-leads-customers-to-the-cloud-with-launch-of-qumulo-shift-for-amazon-web-services-s3.md",
+      "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
+      "excerpt": "Qumulo, the leading provider of cloud file data services, announced today the l (AWS) S3, the first-ever native cloud service that enables organizations to move file data from any Qumulo on-prem or public cloud cluster into Amazon Simple Storage Service (Amazon S3) and transform that data to object in an open and non-proprietary format.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200623005212/en/Qumulo-Leads-Customers-Cloud-Launch-Qumulo-Shift",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200623005212/en/750107/23/High_Res_Qumulo_Logo_%28new%29.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Qumulo Leads Customers to the Cloud with Launch of Qumulo Shift for Amazon Web Services S3",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-23T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-formula-1-and-aws-use-70-years-of-historical-race-data-for-new-performance-stats.md",
       "title": "Formula 1 and AWS Use 70 years of Historical Race Data For New Performance Stats",
       "excerpt": "Formula One Group (F1) is introducing six new, real-time racing statistics that will roll out through the 2020 season, beginning with the launch of “Car Performance Scores” at the season-opening Grand Prix in Spielberg,",

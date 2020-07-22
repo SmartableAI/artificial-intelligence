@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fiat Chrysler and Waymo sign exclusive deal on self-driving commercial vehicles"
-    excerpt: "Fiat Chrysler and Waymo have agreed on an exclusive deal to develop self-driving commercial vehicles. The automaker also will use Waymo's autonomous vehicle technology on its global fleet of future vehicles."
-    publishedDateTime: 2020-07-22T05:07:00Z
-    webUrl: "https://www.cnbc.com/2020/07/22/fiat-chrysler-and-waymo-sign-deal-on-self-driving-commercial-vehicles.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/07/22/fiat-chrysler-and-waymo-sign-deal-on-self-driving-commercial-vehicles.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/22/fiat-chrysler-and-waymo-sign-deal-on-self-driving-commercial-vehicles.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 85
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106084003-1565993209608waymo-10.jpg?v=1565993221"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Waymo, Fiat Chrysler Form Deep Partnership To Get Self-Driving Cars And Trucks To Market"
-    excerpt: "The broad alliance extends across Fiat Chrysler's brands and will focus on robotic Ram-brand light commercial vehicles."
-    publishedDateTime: 2020-07-22T05:02:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f178331107158000722c8da%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fiat Chrysler and Waymo just announced an exclusive deal for advanced self-driving technology"
     excerpt: "FCA and Waymo had already collaborated on the Waymo One ride-hailing service in Arizona; Waymo One uses Chrysler Pacifica minivans."
     publishedDateTime: 2020-07-22T07:05:00Z
@@ -71,6 +39,20 @@ related:
       - url: "https://i.insider.com/5f17ac86aee6a8592e37b915?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Waymo and FCA's expanded deal includes self-driving Ram vans"
+    excerpt: "Waymo and FCA are expanding their arrangement around self-driving tech, and Waymo is going to equip the Ram ProMaster van for autonomously driven deliveries."
+    publishedDateTime: 2020-07-22T06:14:00Z
+    webUrl: "https://www.engadget.com/waymo-level-4-autonomous-delivery-vans-ram-060017044.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F205c8ab0-cbe0-11ea-bf6c-f8b741741ade&client=amp-blogside-v2&signature=108b29513b18e7d68361bd8a35e646d2bb7d26c3"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
     excerpt: "The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker ... Waymo way ahead of its Chinese peers, like Yandex and Baidu, whose cars have driven only about a million miles as of ..."
@@ -88,59 +70,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Alphabet's Waymo, Fiat Chrysler Deepen Partnership To Develop Self-Driving Light Commercial Vehicles"
-    excerpt: "Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG)-owned Waymo said Monday that it is expanding its partnership with Fiat Chrysler Automobiles NV (NYSE: FCAU) and the two"
-    publishedDateTime: 2020-07-22T08:32:00Z
-    webUrl: "https://www.benzinga.com/news/20/07/16726081/alphabets-waymo-fiat-chrysler-deepen-partnership-to-develop-self-driving-light-commercial-vehicles"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16726081"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16726081"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/2019-ram-pm-vlp-gallery-exterior-08.jpg.image_.2880.jpg"
-        width: 2880
-        height: 1400
-        isCached: true
-  - title: "Waymo, FCA expand self-driving partnership for passenger, delivery vehicles"
-    excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"
-    publishedDateTime: 2020-07-22T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-fca-expand-self-driving-partnership-passenger-delivery-vehicles"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/WaymoPacifica-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Waymo and Fiat Chrysler expand partnership to develop commercial self-driving vehicles"
-    excerpt: "Self-driving car company Waymo and Fiat Chrysler Automobiles are expanding their autonomous vehicle partnership to commercial vehicles and Fiat Chrysler will develop fully self-driving vehicles exclusively with Waymo going forward,"
-    publishedDateTime: 2020-07-22T07:38:00Z
-    webUrl: "https://www.thenational.ae/business/waymo-and-fiat-chrysler-expand-partnership-to-develop-commercial-self-driving-vehicles-1.1052861"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 31
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.1052860:1595403505/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Waymo, Fiat Chrysler ink commercial self-driving partnership"
-    excerpt: "strategic technology partner for \"Level 4\" fully self-driving technology across its full product portfolio. The collaboration will start with the Ram ProMaster full-size van, though it's likely to ..."
-    publishedDateTime: 2020-07-22T07:41:00Z
-    webUrl: "https://seekingalpha.com/news/3593447-waymo-fiat-chrysler-ink-commercial-self-driving-partnership"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "7f6Egc8YfY4oIajCzMLIbqHuBPNFe2zM9aS+607Qh+kyKPPdzFKJF+NgOhkKk6M+c2Gm+NHBmmN4M1mcXPrNW6AnfIcDg4/JoSKEW39BU3gMhOfs96wsU6+le0h+GmWmWQg0z+l/ofYtdVPcfUW+bdgRnfCWn+yixtMlglU7Yo9OvJHzZ7V0qDpEyqoGERfi4XZO+s42FL3VIRRc3Rcz+ht9ofFYUh4YqNOb5oyMxymDvDTApTN9VAPICDpc5twwLHqmem/ypemTCL5gwLj2YlPAejhKbZZbqzPYn/DBUOhDWT2rnNTkVDFLysnmOjP2BqXLK+6rIbJs8/xJjnP6LeGMIWBLxj3/vwOwjxFWyMWWIuC3qH9PCrD6O+9x3DgDpkrN0AoAlWpD3nCaQ6jXuKeawbP1H1MhYGB4iAZLIWRQdaxm6HCl29EHly4KBylksW+j+kVebyzqMhYg5Hb6v63JOSVblxG4EepIq7j2S6Fuz8k2FqnKkUfhlnp4LVmPzrs5xQzdl5TwtllbjP9miA==;XjECpIbyNbb6Q4eCUBLrdg=="
 ---

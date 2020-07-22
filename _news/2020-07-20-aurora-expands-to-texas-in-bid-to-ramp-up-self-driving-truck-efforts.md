@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -45,33 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f15d91f3041c40006bad88e%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Self-driving startup Aurora expands vehicle testing to Texas"
-    excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-    publishedDateTime: 2020-07-20T23:06:00Z
-    webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "Self-driving semi-trucks are picking up speed"
-    excerpt: "Heavy truck manufacturer Navistar announced a strategic partnership with TuSimple, a leader in self-driving technology, to co-develop a line of autonomous semi-trucks that would be on the road by 2024."
-    publishedDateTime: 2020-07-17T17:39:00Z
-    webUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    ampWebUrl: "https://www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/self-driving-semi-trucks-navistar-tusimple-14dae9b2-d5b4-4e04-b3d1-953a3b1a0c2e.html"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 44
-    images:
-      - url: "https://images.axios.com/ifc7Ygzbr5pYhvK5seDPPNXtJZ0=/fit-in/1366x1366/2020/07/17/1595004050933.jpg"
-        width: 1366
-        height: 768
         isCached: true
   - title: "Self-driving startup Aurora expands public road testing to Texas"
     excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc. is expanding its testing operations to Texas"

@@ -102,6 +102,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-20-query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical.md",
+      "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
+      "excerpt": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.&nbsp;Amazon Comprehend Medical&nbsp;is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/querying-open-source-1-1.jpg",
+          "width": 820,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T12:00:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex.md",
       "title": "Building a scalable outbound call engine using Amazon Connect and Amazon Lex",
       "excerpt": "&shy; This is a guest post by AWS Machine Learning Hero Cyrus Wong. Staying connected with family, friends, and colleagues is easy for most people who live with or close to others. For educators who need to communicate lessons and schedules with their students, or businesses who communicate with new",
@@ -1368,47 +1418,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-congressman-raises-concerns-about-rings-police-partnerships.md",
-      "title": "Congressman raises concerns about Ring’s police partnerships",
-      "excerpt": "Congress is renewing calls for Amazon to answer questions about Ring police department departments as a new report sheds light on them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/07/Ring-Police-Raja-Krishnamoorthi.jpg",
-          "width": 2023,
-          "height": 1012,
-          "title": "Congressman raises concerns about Ring’s police partnerships",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/ring-police-partnerships-eff-krishnamoorthi/?amp",
-      "publishedDateTime": "2020-07-02T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

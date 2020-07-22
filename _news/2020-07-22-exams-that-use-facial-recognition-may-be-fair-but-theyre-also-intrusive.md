@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-re
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/07/17/23/25231512-0-image-a-16_1595024249093.jpg"
         width: 636
         height: 382
+        isCached: true
+  - title: "Counterpoint: The hidden threat of facial recognition technology"
+    excerpt: "A law enforcement vehicle outfitted with facial recognition and artificial intelligence systems is seen during the NVIDIA GPU Technology Conference in Washington, D.C. (SAUL LOEB/AFP via Getty Images) Civil rights advocates have long warned that facial ..."
+    publishedDateTime: 2020-07-22T11:33:00Z
+    webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
         isCached: true
 
 secured: "wk+eXfilldzHLSOmcLKePsOkwxTgL5aXai+IZ5C2EWuP0lasKuZ4U2VUnrLwLmgOT3Lvk2sed18c4LwVnApJV/5D/KaUr8UPJFaeP3uN/oO69nKA7i/dmLhs1COK56Ii+kCMHG8Qot0hVo8csIyV0bD/i66Zx7a09YGBp1EquDGPDaB0X8tPfxrY2jeg7CX7V6lsS4qgrO/lDzRoLjHjkNnWmB4FWKdcE2dvF5XGT1YCbUVg3QA1qkplcvc9gevdloCcXISUnAKB3Tr/XVOuadPmWb0unx7zyLMVKNYV/JszmVgQkyCVRi7BvfnPhIaOxgOs0GOEcojxc9yAuoZ4WDLU7wy5lCCo+GGT00rz0eU7EXXt5fk3/TGyhognZcnFX22S9xVnqqvUDCkZGf2FI9iZ1Lrt7SS84tNtTCFCCi8OzCnCjXKoLADwMj92Plhn7p+TcutilSc34/rAeqLtf69tAlj4jXIQCxRrdszgWeDXMexy3bUUzZtdPQWbm2IEu4A6skFINsOFqMtFwEIGKg==;dWWpxyvbDtS75MVRg6ArXg=="

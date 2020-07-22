@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T04:23:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/07/22/researchers-develop-new-learning-algorithm-to-boost-ai-efficiency/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1000
     height: 713
     isCached: true
+
+related:
+  - title: "Using Artificial Intelligence/ Machine Learning to Detect Domain Generation Algorithms"
+    excerpt: "We will also cover some unique and cutting-edge methods leveraging artificial intelligence/machine learning (AI/ML) to counter these threats and discuss how to handle false detections (both positive and negative)."
+    publishedDateTime: 2020-07-21T21:55:00Z
+    webUrl: "https://www.cio.com/resources/206024/using-artificial-intelligence-machine-learning-to-detect-domain-generation-algorithms"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 61
+    images:
+      - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Dp5HWzJznOi7nIdUG5UZMueCaEYdQQXP+cYWncI2t+9zGGipMTC4HvADD5dh11IE2SyXn8IbId8Bkzl4B3hz0N/dPLEqCAuTxIYY8oQ6wOOKsLkldsyzbkBbLlYelmdSrlP60Qg5aH23Y3tA+IcCESoH4NKOBJBXiF3ci+FMti7Z9wT+cESJEnylugKimwNPhfMi5JLIwePbTInJnHsZt4DQw44hn37rjTnXsbJTNFh5xDgc/sUFDo6hdPQ+V/qLRMIPU2Fa5cna09/ulvDVHmTEeXUsPe4xBl49VvBda7HJHGtV8Yipe+Fum+4hDxpc2MHF3hG1WxJu9BtxmcsewrMvuBXZTJJeSHtz8wIdBihYNpTK4g5szXlfcpi6QHTC8hqjKPzE/d+PmO52Z/thWwQR/60rXg6gNKfwMLDexapSpxKp3Gf7CMIlNVTvQg5fmuUUg1iRwO0YXnmYYVbeiIdfzCracvyMa66j+IFBQgh8z81OHPNVfywVaU65ofxL6bbTVA3C4MNSExfNwZJnjA==;cRMQZ1JlCjYsDN+0ZML53A=="
 ---

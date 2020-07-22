@@ -58,6 +58,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Counterpoint: The hidden threat of facial recognition technology"
+    excerpt: "A law enforcement vehicle outfitted with facial recognition and artificial intelligence systems is seen during the NVIDIA GPU Technology Conference in Washington, D.C. (SAUL LOEB/AFP via Getty Images) Civil rights advocates have long warned that facial ..."
+    publishedDateTime: 2020-07-22T11:33:00Z
+    webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
+        isCached: true
 
 secured: "emcDbyemCOnKegvV9V9aRJZ0MqtEa5t3aQB3iPzCNsyjlBm4lhBavEJ8VE4i2e+srU2pggRV4zPGsdH9AEcbmxKlIts+K8omPiWzzQK8GuXLRvyLjq3CH9Q9f5tKwDp79WPxGKMzh2k/tGkgGCXUSFK9vIdWzHVCMXfT14rDIfYksUtrJM0AijWactFPgP3VzoSnu9gOlKBK+SySMVSvFnlGNpW2HGbPQO7YwqAuSLR/r3gHRLH5tDCFvtSf6VwroJ/Lt3sHMx3OWOi4MqhqpUJfNzTfyw5lRxG1SCWSLKinECrbsCx70Kg6ZaKmBOMjOgz/LLvfPdfMLwnjXRxUn3kYu/SdJM8pMid1SXZDChF2RzpVxvEXYq5xnKtf/Qb17vfG5dUMVqFapsYFR7XnzKhBn6TFLpOQJ2EXFH+du+Oj6rlGK6s0PV4Surxzh7f6cWwBZnYER/cp2i4qm8mJW2vnBuTYbfwy1Iqa5K/Qo1K6olWPHGi+ORhX9fRRp8+okWGxjiHYYYfqkyg4ng89FQ==;SPgsAuvhKk5HVxNBlo0GxQ=="
 ---

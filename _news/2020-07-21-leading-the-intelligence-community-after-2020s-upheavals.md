@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 793
         isCached: true
-  - title: "Artificial intelligence data centers take on greater importance in facing the very real threat of COVID-19"
-    excerpt: "The Cleveland Clinic is mentioned in this Wall Street Journal story about the role of data science centers in developing artificial intelligence and other applications to help diagnose and treat diseases,"
-    publishedDateTime: 2020-07-17T17:16:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/artificial-intelligence-data-centers-take-greater-importance-facing-very-real"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 19
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/clinic_2.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "XpxIbkDE3m5RSenXHLLwArW8MS/bNmfxkGyC0+2geXerfBreOjTxuaxUpuRbHRPlA4AKx7ZlHwJrgHHS+DSD0Ows6YH3zufBY6KNU5v3z4e9pwfTdWhd+TiJy+D4H1Tq3JVUlaXk1SBJGonw0NuBn8LYC2prr1yAsUTZhzV8fovMvKb54DuOLbx3z4CQWKHlUrkWj0IEKmQv4GaUHYI2YYfz24CpelD+/KXiUPRuA2sTwJqip4Y0LXETpCwLBMLU/T796Cq2mCVwSezFwpItvjPhBySFf7rZRVgnuQhk1u1bc8I76ho4nJ5K9OTIkSQm3ZyXmUbAHF9q0Fu+58ixOA==;iCe1MWk9lIn3xHrcfhDjKw=="
 ---

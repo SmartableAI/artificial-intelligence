@@ -61,6 +61,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 60
+  - title: "Nvidia builds the fastest AI supercomputer in higher education"
+    excerpt: "The university will enhance its current supercomputer, HiPerGator, with Nvidia chips and have it functional by early 2021. The third-generation HiPerGator will have access to NVIDIA’s most advanced AI software and integrate 140 NVIDIA DGX A100 systems ..."
+    publishedDateTime: 2020-07-22T10:27:00Z
+    webUrl: "https://www.fudzilla.com/news/51220-nvidia-builds-the-fastest-ai-supercomputer-in-higher-education"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/7766c47006e8e552ec6cd9119e33cd1f_L.jpg"
+        width: 620
+        height: 400
+        isCached: true
   - title: "Nvidia joins forces with University of Florida to build AI supercomputer"
     excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said."
     publishedDateTime: 2020-07-22T09:01:00Z
