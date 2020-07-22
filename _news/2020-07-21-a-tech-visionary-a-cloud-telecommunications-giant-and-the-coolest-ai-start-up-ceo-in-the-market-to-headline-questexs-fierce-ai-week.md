@@ -1,28 +1,20 @@
 ---
 category: news
 title: "A Tech Visionary, a Cloud & Telecommunications Giant and the Coolest AI Start Up CEO in the Market to Headline Questex's Fierce AI Week"
-excerpt: "NEW YORK, July 21, 2020 (GLOBE NEWSWIRE) -- Questex's Fierce AI Week, the virtual event focused exclusively on the application of AI to drive business, customer and process value for emerging and large enterprises,"
-publishedDateTime: 2020-07-21T20:15:00Z
-webUrl: "https://www.marketwatch.com/press-release/a-tech-visionary-a-cloud-telecommunications-giant-and-the-coolest-ai-start-up-ceo-in-the-market-to-headline-questexs-fierce-ai-week-2020-07-21"
+excerpt: "Questex's Fierce AI Week, the virtual event focused exclusively on the application of AI to drive business, customer and"
+publishedDateTime: 2020-07-21T20:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16718666/a-tech-visionary-a-cloud-telecommunications-giant-and-the-coolest-ai-start-up-ceo-in-the-market-to"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16718666"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16718666"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "j4i5caKU3552lsciF/MIeFqAdTRkTm7i2vKJAtJfW4hmCLY81lUKnT5wAuwyhLGDSZkaK0FV49VFGbF9KWTUIW+LAVihx3tzckeqsOofa5rZagDXHJSc3FfufRX4Tp6WIBXNoFySI/QgLn+pj12YaLug+stOFGTu+2Da7Q6OO1kHeKM11zszOnH1u5kRwX6opDjjjxfma5QF3bETCCR4YGTEY7nyFLXQFdfvT3byh6EEYdJD6kGFKNvWWg/1decYblO27fLFEsw2ixmEQfdV7D5EnrdNbWekDGBlYFHN7F95UjRjChJUOiyntAC33Y42YJSGEr/MdxI2VkYKnwnpzA==;vJofIbxvA7rXrl1roAqD6A=="
+secured: "+1HMYe2joLTwqeXvnUQzaagqRGZidaKyHTvnumF3OukF8upO7qBR0wbkd2MN5TBwcuD+7LXnBHS/MenJ4gYQvVW2yGjkItLT0nNbht9RXz2jUKnRJp1K+SUBhpf43vgVsu1ycLTPtpeBb0byRJaBu1zqvPPeWR7zWMfuteBaStmpQNDHujeWEvWxnUWVxWzTAnmSXg/x7J5sYcOU3Lp+9L8e/hqwV1KGkzhHRGM7iFlYhd7/DpkwUqUg9lBRI15tJQuFTOqXuch/DLCel2p/W8c8SLdBbrw3qS1RbgrGaZSIoWBt8UNE4YRzGiFbjW42qkNaW7YIoUAMZ5QswcwZnUwghIsnQDOdrVf/IPfHoJOoWZryUhpqrUvC/bfzs7X3wkahdZ4mgYo+h/Bd7VKaLoBu3IT0vPKEfvfeCbiHcZN+eBBPSAoRcuq4yuvl45fLo6bVDXTf6tkFsyMGFTNl+sjqgHTEuN8UjO7Z76sHgVlv3u2ykOhOhoi5eNJ/moqQSy416dvWNG9lXOKI3MxYQg==;gm5zYLSJhLM3a0pMi1RbpA=="
 ---
 

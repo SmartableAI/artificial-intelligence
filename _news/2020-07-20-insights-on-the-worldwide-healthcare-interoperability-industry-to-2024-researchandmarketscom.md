@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T16:57:00Z
 webUrl: "https://www.register-herald.com/region/insights-on-the-worldwide-healthcare-interoperability-industry-to-2024---researchandmarkets-com/article_92db4a0f-6e22-5445-9777-f2221e1b0c0e.html"
 type: article
 quality: 27
-heat: 27
+heat: 37
 published: false
 
 provider:

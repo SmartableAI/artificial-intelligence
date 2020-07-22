@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T21:56:00Z
 webUrl: "https://www.uppermichiganssource.com/2020/07/20/canal-view-launches-new-thermal-face-recognition-system/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

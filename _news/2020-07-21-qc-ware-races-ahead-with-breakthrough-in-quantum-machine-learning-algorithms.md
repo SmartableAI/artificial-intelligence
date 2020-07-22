@@ -1,25 +1,25 @@
 ---
 category: news
 title: "QC Ware Races Ahead With Breakthrough in Quantum Machine Learning Algorithms"
-excerpt: "QC Ware, the leader in enterprise software and services for quantum computing, today announced a significant breakthrough in quant"
-publishedDateTime: 2020-07-21T14:54:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-1029415443"
+excerpt: "Industry impact of Forge Data Loaders Forge offers two types of data loaders: the Forge Parallel Data Loader and the Forge Optimized Data Loader, which optimally transform classical data to quantum states to be readily used in machine learning applications."
+publishedDateTime: 2020-07-21T14:34:00Z
+webUrl: "https://www.prnewswire.com/news-releases/qc-ware-races-ahead-with-breakthrough-in-quantum-machine-learning-algorithms-301096711.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "HNIBkaq8bzumNJU1sak8nUncuAq9G9IusGSM8+XE4DyyLkyvSjQRAZUa2AQUg2onANBBqz3s7bNoueCCZppQOZrMClCccsQrDyaH9XUcPhj0iKOT6yzxHDqA5ON14nq87P7hJe77/CmAMNza3oZxm+wlqdb7hUeHl0I6TfiscsajLOMX8S8SIAFnuLb86VW4GxBuC3kmT8eQ2TQvTFc4hoavCWmegn2IFmWB8wRXkCJSbkH0yuzXyAAin97orJPVjfQGsR4aSiA/hzrxzcFv67YdQS8IBlJJTcEMtrfch0TfzYQHTTKUhMkHx3ZhcGWl0lxgnbjEeDlivCmLhDMX+iRo1grDPmqbrSKrUccx20ivy9Rku/Cek4PPa4pTSKQkBgfcrNRZXzYkWgzQu1m8ZsfIz3ZF+8KlmXZyTHAysFkEdDWeUkEES1fEzQRHtYXNxICQV/LHJ2hBhVFkVGQ/HQIaRaByu1HIIPU9t4FDQDPxJV8us4+pRypsdNYFM02wR6BH9ZlU9umBaSzD0P7VSw==;GSpdLbyrPr92IK2eBIpWDA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1217215/QC_Ware_Corp_New_Forge_Table_Infographic.jpg?p=facebook"
+    width: 657
+    height: 343
+    isCached: true
+
+secured: "JFLuo0XlcGixAZxysS5RZtaog5fnZSWkoBKbaiegWQsSuyvIg8Ui7mCmoulWtw2d9rF+4fKM8W93vmFrL88wXZqFmXGCZGVoyHhj0qmqfu/EZGkOFWXXt5uD8w6eY/qFtxR3/vkOR+oADJiWzyREaSqcsVKpQlqxCd68U0qYQZVtLhv2kT3KCNXbnjg3kdF6amFRfyP8wEaQWSpm3Ua0BnlJcpKMUb9krimOj9qG4ChEVsAanTyBXkq7MTk3tgEZpjXl7SuD8pgbOwZ94mXrSvTnCL44WVKi53cAzORokSS6Qxml+EZwH2RDtaeqC2VduyygkNaKCRKylybCRcodRA==;LzQmViMzJ2fVyFGQuMBc8Q=="
 ---
 

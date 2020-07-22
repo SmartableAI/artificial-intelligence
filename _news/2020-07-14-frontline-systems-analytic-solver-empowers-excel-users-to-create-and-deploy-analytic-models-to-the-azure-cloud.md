@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-publishedDateTime: 2020-07-14T04:00:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
+excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
+publishedDateTime: 2020-07-14T04:19:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "cub53FealpCxn5i7Rsi209o7jDXDUdmU7EPZMN5XChfMxqw0As5WpIIhfk/aNmb/7JQ8hW2+Mb/8zCyL52gGw+zIXJYwpl48+e47DsdshXFpFQPY7vrMmbDJ2cgXdsBtTebsyU8x8FmCIhAnJANeVLNf650xRQkMoURJl98Am41Pv8/JIJLlWE73VHFl78n8oyyjyOsHn+TxEHL4sWZBHmb4yWgPFd7IhbHhA5jRfp1YRzLZROzZSsJmrp0mh8jtEA0pOhiNIuXJz//y6YeDMnQ/LA0leWF3+piqoNbambyxJkQ0TgGxXi8wAWSdny1i7cctKtdIlOhViFjOjrqVRg==;V5LYmkxQObFwiVWWsRDCDw=="
+secured: "xtY5ajH4nI2AT7xMsOvIbFZp/oT+5J5J8AgqF89jv5E6Gkk9dvaTZZhndV+ytSJ4ulRyFjfzsuig5Ll4cLpZ9PlLhJk4gyzGn2gmlYTgAfg8fGznqk/kSWwWYRld6dNOsSds9go6rk5P5aIJej0EMzbTcO7dcL/91woScfm36oYCgXxqOpGuLTZWBdel/EFCEFOJQZcnw3EXJaItctMn+nuJQvWhlVG+CZiYdn+4COdP6ITBzW9Y7Vp1BVVaFeFWw4xkKX3DLwOq9GpenEFQF/PS25wF3RqxI8GuPr15PQphchMQ58w40xMq+GGXXvx3+Tu0EWUQZ4UNwClu6wIkrQ==;kmc6clktcV7cRLs6sjcMPg=="
 ---
 

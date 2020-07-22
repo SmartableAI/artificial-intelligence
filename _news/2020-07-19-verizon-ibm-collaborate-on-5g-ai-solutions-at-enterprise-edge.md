@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-19T21:42:00Z
 webUrl: "https://www.itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
 type: article
 quality: 39
-heat: 39
+heat: 99
 published: false
 
 provider:

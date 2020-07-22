@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T08:29:00Z
 webUrl: "https://www.finextra.com/pressarticle/83370/aquis-exchange-collaborates-with-university-of-derby-on-machine-learning"
 type: article
 quality: 38
-heat: 38
+heat: 48
 published: false
 
 provider:
