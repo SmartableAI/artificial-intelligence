@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans"
+    excerpt: "Fiat Chrysler Automobiles and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on"
+    publishedDateTime: 2020-07-22T15:36:00Z
+    webUrl: "https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583253%2Fram-promaster-2018-orange.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Waymo is designing a self-driving Ram delivery van with FCA"
+    excerpt: "Waymo, the self-driving division of Google parent Alphabet, announced back in 2016 that FCA would be its first OEM (original equipment manufacturer) partner. Since then, the two companies have worked together to retrofit a fleet of hundreds of Chrysler Pacifica minivans with Waymo’s self-driving hardware and software."
+    publishedDateTime: 2020-07-22T14:25:00Z
+    webUrl: "https://www.theverge.com/2020/7/22/21334012/waymo-fca-ram-delivery-self-driving-van"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/22/21334012/waymo-fca-ram-delivery-self-driving-van"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/22/21334012/waymo-fca-ram-delivery-self-driving-van"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/YIysl1zfSVaRsgapu7SCMyjvGPI=/0x0:3000x2001/1400x933/filters:focal(1260x761:1740x1241):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67091393/BU020_072EVc8dtsqcs1810sfm5akjefc94r8.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Fiat Chrysler and Waymo just announced an exclusive deal for advanced self-driving technology"
     excerpt: "FCA and Waymo had already collaborated on the Waymo One ride-hailing service in Arizona; Waymo One uses Chrysler Pacifica minivans."
     publishedDateTime: 2020-07-22T07:05:00Z
@@ -59,6 +91,20 @@ related:
       - url: "https://www.thehindu.com/incoming/om0u9d/article32158570.ece/ALTERNATES/LANDSCAPE_615/Waymo"
         width: 615
         height: 384
+        isCached: true
+  - title: "Waymo’s Self-Driving Delivery Pilots Resume in Phoenix"
+    excerpt: "After briefly pausing operations in spring due to COVID, self-driving technology company Waymo resumed its driving and testing operations in May. More recently, Waymo resumed its partnerships with companies UPS and AutoNation to pilot self-driving package delivery with the Waymo Driver."
+    publishedDateTime: 2020-07-20T22:49:00Z
+    webUrl: "https://www.abc15.com/sponsor-generated-content/waymos-self-driving-delivery-pilots-resume-in-phoenix-waymo"
+    type: article
+    provider:
+      name: ABC15 Arizona
+      domain: abc15.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a1a5903/2147483647/strip/true/crop/640x336+0+7/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F93%2Fde%2F25e3f2fa48499086d2574428a6f8%2Fwaymo-jul.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fiat Chrysler, Waymo expand self-driving partnership for passenger, delivery vehicles"
     excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"

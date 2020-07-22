@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Manufacturing Market Research Report by Technology, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-excerpt: "NEW YORK, July 22, 2020 /PRNewswire via COMTEX/ -- NEW YORK, July 22, 2020 /PRNewswire/ -- Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, Robotic Processes ..."
-publishedDateTime: 2020-07-22T12:19:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-22"
+excerpt: "Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, R"
+publishedDateTime: 2020-07-22T12:41:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "COVID-19 Negative Impact on Global Industrial Robotics Market - Exclusive [200 pages] Reports by Research Dive"
@@ -42,6 +38,6 @@ related:
         height: 314
         isCached: true
 
-secured: "hxBfyiHNHpJ2knLxFoFGL7zWBcWc/LU4EX8WyBKWbjO0m+ctQolVi0OHVJs00s3hFmsiPVA/az8L4veGQLxjMcYZAKHwjPhyPkTGmRblrx+OJda8utyNlcy3H5XUIDvTorih6OLY+6X5DlKkogC7v3LgbgBAWPrqiQgoF8TXfoN090DPj68sJ9OUWeatS75hGRkklB8L0/bmSjj2Df7ibEL0gJ1YETGnZdvn+BE5Kj9c9mW5nKRb8MlJIIKAZKAa+E5orJ2OsJ90CU9/biVzxBFESDjRPCDZaeU40fj4x788YPXvC/WkpaSATJcMUSL5WwHbV1SPqGRw4s2ML7zuqQ==;Xn59jlJmgp93IR5NiJxo/g=="
+secured: "rQsZqfOnSAWqNGeEEzCJ4eNkRpdsHTFtV0PiwWmv9YWlBj6co44/MDyhSblbL3eMykt0FK2H9mla2PizBTGUwXTFTorBhMNVP6Ma5XgZOwJuEqAxkBWj/v1l8GeTJXh+zeG1UVmDaw2vt8KNQ7XhpmrDOll7ct/mhJwRSKSk0Jtil7YlLSJvDEueDGyTatPRlVHPSUbXU7nuhuqmlOsFWcJtokQW3zIb+PNkmso5SCj90dnQx4VyidFJaBP3sd3Ke51mg0dAOKPV24WF1cyXwfheRvRN7YQMz74+jYTkx86irgTxV1b/NaEVbybeIE3W7JAf3mJf0S6Zghs/2/YijA==;wP1FI03/C8a20LsFeHRH5A=="
 ---
 

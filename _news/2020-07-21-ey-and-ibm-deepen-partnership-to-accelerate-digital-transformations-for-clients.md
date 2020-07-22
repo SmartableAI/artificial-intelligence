@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
-    excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
-    publishedDateTime: 2020-07-17T21:12:00Z
-    webUrl: "https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.net
-    quality: 12
-    images:
-      - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "ZN1shxcyO+5+btvqkEaB7vOusHsHqM+JttiLo1lrB+RcxALSCZLGaG/oCyFddM10rIuQIuXeQPXBscYoXtBhJhYx4cFvDjFJFu+ZiqIFCoY+7Z1swEZRuD+9W5YzDndXgAHqIxKnIFuKoeSFWGvvoufgurJJbB4rMG8nW1Zi82ZrHT/p+j9kBn26PchsARMk25PKwkiy/PIuyZhefnA3e2f+v6/zwxteru8pz8NckZfp3lFPAqcc5rKa+ZsC9QeS3tVXG6xE6R6DZtmbSz3Ffy+a+8aMrDmVYmRtP1IeW0GKrbz9O28Ak0KBCUOXvjK8aatZdOW7YpQh2dD3sW5J35sR2bCDqHXqqoQZTKbYKii4SbtZNl+v5AOWGgnMYSiJRMm7+LKO8+E7dn0mU7vCQsFKaU15iErP+zlAWCFe7ktXTHssA0W0R1vKspIstni/TPqcFTmR89dnE7/NH35tx+7IUaCdjEPaJ4v6k48/H0AjBcns7/NiQZlRCQFuAyoEwbm8MF6qtTLta+4G4pr66w==;APP8RXYAOu8E8lYsX8lYOA=="
 ---

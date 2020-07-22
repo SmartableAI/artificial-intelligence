@@ -3,10 +3,10 @@ category: news
 title: "Cybersecurity Services Market Trends: Leveraging Artificial Intelligence, Machine Learning And Blockchain Technologies For Cyber Defense"
 excerpt: "Leveraging artificial intelligence (AI), machine learning and blockchain technologies for cyber defense is a key trend in the cybersecurity services market. Cybersecurity vendors integrate artificial intelligence (AI) and machine learning principles into their solutions to tackle crucial hyper-connected workplace risks,"
 publishedDateTime: 2020-07-21T21:20:00Z
-webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21"
+webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21?mod=mw_quote_news"
 type: article
-quality: 68
-heat: 68
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -20,7 +20,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -28,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "N5+/Cyr7Des4cY5oToqebltTJv7MQAwcXTEextzrsaeV+XH6R6mSqbhl2mHYx3WL+YMjkSSFUO0S2sJ6HzItNtL1RLtVHENh2nG6bC/mUVoI9KEilLFFMo7n7KooFYD+hd3Ote9tnyoxVbpHkvhSTDI8MsQqgKCXxbdcaGoj6dsO8afQNjuz1WMxofxNr7hOStqxWYAPu3gzOHubXEkVWDKKpEzhKd0ev5JNn+McW7VzBeev60gAa0O/xgP6aiRN7/ibIj+kGoaefK3359GWFJK0ZMQxHb1gzwc6zHX3b7SaQUM8TFkcJj7FkvGLidiCSOKhsugnS8sDA8wQceRcuA==;hu1gEqkcAhRV1YcK9QQDgA=="
+secured: "fZ5eKKSTY2u60wa19e6fqfUZIAgvzQ8hlauTYx9CZf6KljaKSF79ivL8k1T+lOGg5irQKJP7IT00iEUJokYQk8dw1e6aTN5hzE6UJvV1W3KPM14eZVU5lWPvaqYJTGWFo1aCh6VJqcaINCTn8lRICothM477wNpxcmUfS0Tmn6EdBxtOIKkorsyLd/rW3CnhLXCLpRqh7bgUhb938yqXRn/wx8d77g//NBXWgostSW9YK3FsHKiTkkc2ascFMIbSgQYgBwK07uBvx49YlMHCotnI5kKLKQKqOomGK9km3mhOOkdVoLAQYYJLLl5k2FhUSmewbFHFQL9WwJiuaVIBxw==;qwaHlUxuy5k0dvPffDTLDw=="
 ---
 

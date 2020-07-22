@@ -40,6 +40,38 @@ related:
         width: 1200
         height: 644
         isCached: true
+  - title: "Waymo partners with Fiat Chrysler (FCA) to make self-driving Ram vans"
+    excerpt: "FCA also plans to use the self-driving tech across its brands. Autonomous vehicle development firm Waymo and Fiat Chrysler Automobiles have been working together for a while now. Waymo's pilot program vans are based on the Chrysler Pacifica minivan ..."
+    publishedDateTime: 2020-07-22T15:46:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-fiat-chrysler-fca-partnership-autonomous-self-driving-ram-van-commercial-vehicles/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-fiat-chrysler-fca-partnership-autonomous-self-driving-ram-van-commercial-vehicles/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-fiat-chrysler-fca-partnership-autonomous-self-driving-ram-van-commercial-vehicles/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg"
+        width: 1200
+        height: 644
+        isCached: true
+  - title: "Ram vans to use Waymo self-driving tech, with more Fiat Chryslers to follow"
+    excerpt: "Ram is ready to ramble on its own. Fiat Chrysler Automobiles has created a new partnership with Waymo to incorporate the Google-owned company's self-driving technology into its Ram Promaster vans. The Level 4 autonomous Waymo Driver system is currently ..."
+    publishedDateTime: 2020-07-22T14:49:00Z
+    webUrl: "https://www.foxnews.com/auto/ram-vans-to-use-waymo-self-driving-tech-with-more-fiat-chryslers-to-follow"
+    ampWebUrl: "https://www.foxnews.com/auto/ram-vans-to-use-waymo-self-driving-tech-with-more-fiat-chryslers-to-follow.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/ram-vans-to-use-waymo-self-driving-tech-with-more-fiat-chryslers-to-follow.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/640/320/promaster.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Fiat Chrysler and Waymo sign exclusive deal on self-driving commercial vehicles"
     excerpt: "Fiat Chrysler and Waymo have agreed on an exclusive deal to develop self-driving commercial vehicles. The automaker also will use Waymo's autonomous vehicle technology on its global fleet of future vehicles."
     publishedDateTime: 2020-07-22T05:07:00Z
@@ -172,6 +204,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Fiat Chrysler Partners With Waymo on Self-Driving Delivery Vans Now, More Later"
+    excerpt: "The Ram ProMaster commercial van is only the start—the same SAE Level 4 autonomous driving tech will be used across FCA's lineup."
+    publishedDateTime: 2020-07-22T15:45:00Z
+    webUrl: "https://www.motortrend.com/news/fiat-chrysler-fca-waymo-delivery-van-ram-promaster-autonomous-partnership/"
+    ampWebUrl: "https://www.motortrend.com/news/fiat-chrysler-fca-waymo-delivery-van-ram-promaster-autonomous-partnership/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/fiat-chrysler-fca-waymo-delivery-van-ram-promaster-autonomous-partnership/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 35
   - title: "FCA to add Waymo self-driving system to commercial vans, eventually whole lineup"
     excerpt: "Waymo is perhaps the leader in the race to develop a safe and robust self-driving system, and it's just strengthened its relationship with Fiat Chrysler Automobiles. The two companies announced Wednesday plans to start testing a Level 4 version of Waymo's ..."
     publishedDateTime: 2020-07-22T10:03:00Z

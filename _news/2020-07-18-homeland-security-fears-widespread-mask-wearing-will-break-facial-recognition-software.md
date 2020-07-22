@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Homeland Security fears widespread mask-wearing will break facial recognition software"
-    excerpt: "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ..."
-    publishedDateTime: 2020-07-17T22:30:00Z
-    webUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/"
-    ampWebUrl: "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: The Raw Story
-      domain: rawstory.com
-    quality: 51
-    images:
-      - url: "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png"
-        width: 800
-        height: 430
-        isCached: true
   - title: "Best Life: Facial recognition software helps doctors during aneurysm surgery"
     excerpt: "“It uses like facial recognition like on the phone and creates a 3D reconstruction and overlay it right there in the operating room,” Dr. Malas illustrated. A CT scan taken before surgery is combined with an x-ray taken during surgery creating that 3D ..."
     publishedDateTime: 2020-07-20T16:36:00Z

@@ -25,20 +25,17 @@ images:
 
 related:
   - title: "Artificial Intelligence in Manufacturing Market Research Report by Technology, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "NEW YORK, July 22, 2020 /PRNewswire via COMTEX/ -- NEW YORK, July 22, 2020 /PRNewswire/ -- Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, Robotic Processes ..."
-    publishedDateTime: 2020-07-22T12:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-22"
+    excerpt: "Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, R"
+    publishedDateTime: 2020-07-22T12:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "TTQ9YpuMbkODbbg9BYp200M+EUpZuVeQQ3zrDAEwfjUiG3DlvDcfmLRazYKOPhTMklZrfIRwPhp/nXW2LYYt8qh7FdOptHG3eHgcPZnI7RnU6AOQutbHfoaIQg8vP8lrZM7MOKZ0FTNjN+XdG/Pug+aUj97tbHkSQp1M4iHD/SvWCC8CpvesDsb3IPdm6geCmp4B9Yoqx8JtSpfgTEOPpRYL/XVRTw5yrNdeErNIRlMqBbu2Ocp1+545jzXvpEQB4psJuOSUCmhzGq7/0FKl8fsFOnIiIpB/qcrahgl6cqPtVqFC1fhqbQPJaY1cLf+2YCNx20YIm61Z0Ey/V3eLKQ==;+QtnxXApnQBQe9AChuXJ3A=="
+secured: "KJh4GZ8j0cpConqlWsKIIIdk5JuxOKcXOYDOn1EsTcJNLKefCBvpKhiHqdrCr94jN0zMrMZdp3ej3s96JWGBuQavTiMHzcbTW/GZSw2zX/xk9zbNeOxVwyZ+tXwpNpczfSv//GBIob9raFH1ahFakBvUimiIRhN3ckToQdyiSuLVZ4eGaYLfmf21atRMevBNFJIj/TJhXFxAB7uUZlOVhiu3RPTlNGwXJ547l9kTjmn9uhKFh5amGuGxGOwyBsnCweFNh3toM00H+8MtA08wdELasY88s8+Aueqv1tkKL7hpOZZh/KQioUBFMrKBt7gBEmAXWwuUC+WMloCRbO2XpONg2yGC5GKcJPEz3rGV/291DPUKFpxmmsQlGew2nSJahi+uDpKy6VP5xR1kM8+jarIVeKS1Gm5CpkBFb+dPv3qeC+CI414wFj8pgvU/kYjx2eGsjuUkWgzDXu6ERex+6zdVrdCK76QzCkbTkfqQTr4okPrkd6w1jHJVil7u+nEuhLQVaRxMr613NU2vRls6PQ==;gKxGV7zBPmEi8mHAeCn5kA=="
 ---
 

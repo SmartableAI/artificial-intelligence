@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Counterpoint: The hidden threat of facial recognition technology"
-excerpt: "A law enforcement vehicle outfitted with facial recognition and artificial intelligence systems is seen during the NVIDIA GPU Technology Conference in Washington, D.C. (SAUL LOEB/AFP via Getty Images) Civil rights advocates have long warned that facial ..."
-publishedDateTime: 2020-07-22T11:33:00Z
-webUrl: "https://www.scmagazine.com/home/opinion/executive-insight/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+excerpt: "Civil rights advocates have long warned that facial recognition technology was open to abuse by government efforts to identify and track protesters. Those"
+publishedDateTime: 2020-07-22T11:23:00Z
+webUrl: "https://www.scmagazine.com/perspectives/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
 type: article
 quality: 39
 heat: -1
@@ -57,6 +57,6 @@ related:
         height: 860
         isCached: true
 
-secured: "KOWkhWLlBcmws93cqBGlxaDpXfctjl8xsmg9j6+V/i5pYX2nL/TG1sNSD4SxacBHuTY+EJEWDPyoRjImDmrr9gTiNh2oVJwo482qBXonrQW0i3voDRX0NNsyKIH6Pq8fhfJF9gtUwGXR2WjgNH3z6AAAuccvT2VMFZHW1BSCOuL03b8VLUqu1W8eNsabBuR6Sj0hs6g04Fnd7wsE5wQC1y5XU0e9x3coByeud8K3HAAXwYNjTdOPbgfDT42y8kOAB9auh50idoWQI9OYC+0L7uHzyLQ4fpOr5Ec9VF5AirSBexnmB4zUi10l0EdMHKjiuov8Lb3+cl8poSArR1KLVQO5642+T7ZiALI3dR7ikBqHlJm/l9sBdsMG4a0K+MF2+kPeKpSbWFclo+5j1dSLXdjLPtn13C1yJXxH+3YgmoSBVRZbPDBMD62cODMrzToFhRcUv+blTJHqM/na9gkKErGnWnkVqMYOob3eiwjt677VrXFTu5G3Kg4M7Pg3ZlTwhblf+/w6dZzS1VUKMgELQw==;vMSVFicCRYlpmznpcMuu/g=="
+secured: "FnfOxikVIOQOIIa+Dn7A3ObuVzEVgfT7gXt/CIyDaGBLAgrwAP55+8zcj/e8fz+LEH63QVqXN0k22sFOaVuWb7Ij+edfnY4mYQw17hGER4E8Qa1UOwuP5wB6an/v/gqHCjG5VZUwG8u3P6EktcNReVmimaFNNmjCfWir8Wnx1lTSOh5rF6s4hZh/7+LDjXlpd4OGKfDF6xZfvFlSYEv5t+MA4iGO832A24QSuOTMS/OBqvX07mdiWjL8T2rEeuQpWqgb/Bo0dw893+P2GH+kJv6Yt7ECmsiQ9rz6WoZtkxZCuVg3LKO68y+a8sAEK0yI5Dgn96B5w0HDKT0mlx7wQg==;YbL/e7ftIPUrwy+rbIDDJg=="
 ---
 

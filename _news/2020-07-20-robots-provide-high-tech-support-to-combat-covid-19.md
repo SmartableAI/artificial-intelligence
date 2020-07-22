@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Robots Provide High-Tech Support to Combat COVID-19"
-excerpt: "Since the COVID-19 outbreak, the Joint SDU-NTU Centre for Artificial Intelligence Research (C-FAIR), funded by"
-publishedDateTime: 2020-07-20T01:59:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16682640/robots-provide-high-tech-support-to-combat-covid-19"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16682640"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16682640"
+excerpt: "During the early stage of the COVID-19 outbreak, researchers from C-FAIR met with experts from Shandong Provincial Tumor Hospital to discuss feasible plans and operable methods in using AI for epidemic prevention."
+publishedDateTime: 2020-07-20T02:14:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/robots-provide-high-tech-support-to-combat-covid-19-1029407655"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -36,7 +38,21 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Quibim Combines AI and Imaging to Detect COVID-19"
+    excerpt: "“This latest round of funding will be used to boost the AI platform, our available algorithms, and high-value components, to provide a seamless, all-in-one solution supporting healthcare providers.” Bayarri added, “Our new investors will open ..."
+    publishedDateTime: 2020-07-22T15:08:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/quibim-combines-ai-and-imaging-detect-covid-19"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 37
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jul222020at103220AM.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
-secured: "hiXSV35Bl/eCaHyeeHmZm9q7pHp6eKEVHxgjWlUMb4rqJRGbp5Rgwes92QqnZez/NAEo/ePc1aMRyRbKA/hwPTVqjCjju2rRSzPZVv83KD5Dx6IWqiH2TWfV7NxqT4n32TBKL3l1ZzhaoRZew0R6L6ngkrZwqvaCuupa6oc3CxxyguMTi809hy3+PfOniuPeQzyrgDobyI+o++02mvVGJ+6WEStUGi1dNCx5lSiPqxkO1IXWb4+xBG5VgP4/226AT+5LbIcYPJQCok9yiQucqiEWfMeobFsmh+sOKXUT3FAqgct4FMeKurzKtXNqcevFtis81TPL2PoZOBbLB6q76kMeERedT5pNyoFXUXvJMCtxr3P5y8LTGbnVp5uI8hPo+aqVy6CeP7W5A5UFO8iMlRse4rg2LDbs6EWPw2sg19vA++t5EE/iQ+t2NcmHTgn7f04wQFQwM93e/41QnYg+ozAH/6ywEt5Vg26LlBC4sWHdk4eVgUC6r6bjLFoDd2J5N1Dri5NfYqq/dihqVD7xvw==;5C0Ea9P6IQSv2n3jFpHt6g=="
+secured: "n3XA7Ge8cvFMHQrikZbyT4308s6hMrk445Sok12tRacQ2omz9DsoX6yn1se2WRCwt77XgxeFv8zBHYOrbOEUrbkIYFKmEa8Q1zqZYxR0hy9RKoZ3KwwLf1eBqa7Mju+xDiV7cT5o4OmJNLVb1j6h9Ml67X+sYVMcZFyLwQibIcu+eUU5XStSjrI/0UMayWzkCVDe/MyruV4MrpfkDBaV8B1Buf3RhOuMM34WL6M5nKIlIDR9Vdhshp3hBkJY9Mu41SBCZQQzKZ5rdVQw7YL9Iatn0SKTBG0JnC5BEbffcdFUJHHfisSdB4h/eakZLMLwEdHtQba/NWS5LZKj6Ezcxw==;1iHs1nUq69F71tn5WhJ/Dw=="
 ---
 
