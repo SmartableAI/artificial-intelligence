@@ -60,6 +60,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 8
+  - title: "Halliburton to complete move to cloud-based digital platforms"
+    excerpt: "HOUSTON – Halliburton, Microsoft Corp., and Accenture have entered into a five-year strategic agreement to advance the oilfield service provider’s digital capabilities in Microsoft Azure ... Data Lake using machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-07-22T20:05:00Z
+    webUrl: "https://www.offshore-mag.com/business-briefs/company-news/article/14180171/halliburton-to-complete-move-to-cloudbased-digital-platforms"
+    type: article
+    provider:
+      name: Offshore
+      domain: offshore-mag.com
+    quality: 4
 
 secured: "GLB+3Ql3bijHwBiU/nh/pyeQUsZxpIybj0PBrgf7PRgBPtjc8U8hgpIAM2Fswqjw6sT4qSofOfjInB9hTKMFHj6eoq0nxZxkk9dFsLajBh46cb/Covp/qbCf/68Kb8tM7sR3BYMbBaTFT99VuJmtvnZj5NB4+mI7sCM5iGgoqG8wbUnepqIxw4UqLtLUsg9v3/twFG7rD24mp+cDY2viMWjcH3UdZkWTWKbpYz6eIPM7cjwLUYQJtiqsv0xvvWUHpwqDJkEDWLrkYusFbJV8ZPpAlVuhtRy2Lo1v4hf3PX+oFeQi8zYebGo+K4zLoTNlhEzYWIeT0dizrXUygqoj+g==;v4Z8Tkl5u0uQ9wdJghmIRg=="
 ---

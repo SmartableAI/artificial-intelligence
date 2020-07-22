@@ -5,8 +5,8 @@ excerpt: "An AI startup has released a new tool to measure bias in speech recogn
 publishedDateTime: 2020-07-20T19:52:00Z
 webUrl: "https://mobileidworld.com/ai-startup-releases-tool-for-detecting-speech-recognition-bias-907203/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"

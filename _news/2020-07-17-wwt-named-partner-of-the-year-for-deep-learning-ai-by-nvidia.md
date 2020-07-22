@@ -1,20 +1,17 @@
 ---
 category: news
 title: "WWT Named Partner of the Year for Deep Learning AI by NVIDIA"
-excerpt: "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the"
-publishedDateTime: 2020-07-17T13:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI"
+excerpt: "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ..."
+publishedDateTime: 2020-07-17T14:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200717005015/en/"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
   name: Business Wire
   domain: businesswire.com
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
 
 images:
@@ -23,17 +20,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "SFL Scientific Named Partner of the Year for AI Services Delivery by NVIDIA"
-    excerpt: "SFL Scientific today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Service Delivery Partner of the Year 2019 for the Americas for the second year in a row. The NPN selected SFL Scientific for its AI consulting and development services,"
-    publishedDateTime: 2020-07-20T14:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200720005375/en/SFL-Scientific-Named-Partner-Year-AI-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 17
-
-secured: "OshddsiNykwQZiXp+Xq8bM9IiQZ4zb2iGYClpbFy7klFHSwq4uDQueSq6NuhZ6HtDHBwVlZIoQu6OTHwZ/Ek2DKJEuyB0wp6bBSeEOManunyvaQl5k0+1/tqWLBENOKposKM79H8kLbfRTVr4UdLPjZoAGYZXREVNmu4KW+/zT8MdRujjF/EeCRPnBMC+a+sAg7TUkt0TS06aXxQE0vJrQqlz6oRKTyMAHbLlT3h4i+PSdPN34lPdFbBt2PQ4xqzmsybp8TomoCtLPZ/qfcg7D73nnrNEccTDBhXZY4YXia0+H53fOWqboLNetvJtUwJyfEX1F7tWVb29BTUoYaAtncPRpxBubvRp3W4OUqO045ig+IQBLsq8w04Nfhtnx0ufCncHTz6HRfkg2UXcrUZY3W6wFE7B3v+f2n3e0mMcTKCccIhBSvKk+NfaGYhDPiVpfpfNeGx1k0EvHRcylJjQqvrUQ1xLBoBLy++OOmkwaVVAf2f3E7NEg70vEWRToibqcZkFQYTaOui3TQ6Gk4jkw==;ODTXRQHM0mnBQjCyV0M2qw=="
+secured: "8XenX3u4I8JAuwewiSbV41rXDMqUeM5sohD8pMOL8uGNWghGR+mkdwqL+3N9kATLwV2Rl7UlAZClTZTtLX426qkzEHBYKWWUd19ZDvu8jebT8ivuE+mX7y2536wmOkxAYEze4mxIigqRSOC2QqjzP74T4TR/3nY7en60+OOOs+8QsVT3ayATIDEJ+TqO/IFgm6O/6rQT5r0+jnvQCnftC603PPHLgzNGfJqZa/mVbhSe7QnX5OEY5FgX30EmZxxJRMXipmP9+J2Wc1Z7idb+ihhlRPwwgvBOLwi5MAfR8gI/mkLUaLkJQ5juDqsg9l6wizZ9PY6v0C9r/AfUUX33rA==;UVkb7cO41wluNIS1Glr59g=="
 ---
 

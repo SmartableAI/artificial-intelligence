@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gainesville.com/news/20200722/uf-launches-70-million-art
 cdnAmpWebUrl: "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -25,98 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia partners with University of Florida to build AI supercomputer"
-    excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said on Tuesday."
-    publishedDateTime: 2020-07-21T19:01:00Z
-    webUrl: "https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24M2NX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24M2NX"
+  - title: "Scale AI, partners invest $29 million into five artificial intelligence projects"
+    excerpt: "Five projects have received $29 million in funding from Scale AI and a number of partner companies to support the implementation of artificial intelligence (AI). Scale AI invested $9 million, with other partners investing $20 million. Scale AI invested $9 ..."
+    publishedDateTime: 2020-07-21T11:00:00Z
+    webUrl: "https://betakit.com/scale-ai-partners-invest-29-million-into-five-artificial-intelligence-projects/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: BetaKit
+      domain: betakit.com
+    quality: 47
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200721&t=2&i=1526604517&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6K1IK"
-        width: 818
-        height: 545
-        isCached: true
-  - title: "NVIDIA Partners UF to Build AI-Based Academic Supercomputer"
-    excerpt: "NVIDIA Corp. NVDA is collaborating with the University of Florida (UF) to build a powerful artificial intelligence (AI)-based supercomputer for the academic world. Notably, NVIDIA co-founder, Chris Malachowsky,"
-    publishedDateTime: 2020-07-22T14:36:00Z
-    webUrl: "https://www.nasdaq.com/articles/nvidia-partners-uf-to-build-ai-based-academic-supercomputer-2020-07-22"
-    ampWebUrl: "https://www.nasdaq.com/articles/nvidia-partners-uf-to-build-ai-based-academic-supercomputer-2020-07-22?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-partners-uf-to-build-ai-based-academic-supercomputer-2020-07-22?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Chip maker Nvidia and University of Florida to build 'fastest AI supercomputer in higher education'"
-    excerpt: "The machine will be used to apply AI across a ,amy areas like calculations pertaining to rising sea levels, aging populations, data security, urban transportation and food insecurity."
-    publishedDateTime: 2020-07-21T19:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8546043/Nvidia-partners-University-Florida-build-AI-supercomputer.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8546043/amp/Nvidia-partners-University-Florida-build-AI-supercomputer.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8546043/amp/Nvidia-partners-University-Florida-build-AI-supercomputer.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 60
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/07/21/23/26877468-0-image-a-11_1595371038362.jpg"
-        width: 636
-        height: 382
-        isCached: true
-  - title: "Nvidia collaborates with the University of Florida to build 700-petaflop AI supercomputer"
-    excerpt: "A $70 million partnership between Nvidia and the University of Florida will fund the creation of one of the most powerful academic AI supercomputers."
-    publishedDateTime: 2020-07-21T18:36:00Z
-    webUrl: "https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/"
-    ampWebUrl: "https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
-  - title: "Nvidia builds the fastest AI supercomputer in higher education"
-    excerpt: "The university will enhance its current supercomputer, HiPerGator, with Nvidia chips and have it functional by early 2021. The third-generation HiPerGator will have access to NVIDIA’s most advanced AI software and integrate 140 NVIDIA DGX A100 systems ..."
-    publishedDateTime: 2020-07-22T10:27:00Z
-    webUrl: "https://www.fudzilla.com/news/51220-nvidia-builds-the-fastest-ai-supercomputer-in-higher-education"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/7766c47006e8e552ec6cd9119e33cd1f_L.jpg"
-        width: 620
-        height: 400
-        isCached: true
-  - title: "Nvidia joins forces with University of Florida to build AI supercomputer"
-    excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said."
-    publishedDateTime: 2020-07-22T09:01:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/gadgets/nvidia-joins-forces-with-university-of-florida-to-build-ai-supercomputer-ae9604fb-f0ed-4598-a289-a0d666a42f42"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 38
-  - title: "University of Florida to Deploy World-Class AI Supercomputer"
-    excerpt: "The University of Florida will stand up a state-of-the-art AI supercomputer, powered by the latest Nvidia technology, to tackle major challenges such as"
-    publishedDateTime: 2020-07-21T19:19:00Z
-    webUrl: "https://www.hpcwire.com/2020/07/21/university-of-florida-to-deploy-world-class-ai-supercomputer/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 37
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/UF-Nvidia-DGXSuperPOD-artists-rendering-800x.jpg"
-        width: 800
-        height: 449
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/07/Scaleai-1024x680.jpg"
+        width: 1024
+        height: 680
         isCached: true
 
 secured: "tLpAsdtPn117uzB7tMyQpVhGjFQ5qsIMHmoRg5/C39kCqghd47d5sKl5odNXSV9+tf47XGAjMvpeQxh0vHG4BqRpPv1VWFAvIeDiUcyBtHsl7s+NA7AD5s64m70uxpzKkpXM/bT7Cc74G5jTy1B1E+lcCUNuJypmmDb7taWD2NFIOMtJ3NbSCmubDwo1hmWG34NZyT4CIB4hVsvDyRlQU1+tzs2pU/X325wGrzkzuBlbgZr3jy/M6+PWUPfYKyYkF+bX+2LJ2SIG5KD5Ry5O0q/ESKENRByH92VMj+6v+zrj4HeRoA1HEX3lBC0znFN+ZjaHD/lTptSShLuyrVhjEA==;K7tTbzATww2egWlYTaTxDg=="

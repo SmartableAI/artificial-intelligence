@@ -5,8 +5,8 @@ excerpt: "In the four months since the NYPD first published protocols limiting i
 publishedDateTime: 2020-07-22T04:23:00Z
 webUrl: "https://www.gothamgazette.com/city/9608-nypd-facial-recognition-policy-leeway-department-not-using-black-lives-matter-protests"
 type: article
-quality: 27
-heat: 27
+quality: 29
+heat: 29
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.gothamgazette.com/images/graphics/2020/2-facial-recog.png"

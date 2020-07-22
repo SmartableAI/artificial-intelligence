@@ -163,6 +163,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Ram ProMaster Vans Will Test Waymo's Self-Driving Technology for Commercial Use"
+    excerpt: "The road to autonomous driving is an extremely long journey. While some companies are going it alone, FCA has decided teaming up with Waymo is the best way to bring Level 4 self-driving to its lineup. This means that, when the technology is ready ..."
+    publishedDateTime: 2020-07-22T21:02:00Z
+    webUrl: "https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 55
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ram-promaster-mmp-1-1593097917.jpg?crop=0.667xw:0.686xh;0.176xw,0.187xh&resize=1200:*"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Self-driving startup Aurora expands vehicle testing to Texas"
     excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
     publishedDateTime: 2020-07-20T23:06:00Z

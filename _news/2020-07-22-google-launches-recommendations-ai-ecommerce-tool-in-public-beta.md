@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/22/google-launches-recommendations-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI-based product recommendations tool is now available in beta"
+    excerpt: "Google announced today that its Recommendations AI service, designed to provide a personalized product recommendations to online customers, is now rolling out to the public in beta."
+    publishedDateTime: 2020-07-22T21:44:00Z
+    webUrl: "https://www.neowin.net/news/googles-ai-based-product-recommendations-tool-is-now-available-in-beta"
+    ampWebUrl: "https://www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 87
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/02/1518707530_google2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Google launches its Recommendations AI tool for online retailers"
     excerpt: "New models are trained in just two to five days, depending on their complexity, before they can be used to start serving up recommendations. Since Recommendations AI was first launched last year ..."
     publishedDateTime: 2020-07-22T16:19:00Z

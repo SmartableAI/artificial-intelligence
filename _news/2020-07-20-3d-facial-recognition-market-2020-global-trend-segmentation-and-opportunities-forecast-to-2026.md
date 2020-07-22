@@ -44,22 +44,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NYPD sued for refusing to disclose records about facial recognition use"
-    excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
-    publishedDateTime: 2020-07-21T20:02:00Z
-    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/"
-    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
+  - title: "USD 501 using facial recognition device to increase building safety"
+    excerpt: "A local school district is hoping to make its buildings safer for students. Educators in the Topeka Public School District will be rolling out what’s called a"
+    publishedDateTime: 2020-07-21T02:30:00Z
+    webUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/"
+    ampWebUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
+    cdnAmpWebUrl: "https://www-ksnt-com.cdn.ampproject.org/c/s/www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: KSNT
+      domain: ksnt.com
     quality: 59
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
-        width: 2560
-        height: 1282
+      - url: "https://www.ksnt.com/wp-content/uploads/sites/86/2020/07/facialrec.jpg?w=844&h=478&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Brandywine Valley SPCA Using Facial Recognition Technology To Help Reunite Lost Pets With Owners"
+    excerpt: "But now the Brandywine SPCA is using new facial recognition technology to make it easier to reunite lost dogs and cats with their families. “We should take every step necessary to try to get pets back to their owners,"
+    publishedDateTime: 2020-07-22T20:55:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 26
 
 secured: "qHYDks2+Jecll1ARh9S4Mw5z0Rn8h2yHDEjVg7bjbadXYi9jErQJlzJ99+hva94wIGhFYtKOCNNy1pZlHkkz9j9m+O0JBCr4IFwVQLs+w/rqPSG3Rrn0CtCjijawofxWQM3X2E+Q6nVyzA9esh8dYAwFWDoykxOXv1AJ0oJ+MbhUM+os9vD+v/+MINf8CAg0mRjXa/GOjMFOVU/9coDBgKnjLcnmUtGtf0MWJ46hle25ncYJcA8uT2CZty2p5zajpVkAM2FEQtgv1DTRIy4v3TD6fART8uDZhXlbmQ6zFmBPAWk78GUcDT8fhpknKCirjES3h56R8xvTlCJxM62I0g==;cTFhgf8SUyy9jhRguSTPHg=="
 ---

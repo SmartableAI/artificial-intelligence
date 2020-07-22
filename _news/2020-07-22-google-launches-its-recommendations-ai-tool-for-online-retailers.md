@@ -39,6 +39,22 @@ related:
         width: 960
         height: 854
         isCached: true
+  - title: "Google's AI-based product recommendations tool is now available in beta"
+    excerpt: "Google announced today that its Recommendations AI service, designed to provide a personalized product recommendations to online customers, is now rolling out to the public in beta."
+    publishedDateTime: 2020-07-22T21:44:00Z
+    webUrl: "https://www.neowin.net/news/googles-ai-based-product-recommendations-tool-is-now-available-in-beta"
+    ampWebUrl: "https://www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-ai-based-product-recommendations-tool-is-now-available-in-beta/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 87
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2018/02/1518707530_google2_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
 
 secured: "XVN3pEtrft3obegT183hJiF+8+e80wDl6D5EfoRkKA9W5aTjKJejK3ypBljSRVK2hIWFwIun/aEQ9wIO8vjaWNp5++Xo/puzwgmwRw7df0aKo0oLLUjmqPb93mxNd2mTFP372UdEPoXzMTOwi1PEZeaBBdsTmYEEQ426c9F6alI+JKUIhh26WWXLvvRnak5pa+g7CiObWaLIFiz99v3fkG/tlwr5ek28Dm5UsEyyJ0j5MG0MF3o8Y0TQgxI/iHo/SsMfu8XRkMKk3tDCBXmVowprlJOaLbpOPCq147BabjGw6MICWt8ReUsfcGDt1nvFyCWTpciVOkuubSDAxB3dr+SJpFA2HOjc9DqNOwZZkNjGOAv+vEyxcKZVid0BTUj26th84req5p5t0xrym5txzk0xzlvMJ16Fno8qmh38JJgqAtRzj7rp4ZmwOTkfP3FctMHa3C6Cj/Yvcihu/9Nl6jbVesPNkKZuwp8dCAbNC+rbHyUaNNqpz6e7SCleo8Ii;uXM7ZDtZIIFwLw61sbu1DQ=="
 ---

@@ -59,6 +59,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Halliburton to complete move to cloud-based digital platforms"
+    excerpt: "HOUSTON – Halliburton, Microsoft Corp., and Accenture have entered into a five-year strategic agreement to advance the oilfield service provider’s digital capabilities in Microsoft Azure ... Data Lake using machine learning and artificial intelligence ..."
+    publishedDateTime: 2020-07-22T20:05:00Z
+    webUrl: "https://www.offshore-mag.com/business-briefs/company-news/article/14180171/halliburton-to-complete-move-to-cloudbased-digital-platforms"
+    type: article
+    provider:
+      name: Offshore
+      domain: offshore-mag.com
+    quality: 4
 
 secured: "LOekIgPG63h20LkQ4TGM2RGejn5XxOtNW40mhkHwyqVeKv28xGzWEvX0q1+50LuwNcoGVItBWZ+OT0720DqxhbsAU6OeBgIqQS/Ks/h3z4rpRaGTgaHwo6c13e5VFZQorDlF68fHGTQhqxpAjsmkAk4ncM7jX60JpEExsD+ciioS/uPP/2fuBzuntX830mFImhm9bTdxvDt8d3LYhe4jf9yWQK7xgyyDzRp+oJ5s/maKhZ/mzCDvMUhk22jQZ1VTqA0H+fYZ5nNFMSRcFHhHuC+zvHdyKL1kcapPW+lRx1IeU6I544umYFnSdqve6DOs5YdTUQ+qwYj4IM6l8my7Mg==;GWOcXNTQx+bgKjPqAvmxzg=="
 ---

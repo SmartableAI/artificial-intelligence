@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-o
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "NYPD sued for refusing to disclose records about facial recognition use"
-    excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
-    publishedDateTime: 2020-07-21T20:02:00Z
-    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/"
-    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
+  - title: "USD 501 using facial recognition device to increase building safety"
+    excerpt: "A local school district is hoping to make its buildings safer for students. Educators in the Topeka Public School District will be rolling out what’s called a"
+    publishedDateTime: 2020-07-21T02:30:00Z
+    webUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/"
+    ampWebUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
+    cdnAmpWebUrl: "https://www-ksnt-com.cdn.ampproject.org/c/s/www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
+      name: KSNT
+      domain: ksnt.com
     quality: 59
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
-        width: 2560
-        height: 1282
+      - url: "https://www.ksnt.com/wp-content/uploads/sites/86/2020/07/facialrec.jpg?w=844&h=478&crop=1&resize=1280,720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
     excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"
@@ -60,6 +60,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Brandywine Valley SPCA Using Facial Recognition Technology To Help Reunite Lost Pets With Owners"
+    excerpt: "But now the Brandywine SPCA is using new facial recognition technology to make it easier to reunite lost dogs and cats with their families. “We should take every step necessary to try to get pets back to their owners,"
+    publishedDateTime: 2020-07-22T20:55:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
+    type: article
+    provider:
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 26
 
 secured: "hQ5C4R2tTW5ZcHvHQhMStUGo9tcLeCcPwZLNsVkm2qOSW+9txqeP8njzKHxtHdTERdETE3AXVde9T/JdAPObSkbUyT9TpfDGa6uFCAfdbjoxzh+WeRNT5V8ebQva9k+8C//YkPnWIvUGKcGG1TVOvpbUh1PeRSe3MDM3olxclKWfSiPX3t6otnfzQauJcoXz/+AEE9QArbRks+C3yaQ6TFGErOn4WqrPI6LTt94hQGkzbbupu96v2sX/hrt52z/1Ajh6RHs41DtIsUv/hExXmI1xGpOXZSwD+WOc9jRfG5MAz/jnRvRvw+oh0c+DLyx2+pctPOKa0tqofLsQk6zk3dOZwtbssbXMvBfH8fkQaEvA/bdvTIjDWrHRW6A6jj/8CvVMCqzjqjFFISPIrKJPyQ4pVaZArTxLeHh5rMuihnyOmF6628AhzM+4lA8XjBwn/0y67WnPHZocp4ETwwIyp4KXK3A6s7AJUJiqt4Ot0d1zE1pg5bY1dNwi11qV8rwIEVQLamAZaSv608yOBkvVAw==;gJrAa6whdNYEV6BJ5sGzhw=="
 ---

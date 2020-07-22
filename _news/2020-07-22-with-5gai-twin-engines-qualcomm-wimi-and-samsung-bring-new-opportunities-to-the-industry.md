@@ -1,13 +1,13 @@
 ---
 category: news
 title: "With 5G+AI Twin Engines – Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
-excerpt: "For more than a decade, Qualcomm has been working on AI to empower many industries. In the wave of 5G and AI innovation, chips are an important part of the industrial chain. Qualcomm has a solid technology accumulation in the field of AI, mobile computing ..."
-publishedDateTime: 2020-07-22T00:24:00Z
+excerpt: "The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has"
+publishedDateTime: 2020-07-22T00:14:00Z
 webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16724462/with-5g-ai-twin-engines-qualcomm-wimi-and-samsung-bring-new-opportunities-to-the-industry"
 ampWebUrl: "https://amp.benzinga.com/amp/content/16724462"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16724462"
 type: article
-quality: 50
+quality: 48
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-  - AI in Robotics
 
 images:
   - url: "https://i.ibb.co/YytWkNY/1.png"
@@ -27,39 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI Fueling The Oil And Gas Industry: Interview With Tim Custer At Apache"
-    excerpt: "In industries where data is key to gaining competitive advantage, artificial intelligence and machine learning have become necessities. This is most definitely the case in the oil and gas industries as market demand waxes and wanes for critical resources we’ve come to depend on."
-    publishedDateTime: 2020-07-19T22:38:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/"
+  - title: "Giants in the AIoT Chip Industry – Qualcomm, Alibaba and WIMI Entering the Battlefield"
+    excerpt: "In recent years, the word AIoT has gradually become active in people's vision. AIoT (AI+IoT) means combining artificial intelligence with the Internet of Things to form a new integrated discipline. With the development of artificial intelligence technology,"
+    publishedDateTime: 2020-07-20T20:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14c82126d6430006147990%2F0x0.jpg"
-        width: 360
-        height: 500
-        isCached: true
-  - title: "AI Fueling The Oil And Gas Industry: Interview With Tim Custer, Senior Vice President, Apache"
-    excerpt: "In industries where data is key to gaining competitive advantage, artificial intelligence and machine learning have become necessities. This is most definitely the case in the oil and gas industries as market demand waxes and wanes for critical resources we’ve come to depend on."
-    publishedDateTime: 2020-07-20T15:07:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 76
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14c82126d6430006147990%2F0x0.jpg"
-        width: 360
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "With 5G+AI Twin Engines - Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
+    excerpt: "HONG KONG, CHINA / ACCESSWIRE / July 21, 2020 / The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has brought opportunities for the server market to speed up development,"
+    publishedDateTime: 2020-07-21T08:20:00Z
+    webUrl: "https://apnews.com/83e70daa68b72290fec00095efa73045"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "U1MHyzIFflQYry7GMcdEYIbHxDYXLrwqwLeNHrRE0mkHNtKV8M/TL+NGxHCpoJd7brm07+h0xtJmoXCePNBnEYG1hb0zTCgu81/hxozCvg0vQcXPeT4UTf1lIKw6CKUsBAgGq9HJjS/zQBFyCs6/X1LwPfLs39gcW+H0IxJjnKLHGD5ElfwniEqBbsfcAydHsWrNewOu5vVZuCBLTGmt4nsgWoObhS6RGen+wZcaDPUWbtlSWjyOVpYC3xrxatOqQzd4So74BRc0gyFyhRLOu32R35RhFP3Ch1nNeAnBXnV89FV5V1ULTRTq1Yb1G6nwi9RC08nJK7EYwuYi+a1fJg==;8T/l/NAacBzoxo/DCdbo6A=="
+secured: "aftVt85YUU+yhmpAYsvpjZOWJGf8Tkoz3e4NpMKQ5panQoo375kU+lyY3X2CrS7sHotyOqelrNbOWAkmYY64VHMu4odf6kKh280jkOlHXs2Q9AL1hMG/PMFrg8lXl3spf2yYxCsVgAKDu6K69a2m3eQfdp7FHLppGdJElPt0dmq1p1XsTuhd1oxbU6Exzy0u8Y3rqalgh+7fUIZOqv4b1kSCuwFfx2lk0npe25o4oM1wmb2+ttlIgeJvnEF1TBOrwuYki9INjsPYNEX+wetqFfPO1dxF9ckBroHk70zFlC7inqt/dVC7U2ejZPY28HywNGP4MbeCnAs+m3jUCo1eEw==;cw2CYnwFtzjfo3fMt++xpg=="
 ---
 
