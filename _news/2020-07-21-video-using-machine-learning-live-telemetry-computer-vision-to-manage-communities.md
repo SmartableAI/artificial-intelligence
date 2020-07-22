@@ -5,8 +5,8 @@ excerpt: "In this GDC 2018 talk Showdown's Alex Casassovici and Beatriz Miravet
 publishedDateTime: 2020-07-21T19:54:00Z
 webUrl: "https://www.gamasutra.com/view/news/366803/Video_Using_machine_learning_live_telemetry__computer_vision_to_manage_communities.php"
 type: article
-quality: 49
-heat: 49
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,7 +16,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - Computer Vision
 
 images:
   - url: "https://d1506sp6x4e9z7.cloudfront.net/gamasutra/uploads/992467.jpg"
@@ -24,6 +23,6 @@ images:
     height: 483
     isCached: true
 
-secured: "IjSkdtPAGompf8EMph6ZEwVb+rr7OujLCW8o1TfxJR5e7opsRKnAAmToxA8bkvVd8rNxfv8mymXeH7VGsXjSOOmXphnySTiSYJwj9AOlszcBlr/DJrjKxMPkwbwF7cJ33/lIyOD6JMuoF2Ti9dPOsxrj6tu5bfLN+3UbefArIE2AQuUolBCyhqa/ZP9cSB6T+8l0PWYFHcLgt3xAHvlNobKcgl6E09qFcdjbGKW9HmlmDz1CtlePI/nR0jaC+4Xpv3Z+QBk06houAJkAkggXpebljdZFsS5HVFnUiDjpj1Z6qgoqITLJ/37oSt8hQTP2CutUGfwlCkCors4JGb0F/AwUMvkgkLqJTeB07NMogMWAVKnIxT8ZbyphvPnbbuA9U/dlFcPOnyjW706BrdOetiDZjbJKSEiAOor1Hi8HYhIyAam3C2wzX0vJcS9kgAeb0S/Bue/KRHgWFOwkuv6J7aXeAoNWf7vlbby+pcjg0OMMeqwmq7jWsQYmR/QYbsZBLKI8D1SFkpchTT2DLj2x0Q==;e01zCn292MWDvcMdvSy3oQ=="
+secured: "hYCoyE6CtZ0k0os7IE7lY6Byz2ZRFOcOtGSIPR/1k3hzfV5SXW37QtDTiqxkQpNEuwVT6yqQiayo04EfiI9xJoToOTd/UTkcw+8cubfIsDHKbMVqEhM8SA3HS7PMUNdY4uLca/sSykTKiwkDIxXkB8escC6KhQUf6zxzReT4slLQztoRiErwxRJ61ZqteEFn8WBSOdl7JOYG18suxau573O7SXa4GnI6Pgv+go2+8O5Fs1xKq7+MkIRlAg4AKCFgTtj9OHC4AL/JSXJYQL5Eru5IuNV9qFNXCZcZG5Y8RkMYxGvQKWfRdRm2CKj6ne5wBjvL6ByavHTcUFCGDbO+MQ==;zmDkQqd2dm1ekBCh/8f6vQ=="
 ---
 

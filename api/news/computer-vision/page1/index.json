@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-22-here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban.md",
+      "title": "Here are the lawmakers who are backing a national facial recognition ban",
+      "excerpt": "The scorecard keeping track of which Congress members support a federal moratorium on facial recognition comes after Sen. Bernie Sanders and Sen. Elizabeth Warren joined as co-sponsors on the bill. If you're wondering whether or not your Congress ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/",
+      "publishedDateTime": "2020-07-22T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-police-claim-violent-extremists-exploit-coronavirus-to-defeat-facial-recognition-leaked-files-show.md",
       "title": "Police claim 'violent extremists' exploit coronavirus to defeat facial recognition, leaked files show",
       "excerpt": "Leaked documents reveal the message sent to police behind closed doors: face masks \"embolden some individuals to escalate violence.\"",
@@ -91,7 +141,7 @@
       "webUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -132,7 +182,7 @@
       "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -182,7 +232,7 @@
       "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 114,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -203,56 +253,6 @@
         "name": "The Conversation",
         "domain": "theconversation.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-18-clearview-ai-the-facial-recognition-company-that-scraped-billions-of-faces-off-the-internet-was-just-hit-with-a-data-privacy-complaint-in-europe.md",
-      "title": "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe",
-      "excerpt": "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153",
-          "width": 1747,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493",
-      "publishedDateTime": "2020-07-18T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -626,8 +626,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {

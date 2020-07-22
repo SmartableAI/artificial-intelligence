@@ -8,8 +8,8 @@ ampWebUrl: "https://observer.com/2020/07/these-technology-driven-companies-are-s
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Observer
@@ -35,6 +35,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 43
+  - title: "Wearables, technology and today’s health care reality"
+    excerpt: "With the ability to track fitness activity and measure heart rates, sleep quality and more, fitness devices are light-years beyond the pedometer days."
+    publishedDateTime: 2020-07-22T18:49:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2020/07/22/wearables-technology-and-today-s-health-care-real.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "Spbx0q8rlRd4ZbVXj4ysk8NHSgS74MjnPhi4unbT6FbQQ3U9rQj9QQOqX7o2zKoxefKS6yR+ytW0ZBkfCMbUMfhz7o8/wcmkA6Kp53yVxuSnnG+Oxx5WFdwAPXUJMluuRgRHJCQWBX2Eo5Iay3yj+DquV3SmvJRzgatS9rTo0KhmabmvHp6xecqNhlfi6muLzzweMbV2h5OLWaJcVijPrcto7uPltsu1c/pLFGdkGM4030eOwKlK1COS+lfM+TU5bgrc+D0R5udGIofGxzLekXDRBNkbtFiMkkf/buer3B6adyc1pzUFU9E2JDRUFF/iQ8DCZ7VFPmTC/hZ3C8W9Gbm39xVQXkH606wcTbtZ96qCY4xeFDdZttC28aPyw1SAgWKXgL7tRcLZZ4OhLsNN9k+JIN/xOYno1N9mNXDd6hCI6dH6XzXdW5jHlk6ivyWVdXp/Jj5itVXjR0/MlUC0RgrfUrnx8CeSlnLhTJjQdpcSXVVA2DO7L5QcSzxGL1TOF9kjRWqxWCCi7kZBT38DFg==;l3VcnQNp8H9XE3O0rwlIDA=="
 ---

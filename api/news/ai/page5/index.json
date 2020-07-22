@@ -2,6 +2,106 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-17-intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot.md",
+      "title": "Intel VP: AI-aided defect detection is a killer app for industrial IoT",
+      "excerpt": "Computer vision has become one of AI’s most promising applications, combining ever-improving cameras with faster and smarter automated object recognition. During today’s Transform 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/inteltransform2020-e1594304433845.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
+      "publishedDateTime": "2020-07-17T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-nvidia-faces-a-tough-new-rival-in-artificial-intelligence-chips.md",
+      "title": "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips",
+      "excerpt": "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F582503%2Fgettyimages-1145990155.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/17/nvidia-tough-new-rival-artificial-intelligence-ai.aspx",
+      "publishedDateTime": "2020-07-17T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-ai-in-fashion-market-growing-at-a-cagr-408-key-player-microsoft-ibm-google-aws-sap.md",
       "title": "AI in Fashion Market Growing at a CAGR 40.8% | Key Player Microsoft, IBM, Google, AWS, SAP",
       "excerpt": "The global AI in Fashion Market is expected to grow from USD 228 million in 2019 to USD 1,260 million by 2024, at",
@@ -828,8 +928,7 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -1367,104 +1466,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-how-capital-ones-ai-assistant-achieved-99-nlu-accuracy.md",
-      "title": "How Capital One’s AI assistant achieved 99% NLU accuracy",
-      "excerpt": "The vision of building an AI assistant that takes complexity out of money, and makes money management easier, has been relentless.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-6.09.56-PM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-capital-ones-ai-assistant-achieved-99-nlu-accuracy/amp/",
-      "publishedDateTime": "2020-07-16T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help.md",
-      "title": "Adobe CIO Stoddard: AI bots can ‘cut toil,’ reduce demands for IT help",
-      "excerpt": "You may only know Adobe as the Photoshop company, but it has spent years integrating AI into its products, as well as its internal business processes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/adobetransform2020-e1594212394263.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/adobe-cio-stoddard-ai-bots-can-cut-toil-reduce-demands-for-it-help/amp/",
-      "publishedDateTime": "2020-07-16T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

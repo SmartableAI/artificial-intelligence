@@ -45,6 +45,22 @@ related:
         width: 360
         height: 500
         isCached: true
+  - title: "With 5G+AI Twin Engines – Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
+    excerpt: "For more than a decade, Qualcomm has been working on AI to empower many industries. In the wave of 5G and AI innovation, chips are an important part of the industrial chain. Qualcomm has a solid technology accumulation in the field of AI, mobile computing ..."
+    publishedDateTime: 2020-07-22T00:24:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16724462/with-5g-ai-twin-engines-qualcomm-wimi-and-samsung-bring-new-opportunities-to-the-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16724462"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16724462"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 50
+    images:
+      - url: "https://i.ibb.co/YytWkNY/1.png"
+        width: 554
+        height: 314
+        isCached: true
 
 secured: "mYAIS8qpjKUYHWvVfVDgOMEhEmaQCMNsjnJGK/D5mCLZDakgOJ3+o4w03n6fL4CXShMXiDa/jUgpLzzB+xna0CR2c62FMQ9PmUNcmWQupQpd3MCI4sdScYPzrGytpR/AiiN/AND2L/mYxBWpNqbe+hj/b4A512sK5PFi57EsJjXr87F4CWh6uQYX6Pq6lajyVHHvEb3qqlnVsZ3yftJXTQAETNwyWPNJqb+PTCN1eOb41LTa9KeApMRAtYCpKh4voG6ufHeZxHWeDDpgiYtZCNMEVzs+I1ZVxhWdIWuRlpJ0ypNzSDFscOZgAlw+llXa+35d6mosAEZ1oNIC4EHbt90yblCOWU7NwdQHFwE+LTGio9d8AgnsCgeZAucvzZOP9uqFICzDYGtTCB4e9PSpVC/7TNcn8u7sP6bTRDSv8rdAlbWHyVPW5SJLs7Eui3eOw7yUyjqEZ2u+A2RHMOa/oSd+pZ2xXqsOBxzE2l0ILQdTxJmpF3HQUWGp3+EwFo+O01m3AIZbPYbC4Wp3JFWx2w==;OJptkByme63hk77o6VM0Jg=="
 ---

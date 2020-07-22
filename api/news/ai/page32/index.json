@@ -2,6 +2,105 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-24-samsung-promotes-ai-expert-to-lead-research-arm.md",
+      "title": "Samsung promotes AI expert to lead research arm",
+      "excerpt": "Samsung Electronics has promoted one of its key artificial intelligence (AI) experts to head its research unit. Dr Sebastian Seung will be the new head of Samsung Research, the company said on Wednesday. He will oversee research conducted at Samsung's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsung-promotes-ai-expert-to-lead-research-arm/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/24/3f920c62-5cf9-486f-b0da-def272dec5a8/dr-sebastian-seung-main-1.jpg",
+          "width": 705,
+          "height": 430,
+          "title": "Samsung promotes AI expert to lead research arm",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
+      "publishedDateTime": "2020-06-23T20:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-how-cloud-and-ai-powered-data-insights-are-helping-f1-attract-new-fans.md",
+      "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
+      "excerpt": "F1 chief engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c4146867d4000608b8f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
+      "publishedDateTime": "2020-06-23T19:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years.md",
       "title": "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years",
       "excerpt": "Max Chuard, CEO at Temenos , a Switzerland-based banking software company, notes that the COVID-19 outbreak has accelerated the demand for the latest banking technologies and othe",
@@ -1301,106 +1400,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-why-facebook-chose-to-open-its-first-european-ai-lab-in-paris-and-not-london.md",
-      "title": "Why Facebook chose to open its first European A.I. lab in Paris and not London",
-      "excerpt": "The social media giant was concerned that rival labs like DeepMind and Microsoft Research already occupied the turf in London.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/06/23/facebook-fair-paris-london.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105020546-GettyImages-540680934.jpg?v=1532563680",
-          "width": 2000,
-          "height": 1333,
-          "title": "Why Facebook chose to open its first European A.I. lab in Paris and not London",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/23/facebook-fair-paris-london.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/23/facebook-fair-paris-london.html",
-      "publishedDateTime": "2020-06-23T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era.md",
-      "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
-      "excerpt": "Planned before the coronavirus pandemic erupted, the Hybri app lets users create a partner, friend or family member. Once created, the digital partner or friend comes to life using either VR or AR, with users able to interact with them through either a smartphone alone,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c3a78d2fdf0006333444%2F0x0.jpg",
-          "width": 1200,
-          "height": 719,
-          "title": "‘World’s First’ Digital Human AI Partner Promises Companionship During Coronavirus Era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/06/23/worlds-first-digital-human-ai-partner-promises-companionship-during-coronavirus-era/amp/",
-      "publishedDateTime": "2020-06-23T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

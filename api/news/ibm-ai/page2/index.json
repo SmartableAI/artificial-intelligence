@@ -2,6 +2,38 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-23-etisalat-misr-transforms-customer-experience-with-ibm-watson.md",
+      "title": "Etisalat Misr transforms customer experience with IBM Watson",
+      "excerpt": "New AI virtual assistant to provide personalised services in English and Arabic to Etisalat subscribers across Egypt",
+      "sourceUrl": null,
+      "webUrl": "https://www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp",
+      "cdnAmpWebUrl": "https://www-commsmea-com.cdn.ampproject.org/c/s/www.commsmea.com/business/trends/22088-etisalat-misr-transforms-customer-experience-with-ibm-watson?amp",
+      "publishedDateTime": "2020-06-23T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CommsMEA",
+        "domain": "commsmea.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-wimbledon-2019-ibms-slammtracker-ai-technology-heralds-the-demise-of-the-human-player.md",
       "title": "Wimbledon 2019: IBM’s Slammtracker AI Technology Heralds The Demise Of The Human Player",
       "excerpt": "Whilst we patiently wait for the day that Womble-shaped robots replace human tennis players at Wimbledon, we can admire the IBM powered AI technology ... them into the huge Watson driven analytics ...",

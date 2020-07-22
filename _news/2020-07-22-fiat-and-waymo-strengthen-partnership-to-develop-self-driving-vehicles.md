@@ -159,6 +159,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
+  - title: "Chrysler, Alphabet Arm Team for Self-Driving Car Contract"
+    excerpt: "Jul 22, 2020 (Baystreet.ca via COMTEX) -- Fiat Chrysler (NYSE:FCAU) and Waymo have agreed on an exclusive deal to develop self-driving commercial"
+    publishedDateTime: 2020-07-22T14:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/chrysler-alphabet-arm-team-for-self-driving-car-contract-2020-07-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Alphabet's Waymo, Fiat Chrysler Deepen Partnership To Develop Self-Driving Light Commercial Vehicles"
     excerpt: "Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG)-owned Waymo said Monday that it is expanding its partnership with Fiat Chrysler Automobiles NV (NYSE: FCAU) and the two"
     publishedDateTime: 2020-07-22T08:32:00Z

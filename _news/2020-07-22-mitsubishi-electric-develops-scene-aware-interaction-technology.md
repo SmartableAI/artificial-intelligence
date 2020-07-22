@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Mitsubishi Electric Develops Scene-Aware Interaction Technology"
-excerpt: "Mitsubishi Electric Corporation (TOKYO:6503) announced today that the company has developed what it believes to be the world’s first technology capabl"
-publishedDateTime: 2020-07-22T02:38:00Z
-webUrl: "https://www.businesswire.com/news/home/20200721005450/en/Mitsubishi-Electric-Develops-Scene-Aware-Interaction-Technology"
+excerpt: "Mitsubishi Electric Corporation (TOKYO:6503) announced today that the company has developed what it believes to be the world’s first technology capable of highly natural and intuitive interaction with humans based on a scene-aware capability to translate multimodal sensing information into natural language."
+publishedDateTime: 2020-07-22T02:10:00Z
+webUrl: "https://apnews.com/ee90d1b176d14912b43f507616cfc14c"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "syVocVxzBoJbPyMG6BnsjYVFRCLj+rmlis0WGrywueqmoI0WRdh419ZTNfxmvYpAJ9AfAoE2MqfFjZ8EHYHRgIfi0mH3cqiPcpt4uIkGiHC7piBzZ2geIWxlyTmeQCOpiEdDmuFYVJEYzRfhXXklpl9Deb2L3paWcPUoy20yvuDITMTFC/aUAOyXDZUA3OxgQQU397UN6n0KpCWoo1p3hgc7M2LHYosfZCg9bKWZIZWfY3LGqOZlS7k+DPHZMDs64REzgvKDNOHvoa6olZ2s9cwvq+Q8OBJ/KCkCUqDXZeUAi9IvxUUULZ0hZ0QwRMVa0/BgpNqN88X5JYF4WYqT1yvzQIxsTusZBSGG3HwHQ3M725FyMnTmMSvipblhR199+GYJ/WxPU6bRcoeUdO3II5PDbOi8Zs7/weTq3BlT+IP/8HYJWP4pEPoZjwbSs5CaTJQIbsIPhKAJKnpNgoT/TbgbvyErYe3LGG2eRSSFjI/er/qqj5L0xBQ7ONBHvRcQKHgbOu2fy9s1I28vzHaVsw==;0GeJl3Nr/oEsTF58Dp3bwg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ouFWMkWWK2mpnnm5Euko1AnJv/s+VpUu7xdlFsDmGf6sQsP9fPBc05NjNUwBE0utaqc6tZUFkC+n/72vev2LiysBi0iikFw/AW90Ox47mVDlO3xPsQFPEikT7o4d+KFx22mMkkIm8eIllLotoYR4yMR7rJ9A87A2kBFF2KrkdrfJzIn2FvQ9lKRhZd/ln3Z+Iymm51XlDYAmmgbzeD72VU1iD6nFgbRThvmncjDhpHTgY1AEmKvGspp5cVbykWLm9nuMPOW3SSFyiXQm7yzvPkOVAHIXRtTxPNWkF+V8HsUkn5aDnlC4aFSmIpFsOW6tbzEgE94NiqknSwJSmFLI/g==;Bvl4VqdMBZcFYymr6Vt2ow=="
 ---
 

@@ -37,6 +37,15 @@ related:
         width: 4480
         height: 3696
         isCached: true
+  - title: "Wearables, technology and today’s health care reality"
+    excerpt: "With the ability to track fitness activity and measure heart rates, sleep quality and more, fitness devices are light-years beyond the pedometer days."
+    publishedDateTime: 2020-07-22T18:49:00Z
+    webUrl: "https://www.bizjournals.com/cincinnati/news/2020/07/22/wearables-technology-and-today-s-health-care-real.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "DVjHOpAGPFyeTjZb2nWA55CCODYaqeEry/kV/0//k2vfqkgTmkCNjW9ZlCYc+s4BtwZY0sRV1QmmYvQky5TjHRoy0rl3Kf0zwzyDfesqDnHNy7Dun53wgdfyqZUY2BmitcB9CYW//GLrvyDmlXEn157hvJXKVQnCePHWjZ4WDXyKfz+ky7FrquoktJQoS5U0vXOC/GmhDSn91fvF12uMU4PciEySiRWCcpUED+BQN0lrZKNBA0KX0pPKeawHMiHcCzqpTFpS86WSI631dHSnnVBGC+4dNtH6lqkEcvZif2bEU3dEMal1Jv+e4YpUPpQMpwyOmUGfLLA4PX6qEG7baauAfVtTUSrPcPnhVHBADelwJygKe6w9LeCSPVBun8VeAFOVHO8HTQ3EBHIQyCUGMWID0donsghfbPP/dc03Us2o4bTTADKTUHulFKoefNafwupdEudA4mpkQi/am2s+xggAbpsFkbwepUf08YEnOaOX085UIuaqmjF94wWwsE6O9dhE+jTK4n0ZQlEhplHWZA==;AQlwJDe3YQCWobWD/Oztvg=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-o
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
         width: 2560
         height: 1282
-        isCached: true
-  - title: "USD 501 using facial recognition device to increase building safety"
-    excerpt: "A local school district is hoping to make its buildings safer for students. Educators in the Topeka Public School District will be rolling out what’s called a"
-    publishedDateTime: 2020-07-21T02:30:00Z
-    webUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/"
-    ampWebUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
-    cdnAmpWebUrl: "https://www-ksnt-com.cdn.ampproject.org/c/s/www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
-    type: article
-    provider:
-      name: KSNT
-      domain: ksnt.com
-    quality: 59
-    images:
-      - url: "https://www.ksnt.com/wp-content/uploads/sites/86/2020/07/facialrec.jpg?w=844&h=478&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
         isCached: true
   - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
     excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"

@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
+      "title": "Increasing engagement with personalized online sports content",
+      "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:27:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban.md",
+      "title": "Here are the lawmakers who are backing a national facial recognition ban",
+      "excerpt": "The scorecard keeping track of which Congress members support a federal moratorium on facial recognition comes after Sen. Bernie Sanders and Sen. Elizabeth Warren joined as co-sponsors on the bill. If you're wondering whether or not your Congress ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 208,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg",
+          "width": 756,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/",
+      "publishedDateTime": "2020-07-22T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-retrievegan-ai-tool-combines-scene-fragments-to-create-new-images.md",
       "title": "RetrieveGAN AI tool combines scene fragments to create new images",
       "excerpt": "Researchers developed an AI system that takes scene descriptions and learns to select compatible image patches to create entirely new images.",
@@ -9,7 +109,7 @@
       "webUrl": "https://venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -48,7 +148,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -410,7 +511,7 @@
       "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -830,7 +931,7 @@
       "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -1329,97 +1430,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
-      "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
-      "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "publishedDateTime": "2020-07-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
-      "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
-      "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595320043_product_41710_product_shots1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
-      "publishedDateTime": "2020-07-21T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -23,19 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "COVID-19 Negative Impact on Global Industrial Robotics Market - Exclusive [200 pages] Reports by Research Dive"
-    excerpt: "The progress of industrial robots through artificial intelligence and machine learning in the forecast period is predicted to create more investment opportunity. The enforcement of lockdown in various parts of the world has created a disruption among ..."
-    publishedDateTime: 2020-07-22T12:51:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/covid-19-negative-impact-on-global-industrial-robotics-market-exclusive-200-pages-reports-by-research-dive-866612079.html"
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026 | CAGR of 57.2%"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application,"
+    publishedDateTime: 2020-07-22T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://mma.prnewswire.com/media/997523/Research_Dive_Logo.jpg?p=facebook"
-        width: 600
-        height: 314
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rQsZqfOnSAWqNGeEEzCJ4eNkRpdsHTFtV0PiwWmv9YWlBj6co44/MDyhSblbL3eMykt0FK2H9mla2PizBTGUwXTFTorBhMNVP6Ma5XgZOwJuEqAxkBWj/v1l8GeTJXh+zeG1UVmDaw2vt8KNQ7XhpmrDOll7ct/mhJwRSKSk0Jtil7YlLSJvDEueDGyTatPRlVHPSUbXU7nuhuqmlOsFWcJtokQW3zIb+PNkmso5SCj90dnQx4VyidFJaBP3sd3Ke51mg0dAOKPV24WF1cyXwfheRvRN7YQMz74+jYTkx86irgTxV1b/NaEVbybeIE3W7JAf3mJf0S6Zghs/2/YijA==;wP1FI03/C8a20LsFeHRH5A=="
