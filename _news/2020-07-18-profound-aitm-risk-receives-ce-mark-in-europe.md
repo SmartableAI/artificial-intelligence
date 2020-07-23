@@ -31,7 +31,7 @@ related:
   - title: "SimonMed Imaging Accelerates Nationwide Deployment of iCAD's ProFound AI(TM)"
     excerpt: "NASHUA, Jul (GLOBE NEWSWIRE via COMTEX) -- iCAD, Inc. (NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection"
     publishedDateTime: 2020-07-19T04:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/simonmed-imaging-accelerates-nationwide-deployment-of-icads-profound-aitm-2020-07-13-81971230?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/simonmed-imaging-accelerates-nationwide-deployment-of-icads-profound-aitm-2020-07-13-81971230"
     type: article
     provider:
       name: MarketWatch

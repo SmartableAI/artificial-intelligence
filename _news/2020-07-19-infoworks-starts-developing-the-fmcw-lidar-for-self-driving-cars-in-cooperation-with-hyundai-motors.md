@@ -89,20 +89,6 @@ related:
         width: 1468
         height: 858
         isCached: true
-  - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
-    excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
-    publishedDateTime: 2020-07-18T13:15:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Aurora Is Bringing Self-Driving Cars And Trucks To Texas"
     excerpt: "Self-driving startup Aurora Innovation has announced it will expand its testing operations to Texas, in addition to the testing it is already conducting in California and Pennsylvania. Aurora was founded by the former lead engineer for Google’s self-driving project Chris Urmson and tests its hardware and software in Chrysler Pacifica minivans and Class 8 tractor-trailers."
     publishedDateTime: 2020-07-21T21:35:00Z

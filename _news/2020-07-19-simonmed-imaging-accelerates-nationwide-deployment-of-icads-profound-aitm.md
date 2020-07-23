@@ -3,7 +3,7 @@ category: news
 title: "SimonMed Imaging Accelerates Nationwide Deployment of iCAD's ProFound AI(TM)"
 excerpt: "NASHUA, Jul (GLOBE NEWSWIRE via COMTEX) -- iCAD, Inc. (NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection"
 publishedDateTime: 2020-07-19T04:37:00Z
-webUrl: "https://www.marketwatch.com/press-release/simonmed-imaging-accelerates-nationwide-deployment-of-icads-profound-aitm-2020-07-13-81971230?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/simonmed-imaging-accelerates-nationwide-deployment-of-icads-profound-aitm-2020-07-13-81971230"
 type: article
 quality: 66
 heat: -1
@@ -43,6 +43,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uoJ0jMimWcBMTQR9LETWNhnRrL4KLi4L5Bitm1OUwfVXRwpkaG1x0KOPtZwBFukgZtUNDoBZrnrioJDbBzk1ohkYjetSziH9MjVEtOldxn16Vukf2XE8UnFivYq+ofzOLCNZss7UPEnUZWCuhP7Qdaqdm82i/DpX1CJ+rWcxis3YC9/JiOnFvGSzQAsaLYKELDlA/RhEXRe8p4CNDrTRiIQDlKylpII4bQ+mJeQsLFPMwFcQu/HgAftB0ajzv7Z616b+i0BJbxJ55s4vRuicE364z2p7FDKN8yQQ+1M1dT2RCUq336kjdKv4ZTZFYNKQEj6/BMZEAEsO0TN8shlkWA==;sMSg5Bp1ze3eqWsmjcLSGg=="
+secured: "MPglvv8cnkmCHUfbapnZlu6yROXeiaR3haoK4hj1HPGUGcwM6AW1bTZybiYnSbmqgWFw1X5lIzdLJAGP7sxpD56IDzZuU5SX1QvNkhPsLtOYL1OwBpM7QxDLIV57+8eAr0a0egjnMQjAPrLhvAx87sM4Q+AJSXEaJYLrtkIzDkHkh7yd8pIKVwqedWp2hw1ZuJMH8MyWWBHsPkMx4cmPJ9voTVPLGwHgfAGEbsrHtXw8DTa4Zd/zq7ZhF5KwJaRg77Z0CLWKwbO6YXOz5KtXMxcXBK9HOacU9Bxf2ae0jwbHPdhD9u1uvfsDDzwPGBlB17YLZZfIJb4rB4rBWe5jig==;duD4N6K6BdxZprjWRtirVw=="
 ---
 

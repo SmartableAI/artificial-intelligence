@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence Robots Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
-excerpt: "Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions."
-publishedDateTime: 2020-07-19T04:28:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
+title: "Neural Network Software Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
+excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain. Neural network software is used to simulate, research, develop, and apply artificial neural networks,"
+publishedDateTime: 2020-07-23T06:04:00Z
+webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-23"
 type: article
-quality: 59
-heat: 99
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - Machine Learning
   - AI
 
 images:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Robots Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
+    excerpt: "Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions."
+    publishedDateTime: 2020-07-19T04:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023"
     excerpt: "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue."
     publishedDateTime: 2020-07-21T12:22:00Z
@@ -37,20 +51,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
-    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain. Neural network software is used to simulate, research, develop, and apply artificial neural networks,"
-    publishedDateTime: 2020-07-23T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -80,6 +80,6 @@ related:
       domain: menafn.com
     quality: 7
 
-secured: "9h9g/xLmpe23x9GSJUBtv0WUKBJWtse3hDxV7oe5Dazv4LBTkCorO2osAp1ez//3WhUQkcpzpSZmFlz+3Pwg1FuTLKVWhLWnBATmsVBveDeTPz7iHpNhDzgSuONujF1OjEiHTHPQSwx95OmKA7POaAtFm7n05c7StMsF+MeAzwrIfq93vBSiI0WdGvZz4e1if6c6lOib/r3jXA/6fglowWZKXUMHVrfj+XmvdxeA6G1uC8Fz8MmDAKT7t/laYdc5fraUSvw6CnoTml/qvB4s1PAubiaA0P9WHI/IENemuLCeWagHEp7N43MvYPgy5/vAmdQA6SaFnyebOiiTVqtMuQ==;AuONQ0CTzx6Wml77RiPcCg=="
+secured: "8MAVma3CjBcCNCo+ZhYwCkh5dXUwjqkq6m3AD5pth5Bs020sULIt8f7Tp6/J3okk8EgGAjroVtiYJqsviMFLMmoWFqOepozBnsq20pumz1Oe4OTLOkFskNeo1KVwxtZmg/IZiZcTslqkDpGJzZz/Olp16b0HLTBD8twof7GMY+YP5ecVCr2jcA+ZMTTGFK+I/sPsSGw/E5aIfaa6M8KGPsvKjO+rdwEqAaVgpygYWIzkKNQrkqZ0NaunMp6xsJZxGT6cCWecyoTWtgpoa0icu4RoVIQnf2Z2P+RyY9jcjJfbChWZKsUqRCaYs8IwCwJMDyps9WY7SD5ahuSmGMbf/Q==;+SgBzjANkybc21NIYZRrTw=="
 ---
 

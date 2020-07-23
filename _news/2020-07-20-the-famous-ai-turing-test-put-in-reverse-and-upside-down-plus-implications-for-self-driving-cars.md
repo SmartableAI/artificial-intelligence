@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-tur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/amp/"
 type: article
 quality: 78
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-21_at_11.55.26_am_0.png"
         width: 1468
         height: 858
-        isCached: true
-  - title: "Investors are placing their biggest bets on these 10 self-driving car startups"
-    excerpt: "10. PlusAI What the company does (according to Pitchbook): \"Developer of self-driving technology designed for large-scale autonomous commercial fleets. The company's technology uses artificial intelligence, computer vision, sensor technology, and deep ..."
-    publishedDateTime: 2020-07-18T13:15:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-car-startups-biggest-investments-funding-2020-7"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://i.insider.com/5f11b86a988ee342b5413602?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
     excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"

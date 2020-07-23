@@ -28,16 +28,19 @@ images:
 
 related:
   - title: "Artificial Intelligence in Manufacturing Market Research Report by Technology, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, R"
-    publishedDateTime: 2020-07-22T12:41:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user-global-forecast-to-2025-cumulative-impact-of-covid-19-1029419769"
+    excerpt: "NEW YORK, July 22, 2020 /PRNewswire/ -- Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, Robotic Processes Automation,"
+    publishedDateTime: 2020-07-22T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-22"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lRF4lShLNVregpAYz4HZb1A2wEMr7pW7jLxrsGSVjnJmOdb6LGmLX0IiCvhY88a/m/yOmBid/iNWQe7nIs9OVVlwLYejiofvhRG62Xv2NE/7WbAmXmXww8UDJd4dTOurlI4Lye7vI9/1cmPhGlfLSxUW8K/fpOG1JC0qvY4wuTC5FMeyHBmFTJ2/9ikdhQ7/nzAt9WTEzwxQqu+qcmHWynIWLTv+e5mkXc3uSjiJLSao22snGev1AsadTwyQ3TAGitQKLUpTgbAYxzFnqdE6fStJ28lFHRnDKSduEuP/I+3XawgupvAteyLBorixAsxZvzdU5WRHjD6kXzu6cAVsBw==;uBkJElomBVtYhna+ycpvCg=="
 ---
