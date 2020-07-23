@@ -2,6 +2,55 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-13-carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people.md",
+      "title": "Carnegie Mellon’s robotic painter is a step toward AI that can learn art techniques by watching people",
+      "excerpt": "In a newly published research paper, Carnegie Mellon researchers propose a robotic painter that learns from human demonstrations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot252032_photos_v2_x2201_photos_v2_x2-e1594676869134.png?w=1200&#038;strip=all",
+          "width": 1144,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people/amp/",
+      "publishedDateTime": "2020-07-13T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-todays-ai-productization-challenges-demand-domain-specific-architectures.md",
       "title": "Today’s AI productization challenges demand domain specific architectures",
       "excerpt": "Most newly emerging AI chips have strong horsepower engines, but fail to pump the data fast enough due to these three inefficiencies. Let’s zoom into what DSA really means for AI inference.",
@@ -1119,56 +1168,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
-      "title": "Paige raises $15 million from Goldman Sachs to detect cancer with computer vision",
-      "excerpt": "Take the latest VB Survey to share how your company is implementing AI today. Health care startup Paige has raised an additional $15 million to help diagnose cancer using computer vision trained ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/paige.jpg?w=800&resize=800%2C336&strip=all",
-          "width": 800,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/13/paige-raises-15-million-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
-      "publishedDateTime": "2020-07-13T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

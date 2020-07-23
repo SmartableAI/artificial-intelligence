@@ -2,6 +2,55 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-07-19-amazon-vets-behind-smart-shopping-cart-startup-face-a-familiar-foe-their-former-employer.md",
+      "title": "Amazon vets behind smart shopping cart startup face a familiar foe — their former employer",
+      "excerpt": "With combined experience of nearly two decades at Amazon, startup founders Shariq Siddiqui and Umer Sadiq remain big believers in the tech giant’s mantra of obsessing about customers, not competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/veeve-new-630x539.jpeg",
+          "width": 630,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/amp/",
+      "publishedDateTime": "2020-07-18T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-how-4-companies-are-using-ai-to-solve-waste-issues-on-earth-in-space.md",
       "title": "How 4 Companies Are Using AI To Solve Waste Issues On Earth & In Space",
       "excerpt": "Waste recognition, space junk, and food waste are a few of the challenges that artificial intelligence is helping humanity tackle.",
@@ -1132,55 +1181,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
-      "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
-      "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/04/11/7f14de97-e97a-4051-a342-644378ddf1d4/resize/1200x/2fe4d638fcfc2c8d05a64a57d184b147/istock-912675036.jpg",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "publishedDateTime": "2020-07-17T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

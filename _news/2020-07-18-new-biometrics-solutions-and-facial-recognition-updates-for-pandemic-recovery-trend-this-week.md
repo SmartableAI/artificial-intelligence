@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "New York lawmakers agree to pause use of facial recognition in schools"
+    excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
+    publishedDateTime: 2020-07-23T05:32:00Z
+    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
+    ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 89
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F7a021ed0-eaaa-11e9-9f77-34e0cf2b42e8&client=amp-blogside-v2&signature=50ef505139d5d6f53d14ab0d5fdcc2749865a6de"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Here are the lawmakers who are backing a national facial recognition ban"
     excerpt: "The scorecard keeping track of which Congress members support a federal moratorium on facial recognition comes after Sen. Bernie Sanders and Sen. Elizabeth Warren joined as co-sponsors on the bill. If you're wondering whether or not your Congress ..."
     publishedDateTime: 2020-07-22T17:40:00Z

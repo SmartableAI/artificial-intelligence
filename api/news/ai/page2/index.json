@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-22-air-force-goes-with-blackskys-spectra-ai-platform-to-track-impact-of-covid-19.md",
+      "title": "Air Force goes with BlackSky’s Spectra AI platform to track impact of COVID-19",
+      "excerpt": "The contract calls for BlackSky to monitor U.S. military bases overseas and assess the status of supply chains, using its AI-enabled Spectra geospatial data analysis platform. Spectra can analyze satellite data as well as news feeds and social media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/05/HartsfieldJacksonAtlantaInternational-630x406.png",
+          "width": 630,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/amp/",
+      "publishedDateTime": "2020-07-21T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-facebook-will-study-whether-its-algorithms-are-racially-biased.md",
       "title": "Facebook will study whether its algorithms are racially biased",
       "excerpt": "Facebook is forming new internal teams dedicated to studying its main social network and Instagram for racial bias, in particular for whether its algorithms trained using artificial intelligence adversely affect Black,",
@@ -1343,56 +1392,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings.md",
-      "title": "Researchers’ AI system strips identifiable attributes like gender from speech recordings",
-      "excerpt": "Researchers propose an AI and machine learning technique that preserves privacy by obfuscating speech recordings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
-      "publishedDateTime": "2020-07-20T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

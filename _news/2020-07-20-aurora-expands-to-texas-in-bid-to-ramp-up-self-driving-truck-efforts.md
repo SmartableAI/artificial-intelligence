@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Aurora Innovation to test self-driving truck tech in Texas"
-    excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"
-    publishedDateTime: 2020-07-20T20:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
 
 secured: "8E5RSrlXBa+ICYs8fTXOj3anU3e0bCrvWFVgiF9j7JfaJ1D/Wek86KJGSjgkOSPfba1ZPIHl7iXjdvv42mpe1b2i9yK7IdpkxOx9/GOlB639IIDIQ3wNGj9/2AqgrOhBjoo4HccNHAPdJji3gV7eBmp8IZfiVEAqok5kcRqVDpPE2DIS8XkgtRwMAilYXdxBKoqvGqywnMhNPm6gA1YVkqffsEfVhlCUfltSUnf2a5OY1CQAx1NYjt6W5CL+PCHORgg84hDkcXatlblMqGvYGum8lW0a41s0aNy50uPcxR2niTZ7LwLSYVjDPmuGoeZdCona5N3idCVAeEnLH/CvJ4sMpdhAHXQlQWnbnP53hiPv1+dq5cy2XCwMSmtL9mwtxvZbfASszj9DnCgpPP+w4+FLwyNA4HD9B3C0zX5mayv6lMw9CcFDnNcDwSK3OeDTgswUvfY9owsRgNO24qilzERlvchRTfGPLHfjtfBuc2qaoahD0ZrdNxlyGTnZYAth;cGt2NQP4xYQwZNrPkDx8mg=="
 ---

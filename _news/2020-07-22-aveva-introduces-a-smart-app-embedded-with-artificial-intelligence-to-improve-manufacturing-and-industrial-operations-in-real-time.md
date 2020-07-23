@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200722094730/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200722094730/"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "UiPath Announces Integrations with Amazon Web Services For Its Platform"
+    excerpt: "UiPath has announced it has integrated its end-to-end platform for hyperautomation with enterprise-ready cloud infrastructure, cloud applications, and artificial intelligence (AI) solutions from Amazon Web Services (AWS)."
+    publishedDateTime: 2020-07-23T04:51:00Z
+    webUrl: "https://analyticsindiamag.com/uipath-announces-integrations-with-amazon-web-services-for-its-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/uipath-aws.jpg"
+        width: 1973
+        height: 1033
+        isCached: true
   - title: "UiPath Announces Integrations with Amazon Web Services to Allow Organizations to Modernize Customer Experiences and Scale Enterprise Productivity"
     excerpt: "UiPath, a leading enterprise Robotic Process Automation software company, today announced it has integrated its end-to-end platform for hyperautomation"
     publishedDateTime: 2020-07-22T12:37:00Z

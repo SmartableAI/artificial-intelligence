@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-20-researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings.md",
+      "title": "Researchers’ AI system strips identifiable attributes like gender from speech recordings",
+      "excerpt": "Researchers propose an AI and machine learning technique that preserves privacy by obfuscating speech recordings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/20/researchers-ai-system-strips-identifiable-attributes-like-gender-from-speech-recordings/amp/",
+      "publishedDateTime": "2020-07-20T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-query-drug-adverse-effects-and-recalls-based-on-natural-language-using-amazon-comprehend-medical.md",
       "title": "Query drug adverse effects and recalls based on natural language using Amazon Comprehend Medical",
       "excerpt": "In this post, we demonstrate how to use Amazon Comprehend Medical to extract medication names and medical conditions to monitor drug safety and adverse events.&nbsp;Amazon Comprehend Medical&nbsp;is a natural language processing (NLP) service that uses machine learning (ML) to easily extract relevant",
@@ -159,7 +209,7 @@
       "webUrl": "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1372,55 +1422,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache.md",
-      "title": "AI Fueling The Oil And Gas Industry: Interview With Tim Custer At Apache",
-      "excerpt": "In industries where data is key to gaining competitive advantage, artificial intelligence and machine learning have become necessities. This is most definitely the case in the oil and gas industries as market demand waxes and wanes for critical resources we’ve come to depend on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f14c82126d6430006147990%2F0x0.jpg",
-          "width": 360,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/amp/",
-      "publishedDateTime": "2020-07-19T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

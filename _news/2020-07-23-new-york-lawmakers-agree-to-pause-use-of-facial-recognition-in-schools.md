@@ -1,28 +1,32 @@
 ---
 category: news
-title: "State Senate to vote on facial recognition moratorium bill"
-excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
-publishedDateTime: 2020-07-21T21:28:00Z
-webUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html"
-ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
-cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
+title: "New York lawmakers agree to pause use of facial recognition in schools"
+excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
+publishedDateTime: 2020-07-23T05:32:00Z
+webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
+ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
 type: article
-quality: 59
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: Niagara Gazette
-  domain: niagara-gazette.com
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/dc/bdc5a438-188a-11e7-a429-2ff44cfdd520/58e27d54bdfe4.image.jpg?resize=1024%2C713"
-    width: 1024
-    height: 713
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F7a021ed0-eaaa-11e9-9f77-34e0cf2b42e8&client=amp-blogside-v2&signature=50ef505139d5d6f53d14ab0d5fdcc2749865a6de"
+    width: 600
+    height: 350
     isCached: true
 
 related:
@@ -41,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 601
-        isCached: true
-  - title: "New York lawmakers agree to pause use of facial recognition in schools"
-    excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
-    publishedDateTime: 2020-07-23T05:32:00Z
-    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
-    ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F7a021ed0-eaaa-11e9-9f77-34e0cf2b42e8&client=amp-blogside-v2&signature=50ef505139d5d6f53d14ab0d5fdcc2749865a6de"
-        width: 600
-        height: 350
         isCached: true
   - title: "Here are the lawmakers who are backing a national facial recognition ban"
     excerpt: "The scorecard keeping track of which Congress members support a federal moratorium on facial recognition comes after Sen. Bernie Sanders and Sen. Elizabeth Warren joined as co-sponsors on the bill. If you're wondering whether or not your Congress ..."
@@ -138,6 +126,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "State Senate to vote on facial recognition moratorium bill"
+    excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
+    publishedDateTime: 2020-07-21T21:28:00Z
+    webUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html"
+    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
+    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
+    type: article
+    provider:
+      name: Niagara Gazette
+      domain: niagara-gazette.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/dc/bdc5a438-188a-11e7-a429-2ff44cfdd520/58e27d54bdfe4.image.jpg?resize=1024%2C713"
+        width: 1024
+        height: 713
+        isCached: true
   - title: "Does your congressperson support a facial recognition ban?"
     excerpt: "A new scoreboard launched by several advocacy groups shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2020-07-22T18:33:00Z
@@ -213,6 +217,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "MUzw3ORt4XFQwk6CAzu6M4HcLW0MJdvHfI85us6lFkMF/GLvYUc3sAQsy8ie4w0iHcuZbMjH5a+mG1cg4f2X/0KKOqndCX4jxZFN8+oQL24EEP6+QvzWUz8u2Elqf61S6Qlaz1a4PEIvq6ZpyVwDxdlLSFdVKnSwobdD6C4pQY36MkboMtiE+QB92E+aidSX+Cy9iONUEdjWAotse1PscPoIXF4Wtv6rqh9uQit3F/4uisRUETPt37M1Zgl0AanX6l1KGV5qa/6yw+iPa8rNitSBIuuQYNblwjEPqGOOBf6FqMgiMRFKoJohKx1Uc9UDBEFfZBTrvpgRZdksiSJxwg==;FO21rexmg2XoiSOoG4xBSg=="
+secured: "Y3jj7WtL0JSuKqCDW5FIpWH24PunuOM9b5sKHDbrSlGZhBP2dNVSICCW3hgeNhz69LcbpS/Uof64MVYS8xSQSfBnFLVM3hAS5UK+yPOm00gFwcMhPyxvi5AnND5G0HOk+/iqvUUkOjoLTDE4Q5fupauhWkTnARVqCt/biujgnINUHBolI45xCjlVvhnI7JRLwLCxNKm/wfy7HKKWJKCNJtaYdqa+INHJnbv/FKUE1bF+E8jCEgNZ3nzCuhmkF1Sr0yB+hLxDwrxu3npjaj9DqiWxrFtFDqWNWXgZbl94D3OHilOpTPp8VaX99of9ylZWu3QSG2nIsz28tEY/kr0d6w==;5rIBgeRzQ4GHJCc+2OH8QA=="
 ---
 

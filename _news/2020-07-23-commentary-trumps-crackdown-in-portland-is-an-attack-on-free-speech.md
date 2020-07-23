@@ -1,0 +1,44 @@
+---
+category: news
+title: "Commentary: Trump's crackdown in Portland is an attack on free speech"
+excerpt: "discussed the public parks and streets as alternate \"platforms\" for the speech of \"the workingman.\" So, the right to use the streets was born in part out of a recognition that the privately owned channels of public address were not open to all. In cases ..."
+publishedDateTime: 2020-07-23T04:27:00Z
+webUrl: "https://www.bendbulletin.com/opinion/commentary-trumps-crackdown-in-portland-is-an-attack-on-free-speech/article_c04b79f4-cc45-11ea-a804-b7f8aa2045b9.html"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: The Bulletin
+  domain: bendbulletin.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/custom/image/d6b8abae-e6d5-11e9-b583-ff72ef5c24bf.png?resize=600%2C600"
+    width: 600
+    height: 600
+    isCached: true
+
+related:
+  - title: "Trump’s crackdown in Portland is an attack on free speech"
+    excerpt: "Among these are questions about freedom of speech and use of the streets, or whether protesters have a right to occupy those streets. The federal government appears to believe they do not, moving to forcibly remove them in the name of public order."
+    publishedDateTime: 2020-07-22T10:11:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2020/07/22/trumps-crackdown-portland-is-an-attack-free-speech/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 24
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3QY6KSGLTAI6VGNQQQTOE3JAHM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+
+secured: "XbtM7WADL9eGjEzPwqvGdRcnx6dZx4Gr113tSRQvXUOt7R1oa6v2PHuOr/Gx3vItqn0Hlwp9KMNQQ4VdpqVWNqq82vYmtYRQ/7D0oWKWBtFrL/JSjh5FA0kchubFYZ+g9XDeHWIokdDdlPlOC0RHXf/Ka4HuuZjMm114A8N3CAfhFqTzzAhFpfyx9JYvnRZel5CO87z8zYcLo7meTh9BGZb58fZNEayiWIB8yOLPhhIFX4ymHbG2U2DugAkUDsbgEnqkvV80fNaWmH/jJvIZketCrf7/FTs9Dl5Hfn6hw/7fihSD/4VOX1OJpdh9qG/SuWnj7ClZ4NeBhGEuh6CHQQ==;QIGeD+9KO4ImV952bnEviw=="
+---
+

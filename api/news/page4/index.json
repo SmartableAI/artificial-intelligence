@@ -2,6 +2,55 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-20-how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications.md",
+      "title": "How The Rising Importance Of Cultural Intelligence Is Impacting PR And Communications",
+      "excerpt": "Cultural intelligence and empathy, along with my survival kit for communications, are the golden rules that I believe will be able to help us, the public relations practitioners from all over the world, to work with artificial intelligence, leverage it for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1181224216%2F0x0.jpg",
+          "width": 1200,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/",
+      "publishedDateTime": "2020-07-20T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-oracle-fields-a-unique-private-cloud-called-dedicated-region-cloudcustomer.md",
       "title": "Oracle Fields A Unique Private Cloud Called ‘Dedicated Region Cloud@Customer’",
       "excerpt": "After AWS I see Azure then Google offer this over time ... and will it be developing more homegrown infrastructure to reduce the cost of machine learning, training and inference as well? I think those are important considerations to think about as ...",
@@ -1139,55 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-19-amazon-vets-behind-smart-shopping-cart-startup-face-a-familiar-foe-their-former-employer.md",
-      "title": "Amazon vets behind smart shopping cart startup face a familiar foe — their former employer",
-      "excerpt": "With combined experience of nearly two decades at Amazon, startup founders Shariq Siddiqui and Umer Sadiq remain big believers in the tech giant’s mantra of obsessing about customers, not competitors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/veeve-new-630x539.jpeg",
-          "width": 630,
-          "height": 539,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-vets-behind-smart-shopping-cart-startup-now-face-familiar-foe-former-employer/amp/",
-      "publishedDateTime": "2020-07-18T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

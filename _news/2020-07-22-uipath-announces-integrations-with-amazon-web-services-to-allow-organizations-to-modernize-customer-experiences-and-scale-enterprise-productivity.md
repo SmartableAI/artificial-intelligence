@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "UiPath Announces Integrations with Amazon Web Services For Its Platform"
+    excerpt: "UiPath has announced it has integrated its end-to-end platform for hyperautomation with enterprise-ready cloud infrastructure, cloud applications, and artificial intelligence (AI) solutions from Amazon Web Services (AWS)."
+    publishedDateTime: 2020-07-23T04:51:00Z
+    webUrl: "https://analyticsindiamag.com/uipath-announces-integrations-with-amazon-web-services-for-its-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/uipath-aws.jpg"
+        width: 1973
+        height: 1033
+        isCached: true
   - title: "AVEVA introduces a smart app embedded with artificial intelligence to improve manufacturing and industrial operations in real-time"
     excerpt: "Artificial Intelligence is Integrated into AVEVA System Platform for Unsupervised Detection of Operational Anomalies"
     publishedDateTime: 2020-07-22T10:18:00Z

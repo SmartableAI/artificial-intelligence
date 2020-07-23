@@ -2,6 +2,38 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-16-igrad-partners-with-florida-international-university-to-provide-ai-powered-student-financial-wellness-platform.md",
+      "title": "iGrad Partners with Florida International University to Provide AI-Powered Student Financial Wellness Platform",
+      "excerpt": "Florida International University (FIU) partners with iGrad to offer interactive financial literacy education to its 58,000 college students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr.com/press-release/817036",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR",
+        "domain": "pr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-is-turning-to-ai-in-the-midst-of-a-healthcare-crisis-a-good-idea.md",
       "title": "Is Turning To AI In The Midst Of A Healthcare Crisis A Good Idea?",
       "excerpt": "Well, with artificial intelligence (AI), we don't have to ... Especially at the time when our healthcare system is under intense stress. However, my experience in AI security tells me that the implementation of AI into medicine should not be rushed.",
@@ -1071,56 +1103,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024.md",
-      "title": "Navistar teams up with TuSimple to produce self-driving trucks by 2024",
-      "excerpt": "Navistar and TuSimple deepened their two-year relationship on Wednesday, announcing plans to develop and begin producing autonomous semi trucks by 2024. The strategic partnership includes Navistar taking an undisclosed stake in self-driving trucks startup TuSimple.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/Navistar-TuSimple-Truck-Image.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/15/navistar-teams-up-with-tusimple-to-produce-self-driving-trucks-by-2024/amp/",
-      "publishedDateTime": "2020-07-15T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
