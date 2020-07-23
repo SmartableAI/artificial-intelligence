@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
+      "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+      "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "publishedDateTime": "2020-07-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-digitates-ignio-saas-suite-for-the-autonomous-enterprise-now-available-on-microsoft-azure.md",
       "title": "Digitate’s ignio™ SaaS Suite for the Autonomous Enterprise Now Available on Microsoft Azure",
       "excerpt": "The award-winning ignio suite consists of five standalone software products – ignio AIOps, ignio AI.WorkloadManagement, ignio AI.ERPOps, Cognitive ... Microsoft Corp., said, “Business leaders in every industry are focused on how to offer trusted ...",
@@ -1248,56 +1291,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-23-azure-front-door-and-cdn-rules-engine-now-generally-available.md",
-      "title": "Azure Front Door and CDN Rules Engine now generally available",
-      "excerpt": "In recent cloud-related news, Microsoft unveiled new Azure Machine Learning courses and scholarships on Udacity. The tech giant also signed a five-year deal with John Hopkins Medicine last week, centered around the utilization of Azure. Today, Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/azure-front-door-and-cdn-rules-engine-now-generally-available",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329604_azure-1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Azure Front Door and CDN Rules Engine now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
-      "publishedDateTime": "2020-06-23T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

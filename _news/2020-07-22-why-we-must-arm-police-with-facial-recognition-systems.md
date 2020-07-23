@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
         width: 1200
@@ -67,6 +67,20 @@ related:
       name: Meduza
       domain: meduza.io
     quality: 39
+  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
+    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
+    publishedDateTime: 2020-07-23T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "VqarH8DaYxXR4acf3qQY7DK1ot48Uni8sFCtEIRyUnFAhxs9Wq5ZZNcNmlzWbMKcNNTPGP+q+VYJ77zIFWrdTMo5DoeQu1PXUrjJvZrDpbQelWiNpDq9t7E3d8Zi7zKxerBpGsFCKCuxgpJVMjitl4L1u1Vlzy45diUIoiNxBggP+nCNlmq+2jHwqNqF93r6htpgK1d5Mj8IMm+zQOcE4voppi/lIdR2KeM6xkQbFCDodovdFviFh4jvKd60YO8B+mrbc5toQ3Or2Qv+3soXj7aIpGgraIJ8PWAVpwqfUPYMywpRrgowOEOU7H93n9zzR/dNnVC7wBnNI/Oft4L0NBlUtrikkFK/fpyLdD2OfkJkpsIzjNYSDK/Lu1y4qDIRHt9vIrBaLC25X2iDbS0vXXQS+IlwZjagfX7ivXCky7GEgJv0aELlsbvaGJIiWNhDiftbCd2Ryg6EW68KtdjtimuWlftIpBe2VtX1zDio4QxOlDM++qtxsSipJvFtoibUYrCtQwE5DSMWrzNi6KIWUQ==;FoqAiNefRWu0BqRobLuJKA=="
 ---

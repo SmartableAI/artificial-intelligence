@@ -84,6 +84,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Construction Market Growth, Analysis, Trends and Forecast - 2025"
+    excerpt: "The global AI in construction market is expected to show a significant growth rate during the forecast period. The cloud solution offers advanced scalability, intensified security, better compliance, and lower costs. This cloud computing has witnessed ..."
+    publishedDateTime: 2020-07-23T12:40:00Z
+    webUrl: "https://www.openpr.com/news/2095631/artificial-intelligence-in-construction-market-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/T/7/T723650314_g.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
     excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
     publishedDateTime: 2020-07-20T06:46:00Z
@@ -113,6 +129,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Overview and Scope 2020 to 2027 | Key Players: Microsoft, IBM, Google, Saffron Technology, Enterra Solutions, etc."
+    excerpt: "The Cognitive Computing Market Report by Reports and Data provides an extensive overview of the vital elements of the Cognitive Computing market and factors such as drivers restraints latest trends supervisory scenario competitive landscape technological advancements and others from 2020"
+    publishedDateTime: 2020-07-20T18:49:00Z
+    webUrl: "https://www.openpr.com/news/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
+    ampWebUrl: "https://www.openpr.com/amp/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
+    images:
+      - url: "https://cdn.openpr.com/T/7/T720444940_g.jpg"
+        width: 750
+        height: 350
         isCached: true
 
 secured: "RRAHEXxSkFptIn3pPRxvmxsab0nGUFLxBMzphkCJdMQZtpYoGMw5s8//TPOeSOncK7vQQBIu1Fod2v8QQs6N3K86/3QN6MIonhHtsgvcLyWThn50E8E1LI+UAjAlcZmJcT5TB8r5jXL/ZxVhTzzUWrjvVPiwC0mYBrTSVq546BWucxesYchKoCkCY3NBfs+NF8MjLsheISZ5+te4i/drOL3Tw64Ecph8eimvU9x1Ct966wgYEpraYYgYycykkBAi7N1PFYPoKqnBJO4oXabARyB+IWtkWneftrHOMd2zwSwTWWBG+vcrnc+lO6q7ezp+Eg5uP2GEFTIAaDFP25aLuA==;BkPwTHZQNVr2Gw4skmwWPw=="

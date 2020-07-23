@@ -8,7 +8,8 @@ ampWebUrl: "https://mobile.engineering.com/amp/20547.html"
 cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20547.html"
 type: article
 quality: 59
-heat: 59
+heat: -1
+published: false
 
 provider:
   name: Engineering
@@ -23,6 +24,38 @@ images:
     width: 350
     height: 350
     isCached: true
+
+related:
+  - title: "Autodesk Acquires Construction AI Company Pype"
+    excerpt: "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company."
+    publishedDateTime: 2020-07-22T13:50:00Z
+    webUrl: "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
+    ampWebUrl: "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-211866/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "COVID-19 Impact Review on Artificial Intelligence in Construction Market"
+    excerpt: "The Artificial Intelligence in Construction Market size is estimated to generate a revenue of $2,642.4 million"
+    publishedDateTime: 2020-07-20T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-on-artificial-intelligence-in-construction-market-2020-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "x17s188cmO33NVT+tZ2Rrq5m2lj9mW0qZAghabx93mUDp5ygT+cXOhfjn1gxZEyM2cUn1jBp4vLHTQz0N/A+aLHDTUEvsSnxyzbPj66B/XpdTWce/EwLvtLGQO2dhF3TywpL7C5wwoCobjdP2b99RQih2ykLslfmWzcnKU1q3N+DaquvGa2MNzOkeS8c4ByQ4devqdBvMwTbadMl3kmV+izk9ZFyXdYoFiN/NP5ghEYA3ANzD96G6l7q5MGEIt23AL0RCFFZdeK28Jj9+olnyqaGR+PyOtCQqOKSvY1eR6MvFg/VrsGp6t/5tSaAN+4bMCZHN5liGoF7vYVJmg7jMw==;Mmaa/xskvtLLcoCaLEdHzg=="
 ---

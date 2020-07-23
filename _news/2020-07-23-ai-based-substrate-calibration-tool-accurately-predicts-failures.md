@@ -7,6 +7,7 @@ webUrl: "https://www.embedded.com/ai-based-substrate-calibration-tool-accurately
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Embedded
@@ -22,6 +23,6 @@ images:
     height: 511
     isCached: true
 
-secured: "QaPpMTHZ8gZsh7Q+1VqfNLV1+qyZd0ZE87OUeUgmLwrzqkEbbLJdSapyhk+urJGf1wY4rm9N2HUIXHDCIBWaTPDFlnWRTqK/ij/UdLJfUn+9AZvDxzjxCdFppFpap87B7zhISdilpn3xui46FQAwjtrC6JxrMI9yQDWUNvgtHzhfrpyKTuB0c6IPEzWnIEQ2jFAZtQF10Fhp3777QP6pU6pR7nXE3L7N/GxRsu+vVmYMEntnD8gtKeQiZYTfg77YOAjt83Jbnz0VhkIa6XEE0oO+0HP5XNbnagEpqPVDlcNSNWUJBdBaE+El5trx542Wbk9iGBS8LOTBex1dJY0mFQ==;tNuEz4O+L7IOt4+c12ij3g=="
+secured: "gwLGPMfIMx3xWXCCXZIwCLuo6pWUCMGWkUqq944ryeK/fii1/P6pmmyvXBseM1fKcAXuSIipI14kMiVBSRNEgYT9urWD2YzT/mO07plc+KswxbgGnB12Izoa70V+K6BsB4m6RDF2ntmD4H0jiDWqZQYVECotNVvGicGnZnx2IPb7RVEcsBUaCjUACIXCjaniX3ZQQ0yPtdB3C6GCInLCOMNwJtdWdqBAnF594PKvc4e7Ye/qSyb2jy7Qms97VrzIvOv/ebQsypHJMoTrEdXueBIql9jAlvcqD+CRbAU5Yn0L8doFKNQL0hn98+zhJ49HN+ga50rgR/BnKarN7sSI/QcOVW5k3YDnhgnmkB5utRkILN5mcIrzRleuZ0/LGnvr+rYmN0km2oBXxKr1xEihkSNN+Bynr7ZFcrVKiQKpFno4oMM2dSFzIvYF/Qas4iN5LCddLiwznvUTKFewrtEPQzWFUKpc4v9AwIgzK0a3J6/KsMkaTsenjrebkcrnsfp/f2N6AW1PR31RFDe7MyHGsw==;yyeXm25Ny6X+lrlujtDk/w=="
 ---
 

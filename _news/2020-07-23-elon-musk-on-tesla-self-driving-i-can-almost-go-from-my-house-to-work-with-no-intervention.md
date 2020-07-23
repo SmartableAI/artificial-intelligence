@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "World's first fully self-driving car will be ready this year, Elon Musk claims"
+    excerpt: "Tesla CEO Elon Musk has said the electric car maker will have fully self-driving vehicles on the road by the end of the year. During an earnings call with investors on Wednesday, the serial entrepreneur revealed that he is already testing an updated ..."
+    publishedDateTime: 2020-07-23T14:36:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-self-driving-tesla-artificial-intelligence-a9634311.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 35
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/23/14/tesla-self-driving-elon-musk.jpg"
+        width: 1202
+        height: 901
+        isCached: true
   - title: "Aurora Innovation to test self-driving truck tech in Texas"
     excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"
     publishedDateTime: 2020-07-20T20:01:00Z

@@ -2,6 +2,355 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
+      "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
+      "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/05/Elon-Musk-candy-Wonka-hed-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/22/elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center/amp/",
+      "publishedDateTime": "2020-07-22T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572.md",
+      "title": "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026 | CAGR of 57.2%",
+      "excerpt": "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
+      "title": "Increasing engagement with personalized online sports content",
+      "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/21/pulselive-2.jpg",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T11:27:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-retrievegan-ai-tool-combines-scene-fragments-to-create-new-images.md",
+      "title": "RetrieveGAN AI tool combines scene fragments to create new images",
+      "excerpt": "Researchers developed an AI system that takes scene descriptions and learns to select compatible image patches to create entirely new images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/a6350461-e72b-4767-98ff-1444dafcb145-e1595436848143.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/retrievegan-ai-tool-combines-scene-fragments-to-create-new-images/amp/",
+      "publishedDateTime": "2020-07-22T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-deploying-custom-models-built-with-gluon-and-apache-mxnet-on-amazon-sagemaker.md",
+      "title": "Deploying custom models built with Gluon and Apache MXNet on Amazon SageMaker",
+      "excerpt": "When you build models with the Apache MXNet deep learning framework, you can take advantage of the expansive model zoo provided by GluonCV to quickly train state-of-the-art computer vision algorithms for image and video processing. A typical development environment for training consists of a Jupyter",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-custom-models-built-with-gluon-and-apache-mxnet-on-amazon-sagemaker/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/24/custom-gluon-mxnet-sagemaker-1.jpg",
+          "width": 600,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T10:03:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
+      "title": "Google launches Recommendations AI ecommerce tool in public beta",
+      "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/new-model-1_2-Converted.gif?w=1200&#038;strip=all",
+          "width": 960,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars.md",
+      "title": "Airplane Makes Emergency Landing On Busy Highway, Perplexing For Self-Driving Cars",
+      "excerpt": "A news report and an accompanying video clip recently showcased the harrowing escapade of a small airplane that made an emergency landing on a busy highway, doing so amid everyday car traffic. As though we all were a fly-on-the-wall,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1216674946%2F0x0.jpg%3FcropX1%3D1043%26cropX2%3D5057%26cropY1%3D70%26cropY2%3D1952",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-22T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans.md",
       "title": "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans",
       "excerpt": "Fiat Chrysler Automobiles and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on",
@@ -245,6 +594,46 @@
       ]
     },
     {
+      "path": "_news/2020-07-22-uf-launches-70-million-artificial-intelligence-partnership.md",
+      "title": "UF launches $70 million artificial intelligence partnership",
+      "excerpt": "With a computer being installed by November, UF is expected to have the fastest supercomputer in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gainesville.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200722&Category=NEWS&ArtNo=200729510&Ref=AR",
+          "width": 5000,
+          "height": 2812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
+      "cdnAmpWebUrl": "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
+      "publishedDateTime": "2020-07-22T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gainesville",
+        "domain": "gainesville.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
       "title": "Autodesk Acquires Construction AI Company Pype",
       "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
@@ -252,7 +641,7 @@
       "webUrl": "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1050,385 +1439,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-global-ai-in-fintech-market-size-share-trends.md",
-      "title": "Global AI in Fintech Market Size, Share, Trends,",
-      "excerpt": "Data Bridge Market Research has announced the addition of the AI in Fintech Market Report 2020 2027 Production Sales And Consumption Status And Prospects Professional Research The report classifies the global AI in Fintech Market in a precise manner to",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2094357/global-ai-in-fintech-market-size-share-trends-regional",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T721197325_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-share-trends-regional",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-share-trends-regional",
-      "publishedDateTime": "2020-07-21T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-nvidia-partners-with-university-of-florida-to-build-ai-supercomputer.md",
-      "title": "Nvidia partners with University of Florida to build AI supercomputer",
-      "excerpt": "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200721&t=2&i=1526604517&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6K1IK",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN24M2NX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24M2NX",
-      "publishedDateTime": "2020-07-21T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set.md",
-      "title": "Researchers seek to advance predictive AI for engineers with CAD model data set",
-      "excerpt": "AI trained using the data set could eventually assist humans in sketching CAD models. CAD models can be anything from a single machine component to an entire building. They’re used by architects ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/princeton-cad.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-seek-to-advance-predictive-ai-for-engineers-with-cad-model-data-set/amp/",
-      "publishedDateTime": "2020-07-21T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning.md",
-      "title": "Researchers propose game-based benchmark for AI’s common-sense reasoning",
-      "excerpt": "In a paper, researchers propose a new AI and machine learning benchmark for commonsense reasoning based on the video game Little Alchemy 2.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-748334809.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/amp/",
-      "publishedDateTime": "2020-07-21T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
-      "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
-      "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
-      "publishedDateTime": "2020-07-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
-      "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
-      "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595320043_product_41710_product_shots1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
-      "publishedDateTime": "2020-07-21T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-youcanbookme-optimizes-your-apps-thanks-to-amazon-codeguru.md",
-      "title": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru",
-      "excerpt": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, “YouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.” At YoucanBook.me, we like to say that we’re “a small company that does great things.” Many",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/youcanbookme-1.jpg",
-          "width": 800,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T09:22:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-microsoft-launches-ai-powered-dynamics-365-retail-and-anti-fraud-services.md",
-      "title": "Microsoft launches AI-powered Dynamics 365 retail and anti-fraud services",
-      "excerpt": "During its Inspire 2020 conference, Microsoft unveiled new retail- and fraud-focused services to address pandemic-related issues and other challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Connected-Store-hero.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 689,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/microsoft-launches-new-ai-powered-dynamics-365-retail-and-fraud-services/amp/",
-      "publishedDateTime": "2020-07-21T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

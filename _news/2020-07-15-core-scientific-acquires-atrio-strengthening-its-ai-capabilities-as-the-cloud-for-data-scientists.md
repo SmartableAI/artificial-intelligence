@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Core Scientific Acquires Atrio, Strengthening Its AI Capabilities as the Cloud for Data Scientists™"
-excerpt: "HPC workloads and AI are converging to create solutions that span across a range of industries, from performing seismic analysis in the oil and gas field, to calculating complex risks in financial markets for more informed decision-making."
-publishedDateTime: 2020-07-15T16:35:00Z
-webUrl: "https://www.businesswire.com/news/home/20200715005690/en/"
+excerpt: "Core Scientific, a leading infrastructure and software solutions provider for Artificial Intelligence (AI) and blockchain led by CEO Kevin Turner, the"
+publishedDateTime: 2020-07-15T17:32:00Z
+webUrl: "https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities"
 type: article
 
 provider:
-  name: The Daily Journal
+  name: Business Wire
   domain: businesswire.com
 
 topics:
@@ -20,6 +20,6 @@ images:
     height: 627
     isCached: true
 
-secured: "/vqCNOu9KCaBwicaoLexCM41viccI96ODLSIlWXdApMfZZaz3SvqF+PJU11aMCBRszwBwQmmrhJ3HWQ454wuaR/hVTaXqJVIfvM2oL31FtSJ4M5U67z1FD9hlrCtbwJPqPZHqlIxDtCV03WeLlLgNiGbGE6IFYdki4gwch/qYyHRpejWQ6wCx+mx9STNRxJUErfYUtSIPeRXb1UQCvJVYIyYjNJFIby9qPIwzpg9dCA99zn9g885csLezk2hEf1GEWhiIh2t0Lgx1kAgcVREqs4KlXTIj2RlwhgnOhI9inwnoDVsBx4Kz+qhu6qSC1sEAvgvnmo+KgbWy5o5eXRDnQ==;agKtxvoWSb8BF2oSowP44A=="
+secured: "ZmmJTl9pODA6c/XdPl7zVQwgpQDKOPlLpomV4wDYuIyCEqDHe3fBis/T6lrYZWxi0EsKUd72TyaGjDh8R4WMYv1voBPQBh3p61Ls9BhdSOpBO23w3nQTglqRVYjXq9TnP1zx7sVmGHix1tUgsahyfxINkuByJG+nku1mhY/roYtrc17IzZFc7tsqjSLoOnIQKzKNa6gnkokvr35gdsUAJGcFPSxau+t5mIMmD3OsnWKsfpcAfo4yiQ25a9a/KH2+eSJh7I48RV2cr3urgqHJx0uoMh3UfYNEYdeFOcHngeqo/S9xMadZICZLJBdPejeICtdZfTsMTEwBbJx7k+78Nw==;GTAz27g0sasqL9iAIGvPvw=="
 ---
 

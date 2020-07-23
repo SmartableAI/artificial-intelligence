@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/20
 type: article
 quality: 59
 heat: 59
+published: false
 
 provider:
   name: ProPakistani
@@ -24,6 +25,6 @@ images:
     height: 563
     isCached: true
 
-secured: "qLjNW0WK6SdEd3Qs0Hwgu7osQPPrZmuNtoB4SvURJJ/NvOuaQe1auYlNjNNfYarW93A6QDznhG1EyFY2dkiyMhN22diiaXPwgHuWptwl8jECTtwUiwN7b1141oUO5vSXuTAc+ek8OxGU8ujFpr55RB731l/pGaTDKSTHkcgm/1Q5T6lGMs73gc4i3dNBeJOVwUQFuskF4zdYVo9jKF40/KMuttCb75tg2SVmoFzFh1m7xYfXYIX+1447RxyMXVwzHaMwKdPuNnMK2Epx/YrftYDn2eG62GgythnVhXgSOh+5X5bXHDxmSdT/sJ5tWVR5zu5G7JdAGFh9o+yun7RYBw==;NnTMrYwglBAv6U/X5bOS/A=="
+secured: "KMiodDwiT0gXWwewJtTBpBnhhm7dgIAKTrjMWyFEAvHu/5qYCVewRfY+OS9pR3fKQfqu7id5htuDPzybeliaKm1liffbCZkrqOQjIuf9SleK/COYjs4dmf+uZ/86QeysvjaH5EYIdF0848+TpxQm+qM5/awiRifxsHU2FVAi3of0kqwxYX5L5RohONrnVPgKbwo27o/cG2AhT3s5se1Qz2RM2ZdVWnX/WFjl6d0SlY3htIj6Rir8ATLh7UXBID9nSSIbXliy4bUTimvJ7lvIq4mexrnOPwDSX0AyPquRBaziY2AvIMpmBI5MhcGBfFcqFzQ19yZSmFR7OShzbaSQeyl/9PVJ7Zc/YmOs5dPe2LlcY+btpqSgJTLBZD7u8vGE8Urwm0B94gY057WrvdAYciyQAwGBQsAcWpqxMSC91KN34QBmnz7NW0TgJTZ8ko/AZ1JbH87u4Cwn8laL7aA3cCQX4bQW+SqUmsWvYRNXjNopSYn9g+d9pKrrJfjTYOIbPNhnyt5qJZJwX08wDHXZrQ==;O773gUbh/jO7WtmH2pH3yg=="
 ---
 

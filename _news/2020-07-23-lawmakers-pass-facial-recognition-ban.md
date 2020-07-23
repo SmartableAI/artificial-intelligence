@@ -74,6 +74,17 @@ related:
         width: 756
         height: 567
         isCached: true
+  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
+    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
+    publishedDateTime: 2020-07-23T16:49:00Z
+    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
+    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
   - title: "Estonia to use face recognition in border control"
     excerpt: "Estonia is about to buy about one hundred pieces of facial recognition equipment for its border crossing points as part of upgrades to be introduced as Europe is switching to a new border control central system,"
     publishedDateTime: 2020-07-20T11:30:00Z
@@ -185,6 +196,38 @@ related:
       - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a ..."
+    publishedDateTime: 2020-07-23T17:57:00Z
+    webUrl: "https://www.thetelegraph.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    ampWebUrl: "https://www.thetelegraph.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: thetelegraph.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/3/375x250.jpg"
+        width: 344
+        height: 250
+        isCached: true
+  - title: "New York takes major step to keep facial recognition from being used on children"
+    excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
+    publishedDateTime: 2020-07-23T13:39:00Z
+    webUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-bill/"
+    ampWebUrl: "https://www.dailydot.com/debug/new-york-facial-recognition-schools-bill/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/new-york-facial-recognition-schools-bill/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 54
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/no-student-facial-recognition.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
     excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."

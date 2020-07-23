@@ -67,6 +67,20 @@ related:
         width: 1125
         height: 941
         isCached: true
+  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
+    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
+    publishedDateTime: 2020-07-23T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "k32H7XeHkoWehzDXpZfzcDsbgcDAtdQ2YpMAqh0imhK3rjmcSjCyMGUfhDDaeZgmSRN/8xRWw4+vUhiU+e7ZbsJYnSczDj7i+jnjTYkivNeM5zbUARajaSmSiVKuE2KmYNXJELCZZ7idrAMLBEnAcyOG6Te/i+Z4S5K6n7cu7kIpMSWohaN4Qfy5Q6IagasvKYaz1Iz5C1Ed1DMaTD7DFtFqw59ZwCPUsLH1eNQuxgkeq4LsvubuUs+B9UN2NSEJYu4UyY8AKfKavEpZe2mWBe0jodH/DsMtznJbruVH+KHJXs5QBSnTkFxhsQS8b1KFYFVYcXsmirYD4Era2N6/Zq+SgEr6L+lI9hiPue8692UJUhg0WcWyZW3UOLosFFPlM4ZOwFOPO+zf06AsgRiiVQSkQH6tdDxyuuCTlQQ6ipYAKsHnxoalh0F/+5X0JK84SOjx7gwhJHLHbkb9wqe3C5LTYkxu2S6W2/KuvSPOkFFD8XDFRAad7BahrMjmab9+3qTaiqWLgNRricGUL94WRA==;tr+Shvz9NtnCy/M0svw4Eg=="
 ---

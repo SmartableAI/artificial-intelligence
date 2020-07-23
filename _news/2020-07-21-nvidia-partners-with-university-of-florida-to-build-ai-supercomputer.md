@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Nvidia partners with University of Florida to build AI supercomputer"
-excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said on Tuesday."
-publishedDateTime: 2020-07-21T19:01:00Z
-webUrl: "https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24M2NX"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24M2NX"
+title: "Nvidia Partners With University of Florida to Build AI Supercomputer"
+excerpt: "Nvidia was long known as a supplier of graphics chips for personal computers to make video games look more realistic, but researchers now also use its chips inside data centers to"
+publishedDateTime: 2020-07-21T19:12:00Z
+webUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
 type: article
-quality: 89
-heat: 169
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200721&t=2&i=1526604517&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6K1IK"
-    width: 818
-    height: 545
-    isCached: true
 
 related:
   - title: "Nvidia And University Of Florida Supercharge Education With AI Supercomputer"
@@ -84,22 +78,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 60
-  - title: "UF launches $70 million artificial intelligence partnership"
-    excerpt: "With a computer being installed by November, UF is expected to have the fastest supercomputer in higher education."
-    publishedDateTime: 2020-07-22T13:53:00Z
-    webUrl: "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership"
-    ampWebUrl: "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart"
-    cdnAmpWebUrl: "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart"
-    type: article
-    provider:
-      name: Gainesville
-      domain: gainesville.com
-    quality: 57
-    images:
-      - url: "https://www.gainesville.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200722&Category=NEWS&ArtNo=200729510&Ref=AR"
-        width: 5000
-        height: 2812
-        isCached: true
   - title: "Nvidia builds the fastest AI supercomputer in higher education"
     excerpt: "The university will enhance its current supercomputer, HiPerGator, with Nvidia chips and have it functional by early 2021. The third-generation HiPerGator will have access to NVIDIA’s most advanced AI software and integrate 140 NVIDIA DGX A100 systems ..."
     publishedDateTime: 2020-07-22T10:27:00Z
@@ -140,6 +118,6 @@ related:
         height: 449
         isCached: true
 
-secured: "Omkt5CMrQduZW7BLS3jokCagTHWiYtckUDX+0ijiJhSFWSxS+dRYVKkfKXMncsS42x8B5r4GpWa9NzJt/9UIuiPkAIC8MwUvjk6GJwVwH94bct9yLu58Cc0XsOVH9u2WCKyCbUm1f7lYCF5roJbb+Xq+lokqtt2LdarGcHGIxaWsc/Tohlb6yTMkHz3eLuZjXTPr8aPpr69k9jcgTBsMs7bvudcqZ4i9oNyYxJRjTZhz160acIxkJBxOGqwXod162rVVFG7L7fnR+VY06ecGbDNyNtmC3N3vHWBQQPm6NZYeHlvWoJoxR49h2k4uAm+reNicDIzLWLAzhAXPfoMuNA7rh/Tu8rtwi35ZXNQX65RdizxOy78ErcbLYUtWqwu4XZ0KYGEfA+2+JFubuyHQAiT5nyqamFWyC0pTiRNRXKHrKIOVwzr39QHq0T1VCW2QkMWuaE7GvWCjY3jKr/KL5AMXBwQUKTjtO2Hy6WfOiv5p6CXfaYK9e/toq9J36rjcyUCjTslBm8PWuZZyaZzIDA==;1tya4obfs0RzQSvpMeN4ZQ=="
+secured: "+yRCBuo6Fk5p43e/9Zij9kocGBA8CnjacPTM0bB8Ue0F4ABdaM0gcVMl4k6nNjnqOGIRotMey6GvDHpkOmpp9TpkBk/9yscHoW32rJu1zM7k4gMpf9ojrGYY/IB98N0L0oIIgyMXZJrU0wWRUSAPL2yWVYTy2w6LQd6ZytBZsL1ldWhFDlMpHhm6glgAgjCWOpTEdBXVUktKpU2K5jcNsamF7y5HDVD+cPl6MZajxP5WpkEDiaI7+Xh9L/AaaVW0tB4gz8PhWfA+DtlB8PkkNO2mQypuEMMHzkuPMn2TfpB2iKHn8UIdv/h6K5lRFo1IS7RdE14xZxBE0lGrCEchrWad9iEXuGJqT5wP6huvkC05aO6J0nk1qDL7r4pDNVeyrhOe1u7VV9TuGn05fJFI5qiidy7GNOhL5tjBCYp6eFPKttEV3UL+1PpG98oiZq7yz1QAykPNiZzWJRf12oRSo9rknqIRZPd7iZ65Sjij6sJ4ErBIfkXBSf6M7Y4T64N+WwOan7Z6yHnD7bN9sn1+Ag==;Jt8EeGQCTl8/xzMYgQbUFA=="
 ---
 

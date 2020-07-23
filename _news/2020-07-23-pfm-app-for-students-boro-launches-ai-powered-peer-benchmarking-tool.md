@@ -7,6 +7,7 @@ webUrl: "https://www.finextra.com/pressarticle/83441/pfm-app-for-students-boro-l
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Finextra

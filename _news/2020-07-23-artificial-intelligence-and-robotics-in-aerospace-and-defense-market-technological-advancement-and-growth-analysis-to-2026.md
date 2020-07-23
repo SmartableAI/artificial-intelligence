@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robot
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Non-Medical Biomimetic Robots Market to Witness a Pronounce Growth During 2017 to 2028"
+    excerpt: "This XploreMR study offers detailed insights and in-depth research on the global non-medical biomimetic robots market between 2018 and 2028. This study highlights the non-medical biomimetic robot market potential over three intervals,"
+    publishedDateTime: 2020-07-23T16:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/non-medical-biomimetic-robots-market-to-witness-a-pronounce-growth-during-2017-to-2028-2020-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

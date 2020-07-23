@@ -6,7 +6,8 @@ publishedDateTime: 2020-07-23T13:59:00Z
 webUrl: "https://bdaily.co.uk/articles/2020/07/23/ai-eye-disease-detection-startup-secures-funding-amidst-expansion"
 type: article
 quality: 37
-heat: 37
+heat: -1
+published: false
 
 provider:
   name: Bdaily Business Network
@@ -21,6 +22,22 @@ images:
     height: 430
     isCached: true
 
-secured: "Rw3GEasAYf+JdEVDgBVGcGTlgbwenS7CNRmlvBbNWrEdCXLlMvGP/v30Ta9FPPlS1NPcgTMBdM4fxotm1C85BegO+xRmH0Ow1jn5zL5RhB11YK3vi1OqPTMKhbygXmrDm23NphXBn2bBA2X/uW26OSo3tNdZJ9sDmU+PuNYjeQcbsQE2AhI/fC9+xgapNJjHHfj8y+ah7SMOVDbjDXZfi8XnTAYDotd0nJaHLmFkCyvyKhuH7L+pTiNAkQ6P/UTIjS2FXVVMaJZsKzrFPRHt9obfO0FqDA7ZW81wLDuY2E6fcasUzi2dnvHpdC3SFT2WedQwB5LsoTc+7RKPGwvX9g==;zEGwvV1+cKmHDrUWvFqusA=="
+related:
+  - title: "AI Startup Releases Tool for Detecting Speech Recognition Bias"
+    excerpt: "An AI startup has released a new tool to measure bias in speech recognition systems. The Artie Bias Corpus (ABC) was put together using"
+    publishedDateTime: 2020-07-20T19:52:00Z
+    webUrl: "https://mobileidworld.com/ai-startup-releases-tool-for-detecting-speech-recognition-bias-907203/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 56
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 2000
+        height: 1400
+        isCached: true
+
+secured: "ct7iptQoBZLLefpwyB32a6Ste/R+toLUBJJIEjYWOQWpC/WwhdjZCmA2Gp5/mVO3E8hf+8+hMfmS+XhZ1rUa515tpIb+sBGibdTnKDTjLnm01hnR1VLV3Oq7Ic01+YJHrk4Qkv2FjZGi0I9VCTwHQ0bMR6khgW1DqRmLdxTBvZwuE0MawjXnFv+U/HEEKjZRLgsfKvxCfiVg6TLuKNoXtH1oXTZVZSjLacxdhlO12xrYEg0Z+LntFN7BcowgIAYsFDw843YKkPBYQBJftLAHOYX6XMb+7ZVFNtd2JHGydMN9wHf7LI2MjGS5MZDCXjxy0MytF1QIt5jm9IAbKY3NDFxwb0WNE3JCd25WdoJpPGEQ/zDr5+AURXJI6E5epACtLqy/PhHUNum08N8g6q+EC7XE57OqVloOliyhRZDj03YmPRAExWs2BpkVURaAX29E5YwGxTK0vWkny898h2v+PdVL0ol8CiXAYkywOLo2WnmthGI76iEKFDTmRW/gZxoSx7cQR/jk6zkzYtf3uQnG7Q==;HJuq7hhvghG3giV7cPfXlg=="
 ---
 

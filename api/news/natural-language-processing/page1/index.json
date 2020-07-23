@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-23-voice-tech-the-past-present-and-future.md",
+      "title": "Voice tech: The past, present, and future",
+      "excerpt": "A virtual panel made up of executives from NVIDIA Inception, Deepgram, and Sharpen discussed the state of conversational speech technology in the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/voice-tech-the-past-present-and-future/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/07/23/8e4cbdb3-b1ce-4ea8-88cd-f43b76ef0b54/resize/1200x/a0f12b85d37fe39fcc77f2cc7d900ec2/voice-tech.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/voice-tech-the-past-present-and-future/",
+      "publishedDateTime": "2020-07-23T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-developers-should-consider-using-graph-databases.md",
       "title": "Developers should consider using graph databases",
       "excerpt": "Twenty years ago, my development team built a natural language processing engine that scanned employment, auto, and real estate advertisements for searchable categories. I knew that we had a difficult data management challenge. The data in some ad types ...",
@@ -694,7 +744,7 @@
       "webUrl": "https://www.entrepreneur.com/article/353390",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -1416,56 +1466,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-google-signs-up-verizon-for-its-ai-powered-contact-center-services.md",
-      "title": "Google signs up Verizon for its AI-powered contact center services",
-      "excerpt": "“Instead of telling people, ‘well, ‘here’s our natural language processing tools, here is speech recognition, here is text-to-speech and speech-to-text — and why don’t you just write a ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1184345208.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/13/google-signs-up-verizon-for-its-ai-powered-contact-center-services/amp/",
-      "publishedDateTime": "2020-07-13T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

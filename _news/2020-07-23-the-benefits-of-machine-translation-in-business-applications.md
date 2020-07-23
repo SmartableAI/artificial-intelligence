@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T01:26:00Z
 webUrl: "https://www.retail-insider.com/articles/2020/7/the-benefits-of-machine-translation-in-business-applications"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1000
     height: 667
     isCached: true
+
+related:
+  - title: "Egypt Inks Machine Translation, NLP Deal with China’s iFlytek"
+    excerpt: "Chinese speech recognition and AI provider iFlytek signs R&D deal with Egypt’s ICT Ministry to develop NLP and machine translation solutions."
+    publishedDateTime: 2020-07-23T11:10:00Z
+    webUrl: "https://slator.com/machine-translation/egypt-inks-machine-translation-nlp-deal-with-chinas-iflytek/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 39
+    images:
+      - url: "https://slator.com/assets/2020/07/China-Egypt-Deal-on-iFlytek-Machine-Translation-and-Natural-Language-Processing.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "J2PCynV87GumNHtitDua7rm/Rq+L7FfVPsq3CGEAyq5KENYF1WolHhsUXa4wxPbrM6jX++4wJbYDzCC2osZJaLnw4KLZ9QWhv3MJ6WxXm10E14nIIravunh1zMd098eZHKYmznrA5KHmk3+DqIFoHLuuv68+WwY/DyCW6jAP953W6BvrUYAoEax1o2NCiF0VN8l8M68BWjYo5EeWfV3eFoSQQ4QZE9xJZJKA8EyAZiSxnmV3XY9pWZR386u13gGHwRMN5IkQkshmj6LmT9EyUTSSbc1p1D+HFmj5FS4pPMEtmLB7COtqvh6sPwMkLor7A6ZqjwPmVhLXIyHlrvTUXPptUzF67qiHGp6/pwnsfMpknfXlMo4gY+dqX01JOeQ3CGGT8fohkBg0q3MfzohFFakXJaBTqV1e6kkJJs1ddYtH2HP+y1GSGQ44/3HgPEeOvZnoLnDkJ/krXA7grsEHCvdtqXu/9C+TnKk+w2egoI6HRFXWdgwiscXazYDOyZobsASYprmtwNTi2nMOKkcLNA==;LDWXuvLDe6LY4RqukBvPUw=="
 ---

@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-23-azure-front-door-and-cdn-rules-engine-now-generally-available.md",
+      "title": "Azure Front Door and CDN Rules Engine now generally available",
+      "excerpt": "In recent cloud-related news, Microsoft unveiled new Azure Machine Learning courses and scholarships on Udacity. The tech giant also signed a five-year deal with John Hopkins Medicine last week, centered around the utilization of Azure. Today, Microsoft ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/azure-front-door-and-cdn-rules-engine-now-generally-available",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329604_azure-1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Azure Front Door and CDN Rules Engine now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/azure-front-door-and-cdn-rules-engine-now-generally-available/",
+      "publishedDateTime": "2020-06-23T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-23-ai-continues-to-flourish-in-business-despite-the-pandemic-and-a-turbulent-economy.md",
       "title": "AI continues to flourish in business despite the pandemic and a turbulent economy",
       "excerpt": "Organizations are betting on artificial intelligence to help them stay resilient, increase efficiencies, and innovate, Appen Limited's 2020 State of AI report finds.",

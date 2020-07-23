@@ -2,18 +2,20 @@
 category: news
 title: "AWS-powered Covid-19 diagnostic tool seeks lung scans from India"
 excerpt: "Experts at University of British Columbia in Canada who are building an Artificial Intelligence-powered Covid-19 diagnosis tool with the help of resources from Amazon Web Services (AWS ..."
-publishedDateTime: 2020-07-08T16:34:00Z
-webUrl: "https://news.webindia123.com/news/Articles/Health/20200708/3589229.html"
+publishedDateTime: 2020-07-08T15:58:00Z
+webUrl: "https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
+ampWebUrl: "https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "Bhfyl/kF4bAZ/3H3VCYgJToJx/5NKddEvbv50oiOWGNPv9T/YiWaQs7DBkEiz9RDvKESU131bmnncJPenelRHY/Wp6ON/6/Wgtpa3QipMzmrtnBx8DVVC/UVFCpO0EYVyQ9/axUGYkuuULLPzgEjhue3leqaqsezBtL8HKz9s6/3bU+SPLbCrLzlnfD6kLfjkKhhlnqlHphdkrTH3QgpGBVgdMQt9B0u2JssfZEvUVwAxwxCZUv3PxPGBZuO80S0tX5Qui2BRuPBLvR88LkCLORXISx9m6y6W6gkPreHmVdcPZkGXlIEPUfqacHPZ7fHFnxBxlgFoZ5Lqjv8Wv5PeQ==;cV0FlNkn/6RHGFvwAzO39w=="
+secured: "bXLdojEAWlYwlm54UepFASLqjzTNBr6Ygz1zHxd7vUHlv/U7X5mtVAne39yMMmXCRp4ekW9NID/uiOsqi/3nvKNCK9WgasM9qamvoLkOqb/C8kbL/zVKhbfvrWOGqlFx4knzSW1E6tx3LkdUW+uPKd8QmEXy8gnNUfFF8KJutWfyT8/K26I/aXTBqwd9OurckRisChMP0y4pl5aoQC53VHJ6Pv4lywUlZYSBv6De6EwtZQ7Y7XleH9ZqurEFPshrrq5AWwgUv0GAtPmzZ1Kpxfo8PdQ69edsVjRq4je9rpY8Vxbqc9Hn4F8W9LOh9dGzo0FcqmmH0k+JXdUhkUt3Wg==;E+DvOk9QLNN+x13eKrsW2Q=="
 ---
 

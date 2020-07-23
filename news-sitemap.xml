@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/</loc>
+    <lastmod>2020-07-23T09:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/23/how-ai-can-improve-financial-analytics/</loc>
+    <lastmod>2020-07-23T09:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/voice-tech-the-past-present-and-future/</loc>
+    <lastmod>2020-07-23T08:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/technology/health/using-ai-identify-aggressiveness-prostate-cancer/</loc>
+    <lastmod>2020-07-23T08:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/23/riiid-raises-41-8-million-to-expand-its-ai-test-prep-apps/</loc>
+    <lastmod>2020-07-23T07:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.fool.com/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx</loc>
+    <lastmod>2020-07-23T06:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html</loc>
     <lastmod>2020-07-23T06:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -187,6 +223,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/</loc>
+    <lastmod>2020-07-22T08:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx</loc>
     <lastmod>2020-07-22T08:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -213,6 +255,12 @@
   <url>
     <loc>https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html</loc>
     <lastmod>2020-07-22T07:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership</loc>
+    <lastmod>2020-07-22T06:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -325,8 +373,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX</loc>
-    <lastmod>2020-07-21T12:01:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/</loc>
+    <lastmod>2020-07-21T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -379,6 +427,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/</loc>
+    <lastmod>2020-07-21T06:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/forbestechcouncil/2020/07/21/the-customer-experience-is-finally-seeing-some-magical-moments-powered-by-ai-at-scale/</loc>
     <lastmod>2020-07-21T06:24:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -417,6 +471,12 @@
   <url>
     <loc>https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596</loc>
     <lastmod>2020-07-21T05:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/</loc>
+    <lastmod>2020-07-21T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -525,12 +585,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/</loc>
     <lastmod>2020-07-20T08:48:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/20/the-famous-ai-turing-test-put-in-reverse-and-upside-down-plus-implications-for-self-driving-cars/</loc>
-    <lastmod>2020-07-20T08:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -717,6 +771,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/profound-aitm-risk-receives-ce-mark-in-europe-2020-07-15</loc>
     <lastmod>2020-07-18T12:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/cognitive-data-management-market-size-rising-at-more-than-113-cagr-during-2020-2025-2020-07-17</loc>
+    <lastmod>2020-07-18T12:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1369,6 +1429,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities</loc>
+    <lastmod>2020-07-15T10:32:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/15/how-chase-is-using-ai-to-update-banking/</loc>
     <lastmod>2020-07-15T10:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1993,8 +2059,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164</loc>
-    <lastmod>2020-07-13T06:43:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
+    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2449,6 +2515,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381558</loc>
+    <lastmod>2020-07-09T09:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bbc.com/news/technology-53349313</loc>
     <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2607,12 +2679,6 @@
   <url>
     <loc>https://www.forbes.com/sites/gabrielleigh/2020/07/09/how-artificial-intelligence-is-going-to-change-hotel-stays/</loc>
     <lastmod>2020-07-09T05:13:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16573093/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuate</loc>
-    <lastmod>2020-07-09T05:04:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2809,7 +2875,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.webindia123.com/news/Articles/Health/20200708/3589229.html</loc>
+    <loc>https://www.oaoa.com/news/business/global-natural-language-processing-market-2019-to-2024---technology-landscape-trends-and-opportunities/article_8f430592-8b92-50c7-89c3-7e8d52cd7b51.html</loc>
     <lastmod>2020-07-08T09:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2823,6 +2889,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/08/facebooks-speech-recognition-model-supports-51-different-languages/</loc>
     <lastmod>2020-07-08T09:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.sify.com/finance/aws-powered-covid-19-diagnostic-tool-seeks-lung-scans-from-india-news-topnews-uhikOGaghfijd.html</loc>
+    <lastmod>2020-07-08T08:58:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2925,12 +2997,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/fintech-industry-expert-rates-vantagepoint-ai-software-as-highly-recommended-1029376119</loc>
     <lastmod>2020-07-08T05:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/b16555512/global-natural-language-processing-market-2019-to-2024-technology-landscape-trends-and-opportuniti</loc>
-    <lastmod>2020-07-08T05:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3639,6 +3705,12 @@
   <url>
     <loc>https://www.businessinsider.com/intelligence/future-of-fintech-ai-and-blockchain?itm_source=businessinsider&amp;itm_medium=content_marketing&amp;itm_campaign=content_marketing_leadgen_link&amp;itm_content=leadgen_teaser&amp;itm_term=leadgen_teaser-the-future-of-fintech-ai-and-blockchain&amp;vertical=fintech</loc>
     <lastmod>2020-07-03T05:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.daniweb.com/programming/threads/523214/how-do-i-install-tensorflow</loc>
+    <lastmod>2020-07-03T01:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

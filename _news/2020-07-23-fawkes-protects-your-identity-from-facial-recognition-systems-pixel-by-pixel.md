@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
         width: 1125
         height: 941
+        isCached: true
+  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
+    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
+    publishedDateTime: 2020-07-23T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "msCIzufYxVmEXmBFetCYQtohA/k2MiueSF2o4OndiYn1NQRtIKcUtX/h8XcHhBLLaUiYKLVsAPEl4Dttxd4M3nmHt0M3USylOMGZPWFh2Na9d6RqpaLAzG/p20fsqV+ahjdYu0fBiv6kTPvLpzpy7Hnc3dUDd+9/cjW5ytcd3JY+g9S793u6WkffEbpkUuJ3qDwfUv0k3Ozjy1Jz0ZfJHF5yd9DtEYX+ny6ME1jpcU2HktwaE8/sYq/kgS3RiNmX38YU8qGczxskRyOwnYOvSE1tzlUYnjuvwJSnxuKtn3iL7GeQtNydiX71RSUxoKiyMbAKthW/uOM05NPjbgPKi+C0Y3dFiu+glUnWSFVyHBJAV425JIJBYojunBguwdrwYW/MBtz6GQKIsf4q8QCPo/3NityOv39EpUVi1hliHZB8AKcA8Ozhcgfwg3zUyq/LYbyp3D4r9jenXj54xpnyhQjWuartMAqMkO9jRVMthZQ84Of6m8DqhiEbHG2zRJvZGV2cI1Lc7iP+RCoiiyt6Gw==;OM8k6sPKXyCdSL1/63Tldg=="

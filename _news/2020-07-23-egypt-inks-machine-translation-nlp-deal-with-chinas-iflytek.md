@@ -7,6 +7,7 @@ webUrl: "https://slator.com/machine-translation/egypt-inks-machine-translation-n
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Slator
@@ -22,6 +23,22 @@ images:
     height: 400
     isCached: true
 
-secured: "SUOyYqsOZDrDhsUXe0gB8VrRyWhAVdXyL0RekbmKJ6NFvDSMIhXJluWmjjuHav/59widz/JuGhS4E0Vpljw4G0rYTjEeY+xEDD/HBtONShrfIj3ul1+BGy/+tDR9cTW1TVj8T2z05woo/qjb+LI9du6RR5ZJGcgwF6t4OlBfQ+OXIh9tc9b024JGAYhsdUAMxtKDGBdZzTaXvB8s7p1U8+3EMoGw/J6CUyMt/NlsnZooPGJuSPwTdaFjDsXtbbWqAzAqBTJUWBB33AH9wiQNoCy2IAMD+c/I4diMf1A8lCQ292hyYwZIveFSaOZAFNqpqAImPiwTjBsimWxyOol5PQ==;0okeIV8MADY/4mRjzQxkOQ=="
+related:
+  - title: "The Benefits of Machine Translation in Business Applications"
+    excerpt: "The concept of machine translation has existed since the 9th century when an Arabic cryptographer, named Al-Kindi, developed techniques that led to a type of rudimentary language translation system."
+    publishedDateTime: 2020-07-23T01:26:00Z
+    webUrl: "https://www.retail-insider.com/articles/2020/7/the-benefits-of-machine-translation-in-business-applications"
+    type: article
+    provider:
+      name: Retail Insider
+      domain: retail-insider.com
+    quality: 39
+    images:
+      - url: "https://images.squarespace-cdn.com/content/v1/529fc0c0e4b088b079c3fb6d/1595392158846-HXCOF15LPXSVFA1ET25E/ke17ZwdGBToddI8pDm48kG87Sfbgg29A4BYEDq3OXvgUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcf4OxbJOyh_wHUnyc4kQLQ6SBshRGOku7c30Y_IRDNPta8R2IY5BHMaEj1zOWoDTZ/machine+translation.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+
+secured: "qeaBLwEyR0Dc6Hcz7MC/j/GEVgJqCJnW2ii1qsCW+z4hZiX6+WxITxSvMeZGZLuGHsDfvmft84CuiYW8lWxg7HO8GSwBQm3J2fykTD5iLVQTxozOUrOLQSx3ScEvccHMiANEGRnO0QnT+EdyJ3sRdg4E2Du83t+BbhPjJO6++NmU6TtTbvaZbU1YsrMGcu5Rb50nF6YOpYXdaCBm8AB+A28tJklJWQjEFOuCBT41Pm/Uy6ThXjKpyEPr+ql32z/7xVMibVCh7oTnoQttOGNQnwMnCDtj4l0lMpOMYlxe2h+Fwxu4g/KuuP+roH/jhB5MVP9WOXnoLmVhNWIoq+8Nf+YmiHbMqTlV25+sMidE2D3HlWOr4Cu3/YcvFDqWnPgbGsr4P6wFkLvSGeIgmTx/Vh8SqhcAmAdxArow4QSjt+ngesj8/400McNB3z3Z6XP1Uty3x5RfKNDHUV4SYTfEgzlUsxHqerYy8lMCwnSOOzgfkNHXt1TVGgLeKksnu9yAa5YgxNa9teh9tUVkqNlxeA==;OiN22l+lzDJLEDSXOTM/yw=="
 ---
 

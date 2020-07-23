@@ -7,6 +7,7 @@ webUrl: "https://www.hpcwire.com/2020/07/23/royal-bank-of-canada-deploys-ai-priv
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: HPCwire
@@ -22,6 +23,17 @@ images:
     height: 363
     isCached: true
 
-secured: "FSa2b1PN29mW20SLRnR4T+XIfm93RbThkHHR1YaW9QPiml1MVtKmzgOqUsFoVLOKW7UR+X+lFBB6n5IhP0IH+1edp5kY2Arw28nkdLwUUA3zirpktLRcTa8Ec2oSQTWsRIZCK3Emx8FUZroSKx0cKDuSGzexZIwq8NkcHUm99+lohmeJWjD31wrRqLvRbI6+VTbtibIricovLkWnzub3qeBp/QLdPXIVBefJTaRgF4FrXDt2/jxBWIvbaqjA/tVIv9BiqKuj8X3K8MkLtPAx7ZOHdByq/Og5onZkS6xYAoTEL7gPUqCxZabH5zIar7zzvdGvzcjYDOm1DuZQyGmOBA==;YiwjZBDZbnqSfJVe3XpBLQ=="
+related:
+  - title: "Royal Bank and Borealis AI announce new AI private cloud platform"
+    excerpt: "TORONTO — Royal Bank of Canada (RBC) and its AI research institute Borealis AI have partnered with enterprise software provider Red Hat and hardware and chip manufacturer NVIDIA to develop a new AI computing platform. RBC says it and Borealis AI set out ..."
+    publishedDateTime: 2020-07-23T14:06:00Z
+    webUrl: "https://www.canadianmanufacturing.com/technology/royal-bank-and-borealis-ai-announce-new-ai-private-cloud-platform-257743/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 19
+
+secured: "W+gdA0CnIJ6P7/dPwTxp9onG5N0L50hWWB8Gx9ir5f0W2QuObIBbBuUMw3Wm/mtQrgSdNqla1UAJxg/IcjzaDBp+l6UGgJueX1/TLspY62Sz3Z3hoRnP1ilxwI5leIlrPVfxSKKrQYgk4swETlIGx9idnsZ4VxGNP6D3EYQ9qxwR50mSGnyztbHbQzPKhMqV5ek1yqXNWeEdlPef9kmIfZ46fwhOgp7IWQvkmGLuJ7qjicUs21KG3I/CvidGqeW/9dQHCDYY+EBxORNXjn36cR0wPhMqQyojO9tZomCdWwuwLz26F6YTtiEhpZwJu/UtaKZiz11cu4O5VD9CidvtExbL9yjiw13tV+M38ifVxckBAI6UTarNmu7FVE2DEWpTxohl+oUqR/vS9JUG74xFZp5ooMSkkFReMwKoweX/NuwVGXBN5mhxjKbq5jndGwh5O+sMdtnh+MwJJhbBI/Z3Frje6FO4iSs84/EqnbnYp4d7QLYSpjpoPhSLNonX/WhRBAJHmF9yFen6rWKinKUn0A==;PIOOc/cVco4ywzXcWXDTCw=="
 ---
 

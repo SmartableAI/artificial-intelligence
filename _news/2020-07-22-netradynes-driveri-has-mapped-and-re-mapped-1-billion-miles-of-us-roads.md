@@ -7,6 +7,7 @@ webUrl: "https://www.fleetowner.com/technology/article/21136902/netradynes-drive
 type: article
 quality: 21
 heat: 21
+published: false
 
 provider:
   name: Fleet Owner
@@ -22,6 +23,6 @@ images:
     height: 359
     isCached: true
 
-secured: "i3zd3UhOktuwRAzRSBuSlqssfHV/N+GU58lKcuI+8lfb2fR/PP74kHpV0tg6Zno2nUgqvbhWWfiy+Gmul/mz05lsb/ns9vEF9ROEV8aKQAl28A3znlrKVY11GOdkxn/ekY2gQE3ZeWfKUvXH0hUZnw2qseoYRCuhL/YRqoWrj0QZTxOdEkjhtiWMMFVHjJfUCU5TiVxDlnpS0lKXl2AwVdZY2NkbmjKJKxPZYnzSJ/LFVnIfsw1wJ8bfaxmttY4f9VMJO1bKpVNCIS9xuQGZMO1TAZFKPHkFqmouk6d+CdCfU01nWU58Ift5DVnrxOnmz7/FF+ekkEN6QYumkYimzg==;6a5BQaFI/lvlTCdvs8vcEQ=="
+secured: "Ms1IQrFvSUtI+eERPDfngQ+XIFeJnltnXmS+bnrALGO1oi368yboxk94BJZtDw745tdg6o/DNAjp0h5/H4tct75fv4il5bm9kwr3fr12YzVg+zlUZXPoWevX91iiEZ/s482JqIysidd6VhPJXMg9ac1a8SZ8v+5kSXgjC8ODUXnDt8wrcgfBFfcigXQRT1oI+G4anlaWr7SptrS6liOUStzSRQlj5X6r2ZpXccz+NgFoxV2fM5HtP3dlWlH3ztlBQsAYJT84vyq5joKxynrN3/NE/Ia5QIECqTeC2c3HMC6ae75Yo26B7bCL1Fgcvl5oqbgyNXISFxfRhI22N63dElHVWSmtVqFCRkQdMN5wXE9NoRVe74dO0qAkPVCfQxOvREkO5MOKDH0F9gkzjwsNqj7HhbGwUqV3pykW6O4ggSo2Xps5UIXrpVtTbhUcZ2bcaxPA01HKI//SFsTRTzopDpP5bs4zBfYcZAMN2+pUpUNPV4Xfk7VyhudyH83OfEG873iuXFJ0/Kzmf2jJlPWTNw==;Q+BbZyhMEH9tCVUwwo9p9w=="
 ---
 

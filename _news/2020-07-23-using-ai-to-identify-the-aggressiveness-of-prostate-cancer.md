@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology
 type: article
 quality: 109
 heat: 109
+published: true
 
 provider:
   name: Google

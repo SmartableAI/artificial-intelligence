@@ -9,7 +9,7 @@
       "webUrl": "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 116,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -48,7 +48,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -59,7 +60,7 @@
       "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 209,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -180,6 +181,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition.md",
+      "title": "Black Lives Matter forces an IBM U-turn on facial recognition",
+      "excerpt": "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/",
+      "publishedDateTime": "2020-07-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Voices Online",
+        "domain": "globalvoices.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1382,47 +1424,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-documents-reveal-afps-use-of-controversial-facial-recognition-technology-clearview-ai.md",
-      "title": "Documents reveal AFP's use of controversial facial recognition technology Clearview AI",
-      "excerpt": "Documents obtained by the ABC reveal how the Australian Federal Police made use of Clearview AI — a controversial facial recognition technology that is now the focus of a federal investigation. Documents show the AFP used the technology as part of a free ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc.net.au/cm/rimage/12451608-16x9-xlarge.jpg?v=2",
-          "width": 750,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/12451554",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/12451554",
-      "publishedDateTime": "2020-07-13T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

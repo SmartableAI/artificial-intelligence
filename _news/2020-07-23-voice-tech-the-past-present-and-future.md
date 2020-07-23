@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepub
 type: article
 quality: 74
 heat: 74
+published: true
 
 provider:
   name: TechRepublic
@@ -28,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "iLVQn4z+Oxgx8/4KScPUy/V4KwQ2bwLRscprtlzDh4Sszn72ewKncBoPud5YzlFii9CAvtU+CKGS2VnKcRZAG6zjFBfG54lAHdQ84wAdtbpxM96XhZ7auwjSEZw2vNa0oQ1e6mMgWM3mbxuJHOmFyUcvKhSaIkn2TMZaszm3tiTe1sptiVsAdRnBp6D38qu3huTvuNE5P5+D3H/TGZIMGxh0HTLGz1Fh4XwmrJdkTmvSgvlwktHt+9k4C5Df4kPfa3NhuRmUyA074hzqEUu1TWBLtjVUU00M/FLAAnrW2bqfnp8SQBwNcUfoEA1yLb3HDqcMUcZ3NKUC1mLLsBg3mg==;xAGh26oNJpz5ofixW/vxHQ=="
+secured: "gxHRhWJKnDM3pCPJagZbh6l6Iz3VUKSXp6/SlXkDjIjOIlDUd4U1KYMd/d3E8N+xIb0bzt1oWHTQawwfWcyZosQK8D9owsvXIO/RcDqg9Bz0rx242qGA1uSjmWRwud+gR4F9aLSP6RebINg5DdVwOvU7Ej5Fe75m6UgQ67785bxdoDI5zguZUaAN1ZZ04wUwGm9ECuGLgyBQN6qbvfRWYVSp81PRchbmZ5pxlNYEQX6qAKu7VXJXQoZuYOY9XBK9kY988cHEWtphOjI2Sym/cWnNnFGekBlRw6BIS6WqAKU4lTTZX9t3fgj3bjP4IhFmDkKSkNIX/TFowh3420hF//xDCAb3Yqfx5STCL/1iPd9cUznqmKIpO3zdGJsun+s4HKsxwu1TY6ZC8ogKydYYnVuTqULxtF0DqNjfVZ932Jm0H9Eqeng9pS8Aw2MZZx3iqnR1z4OdXHpZOVQGdVR+Jen/jneAs2qvWhAQF+OoOopsfUlIaPJCtnknNniwCx1zxD9uwwobFQfbGZ6Cxomd1w==;9HY7jBjkcp4qvCiI9ztmlQ=="
 ---
 
