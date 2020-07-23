@@ -184,6 +184,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Lawmakers pass facial recognition ban"
+    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
+    publishedDateTime: 2020-07-23T12:49:00Z
+    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
+    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 59
+    images:
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Judge: Facebook’s $550 Million Settlement In Facial Recognition Case Is Not Enough"
     excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
     publishedDateTime: 2020-07-19T02:00:00Z

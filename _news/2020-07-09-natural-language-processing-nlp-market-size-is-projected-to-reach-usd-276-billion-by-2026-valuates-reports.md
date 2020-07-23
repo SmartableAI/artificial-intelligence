@@ -1,44 +1,21 @@
 ---
 category: news
 title: "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports"
-excerpt: "The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and"
-publishedDateTime: 2020-07-09T16:04:00Z
-webUrl: "https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html"
+excerpt: "BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and increasing demand ..."
+publishedDateTime: 2020-07-09T12:04:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16573093/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuate"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16573093"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16573093"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
-    isCached: true
-
-related:
-  - title: "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports"
-    excerpt: "The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and"
-    publishedDateTime: 2020-07-10T01:36:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-827107719.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
-
-secured: "UFX9W1TX9cMvNQj5T1GM4TfrR7WUpz2epjvnmDcYuJK4PubapVmGFK9FW6g5nZWboDvKAH29969QXPUWQL5sRSvK/tmmcX5gyfHrXKdQdlXev4cmjdNxYoZsjvyFm/PLZ/E9UVPExmMsaqTedi9z7MgYtWR0sMaCJbk3YBI1GOYdNp7xGNaJkm0sov1bYktFbDdZFaZ3qEESC5Dl8qvn5k3kANpiXkaWpD4zMXkcCAh5/k66gNrVx/Vr4xy03ZvARp4kySMt2Vh4enH6OpAaHJe7k6qZF5ukfUWYQ9LaqwbXUQz4ppEW7kYe+BiX0gADa4rYK5RN8TS7flEYDd30CQLuD0Xn9o1yHe22JnGtK+pfZwYBGR0u1D2iiGND3HBy+nH5WMCkKPhljQItxoiuPJ70RP4E+I282ZdVDWuUFHIAtb1r+Jgcz8ltZWsOL8uYEG+l9anKVafjI9hdChrrxDTh6VUL7QqYaxmVFOZnrKFIjDrHFLqZqhJxR0ZOp8ok/yLKeGyntlNLESfTRzA9MA==;mW8Oey6KMjeZS2DN0iRvdA=="
+secured: "F448eDEBvK5TepGVG+2ZqB/1+fLC2T3afBToLGDYp2ukRzdKOETjcPVcw2n106Px2AupHs0e6MqYBl+PjwHciYUZCnHceeR9j3mBAIgZGkaJIA/g+X2RObGNzOalM1dR71Xj1GMtdV+KjmvP+EiZod83rYVK+Enq7YCXs0E7262gy1IGmhuDsd448/KWi1xNUkzI1ML1oWSe8O6plzBhKsVnhadu1cLDWE2QiN9EGsNh3ZK0GHH4qq9mI8UInXouCHMJx6GPnmfq+Bhd/FfBdyHp7UQ4sxOuqbs9UqixFWlrhIJv8j5dnOGAF3M+Qn03zUkQoSgzyklq9Sli9w5ogg==;fYyKZ9k06aP1pOJK3NciXw=="
 ---
 

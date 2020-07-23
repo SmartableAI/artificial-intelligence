@@ -75,6 +75,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Global Digital Solutions, Inc. Announces Joint Collaboration on the Development of Artificial Intelligence (AI) for PALS"
+    excerpt: "WEST PALM BEACH, FL / ACCESSWIRE / July 21, 2020 / Global Digital Solutions Inc. (OTC PINK:GDSI), a company that is positioning itself as a leader in comprehensive security and technology solutions, is issuing this update to acknowledge a formal relationship with Consolidated Oceans Technologies (CoTs),"
+    publishedDateTime: 2020-07-21T12:30:00Z
+    webUrl: "https://apnews.com/b19ea5f930e507d8f75b2427e1b2ac4a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "jY5kBI0FByD7L2yIZ62ujqN7Nlag6bUBWKThazjXrkgLPFccaAvskOLvSYloOFmM1b6XxP5Lc4TvhEptsgc55g8nZ2nfEL72m0VTqu2B9mP8I6Zpwpj3fPisXyqL3Fi0zOwugfzctRc1BQmwPElf6h5ihUYMzjnLw/OKlR9nGbfH5ms6WKHJEOZ68C9+WN5xFEQ8h5UOEN8Ow0N9QaZ/a/bTK9CybQ3+ykw0UIPTA8/vzOTAo7WMYDTGEhAYcN/vE8F1uVQ5E3f7BLNBnFvVSvmW0s+GbZ5oZoq7cYJ8PqtwJoLqC/zzo5NWh0Vg6Dy1Ew/zbsqaeTPWKs1cPY7EFkvLgwPNy7vxxIg3NXwK/Xy55CPtrGf1Ei7/jPeiAwYL8IhKsj6ZznLalgdH5eRMy0TyftozMG1eUJj5B+svtRhmLJ4QTCSk3/uKLvRwnGP+Mr5O4C6SC+MhYockgKhZgaJlIYZbYbamqffMURZ2nkeF4QGsM8sJ+v6nnJ2LikHLcO7otLZWOQKEwdL5SidxFg==;1dOV6CVOCD0PO+5Mgyj/wA=="
 ---

@@ -5,8 +5,8 @@ excerpt: "The round, announced today, also saw “major participation” from ex
 publishedDateTime: 2020-07-23T10:03:00Z
 webUrl: "https://siliconangle.com/2020/07/23/ai-fintech-startup-quantexa-closes-64-7m-round/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/unsplash-1.png"

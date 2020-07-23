@@ -17,10 +17,10 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Robots Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
-    excerpt: "Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-07-19T04:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
+  - title: "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota"
+    excerpt: "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,"
+    publishedDateTime: 2020-07-22T00:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20"
     type: article
     provider:
       name: MarketWatch
@@ -31,63 +31,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023"
-    excerpt: "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue."
-    publishedDateTime: 2020-07-21T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21"
+  - title: "Self-Driving Car Market – COVID-19 Impact Analysis, Business Profiles and Forecast 2020 to 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-07-20T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Neural Network Software Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
-    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain. Neural network software is used to simulate, research, develop, and apply artificial neural networks,"
-    publishedDateTime: 2020-07-23T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Educational Robots Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2028 Imapct on market of COVID -19"
-    excerpt: "The total information and communication technology goods (including computers, peripheral devices, communication"
-    publishedDateTime: 2020-07-21T02:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2028-imapct-on-market-of-covid--19-2020-07-20?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
-    publishedDateTime: 2020-07-23T09:30:00Z
-    webUrl: "https://www.openpr.com/news/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    ampWebUrl: "https://www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723907848_g.jpg"
-        width: 640
-        height: 413
         isCached: true
 
 secured: "eZP9X1K+LBvGCme30FpvVmqD/BEPMcvz27DyHrOrUJ0EI+T+IUzEOHMZjmHHqJ3JAI7sEmWa8i1zijcwa5pdThQAixmqq5vbB1foJdygmcfuJeSWhb3nA+MnlZzMZRaMiireFH/mriVt9WtfQXLKCukrjx3HonhBsZ8WyuFQl90ASdrR8sJ2yK6n1VqSR3NfqsTOn3fBMBhbx4sH5YSmVO5nf7rNXAj7dC4pcAToBxfk+QvYAB+OoOH9yNmOrs1JMCdefCl+ohRZqryHU5T2fQCkNOGerT3Nr/TyRbO6Tr84tdG4rShQVAwFGy8Lz4300t/621VWemVXPm3CXQrABA==;r4cn+XC9qPelug4+ThNUhQ=="

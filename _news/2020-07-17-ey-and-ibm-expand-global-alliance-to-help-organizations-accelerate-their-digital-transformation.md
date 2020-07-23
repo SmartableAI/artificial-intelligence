@@ -1,69 +1,25 @@
 ---
 category: news
 title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
-excerpt: "Provides clients with specialized hybrid cloud functionalities including Red Hat OpenShift, as well as IBM Watson, IBM Blockchain ... leveraging the cloud, AI, analytics and other technologies ..."
-publishedDateTime: 2020-07-17T21:12:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-9084341"
+excerpt: "\"The EY-IBM Alliance is built on providing differentiating and transformational business value for clients. As organizations learn how to adapt to today's new normal, leveraging the cloud ..."
+publishedDateTime: 2020-07-17T20:59:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html"
 type: article
-quality: 12
-heat: -1
-published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
     width: 600
     height: 315
     isCached: true
 
-related:
-  - title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
-    excerpt: "Together, IBM and EY professionals will focus on helping clients modernize and transform their businesses. Carmine Di Sibio, EY Global Chairman and CEO, says: \"The EY-IBM Alliance is built on providing differentiating and transformational business value for clients."
-    publishedDateTime: 2020-07-20T03:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-2020-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "EY And IBM Deepen Partnership To Accelerate Digital Transformations For Clients"
-    excerpt: "EY and IBM (NYSE: IBM) recently announced an enhanced global multi-year alliance built to help organizations accelerate digital transformation and improve client outcomes."
-    publishedDateTime: 2020-07-21T19:12:00Z
-    webUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/"
-    ampWebUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ey-and-ibm-deepen-partnership/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 20
-  - title: "EY and IBM Partner on Digital Transformation to Help Clients Address Business Challenges"
-    excerpt: "EY (formerly known as Ernst & Young) and IBM have announced an enhanced, global multi-year alliance to help organizations accelerate digital transformation and improve client outcomes, including leveraging the hybrid cloud capabilities of Red Hat OpenShift,"
-    publishedDateTime: 2020-07-22T13:32:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/EY-and-IBM-Partner-on-Digital-Transformation-to-Help-Clients-Address-Business-Challenges-141921.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 15
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "K0N+thWe/ALi0cmBgf5AGXfttS0mHTBFJZKFldHLg7fhk0zPTGNWfg1/n82bioIzi8KYpGknvDOfwSkBjd016nWGZ26pwuYF1TVc4k5K6cvK61zYYf6bv0NiR6kuP4inUuEF/LPw7CnFl0T9u0HncfW8COmo5Uu+Q5EqGBGi1Q5q/T714Ki0N8aK/4TTzsVf3EsTFJj+SdfzuZ6qDaYAiHLZCoOoH7ZLJRwy48f6fYEr2RbARKoHJ4DeorYaTFdEtQLX4qeAiWasNvy219zx+E3CKVqkAEVkDJJR9YI8vMXu8uI4wBjukLLNVIrFGAmDGPT5VCDa3sf65teQyRiJTA==;tKUpYJeD7EN6GhS8pcZ9ew=="
+secured: "Xxei2ZnbD45RuvSfCyqFMM1UZv27KchiL3iP+kVyc5rSaksznUvfcUlIlYmkTx6066dmTNYoPD8ixfuughqwQT2sPCM9Y+szf5qcVN4c5J/b6eNuQksYMxeJLGR2MWETjV6TTEgKzD/0vKCU2F4npPOMrinRzl1C6X5VXGedven66sZS9vGns/uxA9XO/I7MSVm6i8PxmD3C9Hk+KEr/E7PABNfDR2Yxu07T+zSCPhdLoTxz8xvk3hWy0EcM459s7jr3BkezI117CDZpZlamjXSvT+aVGrH/ijfKCqVsPUSmgbmIRaNlJwEVD2KyGhqwzUkKSbSH2LaYoFqgPgvc9w==;2Vn6wz9lkiaqvGqwOaJVQw=="
 ---
 

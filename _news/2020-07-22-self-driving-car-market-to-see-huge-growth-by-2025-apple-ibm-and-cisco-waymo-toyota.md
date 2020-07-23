@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-22T00:25:00Z
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Marketing Market to See Booming Growth with IBM, Google, Intel"
+    excerpt: "Latest released the research study on Global Artificial Intelligence for Marketing Market , offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence for Marketing Market research report shows the latest market insights,"
+    publishedDateTime: 2020-07-22T09:57:00Z
+    webUrl: "https://menafn.com/1100522463/Artificial-Intelligence-for-Marketing-Market-to-See-Booming-Growth-with-IBM-Google-Intel"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
 
 secured: "co1Ztha+TwaRuQWup5jSmf9KWIqiakeHL/JFp8tjOp43II3xbjHU8AwZdRa8iVuAC2TnXFmpHSEOuWKYmKElGw6OpHKBoKCDSZeB45/gTLLNYoVmNsUkrr4sMmf4UGJOnurb6ig8kYCtAii1yiOpF2FAQPFEeILQz5yuedwXXgTji/z+ybUIYwz3EAdybc2g1p3x/aVwNQ0kLOm3+J2TR59+k9Y3BQ75VSqVEIoqcKI08h58gRALxxeZc1TlsJTwzf/O5qdNLxw3OprDylyEof5eFLxXUOsc8k4HS9OFVOn5tIZnf1QM/v399g9CBDHvcZowngXnh3k2WZyLRjWa8w==;pM3GnQV4RRS3eJYmRsc2vw=="
 ---

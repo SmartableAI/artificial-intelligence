@@ -5,8 +5,8 @@ excerpt: "What are the jobs that are on threat for a Robotics invasion? How will
 publishedDateTime: 2020-07-23T11:12:00Z
 webUrl: "https://www.analyticsinsight.net/robots-coming-top-10-jobs-threat-robotics-takeover/"
 type: article
-quality: 38
-heat: 38
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/07/robotics.jpg"
@@ -23,6 +25,6 @@ images:
     height: 1063
     isCached: true
 
-secured: "Z2A5DnBNMFCaPy4KOo241F7YkM27Fa1qoCK/mpUWTtyHv+eX4d3v8oOtM45GsCtijmXunHMENALQ5gr5wTQ2Ixo8GCcjzMWV583me9g1LxEHDskct7UjILKr/vAr3zREbkQTSU3Lx9QZv2foBU/Awi5cUmeqgP/DZ4wEiVwigCuBb/MGFg1xyHr/V8Ga+Xds6+zZjgGplV25NQk6levloa0JGsUv2XleYbDOTu7aC6Lt7UBfyMJbv+y3SthGRlVr9+ygBf2iWN8KXknmEf/K+gBkrf0jplv5Dp4tWFyRR2ejdGwr7lwvXNGOIrt7//9WFVRPYRilTfEu+QLZeEM+qA==;NYRdE9/XN7+Orw2EwdTbMA=="
+secured: "kI+HZ8gjic0IQwyLki3oiQLZnR7+t7HPjmFxJsrSplZIRydxcFwqy/efhpiBk5qsOvLb+prRGLUHIlfe7NXacvGYBTg1EEqloaNqqSRCGCYvV38TivJF2XwjGVfhK/EeEagvKRcPK6DWIcXP39FCGAsOcX/98j4vU+J0UdvrCvs3N/q73LDmOapM2w4X418DEciYy/aGi4VLz+iNjKuqeipbwuRhpTWc5lE/kaQWWjxF3Zyt9XctbsZPgc+G23m1VQleEW7wL3o3fiQQLucJFvJ8KPvPyVkrAr9ULGNvsA7NwguIIqYgmJkGNy1HhUaMQSoDsUNHGfqIy4Ni0GRmyBuFhJWgbobf3V8FBSd+u+6QWp3aO2D8TDhgCOQpEK1i3Z+5oujATfssLlIxszNPOJHZ12TFLTReEDfqS1cBDQCUsffAKFbwbjmEM1m6ayYUA3ESwAjZLRPZI7OWJpbnJxthB4FO620SzJX0M4tLx8HjgSiWRA/KzzEkcgx58j057zAW8RLrSuIpmssHF6IzhQ==;RKm8PxJvtUCNNE+PwjSnDA=="
 ---
 

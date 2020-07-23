@@ -57,6 +57,31 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
+    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain. Neural network software is used to simulate, research, develop, and apply artificial neural networks,"
+    publishedDateTime: 2020-07-23T06:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
+    publishedDateTime: 2020-07-23T06:19:00Z
+    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
 
 secured: "d80IbzZrqGC/9CdGvgZV0PXwCxiVgTOrpWxHDFwgPXSlX9VfB8o1ceifv0FLXGwuEPcwnvOr9XHgeGQQ9iifGgYIpsovz0DnkDhyAldjciDpTbhwUDpA7DYj4aO3qliKBHacbk9RXjLHeZBuqAphixxyLmNLljLWmfsJpgDhDW34JlEPgIq/H6X5152oealL3rj/PJx7STM3mUcLdkQb0lA9BWtRFudmkOEhS3CBYsCRIpc8gBvEJLGtADrj7te6ARamYo2KYUwFBVkuqxd7jUKUtS624iDyBaSg/5kxrGOmffQJIxXtuLU3s0EM3jh/s3UHFw4l5rhTM8vCF1upAw==;jfWBMOG6yYGfKL9VRcZTpg=="
 ---

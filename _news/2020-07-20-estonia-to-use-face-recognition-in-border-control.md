@@ -170,6 +170,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Lawmakers pass facial recognition ban"
+    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
+    publishedDateTime: 2020-07-23T12:49:00Z
+    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
+    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 59
+    images:
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
     excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."
     publishedDateTime: 2020-07-20T20:08:00Z
