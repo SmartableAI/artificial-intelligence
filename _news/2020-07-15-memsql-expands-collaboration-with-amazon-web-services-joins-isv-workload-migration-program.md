@@ -1,19 +1,25 @@
 ---
 category: news
 title: "MemSQL Expands Collaboration With Amazon Web Services, Joins ISV Workload Migration Program"
-excerpt: "MemSQL’s modern data architecture can leverage the power of AWS services like Apache Kafka and Amazon SageMaker for streaming data, artificial intelligence (AI) and machine learning (ML)."
-publishedDateTime: 2020-07-15T12:59:00Z
-webUrl: "https://www.morningstar.com/news/business-wire/20200715005132/memsql-expands-collaboration-with-amazon-web-services-joins-isv-workload-migration-program"
+excerpt: "MemSQL, The Database of NowTM for operational analytics and cloud-native applications, has expanded its collaboration with Amazon Web Services (AWS) b"
+publishedDateTime: 2020-07-15T13:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200715005132/en/"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ICkvFqas2nYN2QMI0Bmf/q8/fjgwkhl5ha5irr2pF9X01x6fIGdoUY/o9TCj4biLTlg9GScAiF0iUSYEGd+1V7Ut+sH0iHrMh1eKX6RXAKKfwYTgzDeBpD+Ddn4L3bVmP9onDr7/c954dz67SLSsaucRF262N9aUHCbIgAYM80/LIYP1f6g/+DnKGH4mtxocBaaKHaObp5OuNOIvbhNxfqUre8/Zcuebwwyg+2QIRx1stVQy1GT6wgDTCAnnAWQilizCSQ4eod31T5YCF0z0ODt2p1DVz9la+Qtt2U8OAD/YuPGSm5iQ5nS9GJNbo4w5Mdl6J5xyeQ1xZuUFZ6uPYw==;ypWiFilKZRiQ2iwIIr2A1A=="
+images:
+  - url: "https://mms.businesswire.com/media/20200715005132/en/742945/23/MemSQL_square_logo.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "Qn2knIbwhiYq43qwZNJ+22Fl9L2y6n/UCR2kSjLHJP8xkJpgiQZ5cf0rFEf++OHXXy62Af2r0B0QD7vf5PFvITP4tCgVKHquzOYIZEUJWc/adeufcbEhm5E8M20MTUJlgdm/tUyzKzYgGvLXX+y+TKqq4Mn27sd8JycdCX3hYibaDTY0/ZAGJe30RO+NYx+xRhl54napsWCZ0fYdl8Y0brdpA7ubbw5pOQ6PXOXFk6utc5I1gV94EEVX4aQLiU3zh9GC4RU/H27t3LJlmL+UyLu7ice5T37j7ROUtWwexifdZAJW2uNMwUxiKYf0Z/QeXpsM5WHaCkErA07x/NX6+w==;DnTmuVZvhgxsIv6a9nqJdA=="
 ---
 

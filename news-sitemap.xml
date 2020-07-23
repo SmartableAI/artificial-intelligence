@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.scmp.com/business/banking-finance/article/3094293/lufax-p2p-fintech-backed-chinas-biggest-insurer-said-aim</loc>
+    <lastmod>2020-07-22T18:58:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/monash-university-and-rmit-develop-ai-and-ar-device-to-read-emotional-cues/</loc>
+    <lastmod>2020-07-22T18:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/22/tech-execs-urge-washington-to-accelerate-ai-adoption-for-national-security/</loc>
+    <lastmod>2020-07-22T17:39:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7</loc>
     <lastmod>2020-07-22T16:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.theverge.com/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out</loc>
+    <lastmod>2020-07-22T15:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -93,6 +117,12 @@
   <url>
     <loc>https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800</loc>
     <lastmod>2020-07-22T06:50:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thenextweb.com/neural/2020/07/22/trouble-with-your-tennis-serves-and-penalty-kicks-theres-an-ai-for-that-syndication/</loc>
+    <lastmod>2020-07-22T06:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -841,6 +871,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.htxt.co.za/topics/aws-reinvent-2018/</loc>
+    <lastmod>2020-07-16T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.cnet.com/news/heres-what-lol-looks-like-in-ancient-egyptian-hieroglyphics/</loc>
     <lastmod>2020-07-16T15:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1059,6 +1095,12 @@
   <url>
     <loc>https://gulfnews.com/business/uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister-1.1594885958530</loc>
     <lastmod>2020-07-16T00:57:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.nasdaq.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine</loc>
+    <lastmod>2020-07-16T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1333,8 +1375,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.morningstar.com/news/business-wire/20200715005132/memsql-expands-collaboration-with-amazon-web-services-joins-isv-workload-migration-program</loc>
-    <lastmod>2020-07-15T05:59:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200715005132/en/</loc>
+    <lastmod>2020-07-15T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1507,7 +1549,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=investing</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1849,6 +1891,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
+    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1917,12 +1965,6 @@
   <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
-    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2983,6 +3025,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/ab16539798/artificial-intelligence-ai-in-cancer-market-2020-global-analysis-opportunities-and-forecast-to-20</loc>
+    <lastmod>2020-07-07T06:59:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.entrepreneur.com/article/352913</loc>
     <lastmod>2020-07-07T06:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3637,8 +3685,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-9033854</loc>
-    <lastmod>2020-07-02T05:09:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/inheart-raises-4-2-million-to-improve-treatments-for-cardiac-arrhythmias-with-medical-imaging-artificial-intelligence-and-numerical-simulations-301086165.html</loc>
+    <lastmod>2020-07-02T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

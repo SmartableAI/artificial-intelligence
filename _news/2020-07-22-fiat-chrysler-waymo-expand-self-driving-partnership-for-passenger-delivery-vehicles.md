@@ -116,6 +116,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fiat Chrysler, Waymo to create self-driving delivery vans"
+    excerpt: "Fiat Chrysler Automotive will be working with Google’s self-driving tech company, Waymo, to develop an autonomous delivery van. Continue Reading Below ELON MUSK SAYS TESLA ‘VERY CLOSE TO SELF-DRIVING CARS The announcement was made on Wednesday in Waymo ..."
+    publishedDateTime: 2020-07-23T00:39:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/fiat-chrysler-waymo-self-driving-delivery-vans"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 39
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Waymo-Fiat-Chrysler-LOGO.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7f6Egc8YfY4oIajCzMLIbqHuBPNFe2zM9aS+607Qh+kyKPPdzFKJF+NgOhkKk6M+c2Gm+NHBmmN4M1mcXPrNW6AnfIcDg4/JoSKEW39BU3gMhOfs96wsU6+le0h+GmWmWQg0z+l/ofYtdVPcfUW+bdgRnfCWn+yixtMlglU7Yo9OvJHzZ7V0qDpEyqoGERfi4XZO+s42FL3VIRRc3Rcz+ht9ofFYUh4YqNOb5oyMxymDvDTApTN9VAPICDpc5twwLHqmem/ypemTCL5gwLj2YlPAejhKbZZbqzPYn/DBUOhDWT2rnNTkVDFLysnmOjP2BqXLK+6rIbJs8/xJjnP6LeGMIWBLxj3/vwOwjxFWyMWWIuC3qH9PCrD6O+9x3DgDpkrN0AoAlWpD3nCaQ6jXuKeawbP1H1MhYGB4iAZLIWRQdaxm6HCl29EHly4KBylksW+j+kVebyzqMhYg5Hb6v63JOSVblxG4EepIq7j2S6Fuz8k2FqnKkUfhlnp4LVmPzrs5xQzdl5TwtllbjP9miA==;XjECpIbyNbb6Q4eCUBLrdg=="
 ---

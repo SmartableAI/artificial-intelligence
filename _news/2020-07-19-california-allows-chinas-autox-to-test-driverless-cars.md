@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AutoX gets permit to run driverless testing in California"
-    excerpt: "(MENAFN - IANS) San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing on California roads."
-    publishedDateTime: 2020-07-19T16:30:00Z
-    webUrl: "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-07/19/I_11b7d50c-cimage_story.jpg"
-        width: 400
-        height: 266
-        isCached: true
   - title: "How Fast Is China’s Demand For Autonomous Driving Technology Growing?"
     excerpt: "With the continuous adoption and promotion of technologies such as AI and 5G in the automotive field, autonomous driving is something many companies are trying to achieve in the near future. With the relaxation of laws and regulations on autonomous vehicles and the continuous landing of autonomous driving technologies and products,"
     publishedDateTime: 2020-07-20T10:33:00Z
@@ -68,6 +54,15 @@ related:
         width: 866
         height: 578
         isCached: true
+  - title: "AutoX gets permit to run driverless testing in California"
+    excerpt: "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ..."
+    publishedDateTime: 2020-07-19T18:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200719/3595133.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "AutoX gets permit to run driverless testing in California"
     excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing ... is to empower the world with Artificial Intelligence (AI) drivers to ..."
     publishedDateTime: 2020-07-20T00:05:00Z

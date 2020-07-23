@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-20T20:56:00Z
 webUrl: "https://www.marketwatch.com/press-release/giants-in-the-aiot-chip-industry-qualcomm-alibaba-and-wimi-entering-the-battlefield-2020-07-20"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "With 5G+AI Twin Engines – Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
-    excerpt: "The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has brought opportunities for the server market to speed up development,"
-    publishedDateTime: 2020-07-22T00:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/with-5gai-twin-engines-qualcomm-wimi-and-samsung-bring-new-opportunities-to-the-industry-2020-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "With 5G+AI Twin Engines - Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
     excerpt: "HONG KONG, CHINA / ACCESSWIRE / July 21, 2020 / The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has brought opportunities for the server market to speed up development,"
     publishedDateTime: 2020-07-21T08:20:00Z

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "AutoX gets permit to run driverless testing in California"
-excerpt: "(MENAFN - IANS) San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing on California roads."
-publishedDateTime: 2020-07-19T16:30:00Z
-webUrl: "https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California"
+excerpt: "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ..."
+publishedDateTime: 2020-07-19T18:01:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200719/3595133.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2020-07/19/I_11b7d50c-cimage_story.jpg"
-    width: 400
-    height: 266
-    isCached: true
 
 related:
   - title: "Chinese autonomous driving start-up AutoX wins driverless car permit for tests in California"
@@ -78,6 +72,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "O9M4XXcW8CWyQ/FxTf0zezDGHJe8J/gKaeJCezugYGXCv8FuspvPl925fbrfofJoK92WNfqEJh/B3itlddmw157p0nZ9enEIxlOghsuabG+l9nIQC5J/rfRkBs/qkg3Xm5d92oLyomXr7SnY9YMsl6dG4mBM8qNRqDasmnx0CJdYswreDw7kMzGhf7yzw/gKaVdX7D5Zp04uv3fs3U/Qj8JxNZba0ceygy15GWL3lTmYhtCMGWKcHmpLPZHygjsTIbh0e47lccvlxlOlmYOf6jvbrPPivE2wcBt45WNYb+B2678jPiRq3jIITpFPgRrQoRwN8nVMMod+0PTqj5Cz00HT+5Oyn+exXnTx/rWUt80ucXlpfskpcNmB1nxG94Dp4X1Bc96tw4AF23uzHqJ2mX2z6qDp567h4suEDic1MSOx8OQlmmnP+oIBp+xZlpU0AV3ECP2mEUtcSfgXfbApn3bb91eQV3Q4PR5pd8CPF1dyamd++N0Vpe9DA0agivsW;cDXHMWxpLW03GzVdreNHVg=="
+secured: "bbiO/eZBRTXnYSXKETjobTWJtSwQAYLuhOntJ03RW8iCTlR3V+WeN8xFUGw/W3NXo+vlI/dxa03QmiJ/YKILQif61JrdOjHr4M57HCa5muvbyvQYPn0hCFOkVCF80S2OzeTwIfJdg7ZmX1mcWRwBWOQ2C2htENH4abgTBMuVoPGNpeaY9MCxIl9lvdzrXSPmYRmwYNadQz0aJG3TVilghaBAmdxEkGLncOE31czxH/sAOOB7cBQW0amEeVYFRvBYTOdy7FLPiGNQQGJ6RaeJ1Toyv6Kv7tepLs0VwlVgI6il/U9HIrpihwYaIv1f1tqXgZIWuhuXFiwc8XAmxi9yKg==;rSOfQ0WtBbt5NV6udF5lCg=="
 ---
 

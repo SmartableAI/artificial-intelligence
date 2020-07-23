@@ -2,8 +2,8 @@
 category: news
 title: "COVID-19 Negative Impact on Global Industrial Robotics Market - Exclusive [200 pages] Reports by Research Dive"
 excerpt: "The progress of industrial robots through artificial intelligence and machine learning in the forecast period is predicted to create more investment opportunity. The enforcement of lockdown in various parts of the world has created a disruption among ..."
-publishedDateTime: 2020-07-22T12:51:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/covid-19-negative-impact-on-global-industrial-robotics-market-exclusive-200-pages-reports-by-research-dive-866612079.html"
+publishedDateTime: 2020-07-22T12:34:00Z
+webUrl: "https://www.prnewswire.com/news-releases/covid-19-negative-impact-on-global-industrial-robotics-market--exclusive-200-pages-reports-by-research-dive-301097963.html"
 type: article
 quality: 34
 heat: 34
@@ -23,6 +23,6 @@ images:
     height: 314
     isCached: true
 
-secured: "qzyhw/VIhXDcpRckOy2znMU2wQNMjEQLxP7QWPqAaxUySNfp6TNnTXOvEXeqbI0YW6n9jz28DhfX2UfKgjllxpB6JeqwowTF+JmZdMpPzAtCwuNdC5x6f5FHi0+3/5kU2F9/zihvHHk8AAgDBY7F4iZ6g9sc08x1MIEVy2d9OM5KlP9JIdVmDlh2B+z7f51b/L4PaPcAjuygpQ0/Yv4fZb2D2yahC4sEz74U3OLvc7ZibyqnOFGdNkJXgwcEajZ+b4K5bGlm373rG+Amf7AgXqvdBATS4QoG3c4eh6+YuDgVh6549+5UmIJUVbPBn7R+jjdILR9VpKy2zkQDcN6OaH5ElF7Y1GiIHHMurOZSlrtHft3J8yu6Im8tTDOgEFVCBFstCeKUWD8dJwzMHLnBofSltW9DdCA/Po6VOdbWt0GV7yf3H0vpSGX+5iG/6EUlgiVvqzDeovd3kj+1ZHgryTNh+A+2936F1aiU20t+Keq/KeQ8SRpHH0Mhu70NIHUUXVkwFZYbCsJMBPvxUu7Uvw==;V2VTfE7gmMZaEEwv05Lhzw=="
+secured: "8anXuEnJKBDTpXGd0RbdZE6LA7fiRo9/d8nk5i4hvaG+BOBxeERr1qZQlH2g2LwCvWvD/7rjRYILA9WsdGdj1KWmoMD+I1tylxRJ9XH1PmCbvz7YfEISHzrZzm0Xx+rM7+cIFRyu0AhEYOYQY75WLyQewGsJU6M8QkVSgAQMJ/MWgKbYNj6QUnSmGX4OXIx4Rd5uCFbUAXTDxYAEg4Azm8yYsxGLLQjz11e+xTsvEQ5BpCwzmzvCgilY2utKn1OViw96iBWoDwxDfwrWbClUHtBmBApJ3UCrmfU0BWlsyUPk9L0M9fsA5kpb76bAzjiZ6fxALChAbnVntlEYS7uk7w==;WDxz35mLA6o9vWadXVYMzw=="
 ---
 
