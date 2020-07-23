@@ -2,6 +2,56 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-19-artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026.md",
+      "title": "Artificial Intelligence Robots Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026",
+      "excerpt": "Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-18T21:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-amazon-vets-behind-smart-shopping-cart-startup-face-a-familiar-foe-their-former-employer.md",
       "title": "Amazon vets behind smart shopping cart startup face a familiar foe — their former employer",
       "excerpt": "With combined experience of nearly two decades at Amazon, startup founders Shariq Siddiqui and Umer Sadiq remain big believers in the tech giant’s mantra of obsessing about customers, not competitors.",
@@ -1397,56 +1447,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-uber-tooling-is-a-critical-part-of-ai-development-and-deployment.md",
-      "title": "Uber: Tooling is a critical part of AI development and deployment",
-      "excerpt": "He revealed this tidbit during a session at VentureBeat’s Transform 2020 summit, during which he spoke about Uber’s use of AI and internet of things (IoT) technologies at the edge and in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/uber-tooling-is-a-critical-part-of-ai-development-and-deployment/amp/",
-      "publishedDateTime": "2020-07-17T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

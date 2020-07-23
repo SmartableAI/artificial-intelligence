@@ -2,6 +2,105 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-09-researchers-propose-ai-for-detecting-fraudulent-crowdfunding-campaigns.md",
+      "title": "Researchers propose AI for detecting fraudulent crowdfunding campaigns",
+      "excerpt": "In a new preprint study, researchers propose AI to detect fraudulent crowdfunding campaigns at publication time -- even without donor activity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/01/crowdfunding-e1594302470246.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/09/researchers-propose-ai-that-can-identify-fraudulent-crowdfunding-campaigns/amp/",
+      "publishedDateTime": "2020-07-09T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning.md",
+      "title": "Digital Transformation Isn’t About ERP Anymore, It’s About Automation With Machine Learning",
+      "excerpt": "All good, for sure. But is this a sustainable role given what’s happening with machine learning? Clearly, companies will invest heavily in automaton to save money and eliminate, streamline and optimize processes. They will map and mine their business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1224178306%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2020/07/09/digital-transformation-isnt-about-erp-anymore-its-about-automation-with-machine-learning/amp/",
+      "publishedDateTime": "2020-07-09T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-10-ways-ai-is-improving-new-product-development.md",
       "title": "10 Ways AI Is Improving New Product Development",
       "excerpt": "Product Development teams the most advanced in their use of AL & ML achieve greater economies of scale, efficiency and speed gains.",
@@ -1085,96 +1184,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-welcome-robin-the-ai-robot.md",
-      "title": "Welcome, Robin the AI robot",
-      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character—one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/welcomerobin.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-07-robin-ai-robot.amp",
-      "publishedDateTime": "2020-07-08T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-save-me-from-my-rude-self-please.md",
-      "title": "AI, save me from my rude self (please)",
-      "excerpt": "Carnegie Mellon University scientists come up with an automated method for making communication more polite, thank you very much.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-save-me-from-my-rude-self-please/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "AI, save me from my rude self (please)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "publishedDateTime": "2020-07-08T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,96 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
+      "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
+      "excerpt": "Yet Facebook, Microsoft and others are arguably ... Huawei’s 5G and various basic research platforms, all of which are exploring the business opportunities of AI in the future. Technology is making life better and closer to reality.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis.md",
+      "title": "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
       "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
       "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
@@ -1288,98 +1378,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-artificial-intelligence-the-case-for-regulation.md",
-      "title": "Artificial Intelligence: The Case for Regulation",
-      "excerpt": "With every passing day, technology becomes increasingly indispensable in our world. Inventions such as electricity, the motor car, and the internet stand out as technological advancements which have transformed our entire society.",
-      "sourceUrl": null,
-      "webUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cherwell.org/wp-content/uploads/2020/07/08132344/AI-1-e1594305662408.png",
-          "width": 850,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "cdnAmpWebUrl": "https://cherwell-org.cdn.ampproject.org/c/s/cherwell.org/2020/07/09/artificial-intelligence-the-case-for-regulation/?amp",
-      "publishedDateTime": "2020-07-09T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cherwell Online",
-        "domain": "cherwell.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-ask-a-techspert-how-do-machine-learning-models-explain-themselves.md",
-      "title": "Ask a Techspert: How do machine learning models explain themselves?",
-      "excerpt": "Editor’s Note: Do you ever feel like a fish out of water? Try being a tech novice and talking to an engineer at a place like Google. Ask a Techspert is a series on the Keyword asking Googler experts to explain complicated technology for the rest of us. This isn’t meant to be comprehensive, but just enough",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/-_ky4crC.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/ask-techspert-how-do-machine-learning-models-explain-themselves/amp/",
-      "publishedDateTime": "2020-07-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

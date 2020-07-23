@@ -2,6 +2,129 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-08-ucla-launches-an-ai-robot-to-support-the-emotional-needs-of-children.md",
+      "title": "UCLA launches an AI robot to support the emotional needs of children",
+      "excerpt": "E eyes and sleek plastic body, Robin the robot has the huggable, child-friendly look of an animated Pixar character -- one that is eager to interact with pediatric patients to ease their anxiety and loneliness in the hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fChildren_playing_sunset_-_Zurijeta_8c5bdac77e44431bb1bfec67b9c87208-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "UCLA launches an AI robot to support the emotional needs of children",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200707/UCLA-launches-an-AI-robot-to-support-the-emotional-needs-of-children.aspx",
+      "publishedDateTime": "2020-07-07T18:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-mobileye-and-willer-partner-on-self-driving-mobility-solutions-for-japan-southeast-asia.md",
+      "title": "Mobileye and WILLER Partner on Self-Driving Mobility Solutions for Japan, Southeast Asia",
+      "excerpt": "Mobileye, an Intel Company, and WILLER, one of the largest transportation operators in Japan, Taiwan and the Southeast Asian region, today announced a strategic collaboration to launch an autonomous robotaxi service in Japan and markets across Southeast Asia,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/b7de7b2d211d46479c8b5f4956b7144b",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
+      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
+      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
+          "width": 1318,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
       "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
       "excerpt": "In preparation for DesignCon 2020, here&#039;s a look at some of the latest research being done on AI inference at the edge.",
@@ -1035,155 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips.md",
-      "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
-      "excerpt": "Xmems is unveiling Montara, which the company believes will bring high-quality audio, reliability, and better costs for headphone earbuds.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/montara.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/amp/",
-      "publishedDateTime": "2020-07-07T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-incorporating-ai-in-telehealth-chatbots.md",
-      "title": "Incorporating AI in telehealth chatbots",
-      "excerpt": "Tonya Hall talks to Evan Kohn, chief business officer and head of marketing at Pypestream, to learn more about the difference between scripted vs pre-defined AI chatbots and how both of these roles can be used to enhance the telehealth experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/incorporating-ai-in-telehealth-chatbots/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/07/07/0ed0edc0-cb1c-48d2-a20d-dbe4f8bf4cc5/thumbnail/770x578/d83e487c4416bc4ddc223c63e7534166/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Incorporating AI in telehealth chatbots",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-shoppers-will-interact-with-robots-but-do-have-limits.md",
-      "title": "Shoppers Will Interact With Robots, But Do Have Limits",
-      "excerpt": "Consumers are open to robots aiding their shopping journey and even making their next meal but draw the line at a machine spending their money without their involvement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1197242566%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Shoppers Will Interact With Robots, But Do Have Limits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michelleevans1/2020/07/07/shoppers-will-interact-with-robots-but-do-have-limits/amp/",
-      "publishedDateTime": "2020-07-07T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

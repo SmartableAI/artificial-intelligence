@@ -2,6 +2,146 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-06-29-research-artificial-neural-networks-are-more-similar-to-the-brain-than-we-thought.md",
+      "title": "Research: Artificial neural networks are more similar to the brain than we thought",
+      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Consider the animal in the following image. If you recognize it,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/06/29/artificial-neural-networks-are-more-similar-to-the-brain-than-they-get-credit-for-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/06/2-11-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Research: Artificial neural networks are more similar to the brain than we thought",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof.md",
+      "title": "Big Tech rides out yet another global crisis and piles up big profits, but are they recession-proof?",
+      "excerpt": "Google is most widely known for its search engine and mobile OS, but it has also invested in driverless cars, robots, artificial intelligence, genetic testing, and biotechnology. Facebook is ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/24/190724-big-tech_16c24559b73_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/your-money/saving-investment/big-tech-rides-out-yet-another-global-crisis-and-piles-up-big-profits-but-are-they-recession-proof-1.1588003314397",
+      "publishedDateTime": "2020-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-eric-and-wendy-schmidt-back-cambridge-university-effort-to-equip-researchers-with-ai-skills.md",
+      "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
+      "excerpt": "Eric and Wendy Schmidt have donated to a Cambridge University program that is designed to equip young researchers with machine learning and artificial intelligence skills that have the potential to accelerate their research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103415766-GettyImages-466716374.jpg?v=1532564180",
+          "width": 3000,
+          "height": 2000,
+          "title": "Eric and Wendy Schmidt back Cambridge University effort to equip researchers with AI skills",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/06/29/eric-and-wendy-schmidt-fund-cambridge-effort-to-spread-ai-skills.html",
+      "publishedDateTime": "2020-06-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-image-recognition-market2026-share-global-growth-overview-size-opportunities-leading-company-analysis-and-key-country.md",
       "title": "Image Recognition Market2026 | Share, Global Growth, Overview, Size, Opportunities, Leading Company Analysis and Key Country",
       "excerpt": "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ...",
@@ -1272,140 +1412,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
-      "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-      "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/29/w600X390/karanth094206.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "publishedDateTime": "2020-06-27T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-a-closer-look-at-sagemaker-studio-aws-machine-learning-ide.md",
-      "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
-      "excerpt": "When AWS launched SageMaker Studio back in December, we weren't super impressed. But we promised to take a closer look. Here it is.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-sagemaker-studio.png?w=1200&#038;strip=all",
-          "width": 1080,
-          "height": 530,
-          "title": "A closer look at SageMaker Studio, AWS’ machine learning IDE",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/27/a-closer-look-at-sagemaker-studio-aws-machine-learning-ide/amp/",
-      "publishedDateTime": "2020-06-27T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-27-comparing-13-different-crispr-cas9-dna-scissors.md",
-      "title": "Comparing 13 different CRISPR-Cas9 DNA scissors",
-      "excerpt": "The team developed deep-learning-based computational models that predict the activities of SpCas9 variants for different DNA sequences. This study represents a useful guide for selecting the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/06/200626092729.htm",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-27T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -23,22 +23,6 @@ images:
     isCached: true
 
 related:
-  - title: "How a Colombian market is using AI to combat Covid-19 outbreaks"
-    excerpt: "Mr Palacio is the director of the densely packed market which sits in the heart of the Colombian city of Medellín. Every day, up to 15,000 people flood into the giant building where more than 3,300 vendors sell fruits,"
-    publishedDateTime: 2020-07-18T05:52:00Z
-    webUrl: "https://www.bbc.com/news/world-latin-america-53388656"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-latin-america-53388656"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-latin-america-53388656"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/12D0/production/_113461840_whatsappimage2020-07-01at11.55.59am-2-1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Robots Provide High-Tech Support to Combat COVID-19"
     excerpt: "During the early stage of the COVID-19 outbreak, researchers from C-FAIR met with experts from Shandong Provincial Tumor Hospital to discuss feasible plans and operable methods in using AI for epidemic prevention."
     publishedDateTime: 2020-07-20T02:14:00Z

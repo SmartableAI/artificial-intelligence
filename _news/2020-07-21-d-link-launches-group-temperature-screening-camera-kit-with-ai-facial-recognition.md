@@ -36,6 +36,17 @@ related:
         width: 920
         height: 533
         isCached: true
+  - title: "Innovative Technology Launches Facial Recognition API for the Gaming Industry"
+    excerpt: "Innovative Technology (ITL) has released an online API alternative to their ICU Intelligent Identification device aimed at the growing online gaming market. ICU API will enable your website to perform facial recognition & age estimation."
+    publishedDateTime: 2020-07-22T22:38:00Z
+    webUrl: "https://www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22"
+    ampWebUrl: "https://www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22?amp"
+    cdnAmpWebUrl: "https://www-programmableweb-com.cdn.ampproject.org/c/s/www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22?amp"
+    type: article
+    provider:
+      name: ProgrammableWeb
+      domain: programmableweb.com
+    quality: 36
 
 secured: "mTkldDjKMadnyLvzFH10zMBmUdvbxIamV9qFROEEJ3OCtFt4R/h+MzYQQkJAVLe8pq7fOy+1kUd0JnHLUz1h6L3NUCoOM242VTCqN+CGVo2UnH3aDgidktvsHRd6f+PszdTyIYz3D2s6SfMqcXi3azjWVGJ+tKnuKp7xIhl3FmIbmYRGLpiHbevA/1EpFJvqXE+h1OLKdrhxfpQkp3sIsNlwVpGukJAI1D8u/u3TqMqSzJWKdYNVc6XrWDBGg4pwxzu28khwImqCBGkDzW79JgvCiPaSopturQAw0+Hq+r2X9Q1MNCQxwDAsYN9RZprx46yvqe7fMVIhHWrX3E7hxctOd0tXdOfApNedlWlGfA6HyqGsg2t2zbAz8imJNkTNLNbaca+xy0uuD+qq8iZ7+/p9/2uhjk1VUKc1DAO5RJsY5/Grc7O4UyT4y1dbvku8rdSaWzfnk9WTHBUbpvUwAnjQJFoLQX1EzEsgQKH6DwPqIwxToNT9qW2RvagHS3C4IJk/YijZt7/Indl96SKxtg==;cwoCxXKsH31ml/NASr+KbQ=="
 ---

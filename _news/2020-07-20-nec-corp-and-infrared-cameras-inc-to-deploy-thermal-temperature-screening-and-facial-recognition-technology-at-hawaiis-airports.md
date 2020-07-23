@@ -37,6 +37,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 49
+  - title: "Innovative Technology Launches Facial Recognition API for the Gaming Industry"
+    excerpt: "Innovative Technology (ITL) has released an online API alternative to their ICU Intelligent Identification device aimed at the growing online gaming market. ICU API will enable your website to perform facial recognition & age estimation."
+    publishedDateTime: 2020-07-22T22:38:00Z
+    webUrl: "https://www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22"
+    ampWebUrl: "https://www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22?amp"
+    cdnAmpWebUrl: "https://www-programmableweb-com.cdn.ampproject.org/c/s/www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22?amp"
+    type: article
+    provider:
+      name: ProgrammableWeb
+      domain: programmableweb.com
+    quality: 36
 
 secured: "LTm+tOuzbijFVYfn5bFI2d2+91sEW5BbVg9afavDxAi7rQQxtNjCINMqSTpZ4Uj0S6PHaueRIiKzmBR35/ilL62Mw+TFRZc8+P2QgyzJd6ib9WSKGA7iTD3+FZTuH34yZSrMDrOYDSMxU/YNa+gEoEhwEM/thKgv9bCJQIZRdm9InQsjL93JDyBnzdgVURps0sKooFTDaoLesJvWLc2uCu8yr1hyWZsmzqkh4vsPOVU8ipYiF8nvS8GN0Z4qXdK6AtpPtxTzO87EZybQU2cAgBlqYVEoyNFYT5/QHdzUBM/k7Z5Oyyo5KRKcCj0ubD+bzQahIt6ptZZKOsjrRJgcow==;221AYiIJLiAn4aeJ2tZgWg=="
 ---

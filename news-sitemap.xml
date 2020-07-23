@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.businessinsider.com/elon-musk-smart-people-doubt-ai-dumber-than-they-think-2020-7</loc>
+    <lastmod>2020-07-22T16:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/</loc>
     <lastmod>2020-07-22T14:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -769,8 +775,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200717005015/en/</loc>
-    <lastmod>2020-07-17T07:26:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI</loc>
+    <lastmod>2020-07-17T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -981,6 +987,12 @@
   <url>
     <loc>https://www.zdnet.com/article/big-backing-pair-doctors-ai-assist-technology/</loc>
     <lastmod>2020-07-16T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://eandt.theiet.org/content/articles/2020/07/space-tech-used-to-build-improved-prosthetic-leg/</loc>
+    <lastmod>2020-07-16T06:55:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2847,6 +2859,12 @@
   <url>
     <loc>https://apnews.com/b7de7b2d211d46479c8b5f4956b7144b</loc>
     <lastmod>2020-07-07T18:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing</loc>
+    <lastmod>2020-07-07T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
