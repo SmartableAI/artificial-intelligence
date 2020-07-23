@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T10:49:00Z
 webUrl: "https://www.datacenterdynamics.com/en/news/cbre-signs-deal-ibm-smart-maintenance-service/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

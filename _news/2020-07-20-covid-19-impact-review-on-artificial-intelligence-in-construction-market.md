@@ -44,6 +44,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Pype Dream - Autodesk to Change Construction Workflow with AI"
+    excerpt: "Autodesk has announced its plans to acquire Pype, a DC-area based startup that has created AI-based software to manage spec books and submittals, documents common to the construction industry. Submittals are composed of shop drawings,"
+    publishedDateTime: 2020-07-23T15:51:00Z
+    webUrl: "https://www.engineering.com/BIM/ArticleID/20547/Pype-Dream--Autodesk-to-Change-Construction-Workflow-with-AI.aspx"
+    ampWebUrl: "https://mobile.engineering.com/amp/20547.html"
+    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20547.html"
+    type: article
+    provider:
+      name: Engineering
+      domain: engineering.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/engineering-com/image/upload/w_350,c_limit,q_auto,f_auto/Sunil_Dorairajan_taec5i.jpg"
+        width: 350
+        height: 350
+        isCached: true
 
 secured: "JU/B3PCsHfUHYeRtEh11lpEVKh8oy1g8uN4xtoiZw2W7SHc1wKidc+7hITYvaRasOaFgr4UooEbQ7nAX49jr/tluIzjUDSBF1UgwbklpdNTLWGgrFNPjW/kEjjxxdMeCEAmfxOne1qbfNsgHemkPus89vb0lo8breVU69NSRP2fAxcOAR+DkAUPCkYG6TOA0PeGIHmrs2IkoJSj77wBCzvUSKuxMt89cVTkRHVtvVCF4mDmz0E+oS5zrQjJX6L2ne1iv3UKJXR3KYJGSe25en256jfIfFuvJX/oaiY/UEbaPmO7pJL0afzMMY1dSUaJ6Ne3ANSB1/33IU3tTXYq6ZQ==;Yj2M/245Rx3h0hlbUPig4Q=="
 ---

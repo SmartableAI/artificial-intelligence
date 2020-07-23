@@ -41,6 +41,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
+    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
+    publishedDateTime: 2020-07-21T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
 
 secured: "K6N0DU1F7HoEHypXgIzCcC7DjoODjblvY3zpovhRz3xh51z37WGsLf1PEl/A9Jh8Jhbdq47sKhF1Qx1evsN51tRfe7CKq6xsGbjjFJjkCVj0EFV7yM93fO7eMEximAvfmE2TAP+ZPg+wXaDmwbBITqt1N/86XA/Fm47/jC3kXhQsDyMTHJ35w7SlvCYrs2OI7mOdCkpWlE0AkSeVlpu2B8xFRUUp8TYe0PUFp0DxvGMNsyLzzMXx/feIQGpvll96Fkwp83rH8UKjCYRYlVXGHJIbvvvXvX8ABLV4WOMyDSFZgpijzNgdNYG21mjvPS7ReST9XFEMMuOFZ0nuAYs5UdAYgrcuU6x+3n3hh1C5P6UjOE/qjrF+/S6HF3g+dVSM+T/dnr0cUC2hRPjz5qg/V5Upa2a4Se6ktfjk+ej2kJvaRCee4WXlh8WZPaC185XoPt6/K0KWLTsNnKn5ME6dFOU//fDB+yPtnSsQEj60Y8Ow2l5O2IUkAXIZ56juxQqfitoJftGw/nhXUW/w/oNNZQ==;aTiQWOReG8Bvv8SLir1Lug=="
 ---

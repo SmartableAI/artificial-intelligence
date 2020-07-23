@@ -8,8 +8,8 @@ ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm
 cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Global Voices Online
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
+    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
+    publishedDateTime: 2020-07-21T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
   - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
     excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
     publishedDateTime: 2020-07-20T09:26:00Z

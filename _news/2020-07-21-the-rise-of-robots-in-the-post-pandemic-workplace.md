@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "The rise of the robot workforce"
+    excerpt: "In a survey from the National Association of Manufacturers conducted at the start of the pandemic ... optics and artificial intelligence, the company says it has been able to teach its robots how to think like a human: a visual quality control inspector ..."
+    publishedDateTime: 2020-07-23T15:20:00Z
+    webUrl: "https://www.wired.co.uk/article/autonomous-robots-industrial-tasks"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://wi-images.condecdn.net/image/yV5VWrwjRYR/crop/1440/0.5235602094240838/f/wired-virtualbriefing-ran-poliakine.jpg"
+        width: 1440
+        height: 753
+        isCached: true
+
 secured: "atGEF65rhcE893fcv5B4ARzd1kICJ821ceyYL4M9QTe8nRbnNlKKd/7IVn2F+ekrsNvqVHiO1yHljZmqr/qwHbc976a57hYr45o18DgD7fz9y2wr0RH+Iwyb7D2op9VgjbRzgZ9zG+h373MP1o8SUAp1HDMmLjmo5IJwPADwYQuQG5f2RgHtFHttcRPHCygKLoXxcTpKiL9WmEhJ57vSojihE+PxLnGLzIFlcr9mjZ2YEH2sI/Cc+XSvjA9LqUkxJG+zR3U+cI0IolRGZQ1Uvwa4DxP8BemQ+5n/jFxuQxTJMzLg+WbWZHfAjFFk+Jfru/ZMlwPbSTwKLli3g2r13Q==;3Lavs7zL5H5B+atqsV7TKw=="
 ---
 

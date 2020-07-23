@@ -49,6 +49,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
+    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
+    publishedDateTime: 2020-07-19T06:48:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 47
+    images:
+      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
+        width: 600
+        height: 237
+        isCached: true
   - title: "Former Ford exec Hinrichs joins board of self-driving radar startup"
     excerpt: "More than four months after retiring as Ford's automotive president, Joe Hinrichs has resurfaced on the board of a U.S. company pioneering a unique sensor for autonomous vehicles. Hinrichs, 53, has joined the board of directors at WaveSense,"
     publishedDateTime: 2020-07-20T12:43:00Z

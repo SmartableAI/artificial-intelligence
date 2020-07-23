@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/07/20/how-the-rising-importance-of-cultural-intelligence-is-impacting-pr-and-communications/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.govexec.com/media/img/upload/2020/07/20/shutterstock_765005305/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Artificial intelligence and machine learning in signal processing become the intelligence analyst's friends"
+    excerpt: "Systems designers are in initial development for these kinds of signal processing architectures that use AI and machine learning for pre-processing."
+    publishedDateTime: 2020-07-23T15:23:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14180205/signal-processing-artificial-intelligence-ai-machine-learning"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 21
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/07/Signals_intelligence_23_July_2020.5f19a407192ab.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 803
         isCached: true
   - title: "Preparing for the LIBOR Phase Out: Contract Remediation Starts with Contract Intelligence"
     excerpt: "Key to assessing risk of exposure, quantifying the financial impact, developing remediation plans and communicating material information to stakeholders will be the identification, analysis and remediation of LIBOR-based contracts."

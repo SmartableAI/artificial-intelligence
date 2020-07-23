@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Core Scientific Acquires Atrio, Strengthening Its AI Capabilities as the Cloud for Data Scientists™"
-excerpt: "Core Scientific, a leading infrastructure and software solutions provider for Artificial Intelligence (AI) and blockchain led by CEO Kevin Turner, the"
-publishedDateTime: 2020-07-15T17:32:00Z
-webUrl: "https://www.businesswire.com/news/home/20200715005690/en/Core-Scientific-Acquires-Atrio-Strengthening-AI-Capabilities"
+excerpt: "HPC workloads and AI are converging to create solutions that span across a range of industries, from performing seismic analysis in the oil and gas field, to calculating complex risks in financial markets for more informed decision-making."
+publishedDateTime: 2020-07-15T16:35:00Z
+webUrl: "https://www.businesswire.com/news/home/20200715005690/en/"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: Business Wire
+  name: The Daily Journal
   domain: businesswire.com
 
 topics:
@@ -23,17 +20,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Core Scientific Acquires Atrio, Adds to its AI Capabilities as the Cloud for Data Scientists"
-    excerpt: "Core Scientific, an infrastructure and software solutions provider for AI and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced the acquisition of certain assets and technology of Atrio Inc."
-    publishedDateTime: 2020-07-16T20:20:00Z
-    webUrl: "https://insidehpc.com/2020/07/core-scientific-acquires-atrio-adds-to-its-ai-capabilities-as-the-cloud-for-data-scientists/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 8
-
-secured: "g435z3SO0RQsMigbmOIlQ1Np5e3nt0J1/Mvn1iLAUdbbEvlXUPeiM9XvlsFOaFmwINiB4Gj1iEYkEoaS7UKYIOIsJKHNXiNSMPn/h03xBkw2H2B4qP9vw+RRArUYLSO1GGIJJEB7HW3qH9PUe3fbI/LcHHMUKWUazctSZHQ9RtOD4tqkn9fEOnXMUiVoNAv7iGsiJrVIofk1kc8PLA0/gqAk39WFa4PWr1jle90sLThXIlj7W8Cy7opixpe7bS1KwWmGq9kUB+jdFqMlfXVaaTIge692l2sq7R3iuO65KBZMQxHm5i84dXHH3naeT5HaHk4PX9ggD3nd7y8GUdGIMFcHhfprN4cKKbJyaE3YIHSe/n63aZ15v2m1LSRdY+aqGfJ7l231Luj58vzu2QQZwduBbc3JZNIWdVI1ayopemHYb+wuebKo33GezFE8lQ/VQ+KqR849qB9GiM/z3tH+1zH7BMsAxAZELQ7CgUPokBB9WnkVhkNrzWC6SqCn13lMUHJCh6mOVgQ881thoYwpYA==;wlTG5DzWYiTqJocb0bFtkg=="
+secured: "/vqCNOu9KCaBwicaoLexCM41viccI96ODLSIlWXdApMfZZaz3SvqF+PJU11aMCBRszwBwQmmrhJ3HWQ454wuaR/hVTaXqJVIfvM2oL31FtSJ4M5U67z1FD9hlrCtbwJPqPZHqlIxDtCV03WeLlLgNiGbGE6IFYdki4gwch/qYyHRpejWQ6wCx+mx9STNRxJUErfYUtSIPeRXb1UQCvJVYIyYjNJFIby9qPIwzpg9dCA99zn9g885csLezk2hEf1GEWhiIh2t0Lgx1kAgcVREqs4KlXTIj2RlwhgnOhI9inwnoDVsBx4Kz+qhu6qSC1sEAvgvnmo+KgbWy5o5eXRDnQ==;agKtxvoWSb8BF2oSowP44A=="
 ---
 

@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 571
         isCached: true
+  - title: "Aurora will test its fleet of self-driving cars and semi trucks in Texas"
+    excerpt: "Aurora, the startup founded by former lead engineer for Google’s self-driving project Chris Urmson, is bringing its fleet of test vehicles to Texas. It’s the latest company to shift resources to the Lone Star State,"
+    publishedDateTime: 2020-07-20T18:10:00Z
+    webUrl: "https://www.theverge.com/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 73
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/vbvXQSC8uS1rzfsd1Yql8zNKbBk=/0x0:4032x2268/1400x933/filters:focal(1694x812:2338x1456):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67082226/Texas_Pacifica.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Aurora Jumps Into Robo-Delivery Race With Self-Driving Truck And Van Tests In Texas"
     excerpt: "The Silicon Valley-based developer of software and hardware for autonomous vehicles is joining the pivot to driverless delivery vehicles as Covid-19 slows robotaxi plans."
     publishedDateTime: 2020-07-20T18:02:00Z
@@ -57,6 +73,34 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f15d91f3041c40006bad88e%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "US self-driving startup Aurora expands public-road testing to Texas"
+    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
+    publishedDateTime: 2020-07-21T04:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/21/us-self-driving-startup-aurora-expands-public-road-testing-to-texas"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/21/788898.jpeg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "For Aurora Innovation, trucks and Texas are signs of self-driving future"
+    excerpt: "Hauling goods and freight has become a priority in a self-driving industry once predicated upon carrying passengers in robotaxis. It should be no surprise then that logistics hubs have become hot spots for new testing grounds."
+    publishedDateTime: 2020-07-20T18:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/aurora-innovation-trucks-and-texas-are-signs-self-driving-future"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 23
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "37U1KqrUszAmuHvI5nHX9qbeu+Ypp23PPlTsC1/sJPhI/MUgQcPWDEprKgxhUalgC2/Qm72LWgbMYCPJVZRC2oxY1n8QX1Vd52C8ea9Y0V2/VvtLXqNWsZeakt1iqKfPYfXd3FS4zgzaWMTL7B2cc9hJfglqwBZC+HA1RbQhF2yIUSs0zXJ1TG1oml1nlz5+k/a3J7TJUpJJZ+7SiyLcEYNpw7rSI3vvMPmaz12NrcY8CvtAKtW1R/jTR1syhNQ2YuAVy9fA8koZxPTDjNg6BmQXfATcKQejCWxxCEtrNajdijZGHXzR/XGrCDOJ8sVefYR/gziIb8NRyXlOnk/zFNaUhrkNWTliaSE3d8a+pQsqtCNFxUQksDlNiXM5gDbCpTwIBDV9JYbBG0BeA3c2E4vmlKAHwdMjY9RA2iCVTjgFfBGwkvwEWqZ7iLeOqxRMfseIiqcPrAVaHpI21HmqXEa259/KFi3KO65G8khAnkXM+O/tbiOfpxmJFJnDgTYc;Qja8bekD+6Xl5XzxDowPCw=="

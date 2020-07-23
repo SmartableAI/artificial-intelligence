@@ -26,21 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
-    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
-    publishedDateTime: 2020-07-18T23:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+  - title: "Black Lives Matter forces an IBM U-turn on facial recognition"
+    excerpt: "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ..."
+    publishedDateTime: 2020-07-21T12:00:00Z
+    webUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/"
+    ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 59
     images:
-      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
-        width: 1747
-        height: 1311
+      - url: "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
+    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
+    publishedDateTime: 2020-07-20T09:26:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 50
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
+        width: 770
+        height: 500
         isCached: true
 
 secured: "5jIFLig4vzVs3hZ2JdKJ5tY4JIVetIziJFHWygNCw7iDji3Y7r0ItQTSFB6ot2y/GfcPsOstA6+NKAuWM6peZLP3Nujoylip1xa/yptPSqugblmS1uat0/na4/FUDLTjWd5TLWO0knd3iTZhne+c8OLf0V8r2ZdgRN8QR5UXW1k1Ge5apuhI6ZkdBk9LYSZu4cIRj5jPkG03SWsK17Bh++IzjtQ2H4QPSDgNMlRVMmdYYVYrp2C1i2PvoxnwENMaLVEJ/lSVp1i+nv/C/D5D00vpGudG6a19p4hR/Y2aSwE65IcKtIrhqfKDOWL4mS99RUv3eiqTGUZhXLseyTuzfQ==;EeaxK2JDvxlPozZWx3OAaQ=="

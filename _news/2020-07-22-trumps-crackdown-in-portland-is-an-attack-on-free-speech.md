@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T10:11:00Z
 webUrl: "https://www.washingtonpost.com/outlook/2020/07/22/trumps-crackdown-portland-is-an-attack-free-speech/"
 type: article
 quality: 24
-heat: 24
+heat: 44
 published: false
 
 provider:

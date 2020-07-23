@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "First self-driving taxis to hit Moscow streets in 2024"
-    excerpt: "A fleet of driverless taxis may start operating in the Russian capital within the next several years, according to Deputy Transport Minister Aleksey Semyonov. “If we efficiently start implementing the plan we are developing on the basis of our stakeholder authorities and key companies (the Transport Ministry,"
-    publishedDateTime: 2020-07-19T05:23:00Z
-    webUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/"
-    ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
+  - title: "Self-Driving Sector Moves Focus Away From Robotaxis"
+    excerpt: "The self-driving industry appears to be moving away from the idea of robotaxis after several significant setbacks in recent years. As reported by FT, the hope was that a self-driving Uber would come to market soon. However, this looks to be No longer ..."
+    publishedDateTime: 2020-07-22T15:30:00Z
+    webUrl: "https://www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html"
+    ampWebUrl: "https://www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html/amp"
+    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html/amp"
     type: article
     provider:
-      name: RT
-      domain: rt.com
+      name: Android
+      domain: androidheadlines.com
     quality: 44
     images:
-      - url: "https://cdni.rt.com/files/2020.07/original/5f0f139785f5407b451936aa.JPG"
-        width: 1240
-        height: 838
+      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/03/Uber-Logo-AH-new.jpg"
+        width: 1920
+        height: 1138
         isCached: true
   - title: "Self-driving industry takes to the highway after robotaxi failure"
     excerpt: "When Sebastian Thrun was starting Google’s self-driving car project in 2009, commercialising the technology was not on anyone’s mind. “We focused on the technology more than anything else, not the go-to-market plan,"

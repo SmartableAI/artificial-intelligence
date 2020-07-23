@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Global Natural Language Processing Market (2019 to 2024) - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com"
-excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. The technologies in natural ..."
-publishedDateTime: 2020-07-08T12:08:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/b16555512/global-natural-language-processing-market-2019-to-2024-technology-landscape-trends-and-opportuniti"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16555512"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16555512"
+excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2020-07-08T16:34:00Z
+webUrl: "https://www.businesswire.com/news/home/20200708005731/en/Global-Natural-Language-Processing-Market-2019-2024"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Rs7p4bh3VZO1ODX0/58udF97N5zuqt+eli5epihrwCK/LYL8xd5MXBiXL85Y/t5S6xyORPvn61WHtTnFhxGkpZ8XINiMAWvZ7Nur+r0ygtxTbtYY1SHCEj0NiVSo5fwDwTU+43BG80qA2T5aNS1xMAU81UpB38OxjdmR2H5AcKNUzluaGB3X/bmfVR3I4O8bvnmGqESr4fX1ROjJYrgPi3hlUS4XIEakKRsTcn34MnfqIwSHFg9PCy+P3RKccPpssX5ERfmxYor6Ovi8+yMJq9Fgqr1csSJD2le3NgE/j/eu1lSpXqRmhYuVdD2bjt6FWoH6pZOgjH2pG8jqQcdHhw==;tm7THCWGpmWChHx0K5hKMg=="
+images:
+  - url: "https://mms.businesswire.com/media/20200708005731/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "JRpKfmFEGMPqmLb75rID6f6Ji/S/bSSgwmUeduS5B4Nq7BYj/Ed6ztAaDRFO7Tttkbk9NfZitIfy6zGsMIYA0yhV2V8hpW1wrFnha6s+cmrswda/JasBOA5oyznEKQ5nRF22gz5Pz+AbpyDXKtG8yWd5/vdydFkGMN96n2scn0yoVv0O6rpzC5q+KFLaH1vFb+VQoKeTt5pCbuzWc09sz1B0xMgDozFTEYm/YCO8XTu9XxEJZn7k8g7Ffu18w9f9+RR6KNaqnY1ZPqKSYkkDqmd1WYClWEveTUi5UZ49/Jt0EJ4SygAaOTmkP2Pyk7DydE2H+7dMseN+I8K7YbK2oA==;kAWbrN5nWbZyGm82RrWkhA=="
 ---
 

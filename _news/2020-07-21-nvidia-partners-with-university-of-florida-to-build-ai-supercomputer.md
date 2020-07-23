@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24M2NX"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24M2NX"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia And University Of Florida Supercharge Education With AI Supercomputer"
+    excerpt: "Nvidia and The University of Florida (UF) are in engaging in a unique public-private partnership that should see the development of the largest university supercomputer in the United States, and perhaps the world."
+    publishedDateTime: 2020-07-21T19:27:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1675a2bcd8150007c3cce4%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "NVIDIA Partners UF to Build AI-Based Academic Supercomputer"
     excerpt: "NVIDIA Corp. NVDA is collaborating with the University of Florida (UF) to build a powerful artificial intelligence (AI)-based supercomputer for the academic world. Notably, NVIDIA co-founder, Chris Malachowsky,"
     publishedDateTime: 2020-07-22T14:36:00Z
