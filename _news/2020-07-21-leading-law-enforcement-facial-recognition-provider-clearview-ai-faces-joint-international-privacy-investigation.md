@@ -42,20 +42,6 @@ related:
         width: 1747
         height: 1311
         isCached: true
-  - title: "Counterpoint: The hidden threat of facial recognition technology"
-    excerpt: "Civil rights advocates have long warned that facial recognition technology was open to abuse by government efforts to identify and track protesters. Those"
-    publishedDateTime: 2020-07-22T11:23:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 39
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
-        isCached: true
 
 secured: "5jIFLig4vzVs3hZ2JdKJ5tY4JIVetIziJFHWygNCw7iDji3Y7r0ItQTSFB6ot2y/GfcPsOstA6+NKAuWM6peZLP3Nujoylip1xa/yptPSqugblmS1uat0/na4/FUDLTjWd5TLWO0knd3iTZhne+c8OLf0V8r2ZdgRN8QR5UXW1k1Ge5apuhI6ZkdBk9LYSZu4cIRj5jPkG03SWsK17Bh++IzjtQ2H4QPSDgNMlRVMmdYYVYrp2C1i2PvoxnwENMaLVEJ/lSVp1i+nv/C/D5D00vpGudG6a19p4hR/Y2aSwE65IcKtIrhqfKDOWL4mS99RUv3eiqTGUZhXLseyTuzfQ==;EeaxK2JDvxlPozZWx3OAaQ=="
 ---

@@ -3,13 +3,13 @@ category: news
 title: "Facebook is training an army of malicious bots to research anti-spam methods"
 excerpt: "In a new experiment, Facebook is training an army of automated bots to simulate bad behavior for testing and researching anti-spam methods."
 publishedDateTime: 2020-07-23T09:52:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?itm_source=2&itm_content=4x6&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp"
 type: article
-quality: 66
-heat: -1
-published: false
+quality: 86
+heat: 96
+published: true
 
 provider:
   name: Digital Trends
@@ -22,6 +22,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Facebook is creating a network filled with bad bots to help it understand real scammers"
@@ -41,6 +47,6 @@ related:
         height: 675
         isCached: true
 
-secured: "DYRLn2DlTVQDcoYAFZMJq6/sNkpaX4HxFHOE96qIpg/l7XIZkluTyfHgZ4wC1dFDALiDQ+u6BXLNunF7BZiAUXygvnYrFDBU4M+JzJ0PkZcEgN5AQLjnAravDmSpNl6Fb1YkKb3r3CwTsE6ePEqvb9RScf1FLn9Txsqqp8V15bXLU6M6gmJf1SkL7TQejciJhepBMtAsmp5agZsbUtltTM+6Gn8QYKytEXN5LQiQOGpz0Fw3XYuST8FtlGY1caAWhruBZ7CrFYfe2buykYZAMh0OstB4403631eruTCmGv7DdKe++T+i3dSIWASLWppVH+i+UgBO4gEYz9nMPfZlhg0jg5jG25benRC57kk1Ew5h+Ni+3fvqGCG4/IGrf8Lemc5aUZ7WLjPfwUTuhdpMJZv3P+tz4kTGqHgk3hidZMovPL+hk7d8eRi4H5w77OgO9z9S1xzPsUk/kFp1wIFZYr07NFhdMklFzjqwQwoM/x140xv3U8qXT91aPNb5dZgnPX2A+aT97dvQL3r36xMCog==;1sYSMZRLgjTZ/F83VnYojw=="
+secured: "K7A5EAeFbpgYhsh1LFWM31fmwEEEd4lZblVvCbnyWIXrsYOjBldtxc3h1xsriuzN87Cc+f9f2+7QpuO4nIROO/O30qNHOppdPajA14/bjDCkghY/fQCOBaOFE6S2rCKdmZtVNDtAE56h98IuXAD9i4/gY8PnUm088aZb/H5ghSsN1j+n7rp6GQ/4+eZmqLAwQBOPYjkApKZmSLF+0SwNxeIITg10GJ5KH2WzaPZK9P12HlrUUJIa6/giUyIIIJSONAZHyJ0bRSU9k70Exv+p4GvVCpEXPxwnFoRX205rodPUa3y/dA2h35AQyBflnRcc1aIUgSZdgnqXhfLCZuT9Hw==;jNS5KYcekztDGCazkNfldg=="
 ---
 

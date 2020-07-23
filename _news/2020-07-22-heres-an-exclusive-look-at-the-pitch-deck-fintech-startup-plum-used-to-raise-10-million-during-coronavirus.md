@@ -28,21 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Home insurance tech startup Hippo raises $150 million at $1.5 billion valuation"
-    excerpt: "Hippo, an insurtech startup focused on providing home insurance digitally, announced this morning a massive $150 million Series E round."
-    publishedDateTime: 2020-07-21T16:36:00Z
-    webUrl: "https://www.housingwire.com/articles/home-insurance-tech-startup-hippo-raises-150-million-at-1-5-billion-valuation/"
-    ampWebUrl: "https://www.housingwire.com/articles/home-insurance-tech-startup-hippo-raises-150-million-at-1-5-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://www-housingwire-com.cdn.ampproject.org/c/s/www.housingwire.com/articles/home-insurance-tech-startup-hippo-raises-150-million-at-1-5-billion-valuation/amp/"
+  - title: "Check out the pitch deck data intelligence startup Quantexa used to raise $65 million from the likes of Accenture and HSBC"
+    excerpt: "Founder and CEO Vishal Marria revealed he was \"nervous\" about fundraising during a global pandemic."
+    publishedDateTime: 2020-07-23T10:57:00Z
+    webUrl: "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7?amp"
     type: article
     provider:
-      name: HousingWire
-      domain: housingwire.com
-    quality: 53
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
     images:
-      - url: "https://www.housingwire.com/wp-content/uploads/2020/07/housing-bubble.jpeg?w=1024&resize=540,275"
-        width: 540
-        height: 275
+      - url: "https://i.insider.com/5f195eed5af6cc639d397045?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Read the 24-slide pitch deck that 'data janitor' startup Trifacta used to land $100 million from backers including Google and BMW"
+    excerpt: "For all the benefits AI-based techniques can offer users, most will fall short if the information used is inaccurate or unorganized. That's where Trifacta comes in. The startup, which originated out of work done researching data-centric systems at UC ..."
+    publishedDateTime: 2020-07-21T12:49:00Z
+    webUrl: "https://www.businessinsider.com/trifacta-pitch-deck-100-million-data-ai-bmw-google-accel-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
+    images:
+      - url: "https://i.insider.com/5f10f0b32618b91e234d8024?width=1200&format=jpeg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "uflxi5qR4QHlIF7RG/GtOpGi/IUSRnawYoXVGzwfgvjAjjBRyJmadpq7R5NYiApiv1h1Y17FjJMWCwyEaLarB4PZ3jAINaMeqPtOjcGpeJadfY3+/t+2e6S1xgRteijRahNHk3p9NK3Z08OjqtyvYdFG4ex9nTtf8vDKfzpKsnZKc/gvgpg1KD13VIhOiYvESuskQobgHVXB2duwPBWvSou5FbaCeV0duO2sW4YhkhnSzg4aovLKxFqYn7OBaZVsLIxlKCB4uXbmANuVfiBvH2iQVfSFw4jL/0KoigmZVvlfzVmsl2E++eDA35I75rEN1vI21KSGKsjcgcZFHNSLIti3YAsrfzVYrwgxdC+AGzQxN+BLUIIW2DcE1K6bFUEdie+DYJQJgC+D9kiFNyOp6Nmf24OBXO1tK0D9Mc9Ofep5K2NY6oSt9zHLdygoiPzffe95y4pbu4+0Tkdg5/OSxF56wvppQMhNjH5N7th5vTsIcz2qaGPx0Ifm0gv2QIfWYgjuEUVqEoXKnS/G0EQkvg==;geWzuFi2eh8pdo0rouvrFw=="

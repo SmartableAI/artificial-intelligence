@@ -33,6 +33,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Data analytics startup Quantexa has raised $65 million in a funding round backed by HSBC and Accenture"
+    excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Quantexa, a UK data analytics startup, has raised $65 million in a ... Quantexa uses the latest advancements in big data and AI, uncovering hidden risk and opportunities across financial crime ..."
+    publishedDateTime: 2020-07-23T10:07:00Z
+    webUrl: "https://www.businessinsider.com/hsbc-accenture-ai-data-firm-quantexa-funding-round-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f1831374dca6807c2402746?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "fH4Fy3fwW7/ZqU6fXvirpm2tdpkRg9jsVB/CwSt91wu8jALQuSpbFW663UWFgkUXxYZOSD9U+xpGQH6TsEpDaHMulZhR5YUImENeEH61cNVavt70mlymlQxCthoZ6N2q3kN9vWr5WXKQikDR6QGZITf6o1CLbmSNin5f3uXXqQl+douCEYX9RrlI7vo3hv+X0AwShOTumT5RI2hk6ZSFzf2qoQ2M+bKWYA/vC3iEqyzdpvEIQ5qbuIW036/9jHE1un0zzkcD27wpxy2qpyafwZvYZNl8LkcCNl2XZtlQUHQgouLeY3OU+uVdkdQ3uuwO3v8dP8xVEESeQ/qO6fmB8g==;UZF9Jg/0D9y/qQzVkLPQ+A=="
 ---

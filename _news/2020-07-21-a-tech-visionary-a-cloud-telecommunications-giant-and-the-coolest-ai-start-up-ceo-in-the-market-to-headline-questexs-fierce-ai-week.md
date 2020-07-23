@@ -27,7 +27,7 @@ related:
     provider:
       name: TSNN
       domain: tsnn.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://www.tsnn.com/sites/default/files/artificial-intelligence-ai.jpg"
         width: 1920

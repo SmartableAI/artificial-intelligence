@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
+    excerpt: "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci"
+    publishedDateTime: 2020-07-23T11:26:00Z
+    webUrl: "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Why facial recognition algorithms can’t be perfectly fair"
     excerpt: "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ..."
     publishedDateTime: 2020-07-20T16:40:00Z
@@ -40,36 +56,17 @@ related:
         width: 320
         height: 205
         isCached: true
-  - title: "Exams that use facial recognition may be 'fair' – but they're also intrusive"
-    excerpt: "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias"
-    publishedDateTime: 2020-07-22T06:00:00Z
-    webUrl: "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
+  - title: "Moscow subway to deploy facial recognition surveillance system"
+    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
+    publishedDateTime: 2020-07-21T14:31:00Z
+    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
-    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
-    publishedDateTime: 2020-07-20T09:26:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 50
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
-        width: 770
-        height: 500
-        isCached: true
+      name: Meduza
+      domain: meduza.io
+    quality: 39
 
 secured: "VqarH8DaYxXR4acf3qQY7DK1ot48Uni8sFCtEIRyUnFAhxs9Wq5ZZNcNmlzWbMKcNNTPGP+q+VYJ77zIFWrdTMo5DoeQu1PXUrjJvZrDpbQelWiNpDq9t7E3d8Zi7zKxerBpGsFCKCuxgpJVMjitl4L1u1Vlzy45diUIoiNxBggP+nCNlmq+2jHwqNqF93r6htpgK1d5Mj8IMm+zQOcE4voppi/lIdR2KeM6xkQbFCDodovdFviFh4jvKd60YO8B+mrbc5toQ3Or2Qv+3soXj7aIpGgraIJ8PWAVpwqfUPYMywpRrgowOEOU7H93n9zzR/dNnVC7wBnNI/Oft4L0NBlUtrikkFK/fpyLdD2OfkJkpsIzjNYSDK/Lu1y4qDIRHt9vIrBaLC25X2iDbS0vXXQS+IlwZjagfX7ivXCky7GEgJv0aELlsbvaGJIiWNhDiftbCd2Ryg6EW68KtdjtimuWlftIpBe2VtX1zDio4QxOlDM++qtxsSipJvFtoibUYrCtQwE5DSMWrzNi6KIWUQ==;FoqAiNefRWu0BqRobLuJKA=="
 ---

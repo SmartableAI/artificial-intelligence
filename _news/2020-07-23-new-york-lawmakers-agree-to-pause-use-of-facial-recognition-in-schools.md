@@ -202,20 +202,6 @@ related:
         width: 1470
         height: 827
         isCached: true
-  - title: "New biometrics solutions and facial recognition updates for pandemic recovery trend this week"
-    excerpt: "New solutions and deployments of biometrics for helping society recover from the COVID-19 pandemic feature prominently among the top stories on Biometric Update this week. New technologies for"
-    publishedDateTime: 2020-07-18T18:09:00Z
-    webUrl: "https://www.biometricupdate.com/202007/new-biometrics-solutions-and-facial-recognition-updates-for-pandemic-recovery-trend-this-week"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "HAMe19Ysn4Wwe7Vb2z0IaPlSVsFakrjeFVKoxM5AqE5MI922EZBhoXny1ruv9cO1aK5oMqXJbhdokpPQnkexQN3iE7UATN2u+vrTVB0efdIncyBJ8TQGDftjVnPOG5Ft2eifEhMCf1Lj6pdQXhgh8aeSa9nOVjXuRvQAut6TjUFMfgpdQ2q2TOpqGfjFHXvC9TZp1OC47SyAC04Qj+URi8K1jig409bJ0F1JOvR+gZYalluFDveOK3TbpRA8VA36xCT/2tBHmLa9pV7TZvGW1lWPvWdanHULOUDYFI5hdT+H0tdMK71fzRWpTgGsSYMooZ9ZkZiNN3GA9PB3aJ1rBEuLOefwZ5PtC3TLm4TSl6rK17OSds+tB02PFDFCQ33ywkoawM4Sw1QuuJliHWVaUIqMwKEfrpCU3krSWH/CUDNhrUFMJuWx96CGrNMhebaoFjE0Yy6KF3uGTtDeocirYW6HgUYKsTcMNg9KIKcCP9k6VHKP1oRI35V3rw+VOoQNXJB2JPU5HwOD9no6Vm40lw==;bluMVqsLWvgpOxnW8hQ2CA=="
 ---

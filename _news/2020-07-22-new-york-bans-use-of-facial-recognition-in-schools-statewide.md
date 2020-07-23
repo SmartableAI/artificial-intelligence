@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recog
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -201,20 +201,6 @@ related:
       - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg"
         width: 1470
         height: 827
-        isCached: true
-  - title: "New biometrics solutions and facial recognition updates for pandemic recovery trend this week"
-    excerpt: "New solutions and deployments of biometrics for helping society recover from the COVID-19 pandemic feature prominently among the top stories on Biometric Update this week. New technologies for"
-    publishedDateTime: 2020-07-18T18:09:00Z
-    webUrl: "https://www.biometricupdate.com/202007/new-biometrics-solutions-and-facial-recognition-updates-for-pandemic-recovery-trend-this-week"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/02/11145627/sensetime-facial-biometrics-for-masked-faces.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "m6HrZjIEDx1PQNNXuHs72n30Ue9L47ztoemkuSVfK9DiyV4azVmFoUWLq1k3OK6gARZqWQFaRxfSx2Dm0J+FeKbRKrDPOBtEpCcFDcC6XiKyovul6Iaf+s+arcK/tt4RyzB7WwTUoewdUoPbEpxWAoEJL57g3lOxYT5up7LQ8V0m4dK0oevRPQ0S08igenWyPOvJX3EoFV62DRrnnLMzeTbdmQkYi9RzPehtITpyyCOxvTx444ufHhdBAMvlZ0G6gMTI2JKFYMs4YFnTAp0NkL4IsW5SvNFvnAmrRakdYA/lm2Bmr5bjG++CZs6R4yUC0xjBh/W/5MLNoSVnUbzGxcet+dHiE+E9D4ShKOmLxBmKuNfQ9tg0JnUUL2RsGW6fqF8XZZtKUCGcXopHwX6tNnZk2iwFM9DfmcwPxn5FWUBxY3BETAEWK14+oCcV4TTrsiY187IjXKhmOs64/kH6QuIa6eiAkO6rMfHF8HBe4Z5/fclQFVvnDVJFxTD47yza;CQUqSclvo9q2M3bHI+OYDg=="

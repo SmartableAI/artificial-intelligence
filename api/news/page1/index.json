@@ -2,29 +2,29 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-23-facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers.md",
-      "title": "Facebook is creating a network filled with bad bots to help it understand real scammers",
-      "excerpt": "Facebook's engineers are tired of always running after scammers. So they are re-creating bad behavior to try and anticipate it.",
+      "path": "_news/2020-07-23-fawkes-protects-your-identity-from-facial-recognition-systems-pixel-by-pixel.md",
+      "title": "Fawkes protects your identity from facial recognition systems, pixel by pixel",
+      "excerpt": "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers/",
+      "webUrl": "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/22/ea24631b-6860-4be2-8119-6531f58dc109/ww-simulator.jpg",
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers/",
-      "publishedDateTime": "2020-07-23T02:28:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/",
+      "publishedDateTime": "2020-07-23T04:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -47,6 +47,204 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-check-out-the-pitch-deck-data-intelligence-startup-quantexa-used-to-raise-65-million-from-the-likes-of-accenture-and-hsbc.md",
+      "title": "Check out the pitch deck data intelligence startup Quantexa used to raise $65 million from the likes of Accenture and HSBC",
+      "excerpt": "Founder and CEO Vishal Marria revealed he was \"nervous\" about fundraising during a global pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f195eed5af6cc639d397045?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7?amp",
+      "publishedDateTime": "2020-07-23T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-developers-should-consider-using-graph-databases.md",
+      "title": "Developers should consider using graph databases",
+      "excerpt": "Twenty years ago, my development team built a natural language processing engine that scanned employment, auto, and real estate advertisements for searchable categories. I knew that we had a difficult data management challenge. The data in some ad types ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3567771/developers-should-consider-using-graph-databases.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/08/thinkstockphotos-509731276-100677664-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3567771/developers-should-consider-using-graph-databases.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567771/developers-should-consider-using-graph-databases.amp.html",
+      "publishedDateTime": "2020-07-23T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-quantexa-raises-647-million-for-ai-platform-that-extracts-insights-from-big-data.md",
+      "title": "Quantexa raises $64.7 million for AI platform that extracts insights from big data",
+      "excerpt": "Quantexa uses AI tools to uncover risk and opportunities ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/95cc9fbd-7a4c-473e-9616-83dc4e071dd2-e1595264197627.png?w=1200&#038;strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/amp/",
+      "publishedDateTime": "2020-07-23T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-facebook-is-training-an-army-of-malicious-bots-to-research-anti-spam-methods.md",
+      "title": "Facebook is training an army of malicious bots to research anti-spam methods",
+      "excerpt": "In a new experiment, Facebook is training an army of automated bots to simulate bad behavior for testing and researching anti-spam methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
+      "publishedDateTime": "2020-07-23T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Facebook AI",
         "AI"
       ]
@@ -54,9 +252,9 @@
     {
       "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
       "title": "Tech Startup Funding Declines as Pandemic Drags On",
-      "excerpt": "Apart from being a key source of emerging information technology for large companies, tech startups also nurture sought-after workers in areas such as data analytics, artificial intelligence ... Among the largest, Waymo LLC, the driverless-car unit of ...",
+      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800?mod=lead_feature_below_a_pos1",
+      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 84,
@@ -74,7 +272,7 @@
       "type": "article",
       "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "publishedDateTime": "2020-07-23T02:16:00-07:00",
+      "publishedDateTime": "2020-07-23T02:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -98,6 +296,56 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-deep-learning-market-global-outlook-2020-2026-qualcomm-technologies-inc-baidu-inc-hewlett-packard-enterprise.md",
+      "title": "Deep Learning Market Global Outlook 2020-2026: Qualcomm Technologies, Inc, Baidu Inc., Hewlett Packard Enterprise",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 23, 2020 (Market Insight Reports) -- The Global Deep Learning Market Research Report Forecast 2020 – 2026 is a valuable source of insightful data for business strategists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-global-outlook-2020-2026-qualcomm-technologies-inc-baidu-inc-hewlett-packard-enterprise-2020-07-23",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-23T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -606,7 +854,7 @@
       "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 209,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -996,257 +1244,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
-      "title": "Google launches Recommendations AI ecommerce tool in public beta",
-      "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/new-model-1_2-Converted.gif?w=1200&#038;strip=all",
-          "width": 960,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/google-launches-recommendations-ai-in-public-beta/amp/",
-      "publishedDateTime": "2020-07-22T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-waymo-and-fiat-chrysler-agree-to-build-self-driving-delivery-vans.md",
-      "title": "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans",
-      "excerpt": "Fiat Chrysler Automobiles and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583253%2Fram-promaster-2018-orange.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
-      "publishedDateTime": "2020-07-22T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic.md",
-      "title": "Opportunities in Artificial Intelligence Market Amidst COVID-19 Pandemic",
-      "excerpt": "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic-2020-07-22",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities.md",
-      "title": "Adopting AI: NVIDIA talks about the \"low hanging fruit\" opportunities",
-      "excerpt": "Why would a graphics company care about artificial intelligence? Here's why, and how you can most easily implement AI in your organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/22/b349b6ef-e46c-419e-9885-53385ed11e1e/resize/1200x/968d28be639d8e31a59e2504248272bc/istock-1253237278.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/adopting-ai-nvidia-talks-about-the-low-hanging-fruit-opportunities/",
-      "publishedDateTime": "2020-07-22T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs.md",
-      "title": "IBM Cloud For Financial Services Momentum Builds With BNP Paribas And 30 ISVs",
-      "excerpt": "Nearly all of the financial services firms have tasted the benefits ... such as AI-enabled cognitive services, ease of machine learning capability development, managed databases and more. Their only question is how and when they will find vendors offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1847bfa0b5e800071f18da%2F0x0.jpg",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/amp/",
-      "publishedDateTime": "2020-07-22T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

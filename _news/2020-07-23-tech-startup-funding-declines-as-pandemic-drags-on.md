@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Tech Startup Funding Declines as Pandemic Drags On"
-excerpt: "Apart from being a key source of emerging information technology for large companies, tech startups also nurture sought-after workers in areas such as data analytics, artificial intelligence ... Among the largest, Waymo LLC, the driverless-car unit of ..."
-publishedDateTime: 2020-07-23T09:16:00Z
-webUrl: "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800?mod=lead_feature_below_a_pos1"
+excerpt: "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies."
+publishedDateTime: 2020-07-23T09:14:00Z
+webUrl: "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
 ampWebUrl: "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 315
         isCached: true
 
-secured: "qvB8ryd3A/mlsDS8oo04IOGrOoSIs01v4aZf2Ml4VOcuLVUTFDlw7dxJ2bF/ryghqizJzt+vlfznyjPf/+gXznBRRo6Idyfjy7cLM2Qslb3V1n/7Gc/Ov6XgFMoTI9IiUwWUlurXRExVuJScgCr5F3u20FjAoocVjHxSBfDqQHG3bVd4Scf39lPk4Xj5h4yKTV04iSvD8LI+mQgmF1xFVcDxbS6naF0xk7S5ySQ1dNnYBeX8b3ECH+2vLLy/tW6rnXI9hmzjy1R7DpmTjUJeHNbe+eKJ4WoaHLtSfo+8x2R4D8ZN/oL1uSFguY5YTGjtfcrfTzp7o4NebLmIbSG3eQ==;mrV34eUMnw7MQ9m3mIPeHg=="
+secured: "Gzy/pAvYcdjafxLaP1TlIK66Dunl+fyLonQnHbZOKjOqqBTZKdTIzfBBVijbB8qVrz44JxcJhHOezrVYw8qOB5XTFyVfKmLRgJckOeBgPYBS0webkRlk6UEq1biV0sT0islbTPWaAP/TSk8Rud8j9CvzVyDmoqQbLkV47Mr+3hPPuVKdKIW+6pFLKgXW7wCNErpUSRt48Ge8l7CszcZDWAFkx4ahceo2nqTfu16uqVBx3cNkc6mbNEYmOZtU+uvwQZcv2FdBA6jXo5h54z0sgLDu6iyWh0kuLUf+6JEwQvJ1NZMuJqt79VKr7stQlPnIgKL6vbrP3ILQkmIGh4gq3g==;hLlgKeN05mCqv9Hal+jKww=="
 ---
 

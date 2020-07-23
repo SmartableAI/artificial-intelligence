@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-23-facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers.md",
-      "title": "Facebook is creating a network filled with bad bots to help it understand real scammers",
-      "excerpt": "Facebook's engineers are tired of always running after scammers. So they are re-creating bad behavior to try and anticipate it.",
+      "path": "_news/2020-07-23-facebook-is-training-an-army-of-malicious-bots-to-research-anti-spam-methods.md",
+      "title": "Facebook is training an army of malicious bots to research anti-spam methods",
+      "excerpt": "In a new experiment, Facebook is training an army of automated bots to simulate bad behavior for testing and researching anti-spam methods.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers/",
+      "webUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 76,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/22/ea24631b-6860-4be2-8119-6531f58dc109/ww-simulator.jpg",
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-1200x630-c-ar1.91.jpg",
           "width": 1200,
-          "height": 675,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-is-creating-a-network-filled-with-bad-bots-to-help-it-understand-real-scammers/",
-      "publishedDateTime": "2020-07-23T02:28:00-07:00",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
+      "publishedDateTime": "2020-07-23T02:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -360,7 +360,7 @@
       "webUrl": "https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {

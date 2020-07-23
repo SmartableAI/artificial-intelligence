@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI, the facial recognition company that scraped billions of faces off the internet, was just hit with a data privacy complaint in Europe"
-    excerpt: "Controversial facial recognition firm Clearview AI was hit with a data privacy complained filed to France's privacy regulator on Wednesday."
-    publishedDateTime: 2020-07-18T23:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/clearview-ai-gdpr-complaint-jumbo-privacy-2020-7-1029396493"
+  - title: "Exams that use facial recognition may be 'fair' – but they're also intrusive"
+    excerpt: "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias"
+    publishedDateTime: 2020-07-22T06:00:00Z
+    webUrl: "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
+    ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 66
+      name: The Guardian
+      domain: theguardian.com
+    quality: 71
     images:
-      - url: "https://images.markets.businessinsider.com/image/5e8dc3f5d5873a252d6b2153"
-        width: 1747
-        height: 1311
-        isCached: true
-  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
-    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
-    publishedDateTime: 2020-07-21T16:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 53
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
-        width: 1500
-        height: 860
+      - url: "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "UtbmvCRycIfxM0pEUZUxJD2BVz5zVd2vMk8eZVWIZSfQj5CGY2tV4SKlctLE9ZaAXcQbPzzUL9ulRM1uQ1GCuCTNSNiTiCu7GWykpLWiBcDrd6gt7URwuSIaz+kYIdy/PcRcIJDDJPbb2GQy7dH+YHpUw4YCXLhxJEEqGzMU3SuzRuHHYCFXDaqrKaxpzu7P8BpggwEhPr1zOS8hhPnjngLMiRtabCzUcqLPYZFvp+s9WAo9BoHhx8WoCPDy/Dx+8nfU0dah/F/SQLwz7BXcefFlgWjKVOWH16C1paWwc2u5P7RdT7My4GgQYx6PVvb9HTqete3jgKwv+e2uk06otmQJSGuUZD44H4ugFCQQbYrIzBEQuOHLXDwHK6nK59FqRZiBA/W7ac7Qwvn8bOJIr5uAz3wyDwP2kYWYrTUu2a8MBcsIxcX682j8VdCjkiabAQFzweDJWnM81r1U6lB8RMKqBisDviIIuPrfLsQS7HcrQ7w9xgvvUASXIC8NlMNnBNdL4jSbs/bUTauHUfTjQQ==;i11Plp/PrbuTBcacR3NXwQ=="

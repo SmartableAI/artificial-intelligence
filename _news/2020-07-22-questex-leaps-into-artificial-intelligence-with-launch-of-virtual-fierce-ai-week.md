@@ -5,8 +5,8 @@ excerpt: "Information and events company Questex is entering the artificial inte
 publishedDateTime: 2020-07-22T16:28:00Z
 webUrl: "https://www.tsnn.com/news/questex-leaps-artificial-intelligence-launch-virtual-fierce-ai-week"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.tsnn.com/sites/default/files/artificial-intelligence-ai.jpg"
