@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recog
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg"
         width: 756
         height: 567
-        isCached: true
-  - title: "Facial recognition is tech so special it should be banned"
-    excerpt: "It’s a question that has been on my mind since facial-recognition technology shifted from concept to reality. It can be used to, say, unlock your phone, but extends to systems of cameras and artificial intelligence to detect and identify people from afar."
-    publishedDateTime: 2020-07-18T10:32:00Z
-    webUrl: "https://www.thestar.com/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned.html"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com
-    quality: 59
-    images:
-      - url: "https://images.thestar.com/SNvkIuVfk53rgxKcN2NDTSiF3Tg=/1200x800/smart/filters:cb(1595006600990)/https://www.thestar.com/content/dam/thestar/business/technology/opinion/2020/07/18/facial-recognition-is-tech-so-special-it-should-be-banned/recognition.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Estonia to use face recognition in border control"
     excerpt: "Estonia is about to buy about one hundred pieces of facial recognition equipment for its border crossing points as part of upgrades to be introduced as Europe is switching to a new border control central system,"
