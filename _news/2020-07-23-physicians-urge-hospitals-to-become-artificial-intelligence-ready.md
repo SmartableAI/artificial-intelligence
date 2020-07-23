@@ -5,8 +5,8 @@ excerpt: "Disorganized efforts to implement artificial intelligence in hospitals
 publishedDateTime: 2020-07-23T16:51:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-07/uovh-puh072320.php"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
@@ -22,6 +23,6 @@ images:
     height: 675
     isCached: true
 
-secured: "FefPdlwe9P8Bgb8fEFTJtgnjAMZwkWp7T0pRIIOBxtXH+R+KIr0AvPsf2+1wifKNdwnckCoSEaJqK4+4CqIx00HoNVF2TjLG/iGhETAPVqZ9NzTOSsmy2S4suN/pBUUYCsFayUFGl19QNxcSiBGoZ3zFiNmhsF9IiMLS11HQbvzpo4YmbYWbu47KjyuwRM9AE3d6yoaXLT/MrwdZr3J77tq8UDa3vKbQl0UNzziP8+2svTLEjwLThpfRoLDPx057SP4vo6vgYBadle3cCAEErphZ97tu8XankX2tIHK2T5ualgevhCPdlOk3y9eHXnJPqN35D/Opz0y30RXMiTqTgw==;/0grNOCQ0OouYDJTO75KEw=="
+secured: "6rTon+lceyZls4asQJoDlyPqlIorCLjBMSP09AiRztACJOBbwb8GxiMmEbyzfODmVisXLpEHEY3es0FYQPZn1YG2zpL3LmQFCmc4uPjvP1pLE251D8RWOP4+uwuwx3zPRjuK6mdzpEYPnwbhPu7mli4wMVBSbzcpsia9hMFuae5iH3aUtqOCn2wFu8ozw0u+hIPmjstK58lthlP6KjUUSXCv6WD93ISDfx9T2G5Wd19gkyoaHsB3J3eY7C+O3wLIvGoIhBA0aHywVMEhkRHMgXknaMzsl6txayW2yflOmQ7xWNChxImTWq6l6Dvn5vvif1ysQRXMLQuP8DQS8SonKHHZu4gK1XC8TSgsa7QKq8tYEzHKhPXIvEVs2XfJtsp9vuJ1C7PxSDVAZfWvF0M3wQtTFkz3EOBbkl2/BEWe1ESC0y0hSiNCK0/JnZAt4dKFyU8KquDK5a2RU+MKglNmg6a2Olp0ZCw/dfyc9SV/cY2jTKr4JG7VRPAJYbKLkWFzOb/xab/YSIjivFmz21s6Pg==;STimBTVgP+kfAjkLuQtIFw=="
 ---
 

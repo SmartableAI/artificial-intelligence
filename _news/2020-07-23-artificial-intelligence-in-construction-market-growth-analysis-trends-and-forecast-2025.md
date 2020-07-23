@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size Historical Growth, Analysis, Opportunities and Forecast To 2025"
+    excerpt: "Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020a??, the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25. Machine learning algorithms are used in healthcare institutions to ..."
+    publishedDateTime: 2020-07-23T19:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 20, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global Artificial Intelligence in ..."
     publishedDateTime: 2020-07-20T14:50:00Z
@@ -142,6 +156,6 @@ related:
         height: 350
         isCached: true
 
-secured: "k60w+bvW6qkSO4Q+MqCgR+TTT6HNAApgeYE+T1voOX4hYrgSzL9Q1LJ7Pnr7s3vHQob1RfSPvf0Q3F9niVhaG6XxXjuldUN3Lvlog+vYalWQKor38Sk0jjFM/45YotvyGqGrqGrwjgjXTDbMsHsxsvnu4+xFKYIe8xt6mu3XRkO0kGfeHj3aLICEhiBrRGsVNF5OqpBNFFqYf7I+w1PMHbStpBFuAmEvxlpEgPI1pO8B89GodDsux7NiJm+CiMll+ZMefIRy6tXFeJGVZUK7c7lT0UGjKBmvjg2+Kl39q1WEOebCyzhNAb5UVQMYa78WyjKf27aMgJssTBSi6IpQAQ==;ZEMSCxGIwYWLgo63TkWixw=="
+secured: "bFgrEJwC+Ggb/V7lXsigeQhEHGRjkXK8KMTXsKT0iXQHY46SuJFzWj1gVe9hxz26G0QmEdZaAsY8JNE3KX7mzEUYIV+OnN+a/X5+r0nI+ZvW/ia92qf4J/uygWdiV7NGklX/h7AM/hcjsuqxsZYOrZyndye/Tla2/+Sr601cAEwU9WagXSJC8XjiW2oJEoxQHLsr7XzZBSDMeQURPvsfok4gvHccoOZ0KKe/U0LqIwTmahnnsSqvp/P3U2T+3KvBjNwU4ye3+cO5Cu09aifqBDnqqymVcGMWQrFqv6c9dpFeKMwdRzXkcUYz4k/BhqxAmYVSWS7mIiMbrlu9wwGY6NOkIoWMo0YDR+5IqIjL8VKTJf1oDYLNMCODXKMWUEUa9IQVVrW3PSjaX29rbwYuP8kgSN5opde+Xr5SdcPfsrR/9OXQSp4h3mpYiqYV8uzAplfurpkisKhQwv7vDj4+kAAZlt2Ai6frcoZs77K6zzsQHrP5KJKg/5EfPA0YQJCccdXKYvi7GO1omLJ0Vu/fAw==;MkohzV57hoZTrJpMwv8IgQ=="
 ---
 

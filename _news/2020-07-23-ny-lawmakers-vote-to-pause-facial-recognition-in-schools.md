@@ -1,29 +1,27 @@
 ---
 category: news
 title: "NY lawmakers vote to pause facial recognition in schools"
-excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a ..."
-publishedDateTime: 2020-07-23T17:57:00Z
-webUrl: "https://www.thetelegraph.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-ampWebUrl: "https://www.thetelegraph.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
+publishedDateTime: 2020-07-23T17:53:00Z
+webUrl: "https://www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7"
+ampWebUrl: "https://www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7?amp"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Telegraph
-  domain: thetelegraph.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/3/375x250.jpg"
-    width: 344
-    height: 250
-    isCached: true
 
 related:
   - title: "New York bans use of facial recognition in schools statewide"
@@ -45,7 +43,7 @@ related:
   - title: "New York lawmakers agree to pause use of facial recognition in schools"
     excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
     publishedDateTime: 2020-07-23T05:32:00Z
-    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
+    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html?ref=hvper.com"
     ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
     cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
     type: article
@@ -213,6 +211,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New York lawmakers vote to pause facial recognition in schools"
+    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
+    publishedDateTime: 2020-07-23T18:00:00Z
+    webUrl: "https://www.pbs.org/newshour/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 59
+    images:
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/backtoschool2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "New York Senate Passes Facial Recognition Moratorium"
+    excerpt: "The legislation temporarily bans facial recognition in state schools and requires the state Education Department to study the issue and craft regulations. Opponents of the technology have criticized its use in schools."
+    publishedDateTime: 2020-07-23T19:19:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
+        isCached: true
   - title: "New York takes major step to keep facial recognition from being used on children"
     excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
     publishedDateTime: 2020-07-23T13:39:00Z
@@ -243,21 +273,7 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Judge: Facebook’s $550 Million Settlement In Facial Recognition Case Is Not Enough"
-    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
-    publishedDateTime: 2020-07-19T02:00:00Z
-    webUrl: "https://www.kpbs.org/news/2020/jul/17/judge-facebooks-550-million-settlement-in-facial/"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 33
-    images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg"
-        width: 1470
-        height: 827
-        isCached: true
 
-secured: "yLgZpmnBNCjlEHKsgVIU3UFdMYRu16GUuxPqacQ7htvv/8Yy7MgdFR4HcT2ATgd2HDeEJNNLpjZPA6QMu/xzWFJCsEO3s4WCBLnry9ncaVO85GQ1r/ZJnEyIvGrvcZsqCSQbANxVogP9/zrb+IaR9ZTzUg7WUQdWVU2ID8nssQvJPlDF5z2wMvrdlDFAVVha3r18b2eahbOinEDz3Z0livzZ0s0ZoqvCbatk1o1zkvzMDy7Vmxj53lFAPRRNYTa5kF2QKlN9W5cyq+H7RAkE6oeslq1FjxVqBhDBumg3AzIXtgZlip8BKgCp40hxozr3uGL6zmIbNf0f6gaR7WYrFA==;IxjQvwWFVv1u7vqlZnjsTw=="
+secured: "QmdN1fRw7AOIzrpl1UW0gK3WXVQSLDWa19adxh8MPVaf7i5dGt3s3vr4/O1ZDC0zmM2XpuSFaUNeQuYLe/bHbsWT6OOGu/MDKgzUQl29ZxGIFpcVlhzgLEkGuTLtGSeRydccQIV5347oTE1QvJ1sy9Y8LzWCWKDXh0Cmj7lKk1UOEP628x+fQav9k+LxGqlS/0NOn1cofhG+24KC/E5eh/ObQeB+9L2Uz/guXu5kIhdHhJA2hGbdOvuKm90aliMvGm9oILHuFsujDAX90vWGR2KZ60Rv7eUMwcDA5hC4qvPw1oHfs2QsIpOzUh+FChNoN6t9U2osHHuF5yXyk/mGfQ==;rutxZHMMvCEYosQf29PnMw=="
 ---
 

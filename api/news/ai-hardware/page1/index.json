@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-23-nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry.md",
+      "title": "NVIDIA Considers Arm Acquisition In A Deal That Could Upend The Chip Industry",
+      "excerpt": "Arm deal could send shockwaves far and wide in the chip industry, giving its rivals numerous new reasons to lose sleep",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19d9384414eeb1acf187dd%2F0x0.jpg",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
+      "publishedDateTime": "2020-07-23T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-elon-musk-claims-his-brain-chip-can-stimulate-your-pleasure-center.md",
       "title": "Elon Musk claims his brain chip can stimulate your pleasure center",
       "excerpt": "Neuralink‘s mission has never quite been clear. We know it’s working on a chip designed to be surgically inserted into the human skull called a brain-computer interface (BCI), but exactly what and who it’s for remains a bit of a mystery.",
@@ -582,6 +632,48 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
+      "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
+      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-17T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1345,97 +1437,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
-      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
-      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "publishedDateTime": "2020-07-09T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025.md",
-      "title": "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T11:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

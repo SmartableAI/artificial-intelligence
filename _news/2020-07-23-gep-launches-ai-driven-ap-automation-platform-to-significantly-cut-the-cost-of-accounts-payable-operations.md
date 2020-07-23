@@ -1,26 +1,26 @@
 ---
 category: news
 title: "GEP Launches AI-driven AP Automation Platform To Significantly Cut The Cost Of Accounts Payable Operations"
-excerpt: "It is a fresh approach that leverages the power of huge advances in process-enabling technologies — it is AI-native and built from the ground ... GEP's stand-alone AP Automation solution, built in the Microsoft Azure cloud, enables multinationals ..."
-publishedDateTime: 2020-07-23T14:11:00Z
-webUrl: "https://www.prnewswire.com/news-releases/gep-launches-ai-driven-ap-automation-platform-to-significantly-cut-the-cost-of-accounts-payable-operations-301098777.html"
+excerpt: "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced the launch of its next-gen accounts payable (AP) automation platform to address the market’s need for a cloud-native solution that leverages artificial intelligence and machine learning to improve and speed up AP operations."
+publishedDateTime: 2020-07-23T14:00:00Z
+webUrl: "https://apnews.com/PR Newswire/bd823942c86dc2d4fc46067b853860f2"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/518346/GEP_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 498
         isCached: true
 
-secured: "jQ4ar4dGZxjovnMt5U+AvMUNQOXGPaU5DaWQXEX0hF9EptNq0oKhBFSJqbX8AZR2m43u2Dtc7WVmFxynqBDmQu6b79E4IB6dr4aJ6uW4ZLNVxtn/7OaV/qYr0xBIgh+GzN+j9Xn1O3EU9SbkvzWfzOKvVEvEXQwmMmMordJjPmc/P2efdI+WDJHyBIAXAbvpUGjNDnQRmk0EhIBfy9OQcaIjIcr+YQyehP4zr3vmul4cJou7Xi+DxWiSUaQTqQtz2Aj7Wiwflr27tu5gh9C0rwcwWzJmLCJr4e8quzrgE5zErjZYp7B8JaqA8VnpS6tmuShsRJZ6VmVylJYqU2Q4Qg==;ckoX031uUUwKtXMvE55MKw=="
+secured: "08exiY3+D0Oe9Y6y1o/ViE+4biMHQz8xFOiHwsaJAxNdQ9liduLhOj2vUwrIHcBvyQ/O193Ovk9vZlnJvTK/aYxGpnvn4Y4Xw4aR8iAXCGsao4el69IPnazDwksidIdtxTg073LsYmnODJBt4sDSfFeLHlri84QO849RvkWP9L3aDTe6tdlolJMzi1bdvFTcLalDJBeL5uP0aqpx+/2d9lg2K5cSGaxaENW+6YYHyVMO+/tFWMMZfWR6QSeagz0YfblNPreOPuKj8Ko0IdkB3B0ZGFrbT4yH4wnl5/zmskiqu2JnB4Q/XHVykpQ8BfgCIE3FEYhAheUxqszClg+o2w==;2La9chlfbbRJcsnEM6F8Mg=="
 ---
 

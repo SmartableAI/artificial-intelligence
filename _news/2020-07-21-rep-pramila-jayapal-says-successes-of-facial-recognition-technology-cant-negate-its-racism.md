@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T17:36:00Z
 webUrl: "https://www.washingtonpost.com/video/washington-post-live/wplive/rep-pramila-jayapal-says-successes-of-facial-recognition-technology-cant-negate-its-racism/2020/07/14/547bf9b1-51c3-4a5b-9b22-e82342479b0d_video.html"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 834
     isCached: true
 
-secured: "bmFdjlL1aQCZyT5rLjiiDLBUAzdKtdrxNe+9PNbKs9aB3BAAtqDtRIJUNALxxY0UpYDU39NfcNxXOcR1knukAxJAa7Hx5EbeFBHJcwYFWRpp9LtdCSKfzNI5JfTlHVSuxlRfhhgLX1sKKCfYEUoMtpAOquUXHvD5OjbeFoLl/MldeUl5Dt8XSQBIVood79f4V3HszXpE41EZzI4FysgKSrZfalcWnLqp1Z0Tf6GHBJcCL9dj+F2GedVhJ/TsU4BcMk7+BmGw+feAmfu/F2WIG/g7R/bB0ioeyA9+xOOhYo7U6DcVVknJr5qsxNDJyFiG01HmO8x3ji2jZAEQynI6eQ==;ReLMDEf6UJOXDlx2lXfo4g=="
+related:
+  - title: "Facial recognition technology: In our rush to deploy it, are we ignoring the risks?"
+    excerpt: "Taylor Swift uses it to identify stalkers. Retail stores are using it to provide a no-checkout, cashierless experience. Even churches are getting in on it to keep track of their congregants. Increasingly,"
+    publishedDateTime: 2020-07-23T19:41:00Z
+    webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 33
+    images:
+      - url: "https://cssh.northeastern.edu/informationethics/wp-content/uploads/sites/44/2020/07/Screen-Shot-2020-07-17-at-2.13.52-PM.png"
+        width: 1488
+        height: 962
+        isCached: true
+
+secured: "sPcra+OSnEZEskL2oqFBAPFeP9iR3LKZoX0UXJlYvM7sqK6HOGCZx4xrhuoFLjTT+4KCQpizWwl85MytlBCJZfFZL+y25c3EC0qVo83VYk09PzK6HmbCSLba33LkeF51AjqEZyOL+6uuN3z9T+evhnTOhWQGX8TkpW+6WgFJaZfQW09Z/Mb/DBEE60ROzfoFO574j9cyNKVRL53Mg9EV1izsKqOK3lmtV9G8DmA1k1bzmomZCH+5A04n8OctT1vW7gMqlcKUS50MrZUY87R3hT3h6Oqchk4+OuZEsazheISRTrSMMmYWFmcVjn4w9pH7YNL6/wVTQ263Bkt1Jdi3SGI6PDLYxCHpqNc6EmUGx+letXs7uiT+qU1fLgp6uTsNQ4AdlcWLpkL0XVUToBNQ33z5gjzuaQL3lmuEY7O+NXfQVk5QadjlqJfG2WB460pPYWHIMb2BDyfDPYdJ8eCUK2Hg3ZCvHX3OvYjB0aXgrU5/IPNrhZJYL7hd0iPR+ybC;MZzOfcsteg4Gd6xNJMnG5A=="
 ---
 

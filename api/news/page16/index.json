@@ -2,6 +2,250 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-11-how-remote-work-can-fuel-the-new-ai-tech-centers.md",
+      "title": "How Remote Work Can Fuel The New AI Tech Centers",
+      "excerpt": "Work from home has become the new standard for several jobs worldwide. It is re-architecting how companies organize their workforce. It may also drive the creation of a new hub-and-spoke model for cities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f09f2064f8a93000606cea2%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/07/11/how-remote-work-can-fuel-the-new-ai-tech-centers/amp/",
+      "publishedDateTime": "2020-07-11T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism.md",
+      "title": "DeepMind researchers propose rebuilding the AI industry on a base of anticolonialism",
+      "excerpt": "DeepMind researchers argue that anticolonial theory should be part of the AI development process to avoid perpetuating algorithmic oppression.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/25926572291_a495f56110_k.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/11/deepmind-researchers-propose-rebuilding-the-ai-industry-on-a-base-of-anticolonialism/amp/",
+      "publishedDateTime": "2020-07-11T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-six-deep-learning-applications-ready-for-the-enterprise-mainstream.md",
+      "title": "Six deep learning applications ready for the enterprise mainstream",
+      "excerpt": "Deep learning, used to classify images, recognize voices and analyze video images, is emerging as the next big wave of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/07/11/c93bbf93-f4c1-4a6c-a1a1-c17d8151edff/library-yale-university-july-2015-photo-by-joe-mckendrick.jpg",
+          "width": 1224,
+          "height": 1632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/six-applications-for-deep-learning-as-it-enters-the-enterprise-mainstream/",
+      "publishedDateTime": "2020-07-11T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-prepare-for-artificial-intelligence-to-produce-less-wizardry.md",
+      "title": "Prepare for Artificial Intelligence to Produce Less Wizardry",
+      "excerpt": "A new paper argues that the computing demands of deep learning are so great that progress on tasks like translation and self-driving is likely to slow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f0663989798446ce8080282/master/pass/business_artificial-intelligence_687292162.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/amp",
+      "publishedDateTime": "2020-07-11T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-11-capella-space-goes-all-in-on-aws.md",
+      "title": "Capella Space Goes All-In On AWS",
+      "excerpt": "Provider of Earth observation data uses AWS's highly performant global infrastructure and unmatched portfolio of cloud services, including AWS Ground Station, to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/b16449200/capella-space-goes-all-in-on-aws",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200630005287/en/802036/4/Console_search_results_screenshot.jpg",
+          "width": 480,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16449200",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16449200",
+      "publishedDateTime": "2020-07-10T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-11-opentext-taking-on-ibm-watson-with-new-artificial-intelligence-platform.md",
       "title": "OpenText taking on IBM Watson with new artificial intelligence platform",
       "excerpt": "“We’ll be taking Magellan to market and it will be competing head on with existing AI platforms like IBM Watson and SAP Leonardo,” Adam Howatson, chief marketing officer, tells IT World Canada.",
@@ -960,239 +1204,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-how-ai-could-revolutionize-the-future-of-mobile.md",
-      "title": "How AI Could Revolutionize The Future Of Mobile",
-      "excerpt": "There are a variety of ways in which AI will influence the way we design, program and use mobile apps. In the coming years, AI could lead to improved security, more personalization and overall a better user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda5daa543d4d0006ab099e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/how-ai-could-revolutionize-the-future-of-mobile/amp/",
-      "publishedDateTime": "2020-07-10T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl.md",
-      "title": "AI As A Service Redefines Customer Experiences, But Think Twice Before You Jump Into AutoML",
-      "excerpt": "Keep reading, as this article will help you understand how humans and machines can work together to make machine learning more effective with augmented ML, and most importantly, cover a few key technical debt concerns you need to address prior to jumpstarting your own AutoML (AI for AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f07167161c3150007f84459%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/10/ai-as-a-service-redefines-customer-experiences-but-think-twice-before-you-jump-into-automl/amp/",
-      "publishedDateTime": "2020-07-10T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
-      "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
-      "excerpt": "Yet Facebook, Microsoft and others are arguably ... Huawei’s 5G and various basic research platforms, all of which are exploring the business opportunities of AI in the future. Technology is making life better and closer to reality.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/17a196ae1b2b3ffd0a1319c34bbea2c1",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis.md",
-      "title": "Artificial Intelligence Market Detailed Analysis of Current Industry Figures with Forecasts Growth with Covid-19 Impact Analysis",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 10, 2020 (Heraldkeepers) -- New York, July 10, 2020: The Artificial Intelligence Market is expected to exceed more than US$ 191 Billion by 2024 at a CAGR of 37% in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-with-covid-19-impact-analysis-2020-07-10",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
-      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
-      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
-      "publishedDateTime": "2020-07-09T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

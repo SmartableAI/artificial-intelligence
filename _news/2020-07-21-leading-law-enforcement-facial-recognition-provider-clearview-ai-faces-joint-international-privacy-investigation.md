@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Black Lives Matter forces an IBM U-turn on facial recognition"
-    excerpt: "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ..."
-    publishedDateTime: 2020-07-21T12:00:00Z
-    webUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/"
-    ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
+  - title: "Facebook will pay $650 million to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,"
+    publishedDateTime: 2020-07-23T19:29:00Z
+    webUrl: "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
     type: article
     provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 59
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
-    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
-    publishedDateTime: 2020-07-20T09:26:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 50
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
-        width: 770
-        height: 500
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57"
+        width: 600
+        height: 350
         isCached: true
 
 secured: "5jIFLig4vzVs3hZ2JdKJ5tY4JIVetIziJFHWygNCw7iDji3Y7r0ItQTSFB6ot2y/GfcPsOstA6+NKAuWM6peZLP3Nujoylip1xa/yptPSqugblmS1uat0/na4/FUDLTjWd5TLWO0knd3iTZhne+c8OLf0V8r2ZdgRN8QR5UXW1k1Ge5apuhI6ZkdBk9LYSZu4cIRj5jPkG03SWsK17Bh++IzjtQ2H4QPSDgNMlRVMmdYYVYrp2C1i2PvoxnwENMaLVEJ/lSVp1i+nv/C/D5D00vpGudG6a19p4hR/Y2aSwE65IcKtIrhqfKDOWL4mS99RUv3eiqTGUZhXLseyTuzfQ==;EeaxK2JDvxlPozZWx3OAaQ=="

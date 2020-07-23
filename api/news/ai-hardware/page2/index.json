@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-10-tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket.md",
+      "title": "Tech News: Neuromorphic computing and the brain-on-a-chip in your pocket",
+      "excerpt": "The human brain is relatively small, uses about 20 Watts of power and can accomplish an amazing number of complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.iol.co.za/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-prod.iol.co.za/resize/1707x366?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2020/07/09/50687754/3589663121.jpg&operation=CROP&offset=0x160&resize=1707x960",
+          "width": 651,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/business-report/tech-news-neuromorphic-computing-and-the-brain-on-a-chip-in-your-pocket-50687754",
+      "publishedDateTime": "2020-07-09T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOL News",
+        "domain": "iol.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025.md",
+      "title": "Global AI Chips Market 2020 Industry Outlook, Comprehensive Insights, Growth and Forecast 2025",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 09, 2020 (The Expresswire) -- Global AI Chips Market Research Report\" Provides Detailed Insight Covering all Important Parameters Including Development Trends ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-chips-market-2020-industry-outlook-comprehensive-insights-growth-and-forecast-2025-2020-07-09",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-ai-helps-british-research-center-use-machine-learning-to-fight-covid-19.md",
       "title": "AI helps British research center use machine learning to fight COVID-19",
       "excerpt": "Using the Israeli company's technology, the center can now conduct more experiments, utilize resources more efficiently, and speed up completion of data science models",
@@ -1244,97 +1335,6 @@
         "name": "Embedded Computing Design",
         "domain": "embedded-computing.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu.md",
-      "title": "Cyberpunk 2077 might run great even without a next-gen GPU",
-      "excerpt": "Nvidia confirms Cyberpunk 2077 will support DLSS 2.0. Cyberpunk 2077 is shaping up to be one hell of a wild ride—our own Andy Kelly spent four hours in the game's massive open world and was left hungry for more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zjP2N2xjGJFxRBAuuBowSg-1200-80.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/cyberpunk-2077-might-run-great-even-without-a-next-gen-gpu/",
-      "publishedDateTime": "2020-06-25T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
-      "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
-      "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/cambricon-.jpg?w=720",
-          "width": 720,
-          "height": 360,
-          "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/24/chip-cambricon-ipo/amp/",
-      "publishedDateTime": "2020-06-25T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

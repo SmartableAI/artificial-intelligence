@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "GEP Launches AI-driven AP Automation Platform To Significantly Cut The Cost Of Accounts Payable Operations"
-    excerpt: "It is a fresh approach that leverages the power of huge advances in process-enabling technologies — it is AI-native and built from the ground ... GEP's stand-alone AP Automation solution, built in the Microsoft Azure cloud, enables multinationals ..."
-    publishedDateTime: 2020-07-23T14:11:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/gep-launches-ai-driven-ap-automation-platform-to-significantly-cut-the-cost-of-accounts-payable-operations-301098777.html"
+    excerpt: "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced the launch of its next-gen accounts payable (AP) automation platform to address the market’s need for a cloud-native solution that leverages artificial intelligence and machine learning to improve and speed up AP operations."
+    publishedDateTime: 2020-07-23T14:00:00Z
+    webUrl: "https://apnews.com/PR Newswire/bd823942c86dc2d4fc46067b853860f2"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 21
     images:
-      - url: "https://mma.prnewswire.com/media/518346/GEP_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "hHiubQZIymbTLfplGRuwk1ox/rAubv+R32W1rBueoZnMaSG+CNsH+lrOsX9GZIstKJu4nCPFmwQo/X9Hury03ti/B+FG2BDBmAZIjm6Owl8dMJIWkAaKLyVWeVJggu8WuTGqnkZzDu/c74hZLQhI9/IYxvJAKgnpk302S1tYRSiSxZHwPlJ+68EbrMVI24j6Z+KloZjTZA+EPcyWPaiV+94MpadCHC1zkKI3tZLThYD4WQUIfa0bb9Y1NwTfPnxWj4yFhSz/4TocklpK17E9NRvHIgjk61mAuKgVcdOpEBxq6YDb/QBC9tv97uhwXo6/zjIAXa2/pQ75fB+RfEYqeA==;DvpOU5dNS77n+41NXUmP5w=="

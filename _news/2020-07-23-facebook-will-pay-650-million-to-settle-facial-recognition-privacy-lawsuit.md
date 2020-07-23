@@ -1,0 +1,52 @@
+---
+category: news
+title: "Facebook will pay $650 million to settle facial recognition privacy lawsuit"
+excerpt: "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,"
+publishedDateTime: 2020-07-23T19:29:00Z
+webUrl: "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+type: article
+quality: 87
+heat: 97
+published: true
+
+provider:
+  name: Engadget
+  domain: engadget.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57"
+    width: 600
+    height: 350
+    isCached: true
+
+related:
+  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
+    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
+    publishedDateTime: 2020-07-21T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
+
+secured: "fP3ulciDWn+8yhRv7Y0wy8Eu9Q8QK5cojxWd4W5etyRCfenydAufCBov2h7bmtjwfd+M4NtPjGpobUpKIvbMC+ppxD8ZPvn38TV68aOecBlmYS1zeM4BcLaqN1OO15ZA1LLdw6FDGWQe1aUHa1ZecIpvbORFIKtuLnD43jMCxTEHCKQ6aETbEIZMqQafyDKHW5V8iADY2MNiMQIASCYUwvlyX88Z8bkXHHeYM41iqsPFyHf9X3vofmBAAc/t4wD5L6yyFWdW/gV551sL+Q7nf+bzhgJCnqAggyCIontA20uq5ktNVq2e+26il8aCCLCMlglgAjPaH/vWgxBzjrGp0g==;Y4JYmcdb1i0mMSFndklB9A=="
+---
+

@@ -2,6 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-23-facebook-will-pay-650-million-to-settle-facial-recognition-privacy-lawsuit.md",
+      "title": "Facebook will pay $650 million to settle facial recognition privacy lawsuit",
+      "excerpt": "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "publishedDateTime": "2020-07-23T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-fawkes-protects-your-identity-from-facial-recognition-systems-pixel-by-pixel.md",
       "title": "Fawkes protects your identity from facial recognition systems, pixel by pixel",
       "excerpt": "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci",
@@ -60,7 +110,7 @@
       "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 239,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -194,47 +244,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-21-black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition.md",
-      "title": "Black Lives Matter forces an IBM U-turn on facial recognition",
-      "excerpt": "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/",
-      "publishedDateTime": "2020-07-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Voices Online",
-        "domain": "globalvoices.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-21-alipay-allows-pet-owners-to-buy-insurance-by-using-facial-recognition-on-their-cats-and-dogs.md",
       "title": "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs",
       "excerpt": "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ...",
@@ -242,7 +251,7 @@
       "webUrl": "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {

@@ -252,56 +252,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-22-self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota.md",
-      "title": "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota",
-      "excerpt": "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-21T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-21-in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing.md",
       "title": "In An Industry First, Plus.AI To Submit Their Self-Driving Trucks To Independent Testing",
       "excerpt": "Self-driving truck developer Plus.ai announced today they have finalized an agreement with the Transportation Research Center to conduct rigorous independent testing of their Automated Driving System in realistic conditions.",
@@ -1031,32 +981,32 @@
     {
       "path": "_news/2020-07-13-agricultural-robots-market-worth-203-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The driverless tractors segment of the agricultural robots ... farms is also contributing to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and ...",
+      "excerpt": "Driverless tractors are quickly taking ... to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T06:36:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164",
+      "publishedDateTime": "2020-07-13T06:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1453,6 +1403,47 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-elon-musk-says-tesla-vehicles-are-very-close-to-being-completely-autonomous-and-will-reach-basic-functionality-by-end-of-2020-allowing-the.md",
+      "title": "Elon Musk says Tesla vehicles are 'very close' to being completely autonomous and will reach 'basic functionality' by end of 2020, allowing the cars to drive without human input",
+      "excerpt": "Tesla CEO Elon Musk speaking by video during the World Artificial Intelligence Conference said the EV maker is 'very close' to achieving complete autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-8506589/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/07/09/15/30578508-0-image-a-17_1594306081798.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-8506589/amp/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8506589/amp/Elon-Musk-says-Tesla-vehicles-close-completely-autonomous.html",
+      "publishedDateTime": "2020-07-09T08:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

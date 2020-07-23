@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Disney Researchers Have Developed An AI Facial Recognition Tool For Animated Characters"
+    excerpt: "How was it made? Facial recognition tools for photography and live-action footage — in other words, for real human faces — are already well established. But Disney’s archive contains a lot of animation, and animated faces are another matter."
+    publishedDateTime: 2020-07-23T19:44:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/disney-researchers-have-developed-an-ai-facial-recognition-tool-for-animated-characters-194764.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 46
+    images:
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
+        width: 1280
+        height: 600
+        isCached: true
   - title: "Brandywine Valley SPCA Using Facial Recognition Technology To Help Reunite Lost Pets With Owners"
     excerpt: "But now the Brandywine SPCA is using new facial recognition technology to make it easier to reunite lost dogs and cats with their families. “We should take every step necessary to try to get pets back to their owners,"
     publishedDateTime: 2020-07-22T20:55:00Z

@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html</loc>
+    <lastmod>2020-07-23T12:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/</loc>
+    <lastmod>2020-07-23T12:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/</loc>
+    <lastmod>2020-07-23T12:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/</loc>
+    <lastmod>2020-07-23T11:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga/</loc>
+    <lastmod>2020-07-23T10:54:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23</loc>
+    <lastmod>2020-07-23T10:51:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/</loc>
     <lastmod>2020-07-23T09:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -331,14 +367,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/</loc>
-    <lastmod>2020-07-21T17:30:00-07:00</lastmod>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-21T21:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20</loc>
-    <lastmod>2020-07-21T17:25:00-07:00</lastmod>
+    <loc>https://www.geekwire.com/2020/air-force-goes-blackskys-spectra-ai-platform-track-impact-covid-19/</loc>
+    <lastmod>2020-07-21T17:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -471,12 +507,6 @@
   <url>
     <loc>https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596</loc>
     <lastmod>2020-07-21T05:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/</loc>
-    <lastmod>2020-07-21T05:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2059,8 +2089,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
-    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
+    <loc>https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164</loc>
+    <lastmod>2020-07-13T06:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3441,6 +3471,12 @@
   <url>
     <loc>https://singularityhub.com/2020/07/06/ai-behaving-badly-new-model-could-help-ai-make-more-ethical-choices/</loc>
     <lastmod>2020-07-06T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.vox.com/recode/2020/7/3/21307873/facial-recognition-ban-law-enforcement-apple-google-facebook</loc>
+    <lastmod>2020-07-06T06:15:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

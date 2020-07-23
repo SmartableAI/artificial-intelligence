@@ -45,7 +45,7 @@ related:
   - title: "New York lawmakers agree to pause use of facial recognition in schools"
     excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
     publishedDateTime: 2020-07-23T05:32:00Z
-    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
+    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html?ref=hvper.com"
     ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
     cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
     type: article
@@ -84,6 +84,17 @@ related:
     provider:
       name: Digital Trends
       domain: digitaltrends.com
+    quality: 69
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
+    publishedDateTime: 2020-07-23T17:53:00Z
+    webUrl: "https://www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7"
+    ampWebUrl: "https://www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 69
   - title: "Estonia to use face recognition in border control"
     excerpt: "Estonia is about to buy about one hundred pieces of facial recognition equipment for its border crossing points as part of upgrades to be introduced as Europe is switching to a new border control central system,"
@@ -197,21 +208,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a ..."
-    publishedDateTime: 2020-07-23T17:57:00Z
-    webUrl: "https://www.thetelegraph.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    ampWebUrl: "https://www.thetelegraph.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    cdnAmpWebUrl: "https://www-thetelegraph-com.cdn.ampproject.org/c/s/www.thetelegraph.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+  - title: "New York lawmakers vote to pause facial recognition in schools"
+    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
+    publishedDateTime: 2020-07-23T18:00:00Z
+    webUrl: "https://www.pbs.org/newshour/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
+    ampWebUrl: "https://www.pbs.org/newshour/amp/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
+    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/education/new-york-lawmakers-vote-to-pause-facial-recognition-in-schools"
     type: article
     provider:
-      name: The Telegraph
-      domain: thetelegraph.com
+      name: PBS
+      domain: pbs.org
     quality: 59
     images:
-      - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/3/375x250.jpg"
-        width: 344
-        height: 250
+      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2020/07/backtoschool2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "New York Senate Passes Facial Recognition Moratorium"
+    excerpt: "The legislation temporarily bans facial recognition in state schools and requires the state Education Department to study the issue and craft regulations. Opponents of the technology have criticized its use in schools."
+    publishedDateTime: 2020-07-23T19:19:00Z
+    webUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html"
+    ampWebUrl: "https://www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/New-York-Senate-Passes-Facial-Recognition-Moratorium.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
+        width: 916
+        height: 630
         isCached: true
   - title: "New York takes major step to keep facial recognition from being used on children"
     excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
@@ -242,20 +269,6 @@ related:
       - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/shutterstock_680587558-min.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Judge: Facebook’s $550 Million Settlement In Facial Recognition Case Is Not Enough"
-    excerpt: "The judge says those who alleged to have had their privacy violated are entitled to a bigger payout. He said \"it just doesn't seem right\" that members of the class action would be shortchanged."
-    publishedDateTime: 2020-07-19T02:00:00Z
-    webUrl: "https://www.kpbs.org/news/2020/jul/17/judge-facebooks-550-million-settlement-in-facial/"
-    type: article
-    provider:
-      name: KPBS
-      domain: kpbs.org
-    quality: 33
-    images:
-      - url: "https://kpbs.media.clients.ellingtoncms.com/assets/img/2020/07/17/ap_19269679211667-1-_wide-615c247abc80d2246291a073e175e57a34f53276.jpg"
-        width: 1470
-        height: 827
         isCached: true
 
 secured: "pGiv8i6wDQ5Ub8gWsSyO7hKcccwfSzthO/H+hUOq5CenPyzr/0ZCkAw4S9tgxzYwf73d+4scWivJ6C30AYhq45pHsVMxXWEsk60XzEMcP5odmkXA8TLZzbdpDQA/yUseGGf9KxPC2j7FW8DK01ZTgPW45tMXrC5+z9Wx7cO9FQhDuwVpsiMcV8+y1G0dC4KEJmL6vo158/JGS7ugCoQvSv0Jb5+S4h8fwLuwmpDPMbj3B+7mdwEM9GxYe7tOkmGa+vCrIG3oouXf0oB07Mww8NVsECVcr93BYgL/asP8grS3XmSnsDf3xqshPZlAaMzJMtuTIGJkWicto3/RWM0Ui8MBi7160aMUOTSHNP8Jrr8XBEUSsKX/gxO9pNTRJ1oK9qwYJLOanGQn6TYSvrjiHBgNutlHXXitQWNmMKsBjXOycxTHyl095djz4aY08z4vI6+eOnoDLQpThZ1KlTZTaI92fZ158C/+qMUIcO2hYQS7HArWFcGlo1ERI2XFcTdtLRKneRRb3vmZuCtra2Lv3w==;qtQYpopJAi7ay5gqrASZbA=="

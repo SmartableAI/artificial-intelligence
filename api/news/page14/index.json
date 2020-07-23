@@ -2,6 +2,218 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-14-frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud.md",
+      "title": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
+      "excerpt": "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16611060",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060",
+      "publishedDateTime": "2020-07-13T21:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-smart-retail-tech-startup-cloudpick-raises-series-a-funding.md",
+      "title": "Smart Retail Tech Startup Cloudpick Raises Series A+ Funding",
+      "excerpt": "Cloudpick, the technology startup providing smart retail and artificial intelligence solutions, announced recently that it has raised Series A+ round of funding led by Cathay Innovation. Prior to this,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776",
+      "publishedDateTime": "2020-07-13T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent.md",
+      "title": "53% of enterprises spending more than $20 million a year on AI technology, talent",
+      "excerpt": "Among seasoned adopters, 68% have spent more than $20 million over the past year on AI, according to Deloitte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/09/123183af-a6a0-48bf-9891-86cdc7247104/ai-spending-2020.png",
+          "width": 658,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
+      "publishedDateTime": "2020-07-13T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-booyaaa-australian-federal-police-use-of-clearview-ai-detailed.md",
+      "title": "'Booyaaa': Australian Federal Police use of Clearview AI detailed",
+      "excerpt": "One staff member used the application on her personal phone, while another touted the success of the Clearview AI tool for matching a mug shot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/07/f9505b32-b5b7-444e-b118-26ef7aac0688/thumbnail/1200x675/464bc1c92770038b1e169494a5ca1b3d/istock-458668953.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
+      "publishedDateTime": "2020-07-13T20:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-australian-federal-police-emails-reveal-how-it-used-facial-recognition-app-clearview-ai.md",
+      "title": "Australian Federal Police Emails Reveal How it Used Facial Recognition App Clearview AI",
+      "excerpt": "New documents, revealed to the ABC, show how AFP officers had been using Clearview AI since November 2019, despite the agency's initial denial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/02/police.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/australian-federal-police-emails-clearview-ai-facial-recognition-app/amp/",
+      "publishedDateTime": "2020-07-13T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
       "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
       "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
@@ -839,32 +1051,32 @@
     {
       "path": "_news/2020-07-13-agricultural-robots-market-worth-203-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The driverless tractors segment of the agricultural robots ... farms is also contributing to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and ...",
+      "excerpt": "Driverless tractors are quickly taking ... to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T06:36:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164",
+      "publishedDateTime": "2020-07-13T06:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -915,258 +1127,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-renewed-sanity-on-campus-yes-to-free-speech-no-to-football.md",
-      "title": "Renewed Sanity On Campus? Yes To Free Speech, No To Football?",
-      "excerpt": "To borrow from the Bard, “To Open, or Not to Open: That is the Question.” Most schools are planning on reopening in some fashion, and in recognition of the fact that interaction between faculty and students, and students with each other, is at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1246069736%2F0x0.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardvedder/2020/07/13/renewed-sanity-on-campus-yes-to-free-speech-no-to-football/amp/",
-      "publishedDateTime": "2020-07-13T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans.md",
-      "title": "Eighth grader builds IBM Watson-powered AI chatbot for students making college plans",
-      "excerpt": "Harita Suresh, 13, developer of the AI chatbot Rita. Harita ... TensorFlow (up 62%), ChatBots (up 45%), Microsoft Azure (up 38%) are all on the upswing. Udemy's surprise? Bitcoin and cryptocurrency classes gained popularity by fourfold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/07/10/f18246a0-d75c-41fd-a7f4-5514fcb4db8a/resize/1200x/545cbe8ab7e80de2653ef37cf6138ed3/harita.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/eighth-grader-builds-ibm-watson-powered-ai-chatbot-for-students-making-college-plans/",
-      "publishedDateTime": "2020-07-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-not-just-the-sprinkles-on-top-baking-ethics-into-ai-design.md",
-      "title": "Not Just The Sprinkles On Top: Baking Ethics Into AI Design",
-      "excerpt": "Chief Marketing Officer at Interactions, a conversational AI company, where he oversees all aspects of communications, sales and marketing. Let’s face it: When a company develops artificial intelligence (AI) that can offer us a medical diagnosis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140596351%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/07/13/not-just-the-sprinkles-on-top-baking-ethics-into-ai-design/amp/",
-      "publishedDateTime": "2020-07-13T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-ai-in-lending-fad-or-future.md",
-      "title": "AI In Lending: Fad Or Future?",
-      "excerpt": "Dmitry Dolgorukov is the Co-Founder and CRO of HES Fintech, a leader in providing financial institutions with intelligent lending platforms. Presumably, the return on each dollar invested in AI will be $1.99 by 2023 and $2.87 by 2028. Still, for many ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f071ccc4b08590006e1b2fa%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/07/13/ai-in-lending-fad-or-future/amp/",
-      "publishedDateTime": "2020-07-13T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients.md",
-      "title": "Exclusive: Endpoint Health Launches To Help Hospitals Treat Critically Ill Patients",
-      "excerpt": "The company, which has not yet begun clinical trials, takes its name from the research outcome that indicates if a therapy in a trial has met its goal, or endpoint. The business model has three main components: an artificial intelligence-based software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/07/13/exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0b62e85e77b200078933ac%2F0x0.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/07/13/exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/07/13/exclusive-endpoint-health-launches-to-help-hospitals-treat-critically-ill-patients/amp/",
-      "publishedDateTime": "2020-07-13T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

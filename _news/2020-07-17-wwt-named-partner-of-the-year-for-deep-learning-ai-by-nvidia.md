@@ -13,6 +13,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200717005015/en/618519/23/wwt-logo-color-horizontal-high.jpg"
@@ -20,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "DiUPMp6SSiq003QEJlnxdDkTr+zJgb/QlilkURN4cvR96n59/j9CAEPFyd2LJulxC6ns/8aju4Ca2sFpRhifw3D6G5C2sxme7gYIRPSRfOdBaxLdbootkFqM6pCzbSX5+Cn5pk8djaoNJnFyZ30XqWZEtcmyqwRIv7LRBYCR2zlKfiRwAUM4CnyqwRyybnEGXpX4pLpF/07psmEdAdV+lr6EUruqqVh2KbCTjLtGJL3PrOPrVybpV+CRIwAYD1zk2zUpWy7E0/hNfojvxxBwGUnEU3m2flbV5P6pkMEFl7BhZ3AnDq53cA3r889VCZ+jg5FF6tfX1soENPY5i5og3w==;DD6IoZfzsZBPYwCbPLaE6g=="
+secured: "1l7BfseeyrtKJC4t8eCTEgAgxb49j+XVJYY3ko7STKZQisE5ccvZ7cDyypBfrPy4eGe3dJHmq1IZaqfAmfPhlvK0ovUfn8o6Pse5G0SKyOF/bygeIQWATIh2MAaHbWMipSMGqCaygC/PAB0JAH7Sa0+HYhogI1jix+rVf3y1nk9p+lk8jz83pgBSrYuHL3K13zcVDIECLsI+CS1VdvTL7VqJWMpXsuVpR9iWtbIanuWYNXCf+GCjowVtJWzc++eE78L4Mz8eLuPtR7AT+oByQq2fuzZkmusAppxxefDD6OeqU2vllAJp9jZ+nsWzlBAMo+4Edo4Y1pq7O05KIPXpF1akZZ9j7nfpTFAA1Ch20eSVbOCAHZ3I+I7U79tM+Di9+mCvlG20JGPilEouBkh/+v02wzgGtyektI12bpwdWpZfbPuSgVBvbc1XGyXw96ICmkJUYbylVNYyhA8ixqe3RlNUQc4GLnRkuKbpyAORQyKpN/NeM4LlShqeFx2c2pK5PsEA80oLYxG/DnFQEPjRfg==;t/JpaUcGWamq+MmJLi6CPw=="
 ---
 
