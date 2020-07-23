@@ -1,27 +1,29 @@
 ---
 category: news
 title: "NY lawmakers vote to pause facial recognition in schools"
-excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools."
-publishedDateTime: 2020-07-23T17:53:00Z
-webUrl: "https://www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7"
-ampWebUrl: "https://www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ny-lawmakers-vote-to-pause-facial-recognition-in-schools-2020-7?amp"
+excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a lawsuit from civil rights advocates challenging that move."
+publishedDateTime: 2020-07-23T16:57:00Z
+webUrl: "https://www.sfgate.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+ampWebUrl: "https://www.sfgate.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
 type: article
-quality: 69
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/5/375x250.jpg"
+    width: 344
+    height: 250
+    isCached: true
 
 related:
   - title: "New York bans use of facial recognition in schools statewide"
@@ -43,7 +45,7 @@ related:
   - title: "New York lawmakers agree to pause use of facial recognition in schools"
     excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
     publishedDateTime: 2020-07-23T05:32:00Z
-    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html?ref=hvper.com"
+    webUrl: "https://www.engadget.com/new-york-pause-facial-recognition-schools-051651027.html"
     ampWebUrl: "https://www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
     cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/new-york-pause-facial-recognition-schools-051651027.html"
     type: article
@@ -55,6 +57,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-10%2F7a021ed0-eaaa-11e9-9f77-34e0cf2b42e8&client=amp-blogside-v2&signature=50ef505139d5d6f53d14ab0d5fdcc2749865a6de"
         width: 600
         height: 350
+        isCached: true
+  - title: "Sens. Sanders, Warren, Wyden back national facial recognition ban bill"
+    excerpt: "A new scorecard shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
+    publishedDateTime: 2020-07-23T19:12:00Z
+    webUrl: "https://www.cnet.com/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/senators-bernie-sanders-elizabeth-warren-and-ron-wyden-back-national-facial-recognition-ban-bill/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg"
+        width: 756
+        height: 567
         isCached: true
   - title: "Here are the lawmakers who are backing a national facial recognition ban"
     excerpt: "The scorecard keeping track of which Congress members support a federal moratorium on facial recognition comes after Sen. Bernie Sanders and Sen. Elizabeth Warren joined as co-sponsors on the bill. If you're wondering whether or not your Congress ..."
@@ -71,6 +89,38 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg"
         width: 756
         height: 567
+        isCached: true
+  - title: "New York legislature votes to halt facial recognition tech in schools for two years"
+    excerpt: "The state of New York voted this week to pause any implementation of facial recognition technology in schools for two years. The moratorium, approved by the New York Assembly and Senate Wednesday, comes after an upstate school district adopted the technology earlier this year,"
+    publishedDateTime: 2020-07-23T20:06:00Z
+    webUrl: "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/"
+    ampWebUrl: "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1157932923.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Facial Recognition Moratorium Awaits Gov. Cuomo’s Signature"
+    excerpt: "A bill that will temporarily ban facial recognition in New York state public schools just needs a signature from the governor. The bill comes a year after the Lockport School District proposed using the technology."
+    publishedDateTime: 2020-07-23T20:44:00Z
+    webUrl: "https://www.governing.com/security/Facial-Recognition-Moratorium-Awaits-Gov-Cuomos-Signature.html"
+    ampWebUrl: "https://www.governing.com/security/Facial-Recognition-Moratorium-Awaits-Gov-Cuomos-Signature.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Facial-Recognition-Moratorium-Awaits-Gov-Cuomos-Signature.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_617755883.jpg"
+        width: 1057
+        height: 630
         isCached: true
   - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
     excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
@@ -243,6 +293,22 @@ related:
         width: 916
         height: 630
         isCached: true
+  - title: "New York state approves bill that bans facial recognition technology in schools"
+    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
+    publishedDateTime: 2020-07-23T21:50:00Z
+    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
+    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
+    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
+    type: article
+    provider:
+      name: AM New York
+      domain: amny.com
+    quality: 55
+    images:
+      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "New York takes major step to keep facial recognition from being used on children"
     excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
     publishedDateTime: 2020-07-23T13:39:00Z
@@ -274,6 +340,6 @@ related:
         height: 450
         isCached: true
 
-secured: "QmdN1fRw7AOIzrpl1UW0gK3WXVQSLDWa19adxh8MPVaf7i5dGt3s3vr4/O1ZDC0zmM2XpuSFaUNeQuYLe/bHbsWT6OOGu/MDKgzUQl29ZxGIFpcVlhzgLEkGuTLtGSeRydccQIV5347oTE1QvJ1sy9Y8LzWCWKDXh0Cmj7lKk1UOEP628x+fQav9k+LxGqlS/0NOn1cofhG+24KC/E5eh/ObQeB+9L2Uz/guXu5kIhdHhJA2hGbdOvuKm90aliMvGm9oILHuFsujDAX90vWGR2KZ60Rv7eUMwcDA5hC4qvPw1oHfs2QsIpOzUh+FChNoN6t9U2osHHuF5yXyk/mGfQ==;rutxZHMMvCEYosQf29PnMw=="
+secured: "7aBd/f74v65WCuQETqD/Fhdb4OgPdIgAKylpDw0Lv9XZFBJRsWnzEoIUUE+wb33CvEkWWpd5Xvsl34rwlrTEUOu93CvVrow6govXWJzQRpj+g53aDcurVg7J8NQcCCTwrgt79pbo7iLZYzMBO33VRJshE4UaaEjplCvbP6ccaI7+LkvfVzJhrnOklwaV9EmWc35bDiUrqzsa1G7A40eepVBzspGnfsJO9wVTKwExTCIE8J96PmEo+jm+T0bvId2DL863X5zr87PEIwnsN4lzqGtkI4O0JVIiS1SOyj9BMARu+r6EQytKcvaRrb592+Gbc2fJMASG99wyQp9MazGwcA==;xnj7UIgCf7MQ+h10A6+Y9g=="
 ---
 

@@ -2,6 +2,56 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-07-05-everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths.md",
+      "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
+      "excerpt": "Will AI hold up a mirror to society forcing us to look not only at how we treat beings unlike us but also how we interact with and treat one another? Is the future of artificial intelligence, human-like robots?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f01c255daf7940006393a4f%2F0x0.jpg",
+          "width": 1199,
+          "height": 725,
+          "title": "Everything You Ever Wanted To Know About Synthetic Humanoid Robots Or Synths",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/07/05/everything-you-ever-wanted-to-know-about-synthetic-humanoid-robots-or-synths/amp/",
+      "publishedDateTime": "2020-07-05T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-05-3-stocks-to-buy-in-the-market-that-could-mint-the-worlds-first-trillionaire.md",
       "title": "3 Stocks to Buy in the Market That Could Mint the World's First Trillionaire",
       "excerpt": "Cuban stated in a 2017 interview that \"the world's first trillionaires are going to come from somebody who masters AI [artificial intelligence ... technology business Waymo could be a sleeping ...",
@@ -1332,55 +1382,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-03-how-ai-helps-digital-enterprises-streamline-operations.md",
-      "title": "How AI Helps Digital Enterprises Streamline Operations",
-      "excerpt": "Artificial intelligence (AI) is transforming how enterprises analyze and process information. It is also shifting from theoretical to real-world technology. Companies are deploying AI technologies to boost efficiency, reduce costs, and grow sales and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1180902197%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI Helps Digital Enterprises Streamline Operations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2020/07/03/how-ai-helps-digital-enterprises-streamline-operations/amp/",
-      "publishedDateTime": "2020-07-02T21:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -5,8 +5,8 @@ excerpt: "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the la
 publishedDateTime: 2020-07-23T17:37:00Z
 webUrl: "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html"
 type: article
-quality: 8
-heat: 8
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook"
@@ -35,6 +36,6 @@ related:
       domain: benzinga.com
     quality: 8
 
-secured: "IS08UMbIP2Alv1Xd9DCjUxE2YXnvxYtGf4PxQBQhkWUUX/RDrn1SerFQqZcIASI/Q6bK6Ur9qpcti0S/2dPt3VRii2PEL0mcPPTh9h79l8URdvxeKs9u4+vV5qmo1T8mwtNtfWoJtBiBgZjkYmOF1Fl3d+h5BvwARcd/BUPHOrXcJZSnlL3O/Pzj/fUrg7gkBih90tIZv8Jr+60fNV1H4eCEabz+E42XAsEgeZ2miZJ/AUHE2+AUSNpDX9FRuUR6Ddu8DeQgcrrnkiK0WRc9OzNXynQokK85fzkQzmT5kMsYLkmmHCd3HENuo0QFoGLmmrQv65CxrsMCauZeZjBWgg==;N/jlGsdCmJbeb0uPFAkyvw=="
+secured: "oQ0wEDYfGJBzGeODBQeDGTjnnS2tN3e2pIG7PKfBfwYyxmJ1DRKGICh52X3Zf/9aOqjR0JA3xCfyxLnFu2KrGntFyAPFQ5ORg/UXESqfJS8LyUNqyTWRE4s8udZoNMDq03STNEdqEdPp4I5Ri+BFnXOhC7grsFuk/2EDTRXtF/ZJ0mW8Hgvyp0YBiOUZ6MsxN0AjyjJAAv7Pry0QDlspYVR5HMxEusAcYHRarQEkSoIw4+wW7/TQ3Q88yxM8DdgQsJBG417H2WRo0ztLzc3OXZL6FZv0wEiCQTa+XwCXne8qEl2dc9Dwfce5CWT0eWBCU2Yc3czjeWyHJG7jhEfrfZKfSbFTLYPRAhjevYsFKBsYrVQYfR+Lw0x9xnuvHHKySvd52G9IXM8Iv2u6XOSNCojE8AJ8NYWdl3P07bW04Mag7IKgBEZNuktwHEgxCHR1JsKQkl+juZl1qACSiImLubTDAUFw3TCaoib9iAEDvMLR6vYMZcH3yy4m99RfJVyA6wVtLx5cWuKVPSIDipbS4Q==;B52m8xIbsF+0ICLAgnEBQA=="
 ---
 

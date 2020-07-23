@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robot
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
 type: article
 quality: 63
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -54,24 +54,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
-    excerpt: "Impact on this industry. Our updated reports will now feature detailed analysis that will help you make critical decisions. The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions."
-    publishedDateTime: 2020-07-19T04:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023"
     excerpt: "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue."
     publishedDateTime: 2020-07-21T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21"
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

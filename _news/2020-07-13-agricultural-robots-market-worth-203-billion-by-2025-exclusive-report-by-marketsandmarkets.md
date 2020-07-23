@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Driverless tractors are quickly taking ... to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer ..."
-publishedDateTime: 2020-07-13T13:43:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets-1029388164"
+excerpt: "The driverless tractors segment of the agricultural robots ... farms is also contributing to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and ..."
+publishedDateTime: 2020-07-13T13:36:00Z
+webUrl: "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "uVcvoja7Dk1M+Z0KMrAGsH0njup3WiWwQbVtuULPhKnQxrVPkskj0jEq8qNI9LyfglzuhpTk4Z4UbJGaTvepp7o7+3oKv12P/M6itEK4qDbe0Ey4uiEMNX5AwUPwpX7CPvAyzkjyTpz2FrkAGM+HYF7Pjd4sfr/UwIDWBk9v2mYFCAHHKEgVeaw2VWxSsXXQUAcH95CSrXV60aoUqR4+WpY+iH30lhQS9SbTJ0mehePmw4b7ZbxXRruLeezzJZ6QriWp+om6Sur7K9QhY41cI3EsDNWJEUDI36Cab16ePD2fPx3kD31MkqeHIIG6e5TJ8gU7myPB0j9zE6ZZNJVKGQ==;tyCMqTHjreT1N6xjjoetTA=="
+images:
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
+    isCached: true
+
+secured: "VbdNy9VJKSy13bHTk3r582gLkQI8m+awb5CFlmUH2NukYOvgorxWrgL3CUFVFg4cvi3582YZSDbNtoO/QpUzs1ghV6HEHwEvn9TSoa6A6hxMbw/hoZJ9gySaJr5FYGdB0ee2fpJ1uR+v1MSVr8Gh7KJ+0aEWC12YA2hfCBRvgfNKPuuF4s6E0iIwqmqxVwUL3bcf4Y1MqByOL6RWnVL2d7nF23u68EZazjWqcwf0Yr5qihA9RbcF2ybm6SKRUYJE+9PH/lqFYZOeqYHkmFIn/vPo1adZTBZAs8+KMW+achbc5KiHBUjnPPn1Mp/CkbP9i/1TuPyYWgv4mOcQmZEqBQ==;0MUCT5AyCVVgNvLsMEkodA=="
 ---
 

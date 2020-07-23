@@ -2,6 +2,55 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-08-googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images.md",
+      "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
+      "excerpt": "Google says it will begin providing context around images in Google Images, based on the content of the webpages hosting those images.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/googlenews-e1593073191933.jpeg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": "Google’s AI looks beneath the surface for information about people, places, and things in images",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/08/googles-ai-looks-beneath-the-surface-for-information-about-people-places-and-things-in-images/amp/",
+      "publishedDateTime": "2020-07-08T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-qualcomm-launches-snapdragon-865-5g-chipset-with-10-cpu-gpu-boost.md",
       "title": "Qualcomm launches Snapdragon 865+ 5G chipset with 10% CPU & GPU boost",
       "excerpt": "This means that we’re looking at a boost of 10% in CPU and GPU. Apart from just an increase in clock speeds ... same DSP along with Quick Charge 4.0+ with AI control. To recall, the X55 modem brings 5G connectivity with the support of sub-6Ghz and ...",
@@ -1338,47 +1387,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-4-self-driving-car-stocks-to-buy-for-the-long-haul.md",
-      "title": "4 Self-Driving Car Stocks to Buy For the Long Haul",
-      "excerpt": "Within the automobile sector, one of the high-growth segments in the coming years will be self-driving car stocks. Estimates suggest that between 2021 and 2030, the self-driving cars market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/autonomouscar1600a.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/07/4-self-driving-car-stocks-to-buy-for-the-long-haul/amp/",
-      "publishedDateTime": "2020-07-08T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

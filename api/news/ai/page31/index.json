@@ -2,6 +2,47 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-06-25-ai-is-vital-to-cybersecurity-during-covid-19-dont-underestimate-risks.md",
+      "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+      "excerpt": "The importance of cybersecurity during COVID-19 is not to be underestimated. AI, or artificial intelligence, plays a key role in this issue.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/06/shutterstock_619615334.jpg",
+          "width": 1000,
+          "height": 714,
+          "title": "AI Is Vital To Cybersecurity During COVID-19: Don’t Underestimate Risks",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/ai-is-vital-to-cybersecurity-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-25T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-cambricon-once-huaweis-core-ai-chip-supplier-eyes-400m-ipo.md",
       "title": "Cambricon, once Huawei’s core AI chip supplier, eyes $400M IPO",
       "excerpt": "One of China’s most valuable artificial intelligence chipmakers, Cambricon, is one step closer to its initial public offering, and its prospectus reveals a rare snapshot of where Chinese companies stand in relation to their international counterparts in this critical field.",
@@ -1353,47 +1394,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
-      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
-          "width": 715,
-          "height": 398,
-          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcast",
-        "domain": "broadcastnow.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

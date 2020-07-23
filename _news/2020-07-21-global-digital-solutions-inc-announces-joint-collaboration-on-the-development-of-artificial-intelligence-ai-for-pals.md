@@ -51,6 +51,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "IBM Providing AI Solutions to Government"
+    excerpt: "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ..."
+    publishedDateTime: 2020-07-21T18:33:00Z
+    webUrl: "https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/~/media/GIG/GCN/GCNlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FMC Corporation Collaborates with Cyclica to Improve Research Efficiency Using Artificial Intelligence"
     excerpt: "FMC Corporation has entered into a collaboration with Cyclica Inc, a leading biotechnology company specializing in artificial intelligence and computational biophysics, to accelerate and improve the efficiency of discovering new crop protection chemistry."
     publishedDateTime: 2020-07-20T01:08:00Z

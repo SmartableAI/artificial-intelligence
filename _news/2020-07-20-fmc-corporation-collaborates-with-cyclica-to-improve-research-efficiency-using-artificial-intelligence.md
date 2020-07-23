@@ -46,6 +46,20 @@ related:
         width: 375
         height: 249
         isCached: true
+  - title: "IBM Providing AI Solutions to Government"
+    excerpt: "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ..."
+    publishedDateTime: 2020-07-21T18:33:00Z
+    webUrl: "https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/~/media/GIG/GCN/GCNlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
     excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
     publishedDateTime: 2020-07-21T00:49:00Z

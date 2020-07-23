@@ -27,7 +27,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 8
+    quality: 25
     images:
       - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook"
         width: 1920
