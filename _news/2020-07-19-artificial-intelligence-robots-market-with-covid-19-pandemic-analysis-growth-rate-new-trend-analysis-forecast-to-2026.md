@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-19T04:28:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-17"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -69,6 +69,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
+    excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
+    publishedDateTime: 2020-07-23T09:30:00Z
+    webUrl: "https://www.openpr.com/news/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
+    ampWebUrl: "https://www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+    images:
+      - url: "https://cdn.openpr.com/T/7/T723907848_g.jpg"
+        width: 640
+        height: 413
         isCached: true
   - title: "Artificial Intelligence for Marketing Market to See Booming Growth with IBM, Google, Intel"
     excerpt: "Latest released the research study on Global Artificial Intelligence for Marketing Market , offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence for Marketing Market research report shows the latest market insights,"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T05:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "US Artificial Intelligence Market by Services, Technology, Overview, Component, Industry Revenue, Cost Structure Analysis and Forecast to 2025"
+    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
+    publishedDateTime: 2020-07-23T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-by-services-technology-overview-component-industry-revenue-cost-structure-analysis-and-forecast-to-2025-2020-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mHXO+7TwwjX2xzfNOyrWnS4GpRSdq8XpbXnPVkGPE7O3CL9PNzXlAMtr6nV80Hm70p/bs/oT8xjo7/3xjLnJKwhcGoujH+5Kvb1C/gQZUzsOX+4m4Y7T555HQG32CFYhjei5I887eFrIDaF30K4Tbx4/efe1nT43pu+5S6/A7D6eeqjCDw1hL7tlw8vqsI5z2VTJ36d8z7/tfC4GHNVJFvFCBFh9FxP5hHD5PWlzNdey68GrbhkhAMjMmEQHPCb6hlkOJ+VTHI+LpKNdQwfj84oXHxr9UjPQgaIFMVw/zrHdHkqA4hJAF9h92dGMayvmDvtVwnumRNm3wDaq8A7aMw==;GnjFzodyplbK/Bzs5eEsXw=="

@@ -5,8 +5,8 @@ excerpt: "Machine learning as a service Market incorporates a comprehensive vary
 publishedDateTime: 2020-07-23T06:44:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-key-vendors-trends-analysis-segmentation-forecast-to-2025-2020-07-23"
 type: article
-quality: 52
-heat: 62
+quality: 54
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

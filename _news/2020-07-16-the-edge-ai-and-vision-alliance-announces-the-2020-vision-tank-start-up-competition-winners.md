@@ -1,24 +1,26 @@
 ---
 category: news
 title: "The Edge AI and Vision Alliance Announces the 2020 Vision Tank Start-Up Competition Winners"
-excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition, which showcases the best new ventures using visual AI and computer vision in their products,"
-publishedDateTime: 2020-07-16T20:14:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-1029403228"
+excerpt: "The Edge AI and Vision Alliance today announced the two winners of this year's Vision Tank Start-Up Competition. The annual competition,"
+publishedDateTime: 2020-07-16T19:53:00Z
+webUrl: "https://www.prnewswire.com/news-releases/the-edge-ai-and-vision-alliance-announces-the-2020-vision-tank-start-up-competition-winners-301095130.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Computer Vision
   - AI
+  - AI in Robotics
 
-secured: "V+Py2qNRY70eZ5YK5F6yGKf8kINRs0L72ock0xbnpPjHnm0AL9XpkGCOceT8zK0qeTO2Lo6nPyEZgxQVrttX+TgSXo79Fgrdb5+zaqqM8pSJOaRCmfvWmUjknpmQlVwIbx4r2B2UZgERXmUBT9LVPKJ+or9PbjDX27yaNnft2npsReGlhAXGmnD6edIjwfhlVNYGBPSkLWNwamOu5f1Wje0Pyv8GBQZT+RdtCeBHtw8+T3yRMJRH45BeOjXreTNEMi/2R/6bS0mi1oSBjnT1newNY41RQfwsDN8mdUHTdCliM9Ug45WGRmyk8lQNca7aoCOgT8z8o3OtKEJ/PWeeDw==;Fet+WSEENSZx/Dt1Tq67HQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/364856/embedded_vision_alliance_logo.jpg?p=facebook"
+    width: 1000
+    height: 524
+    isCached: true
+
+secured: "l/pJXgzaG7eaW1CQ2D1sZoo9Oh2nZNULWklNQKY3vS1litTHSWlJIdzEMrM5GJ3lZOwQeD8XuEq8Ti4PkXzF3wXVy2STlZlx9fTq+Lsnf0sNKj7mMJWeBWACqmkmcZ9TZHZtJmBX6HDwTmrW1uaqX5XjFyIapQENnN9/jkI126mHDif3iu9cyD24Vx5B94I9HAkkSBvzdXiW+Ha7OUHqEy8UI61kGVwg+Td7lxRoWzxhJIF02WGlNZ6s20Z3RgI9T06YuotLtrVIN8BQIjkuATM+ucphUDJnzhpeDYAoZfKQaWNuro5geIJWU8WgXKLroeZ/G724Qpnz+kDDrtiquQ==;j2PrMlz4ej0jify6O5I87g=="
 ---
 

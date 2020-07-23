@@ -38,6 +38,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Commentary: Trump’s crackdown on cities targets free speech"
+    excerpt: "On Monday, President Trump announced plans to deploy Department of Homeland Security agents in Chicago as well as cities where protests against police brutality continue — Portland, Ore.; Philadelphia;"
+    publishedDateTime: 2020-07-23T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/commentary-trumps-crackdown-on-cities-targets-free-speech/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 24
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "XbtM7WADL9eGjEzPwqvGdRcnx6dZx4Gr113tSRQvXUOt7R1oa6v2PHuOr/Gx3vItqn0Hlwp9KMNQQ4VdpqVWNqq82vYmtYRQ/7D0oWKWBtFrL/JSjh5FA0kchubFYZ+g9XDeHWIokdDdlPlOC0RHXf/Ka4HuuZjMm114A8N3CAfhFqTzzAhFpfyx9JYvnRZel5CO87z8zYcLo7meTh9BGZb58fZNEayiWIB8yOLPhhIFX4ymHbG2U2DugAkUDsbgEnqkvV80fNaWmH/jJvIZketCrf7/FTs9Dl5Hfn6hw/7fihSD/4VOX1OJpdh9qG/SuWnj7ClZ4NeBhGEuh6CHQQ==;QIGeD+9KO4ImV952bnEviw=="
 ---

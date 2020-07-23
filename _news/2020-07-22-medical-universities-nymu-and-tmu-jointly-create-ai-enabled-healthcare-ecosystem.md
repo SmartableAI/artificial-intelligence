@@ -3,7 +3,7 @@ category: news
 title: "Medical universities NYMU and TMU jointly create AI-enabled healthcare ecosystem"
 excerpt: "With a rapidly growing number of high-tech firms and startups scrambling into research and development combining healthcare and artificial intelligence (AI), targeting the new \"AIoH\" blue ocean market,"
 publishedDateTime: 2020-07-22T01:48:00Z
-webUrl: "https://www.digitimes.com/news/a20200722PD206.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20200722PD206.html"
 type: article
 quality: 49
 heat: 49
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitimes.com/NewsShow/20200722PD206_files/1_r.jpg"
-    width: 252
-    height: 336
+  - url: "https://www.digitimes.com/newsshow/20200722PD206_files/4_r.jpg"
+    width: 336
+    height: 224
     isCached: true
 
-secured: "tW9z0pT1p9W6coYhfwLXgzeJ7WmDz2g43WeZDpwl81uzv2S06JmovaG7isvAludMg7l5nI2gWg97I6ssRENJvNPhjm+GAp5YFJWWH74LLcNb4paBX8eR4sQT9pvJDBZHU4cR1xEJJi+GOYHKDNFLsLI1vD5hmbYVG0vBFR8zWm+H8TCGj5E6D3tLkdBk0+sHYcXqrC5PK7vx1ZbZHOUlE3Om1PZGebImulNzijeeFk5Yu5JC+ZD86J1GYxJCK01k+N9wOorVfdyiEF4aNg5OYCOig0dYEh7k2MhnXwqEJx/bZppY3kETVQwK2aIUI+Afpmu1KjUAERd2ooXowlprNQ==;9Dq0IcsRgy7bvoirCvKFHw=="
+secured: "Bf1cUaVhYF91rVubpwb0YUTIO3/500moup4SkPBUQDEls0U1tpFV+VqYVmqed6VNwwkyI73XgfTxrX+JZENxaxUOokQ+NCEiMUXAZRttHi4SQtBAw6yVGAzHYGsbLbFn6VoDDebnuDeJuX2mxJK528xppvzARmRCfN1jWFYQux4wQ5JH7q+qEOvqhIQ0uDIQiKfz+ARbjCj7aJP0WxRCufLqPp6KkAESyE14m4c0TbjTiDrkQuSI2P3ZfCgcMSvo7fM/Rlx7hR8fm0mXXdYN/Da2JnxJ19dmbaHLayMkiOxFLkxwS65b+ZxyqXvekC509FLo60f61CxuSHJFFEkofg==;Z73yr7pMAsXyxCzD4cobKQ=="
 ---
 
