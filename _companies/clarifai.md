@@ -2,7 +2,7 @@
 name: "Clarifai"
 overview: "Clarifai is headquartered in New York City and was founded in 2013 by Matthew Zeiler to bring the world’s best image recognition technology to market. Our first image recognition systems held the top 5 spots for classifying objects in images in the ImageNet 2013 competition. Since then Clarifai’s deep learning systems have improved orders of magnitude in speed, vocabulary size, memory footprint and have expanded beyond images to extract knowledge from all forms of data."
 type: "profile"
-heat: 83
+heat: 50
 
 website: https://www.clarifai.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifai"
   url: "https://twitter.com/clarifai"
-  followers: 8706
+  followers: 8705
 
 size: 51-200 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
     isCached: true
     title: "Clarifai"
 
-secured: "KDlnNOnIRZ7QSYOPW2d4snZoVoG94LU/fx5XBMrn/P6oaCCJ/a52BiM5ygo19q4Zn9DRdAwioWqYWfTE2ayJMC+yx1sg9nttfRxoNrTn1yIHZZAvCF6GynuxoVTsUmr6enQ0XpkjHnuG0aOO8WZ2Jo+t7p1266I1oYRdjIbtDg3FRTEYaZCySTwguvTimwC0oyJinLj+QKCqkgKoVUfBC+cVYuPLNBo5EkPUtwhdz2K08LvE6dG5loWeZMXiKdZNXel8D4ssFrpNTq7FDJ+xXfXOkFC36pA2PDj/SeAyggc3c7HjOrzQ166YnsAtiz6HZ+H8/ug67IV/qV8Dpb56zsIIRNrAelzWPD6b4/+b1bVamm/KLtQh1zf9WdjqwIKc;wAvvf5YV4W23Ial/vHFEKg=="
+secured: "6ks85vHpG0fjnneTWusNxxeIcM3wgm7ZlEB5oU2J0VQJR7fxjri6KeI2WDe5U8t6mrdf3mMfdofU5mJ/QWtOR/Na5uK5XhrQ94a+W7pW81tlcbHYgHQ4YFDWFBB8fxNUU3z4i5Z12ZpQN+9Hl9X8Mnjur/THtge4mmDFFrzIpSKoLWGUSnH7BWuICLfRChoNh8KmAUSclfOVNpDRcQ+59ky8xkUZWHkrLNV3DAqBY6kdzU8XPbThQhue2Hds8XI0C8ID9pjC+5UnUpMNq25rwCdJQB8XHW6eeDjNS0mb+9WGPaaQY454T7NuEHJ6zyXhJYnuCVmZ2YWLqOcoo6GUl9/exCoz+ItwYbeOFrCnqJXQQykNG6VRsELfjcPeSPbV;s88eecHC6KRI9aUkhPXNZA=="
 ---
 

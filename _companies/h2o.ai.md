@@ -2,7 +2,7 @@
 name: "H2O.ai"
 overview: "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai."
 type: "profile"
-heat: 110
+heat: 82
 
 website: https://www.h2o.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "h2oai"
   url: "https://twitter.com/h2oai"
-  followers: 20106
+  followers: 20104
 
 size: 51-200 employees
 yearFounded: 2012
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "XAhHwI1/MO2OzjCPb+4jHx3pOa8XRm4JjBNXEigRR+0G0ibAmMhHSo9LrF/lxnPSlMAKYcoYjmwJtHDwu9ROOwBv/qUmAY2id62vwTRj3u0wg7BIRT9Jb0isEztn9clTbaG1x+Q29IfEy1VORoKVVJKuYn1Ec1nzqHzZLV56Xk0OCtt7lvOypAV3yLXE1VFgwZczjzQktLGG8NFxGQkdWPJENPqO0gxQ3JLhPytQALbyji4E/ChG/o7amBdgmm825mqFn8AnmbjB10qCTQYkMtpPgvH2gWugC5ygr5gcrngI9Myehqa4xgpipNRL8JQE/qMYwPoTH+AkqdFrII8d41kY9sn7+4m+ovyZJ+8baPCnBR1A9Es3YVhitCnSbjcsaeQrJXKdgvsLt2BaM/Glhg==;RgOIzzWLg/Ya0nQkTmfCzg=="
+secured: "Rjqv2dBiYP67PeTUeXMtLc2OfsjiU7zAL58gAFPLgp1kUQbj3BBsw6J8nGEuEWVioIDdasqaI53KK6ATMNvIFwqQcWjRyk8JNBQXDn9WhFIptME2Bim4bN3SnjogT0/zkhPvCnCn4XTb3u6r7jLlSKx31V/a51tKLKfKmUm3hELrKUb1DQeIogOj1fYtJRm8koMTkAgMnlDZhkSqutLp9YFtLj13Ox4TnvzPw6tSHXxP9S4rXj9Y+QTZ4jsChEBCMOcbA4JPuXjeIamTEdk+yBeUnLCNBSJaLlQnTHrY4nLzlV8KoEUblwYjssNGLS0vo2ZnDNpkE5EYCdxmnNB7vfV4J2h3xFFf0cY84JMicyFcblexbvesJp7BJpbYWH7L0PbwMxVdmPW988BK01mweg==;Mv2QBI0Iy/eVmjhf+0eNUg=="
 ---
 
