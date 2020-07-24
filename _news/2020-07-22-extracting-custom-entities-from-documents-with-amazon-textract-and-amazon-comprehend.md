@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T20:24:31Z
 webUrl: "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI"
+    excerpt: "Businesses across many industries, including financial, medical, legal, and real estate, process a large number of documents for different business operations. Healthcare and life science organizations, for example, need to access data within medical records and forms to fulfill medical claims and streamline"
+    publishedDateTime: 2020-07-24T19:24:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/24/processing-pdf-documents-040.jpg"
+        width: 1000
+        height: 573
+        isCached: true
   - title: "Translating presentation files with Amazon Translate"
     excerpt: "As solutions architects working in Brazil, we often translate technical content from English to other languages. Doing so manually takes a lot of time, especially when dealing with presentations—in contrast to plain text documents, their content is spread across various areas in multiple slides. To solve"
     publishedDateTime: 2020-07-22T15:41:30Z

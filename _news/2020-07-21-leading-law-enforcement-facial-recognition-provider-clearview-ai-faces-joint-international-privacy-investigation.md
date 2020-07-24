@@ -26,83 +26,81 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook will pay $650 million to settle facial recognition privacy lawsuit"
-    excerpt: "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,"
-    publishedDateTime: 2020-07-23T19:29:00Z
-    webUrl: "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+  - title: "This AI protects BLM protestors from facial recognition"
+    excerpt: "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji."
+    publishedDateTime: 2020-07-24T19:37:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57"
-        width: 600
-        height: 350
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
-    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
-    publishedDateTime: 2020-07-24T17:01:00Z
-    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
-    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+  - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
+    excerpt: "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci"
+    publishedDateTime: 2020-07-23T11:26:00Z
+    webUrl: "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 58
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
     images:
-      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Lawmakers pass facial recognition ban"
+    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
+    publishedDateTime: 2020-07-23T12:49:00Z
+    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
+    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 59
+    images:
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
-    excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
-    publishedDateTime: 2020-07-24T17:45:00Z
-    webUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/"
-    ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+  - title: "Disney Researchers Have Developed An AI Facial Recognition Tool For Animated Characters"
+    excerpt: "How was it made? Facial recognition tools for photography and live-action footage — in other words, for real human faces — are already well established. But Disney’s archive contains a lot of animation, and animated faces are another matter."
+    publishedDateTime: 2020-07-23T19:44:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/disney-researchers-have-developed-an-ai-facial-recognition-tool-for-animated-characters-194764.html"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 55
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 46
     images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
-        width: 2000
-        height: 1000
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
+        width: 1280
+        height: 600
         isCached: true
-  - title: "Facebook Agrees To Pay $650 Million As Part Of Lawsuit Over Facial Recognition Technology"
-    excerpt: "The lawsuit was originally filed in 2015 by three Illinois residents who alleged the social media giant violated the state's Biometric Information Privacy Act, which requires written consent for a company to collect facial recognition data."
-    publishedDateTime: 2020-07-24T17:15:00Z
-    webUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844"
-    ampWebUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
+  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
+    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
+    publishedDateTime: 2020-07-23T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 50
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/facebook-placed-an-informational-disclaimer-on-a-post.jpg"
-        width: 1024
-        height: 700
-        isCached: true
-  - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
-    excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
-    publishedDateTime: 2020-07-23T22:50:00Z
-    webUrl: "https://www.law.com/therecorder/2020/07/23/judge-poised-to-approve-updated-650m-facebook-settlement-over-facial-recognition/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 34
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/James-Donato-Article-202007231555.jpg"
-        width: 620
-        height: 372
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
 
 secured: "5jIFLig4vzVs3hZ2JdKJ5tY4JIVetIziJFHWygNCw7iDji3Y7r0ItQTSFB6ot2y/GfcPsOstA6+NKAuWM6peZLP3Nujoylip1xa/yptPSqugblmS1uat0/na4/FUDLTjWd5TLWO0knd3iTZhne+c8OLf0V8r2ZdgRN8QR5UXW1k1Ge5apuhI6ZkdBk9LYSZu4cIRj5jPkG03SWsK17Bh++IzjtQ2H4QPSDgNMlRVMmdYYVYrp2C1i2PvoxnwENMaLVEJ/lSVp1i+nv/C/D5D00vpGudG6a19p4hR/Y2aSwE65IcKtIrhqfKDOWL4mS99RUv3eiqTGUZhXLseyTuzfQ==;EeaxK2JDvxlPozZWx3OAaQ=="

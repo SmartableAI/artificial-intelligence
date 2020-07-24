@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
 type: article
 quality: 88
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,62 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Why facial recognition algorithms can’t be perfectly fair"
-    excerpt: "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ..."
-    publishedDateTime: 2020-07-20T16:40:00Z
-    webUrl: "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
-    ampWebUrl: "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+  - title: "This AI protects BLM protestors from facial recognition"
+    excerpt: "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji."
+    publishedDateTime: 2020-07-24T19:37:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
     images:
-      - url: "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop"
-        width: 320
-        height: 205
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Anti-facial recognition tool Fawkes changes your photos just enough to stump Microsoft and Amazon"
-    excerpt: "The changes Fawkes makes to images are so small that altered photos look almost the same to human eyes. But the changes are also significant enough to prevent third-party facial r"
-    publishedDateTime: 2020-07-24T11:59:00Z
-    webUrl: "https://www.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
-    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+  - title: "Lawmakers pass facial recognition ban"
+    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
+    publishedDateTime: 2020-07-23T12:49:00Z
+    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
+    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 61
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 59
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/24/e3d219ac-cd5b-11ea-9c1b-809cdd34beb3_image_hires_204121.png?itok=joEdyfYA&v=1595594490"
-        width: 1200
-        height: 630
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Moscow subway to deploy facial recognition surveillance system"
-    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
-    publishedDateTime: 2020-07-21T14:31:00Z
-    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
+    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
+    publishedDateTime: 2020-07-21T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
     type: article
     provider:
-      name: Meduza
-      domain: meduza.io
-    quality: 39
-  - title: "Why we must arm police with facial recognition systems"
-    excerpt: "It’s now evident in the Unites States that there are pockets within police departments that have demonstrated racial bias. This has resulted in a"
-    publishedDateTime: 2020-07-22T11:26:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/why-we-must-arm-police-with-facial-recognition-systems/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 39
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
     images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
-        width: 1125
-        height: 941
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
+  - title: "Disney Researchers Have Developed An AI Facial Recognition Tool For Animated Characters"
+    excerpt: "How was it made? Facial recognition tools for photography and live-action footage — in other words, for real human faces — are already well established. But Disney’s archive contains a lot of animation, and animated faces are another matter."
+    publishedDateTime: 2020-07-23T19:44:00Z
+    webUrl: "https://www.cartoonbrew.com/tech/disney-researchers-have-developed-an-ai-facial-recognition-tool-for-animated-characters-194764.html"
+    type: article
+    provider:
+      name: Cartoon Brew
+      domain: cartoonbrew.com
+    quality: 46
+    images:
+      - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
+        width: 1280
+        height: 600
         isCached: true
   - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
     excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"

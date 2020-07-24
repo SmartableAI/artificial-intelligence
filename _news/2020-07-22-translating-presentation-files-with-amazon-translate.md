@@ -42,6 +42,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "Processing PDF documents with a human loop using Amazon Textract and Amazon Augmented AI"
+    excerpt: "Businesses across many industries, including financial, medical, legal, and real estate, process a large number of documents for different business operations. Healthcare and life science organizations, for example, need to access data within medical records and forms to fulfill medical claims and streamline"
+    publishedDateTime: 2020-07-24T19:24:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 95
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/24/processing-pdf-documents-040.jpg"
+        width: 1000
+        height: 573
+        isCached: true
 
 secured: "/R7BU2t0KsvrdoCfYHKbdIo7IcjYJlfKy/SpHVIkCuFGXIxhm+iwU7W4l/XEz9rqldJEJ+kKjB0N6WVCAISBX2AXAs6wJPhBOfzvZaEvP3nR5ZlnKvaSCJAn0AQY25bRu3O904f5S9kFAbtU0x7Lrc2QeAmrmjjla0mLoC028w+H9ATyzQnfdhtHlwpWJ8vmTBNstviYG72PiE5fwtKN70STptTmPjFrKoSPtKjGTm3odz9WcuPT5BcvjyxOgMFB5BTMkIgJ8LvLUBFzi1MTLhxEbeoO1mfIWMG/YcK4+9zbvoGa+gpFgJb+1T5Z/40w6B4mpCORA/0qMgGQtTaoAA==;oTuY3A4v7fIGYYW8vkM48A=="
 ---

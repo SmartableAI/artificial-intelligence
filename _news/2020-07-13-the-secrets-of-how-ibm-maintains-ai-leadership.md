@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The Secrets of How IBM Maintains AI Leadership"
-excerpt: "IBM's focus has been on the AI (Watson), and quantum computing efforts. I got an update on their AI efforts last week, and they have moved the ball a lot over the last few months. Let's talk about ..."
-publishedDateTime: 2020-07-13T11:36:00Z
-webUrl: "https://www.technewsworld.com/story/The-Secrets-of-How-IBM-Maintains-AI-Leadership-86752.html"
+excerpt: "IBM is chasing two of the three technology areas that I think will change the world as we know it over the next two decades. Granted, we are currently experiencing a level of unprecedented change, thanks to the pandemic,"
+publishedDateTime: 2020-07-13T11:00:00Z
+webUrl: "https://www.technewsworld.com/story/86752.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Ya2ognsFRwzwBsfikM9np6MXjfnIuQgUC3/qqB2iSU+p3tu9pVpDbVRBSloj/QMrnnvV6ILfmWPjDvlQ0GZHfN7K4CA0Yg9RwSLGvAaFdYPuRRe4tCSZ0ahGcRHubsH6R0dCdP3DDisG7WUjqkL2epsPIaD1DjlpE1uIqd7LDKMcJLBEwOgdIqpA0K6MU11sz9Lt+I7DRb8QLEcm8s+mceWs86jjpiVMHgdvs34x/RMz2UqWghM9Nkm/FVW2dy9HBpE+8vZjYNU/+kKoVGtPxGax7RfA94g7Z6Dvbo4FpFGeCU6weUib5RjRyYrIsAZ23DaziHG4tt3+thYQqtFACQ==;KnxhhGdc/q/bMrL/tTqdAA=="
+secured: "2JGsBZF7DCML67UZ8kk9rF1DOzS1utuKO6RZT53ln9XNoeM2gLGZYg52KzZPqYB3QtJiPcKqoFC6DZ7UHzSotDwtMzl+VqK7+hwmHD07UXLU16gW2PFkCjIiwpT5huG23emnjoLg0w2P4XCZL1Y00bG6cxrIbn93AHC/3wvjgchJnaQKPAIrKhHhFgA+NPz3O8MWrTqgC7f7uv6aRrSaGkDhOb3u4R7UViVL+dJblbNhTqlRFotNtyK4VgFHCxK9XiH4xciZPgdRyCkxB351hKl9/LrHUrHINNOr1Dgfl0cQdo2QVlo6dIVXmQrTXKezFnMJ20nYUJ3mvnfPvTLeMg==;T3kI8JneFf4GGaMqRFqDDg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T15:08:00Z
 webUrl: "https://www.mddionline.com/artificial-intelligence/quibim-combines-ai-and-imaging-detect-covid-19"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,17 +21,6 @@ images:
     width: 770
     height: 400
     isCached: true
-
-related:
-  - title: "Robots Provide High-Tech Support to Combat COVID-19"
-    excerpt: "During the early stage of the COVID-19 outbreak, researchers from C-FAIR met with experts from Shandong Provincial Tumor Hospital to discuss feasible plans and operable methods in using AI for epidemic prevention."
-    publishedDateTime: 2020-07-20T02:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/robots-provide-high-tech-support-to-combat-covid-19-1029407655"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "I/mlDPsHYTBkiYezRdjgY5FV8+v/x7WLVhQyl0eyCZTtqH/b+byotWKkKsykUlcU60+efr0DOA0H3tv4b3tVpFWVLx4T/+ImkU9hlSefmxJYLYM1q1KDynfCIYChBavD/msZa/pzxO8fM1YtL4VbNNs+TD38+z711nF59bSsPZdjxVgzJIk9dvK7qk6CqHAz6e3UJq+QvYmM8KULQ4Uc39Yvl+blhi+Hfqei06XdaKoz7PoQpd+jl3w5oTvad4HGIKV20h16mR5fUqPB0RZziD218LQBuUj7m2zQc4NQ0DR+j+rtPe2qJHuI//jOTWsxEdV89nyvtaY2N0VgQeHpaA==;sufgG3dLbrFjUAmHm/MgLw=="
 ---

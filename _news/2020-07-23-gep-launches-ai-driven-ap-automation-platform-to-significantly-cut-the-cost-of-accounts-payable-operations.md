@@ -47,6 +47,15 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 17
+  - title: "Afternoon Coffee: GEP adds AI-backed AP automation solution; Procurement Spark is job board for practitioners; the electric ‘Tesla Semi’ in Texas"
+    excerpt: "GEP says it is a stand-alone solution that is built in the Microsoft Azure cloud, and the provider sees it as a launching pad for businesses to start their digital transformation or to add the solution to continue their digital maturity. The new AP ..."
+    publishedDateTime: 2020-07-24T18:50:00Z
+    webUrl: "https://spendmatters.com/2020/07/24/afternoon-coffee-gep-adds-ai-backed-ap-automation-solution-procurement-spark-is-job-board-for-practitioners-the-tesla-semi-in-texas/"
+    type: article
+    provider:
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 0
 
 secured: "tjmHCMHzVv9S5mArBDtWn1pVZXr+0tK0GrqlS6lEzNCP+IVhRQ1jBs0kUgty20oVuFGU2JpDkRxh4fuZ1pLuOigV7QCY77FxEMQI35gDzpmCWPhHYBIDsTwQSSyPPcgxveDWFSXZusNJIXEEdpTBlfS8NinChgMbxxFRwoaMtDbAv1/EYvDDBHGkKk6y46+apzP1EUyeHPRnBws20N0cSGpyROMqmFC18N5fv58wCbmNDkWOaRyZft4XT5oWwSB3+6YIDHQp0wOxdcwWdFK/s/z44QsykLo9uh0bNv4/12q0BHf178HUJTw3RA587tTId2T7qMnVZ0leOkoltYsLog==;U4f2329YPdoeXPHZzbb+bQ=="
 ---

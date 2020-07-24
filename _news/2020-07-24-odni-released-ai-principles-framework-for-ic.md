@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "New Intelligence-Community AI Principles Seek to Make Tools Useful—and Law-Abiding"
+    excerpt: "On Thursday, the Office of the Director of National Intelligence released a list of principles to guide its use of AI and the development of new tools. The list and accompanying framework call on the IC to use “explainable and understandable methods;"
+    publishedDateTime: 2020-07-24T16:07:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/07/new-intelligence-community-ai-principles-seek-make-tools-usefuland-law-abiding/167180/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 33
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/07/24/NGai20200724/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "ODNI issues guiding principles for ethical artificial intelligence"
     excerpt: "The Office of the Director for National Intelligence issued guidance Thursday for the intelligence community‘s ethical development and use of artificial intelligence. The two documents — new principles and a supporting framework — aim to set a foundation for how and when members of the IC should use,"
     publishedDateTime: 2020-07-23T19:34:00Z

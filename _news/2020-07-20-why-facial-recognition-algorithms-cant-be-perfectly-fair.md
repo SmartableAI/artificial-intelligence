@@ -8,8 +8,8 @@ ampWebUrl: "https://theconversation.com/amp/why-facial-recognition-algorithms-ca
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: The Conversation
@@ -26,49 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
-    excerpt: "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci"
-    publishedDateTime: 2020-07-23T11:26:00Z
-    webUrl: "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+  - title: "Exams that use facial recognition may be 'fair' – but they're also intrusive"
+    excerpt: "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias"
+    publishedDateTime: 2020-07-22T06:00:00Z
+    webUrl: "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
+    ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
+      name: The Guardian
+      domain: theguardian.com
+    quality: 71
     images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
-        width: 1200
-        height: 900
+      - url: "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Anti-facial recognition tool Fawkes changes your photos just enough to stump Microsoft and Amazon"
-    excerpt: "The changes Fawkes makes to images are so small that altered photos look almost the same to human eyes. But the changes are also significant enough to prevent third-party facial r"
-    publishedDateTime: 2020-07-24T11:59:00Z
-    webUrl: "https://www.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
-    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
+    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
+    publishedDateTime: 2020-07-20T09:26:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 61
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 50
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/24/e3d219ac-cd5b-11ea-9c1b-809cdd34beb3_image_hires_204121.png?itok=joEdyfYA&v=1595594490"
-        width: 1200
-        height: 630
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
+        width: 770
+        height: 500
         isCached: true
-  - title: "Moscow subway to deploy facial recognition surveillance system"
-    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
-    publishedDateTime: 2020-07-21T14:31:00Z
-    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    type: article
-    provider:
-      name: Meduza
-      domain: meduza.io
-    quality: 39
   - title: "Why we must arm police with facial recognition systems"
     excerpt: "It’s now evident in the Unites States that there are pockets within police departments that have demonstrated racial bias. This has resulted in a"
     publishedDateTime: 2020-07-22T11:26:00Z
@@ -82,20 +69,6 @@ related:
       - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
         width: 1125
         height: 941
-        isCached: true
-  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
-    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
-    publishedDateTime: 2020-07-23T17:34:00Z
-    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
         isCached: true
 
 secured: "k32H7XeHkoWehzDXpZfzcDsbgcDAtdQ2YpMAqh0imhK3rjmcSjCyMGUfhDDaeZgmSRN/8xRWw4+vUhiU+e7ZbsJYnSczDj7i+jnjTYkivNeM5zbUARajaSmSiVKuE2KmYNXJELCZZ7idrAMLBEnAcyOG6Te/i+Z4S5K6n7cu7kIpMSWohaN4Qfy5Q6IagasvKYaz1Iz5C1Ed1DMaTD7DFtFqw59ZwCPUsLH1eNQuxgkeq4LsvubuUs+B9UN2NSEJYu4UyY8AKfKavEpZe2mWBe0jodH/DsMtznJbruVH+KHJXs5QBSnTkFxhsQS8b1KFYFVYcXsmirYD4Era2N6/Zq+SgEr6L+lI9hiPue8692UJUhg0WcWyZW3UOLosFFPlM4ZOwFOPO+zf06AsgRiiVQSkQH6tdDxyuuCTlQQ6ipYAKsHnxoalh0F/+5X0JK84SOjx7gwhJHLHbkb9wqe3C5LTYkxu2S6W2/KuvSPOkFFD8XDFRAad7BahrMjmab9+3qTaiqWLgNRricGUL94WRA==;tr+Shvz9NtnCy/M0svw4Eg=="

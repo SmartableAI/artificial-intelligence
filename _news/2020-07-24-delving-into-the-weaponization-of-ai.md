@@ -45,6 +45,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Afternoon Coffee: GEP adds AI-backed AP automation solution; Procurement Spark is job board for practitioners; the electric ‘Tesla Semi’ in Texas"
+    excerpt: "GEP says it is a stand-alone solution that is built in the Microsoft Azure cloud, and the provider sees it as a launching pad for businesses to start their digital transformation or to add the solution to continue their digital maturity. The new AP ..."
+    publishedDateTime: 2020-07-24T18:50:00Z
+    webUrl: "https://spendmatters.com/2020/07/24/afternoon-coffee-gep-adds-ai-backed-ap-automation-solution-procurement-spark-is-job-board-for-practitioners-the-tesla-semi-in-texas/"
+    type: article
+    provider:
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 0
 
 secured: "V6Q3ATUll+9nhh7Exy7aNg1lErx7MBE5bUJN2BPacAUbP2+sedLNb1lvYg6OvfRBeV9oOaO88LXo0bXPab0NVhL+ISCK9BfrprocvlBvTS09Py7lkkj37J46ea5uzH5v4CWOWfD4lQWY+Q2Gm1X7sujrQJgajLV0BOm73aFolYD2LqWKmBPBOXYfQ+CkFPJFenG4AvObn9INDEdHBz6egAF8wQe3NZ4W5kpY1qpUTtc6KqI8W4GXAudtnYD7h/dXEzSyhpePNPicEvIT2TCDeaEnhtT0SVyCjqWdzaJYkZONjV1VksvUx6YIyhhIB0yTDVXOh6poDdf1ptz6A13QbA==;rgPKbrmD7w4XxyjXnuqgbw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T18:26:35Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/"
 type: article
 quality: 102
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -50,6 +50,15 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 17
+  - title: "Afternoon Coffee: GEP adds AI-backed AP automation solution; Procurement Spark is job board for practitioners; the electric ‘Tesla Semi’ in Texas"
+    excerpt: "GEP says it is a stand-alone solution that is built in the Microsoft Azure cloud, and the provider sees it as a launching pad for businesses to start their digital transformation or to add the solution to continue their digital maturity. The new AP ..."
+    publishedDateTime: 2020-07-24T18:50:00Z
+    webUrl: "https://spendmatters.com/2020/07/24/afternoon-coffee-gep-adds-ai-backed-ap-automation-solution-procurement-spark-is-job-board-for-practitioners-the-tesla-semi-in-texas/"
+    type: article
+    provider:
+      name: Trade Financing
+      domain: spendmatters.com
+    quality: 0
 
 secured: "hHiubQZIymbTLfplGRuwk1ox/rAubv+R32W1rBueoZnMaSG+CNsH+lrOsX9GZIstKJu4nCPFmwQo/X9Hury03ti/B+FG2BDBmAZIjm6Owl8dMJIWkAaKLyVWeVJggu8WuTGqnkZzDu/c74hZLQhI9/IYxvJAKgnpk302S1tYRSiSxZHwPlJ+68EbrMVI24j6Z+KloZjTZA+EPcyWPaiV+94MpadCHC1zkKI3tZLThYD4WQUIfa0bb9Y1NwTfPnxWj4yFhSz/4TocklpK17E9NRvHIgjk61mAuKgVcdOpEBxq6YDb/QBC9tv97uhwXo6/zjIAXa2/pQ75fB+RfEYqeA==;DvpOU5dNS77n+41NXUmP5w=="
 ---

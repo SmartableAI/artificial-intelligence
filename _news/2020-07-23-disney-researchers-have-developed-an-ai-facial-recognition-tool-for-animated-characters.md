@@ -24,63 +24,84 @@ images:
     isCached: true
 
 related:
-  - title: "Alipay allows pet owners to buy insurance by using facial recognition on their cats and dogs"
-    excerpt: "In addition to insurance, animal lovers and researchers have found plenty of other applications for animal facial recognition. Jack Ma’s Ant to kick start Shanghai and Hong Kong IPOs, bypassing New York Finding Rover, a US smartphone app, uses a machine ..."
-    publishedDateTime: 2020-07-21T10:39:00Z
-    webUrl: "https://www.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
-    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094053/alipay-allows-pet-owners-buy-insurance-using-facial-recognition-their"
+  - title: "This AI protects BLM protestors from facial recognition"
+    excerpt: "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji."
+    publishedDateTime: 2020-07-24T19:37:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 78
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/21/3cd591c0-cb20-11ea-9c1b-809cdd34beb3_image_hires_175945.jpg?itok=ylDU3jZF&v=1595325600"
-        width: 1200
-        height: 630
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png"
+        width: 796
+        height: 417
         isCached: true
-  - title: "USD 501 using facial recognition device to increase building safety"
-    excerpt: "A local school district is hoping to make its buildings safer for students. Educators in the Topeka Public School District will be rolling out what’s called a"
-    publishedDateTime: 2020-07-21T02:30:00Z
-    webUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/"
-    ampWebUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
-    cdnAmpWebUrl: "https://www-ksnt-com.cdn.ampproject.org/c/s/www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
+  - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
+    excerpt: "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci"
+    publishedDateTime: 2020-07-23T11:26:00Z
+    webUrl: "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
     type: article
     provider:
-      name: KSNT
-      domain: ksnt.com
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Lawmakers pass facial recognition ban"
+    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
+    publishedDateTime: 2020-07-23T12:49:00Z
+    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
+    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
     quality: 59
     images:
-      - url: "https://www.ksnt.com/wp-content/uploads/sites/86/2020/07/facialrec.jpg?w=844&h=478&crop=1&resize=1280,720"
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
         width: 1280
         height: 720
         isCached: true
-  - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
-    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"
-    publishedDateTime: 2020-07-20T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-07-09"
+  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
+    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
+    publishedDateTime: 2020-07-21T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
-  - title: "Brandywine Valley SPCA Using Facial Recognition Technology To Help Reunite Lost Pets With Owners"
-    excerpt: "But now the Brandywine SPCA is using new facial recognition technology to make it easier to reunite lost dogs and cats with their families. “We should take every step necessary to try to get pets back to their owners,"
-    publishedDateTime: 2020-07-22T20:55:00Z
-    webUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/"
-    ampWebUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
-    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
+  - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
+    excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"
+    publishedDateTime: 2020-07-23T17:34:00Z
+    webUrl: "https://www.biometricupdate.com/202007/letter-to-pelosi-cut-facial-recognition-spending-from-appropriation-bills"
     type: article
     provider:
-      name: CBS Boston / WBZ
-      domain: cbslocal.com
-    quality: 26
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
 
 secured: "3Wldho+HCyyrwp/6RK0mDokAUa3GZgwWw0KtnpraE2nkUcl42EeKKNlM6+IRDpIjlsY7n228dSQzzANlgTkgS3UiTR3SMH2A+vo2sD0BIMi6rq+2TPvYrnR/aLdZi2MAxh+KKuwE2ZGxzefqt1hjDY9q+bsubZXOyJct7DOqqACxkgbO/UbxKUn62Gn8oSh0zy0yeHnRdeXFQQkBYDb0QX0nMpfiEOw2B1PhB7N8mzUu7VL98Os8/uzlEhu6uY90qPVVETUebWKck0lHQ70aIxM6o4OimuzfKZ2X36G1v9emKj3zAG3XjOtfN80LAPMzYAC0cqB+y7SPTnfszKnX1IijnNR3BCvob+M45upnoXwcsGp2SmFhTLWONKjufVXGE4QDtPHTLLlpz+m2lmvP+peRDJbfz7N2L3cTj8aVE24ldvp7y2+JPolmMX1FodNUq0m0AMLMDokmDulscJptRDPOXMh22wBhzgFwxVDEdcMFb8BtsBJvPmhCG27Q6VwL33wPRpRjx54vVAkjTWsRiA==;/BC1d85HtqUi2bQ0HesibA=="
 ---

@@ -74,22 +74,17 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
-    excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
-    publishedDateTime: 2020-07-21T16:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation/amp/"
+  - title: "Moscow subway to deploy facial recognition surveillance system"
+    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
+    publishedDateTime: 2020-07-21T14:31:00Z
+    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
     type: article
     provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 53
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
-        width: 1500
-        height: 860
-        isCached: true
+      name: Meduza
+      domain: meduza.io
+    quality: 39
   - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
     excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
     publishedDateTime: 2020-07-23T22:50:00Z
@@ -105,6 +100,6 @@ related:
         height: 372
         isCached: true
 
-secured: "3/MrQOnDgivuCg+6vTm65l6OVaT5dKqVek5cG6FJRnAtzW291LFjba8piM/364ysNFtE6liZqqS78S3rMQc+Z4bHEk1eWuNhP+wJ7Y0BPE39xb/TRycjFvNg0VrTu6TupYSB+qkD5VsAeJQcdiDR+Xo71at+iQp9YYvL7RBWRqSQPSqJ+MQ2BWGMnicuLecyc4uzllhuksj5d1bU0DMFImQbeYplXH36W8YegJUlB3aBizhQpglYqP1OB+yazW5QQJGFAqWINhLIM4BXN2JZ//1IACAfv8CxEbgJn59CmYzdGgTsvWEwpc7bGhd4izPrvT1jeqsboYLWDCqB8B/2rQ==;K3G1FOkDnzGmq629DpGOOw=="
+secured: "wg5d5oZHQidg5+jWkUwZzUxAE+t+/y6c2asBnetsJMJH5w+qezyJTx7aMJ0JlAu2yCDzBsgzO+FOk4pRkH3Uo1ejqpfWWvNi/Iho523zALNAVX1L9fDlyWY1LlBmOgIWJSZrSeJ4UVcsww0LG1Ca49Djci40+u5lPLWvUSKnTJQI27gRmQw5L+R5ziebvXX5O+22IUgahjDREEXAXwAu/rktOeuySpPxfrGCKpfxWL8C3ThhWg6ywN/+TmyL9GLE++OGe2Xuv7AquZESl1GeGv2PFb40giTT+IP9DUTH0BlJx2877Tq5j0/rI0nWB1TY/V3nDtUNI5zmN1ZxK2pGLwLPSFzQMJ2c3KmK6FwZWLIzStBrgzEi+lf7XbbV+Se9MQXNB8I8tGR2HyW+syGSEk6DodiiiFovAV5WIzqdDwc4+iN9V/eNzXMzOMWF7aR6sXxmLMpleXSyJvGf2fAVfqsXqHkXyllsfwRsgi6IaxoA8crVslTjVRiqL5VLu5GDzZ97B4XUlNdNGoXa3IuA/A==;LmknzP61oVjUCLEeutomsQ=="
 ---
 

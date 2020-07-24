@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T09:06:00Z
 webUrl: "https://www.nature.com/articles/s41524-020-00375-7"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ images:
     width: 685
     height: 346
     isCached: true
+
+related:
+  - title: "Machine learning reveals recipe for building artificial proteins"
+    excerpt: "Proteins are essential to the life of cells, carrying out complex tasks and catalyzing chemical reactions. Scientists and engineers have long sought to harness this power by designing artificial proteins that can perform new tasks,"
+    publishedDateTime: 2020-07-24T19:56:00Z
+    webUrl: "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.html"
+    ampWebUrl: "https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 42
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg"
+        width: 2880
+        height: 2365
+        isCached: true
 
 secured: "U31mh+ndFYBlnZuoyNwUDz7qcsei9u7oAnLD+cjHdnRbOksv/KlnGiaUo9mMEk+1EoT0jycIPFgE+S4UbknYjqrPAT+GwM1Gao/n7Su7MU8WnXHDT0r21U9koMoP8yZTGmTrb3mm+USQEj7o8HxtnDVOgYgZ+aWO2/bpSTfp6tcOaV8LF5c+Ac0YsSS+Spg+rftm9KVzXjSf+2/ysFEqj/bta3DrIgFnqE/IHMpP/RRK32LQUqxeqOUifDYefuD9MrMw2iYOfUOOp+cjGGOwdjeQ/QEd85TU6d9KQ5VVxM5mtti66TSQVWhtS3rckgF3bE5k34AsJobqDcbipubn/tXsz6xIZa93fcUo1tE1cIj6mlk9NJ7GsGC6FhR8VCFlBvRC+iILhK15dHGkhvs8oKpnzB7p7m7ojqX0AEexopUr8FxzZJhpnKgmraiqOcOKMhCzbG0otZQYURSNvn8LYhCgz8qjJJMpUKZCrKMJs5iMX+TtejMcgXaFF5j8kDCuAuDKrHeRqijzJ+71lIlV/A==;dZYnMZffIbl7csFOKQiqvQ=="
 ---

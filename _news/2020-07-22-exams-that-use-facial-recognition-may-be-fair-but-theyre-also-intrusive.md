@@ -8,8 +8,8 @@ ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-re
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
 type: article
 quality: 71
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -30,10 +30,40 @@ images:
     isCached: true
 
 related:
-  - title: "Counterpoint: The hidden threat of facial recognition technology"
-    excerpt: "Civil rights advocates have long warned that facial recognition technology was open to abuse by government efforts to identify and track protesters. Those"
-    publishedDateTime: 2020-07-22T11:23:00Z
-    webUrl: "https://www.scmagazine.com/perspectives/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+  - title: "Why facial recognition algorithms can’t be perfectly fair"
+    excerpt: "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ..."
+    publishedDateTime: 2020-07-20T16:40:00Z
+    webUrl: "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    ampWebUrl: "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 74
+    images:
+      - url: "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop"
+        width: 320
+        height: 205
+        isCached: true
+  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
+    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
+    publishedDateTime: 2020-07-20T09:26:00Z
+    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 50
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Why we must arm police with facial recognition systems"
+    excerpt: "It’s now evident in the Unites States that there are pockets within police departments that have demonstrated racial bias. This has resulted in a"
+    publishedDateTime: 2020-07-22T11:26:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/why-we-must-arm-police-with-facial-recognition-systems/"
     type: article
     provider:
       name: SC Media

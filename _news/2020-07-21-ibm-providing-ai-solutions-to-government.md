@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T18:33:00Z
 webUrl: "https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
-    excerpt: "“These will be jointly offered with IBM’s market-leading Maximo Monitor with IBM Watson and advanced analytics ... s expertise in enterprise-grade AI and production automation can provide ..."
-    publishedDateTime: 2020-07-20T01:54:00Z
-    webUrl: "https://itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "IBM, Verizon Business to Collaborate on 5G, AI and Edge Computing Solutions for Industry 4.0"
     excerpt: "Verizon Business and IBM have entered into a collaboration to work together on 5G and edge computing innovation to help enable the future of Industry 4.0"
     publishedDateTime: 2020-07-21T00:49:00Z

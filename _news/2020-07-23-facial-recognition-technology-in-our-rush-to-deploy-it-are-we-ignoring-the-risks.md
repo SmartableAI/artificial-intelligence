@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T19:41:00Z
 webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Counterpoint: The hidden threat of facial recognition technology"
+    excerpt: "Civil rights advocates have long warned that facial recognition technology was open to abuse by government efforts to identify and track protesters. Those"
+    publishedDateTime: 2020-07-22T11:23:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
+        isCached: true
   - title: "Rep. Pramila Jayapal says successes of facial recognition technology can't negate its racism"
     excerpt: "Rep. Pramila Jayapal (D-Wash.) and other Democratic lawmakers introduced a bill last month to ban federal use of facial recognition technology. Jayapal says the good facial recognition technology is able to do can't outweigh the prejudicial nature of the technology."
     publishedDateTime: 2020-07-21T17:36:00Z

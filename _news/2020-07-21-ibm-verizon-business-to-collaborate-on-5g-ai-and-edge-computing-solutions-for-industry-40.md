@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Verizon, IBM collaborate on 5G, AI solutions at Enterprise Edge"
-    excerpt: "“These will be jointly offered with IBM’s market-leading Maximo Monitor with IBM Watson and advanced analytics ... s expertise in enterprise-grade AI and production automation can provide ..."
-    publishedDateTime: 2020-07-20T01:54:00Z
-    webUrl: "https://itwire.com/enterprise-solutions/verizon,-ibm-collaborate-on-5g,-ai-solutions-at-enterprise-edge.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/8eb0cd9b1105d72f454403b9bc42aa03_M.jpg"
-        width: 375
-        height: 249
-        isCached: true
   - title: "IBM Providing AI Solutions to Government"
     excerpt: "including a deeper context of AI in health and human services, agency examples and outcomes achieved via IBM Watson, and IBM’s future plans. IBM Watson Health improves health and human services delivery and supports social services organizations with AI ..."
     publishedDateTime: 2020-07-21T18:33:00Z

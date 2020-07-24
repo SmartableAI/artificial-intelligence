@@ -243,22 +243,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Lawmakers pass facial recognition ban"
-    excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
-    publishedDateTime: 2020-07-23T12:49:00Z
-    webUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/"
-    ampWebUrl: "https://www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
-    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/new-york/lawmakers-pass-facial-recognition-ban/amp/"
-    type: article
-    provider:
-      name: WIVB-TV
-      domain: wivb.com
-    quality: 59
-    images:
-      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2020/07/facial-recognition.jpg?w=1280&h=720&crop=1"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "New York lawmakers vote to pause facial recognition in schools"
     excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
     publishedDateTime: 2020-07-23T18:00:00Z
@@ -322,6 +306,22 @@ related:
       - url: "https://thehill.com/sites/default/files/ca_facebook_72220getty.jpg"
         width: 1440
         height: 880
+        isCached: true
+  - title: "Facebook offers $650M settlement in facial recognition suit"
+    excerpt: "That’s what lawyers for the social media site are saying with their latest offer to settle a class-action lawsuit based on what plantiffs say is abuse of their facial recognition system."
+    publishedDateTime: 2020-07-24T18:33:00Z
+    webUrl: "https://thegrio.com/2020/07/24/facebook-650m-settlement-facial-recognition/"
+    ampWebUrl: "https://thegrio.com/2020/07/24/facebook-650m-settlement-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2020/07/24/facebook-650m-settlement-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 59
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2020/07/971974530.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "New York legislature bans use of facial recognition technology in schools"
     excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
@@ -416,6 +416,6 @@ related:
         height: 1944
         isCached: true
 
-secured: "DDYbau/TNaz/zHUyFm0VM6YYgHDMsWzGHmKHihtQoOsfyns5LW5So2t4XcsW0AKh2KDNIIV+sxR1akSIjsc2ixRwxfCKSP2VgE5voP5hQG7s62UwvlBzZuX3zjepWJS+OViBi+VrArzDyTqgpkyn6sh1Ry022lNJlnMM0omwdWW8mMmm2GEUr1USXY5SFVe88GIEm6W5G8O6uMhSoMoKd8BLEFv0bUeB6aZHIklDH772GPE9miH+QF/Xbxp/5rH3idFl/exIcH6+Tg7kEQWCiGC23kGs4XemqKUcfaIM3wi0dkXBYsPSwkHW+ANfqQQ12hW6Ez9TLfAd0/bu7EsQ2g==;d6CBJt9dmjcxR63y1BNVPw=="
+secured: "Zn5ngLMdskvtte+e6TLQ8WazIQFR5TZopkXIjhs9p6a4unVMKN5hpjMPYt5N2EOJqj8gihKRaESf0YGsJOyuWhKu0lmCsTcDHpGW34jnY3UA9XShFqsAl1CUPPRpmEotSYWrU6a5Px9R0GzneTfFo7dk3/0KkMwvZOKpCvSk6jXB4EhulH6DGjAPeWhnK4KeoJjNZbXmA+p2E6hBU/c6nUcqJABbRDhe6FL5Nf6x9YW6okJB9y5Y1IU/shk4QwE/nspJXllnegZtPJ5rtrhX98ZIlKlIygc4c8XM92TkjkZ4z1UhjHfOTne9PJqy8ajRuZIQpUqPv55d5FmpFZ4Zd/enRoiSsDwtqNj3hDDnSh/ABj5rzY+WstH0eFB4QknmdpWFmeUP6s3J/3ErgtGBfmOtPaFSRoVCsMMyw+mWyvzOJeaqHFPihODQPOmgwrR4FVp0NmKB/6y65UhF/zla7Yd6P8is3jNUXBJ/2B8hEOm+c8ELvA4z2btc8ypAEgnBhflh9qikjVIDKJ+NTqksXQ==;OAVxeIw/hoNYTzfX0DvOjw=="
 ---
 
