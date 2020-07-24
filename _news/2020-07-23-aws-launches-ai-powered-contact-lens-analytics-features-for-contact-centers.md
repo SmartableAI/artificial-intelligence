@@ -5,7 +5,7 @@ excerpt: "Contact Lens, a set of artificial intelligence features to help optimi
 publishedDateTime: 2020-07-23T20:16:00Z
 webUrl: "https://siliconangle.com/2020/07/23/aws-launches-ai-powered-contact-lens-analytics-features-contact-centers/"
 type: article
-quality: 35
+quality: 52
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/aws.png"
@@ -40,6 +41,6 @@ related:
         height: 689
         isCached: true
 
-secured: "oHf1ipky1vBTq5hO/Z4LNxqdoi2zmKRwxOoa2HtPy03xSPIuX1cYs+WS8JizKa2z3zSBdTfvYzqMWgV6XEEl8tUuYE+jkboUxVFV3MbXXZdXm9Nr2yhcrvMtu1+3a1b/fSr2AinjRRdO6IBb2pyqZEMotSPiUqgr7xngGRDq9pzODcD7JYx0TWJg7YlP+hK2/lWxVCh0f+ulMK/6rkpvtaHPBN7iNUAoja/2GrqFoq5w1XjvvzNeFneHlR/tWPXOFKNavQX3HWzZSt6CI9vjOodRgDxS30DpG0+iQLF5AOhMsUTKR1IZaEVL85mBpc/dJVwmJ3cEIu3z9Gi6ZxllzQ==;qRZQ4gXrhif3PFmVPyeEjg=="
+secured: "fsmdnbGXo1XpctNBJcIk6rkS4tMkQZGx/efanzlM2IsDUNdNWLQSrHd4Q8zYD/MR5+G79RSypztUvBJIBifMeTnKRgw1H1+bQkba4qfXceuCDqVHqFT8ETeKKDJQj5ZksnAnPPnbQ0T90jxmy69uOyOMmhFWhewbDUFjyAUWbCXPdmNtp7ElRvgHTfulEz4EFhdYxSvCrHcJWhmiBNUiEzR/dwIRw6iwiJGKpB4d/9aAXuflJ/yFaXrSXk6eQy6w9IjzVd/nwhHqiL4yKygMoZmTwRWEzlVls/hWcakP73Npjs84Giv3fnt28mTMtmrFEeH7qFpYz+CsJwkqKNlPQBIqXrHfnfpG599bJ05deEmw6DJ7xpsDKeCoO+bq2EECP6zD2RdXbWvWwqYMWuHRkxlzP3EoqWlmzW4HEkuhVQDcYa51cElkkog2fiFG7uBV/xWGkpfaL8fS8DreENgt/SNaCZwpDJQ8eRk5U1MFb6A7IVRYAIHY5OeSi7JkE1E/qQs8LKc3xCY2b5s2i/fmWg==;LS6GVhnYXxEYcpfxkmlUSw=="
 ---
 

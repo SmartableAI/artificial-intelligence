@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
         width: 1500
         height: 860
+        isCached: true
+  - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
+    excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
+    publishedDateTime: 2020-07-23T22:50:00Z
+    webUrl: "https://www.law.com/therecorder/2020/07/23/judge-poised-to-approve-updated-650m-facebook-settlement-over-facial-recognition/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/James-Donato-Article-202007231555.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "fP3ulciDWn+8yhRv7Y0wy8Eu9Q8QK5cojxWd4W5etyRCfenydAufCBov2h7bmtjwfd+M4NtPjGpobUpKIvbMC+ppxD8ZPvn38TV68aOecBlmYS1zeM4BcLaqN1OO15ZA1LLdw6FDGWQe1aUHa1ZecIpvbORFIKtuLnD43jMCxTEHCKQ6aETbEIZMqQafyDKHW5V8iADY2MNiMQIASCYUwvlyX88Z8bkXHHeYM41iqsPFyHf9X3vofmBAAc/t4wD5L6yyFWdW/gV551sL+Q7nf+bzhgJCnqAggyCIontA20uq5ktNVq2e+26il8aCCLCMlglgAjPaH/vWgxBzjrGp0g==;Y4JYmcdb1i0mMSFndklB9A=="

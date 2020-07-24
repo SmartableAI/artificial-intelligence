@@ -293,6 +293,22 @@ related:
         width: 344
         height: 250
         isCached: true
+  - title: "New York legislature bans use of facial recognition technology in schools"
+    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
+    publishedDateTime: 2020-07-23T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
+    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 58
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "New York state approves bill that bans facial recognition technology in schools"
     excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
     publishedDateTime: 2020-07-23T21:50:00Z

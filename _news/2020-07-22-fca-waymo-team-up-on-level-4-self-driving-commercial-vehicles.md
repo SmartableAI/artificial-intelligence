@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -121,6 +121,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Fiat Chrysler, Waymo expand partnership for Level 4 self-driving"
+    excerpt: "Fiat Chrysler and Waymo have agreed to be exclusive partners for developing fully autonomous commercial delivery vehicles and integrating the technology in FCA's passenger vehicles."
+    publishedDateTime: 2020-07-22T05:27:00Z
+    webUrl: "https://www.autoblog.com/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/07/21163205/Ram-ProMaster.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans"
     excerpt: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans The deal also means Waymo's self-driving technology is to be used eventually across FCA's fleet. Check out this story on Freep.com: https://www.freep.com/story/money/cars/chrysler/2020/07/22/fiat ..."
     publishedDateTime: 2020-07-22T07:21:00Z
@@ -139,14 +155,14 @@ related:
         isCached: true
   - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
     excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
-    publishedDateTime: 2020-07-22T12:16:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5485167002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5485167002"
+    publishedDateTime: 2020-07-22T12:50:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5485167002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5485167002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 58
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"
@@ -287,6 +303,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "RRaGaVUjQRG7uJE6LAPW4GwekCUaQOPZtfEPTOsGbKVPwTdjoFYkDQUZMtBbml+CwlpVGvAi5gITYXtxtqFeVx8uPL3zhI+ZrdmoTBsceXqsZP1Up12nfLglKxdfxRU2A3bhz5J5xJiBHIe3cxLNmN5zz4c81sAGoV/cW3+3CkBxpXkm7Fd3djqMwDlQ4qitDAY6ZYR90fBxVlOvuzWbVG43I707QsH3NGyuaxqcW+kg65JKFWe3CuriH6EuXWj1TTRZYNAQHP9VMNL2KmWOuJOzxmnkN7ef7nYoYrCyz/Qy9NcOMQF8fiqIAusdnO6TLnkU/ocAlhuhrrwHYIRK6g==;77HtOHqZfPKOtOwllcj+bA=="
+secured: "AmpOyFGEo1sGfnBm4VfnvfUw+VFXIRPu40/oHUGgqK80gkjwzqxyb/pIsnf3qRmhCN2G11JeEU5JSv1N55qeeStBf09j18IPaDRHAUV5V9xAcZBw1zmkAKUD0tybQMt3xeMFKgOYrK16/wy2DRwve8kke2JT+hmMZGot6XO4O5qIVaYQTkdWjrkUySRnQ8cfoOlUqrvT3/t0OSNXJUgGqS/LKd3LYVjyNNSVa/LM9kURihbCIILPdY+t9KmNN2KVnbo9FDCXy3HV0xVRI0QaJIQBZ3ndXQs/3EW2FNj4hCBJE78mXd9swejnLIUa1cFKROu5g7LUOeZgCqyFogugb7LGHbH7LKiX8BlcZ/U7sgx9oKrDeIAeogbxwd/SrOOJ6THLArRA8IM0hQIBhJvUNXbbB80nT9vGADEpmVjL3fUzEDOTd9NooehORpoXeB0Hs2HThuWfVWOKE2bk16mApawyZY6H/IiED5xw8wIDulmPmzCkg4h6Eyw/2RTUvT4N;wo8gYa+HJ0vsa2/mrx2tMQ=="
 ---
 

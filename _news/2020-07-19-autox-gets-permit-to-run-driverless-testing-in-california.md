@@ -72,6 +72,6 @@ related:
       domain: sify.com
     quality: 19
 
-secured: "qn/XgXgoL8LTvyOZYgRTDh7MUwbJQNmdrFPr4cJgk+Z7zPw+6qr/sBLBR5xoQTjjcSi1+/NOZqtHJma5NRdCBfY+xnNVxjtTy49xvt5CTZXB6C+HRzgV+mG3WwN1ZQCrj5TG84RaHB+WmS/K4mfCaz6brA0ch0MdiC0SWz148KyjPw8tsMlwj5u6CFzLZV+KRaWz/tW7USACM+mpf1NMLjuqP2j12MzEzOgpY6W9Qdf7Xtb1LdIayJASd9Ks1h3zxFCHnTgLPYWBQ1sBiX/BwCnyrOs87wBLwCPzyNZl4KMBv5GX97XUzc44a9SdtY3K020r6/I7Q0ZpehsV7G9VVQ==;7cWIC0OApijNPGGSVrZx+A=="
+secured: "SCkUziN1HXUyJvoWpphqWsOm1K5DDs/YZ+mNVKLd6tAIVlqaYKmqMqQWYDRpmWrfrxUF5yDKbpParuHbENzqo4OqGlipuqTALulosf8Kj/riUp87D7lMFUrgzmavPxsXj2cY8tGBPM/sq5Pk+clmo/4xRpJbbFngMc+hPkhgEW/ovuNIWH9RfVAzFmNQYelIEnosG8rKiAQfSrXeeWT9Bijex8XTADUxwm8IyGxvBSuB33iJTCZQB4Z6ulAvGFZlgmxy/G/NA4RMeXXDbgugfGLeFb78v/sP4RnWX92oxb1O7pkbQAqc8QNgqKZ/KVsBrx/LJBsqP/pPgOeXDzTmbw==;rne8lus9v1V2i6//pf0ZvA=="
 ---
 

@@ -297,6 +297,22 @@ related:
         width: 344
         height: 250
         isCached: true
+  - title: "New York legislature bans use of facial recognition technology in schools"
+    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
+    publishedDateTime: 2020-07-23T22:51:00Z
+    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
+    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 58
+    images:
+      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
+        width: 645
+        height: 363
+        isCached: true
   - title: "New York state approves bill that bans facial recognition technology in schools"
     excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
     publishedDateTime: 2020-07-23T21:50:00Z
@@ -344,6 +360,6 @@ related:
         height: 450
         isCached: true
 
-secured: "e/cIQfm+uNom9o0X2YkgnfmnT1imqoDvFr66ij37B4xhb53r0TLStAae8lFbbyo28JkcNAAw/NvwTQQ9cWQs5pXyqfE3CsNe2jzxvDXbfZEx+LP8+aAm2QoZlJlcchTDvyECSH74XR83wkmFRh0r7p6bKcFY+lquEEd3/lpbO3E7qjIaQAUUP6BViOseZJtLEk10Xr+K6na7xtdQZ7ojBXSm3wqO8sg08C0pwZvjGxChiLRrEfWUMBni1tEi26sRGplKW0soim2j1SYiNJ5DNUFjKpyBv0ZlsfQhToDCWr0CSrE9s/PXLUcAT2BjzfDdoJKVtjegZtOQTfRpNyO6Zg==;tY/WCcr8tKUr84bE5P4rNQ=="
+secured: "6lmFlvIONAUWAzDsZgP3l0A4vwFaoGTLtpEqRScVinc3qqW0msKQ8+gGwrzHH8atXSAc+BA00tAHWaZQN5to4SQkVDzJJnzZ2uJX/7Xz6TMtKlJygTqgmLwNa6V1AKY3VmqIzNgIplr+JlbRpHHd2ByNz5CETI3BXktU+kbz4vhlO6gdrPU/w2vO4m4v3zVauexAfI5ECy62oQEABmtuMhykPn02UMqZifYFk62BzVSZtFkmrmB+BP2BiIq71X10niOsUtdR8NrDHavT3TkDhUjJZxuvTS+jDDNQJ0SGJvIgKZgfEKmm5HftADeOa6BOyzk0EyXwWXbjHkbrgkRI1KQqtK6sw3vHY0H81dXs+xjZGYTXx29G0GfzndKhH68O2wU8z+k3xlBJ25FSweQ9gFcTIoisthedWR8xCOvT/7wr1jRMaleczzusaa/OmbbAIYlMiKiBk1TaNxegyQ7pcSyKN82BUqp5aQxVNbEvpN4oRWRnWRgG03HGSWlPAVr1wleyCm3vk5egmfipNcZDDA==;9tX0GARu7PHCogHOAS7lqA=="
 ---
 

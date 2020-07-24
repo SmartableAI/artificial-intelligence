@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T13:55:00Z
 webUrl: "https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-21_at_11.55.26_am_0.png"
         width: 1468
         height: 858
-        isCached: true
-  - title: "First self-driving taxis to hit Moscow streets in 2024"
-    excerpt: "A fleet of driverless taxis may start operating in the Russian capital within the next several years, according to Deputy Transport Minister Aleksey Semyonov. “If we efficiently start implementing the plan we are developing on the basis of our stakeholder authorities and key companies (the Transport Ministry,"
-    publishedDateTime: 2020-07-19T05:23:00Z
-    webUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/"
-    ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 44
-    images:
-      - url: "https://cdni.rt.com/files/2020.07/original/5f0f139785f5407b451936aa.JPG"
-        width: 1240
-        height: 838
         isCached: true
   - title: "Plus.ai to Test Self-Driving Trucks with Multi-Vehicle Approach"
     excerpt: "Self-driving truck developer Plus.ai recently made an agreement with the Transportation Research Center (TRC) to conduct capability tests of Plus.ai’s self-driving system using a multi-vehicle approach."

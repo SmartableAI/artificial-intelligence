@@ -131,6 +131,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Fiat Chrysler, Waymo expand partnership for Level 4 self-driving"
+    excerpt: "Fiat Chrysler and Waymo have agreed to be exclusive partners for developing fully autonomous commercial delivery vehicles and integrating the technology in FCA's passenger vehicles."
+    publishedDateTime: 2020-07-22T05:27:00Z
+    webUrl: "https://www.autoblog.com/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/07/21163205/Ram-ProMaster.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans"
     excerpt: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans The deal also means Waymo's self-driving technology is to be used eventually across FCA's fleet. Check out this story on Freep.com: https://www.freep.com/story/money/cars/chrysler/2020/07/22/fiat ..."
     publishedDateTime: 2020-07-22T07:21:00Z
@@ -149,14 +165,14 @@ related:
         isCached: true
   - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
     excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
-    publishedDateTime: 2020-07-22T12:16:00Z
-    webUrl: "https://www.usatoday.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5485167002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5485167002"
+    publishedDateTime: 2020-07-22T12:50:00Z
+    webUrl: "https://www.tennessean.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
+    ampWebUrl: "https://amp.tennessean.com/amp/5485167002"
+    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5485167002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Tennessean
+      domain: tennessean.com
     quality: 58
     images:
       - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"

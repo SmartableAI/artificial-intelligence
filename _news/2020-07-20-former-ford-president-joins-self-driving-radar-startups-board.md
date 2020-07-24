@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-p
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
 type: article
 quality: 54
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -37,22 +37,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_Pr5XpBQ5LyTklgHdbBkKkw-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "INFOWORKS starts developing the FMCW LIDAR for self-driving cars in cooperation with Hyundai Motors"
-    excerpt: "INFOWORKS, a company introduced at IOT TECH EXPO North America 2019 and CES 2020 with their FMCW LiDAR sensors for autonomous vehicles, announced that they will start"
-    publishedDateTime: 2020-07-19T06:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16639390/infoworks-starts-developing-the-fmcw-lidar-for-self-driving-cars-in-cooperation-with-hyundai-moto"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16639390"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16639390"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
-    images:
-      - url: "https://www.abnewswire.com/uploads/b1e8cfee6fbeb39ce1b460eaea68c285.jpg"
-        width: 600
-        height: 237
         isCached: true
   - title: "Former Ford top executive joins self driving sensor startup WaveSense - reports"
     excerpt: "Former Ford president of automotive, Joe Hinrichs, has joined the board of directors at WaveSense, a Boston based startup that uses ground penetrating radar to help self driving vehicles better understand and navigate road environments, media reports said."

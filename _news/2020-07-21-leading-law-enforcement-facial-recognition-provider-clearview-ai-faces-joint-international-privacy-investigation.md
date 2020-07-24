@@ -42,6 +42,20 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
+    excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
+    publishedDateTime: 2020-07-23T22:50:00Z
+    webUrl: "https://www.law.com/therecorder/2020/07/23/judge-poised-to-approve-updated-650m-facebook-settlement-over-facial-recognition/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 34
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/James-Donato-Article-202007231555.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "5jIFLig4vzVs3hZ2JdKJ5tY4JIVetIziJFHWygNCw7iDji3Y7r0ItQTSFB6ot2y/GfcPsOstA6+NKAuWM6peZLP3Nujoylip1xa/yptPSqugblmS1uat0/na4/FUDLTjWd5TLWO0knd3iTZhne+c8OLf0V8r2ZdgRN8QR5UXW1k1Ge5apuhI6ZkdBk9LYSZu4cIRj5jPkG03SWsK17Bh++IzjtQ2H4QPSDgNMlRVMmdYYVYrp2C1i2PvoxnwENMaLVEJ/lSVp1i+nv/C/D5D00vpGudG6a19p4hR/Y2aSwE65IcKtIrhqfKDOWL4mS99RUv3eiqTGUZhXLseyTuzfQ==;EeaxK2JDvxlPozZWx3OAaQ=="
 ---

@@ -5,7 +5,7 @@ excerpt: "GEP, a leading provider of procurement and supply chain strategy, soft
 publishedDateTime: 2020-07-23T14:00:00Z
 webUrl: "https://apnews.com/PR Newswire/bd823942c86dc2d4fc46067b853860f2"
 type: article
-quality: 21
+quality: 19
 heat: -1
 published: false
 
@@ -14,7 +14,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -39,6 +38,6 @@ related:
         height: 498
         isCached: true
 
-secured: "08exiY3+D0Oe9Y6y1o/ViE+4biMHQz8xFOiHwsaJAxNdQ9liduLhOj2vUwrIHcBvyQ/O193Ovk9vZlnJvTK/aYxGpnvn4Y4Xw4aR8iAXCGsao4el69IPnazDwksidIdtxTg073LsYmnODJBt4sDSfFeLHlri84QO849RvkWP9L3aDTe6tdlolJMzi1bdvFTcLalDJBeL5uP0aqpx+/2d9lg2K5cSGaxaENW+6YYHyVMO+/tFWMMZfWR6QSeagz0YfblNPreOPuKj8Ko0IdkB3B0ZGFrbT4yH4wnl5/zmskiqu2JnB4Q/XHVykpQ8BfgCIE3FEYhAheUxqszClg+o2w==;2La9chlfbbRJcsnEM6F8Mg=="
+secured: "tjmHCMHzVv9S5mArBDtWn1pVZXr+0tK0GrqlS6lEzNCP+IVhRQ1jBs0kUgty20oVuFGU2JpDkRxh4fuZ1pLuOigV7QCY77FxEMQI35gDzpmCWPhHYBIDsTwQSSyPPcgxveDWFSXZusNJIXEEdpTBlfS8NinChgMbxxFRwoaMtDbAv1/EYvDDBHGkKk6y46+apzP1EUyeHPRnBws20N0cSGpyROMqmFC18N5fv58wCbmNDkWOaRyZft4XT5oWwSB3+6YIDHQp0wOxdcwWdFK/s/z44QsykLo9uh0bNv4/12q0BHf178HUJTw3RA587tTId2T7qMnVZ0leOkoltYsLog==;U4f2329YPdoeXPHZzbb+bQ=="
 ---
 

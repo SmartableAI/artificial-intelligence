@@ -37,7 +37,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 35
+    quality: 52
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/aws.png"
         width: 718

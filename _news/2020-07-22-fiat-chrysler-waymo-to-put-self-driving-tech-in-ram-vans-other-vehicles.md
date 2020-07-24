@@ -2,18 +2,18 @@
 category: news
 title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
 excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
-publishedDateTime: 2020-07-22T12:16:00Z
-webUrl: "https://www.usatoday.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
-ampWebUrl: "https://amp.usatoday.com/amp/5485167002"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5485167002"
+publishedDateTime: 2020-07-22T12:50:00Z
+webUrl: "https://www.tennessean.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
+ampWebUrl: "https://amp.tennessean.com/amp/5485167002"
+cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5485167002"
 type: article
 quality: 58
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Tennessean
+  domain: tennessean.com
 
 topics:
   - AI in Autos
@@ -133,6 +133,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Fiat Chrysler, Waymo expand partnership for Level 4 self-driving"
+    excerpt: "Fiat Chrysler and Waymo have agreed to be exclusive partners for developing fully autonomous commercial delivery vehicles and integrating the technology in FCA's passenger vehicles."
+    publishedDateTime: 2020-07-22T05:27:00Z
+    webUrl: "https://www.autoblog.com/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    ampWebUrl: "https://www.autoblog.com/amp/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/07/22/fiat-chrysler-waymo-expand-self-driving-partnership/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 59
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/800x450/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/07/21163205/Ram-ProMaster.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans"
     excerpt: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans The deal also means Waymo's self-driving technology is to be used eventually across FCA's fleet. Check out this story on Freep.com: https://www.freep.com/story/money/cars/chrysler/2020/07/22/fiat ..."
     publishedDateTime: 2020-07-22T07:21:00Z
@@ -283,6 +299,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "Ka6+h4X675sJtDQJmNTzneBuE91JbWoZz2XoFCfvAPtZCQDxw2QJheTMTT08XdrQEg0n+BYpS1VTZW3hu3abxA5dU3Bq+rqv3GP7rYZMqEOnMd95yJdKBMajZ2pJytDdmek3YHhs1BaZ32tFez7ti2jgW5mTUzbjurelWCC8cUZyhWiMZurjeAtsJ6ksNa9C7OF08qoIvawI4p5zORQal18K/NXFIIyWOMv/UYp/brpkrJvGrfGgu0rGn+etu/vVme4tKwylvHqBDo59UTWHCthHEs+hRZNl/THPaT4I9bSULisaRroqM5Lv1N0I/V4z+jIbYJy/70dhnCoVM5vQnQ==;FWPtMScqjt63fnaBsky7qQ=="
+secured: "lDhvbqMhpo5lMZRzLWUUO9rglRhkIc8ZAbgubwkpZzVEGuI+IZT1eWRlpp1Gaq434czHCr32G55JIBCHEqzRLr6k3jUZCkoFLOevAWriav/6TGOgo2L/p/Dhvab1l6wZtFW8mOlC8skseYZLUUFEzmA5XNSpABX2mk/GeWhIgX7ymd00u3m8koOY1q33ml7lRCIXaojZTdnWZ+vKuTtkm1MWYk84JdpHzdByx7br/NY0sbODvQLM0tvdcfAUFt+V4kmWI4NAkegvVMVzWuzrVk6oCcvQDag+YRn4fE7xYNsH8VRwj3mPwqoTIavVdgOZTlz8J/sHQnB/gDPVUFIr7w==;RdUr6UcxaSH+nrNZH96ncg=="
 ---
 

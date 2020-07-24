@@ -73,6 +73,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.fool.com/investing/2020/07/23/livongo-health-peer-ontrak-is-up-99-this-year-as-v.aspx</loc>
+    <lastmod>2020-07-23T06:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.engadget.com/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html</loc>
     <lastmod>2020-07-23T06:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1615,8 +1621,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
-    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
+    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2161,8 +2167,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.technewsworld.com/story/86752.html</loc>
-    <lastmod>2020-07-13T04:28:00-07:00</lastmod>
+    <loc>https://www.technewsworld.com/story/The-Secrets-of-How-IBM-Maintains-AI-Leadership-86752.html</loc>
+    <lastmod>2020-07-13T04:36:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2911,7 +2917,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.oaoa.com/news/business/global-natural-language-processing-market-2019-to-2024---technology-landscape-trends-and-opportunities/article_8f430592-8b92-50c7-89c3-7e8d52cd7b51.html</loc>
+    <loc>https://www.businesswire.com/news/home/20200708005731/en/Global-Natural-Language-Processing-Market-2019-2024</loc>
     <lastmod>2020-07-08T09:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

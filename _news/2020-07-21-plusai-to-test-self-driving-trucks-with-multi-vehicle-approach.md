@@ -54,22 +54,6 @@ related:
         width: 1468
         height: 858
         isCached: true
-  - title: "First self-driving taxis to hit Moscow streets in 2024"
-    excerpt: "A fleet of driverless taxis may start operating in the Russian capital within the next several years, according to Deputy Transport Minister Aleksey Semyonov. “If we efficiently start implementing the plan we are developing on the basis of our stakeholder authorities and key companies (the Transport Ministry,"
-    publishedDateTime: 2020-07-19T05:23:00Z
-    webUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/"
-    ampWebUrl: "https://www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/business/494818-russia-robotic-taxis-launch/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 44
-    images:
-      - url: "https://cdni.rt.com/files/2020.07/original/5f0f139785f5407b451936aa.JPG"
-        width: 1240
-        height: 838
-        isCached: true
   - title: "New partnership to bring world's first self-driving truck network to North America"
     excerpt: "TuSimple and Navistar International have entered into a partnership to co-develop a U.S. network of self-driving trucks targeted for production by 2024."
     publishedDateTime: 2020-07-21T04:21:00Z
