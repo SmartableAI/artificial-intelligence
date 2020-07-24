@@ -143,7 +143,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -186,33 +186,33 @@
       ]
     },
     {
-      "path": "_news/2020-07-20-these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry.md",
-      "title": "These Technology-Driven Companies are Shaking Up the Beauty and Healthcare Industry",
-      "excerpt": "Healthcare and beauty are two aspects of humans that can be said to be as old as the world itself. When you are healthy and bubbling with life, you have every tendency to be successful. On the other hand,",
+      "path": "_news/2020-07-21-heres-how-connected-health-and-artificial-intelligence-is-transforming-healthcare-industry.md",
+      "title": "Here’s how connected health and artificial intelligence is transforming healthcare industry",
+      "excerpt": "The impact of AI, IoT, and other technologies through natural language processing (NLP) and machine learning (ML) is transforming care delivery in the medical industry.",
       "sourceUrl": null,
-      "webUrl": "https://observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/",
+      "webUrl": "https://yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2020/07/photo-of-woman-wearing-turtleneck-top-2777898-e1595277017680.jpg?quality=80&strip",
-          "width": 4480,
-          "height": 3696,
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/artificial-intelligence-1594573206464.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/amp/",
-      "publishedDateTime": "2020-07-20T14:00:00-07:00",
+      "ampWebUrl": "https://yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry/amp",
+      "publishedDateTime": "2020-07-20T22:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
+        "name": "Your Story",
+        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

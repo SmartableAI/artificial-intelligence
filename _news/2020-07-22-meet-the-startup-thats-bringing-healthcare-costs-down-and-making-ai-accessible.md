@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T04:30:00Z
 webUrl: "https://www.techinasia.com/meet-startup-bringing-healthcare-costs-making-ai-accessible"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -19,33 +19,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "These Technology-Driven Companies are Shaking Up the Beauty and Healthcare Industry"
-    excerpt: "Healthcare and beauty are two aspects of humans that can be said to be as old as the world itself. When you are healthy and bubbling with life, you have every tendency to be successful. On the other hand,"
-    publishedDateTime: 2020-07-20T21:00:00Z
-    webUrl: "https://observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/"
-    ampWebUrl: "https://observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2020/07/these-technology-driven-companies-are-shaking-up-the-beauty-and-healthcare-industry/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 53
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/07/photo-of-woman-wearing-turtleneck-top-2777898-e1595277017680.jpg?quality=80&strip"
-        width: 4480
-        height: 3696
-        isCached: true
-  - title: "Wearables, technology and today’s health care reality"
-    excerpt: "With the ability to track fitness activity and measure heart rates, sleep quality and more, fitness devices are light-years beyond the pedometer days."
-    publishedDateTime: 2020-07-22T18:49:00Z
-    webUrl: "https://www.bizjournals.com/cincinnati/news/2020/07/22/wearables-technology-and-today-s-health-care-real.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "DVjHOpAGPFyeTjZb2nWA55CCODYaqeEry/kV/0//k2vfqkgTmkCNjW9ZlCYc+s4BtwZY0sRV1QmmYvQky5TjHRoy0rl3Kf0zwzyDfesqDnHNy7Dun53wgdfyqZUY2BmitcB9CYW//GLrvyDmlXEn157hvJXKVQnCePHWjZ4WDXyKfz+ky7FrquoktJQoS5U0vXOC/GmhDSn91fvF12uMU4PciEySiRWCcpUED+BQN0lrZKNBA0KX0pPKeawHMiHcCzqpTFpS86WSI631dHSnnVBGC+4dNtH6lqkEcvZif2bEU3dEMal1Jv+e4YpUPpQMpwyOmUGfLLA4PX6qEG7baauAfVtTUSrPcPnhVHBADelwJygKe6w9LeCSPVBun8VeAFOVHO8HTQ3EBHIQyCUGMWID0donsghfbPP/dc03Us2o4bTTADKTUHulFKoefNafwupdEudA4mpkQi/am2s+xggAbpsFkbwepUf08YEnOaOX085UIuaqmjF94wWwsE6O9dhE+jTK4n0ZQlEhplHWZA==;AQlwJDe3YQCWobWD/Oztvg=="
 ---

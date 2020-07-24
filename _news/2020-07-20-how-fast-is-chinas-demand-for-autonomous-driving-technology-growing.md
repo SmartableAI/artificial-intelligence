@@ -41,15 +41,6 @@ related:
         height: 630
         isCached: true
   - title: "AutoX gets permit to run driverless testing in California"
-    excerpt: "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ..."
-    publishedDateTime: 2020-07-19T18:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200719/3595133.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-  - title: "AutoX gets permit to run driverless testing in California"
     excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing ... is to empower the world with Artificial Intelligence (AI) drivers to ..."
     publishedDateTime: 2020-07-20T00:05:00Z
     webUrl: "https://www.sify.com/news/autox-gets-permit-to-run-driverless-testing-in-california-news-education-uhtlPHcejjggj.html"

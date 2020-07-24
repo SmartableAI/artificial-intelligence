@@ -3,7 +3,7 @@ category: news
 title: "Cybersecurity Services Market Trends: Leveraging Artificial Intelligence, Machine Learning And Blockchain Technologies For Cyber Defense"
 excerpt: "Leveraging artificial intelligence (AI), machine learning and blockchain technologies for cyber defense is a key trend in the cybersecurity services market. Cybersecurity vendors integrate artificial intelligence (AI) and machine learning principles into their solutions to tackle crucial hyper-connected workplace risks,"
 publishedDateTime: 2020-07-21T21:20:00Z
-webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21"
+webUrl: "https://www.marketwatch.com/press-release/cybersecurity-services-market-trends-leveraging-artificial-intelligence-machine-learning-and-blockchain-technologies-for-cyber-defense-2020-07-21?mod=mw_quote_news"
 type: article
 quality: 51
 heat: 51
@@ -27,6 +27,6 @@ images:
     height: 630
     isCached: true
 
-secured: "xS52vsDoM/1UacjYuw4cgKJyb4hkkIKX9KvKQyHLLvh5VdN0heWel0Cv9NDbkDzERdMt0PTyS1cRTzPCJ30tX9sGmewF0M/PnlwQdzWWbWOewQXQsDBkkdyGZ/nNVvcagN0rdPxjAOYCt+mwT+16ALlb65538ZSBdjLcr9yMnKKwVdZtgMhxrm3310r33BSC0vBa5yC5RyozL9su+0UvNkCC81GNXZe7DakO2v/FQsvg+VXOeTq6NmsvW0+Ci23jv2axa5p7R8epLgzro2mcmAa8P8jtoPp7NMmlaQlNK2FiaKpv3MUzVOm9DKvQKeJOZT8f3kfxL1PARthIwOzILw==;iFILxzGujbOfhWhNtDXHOw=="
+secured: "wxUZrWMyRCypDVfXFSaVsrTXvXOp0zl0bQWzHIx/0jUvwYzQfZ9v+DCW2IBEYRxBEBQNKuFyMsqySSiJeyp3i06kB9v80lYVgD5KwfpsMMQR79SJlzPNbjE8cWFnTUyAZVR9/DWXPYkTODdEFTTff9oahrIEup0tWp7qyfQ8+GuHLYxL8mMc6ohcgdilrSIG9uDSDjXVPPmscAaQ5Ix+0HEEu0yVbjQLOs1QzAW/X4BANj56KsnlqnRSGKL+JpOzeRuXnQtpvmOeoLixwAO1nCZ9gZeY0xTL6PPmjH0cscQu7rIiEGC9jtAUsG0dITtkAMzU+PHKLRXX/xZysPOB4A==;Mg9HX+/pf4AfqVGSSyxTXw=="
 ---
 
