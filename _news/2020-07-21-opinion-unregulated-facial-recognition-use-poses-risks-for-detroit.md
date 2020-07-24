@@ -371,6 +371,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
+    excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
+    publishedDateTime: 2020-07-24T01:03:00Z
+    webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
+        width: 2896
+        height: 1944
+        isCached: true
 
 secured: "vxPYexuSQmgDaMCRF7z24vFMcDKJpwXxMmqeb4J7ZKsS1JeCrr7jMudQxmJba4HH6U5Ol2sDaa7STwNhD8muVchnk71yGH0ExWSA0WfU/+S/fR0T+rsG5mjV+6eavM6R7wMiIv4l8MqAoVbqW6ajeuJ1WKiD7vQh473KxDIuQ8PR2EkJ7xPHtulqsc0QjxqF259EZyrUrZ1sNsAXxaMZGB0jVZZtprmsa6P2etNlNLKLGQC0Ls9S8dW6QTNwYf7DktR5Txtv9VKXBg22++AM+aCIs7LTBMvJPSADGMuarKOKYrgEgnPaMCvwvmK9HTPCDfiPixHJxQgj5iPNN7yDTqLbILj/xTk7qXvNzaxnAifyvHM3T2d4pAz+QWibPmM03Odip0jfLWwWwrs2q7ksrcU05szg8qED9YTyS4i6M7L9AmCkIZpfw+Oi07zCyFtIlBZTYMUr756hGv4dtI6+WN60G+J5pnvjgSHc24obHTdfJtnTsGMK5skc7qLyYqpz5aTTyBMpdvnO2krQjTxAAw==;kSmZUAE+BEv6agj7+ji5YQ=="
 ---

@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/loc
 type: article
 quality: 44
 heat: 44
+published: false
 
 provider:
   name: WIVB-TV

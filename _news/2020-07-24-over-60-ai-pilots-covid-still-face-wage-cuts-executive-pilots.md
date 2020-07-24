@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/
 type: article
 quality: 39
 heat: 39
+published: false
 
 provider:
   name: Sify.com
@@ -17,6 +18,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Over 60 AI pilots Covid+, still face 'Wage Cuts': Executive pilots"
+    excerpt: "Why do other Government run organisations and Central Services that employ public servants on Covid duty, such as Indian Railways, CAP, AIIMS etc, offer pay protection, ethics, equity and natural ..."
+    publishedDateTime: 2020-07-23T22:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20200724/3597558.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "zOsXVaRxGUzJi8Kf4b7sEPDjH1IDbrXkQRskU/XfJp2dxgG6Jm7JExnR8xHCJwS00m1QH/sm7Sr5Tug0p3fiDVjvheurD+ow/Q22g+W2Wt2iOBaSNYfNUyj0Tl/dUDgaTLfMSBJjaRAr30KrtBqm1kUj6EG76R3RSn08GNZkvDZgDv8o98Se4RwBOnRfl3g2afDnNstFWBCgv7LjdQBSYrHH2Nd7SJJmR4z/XosTif29DuXh2VJz0qFc2yPQwVpSXvTqa0QiJfY4qvx0PHBqaRFzG7A5q8LPXmfrxo4ZRYD/vQ7dTx2pLWhumTS4DkZXzWnLFqjxgBbtpz+t+rCHEw==;weHn2wOcEXjsrBBOK3eVjg=="
 ---

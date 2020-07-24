@@ -207,7 +207,7 @@
       "webUrl": "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 299,
+      "heat": 319,
       "tags": null,
       "images": [
         {
@@ -942,46 +942,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-22-uf-launches-70-million-artificial-intelligence-partnership.md",
-      "title": "UF launches $70 million artificial intelligence partnership",
-      "excerpt": "With a computer being installed by November, UF is expected to have the fastest supercomputer in higher education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gainesville.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200722&Category=NEWS&ArtNo=200729510&Ref=AR",
-          "width": 5000,
-          "height": 2812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
-      "cdnAmpWebUrl": "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
-      "publishedDateTime": "2020-07-22T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gainesville",
-        "domain": "gainesville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-22-autodesk-acquires-construction-ai-company-pype.md",
       "title": "Autodesk Acquires Construction AI Company Pype",
       "excerpt": "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company.",
@@ -1457,6 +1417,56 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-fca-waymo-team-up-on-level-4-self-driving-commercial-vehicles.md",
+      "title": "FCA, Waymo team up on Level 4 self-driving commercial vehicles",
+      "excerpt": "Google's experts will work on autonomous commercial vehicles exclusively with Fiat Chrysler. FCA will also use Waymo self-driving tech across its brands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/fiat-chrysler-waymo-google-l4-autonomy-promaster-ram/",
+      "publishedDateTime": "2020-07-21T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -9,6 +9,7 @@ cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/
 type: article
 quality: 71
 heat: 71
+published: true
 
 provider:
   name: The Hindu

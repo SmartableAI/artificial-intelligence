@@ -8,7 +8,7 @@ ampWebUrl: "https://www.alligator.org/news/uf-board-of-trustees-approves-20-mill
 cdnAmpWebUrl: "https://www-alligator-org.cdn.ampproject.org/c/s/www.alligator.org/news/uf-board-of-trustees-approves-20-million-investment-in-artificial-intelligence/article_9346e5c2-cbca-11ea-9098-07b9e1ffa738.amp.html"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 745
     isCached: true
+
+related:
+  - title: "Scale AI, partners invest $29 million into five artificial intelligence projects"
+    excerpt: "Five projects have received $29 million in funding from Scale AI and a number of partner companies to support the implementation of artificial intelligence (AI). Scale AI invested $9 million, with other partners investing $20 million. Scale AI invested $9 ..."
+    publishedDateTime: 2020-07-21T11:00:00Z
+    webUrl: "https://betakit.com/scale-ai-partners-invest-29-million-into-five-artificial-intelligence-projects/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 47
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2019/07/Scaleai-1024x680.jpg"
+        width: 1024
+        height: 680
+        isCached: true
 
 secured: "b+XAQmikLA45Faix11XWwFrrC5c5jjWONL0JkmtDqou+FQ6HyiRL/Y4lfoXSX/UsmHrlttVEeUWqeXHb22YTYMf04cV7b0UvyCORiTdOPBGyDSEq8doYm6q4iEiqnIRgFrLQ98pCmR621ylyl1d3MV8y712Pupl+1QiNa37BKijZ2i5haZ4ZLUrlVo8tP7ndIM79A4Nsi5ILWsNL9fQ309/kBRxY/dTJkbJN5sUrn03fZrNIz35r7lUx8iCbClYCoGz5FVS3mrzxsp9g57DoC5Xt/6wf6Y+zMXnrL6JapBturPraqXUx3k40PizrN4b9OouqC/AhEMaBeJ/8g6nlXA==;J9Ognnqm6yNdpKuP1b13HA=="
 ---

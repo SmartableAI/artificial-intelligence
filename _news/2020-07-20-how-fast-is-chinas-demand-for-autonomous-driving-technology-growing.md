@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "California allows China's AutoX to test driverless cars"
-    excerpt: "California has given Chinese autonomous driving company AutoX a permit to test driverless vehicle on surface roads in the city of San Jose, according to the California Department of Motor Vehicles (DMV)."
-    publishedDateTime: 2020-07-19T09:38:00Z
-    webUrl: "https://www.globaltimes.cn/content/1194986.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-07-16/b423dfff-aff9-41fb-9e57-dd320820f42a.jpg"
-        width: 563
-        height: 337
-        isCached: true
   - title: "AutoX gets permit to run driverless testing in California"
     excerpt: "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ..."
     publishedDateTime: 2020-07-19T18:01:00Z

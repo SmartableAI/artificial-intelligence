@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Facebook A.I. could fix one of the most annoying problems in video chat apps"
-excerpt: "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously."
-publishedDateTime: 2020-07-10T13:08:00Z
-webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=24&itm_content=2x2&itm_term=2356592"
+excerpt: "Announced on Friday, July 10, ahead of the International Conference on Machine Learning, Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five ..."
+publishedDateTime: 2020-07-10T05:57:00Z
+webUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/"
 ampWebUrl: "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "zSAPslYT1S+voTq3eFx6Pg7A92QaGS4i1HriowL+epUdlQExxSqXJvhUgXzQlyp+JM5w4B7YNHwAdTQxPz5jRiQaM5gOeHioH4CwCoChq1t6sZVfdofzy1lwWIOUCIYteJodPW8oqwzRMb86s7MmE3ovNV7+XZIVlbK8Z2zx3lTAIXskhAIezF79nf8S/2+KiyKq+lZcpkPYoPLyVFuwOSF38Iso2JYL41Is+ejNyLW5mouESkzu4lcquXuju24sB45kOpv+603xZblln8HVma0eqC6ARcyVZdGFKrz+UWquf4NAzTdzWzxAo7yCXCn6timO9t17NJ8lqEAa+jdiScZnP6AgPqEhLHbPi1WjMxqtTU9SxHaFWpv42eTQac27AzsZbU9QeQ9NiQ4/1U9K2yUQFWP3CSXppXXlOGG10Y4eNDS4JXLM9sN28FRbI1NBf0g5ID17YhvLaF4dy+NJ8AZT/2WNu09T2+8+y4nH1BqZoBg/3zkJB627Kba9Jvo+gjixkYFyIQoB2r1pmMWBEA==;6oYcMQpVfitLC+eAuMkDDg=="
+secured: "MJ1DmpRgPZV3bipASUahaIkVRfOSCMoKiukEzIAQM478ub5L304QeUEYXLeq/3AofoRsWjNRt0wjighY7GKxLPCrVVSXyLpu4uJ/KHOtT1veAG7oB9ckx1SL2Kckw/FaDNwuIxHxodhk7unporGDRl7J+j22aoTGSu1/v8BIlaCAVjNjbR5LTrBTPPJxphQvGYl/T8Dr2+zSuIkJ98/DGJOWt8CWuj2FwAsDyJeGl6Ln3L2TCm+ylbvV46cuAw5uLSyROOM6SCZGTQLNlgKgRrlLiIKlI/DI+VPsZ3qdm2zKAHuV867o1+kbo0Cnjk6UAmXQlYfnFjFPfMW2XBcMjA==;v95QTKjc8LBy+Rn6Grl4Aw=="
 ---
 

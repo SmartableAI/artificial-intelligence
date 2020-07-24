@@ -5,6 +5,9 @@ excerpt: "There were other startup teams participating at Demo Day 3. To mention
 publishedDateTime: 2020-07-24T03:26:00Z
 webUrl: "https://www.digitimes.com/news/a20200724PD212.html"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Digi Times
@@ -19,6 +22,6 @@ images:
     height: 224
     isCached: true
 
-secured: "I3QXS3SWqcioAxqo03+/6YIHrvzIR2cnFzlRuAgeLOT26iV41iFWUGsEuWJZuhVk6Is2DgDjTY2r+8rdc8kzbm7IFh7JKPaI1vAFysuFXlVbI+jDKHSP+6RWkqXc86YBnqwFkOQhoXML65HGXPf2XeE7VHMZ0u/HGs+JVAsgHDx9tTKgJq9JVCEA9yYrUz3P1OHp4v1Dd1knsBKmdI71hYuuG6ABpUnABp9HzgC/bJtwQ2Ed0qQ9LMQyqXOvVCkAi8VDWtCUPi6TcMWECoXD69PG4/ibAMktigDlqFXbIsIs6jCvxBYzye/24GPF/M+oqGT+kToMGIzQxNS3LzE7pQ==;4TWrEeTQ+fjiobqcNmRMWg=="
+secured: "FcPZcFOyBccSXcexRdrjp8BT1TiHvi0q76va1kHXl+NFYsKE62LLSJjZwQRP73A9gxDRZUuXZVCkziX4raEa8KO+AKmqcx+EwKgW3LhO9HfsdDX4nuhP03JPS7ccKGOZKMs0v6wRcBjK/BgpSKrRNJsOhqtszBvFGri8l4eCjWHUJqLJx//gNNfDXLYJFb7oROM+/dhPsPy85ALJgn/TJgCZREhFUKu41/9WuCQb7UMtFYaz19sCwByk9qDQaxs6dkrJ1+5HIZBQOZIrBcHcJ+u/O4WxWuGTuHrKqe9d+jbBTL6Nv0QDfmyvdONEj7yvrUOv2nLXPj/caAOu8heu4B2xmYBXyjPl8p1mithu9lz6iqPopfh4Um2D57TFhuJ9+O4GtArSSIjplN6+zPIURonO5ZPwBsfy0/uoxixcwYrzA5OVtESwDwx9QWH6a8iJBuX9kLecFzZ+npUZb0jCbYI3JrWt6VEddCsY8jdvtpbCYDjWRrIuOcBc2aJIjuov49Jc0wu8xGfiD686jc3psw==;qi7r8IXKGV192LI3lTTg3g=="
 ---
 

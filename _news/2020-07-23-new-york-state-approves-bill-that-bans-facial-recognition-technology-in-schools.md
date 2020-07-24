@@ -341,6 +341,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Facebook bumps up offer to $650 million to settle facial recognition class action"
+    excerpt: "Facebook has agreed to pay $650 million – $100 million more than before – to settle a class action lawsuit over its face recognition technology."
+    publishedDateTime: 2020-07-24T00:15:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/23/facebook-offers-650-million-settle-facial-recognition-class-action/5498792002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5498792002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5498792002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 54
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fc31eaa651e0d0fe4aa496c77accf6c2d467c460/c=0-235-3592-2264/local/-/media/2018/07/26/USATODAY/USATODAY/636681988519464839-FACEBOOKINDEXFUNDS.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
     excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."
     publishedDateTime: 2020-07-20T20:08:00Z
@@ -354,6 +370,20 @@ related:
       - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/shutterstock_680587558-min.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
+    excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
+    publishedDateTime: 2020-07-24T01:03:00Z
+    webUrl: "https://findbiometrics.com/ny-ban-biometric-facial-recognition-lockport-city-schools-until-2022-072304/"
+    type: article
+    provider:
+      name: SecuriMetrics HIIDE
+      domain: findbiometrics.com
+    quality: 38
+    images:
+      - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
+        width: 2896
+        height: 1944
         isCached: true
 
 secured: "bQEiJ+PkkJkfD7WTR7ERJ+36wkfa7KRq/NVBEdBKEMp00hgk1Qiz5wb90/43entm0g9L/GHZbWFh0/4yob6HmNIU2P6zf+N2T1/qBA9pCfLBdVEFq9BrfCJU4sSCpQE30PhwbyJ5evOvysijB5mSGJJcs/Nw4rM5UF1o0KWUorcFzxFiKSt8DpZWl9P+1a40yyUDIos9gaNu9UWafFuy2Gh3efv6QZUSDsj1+Pl88OZ+2CGJegz2eUmTZLYVeUN5luju+xCny2AWDHUCdEGvssfwIGkC8DIa5ZZ0y9mr86bUPAC0x71u15iwFNhBhInj+rVJojS9zx1DCO1Ijhit6wYZZ2y6YPOGQIxNMoNKny1O97+AdTGiqQngX0QphE6HP8mU5YI7rgQ2Q/p6Kyz6T8zwxMGrkmxN7SguvEsvCDb90+t790zPnk6RZejc2lqDosESAExKqaLJCzVDxdMIJK1lFomQG/zNREhCWnEFG3YNivPOa1djQ5ocQuSlLRLByRlGIeUKsjtQftqmBSh1dg==;ACabntQG9Pb90BQ7Uy9Rrg=="

@@ -45,20 +45,6 @@ related:
         width: 582
         height: 327
         isCached: true
-  - title: "UAE- Halliburton Forms Strategic Agreement With Microsoft and Accenture to Advance Digital Capabilities"
-    excerpt: "Saturday 18 July 2020 [ AETOS Wire ] ( BUSINESS WIRE )-- Halliburton (NYSE: HAL), Microsoft Corp. (Nasdaq: MSFT) and Accenture (NYSE: ACN) today announced they have entered into a five-year strategic agreement to advance Halliburton''s digital capabilities in Microsoft Azure."
-    publishedDateTime: 2020-07-19T11:43:00Z
-    webUrl: "https://menafn.com/1100505899/UAE-Halliburton-Forms-Strategic-Agreement-With-Microsoft-and-Accenture-to-Advance-Digital-Capabilities"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Halliburton forms strategic deal with Microsoft, Accenture to advance digital functionalities"
     excerpt: "Halliburton, Microsoft and Accenture entered into a five-year strategic agreement to advance Halliburton’s digital functionalities in Microsoft Azure. Under the agreement ... the Halliburton Data Lake using machine learning and artificial intelligence ..."
     publishedDateTime: 2020-07-20T07:49:00Z

@@ -5,6 +5,9 @@ excerpt: "I think the success of the project is recognition of the fact that the
 publishedDateTime: 2020-07-22T00:00:00Z
 webUrl: "https://asunow.asu.edu/20200722-asu-team-places-second-national-competition-addressing-hate-speech"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Asu News
@@ -20,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "VLFFh4ug9wt+mgArd8gN+2/Ah++mvosvT6NXkiwzhzYIoUBQxKXkTkR2i2/qZtX+qnCbaCnF0sVayfio/tyMXLrQhvTRaLEmJvMSBZaCxJEXGJ+Jp7Oe8cTTb78rDwOe6chfTKBLo87GkfPouWvWf2/lbRrmlzOBaGjGD96xl9CNcJ5XpIPIYSKQ6++/z//qed/EMh4v8qprITQIQKdlxHhoPgpZDSl+zjX/FXxeRm8YblfOYXbapjZar+cH9e1cJ8sEiRYn89Xu0yIMQZada1furjs2CsR9JX0R8SrW5bPgz3L6w//KCAh1MgGptWPkuTCm0m4mAmefCpVYfNv/FQ==;eGRl34sZwTFJRYviJBOqeg=="
+secured: "eDwQU5SGNBYieUTmSxrNgXzyW+ip+PKZ5PeYSYKHdcDoHYzvz4ZoFnFsrkypYEx1SsBLAbh8hsNk5QbsC3xjxVJ0tsOcYpu90secIlZut9EXf8p7rVHGCdmvAH7+yN5iZsoHdXubf2Y1D9pwYF1vPzf5gmkcPSLk0mNpY1QP870VxnQXNK734unXkZhJ6HfNL4bSBsePHngTB6RG+uyVq39W97G6lr4BIgIi65sEvMuScksUGGf5WMLAaXBXHOrjG7eGxbHESE+WmYFXos/X39y9UU4dPgrDodGTga8/mNlThew1fjizn+isGhwn6fMFGsH02ReBs94H/CTlovq+XHjM2emPhoQaTfuF0wpd6+PCCpkS+yniFbuUPCEtwhSE9VbkWMIgOtlM07yTQ1uvHO9Cwv0QAQmlKaHidxa+rvtBJEPNpZ3k/ibjimcoefcsJrm5cropkHwTt068FoASVsEOjvUU37mms4h2pIWlWooSrI1X5tAh4B0f2MoyrkmC2S1zWuXvB+PhfZVUhPx1Yw==;qzYs9k3RFMvWb/CsnZMEzg=="
 ---
 

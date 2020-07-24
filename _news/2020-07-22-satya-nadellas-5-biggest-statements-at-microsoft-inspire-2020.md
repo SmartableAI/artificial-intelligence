@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T19:50:00Z
 webUrl: "https://www.crn.com/news/channel-programs/satya-nadella-s-5-biggest-statements-at-microsoft-inspire-2020"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:
@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Corp. (MSFT) CEO Satya Nadella on Q4 2020 Results - Earnings Call Transcript"
+    excerpt: "Q4 2020 Results Conference Call July 22, 2020 05:30 PM ET Company Participants Mike Spencer - General Manager and IR Satya Nadella - CEO Amy Hood - CFO Frank Brod - Chief Accounting Officer Keith Dolliver - Deputy General Counsel Conference Call Participants Keith Weiss - Morgan Stanley Heather Bellini - Goldman Sachs Mark Moerdler - Bernstein Research Kirk Materne - Evercore ISI Gregg Moskowitz - Mizuho Brent Thill - Jefferies Brad Zelnick - Credit Suisse Raimo Lenschow - Barclays Presentation Operator Greetings,"
+    publishedDateTime: 2020-07-23T06:28:00Z
+    webUrl: "https://seekingalpha.com/article/4360065-microsoft-corp-msft-ceo-satya-nadella-on-q4-2020-results-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 11
   - title: "Microsoft Corporation (MSFT) CEO Satya Nadella on Q4 2020 Results - Earnings Call Transcript"
     excerpt: "Q4 2020 Results Conference Call July 22, 2020 05:30 PM ET Company Participants Mike Spencer - General Manager and IR Satya Nadella - CEO Amy Hood - CFO Frank Brod - Chief Accounting Officer Keith Dolliver - Deputy General Counsel Conference Call Participants Keith Weiss - Morgan Stanley Heather Bellini - Goldman Sachs Mark Moerdler - Bernstein Research Kirk Materne - Evercore ISI Gregg Moskowitz - Mizuho Brent Thill - Jefferies Brad Zelnick - Credit Suisse Raimo Lenschow - Barclays Presentation Operator Greetings,"
     publishedDateTime: 2020-07-23T01:36:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T15:36:00Z
 webUrl: "https://www.hpcwire.com/2020/07/23/royal-bank-of-canada-deploys-ai-private-cloud/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

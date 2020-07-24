@@ -1,14 +1,15 @@
 ---
 category: news
 title: "Started by IIT Bombay and BITS Pilani alumni, this edtech startup is using AI to simplify parent-teacher collaboration"
-excerpt: "“Our goal is to provide a personalised teaching and learning experience for students and teachers by using AI/ML,” says Akash. The startup claims the SaaS-based learning management system is ..."
-publishedDateTime: 2020-07-24T00:37:00Z
-webUrl: "https://yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus-"
-ampWebUrl: "https://yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus-/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus-/amp"
+excerpt: "Pune-based Illumnus, which provides SaaS-based learning management system, claims to be a one-stop solution for educational institutions."
+publishedDateTime: 2020-07-24T00:51:00Z
+webUrl: "https://yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus"
+ampWebUrl: "https://yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/iit-bombay-bits-pilani-alumni-startup-illumnus/amp"
 type: article
 quality: 33
-heat: 33
+heat: -1
+published: false
 
 provider:
   name: Your Story
@@ -23,6 +24,22 @@ images:
     height: 400
     isCached: true
 
-secured: "Ip7DlSE07Vwjsm5DaoAbiChsyFDnA/BPnkBtNwf+RnA/SGhKPBo4hKzQPcxjT688jl2mg4EpcYBMYdWyjoVTVLgVub0dwu8EmoQ8Jm/V0Dx55ZDadtgGnXYKdT0m8IM4ShJmeOy2nTBmy3WwvWpa99y4aeRymczdg3QNUGRidW0I1wLZZgaZ1ckwY7voG3eTXhU0sTqvj4f+E+tbR2pbVGD5oLmEuozunaMnHzgEpDTNM5Ggl2FkGaSCFbqTpctUSIs/7aal4ROOit/DwyWW3jXqiWbBgcVfGp4j0wcU1k5zLNkv1zkRZcBPJL/pCSTLdp0kdB6WxHEZpiRUAoWmd66kXKyHm4V45oqVT1qiv2opMYPf1rBLv3xQw69XluHHIXqmNUoekQ8X5w2M2u6h/E5Ra4qC3pwwtsoPFQgRuZRifExEV3odxE/k004pEoH3v3CkMdHXe3hdDMo3HGAHPDO2+v4DfW7ldFD0u6tspKvoyEXO8dv7tys0iYyVcPQfqvkfnDDDtbSSS/zW6Pd29g==;TpdPa4TQP+Vw4zbWXVcbxQ=="
+related:
+  - title: "How This FinTech Startup Is Providing A Backbone To Entrepreneurs Using AI"
+    excerpt: "Fintso is planning to be at the forefront of organising the fintech sector by helping existing entrepreneurs be able to provide solutions for their clients."
+    publishedDateTime: 2020-07-23T06:58:00Z
+    webUrl: "https://analyticsindiamag.com/fintech-startup-fintso-entrepreneur-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/fintso.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+
+secured: "Vxip3+SQNYSseipCVKiQvRtv/09j9yLk82B4ZiQcAWSQtciVOA2RrKM85Xml6ORKips8H3aECvkXb5N4H3BduhMk5kbdFkYIM4+C+P3WCczNBjB/2AOhyrl7ThdREbUxB2vIZgu75cXMMHLf65J8Xm4ndfjUqFO093jfR1Q3IvwOWMo+g0XJADz+mn3Yd4U/6agEgqGJk1xzg5G87Ltpeah3ZRaThk//27K58VDBB1dN938m+z1sFNqij3ILbT9JuqastlRYYwzp95FctXrRnAVoz2KWinfsAxoIeQTQAjvtIudw/jSwseZ9W/Jj6YhJBGd2pFBd+MuAJJ3QspRkyg==;nozBdTbgu+GmRkxYx+m6pw=="
 ---
 

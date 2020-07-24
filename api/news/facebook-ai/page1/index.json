@@ -402,7 +402,7 @@
       "webUrl": "https://techcrunch.com/2020/07/20/cmu-and-facebook-ai-research-use-machine-learning-to-teach-robots-to-navigate-by-recognizing-objects/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -792,56 +792,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-10-facebook-ai-could-fix-one-of-the-most-annoying-problems-in-video-chat-apps.md",
-      "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
-      "excerpt": "Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five voices speaking simultaneously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?itm_source=24&itm_content=2x2&itm_term=2356592",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
-      "publishedDateTime": "2020-07-10T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-10-wimi-holographic-arai-vision-drives-a-new-wave-of-5g-applications.md",
       "title": "WIMI Holographic AR+AI Vision Drives a New Wave of 5G Applications",
       "excerpt": "Yet Facebook, Microsoft and others are arguably ... Huawei’s 5G and various basic research platforms, all of which are exploring the business opportunities of AI in the future. Technology is making life better and closer to reality.",
@@ -870,6 +820,56 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-facebook-ai-could-fix-one-of-the-most-annoying-problems-in-video-chat-apps.md",
+      "title": "Facebook A.I. could fix one of the most annoying problems in video chat apps",
+      "excerpt": "Announced on Friday, July 10, ahead of the International Conference on Machine Learning, Facebook has developed a new, cutting-edge artificial intelligence that’s able to distinguish up to five ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/girl-looking-at-videos-on-facebook-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-ai-could-fix-video-chat-app-problem/?amp",
+      "publishedDateTime": "2020-07-09T22:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

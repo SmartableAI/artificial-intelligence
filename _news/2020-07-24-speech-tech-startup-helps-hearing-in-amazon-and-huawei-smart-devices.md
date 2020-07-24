@@ -5,6 +5,9 @@ excerpt: "which requires reliable voice recognition and the ability to faithfull
 publishedDateTime: 2020-07-24T02:16:00Z
 webUrl: "https://asia.nikkei.com/Business/Startups/Speech-tech-startup-helps-hearing-in-Amazon-and-Huawei-smart-devices"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: NIKKEI
@@ -20,6 +23,6 @@ images:
     height: 512
     isCached: true
 
-secured: "LejC8eMRCAr3p2t8T2++2olwKzkr+Oi1pooTggr7GgKEAjkZOcJnlqyRfbkuPvP2RcbltAeebq7aw5JBGDC0kjwxGMhZh4cGi507CxiuTWg5j54ODiVSUhdkryjzF7AQKyP+iCOG98EOaD15YxjVf5bVG8le8HnmIofC54WfzQ1s6AM2arkUU5SU6WMqx33rd3aQ5ahQqR0jM2BmlnuB5RZfvqExJprlqQYI9W/YMbHB/wBODy+1XxOyGGYQqHV8+XYnsVJ/rg97XShyr9LfPIpB4V8XFxBNOq4dDcOIEJhI5TDZdADzsM98Wu3NubaxWXBdv8XZzz3HvuV3xdKwSQ==;Q4EnGmWZ2PREykwJMcjuQA=="
+secured: "HSPWyL+3BImcHQVwCeTRTPcWYc0VhrbKyEe2jfLAFVkgLT3kojxdfwGZABdupguBq8ChBvN9pjeebs63qldE4gW2xqXo45yuyTQeV0A/RtZSkiRzJRaOwrCkWbR0i1/wtlW4C3FVFkweJctPtfI/O7mkuUWGUkn61ksRgmDjZeqOUpAbM0ANvGs5IaTYC+YeBSBbKM/q/lh2TFc9/AATnGF64sRHJT0+EBqnq5biwhCPCfk2NDbf5tekpn5FPNdVpr1vLADj934EuLvpeI35OJPCtuKPHV/bbBo5ttyYXJD+vEdMAT4wbF+VBxeq02kHH04vNSx8Ir0/PdTnhr/BXsI9ZQO9O1KsFsCh0/JjUd2Xh6/U4BNayRKXMW8YDRD9RsRMLP3VFwunVBdDshRBiDxqwSYtQ7w9MQWTX/KiCVpPow3P/kZekcyTcUH48exFFYBSkOLQQ+2sl9Z8YOPkc3+T6xiAnJCG7tGZKA1QhlIvh0kdu+lO5qVlt98OXNabVROEKXmWMBJFgKdpXJcTHw==;HpyJJu7Z64QgUFjNpDWXMg=="
 ---
 

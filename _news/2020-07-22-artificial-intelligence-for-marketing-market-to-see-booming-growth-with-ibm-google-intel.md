@@ -17,15 +17,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel"
-    excerpt: "The global Artificial Neural Network (ANN) Market size is expected to grow from USD 117 million in 2019 to USD"
-    publishedDateTime: 2020-07-23T17:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23"
+  - title: "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota"
+    excerpt: "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,"
+    publishedDateTime: 2020-07-22T00:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market – COVID-19 Impact Analysis, Business Profiles and Forecast 2020 to 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-07-20T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-covid-19-impact-analysis-business-profiles-and-forecast-2020-to-2024-2020-07-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
