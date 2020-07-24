@@ -25,6 +25,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Samsung launches PRISM project in India, selects students for AI, IoT, 5G research"
+    excerpt: "The teams worked on ‘Make for India’ projects such as handwriting recognition for Indian languages and AI-based Indian language translation. Some teams worked on research projects such as intelligent navigation via in-home object recognition and ..."
+    publishedDateTime: 2020-07-24T05:59:00Z
+    webUrl: "https://www.telecompaper.com/news/samsung-launches-prism-project-in-india-selects-students-for-ai-iot-5g-research--1347788"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 13
+
 secured: "Xghlq3Gw2bTmXSQnx2ZP+mYUuZLAA/j11bqUixQt6C1VL5FQc5KX0dchHTg66U/bfMUkS21H5j25Cr3mFmWImY9buSHzsfpypdbRSFc7702WqmdIm2mria3mTycOW826iHxq9eAGkNJTtA7cQnw1PWyep46sk93OoklFhO0FJNt3fjLng9LO7IHgoSK3ZU+VYRjrFVPztZKlJXC/ZOQJkH2Q4dWcsjuGJ4TIAyItThhlR2cFHSdEfCDXL+c8h4P4BopgC9MBc4a+I6PVks5a99Li+SQoDZVZDBe2J4wVSu62rXYuqedI0xudlwWTLlIGkzMbTI7wiBd6e2GNPR/RAw==;1JPhmeNUubbfelE7tpeoAg=="
 ---
 

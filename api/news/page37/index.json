@@ -2,6 +2,56 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-06-25-volvo-will-use-waymo-technology-to-power-its-self-driving-cars.md",
+      "title": "Volvo will use Waymo technology to power its self-driving cars",
+      "excerpt": "Volvo will use Waymo technology to guide its self-driving cars, including one built for ride-hailing services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 289,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-06%2F330f5320-b715-11ea-8bff-ded22acc56bd&client=amp-blogside-v2&signature=aa6885b83be1e636943df5f7d64dfe77790ff3a4",
+          "width": 600,
+          "height": 350,
+          "title": "Volvo will use Waymo technology to power its self-driving cars",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/volvo-waymo-self-driving-car-partnership-192450966.html",
+      "publishedDateTime": "2020-06-25T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-volvo-waymo-partner-to-build-self-driving-vehicles.md",
       "title": "Volvo, Waymo partner to build self-driving vehicles",
       "excerpt": "Waymo will focus on the artificial intelligence for the software \"driver.\" Volvo will design and manufacture the vehicles. The companies said Waymo will work with Volvo's global brands ...",
@@ -1077,47 +1127,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine.md",
-      "title": "Dayzz Sleep App Announces Publication of the Findings From Clinical Trial to Validate Its Sleep Assessment Machine Learning Engine",
-      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... of its first clinical trial. dayzz' machine learning engine enables assessment of common ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dayzz-sleep-app-announces-publication-of-the-findings-from-clinical-trial-to-validate-its-sleep-assessment-machine-learning-engine-1029342265",
-      "publishedDateTime": "2020-06-25T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
