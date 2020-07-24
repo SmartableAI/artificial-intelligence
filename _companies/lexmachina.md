@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lexmachina"
   url: "https://twitter.com/lexmachina"
-  followers: 5339
+  followers: 5340
 
 size: 51-200 employees
 yearFounded: 2010
@@ -28,7 +28,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1017448234984198144/7n3AxSEB_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1286777045360377857/aqKDO9by_400x400.jpg"
     width: 400
     height: 400
     isCached: true
