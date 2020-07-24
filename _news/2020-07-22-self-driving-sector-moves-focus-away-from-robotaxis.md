@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/07/self-driving-sector-moves-f
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html/amp"
 type: article
 quality: 44
-heat: 44
+heat: 64
 published: false
 
 provider:

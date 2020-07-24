@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recog
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -344,6 +344,22 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/07/no-student-facial-recognition.jpg"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Facebook bumps up offer to $650 million to settle facial recognition class action"
+    excerpt: "Facebook has agreed to pay $650 million – $100 million more than before – to settle a class action lawsuit over its face recognition technology."
+    publishedDateTime: 2020-07-24T00:15:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/23/facebook-offers-650-million-settle-facial-recognition-class-action/5498792002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5498792002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5498792002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 54
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fc31eaa651e0d0fe4aa496c77accf6c2d467c460/c=0-235-3592-2264/local/-/media/2018/07/26/USATODAY/USATODAY/636681988519464839-FACEBOOKINDEXFUNDS.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
         isCached: true
   - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
     excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."

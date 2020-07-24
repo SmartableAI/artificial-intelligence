@@ -355,6 +355,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Facebook bumps up offer to $650 million to settle facial recognition class action"
+    excerpt: "Facebook has agreed to pay $650 million – $100 million more than before – to settle a class action lawsuit over its face recognition technology."
+    publishedDateTime: 2020-07-24T00:15:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2020/07/23/facebook-offers-650-million-settle-facial-recognition-class-action/5498792002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5498792002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5498792002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 54
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/fc31eaa651e0d0fe4aa496c77accf6c2d467c460/c=0-235-3592-2264/local/-/media/2018/07/26/USATODAY/USATODAY/636681988519464839-FACEBOOKINDEXFUNDS.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "znTxeCcTGGawrpmvnftFJkhIOcncnRc4572PxYH1zfMYAkqL6dPGn6jhrRhvkzCVGaHhY5I7Z8qrI9YC9rxWICBLAmAQV4DNxR8fYJKhXyz5UBAMbOii2DM4RMn3MfKtKqjfpb7VRXNOS95TAHbsVB8I+uJUxWsGwWXgSdUiVhuo+DSAmt/cEYL24wpVfFhYYS3m7Q3r2mwTootQvSigKG5p/JCYfg7CmzLo84DdiBiY/XhB9Unl8zdeqDEgI9M7LTplmnEWburtQZJ4H1bRc5J5vfy6IU8LiAaHcgyGX5SJIdKyk8psF+e1IRa12umr93udjKkYUanRkf1xIHqzcByZvfmNrU96i9f7CBcmATkHERmu6qwH+/d4f9TsCQnyKir97GNMkhihKmCuUh8JKEOuWJNIJ9Yauz6oynxa0pxs2UaP898qjOLPvbD0OhAkvafJBreQWgGe5NSzHsXHEHNzOa3EybQbGPn0wPJnQoVt1bc8w0VlgWXbLCvjKpIAW4K3aZzoU34RJkDGKVUtzg==;J5su+keumFZTFguHIpNBSA=="
 ---

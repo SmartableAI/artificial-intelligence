@@ -20,7 +20,7 @@ website: https://t.co/ajoSG5g4Rn
 twitter:
   username: jeffdean
   url: https://twitter.com/jeffdean
-  followers: 161825
+  followers: 161841
 
 googleScholar:
   url: https://scholar.google.com/citations?user=NMS69lQAAAAJ
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Jeff Dean"
 
-secured: "iPYsdmpPF4+KcPnpzgmjQwrXtXxFLar1TslBbjk7x8o7fg8lSN0KBqJT22ybC6L6yPRm7dKk+N7TSA3YGU/+5k9AVSPPBdUVSuNBdoh+j1lUbi7aCIFhwVo5yAttEWiuwqIbWzajhQ6YXPH9kJlgD7pUXpCGwb3t8+ZmzskEbCyI5PVINUgq1vigRkvgxYVtW1UtVt69eg7pgR9bvZZHRn9d39weoH80lnB8EoGiZ0qPUkB5NaADZgJDfBq9Qd5huTk+gb5iHqrlUNpJOdVjjzledYEd1CSW3wTGYMNhXDdB4fnw4qBx6sAxvtzQk8TteaVHAvIaROIPxGSVc/XRxlstbzr+Ot/E5/774JVc9dqPR41zqoNpluKjrgLJakdFXCT8pJarTeZGcu5FPuc1PQ==;ReP858o5YV1CakILr9EALg=="
+secured: "t75ib80SNx5zxJn5F76uRlCkou3xHa6L+bzMGA8hBIoBJTHFN8nl6Fu9FiF42WHykni0a4KjexS40YNMhXNIh1Zt7/hsvmy0Qp0B/WAt9/o0CfNFM6FFMWzm0rX1AWo+9tlqqUQVjOybMTr7DLrM1Ynomm094fdZlqJv0u0MyPvkmQAoOLkRNUwAKliS/eeA37S2mlU/oiJ2SNYxalOZSTjtNAYWIGHJmkRcdA580VE+P/iMQCzM/zLvB/c5rV9xxdTeKChSAoF2ujFlTWeUSdcYeIlqXepvp5O/uUP1GJ870aMc0YnGjJRs16bH/85KnTdo/OgpLfJPY+vJZlo9Vm+vnaBVhqYe0GWO1j/TF5n8YGPmWfwNMgX3dMls3nqhgax3TO0OpC3KPkfdMoNJLQ==;MlkM9kmXCtEkvBqQHqkhrA=="
 ---
 

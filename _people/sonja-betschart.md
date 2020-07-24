@@ -3,7 +3,7 @@ name: "Sonja Betschart"
 bio: "Passionate about using technology to make the world a better place and create new businesses and experiences"
 location: Geneva, Switzerland
 type: "profile"
-heat: 57
+heat: 58
 
 twitter:
   username: sobetschart
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Sonja Betschart"
 
-secured: "IuNiTsaEOwOxayZPNcCdCsoQ6gRHG+p1CfBj9kN3rG4JX5srUogq0sbSyJyFUY3gD71LrO+ZAzsdkf3qDnhvxWWq48oYHzSNzpMsG0i77/VAzBfPUsr7C9kW66GOaELVbyu/Z7VSVrR6ByqPAcjnGBr3/dVzM0vKmOcKnagIfP0qWZw63oRNE7aCj9pQQPpv7hu/gnAvdf5howTtQSHcHuuaVZjCV2n+h/YOJz1gTrXVmuNjJ5W/1XamnVeJKP8I93aut7uGT9/0nZVkTKwHdShJAjbAy0rFO4Q82F1Jcw4/Oy9PtGBrB/X6nGxTNLcn/hiWW5Q1po/krq/Zng1YxHl8hvYUFQ/LYuhrpWQveGvalOgBM3V4BD5BZq6zotOV;QeUuUj2OE5eDQeYF3RFwNQ=="
+secured: "dlVqmm4a+Lce6LjOAjILVgbpbdTj7C1egHQjRsN1kTT6blwkLgslMi5rb+TD4YD4QeNntm37KKBvvus4N69uKPzI6TvNffgZHhSztwoM3WI84yspRvdz00NE+joMQoF5p9FQZda4sY5TN9vusG7cmp3/qj+i8rrDJ7Ks6RQ41uE5m9sgJ1C7UPC6qA2vOmIYtg6nomPAC3AK1sPa9KpK4mk45lQZKBjjsCGKbNSq1WF1wWbR2bj6Zu0g2YDXH/fHFtxYbxCv56eJKSJe4JfTxqI4AXvMTQVx1faAYf4g+T+jTcez8b596jLzzztvFVBsxUEcNQhF90yKrckF8PFrLbKtJL6Df0Crdupf3xicHj9MMb8SvjLE6ojbGcg/ClCa;tDd2y2UxT77DBOJVWdNMMA=="
 ---
 

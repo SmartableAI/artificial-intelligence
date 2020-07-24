@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T04:51:00Z
 webUrl: "https://analyticsindiamag.com/uipath-announces-integrations-with-amazon-web-services-for-its-platform/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

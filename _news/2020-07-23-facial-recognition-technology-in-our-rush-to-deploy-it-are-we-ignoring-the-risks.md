@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T19:41:00Z
 webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
 type: article
 quality: 33
-heat: 33
+heat: 43
 published: false
 
 provider:
