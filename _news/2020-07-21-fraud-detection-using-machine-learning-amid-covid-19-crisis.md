@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "How AI helps scientists fight COVID-19"
+    excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
+    publishedDateTime: 2020-07-24T18:29:00Z
+    webUrl: "https://www.computerworld.com/article/3568191/how-ai-helps-scientists-fight-covid-19.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/07/tt20_060_podcast-thumb-100852767-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
     excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"
     publishedDateTime: 2020-07-22T02:23:00Z

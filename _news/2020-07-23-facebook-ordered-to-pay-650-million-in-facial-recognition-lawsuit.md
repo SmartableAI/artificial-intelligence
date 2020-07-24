@@ -3,7 +3,7 @@ category: news
 title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
 excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
 publishedDateTime: 2020-07-23T16:49:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=39&itm_content=2x4&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
@@ -419,6 +419,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iIOkMq7GE+eKByu2g0B83Qt6Vn7k/PYHJIeF9xxAnF3VaF+K/6ZZhhKWasaHIfI1rP1YH/5tPmfyluAykTGU+KpLrVMM5JHNTm9AM75hFjIENWBvXUkMgfMzEmLfYjYdu6nHuAtUDd2yflsbTq73HX6ZvTE+nkSb2UJKy2To8DjicsKyRZeHsUZejVqxycVwdnXgLmaRKemDxQqqaI7atUoLjqQbi4/D+ZQTatNlUlZPZA5nHzVP1B274U6LN9Fih2ZO9JYFFqKEkXsCOpW1qaxKb4ApI0nVKSyMxUZX4UjlN+iQkACIbzgCN9AyOumkW++VZFd4BUMZPTl6GaEwLoPTXGdgD5RNQqSPrIfzi62c8n0xIS/aKDtJab187vC5KlXU4IMXt/RqsUrCb5UMgw03D0dE8ckmT+g6e9xtDVAhdWZVm35k70mVypZasunueAAmfi4US3UXiuDDZ08cBOpqHG3XIs1WHqKzHuaiBpqNCG+h7js6+uEBaPPSmTncoy1GrIbiS9dxDJAV8/iNjg==;5ryat4yjwKDRs38ej7cjhw=="
+secured: "zbaHxcuiNVeBBQCDevxD3u+ap9gDrtZEY5kbYqentcRczpMaYq8Q/imxAzgu9xw2V8wBDG/ubXDQD7dNyO/5X3r8HYQXjqkjv2aqnNOBdWJrsiWXjSY/c5Edqd1x/n/ihBqalkLWPSpAVgqPk50Ls10GtJhiwqPvhHgNvWnNj6vizNlMdYZeOBOeL6f5vayIHxZX7gzilrqHFpiA4NlZzCcIGDabcK3j4mb7nt/toWJ1QgwADCXmUnGIWcFX1dm6rvxK0avFPQ92CIC/QjFrGUeJq2pEWfdvm5VYKy/OXGIRVm5t6c+VYS419zDesbde2dmxBQrUvSi+0uWzXo+HbuOwyKzbyvnPKG/mDGAMtXdeqnEvGb5KCrAoDUPlmeEIjnfP99E+tur1EW4z5RFHHh7lBZiUeQMPKcGi4ZsyUbfQNxsz0BMGFHzqpkZwVKRWnjnaizNZcQdLTRHGZ73ubVQ9lVJfidMsF+PKkDCsbch5UKLe1gGg0v/o/CY1r4SeyRWNL00Xdz9ZxoSIOFOj/A==;7MXfyzucK2kjszAAEe8xEg=="
 ---
 

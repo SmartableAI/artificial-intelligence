@@ -2,24 +2,24 @@
 category: news
 title: "EY and IBM expand global alliance to help organizations accelerate their digital transformation"
 excerpt: "\"The EY-IBM Alliance is built on providing differentiating and transformational business value for clients. As organizations learn how to adapt to today's new normal, leveraging the cloud ..."
-publishedDateTime: 2020-07-17T20:59:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html"
+publishedDateTime: 2020-07-17T21:53:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation/article_adb19baa-4292-5ba7-991a-1bd262060716.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "Xxei2ZnbD45RuvSfCyqFMM1UZv27KchiL3iP+kVyc5rSaksznUvfcUlIlYmkTx6066dmTNYoPD8ixfuughqwQT2sPCM9Y+szf5qcVN4c5J/b6eNuQksYMxeJLGR2MWETjV6TTEgKzD/0vKCU2F4npPOMrinRzl1C6X5VXGedven66sZS9vGns/uxA9XO/I7MSVm6i8PxmD3C9Hk+KEr/E7PABNfDR2Yxu07T+zSCPhdLoTxz8xvk3hWy0EcM459s7jr3BkezI117CDZpZlamjXSvT+aVGrH/ijfKCqVsPUSmgbmIRaNlJwEVD2KyGhqwzUkKSbSH2LaYoFqgPgvc9w==;2Vn6wz9lkiaqvGqwOaJVQw=="
+secured: "uyJpU2BOiR+GTAhE6mYvJgGalA1r3795kvn/lj8LLgvWCpLMqmTAssEIi6VtC5gPbkgtQEpp0bf2GCBo/Vop/M+b81+OmmYaFH407i6fvO90FskzyvpmkuQPKVJZwbxxdAH1oDYMsNPlB3r5i3VpU6YlzaOb3TCtYjSK2dAB5X7DQwxDLdX1CNBxvOZH2aKD78jcFtG6rUfgFMJsLq94Zwesrlm79EsEr8AskRHfXjS16On+0PbNjYy6ywPm7u1o00/q1deASOAsr0BYrSMNuXZTa4ln307r3HwWJMOQ3z3ccap31f0wuPnHUVcpCHdsC/aVJMs6B6pektjwADA0ZA==;5n/F8PIUL1l8F80/wknGnQ=="
 ---
 

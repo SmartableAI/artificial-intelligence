@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T09:13:00Z
 webUrl: "https://www.gizmochina.com/2020/07/22/foxconn-to-invest-over-9-billion-for-new-chip-plant-in-china/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Hedge Fund Using AI to Invest Eyes $1 Billion in Assets"
-    excerpt: "A Chinese hedge fund using artificial intelligence to invest in the nation’s stock market expects to exceed $1 billion in assets on growing demand for quantitative investment strategies."
-    publishedDateTime: 2020-07-20T03:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
   - title: "Foxconn breaks ground for new chip plant in China"
     excerpt: "Foxconn Electronics (Hon Hai Precision Industry) recently broke ground for an advanced semiconductor assembly and test plant in Qingdao, northeast China."
     publishedDateTime: 2020-07-22T02:26:00Z

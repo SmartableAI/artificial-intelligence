@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomin
 ampWebUrl: "https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/amp/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - Facebook AI
   - AI
   - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&#038;strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "qT6RSpV9kBipkudiJkmGymFv4nRMfgVn/w7w89O1vhpsg6o4b6QLUSyms8X0g9LZIB6Fwf7ycmTrJB1emYwpQ+o4Tn6iqUia/sPKkMwZ5/hSrzirH8Zjy+/KEvmhT4x6kY8yq747WqGgutR/jScAnk3hF7QZicv69VAmA+WKmKPNWrod7gRBpIbyJ+c6lPmqKFXHmCMgy+1r+RiC0Fdf7yn8/1bWZLsQ15Z7h8yX8C1YJArz7VxwH85JAfD8cIltekE9pusglLn1JoJzum4ljLV9OXZeZicxlBdv0ANUUWTY+6ib/r/SlK0E+r6w1XgRHCd0FvwwGbWzy1Z+gW/8CQ==;NYYYbpnApsakeo6Kk0JxiA=="
+secured: "UPcH+Oq98CzBGfGb8Ic9ys/YU0AmD87ORAjq2eX2JG360fWBnzthm8lUHi5y8B+iSRd4h0XZnTKUdxQ02vcflfSA8ZUPRz0Wvnl8OC7Kbja69UG6+7Kh8CXaag6AvIkDoPFsdjDUCVrwdLV/G5Bsa6ZQfE/MiOP4awiDXLvsyMBqZX/AHRUmgUQDd01+pD4kIP6M/akJaxTPswszwWU0dFA192bcjd65dXBFQ5Shiu+wHheEOPA3SUODDD9uAH45CD3Omc1cf89mf36D3gayhBYTIEqgqLYdQWFXQbfZ81JFGSC9r2DW/XNT53R2qttLoQ5A12FvCwAEB7IXfoZc/sLjrPuZ/nQGGajbr1Y09qH1miRTRTC41cLz2qXMEPABSf6JhZRNPEIfZS3uqdHgeLHwjih7xHKfzDAS3DN96+ae5gk/JQLFAbR2my2UvFPFENRKb1O4tAnIEaLzJGVpKGTxdP3Sczljf0haq/NN16PJfo0s3c7HTjsga/xUwaU1DIT4Zd46PZVWobt6RR7iPA==;FrIT7fhrDIoSJ5i2kP8OWg=="
 ---
 

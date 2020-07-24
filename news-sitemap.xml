@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/enhancing-your-browsing-experience-with-amazon-lex/</loc>
+    <lastmod>2020-07-24T14:22:01-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.zdnet.com/article/ucla-childrens-hospital-implements-new-ai-robot-to-improve-mental-health-during-treatment/</loc>
+    <lastmod>2020-07-24T13:22:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://phys.org/news/2020-07-machine-reveals-recipe-artificial-proteins.html</loc>
+    <lastmod>2020-07-24T12:56:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/</loc>
     <lastmod>2020-07-24T12:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -15,6 +33,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/</loc>
     <lastmod>2020-07-24T11:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/technology-53530454?at_custom1=%255Bpost+type%255D&amp;</loc>
+    <lastmod>2020-07-24T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -955,6 +979,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation/article_adb19baa-4292-5ba7-991a-1bd262060716.html</loc>
+    <lastmod>2020-07-17T14:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.neowin.net/news/microsoft-reportedly-cuts-jobs-across-msn-azure-and-sales-organizations</loc>
     <lastmod>2020-07-17T14:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -969,12 +999,6 @@
   <url>
     <loc>https://futurism.com/the-byte/government-leak-cops-terrified-masks-block-facial-recognition</loc>
     <lastmod>2020-07-17T14:02:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.prnewswire.com/news-releases/ey-and-ibm-expand-global-alliance-to-help-organizations-accelerate-their-digital-transformation-301095695.html</loc>
-    <lastmod>2020-07-17T13:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1443,6 +1467,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/</loc>
     <lastmod>2020-07-15T14:38:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.intellinews.com/baltic-blog-estonian-al-law-lags-behind-self-driving-vehicles-187527/</loc>
+    <lastmod>2020-07-15T14:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2365,6 +2395,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://washingtontechnology.com/GIG/gcn/Articles/2020/07/10/ethical-autonomous-vehicles.aspx</loc>
+    <lastmod>2020-07-10T16:49:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://mashable.com/article/arrested-facial-recognition-technology/</loc>
     <lastmod>2020-07-10T16:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2373,6 +2409,12 @@
   <url>
     <loc>https://www.engadget.com/facial-recognition-false-match-wrongful-arrest-224053761.html</loc>
     <lastmod>2020-07-10T15:55:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.techrepublic.com/article/natural-language-processing-a-cheat-sheet/</loc>
+    <lastmod>2020-07-10T13:44:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2403,6 +2445,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/software-as-a-service-saas-a-cheat-sheet/</loc>
     <lastmod>2020-07-10T11:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://advances.sciencemag.org/content/6/28/eaba1178.full</loc>
+    <lastmod>2020-07-10T11:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/articles/2020/07/21/doc7bja31mvow9ea6qemk2_doc756tsw6cn7511kmq2hj5.jpg?itok=lMC6_hLF"
         width: 440
         height: 293
+        isCached: true
+  - title: "How AI helps scientists fight COVID-19"
+    excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
+    publishedDateTime: 2020-07-24T18:29:00Z
+    webUrl: "https://www.computerworld.com/article/3568191/how-ai-helps-scientists-fight-covid-19.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/07/tt20_060_podcast-thumb-100852767-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
     excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"

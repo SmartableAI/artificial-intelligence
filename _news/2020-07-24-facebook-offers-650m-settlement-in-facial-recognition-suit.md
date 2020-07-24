@@ -125,7 +125,7 @@ related:
   - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
     excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
     publishedDateTime: 2020-07-23T16:49:00Z
-    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
+    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=39&itm_content=2x4&itm_term=2356592"
     ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
     type: article
@@ -416,6 +416,6 @@ related:
         height: 630
         isCached: true
 
-secured: "SVOsXCCFN+eWbmEbJeKz+G3ULZDV3hyLMMA2QVB+XBdk0Ixjp0VEwccOWUHhFNSKjQiVOJosj6E2/lZpx2+bfKodeGW06XvHz8h/wQeBckx2vxX87UmLIS1MvtehdtxlYM7Wbk/3w3QiJfxv1g7wbEgTcEQIUVvX0W+yi0sk0PFPvaNBpIY3jhfKWj9l5/9v3THQX7LwXQzPSTD8u209x/agZnsy5mHsqctgaXSBC4fKJgUDBxOh+sTUfyFcEMC+rqFkisOMwph8iE8z20VclINeuszZzZOV+bSmPI9g9qrVlXbF1LrHdcWiLTWbR1kVCzXTTxOcp5CUNdn0oT/vpw==;VElyPoN6izbGHofbzI0mEw=="
+secured: "sXkv9rq7kxr+ydMKJOP8qlFM/OoEqVqPvJI8ohuR6u97p6afHU5UOCJvM/QnGwuAkzIEnJTVIanHTfzge7SrNVxij674KcjV4E/ZpiZP8TTmXCnHwaV6GggOBb607l4Nn3NEp41X/s/3Bxl+24YL8cguAWu94QqMyMgvBkbJ3QEf8wQCUGlU2KcUve2PGjbXUTvOU5oVKPUKg6tiKWoSLrELlsFSMl1+sXSpQFKDzxQ4HS4Hq4QJk03V0qiIkc1rRmeD8D3ryqTanJpkAmTtCKrSm+ftpLpzMX3Ruo9b0M7gPDIH+itwmx69kDQcrJgfxoTE10o1zs8LMPL7SuOyX4kbzOWh/fw+j6EgTMHi13QJaXLJ/QNO8Xfab82yQI6WtQAxpLUeg705JvM853ObdOW1tVNOIg4yPdwkvz81Z3iZBl0FqhmqCiOjDhsudVShfRdAYQg1QTP1Gn04MDEF2wCx1BxFNc2w/4g0K9S6/Y0oQGUYBxTSKtKHMGFmawdLFRSQUKxWTo/kRdfkD/gIkA==;H5Lg/4hgUPrxOnhLI+mzZA=="
 ---
 

@@ -52,20 +52,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "3D Facial Recognition Market 2020| Global Trend, Segmentation and Opportunities Forecast to 2026"
-    excerpt: "The 3D facial recognition system is used to authenticate an individual by using 3D geometry of his/her face. 3D"
-    publishedDateTime: 2020-07-20T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-market-2020-global-trend-segmentation-and-opportunities-forecast-to-2026-2020-07-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "i0r9/wMHZNVmphwOGH6iTaXzQLftjbtCdtRTrco/nAWKpK4C73Mz2+m3g8N2k6YfvVzKj+T+dju/ilNN0Pab34sqd/cZUWJWOLWV6bnLZG4BKjH0m7kf7B0xSjxSV1/wqYgulwtH0FThhoGmXd0Klilr5iUlXsxgnc63NkgfaoRqP3dBak2bIQsEYuY/JwdmId01oRCR4j+u8diN8o6POmmz50bNv8c2p1nOWsrhOPV2r6fPNIZ+5Xa+arfVVxTzcqUjB+B3XZFrd7Ayl4YDeHJHeTn68UqE3PMIvuWe3ZLLIW4p6RBUcNVcxqkn2YFYR+BCoUiZXiQA4SCtb4fIU4d0wS1HHWVb97UCFiLA7xW76cLKLtFH67AA4VHhXYovPBUV4JTMiJw3Bgp5BNe1dCq8BqwksuYFAl6WIJLgGadu4roB4vjg48FAaIUw4Gu+2f0gnbZRPUJrFdmnRDHlslyECDgYYuwmMVG2VUdQf14Eu6R1V2ZDhWHM3KS8bBBQI3nGNfeaEIpWDHN9U8H+hA==;3Lr0lCaEw2n8+WoRm5ysdw=="
 ---

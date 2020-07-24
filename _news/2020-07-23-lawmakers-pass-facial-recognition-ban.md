@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Facebook proposes $650M settlement for facial recognition suit"
+    excerpt: "Facebook this week offered to pay $650 million to settle a class-action facial recognition lawsuit in federal court in Illinois."
+    publishedDateTime: 2020-07-24T20:36:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/07/24/Facebook-proposes-650M-settlement-for-facial-recognition-suit/9421595618921/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/07/24/Facebook-proposes-650M-settlement-for-facial-recognition-suit/9421595618921/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/07/24/Facebook-proposes-650M-settlement-for-facial-recognition-suit/9421595618921/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 59
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9421595618921/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-proposes-650M-settlement-for-facial-recognition-suit.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
     excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
     publishedDateTime: 2020-07-21T16:00:00Z

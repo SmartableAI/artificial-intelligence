@@ -56,6 +56,20 @@ related:
         width: 440
         height: 293
         isCached: true
+  - title: "How AI helps scientists fight COVID-19"
+    excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
+    publishedDateTime: 2020-07-24T18:29:00Z
+    webUrl: "https://www.computerworld.com/article/3568191/how-ai-helps-scientists-fight-covid-19.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/07/tt20_060_podcast-thumb-100852767-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Km3482Y4md3C2GXVpxrZ9HZ67Hz8pn6S3E4hjHqF8RE1ksbey4KikAPxXEoHUIAEZYYkPyE2OAGtlFk3aPZxJMYePSJpjpsW1J8xJsdQGSlu11oe2QqDJjdNSoZ28F8iPVe9uWvNks7THWzwSCIuyHFQZ2xjxe+bjXGU33d2iYBh1WOMQZwhDvxMCmtVttT2dX8h39uoATzDxMXzC01y/xeBjk8gV8rCFAjCOHGw7BQZIHMNh8mIBuN1UPtSVsOmXy8HX01/A6H9I9Mxmw6+Oe0w487zOI1rNbczMbyr/r6kor/PmDw8E4xyjNrG2CoQWnx7N+lO1loQnPch+44kyQ==;3BK7XwZgSWWnySQ0N1B8OQ=="
 ---

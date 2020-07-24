@@ -33,7 +33,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 42
+    quality: 61
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-protein.jpg"
         width: 2880

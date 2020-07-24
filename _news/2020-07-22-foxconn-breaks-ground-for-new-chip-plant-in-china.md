@@ -38,17 +38,6 @@ related:
         width: 1199
         height: 802
         isCached: true
-  - title: "China Hedge Fund Using AI to Invest Eyes $1 Billion in Assets"
-    excerpt: "A Chinese hedge fund using artificial intelligence to invest in the nation’s stock market expects to exceed $1 billion in assets on growing demand for quantitative investment strategies."
-    publishedDateTime: 2020-07-20T03:35:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/china-hedge-fund-tapping-quant-demand-eyes-1-billion-in-assets"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
 
 secured: "0sTGIpGtJo/ZSq15fFWKD4V/2qiGXF9grPRp0fHsn15wIOIGFJFG0/CAOhR3j9sRri/x6YM0wfnCU3XDFajEbptXEflyTCkxvLfoyHxL9pokxXgkWnTOcy6Fiz0DOSIILVpvgxVhSLm3AtnOQxPks6mON9jcZdDI2D2bBzFvr43i3ZYCeD8Od3fVVG9vrN+eqjZLrVx0q9Ir5Qgfa89hnCHS/ikmBIBMBwiBZNpc1zjOkTGVOTyqQmSgel/gAZToWCs0zLd6NtdXfDZXhYicQx8jQA591TIdbFRl06BJQCbgEQWSknKSGU4sL4S8ga2smZZlZrpOq7GsEJ++gD0RDnsfY//QmadFIPCPbWlAGndB5RBCA9ZdzCOW4yj0Gmn87e28L+hftu9Bs6XaAhjowY8zo5euqniOML9yCMg/qz4Q3tw0yX47limuVb188jl+OSF1+UrlHLmIqPt0CrQZYLQOFLH4hMar19laczouc/L8opcxl13pnZbmNIKevmLKhDtCmF/VVHmuAkD5SnS9jw==;+zDwbD+z99cf0RzEi3Y7kw=="
 ---
