@@ -1,9 +1,9 @@
 ---
 category: news
 title: "How to Stop Sharing Sensitive Content with AWS AI Services"
-excerpt: "AWS has released a new tool that allows customers of its AI services to more easily stop sharing their datasets with Amazon for product improvement purposes: something that is currently a default opt-in for many AWS AI services."
-publishedDateTime: 2020-07-10T12:40:00Z
-webUrl: "https://www.cbronline.com/news/aws-ai-services"
+excerpt: "AWS AI services affected include facial recognition service Amazon Rekognition, voice recording transcription service Amazon Transcribe, natural language processing service Amazon Comprehend and ..."
+publishedDateTime: 2020-07-10T13:40:00Z
+webUrl: "https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 916
     isCached: true
 
-secured: "uWDN/UXRv7prACRlAxd9SC/441GGUDvZFw4GpouBpK9HfttHyYu/2+1tStx2iWq4ZYPU26nH+5Bazq92N2eIJwKmPEDdf5a/o/kRDWsv0SCyoh/cmB3bEZnaIAhTGu9wOJWZysBxwoBHsg3Ky1SIWiv0rUwzR2SUC60b/FQdYP60lWapa7zdYa2B/hn482ghIud/TRtJ7Hnn9QMTDSse7cAJ+ZxnvzzpjbVJCh1YyEQKrL7K2U5GyGKhWG34amVYiTNW7K8mH1VEkn7UFL3Erz167/eNRERMLMtAenaV6TJ9m+n0cmdyV4S+4hWsNrlzEyYkR+m+FYLk/kAE/Hsisl9290EaGMAk4+757qlwLi41gEUId2cWZsh6WicAF0uBHU0MaDkvpqp6iVJTxStIyyWEJakZ95OZ4XpotIPXZsPWRcx+CublMUkj0qQQoBrLVfQH8iR3128uBqlNyE7B+uXS4HyeWj0edkf38ztoe5GT6ynuNFbDOU53XPAH0Ht0w01+SdYdMfauXEqeWyVERA==;2tdbjpxd6XNMvM07fI24gQ=="
+secured: "VHTy7qIICs/KP0CUbchCgatV4l4b/7XymE9LomIhiTROXDWHboohKTTROm/Bei6MQDVp5vgmo9VS9Sl6Fbjd8l/RXDPJxkQJ26NfJVyvpUOpykfSWpSmlM/UzNqUe3MddUE5+E/pFD3u7dET+5YWUeVVsh6DY/oIpY5RjyOlbodTEphDYUTzy5epjJXPh2Pc9my+7jYEfiu5T780ZTap4Lns4Nb3XJLnApuZdJtxZ4wmwDw0VeLQ33tb961M4/AMcCTSoe74BiOa4ALLfv6cZN62JEXQnptxQRhh8IdgvhDpUJmt+iF+czUJDttydUblrMO+ui8Xxiyj4A2WQNORqw==;FTbdcg1uJ0gLSVxQmsD18g=="
 ---
 

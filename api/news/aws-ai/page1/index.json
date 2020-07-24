@@ -9,7 +9,7 @@
       "webUrl": "https://www.zdnet.com/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -973,9 +973,9 @@
     {
       "path": "_news/2020-07-10-how-to-stop-sharing-sensitive-content-with-aws-ai-services.md",
       "title": "How to Stop Sharing Sensitive Content with AWS AI Services",
-      "excerpt": "AWS has released a new tool that allows customers of its AI services to more easily stop sharing their datasets with Amazon for product improvement purposes: something that is currently a default opt-in for many AWS AI services.",
+      "excerpt": "AWS AI services affected include facial recognition service Amazon Rekognition, voice recording transcription service Amazon Transcribe, natural language processing service Amazon Comprehend and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbronline.com/news/aws-ai-services",
+      "webUrl": "https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -993,7 +993,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T05:40:00-07:00",
+      "publishedDateTime": "2020-07-10T06:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Computer Business Review",

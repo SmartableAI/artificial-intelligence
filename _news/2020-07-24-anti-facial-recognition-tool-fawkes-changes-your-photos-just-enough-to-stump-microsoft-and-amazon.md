@@ -1,23 +1,33 @@
 ---
 category: news
-title: "Moscow subway to deploy facial recognition surveillance system"
-excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
-publishedDateTime: 2020-07-21T14:31:00Z
-webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+title: "Anti-facial recognition tool Fawkes changes your photos just enough to stump Microsoft and Amazon"
+excerpt: "The changes Fawkes makes to images are so small that altered photos look almost the same to human eyes. But the changes are also significant enough to prevent third-party facial r"
+publishedDateTime: 2020-07-24T11:59:00Z
+webUrl: "https://www.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
 type: article
-quality: 39
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Meduza
-  domain: meduza.io
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
+  - AWS AI
   - AI
+
+images:
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/24/e3d219ac-cd5b-11ea-9c1b-809cdd34beb3_image_hires_204121.png?itok=joEdyfYA&v=1595594490"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
@@ -52,22 +62,17 @@ related:
         width: 320
         height: 205
         isCached: true
-  - title: "Anti-facial recognition tool Fawkes changes your photos just enough to stump Microsoft and Amazon"
-    excerpt: "The changes Fawkes makes to images are so small that altered photos look almost the same to human eyes. But the changes are also significant enough to prevent third-party facial r"
-    publishedDateTime: 2020-07-24T11:59:00Z
-    webUrl: "https://www.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
-    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+  - title: "Moscow subway to deploy facial recognition surveillance system"
+    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
+    publishedDateTime: 2020-07-21T14:31:00Z
+    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
+    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
     type: article
     provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 61
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/24/e3d219ac-cd5b-11ea-9c1b-809cdd34beb3_image_hires_204121.png?itok=joEdyfYA&v=1595594490"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Meduza
+      domain: meduza.io
+    quality: 39
   - title: "Why we must arm police with facial recognition systems"
     excerpt: "It’s now evident in the Unites States that there are pockets within police departments that have demonstrated racial bias. This has resulted in a"
     publishedDateTime: 2020-07-22T11:26:00Z
@@ -97,6 +102,6 @@ related:
         height: 260
         isCached: true
 
-secured: "Nsf3IS1Cr0jS56+fuIdHlwAYzk+9QEafcSLL8/oE7/AKiv2etD0x2bNo4CykNABPJ4h4+lq3nZWvOOSG1DQ6qqNvz4C+dVkmqQJ+IY/poJ0GObuJS6WuNEnjPT2aY0tGekomCA3fVOPWRH6g4WDdKQ3zrRIo8MV645zwCzrUB1qq3ESEQ3sto15u2gl6hIOu9fVV2Wq4+BieVyrziQTsAuq/4GRDnqPUgiM/PU/kXZw4MBihPy5UBLca/7751jU1AG/5mFqWKp1ZkzMiFgyiwLz2ZwnsMYtDxIFT27suR2uk0CetygLG5wdxIgNGci/5i/+S15p6flE9fH0GNhERhpdv2jxwzmNpsvI9IlFOeanb8NQN4GGk2bA19zH0MbzWsf/W1EXMfxSkfe10vILBr0HvAAmNdlBeKInoFU+aRaRf3yn93kx3cqYS/wflcAIwnWmuAgFkBSoDwlii4QNLUYpOeHzHg8LFC3LXnm/GcxhWNyZQaVCh1ewLDpFC36CW/T27eb71clkIlO4yldLU8A==;/zIW6lB5rqSLJrTqbpDNYg=="
+secured: "UKjeCDRkPgIMUcoBpD+v57XHBZQGDE5YBpP1ML1HZ/xabC3YHUY72IcSfoUhnrffknuhlY/4iq81wML/yhdtp8xqazyVZGxgl38cGahnN1xS3/CMQEUPwOszcDMtGgUqHN6ftDSH7KyQa7XqLpLFLPnBj5+MT09NGQa14Aixn794Qw4focZCZu0eSP9B3ixxKwzqC5uMdIQC7SywNZnfVQTesxXl/RXONf9ZEJmCCeg/s7ovserZJAY6kn/D6hbp0KK50h0yEjcf6oQsE+WM60S4B9Iy3LV7JuRzIEuJKP771aehNdYlPCHNRiQWGkhLTFl046dkCcp/7gUupRrDGQ==;k7cdIeQ+SxyJ5SuH8eivGw=="
 ---
 

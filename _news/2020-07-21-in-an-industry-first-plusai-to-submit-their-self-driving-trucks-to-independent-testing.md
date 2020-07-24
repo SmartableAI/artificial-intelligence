@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T13:55:00Z
 webUrl: "https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     images:
       - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/plus-ai-__-1200x630-s.jpg"
         width: 945
+        height: 630
+        isCached: true
+  - title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
+    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
+    publishedDateTime: 2020-07-24T13:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
   - title: "New partnership to bring world's first self-driving truck network to North America"

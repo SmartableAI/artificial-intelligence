@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/ai-predicts-a-dodgers-world-series-win-after-a
 ampWebUrl: "https://www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-predicts-a-dodgers-world-series-win-after-a-covi-dshortened-season-130014351.html"
 type: article
-quality: 87
-heat: 87
+quality: 187
+heat: 187
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 350
     isCached: true
 
-secured: "jjgsdKZ5hHwU19gNHJNeLRd0mQTKL/RR1I3lUfa2rLbCW7vmq06SFHTA0vn5qPaSca3ZzUSYF+pf122VlyPEDZ7bFqerfRlBTCPfL34oivjvczTgawG+M4eLDlGeMf8IKm6OYKQppt1JxIi6GtyeuTjxQgZ1Jd3jsGzSbYDDsziVWu9BW0QEHjIZ5JHiTQP44ts0f1DAXpRghhrE/XhzC3AxjceAUMTSDQyybYVcd/64EcJX7TGqdBzUshbQgF5JsHpj4LzbDiQtUOg9OrKkowqCEa8ZW8KY1iAuzkWLidoW/kc6+8r+M09AQ6anXg5CTUXcYmUcysPgfKh+fYdjiVDSiVBzPXJSz+jL3INe3Y8V3nuM2PbIz6ge/0cfxGI9+/6wVw0oI6jgUQeyuasXkm6YbaPdLEsoUUoZIlnXpgnlbIFti0oyKMJHIPCCU1EFcMTj+TKe9tMZ/AMWTs3+fqwci5qG4kznXiqO+0f2TUrRLxhw4JnAVLSUnqFOto9fvXN4y0sUwGhemHxoAotBKg==;MKy+WZcMGL5fvYH8RL8j/A=="
+secured: "C6GtDECEN2Ybk7fZRxKqkO7RZP51+3uhlRs1jkWJtAjfz0v0xKm3+5N65O90P+OkQWMHqeDYcJPEg17Htq56li3kbOBFuPQfXnZ0hxtIZraJqWEWIPeHB+1HJGiNiPRLBny5tGFNrO4wICifHR0ANwZvK8pmeJJy3jxc/F85fboBQ1dooI18iwNtr3e8Bj3DObDS1QSZFGJDVfC9l3rOpSlsU3Aes19Drc17WqVHZOnO9Qjwx4NfzYJrRnPh0EJFi8t0sgVyXp1LkmwNbAezc1iR2z9WlBdgAxAHqgfi4hrWo0zESz+6rS+ZY2iBR0dOiVu7Elu7l70zOjhG+LOLvbxxfTHhnfzpYYF2eUTpoR4WpvYE5wCi4MXgj1NN6ix9M3yaAvFUXwlrFEBW2jKoTkgfIIUan9caOgz5k+ZTjfd+2WSvxaFGDZ2ULBCRY1YS3p5y0ObF70ypFlwInLOpfGgZeAMftSOJm8/ywG91ZQCbwsQwDOrVp2zLbEjKlE53bCmlMHnfizEq4DEoztQWxPWlXB9qTALZZhFJH5I352I=;94ChWv/0mF8Qfrt6KbwzSg=="
 ---
 

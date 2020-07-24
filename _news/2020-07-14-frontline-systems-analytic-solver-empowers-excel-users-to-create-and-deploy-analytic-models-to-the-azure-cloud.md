@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-publishedDateTime: 2020-07-14T04:00:00Z
-webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
+excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
+publishedDateTime: 2020-07-14T04:19:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
 type: article
 
 provider:
-  name: Finanzen
-  domain: finanzen.net
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "OZD2dRIjWnbdaUQ6OJCZ54FMj2MJmso+LMbPHkuH2hLgoWzuZBC4v38garIesnAZ89lEqxFcd83002fBgX3v/3xaLPg28vj/K5l7hGCD+nE3W+P9VGk/DUqNgxR6Kow+kxIU647ccVMIft71HbDg569rreA2Cc76xoRVswXDfUYMiRKzUbyvX+TYGXDCsyG9npAskTePhPJwNDqMHbyto8Bt8YQgVnrCkJ9qeUI+lurdtrB97qUu7i/B5a0H1hznlQ6ojmaaNm6F/p3PY8jkgb219YJF5Go1tU024BFuRl0qIzsacEqapnbQr25VKcW8CeHVmWRIaOaOtVr9ewXGBA==;RZIjw/hEWuubMWhV7ouVFw=="
+secured: "2x2C3I3QV76fb0MXnNsCpHO4MtfhqCwISuwu6nBF1nj8xhCyKmzDgUgOkjnwqlU+vIEanC3DOX9HICA2hogSkLsC9riIEqzYWZFrwwA8LY1p/mXdd0J5ppkpkQ4rxIMdOt+20aBdh6Yxtkayq4fHtNHLWdHRJAVssNDRIPsDbnkYmlqq2ZBQ+zUurPsp6OlvHqrpSBENTpb4hnxo1L5+foRIffF+3XspcgapC0fY770NJFZ3qqjZww8DKiI5sZkB/+ZIPmuejNuPG7DllX20eA83bab2ETWNsD8rnJI5Vo9wWFL6lPtwZFyvZOIlTfcYjLYBQSZ9IWJiAEWNtkyvBw==;UKd1ZUHXFGN/LKePEFIrHg=="
 ---
 

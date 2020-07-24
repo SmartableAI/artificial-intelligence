@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pixel-by-pixel-fawkes-tries-to-protect-your-identity-from-facial-recognition-tools/"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop"
         width: 320
         height: 205
+        isCached: true
+  - title: "Anti-facial recognition tool Fawkes changes your photos just enough to stump Microsoft and Amazon"
+    excerpt: "The changes Fawkes makes to images are so small that altered photos look almost the same to human eyes. But the changes are also significant enough to prevent third-party facial r"
+    publishedDateTime: 2020-07-24T11:59:00Z
+    webUrl: "https://www.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+    ampWebUrl: "https://amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/abacus/tech/article/3094590/anti-facial-recognition-tool-fawkes-changes-your-photos-just-enough"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 61
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/07/24/e3d219ac-cd5b-11ea-9c1b-809cdd34beb3_image_hires_204121.png?itok=joEdyfYA&v=1595594490"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Moscow subway to deploy facial recognition surveillance system"
     excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."

@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Plus.ai to Test Self-Driving Trucks with Multi-Vehicle Approach"
-excerpt: "Self-driving truck developer Plus.ai recently made an agreement with the Transportation Research Center (TRC) to conduct capability tests of Plus.ai’s self-driving system using a multi-vehicle approach."
-publishedDateTime: 2020-07-21T23:07:00Z
-webUrl: "https://www.truckinginfo.com/10121806/plus-ai-to-test-self-driving-trucks-with-multi-vehicle-approach"
+title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
+excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
+publishedDateTime: 2020-07-24T13:38:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
 type: article
-quality: 39
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Truckinginfo
-  domain: truckinginfo.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/plus-ai-__-1200x630-s.jpg"
-    width: 945
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
     height: 630
     isCached: true
 
@@ -54,18 +58,18 @@ related:
         width: 1468
         height: 858
         isCached: true
-  - title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
-    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
-    publishedDateTime: 2020-07-24T13:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
+  - title: "Plus.ai to Test Self-Driving Trucks with Multi-Vehicle Approach"
+    excerpt: "Self-driving truck developer Plus.ai recently made an agreement with the Transportation Research Center (TRC) to conduct capability tests of Plus.ai’s self-driving system using a multi-vehicle approach."
+    publishedDateTime: 2020-07-21T23:07:00Z
+    webUrl: "https://www.truckinginfo.com/10121806/plus-ai-to-test-self-driving-trucks-with-multi-vehicle-approach"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
+      name: Truckinginfo
+      domain: truckinginfo.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
+      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/plus-ai-__-1200x630-s.jpg"
+        width: 945
         height: 630
         isCached: true
   - title: "New partnership to bring world's first self-driving truck network to North America"
@@ -83,6 +87,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "38YyXlQmseYXmO9M2BlSSEB3fZviX+VNUkY9PzVuB3U3Xrv2lB3cyy2e9VtATTudPRc2xNdSmAgRjDYcXMh87Pd+NqtEMMYVFbKIgMmDWlZdoIl+iDnuinXD+60jEtfJwUxtbUlFsKRJvJQ9NPdfiftzfbZvZ88ZzwJnVVK2KHQ9ZLmcVb1MW6o9RqEtPisc8BhFD9XaAnz14Eo9QdnaQv2/TZ//YASxTMMPB5XDxINDalA9MbZqi8HJ9hhGCgXmk5R1CJUZ6lsb1Dps2Ws50VVQQKb5SWhV4bsBc++CCUsmdrQP2wFZ8RsbEAPbbnINU5lPQujvQsld0hp1RPPZlszqogFy7DkarG2cuL6GBp95ng+9L0cWfnzcdKhXEgZkYZc8IR4GMxB+UlXB17l8AUFUm281QJFa9pk9IKECiyi6+AwPfex3HAnDDAuopC7DuA8xCYC7lFX4hplF3iTxrtGRlvZrMxuiA4w2V/t9ayglpEEFW4X3uydFNWyZy065qjSrdUNswPFomPQ77ul77w==;zEK95QEpwbvaTIRojPFmKA=="
+secured: "EA4feFAM68XIKgz9DNG938jxZ+UjwAvwSuzPEXgg3hg1/TjE74bPYGKfZnI+Swyur5cQZ4MIPbXboTj/NahcML6/Aq3fyMZVhYksyRku2gEPHXjt4oEXoItjvXNbmePMmts16e/TMDoNaxg9acxsg7WM5kuYAlkXoaCO3oDAOd+kqeiSH0Usy2I6MkdgjxWA8/g2bOIbK2twz0U1O42S55BgrGbXLfmgnHtRN/g7oquLPLUOecMHA36+WgwKKkSbbdgk9W4pd9GP8U7E0rQth7GjVu9h8tcK5JZWNieQItn667/WoarxtVmBT/g7jImx2N70lIr/KS24SL2KO46rIw==;JpZ4eGVN1SmlqOlUkwDqOg=="
 ---
 

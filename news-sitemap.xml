@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/</loc>
+    <lastmod>2020-07-24T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/</loc>
     <lastmod>2020-07-24T04:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1639,8 +1645,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
-    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
+    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
+    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1975,6 +1981,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the</loc>
+    <lastmod>2020-07-13T21:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776</loc>
     <lastmod>2020-07-13T21:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1983,12 +1995,6 @@
   <url>
     <loc>https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/</loc>
     <lastmod>2020-07-13T21:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770</loc>
-    <lastmod>2020-07-13T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2407,8 +2413,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbronline.com/news/aws-ai-services</loc>
-    <lastmod>2020-07-10T05:40:00-07:00</lastmod>
+    <loc>https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear</loc>
+    <lastmod>2020-07-10T06:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
