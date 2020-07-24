@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T05:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21"
 type: article
 quality: 67
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
     excerpt: "Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020a??, the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25. Machine learning algorithms are used in healthcare institutions to ..."
     publishedDateTime: 2020-07-23T19:14:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast"
+    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,"
+    publishedDateTime: 2020-07-24T14:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24"
     type: article
     provider:
       name: MarketWatch

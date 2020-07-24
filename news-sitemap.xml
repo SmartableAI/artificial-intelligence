@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
+    <lastmod>2020-07-24T08:35:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.geekwire.com/2020/startup-founders-new-5g-open-innovation-lab-explain-theyve-adjusted-covid-19-crisis/</loc>
+    <lastmod>2020-07-24T08:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/</loc>
     <lastmod>2020-07-24T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -403,6 +415,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20</loc>
+    <lastmod>2020-07-21T17:25:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theverge.com/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms</loc>
     <lastmod>2020-07-21T16:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -639,6 +657,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/</loc>
     <lastmod>2020-07-20T08:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/cognitiveworld/2020/07/19/ai-fueling-the-oil-and-gas-industry-interview-with-tim-custer-at-apache/</loc>
+    <lastmod>2020-07-20T08:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2413,8 +2437,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear</loc>
-    <lastmod>2020-07-10T06:40:00-07:00</lastmod>
+    <loc>https://www.cbronline.com/news/aws-ai-services</loc>
+    <lastmod>2020-07-10T05:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

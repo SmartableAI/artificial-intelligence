@@ -5,7 +5,7 @@ excerpt: "Tangent Works today announced the availability of TIM in the Microsoft
 publishedDateTime: 2020-07-24T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
 type: article
-quality: 32
+quality: 64
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
@@ -41,6 +42,6 @@ related:
         height: 315
         isCached: true
 
-secured: "Mcwo6knGLw8QTU6CEyI9zJO2I15iM9g7eic94qp0acJz9+e0/ar3srr4ITOM3R2eLt2n282ANNwRY+yiXzlRbToGgUAx9t9Few56nXCUIHkVGJVeumvercA5kNTbnJ54Ty/DmEceHK/ioMOq6UGugGhBphVZwv0WxqCMPFdIuP5GNQBTwSvdmnB7cD4adtMikIk86Q74Q9E1DGquWGC87qJlrOVhC3qFdRAYYZXbSrue1iC+WHZDWb9X/1J0FuFfgd4SPK0cex8RHWhHDbzAp/0zZ2YxbkUUgb3b6UFFVy3oDLUPnVT7Zb/UYB4JkIK/Ugj2eOF1CU1msKSZTPr7nw==;adxxKFLMIATn5mhC06H2pQ=="
+secured: "TeA3pRiTkavf9Y8J2C4YqNHMiINKPdCmxbWIYnn89Kz4AGxKFVVddHWw/6lNiJIHESYviUYlJTYMJgHCFpTKm43bXD4FU+2KU5yzLolzO5cuNUCP98mnWZXgRmMxxwpttZzmetSzDqitWynMpmZd2apbsJQPvmWOMHJuwjW3UavBtEknfMdn4fYw4dMQF5Vt9idwE/JPzOw8MR0Lr1vry9iZKu281ib0lpLQqGicLLg34yrLQ0EV8FdnaK5PwwRmpH+YCDPUEiCh1ca8Vma4a1PvtaNOeQYyhVRZTRzJ86TYJs+Dynnuc2Jsq3Bk/xULjpRiXvulJTinv9UOrAx7u+h2TyBnZEUmWZHB5XuwgAYHGArq1xcaDxJJCnrOf8XpZ8kiImwPDhcxv357mxT6WF3Eu8YJdhUPw9IcS9kwV5Odlhdholo1hofnNyqljTq1rz9jpIW52GNQWQ+YD6PpQuxy7zQOCQP6cJ0ubMqNuiHGFu/uwNivd722ZDRQFHwcwL6BuDI8WLT8JmUrhD1Euw==;Se3KeveQAHaIObCNfDa/zQ=="
 ---
 

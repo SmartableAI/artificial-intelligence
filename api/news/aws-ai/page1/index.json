@@ -973,9 +973,9 @@
     {
       "path": "_news/2020-07-10-how-to-stop-sharing-sensitive-content-with-aws-ai-services.md",
       "title": "How to Stop Sharing Sensitive Content with AWS AI Services",
-      "excerpt": "AWS AI services affected include facial recognition service Amazon Rekognition, voice recording transcription service Amazon Transcribe, natural language processing service Amazon Comprehend and ...",
+      "excerpt": "It read: “AWS artificial intelligence (AI) services collect and store data as part of operating and supporting the continuous improvement life cycle of each service. “As an AWS customer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cbronline.com/news/aws-ai-services?wpfpaction=clear",
+      "webUrl": "https://www.cbronline.com/news/aws-ai-services",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -993,7 +993,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-10T06:40:00-07:00",
+      "publishedDateTime": "2020-07-10T05:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Computer Business Review",

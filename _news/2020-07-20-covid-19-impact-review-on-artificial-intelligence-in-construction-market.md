@@ -44,6 +44,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Apple Acquires More AI Startups Than Any Other Tech Company"
+    excerpt: "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ..."
+    publishedDateTime: 2020-07-24T15:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/353773"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/353773"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1595605777-apple.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Pype Dream - Autodesk to Change Construction Workflow with AI"
     excerpt: "Autodesk has announced its plans to acquire Pype, a DC-area based startup that has created AI-based software to manage spec books and submittals, documents common to the construction industry. Submittals are composed of shop drawings,"
     publishedDateTime: 2020-07-23T15:51:00Z

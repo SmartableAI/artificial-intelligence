@@ -296,6 +296,22 @@ related:
         width: 344
         height: 250
         isCached: true
+  - title: "Facebook offers $650 million to settle facial recognition suit"
+    excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."
+    publishedDateTime: 2020-07-24T15:09:00Z
+    webUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit"
+    ampWebUrl: "https://thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508858-facebook-offers-650-million-to-settle-facial-recognition-suit?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 59
+    images:
+      - url: "https://thehill.com/sites/default/files/ca_facebook_72220getty.jpg"
+        width: 1440
+        height: 880
+        isCached: true
   - title: "New York legislature bans use of facial recognition technology in schools"
     excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
     publishedDateTime: 2020-07-23T22:51:00Z

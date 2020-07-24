@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-c
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Acquires More AI Startups Than Any Other Tech Company"
+    excerpt: "Of the 489 companies to buy an AI startup over the last decade, 431 of them purchased only one company. That means these tech giants—and Apple, specifically—are dominating this AI arms race. Related: How to Use Your iPad as a Second Monitor on Any ..."
+    publishedDateTime: 2020-07-24T15:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/353773"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/353773"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1595605777-apple.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "COVID-19 Impact Review on Artificial Intelligence in Construction Market"
     excerpt: "The Artificial Intelligence in Construction Market size is estimated to generate a revenue of $2,642.4 million"
     publishedDateTime: 2020-07-20T13:31:00Z

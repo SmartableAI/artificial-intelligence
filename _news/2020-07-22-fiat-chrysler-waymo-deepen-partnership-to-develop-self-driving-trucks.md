@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
-excerpt: "The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker ... Waymo way ahead of its Chinese peers, like Yandex and Baidu, whose cars have driven only about a million miles as of ..."
+excerpt: "Click here to subscribe for free.) Automaker Fiat Chrysler (FCA) and driver-less technology developer Waymo are deepening their ties to build self-driving trucks. The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker’s full product portfolio,"
 publishedDateTime: 2020-07-22T07:55:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
+webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece#!"
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
 type: article
@@ -131,6 +131,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EmYaVQFTEEPAydiLmwcshVc/jXYB3V3EWafL52deUptqp/DbG2ebP9Ty79thWLiIWgRMZBjCtMM1//DOXumF76ulLEXrFVneZUWG1uIZUb8q16PwjEsWF/ehw81CLcJjJAXfLq5ic2mDHFxybXzkBAx8UWbQjuTDRkwQyH7TkGT34tnSZR0sJ1H4/OJovLNAPD98/IW64G3r3TEqOz63xVJrsfzFuqiZBW+cDk+hYw2ddSPqSH1mSRBbraYOWLC98NdCL39aGh65ZmnGW4vE0UdqA+pD/6xVprTTpPhLWHDfmS8SwzySxlTiA/Y1cr1kurJixmRvDmAHGPXxWMCv0zmG20yjNf8R49Jpk+au0Is0StiTkkk8tCcsHo0PD7hM61IUPQoQ7TI/RAabkaSu1Vm2IiOUkZ70I5A0B41zpcyrdwH+pXcypr8dNRexVXo9gns0pXOdtX9Ksedxv8AoDaEDesjFKMEmu7Fe1B1IrkwnOi8bK+DMBAlxosgGzoTrRBu43UfUHxcXYXuYxws6cA==;F78pJNh5Cb2s2gvfwozOLw=="
+secured: "/U05elWkPjv4ItOJNNI04He1xxG6gcq3eIuLpJ1WGxw4iqj1Z3OPmQABmSgMj2nWZt3VX+BrClEdL4kA3OpXHu85wu5nIK3junl9fudOFWi/P71M/txdtmUwOL3sHNSPGYMxlPalTwaInjCqhRFMcJhD6T3bLXA2mWPB3GOOSHEZEW5mPtV3eVndmHbJJADSvaqi61M8ulW7RAGCaBalr2CnvjY79Kb0KVC9sCDOK+hG53gbmenla/BvuuqLhGdGPN+ML/iTL/SoVpK2dZZ2vKXP5XggxAJ9s/3nYay9c5NEIz6tJIq/tai1mT9a3Lw1VJtG0l3S5YCcdQkOiKctMw==;8EHKN9S0+2Gj/zfiTsBrYw=="
 ---
 

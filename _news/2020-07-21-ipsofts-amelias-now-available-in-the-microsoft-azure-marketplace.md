@@ -34,7 +34,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 32
+    quality: 64
     images:
       - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
         width: 2699
