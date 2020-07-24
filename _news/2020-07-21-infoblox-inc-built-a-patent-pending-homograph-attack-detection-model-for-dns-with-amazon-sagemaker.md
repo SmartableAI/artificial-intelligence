@@ -42,6 +42,20 @@ related:
         width: 600
         height: 388
         isCached: true
+  - title: "Setting up human review of your NLP-based entity recognition models with Amazon SageMaker Ground Truth, Amazon Comprehend, and Amazon A2I"
+    excerpt: "Organizations across industries have a lot of unstructured data that you can evaluate to get entity-based insights. You may also want to add your own entity types unique to your business, like proprietary part codes or industry-specific terms. To create a natural language processing (NLP)-based model,"
+    publishedDateTime: 2020-07-24T16:11:38Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/setting-up-human-review-of-your-nlp-based-entity-recognition-models-with-amazon-sagemaker-ground-truth-amazon-comprehend-and-amazon-a2i/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/23/reivew-nlp-3-2.jpg"
+        width: 800
+        height: 582
+        isCached: true
 
 secured: "Mi1/Zy3sDrbs3+eEuDOB/IIyv6DgXzjATgZCFfXKgNjEbVfz1C21BLXX5O9aOSMvTavx+SJuEkyi1f+m1zFdVZKEecmioTGCqBuRfbBC8PCEDUIC7A3oHfdJhiUMsKFbHa6JTygZcRzwanUGtDoK0O12Ql43Fb+Qs/YVb1tVj+Oov8Puuz+3DaIIIIm3zNDwO3lySlrK1w2/t9Zb2FDWMzMcjX8A+LYLAJPaES0Yl8WaiesECrR+T/hZAU5275ItBgWzAw1BT23soEMqmvJPpuBpW5vnFYUn97MpYSonO2Tqa9uMtP2KtauZuuLagJOZ3R3/op/gzE2AvWlqUuIa6Q==;yrKvmsgwwpB9CUX38sWhuA=="
 ---

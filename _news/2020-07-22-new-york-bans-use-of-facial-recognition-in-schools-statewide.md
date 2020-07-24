@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recog
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
 type: article
 quality: 89
-heat: 329
+heat: 339
 published: true
 
 provider:
@@ -404,6 +404,20 @@ related:
       - url: "https://findbiometrics.com/wp-content/uploads/kyo-azuma-267549-unsplash.jpg"
         width: 2896
         height: 1944
+        isCached: true
+  - title: "Lockport school chief criticizes bill that would block facial recognition system"
+    excerpt: "Bradley said she is \"profoundly disappointed\" by the passage of a bill in Albany that would prevent the district from using its facial recognition security system. If Gov. Andrew M. Cuomo signs ..."
+    publishedDateTime: 2020-07-24T17:32:00Z
+    webUrl: "https://buffalonews.com/news/local/education/lockport-school-chief-criticizes-bill-that-would-block-facial-recognition-system/article_71ed8d20-cdc5-11ea-9b91-935a6d477634.html"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 34
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/36/8366195e-0495-5406-83ec-cd45b9768ba8/5ef21c25a05d1.image.jpg?crop=1175%2C661%2C12%2C0&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "m6HrZjIEDx1PQNNXuHs72n30Ue9L47ztoemkuSVfK9DiyV4azVmFoUWLq1k3OK6gARZqWQFaRxfSx2Dm0J+FeKbRKrDPOBtEpCcFDcC6XiKyovul6Iaf+s+arcK/tt4RyzB7WwTUoewdUoPbEpxWAoEJL57g3lOxYT5up7LQ8V0m4dK0oevRPQ0S08igenWyPOvJX3EoFV62DRrnnLMzeTbdmQkYi9RzPehtITpyyCOxvTx444ufHhdBAMvlZ0G6gMTI2JKFYMs4YFnTAp0NkL4IsW5SvNFvnAmrRakdYA/lm2Bmr5bjG++CZs6R4yUC0xjBh/W/5MLNoSVnUbzGxcet+dHiE+E9D4ShKOmLxBmKuNfQ9tg0JnUUL2RsGW6fqF8XZZtKUCGcXopHwX6tNnZk2iwFM9DfmcwPxn5FWUBxY3BETAEWK14+oCcV4TTrsiY187IjXKhmOs64/kH6QuIa6eiAkO6rMfHF8HBe4Z5/fclQFVvnDVJFxTD47yza;CQUqSclvo9q2M3bHI+OYDg=="

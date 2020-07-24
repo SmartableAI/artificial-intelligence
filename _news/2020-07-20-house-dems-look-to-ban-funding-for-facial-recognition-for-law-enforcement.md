@@ -401,6 +401,20 @@ related:
         width: 2896
         height: 1944
         isCached: true
+  - title: "Lockport school chief criticizes bill that would block facial recognition system"
+    excerpt: "Bradley said she is \"profoundly disappointed\" by the passage of a bill in Albany that would prevent the district from using its facial recognition security system. If Gov. Andrew M. Cuomo signs ..."
+    publishedDateTime: 2020-07-24T17:32:00Z
+    webUrl: "https://buffalonews.com/news/local/education/lockport-school-chief-criticizes-bill-that-would-block-facial-recognition-system/article_71ed8d20-cdc5-11ea-9b91-935a6d477634.html"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 34
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/36/8366195e-0495-5406-83ec-cd45b9768ba8/5ef21c25a05d1.image.jpg?crop=1175%2C661%2C12%2C0&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "znTxeCcTGGawrpmvnftFJkhIOcncnRc4572PxYH1zfMYAkqL6dPGn6jhrRhvkzCVGaHhY5I7Z8qrI9YC9rxWICBLAmAQV4DNxR8fYJKhXyz5UBAMbOii2DM4RMn3MfKtKqjfpb7VRXNOS95TAHbsVB8I+uJUxWsGwWXgSdUiVhuo+DSAmt/cEYL24wpVfFhYYS3m7Q3r2mwTootQvSigKG5p/JCYfg7CmzLo84DdiBiY/XhB9Unl8zdeqDEgI9M7LTplmnEWburtQZJ4H1bRc5J5vfy6IU8LiAaHcgyGX5SJIdKyk8psF+e1IRa12umr93udjKkYUanRkf1xIHqzcByZvfmNrU96i9f7CBcmATkHERmu6qwH+/d4f9TsCQnyKir97GNMkhihKmCuUh8JKEOuWJNIJ9Yauz6oynxa0pxs2UaP898qjOLPvbD0OhAkvafJBreQWgGe5NSzHsXHEHNzOa3EybQbGPn0wPJnQoVt1bc8w0VlgWXbLCvjKpIAW4K3aZzoU34RJkDGKVUtzg==;J5su+keumFZTFguHIpNBSA=="
 ---

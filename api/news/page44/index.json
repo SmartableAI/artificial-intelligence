@@ -2,6 +2,38 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-06-22-ai-and-computer-vision-drive-fleet-safety.md",
+      "title": "AI and Computer Vision Drive Fleet Safety",
+      "excerpt": "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/204889/ai-and-computer-vision-drive-fleet-safety",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-ai-technology-transforms-supply-chain-operations.md",
       "title": "AI Technology Transforms Supply Chain Operations",
       "excerpt": "CSO offers the latest information and best practices on business continuity and data protection, best practices for prevention of social engineering scams, malware and breaches, and tips and advice abut security careers and leadership.",
@@ -1095,56 +1127,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-22-new-york-subway-system-may-implement-temperature-checks-robot-cleaners.md",
-      "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
-      "excerpt": "Thermal camera screenings and the use of artificial intelligence to evaluate mask usage are among a suite of recommendations to be considered by officials at New York’s Metropolitan Transportation Authority in a new report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-200836/social",
-          "width": 1280,
-          "height": 640,
-          "title": "New York Subway System May Implement Temperature Checks, Robot Cleaners",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/new-york-subway-system-may-implement-temperature-checks-robot-cleaners-11592827200",
-      "publishedDateTime": "2020-06-22T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

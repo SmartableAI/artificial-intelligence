@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Translate Ancient Hieroglyphs With Google's New AI-Powered Tool"
-excerpt: "Get started with a short course on the history of hieroglyphs, the writing system used by the ancient North African civilization. Try your hand at tracing, drawing and identifying different symbols, each of which is instantly compared to more than 800 unique glyphs using Google's machine learning platform Cloud Auto ML."
-publishedDateTime: 2020-07-16T14:11:00Z
-webUrl: "https://www.entrepreneur.com/article/353390"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/353390"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353390"
+title: "Translate ancient hieroglyphs with Google's new AI-powered tool"
+excerpt: "It's been 221 years since the discovery of the Rosetta Stone—a key tool for deciphering Egyptian hieroglyphs. To celebrate the anniversary, Google this week launched Fabricius, a new Arts & Culture tool that lets anyone play classical linguist."
+publishedDateTime: 2020-07-16T18:00:00Z
+webUrl: "https://mashable.com/article/google-ai-ancient-translations-fabricius/?trk=organization-update-content_share-video-embed_share-article_title"
 type: article
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mashable
+  domain: mashable.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1594908540-google-ai.jpg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://mondrian.mashable.com/2020%252F07%252F16%252Ff6%252F66a780e167964d65ab19a4d99ea58b2b.1facd.png%252F1200x630.png?signature=deLEc7xGcwqwndP88ulKUH8V6sQ="
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "AbD9Ut029bB8vWVz5ZaJfoeTX9+fsjSedSIDHB1UwZ7uEmJOOl8Oi55FlWIyFFIMDPatFqjGmWUu7aeYf3C4ORARq9eAVvDZ5uDdlswaAY0A3QV5KZh77xANEcmImkBdyX/dfAupeQS2nQgTuxyYmyLyH67ScKWaorZ5HVRhzhCReAcbAqyEqgwZE0VOG1E1u1QgTjTFN8gPNdrHzuIU6k9+xitMA5sJcCRWeuF8PPSst8bU1Mno1J2uZIT141dmmhwVqEJETmA7mmLnvICxP8dyMjq7XmQceXsX64RerkeczSmMVjRCXr8zgfsRHp8rMq5uWk7OPoQZoPBLXXHD8JsThKEu9BFIMugFQ02FkxzxolVTzIicRsseU+2RdA7QWAhjKOdpHKTZ4DzPvi/ib77pRspEF69ypYyjGlvo7Hd9/IgTpfyG3MuOAvVqSMH8GsooiCUTRMH511BmDr9oYMBb7zE/1/ssFtMtidofqPF4Op0FTTBoGJvvTp6eZrlNy1NhRgztiF7D/06ojnRCBA==;PzjT4NTZ69NHCUVMjMQgiQ=="
+secured: "lQsbCdYFljRlVdpo4oe2wkbn7P8gjMQj4IlUAXNUDjAKhRo7chD2dTZ60NUdLvXYf1xK3rvANXLsTMjooFmyn/gSihLnpUnhfX6o15grGv+93JoWdMQkBM9p2zlNOFcrH9qQHIo8gVgSG9knY5FnUZb5Grm8GjknXIBXYgTUEDtgUOBdb+Ec5q7cdjqn9Y9zDFPDyG+Mcit6mrUqvgJlpYSE27tDLpTlWawvJMpeEj1IbWkTF8YEfSgbcn1broJhcSJBhR7QdHpppTYFftQn/F8ENsbV0KPm6o1pMXqJfCyd1/P/E0oWbEWhGimI/sxlELOMQQ7OIIeeFqmiv0oVQQ==;I92rT1MdPFFLX6ArUhLuyw=="
 ---
 

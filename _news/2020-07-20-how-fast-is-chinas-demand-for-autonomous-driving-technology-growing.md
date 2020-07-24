@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AutoX gets permit to run driverless testing in California"
-    excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing ... is to empower the world with Artificial Intelligence (AI) drivers to ..."
-    publishedDateTime: 2020-07-20T00:05:00Z
-    webUrl: "https://www.sify.com/news/autox-gets-permit-to-run-driverless-testing-in-california-news-education-uhtlPHcejjggj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "KKuJxJ05jdpCW5TOeBPkRkLfu/b4ugnUVorf+LO0er2ohnSqSz5+JGTndDVlBFmPWezn9+N3LI7IUK9PyLXyOI/zxa20rDxTVzSu3A29S1UyOa+JpAQqLVNF3KXiVPqBnGvU3N8KJwkTW7scyzOYIhnnw97GbgEia/7Wsgx/i7LxLFITc51ZV81JRx7IjvfewipQFnY8DaPTzamVotty9t0adhnS502BmvwISfi1aj6PmJTzCgdx7aX0cq6S5Cww+u7baEoqedTOd0t5Nzh+HStva99kWRnuPWdhY/Kv3u3Z3Ct5fc9jkSIszF2/reFTwCFk2kwpdkc3dvoyMb7UlQezYO9/PMZjjyVR4X2SXm1ER+FvZUm4EkxDSTrzeYdD67W7RZiLIKNWkWMxaC/YYmrjNP2ilvOndWW6WZ+fO0RqrwoJh5JaQAOem6sRaWeekV5ONmd7dNAYHlFQF3GgbmjtueLABicGEuzjpEXr+fRD5P/dEFyMmVMnKitJsFU5glyJFTIUUJ86JxAzQwBYlw==;x2TZb5+IJKdxbdnpL05W4Q=="
 ---

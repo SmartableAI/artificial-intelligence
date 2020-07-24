@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomo
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3093891/chinese-autonomous-driving-start-autox-wins-driverless-car-permit"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 866
         height: 578
         isCached: true
-  - title: "AutoX gets permit to run driverless testing in California"
-    excerpt: "San Francisco, July 19 (IANS) Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless testing ... is to empower the world with Artificial Intelligence (AI) drivers to ..."
-    publishedDateTime: 2020-07-20T00:05:00Z
-    webUrl: "https://www.sify.com/news/autox-gets-permit-to-run-driverless-testing-in-california-news-education-uhtlPHcejjggj.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 19
 
 secured: "ObnolnKID1t50GCpQdcNiT0n9sX/6zEjJBsXuGjo5PcNNuWd6T3EbAbkFVRqaHn/k7D0x0KFWyAhwUaavR6y2rcgLYpdcIwsRv2OiUQoYuuC7xFmqMe6W5raMYBLPRDbhY60kJqdRtYUjYSuYY0OTIBTpTNtNasETHoSV3onQQbHrGkeYglKlZskJbY41InZY/+zTVn7plmVJoJSOCbY632xlgCyv0uB6NFrgH0s9IU9ZWw/Z4KF8eJMD6IOq5paap7MjbplQLceHCwH0w79sFWpar5+3s6kBW0ndFxB4zaZksCoKCUekBLPVxWwxNRIhTKsRPXT27GRe1EtP2pavw==;1msAmZ9neQlwjPyEdeHpNw=="
 ---

@@ -5,8 +5,8 @@ excerpt: "The Aible founder’s unsettling experience with Google’s advertisin
 publishedDateTime: 2020-07-24T11:00:00Z
 webUrl: "https://www.fastcompany.com/90531673/ive-worked-in-ai-for-2-decades-this-flaw-in-googles-system-shocked-me"
 type: article
-quality: 38
-heat: 38
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
   - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/07/p-1-google-AI-flaw.jpg"
@@ -23,6 +22,6 @@ images:
     height: 768
     isCached: true
 
-secured: "cwJUxRbQfOT2K7A0o+ChPgfWLxiOSv0u38Pzgc5tj0DbFxPSaoPxlW0pTaB3+X9SSbudUPj2E5TaGLW8A5AWKwxlFjnSWosCw7bzOc9M6JZa7lez9840xeqO/L3xhXgrAtv9Hj4BTvCCeAsXjGTsNGgFtZnVQhaCp6e87nZVKDbYZvx70J9I1WXaMmxdcM2YI2QYG7MJZ0ZDv1mNSuS3dZd7glCbHJOIo2Qx5XJ55olcJInhzAO0Tl3NLjvJNJna5GXM6dnD1ao13B5DJSCDrYP6p5uRHwr/oaBCjnD/O5k5uIgt9xXqmBh9HI9ILmZpZlB1FJtNc83RzC6s/GBDlxPhFKxW2wLJAIjivozRvsPD/8VVO+YOVTP8kJT/nNDDuuE+6Ru6z+FQzq4V/zlRWXLXLhePA2iQeU4sNAI3m4nzzWnw/7liNW9BjaLL2A66A+R4LdDDgGmiIFrbM6PFTdfL+iAe2IVbiT03DccLcJxwGIgmPmMCv3XQeT6Pk0KqPRaWZEjeFJnywkjZiM+/Lw==;c4FuuEUeD+sy4xeEPdFOPA=="
+secured: "iqbxAt4aw3hLeQq6Uicf6H9QWH2VUOOiJWe9wkE+sLUow2wKGyh1Zujlu2jdtvDLJAt94cEo/ClbZZ8rDCR1ZQ2sPYi+cXBDXMmubazFUFwlX6GyddWlWBss2/8DolpOi/2cSdR1ojyEWE4pn8Q7/J02nPBNpxa0aqaxifXzm7kyZ5qVAwheBNuJxgAZUZRSNlv1x+rVZzcdADjRX1zCorGWP/FuXpGU61kNpw6d9I/shjPsmCoiUz1xv/WbpYFOTrk6tbTymifMmxJsSXpFSSz9na+sjM+BWAEVyLbnJOzd/1TUgpe1/Kut+g1jd3oSidID/tn85whTffKU0Wn62g==;nftGhTuiHPl2iOYDQvyv/w=="
 ---
 

@@ -1207,6 +1207,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://mashable.com/article/google-ai-ancient-translations-fabricius/?trk=organization-update-content_share-video-embed_share-article_title</loc>
+    <lastmod>2020-07-16T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://dailytimes.com.pk/641565/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation/</loc>
     <lastmod>2020-07-16T10:48:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1257,12 +1263,6 @@
   <url>
     <loc>https://www.forbes.com/sites/davidteich/2020/07/16/deep-learning-ai-needs-tools-to-adapt-to-changes-in-the-data-environment/</loc>
     <lastmod>2020-07-16T08:09:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.entrepreneur.com/article/353390</loc>
-    <lastmod>2020-07-16T07:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2421,6 +2421,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/10/aryballe-raises-7-9-million-for-odor-detecting-ai-sensors/</loc>
     <lastmod>2020-07-10T07:11:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.searchenginejournal.com/generate-structured-data-automatically-computer-vision/373940/</loc>
+    <lastmod>2020-07-10T07:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

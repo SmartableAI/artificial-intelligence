@@ -40,6 +40,38 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
+    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
+    publishedDateTime: 2020-07-24T17:01:00Z
+    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
+    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 58
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
+    excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
+    publishedDateTime: 2020-07-24T17:45:00Z
+    webUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/"
+    ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 55
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Leading Law Enforcement Facial Recognition Provider Clearview AI Faces Joint International Privacy Investigation"
     excerpt: "Facial recognition provider Clearview AI is facing a joint privacy investigation by the U.K. and Australia that centers on the scraping of social media platforms for available images."
     publishedDateTime: 2020-07-21T16:00:00Z
@@ -55,6 +87,22 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2020/07/leading-law-enforcement-facial-recognition-provider-clearview-ai-faces-joint-international-privacy-investigation_1500.jpg"
         width: 1500
         height: 860
+        isCached: true
+  - title: "Facebook Agrees To Pay $650 Million As Part Of Lawsuit Over Facial Recognition Technology"
+    excerpt: "The lawsuit was originally filed in 2015 by three Illinois residents who alleged the social media giant violated the state's Biometric Information Privacy Act, which requires written consent for a company to collect facial recognition data."
+    publishedDateTime: 2020-07-24T17:15:00Z
+    webUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844"
+    ampWebUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/facebook-placed-an-informational-disclaimer-on-a-post.jpg"
+        width: 1024
+        height: 700
         isCached: true
 
 secured: "zpCHr2jAVKxvf3YD5Uk7HORVCc99BCwaFQ0N17woDB2F4ZdlYfg7kYVcG5In9ctDX3dB+N5PKF4JFFxKRNPlptvwGXwuI1tUboDJRg0hsW77yFWFs2/o6910wcPAPn1K0/QMCaoqg/vJnIO9JEyidYMaktmyIkjwSo7sOXteNORbiGKB73Fp3rBq1i2jsKNfm/50P9b/ocvu4nYIIdeLzb/NmtdaqmYGMijG7gxbamRyCRPVGqNWAqDzn0Mrc2Ebz9KVJwaRxv0lbUOnl43/TuGJHhXqlrHy4awumy3DY0EPw8Y9dO2HobOBSJJXMNsRJKKLasHZ/EZCbCMYuqEjsnYInZQk/px+yc1AUnJvppXSaz7eDSl2zb5jSN17UyDkXjr5OW5iuiECl7brH2v5WlV2ZAmPwOcZ9e96TgASHfBiku3O8t/p04S8aclcvhVziPkrh6/2KEMB6hvgLcKmrXfMg5ciC8oC3tqYMsSHuqNHOr1JrZA91YHJ2QvWMoK9YahNqgkO9AhCofUYpTpsrg==;9m7PG/5bCuun7lqYI7GHMg=="

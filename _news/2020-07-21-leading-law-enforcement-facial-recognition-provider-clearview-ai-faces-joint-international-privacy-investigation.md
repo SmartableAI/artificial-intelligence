@@ -42,6 +42,54 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
+    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
+    publishedDateTime: 2020-07-24T17:01:00Z
+    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
+    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 58
+    images:
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
+    excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
+    publishedDateTime: 2020-07-24T17:45:00Z
+    webUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/"
+    ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 55
+    images:
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Facebook Agrees To Pay $650 Million As Part Of Lawsuit Over Facial Recognition Technology"
+    excerpt: "The lawsuit was originally filed in 2015 by three Illinois residents who alleged the social media giant violated the state's Biometric Information Privacy Act, which requires written consent for a company to collect facial recognition data."
+    publishedDateTime: 2020-07-24T17:15:00Z
+    webUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844"
+    ampWebUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/facebook-placed-an-informational-disclaimer-on-a-post.jpg"
+        width: 1024
+        height: 700
+        isCached: true
   - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
     excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
     publishedDateTime: 2020-07-23T22:50:00Z
