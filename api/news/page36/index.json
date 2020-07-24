@@ -2,6 +2,56 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-06-26-smart-artificial-intelligence-needs-an-open-source-classroom.md",
+      "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
+      "excerpt": "Could the same 'human classroom' type need for interconnected cross-fertilization also help computers to ‘learn’ as they build their data-powered Artificial Intelligence (AI) knowledge bases and software-driven analytics engines?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1222798689%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": "Smart Artificial Intelligence Needs An Open (Source) Classroom",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/06/26/smart-artificial-intelligence-needs-an-open-source-classroom/amp/",
+      "publishedDateTime": "2020-06-26T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-amazon-has-reportedly-bought-self-driving-car-startup-zoox-for-more-than-1-billion.md",
       "title": "Amazon has reportedly bought self-driving-car startup Zoox for more than $1 billion",
       "excerpt": "Sources told the Financial Times that Zoox's management team will report to Jeff Wilke, head of Amazon's worldwide consumer division",
@@ -1080,55 +1130,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-ohio-using-ai-to-cull-old-laws-and-streamline-regulations.md",
-      "title": "Ohio using AI to cull old laws and streamline regulations",
-      "excerpt": "An AI tool developed by Deloitte is helping Ohio eliminate redundant and unnecessary regulations and rules that cost businesses and taxpayers time and money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/25/418377cc-9cf5-4639-b5f1-d1e8af3939f8/resize/1200x/237d79a99b4d77aaeb03fe8decb12465/istock-1252246565-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Ohio using AI to cull old laws and streamline regulations",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ohio-using-ai-to-cull-old-laws-and-streamline-regulations/",
-      "publishedDateTime": "2020-06-25T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

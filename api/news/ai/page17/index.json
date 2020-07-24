@@ -2,6 +2,56 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-07-08-nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud.md",
+      "title": "Nvidia’s next-generation Ampere A100 GPU available on Google Cloud",
+      "excerpt": "Nvidia and Google has revealed a partnership to offer the Accelerator-Optimized VM (A2) instance family powered by Nvidia’s A100 compute GPU. The new A2 VM instance family is aimed at compute-intensive applications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/AzdGbHQuxxjaV5SmcG5ygb-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-next-generation-ampere-a100-gpu-available-on-google-cloud",
+      "publishedDateTime": "2020-07-08T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-microsoft-teams-new-together-mode-is-designed-for-pandemic-era-meetings.md",
       "title": "Microsoft Teams’ new Together Mode is designed for pandemic-era meetings",
       "excerpt": "Microsoft is introducing some big updates to Microsoft Teams today. The software giant has been working on a new “Together Mode” for Teams ever since the COVID-19 pandemic began, and it’s designed to create a virtual live avatar of yourself that’s supposed to help you better engage with meetings.",
@@ -1346,56 +1396,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-kai-fu-lee-gives-ai-a-b-minus-grade-in-the-covid-19-fight.md",
-      "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
-      "excerpt": "Robots and computer programs can help with social distancing and food delivery, but have been less helpful in developing a vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5efe3bf5f435e6f478b28aac/master/pass/business_kai-fu_1052208482.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Kai-Fu Lee Gives AI a B-Minus Grade in the Covid-19 Fight",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/kai-fu-lee-ai-b-minus-grade-covid-19/amp",
-      "publishedDateTime": "2020-07-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -322,6 +322,38 @@
       ]
     },
     {
+      "path": "_news/2020-07-10-natural-language-processing-nlp-market-to-reach.md",
+      "title": "Natural Language Processing (NLP) Market to reach...",
+      "excerpt": "Dallas, Texas, July 10, 2020 (GLOBE NEWSWIRE) -- The \"Natural Language Processing (NLP) Market by Application (Machine Translation, Information Extraction, Automatic Summarization, Text ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/g16582536/natural-language-processing-nlp-market-to-reach-us-41-billion-by-2025-global-insights-on-trends-le",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16582536",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16582536",
+      "publishedDateTime": "2020-07-10T02:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-natural-language-processing-nlp-market-size-is-projected-to-reach-usd-276-billion-by-2026-valuates-reports.md",
       "title": "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports",
       "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to ...",
@@ -1331,56 +1363,6 @@
       "ampWebUrl": "https://venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/salesforce-researchers-claim-new-method-mitigates-ai-models-gender-bias/amp/",
       "publishedDateTime": "2020-07-01T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-01-spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform.md",
-      "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-      "excerpt": "Spiketrap has raised $3 million for its AI platform that helps brands understand how they are engaging with consumers on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Spiketrap_Compilation.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "Spiketrap raises $3 million for AI-based social media intelligence platform",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/01/spiketrap-raises-3-million-for-ai-based-social-media-intelligence-platform/amp/",
-      "publishedDateTime": "2020-07-01T06:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",

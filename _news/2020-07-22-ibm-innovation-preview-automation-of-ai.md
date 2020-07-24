@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T18:26:35Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Delving Into the Weaponization of AI"
+    excerpt: "Leveraging AI and automation enables bad actors to commit more attacks at a faster rate – and that means security teams are going to have to likewise quicken their speed to keep up. Adding fuel to the fire,"
+    publishedDateTime: 2020-07-24T08:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/opinions/weaponization-ai/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "hHiubQZIymbTLfplGRuwk1ox/rAubv+R32W1rBueoZnMaSG+CNsH+lrOsX9GZIstKJu4nCPFmwQo/X9Hury03ti/B+FG2BDBmAZIjm6Owl8dMJIWkAaKLyVWeVJggu8WuTGqnkZzDu/c74hZLQhI9/IYxvJAKgnpk302S1tYRSiSxZHwPlJ+68EbrMVI24j6Z+KloZjTZA+EPcyWPaiV+94MpadCHC1zkKI3tZLThYD4WQUIfa0bb9Y1NwTfPnxWj4yFhSz/4TocklpK17E9NRvHIgjk61mAuKgVcdOpEBxq6YDb/QBC9tv97uhwXo6/zjIAXa2/pQ75fB+RfEYqeA==;DvpOU5dNS77n+41NXUmP5w=="
 ---

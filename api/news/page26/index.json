@@ -2,6 +2,56 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-07-03-facial-recognition-software-fails-to-correctly-identify-people-96-of-the-time-detroit-police-chief-says.md",
+      "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
+      "excerpt": "Facial-recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Facial-recognition software fails to correctly identify people '96% of the time,' Detroit police chief says",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
+      "publishedDateTime": "2020-07-03T07:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-03-sushi-meets-ai-japanese-inventors-app-scopes-out-choice-tuna-cuts.md",
       "title": "Sushi meets AI: Japanese inventor's app scopes out choice tuna cuts",
       "excerpt": "If you've ever bought supermarket sushi, you may know the taste trauma that hit Kazuhiro Shimura one night. But \"disappointing\" tuna sparked an idea: he'd develop an artificial intelligence (AI) system to make sure your sashimi is always delicious.",
@@ -1063,47 +1113,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-02-trump-administration-hires-tech-firm-to-build-a-virtual-border-wall-an-idea-democrats-have-praised.md",
-      "title": "Trump administration hires tech firm to build a virtual border wall, an idea Democrats have praised",
-      "excerpt": "The company claims the artificial-intelligence software is capable ... chip technology developed by Tesla and other companies for driverless cars, Steckman said. CBP officials for years have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/77IQRJV374I6VF6BNTYRN77CNQ.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/immigration/trump-virtual-border-wall/2020/07/02/7b380490-b0ac-11ea-a567-6172530208bd_story.html?outputType=amp",
-      "publishedDateTime": "2020-07-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
