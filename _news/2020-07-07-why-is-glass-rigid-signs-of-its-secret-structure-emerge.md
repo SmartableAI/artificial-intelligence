@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/07/Glass_1200_Social.jpg"

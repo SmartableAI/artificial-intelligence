@@ -8,7 +8,7 @@ ampWebUrl: "https://www.natlawreview.com/article/what-do-electric-and-self-drivi
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/what-do-electric-and-self-driving-cars-mean-our-electrical-grid?amp"
 type: article
 quality: 44
-heat: 44
+heat: 54
 published: false
 
 provider:

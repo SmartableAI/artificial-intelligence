@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T20:46:00Z
 webUrl: "https://www.bloomberg.com/press-releases/2020-07-23/covid-19-impacts-machine-learning-market-will-accelerate-at-a-cagr-of-about-39-through-2020-2024-the-increasing-adoption-of"
 type: article
 quality: 21
-heat: 21
+heat: 31
 published: false
 
 provider:

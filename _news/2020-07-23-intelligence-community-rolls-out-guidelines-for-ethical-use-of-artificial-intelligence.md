@@ -8,7 +8,7 @@ ampWebUrl: "https://thehill.com/policy/cybersecurity/508793-intelligence-communi
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of?amp"
 type: article
 quality: 49
-heat: 49
+heat: 79
 published: false
 
 provider:

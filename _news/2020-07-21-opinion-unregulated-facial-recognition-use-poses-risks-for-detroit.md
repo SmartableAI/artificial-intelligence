@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
+    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
+    publishedDateTime: 2020-07-23T16:49:00Z
+    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
+    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "New York lawmakers agree to pause use of facial recognition in schools"
     excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
     publishedDateTime: 2020-07-23T05:32:00Z
@@ -122,17 +138,6 @@ related:
         width: 1057
         height: 630
         isCached: true
-  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
-    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
-    publishedDateTime: 2020-07-23T16:49:00Z
-    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=20&itm_content=1x7&itm_term=2376504"
-    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "Facial recognition may become the new norm post-COVID-19"
     excerpt: "From banking to marketing, Facial recognition has penetrated several industries, this technology could become the new normal post-COVID-19. Here's how."
     publishedDateTime: 2020-07-21T23:47:00Z
@@ -244,22 +249,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
         width: 916
         height: 630
-        isCached: true
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a lawsuit from civil rights advocates challenging that move."
-    publishedDateTime: 2020-07-23T16:57:00Z
-    webUrl: "https://www.sfgate.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    ampWebUrl: "https://www.sfgate.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    type: article
-    provider:
-      name: SFGate
-      domain: sfgate.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/5/375x250.jpg"
-        width: 344
-        height: 250
         isCached: true
   - title: "Facebook offers $650 million to settle facial recognition suit"
     excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."

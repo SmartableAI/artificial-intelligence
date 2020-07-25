@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T18:26:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-07/aaft-mls072020.php"
 type: article
 quality: 42
-heat: 42
+heat: 52
 published: false
 
 provider:

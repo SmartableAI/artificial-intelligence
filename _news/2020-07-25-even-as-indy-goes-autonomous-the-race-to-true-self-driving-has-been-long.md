@@ -8,7 +8,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/why-the-race-to-true-self-drivi
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/why-the-race-to-true-self-driving-has-been-long-51595635636"
 type: article
 quality: 43
-heat: 43
+heat: 53
 published: false
 
 provider:

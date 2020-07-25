@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-share-trends-regional"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Fintech Market Competitive Analysis, Market Entry Strategy, Pricing Trends, Sustainability Trends, Innovation And Technology Evolution"
+    excerpt: "Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" It has been accepted as true that the finest market research report is the one which is pertinent,"
+    publishedDateTime: 2020-07-25T14:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
   - title: "Digital Health Market Trends 2020, Size Projection, Applications, Growth Statistics, Regional Insights, Sales and Share Value By 2025"
     excerpt: "New emerging technologies such as artificial intelligence, robotics ... Tongue-Stabilizing Devices (TSDs), Epap Therapy Devices, Position Control Devices, Chin Straps), Distribution Channel (Retail Pharmacies and Online Stores) and Region (Americas ..."
     publishedDateTime: 2020-07-21T16:08:00Z
