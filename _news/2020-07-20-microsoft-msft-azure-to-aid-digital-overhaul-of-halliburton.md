@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
         width: 582
         height: 327
         isCached: true
-  - title: "Halliburton forms strategic deal with Microsoft, Accenture to advance digital functionalities"
-    excerpt: "Halliburton, Microsoft and Accenture entered into a five-year strategic agreement to advance Halliburton’s digital functionalities in Microsoft Azure. Under the agreement ... the Halliburton Data Lake using machine learning and artificial intelligence ..."
-    publishedDateTime: 2020-07-20T07:49:00Z
-    webUrl: "https://www.telecompaper.com/news/halliburton-forms-strategic-deal-with-microsoft-accenture-to-advance-digital-functionalities--1347073"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 8
   - title: "Halliburton to complete move to cloud-based digital platforms"
     excerpt: "HOUSTON – Halliburton, Microsoft Corp., and Accenture have entered into a five-year strategic agreement to advance the oilfield service provider’s digital capabilities in Microsoft Azure ... Data Lake using machine learning and artificial intelligence ..."
     publishedDateTime: 2020-07-22T20:05:00Z
