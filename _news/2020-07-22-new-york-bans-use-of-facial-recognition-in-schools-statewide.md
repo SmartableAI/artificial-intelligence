@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recog
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
 type: article
 quality: 89
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -360,20 +360,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/fc31eaa651e0d0fe4aa496c77accf6c2d467c460/c=0-235-3592-2264/local/-/media/2018/07/26/USATODAY/USATODAY/636681988519464839-FACEBOOKINDEXFUNDS.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
-    excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."
-    publishedDateTime: 2020-07-20T20:08:00Z
-    webUrl: "https://www.meritalk.com/articles/house-dems-look-to-ban-funding-for-facial-recognition-for-law-enforcement/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 38
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/shutterstock_680587558-min.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
     excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"

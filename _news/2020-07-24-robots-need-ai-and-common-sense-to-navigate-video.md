@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.thesouthafrican.com/technology/science/robot-artificial-
 cdnAmpWebUrl: "https://amp-thesouthafrican-com.cdn.ampproject.org/c/s/amp.thesouthafrican.com/technology/science/robot-artificial-intelligence-common-sense-navigate-video/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1300
     height: 900
     isCached: true
-
-related:
-  - title: "AI helps robots make common sense navigation decisions"
-    excerpt: "Researchers from Carnegie Mellon University and Facebook Artificial Intelligence (AI) Research created a semantic navigation system for robots that uses common sense. The system allows robots to travel from point A to point B efficiently by knowing what the points are and any obstacles that stand in the way."
-    publishedDateTime: 2020-07-20T20:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15453/ai-helps-robots-make-common-sense-navigation-decisions"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 36
 
 secured: "+GafUhGqRxorQFTAKNSZ3KkAlp0tEblzFPrT/UA9M3vxCj5f8oVgl6zNFVg9aeZrrEKBpK71mycycv4SksLeEutQoAAGxNepnMqN63b9jXzgW20lUWXsrCXflsyfCVW1iRbDLarTSiXpE8u43SBEj88hyAU8mq9ESOckXQzXlycLDzttxo4yGrvfr7WsxI5j4Yd08a1Mh4YtriOLafu6qG/Jp6eReEK4Ra5NreVRSyvLmBXqXdJMz05QpzpDF+3yw9qz25FFhUZe9zKWRNBnaP79UTMhosqFutVwqzOVjTLgveeK/8mwZEIK7s7B2VLxjYxsRi9ENjMQSzOVCk2bsQ==;4Iaokk0QHxR4ydN77SlSBg=="
 ---

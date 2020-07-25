@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html</loc>
+    <lastmod>2020-07-25T06:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026</loc>
     <lastmod>2020-07-25T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -43,7 +49,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53530454?at_custom1=%25255Bpost+type%25255D&amp;</loc>
+    <loc>https://www.bbc.com/news/technology-53530454</loc>
     <lastmod>2020-07-24T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -607,20 +613,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/deep-learning-market-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026-2020-07-21</loc>
-    <lastmod>2020-07-20T23:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21</loc>
     <lastmod>2020-07-20T22:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry</loc>
-    <lastmod>2020-07-20T22:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -723,6 +717,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/20/deepminds-ai-automatically-generates-reinforcement-learning-algorithms/</loc>
     <lastmod>2020-07-20T08:48:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi-1029410565</loc>
+    <lastmod>2020-07-20T08:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

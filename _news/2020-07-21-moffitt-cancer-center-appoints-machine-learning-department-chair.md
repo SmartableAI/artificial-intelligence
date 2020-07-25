@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T13:45:00Z
 webUrl: "https://www.beckershospitalreview.com/oncology/moffitt-cancer-center-appoints-machine-learning-department-chair.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "Moffitt creates high-tech machine learning department to accelerate cancer research"
-    excerpt: "Moffitt Cancer Center has become one of the first in the world to launch a machine learning department, with a focus on fast-tracking cancer research. Dr. Issam El Naqa started at Moffitt on Monday as the founding chair of the hospital's new machine learning department,"
-    publishedDateTime: 2020-07-20T19:29:00Z
-    webUrl: "https://www.bizjournals.com/tampabay/news/2020/07/20/moffitt-creates-machine-learning-department.html"
-    ampWebUrl: "https://www.bizjournals.com/tampabay/news/2020/07/20/moffitt-creates-machine-learning-department.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/tampabay/news/2020/07/20/moffitt-creates-machine-learning-department.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
 
 secured: "f53lbahCs/6bALiPt78Dp+YraGfROkxFLNA6leAZv+ZWzHgzd2OfBRK3pK+1xMntxLXanNRSlcp7LnWlX6vEVzXwjjBXv2dnB4ktCo7Wy6H7lQsCCVDBfxIfnmvhv/uqdeZrNF4CKKEXPLhSX4eVCnipJGlXrIQ2CZXeRosvLe3miovYq9KEitI+TXLhmaAX+d+1ysnKS9z3i68sjpozcovSOqKZ3gh9X5sTDnl8OfE+74PR5VFUVtFgS3CSOoTa5jbdsSINtfsSDrsSu/oQbsxH7iaFgmr0vZMfpJosNoyRGkiz6fmIHvuuI68k67OMAziH80nBFMt1khIDnJ7SKWnnhFw31iuvNy87KBVR35DUiSs1ZrT6gH0Nwdko2I9mr0W0ZMyRffxC/JcwfQfLqolmTvoPP3obq0QAkIClpNCkpdMJSGeGn2XZr73QI/ruZVupTn+pZ5oIzIu6cNY+Y2OFM34TlbSfU0+kgH7pon5/GWbqZ2WJXPncxOv2rjgFJK6tFNBCNORX0W6XPVx2cQ==;7aivD/wuPzm4mdXetr1IRA=="
 ---

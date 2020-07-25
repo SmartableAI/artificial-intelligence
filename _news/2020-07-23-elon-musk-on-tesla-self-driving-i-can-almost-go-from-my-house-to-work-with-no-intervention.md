@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
         width: 1202
         height: 901
         isCached: true
-  - title: "Aurora Innovation to test self-driving truck tech in Texas"
-    excerpt: "Founder Chris Urmson recently said that Aurora is shifting its focus to trucking for now and Texas is a hub for that sort of activity. \"More than a tenth of all long-haul truck dr"
-    publishedDateTime: 2020-07-20T20:01:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/20/aurora-to-test-on-texas-roads.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 24
 
 secured: "6lYA9M/azlbqfInzT0pGsyKjMmIC6EuTbxmcfeqB3qdShsVZJAQM1bphwBtIuIjo72BFa1IOOolXBmJ3iH1aqM2t9K6xfvKP1gaSDeByj3h0TjbmmeUo/tV+SDtn1/zQN4Zu0wrnr+eJdWGKDUwh0BRchE28M25SS1SV/6lOyLAMMMptYUicgn+0G7hsV4ImqhF7NqUDw/CH58rA4t7aAIXj4yx7sVup/LS1GcjPGsfsnOvfgGsdqSUbY0cR/DFN5hqSDAoftSl1M0Nk+6Wtyf4IZDOaC8kgZtT41acs3vgqBY0BuPMTQQZiWlQKiG0fmqKWlv0p1WPo6P9Pcl+2k5oyVbmsQUdvNdu82wYBnLkw9ghtDRrLUBDr0cBtFubHqPJyUlZoq6umZLbmrDzym9LX/B3CWOn/IiUaOQeGxxluYyA+FFfRDINxDjXl0+wgcEaLoKSAufIoLxEmL716l5sytSMNFHgFamMLqLUIqZLrlk+E1Ist0Gfqg1+2PumNQtZD0+vHtUdiUsI6+B49Xw==;VKEILw8s+THmMX8y43rUNQ=="
 ---

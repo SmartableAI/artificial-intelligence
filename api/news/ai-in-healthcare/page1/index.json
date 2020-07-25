@@ -228,34 +228,34 @@
       ]
     },
     {
-      "path": "_news/2020-07-21-heres-how-connected-health-and-artificial-intelligence-is-transforming-healthcare-industry.md",
-      "title": "Here’s how connected health and artificial intelligence is transforming healthcare industry",
-      "excerpt": "The impact of AI, IoT, and other technologies through natural language processing (NLP) and machine learning (ML) is transforming care delivery in the medical industry.",
+      "path": "_news/2020-07-20-global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi.md",
+      "title": "Global Precision Medical Imaging Market: Propelling due to Growing Research and Development - PMI",
+      "excerpt": "Pfizer decided to work with Boston-based Concerto HealthAI for a collaboration that will apply Concerto's eurekaHealth artificial intelligence technology to precision oncology research.",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-precision-medical-imaging-market-propelling-due-to-growing-research-and-development-pmi-1029410565",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/artificial-intelligence-1594573206464.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/07/connected-health-artificial-intelligence-healthcare-industry/amp",
-      "publishedDateTime": "2020-07-20T22:07:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T08:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

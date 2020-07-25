@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "National Security Commission on AI recommends digital reserve corps and academy"
-    excerpt: "The recommendations come as part of the commission’s second-quarter report for 2020, which included several other lines of effort from ethics, diplomacy, protection, investment and the application of AI. The report has not been published but was ..."
-    publishedDateTime: 2020-07-20T20:06:00Z
-    webUrl: "https://www.fedscoop.com/nscai-commission-recommends-digital-reserve-corps-academy/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 35
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/07/GettyImages-1170935904-1.jpg"
-        width: 2323
-        height: 1290
-        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
     publishedDateTime: 2020-07-23T19:01:00Z

@@ -371,20 +371,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "House Dems Look to ban Funding for Facial Recognition for Law Enforcement"
-    excerpt: "In a letter to House leadership, a group of House Democrats urged leadership to block Federal spending on facial recognition technologies for law enforcement. The July 17 letter, signed by 30 House Democrats, asked that “the FY2021 appropriations bills ..."
-    publishedDateTime: 2020-07-20T20:08:00Z
-    webUrl: "https://www.meritalk.com/articles/house-dems-look-to-ban-funding-for-facial-recognition-for-law-enforcement/"
-    type: article
-    provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 38
-    images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2018/09/shutterstock_680587558-min.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Lockport school chief criticizes bill that would block facial recognition system"
     excerpt: "Bradley said she is \"profoundly disappointed\" by the passage of a bill in Albany that would prevent the district from using its facial recognition security system. If Gov. Andrew M. Cuomo signs ..."
     publishedDateTime: 2020-07-24T17:32:00Z

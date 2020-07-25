@@ -17,19 +17,21 @@ topics:
   - AI
 
 related:
-  - title: "ODNI Released AI Principles Framework for IC"
-    excerpt: "The Office of the Director of National Intelligence (ODNI) has released a list of AI ethics and principles to guide the intelligence community (IC) on its use and development of AI and AI tools. “These Principles supplement the Principles of Professional ..."
-    publishedDateTime: 2020-07-24T15:18:00Z
-    webUrl: "https://www.meritalk.com/articles/odni-released-ai-principles-framework-for-ic/"
+  - title: "Intelligence community rolls out guidelines for ethical use of artificial intelligence"
+    excerpt: "The U.S. intelligence community (IC) on Thursday rolled out an “ethics guide” and framework for how intelligence agencies can responsibly develop and use artificial intelligence (AI) technologies."
+    publishedDateTime: 2020-07-23T22:37:00Z
+    webUrl: "https://thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of"
+    ampWebUrl: "https://thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/cybersecurity/508793-intelligence-community-rolls-out-guidelines-for-ethical-use-of?amp"
     type: article
     provider:
-      name: MeriTalk
-      domain: meritalk.com
-    quality: 39
+      name: The Hill
+      domain: thehill.com
+    quality: 49
     images:
-      - url: "https://cdn.meritalk.com/wp-content/uploads/2020/02/shutterstock_1576838977-min.jpg"
-        width: 800
-        height: 450
+      - url: "https://thehill.com/sites/default/files/johnratcliffe_05052020.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "New Intelligence-Community AI Principles Seek to Make Tools Useful—and Law-Abiding"
     excerpt: "On Thursday, the Office of the Director of National Intelligence released a list of principles to guide its use of AI and the development of new tools. The list and accompanying framework call on the IC to use “explainable and understandable methods;"
@@ -42,6 +44,20 @@ related:
     quality: 33
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2020/07/24/NGai20200724/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Leading the Intelligence Community After 2020’s Upheavals"
+    excerpt: "The IC must be a leader in the application of game-changing technologies like artificial intelligence and quantum computing, but it must partner closely with private sector innovators to get there. Fourth, ensure opportunities for underrepresented groups."
+    publishedDateTime: 2020-07-21T16:56:00Z
+    webUrl: "https://www.govexec.com/management/2020/07/leading-intelligence-community-after-2020s-upheavals/167030/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 22
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2020/07/20/shutterstock_765005305/open-graph.jpg"
         width: 400
         height: 400
         isCached: true
