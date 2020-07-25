@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysle
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.thehindu.com/incoming/om0u9d/article32158570.ece/ALTERNATES/LANDSCAPE_615/Waymo"
         width: 615
         height: 384
-        isCached: true
-  - title: "Waymo’s Self-Driving Delivery Pilots Resume in Phoenix"
-    excerpt: "After briefly pausing operations in spring due to COVID, self-driving technology company Waymo resumed its driving and testing operations in May. More recently, Waymo resumed its partnerships with companies UPS and AutoNation to pilot self-driving package delivery with the Waymo Driver."
-    publishedDateTime: 2020-07-20T22:49:00Z
-    webUrl: "https://www.abc15.com/sponsor-generated-content/waymos-self-driving-delivery-pilots-resume-in-phoenix-waymo"
-    type: article
-    provider:
-      name: ABC15 Arizona
-      domain: abc15.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a1a5903/2147483647/strip/true/crop/640x336+0+7/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F93%2Fde%2F25e3f2fa48499086d2574428a6f8%2Fwaymo-jul.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fiat Chrysler, Waymo to create self-driving delivery vans"
     excerpt: "Fiat Chrysler Automotive will be working with Google’s self-driving tech company, Waymo, to develop an autonomous delivery van. Continue Reading Below ELON MUSK SAYS TESLA ‘VERY CLOSE TO SELF-DRIVING CARS The announcement was made on Wednesday in Waymo ..."

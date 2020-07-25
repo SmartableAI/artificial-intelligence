@@ -8,7 +8,7 @@ ampWebUrl: "https://m.businesstoday.in/lite/story/samsung-to-collaborate-with-in
 cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/samsung-to-collaborate-with-indian-engineering-students-in-new-age-tech/1/410859.html"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:

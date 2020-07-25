@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars"
-excerpt: "Wait for a second, maybe there is. Here’s an interesting proposition: Does the advent of AI-based true self-driving cars offer a microcosm scenario for exploring the AI triggering theories? Let’s unpack the matter and see. Understanding The Levels Of ..."
-publishedDateTime: 2020-07-24T15:35:00Z
+excerpt: "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure."
+publishedDateTime: 2020-07-24T15:59:00Z
 webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/"
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/amp/"
 type: article
-quality: 82
-heat: 82
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -20,7 +20,6 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -29,6 +28,6 @@ images:
     height: 417
     isCached: true
 
-secured: "Qr8zm45ogzYgjvRd1kZWLGNST9OVRY5oLkNxNc+YyWsaZV5syoqM8nbcTM48mxqyDdCFFp+2pfZxrVhfD/scTZHTRk8bX6KahMGxMre4a51YEVSc+SiW4fwuuP0XHKl+Xy2+gKl9HXi7lVELkRdBmvAl6r238skNzJAwrx/4BCCsCEkHlig8S/E64DjWR/pBt7fkQAVFhvgcvsAaKb9GfD4eLkPzcLYfFH+eBuYIthsV/K/wDF9DkGAmqbVcaV5Ni0JO2+A5EPegMmZDLJlPVR0HtPhzZQ3ERVKveeCUf+RVg+qwvBWjp/aDWwZUEX0gzs1rD0lMVDcX+Hu/reiJBaR2JU1yxBoDsomPjpcxfhrshWiazuchDSVYUE1WXwEslFCEnQHDe0D+zfRaA+uVLDLtPSOLK9kroMfdWT+sPpB1iN3GiYXK3hd5+uyVoAdrfC+EsnSvIo4CZuRZNa/oa6bdYhZrWylcAS21EvyM8UcUUeXAcC/ILJiUTRHa3S40GaiMXZwLs4anENeD163XRw==;eZzCeS7JkacvbUceXQb7lw=="
+secured: "5/wCYcM/gmRDxfGPowz+D9/ApUKxyamz0TtDgzomOmFEaL54yGN8ZM4mSyfTnYvUSw6ubUqiLD2aR6u0+lzO6PYdwNCPdzLmjXfnYQWHA7rao3jiKOHJJZhzBO4+Jt3onnwKOMDTbNsdEUaSU7bARZB4n2jg4T89sXPNsUQ4S/KNnLCwQ7n2p23YH6MoaoOc95Z3rc3yzQULK0W9XGDUjL72vnfku/858YLH60MstLj1kOqgnQl2XpR+tHhrzB5r0CFY28vDl3oD95qP7pmt7SZMbUPqUEfXdtQog0/z8MUQEA+hHDqx/vLVLiiH6nKDR5NxHfziJOPSrvSWjbkL9g==;XRMvQJ9RgqdHpDJVy0v8ww=="
 ---
 

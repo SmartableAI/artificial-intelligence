@@ -8,7 +8,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/why-the-race-to-true-self-drivi
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/why-the-race-to-true-self-driving-has-been-long-51595635636"
 type: article
 quality: 43
-heat: 53
+heat: 43
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Self-Driving Cars Will Race in Indianapolis. Tesla Can’t Take Part."
-    excerpt: "Universities will compete in the Indianapolis 50 in 2021. It’s a new event helping bring autonomous driving to the masses."
-    publishedDateTime: 2020-07-20T21:31:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-tesla-indianapolis-50-race-indy-50-51595280596"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-211059/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "S0L853tgAjqtSb35Hs/+GxqtyBR/USqpuYFJAjHaiXCsMjBTknRlUy2sEVPcJLk02sIGbpZ1fej9gI5+xKBpxz9e3EfK2TmGNiaUf8oEHuqIhx61JEp7FyfKGAAS36PAuMHWUXdae6JxwKScunWQpS57kD4uSMTzrcHEhavJcHmemOTP1KqRwtsdfg7hdDPSHtDGScs8Ml1+aJm7jtQWVKkkWZR5B/jQeaIFVZIu7AfIm82USWPrXh20FUoCHNFZgqGztVpvT1CZ7puUUBZ3y2pm5isX/8jGSpMJC/afv8aoiDZeNg9eQCjZAE9ZXz2Ehn6qeqTnldbpJUmEQIQWmnLOdhWpKkJU5QFyS7ZagIl+97mrSCosQfJDxDhXd9PEI9T3ncs/EsFV6ctgdGKMsCypLWFZL3DGMbi0AKWv7KZ70mX5dnH38DwtOS7O4dKbPYqJL8ymyA8fLHjDeBn6Ep34Sh2ZjGjkc4E1HODZsuOwfjQMEfBclSFxQzwlZhuSYJwlxPEtiCC3JcDp9bHRwQ==;j/N6Qe4LeQIjxdil+LYTaw=="
 ---

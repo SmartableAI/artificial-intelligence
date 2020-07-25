@@ -2,20 +2,43 @@
 category: news
 title: "New Google fund to address missing data for key research"
 excerpt: "Google has launched a new Lacuna Fund which is the worlds first collaborative nonprofit effort to directly address the missing labeled data in the field of languages to health and agriculture and more."
-publishedDateTime: 2020-07-25T11:02:00Z
-webUrl: "https://news.webindia123.com/news/articles/Science/20200725/3598404.html"
+publishedDateTime: 2020-07-25T06:11:00Z
+webUrl: "https://www.dailypioneer.com/2020/technology/new-google-fund-to-address-missing-data-for-key-research.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "i2jtkJJVsdykQlm1g7oVKi9J/1i/smcBPpGzWsbtmrn3ZlQRIxJblVckVCljRgfgpDa33SF5dSKzsZhW9lXsD0TJtKdUd9WRmOkJ351x9KMIokCUX/MjQzerFpkzpAQbGt9Qjwy+Ob6Qc6bvMTy0yw67letsqEHaUzqCiHTpL6pqed+ASCannGhIrZnsZStFdnme9pQx6nHDdfo/WiTU3AGY4wVsj66Udd6rWVbHh0nDQ1fCGdku+W3/yzROJhkd/vDLKIoDGTIfdnOjFH+qN2rcGhugcc6BMMebwobs7FcRDyjueXI5quYUzxeq96LCv2+apPn/ugO6kxcXapagJA==;2RGNaMPLMEWgjWjn2DrKng=="
+images:
+  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/new-google-fund-to-address-missing-data-for-key-research----10-27-----july-25--ians--2020-07-25.jpg"
+    width: 1000
+    height: 800
+    isCached: true
+
+related:
+  - title: "New Google fund to address missing data for key research (10:27) , July 25 (IANS)"
+    excerpt: "Google has launched a new Lacuna Fund which is the worlds first collaborative nonprofit effort to directly address the missing labeled data in the field of languages to health and agriculture and more."
+    publishedDateTime: 2020-07-25T05:54:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/new-google-fund-to-address-missing-data-for-key-research----10-27-----july-25--ians-.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 19
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/medium/R300_oneplus--accidentally--exposes-hundreds-of-customer-emails-2020-07-25.jpg"
+        width: 300
+        height: 240
+        isCached: true
+
+secured: "vsmL402+elshNhRcxXaG1nrkIqBoXCtN9cIs6q0hvzhf/K7g89O04B2PkvkTuVF9ZJxJ4yyL4B6hnL7+LoIGZi+vChbLGjo/H7dprZQlrpo3kxAF7Ij8We51Or13znZCAUbFe5EvXVGDYCtjCPjn69640I0iCrC9LodkQNICqvpjIo1nhf1cuoXhV/PdRP43osZp5KPaXSwb9X7Z6ePah+kXpgDPfqyKm/paczdnKRl40TzceSdHZWLQMkyYq873BmJU0oPLUosFLLdtuDnIKp9QQJ6Yped62hqwpoDgUEsQGJTiiYbzjDUzzb7GbqPTTtntxtVbPmW6b0CHibCHBg==;qDeHWK8vo+4ZhUiZq4XX1w=="
 ---
 

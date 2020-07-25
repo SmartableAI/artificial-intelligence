@@ -8,7 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-dri
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-drives-new-user-experiences/"
 type: article
 quality: 84
-heat: 84
+heat: 94
+published: true
 
 provider:
   name: ZDNet
@@ -27,6 +28,22 @@ images:
     height: 675
     isCached: true
 
-secured: "wDtHbbdmf6uKVrGseqBEHA6c8tY1ChzKFfKnYvHrYqcXbWvw7m6BwNUw94KEV6Z2T/aXqjAyY3LikhGAQNuHvOCO7TyUx47lupqqMw7chhoFompVgwEQtiLuxnHoQElIgBOCK+gCYrJeNR1oWCoTk9kV3gVTNpvvFyD3Od/obzH57hOYSvALsDYCcPI1JMpPQi91JvijSQco5QtOaPzVYosPGtaemcuSnjZg7spghe2uvb915GmYagdqaTvynatz8DYZzOD1M9GvYrGA9/K0TziiyS95nDLPyGBGrvRkJgLXmy5JQxW70RZ1yL92MTz5IlPz+KXAMs15mBEvvp3YSg==;z0attKpGjF2BZmGW8qHeKQ=="
+related:
+  - title: "Enhancing your chatbot experience with web browsing"
+    excerpt: "Chatbots are popping up everywhere. They are qualifying leads, assisting with sales, and automating customer service. However, conversational chatbot experiences have been limited to the space available within the chatbot window. What if these web-based chatbots could provide an interactive experience"
+    publishedDateTime: 2020-07-24T21:22:01Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enhancing-your-browsing-experience-with-amazon-lex/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/24/dynamicframe-1084x630.gif"
+        width: 1084
+        height: 630
+        isCached: true
+
+secured: "hseSSlLNWQ7AHShOn326hHFSlA2WqmERINKylCmeguh56QMasBJEywXcUybQZxq1sLKP6wTV1wxNRzUlm1W67j8kZ38et28JCg+tUygU9dbo+3SN3euLbWMNLbWfb9OH8jv3HDPcjwGhOs25PRj52ZFxHqng+fR+3yfYfHXPl0s3H0LNZ5Wd6muE0lKCTCrGF73zcdhpZIhZ9xx3ASS0WlQxil0Xa8Zl0TELVwwNefqlM3AsUgQWq9XNwxckU4ZIQ/WRy9YXSyEjOZsRRrqAtVDZoqsfJE8oRhooGquvKrOGhn+3oLx27thCnwj5XqZn1vo62QFEHXN0RHk3NVGnAnPkHvr4NPsRlWX6rEUhZuqs1AgBWwN/aRIXAtGLrP4bkLgaHFDe9CLppfKlzeS0B8jrWpj7lhJ/xibMfw5lak4CBGqfNbuVTo96laIqkq19ZlEH1qF0VV2dsuU55PNoWQU2xmtcnWTJD+xJ/FS8VJhiIBfvN91nEz/Y6MrxsRvaFAFNA28PSeoOqgHGXJ0Z4w==;RTC7S238KqSnzbJcCHx+fw=="
 ---
 

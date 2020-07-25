@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T11:10:00Z
 webUrl: "https://slator.com/machine-translation/egypt-inks-machine-translation-nlp-deal-with-chinas-iflytek/"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

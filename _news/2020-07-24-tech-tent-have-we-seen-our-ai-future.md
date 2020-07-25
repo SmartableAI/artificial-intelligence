@@ -3,7 +3,7 @@ category: news
 title: "Tech Tent: Have we seen our AI future?"
 excerpt: "On this week’s Tech Tent we find out what the big fuss is about something called GPT-3. OpenAI is a Californian company started in 2015 with a high-minded mission - to ensure that artificial general intelligence systems that could outperform humans in most jobs would benefit all humanity."
 publishedDateTime: 2020-07-24T16:08:00Z
-webUrl: "https://www.bbc.com/news/technology-53530454"
+webUrl: "https://www.bbc.com/news/technology-53530454?at_custom1=%255Bpost+type%255D&"
 ampWebUrl: "https://www.bbc.com/news/amp/technology-53530454"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53530454"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 576
     isCached: true
 
-secured: "fdweWyVu+ZqCN33mUgO3SK2KIpE9dEHhnCT/glaWbid0ZU2E+peZuve9qUsYeDzlGWGdcIgtRdkuX6/2rISPct6TaL8KG9qsES2SXVhzkYcW3zVff2e/csScJj0eFqvkLcSQ82qIxv3MUqjMCzAg0Dvy0ScXzUksMn3Sm+QyTi2pnyfuIM209CylpDsCOzZnxWPxoYB87AXcoRF8WyH4gZuxLuW+lKEGXp0+TLHWDNUOrMD7TGAquE3HLRGLmXtqGo+iZn3Y9M9FP/GmAIytvoonEmAhHr1kQOj2tTrT7LgqLdviW6uTCQo6r4w5cv6Ub1NZkGoyIkMhed0/m9ssnTEnrJNoKoMBP7Jd8iO2maVAG4sDszhUkuXDKE7ebBGVGpR2SL6xwfQDUu9g+aoNOn/eEOxO9qTAk/iU+Ig0JV6nBlKOQBGuqD+dzowux1nRtdn9n7APLesQ4UNFuT3+p0GajMgpW40sirqP8iqluwm+PVVRg8SKtJtSGhSe3ZdgvdKms2wH+wwugp10eQUlSQ==;YgiwfxPyR+a481JfESVGBg=="
+secured: "jyoGFxrJBdfxrQ1SJTHbGB0zl3DFF4HsdceI1huFK/QduuNQQ7BoR+tbwutp7C4EoJ+gCHzsUSEfmShCPkhuhOZ8nom8NPQDw0N4WLgTsQ+fOHwylht8bgOaXqEiuBs27vBBYpN0x0J7QS6FJSjFZpZmlIsY116XxZGuC9oBBNJTe1CahIxAcRQ3yJ0ojKGa7lfN7IGx8pC7aL3bJTlmRiyQrvVPpk6PFtMneBTajeXWyzRlWGBHk4ims+G30pNb8463Nz/OLT2Iba/dCWL1GIHpR2ZabJhVFFvIVah4BhbcD9UP4DjI0K+qUfJfW+1S5IgpvyUyD5cBTB//CTCx9w==;qTvtIswSeUCblEa20fho+g=="
 ---
 

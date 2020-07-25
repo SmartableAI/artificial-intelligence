@@ -134,6 +134,20 @@ related:
         width: 1280
         height: 600
         isCached: true
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "We’ve said for years that facial recognition and other biometric surveillance technologies have no place in schools, and this is a monumental leap forward to protect students"
+    publishedDateTime: 2020-07-23T21:47:00Z
+    webUrl: "https://apnews.com/5b283de3cc0fe36eb12e34667e6deb09"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/615eee7d526e4faba5f21d4f5dd1e544/3000.jpeg"
+        width: 3000
+        height: 2175
+        isCached: true
 
 secured: "kL9JM8JxhDShVMFSoEW7e1bKbWxSmg1ezY9LUtH5mjaBqn1ZiJEFUKkLbG3yVsyor7ybG75GmYPQIuPIWO7qVw1yp+kT5jKvz5J0R7FdAmO+b1md1IVaBYVYbo9uYoiOcklsCI2NVmz2tMHsuEwTIAhCPehG7HI7FaU51OWR0ctDqu8kNObRfAbKQKt09H5Z5wsttJnh0G6NJPToWrEpq90xa3cgCXif92B0rl55TK9TAHZA+w4jE/FMdqF2xg3lkrvogWPrVVmw4DKHSJ4CP9kSYQEnt4oHAAEcGXiM/BF47jK/cm1L7H2JNLjL5TFXZkkTxddDS5DPLoz2IXTpSFtfdMwrp71jknw2GsaSBa6uG/6Pg3RjLnVqo6e9iOeZpeYwRaUIdV6Od7Pkv9BBl8tii0kfZFhlpspEAYpmokPpBOg339JcOfCJylebRSs0h2VCU00vA6b5ng/m7zLNI5WjGzpvoftya60DavGPLn/H6ogyK3fSU2hPw5RA1fFJlWhi7cwpk0ZlWrT6vKUmNQ==;HvT7zXYqtkD2hcw8JVQM1w=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T16:28:00Z
 webUrl: "https://www.tsnn.com/news/questex-leaps-artificial-intelligence-launch-virtual-fierce-ai-week"
 type: article
 quality: 49
-heat: 59
+heat: 49
 published: false
 
 provider:

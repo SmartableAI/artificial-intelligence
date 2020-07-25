@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why Tesla Full Self-Driving and robotaxis are taking so long"
+    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis. But some say Musk's driverless dream is far from becoming a reality."
+    publishedDateTime: 2020-07-25T14:40:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Experts’ dismissal of Tesla’s Full Self Driving push proves Elon Musk is still not taken seriously"
     excerpt: "Despite delays, Elon Musk remains optimistic that Tesla’s efforts to achieve Full Self Driving will bear fruit soon. This was highlighted in a statement during his appearance at the recently held 2020 World Artificial Intelligence Conference in China,"
     publishedDateTime: 2020-07-22T13:28:00Z

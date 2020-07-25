@@ -199,17 +199,6 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "Self-driving startup Aurora expands vehicle testing to Texas"
-    excerpt: "Self-driving startup Aurora is expanding testing and development of its vehicles to Dallas-Fort Worth Area in Texas, the company said on Monday."
-    publishedDateTime: 2020-07-20T23:06:00Z
-    webUrl: "https://www.reuters.com/article/us-aurora-autonomous-idUSKCN24L2CI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24L2CI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24L2CI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
   - title: "Alphabet's Waymo, Fiat Chrysler Deepen Partnership To Develop Self-Driving Light Commercial Vehicles"
     excerpt: "Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG)-owned Waymo said Monday that it is expanding its partnership with Fiat Chrysler Automobiles NV (NYSE: FCAU) and the two"
     publishedDateTime: 2020-07-22T08:32:00Z

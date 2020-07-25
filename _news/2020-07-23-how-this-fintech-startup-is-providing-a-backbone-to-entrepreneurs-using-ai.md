@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T06:58:00Z
 webUrl: "https://analyticsindiamag.com/fintech-startup-fintso-entrepreneur-ai/"
 type: article
 quality: 37
-heat: 47
+heat: 37
 published: false
 
 provider:

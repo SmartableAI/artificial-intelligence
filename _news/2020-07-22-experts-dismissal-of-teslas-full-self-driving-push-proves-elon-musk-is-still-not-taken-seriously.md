@@ -42,6 +42,20 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Why Tesla Full Self-Driving and robotaxis are taking so long"
+    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis. But some say Musk's driverless dream is far from becoming a reality."
+    publishedDateTime: 2020-07-25T14:40:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "vWVBIdKS/vMh2uJEeQ77itbv9m3jFEW/d0/4AgPjkUwcL0ewtvJasr2x/ii5598ChlK+EAZKb0UqeWQYq24teI4/KC13FN3QTNZamcpq83j9qkByK/l7zzZgDHaQGspLP0ygT6l3QIjx2qvmty/fQwOOkWXg4zfts9fzLZZ8MbCIiT4yiG0wsPoXhEn9LZLmFsQDvyEw3GayuIhhcOSSL/KM8o+XihpgSTZpxJd32U7t7534mf7AvZYWZCwMw+nfEyOISJIHYiMLItvodePCcI+ZtP5HIx4UjhkUj/0p+AjwECisCk/WbFD6IR78BrvWQPi0di956NbOgHH9fAL4+oDoYnD4dun2yOzv/nLB3tbKN4BACP724z332Z/0AsxqHmIQugp/b0G8YiHO2mNw5S0O5pGhiA6EBpJymyLzvYvMHLlbYOdExjwj8NjTqmZu9obyijePxbzaWzgujDKiYJadNWqg4Vjcl3pe5VtUhdJfbqEZZg+O0NBUGV5/bk1UP4/5l9Ya215VclxNFKyRtw==;gorHIX4U7pwmyD86XwYy0A=="
 ---
