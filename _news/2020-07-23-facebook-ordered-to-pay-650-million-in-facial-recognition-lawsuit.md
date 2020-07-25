@@ -3,7 +3,7 @@ category: news
 title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
 excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
 publishedDateTime: 2020-07-23T16:49:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=39&itm_content=2x4&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=20&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
@@ -419,6 +419,6 @@ related:
         height: 630
         isCached: true
 
-secured: "zbaHxcuiNVeBBQCDevxD3u+ap9gDrtZEY5kbYqentcRczpMaYq8Q/imxAzgu9xw2V8wBDG/ubXDQD7dNyO/5X3r8HYQXjqkjv2aqnNOBdWJrsiWXjSY/c5Edqd1x/n/ihBqalkLWPSpAVgqPk50Ls10GtJhiwqPvhHgNvWnNj6vizNlMdYZeOBOeL6f5vayIHxZX7gzilrqHFpiA4NlZzCcIGDabcK3j4mb7nt/toWJ1QgwADCXmUnGIWcFX1dm6rvxK0avFPQ92CIC/QjFrGUeJq2pEWfdvm5VYKy/OXGIRVm5t6c+VYS419zDesbde2dmxBQrUvSi+0uWzXo+HbuOwyKzbyvnPKG/mDGAMtXdeqnEvGb5KCrAoDUPlmeEIjnfP99E+tur1EW4z5RFHHh7lBZiUeQMPKcGi4ZsyUbfQNxsz0BMGFHzqpkZwVKRWnjnaizNZcQdLTRHGZ73ubVQ9lVJfidMsF+PKkDCsbch5UKLe1gGg0v/o/CY1r4SeyRWNL00Xdz9ZxoSIOFOj/A==;7MXfyzucK2kjszAAEe8xEg=="
+secured: "4liGi/TNwByzWyI+3xk01zQ0xmFOqSrBWmOlmnh3Q7w00qq+vm7fPQI/Z4o+vypQ/bu8VLNeoXdT5bvE9SNIJorfMidfEDL0PzO40zhdG7iyPnrrM/fa6sWs9vb1G8o6phVh1O2LgwBjCLPne7osFFDi6SK9c094/S9hCrrBk0QaodM1NhZgKZJWxo6TjuJuihlwYJ2t7haXyJMAE+TYt0wPYFcDzhFe9TvCcmHCjh5Q2DKmbYCa+eBhrSgYVyaZhVNTYkIafGSa5pgjMZB5K8JjEFpuq0RZbNftxUZAQrwJm9qQ4qAd3KNKVc65diZcd6dC/DHgt1P5DWxURgfFNoXzU8DP+GlJkP70yIY8Pr7pBHIYrbRDilnfQEZ708R3mig5wLCnrqebd/D/zOKRN8Lm2bzaS1WdhRUgLIQHe4yU5RLX4IIGwyIB9CVkTJeRDAcE7L/+GVgoScDc5XBoFswrAXAUW1+KP4S73Vvqh2aMdE1DuSo9E5Mvx/VDw1NO4ldjFRSl0dr9e2nXZ9xqqg==;ktyE1/uE2yFrmjHhvnsE2Q=="
 ---
 

@@ -134,22 +134,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
-    excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
-    publishedDateTime: 2020-07-20T06:46:00Z
-    webUrl: "https://www.openpr.com/news/2092901/artificial-intelligence-software-market-growth-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "US Artificial Intelligence Market by Services, Technology, Overview, Component, Industry Revenue, Cost Structure Analysis and Forecast to 2025"
     excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
     publishedDateTime: 2020-07-23T09:29:00Z

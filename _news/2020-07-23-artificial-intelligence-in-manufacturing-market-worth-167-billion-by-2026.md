@@ -19,10 +19,10 @@ topics:
   - AI
 
 related:
-  - title: "Neural Network Software Market Growth By Manufacturers, Type And Application, Forecast To 2026"
-    excerpt: "Neural network software is used to simulate, research, develop, and apply artificial neural networks, software thoughts adapted from biological neural networks, and, in some cases, a wider array of adaptive systems for instance artificial intelligence and ..."
-    publishedDateTime: 2020-07-20T06:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026 | CAGR of 57.2%"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application,"
+    publishedDateTime: 2020-07-22T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22"
     type: article
     provider:
       name: MarketWatch
@@ -33,43 +33,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market Growth By Manufacturers, Type And Application, Forecast To 2026"
-    excerpt: "Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance."
-    publishedDateTime: 2020-07-20T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20"
+  - title: "Global Artificial Intelligence in Healthcare Market 2020 is Booming to Cross Billions of Mark at a CAGR of 43.2% by 2026"
+    excerpt: "Niche market research report on Global Artificial Intelligence in Healthcare Market 2020 with industry in depth analysis trends key players and forecast by 2026 The latest published report on Artificial Intelligence in Healthcare Market Analysis and Forecast from 2019 to"
+    publishedDateTime: 2020-07-21T12:37:00Z
+    webUrl: "https://www.openpr.com/news/2094028/global-artificial-intelligence-in-healthcare-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2094028/global-artificial-intelligence-in-healthcare-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094028/global-artificial-intelligence-in-healthcare-market-2020"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/7/T721452837_g.jpg"
+        width: 800
+        height: 495
         isCached: true
-  - title: "Deep Learning Market 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026"
-    excerpt: "The scope of the report includes a detailed study of Deep Learning Market with the reasons given for variations in the growth of the industry in certain regions. FYI, You will get latest updated report as per the COVID-19 Impact on this industry."
-    publishedDateTime: 2020-07-21T06:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-by-key-players-types-applications-countries-market-size-forecast-to-2026-2020-07-21"
+  - title: "Machine Learning In Manufacturing Market Global Outlook 2020-2026: Dell Inc., Oracle Corporation, SAP SE, Amazon Web Services Inc"
+    excerpt: "The Global Machine Learning In Manufacturing Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and ..."
+    publishedDateTime: 2020-07-23T10:41:00Z
+    webUrl: "https://www.openpr.com/news/2095473/machine-learning-in-manufacturing-market-global-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/T/7/T723138481_g.jpg"
+        width: 409
+        height: 400
         isCached: true
-  - title: "Neural Network Software Market with Covid-19 Pandemic Analysis, Growth Rate, New Trend Analysis & Forecast To 2026"
-    excerpt: "A neural network is a framework of hardware and software patterned after the operation of neurons in the human brain. Neural network software is used to simulate, research, develop, and apply artificial neural networks,"
-    publishedDateTime: 2020-07-23T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-with-covid-19-pandemic-analysis-growth-rate-new-trend-analysis-forecast-to-2026-2020-07-23"
+  - title: "Artificial Intelligence in Manufacturing Market Research Report by Technology, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "NEW YORK, July 22, 2020 /PRNewswire/ -- Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, Robotic Processes Automation,"
+    publishedDateTime: 2020-07-22T12:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-report-by-technology-by-end-user---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 28
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

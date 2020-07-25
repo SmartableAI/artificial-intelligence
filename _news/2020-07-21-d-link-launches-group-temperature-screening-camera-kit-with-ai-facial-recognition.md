@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "NEC Corp. and Infrared Cameras Inc. to deploy thermal temperature screening and facial recognition technology at Hawaii's airports"
-    excerpt: "NEC Corporation, NEC Corporation of America and their partner, Infrared Cameras Inc., were selected by the Hawaii Department of Transportation (HDOT) to provide thermal temperature screening"
-    publishedDateTime: 2020-07-20T06:08:00Z
-    webUrl: "https://www.sourcesecurity.com/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/nec-corp-infrared-cameras-deploy-thermal-temperature-screening-facial-recognition-technology-hawaii-airports-co-2763-ga-co-14372-ga-co-1593517653-ga.1594990701.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 44
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/920/nec-corp-to-provide-hawaii-s-airports-with-passenger-screening-technology-920x533.jpg"
-        width: 920
-        height: 533
-        isCached: true
   - title: "Innovative Technology Launches Facial Recognition API for the Gaming Industry"
     excerpt: "Innovative Technology (ITL) has released an online API alternative to their ICU Intelligent Identification device aimed at the growing online gaming market. ICU API will enable your website to perform facial recognition & age estimation."
     publishedDateTime: 2020-07-22T22:38:00Z

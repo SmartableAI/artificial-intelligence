@@ -1,26 +1,28 @@
 ---
 category: news
 title: "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat"
-excerpt: "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close"
+excerpt: "Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as"
 publishedDateTime: 2020-07-23T17:37:00Z
-webUrl: "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/07/n16756509/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-chea"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16756509"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16756509"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -39,6 +41,6 @@ related:
         height: 785
         isCached: true
 
-secured: "bhvRuctWxhzNC2N/xYutcZO0AkzwSUErh7N3mRuxPULQJHilkbYwGJ+spuDrU4vbcj0BsDpf3twX0hMpcuEvbOWvqamdgzjjvB9naKZeDHs30yGTEuCggoG+dGLPJkIZ5u7vfHCO6oxYAato+muFPaJVmWzwfcTkE+oSHD0VCie2ax38riOkypK+hapFtqGYhgmpMFrnQ3GDNA2mdkeGwsKcoBwQ2L3ZSRFRJvCzrtgQ7YUzFojO4GxT/5dfuLUr1rmuMNwOqd8j0TJ0HssXZqGwGWI5VT3k1tmgTu44/tcNpZHeF9bDQQqjac8YRgEfU5Hi4lLXFv1C81tmNyid9AW2xir0qIhe9L0JgZbFXTSSKKwpdF1IlUBNmH/G1m8iv9yHN+HPzp9w89StaQZ3YlB7ByZKD50YN7QcNJqGDWbo7jSCQNbxchSkPM/bCG65S30Jdde9Oqc6K/DLSc5aqK1Uk6PY3NSgdMm7+RGdLj2f2XzZ05ZYYTtkWGIAaj/oleg6UROhkphyljtsYBpWwQ==;X5wcaR5hYaPUJFVaRRcWrw=="
+secured: "eTKX/ivxxr4dkIsW0/hxnqXujXuqyGiTN8mtKWqm+68kCSY2hTAf4MkqhpJ+UZv7fDHC2Hk4X+3B264f7HzwHcgwhkzm+3jK0XnHjl7RhhxUfU0LJwVe8n6lOrjsTNNV+m9ci3n3q/lYoM8jS8VzxuPraldd+9eIqfpxajqGMANMsxuPw231r2O7o0lXCV6Cwh2MAUMIY05P8/xYHLg0xj9BDZRhxFiCfyJa1BquvGk5fUHmmU/BzUVAhXbfRNBPY2qR7ukknbUeiai7/mnxAQDdHQth5/5jsJH+w2hqLeqb/SbkSeR1mbbQKYacUo94Ao50DlRyhfzVJUsrFc2svA==;chczdzDlp+73gHU9M4FVXA=="
 ---
 

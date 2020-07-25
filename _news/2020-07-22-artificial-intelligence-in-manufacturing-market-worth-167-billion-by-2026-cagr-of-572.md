@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T19:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 800
         height: 495
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
+    publishedDateTime: 2020-07-23T06:19:00Z
+    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
   - title: "Machine Learning In Manufacturing Market Global Outlook 2020-2026: Dell Inc., Oracle Corporation, SAP SE, Amazon Web Services Inc"
     excerpt: "The Global Machine Learning In Manufacturing Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and ..."
     publishedDateTime: 2020-07-23T10:41:00Z

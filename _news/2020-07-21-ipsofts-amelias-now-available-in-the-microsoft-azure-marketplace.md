@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Tangent Works' Predictive Analytics Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Tangent Works today announced the availability of TIM in the Microsoft Azure Marketplace, an online store providing applications and"
-    publishedDateTime: 2020-07-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
+    excerpt: "InstantML is the next big thing after AutoML. It delivers business value through automated, accurate and lightning fast forecasting and anomaly detection. The TIM InstantML solution offers an augmented ML that allows business users and (citizen ..."
+    publishedDateTime: 2020-07-24T23:16:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace/article_b03fb881-eb63-5744-99a6-90d2c9aa5c01.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 64
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 32
     images:
-      - url: "https://mma.prnewswire.com/media/1219270/Tangent_Works.jpg?p=facebook"
-        width: 2699
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/2f/c2fefe6c-c0e5-527b-ba10-0c9af861210a/5f1ae2bbc1ad0.image.jpg?resize=400%2C300"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "avFP07Ib9Dg9AEkSzQdrMASbaoPwsMgOROrHg2lFr2sAjYUnHhxh3S4O/mBHtIxssW/tauprawEzkdChTpGwsZTJDgwzZ24+VGg7iyx0q8XFA/1RwWBlq5idj8cYvFeBgy7Lfd3qH97iWw6oPhTxdpXOn8TH5/TiYQDczI5e57PUbsXILiRqWNuSqQj7g3qD1bZxCOb1nwC6sStp6QjHJkcBAH2Jc6kLWUIIxQJU3bIZiza/tzd+7/ybrhq7uBHtJ9e/YGdgRc9U/NeL/YH7HacSnaRORGqlTGDK3XyMq1MUMvh7073pYi4i0VOoSWHY3KmtGrKA9sya5yXEVq2Zn5H5xSzU0xccjBrxYeLN043bXW7H4wtq/GEoNDlG1jGNskG5HoRLrKTWVo0yaDhLerySa6ydMXh2vo8ia9vl6ABw7SzV+3Hpb+rtX1RfF75ayd9kybHD4VMd6ONOxoZpdubUnwHJghAFdxF1UzcAyQUp42ISi4fyPkdi68Z73sLzCRenEdGgGvvrfG6cAEgXQA==;79FfrXFx3yW6n7cWlPlLAA=="

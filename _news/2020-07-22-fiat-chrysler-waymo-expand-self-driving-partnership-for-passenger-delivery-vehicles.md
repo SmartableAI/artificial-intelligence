@@ -130,6 +130,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fiat Chrysler, Waymo to put self-driving tech into vans"
+    excerpt: "Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ProMaster Vans ..."
+    publishedDateTime: 2020-07-24T23:08:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300064787/fiat-chrysler-waymo-to-put-selfdriving-tech-into-vans"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/f/h/2/image.related.StuffLandscapeSixteenByNine.1420x800.4ynfgz.png/1595632028459.jpg"
+        width: 1420
+        height: 797
+        isCached: true
 
 secured: "7f6Egc8YfY4oIajCzMLIbqHuBPNFe2zM9aS+607Qh+kyKPPdzFKJF+NgOhkKk6M+c2Gm+NHBmmN4M1mcXPrNW6AnfIcDg4/JoSKEW39BU3gMhOfs96wsU6+le0h+GmWmWQg0z+l/ofYtdVPcfUW+bdgRnfCWn+yixtMlglU7Yo9OvJHzZ7V0qDpEyqoGERfi4XZO+s42FL3VIRRc3Rcz+ht9ofFYUh4YqNOb5oyMxymDvDTApTN9VAPICDpc5twwLHqmem/ypemTCL5gwLj2YlPAejhKbZZbqzPYn/DBUOhDWT2rnNTkVDFLysnmOjP2BqXLK+6rIbJs8/xJjnP6LeGMIWBLxj3/vwOwjxFWyMWWIuC3qH9PCrD6O+9x3DgDpkrN0AoAlWpD3nCaQ6jXuKeawbP1H1MhYGB4iAZLIWRQdaxm6HCl29EHly4KBylksW+j+kVebyzqMhYg5Hb6v63JOSVblxG4EepIq7j2S6Fuz8k2FqnKkUfhlnp4LVmPzrs5xQzdl5TwtllbjP9miA==;XjECpIbyNbb6Q4eCUBLrdg=="
 ---

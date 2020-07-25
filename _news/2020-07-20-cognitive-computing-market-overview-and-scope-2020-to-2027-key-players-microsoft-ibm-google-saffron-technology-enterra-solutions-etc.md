@@ -140,22 +140,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)"
-    excerpt: "Global Market Monitor released the new market research report- “Artificial Intelligence Software – Market Growth, Trends, Forecast and COVID-19 Impacts (2014 - 2026)” – Shed light on the available opportunities and potential challenges that market ..."
-    publishedDateTime: 2020-07-20T06:46:00Z
-    webUrl: "https://www.openpr.com/news/2092901/artificial-intelligence-software-market-growth-trends"
-    ampWebUrl: "https://www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2092901/artificial-intelligence-software-market-growth-trends"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/T/7/T720997743_g.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Global Artificial Intelligence (AI) Software Market, Forecast to 2025 - ResearchAndMarkets.com"
     excerpt: "Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018."
     publishedDateTime: 2020-07-24T09:54:00Z
