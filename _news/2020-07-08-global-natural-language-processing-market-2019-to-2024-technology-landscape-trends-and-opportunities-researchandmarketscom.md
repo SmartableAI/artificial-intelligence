@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Global Natural Language Processing Market (2019 to 2024) - Technology Landscape, Trends and Opportunities - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2020-07-08T16:34:00Z
-webUrl: "https://www.businesswire.com/news/home/20200708005731/en/Global-Natural-Language-Processing-Market-2019-2024"
+excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. The technologies in natural ..."
+publishedDateTime: 2020-07-08T12:08:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/b16555512/global-natural-language-processing-market-2019-to-2024-technology-landscape-trends-and-opportuniti"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16555512"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16555512"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200708005731/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
-secured: "x6HRSDpY0moCl57U5P1gI026qUMnGdl0x/gy7dMxG/vN6zyvO4Nc2rhSqfDOMX9YPC0XmrfSjS1h5NgZgwNh1vV9/E9nsnsIexEXZEWVEf/wKJQJp2kCzsmgEmFATYa23EOf0AiHEImzZ3pN/pweQa8s0KEqVmcLjMdxG1bBKJ0BvDjAU4KemZ4uYGDzyPk3/0MIf8puCg5ERczWy5YIZDBbqrmbnWO8FlFEcw76dOvqzHJvjP26azioPZH76VePCRChwTj+Vfzvs6ZbskOeB/EH39XNoywAOwQTrpTj7Tam2DdvYjOEekbqO0xni0I5Q8YELZfiQCaC5J0ZgeSGuQ==;jsv2de/R46E3ASjgtlwYBg=="
+secured: "WL3M3xH4cEd18NKRGM9A+OeybuGU5JIBlszkvPofZsNmDmVGUtvuYZbDSM6gQtLUF9PBfTKDvfP+36BiU9C2MSWLkOG+TBEWsdT2fH3BKapWp3hnjX+fO/vKKLcJnQK2KGQDMKSTxzGP842QezuC9tQ7imeJyvIDxN9AVx8+ecHiIwG1XFg8qf17YCSzdzocdAyX15usJV59En5sRQualxvgsMbHgJr5A2Q95nPs6ceUPNpqNQU8WmGJwAnxV15QKd8/dc7VRR0GYKFHMaxDvYFJOTy3lB+KHKLeqSCuXiO0lgTtTkL3+ZOePqSVSc/HE84rFMo7S8uXkLbN+vMOTA==;rabEdotqO9yrrQQnZrrA+g=="
 ---
 

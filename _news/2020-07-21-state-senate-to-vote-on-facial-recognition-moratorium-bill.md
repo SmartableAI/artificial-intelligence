@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
+    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
+    publishedDateTime: 2020-07-23T16:49:00Z
+    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=20&itm_content=1x7&itm_term=2376504"
+    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "New York lawmakers agree to pause use of facial recognition in schools"
     excerpt: "New York lawmakers have passed a moratorium that would ban the use of facial recognition in schools until 2022. If you’ll recall, Lockport started testing a facial and object recognition technology called \"Aegis\" in June 2019,"
     publishedDateTime: 2020-07-23T05:32:00Z
@@ -122,17 +138,6 @@ related:
         width: 1057
         height: 630
         isCached: true
-  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
-    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
-    publishedDateTime: 2020-07-23T16:49:00Z
-    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=22&itm_content=1x7&itm_term=2376504"
-    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
   - title: "Facial recognition may become the new norm post-COVID-19"
     excerpt: "From banking to marketing, Facial recognition has penetrated several industries, this technology could become the new normal post-COVID-19. Here's how."
     publishedDateTime: 2020-07-21T23:47:00Z
@@ -164,22 +169,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
         width: 2560
         height: 1282
-        isCached: true
-  - title: "Opinion: Unregulated facial recognition use poses risks for Detroit"
-    excerpt: "Wrongful arrests should be a wake-up call for Detroit residents, as well as others concerned about criminal justice reforms, Chavis and Trainum write."
-    publishedDateTime: 2020-07-21T03:07:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2020/07/21/opinion-unregulated-facial-recognition-use-poses-risks-detroit/5472032002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5472032002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5472032002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Does your congressperson support a facial recognition ban?"
     excerpt: "A new scoreboard launched by several advocacy groups shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."

@@ -3,11 +3,11 @@ category: news
 title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
 excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
 publishedDateTime: 2020-07-23T16:49:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=22&itm_content=1x7&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=20&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "New York bans use of facial recognition in schools statewide"
@@ -151,22 +157,6 @@ related:
       - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
         width: 2560
         height: 1282
-        isCached: true
-  - title: "Opinion: Unregulated facial recognition use poses risks for Detroit"
-    excerpt: "Wrongful arrests should be a wake-up call for Detroit residents, as well as others concerned about criminal justice reforms, Chavis and Trainum write."
-    publishedDateTime: 2020-07-21T03:07:00Z
-    webUrl: "https://www.detroitnews.com/story/opinion/2020/07/21/opinion-unregulated-facial-recognition-use-poses-risks-detroit/5472032002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/5472032002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/5472032002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/06/24/PDTN/2561defe-e5fd-491e-9364-6dc1104ec2f2-Robert_Williams_1.jpg?auto=webp&crop=5159,2902,x0,y538&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "State Senate to vote on facial recognition moratorium bill"
     excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
@@ -373,6 +363,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Y39IKkLD04dBAG9VJ6C4W2CqQ9wlxAkacAQNcIKpLOoV21nb+yy2RTtFaOncq66utOa9rCj480ycxtJ08aEJocPnHPK1lNUmVrUgb6xXtpQQRHWGyFfRyMx5FzFoKx2Mnw8b6CHXkOb/02nWT1/Z7j37YLsZxYD7K858+A22C4rRaGERZ8gHOB2daohY3iSdNnvOXVVgMCq+PxuOxJPZjcm+eXQRPACgzqoYG5llaOeiF5mMtGlFeGjort5VtQHvmTJ+1s9nU3P4or+b6aaEU7pLgz3JnI9ZIxmhL7S8LCW5QYHA3Oa3OznFGnUNUM/yS/fjyYLx6O4IbBSZuryhKPPYK91hGQPSj6SN+SVlw2QcIaSIVYLFaYdOuJOWJj/2uTFgklcBo+D/wxQWCSA0JeCYY8QS9D4fT344paSSAgVL7XkWfeRrLg65YfsvlLEvrYLmH32zgQh7hBs5ZAmShguIHkzhJjjrtrH1EIVDKx71ZLNzaHC5u0qOK2AMMNl1MRZWn2NesAE496VK99U9iw==;FNjFReH11l/rkXNGUxunDA=="
+secured: "AQEbC/ogWUpqn+zerPEnAFJNvtwLw77ZGt0aAnXDeJ3GGt1G2/AYCfAgW6j79zIGB6Y/ty3CIw5iMk1BdY2zUqBbIcJQ4G8or6XADRx4aY87Rm70vU3oTzimQtIU+XwtO4xQFAlM9hyRgp6yNMiPYdWypVNaIyUcQVPAWDuQ8UpE5BFV6oYD46UIbsRuBNm9n8nSfj0MM4HgBpXyEXfQY1deaECMGEYYuyHgbnUh8bbz2kwMnhwhLsoCDHyhQTYCRrHwbVYWTyicKvgvGmTlh+/7/9lyWHwb0OUFeG2RGbB404IvRvXpM3Ay/NHDmMz8tAzsSMw4y4V/gIWYKap9iA==;tpi+pdursqlFBd7yrIgTZA=="
 ---
 

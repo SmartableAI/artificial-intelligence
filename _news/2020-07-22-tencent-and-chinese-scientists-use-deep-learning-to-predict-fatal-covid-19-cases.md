@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fraud Detection Using Machine Learning Amid Covid-19 crisis"
-    excerpt: "Fortunately, machine learning can easily scan millions of transactions to enable real-time fraud detection. Machine learning is a procedure that enables a computer to learn from data how to perform a certain task. Once a computer learns the task to a ..."
-    publishedDateTime: 2020-07-21T03:22:00Z
-    webUrl: "https://www.businesstimes.com.sg/asean-business/fraud-detection-using-machine-learning-amid-covid-19-crisis"
-    ampWebUrl: "https://www.businesstimes.com.sg/asean-business/fraud-detection-using-machine-learning-amid-covid-19-crisis?amp"
-    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/asean-business/fraud-detection-using-machine-learning-amid-covid-19-crisis?amp"
-    type: article
-    provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 59
-    images:
-      - url: "https://www.businesstimes.com.sg/sites/default/files/styles/article_img/public/articles/2020/07/21/doc7bja31mvow9ea6qemk2_doc756tsw6cn7511kmq2hj5.jpg?itok=lMC6_hLF"
-        width: 440
-        height: 293
-        isCached: true
   - title: "How AI helps scientists fight COVID-19"
     excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
     publishedDateTime: 2020-07-24T18:29:00Z

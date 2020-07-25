@@ -72,20 +72,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "New partnership to bring world's first self-driving truck network to North America"
-    excerpt: "TuSimple and Navistar International have entered into a partnership to co-develop a U.S. network of self-driving trucks targeted for production by 2024."
-    publishedDateTime: 2020-07-21T04:21:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2020/07/21/new-partnership-to-bring-worlds-first-self-driving-truck-network-to-north-america/"
-    type: article
-    provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 18
-    images:
-      - url: "https://www.freshfruitportal.com/assets/uploads/2020/07/media-slide1_bg.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "EA4feFAM68XIKgz9DNG938jxZ+UjwAvwSuzPEXgg3hg1/TjE74bPYGKfZnI+Swyur5cQZ4MIPbXboTj/NahcML6/Aq3fyMZVhYksyRku2gEPHXjt4oEXoItjvXNbmePMmts16e/TMDoNaxg9acxsg7WM5kuYAlkXoaCO3oDAOd+kqeiSH0Usy2I6MkdgjxWA8/g2bOIbK2twz0U1O42S55BgrGbXLfmgnHtRN/g7oquLPLUOecMHA36+WgwKKkSbbdgk9W4pd9GP8U7E0rQth7GjVu9h8tcK5JZWNieQItn667/WoarxtVmBT/g7jImx2N70lIr/KS24SL2KO46rIw==;JpZ4eGVN1SmlqOlUkwDqOg=="
 ---

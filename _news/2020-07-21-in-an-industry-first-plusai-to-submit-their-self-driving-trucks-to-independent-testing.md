@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T13:55:00Z
 webUrl: "https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "New partnership to bring world's first self-driving truck network to North America"
-    excerpt: "TuSimple and Navistar International have entered into a partnership to co-develop a U.S. network of self-driving trucks targeted for production by 2024."
-    publishedDateTime: 2020-07-21T04:21:00Z
-    webUrl: "https://www.freshfruitportal.com/news/2020/07/21/new-partnership-to-bring-worlds-first-self-driving-truck-network-to-north-america/"
-    type: article
-    provider:
-      name: Fresh Fruit Portal
-      domain: freshfruitportal.com
-    quality: 18
-    images:
-      - url: "https://www.freshfruitportal.com/assets/uploads/2020/07/media-slide1_bg.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "JfhXb6A4DfrxD7wmkqwveA1Ua8GlToVMmGdoLPgmvQTABLP1yBT4LX4Pcm311c6I7/cCaJf6MhhFNzJl2eeV7/UcG1ociRHAMMO88kJK4Yg2HS/8U4bCybA9vzFGwNbWZt79yIgKfxCYp4jaQxFdF56FMemUQ3cjCreCO6Nls4+oPxATvaSYwO9EFS7ocEK+SqcOJd3ljmifq9a+S6Am9GTalUJH6cdhelzjtyWnTjdr4+VpXbC5ZX9ON/r0iLUWbpPXFoVczJeypVMu4lCe+xyneFyB6/8DQIlF2U24B66laJvk/ckW90PJM6gaeln/ggUOOHbB//ZquKppahm+/+s/12gOYRsdifx0gQ6Pyjh9qrE+xgmHi6LJ3NDKqqVkCLYFD+tYUzcv849kMiqrz081vzBJZUmtAp1tXd4Hw/fv2HbCdNcUvu7HLv392N7KDFY8eHwyt672/s4JMKkO/7JIjeogapVFmONroAf6vST1t+8IVYgkmdAiGf4GCRwMXXJ+WjJQDjtJxHJQJiw6mw==;zsv16WhKoHeXIo30Q+zVUg=="

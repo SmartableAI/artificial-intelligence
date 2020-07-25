@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T13:24:00Z
 webUrl: "https://arstechnica.com/cars/2020/07/slow-progress-on-self-driving-is-putting-startups-in-a-bind/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "US self-driving startup Aurora expands public-road testing to Texas"
-    excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
-    publishedDateTime: 2020-07-21T04:35:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2020/07/21/us-self-driving-startup-aurora-expands-public-road-testing-to-texas"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2020/07/21/788898.jpeg"
-        width: 1240
-        height: 697
-        isCached: true
   - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
     excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
     publishedDateTime: 2020-07-23T11:01:00Z

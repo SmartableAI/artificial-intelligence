@@ -42,6 +42,20 @@ related:
         width: 680
         height: 425
         isCached: true
+  - title: "COVID -19: Aerokeys To Launch More Intelligence, Profiling Human Robotics"
+    excerpt: "Aerokeys To Launch More Intelligence, Profiling Human Robotics Aerokeys Nigeria Limited, one of the world's leading aviation company has revealed plans to launch the use of robots in the fight against"
+    publishedDateTime: 2020-07-25T20:04:00Z
+    webUrl: "https://leadership.ng/2020/07/25/covid-19-aerokeys-to-launch-more-intelligence-profiling-human-robotics/"
+    type: article
+    provider:
+      name: LEADERSHIP Newspaper
+      domain: leadership.ng
+    quality: 53
+    images:
+      - url: "https://i2.wp.com/leadership.ng/wp-content/uploads/2020/07/Lagos-Airport-during-Coronavirus.jpg?resize=900%2C600&#038;ssl=1"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "WnUxlBeOoTmT9Yi9vlRQFAHEIpkOn4QKrc5iKOdysDnjbpROeuaMjM8EZSEdDweGvH9NF0IvxeLqpzeG1tLegac1UiBFSfSu1AhzrxwLMYJhTvydNV1RQf0Tu+f1fK+Utp/6xIFSn6h32xCqwlCCmJhxdEz5vKiuc8P+4QWP9JzQ8VKHrknRC8BNf4s75xEyayEelXcd5Am1R9oehg+RxOscVMPP/4sYFX1ksMBq+En6lA7yGXtxinAQ2YrIGWGAsmiUa8GXHJjuja6PQ0BgMWt/MKVU6jwBFJXYKoA/76B3fSUBpmI0Yk03yBiwprl7MN6BF9dZ9F2nk/Qeb3OyBjCjKNfFmMu8UNxdSffmJOQl42j0EiGfT4M3h4/ZdE/gN3ceo2M/5nxjdnpozEZLZEhca4AjmY+jN4xP3ySEBnpgTuNUUMqyS5txpkDkouCQt42z9Er1ghZjqDwo+M5hqNX+esBW6X9PPPhF0Dj64BGARmAKaGB8LvNE7awdRyejxVpbOUEL5ty0N/hG6MtPCQ==;DpT7sjSy2LgPSejXUMh/LA=="
 ---
