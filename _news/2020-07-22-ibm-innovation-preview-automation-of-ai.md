@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T18:26:35Z
 webUrl: "https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind presents a solution for automatic generation of reinforcement learning algorithms"
+    excerpt: "DeepMind researchers presented on July 17th in an article on Arxiv a study on reinforcement learning algorithms. Junhyuk Oh, Matteo Hessel, Wojciech M. Czarnecki, Zhongwen Xu, Hado van Hasselt, Satinder Singh and David Silver worked on a solution for generating reinforcement learning (RL) algorithms that interact with environments to know what to predict and how"
+    publishedDateTime: 2020-07-23T09:21:00Z
+    webUrl: "https://www.actuia.com/english/deepmind-presents-a-solution-for-automatic-generation-of-reinforcement-learning-algorithms/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 29
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2020/07/DeepMind-Reinforcement-Learning-LPG.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "GEP Launches AI-driven AP Automation Platform To Significantly Cut The Cost Of Accounts Payable Operations"
     excerpt: "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced the launch of its next-gen accounts payable (AP) automation platform to address the market’s need for a cloud-native solution that leverages artificial intelligence and machine learning to improve and speed up AP operations."
     publishedDateTime: 2020-07-23T14:00:00Z

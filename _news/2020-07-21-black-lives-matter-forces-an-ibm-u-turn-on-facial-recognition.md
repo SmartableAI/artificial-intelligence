@@ -8,7 +8,7 @@ ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm
 cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Why we must arm police with facial recognition systems"
+    excerpt: "It’s now evident in the Unites States that there are pockets within police departments that have demonstrated racial bias. This has resulted in a"
+    publishedDateTime: 2020-07-22T11:26:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/why-we-must-arm-police-with-facial-recognition-systems/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
+        isCached: true
 
 secured: "mz53ebH3uS2w90rAop76UCpJKbpTOm8bEmSY96lJ2sLWrrZ06fMtJrrhQGXyVRS/pFbTwA0vWJdoDMLmf2LX8DMSCH4mRA5wylj04SzjF6V9VS23PgWzzHd9UQg+WLG/QpnkodjyKNfp8WzLo/8tVKRQXkIRNKuHO83X/YKMAp6c5HD638cjzSKDKb2wfkMxHySPEggcx1f9QBuIJQipzYXdgdL3iUsikZyVVlGScvmtu0AN/E10MlgZamEwlKxP1LzOv33r8/gQr2X8mzD1Fj5BQttUL2WAZA5lr+oStDwtje0ZNEl643rIuUZdqNCOS+x6NU+pNGcTvBe04KYOBUoD4wofBEcQHFPZ/Hy95Q3PfCr1+7clc1VXbdWbP+Uih+e/0/F/rqM2hiea7/nYlAncbPwOiRy000qLyWUf7AzTz1ySf4HGDhaqTTqwYxzwkcJsCiI/fjpkUaojat55SeiDCYYvfQiH8vSGOWcBBh62sO43u9r4ONK7kWKfQZtL;WF7j3s7YdStfRRoZpk+d0A=="
 ---

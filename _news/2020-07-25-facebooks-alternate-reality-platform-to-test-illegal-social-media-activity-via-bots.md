@@ -5,6 +5,9 @@ excerpt: "On this alternate platform, researchers plan to let loose 'innocent' &
 publishedDateTime: 2020-07-25T05:13:00Z
 webUrl: "https://www.republicworld.com/technology-news/apps/facebooks-alternate-reality-platform-to-test-illegal-social-media-a.html"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: RepublicWorld

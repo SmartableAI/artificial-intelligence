@@ -133,22 +133,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Estonia to use face recognition in border control"
-    excerpt: "Estonia is about to buy about one hundred pieces of facial recognition equipment for its border crossing points as part of upgrades to be introduced as Europe is switching to a new border control central system,"
-    publishedDateTime: 2020-07-20T11:30:00Z
-    webUrl: "https://www.poandpo.com/news/estonia-to-use-face-recognition-in-border-control"
-    ampWebUrl: "https://www.poandpo.com/news/estonia-to-use-face-recognition-in-border-control.amp"
-    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news/estonia-to-use-face-recognition-in-border-control.amp"
-    type: article
-    provider:
-      name: poandpo.com
-      domain: poandpo.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0520/estonia_borders.jpg"
-        width: 1200
-        height: 673
-        isCached: true
   - title: "NYPD sued for refusing to disclose records about facial recognition use"
     excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
     publishedDateTime: 2020-07-21T20:02:00Z

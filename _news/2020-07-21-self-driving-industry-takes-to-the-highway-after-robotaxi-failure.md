@@ -18,22 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Sector Moves Focus Away From Robotaxis"
-    excerpt: "The self-driving industry appears to be moving away from the idea of robotaxis after several significant setbacks in recent years. As reported by FT, the hope was that a self-driving Uber would come to market soon. However, this looks to be No longer ..."
-    publishedDateTime: 2020-07-22T15:30:00Z
-    webUrl: "https://www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html"
-    ampWebUrl: "https://www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html/amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html/amp"
+  - title: "Slow progress on self-driving is putting startups in a bind"
+    excerpt: "Progress on self-driving technology has been slower than many people expected just a few years ago. Google's Waymo was aiming to launch a fully driverless taxi service by the end of 2018 but missed its deadline."
+    publishedDateTime: 2020-07-21T13:24:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/slow-progress-on-self-driving-is-putting-startups-in-a-bind/"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 44
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
     images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2019/03/Uber-Logo-AH-new.jpg"
-        width: 1920
-        height: 1138
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_Pr5XpBQ5LyTklgHdbBkKkw-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
+  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
+    excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
+    publishedDateTime: 2020-07-23T11:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
 
 secured: "3ogQKd+25CcP1Q2RhIJaYJEBo+tb9qRUxb66Lcfu8N+mJllsBF1/IuvVgEJ4AQAI1aCoPLSTrdFVSO7a3fpGj/ZwpwqeiYmnOreSZrMZ1aCU8B+vNR0u8hQyU+eD+iQbCRPJOIBYd0UC93XjR1zU/1IshRUaAnW2z2YJhCDVhtQpTfXIZal9yaIkquEOST/+nmRpYKRVPP0V98ACwwNG9fnglQ4R+zDDmTnxxMfC4GT8aCtUf8RrgcGQSjBTmctc1s8KXHhIZr93dftMdR09h3LVPHmpDY2nRNRPqqhqxU40pbB2xHGxl/ym5kJo/j89m4gkPa+Q/ijkwUyrLpyt5m6F3VxCaB/rcxBNdAawZIGqv00krNzjfAd00hmOzf4X3qkQlY5cdCAsFS/PkZyr9hq1GEaDYtc/A6i7GDIwAVe8b87l5Yu7tA5cc0EZNpGzkSDYAHtqnCeRNMd4GwzK9rjNtqGH9DvWWYr9o3skSpdpSOA2bcvVleXR99siu12q8ggb/v3LP3uTOjq6tw/+Zw==;Sf+esz/jBLF4+tZVCJg3/Q=="
 ---

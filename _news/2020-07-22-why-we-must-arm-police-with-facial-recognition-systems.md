@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why facial recognition algorithms can’t be perfectly fair"
-    excerpt: "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ..."
-    publishedDateTime: 2020-07-20T16:40:00Z
-    webUrl: "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
-    ampWebUrl: "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608"
+  - title: "Black Lives Matter forces an IBM U-turn on facial recognition"
+    excerpt: "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ..."
+    publishedDateTime: 2020-07-21T12:00:00Z
+    webUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/"
+    ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 74
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 59
     images:
-      - url: "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop"
-        width: 320
-        height: 205
-        isCached: true
-  - title: "Exams that use facial recognition may be 'fair' – but they're also intrusive"
-    excerpt: "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias"
-    publishedDateTime: 2020-07-22T06:00:00Z
-    webUrl: "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    ampWebUrl: "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 71
-    images:
-      - url: "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23"
-        width: 600
-        height: 360
+      - url: "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "VqarH8DaYxXR4acf3qQY7DK1ot48Uni8sFCtEIRyUnFAhxs9Wq5ZZNcNmlzWbMKcNNTPGP+q+VYJ77zIFWrdTMo5DoeQu1PXUrjJvZrDpbQelWiNpDq9t7E3d8Zi7zKxerBpGsFCKCuxgpJVMjitl4L1u1Vlzy45diUIoiNxBggP+nCNlmq+2jHwqNqF93r6htpgK1d5Mj8IMm+zQOcE4voppi/lIdR2KeM6xkQbFCDodovdFviFh4jvKd60YO8B+mrbc5toQ3Or2Qv+3soXj7aIpGgraIJ8PWAVpwqfUPYMywpRrgowOEOU7H93n9zzR/dNnVC7wBnNI/Oft4L0NBlUtrikkFK/fpyLdD2OfkJkpsIzjNYSDK/Lu1y4qDIRHt9vIrBaLC25X2iDbS0vXXQS+IlwZjagfX7ivXCky7GEgJv0aELlsbvaGJIiWNhDiftbCd2Ryg6EW68KtdjtimuWlftIpBe2VtX1zDio4QxOlDM++qtxsSipJvFtoibUYrCtQwE5DSMWrzNi6KIWUQ==;FoqAiNefRWu0BqRobLuJKA=="

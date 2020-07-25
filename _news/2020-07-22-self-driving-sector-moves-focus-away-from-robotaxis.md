@@ -8,7 +8,7 @@ ampWebUrl: "https://www.androidheadlines.com/2020/07/self-driving-sector-moves-f
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2020/07/self-driving-sector-moves-focus-away-from-robotaxis.html/amp"
 type: article
 quality: 44
-heat: 54
+heat: 44
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1920
     height: 1138
     isCached: true
-
-related:
-  - title: "Self-driving industry takes to the highway after robotaxi failure"
-    excerpt: "When Sebastian Thrun was starting Google’s self-driving car project in 2009, commercialising the technology was not on anyone’s mind. “We focused on the technology more than anything else, not the go-to-market plan,"
-    publishedDateTime: 2020-07-21T15:13:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/21/self-driving-autonomous-car-business-shift-focus.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "t1lJec3vVhixZINZo/Z4nuEe06SGgHjCUfDZ9Nc4W4lDVO0V/ya1jYaEcvxzP7JLzq1M1l4G9siYFesPF0jvR40Y1hz89o/FXCu0kNi1rsWqbYZauiftWA0nKWbgsndmwidpyERtEn3FLQ9RCx4kHfUr4SygY6X1tXYaiEzZyfy6e+KMBBAtsuJQ7eWfKWX4ymJt1L/xLeLTIaq+/wdpySVzDMShEGLeGTsH2DqtfsHGVAjIAnQY/5U0yOM2oQ7YqwW7u0Gp5KrAalUgJuQdTreUY/3H7uEKhGrz00Dw0YPQuNJsQyBajxqYVEc5KE/SjMZVRarWbmv04Sm0MjgSOCD2bvlASPOLLLftS/sDacwx/Rkii2r23PkrLvUBH+T0rTdceHWMa/UiGNlQJdRm5vK2f1nnt9IC2yf4qvGy4enoviKiXizJ2PI5jE6TScJMvuuPVu9CYWUdbTYkwO31MD7p4QZN8nzZEzOnu9iFveBNw1EgYmqm+V/uDPmvslv1QsTOnx1z/jMTHXimbo6ctg==;MgS+zGN4TCRQB8dQbIq50Q=="
 ---

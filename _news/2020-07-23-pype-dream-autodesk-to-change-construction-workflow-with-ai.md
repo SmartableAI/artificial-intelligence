@@ -58,20 +58,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "COVID-19 Impact Review on Artificial Intelligence in Construction Market"
-    excerpt: "The Artificial Intelligence in Construction Market size is estimated to generate a revenue of $2,642.4 million"
-    publishedDateTime: 2020-07-20T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-on-artificial-intelligence-in-construction-market-2020-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "x17s188cmO33NVT+tZ2Rrq5m2lj9mW0qZAghabx93mUDp5ygT+cXOhfjn1gxZEyM2cUn1jBp4vLHTQz0N/A+aLHDTUEvsSnxyzbPj66B/XpdTWce/EwLvtLGQO2dhF3TywpL7C5wwoCobjdP2b99RQih2ykLslfmWzcnKU1q3N+DaquvGa2MNzOkeS8c4ByQ4devqdBvMwTbadMl3kmV+izk9ZFyXdYoFiN/NP5ghEYA3ANzD96G6l7q5MGEIt23AL0RCFFZdeK28Jj9+olnyqaGR+PyOtCQqOKSvY1eR6MvFg/VrsGp6t/5tSaAN+4bMCZHN5liGoF7vYVJmg7jMw==;Mmaa/xskvtLLcoCaLEdHzg=="
 ---

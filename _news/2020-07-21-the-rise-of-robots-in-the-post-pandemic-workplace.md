@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T06:32:00Z
 webUrl: "https://www.afr.com/work-and-careers/careers/the-rise-of-robots-in-the-post-pandemic-workpalce-20200721-p55dzy"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

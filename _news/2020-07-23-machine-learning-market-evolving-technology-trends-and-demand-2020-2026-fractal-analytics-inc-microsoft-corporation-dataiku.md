@@ -58,17 +58,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Augmented Analytics: How Smart Features Are Changing Business Intelligence"
-    excerpt: "The latest breakthroughs in business intelligence and analytics are seeing the application of heuristics, machine learning (ML), artificial intelligence and automation to improve data access and data quality, uncover hidden patterns and correlations in ..."
-    publishedDateTime: 2020-07-20T13:13:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 50
 
 secured: "wAl44+yScGwkOniRwC2iqdvoG3efIAkqrPMRBQmMiuEY/mBeqMa3uvhMsIMEh5BTGzqiZR3Ae0+ssaj5m7oGxOTfLyneA1Mxg/14Fv7XTsHNyrM58rFnJrssSukCDuR46RkD+eW+tptDm5vtpay871NrcbLz29dbU7OvOwISscX8QfvpgrEIFVbzo+wyBry0XztxEeAeU9f84sI9k8SXKpn+6ua7wgTgyHcEvkVigdLEyefVH4tqx20EZhX+ROgt/HFYgH7FlBU5fxAU3+R9/NEKaKIRT/aFccPa3RPuiYoMx0Xz3vb77+rgIp0YMWz1rL1YFcBX3bo0wTIzpakf9Q==;cFoEJtM5BhlRUbdEKFKAWA=="
 ---

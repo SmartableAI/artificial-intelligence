@@ -8,7 +8,7 @@ ampWebUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ey-and-ibm-deepen-partnership/amp/"
 type: article
 quality: 20
-heat: 40
+heat: 20
 published: false
 
 provider:

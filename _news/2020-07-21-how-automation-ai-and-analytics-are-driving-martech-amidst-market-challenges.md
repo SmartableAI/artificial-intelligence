@@ -45,17 +45,6 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Augmented Analytics: How Smart Features Are Changing Business Intelligence"
-    excerpt: "The latest breakthroughs in business intelligence and analytics are seeing the application of heuristics, machine learning (ML), artificial intelligence and automation to improve data access and data quality, uncover hidden patterns and correlations in ..."
-    publishedDateTime: 2020-07-20T13:13:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/augmented-analytics-how-smart-features-are-changing-business-intelligence/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 50
   - title: "Machine Learning Market Evolving Technology, Trends and Demand 2020-2026 : Fractal Analytics Inc., Microsoft Corporation, Dataiku"
     excerpt: "The report discusses many vital industry facets that influence global Machine Learning Market industry acutely which includes extensive study of competitive edge, latest advancements, region-wise industry environment, contemporary market and emerging ..."
     publishedDateTime: 2020-07-23T13:42:00Z

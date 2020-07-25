@@ -8,7 +8,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164286-canadian-fintech-myl
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164286-canadian-fintech-mylo-rebrands-to-moka/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 600
     height: 228
     isCached: true
-
-related:
-  - title: "Canadian fintech app Mylo expands to Europe and rebrands as Moka"
-    excerpt: "The fintech company is uniquely positioned to launch ... To celebrate the rebrand, Moka is launching a new website at moka.ai and offering a free $10 credit to Canadians who open a new account ..."
-    publishedDateTime: 2020-07-20T15:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/canadian-fintech-app-mylo-expands-to-europe-and-rebrands-as-moka-1029410618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/canadian-fintech-app-mylo-expands-to-europe-and-rebrands-as-moka-1029410618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/canadian-fintech-app-mylo-expands-to-europe-and-rebrands-as-moka-1029410618"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "8LK3h1REKq4iMr8fXvCwrnsqYifikgOI5Od3/oBBNTK0frHAQNU7qAhopIiQ+mJtgSePmTVl6WheZd+jTYpCciuxxyy/PSxI9hkgG3ranoTs2E2cttsDdFIy0Rxh7kjs4gpX38XQsBsu1L0r/s3a1vH0UgN3AMo/S0AdEzhv1ZHdO9+lyTDcvRgIGe8Ba9yg5ANuScPx23L4h5OlSZDIz/PT32jayne+zrL65IQnkVxBk5LSCuEtT359OD6ZD4Wc7i8mfp8H9a+FgahPd3OC1xQ/x93BbnaqpIz8yiDNNPewlnkSN1ycuOPYbOLFdOKbJ6gFJQ8Dq9YsR0KfEMDHynpdckPwUzmb2Qcte3+d+1MW/YgPJas+0uTev9NmxUprRV5BwQnTlErNg0DwIYpeDn+LdvB5IcVhH2Zos0n8ys8k/xkmNpMohEEChU6EjxqN8M8hH0rOfeCmkr6S/yrb+j92g5kjaojOmEuHUZVxJGEU6MSUDOCBwcqHOhZcqk5M;5ni7hrN2GAlpxpmN1RC6MA=="
 ---

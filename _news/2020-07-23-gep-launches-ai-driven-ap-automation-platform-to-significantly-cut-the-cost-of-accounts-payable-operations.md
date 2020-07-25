@@ -38,6 +38,20 @@ related:
         width: 990
         height: 498
         isCached: true
+  - title: "DeepMind presents a solution for automatic generation of reinforcement learning algorithms"
+    excerpt: "DeepMind researchers presented on July 17th in an article on Arxiv a study on reinforcement learning algorithms. Junhyuk Oh, Matteo Hessel, Wojciech M. Czarnecki, Zhongwen Xu, Hado van Hasselt, Satinder Singh and David Silver worked on a solution for generating reinforcement learning (RL) algorithms that interact with environments to know what to predict and how"
+    publishedDateTime: 2020-07-23T09:21:00Z
+    webUrl: "https://www.actuia.com/english/deepmind-presents-a-solution-for-automatic-generation-of-reinforcement-learning-algorithms/"
+    type: article
+    provider:
+      name: Actu IA
+      domain: actuia.com
+    quality: 29
+    images:
+      - url: "https://www.actuia.com/wp-content/uploads/2020/07/DeepMind-Reinforcement-Learning-LPG.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Delving Into the Weaponization of AI"
     excerpt: "Leveraging AI and automation enables bad actors to commit more attacks at a faster rate – and that means security teams are going to have to likewise quicken their speed to keep up. Adding fuel to the fire,"
     publishedDateTime: 2020-07-24T08:30:00Z

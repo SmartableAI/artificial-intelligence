@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia partners with University of Florida to build AI supercomputer"
+    excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said on Tuesday."
+    publishedDateTime: 2020-07-21T19:01:00Z
+    webUrl: "https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24M2NX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24M2NX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200721&t=2&i=1526604517&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6K1IK"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Nvidia And University Of Florida Supercharge Education With AI Supercomputer"
     excerpt: "Nvidia and The University of Florida (UF) are in engaging in a unique public-private partnership that should see the development of the largest university supercomputer in the United States, and perhaps the world."
     publishedDateTime: 2020-07-21T19:27:00Z
@@ -36,17 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Nvidia Partners With University of Florida to Build AI Supercomputer"
-    excerpt: "Nvidia was long known as a supplier of graphics chips for personal computers to make video games look more realistic, but researchers now also use its chips inside data centers to"
-    publishedDateTime: 2020-07-21T19:12:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
   - title: "NVIDIA Partners UF to Build AI-Based Academic Supercomputer"
     excerpt: "NVIDIA Corp. NVDA is collaborating with the University of Florida (UF) to build a powerful artificial intelligence (AI)-based supercomputer for the academic world. Notably, NVIDIA co-founder, Chris Malachowsky,"
     publishedDateTime: 2020-07-22T14:36:00Z
@@ -85,6 +90,22 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 60
+  - title: "UF launches $70 million artificial intelligence partnership"
+    excerpt: "With a computer being installed by November, UF is expected to have the fastest supercomputer in higher education."
+    publishedDateTime: 2020-07-22T13:53:00Z
+    webUrl: "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership"
+    ampWebUrl: "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart"
+    cdnAmpWebUrl: "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart"
+    type: article
+    provider:
+      name: Gainesville
+      domain: gainesville.com
+    quality: 57
+    images:
+      - url: "https://www.gainesville.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200722&Category=NEWS&ArtNo=200729510&Ref=AR"
+        width: 5000
+        height: 2812
+        isCached: true
   - title: "Nvidia builds the fastest AI supercomputer in higher education"
     excerpt: "The university will enhance its current supercomputer, HiPerGator, with Nvidia chips and have it functional by early 2021. The third-generation HiPerGator will have access to NVIDIA’s most advanced AI software and integrate 140 NVIDIA DGX A100 systems ..."
     publishedDateTime: 2020-07-22T10:27:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-21T13:24:00Z
 webUrl: "https://arstechnica.com/cars/2020/07/slow-progress-on-self-driving-is-putting-startups-in-a-bind/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Ars Technica
@@ -28,59 +28,26 @@ images:
     isCached: true
 
 related:
-  - title: "Former Ford President Joins Self-Driving Radar Startup’s Board"
-    excerpt: "Joe Hinrichs, a former top executive at Ford Motor Co. who left the company earlier this year, is making a tentative return to the auto industry by joining the board of a startup developing technology for self-driving cars and driver-assistance features."
-    publishedDateTime: 2020-07-20T13:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-20/former-ford-president-joins-self-driving-radar-startup-s-board"
+  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
+    excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
+    publishedDateTime: 2020-07-23T11:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-  - title: "Former Ford top executive joins self driving sensor startup WaveSense - reports"
-    excerpt: "Former Ford president of automotive, Joe Hinrichs, has joined the board of directors at WaveSense, a Boston based startup that uses ground penetrating radar to help self driving vehicles better understand and navigate road environments, media reports said."
-    publishedDateTime: 2020-07-21T11:48:00Z
-    webUrl: "https://www.just-auto.com/news/former-ford-top-executive-joins-self-driving-sensor-startup-wavesense-reports_id196776.aspx"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 35
-    images:
-      - url: "http://i4.aroq.com/3/2020-07-21-12-34-joehinrichs_skv_7412_cropped_90.jpg"
-        width: 424
-        height: 282
-        isCached: true
-  - title: "Former Ford exec Hinrichs joins board of self-driving radar startup"
-    excerpt: "More than four months after retiring as Ford's automotive president, Joe Hinrichs has resurfaced on the board of a U.S. company pioneering a unique sensor for autonomous vehicles. Hinrichs, 53, has joined the board of directors at WaveSense,"
-    publishedDateTime: 2020-07-20T12:43:00Z
-    webUrl: "https://europe.autonews.com/move/former-ford-exec-hinrichs-joins-board-self-driving-radar-startup"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Hinrichs-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Former Ford exec Joe Hinrichs joins board of self-driving radar startup"
-    excerpt: "Hinrichs, 53, has joined the board of directors at WaveSense, a startup that uses ground-penetrating radar to help self-driving vehicles better understand and navigate road environments. \"WaveSense is delivering the most precise and reliable vehicle ..."
-    publishedDateTime: 2020-07-20T11:21:00Z
-    webUrl: "https://www.autonews.com/executives/former-ford-exec-joe-hinrichs-joins-board-self-driving-radar-startup"
+  - title: "Self-driving industry takes to the highway after robotaxi failure"
+    excerpt: "When Sebastian Thrun was starting Google’s self-driving car project in 2009, commercialising the technology was not on anyone’s mind. “We focused on the technology more than anything else, not the go-to-market plan,"
+    publishedDateTime: 2020-07-21T15:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/21/self-driving-autonomous-car-business-shift-focus.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Hinrichs-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "V42Zx9FDvEJ+KAkmSox8wEPaxqSD1OUcI4jlpyam/wRGrHtXhuonxTY0+rqVEBxZ4hb9mQtRxV15nVHknjbKh3Pp0Kx2ZLynlEvGsu+YVD7aLrXMwoWKs2CQuDMmVHIf4De1aLtwsmqysUvmFrmEeUXMJMt0Nx6sdsIPcYH4Pt4ok4T+fPhUHe5qmHqug9ATLQdjJRD/Gfm2Z05OQyJY1Gf8a3NbW5bFKVHqUhpMACVG+JpPpSdmrjHCa93nAev0TjSgP/57+ElQXSugiyeb8HMjxN4pCDJ0HwQM5lW5wKX/H87p6bV2+Udd+Vt8jeeqhxyphtGTomKXNDIK9z80pAYrOJ7HCU6mTHCafsU3t/Ft3H2e0g0joO7C3lDNfKJJ3iI2cO7XV6/OZlRaEHuEFkc193d7tltcf76s0zjZMLhIicujSLGxmJ4T9jT+hFt3nZuwQULpKfi6gKYf09noERP8KN35dp+cMsFKC+hrNKlaLCU0bz2HSGtUxw5TFBe7xsdBbyR1myxnPSBiEmlkDw==;v9YtIQDL3E/q+7MzK4QkkA=="
 ---

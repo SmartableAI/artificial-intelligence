@@ -55,6 +55,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Google's Recommendations AI now in public beta"
+    excerpt: "Recommendations AI is based on technology that Google says it uses to deliver recommendations on its own products, including YouTube and Google Search. The cloud company says reta"
+    publishedDateTime: 2020-07-22T19:51:00Z
+    webUrl: "https://www.zdnet.com/article/googles-recommendations-ai-now-in-public-beta/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/googles-recommendations-ai-now-in-public-beta/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-recommendations-ai-now-in-public-beta/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2015/03/27/c0d4a094-b187-4fc5-88f5-873630d7a846/thumbnail/1200x675/50efc5c7252affb15dff1f754307801e/intel-hq-thumb.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XVN3pEtrft3obegT183hJiF+8+e80wDl6D5EfoRkKA9W5aTjKJejK3ypBljSRVK2hIWFwIun/aEQ9wIO8vjaWNp5++Xo/puzwgmwRw7df0aKo0oLLUjmqPb93mxNd2mTFP372UdEPoXzMTOwi1PEZeaBBdsTmYEEQ426c9F6alI+JKUIhh26WWXLvvRnak5pa+g7CiObWaLIFiz99v3fkG/tlwr5ek28Dm5UsEyyJ0j5MG0MF3o8Y0TQgxI/iHo/SsMfu8XRkMKk3tDCBXmVowprlJOaLbpOPCq147BabjGw6MICWt8ReUsfcGDt1nvFyCWTpciVOkuubSDAxB3dr+SJpFA2HOjc9DqNOwZZkNjGOAv+vEyxcKZVid0BTUj26th84req5p5t0xrym5txzk0xzlvMJ16Fno8qmh38JJgqAtRzj7rp4ZmwOTkfP3FctMHa3C6Cj/Yvcihu/9Nl6jbVesPNkKZuwp8dCAbNC+rbHyUaNNqpz6e7SCleo8Ii;uXM7ZDtZIIFwLw61sbu1DQ=="
 ---

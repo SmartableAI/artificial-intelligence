@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-c
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1595605777-apple.jpg?width=600&crop=16:9"
         width: 600
         height: 338
-        isCached: true
-  - title: "COVID-19 Impact Review on Artificial Intelligence in Construction Market"
-    excerpt: "The Artificial Intelligence in Construction Market size is estimated to generate a revenue of $2,642.4 million"
-    publishedDateTime: 2020-07-20T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/covid-19-impact-review-on-artificial-intelligence-in-construction-market-2020-07-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Pype Dream - Autodesk to Change Construction Workflow with AI"
     excerpt: "Autodesk has announced its plans to acquire Pype, a DC-area based startup that has created AI-based software to manage spec books and submittals, documents common to the construction industry. Submittals are composed of shop drawings,"

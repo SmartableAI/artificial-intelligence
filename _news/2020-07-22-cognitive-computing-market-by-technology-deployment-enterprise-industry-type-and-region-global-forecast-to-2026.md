@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T19:08:00Z
 webUrl: "https://www.bignewsnetwork.com/news/265859144/cognitive-computing-market-by-technology-deployment-enterprise-industry-type-and-region---global-forecast-to-2026"
 type: article
 quality: 1
-heat: 11
+heat: 1
 published: false
 
 provider:

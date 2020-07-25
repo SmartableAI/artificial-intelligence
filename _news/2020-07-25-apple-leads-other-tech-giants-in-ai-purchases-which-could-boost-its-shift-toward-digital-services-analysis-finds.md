@@ -7,6 +7,9 @@ webUrl: "https://www.businessinsider.com/apple-leads-other-tech-giants-in-ai-pur
 ampWebUrl: "https://www.businessinsider.com/apple-leads-other-tech-giants-in-ai-purchases-analysis-finds-2020-7?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-leads-other-tech-giants-in-ai-purchases-analysis-finds-2020-7?amp"
 type: article
+quality: 65
+heat: 65
+published: false
 
 provider:
   name: Business Insider

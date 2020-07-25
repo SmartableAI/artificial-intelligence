@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T11:04:00Z
 webUrl: "https://www.patentlyapple.com/patently-apple/2020/07/apple-wins-an-advanced-face-id-related-patent-that-is-evil-twin-proof-using-subepidermal-imaging-and-more.html"
 type: article
 quality: 6
-heat: 16
+heat: 6
 published: false
 
 provider:
