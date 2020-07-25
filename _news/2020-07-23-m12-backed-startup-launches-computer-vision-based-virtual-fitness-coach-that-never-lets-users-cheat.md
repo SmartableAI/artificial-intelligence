@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T17:37:00Z
 webUrl: "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html"
 type: article
 quality: 25
-heat: 25
+heat: 35
 published: false
 
 provider:
