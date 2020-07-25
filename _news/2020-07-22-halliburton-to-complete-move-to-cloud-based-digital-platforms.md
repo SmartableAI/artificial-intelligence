@@ -29,22 +29,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 99
-  - title: "Halliburton in Microsoft Deal"
-    excerpt: "Halliburton, Microsoft and Accenture have entered into a five-year agreement to advance Halliburton's digital capabilities in Microsoft Azure."
-    publishedDateTime: 2020-07-20T09:38:00Z
-    webUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/"
-    ampWebUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
-    cdnAmpWebUrl: "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
-    type: article
-    provider:
-      name: Rigzone
-      domain: rigzone.com
-    quality: 59
-    images:
-      - url: "https://images.rigzone.com/images/news/articles/162765_582x327.png"
-        width: 582
-        height: 327
-        isCached: true
 
 secured: "dZf1VxeqBNbYiNqUs+F4ta8w0ui4ttOG6nY0vahWbQwh7hTVsxmNUmV+FeGnegWNv8P6OrG99m/A54ISGrDDMBaQx35HUyNbjgP/CRn1rM8W8paj8Q1yxv4M9QsL4Nbu/egGO70KEqrljsGwQwNZa1iWdKE2htXG4oTmfF4aaMrJcxeEzdcKkZs9mlqkMnwqaDAdOLZ4hw8teS+k0E9weCYxpepOHIhciRGo7SpWpXkNAqLUIcwd56dSHeulhS+RzN9f2YAJ2LlsEHsxlhbwY+LGzuxNkQeVMIRgYg2X6+X1LDiPHzTRi33hrBH347m0PHeziOEtJp2zw+XbQK/dgW/5FnYzMoRohFA9c8vat+vyqJ+o8ioOUZnDagrV8BlTPEZsYOf77iKOpD9UPbVKT0APWtvomXgGPR4O5i9mH5GyuRBsPhpy6nCKhxY4wXIB7mpybZWBPtemXGUepG+weM7bxISNickzWJVgFXg8dt6sCLQGhrMsKkXX/Kb4jz6HapW/qamyPMcpRVMSCGcAVg==;KSCNb7VxZD5UXx34rhVRWQ=="
 ---

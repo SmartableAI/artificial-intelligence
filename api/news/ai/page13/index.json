@@ -2,6 +2,46 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-07-13-ghost-recon-breakpoint-details-ai-teammates-and-new-event.md",
+      "title": "Ghost Recon Breakpoint details AI Teammates and new Event",
+      "excerpt": "The biggest of those is the addition of AI Teammates for gamers who want to experience the game in solo mode. Check out the trailer for that here! Leave it to Ubisoft to turn around a ship that’s steered towards the cliffs. Time and time again has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3mgvd43kcscx1ru2dy3rvnub-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/far-cry-6-3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/",
+      "cdnAmpWebUrl": "https://www-gamezone-com.cdn.ampproject.org/c/s/www.gamezone.com/news/ghost-recon-breakpoint-details-ai-teammates-and-new-event/amp/",
+      "publishedDateTime": "2020-07-13T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameZone",
+        "domain": "gamezone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-kidney-diagnostics-developer-renalytix-ai-sets-terms-for-78-million-us-ipo.md",
       "title": "Kidney diagnostics developer Renalytix AI sets terms for $78 million US IPO",
       "excerpt": "Renalytix AI, which is commercializing AI-powered diagnostic tests for kidney disease, announced terms for its IPO on Monday. The Cardiff, United Kingdom-based company plans to raise $78 million by offering 5.5 million ADSs at $14.22, the as-converted last ...",
@@ -217,47 +257,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-agricultural-robots-market-worth-203-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The driverless tractors segment of the agricultural robots ... farms is also contributing to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning, Computer Vision, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -878,6 +877,79 @@
       ]
     },
     {
+      "path": "_news/2020-07-13-agricultural-robots-market-worth-203-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
+      "title": "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The driverless tractors segment of the agricultural ... to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16602856",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16602856",
+      "publishedDateTime": "2020-07-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure.md",
+      "title": "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure",
+      "excerpt": "Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its Anvesa® eDiscovery platform for the legal profession.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/891cb8e395e733e17f8044cf3fd18ccc",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-13T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-13-the-automoblow-is-a-dick-sucking-robot-for-your-tesla.md",
       "title": "The Automoblow Is a Dick Sucking Robot for Your Tesla",
       "excerpt": "But the makers of this dick-sucking robot are back in my inbox with their latest brainchild ... suggesting this could be used while actually trying to drive would be very dangerous! \"Artificial intelligence, as it is used in self driving cars and even ...",
@@ -1257,97 +1329,6 @@
       "provider": {
         "name": "Ellen",
         "domain": "ibtimes.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-teslas-approach-to-self-driving-technology-is-completely-different-from-its-rivals-see-how-it-works.md",
-      "title": "Tesla's approach to self-driving technology is completely different from its rivals. See how it works.",
-      "excerpt": "Tesla CEO Elon Musk is confident; last week, he said Tesla could achieve \"level five\" autonomy this year — meaning no human intervention required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f09d58c988ee30da759c364?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-self-driving-technology-compared-to-everyone-see-how-it-works-2020-7?amp",
-      "publishedDateTime": "2020-07-12T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-12-google-machine-translation-helping-disseminate-covid-19-info.md",
-      "title": "Google machine translation helping disseminate Covid-19 info",
-      "excerpt": "Google AI and ML translation services are helping health officials communicate with people in languages they understand to disseminate the Covid-19 information, and it means reaching 51 million migrants in at least 350 languages in the US alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/articleshow/76918627.cms",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/76918627.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-machine-translation-helping-disseminate-covid-19-info/amp_articleshow/76918627.cms",
-      "publishedDateTime": "2020-07-11T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null

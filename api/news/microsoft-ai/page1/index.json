@@ -242,7 +242,7 @@
       "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": null,
       "type": "article",
@@ -1181,6 +1181,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-13-aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure.md",
+      "title": "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure",
+      "excerpt": "Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its Anvesa® eDiscovery platform for the legal profession.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/PR Newswire/891cb8e395e733e17f8044cf3fd18ccc",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-13T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-google-cloud-lands-renault-as-analytics-machine-learning-ai-customer.md",
       "title": "Google Cloud lands Renault as analytics, machine learning, AI customer",
       "excerpt": "Automaker Renault said it will use Google Cloud's analytics, machine learning and artificial intelligence services on a wide range of initiatives to make the company more efficien",
@@ -1329,57 +1370,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more.md",
-      "title": "Microsoft announces new Azure AI capabilities for apps, healthcare, and more",
-      "excerpt": "The latest announcements will help companies enhance their voice-enabled application experiences and provide critical data management across healthcare industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": "Microsoft announces new Azure AI capabilities for apps, healthcare, and more",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-announces-new-azure-ai-capabilities-for-apps-healthcare-and-more/",
-      "publishedDateTime": "2020-07-08T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

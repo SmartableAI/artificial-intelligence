@@ -679,6 +679,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html</loc>
+    <lastmod>2020-07-20T10:41:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/</loc>
     <lastmod>2020-07-20T10:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -847,14 +853,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.webindia123.com/news/Articles/Science/20200719/3595133.html</loc>
-    <lastmod>2020-07-19T11:01:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
+    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
-    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
+    <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
+    <lastmod>2020-07-19T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2203,12 +2209,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
-    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2283,6 +2283,18 @@
   <url>
     <loc>https://www.technewsworld.com/story/86752.html</loc>
     <lastmod>2020-07-13T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
+    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://apnews.com/PR%2520Newswire/891cb8e395e733e17f8044cf3fd18ccc</loc>
+    <lastmod>2020-07-13T01:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2701,13 +2713,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381558</loc>
-    <lastmod>2020-07-09T09:11:00-07:00</lastmod>
+    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <loc>https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html</loc>
     <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

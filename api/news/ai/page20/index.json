@@ -2,6 +2,105 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-07-07-researchers-use-ai-and-audio-to-predict-where-objects-will-land.md",
+      "title": "Researchers use AI and audio to predict where objects will land",
+      "excerpt": "Researchers at Carnegie Mellon University explored whether sound could be used to train AI models to predict the motion of objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/83d6151a-7563-4fe7-91ca-6c11a06275bf-e1594107458536.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI and audio to predict where objects will land",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/researchers-use-ai-and-audio-to-predict-where-objects-will-land/amp/",
+      "publishedDateTime": "2020-07-07T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips.md",
+      "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
+      "excerpt": "Xmems is unveiling Montara, which the company believes will bring high-quality audio, reliability, and better costs for headphone earbuds.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/montara.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": "Xmems’ Montara replaces wire-coil earbud speakers with tiny audio chips",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/07/xmems-montara-replaces-wire-coil-earbud-speakers-with-tiny-audio-chips/amp/",
+      "publishedDateTime": "2020-07-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-incorporating-ai-in-telehealth-chatbots.md",
       "title": "Incorporating AI in telehealth chatbots",
       "excerpt": "Tonya Hall talks to Evan Kohn, chief business officer and head of marketing at Pypestream, to learn more about the difference between scripted vs pre-defined AI chatbots and how both of these roles can be used to enhance the telehealth experience.",
@@ -1233,97 +1332,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-cambricon-to-raise-3678-million-in-ipo-amid-chinese-chip-fever.md",
-      "title": "Cambricon to raise $367.8 million in IPO amid Chinese chip fever",
-      "excerpt": "AI chipmaker Cambricon Technologies Corp <688256.SS> said it will raise 2.58 billion yuan ($367.76 million) in its Shanghai initial public offering after pricing the listing at 64.39 yuan a share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-china-cambricon-ipo-idUSKBN247245",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN247245",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN247245",
-      "publishedDateTime": "2020-07-06T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-researchers-use-ai-to-highlight-zooms-privacy-risks.md",
-      "title": "Researchers use AI to highlight Zoom’s privacy risks",
-      "excerpt": "In a study, researchers demonstrated that AI could be used to cross-reference the names and images of Zoom meeting participants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/d0862e46-a1f5-464f-8bed-7ecfd241dd87.png?w=800&resize=800%2C532&strip=all",
-          "width": 800,
-          "height": 532,
-          "title": "Researchers use AI to highlight Zoom’s privacy risks",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/06/researchers-use-ai-to-expose-highlight-zooms-privacy-risks/amp/",
-      "publishedDateTime": "2020-07-06T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

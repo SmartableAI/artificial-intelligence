@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Halliburton in Microsoft Deal"
-    excerpt: "Halliburton, Microsoft and Accenture have entered into a five-year agreement to advance Halliburton's digital capabilities in Microsoft Azure."
-    publishedDateTime: 2020-07-20T09:38:00Z
-    webUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/"
-    ampWebUrl: "https://www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
-    cdnAmpWebUrl: "https://www-rigzone-com.cdn.ampproject.org/c/s/www.rigzone.com/news/halliburton_in_microsoft_deal-20-jul-2020-162765-article/?amp"
-    type: article
-    provider:
-      name: Rigzone
-      domain: rigzone.com
-    quality: 59
-    images:
-      - url: "https://images.rigzone.com/images/news/articles/162765_582x327.png"
-        width: 582
-        height: 327
-        isCached: true
   - title: "Halliburton to complete move to cloud-based digital platforms"
     excerpt: "HOUSTON – Halliburton, Microsoft Corp., and Accenture have entered into a five-year strategic agreement to advance the oilfield service provider’s digital capabilities in Microsoft Azure ... Data Lake using machine learning and artificial intelligence ..."
     publishedDateTime: 2020-07-22T20:05:00Z

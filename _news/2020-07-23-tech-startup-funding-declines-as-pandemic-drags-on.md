@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pa
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Smart Retail Tech Startup Cloudpick Raises Series A+ Funding"
-    excerpt: "Cloudpick, the technology startup providing smart retail and artificial intelligence solutions, announced recently that it has raised Series"
-    publishedDateTime: 2020-07-20T10:50:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/smart-retail-tech-startup-cloudpick-raises-series-a-funding-835279998.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "Obedxx0ERLDl1RIJ52dmO6MFy1Qqs5SxJBNhicfogh7prhK38KXMTk1OmdyP/SjyhyUDMaSVv6wPtwwIK7jQR7SdWkdvIPkCR6pI+2O9txqr+cLu4TvqibYOoI6SMFFZSWdAy3UzSgPcJykX8YtUFCkhzANFXgJE+b1LXhJNsr+NsBYOqBXotbUKB0BtzLxwQReUn5MLV5zjL2WZUwAoNGwOeaTlw3mQkhTRHVit6GZiwo/5faoAVZTMrXMOIwYrKMWMGu6UJpQaMk8sVsnxxIDVctGN2I5BfdL26X/UyGgDpvQZ+qKarkJHf9gaJJzuu0NOaPuPZYEozE+gZ8J0EHAymkxjYnE8/g6ALT1xdFZD3TphKwIwmgNudtpD20NdEEQ6rJCpy6/QQMz92rgZs/tnQ+cr3o2MqKy/52DOa8W4hgPqUkdG785/cxfmu52/FSoEod8TAdqPPHmqr6JC2DNmLUzJKc0rhOWZzNN5uVarYt98RwJMpMljiJoQzDcfuiGTXzLCAExWMRJwE+YL1A==;309dGE/2sI9S75LAqiP98w=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Last Word: Time to reject facial recognition"
+    excerpt: "... Moratorium Act announced this week would place a moratorium on federal law enforcement using facial recognition technology (as well as voice recognition software) until Congress passes a bill to lift the ban. Research has shown that facial recognition ..."
+    publishedDateTime: 2020-07-24T23:34:00Z
+    webUrl: "https://www.sfchronicle.com/opinion/lastword/article/Last-Word-Time-to-reject-facial-recognition-15432791.php"
+    ampWebUrl: "https://www.sfchronicle.com/opinion/lastword/amp/Last-Word-Time-to-reject-facial-recognition-15432791.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/opinion/lastword/amp/Last-Word-Time-to-reject-facial-recognition-15432791.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 61
+    images:
+      - url: "https://s.hdnux.com/photos/01/13/17/56/19725223/4/rawImage.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Lawmakers pass facial recognition ban"
     excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."

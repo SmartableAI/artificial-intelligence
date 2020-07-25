@@ -56,20 +56,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Why AI and facial recognition software is under scrutiny for racial and gender bias"
-    excerpt: "In the light of the Black Lives Matter protests, facial recognition and AI users are taking notice of concerns over racial bias and privacy."
-    publishedDateTime: 2020-07-20T09:26:00Z
-    webUrl: "https://www.ifsecglobal.com/video-surveillance/why-ai-and-facial-recognition-software-is-under-scrutiny-for-racial-and-gender-bias/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 50
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2020/07/AI-RacialBias-20.jpg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "VqarH8DaYxXR4acf3qQY7DK1ot48Uni8sFCtEIRyUnFAhxs9Wq5ZZNcNmlzWbMKcNNTPGP+q+VYJ77zIFWrdTMo5DoeQu1PXUrjJvZrDpbQelWiNpDq9t7E3d8Zi7zKxerBpGsFCKCuxgpJVMjitl4L1u1Vlzy45diUIoiNxBggP+nCNlmq+2jHwqNqF93r6htpgK1d5Mj8IMm+zQOcE4voppi/lIdR2KeM6xkQbFCDodovdFviFh4jvKd60YO8B+mrbc5toQ3Or2Qv+3soXj7aIpGgraIJ8PWAVpwqfUPYMywpRrgowOEOU7H93n9zzR/dNnVC7wBnNI/Oft4L0NBlUtrikkFK/fpyLdD2OfkJkpsIzjNYSDK/Lu1y4qDIRHt9vIrBaLC25X2iDbS0vXXQS+IlwZjagfX7ivXCky7GEgJv0aELlsbvaGJIiWNhDiftbCd2Ryg6EW68KtdjtimuWlftIpBe2VtX1zDio4QxOlDM++qtxsSipJvFtoibUYrCtQwE5DSMWrzNi6KIWUQ==;FoqAiNefRWu0BqRobLuJKA=="
 ---

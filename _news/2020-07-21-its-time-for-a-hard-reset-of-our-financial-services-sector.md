@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-o
 cdnAmpWebUrl: "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 749
     height: 499
     isCached: true
-
-related:
-  - title: "It’s time for a hard reset of our financial services sector"
-    excerpt: "As the government announces its review of the UK’s finance sector today, it should put fintech advances such as machine learning and AI at the heart of its thinking"
-    publishedDateTime: 2020-07-20T09:24:00Z
-    webUrl: "https://www.fnlondon.com/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
-    ampWebUrl: "https://www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
-    cdnAmpWebUrl: "https://www-fnlondon-com.cdn.ampproject.org/c/s/www.fnlondon.com/amp/articles/its-time-for-a-hard-reset-of-our-financial-services-sector-20200720"
-    type: article
-    provider:
-      name: Financial News
-      domain: fnlondon.com
-    quality: 44
-    images:
-      - url: "https://si.wsj.net/public/resources/images/FN-AK791_fn_vie_P_20200717060410.jpg"
-        width: 749
-        height: 499
-        isCached: true
 
 secured: "m3Yl6LMEGdakV9fNe/dlDa1jRmvFUdUkCSjx5Qta4/Mlh0e21ai/T1SyunpvDzss18dhpjs6WIWnOlycTQ1lPcGfw4fZh6gVD09FBs6FKMoZAjqpFtNS/u7anqXmZQ5nD95ND4P5yGwQex/7VACYSS0UVrwHk1BGpr9SGXQna/ofB9qB8mP+HIGsNoBEr/BXCmIrvZcElcxCbvRGzOA+OE6tqa7LaRpxm1rN7AOmdZIQw/XSwxU1OmSJpISjsYvnGxTzkr04h8rfQTWerMujNNidWClPDvsb60y8oXvfsGTSgR957Y9lNZABeZ5fAiAAUc2MQkOhI5yT8XfKEbygw9+GD2KY6YVw+SYCejUSnj/s1D+uqoBcN+v/1uOtzwpJ/NSIlP79DmKGA3zjmn6L2ncnGuRvGRcRassdAmQdUYCNzByYwfkYIeRltsC/9T2qCK2omm+ULpTFedtn1UU3milGhd+YrnkKS5JU2t2uNjaZouQCDutBpw9dt35U8KPOT3dkLvyVNf3u1eX83FAv9g==;PvG28s8yESL75kkvhOPrzQ=="
 ---

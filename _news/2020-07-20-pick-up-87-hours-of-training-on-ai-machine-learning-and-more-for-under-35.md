@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-20T17:41:00Z
 webUrl: "https://www.macworld.com/article/3567088/pick-up-87-hours-of-training-on-ai-machine-learning-and-more-for-under-35.html"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Macworld
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Deeplearning4j: Deep learning and ETL for the JVM"
-    excerpt: "AI products within an enterprise often have a wider scope than just machine learning. The overall goal of the distribution is to provide smart defaults for building deep learning applications. Deeplearning4j competes, at some level, with every other deep ..."
-    publishedDateTime: 2020-07-20T10:05:00Z
-    webUrl: "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.html"
-    ampWebUrl: "https://www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567055/deeplearning4j-deep-learning-and-etl-for-the-jvm.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/07/machine-learning-and-mlops-hpe-ezmeral-softwaretg-100851051-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "2bIrMvVS8A8ynI5JRwsXNb9jcTi8X9lkMrYBfWhsXpGnh5cAtOwOdozQGXe6plF4TrDxu/roWAWcfCkn9jAEMY9Pdbu5tzLrednQvMkc0zKQgRziBuqUm+NUNakxEw2roJCe5X0eIfXtdeFGaObzsL9J3n+0tZzy26V4OE1Arxrv6iaaFZKkPZ4Gm762fRffWnetIsN63O9947ODCuR15j+xzzFVaWLDtXNXIApBlQV/TvOiFjmOWsK4YjUaPC+OPjD4waKLtvB/kYjVnzRcMkJM6xPmVNcwdz7WxVfOu8ZaOGCDrk6IJ/o6AO+FIQnhYd/XNuA3UIPyEfnhAWuoCQVG9wOj+FeynwEkuF6WzTRwHB4QWAE2TY2K8lq76rRSbS3Qa6OYbkV6zpi+4+CnAtNjJeZk484gffkC83NMukaNgt0/Esz4Q/bmyN2SBaiyQI5H71SIMsS1S46FMdb8kT/+6fbJGtQZTIh4UcN6cyEq4/Ez9D5WtJp7BLu9j//fCFqfmTSXovz1P63b0HeG0A==;0T73SVOrJCH6kYYr6c5A9Q=="
 ---
