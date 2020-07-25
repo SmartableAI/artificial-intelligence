@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T12:06:00Z
 webUrl: "https://markets.businessinsider.com/news/stocks/global-healthcare-interoperability-market-2019-2024-1029414066"
 type: article
 quality: 49
-heat: 49
+heat: 69
 published: false
 
 provider:

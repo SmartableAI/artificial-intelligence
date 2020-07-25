@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-excerpt: "Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its Anvesa® eDiscovery platform for the legal profession."
-publishedDateTime: 2020-07-13T08:30:00Z
-webUrl: "https://apnews.com/PR Newswire/891cb8e395e733e17f8044cf3fd18ccc"
+excerpt: "\"Anvesa® harnesses the power of Microsoft Azure AI solutions including Azure Cognitive Services and Azure Machine Learning to help users seamlessly find information critical to winning legal cases,\" said Bharat Sandhu, Director, Product Marketing Azure AI ..."
+publishedDateTime: 2020-07-13T08:43:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
+    width: 1706
+    height: 893
     isCached: true
 
-secured: "uv7sQAUbY0aczue5D0JpMHeodhtuqG1eYk6jkUJGoH0/Wppyj98P8+DVvOF6WHWfxU7inE9NrI2gcjCIwEZ+bupWjND5ScnWIrdT+QSC9x41CYs3Ee51QnJjkgXpsB88BsRV7GhqcfRVZs2pwlZOBIPqHEoW7hgZCJMDEAshaYAy/viNBp1Akm0UKyvOcWi4/rAfZAGq2qc+CJfJM40GTNOjzu5wxvKSJlhKDPDDUoj5TM+XTOd/ZoSWzs/g23DerIJM2q/wbuNZ91knEHkeLKNszTxM0KTPqBg1gV5lzdzqTXFGMIJNVSdIM/c/3HgmOZMO4SD5tmsjyFKZnL+p6Q==;YTsvaWj+uiUrm/ine++mZA=="
+secured: "FgfNZ7n4GGa6X/GxaM2RumPbx8L78NhDLTKW3AywjvU/3NByaCgYqdS3lkSxwQ7pMGduwYrzkxqymnJklPuecKihu4xdcc/zCyK6kPL3fBeSu7c8pnEqFphvoOVSJyyEQFhe/4ESHVKVt/5jhwmPOBihuWsfD4XvgRHwEDFkzUjA2LKw+FF+9lmwbOJTT+esbg+b3KbDegFb1g0DuQyTY81+qXJUuON0lJIMW+1dhldAPM3XQxMbY7khuC477kWxkO5udBWzTEMxISSUI4nWtEB6OzbuCsZCfvnZDmh3IKlEcPWXFjAsqCS/yi2tmVfuI3xIbZmeN+xYxxXrZmRI0w==;Oh/CJykLf8v0OpIvuPLwoQ=="
 ---
 

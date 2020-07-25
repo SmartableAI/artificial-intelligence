@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T11:23:00Z
 webUrl: "https://www.scmagazine.com/perspectives/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

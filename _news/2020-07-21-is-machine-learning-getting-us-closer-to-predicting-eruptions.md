@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T15:07:00Z
 webUrl: "https://www.discovermagazine.com/planet-earth/is-machine-learning-getting-us-closer-to-predicting-eruptions"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

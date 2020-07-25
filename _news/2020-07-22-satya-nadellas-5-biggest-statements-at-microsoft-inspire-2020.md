@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T19:50:00Z
 webUrl: "https://www.crn.com/news/channel-programs/satya-nadella-s-5-biggest-statements-at-microsoft-inspire-2020"
 type: article
 quality: 39
-heat: 39
+heat: 59
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T18:33:00Z
 webUrl: "https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

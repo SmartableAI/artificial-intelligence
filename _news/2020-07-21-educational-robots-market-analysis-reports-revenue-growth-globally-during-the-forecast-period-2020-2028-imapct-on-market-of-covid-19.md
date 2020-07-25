@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T02:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/educational-robots-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2028-imapct-on-market-of-covid--19-2020-07-20?tesla=y"
 type: article
 quality: 38
-heat: 38
+heat: 58
 published: false
 
 provider:
