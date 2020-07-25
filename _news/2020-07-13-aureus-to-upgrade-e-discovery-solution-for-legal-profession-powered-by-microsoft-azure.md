@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-excerpt: "Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its Anvesa® eDiscovery platform for the legal profession."
-publishedDateTime: 2020-07-13T08:30:00Z
-webUrl: "https://apnews.com/PR Newswire/891cb8e395e733e17f8044cf3fd18ccc"
+excerpt: "\"Anvesa® harnesses the power of Microsoft Azure AI solutions including Azure Cognitive Services and Azure Machine Learning to help users seamlessly find information critical to winning legal cases,\" said Bharat Sandhu, Director, Product Marketing Azure AI ..."
+publishedDateTime: 2020-07-13T08:43:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
+    width: 1706
+    height: 893
     isCached: true
 
-secured: "fR7S86IJApV5BOjJx5A01BlbyLSjF4S73LnC7WcpJX47aIoYQkK09SqOij5XrsT4xP9bxWE8p7HsJTq+97SVUbUVtoT6T2VTQSg26V43QIFYBoho2IrUMcomwG/MFdxkXd10TYYC8dkhibK2h6ce6yZ8rUNQDTyq7+IdDlI51dsxrdcDcsaVqAb1pNX5CW8Lpa2rbhuXeXoF6s0LRoyJGnPPI4KdEdh1sLsp5KWZ+Tsrd/FPXCL1Cywq1XsfWA1KBE0fOsrXapLJ0tjkYS5iQdN3htNJfz5wuPe25/SFavcyFLLCZFyqHrLs1VUzCV0DnI64QPy4ZafTvUXH4+6tBw==;fi4wQE7DLT9PE04G8+U2wg=="
+secured: "YQx40zIkv29dbQM+SV/FEbSvDulQeVvJ1Mc70VW44aRHG/LaG+n22W8KERgwL8bwE3ndz/2M0ybzr0Id4GfaZy2DsZgR1IE4iBhWWf1mrQB3aQjPzBXpU1empsakoFpSe0l6ivzPQb8gkgCFuaSOrqMlgGSIWfEW4cUKhGD14nV371lxmeicKAjQEzBxcF+76rIdARYc0EzsWsC7LJvUNtEtkVOKxx1aUUmJOp3nOM1EVkBR4KxwI7tGrnRRJh7IUzsmHqrkOxo1VjpfQEyjMSjd/TwstcLtLElkKD1mVSTUJFDJl0jNirWp4DrM8r4hU9tmFafecJcikuBIeqfmzA==;TG9o9DpZaZ9lm+CQyFPHaw=="
 ---
 

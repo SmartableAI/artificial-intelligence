@@ -3,7 +3,7 @@ category: news
 title: "AI Helped Uncover Chinese Boats Hiding in North Korean Waters"
 excerpt: "A combination of technologies helped scientists discover a potentially illegal fishing operation involving more than 900 vessels."
 publishedDateTime: 2020-07-25T14:00:00Z
-webUrl: "https://www.wired.com/story/ai-helped-uncover-chinese-boats-hiding-in-north-korean-waters/?source=blogsjustin.com"
+webUrl: "https://www.wired.com/story/ai-helped-uncover-chinese-boats-hiding-in-north-korean-waters/"
 type: article
 quality: 67
 heat: 67
@@ -26,6 +26,6 @@ images:
     height: 670
     isCached: true
 
-secured: "/98kEoN+H/e2t4rYEwBQX5/rniSCbbSDViEdB7D/iNh6Ns9VGxwdoGrtx/WL5fbEJtZA4xMUY84d1gEggUvMvvZ89rVijmec3isdcJHFSZg+wq0fJu+Xci5V6NMWX7deJhvQxUwCw6qwabIriSKiFVUoFbb7DK77LNuknmvJtZxBzeryaYElCVYqoJPoTUd6xK/qjuPA20bjmpR91QLMRSmlt/4MWDUMgK2OkH/qNttQsMsyRonEb0NezszoQr7vGykpuaWlA0jx0lO/dxlqasN7K7vPzu/2xbWwY7SCIEmjWnf5BNtxc1tYs7LI8UMg8KWUSNeUnCTTcp7x7XMlQg==;d+x5t6Wn5pKYhGfok4HgNw=="
+secured: "kusp6liCC7i/WHWdVQMBzfmFyvaXZajeO2HLyJPK562M9KWXT6WXzTTvU0s2Ole5BoZ5yOkWAUBz2CjS8BdId2mvxjARcmlzuqtVc5uU45tw2/4+GuH8COz7DF/7tE0q+VpBUFsnQqnnfDhsUtSthsTn10DtskccJvpBJiTtd204eIA+aCkVIwsdBcC3GT0C3dw39VIp3J/AG+ZgG1+PQiRlMjRtaKewjubUNeG1Vu79ShtD5CibQsv7B5FonVJiUEtkWoWUD/dznbc3jkTM7GBIib4nSdcLciyTpCC8KYZOIRv86stVqF1PsR/HaA17NnOQqgJrhTt6qnGuvXaUZg==;RGt6izz5qyv6T9ShXDFpSg=="
 ---
 

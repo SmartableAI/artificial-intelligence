@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/</loc>
+    <lastmod>2020-07-25T11:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.zdnet.com/article/artificial-intelligence-drives-new-user-experiences/</loc>
     <lastmod>2020-07-25T08:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -49,13 +55,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53530454?at_custom1=%25255Bpost+type%25255D&amp;</loc>
+    <loc>https://www.bbc.com/news/technology-53530454</loc>
     <lastmod>2020-07-24T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars</loc>
     <lastmod>2020-07-24T08:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -385,8 +391,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html</loc>
+    <loc>https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org</loc>
     <lastmod>2020-07-22T07:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership</loc>
+    <lastmod>2020-07-22T06:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -499,8 +511,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX</loc>
-    <lastmod>2020-07-21T12:01:00-07:00</lastmod>
+    <loc>https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/</loc>
+    <lastmod>2020-07-21T12:27:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -877,14 +889,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.webindia123.com/news/Articles/Science/20200719/3595133.html</loc>
-    <lastmod>2020-07-19T11:01:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
+    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
-    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
+    <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
+    <lastmod>2020-07-19T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1591,6 +1603,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://advances.sciencemag.org/content/6/29/eaba1482.full</loc>
+    <lastmod>2020-07-15T11:20:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.geekwire.com/2020/microsoft-partners-land-olakes-build-agriculture-tech-azure/</loc>
     <lastmod>2020-07-15T11:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2089,6 +2107,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://analyticsindiamag.com/facebook-makes-advancements-in-automatic-speech-recognition/</loc>
+    <lastmod>2020-07-14T01:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.dqindia.com/artificial-intelligence-robotic-industry-going-upsurge-post-covid19/</loc>
     <lastmod>2020-07-14T00:46:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2239,12 +2263,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
-    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2311,20 +2329,26 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.technewsworld.com/story/The-Secrets-of-How-IBM-Maintains-AI-Leadership-86752.html</loc>
+    <lastmod>2020-07-13T04:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.technewsworld.com/story/86752.html</loc>
-    <lastmod>2020-07-13T04:00:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
+    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/891cb8e395e733e17f8044cf3fd18ccc</loc>
-    <lastmod>2020-07-13T01:30:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html</loc>
+    <lastmod>2020-07-13T01:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3350,6 +3374,12 @@
   </url>
   <url>
     <loc>https://www.designnews.com/iot/super-bowl-plays-tech</loc>
+    <lastmod>2020-07-07T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free</loc>
     <lastmod>2020-07-07T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

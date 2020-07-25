@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "USD 501 using facial recognition device to increase building safety"
-    excerpt: "A local school district is hoping to make its buildings safer for students. Educators in the Topeka Public School District will be rolling out what’s called a"
-    publishedDateTime: 2020-07-21T02:30:00Z
-    webUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/"
-    ampWebUrl: "https://www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
-    cdnAmpWebUrl: "https://www-ksnt-com.cdn.ampproject.org/c/s/www.ksnt.com/news/education-21st-century/usd-501-using-facial-recognition-device-to-increase-building-safety/amp/"
-    type: article
-    provider:
-      name: KSNT
-      domain: ksnt.com
-    quality: 59
-    images:
-      - url: "https://www.ksnt.com/wp-content/uploads/sites/86/2020/07/facialrec.jpg?w=844&h=478&crop=1&resize=1280,720"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "i0r9/wMHZNVmphwOGH6iTaXzQLftjbtCdtRTrco/nAWKpK4C73Mz2+m3g8N2k6YfvVzKj+T+dju/ilNN0Pab34sqd/cZUWJWOLWV6bnLZG4BKjH0m7kf7B0xSjxSV1/wqYgulwtH0FThhoGmXd0Klilr5iUlXsxgnc63NkgfaoRqP3dBak2bIQsEYuY/JwdmId01oRCR4j+u8diN8o6POmmz50bNv8c2p1nOWsrhOPV2r6fPNIZ+5Xa+arfVVxTzcqUjB+B3XZFrd7Ayl4YDeHJHeTn68UqE3PMIvuWe3ZLLIW4p6RBUcNVcxqkn2YFYR+BCoUiZXiQA4SCtb4fIU4d0wS1HHWVb97UCFiLA7xW76cLKLtFH67AA4VHhXYovPBUV4JTMiJw3Bgp5BNe1dCq8BqwksuYFAl6WIJLgGadu4roB4vjg48FAaIUw4Gu+2f0gnbZRPUJrFdmnRDHlslyECDgYYuwmMVG2VUdQf14Eu6R1V2ZDhWHM3KS8bBBQI3nGNfeaEIpWDHN9U8H+hA==;3Lr0lCaEw2n8+WoRm5ysdw=="
 ---

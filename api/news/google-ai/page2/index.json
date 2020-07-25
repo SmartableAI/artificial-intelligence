@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-06-24-google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models.md",
+      "title": "Google releases experimental TensorFlow module that tests the privacy of AI models",
+      "excerpt": "Google's new toolkit introduces a privacy-preserving technique and test for machine learning modules developed in TensorFlow.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/24/google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases experimental TensorFlow module that tests the privacy of AI models",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/24/google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/24/google-releases-experimental-tensorflow-module-that-tests-the-privacy-of-ai-models/amp/",
+      "publishedDateTime": "2020-06-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
       "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
       "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",

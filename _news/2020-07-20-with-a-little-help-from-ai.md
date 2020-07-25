@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://api.hub.jhu.edu/factory/sites/default/files/styles/hub_xlarge/public/AI_thumb.jpg?itok=SGYaexAN"

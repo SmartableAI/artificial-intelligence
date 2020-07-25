@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-22-extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend.md",
+      "title": "Extracting custom entities from documents with Amazon Textract and Amazon Comprehend",
+      "excerpt": "Amazon Textract is a machine learning (ML) service that makes it easy to extract text and data from scanned documents. Textract goes beyond simple optical character recognition (OCR) to identify the contents of fields in forms and information stored in tables. This allows you to use Amazon Textract to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-custom-entities-from-documents-with-amazon-textract-and-amazon-comprehend/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T13:24:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-microsoft-reports-38-billion-in-q4-2020-revenue-azure-up-47-surface-up-28-and-linkedin-up-10.md",
       "title": "Microsoft reports $38 billion in Q4 2020 revenue: Azure up 47%, Surface up 28%, and LinkedIn up 10%",
       "excerpt": "Microsoft today reported fiscal Q4 2020 earnings, including revenue of $38.0 billion, net income of $11.2 billion, and earnings per share of $1.46.",
@@ -706,7 +756,7 @@
       "title": "AI security and ethics startup CalypsoAI lands $13 million in funding",
       "excerpt": "CalypsoAI, a machine learning startup with its roots in the defense industry, has raised $13 million to help make government and corporate AI systems more secure and free of bias. Why it matters: Making AI systems that are free from bias,",
       "sourceUrl": null,
-      "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 94,
@@ -722,8 +772,8 @@
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
+      "ampWebUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org",
+      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org",
       "publishedDateTime": "2020-07-22T07:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -738,8 +788,48 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-uf-launches-70-million-artificial-intelligence-partnership.md",
+      "title": "UF launches $70 million artificial intelligence partnership",
+      "excerpt": "With a computer being installed by November, UF is expected to have the fastest supercomputer in higher education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gainesville.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200722&Category=NEWS&ArtNo=200729510&Ref=AR",
+          "width": 5000,
+          "height": 2812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
+      "cdnAmpWebUrl": "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
+      "publishedDateTime": "2020-07-22T06:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gainesville",
+        "domain": "gainesville.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1118,106 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
-      "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
-      "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/",
-      "publishedDateTime": "2020-07-21T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-exams-that-use-facial-recognition-may-be-fair-but-theyre-also-intrusive.md",
-      "title": "Exams that use facial recognition may be 'fair' – but they're also intrusive",
-      "excerpt": "Although companies behind remote tests say their technology ensures integrity, I’m concerned about privacy and bias",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0e0d09b75d1386e4c9b460c625130e2fe8e406db/0_361_6595_3957/master/6595.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=977d700fc7f91a646609ad4a2c9c8c23",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/law/2020/jul/22/exams-that-use-facial-recognition-are-fair-but-theyre-also-intrusive-and-biased",
-      "publishedDateTime": "2020-07-21T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

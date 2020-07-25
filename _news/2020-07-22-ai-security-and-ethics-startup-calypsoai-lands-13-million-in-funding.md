@@ -3,9 +3,9 @@ category: news
 title: "AI security and ethics startup CalypsoAI lands $13 million in funding"
 excerpt: "CalypsoAI, a machine learning startup with its roots in the defense industry, has raised $13 million to help make government and corporate AI systems more secure and free of bias. Why it matters: Making AI systems that are free from bias,"
 publishedDateTime: 2020-07-22T14:17:00Z
-webUrl: "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html"
-ampWebUrl: "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html"
-cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html"
+webUrl: "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org"
+ampWebUrl: "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org"
+cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html?source=techstories.org"
 type: article
 quality: 74
 heat: 94
@@ -16,8 +16,8 @@ provider:
   domain: axios.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
 images:
   - url: "https://images.axios.com/QKM_OI0mo1BYu3oN1dzXmV3qB0E=/fit-in/1366x1366/2020/07/22/1595425142080.png"
@@ -50,6 +50,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "ipnyIvMARzpWMyJkSP7JvFZAgHpqYnfI1bIM44la7R7mb9zqMy8wWvck4+k4OH85Gl1EfXSKGmRvZhxdeNE7dVXbFTfsqytNpd6U7h54G3nS4RoC3JogFy6ELnJSM2V/GYWuf5DvzKEfMRt/Zbtuh1b0wFzbikXnIc39VmwccxsIYJz8lYG3Mk53mEWmVNONTYrkzRfvzCn/ujr/dHIf10FDNEOVw0S519h49w12dgVAosiduRLIgb2gHzRg1YGrkNpHFrxy/jVKDMozZZY8JArqV/AvAalsQIGCrguV0RwUQhnSj5sg5xvts5lQzNBVxpBHWb7fL1Juo60zEsu6Fz6H3DHEJ/3Xtcbdc0FH7FjNKPm81Z/+Jhb00gEWZ0dIDHKChXWBa+vaZiajhwSWuvT3o/J5kbvDGcbW//srFlan3wGlZI9nJuNPSqUFT4UPRFOdBhfKF/nHxW1RhwHnrh65SLA4cI5rOezfV5GFOnS5Aunr0nTTWpBATK6qFNWkuhXN2nbM/v5WxHyjOrUDyA==;/m3ip9rpgW1aJdlz5QFyUA=="
+secured: "6uHHk8LVJ+dL+Ft1QuOoP7ZzBbY+/GatkTrZU93AsQ9QsEusdeXr6chwfZn5FmohmBME0f/Y5MONmUWniIpt7SuhmPFNa7AIF+krtUK0dOEq+BzqKKwfiZOEOOFip45ZBqJmhtWDb/ncpuViO03xRlAuRddWy2KAi/h/nj9/1w6bOvS4gpP0PqAu1AIcuH0FmKog7/F7DYuQB3/usS4ZRJnabmvD/pNU8AunhDOGUdiuK+ah6bHAkqhEKhixJfa/CRn0EgQtogW1gWdpD10s4bXZeZ7B42BtyENhzKbJKF0Bq3ZTFrCR3b2r9N0PZojlqdxAW+rPMBZ8nEU+1VudkQ==;r+ITRAO9E58bf6+enK8rKg=="
 ---
 
