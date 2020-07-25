@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Elon Musk says full self-driving Tesla tech 'very close'"
-    excerpt: "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said.It was already \"very"
-    publishedDateTime: 2020-07-20T17:16:00Z
-    webUrl: "https://news.az/news/elon-musk-says-full-self-driving-tesla-tech-very-close"
-    type: article
-    provider:
-      name: News
-      domain: news.az
-    quality: 19
 
 secured: "6lYA9M/azlbqfInzT0pGsyKjMmIC6EuTbxmcfeqB3qdShsVZJAQM1bphwBtIuIjo72BFa1IOOolXBmJ3iH1aqM2t9K6xfvKP1gaSDeByj3h0TjbmmeUo/tV+SDtn1/zQN4Zu0wrnr+eJdWGKDUwh0BRchE28M25SS1SV/6lOyLAMMMptYUicgn+0G7hsV4ImqhF7NqUDw/CH58rA4t7aAIXj4yx7sVup/LS1GcjPGsfsnOvfgGsdqSUbY0cR/DFN5hqSDAoftSl1M0Nk+6Wtyf4IZDOaC8kgZtT41acs3vgqBY0BuPMTQQZiWlQKiG0fmqKWlv0p1WPo6P9Pcl+2k5oyVbmsQUdvNdu82wYBnLkw9ghtDRrLUBDr0cBtFubHqPJyUlZoq6umZLbmrDzym9LX/B3CWOn/IiUaOQeGxxluYyA+FFfRDINxDjXl0+wgcEaLoKSAufIoLxEmL716l5sytSMNFHgFamMLqLUIqZLrlk+E1Ist0Gfqg1+2PumNQtZD0+vHtUdiUsI6+B49Xw==;VKEILw8s+THmMX8y43rUNQ=="
 ---

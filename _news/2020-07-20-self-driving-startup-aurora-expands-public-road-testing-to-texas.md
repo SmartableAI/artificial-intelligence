@@ -26,53 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora expands to Texas in bid to ramp up self-driving truck efforts"
-    excerpt: "Aurora, the autonomous vehicle technology startup backed by Amazon, is expanding into Texas as it aims to accelerate the development self-driving trucks. The company said it plans to test commercial routes in the Dallas-Fort Worth Area with a mix of Fiat Chrysler Pacifica minivans and Class 8"
-    publishedDateTime: 2020-07-20T18:24:00Z
-    webUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/"
-    ampWebUrl: "https://techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/20/aurora-expands-to-texas-in-bid-to-ramp-up-self-driving-truck-efforts/amp/"
+  - title: "Slow progress on self-driving is putting startups in a bind"
+    excerpt: "Progress on self-driving technology has been slower than many people expected just a few years ago. Google's Waymo was aiming to launch a fully driverless taxi service by the end of 2018 but missed its deadline."
+    publishedDateTime: 2020-07-21T13:24:00Z
+    webUrl: "https://arstechnica.com/cars/2020/07/slow-progress-on-self-driving-is-putting-startups-in-a-bind/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-20-at-10.23.22-AM.jpg?w=1024"
-        width: 1024
-        height: 571
-        isCached: true
-  - title: "Aurora will test its fleet of self-driving cars and semi trucks in Texas"
-    excerpt: "Aurora, the startup founded by former lead engineer for Google’s self-driving project Chris Urmson, is bringing its fleet of test vehicles to Texas. It’s the latest company to shift resources to the Lone Star State,"
-    publishedDateTime: 2020-07-20T18:10:00Z
-    webUrl: "https://www.theverge.com/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 73
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/vbvXQSC8uS1rzfsd1Yql8zNKbBk=/0x0:4032x2268/1400x933/filters:focal(1694x812:2338x1456):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67082226/Texas_Pacifica.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Aurora Jumps Into Robo-Delivery Race With Self-Driving Truck And Van Tests In Texas"
-    excerpt: "The Silicon Valley-based developer of software and hardware for autonomous vehicles is joining the pivot to driverless delivery vehicles as Covid-19 slows robotaxi plans."
-    publishedDateTime: 2020-07-20T18:02:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/20/aurora-jumps-into-robo-delivery-race-with-self-driving-truck-and-van-tests-in-texas/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f15d91f3041c40006bad88e%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/07/1_Pr5XpBQ5LyTklgHdbBkKkw-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "US self-driving startup Aurora expands public-road testing to Texas"
     excerpt: "Even as some robo-taxi developers are tapping the brakes, self-driving startup Aurora Innovation Inc is expanding its testing operations to Texas, adding a third state to its existing public-road proving grounds in California and Pennsylvania. Aurora ..."
@@ -88,20 +54,26 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "For Aurora Innovation, trucks and Texas are signs of self-driving future"
-    excerpt: "Hauling goods and freight has become a priority in a self-driving industry once predicated upon carrying passengers in robotaxis. It should be no surprise then that logistics hubs have become hot spots for new testing grounds."
-    publishedDateTime: 2020-07-20T18:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/aurora-innovation-trucks-and-texas-are-signs-self-driving-future"
+  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
+    excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
+    publishedDateTime: 2020-07-23T11:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 23
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Self-driving industry takes to the highway after robotaxi failure"
+    excerpt: "When Sebastian Thrun was starting Google’s self-driving car project in 2009, commercialising the technology was not on anyone’s mind. “We focused on the technology more than anything else, not the go-to-market plan,"
+    publishedDateTime: 2020-07-21T15:13:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/21/self-driving-autonomous-car-business-shift-focus.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "37U1KqrUszAmuHvI5nHX9qbeu+Ypp23PPlTsC1/sJPhI/MUgQcPWDEprKgxhUalgC2/Qm72LWgbMYCPJVZRC2oxY1n8QX1Vd52C8ea9Y0V2/VvtLXqNWsZeakt1iqKfPYfXd3FS4zgzaWMTL7B2cc9hJfglqwBZC+HA1RbQhF2yIUSs0zXJ1TG1oml1nlz5+k/a3J7TJUpJJZ+7SiyLcEYNpw7rSI3vvMPmaz12NrcY8CvtAKtW1R/jTR1syhNQ2YuAVy9fA8koZxPTDjNg6BmQXfATcKQejCWxxCEtrNajdijZGHXzR/XGrCDOJ8sVefYR/gziIb8NRyXlOnk/zFNaUhrkNWTliaSE3d8a+pQsqtCNFxUQksDlNiXM5gDbCpTwIBDV9JYbBG0BeA3c2E4vmlKAHwdMjY9RA2iCVTjgFfBGwkvwEWqZ7iLeOqxRMfseIiqcPrAVaHpI21HmqXEa259/KFi3KO65G8khAnkXM+O/tbiOfpxmJFJnDgTYc;Qja8bekD+6Xl5XzxDowPCw=="
 ---

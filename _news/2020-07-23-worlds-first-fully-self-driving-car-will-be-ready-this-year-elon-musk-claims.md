@@ -51,15 +51,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
-  - title: "Elon Musk says full self-driving Tesla tech 'very close'"
-    excerpt: "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said.It was already \"very"
-    publishedDateTime: 2020-07-20T17:16:00Z
-    webUrl: "https://news.az/news/elon-musk-says-full-self-driving-tesla-tech-very-close"
-    type: article
-    provider:
-      name: News
-      domain: news.az
-    quality: 19
 
 secured: "m4o2MCvWuW85yKWsGcJJmls0NSdpXAI6PDioxnIYafqxMgC1lo15EJT+9gXLHk1K84IOC/oY6gcJLTUVOw7gW7eiRIuXyHoLqOPL3dV7eImIYAZ93ThLXW2R0Zi9FcpnySRvNX83t4D2xKT9G/1fBsb421Q5LGurL+V1mof92oGQoAwlb93mniBb4podsU3KlTziyfZNfViJrTWXrGA5Y13AEGvjOdO8fGuGEA+H9Ibg6+v2osRQF47Tgv+rXUmY7MMgkTFik+x8gqRT+O8Vp4uaUFOySQtpz+6I9FEZKKjflz2Aq0bdgAMJlQTEz6KMjIi4BReY2KtbZrmiIVPYf3GL+iJ/RqNJovQwwPBEzOrJZIcZ1E+C066NISWJ/9oAmZXp+uA9uQ4TU1G6Sr19hKgTo6B281Y10RuETykpz5xLinmtyMHXzBEGXdY3prnh5tAe0o0cqTsePqbhz4+e3sHGO9eBf+ruYo5FiNmPUjsKKy8HgtzwG1QSKzOs0vs2;yd/q2Zyp1qt2KxUDs23xjg=="
 ---

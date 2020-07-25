@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Automation, AI And Analytics Driving Martech Amidst Market Challenges"
-    excerpt: "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges."
-    publishedDateTime: 2020-07-20T17:34:00Z
-    webUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/"
-    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1073605244%2F0x0.jpg"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "How Automation, AI And Analytics Are Driving Martech Amidst Market Challenges"
     excerpt: "I’ve written a lot about the importance of the marketing stack in providing personalization and automation that will improve and enhance customer experience. Here are some insights on how Martech is enabling enterprises to overcome market challenges."
     publishedDateTime: 2020-07-21T01:31:00Z

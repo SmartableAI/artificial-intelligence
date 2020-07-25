@@ -84,6 +84,20 @@ related:
         width: 409
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Worth $16.7 Billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and"
+    publishedDateTime: 2020-07-21T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-manufacturing-market-worth-16-7-billion-by-2026--exclusive-report-by-marketsandmarkets-301096935.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
 
 secured: "6SCHqDKJg3BSXoYE8Nht11OTo4bjUeW6KNp4pxS7jURY4viLYALD95Ysfm5Ut6h+JcSPvsasYvGnnF4F4roF/Tb3uOzCgOPed27s89asPDf24kRkKexVARE+XR1Eb3vlhCgSwQthpZk3zzmb67/YrTulz6upMO1ZycWdSzqYcPbcBG2WLYyKg/k+jjoO0qURF0ZAyia5jV01jfnhtTfSoYLb7Qiq4SB9T3fqWitEwdAlfGXTd+sE3oFwlH/iN8JOBiuJ3NjgQEZScV7xYCjv7O9gxaViQ8ZZjhnqARDgA+McpdcODvPkunUctkvEwlO1Gev+vYNsfXTvHnVwfNI8sw==;EuU83hjYkTthLbFExUBiJA=="
 ---

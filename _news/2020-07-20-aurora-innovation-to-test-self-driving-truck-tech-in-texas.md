@@ -50,15 +50,6 @@ related:
         width: 1202
         height: 901
         isCached: true
-  - title: "Elon Musk says full self-driving Tesla tech 'very close'"
-    excerpt: "Tesla will be able to make its vehicles completely autonomous by the end of this year, founder Elon Musk has said.It was already \"very"
-    publishedDateTime: 2020-07-20T17:16:00Z
-    webUrl: "https://news.az/news/elon-musk-says-full-self-driving-tesla-tech-very-close"
-    type: article
-    provider:
-      name: News
-      domain: news.az
-    quality: 19
 
 secured: "dBW9IlN8f/5vKFkSCGqFKWEi7K9g2Jmysmx04xXAFoQMOUCBK6YCpP3g3oSUsNMr7KRP+j4CGCjL37/Xa/IGMngowLqsGn52Cjw8JJUANG9PVwv49FNaec/K9U3gRzkT7rrXvKslxpLjy7lffRR8s9DCIZdOpW8nEfo+/zJSk2ZsP2/sWsp9yVQksh1OdKTLtsK65fXehb83sGmtfKs/wpXmo70vkqfCOxpulOLagXZf+iVnJieV6MT6oZxCducIVGZGAyBkFkKRXc6kJZcok6jFrS2kuR/kbN09SRjf83aqEcWGT5drtOSC/hezQ76T9ddJokJYVYtOfbL2vyQzW9w/f10wDn/EC+aAaAdw495sMOnHo52jzJibnhRyf8yNTTESw87EL80YNrKTlQfyrwPu7Z9XNz5mckptIFkI3ksJDje839YX21MKJ21BM7V2qUqTQcIz+TOEKr1iQI9gqEEwFmi9WjNDc8s71OUsg8x6cwbQZZoQYpX0ExvDhKXZ;2wEzII2+3LfjMrvk65IjYQ=="
 ---

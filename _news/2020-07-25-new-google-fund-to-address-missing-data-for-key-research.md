@@ -2,16 +2,16 @@
 category: news
 title: "New Google fund to address missing data for key research"
 excerpt: "Google has launched a new Lacuna Fund which is the worlds first collaborative nonprofit effort to directly address the missing labeled data in the field of languages to health and agriculture and more."
-publishedDateTime: 2020-07-25T05:43:00Z
-webUrl: "https://www.sify.com/finance/new-google-fund-to-address-missing-data-for-key-research-news-topnews-uhzfkAabgdjji.html"
+publishedDateTime: 2020-07-25T11:02:00Z
+webUrl: "https://news.webindia123.com/news/articles/Science/20200725/3598404.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Machine Learning
@@ -33,6 +33,6 @@ related:
         height: 240
         isCached: true
 
-secured: "0UTZIsKYN8v2ORgmGpntZAW9HEsUnEISBVhZOmTMmSfrN5A4B9xnPGZJg5RrUZNa2u2avdIKzohtE73EP8yDxUTNOnQMTEc/ElDPfCs85ZCgKHlrYVdLK8k8+rnJXHGBjR0PjYEmnXiiKdYM131Wnl7Ku6I3MnbDcMznjavm7KLJ3IeaE3p8wzlyREDIIUIW9NmxBzU4HpMZCpW52R3BXizmwWyIB1vqO/oxYcg/TZ7kX4LAz9oPcFvtzBOdXYOFtJiqWhIt148O4NEvR6wfduqI6bC+8Do2mDx9DNyJiW1ju1HlFZ7G35WrRD0fqtH6byqTQN6jHohLr5kwlrc2rw==;IdenfAhvfn7B2Y3WOZK34Q=="
+secured: "QGuBM7WSnq2YDiHqRit84kvOpfyYi7vIfN4xa38oKi1l1N6PlLMhGBwKaN7y/X7xosFaSoscFk3sV/2BCwyEoyb12O4bGynclScLM1mXnAAkTI4fPGcUKw0J+TEI+lZvAyoshGzonuB8H+I7OGrCHVW+i+PjPapPo3qMdDLgmBNmTz+emqxt+B9sTMMT+p6GgYtIfFjr1F3AbDBplyZPVVEn354S1z8BWAa9BKMhlQyUiDdE+r4Tt1tZOWlZRJntQa5DFGnXsaZyiTsvVj+i4KqjtEMp6yoVhNO+oLHane0mHTqMPaDw1Co3xAEe3u07l+JmLf19xAPinsZl/DnLnA==;vMiIZuvpKI75b2F+PZS4Pw=="
 ---
 

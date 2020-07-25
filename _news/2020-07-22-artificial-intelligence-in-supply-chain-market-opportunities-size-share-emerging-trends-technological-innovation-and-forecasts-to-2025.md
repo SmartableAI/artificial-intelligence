@@ -138,22 +138,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Overview and Scope 2020 to 2027 | Key Players: Microsoft, IBM, Google, Saffron Technology, Enterra Solutions, etc."
-    excerpt: "The Cognitive Computing Market Report by Reports and Data provides an extensive overview of the vital elements of the Cognitive Computing market and factors such as drivers restraints latest trends supervisory scenario competitive landscape technological advancements and others from 2020"
-    publishedDateTime: 2020-07-20T18:49:00Z
-    webUrl: "https://www.openpr.com/news/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
-    ampWebUrl: "https://www.openpr.com/amp/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-    images:
-      - url: "https://cdn.openpr.com/T/7/T720444940_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
 
 secured: "9n+yhXLQC4o0m0Ip4XuKvcJT3bonpwIf71I2o1sIcAeqxtEDlan9cmKF6bllGUbOzvSp4mjhv7ZdevwiHHvGOyUvMdTyEE4/KGbd4hbEpF407Oo0O1sCa3bkZ7loVjPJgUDJP21BAS47RhDvuF6GuCdXNq7hHS6lCNuS78ESFOUD0i8qipltvRN0r5PH4CWI6dV/C/P7WhXNpDDr/WGCV4iT/Pt9wlUBYD5uRShYl4xRAmkCIOSvAXjfbelFLlHHzlBTx9m2rkiQCEAgmNZUCz1LqulVLJ4aoUG+7VYqV4MiX+sdkDTMfPXwi4t8E8rWGHgrhxgptkdfDjJVG1htOg==;/bfeOkbAEZCiAgUFg40P5w=="
 ---

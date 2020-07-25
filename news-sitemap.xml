@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026</loc>
+    <lastmod>2020-07-25T03:40:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/enhancing-your-browsing-experience-with-amazon-lex/</loc>
     <lastmod>2020-07-24T14:22:01-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -625,6 +631,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/danielnewman/2020/07/20/how-automation-ai-and-analytics-driving-martech-amidst-market-challenges/</loc>
+    <lastmod>2020-07-20T18:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.asiaone.com/business/asmpt-collaborates-ibm-research-ai-chip-technology</loc>
     <lastmod>2020-07-20T18:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1111,8 +1123,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.businesswire.com/news/home/20200717005015/en/</loc>
-    <lastmod>2020-07-17T07:26:00-07:00</lastmod>
+    <loc>https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI</loc>
+    <lastmod>2020-07-17T06:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1753,7 +1765,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu?via=indexdotco</loc>
+    <loc>https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu</loc>
     <lastmod>2020-07-15T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2413,8 +2425,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/</loc>
-    <lastmod>2020-07-11T04:00:00-07:00</lastmod>
+    <loc>https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry</loc>
+    <lastmod>2020-07-11T04:03:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -139,22 +139,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 42
-  - title: "Cognitive Computing Market Overview and Scope 2020 to 2027 | Key Players: Microsoft, IBM, Google, Saffron Technology, Enterra Solutions, etc."
-    excerpt: "The Cognitive Computing Market Report by Reports and Data provides an extensive overview of the vital elements of the Cognitive Computing market and factors such as drivers restraints latest trends supervisory scenario competitive landscape technological advancements and others from 2020"
-    publishedDateTime: 2020-07-20T18:49:00Z
-    webUrl: "https://www.openpr.com/news/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
-    ampWebUrl: "https://www.openpr.com/amp/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2093510/cognitive-computing-market-overview-and-scope-2020-to-2027-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
-    images:
-      - url: "https://cdn.openpr.com/T/7/T720444940_g.jpg"
-        width: 750
-        height: 350
-        isCached: true
 
 secured: "Z8pD67uRr3+KZ2LeW1NCRggxQxe8bncUrXJvE5nwTHWLftaEU31wEDUZMtFfg7IWqQHBZnGxTdZWZs7bIbMtE9Z4BWdHHaEyIpk0BLAxkrB1fV5gQrUCi1yXEfJd/SFaRrcV688DlxijUAFqg6ZLxMGahdaBlRSy/X9kXRXSYhayxVgHB1pkv7YvCdAdih2u4TkqsvhfQP7k5jv7ZGBaphZw+XeCR/ODOUxo97QwDNT5OG1cOUu29E8kIDFMXhdMzXw3jcLID3V5N+6l78cL1uwJvKWazs9xvpPfy7pvmflV87u10U5kIWqSi4rxTa7+j3/5tGeEis58L98mOqKi0g==;v74mJFGsaAweyW6NufthRw=="
 ---

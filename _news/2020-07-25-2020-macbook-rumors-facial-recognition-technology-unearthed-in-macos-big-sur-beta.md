@@ -1,45 +1,31 @@
 ---
 category: news
-title: "Facial recognition technology: In our rush to deploy it, are we ignoring the risks?"
-excerpt: "Taylor Swift uses it to identify stalkers. Retail stores are using it to provide a no-checkout, cashierless experience. Even churches are getting in on it to keep track of their congregants. Increasingly,"
-publishedDateTime: 2020-07-23T19:41:00Z
-webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
+title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
+excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
+publishedDateTime: 2020-07-25T10:40:00Z
+webUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026"
+ampWebUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 53
+heat: 93
+published: true
 
 provider:
-  name: Northeastern University
-  domain: northeastern.edu
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cssh.northeastern.edu/informationethics/wp-content/uploads/sites/44/2020/07/Screen-Shot-2020-07-17-at-2.13.52-PM.png"
-    width: 1488
-    height: 962
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
-    excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
-    publishedDateTime: 2020-07-25T10:40:00Z
-    webUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026"
-    ampWebUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Innovative Technology Launches Facial Recognition API for the Gaming Industry"
     excerpt: "Innovative Technology (ITL) has released an online API alternative to their ICU Intelligent Identification device aimed at the growing online gaming market. ICU API will enable your website to perform facial recognition & age estimation."
     publishedDateTime: 2020-07-22T22:38:00Z
@@ -51,6 +37,20 @@ related:
       name: ProgrammableWeb
       domain: programmableweb.com
     quality: 36
+  - title: "Facial recognition technology: In our rush to deploy it, are we ignoring the risks?"
+    excerpt: "Taylor Swift uses it to identify stalkers. Retail stores are using it to provide a no-checkout, cashierless experience. Even churches are getting in on it to keep track of their congregants. Increasingly,"
+    publishedDateTime: 2020-07-23T19:41:00Z
+    webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
+    type: article
+    provider:
+      name: Northeastern University
+      domain: northeastern.edu
+    quality: 33
+    images:
+      - url: "https://cssh.northeastern.edu/informationethics/wp-content/uploads/sites/44/2020/07/Screen-Shot-2020-07-17-at-2.13.52-PM.png"
+        width: 1488
+        height: 962
+        isCached: true
   - title: "Rep. Pramila Jayapal says successes of facial recognition technology can't negate its racism"
     excerpt: "Rep. Pramila Jayapal (D-Wash.) and other Democratic lawmakers introduced a bill last month to ban federal use of facial recognition technology. Jayapal says the good facial recognition technology is able to do can't outweigh the prejudicial nature of the technology."
     publishedDateTime: 2020-07-21T17:36:00Z
@@ -80,6 +80,6 @@ related:
         height: 356
         isCached: true
 
-secured: "bEq67xdhWr9MLmEIHeoWV7vzVGPKuCWL6JHDBTG7Qdae2km+ZFOHd8g6M0ezbeOIBk5NOQ+xvszqFKyWASDUZjHy2oiAfiGOnI+ju4GMpwPqRyqmQY+5w5D8NUlIKICiFmBIQHVNJPqS63OcVH/wBjOdZDZqscbZt6KOnWJRXN7QXpNp53F6jTfZAkBoclBD0FQjUmfxOcy4nnVw+LCdqpYojAy4FjyyHGsWPvD0oL7EMF787Trb2+Qhi/0gqjffXH0g2QB+U82dW7heQzbFA0fW8oI02hKeN9wCIxdHN/Jx2XJPkvCV/ypr+ZxgHHDuRdteQTg/rcai3vF/wUjsFQ==;ptdS+pQgYkd2lDPuKaHgKw=="
+secured: "z9IfX+lKe3JtfflTAzDooesRQVvBpydqv5kmvTdrx28EDDrW/McsUIRRj5q3OKqCHUh1Dh78tUqJh/9GqSD7wgkj37U3+SpARs/QypFB9xRFsrkO33L55gJeYvfjc9skIDYHNTd5IqRIgGSvmO3b343nNQpxb1RLG3qMd+awy/JMDNKhmVOedOu27dx2BIWv3EJIuJSz4ERqKtne2nU8zeMVieDfLcngl6EOjaRLJODsVlBGKZhdHcRN3PNc8vLlIXHmOqfahtZHW7FN/Tn5zBdXaylvSGNmYDgNzqStZQxUcwM+4jqk1yp87L3YmtwPkv10e+KyxbbgdYa5n31KRg==;DvYLpdyRF25N+fS5VJ0dwQ=="
 ---
 

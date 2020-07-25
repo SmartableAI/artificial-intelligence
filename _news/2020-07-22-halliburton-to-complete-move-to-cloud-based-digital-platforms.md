@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T20:05:00Z
 webUrl: "https://www.offshore-mag.com/business-briefs/company-news/article/14180171/halliburton-to-complete-move-to-cloudbased-digital-platforms"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -16,19 +16,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton"
-    excerpt: "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ..."
-    publishedDateTime: 2020-07-20T17:23:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
 
 secured: "dZf1VxeqBNbYiNqUs+F4ta8w0ui4ttOG6nY0vahWbQwh7hTVsxmNUmV+FeGnegWNv8P6OrG99m/A54ISGrDDMBaQx35HUyNbjgP/CRn1rM8W8paj8Q1yxv4M9QsL4Nbu/egGO70KEqrljsGwQwNZa1iWdKE2htXG4oTmfF4aaMrJcxeEzdcKkZs9mlqkMnwqaDAdOLZ4hw8teS+k0E9weCYxpepOHIhciRGo7SpWpXkNAqLUIcwd56dSHeulhS+RzN9f2YAJ2LlsEHsxlhbwY+LGzuxNkQeVMIRgYg2X6+X1LDiPHzTRi33hrBH347m0PHeziOEtJp2zw+XbQK/dgW/5FnYzMoRohFA9c8vat+vyqJ+o8ioOUZnDagrV8BlTPEZsYOf77iKOpD9UPbVKT0APWtvomXgGPR4O5i9mH5GyuRBsPhpy6nCKhxY4wXIB7mpybZWBPtemXGUepG+weM7bxISNickzWJVgFXg8dt6sCLQGhrMsKkXX/Kb4jz6HapW/qamyPMcpRVMSCGcAVg==;KSCNb7VxZD5UXx34rhVRWQ=="
 ---
