@@ -154,22 +154,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "State Senate to vote on facial recognition moratorium bill"
-    excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
-    publishedDateTime: 2020-07-21T21:28:00Z
-    webUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/dc/bdc5a438-188a-11e7-a429-2ff44cfdd520/58e27d54bdfe4.image.jpg?resize=1024%2C713"
-        width: 1024
-        height: 713
-        isCached: true
   - title: "Does your congressperson support a facial recognition ban?"
     excerpt: "A new scoreboard launched by several advocacy groups shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2020-07-22T18:33:00Z
@@ -359,6 +343,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lpbK6I+YHzJTw7UBYxyzx2+gVZyXc8PeiHpAmgwlJNeXIGvdtYAV0CnLJTTeVgThn9nzhImMAoyWTj2A9tpJkTwR/rtKpBxpNTM+40MbJqcXc+amcmnFUn1SMC2TmAuJ0UZaobn3JLipFRav6LP04748rrJ9ZVbxab+EQaoM2wRu+U9nf5tnmmtfSPLzoT3NNo+1+em9KXTbc5PhDyCUIxbKjmq68M//l2JexsyBVu10mW/7khaHl+t6S8OdmaadFGJc07NTgbQ6KXj42P/r5BcvLy0chsxJMG9+f7FPGm6M3S5i3WZj3Iqpcug4VPbzGV5TPlWrGjblB7NdUqWAHA==;vcO4fvpH4VDQg5qxS8kKOw=="
+secured: "Uoyc1w6fnSSawf0mB/3T9Lg8H5GJkaxWpE6SDAj5HQ/2llCJ3GZCIbhaIVsnxIyFfqoAPDiF6zRTakIO+0PXh0l43bXsHEjxxdLLQ/8OuzHUe5Veghdu2ZtXbuccQNM62pGpHMCIe9Dmy2ZzyrscRL9E6R0R0xFLsPmqv6g6WnBTHOEgPWf3EyaliHE5M0ABGKz77ALMCMdBiAutD6NTxyuyEpItEG/FyePVcTRUPEQpa5S2smYLpE47/144oDR4Hgm6QGU+K9JpBw2GkQYJV8HJWHC2XZJfw7ZS6CX+92wjvSWd34nWB/i3aEb/geX3KZokeNx0km2fD1d6hqmxBdKLxJm1B3ns7vYBr3Y77wSyUdrtfxTbVn4sKVEEQfIO8xrKqbHnXnwebYNA8STMTM/T9t/Zwxh+zDWhzPtg3rxK5Px3r2sJGkNneI08MksmGjNNYpCIPk8K+p+k4V2nh12B0dxNEmZe+7gcoCrOzb2RnwcwD1VxaCUmno7hnEOh;ULFjIFQ/rfBw+N0XcubIBg=="
 ---
 

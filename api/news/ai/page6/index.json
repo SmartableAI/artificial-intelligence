@@ -2,6 +2,56 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-07-19-how-ai-can-help-in-a-recession.md",
+      "title": "How AI Can Help In A Recession",
+      "excerpt": "In this recession, some companies will emerge as winners, and many companies will fail. AI can be the key factor between them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f10bc82b7b73b000781148b%2F0x0.jpg",
+          "width": 788,
+          "height": 658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/07/19/how-ai-can-help-in-a-recession/amp/",
+      "publishedDateTime": "2020-07-19T11:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-ai-in-healthcare-neglected-area-in-new-zealand-law.md",
       "title": "AI in healthcare neglected area in New Zealand law",
       "excerpt": "Researcher warns of potential issues in the technology’s medical usage, while other reports raise concerns about NZ’s healthcare leadership.",
@@ -1360,56 +1410,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge.md",
-      "title": "Silicon Valley execs and Pentagon AI chief talk AI at the edge",
-      "excerpt": "Returning to the subject of tactical edge AI today, Mulchandani said advances in batteries, chip sets, algorithms, and other areas will be necessary to make progress in deploying AI at the edge.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/edge-computer-vision-transform.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/silicon-valley-execs-and-pentagon-ai-chief-talk-ai-at-the-edge/amp/",
-      "publishedDateTime": "2020-07-17T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

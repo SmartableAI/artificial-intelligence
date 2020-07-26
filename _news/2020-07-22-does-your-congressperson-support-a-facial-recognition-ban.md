@@ -154,22 +154,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "State Senate to vote on facial recognition moratorium bill"
-    excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
-    publishedDateTime: 2020-07-21T21:28:00Z
-    webUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.html"
-    ampWebUrl: "https://www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
-    cdnAmpWebUrl: "https://www-niagara--gazette-com.cdn.ampproject.org/c/s/www.niagara-gazette.com/news/local_news/state-senate-to-vote-on-facial-recognition-moratorium-bill/article_1c95cf28-cb99-11ea-825d-976fc6abf4e7.amp.html"
-    type: article
-    provider:
-      name: Niagara Gazette
-      domain: niagara-gazette.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/assets/v3/editorial/b/dc/bdc5a438-188a-11e7-a429-2ff44cfdd520/58e27d54bdfe4.image.jpg?resize=1024%2C713"
-        width: 1024
-        height: 713
-        isCached: true
   - title: "New York State pauses use of facial recognition systems in schools"
     excerpt: "The decision comes a month after the New York Civil Liberties Union filed a lawsuit targeting facial recognition technology to be used at the Lockport City Schools."
     publishedDateTime: 2020-07-22T20:26:00Z

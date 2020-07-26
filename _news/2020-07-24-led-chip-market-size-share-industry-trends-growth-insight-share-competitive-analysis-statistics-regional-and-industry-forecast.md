@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T13:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/led-chip-market-size-share-industry-trends-growth-insight-share-competitive-analysis-statistics-regional-and-industry-forecast-2020-07-21"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -26,59 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence In Military Market Trends, Drivers, Challenges, and Competitive Landscape till 2022"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 26, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025."
-    publishedDateTime: 2020-07-26T12:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-trends-drivers-challenges-and-competitive-landscape-till-2022-2020-07-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Self Driving Wheelchair Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
-    excerpt: "The report experts have analyzed various companies to understand the products and/services relevant to the global Self Driving Wheelchair market. The report includes information such as gross revenue,"
-    publishedDateTime: 2020-07-25T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice Recognition Systems Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 21, 2020 (CDN Newswire via Comtex) -- Global Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth ..."
-    publishedDateTime: 2020-07-23T01:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-systems-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2025-2020-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market Competitive Analysis, Market Entry Strategy, Pricing Trends, Sustainability Trends, Innovation And Technology Evolution"
-    excerpt: "Data Bridge Market Research published a new report, titled, \"AI in Fintech Market Global Growth, Trends, Opportunities and COVID-19 Impacts\" It has been accepted as true that the finest market research report is the one which is pertinent,"
-    publishedDateTime: 2020-07-25T14:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-competitive-analysis-market-entry-strategy-pricing-trends-sustainability-trends-innovation-and-technology-evolution-2020-07-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 14
 
 secured: "X17XPbFEIqZlJFhJ4B75QoseREu4HHFnzSfMc2Z6JpB5tNMNYLuUyZt2C5ZSRY8uqipSCGsiT3ConcjP5ahsSqonKXrB5IVd15vjg4edMq9jSDpqGN0/yuSX+HXTpJmmizQtbLMIHpGJVxDUYA+HVbdkqj3XKpyg0PH7YA4uaronsQjI2ebb/6CGPvCeVbuGpDLU2T9L+v+CrQv227wmQ/7wrNKhR6s0YoQYpAKSj6cAR+UezbMQJdgeu7zU/pV23qD1sQmeZtkBgCcJp02hf/bCqXjDWrZrI/jYHPeI76RrmUtOP5zzpBWK49WDwakZ99AGVRONSYApZmY8cVNeyA==;Gx6BuvK2WYIY2qs+0fP3Tg=="
 ---

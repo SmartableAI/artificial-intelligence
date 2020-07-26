@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-em
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/22/airplane-makes-emergency-landing-on-busy-highway-perplexing-for-self-driving-cars/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 563
     isCached: true
-
-related:
-  - title: "Aurora Is Bringing Self-Driving Cars And Trucks To Texas"
-    excerpt: "Self-driving startup Aurora Innovation has announced it will expand its testing operations to Texas, in addition to the testing it is already conducting in California and Pennsylvania. Aurora was founded by the former lead engineer for Google’s self-driving project Chris Urmson and tests its hardware and software in Chrysler Pacifica minivans and Class 8 tractor-trailers."
-    publishedDateTime: 2020-07-21T21:35:00Z
-    webUrl: "https://www.carscoops.com/2020/07/aurora-is-bringing-self-driving-cars-and-trucks-to-texas/"
-    ampWebUrl: "https://www.carscoops.com/2020/07/aurora-is-bringing-self-driving-cars-and-trucks-to-texas/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/07/aurora-is-bringing-self-driving-cars-and-trucks-to-texas/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/07/Aurorab-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
 
 secured: "cwLUE3h+J360dAlqG/tfSmm+u3L5c/fNaKJYzEpP2Cy9QKkAVklBILYONyxFSK8HDrAgRYQINYqFadJLtR64wXqPYTTwiQKLxNWHYKq0TxKeRkBJIFN3ExRU4Q4s2deJt3JCGgvbdpbVRSOdFd9aBCJ7Xq/HVWQlU8JE+myVFbGYqSpuK22jiPol0vuyn0Y7VjlTnaZZxgd5MNIq0XYr4KUR3kMT1oSZP2nexvudjjKBdUWfcN9n6MU07ZZEB3glEix80/gKo1AZUUJJrcV9ZN/ChVR22wZtrHDa0oa5FcW6FXyCghgAM3sYj2lKo3MvChPiaNjLYCFjOGPjxX8zdgLcKAnPGDRjYSUHOHUQUCnGNic58PPKv0CXIjRk01VUMGCAM00b2Q/g8alo/czZno5XrANu0Ad6ze3TSL/TOJLB4rPmR3wOTfFGCxpcekSoCNdCVUYxCuXch/pv/AfLbDkcJTMX5dRkE2uOIm7GKkZarnYLdSZxdYPmKTjXfoer;P9S+bhcRjm6+RuKsKLvM5Q=="
 ---

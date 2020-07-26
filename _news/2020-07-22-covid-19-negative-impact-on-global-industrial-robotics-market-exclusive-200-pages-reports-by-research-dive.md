@@ -23,22 +23,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
-    publishedDateTime: 2020-07-23T19:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-report-by-device---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "jTQaqqaPnzKFFv3X3nZQja/m8AHD3zgQDBa2CnblOPhW9P0Oxnjbr5V7dLHMB0QIegZr9AyRdsEzEteyiFqYAldDm5TTQjaWsOZ6Cs0lQbWEj3AVwxIjqZmqhC2PlHTrfFF07bHr0TscZlQfdninvSt9uXEZSw6I9dstFEbi+0V4O0mV80ph1QPo6xHgIoBFQcrbC5LcFFpAZXXtIhE3zQ/3R38BMsXiwNr+M1mrGXkPoUJo+3X6oLqSUWlv89E2gXvFcumyUNnY5hBkrS0+U2daUOwpyc82PHcJG7jALRHpeLC55qLkucP8BwFtF+7iAWY2EttElGNV1l/hjplJCZbTa6E7uH/DniRkn8B7NuKkJfYK3AUUXDjJKrc+yaGYPRIPH7Z309sehtzpggvG/eC1mNCfbiBSeBvtltyWr0y6FfCdFa0daUtxomVdZFp0rsy766lMd7JB+hOH75VD2xkLyh8RSoIxH19mRx7coCDs/fPZH6Qy3r2EJZuN76t4//KvSuXUWa3NMalqrHSTKQ==;oU1K6f8hsbnnihnf+u/o0w=="
 ---
 
