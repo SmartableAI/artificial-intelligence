@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/joemckendrick/2020/07/26/artificial-intelligence-loses-some-of-its-edginess-but-is-poised-to-take-off/</loc>
+    <lastmod>2020-07-26T13:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/</loc>
     <lastmod>2020-07-26T12:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2215,6 +2221,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the</loc>
+    <lastmod>2020-07-13T21:19:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776</loc>
     <lastmod>2020-07-13T21:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2223,12 +2235,6 @@
   <url>
     <loc>https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/</loc>
     <lastmod>2020-07-13T21:01:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770</loc>
-    <lastmod>2020-07-13T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2545,8 +2551,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry</loc>
-    <lastmod>2020-07-11T04:03:00-07:00</lastmod>
+    <loc>https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/</loc>
+    <lastmod>2020-07-11T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

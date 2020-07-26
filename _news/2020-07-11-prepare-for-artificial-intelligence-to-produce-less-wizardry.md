@@ -2,10 +2,10 @@
 category: news
 title: "Prepare for Artificial Intelligence to Produce Less Wizardry"
 excerpt: "Early last year, a large European supermarket chain deployed artificial intelligence to predict what customers would buy each day at different stores, to help keep shelves stocked while reducing ..."
-publishedDateTime: 2020-07-11T11:03:00Z
-webUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry"
-ampWebUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry"
+publishedDateTime: 2020-07-11T07:00:00Z
+webUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/"
+ampWebUrl: "https://www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/prepare-artificial-intelligence-produce-less-wizardry/"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 670
     isCached: true
 
-secured: "Le3zAekei89ZnciJ/wWUWkXYsBZVziQgOpgfrIcbM30CG+og1HaRbWT6H7naYzywDLuORpGu2XRdk5xlVVzYxXJdDr2tRGVapFhB2Y/39K+skZzvJuMT8RYXy0W7NBiBMAcChjM9LAt7kRyla9d84q5Lf53g9qXCfv5Ql31/4wc565ZkbbInMm+rtb0Z2guz5/8iTw9Zw6k/Be3ro2nI7kWiiwsYfOq5KKLaNEjWKMLB3z/cPpNS8YN+jJ9m/kiV4FvDyvbzCb3KXxilH8dpp7OEEwZvCz7L+/pQY0HXHATd7BWBS/FTnmq1ngEf3gPwdASlt5OotH5m8ZLIl1946Q==;ydS/VqWe+19QFmoZEYrXNA=="
+secured: "D3HONMImo+3OGJICjPxa18VRTFTn3RsArUQ1P+zQIKXgXHup+q7uiTAymV/NP03n5aJtIyPLnpQJMVmU9MGNi2lZwjk2BnhMrCKtylOPg7/Yrmhu8dS6UIsGAU2gsloxqpvPWvXnjDO/4TDMyFfVPQnSqxekAADtjP6OeGNo4LhEBHA23tbp01+gfydkKaJaDGUg+Ui5uWvQferaaUMU+0A7ZNYnbws3yoXdsNoVeYfCHE1IgQBKPx30fFMQCi6YGT0Xm3scu2b9iiPqBQALbTYeWYTmKdCK05rj1hNQG5/O135A0rJw4XbMwZ0AjH6Gb3XHDKiJRxD4hwhUyO1/Wg==;05D+JbZ/SV29/0dkEy7pug=="
 ---
 

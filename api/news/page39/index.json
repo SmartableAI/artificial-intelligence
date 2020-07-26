@@ -2,6 +2,55 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-06-25-ai-system-designed-to-aid-or-perhaps-replace-human-lifeguards.md",
+      "title": "AI system designed to aid – or perhaps replace – human lifeguards",
+      "excerpt": "Lifeguards do play a vital role in the prevention of drownings, but at large busy beaches, they can't always keep track of all the swimmers at all times. That's where Sightbit is designed to come in,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/outdoors/sightbit-ai-lifeguard/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/02e33c7/2147483647/strip/true/crop/884x589+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbb%2F70%2F6ea849894374b9603d9d13d5ba5a%2Fscreen-shot-2020-06-25-at-1.29.25%20PM.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI system designed to aid – or perhaps replace – human lifeguards",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/outdoors/sightbit-ai-lifeguard/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/outdoors/sightbit-ai-lifeguard/?amp=true",
+      "publishedDateTime": "2020-06-25T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-building-a-speech-to-text-notification-system-in-different-languages-with-aws-transcribe-and-an-iot-device.md",
       "title": "Building a speech-to-text notification system in different languages with AWS Transcribe and an IoT device",
       "excerpt": "Have you ever wished that people visiting your home could leave you a message if you’re not there? What if that solution could support your native language? Here is a straightforward and cost-effective solution that you can build yourself, and you only pay for what you use. This post demonstrates how",
@@ -1076,56 +1125,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-amazon-partners-with-formula-1-for-new-2020-racing-performance-stats.md",
-      "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
-      "excerpt": "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "publishedDateTime": "2020-06-25T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

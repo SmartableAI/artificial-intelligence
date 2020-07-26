@@ -100,22 +100,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Waymo, Fiat Chrysler Form Deep Partnership To Get Self-Driving Cars And Trucks To Market"
-    excerpt: "The broad alliance extends across Fiat Chrysler's brands and will focus on robotic Ram-brand light commercial vehicles."
-    publishedDateTime: 2020-07-22T05:02:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/"
-    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/07/22/waymo-fiat-chrysler-form-deep-partnership-to-get-self-driving-cars-and-trucks-to-market/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f178331107158000722c8da%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Fiat Chrysler, Waymo expand partnership for Level 4 self-driving"
     excerpt: "Fiat Chrysler and Waymo have agreed to be exclusive partners for developing fully autonomous commercial delivery vehicles and integrating the technology in FCA's passenger vehicles."
     publishedDateTime: 2020-07-22T05:27:00Z
@@ -209,34 +193,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/2019-ram-pm-vlp-gallery-exterior-08.jpg.image_.2880.jpg"
         width: 2880
         height: 1400
-        isCached: true
-  - title: "Waymo, FCA expand self-driving partnership"
-    excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"
-    publishedDateTime: 2020-07-22T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-fca-expand-self-driving-partnership"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/WaymoPacifica-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Waymo, FCA expand self-driving partnership for passenger, delivery vehicles"
-    excerpt: "Waymo and Fiat Chrysler Automobiles first partnered on building autonomous vehicles four years ago, and the result has been the self-driving minivan, now a fairly common sight in parts of California and Arizona,"
-    publishedDateTime: 2020-07-22T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymo-fca-expand-self-driving-partnership-passenger-delivery-vehicles"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/WaymoPacifica-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Fiat Chrysler Partners With Waymo on Self-Driving Delivery Vans Now, More Later"
     excerpt: "The Ram ProMaster commercial van is only the start—the same SAE Level 4 autonomous driving tech will be used across FCA's lineup."
