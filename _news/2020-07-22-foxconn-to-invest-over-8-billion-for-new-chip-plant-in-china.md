@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-22T09:13:00Z
 webUrl: "https://www.gizmochina.com/2020/07/22/foxconn-to-invest-over-9-billion-for-new-chip-plant-in-china/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Gizmochina
@@ -26,22 +26,6 @@ images:
     width: 1199
     height: 802
     isCached: true
-
-related:
-  - title: "Foxconn breaks ground for new chip plant in China"
-    excerpt: "Foxconn Electronics (Hon Hai Precision Industry) recently broke ground for an advanced semiconductor assembly and test plant in Qingdao, northeast China."
-    publishedDateTime: 2020-07-22T02:26:00Z
-    webUrl: "https://www.digitimes.com/news/a20200722PD201.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20200722PD201_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "kCsBX+YiIlRkOkQPB7aCmqMLGwH9rYBU8Ky+1Yq/U5lNrKWy19bFOtJDYhj2PYwu0HZHHFl0a9xwM5u1lmSpla2ABzNt6WB1WmLuBktySEDs/0w8kNLvAZpugh91zM9oK3N36k1l9nKHrWb2LVDwBenUu9hVMqc5gXDT3aU9vJMRRD3l9kqF8N+O36YY0yECBuG8uxI+Js49lKKTjfxx+IRxlqQpjkWRAUH6ZDNrlvmE5zfekx2c1/W4Qial5v/iQKCDt0WzHmr2hZH+frvukMStsQYpP1MvwzsZf+1CLkGU/Md/9KDno/tTHU/ayzqvhkCCyCZMlLuwpgJYGyBOWwz9bWwZBdze2wWfw9ioBGl/VTckLX7CxscPHB7AMMdGCnaX88VzjS8MDuVLEg2lgy2bgU1jtzmQ3veFgtltdEuLqLCZ2dizIV6AIoBsV3Q4NMs/oFPX/w/Rgogv3CSsayyBqpM4hHP9ZxNIMt5JFTaTdPyuWYDLg8VklDNie9ACZb2kKWoNNReLr8anO5BidQ==;gn+J4wOnYjtpQVnYUslUnw=="
 ---

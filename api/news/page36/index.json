@@ -2,6 +2,187 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-06-29-anders-ericsson-cognitive-psychologist-and-expert-on-expertise-dies-at-72.md",
+      "title": "Anders Ericsson, cognitive psychologist and expert on expertise, dies at 72",
+      "excerpt": "Ericsson, a Swedish-born cognitive psychologist, found that expertise was the result not of natural talent but of hard work - \"deliberate practice,\" as he put it, that distinguished the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/news/article/Anders-Ericsson-cognitive-psychologist-and-15372831.php",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/12/63/60/19610662/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-28T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-australian-government-sinks-au19-million-into-ai-health-research-projects.md",
+      "title": "Australian government sinks AU$19 million into AI health research projects",
+      "excerpt": "The Australian government has announced it will invest AU$19 million over three years into artificial intelligence-based health research projects designed to prevent, diagnose, and treat a range of health conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2018/12/11/ab9d2ce5-1e6c-4bc7-900f-486392d74270/thumbnail/1200x675/6e917f26544cdf82f38dfd6728fb6793/istockphoto-abadonian-835879592.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Australian government sinks AU$19 million into AI health research projects",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-government-sinks-au19-million-into-ai-health-research-projects/",
+      "publishedDateTime": "2020-06-28T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-malaysia-builds-its-mass-transit-system-in-the-microsoft-cloud.md",
+      "title": "Malaysia builds its mass transit system in the Microsoft Cloud",
+      "excerpt": "a member of the Microsoft Partner Network and a leading provider of software solutions for engineers, architects, builders, and owner-operators, to create its cloud-based BIM system. MRTC uses Bentley’s CDE, which comprises cloud-provisioned services ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-my/2020/06/29/malaysia-builds-its-mass-transit-system-in-the-microsoft-cloud/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/430/2020/07/MRT-Corp-SSP-Line-December-Taman-Naga-Emas-1-Large-1024x682.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Malaysia builds its mass transit system in the Microsoft Cloud",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-power-efficient-neural-network-with-artificial-dendrites.md",
+      "title": "Power-efficient neural network with artificial dendrites",
+      "excerpt": "The lack of these critical functions in artificial neural networks compromises their performance, for example in terms of flexibility, energy efficiency and the ability to handle complex tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41565-020-0722-5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41565-020-0722-5/MediaObjects/41565_2020_722_Fig1_HTML.png",
+          "width": 685,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-28-3-new-ways-artificial-intelligence-is-powering-the-future-of-marketing.md",
       "title": "3 New Ways Artificial Intelligence Is Powering The Future Of Marketing",
       "excerpt": "From an AI Chef to a Snoop Dog video ad, to digital people, here are 3 futuristic ways AI is taking brand voice to the next level.",
@@ -986,178 +1167,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-maker-of-self-driving-vehicle-sensors-said-to-be-in-talks-to-go-public.md",
-      "title": "Maker of Self-Driving Vehicle Sensors Said to Be in Talks to Go Public",
-      "excerpt": "Velodyne creates radar-like systems for self-driving vehicles that use lasers ... Backers include Ford and Baidu Inc., the Chinese technology firm, which together invested $150 million in Velodyne ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-06-26/ford-backed-velodyne-is-said-to-be-in-talks-to-merge-with-graf",
-      "publishedDateTime": "2020-06-26T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-elon-musk-starts-another-catfight-with-jeff-bezos-after-amazon-buys-zoox-self-driving-car-venture.md",
-      "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-      "excerpt": "This time, Musk took aim at Amazon’s $1.2 billion acquisition of Zoox, a venture focusing on self-driving cars that could compete with Tesla, the car company that Musk heads: .@JeffBezos is a copy 🐈 haha https://t.co/plR7uupqBG — Elon Musk (@ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/190410-musk-bezos-630x366.jpg",
-          "width": 630,
-          "height": 366,
-          "title": "Elon Musk starts another catfight with Jeff Bezos after Amazon buys Zoox self-driving car venture",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/elon-musk-starts-another-catfight-jeff-bezos-amazon-buys-zoox-self-driving-car-venture/amp/",
-      "publishedDateTime": "2020-06-26T12:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai.md",
-      "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-      "excerpt": "IT failures are more common than we think. Admitting that you have a problem means there is a risk in doing business with you, and that leads to customer churn. Most companies try to conceal their failures and pretend there is nothing wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/11/future-artificial-intelligence.jpg",
-          "width": 650,
-          "height": 400,
-          "title": "Our fragile 40-years-old Banking infrastructure can only be saved with AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/our-fragile-40-years-old-banking-infrastructure-can-only-be-saved-with-ai/amp/",
-      "publishedDateTime": "2020-06-26T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-ironscales-adds-natural-language-processing-to-its-email-security-kit.md",
-      "title": "Ironscales Adds Natural-Language Processing To Its Email Security Kit",
-      "excerpt": "Email security firm Ironscales has deployed natural-language processing (NLP) to detect common business email compromise (BEC) attacks. The firm uses machine learning and neural networks to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/353068/ironscales-adds-natural-language-processing-to-its.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-26T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

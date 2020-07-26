@@ -58,6 +58,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market"
+    excerpt: "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ..."
+    publishedDateTime: 2020-07-24T13:33:00Z
+    webUrl: "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    ampWebUrl: "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/T/7/T724430476_g.jpg"
+        width: 800
+        height: 480
+        isCached: true
 
 secured: "x17s188cmO33NVT+tZ2Rrq5m2lj9mW0qZAghabx93mUDp5ygT+cXOhfjn1gxZEyM2cUn1jBp4vLHTQz0N/A+aLHDTUEvsSnxyzbPj66B/XpdTWce/EwLvtLGQO2dhF3TywpL7C5wwoCobjdP2b99RQih2ykLslfmWzcnKU1q3N+DaquvGa2MNzOkeS8c4ByQ4devqdBvMwTbadMl3kmV+izk9ZFyXdYoFiN/NP5ghEYA3ANzD96G6l7q5MGEIt23AL0RCFFZdeK28Jj9+olnyqaGR+PyOtCQqOKSvY1eR6MvFg/VrsGp6t/5tSaAN+4bMCZHN5liGoF7vYVJmg7jMw==;Mmaa/xskvtLLcoCaLEdHzg=="
 ---

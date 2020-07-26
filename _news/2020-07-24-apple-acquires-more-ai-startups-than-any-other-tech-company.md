@@ -45,6 +45,22 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Artificial Intelligence (AI) in Construction Market"
+    excerpt: "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ..."
+    publishedDateTime: 2020-07-24T13:33:00Z
+    webUrl: "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    ampWebUrl: "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 72
+    images:
+      - url: "https://cdn.openpr.com/T/7/T724430476_g.jpg"
+        width: 800
+        height: 480
+        isCached: true
   - title: "Pype Dream - Autodesk to Change Construction Workflow with AI"
     excerpt: "Autodesk has announced its plans to acquire Pype, a DC-area based startup that has created AI-based software to manage spec books and submittals, documents common to the construction industry. Submittals are composed of shop drawings,"
     publishedDateTime: 2020-07-23T15:51:00Z

@@ -5,9 +5,9 @@ excerpt: "The global Artificial Neural Network (ANN) Market size is expected to 
 publishedDateTime: 2020-07-23T17:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 68
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -20,12 +20,24 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence for Marketing Market to See Booming Growth with IBM, Google, Intel"
+    excerpt: "Latest released the research study on Global Artificial Intelligence for Marketing Market , offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence for Marketing Market research report shows the latest market insights,"
+    publishedDateTime: 2020-07-22T09:57:00Z
+    webUrl: "https://menafn.com/1100522463/Artificial-Intelligence-for-Marketing-Market-to-See-Booming-Growth-with-IBM-Google-Intel"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
 
 secured: "DLIwzNbZ3rtNTrKR3wLR1gvNYTt256CAzus6JHpyldOgyGgYLoxPAxkcJdSqJ3GkF5Zbzz357GNxtQh2qc2weWBIgzNfL6g2OQ3qDtT0zHqxR/gw2gzR86qqjCDNtA/Gs83ugyGhGMfzqwCtr/z3keqFVakVdom+TIer/3nq62hcrlvMiTvfl6hkEgjBHftO7Mo26ziYo2eWAtw4p9QnTs+36P6dTZzDZWtNebumXSStEeRYa9wDK4LWzLNWhNGKGb1AIvuVQ5Kl9mCrom0OxOLJBBRQcIGMk/mo7+tlWOYlV4Gu6TarBkMcrsm59xuWXNe5XHMdgmFg+gthEg45Xg==;uwTKj7tc8SwCmd5WTA4sZA=="
 ---

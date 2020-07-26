@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/07/tt20_060_podcast-thumb-100852767-large.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
-    excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"
-    publishedDateTime: 2020-07-22T02:23:00Z
-    webUrl: "https://www.globaltimes.cn/content/1195270.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 27
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-02/42e2dcb4-d86a-4852-971d-482bdd9d8dcd.jpeg"
-        width: 500
-        height: 300
         isCached: true
 
 secured: "BVrnAzgGDleyFBLAkck9juFDuQMGHcY7v2+35TImPVMnrWtdnxlfZvgSu7YO5zrL0l4RSAOrKBAmNif/8+wGHSDzRhxW6eS9GpLJxbadLC1UyR4gbKSjDH34EUnyBnvKjq9AYvh61TqDtG0LM/HIu7uPq3HevLiN/uGXCYNPKgnToGFzttwa3e5Beu6pY4G4jtnn/3bROhQbByOq82yuyznzz4XbsrMW9B/+I8tYjKMi4Uh2mrcJNuzOBWvZdeYQm3+ndeMKGGY+0yxm3Mf7hT9LSFOwuxCz/KDDQTav5IigqwFu5UBUhBBHxJhRP7+1rTWPwIUYqJ7dvbGsgIs3ceBoHK6xjQO+ZOL4FrsIhq/ZyIbqdKyRe2yixRkGaHJDyWNUfEXbn6JGBM2letNO5pE76JS6GsmITdok/5VoXInU7OoGU0Lu9gNe8SecJnx7I1nULSX94PxdrlbyJe/LIsWCD2udl0PcazQ9JpVl7+TbRVFiL8oc7fbncb6CSd1h;LibdeVE3XIRjF2Lg1fF1ZA=="

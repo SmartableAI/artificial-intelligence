@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T16:41:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm-2020-07-23"
 type: article
 quality: 62
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 409
         height: 400
         isCached: true
-  - title: "Artificial Intelligence for Marketing Market to See Booming Growth with IBM, Google, Intel"
-    excerpt: "Latest released the research study on Global Artificial Intelligence for Marketing Market , offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence for Marketing Market research report shows the latest market insights,"
-    publishedDateTime: 2020-07-22T09:57:00Z
-    webUrl: "https://menafn.com/1100522463/Artificial-Intelligence-for-Marketing-Market-to-See-Booming-Growth-with-IBM-Google-Intel"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 7
 
 secured: "SRu/q6m9NzsDPGM/A+Ozqu2gNnD4pxqCQZ1CqOZdVhPiFRA+0ivexQT62XisTYK25cOFYD9IG5okRtBUawUzEKjn6BQcxFp54J9vLsSqiS0q+Xxj8wErzHHG03hU/wDywxWDlyolVqFbpFU3RIrTOpv10ryaJ2mH/NZQcODW1jOjnlCZZcc1FHzjVW50B9CFMiGwpwfNkp+vgN+qHmqMMFvaH2uVdxZ0rUkaLQnjzDhcMnUHAbv1BaU++RH0HOB3cCaKqrrf+fpSyt0dCQebkNgOnY/VyCBSfUKJVcqvKJ9sga+MYNbMO15VHgjG/PrztvMYaBsnxiBa4ZKghUCS0A==;BWmn5OnqyUrwRnN+KQWEMg=="
 ---

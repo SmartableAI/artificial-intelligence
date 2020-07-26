@@ -2,6 +2,189 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-14-the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020.md",
+      "title": "The nominees for the VentureBeat AI Innovation Awards at Transform 2020",
+      "excerpt": "Here are the nominees for VentureBeat's second annual AI Innovation Awards at Transform 2020. The winners will be announced July 15.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/vb-transform-2020-ai-innovation-awards.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/the-nominees-for-the-venturebeat-ai-innovation-awards-at-transform-2020/amp/",
+      "publishedDateTime": "2020-07-14T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-mr-roboto-and-artificial-intelligence-are-social-distancing-winners.md",
+      "title": "Mr. Roboto And Artificial Intelligence Are Social Distancing Winners",
+      "excerpt": "A bevy of themes, including cloud computing, streaming entertainment and video games, are benefiting from shelter-in-place and social distancing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14",
+      "publishedDateTime": "2020-07-14T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-virgin-active-south-africa-outlines-plans-for-a-safe-re-opening.md",
+      "title": "Virgin Active South Africa outlines plans for a safe re-opening",
+      "excerpt": "The South African arm of Virgin Active has released the procedures it is going to put in place when it re-opens, including online bookings for attendance, capacity monitoring and employee screening.",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2020/07/Virgin-Active-South-Africa-ReOpen-Image.jpg",
+          "width": 797,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/amp/",
+      "publishedDateTime": "2020-07-14T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-ch-robinson-microsoft-partner-to-boost-supply-chain-digitization.md",
+      "title": "C.H. Robinson, Microsoft Partner To Boost Supply Chain Digitization",
+      "excerpt": "As its technological evolution progresses, C.H. Robinson Worldwide Inc (NASDAQ: CHRW) is now expanding its relationship with Microsoft (NASDAQ: MSFT) to bring the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-14_at_1.22.10_pm.png",
+          "width": 1270,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16617586",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16617586",
+      "publishedDateTime": "2020-07-14T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period.md",
       "title": "The Market Growth for Artificial Intelligence (AI) Chip is Expected to Surge During the Forecast Period",
       "excerpt": "Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and",
@@ -48,7 +231,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1230,197 +1414,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-supermarket-chain-mercadona-faces-gdpr-probe-over-facial-recognition-system.md",
-      "title": "Supermarket chain Mercadona faces GDPR probe over facial recognition system",
-      "excerpt": "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "publishedDateTime": "2020-07-14T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry.md",
-      "title": "White Castle Selects Miso Robotics for a New Era of Artificial Intelligence in the Fast Food Industry",
-      "excerpt": "PRNewswire/ -- White Castle®, the country's first fast-food hamburger chain, announced today a planned pilot with Miso Robotics – creators of the first autonomous grilling and frying kitchen assistant,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/white-castle-selects-miso-robotics-for-a-new-era-of-artificial-intelligence-in-the-fast-food-industry-1029391077",
-      "publishedDateTime": "2020-07-14T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-white-castle-is-adding-flippy-the-automated-robot-to-help-cook-sliders-and-fries.md",
-      "title": "White Castle Is Adding Flippy, The Automated Robot, To Help Cook Sliders And Fries",
-      "excerpt": "the robot in one restaurant in September to measure its back ... The Flippy system also includes artificial intelligence that sort of acts like a kitchen quarterback. “The technology can watch the grill and know when the grill is backed up, but that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0cc80bb1919a0007424407%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aliciakelso/2020/07/14/white-castle-is-adding-flippy-the--automated-robot-to-help-cook-sliders-and-fries/amp/",
-      "publishedDateTime": "2020-07-14T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year.md",
-      "title": "Miso’s kitchen robots will slide into White Castle restaurants this year",
-      "excerpt": "Startup Miso Robotics is teaming up with White Castle to deploy its food prep robots in fast-food kitchens later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/IMG_4228.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/misos-kitchen-robots-will-slide-into-white-castle-restaurants-this-year/amp/",
-      "publishedDateTime": "2020-07-14T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

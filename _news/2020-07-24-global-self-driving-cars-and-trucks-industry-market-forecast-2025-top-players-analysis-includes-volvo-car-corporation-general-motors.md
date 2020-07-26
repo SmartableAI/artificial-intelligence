@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
-    publishedDateTime: 2020-07-23T19:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-report-by-device---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Software Industry Outlook 2020-2025 - Market Revenues to Grow at a CAGR of 41.6% Between 2019 and 2025"
     excerpt: "The \"Global Artificial Intelligence (AI) Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41."
     publishedDateTime: 2020-07-24T12:09:00Z
