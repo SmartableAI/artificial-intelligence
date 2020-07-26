@@ -2,26 +2,20 @@
 category: news
 title: "New Google fund to address missing data for key research"
 excerpt: "Google has launched a new Lacuna Fund which is the worlds first collaborative nonprofit effort to directly address the missing labeled data in the field of languages to health and agriculture and more."
-publishedDateTime: 2020-07-25T06:11:00Z
-webUrl: "https://www.dailypioneer.com/2020/technology/new-google-fund-to-address-missing-data-for-key-research.html"
+publishedDateTime: 2020-07-25T05:43:00Z
+webUrl: "https://www.sify.com/news/new-google-fund-to-address-missing-data-for-key-research-news-education-uhzflMdadhdjh.html"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/new-google-fund-to-address-missing-data-for-key-research----10-27-----july-25--ians--2020-07-25.jpg"
-    width: 1000
-    height: 800
-    isCached: true
 
 related:
   - title: "New Google fund to address missing data for key research (10:27) , July 25 (IANS)"
@@ -39,6 +33,6 @@ related:
         height: 240
         isCached: true
 
-secured: "BJCxoCgQWX3m487R0EQEz4YZp4qM4oI3ZjFhXQ2sdi8H5082swniiODH9Xwcq7tSVlRDt1ituLUwHhFEWznhMaJkEgzXXo/4tCPDL5Ms8ahtqb9O2FVcoUOFUpCksERTkbLng8zvBsJGS6Aet8XwXmMGUEqaZayr0AMNEDAPgPSjwhsyWTs6pt+gYng67Rlv3b9U2yP/WE19fh7zDDLHzhKjUNgqcKIaKvR84oxJPIosIEokgV+zJW/114XgPHzFj1AQ/Jtq3KAaSafsWZK9racpLljc9pq/qcui9WtZfj3su5n+oBOWGpYLXwgMEJOqlhUElpov2dNrCIvdvRDqxMIcnc47arIYDMCeWD44pg7KLTc7ylHfi5PzdEsMe62qu9HbxeNuakPMAv4e0chmo27TX5VSBI5EEdLgaqnb+ZGB+q/MWDq418IBKmHgXBiM47jNkBgLoLbe1qcte97gU2AMjz6D8uFrSxKN69u0At0Psx0ARyRXEPX+e1l6qT3dJKx6bmnDIhSeJV9nUmszbg==;ts/XBhjOw953X4yjN/jwqg=="
+secured: "ZSpzgDFrwvrCr+vGycsNJYiaF1bjh1AHbz2k6xz/XqAPIJRNKReLNG1sW8GaMbdLCKmPZN5T9vNGBvvn2qumDgPBi1SkyZCqZ/9Bc9z/Zch9xQtY9e3PIIFSLorjbu7ynINNe8nELxXvQpksZtCTFIQjig7FyHdPREMpeoK2998rqGOle2iir4HdMaPtTaYLRrRkBBhvzHM9d2HfplIvMfEbXwauCXMiQUhbdH6Hzhcdb+qgHXEag9nfyOA9tCFdrKjhzY+00IvQH0/urU4j4p6ss/69aBA8HB9cNBrbSHAya3ZGeun6wxJ8iMFaH24zJIfUoUtB1PZ5qEcnbm/j3w==;oxY4SnCiN3m3SEfbq0Ocfw=="
 ---
 

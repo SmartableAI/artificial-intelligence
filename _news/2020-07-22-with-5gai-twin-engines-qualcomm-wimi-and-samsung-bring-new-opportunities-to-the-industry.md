@@ -25,22 +25,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "With 5G+AI Twin Engines - Qualcomm, WIMI and Samsung Bring New Opportunities to the Industry"
-    excerpt: "HONG KONG, CHINA / ACCESSWIRE / July 21, 2020 / The arrival of 5G will bring new explosive points for market development. AI will usher in a new wave of growth in the 5G era. 4G technology has brought opportunities for the server market to speed up development,"
-    publishedDateTime: 2020-07-21T08:20:00Z
-    webUrl: "https://apnews.com/83e70daa68b72290fec00095efa73045"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "3N8YyQFGq3Q/3y78xWRXXGuh6P/Ve1PHjWNm24SivFkZ1OtlEbZPIttUbJknxo0ekQyBqVMMc3nQrNYRcLCWpIAZK7C6qP9EXXe3F3KXMED/IUG8K6dNhriRXXNKWAhAOVOTyylC42+Mfd97ikNoaVsGAfLWYRp8sdrHZgGH+VetEUoh5CcnDVSE33GyHGojGUzBhFr/K9udd5tyWA71rZpLsCCYXz/z3Y2sWq5SrhOcUF4GuYKRAzQOeXNpX9Jd7C3HUlwECYViMenlvktFW3VhtUBOFVDpKc1y698QjfTksetZKwY74Ad+Lo2XS1E7BAWeUnnEQSrE90R8xfMdiIZBlRWsRNX7IqeHc6qNl3IfBKNDb3x3yZZXxvdGEw+D1yIOivdi4YfpxoYnEfIbiV9oq4ZiWkb728HfQVDkrn/L21k1bRrzZDWQGtSEW7JkCDaIb2dbgzIOgHkfbZYRu4mzi8qxDz3vo5A5XUAV+F7HTwpjC2JllG+kxyES+OVYn4CaFF7uVplsDKPOXSlHzA==;R08IqR2DxTDGEQyYurj1NA=="
 ---
 
