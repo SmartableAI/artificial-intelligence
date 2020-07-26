@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports"
-excerpt: "BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and increasing demand ..."
-publishedDateTime: 2020-07-09T16:10:00Z
-webUrl: "https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to ..."
+publishedDateTime: 2020-07-09T16:16:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-    width: 920
-    height: 482
-    isCached: true
-
-secured: "f1QqHauRiBpjWFNHbynok4NQte4ZRZjkRpVUM663zH6WZcA8W2SqpcZ7oswRjmCN9sWZPPuE/kE/DYGkV5xd4ojBYu5z230z43tX5dgmGCa5D+dgMhe6OqCYQYmxZyzL1VS4bMxYTxYw71ly5AOGboe24pa9dpE3HE4BI8axYOgG1cJQLQNkyKHr6sCAqD2Tfx0hSIwT8V52nR0B/tj6VPYam1PAJbIHBiGz99VIhcOIJtbxb55z6fuF3Np4iEpZv2DFClo5OkqLrKZFMQe4DYms77vRN676AK3JNq2oRTS7APqEn/Zs2hTuyTwW/3Dtu3q7V6WPdo3dbeH1Dv1fnA==;VcsCqyUhpUzXxtVy+NBLKQ=="
+secured: "+O0Yf8pinipY1Vl2UWdot7kjOy80Y5MnAJkWl9lZDhpCnadnEwl5dzXFAA5Mome9tjC8TooOEIyNFGh5IVakCGVEfiqqGQEyxTXj1tRwWKSfep885WrfXtAb1YiT+1jDV2AzUUsbKlqJOeMXb+3vZlBrhVDH0yCduO5nBK+X6C735pDTj6Y7Itf5/PBwV1kX/OnIpfTpwRl/VEqRvNEzgC0eLonskXIvbE0VzDqD+0o2bw/cf9OHRwJwTdKj5FISggPFSNbBCbUF1ImcIRYbiuV99C26d4tZ+x+cD6JkdWh3b5w+AO/LDHpE1wCEfFmy2cZVIjdByPV3LmHDj/aCyA==;7/cOCwTPFl7ecO1XBrfTEQ=="
 ---
 

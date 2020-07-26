@@ -51,6 +51,56 @@
       ]
     },
     {
+      "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
+      "title": "Tech Startup Funding Declines as Pandemic Drags On",
+      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-212166/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
+      "publishedDateTime": "2020-07-23T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-livongo-health-peer-ontrak-is-up-over-100-this-year-as-virtual-healthcare-picks-up-steam.md",
       "title": "Livongo Health Peer Ontrak Is Up Over 100% This Year as Virtual Healthcare Picks Up Steam",
       "excerpt": "If I said, name a technology-driven virtual healthcare platform growing revenue at a triple ... some homework will reveal whether owning shares is worthwhile. The artificial intelligence (AI)-driven platform targets and engages with those coping with ...",
@@ -565,56 +615,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-tech-startup-funding-declines-as-pandemic-drags-on.md",
-      "title": "Tech Startup Funding Declines as Pandemic Drags On",
-      "excerpt": "Venture-capital funding for U.S. startups declined in the first half of the year, threatening a key source of information-technology innovation for larger companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800?mod=rss_Technology",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-212166/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800",
-      "publishedDateTime": "2020-07-23T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1373,7 +1373,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {

@@ -74,17 +74,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Moscow subway to deploy facial recognition surveillance system"
-    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
-    publishedDateTime: 2020-07-21T14:31:00Z
-    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    type: article
-    provider:
-      name: Meduza
-      domain: meduza.io
-    quality: 39
   - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
     excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
     publishedDateTime: 2020-07-23T22:50:00Z

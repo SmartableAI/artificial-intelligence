@@ -24,6 +24,22 @@ images:
     height: 439
     isCached: true
 
+related:
+  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
+    excerpt: "Luminar Technologies Inc., a prominent tech firm in Orlando, is staffing up key positions, including chief financial officer, as it prepares to begin shipping its self-driving sensor platform in the coming year."
+    publishedDateTime: 2020-07-24T20:22:00Z
+    webUrl: "https://www.wftv.com/news/local/self-driving-tech-startup-luminar-taps-cfo-it-scales-into-production/YEDS2ZOMEZF23HJRX2H2GGVWLQ/"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 24
+    images:
+      - url: "https://www.wftv.com/resizer/9kJDlUhAE6KU9txoYzbd7_v7vC4=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/G3CRDHOT6FFV5GHRJFI7XD5SWM.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "4R+ncAHdnhmvXBHYgQnRHlZWgHtncJLoXqpd/UDyrhZJdds6o8C6xPBFLG0+yDwiQ8+FNlz+wLWloNmNASat8mhjUXXEU7BhfukEOMvkL38G+MvzDaSZy6XY/amxwjI677R/Y4UFjdUBi2WBXQPDNlRacFg9iyMC5Cqv3VsmCUFx0VUjytrQzQt0EPXFeq4wzr0ZStdZSUNTwxnFYYRxtGMZUwGrEwdhn0Gew/eF5wAyt1Mtect/mOBUz5i9Z/1VGr1a2q/8RcRcPt1aFEuzSEFQrLzw7czkeqoDnndaEw0bbEv22wUttz3TK94lnUqTR3RHn3Zl5g/IXj1iaN8z+A==;3Ksx4QrB0xPRpNbWDKYgDw=="
 ---
 

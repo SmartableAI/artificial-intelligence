@@ -28,48 +28,32 @@ images:
     isCached: true
 
 related:
-  - title: "In An Industry First, Plus.AI To Submit Their Self-Driving Trucks To Independent Testing"
-    excerpt: "Self-driving truck developer Plus.ai announced today they have finalized an agreement with the Transportation Research Center to conduct rigorous independent testing of their Automated Driving System in realistic conditions."
-    publishedDateTime: 2020-07-21T13:55:00Z
-    webUrl: "https://www.forbes.com/sites/richardbishop1/2020/07/21/in-an-industry-first-plusai-to-submit-their-self-driving-trucks-to-independent-testing/"
+  - title: "Self-driving Car Market to See Huge Growth by 2025 | Apple, IBM, and Cisco , Waymo, Toyota"
+    excerpt: "HTF MI Analyst have added a new research study on Title Global Self-driving Car Market (2018-2024) with detailed information of Historical, current and forecasted market size data for the technology components in the global self-driving car market (radar sensors,"
+    publishedDateTime: 2020-07-22T00:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-see-huge-growth-by-2025-apple-ibm-and-cisco-waymo-toyota-2020-07-20"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 60
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f16eba8345feb000791c18f%2F0x0.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 703
+        height: 630
         isCached: true
-  - title: "Plus.ai partners with Transportation Research Center to test self-driving trucks"
-    excerpt: "Plus.ai, the Silicon Valley-based self-driving truck technology startup, announced on Tuesday an agreement with the Transportation Research Center (TRC) to test Plus.ai's"
-    publishedDateTime: 2020-07-21T15:59:00Z
-    webUrl: "https://www.benzinga.com/markets/20/07/16711823/plus-ai-partners-with-transportation-research-center-to-test-self-driving-trucks"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16711823"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16711823"
+  - title: "Self-Driving Truck Technology Market Global Enhancements and Growth Outlook 2020 to 2026"
+    excerpt: "Driving Truck Technology market report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Self-Driving Truck Technology industry."
+    publishedDateTime: 2020-07-24T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-global-enhancements-and-growth-outlook-2020-to-2026-2020-07-24"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-21_at_11.55.26_am_0.png"
-        width: 1468
-        height: 858
-        isCached: true
-  - title: "Plus.ai to Test Self-Driving Trucks with Multi-Vehicle Approach"
-    excerpt: "Self-driving truck developer Plus.ai recently made an agreement with the Transportation Research Center (TRC) to conduct capability tests of Plus.ai’s self-driving system using a multi-vehicle approach."
-    publishedDateTime: 2020-07-21T23:07:00Z
-    webUrl: "https://www.truckinginfo.com/10121806/plus-ai-to-test-self-driving-trucks-with-multi-vehicle-approach"
-    type: article
-    provider:
-      name: Truckinginfo
-      domain: truckinginfo.com
-    quality: 39
-    images:
-      - url: "https://fleetimages.bobitstudios.com/upload/trucking-info/content/news/2020-07/plus-ai-__-1200x630-s.jpg"
-        width: 945
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
         height: 630
         isCached: true
 

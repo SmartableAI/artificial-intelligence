@@ -130,6 +130,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Ram vans to get self-driving makeover"
+    excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
+    publishedDateTime: 2020-07-26T07:31:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
+        isCached: true
 
 secured: "Mal8GTrHQqo72KTfQqPHkRbKaeS6mKAcTmTTqkvinKI0kLZnoHneortx6rLOumIHzf5gHb9g/iCDSxgDp07YT7uuKIemarEL9gbTQBBx/YcpiUjH5uNjhnDlNWPgtP4ijFXVSwwqaGIBNlxFLXoDwDJq21JBaSS23j/NmEr3b859SpHkl8Qvr9JgfF9JIUqntjARFvXNBD/x59eTzPTuxtDWNmjvHHA3iJmSlY2JrHsuPkeFYB8ZDgH5OmJD/TJSt3fSVzka7bSW1T48rbffEkHqAM/5eH0fuRqI63kCF0MG+oMhQ7nc5FA7E5UxyMXQhkTDJPKmrbjBfC4K6/ESE1yyDDumLg6HuYSyKf+X2w1btRJRBgg/Ahym/T/D1lgJryOBB03WSDDTZoYx4PCpo11mKR6AfRMuYDJT95ygVfTwGc9XdGMVzlt46LbpluRhqVYwdP+dRjlZUyMKVSnUs2zo2GOrXHmiVZ+LZDAUyulSgZnB1dYesNQs8XllMS8JF7HSFteBNV1OUmuASQrhvA==;3h9gakuhS2p9SKxjuPdcSQ=="
 ---

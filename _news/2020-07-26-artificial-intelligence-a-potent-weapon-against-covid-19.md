@@ -7,8 +7,8 @@ webUrl: "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-aga
 ampWebUrl: "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/"
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-26T094821.971.jpg"
@@ -25,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "aS3qy4v1/UFwvLXT616YmBnmyBj3qExz6V8HJfunYaThBEMZS4oEbbQY/eqrEqVgBoiUqrAi/A+uV5lQMq4VDmxrTqrCp6+aoPg/ZyPjJN5S5eJeCBPelBQhgIbN45ys+VpMRPye0DuRX47P/QuzgquknLXhDeondGP4mbIQKgsC8xhTISdLiK02ebimEVow0nIgUgGNlWo7VGu+hqLRuPDf8cAi3vGlCiFn9ZCk3sbQud3DwYL4l+Cil3VL973J0xBmeo2QJRqHQ2d50jPxPBT6Z67g/d50D+LvvcGaLHCtWKENLDBvR2mWP2vp230WtIZ2yEjBetHj/LoA7VyNgw==;BxmicLNoD1p7oULiXc8NbQ=="
+secured: "nntawFAMa2V4UuCFy4x7HXf7FffXcH7vmZxZ7OxKNhKBRRztO+bebR5FpZpTFbdwzZNrT9b8/6S6Sl9Ac7RHX8C7dUPtj21O9WExScZv5zgutmZo2vE1w+9ayk8xQ+FcdYx8+8dIUKdCkUGhWPc+Kd7974RK9B+3bRfaVg+/yUb6Re0hLQD8UJ93gBOpMlaKMVBFOct/kfUE2JoRhIxsRxOltgZkZvI6pCepcfGpTTTJnmIVTXxCIAtvR2FOIX7IO/3V5Rh+QlbAFoIMnshJXBj32frthl1eLhQm2gJ0t4THEtPSvu1mAKHUbX6LCdpOfgZvOcgdG9R0u6BZP2U5rraFVcBoTB3wodsw0raNupCC9vYRyd5uSITSn3RRMsnKf+rNWG64mXdpX+lvYb796VKxAmnZ587OUOo4wgqaXT/VPgFQpfWjGVC8qD64yhADx7zM9dVdSAv7ACmG0cU1h4YCqJLMKNI1ugkpe8J05IGPSD1DStKdrt9MWqDzJ3AQ2s4Z0FdFQk1u3Yc6tn9d+g==;1pfiHAwm14D231S7HnU8KQ=="
 ---
 

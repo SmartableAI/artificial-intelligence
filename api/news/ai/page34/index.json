@@ -2,6 +2,56 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-06-24-boston-bans-police-forces-from-using-facial-recognition.md",
+      "title": "Boston Bans Police Forces From Using Facial Recognition",
+      "excerpt": "It’s official, as of today, Boston’s become the second-largest US community to ban police use of facial recognition technology, thanks to a unanimous vote by more than a dozen city council people. The move follows similar bans by the neighboring cities Brookline,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/vedoqaujncze30yfosyq.jpg",
+          "width": 800,
+          "height": 451,
+          "title": "Boston Bans Police Forces From Using Facial Recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/boston-bans-police-forces-from-using-facial-recognition-1844150524/amp",
+      "publishedDateTime": "2020-06-24T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-how-product-placement-works-in-2020-with-ai-deep-learning-and-more.md",
       "title": "How Product Placement Works In 2020 - With AI, Deep Learning And More",
       "excerpt": "Lela London chats to BEN, the Bill Gates-owned product placement agency behind most of your streaming screen's magic.",
@@ -1328,57 +1378,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-teaching-ai-to-fourth-graders-is-a-thing-now.md",
-      "title": "Teaching AI to fourth-graders is a thing now",
-      "excerpt": "Real-world projects taught by industry leaders help fourth-graders understand AI in an innovative way, an alternative to cranking out a learn-to-code factory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/06/23/ae3777d3-b430-4d47-867d-c4acd0aa296f/resize/1200x/a43663c878d6831ebf3e25149e0be50c/create-learn-kid.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": "Teaching AI to fourth-graders is a thing now",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/teaching-ai-to-fourth-graders-is-a-thing-now/",
-      "publishedDateTime": "2020-06-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

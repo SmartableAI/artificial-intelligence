@@ -2,6 +2,38 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-06-30-ibm-is-it-a-good-investment.md",
+      "title": "IBM: Is “IT” a Good Investment?",
+      "excerpt": "Over the past few years, the company has been transitioning from a computer manufacturer to a leading cloud platform and cognitive solutions company ... AMZN)’s AWS and Microsoft Corporation (NASDAQ:MSFT)’s Azure. Many on Wall Street were optimistic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/ibm-is-it-a-good-investment-847806/?singlepage=1",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-29T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-30-ai-expert-mayur-rele-gives-an-intuitive-explanation-of-convolutional-neural-networks.md",
       "title": "AI Expert, Mayur Rele, gives an Intuitive Explanation of Convolutional Neural Networks",
       "excerpt": "CNNs were first pioneered back in the late 1980s based on a series of earlier work in the 1960s on Artificial Neural Networks (ANNs) and Multilayer Perceptrons (MLPs). They were initially designed to work similarly to the human brain. Of course ...",
@@ -1325,56 +1357,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy.md",
-      "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
-      "excerpt": "A new surveillance system is deemed \"inefficient and dangerous\" as it fails to protect the personal information of 4 million daily users, associations say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/24/e8481169-ff9b-466b-8e43-10b2b93dae57/thumbnail/1200x675/e7e0863bd1d561f06a8a84b6febb0d56/whats.png",
-          "width": 1200,
-          "height": 675,
-          "title": "São Paulo subway facial recognition system slammed over user data security and privacy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sao-paulo-subway-facial-recognition-system-slammed-over-user-data-security-and-privacy/",
-      "publishedDateTime": "2020-06-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

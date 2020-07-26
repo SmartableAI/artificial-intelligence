@@ -2,6 +2,47 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-17-homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software.md",
+      "title": "Homeland Security fears widespread mask-wearing will break facial recognition software",
+      "excerpt": "In the Source Summary Statement, the agency expressed “high confidence” that “violent extremists and other criminals will maintain interest in avoiding face recognition recognition systems in public spaces by security partners.” They only expressed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/02/Screen-Shot-2020-02-28-at-1.36.36-PM.png",
+          "width": 800,
+          "height": 430,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/07/homeland-security-fears-widespread-mask-wearing-will-break-facial-recognition-software/amp/",
+      "publishedDateTime": "2020-07-17T15:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-how-bmw-and-malong-used-edge-ai-and-machine-learning-to-streamline-warehouse-and-checkout-systems.md",
       "title": "How BMW and Malong used edge AI and machine learning to streamline warehouse and checkout systems",
       "excerpt": "Malong Technologies applies machine learning to a different problem: recognizing products at retail self-checkouts. Cameras overhead feed footage of objects on scanning beds to algorithms that ...",
@@ -1160,55 +1201,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire.md",
-      "title": "French AI Defense Startup Tracks Geospatial Data With New Savoir-Faire",
-      "excerpt": "Earthcube is a Paris-based startup formed to develop a new set of more complex algorithms designed to analyze and identify objects and ‘situations’ from satellite images, geospatial data or data from open sources of data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f117dadd0f077000607f3b5%2F0x0.jpg",
-          "width": 580,
-          "height": 261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/07/17/french-ai-defense-startup-tracks-geospatial-data-with-new-savoir-faire/amp/",
-      "publishedDateTime": "2020-07-17T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

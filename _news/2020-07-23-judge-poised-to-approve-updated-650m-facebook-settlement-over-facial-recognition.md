@@ -88,17 +88,6 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Moscow subway to deploy facial recognition surveillance system"
-    excerpt: "The subway cars working in the Moscow Metro will soon be equipped with facial recognition systems, reports the BBC Russian Service. According to a tender announced on July 9, the Moscow Mayor’s Office is spending 1.4 billion rubles (more than $19.7 ..."
-    publishedDateTime: 2020-07-21T14:31:00Z
-    webUrl: "https://meduza.io/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    ampWebUrl: "https://meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    cdnAmpWebUrl: "https://meduza-io.cdn.ampproject.org/c/s/meduza.io/amp/en/news/2020/07/21/moscow-subway-to-deploy-facial-recognition-surveillance-system"
-    type: article
-    provider:
-      name: Meduza
-      domain: meduza.io
-    quality: 39
 
 secured: "zpCHr2jAVKxvf3YD5Uk7HORVCc99BCwaFQ0N17woDB2F4ZdlYfg7kYVcG5In9ctDX3dB+N5PKF4JFFxKRNPlptvwGXwuI1tUboDJRg0hsW77yFWFs2/o6910wcPAPn1K0/QMCaoqg/vJnIO9JEyidYMaktmyIkjwSo7sOXteNORbiGKB73Fp3rBq1i2jsKNfm/50P9b/ocvu4nYIIdeLzb/NmtdaqmYGMijG7gxbamRyCRPVGqNWAqDzn0Mrc2Ebz9KVJwaRxv0lbUOnl43/TuGJHhXqlrHy4awumy3DY0EPw8Y9dO2HobOBSJJXMNsRJKKLasHZ/EZCbCMYuqEjsnYInZQk/px+yc1AUnJvppXSaz7eDSl2zb5jSN17UyDkXjr5OW5iuiECl7brH2v5WlV2ZAmPwOcZ9e96TgASHfBiku3O8t/p04S8aclcvhVziPkrh6/2KEMB6hvgLcKmrXfMg5ciC8oC3tqYMsSHuqNHOr1JrZA91YHJ2QvWMoK9YahNqgkO9AhCofUYpTpsrg==;9m7PG/5bCuun7lqYI7GHMg=="
 ---

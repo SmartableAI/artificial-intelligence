@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysle
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/WaymoPacifica-MAIN_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Ram vans to get self-driving makeover"
+    excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
+    publishedDateTime: 2020-07-26T07:31:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
         isCached: true
 
 secured: "j/cBtzkoezv2+91HoaJFH2iTW1P1UB7B7vuQRKt2tol1F0MJOp/Gg5q4h4L0DT94ilZS4kjHpt30B4P/RLGWaWrohNGkGLEsYkNCq3OkH57afn0EHzwe3Q0Hkq2HFxfNKVH2jfd6HaOUK48Y+sEAOhtWRaQaG+Nf8kdtvlOmEZLcRF0+/2AU4EeztVDDay8XeeCNQxPO4anw0cyETAWed887ZzPQUXUPnOWEtV9guNUEhZkAqVjFt00myNLQEL2VIHJBD+dizAPUE2GvP0Q9B008U7k+UULudjuACqrObQabicvKy76O0oilBTZlLH+mjZMKrfd8QXxFgpDn6oH+Y04hbsrBRzdh4PoibQDsGq/OIyWWxLoj0unKsHN6WTBgRsSx2+HtCNPLCBLJecPlU/5diPrRHJXyFkBcKQD9kc5gUa7BeWQRt99kx4qqwbbtQBrDQ3q5kI276Cmjuf9H4mWmnH2HAsnnZmDCKCKheuuYFG5mzyRTHbmhDgWM4UX9LZWv3bFc6Aa/LjrqOaupwQ==;+hywV2SVc+g4X63ChRmpJQ=="

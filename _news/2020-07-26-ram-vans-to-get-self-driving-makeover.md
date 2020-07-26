@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
-excerpt: "Click here to subscribe for free.) Automaker Fiat Chrysler (FCA) and driver-less technology developer Waymo are deepening their ties to build self-driving trucks. The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker’s full product portfolio,"
-publishedDateTime: 2020-07-22T07:55:00Z
-webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
-ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
-cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
+title: "Ram vans to get self-driving makeover"
+excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
+publishedDateTime: 2020-07-26T07:31:00Z
+webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/?business"
 type: article
-quality: 59
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Hindu
-  domain: thehindu.com
+  name: Arkansas Democrat-Gazette
+  domain: arkansasonline.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thehindu.com/incoming/om0u9d/article32158570.ece/ALTERNATES/LANDSCAPE_615/Waymo"
-    width: 615
-    height: 384
+  - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+    width: 340
+    height: 246
     isCached: true
 
 related:
@@ -88,6 +86,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Fiat Chrysler, Waymo deepen partnership to develop self-driving trucks"
+    excerpt: "Click here to subscribe for free.) Automaker Fiat Chrysler (FCA) and driver-less technology developer Waymo are deepening their ties to build self-driving trucks. The expansion deal will make Waymo FCA’s exclusive partner in developing L4 fully self-driving technology across the automaker’s full product portfolio,"
+    publishedDateTime: 2020-07-22T07:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/fiat-chrysler-waymo-deepen-partnership-to-develop-self-driving-trucks/article32158561.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/incoming/om0u9d/article32158570.ece/ALTERNATES/LANDSCAPE_615/Waymo"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Fiat Chrysler, Waymo to create self-driving delivery vans"
     excerpt: "Fiat Chrysler Automotive will be working with Google’s self-driving tech company, Waymo, to develop an autonomous delivery van. Continue Reading Below ELON MUSK SAYS TESLA ‘VERY CLOSE TO SELF-DRIVING CARS The announcement was made on Wednesday in Waymo ..."
     publishedDateTime: 2020-07-23T00:39:00Z
@@ -130,21 +144,7 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Ram vans to get self-driving makeover"
-    excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
-    publishedDateTime: 2020-07-26T07:31:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/?business"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
-        isCached: true
 
-secured: "s0xxpnqGu921Q5eJ0roAVfPm8wes/A4yTb8fYGZ7hgZDsz3YYutI1bBOuLUfgVk51KlnBVnb8zyfkJ9HcIQ20H1x0GTBo94dQyujK3tSYrc2e9yvfZ8gFekd/BTnKxDbxfCxnXELRtyKSSAx8431rqx06FPrCqV8rItZk6ifVs0HHsVJB136bYK9LcfiOpZ97npagG4ooCmsHOp+jkVXMNcEcmpsq+VNJdI81Z4JTwOfOMo/sbsJpMWlRCOvHWuMnEtzj4Hqd2ZVx2w8GNiTDrBF1Z2IlwEnio9EdDWwU3z3TVeSP7ybaXbqrr7VyUIHZvkbcht4bBcb0FxQ8E/2gAB6qM89znTFo9BPShaCGWsaHu/aMm8DpeMtzF5YgCu5mVGuOXfuchXq4/NipTMRSG1sKDXnNSfa2ylOpvwxCoIa0xzwrLGdlqxLJDBzcrQx1qI/LF2DJGDNODNmnO8zN//m9DyMfo/wM7QohSnA65zfoC+352uNFCu5XsWTs8mIJlv9uYtFzHXLhEJvKoS1tg==;bDQnInNfnvkFUOsizxmPTA=="
+secured: "k+DDFbCkWTokJ54Emg/xcs26DRs1joN80Z+AVUBszk3LLkfNJuzhJ7BYc9PqlTqjY5x5JNHo/SPadw0g5ztapGgYKkbPdQB4nMAUSX6suxtYEHMptZv8XpQAHwqph8Ph3DbEOWQATuNavvNeQ/29Vn/bRyaRvbNPnGmWmUniSrJqCzB02jW4Gg+EeL11Hdjs8tsefUcoh61or+0PHHIIiZQUUN2q+iOMhU/NOfaZBUuwk6YEFymwRWZbfDICeBs5yEY6FV/bkdy7xPEB0u8f0alDKsn/Akyf+ViVcje3yeZcixNQs5baYl/Bt4NR0BW34inOEgXBEOuoH38AKlXxbw==;n7u54/6CVI3mcye7MiOEPg=="
 ---
 

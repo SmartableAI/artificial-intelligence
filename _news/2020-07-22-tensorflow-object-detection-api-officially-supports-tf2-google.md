@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T06:31:00Z
 webUrl: "https://analyticsindiamag.com/tensorflow-object-detection-api-officially-supports-tf2-google/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 717
     height: 359
     isCached: true
-
-related:
-  - title: "Google Announces TensorFlow 2 Support in Object Detection API"
-    excerpt: "Google announced support for TensorFlow 2 (TF2) in the TensorFlow Object Detection (OD) API. The release includes eager-mode compatible binaries, two new network architectures, and pre-trained weights for all supported models."
-    publishedDateTime: 2020-07-21T13:05:00Z
-    webUrl: "https://www.infoq.com/news/2020/07/google-tensorflow-object-detect/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 56
-    images:
-      - url: "https://res.infoq.com/news/2020/07/google-tensorflow-object-detect/en/headerimage/google-tensorflow-object-detect-1595175445007.jpg"
-        width: 788
-        height: 443
-        isCached: true
 
 secured: "nAKNDjCggKz4APf8QDXuvTqyHjGrVjuKYcnfRQyoz2jp5aby+bPeP8O+Tjk5EWsL5jvOYELtrvgyExmnd3bhnp5n5ecK42aOF70B0tGh1oHX+1XlX7IpXlHK6VfpoWlpyWL1mfhEwMClGKs0cZNja6Spgs5jgp5A2KhK2PXo8ugK/HUcPtZFGskN0C1VeqNb17DqIlyCC3ANasjJoRbNCqGNGRioB0pcCYo9JYqgI/OTZAIPIZXy1t56zVWYmPRXwzGl3Qjf2S08IZrTJ/8nS3pWEL9B/LyyZwiXFOypaxv0WE9Fsz6qo/V9UTahqE3QZXofC9hrfnWkzup2yYC6fDUb+ofNlzpBn1Y+MB3LKvI/CzL0MfuFwgiDrmc4Ppeoj13ms/F/JDRw7T9Al0jGUZXi+K0nqredHROlbPhT+rOrGyaR941GXoR4hyHuy9LPy/7kNfbfOqu/Wku7ZskMnbQRpZwawcwrrv3wE+pQQz+EUtT1vXz0Ej0awa+14q9aWMne/lLzD+Cj9c4HVupS6w==;dNagOPXdIhoyagCumymN6A=="
 ---

@@ -2,6 +2,47 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-06-22-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report.md",
+      "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
+      "excerpt": "AI interfaces and chatbots have significantly improved customer service. The AI-focused Fintech market is expected to grow at a CAGR of about 21% in the next 5 years. In another new report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": "Global Fintech Market Is Projected to Reach $300 Billion Market Cap by 2025 Due to Large Investments in New Tech and Infrastructure: Report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/162997-global-fintech-market-is-projected-to-reach-300-billion-market-cap-by-2025-due-to-large-investments-in-new-tech-and-infrastructure-report/amp/",
+      "publishedDateTime": "2020-06-21T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-type-x-armored-combat-robot-equipped-for-unmanned-convoy-protection.md",
       "title": "Type-X armored combat robot equipped for unmanned convoy protection",
       "excerpt": "Estonia-based Milrem Robotics and Belgium's John Cockerill Defense have unveiled Milrem's Type-X Robotic Combat Vehicle. Based on a modular design and equipped with the Cockerill Protected Weapons Station Generation II (CPWS II) turret,",
@@ -1353,47 +1394,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-19-fintech-industry-report-2020-2025-trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic.md",
-      "title": "FinTech Industry Report 2020-2025 - Trends, Developments and Growth Deviations Arising from the COVID-19 Pandemic",
-      "excerpt": "(Note: The companies list can be customized based on the client requirements.)",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/fintech-industry-report-2020-2025---trends-developments-and-growth-deviations-arising-from-the-covid-19-pandemic-301080282.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-19T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

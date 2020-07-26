@@ -503,32 +503,32 @@
     {
       "path": "_news/2020-07-09-natural-language-processing-nlp-market-size-is-projected-to-reach-usd-276-billion-by-2026-valuates-reports.md",
       "title": "Natural Language Processing (NLP) Market Size is Projected To Reach USD 27.6 Billion By 2026 - Valuates Reports",
-      "excerpt": "BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to the rising interest in human-to-machine communications and increasing demand ...",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net BANGALORE, India, July 9, 2020 /PRNewswire/ -- The adoption of natural language processing is rapidly increasing due to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook",
-          "width": 920,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T09:10:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591",
+      "publishedDateTime": "2020-07-09T09:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
