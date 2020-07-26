@@ -126,22 +126,6 @@ related:
         width: 1057
         height: 630
         isCached: true
-  - title: "Facial recognition may become the new norm post-COVID-19"
-    excerpt: "From banking to marketing, Facial recognition has penetrated several industries, this technology could become the new normal post-COVID-19. Here's how."
-    publishedDateTime: 2020-07-21T23:47:00Z
-    webUrl: "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19"
-    ampWebUrl: "https://yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/facial-recognition-new-norm-post-covid-19/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 59
-    images:
-      - url: "https://images.yourstory.com/cs/static/default-ys-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Does your congressperson support a facial recognition ban?"
     excerpt: "A new scoreboard launched by several advocacy groups shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2020-07-22T18:33:00Z
@@ -253,6 +237,22 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2020/07/971974530.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a lawsuit from civil rights advocates challenging that move."
+    publishedDateTime: 2020-07-24T04:38:00Z
+    webUrl: "https://www.sfgate.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    ampWebUrl: "https://www.sfgate.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    cdnAmpWebUrl: "https://www-sfgate-com.cdn.ampproject.org/c/s/www.sfgate.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    type: article
+    provider:
+      name: SFGate
+      domain: sfgate.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/5/375x250.jpg"
+        width: 344
+        height: 250
         isCached: true
   - title: "New York legislature bans use of facial recognition technology in schools"
     excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."

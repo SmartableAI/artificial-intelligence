@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/</loc>
+    <lastmod>2020-07-26T10:43:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://singularityhub.com/2020/07/26/deepminds-newest-ai-programs-itself-to-make-all-the-right-decisions/</loc>
+    <lastmod>2020-07-26T07:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
     <lastmod>2020-07-26T05:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -73,13 +85,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/</loc>
+    <lastmod>2020-07-24T10:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.bbc.com/news/technology-53530454</loc>
     <lastmod>2020-07-24T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars</loc>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
     <lastmod>2020-07-24T08:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -547,8 +565,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX</loc>
-    <lastmod>2020-07-21T12:01:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer</loc>
+    <lastmod>2020-07-21T12:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -579,6 +597,12 @@
   <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/</loc>
     <lastmod>2020-07-21T09:22:13-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://markets.businessinsider.com/news/stocks/frost-sullivan-applaudes-aws-for-leading-the-automotive-cloud-services-market-with-a-comprehensive-suite-of-solutions-1029415606</loc>
+    <lastmod>2020-07-21T08:22:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1825,7 +1849,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu?via=indexdotco</loc>
+    <loc>https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu</loc>
     <lastmod>2020-07-15T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -1957,13 +1981,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.htxt.co.za/2020/07/14/virgin-active-south-africa-outlines-plans-for-a-safe-re-opening/</loc>
+    <lastmod>2020-07-14T11:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.benzinga.com/markets/20/07/16617586/c-h-robinson-microsoft-partner-to-boost-supply-chain-digitization</loc>
     <lastmod>2020-07-14T10:23:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14?mod=mw_quote_news</loc>
+    <loc>https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14</loc>
     <lastmod>2020-07-14T10:07:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2793,6 +2823,12 @@
   <url>
     <loc>https://blog.google/technology/ai/update-work-ai-responsible-innovation/</loc>
     <lastmod>2020-07-09T11:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.microsoft.com/en-au/features/cloud-clout-how-nab-is-digitally-transforming-itself-delivering-new-classes-of-customer-service-and-investing-in-its-people-for-the-future/</loc>
+    <lastmod>2020-07-09T10:45:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

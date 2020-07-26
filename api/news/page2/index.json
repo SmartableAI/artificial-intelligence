@@ -2,6 +2,156 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-23-researchers-ai-system-infers-music-from-silent-videos-of-musicians.md",
+      "title": "Researchers’ AI system infers music from silent videos of musicians",
+      "excerpt": "In a study accepted to the upcoming 2020 European Conference on Computer Vision, MIT and MIT-IBM Watson AI Lab researchers describe an AI system — Foley Music — that can generate “plausible ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screenshot2052_photos_v2_x8-e1595531978839.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/amp/",
+      "publishedDateTime": "2020-07-23T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry.md",
+      "title": "NVIDIA Considers Arm Acquisition In A Deal That Could Upend The Chip Industry",
+      "excerpt": "Arm deal could send shockwaves far and wide in the chip industry, giving its rivals numerous new reasons to lose sleep",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f19d9384414eeb1acf187dd%2F0x0.jpg",
+          "width": 800,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/07/23/nvidia-considers-arm-acquisition-in-a-deal-that-could-upend-the-chip-industry/amp/",
+      "publishedDateTime": "2020-07-23T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-closing-data-gaps-with-lacuna-fund.md",
+      "title": "Closing data gaps with Lacuna Fund",
+      "excerpt": "Machine learning has shown enormous promise for social good, whether in helping respond to global health pandemics or reach citizens before natural disasters hit. But even as machine learning technology becomes increasingly accessible, social innovators still face significant barriers in their efforts",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Wadhwani_2.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/closing-data-gaps-lacuna-fund/amp/",
+      "publishedDateTime": "2020-07-23T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-amazon-brings-contact-lens-a-set-of-ai-powered-contact-center-tools-into-ga.md",
       "title": "Amazon brings Contact Lens, a set of AI-powered contact center tools, into GA",
       "excerpt": "The machine learning-powered set of capabilities allow companies to automatically transcribe and analyze customer calls.",
@@ -107,7 +257,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm-2020-07-23",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1063,155 +1213,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-facebook-explores-simulations-in-fight-against-real-world-bad-guys.md",
-      "title": "Facebook explores simulations in fight against real world bad guys",
-      "excerpt": "For you, Facebook might be a virtual campfire where you gather with your family and friends to share stories. But the social network is also a digital Wild West, filled with scammers, networks of fraudulent accounts and straight-up bullies. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/VcgQpOmyTDdzq_95ymz9JuubPdc=/756x567/2020/06/19/be400064-5cda-4d1b-a382-4799d1b62378/facebook-logo-phone-laptop-3019.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-turns-to-simulations-in-fight-against-real-world-bad-guys/",
-      "publishedDateTime": "2020-07-23T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-elon-musk-on-tesla-self-driving-i-can-almost-go-from-my-house-to-work-with-no-intervention.md",
-      "title": "Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’",
-      "excerpt": "Elon Musk said that he is testing Tesla’s latest alpha built of its self-driving system and claim that he can “almost” go from his house to work without intervention. Last year, Musk announced Tesla’s plan to deploy 1 million “Robotaxi” vehicles for a self-driving ride-sharing network by the end of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all",
-          "width": 2564,
-          "height": 1236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/",
-      "publishedDateTime": "2020-07-22T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-push-is-on-for-more-artificial-intelligence-in-supply-chains.md",
-      "title": "Push is on for more artificial intelligence in supply chains",
-      "excerpt": "The word on the street is that artificial intelligence efforts have not been delivering the impressive results everyone has been hoping for. The payoff, however, is likely to be found in well-targeted placements in which AI is handling, in real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/",
-      "publishedDateTime": "2020-07-22T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

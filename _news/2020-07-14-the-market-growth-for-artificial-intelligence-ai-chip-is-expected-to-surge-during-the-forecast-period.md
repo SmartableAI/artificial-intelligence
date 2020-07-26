@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The Market Growth for Artificial Intelligence (AI) Chip is Expected to Surge During the Forecast Period"
-excerpt: "Jul (MarketersMedia) -- Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and"
+excerpt: "Increasing applications of AI-based technologies, along with the rising technological advancements in the AI and"
 publishedDateTime: 2020-07-14T17:07:00Z
-webUrl: "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/the-market-growth-for-artificial-intelligence-ai-chip-is-expected-to-surge-during-the-forecast-period-2020-07-14"
 type: article
 
 provider:
@@ -15,7 +15,7 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "UBQtZ37wPbGPdVATL3cwHuuiG8JjJhRTo5cEOohOGGckDylg+7B7rGFD11o/IKW+7dKCjPu5FL3aW8ohY91JmsuuLNPQsHTVA3EHPwgLSetSJFW0SYQ6dlLOxOfUeRQLZOoJw0Bh664XpN3cqVyx+CsD9K+/Ph+UPIqjHp043YHY9cxeVI8SflDYIy3sK+FJ2BE9MSqpF616jk6RI+iDl6gc9d5Ch22FMIYqGblPp8y1DiHDBVc2GXJQRQ9bzgFNByac5CRl/x8pbGNgCsuWa5dzUMyqJWMNF/ReLuDivblulXpVisFGVRve/VDGxNVecx96l5mgqCQcvxReLaWoOw==;4PZQk6IOTm2Io5s+UFI2/g=="
+secured: "ksgUbjXuCMes3l+cfHKkFrb0S17kjoSUC0Gi+q7123dU8C0aVl8FmEiuHtDZvG2HuvmDZ61yroiIm66OmduAK/T5ZoVaJCI7a5x1dDxMYNsoZ54a0gXz4PPoYZjHxqsbAHANjSX4k10ebEq++eNXugKwCBgyuUsI94qUj78ZBRAxkaEtvFh48RsvLJxDo2pSU4aGR9K627ffHm46jF7WoPCS+2gbcTh55iygSA/f3ef9vwrOb3yPQrALA2Q/g2CUfAF5XYlKnsiioPr/IYlR0LOL2puNXpTvZt/X3Du1CqxTmlLBv/DfIDKVEWc5bSjzSFnjxoTN/Y6iUJRdetOvng==;V85N6uYQIV9LFW/uznl/hg=="
 ---
 

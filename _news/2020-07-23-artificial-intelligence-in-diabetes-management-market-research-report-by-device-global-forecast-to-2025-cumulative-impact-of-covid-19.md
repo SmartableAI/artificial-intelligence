@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Truck Technology Market Global Enhancements and Growth Outlook 2020 to 2026"
+    excerpt: "Driving Truck Technology market report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Self-Driving Truck Technology industry."
+    publishedDateTime: 2020-07-24T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-global-enhancements-and-growth-outlook-2020-to-2026-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Software Industry Outlook 2020-2025 - Market Revenues to Grow at a CAGR of 41.6% Between 2019 and 2025"
     excerpt: "The \"Global Artificial Intelligence (AI) Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41."
     publishedDateTime: 2020-07-24T12:09:00Z
@@ -52,6 +66,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
+    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
+    publishedDateTime: 2020-07-24T13:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "K1eiQgFeifuTGEfpgkKEDF+eCIjAhWbAllE/9gVDhODkSr4cvNRUcCrKnZDNJSBVYIm9DDbPTiyVa21zNjj/ZjTJGec0/2DPsabjDiCpF+R3dTOuaEuIlH4m2+FYcG3b5qZIDYdfVYBePnGEG5whFXaeu05VuARu8vqstRhVHV9r2kKVPcGQPrQYaYboVa287UqNxrxte0S5map/dLJzVGbhOyl+U3iv+fkF5yhRQ0pDbewSdfljr4yvcRApXKJ1lmSYd9ivYomlt5vncIoOtg9SZkZOG74d2gmX6gmdlXbO8TAnoC4GkdKDufEoH55bdEfMiyeECyX0PBv7kEYMjw==;20w1veF3OR83CDbQlDKr7g=="
 ---

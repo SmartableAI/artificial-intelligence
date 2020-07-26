@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Truck Technology Market Global Enhancements and Growth Outlook 2020 to 2026"
+    excerpt: "Driving Truck Technology market report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Self-Driving Truck Technology industry."
+    publishedDateTime: 2020-07-24T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-global-enhancements-and-growth-outlook-2020-to-2026-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
     publishedDateTime: 2020-07-23T19:01:00Z
@@ -43,6 +57,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
+    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
+    publishedDateTime: 2020-07-24T13:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

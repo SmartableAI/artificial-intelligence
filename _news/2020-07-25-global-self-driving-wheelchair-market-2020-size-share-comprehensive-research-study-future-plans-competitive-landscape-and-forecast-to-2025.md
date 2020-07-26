@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Truck Technology Market Global Enhancements and Growth Outlook 2020 to 2026"
+    excerpt: "Driving Truck Technology market report is a comprehensive, professional and in-depth research of market that delivers significant data for those who are seeking information for the Self-Driving Truck Technology industry."
+    publishedDateTime: 2020-07-24T14:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-global-enhancements-and-growth-outlook-2020-to-2026-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
     publishedDateTime: 2020-07-23T19:01:00Z
@@ -53,6 +67,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Global Self-driving Cars and Trucks Industry Market Forecast 2025 Top Players Analysis Includes: Volvo Car Corporation, General Motors"
+    excerpt: "A complete research offering of comprehensive analysis of the market share, size, recent developments, and trends"
+    publishedDateTime: 2020-07-24T13:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-cars-and-trucks-industry-market-forecast-2025-top-players-analysis-includes-volvo-car-corporation-general-motors-2020-07-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RConPi8/6ahjFpEd0akaBq6nXP0phdUfQFSDQtVpNI6NaDrUMQAD+MSnyLnDR7XEBJ4g1vlg06JT9zv+FrNzRpEykZv15n+UROvn07afbkE/cx5hhfY4yGcqv1RJNukJTyvAbZGFd/Ho2jw2Vg4kHtd9g9/SUhe8Pm7Qu5eZAyH0R3L5/nzeg5GyTldh9YF44ZAOZNLoYukF8NRGK2Zhq6n9UjyfIiPv9F3otKnnEI0IjQdqX4DPUOEBwIfvutJXYb/x/2vWnp/loq1/iCNyMOagmpw03wF+CZyWUCkv+eBslOX0eYUPRXBynd9hZ2kGrw0Dm31rR3BWdf4AYJhtxg==;IFhCpVLJEG8GXyEUrjY5Sw=="
 ---
