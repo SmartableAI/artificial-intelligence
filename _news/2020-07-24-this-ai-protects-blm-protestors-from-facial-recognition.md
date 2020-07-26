@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
       - url: "https://www.cartoonbrew.com/wp-content/uploads/2020/07/the_lion_guard.jpg"
         width: 1280
         height: 600
-        isCached: true
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "We’ve said for years that facial recognition and other biometric surveillance technologies have no place in schools, and this is a monumental leap forward to protect students"
-    publishedDateTime: 2020-07-23T21:47:00Z
-    webUrl: "https://apnews.com/5b283de3cc0fe36eb12e34667e6deb09"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/615eee7d526e4faba5f21d4f5dd1e544/3000.jpeg"
-        width: 3000
-        height: 2175
         isCached: true
   - title: "Letter to Pelosi: Cut facial recognition spending from appropriation bills"
     excerpt: "Democrats in the U.S. House of Representatives seem to be making biometric surveillance a fortified position for the November general elections and beyond. A coalition of Democrats (with names"

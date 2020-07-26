@@ -61,17 +61,6 @@ related:
         width: 409
         height: 400
         isCached: true
-  - title: "Artificial Neural Network Market Growing at a CAGR 20.5% | Key Player Google, IBM, Microsoft, Oracle, Intel"
-    excerpt: "Market size is expected to grow from USD 117 million in 2019 to USD 296 million by 2024, at a Compound Annual Growth Rate (CAGR) of 20.5% during the forecast period. The major driving factor in the ANN market is due to the growing demand to train a large volume of data sets with low supervision to drive the market The government and defense segment to hold a larger market size during the forecast period The ANN market is segmented on the basis of applications."
-    publishedDateTime: 2020-07-23T17:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/ab16755993/artificial-neural-network-market-growing-at-a-cagr-20-5-key-player-google-ibm-microsoft-oracle-in"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16755993"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16755993"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
 
 secured: "eZP9X1K+LBvGCme30FpvVmqD/BEPMcvz27DyHrOrUJ0EI+T+IUzEOHMZjmHHqJ3JAI7sEmWa8i1zijcwa5pdThQAixmqq5vbB1foJdygmcfuJeSWhb3nA+MnlZzMZRaMiireFH/mriVt9WtfQXLKCukrjx3HonhBsZ8WyuFQl90ASdrR8sJ2yK6n1VqSR3NfqsTOn3fBMBhbx4sH5YSmVO5nf7rNXAj7dC4pcAToBxfk+QvYAB+OoOH9yNmOrs1JMCdefCl+ohRZqryHU5T2fQCkNOGerT3Nr/TyRbO6Tr84tdG4rShQVAwFGy8Lz4300t/621VWemVXPm3CXQrABA==;r4cn+XC9qPelug4+ThNUhQ=="
 ---

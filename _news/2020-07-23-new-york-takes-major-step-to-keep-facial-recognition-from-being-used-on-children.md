@@ -45,7 +45,7 @@ related:
   - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
     excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
     publishedDateTime: 2020-07-23T16:49:00Z
-    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=20&itm_content=1x7&itm_term=2376504"
+    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
     ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
     cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
     type: article
@@ -154,22 +154,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "NYPD sued for refusing to disclose records about facial recognition use"
-    excerpt: "The NYPD is being sued by an advocacy group to reveal more information about its use of facial recognition technology in Time Square."
-    publishedDateTime: 2020-07-21T20:02:00Z
-    webUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/"
-    ampWebUrl: "https://www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/nypd-facial-recognition-lawsuit-stop/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/nypd_facial_recognition_STOP-scaled.jpg"
-        width: 2560
-        height: 1282
-        isCached: true
   - title: "State Senate to vote on facial recognition moratorium bill"
     excerpt: "State Senator Brian Kavanagh says he has the votes to pass his bill imposing a moratorium on facial recognition in schools, with a vote on his legislation scheduled for Wednesday."
     publishedDateTime: 2020-07-21T21:28:00Z
@@ -250,6 +234,22 @@ related:
         width: 916
         height: 630
         isCached: true
+  - title: "NY lawmakers vote to pause facial recognition in schools"
+    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a lawsuit from civil rights advocates challenging that move."
+    publishedDateTime: 2020-07-23T17:22:00Z
+    webUrl: "https://www.chron.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    ampWebUrl: "https://www.chron.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/5/375x250.jpg"
+        width: 344
+        height: 250
+        isCached: true
   - title: "Facebook offers $650 million to settle facial recognition suit"
     excerpt: "Facebook offered $650 million to pay a long-running class-action lawsuit about the use of facial technology. The final offer is $100 million more than the initial settlement, according to USA Today, and follows a rejection of the initial amount by a U."
     publishedDateTime: 2020-07-24T15:09:00Z
@@ -316,14 +316,14 @@ related:
         isCached: true
   - title: "Facebook bumps up offer to $650 million to settle facial recognition class action"
     excerpt: "Facebook has agreed to pay $650 million – $100 million more than before – to settle a class action lawsuit over its face recognition technology."
-    publishedDateTime: 2020-07-24T00:15:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/07/23/facebook-offers-650-million-settle-facial-recognition-class-action/5498792002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5498792002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5498792002"
+    publishedDateTime: 2020-07-24T01:40:00Z
+    webUrl: "https://www.indystar.com/story/tech/2020/07/23/facebook-offers-650-million-settle-facial-recognition-class-action/5498792002/"
+    ampWebUrl: "https://amp.indystar.com/amp/5498792002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/5498792002"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Indianapolis Star
+      domain: indystar.com
     quality: 54
     images:
       - url: "https://www.gannett-cdn.com/-mm-/fc31eaa651e0d0fe4aa496c77accf6c2d467c460/c=0-235-3592-2264/local/-/media/2018/07/26/USATODAY/USATODAY/636681988519464839-FACEBOOKINDEXFUNDS.JPG?auto=webp&format=pjpg&width=1200"

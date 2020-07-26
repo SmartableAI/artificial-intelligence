@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.forbes.com/sites/jamesconca/2020/07/26/artificial-intelligence-with-drones-can-spot-wildfire-dangers-better-and-faster-than-humans/</loc>
+    <lastmod>2020-07-26T05:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/</loc>
     <lastmod>2020-07-25T22:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -471,12 +477,6 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22</loc>
     <lastmod>2020-07-22T01:00:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/</loc>
-    <lastmod>2020-07-22T00:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1807,8 +1807,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-japan-tech-robot-idUSKCN24G138</loc>
-    <lastmod>2020-07-15T02:51:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-07-15/japanese-robot-to-clock-in-at-a-convenience-store-in-test-of-retail-automation</loc>
+    <lastmod>2020-07-15T02:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

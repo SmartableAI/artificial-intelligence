@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/16767301"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16767301"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -18,36 +18,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Global Self Driving Wheelchair Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
-    excerpt: "The report experts have analyzed various companies to understand the products and/services relevant to the global Self Driving Wheelchair market. The report includes information such as gross revenue,"
-    publishedDateTime: 2020-07-25T05:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-wheelchair-market-2020-size-share-comprehensive-research-study-future-plans-competitive-landscape-and-forecast-to-2025-2020-07-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
-    publishedDateTime: 2020-07-23T19:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-report-by-device---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4qL6SL43to/7Gy3ELih8a+Y2JsbepYBaRojhynQaSY5TuMQcOyhzeKaFnArikTbG6UPIDA8zUJK7ypfG0/YsNv/ci8ZONXP1DbU2dZgwAaqFBrh2NWQV970Zuw/1nMtIPYVOnmTFKsFVoRrpkfN7d8RJATfebJDobdce923XtRYtYt4PxAlgp8v64IrdwzEa3/4ZAKvozCH/bntWxinMAKCenYVQcBMomQoepLGFVZqROP7+32N5/lNEFFfFbmhZFUP0A3bVZPDhWMrWdcVdKUtjJslRJzm1r/Unz3UcowwjLD76qS6L7hlAyKiChWoLVFKYO/smM9UfXU8kpBaUr+lA9l223oux7n1eAO9OOgv1qrbcWH19KrikArBUp+5WX2Exnb6iz7hN00eCE4iSOcydxf8+R1pJGM0f/T/EbNxiRw829PV3/yp6E3lFV65MDrmuDqpS6bVwaPaaItokdOZY0c0HVg4Wk5sUNTSA+PNIOAzgNrprcYdG9/VY/4vbhFTRCNgsYGCw5RKOZ0MUKw==;yEP8yjCVhyIbPLl9X2RUXQ=="
 ---

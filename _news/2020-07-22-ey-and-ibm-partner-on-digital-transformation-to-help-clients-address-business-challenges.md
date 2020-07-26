@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T13:32:00Z
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/EY-and-IBM-Partner-on-Digital-Transformation-to-Help-Clients-Address-Business-Challenges-141921.aspx"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "EY And IBM Deepen Partnership To Accelerate Digital Transformations For Clients"
-    excerpt: "EY and IBM (NYSE: IBM) recently announced an enhanced global multi-year alliance built to help organizations accelerate digital transformation and improve client outcomes."
-    publishedDateTime: 2020-07-21T19:12:00Z
-    webUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/"
-    ampWebUrl: "https://pulse2.com/ey-and-ibm-deepen-partnership/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/ey-and-ibm-deepen-partnership/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 20
   - title: "Digital and AI is about scaling and moving from experimentation to transformation: Sandip Patel, IBM"
     excerpt: "AI requires machine learning; machine learning requires analytics; and analytics requires the right data and information architecture"
     publishedDateTime: 2020-07-22T08:42:00Z

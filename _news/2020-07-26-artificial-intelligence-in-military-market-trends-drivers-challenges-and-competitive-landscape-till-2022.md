@@ -1,12 +1,12 @@
 ---
 category: news
-title: "LED Chip Market Size, Share, Industry Trends, Growth Insight, Share, Competitive Analysis, Statistics, Regional And Industry Forecast"
-excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
-publishedDateTime: 2020-07-24T13:20:00Z
-webUrl: "https://www.marketwatch.com/press-release/led-chip-market-size-share-industry-trends-growth-insight-share-competitive-analysis-statistics-regional-and-industry-forecast-2020-07-21"
+title: "Artificial Intelligence In Military Market Trends, Drivers, Challenges, and Competitive Landscape till 2022"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 26, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025."
+publishedDateTime: 2020-07-26T12:31:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-trends-drivers-challenges-and-competitive-landscape-till-2022-2020-07-26"
 type: article
-quality: 38
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -18,7 +18,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -28,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Military Market Trends, Drivers, Challenges, and Competitive Landscape till 2022"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 26, 2020 (AmericaNewsHour) -- Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025."
-    publishedDateTime: 2020-07-26T12:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-trends-drivers-challenges-and-competitive-landscape-till-2022-2020-07-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Self Driving Wheelchair Market 2020 Size, Share, Comprehensive Research Study, Future Plans, Competitive Landscape and Forecast to 2025"
     excerpt: "The report experts have analyzed various companies to understand the products and/services relevant to the global Self Driving Wheelchair market. The report includes information such as gross revenue,"
     publishedDateTime: 2020-07-25T05:43:00Z
@@ -51,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "LED Chip Market Size, Share, Industry Trends, Growth Insight, Share, Competitive Analysis, Statistics, Regional And Industry Forecast"
+    excerpt: "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added"
+    publishedDateTime: 2020-07-24T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/led-chip-market-size-share-industry-trends-growth-insight-share-competitive-analysis-statistics-regional-and-industry-forecast-2020-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -80,6 +79,6 @@ related:
       domain: marketwatch.com
     quality: 14
 
-secured: "X17XPbFEIqZlJFhJ4B75QoseREu4HHFnzSfMc2Z6JpB5tNMNYLuUyZt2C5ZSRY8uqipSCGsiT3ConcjP5ahsSqonKXrB5IVd15vjg4edMq9jSDpqGN0/yuSX+HXTpJmmizQtbLMIHpGJVxDUYA+HVbdkqj3XKpyg0PH7YA4uaronsQjI2ebb/6CGPvCeVbuGpDLU2T9L+v+CrQv227wmQ/7wrNKhR6s0YoQYpAKSj6cAR+UezbMQJdgeu7zU/pV23qD1sQmeZtkBgCcJp02hf/bCqXjDWrZrI/jYHPeI76RrmUtOP5zzpBWK49WDwakZ99AGVRONSYApZmY8cVNeyA==;Gx6BuvK2WYIY2qs+0fP3Tg=="
+secured: "j1iUg/ftNggc4Z+kDArqpx6eLKBTNyrhzZMrC3sqUE49uVi53TFIQpxbY74JbpeLqu/Ee9M7HJhaLHJ0GhBnmpqOF6/WuwK5SgeVpP/s8hqpcZ+E/KE9G2ocIJCYTxAm4ks45IRfK3Zy9K/Ofbek0USJe7VErDvEDsOrQD+CnQXanhvBCv9WfpUEfdTqU2+wVxnKSnOJtRlTkRXfnDWfROmfqIIPXXG2s9I9PpQAGDxghmaBsBSryK+Kk7PpLu4WGlV0TBPEjxdODoo7tRkFH5dkLGMBZKJ4rvznjwkV9kK2ddDDshp3tVwiR9eRTtIZYLxYKqClVekPmZR01TV6Zg==;aaQ0cCg6bfsSoe16DUvsuA=="
 ---
 

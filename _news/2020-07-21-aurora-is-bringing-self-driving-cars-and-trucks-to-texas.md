@@ -42,34 +42,6 @@ related:
         width: 1200
         height: 563
         isCached: true
-  - title: "Self-Driving Money Is Coming For Consumer Fintech"
-    excerpt: "Fintech today is dominated by consumer tech platforms looking to reinvent financial services. To really understand the value of consumer fintech, though, we need to view these platforms as the fundamental building blocks for autonomous finance,"
-    publishedDateTime: 2020-07-21T19:28:00Z
-    webUrl: "https://www.forbes.com/sites/nikmilanovic/2020/07/21/self-driving-money-is-coming-for-consumer-fintech/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f173f85d9a66f00063816a7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1220%26cropY1%3D76%26cropY2%3D762"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Self-Driving Cars: A Dying Dream Or Just Hard to Make a Reality?"
-    excerpt: "Major companies like Apple and Google have invested in the technology, Tesla offers Autopilot mode, and it’s long been assumed that Uber sees the future of self-driving cars as the key to its profitability in the future."
-    publishedDateTime: 2020-07-21T19:12:00Z
-    webUrl: "https://nationalinterest.org/blog/techland/self-driving-cars-dying-dream-or-just-hard-make-reality-165268"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 24
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/A978%20%281%29_2.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "ohxSI5idPAg9dKzdzsyxa7VKsc6P2daKD5XvCpMoPxCazec+q2EaGGgzEil7qSoLoRY6uNOYg/seH4gkJvQryYsJqCM+oBrobhpa2kXcbzaH20sBeNF/lFsqBr0jVJnDFs+5ovwgQ+QyofV1pHMQCe8TCuUchz7LVNflY/emmjET6itELSwosdB8Qm+1p31Scu+vAfBsEZk6nB+Z6ie11IL6pdfN1XjonfNVrYSTeTVc2kcb/EzNsmR5eM834v12iSxa+VRPBdRtVkBJrKjEm1XgeWZGzaF/GtaMWsvpO2KyLHzCz8dzA0K4fY4nMQKoQNOI/1ucThLWdPCqM4vCUVyzGdjHmYiGsG2FNFFo2jE5u1OvfPl4/LDhvkeX2X2B8CZHSc7em7CQkGq8nbg2GqVVP7IZ4WkJ8Hdcv6QGqixDXI43T3vlyxGm4kmQoXB0T7yIwYMxRSe31kXloV4vxnADPx4PPObynDAmqtwakoOP2/tiP3K/NnX2muO2fXAl3/K2DWRki/dOMPvWk/IzOg==;bBNtts/B9Lt5AWbyF8ezYQ=="
 ---
