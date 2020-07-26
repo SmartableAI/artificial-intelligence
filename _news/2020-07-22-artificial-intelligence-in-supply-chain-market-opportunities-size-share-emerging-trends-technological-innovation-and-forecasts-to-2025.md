@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market 2020: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025"
-    excerpt: "The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include IBM Corp(NYSE:IBM),"
-    publishedDateTime: 2020-07-21T05:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-2020-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21"
+  - title: "Artificial Intelligence in the Healthcare Market Future Scope, Opportunities with Strategic Growth and Top Players"
+    excerpt: "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48."
+    publishedDateTime: 2020-07-22T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -64,75 +64,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Share 2020-2025 | Size, Price, Analaysis, Report and Forecast"
-    excerpt: "Artificial intelligence has been one of the fastest-growing technologies in recent years. AI is associated to human intelligence with similar characteristics such as language understanding, reasoning,"
-    publishedDateTime: 2020-07-24T14:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-share-2020-2025-size-price-analaysis-report-and-forecast-2020-07-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automated Material Handling Equipment Market: Drivers, Restraints, Opportunities, Trends, and Forecast up to 2025"
-    excerpt: "Continuous rise in demand for automation in industries has revolutionized the adoption of automatic material handling equipment. With the appearance of technologies adore artificial intelligence, wireless technologies,"
-    publishedDateTime: 2020-07-21T05:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-drivers-restraints-opportunities-trends-and-forecast-up-to-2025-2020-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Construction Market Growth, Analysis, Trends and Forecast - 2025"
-    excerpt: "The global AI in construction market is expected to show a significant growth rate during the forecast period. The cloud solution offers advanced scalability, intensified security, better compliance, and lower costs. This cloud computing has witnessed ..."
-    publishedDateTime: 2020-07-23T12:40:00Z
-    webUrl: "https://www.openpr.com/news/2095631/artificial-intelligence-in-construction-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723650314_g.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Software Market, Forecast to 2025 - ResearchAndMarkets.com"
-    excerpt: "Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018."
-    publishedDateTime: 2020-07-24T09:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16765498/global-artificial-intelligence-ai-software-market-forecast-to-2025-researchandmarkets-com"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16765498"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16765498"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
-  - title: "US Artificial Intelligence Market by Services, Technology, Overview, Component, Industry Revenue, Cost Structure Analysis and Forecast to 2025"
-    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
-    publishedDateTime: 2020-07-23T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-by-services-technology-overview-component-industry-revenue-cost-structure-analysis-and-forecast-to-2025-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

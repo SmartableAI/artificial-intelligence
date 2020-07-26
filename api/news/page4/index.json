@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-22-foxconn-to-invest-over-8-billion-for-new-chip-plant-in-china.md",
+      "title": "Foxconn to invest over $8 Billion for new chip plant in China",
+      "excerpt": "... includes fan out and wafer level bonding and stacking for chip solutions The applications of these chips will be used in 5G networking and various AI related device applications as well. The source added that the upcoming Foxconn Qingdao plant will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2020/07/22/foxconn-to-invest-over-9-billion-for-new-chip-plant-in-china/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2016/10/Foxconn.jpg",
+          "width": 1199,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players.md",
+      "title": "Artificial Intelligence in the Healthcare Market Future Scope, Opportunities with Strategic Growth and Top Players",
+      "excerpt": "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-22-artificial-intelligence-is-now-being-used-to-resolve-divorces.md",
+      "title": "Artificial Intelligence is Now Being Used to Resolve Divorces",
+      "excerpt": "An online app called Amica is now using artificial intelligence to help separating couples make parenting arrangements and divide their assets. For many people, the coronavirus pandemic has put even the strongest of relationships to the test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/22/divorce-artificial-intelligence.png",
+          "width": 1085,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/amp/",
+      "publishedDateTime": "2020-07-22T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
       "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
       "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
@@ -1028,147 +1168,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-ai-is-accelerating-the-move-to-a-touchless-world.md",
-      "title": "AI is accelerating the move to a touchless world",
-      "excerpt": "a philosophy and ethics information professor and director of the Digital Ethics Lab at the University of Oxford, as saying. \"But a classic way of gaining trust, with AI interactions in particular, can be summarized in three words: transparency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-is-accelerating-the-move-to-a-touchless-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/80f8a384-b6e4-4b6c-84a2-2772265f460f/resize/1200x/df64878ff3f885d95ee20e01cd182572/istock-1148923626.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
-      "publishedDateTime": "2020-07-21T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos.md",
-      "title": "Immervision uses AI for better wide-angle smartphone videos and photos",
-      "excerpt": "Immervision announced new real-time video distortion correction software to help create professional quality videos on smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/immervision-Montage_Telephone-2.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/immervision-uses-ai-for-better-wide-angle-smartphone-videos-and-photos/amp/",
-      "publishedDateTime": "2020-07-21T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-21-machine-learning-artificial-intelligence-market-next-big-thing-major-giants-aibrain-amazon-anki-cloudminds.md",
-      "title": "Machine Learning Artificial intelligence Market Next Big Thing | Major Giants AIBrain, Amazon, Anki, CloudMinds",
-      "excerpt": "A New business Strategy report released by HTF MI with title Global Machine Learning Artificial intelligence Market Study Forecast till 2026 This Global Machine Learning Artificial intelligence market report brings data for the estimated year 2020 and forecasted till 2026",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/7/T721816721_g.jpg",
-          "width": 539,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094065/machine-learning-artificial-intelligence-market-next-big-thing",
-      "publishedDateTime": "2020-07-21T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

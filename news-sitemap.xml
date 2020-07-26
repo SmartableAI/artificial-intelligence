@@ -91,6 +91,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.marketwatch.com/press-release/new-report-artificial-intelligence-chip-market-size-growth-and-share-to-amass-us-832527-mn-by-2027-2020-07-21</loc>
+    <lastmod>2020-07-23T15:17:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/23/facebook-built-a-powerful-ai-model-to-simulate-entire-social-media-networks-in-action/</loc>
     <lastmod>2020-07-23T14:32:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -231,6 +237,12 @@
   <url>
     <loc>https://www.wsj.com/articles/tech-startup-funding-declines-as-pandemic-drags-on-11595494800</loc>
     <lastmod>2020-07-23T02:14:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.engadget.com/facebook-bots-simulate-harassment-080003548.html</loc>
+    <lastmod>2020-07-23T01:26:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -441,6 +453,12 @@
   <url>
     <loc>https://www.gizmochina.com/2020/07/22/foxconn-to-invest-over-9-billion-for-new-chip-plant-in-china/</loc>
     <lastmod>2020-07-22T02:13:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players-2020-07-22</loc>
+    <lastmod>2020-07-22T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -889,14 +907,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://news.webindia123.com/news/Articles/Science/20200719/3595133.html</loc>
-    <lastmod>2020-07-19T11:01:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
+    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/</loc>
-    <lastmod>2020-07-19T10:57:00-07:00</lastmod>
+    <loc>https://menafn.com/1100507766/AutoX-gets-permit-to-run-driverless-testing-in-California</loc>
+    <lastmod>2020-07-19T09:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2263,12 +2281,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/news-releases/agricultural-robots-market-worth-20-3-billion-by-2025--exclusive-report-by-marketsandmarkets-301092053.html</loc>
-    <lastmod>2020-07-13T06:36:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.labmanager.com/news/maximizing-the-power-of-deep-learning-for-genomics-23274</loc>
     <lastmod>2020-07-13T06:35:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2335,14 +2347,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.technewsworld.com/story/The-Secrets-of-How-IBM-Maintains-AI-Leadership-86752.html</loc>
+    <lastmod>2020-07-13T04:36:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.technewsworld.com/story/86752.html</loc>
-    <lastmod>2020-07-13T04:00:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets</loc>
+    <lastmod>2020-07-13T02:30:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2761,12 +2779,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026-valuates-reports-1029381591</loc>
-    <lastmod>2020-07-09T09:16:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://venturebeat.com/2020/07/09/ai-researchers-create-testing-tool-to-find-bugs-in-nlp-from-amazon-google-and-microsoft/</loc>
     <lastmod>2020-07-09T09:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2774,6 +2786,12 @@
   </url>
   <url>
     <loc>https://www.bbc.com/news/technology-53349313</loc>
+    <lastmod>2020-07-09T09:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/natural-language-processing-nlp-market-size-is-projected-to-reach-usd-27-6-billion-by-2026---valuates-reports-301091047.html</loc>
     <lastmod>2020-07-09T09:10:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -3127,6 +3145,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.businesswire.com/news/home/20200708005731/en/Global-Natural-Language-Processing-Market-2019-2024</loc>
+    <lastmod>2020-07-08T09:34:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.marketwatch.com/press-release/cognitive-analytics-market-2020---global-industry-analysis-size-share-growth-trends-and-forecast-2026-2020-07-08</loc>
     <lastmod>2020-07-08T09:29:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3243,12 +3267,6 @@
   <url>
     <loc>https://markets.businessinsider.com/news/stocks/fintech-industry-expert-rates-vantagepoint-ai-software-as-highly-recommended-1029376119</loc>
     <lastmod>2020-07-08T05:18:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/b16555512/global-natural-language-processing-market-2019-to-2024-technology-landscape-trends-and-opportuniti</loc>
-    <lastmod>2020-07-08T05:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

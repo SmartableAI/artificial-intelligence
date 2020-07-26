@@ -2,6 +2,147 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
+      "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
+      "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "publishedDateTime": "2020-07-21T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning.md",
+      "title": "Save half the cost off a 2-Yr subscription to Busuu language learning",
+      "excerpt": "Busuu is the world's largest community for language learning, providing courses in 12 different languages on web and mobile to more than 100 million learners worldwide. Save half off today!",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595320043_product_41710_product_shots1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-half-the-cost-off-a-2-yr-subscription-to-busuu-language-learning/",
+      "publishedDateTime": "2020-07-21T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-youcanbookme-optimizes-your-apps-thanks-to-amazon-codeguru.md",
+      "title": "YoucanBook.me optimizes your apps thanks to Amazon CodeGuru",
+      "excerpt": "This is a guest post co-written by Sergio Delgado from YoucanBook.me. In their own words, “YouCanBook.me is a small, independent and fully remote team, who love solving scheduling problems all over the world.” At YoucanBook.me, we like to say that we’re “a small company that does great things.” Many",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/youcanbook-me-optimizes-your-apps-thanks-to-amazon-codeguru/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/20/youcanbookme-1.jpg",
+          "width": 800,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-21T09:22:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-21-microsoft-launches-ai-powered-dynamics-365-retail-and-anti-fraud-services.md",
       "title": "Microsoft launches AI-powered Dynamics 365 retail and anti-fraud services",
       "excerpt": "During its Inspire 2020 conference, Microsoft unveiled new retail- and fraud-focused services to address pandemic-related issues and other challenges.",
@@ -1297,129 +1438,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton.md",
-      "title": "Microsoft (MSFT) Azure to Aid Digital Overhaul of Halliburton",
-      "excerpt": "In November 2019, Microsoft announced a strategic alliance with Baker Hughes and C3.ai to help the former develop and roll out solutions that combine Azure’s cloud computing capabilities with C3.ai’s AI platform. The joint offerings will help customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-to-aid-digital-overhaul-of-halliburton-2020-07-20?amp",
-      "publishedDateTime": "2020-07-20T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026.md",
-      "title": "Artificial Intelligence Market Size is Expected to Exhibit 54 billion USD by 2026",
-      "excerpt": "Jul 20, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC adds new research on Artificial Intelligence market, which is a detailed analysis of this business space inclusive of the trends, competitive landscape ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-expected-to-exhibit-54-billion-usd-by-2026-2020-07-20",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-why-facial-recognition-algorithms-cant-be-perfectly-fair.md",
-      "title": "Why facial recognition algorithms can’t be perfectly fair",
-      "excerpt": "In June 2020, a facial recognition algorithm led to the wrongful arrest of Robert Williams, an African-American, for a crime he did not commit. After a shoplifting incident in in a pricey area of ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/348416/original/file-20200720-37-mvxp8d.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=205&fit=crop",
-          "width": 320,
-          "height": 205,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/why-facial-recognition-algorithms-cant-be-perfectly-fair-142608",
-      "publishedDateTime": "2020-07-20T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

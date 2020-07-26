@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robot
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -67,6 +67,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Construction Market Growth, Analysis, Trends and Forecast - 2025"
+    excerpt: "The global AI in construction market is expected to show a significant growth rate during the forecast period. The cloud solution offers advanced scalability, intensified security, better compliance, and lower costs. This cloud computing has witnessed ..."
+    publishedDateTime: 2020-07-23T12:40:00Z
+    webUrl: "https://www.openpr.com/news/2095631/artificial-intelligence-in-construction-market-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 47
+    images:
+      - url: "https://cdn.openpr.com/T/7/T723650314_g.jpg"
+        width: 800
+        height: 500
         isCached: true
   - title: "Machine Learning Market Evolving Technology, Trends and Demand 2020-2026 : Fractal Analytics Inc., Microsoft Corporation, Dataiku"
     excerpt: "The report discusses many vital industry facets that influence global Machine Learning Market industry acutely which includes extensive study of competitive edge, latest advancements, region-wise industry environment, contemporary market and emerging ..."
