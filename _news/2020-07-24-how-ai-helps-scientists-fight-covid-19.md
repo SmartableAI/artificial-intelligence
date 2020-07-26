@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Machine learning helps scientists interpret crystal patterns"
+    excerpt: "For scientists and engineers, the best way to understand a new or unknown material--whether it's an alloy, a pharmaceutical or a meteorite--is to delve into its atoms. Techniques such as X-ray diffraction,"
+    publishedDateTime: 2020-07-24T03:36:00Z
+    webUrl: "https://www.eurekalert.org/features/doe/2020-07/dnl-mlh072320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
     excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"
     publishedDateTime: 2020-07-22T02:23:00Z

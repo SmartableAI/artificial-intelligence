@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
-excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"
-publishedDateTime: 2020-07-22T02:23:00Z
-webUrl: "https://www.globaltimes.cn/content/1195270.shtml"
+title: "Machine learning helps scientists interpret crystal patterns"
+excerpt: "For scientists and engineers, the best way to understand a new or unknown material--whether it's an alloy, a pharmaceutical or a meteorite--is to delve into its atoms. Techniques such as X-ray diffraction,"
+publishedDateTime: 2020-07-24T03:36:00Z
+webUrl: "https://www.eurekalert.org/features/doe/2020-07/dnl-mlh072320.php"
 type: article
-quality: 27
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Global Times
-  domain: globaltimes.cn
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-02/42e2dcb4-d86a-4852-971d-482bdd9d8dcd.jpeg"
-    width: 500
-    height: 300
+  - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Machine learning helps scientists interpret crystal patterns"
-    excerpt: "For scientists and engineers, the best way to understand a new or unknown material--whether it's an alloy, a pharmaceutical or a meteorite--is to delve into its atoms. Techniques such as X-ray diffraction,"
-    publishedDateTime: 2020-07-24T03:36:00Z
-    webUrl: "https://www.eurekalert.org/features/doe/2020-07/dnl-mlh072320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "How AI helps scientists fight COVID-19"
     excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
     publishedDateTime: 2020-07-24T18:29:00Z
@@ -68,7 +54,21 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Zhong Nanshan team and AI Lab develop deep-learning model that can predict COVID-19 progression"
+    excerpt: "Chinese renowned respiratory scientist Zhong Nanshan receives an interview with Xinhua in Guangzhou, south China's Guangdong Province, Jan. 28, 2020. (Xinhua/Liu Dawei) Tencent-affiliated artificial intelligence (AI) laboratory AI Lab and the medical team of top Chinese physician Zhong Nanshan have jointly revealed the results of a research project,"
+    publishedDateTime: 2020-07-22T02:23:00Z
+    webUrl: "https://www.globaltimes.cn/content/1195270.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 27
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-02-02/42e2dcb4-d86a-4852-971d-482bdd9d8dcd.jpeg"
+        width: 500
+        height: 300
+        isCached: true
 
-secured: "Km3482Y4md3C2GXVpxrZ9HZ67Hz8pn6S3E4hjHqF8RE1ksbey4KikAPxXEoHUIAEZYYkPyE2OAGtlFk3aPZxJMYePSJpjpsW1J8xJsdQGSlu11oe2QqDJjdNSoZ28F8iPVe9uWvNks7THWzwSCIuyHFQZ2xjxe+bjXGU33d2iYBh1WOMQZwhDvxMCmtVttT2dX8h39uoATzDxMXzC01y/xeBjk8gV8rCFAjCOHGw7BQZIHMNh8mIBuN1UPtSVsOmXy8HX01/A6H9I9Mxmw6+Oe0w487zOI1rNbczMbyr/r6kor/PmDw8E4xyjNrG2CoQWnx7N+lO1loQnPch+44kyQ==;3BK7XwZgSWWnySQ0N1B8OQ=="
+secured: "5/pBEA6WaoI5ENWWMijyoJgPh14w3q1hu+C5MUUEhOFtEKiVAwuHIP+Bc52TT+OV2Bbm+J88k6aSJySOEWkVqTr5MfagjD7Qg9nTPGtjg9FUKM3iStIRAZW/jHtLF+G2RhPx2peozhEkdAlWk4tUcgO43kb1uIXGAw7FUcOCWTsDKgKmCx+QmVSovABDJUf0Hd5Bo+iS1APfmZhM64+fah3Cp6eeZ+Ez5kQtEcwHTieFd+obdR4l1fpmfmef4fPhAB+0yyBiTxNMUTv/RA4EecaJM32jV/9ht8QuJAr7hHDyyaWpicDvwn76M5yznJLxtgdALqroalNZpcVScq3waw==;iiqKLNLNnPjjNfzzBIMOwg=="
 ---
 

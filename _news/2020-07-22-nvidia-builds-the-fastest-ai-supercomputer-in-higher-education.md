@@ -78,17 +78,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Nvidia collaborates with the University of Florida to build 700-petaflop AI supercomputer"
-    excerpt: "A $70 million partnership between Nvidia and the University of Florida will fund the creation of one of the most powerful academic AI supercomputers."
-    publishedDateTime: 2020-07-21T18:36:00Z
-    webUrl: "https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/"
-    ampWebUrl: "https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
   - title: "Nvidia joins forces with University of Florida to build AI supercomputer"
     excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said."
     publishedDateTime: 2020-07-22T09:01:00Z

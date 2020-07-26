@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-un
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/07/21/nvidia-and-university-of-florida-supercharge-education-with-ai-supercomputer/amp/"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -67,17 +67,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Nvidia collaborates with the University of Florida to build 700-petaflop AI supercomputer"
-    excerpt: "A $70 million partnership between Nvidia and the University of Florida will fund the creation of one of the most powerful academic AI supercomputers."
-    publishedDateTime: 2020-07-21T18:36:00Z
-    webUrl: "https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/"
-    ampWebUrl: "https://venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/21/nvidia-collaborates-with-the-university-of-florida-to-build-700-petaflop-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 60
   - title: "Nvidia builds the fastest AI supercomputer in higher education"
     excerpt: "The university will enhance its current supercomputer, HiPerGator, with Nvidia chips and have it functional by early 2021. The third-generation HiPerGator will have access to NVIDIA’s most advanced AI software and integrate 140 NVIDIA DGX A100 systems ..."
     publishedDateTime: 2020-07-22T10:27:00Z

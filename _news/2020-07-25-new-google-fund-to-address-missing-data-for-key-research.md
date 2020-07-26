@@ -3,7 +3,7 @@ category: news
 title: "New Google fund to address missing data for key research"
 excerpt: "Google has launched a new Lacuna Fund which is the worlds first collaborative nonprofit effort to directly address the missing labeled data in the field of languages to health and agriculture and more."
 publishedDateTime: 2020-07-25T05:43:00Z
-webUrl: "https://www.sify.com/news/new-google-fund-to-address-missing-data-for-key-research-news-education-uhzflMdadhdjh.html"
+webUrl: "https://www.sify.com/finance/new-google-fund-to-address-missing-data-for-key-research-news-topnews-uhzfkAabgdjji.html"
 type: article
 quality: 4
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 240
         isCached: true
 
-secured: "ZSpzgDFrwvrCr+vGycsNJYiaF1bjh1AHbz2k6xz/XqAPIJRNKReLNG1sW8GaMbdLCKmPZN5T9vNGBvvn2qumDgPBi1SkyZCqZ/9Bc9z/Zch9xQtY9e3PIIFSLorjbu7ynINNe8nELxXvQpksZtCTFIQjig7FyHdPREMpeoK2998rqGOle2iir4HdMaPtTaYLRrRkBBhvzHM9d2HfplIvMfEbXwauCXMiQUhbdH6Hzhcdb+qgHXEag9nfyOA9tCFdrKjhzY+00IvQH0/urU4j4p6ss/69aBA8HB9cNBrbSHAya3ZGeun6wxJ8iMFaH24zJIfUoUtB1PZ5qEcnbm/j3w==;oxY4SnCiN3m3SEfbq0Ocfw=="
+secured: "I7bPZ34tVGrPLAvCogP1Nh47HzE/LWNM3IwMmSvOkaJSIuS38UINU9cybQ6n8vufanNcZ1ZupZabHLizhifNntONMOJzKIT8UlY/fGiBffRIVzF6jzhiMnJ4/2vCTJQk/6tXBPfiO4Je9zxgdFL8HosWn1h3ldGE83NtH9SKCxVLY1cHD2hJ/FVI5DGSTOb6totUv9K4yap+ltF4WkAaP8kgEGMmJiVsNKPo2/DqqS2McvXnn/A6SJKGw5uO9txryGyLzIewoOaM76xu97NfVMZBJs+CryNVNqITj1qjbiipUeKJRJFk97jGXhPRPP6oc9lCs12DMHFP6fnx40GRBg==;Rc9EqT58TpBTu2YzabzovQ=="
 ---
 

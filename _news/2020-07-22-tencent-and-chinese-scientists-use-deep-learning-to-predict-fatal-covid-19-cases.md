@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning helps scientists interpret crystal patterns"
+    excerpt: "For scientists and engineers, the best way to understand a new or unknown material--whether it's an alloy, a pharmaceutical or a meteorite--is to delve into its atoms. Techniques such as X-ray diffraction,"
+    publishedDateTime: 2020-07-24T03:36:00Z
+    webUrl: "https://www.eurekalert.org/features/doe/2020-07/dnl-mlh072320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://media.eurekalert.org/doe/images/DOE_Banner_Ad_4.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "How AI helps scientists fight COVID-19"
     excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
     publishedDateTime: 2020-07-24T18:29:00Z

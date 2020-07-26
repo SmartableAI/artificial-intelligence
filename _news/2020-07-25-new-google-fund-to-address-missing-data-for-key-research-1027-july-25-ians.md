@@ -27,7 +27,7 @@ related:
   - title: "New Google fund to address missing data for key research"
     excerpt: "Google has launched a new Lacuna Fund which is the worlds first collaborative nonprofit effort to directly address the missing labeled data in the field of languages to health and agriculture and more."
     publishedDateTime: 2020-07-25T05:43:00Z
-    webUrl: "https://www.sify.com/news/new-google-fund-to-address-missing-data-for-key-research-news-education-uhzflMdadhdjh.html"
+    webUrl: "https://www.sify.com/finance/new-google-fund-to-address-missing-data-for-key-research-news-topnews-uhzfkAabgdjji.html"
     type: article
     provider:
       name: Sify.com

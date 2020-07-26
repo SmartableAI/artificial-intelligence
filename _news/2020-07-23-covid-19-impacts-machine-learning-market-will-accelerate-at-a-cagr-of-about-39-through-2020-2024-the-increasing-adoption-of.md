@@ -25,7 +25,7 @@ related:
   - title: "COVID-19 Impacts: Machine Learning Market will Accelerate at a CAGR of about 39% through 2020-2024 | The Increasing Adoption of Cloud-based Offerings to Boost Growth | Technavio"
     excerpt: "Technavio has been monitoring the machine learning market and it is poised to grow by $ 11.16 bn during 2020-2024, progressing at a CAGR of about 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario,"
     publishedDateTime: 2020-07-23T20:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200723005634/en/COVID-19-Impacts-Machine-Learning-Market-Accelerate-CAGR"
+    webUrl: "https://www.businesswire.com/news/home/20200723005634/en/"
     type: article
     provider:
       name: Business Wire
