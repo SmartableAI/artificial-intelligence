@@ -2,6 +2,129 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-07-study-only-18-of-students-are-learning-about-ai-ethics.md",
+      "title": "Study: Only 18% of students are learning about AI ethics",
+      "excerpt": "A recent study of 2,360 data science students, academics, and professionals states that only 18% of of students are being taught AI ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technowize.com/students-are-learning-about-ai-ethics/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technowize.com/wp-content/uploads/2020/07/AI-Ethics-Students.png",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.technowize.com/students-are-learning-about-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/students-are-learning-about-ai-ethics/amp/",
+      "publishedDateTime": "2020-07-06T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-american-hospital-dubai-recognised-for-excellence-in-robotics-surgery.md",
+      "title": "American Hospital Dubai recognised for excellence in robotics surgery",
+      "excerpt": "UK-based leading publication Global Brands Magazine conferred the award to American Hospital Dubai for overall excellence and robust healthcare ; American Hospital Dub",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/health/american-hospital-dubai-recognised-for-excellence-in-robotics-surgery-1.1594037490151",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2020/07/06/Robotics-Surgery_web_173240321d4_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": "American Hospital Dubai recognised for excellence in robotics surgery",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-07-one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience.md",
+      "title": "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience",
+      "excerpt": "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365 stadiumshot",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationthailand.com/sport/30390973",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nationthailand.com/images/news/2020/07/09/30390973/800_856c41e67e3ff1c.jpg?v=1594253288",
+          "width": 619,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nationthailand",
+        "domain": "nationthailand.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-5-tips-to-accelerate-your-companys-ai-implementation.md",
       "title": "5 tips to accelerate your company's AI implementation",
       "excerpt": "RingCentral’s Director of global SEO, John Allen lays out everything you need to know about how to get your firm’s AI implementation just right.",
@@ -949,146 +1072,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-tesla-deploys-new-megapack-project-underpinned-by-cutting-edge-autobidder-ai.md",
-      "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
-      "excerpt": "A group of companies in the UK announced that they commissioned a new Tesla Megapack project that is going to use Tesla’s new Autobidder platform. Fotowatio Renewable Ventures and British renewable energy developer Harmony Energy announced that today they are commissioning their new battery energy storage plant in Dorset,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/07/Holes-Bay-battery-energy-storage-facility-developed-by-Harmony-Energy-and-FRV-with-Tesla-Megapack-batteries.jpg?quality=82&strip=all&w=600",
-          "width": 600,
-          "height": 400,
-          "title": "Tesla deploys new Megapack project underpinned by ‘cutting-edge Autobidder AI’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/06/tesla-deploys-megapack-autobidder/amp/",
-      "publishedDateTime": "2020-07-06T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid-19.md",
-      "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
-      "excerpt": "The total % of ICT Goods Exports around the Globe Increased from 11.20% in 2016 to 11.51% in 2017 – UNCTAD CRIFAX added",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/car-key-chips-market-2020-future-demand-market-analysis-outlook-to-2028-impact-covid--19-2020-06-15",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Car Key Chips Market 2020: Future Demand, Market Analysis & Outlook To 2028 Impact COVID -19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-11-startups-in-india-using-ai-and-robotics-to-fight-covid-19.md",
-      "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
-      "excerpt": "Startups are leveraging tools and solutions to help fight the pandemic, as the number of cases in the country cross 5 lakh mark.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/11-startups-in-india-using-ai-and-robotics-to-fight-covid-19/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/coronavirus_AI_startups.jpg",
-          "width": 1200,
-          "height": 870,
-          "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

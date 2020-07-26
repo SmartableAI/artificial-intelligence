@@ -2,6 +2,120 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-06-18-rockset-redefines-the-data-stack-for-ai-powered-computer-vision.md",
+      "title": "Rockset Redefines the Data Stack for AI-Powered Computer Vision",
+      "excerpt": "June 18, 2020 (GLOBE NEWSWIRE) -- Rockset, the real-time indexing database in the cloud, today announced that it is redefining the real-time data stack for AI-powered computer vision, an industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.globenewswire.com/news-release/2020/06/18/2050169/0/en/Rockset-Redefines-the-Data-Stack-for-AI-Powered-Computer-Vision.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-businesses-put-ai-innovation-on-hold-to-avoid-public-backlash.md",
+      "title": "Businesses put AI innovation on hold to avoid public backlash",
+      "excerpt": "Several significant barriers to building AI embedded with ethical principles are contributing to swelling public distrust in automated and data-driven technologies and software, according to the Centre for Data Ethics and Innovation (CDEI). A number of UK ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1570815804/itpro/2017/05/sad_robot_ai.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Businesses put AI innovation on hold to avoid public backlash",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/356122/significant-public-distrust-deterring-businesses-from?amp",
+      "publishedDateTime": "2020-06-18T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projected-to-hold-a-massive-impact-on-sales-in.md",
+      "title": "Artificial Intelligence In Healthcare Market Forecast Revised in a New FMI Report as COVID-19 Projected to Hold a Massive Impact on Sales in 2020",
+      "excerpt": "An ongoing study of the research analysts at Future Market Insights (FMI), offers a thorough quantitative and qualitative assessment of the Artificial Intelligence In Healthcare market along with easy to grasp tables, graphs, and figures. The Coronavirus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2020-06-18/artificial-intelligence-in-healthcare-market-forecast-revised-in-a-new-fmi-report-as-covid-19-projec",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-18-baidu-breaks-off-an-ai-alliance-amid-strained-us-china-ties.md",
       "title": "Baidu Breaks Off an AI Alliance Amid Strained US-China Ties",
       "excerpt": "The search giant was the only Chinese member of the Partnership on Artificial Intelligence, a US-led effort to foster collaboration on ethical issues.",

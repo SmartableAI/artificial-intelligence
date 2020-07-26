@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023"
-    excerpt: "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue."
-    publishedDateTime: 2020-07-21T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Construction Market Growth, Analysis, Trends and Forecast - 2025"
     excerpt: "The global AI in construction market is expected to show a significant growth rate during the forecast period. The cloud solution offers advanced scalability, intensified security, better compliance, and lower costs. This cloud computing has witnessed ..."
     publishedDateTime: 2020-07-23T12:40:00Z

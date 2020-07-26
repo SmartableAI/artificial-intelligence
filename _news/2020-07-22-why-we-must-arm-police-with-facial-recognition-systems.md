@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-22T11:26:00Z
 webUrl: "https://www.scmagazine.com/perspectives/why-we-must-arm-police-with-facial-recognition-systems/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Black Lives Matter forces an IBM U-turn on facial recognition"
-    excerpt: "In the midst of the recent Black Lives Matter protests, which raised questions about policing and racism in the United States and elsewhere, technology company IBM announced its withdrawal from the general-purpose facial recognition market. Could this be a ..."
-    publishedDateTime: 2020-07-21T12:00:00Z
-    webUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/"
-    ampWebUrl: "https://globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/21/black-lives-matter-forces-an-ibm-u-turn-on-facial-recognition/amp/"
+  - title: "Brandywine Valley SPCA Using Facial Recognition Technology To Help Reunite Lost Pets With Owners"
+    excerpt: "But now the Brandywine SPCA is using new facial recognition technology to make it easier to reunite lost dogs and cats with their families. “We should take every step necessary to try to get pets back to their owners,"
+    publishedDateTime: 2020-07-22T20:55:00Z
+    webUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/"
+    ampWebUrl: "https://philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
+    cdnAmpWebUrl: "https://philadelphia-cbslocal-com.cdn.ampproject.org/c/s/philadelphia.cbslocal.com/2020/07/22/brandywine-valley-spca-using-facial-recognition-technology-to-help-reunite-lost-pets-with-owners/amp/"
     type: article
     provider:
-      name: Global Voices Online
-      domain: globalvoices.org
-    quality: 59
-    images:
-      - url: "https://fr.globalvoices.org/wp-content/uploads/2020/07/facial-recognition_1680x1050-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: CBS Boston / WBZ
+      domain: cbslocal.com
+    quality: 26
 
 secured: "VqarH8DaYxXR4acf3qQY7DK1ot48Uni8sFCtEIRyUnFAhxs9Wq5ZZNcNmlzWbMKcNNTPGP+q+VYJ77zIFWrdTMo5DoeQu1PXUrjJvZrDpbQelWiNpDq9t7E3d8Zi7zKxerBpGsFCKCuxgpJVMjitl4L1u1Vlzy45diUIoiNxBggP+nCNlmq+2jHwqNqF93r6htpgK1d5Mj8IMm+zQOcE4voppi/lIdR2KeM6xkQbFCDodovdFviFh4jvKd60YO8B+mrbc5toQ3Or2Qv+3soXj7aIpGgraIJ8PWAVpwqfUPYMywpRrgowOEOU7H93n9zzR/dNnVC7wBnNI/Oft4L0NBlUtrikkFK/fpyLdD2OfkJkpsIzjNYSDK/Lu1y4qDIRHt9vIrBaLC25X2iDbS0vXXQS+IlwZjagfX7ivXCky7GEgJv0aELlsbvaGJIiWNhDiftbCd2Ryg6EW68KtdjtimuWlftIpBe2VtX1zDio4QxOlDM++qtxsSipJvFtoibUYrCtQwE5DSMWrzNi6KIWUQ==;FoqAiNefRWu0BqRobLuJKA=="
 ---

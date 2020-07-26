@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-15-the-right-data-transforms-panel-of-experts-weigh-in.md",
+      "title": "The right data: Transform’s panel of experts weigh in",
+      "excerpt": "Data is the bedrock of AI and machine learning -- at Transform 2020 we queried some leading data experts about the trends they're seeing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-3.40.29-PM.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/the-right-data-transforms-panel-of-experts-weigh-in/amp/",
+      "publishedDateTime": "2020-07-15T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-mit-researchers-warn-that-deep-learning-is-approaching-computational-limits.md",
       "title": "MIT researchers warn that deep learning is approaching computational limits",
       "excerpt": "In a newly published study, MIT researchers find evidence that deep learning will soon (or already has) run up against computational limits.",
@@ -1339,56 +1389,6 @@
         "name": "Design News",
         "domain": "designnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-this-machine-learning-focused-vc-firm-just-added-a-third-woman-investment-partner.md",
-      "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
-      "excerpt": "Basis Set Ventures isn't a typical VC firm with a focus on AI and three women investment partners, including new hire Sheila Vashee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f04a3f0385b8d0006ef80ca%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D712%26cropY1%3D0%26cropY2%3D400",
-          "width": 712,
-          "height": 401,
-          "title": "This Machine Learning-Focused VC Firm Just Added A Third Woman Investment Partner",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexkonrad/2020/07/07/machine-learning-vc-basis-set-adds-new-partner/amp/",
-      "publishedDateTime": "2020-07-07T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html"
 type: article
 quality: 62
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 2699
     height: 1414
     isCached: true
-
-related:
-  - title: "IPsoft’s Amelia’s Now Available in the Microsoft Azure Marketplace"
-    excerpt: "As a Microsoft Partner, IPsoft supports Microsoft Azure customers, sellers and other partners worldwide in using the conversational AI platform to solve real business issues and drive efficiencies through automation. \"We are delighted to become a Microsoft ..."
-    publishedDateTime: 2020-07-21T12:01:00Z
-    webUrl: "https://www.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
-    ampWebUrl: "https://amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
-    cdnAmpWebUrl: "https://amp-mynewsdesk-com.cdn.ampproject.org/c/s/amp.mynewsdesk.com/ipsoft/pressreleases/ipsofts-amelias-now-available-in-the-microsoft-azure-marketplace-3022596"
-    type: article
-    provider:
-      name: mynewsdesk.com
-      domain: mynewsdesk.com
-    quality: 89
-    images:
-      - url: "https://resources.mynewsdesk.com/image/upload/t_open_graph_image/ecqg7rq6c6zaep669ex5.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "txj6Y4qmqn5kR4jtvXmNrM808I1/BUiF4IEjs1v+ib6D7AnnjwOm+BQxFlvKPZPzxKpXkSNqBXw92JS4Kzx2ULNtzrHhRrPN3578CR/wgNo3HWiMJr6YKJxVEL6MBc9heJ94PclLkLEtHODzbLVBiPziE5gkpP5/T0MbH6/bQIXqmUFjREneM2xWo15AlztUnOYhulynYx4S92JEFkeYKhfCB1d4Dqmc1Ghs+rS4RJ/pC/OYB3/upnyaXnukILPUN0yj1wlL7zgqrnQZLoyHzelgFPoF8APdwW79+VaSXCvoNzSB1W/bfB3CjEoo2/cJjcHZjWYfuQClCAOVNw5iKmkjEosjbrJ7oMoj7RFT5Ui2XRa/IYBvNdIEW5dmHVOJX83BqI5x+Ciawj7IARK13ChX1UGOCQwe56rm9A5/MpZ4FvEk6GxOrZ+JkC8bCsFRrKMRKuZzqphRbFwyYgrJyas0GSRxGpsmjZIt/AyBWBrGpkEoNdsjZ8CamYvn0vS2eNULk3pqM8v8S+ku7Ydbfw==;KTrsLp/KnnINBUF5zvlzZw=="
 ---

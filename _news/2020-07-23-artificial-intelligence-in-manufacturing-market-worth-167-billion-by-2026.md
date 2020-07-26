@@ -33,38 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Healthcare Market 2020 is Booming to Cross Billions of Mark at a CAGR of 43.2% by 2026"
-    excerpt: "Niche market research report on Global Artificial Intelligence in Healthcare Market 2020 with industry in depth analysis trends key players and forecast by 2026 The latest published report on Artificial Intelligence in Healthcare Market Analysis and Forecast from 2019 to"
-    publishedDateTime: 2020-07-21T12:37:00Z
-    webUrl: "https://www.openpr.com/news/2094028/global-artificial-intelligence-in-healthcare-market-2020"
-    ampWebUrl: "https://www.openpr.com/amp/2094028/global-artificial-intelligence-in-healthcare-market-2020"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094028/global-artificial-intelligence-in-healthcare-market-2020"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 49
-    images:
-      - url: "https://cdn.openpr.com/T/7/T721452837_g.jpg"
-        width: 800
-        height: 495
-        isCached: true
-  - title: "Machine Learning In Manufacturing Market Global Outlook 2020-2026: Dell Inc., Oracle Corporation, SAP SE, Amazon Web Services Inc"
-    excerpt: "The Global Machine Learning In Manufacturing Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and ..."
-    publishedDateTime: 2020-07-23T10:41:00Z
-    webUrl: "https://www.openpr.com/news/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723138481_g.jpg"
-        width: 409
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Research Report by Technology, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "NEW YORK, July 22, 2020 /PRNewswire/ -- Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, Robotic Processes Automation,"
     publishedDateTime: 2020-07-22T12:43:00Z

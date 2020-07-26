@@ -36,22 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 66
-  - title: "QC Ware Quantum Loader Breakthrough for up 100X Faster Training of Quantum Machine Learning"
-    excerpt: "Industry impact of Forge Data Loaders Forge offers two types of data loaders: the Forge Parallel Data Loader and the Forge Optimized Data Loader, which optimally transform classical data to quantum states to be readily used in machine learning applications."
-    publishedDateTime: 2020-07-21T12:07:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/07/qc-ware-quantum-loader-breakthrough-for-up-100x-faster-training-of-quantum-machine-learning.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/07/qc-ware-quantum-loader-breakthrough-for-up-100x-faster-training-of-quantum-machine-learning.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/07/qc-ware-quantum-loader-breakthrough-for-up-100x-faster-training-of-quantum-machine-learning.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 64
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/03/Honeywell-Quantum-Solutions-Trap.jpg"
-        width: 4873
-        height: 2656
-        isCached: true
 
 secured: "7hMiFCRywUtystE8O5BVgZK8lKbyh8Z2Rcnd1zkk1su8lVk8hpO2CCRoo/vEw0Up5OCkBhp5q/ol/oAoBpTmYv6sdPS8XEwU5e7qzcEILta8HDBlMz1gFuWqyuxBXfsKRiyZKXG9HdvYw6U9YDAC1HkgyevyaMaUSZQNWuANIYUrtogFKXmr/tI+444V7LUIbzb5/eOYz1lk9egOZOks5Ds4KlgRjP7e8DwfGJXNC+EhFQ+4xdOCRfFNoN/0wt+tDuGYAqSO2DVQJlArBrF8S4P/jSN9Ffgm832fu/Kvt0t7y8d0bvMYSGMkcEyFTKnZujqGa6P4eRMsCHS5BZIlOrFlwEDJMu6wLvuId78MvjpRd0vTabVOEdd8aElNRClCllYi2NrwsR5Qxauj9O0ouJwvJZQ0tDuEctqn8PfeEtwK6tKqmwHL4mqFslJi9jbBSHk7mMNNcaJoyP6qM2uiP5kFwfnZza2FPtxfwkm+PaN5e+5WAZj62rwUb7q/SbepvHocnzP0MZqT1CklNrYZPg==;iyLdYPILvnE20krCV9Ko7A=="
 ---

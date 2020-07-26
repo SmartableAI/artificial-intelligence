@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-17-a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity.md",
+      "title": "A beginner’s guide to the AI apocalypse: Artificial stupidity",
+      "excerpt": "And despite its relative infancy, artificial intelligence isn’t as far from ... In other words: the robots won’t kill us out of spite, they’ll just forget we exist and transform the world ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/space_robot-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/17/a-beginners-guide-to-the-ai-apocalypse-artificial-stupidity/amp/",
+      "publishedDateTime": "2020-07-17T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-ebay-cto-ai-is-now-an-ecosystem-for-us.md",
+      "title": "eBay CTO: AI is now an ‘ecosystem’ for us",
+      "excerpt": "Watch the final day of VB Transform live on YouTube! While eBay could have used any number of existing AI platforms to enhance its various products, the company instead elected to build its own AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
+      "publishedDateTime": "2020-07-17T12:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
+      "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
+      "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/04/11/7f14de97-e97a-4051-a342-644378ddf1d4/resize/1200x/2fe4d638fcfc2c8d05a64a57d184b147/istock-912675036.jpg",
+          "width": 1200,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
+      "publishedDateTime": "2020-07-17T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-17-building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex.md",
       "title": "Building a scalable outbound call engine using Amazon Connect and Amazon Lex",
       "excerpt": "&shy; This is a guest post by AWS Machine Learning Hero Cyrus Wong. Staying connected with family, friends, and colleagues is easy for most people who live with or close to others. For educators who need to communicate lessons and schedules with their students, or businesses who communicate with new",
@@ -1303,155 +1452,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-how-valuable-is-your-ai-trust-currency.md",
-      "title": "How valuable is your AI trust currency?",
-      "excerpt": "Trustworthy AI depends on building trust in your people, processes, data, tools, and models, including mechanisms for building trust into your AI itself.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1175710243.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
-      "publishedDateTime": "2020-07-16T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-googles-fabricius-uses-machine-learning-to-decode-hieroglyphs.md",
-      "title": "Google's Fabricius uses machine learning to decode hieroglyphs",
-      "excerpt": "Google’s Arts and Culture vertical has been known to release fun apps and tools to help people engage with art and history. Now, the company is launching a web-based AI tool to let users interact with ancient Egyptian hieroglyphs and also help researchers decode the symbols with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F8fab2660-c79e-11ea-affc-56b15034444f&client=amp-blogside-v2&signature=655d75e8b6d0f4dffdb77b553b0294a2b58bbdd5",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
-      "publishedDateTime": "2020-07-16T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-amazon-ai-cant-solve-every-conversational-problem.md",
-      "title": "Amazon: AI can’t solve every conversational problem",
-      "excerpt": "Amazon's Janet Slifka concedes that AI can't solve every problem. She spoke about the need for manual, human-driven solutions at VentureBeat Transform 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/amp/",
-      "publishedDateTime": "2020-07-16T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

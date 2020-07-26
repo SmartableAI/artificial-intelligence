@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Entertainment Robots Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2023"
-    excerpt: "Global Entertainment Robots Market 2020 Research Report offers up-to-date information and historical data on Entertainment Robots market. The study provides historic data along with a forecast based on both sales and revenue."
-    publishedDateTime: 2020-07-21T12:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2023-2020-07-21?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Evolving Technology, Trends and Demand 2020-2026 : Fractal Analytics Inc., Microsoft Corporation, Dataiku"
     excerpt: "The report discusses many vital industry facets that influence global Machine Learning Market industry acutely which includes extensive study of competitive edge, latest advancements, region-wise industry environment, contemporary market and emerging ..."
     publishedDateTime: 2020-07-23T13:42:00Z

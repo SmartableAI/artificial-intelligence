@@ -2,6 +2,137 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-06-26-machine-learning-ai-experts-create-models-for-covid-19-decisions.md",
+      "title": "Machine learning, AI experts create models for COVID-19 decisions",
+      "excerpt": "Experts in the Air Force Research Laboratory are applying explainable machine learning and artificial intelligence approaches to develop thousands of models that could help federal, state and local decision makers as they make re-opening decisions during the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.daytondailynews.com/rf/image_medium/Pub/p11/DaytonDailyNews/2020/06/26/Images/newsEngin.25885980_RGB_sky-062620-Brain.jpg",
+          "width": 750,
+          "height": 422,
+          "title": "Machine learning, AI experts create models for COVID-19 decisions",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
+      "cdnAmpWebUrl": "https://www-daytondailynews-com.cdn.ampproject.org/c/s/www.daytondailynews.com/news/local/machine-learning-experts-create-models-for-covid-decisions/bGgtiaImkzIPndS1fW6PPJ/amp.html",
+      "publishedDateTime": "2020-06-25T21:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dayton Daily News",
+        "domain": "daytondailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer.md",
+      "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
+      "excerpt": "In a recent conversation with Professor of Public Understanding of Science at Oxford University, mathematician, broadcaster and author Marcus du Sautoy we explored some questions that he pondered in his book What We Cannot Know: Explorations at the Edge of Knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef575a661d20f0007e1dbd5%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Can We Have Conscious Artificial Intelligence And Other Mind-Blowing Things Science Can’t Answer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/26/can-we-have-conscious-artificial-intelligence-and-other-mind-blowing-things-science-cant-answer/amp/",
+      "publishedDateTime": "2020-06-25T21:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-ai-accelerating-software-gives-fpgas-a-leg-up-on-gpus.md",
+      "title": "AI-Accelerating Software Gives FPGAs a Leg Up on GPUs",
+      "excerpt": "Xilinx recently tapped a startup for its AI accelerating software platform. In what ways might this platform add extra benefits for FPGAs in contrast to GPUs?",
+      "sourceUrl": null,
+      "webUrl": "https://www.allaboutcircuits.com/news/ai-accelerating-software-gives-fpgas-leg-up-gpu/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/Mipsology.jpg",
+          "width": 700,
+          "height": 300,
+          "title": "AI-Accelerating Software Gives FPGAs a Leg Up on GPUs",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-can-ai-erase-enough-of-its-own-bias-to-address-racial-and-gender-gaps.md",
       "title": "Can AI erase enough of its own bias to address racial and gender gaps?",
       "excerpt": "VCs and lenders rely on business data such as transaction records to inform funding decisions for fintechs or small businesses, but bias and uneven representation in management still result in gender and racial disparity.",
@@ -971,145 +1102,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity.md",
-      "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
-      "excerpt": "More companies are using AI hiring tools in the hiring process to pinpoint premium candidates. But potential biases in these technologies have raised ethical concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/06/25/93e5c41c-e9fb-4d75-a0da-9f14f5a5d5d3/resize/1200x/42e74b2fc02c29579b0ebee6d0ae7060/jovanmandic.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Inclusive AI: Are AI hiring tools hurting corporate diversity?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/inclusive-ai-are-ai-hiring-tools-hurting-corporate-diversity/",
-      "publishedDateTime": "2020-06-25T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-variation-in-natural-speech-is-challenging-for-dyslexic-adults.md",
-      "title": "Variation in natural speech is challenging for dyslexic adults",
-      "excerpt": "A new study brings neural-level evidence that the continuous variation in natural speech makes the discrimination of phonemes challenging for adults suffering from developmental reading-deficit dyslexia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200625/Variation-in-natural-speech-is-challenging-for-dyslexic-adults.aspx",
-      "publishedDateTime": "2020-06-25T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
-      "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
-      "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128057578%2F0x0.jpg",
-          "width": 1200,
-          "height": 556,
-          "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
-      "publishedDateTime": "2020-06-25T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

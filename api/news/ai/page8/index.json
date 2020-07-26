@@ -2,6 +2,155 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-16-how-valuable-is-your-ai-trust-currency.md",
+      "title": "How valuable is your AI trust currency?",
+      "excerpt": "Trustworthy AI depends on building trust in your people, processes, data, tools, and models, including mechanisms for building trust into your AI itself.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-1175710243.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/how-valuable-is-your-ai-trust-currency/amp/",
+      "publishedDateTime": "2020-07-16T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-googles-fabricius-uses-machine-learning-to-decode-hieroglyphs.md",
+      "title": "Google's Fabricius uses machine learning to decode hieroglyphs",
+      "excerpt": "Google’s Arts and Culture vertical has been known to release fun apps and tools to help people engage with art and history. Now, the company is launching a web-based AI tool to let users interact with ancient Egyptian hieroglyphs and also help researchers decode the symbols with machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2F8fab2660-c79e-11ea-affc-56b15034444f&client=amp-blogside-v2&signature=655d75e8b6d0f4dffdb77b553b0294a2b58bbdd5",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-fabricius-egyptian-hieroglyphics-decode-ai-192533491.html",
+      "publishedDateTime": "2020-07-16T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-amazon-ai-cant-solve-every-conversational-problem.md",
+      "title": "Amazon: AI can’t solve every conversational problem",
+      "excerpt": "Amazon's Janet Slifka concedes that AI can't solve every problem. She spoke about the need for manual, human-driven solutions at VentureBeat Transform 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/amazon-ai-cant-solve-every-conversational-problem/amp/",
+      "publishedDateTime": "2020-07-16T12:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-how-an-ai-graphic-designer-convinced-clients-it-was-human.md",
       "title": "How an AI graphic designer convinced clients it was human",
       "excerpt": "Art. Lebedev Studio has built an AI designer that creates original company logos. Sergey Kulinkovich, the company's art director, told TNW how it works.",
@@ -1233,128 +1382,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-uks-drover-raises-26m-for-to-take-its-car-subscription-marketplace-to-europe.md",
-      "title": "UK’s Drover raises $26M for to take its car subscription marketplace to Europe",
-      "excerpt": "The future of transportation is in a moment of flux, and that continues to provide opportunities for startups to build solutions provide new ways for us to get from A to B. In the latest development,",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister.md",
-      "title": "UAE open to work closely with Tesla on driverless cars, says minister",
-      "excerpt": "The government plans to hand out data that would be useful to driver-less cars to help incentivize start-ups, Minister of State for Artificial Intelligence Omar Al Olama said. Dubai Future Lab ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister-1.1594885958530",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2020/04/22/Auto-tesla_171a14bd17f_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister-1.1594885958530",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/uae-open-to-work-closely-with-tesla-on-driverless-cars-says-minister-1.1594885958530",
-      "publishedDateTime": "2020-07-16T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
-      "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
-      "excerpt": "Altair Knowledge Studio’s AutoML wizard automatically selects the top variables, which is useful when there are hundreds of variables. Alternatively, the user can select the number manually and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

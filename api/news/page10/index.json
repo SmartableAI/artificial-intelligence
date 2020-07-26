@@ -2,6 +2,146 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-07-16-cloudera-built-its-conversational-ai-chops-by-keeping-things-simple.md",
+      "title": "Cloudera built its conversational AI chops by keeping things simple",
+      "excerpt": "It turns out if you're a data company with modern data architectures at the ready, you have a head start building out internal conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/cloudera-conversational-ai-transform-2020.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/16/cloudera-built-its-conversational-ai-chops-by-keeping-things-simple/amp/",
+      "publishedDateTime": "2020-07-16T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
+      "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
+      "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T716884054_g.jpg",
+          "width": 539,
+          "height": 359,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2091694/ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu",
+      "publishedDateTime": "2020-07-16T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-why-diversity-in-ai-is-so-important.md",
+      "title": "Why Diversity In AI Is So Important",
+      "excerpt": "The rapid expansion of artificial intelligence from facial recognition to self-driving cars is having a major impact on business and society, which is why we need more diversity among the people developing AI tools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0f8ae4933def000676671c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D600",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariaklawe/2020/07/16/why-diversity-in-ai-is-so-important/amp/",
+      "publishedDateTime": "2020-07-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-white-castle-is-testing-a-burger-grilling-robot-named-flippy.md",
       "title": "White Castle is testing a burger-grilling robot named Flippy",
       "excerpt": "The privately held restaurant chain on Wednesday announced a partnership with the Pasadena, California-based startup Miso Robotics to introduce Flippy ... An earlier version of Flippy, which uses artificial intelligence to decide when to flip a burger ...",
@@ -942,148 +1082,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-amazon-google-microsoft-sued-over-photos-in-facial-recognition-database.md",
-      "title": "Amazon, Google, Microsoft sued over photos in facial recognition database",
-      "excerpt": "The plaintiffs allege that the tech giants used people's pictures obtained without permission to train their technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/xfPdi1mmwtDzDUGS-y0SixQK_QU=/756x567/2019/03/15/d0e98f89-88ab-436f-8f6d-503a95eb57f0/facial-recognition-face-id-password-6.jpg",
-          "width": 756,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-google-and-microsoft-sued-over-photos-in-facial-recognition-database/",
-      "publishedDateTime": "2020-07-15T18:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-facial-recognition-technology-led-to-this-detroiters-wrongful-arrest.md",
-      "title": "Facial recognition technology led to this Detroiter's wrongful arrest",
-      "excerpt": "Michael Oliver is the latest Detroiter to come forward with a story of a wrongful arrest due to facial recognition technology. The news comes as City Council debates extending DPD's contract with facial recognition technology provider DataWorks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wxyz.com/news/region/detroit/facial-recognition-technology-led-to-this-detroiters-wrongful-arrest",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/60bc0ad/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F6e1%2Fbe88c4e651db4a7dbe102614d7272948%2F6e16c35e0d2047d98eee83f489fccf02%2Fposter_596d4d61d9d747849895a4fa826019f0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-15T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WXYZ Detroit",
-        "domain": "wxyz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-announcing-the-ai-innovation-awards-winners-at-transform-2020.md",
-      "title": "Announcing the AI Innovation Awards winners at Transform 2020",
-      "excerpt": "To kick off three days of AI panels, discussions, fireside chats, and networking at Transform 2020, VentureBeat presented the second annual AI Innovation Awards. Drawn both from our daily editorial coverage and the expertise,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/award.GettyImages-sb10063090af-009-e1561064273974.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/announcing-the-ai-innovation-awards-winners-at-transform-2020/amp/",
-      "publishedDateTime": "2020-07-15T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
