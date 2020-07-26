@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure"
-excerpt: "Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its Anvesa® eDiscovery platform for the legal profession."
-publishedDateTime: 2020-07-13T08:30:00Z
-webUrl: "https://apnews.com/PR Newswire/891cb8e395e733e17f8044cf3fd18ccc"
+excerpt: "\"Anvesa® harnesses the power of Microsoft Azure AI solutions including Azure Cognitive Services and Azure Machine Learning to help users seamlessly find information critical to winning legal cases,\" said Bharat Sandhu, Director, Product Marketing Azure AI ..."
+publishedDateTime: 2020-07-13T08:43:00Z
+webUrl: "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook"
+    width: 1706
+    height: 893
     isCached: true
 
-secured: "OOmcTprqTy/TWRtSnubYBlDP4rJeHs9se0nkTm0/4LQNFTiJ5aFV8T88xoa6nzir7UWW4tdgGRg/uQPBVG6JdHocE+Oy4raCqi4XaRfjKrz0Y98sX6R2OsMFek1SVbGlDeaLYOPBG8G9Xeaym1+fVm3G4zt78TzMvvSr3qGKboAXagXNgoHLi2P8zI3GxrxIv8d8axCdUqN5YxlFytM/Wy+oysOR/GDDH9WB2dB+hV3GkwW7vSSuioC7MMRZuwWQ9nVsN98ZqFXgExHYgOpnqRKq6T33cF63LCYJwwfYDuhYvexijXDPUd7uPvOPE8tknySIcy/TPggoAP9YbVeeCg==;lNzuxOg3j8C4zlOGOAsusg=="
+secured: "nEpaLrpBV4sdjc6ovke1zugir+nvX9Fh+uCTkSJqCi/cGihWNdiioZCpj+W/he5gvIwGDVFtqpuLhCksai0js8+GQPMOzWGyASbikcOhdOnclMhSU9fpWAXbSAJay0RjyIPUJaREpynD8LfGg6fLdCVXI2ZfrRTCOK4azgeNZv0wHN/tH57DlOAwoqV2qNcbb8+HxVpWzxTMHK9y1MQMvEGKJjB5BkOgz+MHfu6GKBcaknAZi3zpZzO45WibLgZJybg+YvDDrfNMk8+NOZP1u/qm37ZUAu2E+n1/p0UUCsEHUi9xDSgW6CrK9J5V9RzmG2+IT39ch1lQt0Z6HiBG+A==;ZpQ28S3J7Enk1OLRZ6wvKw=="
 ---
 

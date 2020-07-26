@@ -1,22 +1,30 @@
 ---
 category: news
 title: "A Tech Visionary, a Cloud & Telecommunications Giant and the Coolest AI Start Up CEO in the Market to Headline Questex's Fierce AI Week"
-excerpt: "Questex's Fierce AI Week, the virtual event focused exclusively on the application of AI to drive business, customer and"
-publishedDateTime: 2020-07-21T20:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/g16718666/a-tech-visionary-a-cloud-telecommunications-giant-and-the-coolest-ai-start-up-ceo-in-the-market-to"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16718666"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16718666"
+excerpt: "Questex's Fierce AI Week, the virtual event focused exclusively on the application of AI to drive business, customer and process value for emerging and large enterprises, today announces Shankar Arumugavelu,"
+publishedDateTime: 2020-07-21T20:15:00Z
+webUrl: "https://www.marketwatch.com/press-release/a-tech-visionary-a-cloud-telecommunications-giant-and-the-coolest-ai-start-up-ceo-in-the-market-to-headline-questexs-fierce-ai-week-2020-07-21?mod=mw_quote_news&tesla=y"
 type: article
-quality: 5
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Questex Leaps Into Artificial Intelligence with Launch of Virtual Fierce AI Week"
@@ -34,6 +42,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "+1HMYe2joLTwqeXvnUQzaagqRGZidaKyHTvnumF3OukF8upO7qBR0wbkd2MN5TBwcuD+7LXnBHS/MenJ4gYQvVW2yGjkItLT0nNbht9RXz2jUKnRJp1K+SUBhpf43vgVsu1ycLTPtpeBb0byRJaBu1zqvPPeWR7zWMfuteBaStmpQNDHujeWEvWxnUWVxWzTAnmSXg/x7J5sYcOU3Lp+9L8e/hqwV1KGkzhHRGM7iFlYhd7/DpkwUqUg9lBRI15tJQuFTOqXuch/DLCel2p/W8c8SLdBbrw3qS1RbgrGaZSIoWBt8UNE4YRzGiFbjW42qkNaW7YIoUAMZ5QswcwZnUwghIsnQDOdrVf/IPfHoJOoWZryUhpqrUvC/bfzs7X3wkahdZ4mgYo+h/Bd7VKaLoBu3IT0vPKEfvfeCbiHcZN+eBBPSAoRcuq4yuvl45fLo6bVDXTf6tkFsyMGFTNl+sjqgHTEuN8UjO7Z76sHgVlv3u2ykOhOhoi5eNJ/moqQSy416dvWNG9lXOKI3MxYQg==;gm5zYLSJhLM3a0pMi1RbpA=="
+secured: "o7ZQf8TjhhXoN6zSwksZUzrDLECO3uf8DFE1e70DCov3VvwYgtevB0KgwH1QhlIMyURPlZW9rGsUE+52yBzzdi21YzeVPlYsXi1hZtsIVKZow71rIq2LAAMk7TQd+/RFc+bLnlLtE1ZjNS7yGTdqEIcSMlXXyHbDQNM4bsO9sju1UykGK5DQoPSzBfrWJm/MwLDKvorOAsUlJ5aCQ4WaD2Z2YLmZ6WUzzUzaSCoD9cbwxHNx3QEoowlhpzmDhSf9bqGXx6iCyLrFKRKEiEhabtM/li8SnGXgFV8tQI0bqEg5VyI0R7cJV5NXexvtcUpSnfrHYlJj+Es6S0Ge78lztg==;em4PtWSDUYl4EycWIR72MA=="
 ---
 

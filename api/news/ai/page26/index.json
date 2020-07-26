@@ -2,38 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-07-01-decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-process-management.md",
-      "title": "Decisions and NLP Logix Announce Partnership to bring the Power of Machine Learning to Business Process Management",
-      "excerpt": "NLP Logix delivers automation and machine learning solutions to customers across a wide swath of industries, including financial services, energy, healthcare, government, human resources ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16464333/decisions-and-nlp-logix-announce-partnership-to-bring-the-power-of-machine-learning-to-business-pr",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16464333",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16464333",
-      "publishedDateTime": "2020-07-01T01:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-01-lyfts-driverless-cars-are-back-on-the-streets-of-california.md",
       "title": "Lyft’s driverless cars are back on the streets of California",
       "excerpt": "Lyft’s driverless cars are back on the streets of California. The ridesharing company suspended testing of its autonomous vehicles earlier this year in response to shelter-in-place orders ...",
@@ -1360,6 +1328,56 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-30-facial-recognition-software-fails-to-correctly-identify-people-96-percent-of-the-time-according-to-detroits-chief-of-police.md",
+      "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
+      "excerpt": "Facial recognition technology misidentifies criminal suspects 96% of the time, according to the Detroit Police Chief.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5efb576f2618b92cb777ca37?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Facial recognition software fails to correctly identify people '96 percent of the time,' according to Detroit's chief of police",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-fails-96-of-the-time-detroit-police-chief-2020-6?amp",
+      "publishedDateTime": "2020-06-30T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

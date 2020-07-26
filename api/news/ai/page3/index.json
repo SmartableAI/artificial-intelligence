@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-22-amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps.md",
+      "title": "Amazon launches Alexa Conversations in beta, lets developers deep-link skills to mobile apps",
+      "excerpt": "During Alexa Live, a virtual event for Alexa vendors and developer partners, Amazon unveiled tools designed to enable new Alexa voice experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
+      "publishedDateTime": "2020-07-22T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-google-launches-recommendations-ai-ecommerce-tool-in-public-beta.md",
       "title": "Google launches Recommendations AI ecommerce tool in public beta",
       "excerpt": "Following a lengthy preview period, Recommendations AI is available to eligible Google Cloud customers in beta from today.",
@@ -299,87 +349,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-ai-security-and-ethics-startup-calypsoai-lands-13-million-in-funding.md",
-      "title": "AI security and ethics startup CalypsoAI lands $13 million in funding",
-      "excerpt": "CalypsoAI, a machine learning startup with its roots in the defense industry, has raised $13 million to help make government and corporate AI systems more secure and free of bias. Why it matters: Making AI systems that are free from bias,",
-      "sourceUrl": null,
-      "webUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.axios.com/QKM_OI0mo1BYu3oN1dzXmV3qB0E=/fit-in/1366x1366/2020/07/22/1595425142080.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
-      "cdnAmpWebUrl": "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html",
-      "publishedDateTime": "2020-07-22T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Axios",
-        "domain": "axios.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-uf-launches-70-million-artificial-intelligence-partnership.md",
-      "title": "UF launches $70 million artificial intelligence partnership",
-      "excerpt": "With a computer being installed by November, UF is expected to have the fastest supercomputer in higher education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gainesville.com/apps/pbcsi.dll/bilde?Site=LK&Date=20200722&Category=NEWS&ArtNo=200729510&Ref=AR",
-          "width": 5000,
-          "height": 2812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
-      "cdnAmpWebUrl": "https://www-gainesville-com.cdn.ampproject.org/c/s/www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership?template=ampart",
-      "publishedDateTime": "2020-07-22T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gainesville",
-        "domain": "gainesville.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1417,6 +1386,47 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use.md",
+      "title": "Chip Industry Sees Danger of AI in Explosion of Electricity Use",
+      "excerpt": "The increasing use of artificial intelligence is going to extract a heavy price in power unless the chip industry steps up and heads that off, according to one of the industry’s biggest companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-07-21/chip-industry-sees-danger-of-ai-in-explosion-of-electricity-use",
+      "publishedDateTime": "2020-07-21T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

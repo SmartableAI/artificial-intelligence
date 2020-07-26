@@ -2,57 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-06-25-facebook-releases-ai-development-tool-based-on-nethack.md",
-      "title": "Facebook releases AI development tool based on NetHack",
-      "excerpt": "Facebook released the NetHack Learning Environment, a research tool based on the Atari game NetHack that's designed to benchmark and train AI agents.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook releases AI development tool based on NetHack",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/25/facebook-releases-ai-development-tool-based-on-nethack/amp/",
-      "publishedDateTime": "2020-06-25T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-25-ai-system-designed-to-aid-or-perhaps-replace-human-lifeguards.md",
       "title": "AI system designed to aid – or perhaps replace – human lifeguards",
       "excerpt": "Lifeguards do play a vital role in the prevention of drownings, but at large busy beaches, they can't always keep track of all the swimmers at all times. That's where Sightbit is designed to come in,",
@@ -1367,6 +1316,55 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity.md",
+      "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
+      "excerpt": "When Shamir Rahim, founder and CEO of VersaFleet, transformed his bio-medical startup into an AI-powered transportation management system, he never imagined being at the epicenter (in a good way) of a supply chain revolution during a worldwide pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee27d91bf1c58000769fdc3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI-Fueled Startup Turns Disrupted Supply Chains Into Last Mile Opportunity",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/06/25/ai-fueled-startup-turns-disrupted-supply-chains-into-last-mile-opportunity/amp/",
+      "publishedDateTime": "2020-06-25T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

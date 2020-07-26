@@ -2,56 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-07-13-the-intersection-between-self-driving-cars-and-electric-cars.md",
-      "title": "The Intersection Between Self-Driving Cars and Electric Cars",
-      "excerpt": "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs. Electric vehicles have limited range, and the first self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg",
-          "width": 1120,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp",
-      "publishedDateTime": "2020-07-13T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-13-agricultural-robots-market-worth-203-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The driverless tractors segment of the agricultural ... to the overall growth of the hardware segment of the market. Artificial Intelligence in Agriculture Market by Technology (Machine Learning ...",
@@ -86,18 +36,18 @@
     {
       "path": "_news/2020-07-13-aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure.md",
       "title": "Aureus to upgrade e-Discovery solution for legal profession, powered by Microsoft Azure",
-      "excerpt": "Aureus Tech Systems, a digital transformation company that provides accelerated intelligent cloud and edge solutions, brings major new capabilities to its Anvesa® eDiscovery platform for the legal profession.",
+      "excerpt": "\"Anvesa® harnesses the power of Microsoft Azure AI solutions including Azure Cognitive Services and Azure Machine Learning to help users seamlessly find information critical to winning legal cases,\" said Bharat Sandhu, Director, Product Marketing Azure AI ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/PR Newswire/891cb8e395e733e17f8044cf3fd18ccc",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1213215/Microsoft_PR_image.jpg?p=facebook",
+          "width": 1706,
+          "height": 893,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -106,11 +56,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T01:30:00-07:00",
+      "publishedDateTime": "2020-07-13T01:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1371,6 +1321,46 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-foxconn-launches-iai-institute-aimed-to-train-people-in-industrial-artificial-intelligence.md",
+      "title": "Foxconn launches iAI Institute aimed to train people in industrial artificial intelligence",
+      "excerpt": "Foxconn launched the iAI Institute “an initiative focused on training the workforce of tomorrow and sharing Industrial AI knowledge across industries.”  The iAI Institute plans to help train people in industrial artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jsonline.com/story/money/business/2020/07/10/foxconn-announces-launch-iai-institute-aimed-train-people-ai/5414940002/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/18/PMJS/e946865f-bf8c-4588-9e52-501bb53d354f-MJS_FOXCONN_13614.JPG?auto=webp&crop=3720,2093,x179,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.jsonline.com/amp/5414940002",
+      "cdnAmpWebUrl": "https://amp-jsonline-com.cdn.ampproject.org/c/s/amp.jsonline.com/amp/5414940002",
+      "publishedDateTime": "2020-07-10T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Milwaukee Journal Sentinel",
+        "domain": "jsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

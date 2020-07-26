@@ -2,47 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-07-07-one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience.md",
-      "title": "ONE Championship and Microsoft partner to further accelerate and reinvent the digital fan experience",
-      "excerpt": "Microsoft named ONE Championship’s preferred cloud provider, delivering new fan engagement experiences powered by Microsoft Azure and best-in-class collaboration with Microsoft 365 stadiumshot",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationthailand.com/sport/30390973",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nationthailand.com/images/news/2020/07/09/30390973/800_856c41e67e3ff1c.jpg?v=1594253288",
-          "width": 619,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T19:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nationthailand",
-        "domain": "nationthailand.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-07-5-tips-to-accelerate-your-companys-ai-implementation.md",
       "title": "5 tips to accelerate your company's AI implementation",
       "excerpt": "RingCentral’s Director of global SEO, John Allen lays out everything you need to know about how to get your firm’s AI implementation just right.",
@@ -1089,6 +1048,47 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-06-11-startups-in-india-using-ai-and-robotics-to-fight-covid-19.md",
+      "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
+      "excerpt": "Startups are leveraging tools and solutions to help fight the pandemic, as the number of cases in the country cross 5 lakh mark.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/11-startups-in-india-using-ai-and-robotics-to-fight-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/coronavirus_AI_startups.jpg",
+          "width": 1200,
+          "height": 870,
+          "title": "11 Startups In India Using AI And Robotics To Fight Covid-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

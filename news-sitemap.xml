@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.html</loc>
+    <lastmod>2020-07-25T19:29:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.forbes.com/sites/jackbrewster/2020/07/25/sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech/</loc>
     <lastmod>2020-07-25T11:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -399,18 +405,6 @@
   <url>
     <loc>https://www.forbes.com/sites/moorinsights/2020/07/22/ibm-cloud-for-financial-services-momentum-builds-with-bnp-paribas-and-30-isvs/</loc>
     <lastmod>2020-07-22T07:32:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.axios.com/calypsoai-funding-round-artificial-intelligence-bias-5f12d828-6a73-44ed-a1fc-cfc2b9029a0d.html</loc>
-    <lastmod>2020-07-22T07:17:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.gainesville.com/news/20200722/uf-launches-70-million-artificial-intelligence-partnership</loc>
-    <lastmod>2020-07-22T06:53:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2365,8 +2359,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://apnews.com/PR%2520Newswire/891cb8e395e733e17f8044cf3fd18ccc</loc>
-    <lastmod>2020-07-13T01:30:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html</loc>
+    <lastmod>2020-07-13T01:43:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

@@ -40,20 +40,6 @@ related:
         width: 5000
         height: 2812
         isCached: true
-  - title: "Scale AI, partners invest $29 million into five artificial intelligence projects"
-    excerpt: "Five projects have received $29 million in funding from Scale AI and a number of partner companies to support the implementation of artificial intelligence (AI). Scale AI invested $9 million, with other partners investing $20 million. Scale AI invested $9 ..."
-    publishedDateTime: 2020-07-21T11:00:00Z
-    webUrl: "https://betakit.com/scale-ai-partners-invest-29-million-into-five-artificial-intelligence-projects/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 47
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2019/07/Scaleai-1024x680.jpg"
-        width: 1024
-        height: 680
-        isCached: true
 
 secured: "zFKDaxGt08DxGS851bb3RIemx0DtKgyDMofi7Mo/PA4HuunRYzJ7Pu4tWY5qwq/4Jg1KCUokR2xKJyFzmqKpTuAgM3OP+ICNy5/nQrhtx7Ov3SjGcpK/d8DcxFp0o846ZRw6FW/csBy7AB61c+0TjSnGjCnrBydVnIbm1rgom7QQuX/ude0VBNsXmuSET1Qis0czhDD80QE6IAjaorF8lYuYWdbGz6J0w2fqVJn7jyquWGlhU9gdLOBA5wlkpjnAKOyq6C6Zy5X5IaKCjXDDVSHayLt4N/zuVkDV8t3+1ZJy4+qAwEU/+1ljITRPZ9MIM3ABj3U1e86TO5K0g47Siw==;1DMTTpWAVnZtFUu3MvfJOA=="
 ---

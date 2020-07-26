@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-23-here-now-how-ai-can-alert-us-to-a-changing-world.md",
+      "title": "Here, Now: How AI Can Alert Us To A Changing World",
+      "excerpt": "The Covid-19 outbreak has changed the world in a myriad of unforeseen ways, and experts in every field are scrambling to predict its impact.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183d7f6efac20006bffbea%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
+      "publishedDateTime": "2020-07-23T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-ai-predicts-a-dodgers-world-series-win-after-a-covid-shortened-season.md",
       "title": "AI predicts a Dodgers World Series win after a COVID-shortened season",
       "excerpt": "Major League Baseball is entering uncharted waters with the start of its COVID-abridged season today. Nobody’s really sure if the 60-game season will even be able to get through the World Series without disruption by the pandemic’s spread.",
@@ -230,7 +279,7 @@
       "webUrl": "https://www.businessinsider.com/hsbc-and-accenture-backed-quantexa-after-seeing-this-pitch-deck-2020-7",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1415,56 +1464,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps.md",
-      "title": "Amazon launches Alexa Conversations in beta, lets developers deep-link skills to mobile apps",
-      "excerpt": "During Alexa Live, a virtual event for Alexa vendors and developer partners, Amazon unveiled tools designed to enable new Alexa voice experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/amazon-launches-alexa-conversations-in-beta-lets-developers-deep-link-skills-to-mobile-apps/amp/",
-      "publishedDateTime": "2020-07-22T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

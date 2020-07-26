@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-26-police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.md",
+      "title": "Police look to AI, robots to make Dubai the world's safest big city",
+      "excerpt": "Dubai Police adopted the AI Ethics framework established and developed by the Smart Dubai initiative. The framework is one of the first in the world to address human concerns about AI and automation; it includes four principles --ethics, security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/07/al-razzooqi-100852747-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3567066/police-look-to-ai-robots-to-make-dubai-the-worlds-safest-big-city.amp.html",
+      "publishedDateTime": "2020-07-25T19:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-07-25-sinclair-broadcasting-defends-giving-plandemic-conspiracy-air-time-were-a-supporter-of-free-speech.md",
       "title": "Sinclair Broadcasting Defends Giving ‘Plandemic’ Conspiracy Air Time: ‘We’re A Supporter Of Free Speech’",
       "excerpt": "We’re a supporter of free speech and a marketplace of ideas and viewpoints, even if incredibly controversial,” the company said in a statement.",
@@ -1406,55 +1448,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-here-now-how-ai-can-alert-us-to-a-changing-world.md",
-      "title": "Here, Now: How AI Can Alert Us To A Changing World",
-      "excerpt": "The Covid-19 outbreak has changed the world in a myriad of unforeseen ways, and experts in every field are scrambling to predict its impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f183d7f6efac20006bffbea%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/07/23/here-now-how-ai-can-alert-us-to-a-changing-world/amp/",
-      "publishedDateTime": "2020-07-23T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

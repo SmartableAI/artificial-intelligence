@@ -2,55 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-07-13-microsoft-makes-major-cuts-to-msn-editorial-team-amid-ai-shift-and-broader-fiscal-year-end-layoffs.md",
-      "title": "Microsoft makes major cuts to MSN editorial team amid AI shift and broader fiscal year-end layoffs",
-      "excerpt": "Microsoft is further cutting back its MSN team amid a controversial shift to automation and AI for content decisions previously left to human editors. After previously eliminating dozens of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/07/bigstock-Milan-Italy-August-212302504-630x421.jpg",
-          "width": 630,
-          "height": 421,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-makes-major-cuts-msn-editorial-team-amid-ai-shift-broader-fiscal-year-end-layoffs/amp/",
-      "publishedDateTime": "2020-07-13T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-13-carnegie-mellons-robotic-painter-is-a-step-toward-ai-that-can-learn-art-techniques-by-watching-people.md",
       "title": "Carnegie Mellon’s robotic painter is a step toward AI that can learn art techniques by watching people",
       "excerpt": "In a newly published research paper, Carnegie Mellon researchers propose a robotic painter that learns from human demonstrations.",
@@ -1399,6 +1350,56 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-13-the-intersection-between-self-driving-cars-and-electric-cars.md",
+      "title": "The Intersection Between Self-Driving Cars and Electric Cars",
+      "excerpt": "Someday, self-driving cars will appear widely in the US. Wouldn’t it be nice if they also helped reduce greenhouse gas emissions? Trouble is, making an electric car self-driving requires tradeoffs. Electric vehicles have limited range, and the first self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5ef669586f93e879afd83495/master/pass/business_avs_cruise.jpg",
+          "width": 1120,
+          "height": 747,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/intersection-self-driving-cars-electric/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/intersection-self-driving-cars-electric/amp",
+      "publishedDateTime": "2020-07-13T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

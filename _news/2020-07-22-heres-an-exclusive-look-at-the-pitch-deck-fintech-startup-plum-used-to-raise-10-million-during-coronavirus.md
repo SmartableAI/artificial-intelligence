@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Data analytics startup Quantexa has raised $65 million in a funding round backed by HSBC and Accenture"
+    excerpt: "Good Subscriber Account active since DOW S&P 500 NASDAQ 100 Quantexa, a UK data analytics startup, has raised $65 million in a ... Quantexa uses the latest advancements in big data and AI, uncovering hidden risk and opportunities across financial crime ..."
+    publishedDateTime: 2020-07-23T10:07:00Z
+    webUrl: "https://www.businessinsider.com/hsbc-accenture-ai-data-firm-quantexa-funding-round-2020-7"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/5f1831374dca6807c2402746?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Read the 24-slide pitch deck that 'data janitor' startup Trifacta used to land $100 million from backers including Google and BMW"
     excerpt: "For all the benefits AI-based techniques can offer users, most will fall short if the information used is inaccurate or unorganized. That's where Trifacta comes in. The startup, which originated out of work done researching data-centric systems at UC ..."
     publishedDateTime: 2020-07-21T12:49:00Z

@@ -2,56 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-07-22-foxconn-to-invest-over-8-billion-for-new-chip-plant-in-china.md",
-      "title": "Foxconn to invest over $8 Billion for new chip plant in China",
-      "excerpt": "... includes fan out and wafer level bonding and stacking for chip solutions The applications of these chips will be used in 5G networking and various AI related device applications as well. The source added that the upcoming Foxconn Qingdao plant will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2020/07/22/foxconn-to-invest-over-9-billion-for-new-chip-plant-in-china/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2016/10/Foxconn.jpg",
-          "width": 1199,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-22-artificial-intelligence-in-the-healthcare-market-future-scope-opportunities-with-strategic-growth-and-top-players.md",
       "title": "Artificial Intelligence in the Healthcare Market Future Scope, Opportunities with Strategic Growth and Top Players",
       "excerpt": "Global Artificial Intelligence in the Healthcare Industry was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Industry is further estimated to grow at a CAGR of 48.",
@@ -1167,6 +1117,56 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-21-ai-is-accelerating-the-move-to-a-touchless-world.md",
+      "title": "AI is accelerating the move to a touchless world",
+      "excerpt": "a philosophy and ethics information professor and director of the Digital Ethics Lab at the University of Oxford, as saying. \"But a classic way of gaining trust, with AI interactions in particular, can be summarized in three words: transparency ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-is-accelerating-the-move-to-a-touchless-world/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/80f8a384-b6e4-4b6c-84a2-2772265f460f/resize/1200x/df64878ff3f885d95ee20e01cd182572/istock-1148923626.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-is-accelerating-the-move-to-a-touchless-world/",
+      "publishedDateTime": "2020-07-21T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }
