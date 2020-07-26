@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094357/global-ai-in-fintech-market-size-share-trends-regional"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: openpr.com
@@ -35,22 +35,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 14
-  - title: "Digital Health Market Trends 2020, Size Projection, Applications, Growth Statistics, Regional Insights, Sales and Share Value By 2025"
-    excerpt: "New emerging technologies such as artificial intelligence, robotics ... Tongue-Stabilizing Devices (TSDs), Epap Therapy Devices, Position Control Devices, Chin Straps), Distribution Channel (Retail Pharmacies and Online Stores) and Region (Americas ..."
-    publishedDateTime: 2020-07-21T16:08:00Z
-    webUrl: "https://www.openpr.com/news/2094284/digital-health-market-trends-2020-size-projection"
-    ampWebUrl: "https://www.openpr.com/amp/2094284/digital-health-market-trends-2020-size-projection"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094284/digital-health-market-trends-2020-size-projection"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
-    images:
-      - url: "https://cdn.openpr.com/T/7/T721162990_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "2SpjrwoTU6NN73GLGLtE1W30qtkh7IHAnJQxCbhrbdg4AJxdV+aVhMi6gKXgBrYFHcyiaQzIQcMp5WpUy6GSrWzlRVXxQ3dlgdqhKZBBpArCz2K+AxqLkgYmusR4hSHLTFvpQOhSR/CkLj8DrbFAo5aLcdn84dr+9CMGI+d+bCtgc2MSVdy6ksv44uBhxr9QdWQ58hAyhrUBHS9Tfq1dfE1Y8kAhRns8GrcVkLTkPTKmjm38kU7xLMDQOvwNxji1uZIkjjQAbJseaZuI/WgLiymNrgFBcZT940tqlNKs6/lcy69+Jk4CXCD5WHCu4rvJtVGZi89U99bjkTliXbBn5r7ARMNOckwstVSnFI9d4/yhpYW0UTIWfvqWgu3OPVmkxJpdJgjhoqIwQM7vXbnArBYo5d7mmRvouROtByZiQDofZS/4ZOUQLhPGirgQ7tGTE748cEUnSMEkhsa4kAIRIari2rtRz/u7o+5WTN+vz791zq7ljmL0Th3lOWQcrGXX;Sd2oRPkCl4ea74k6EeVSiA=="
 ---

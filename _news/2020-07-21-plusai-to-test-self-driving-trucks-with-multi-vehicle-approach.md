@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-21T23:07:00Z
 webUrl: "https://www.truckinginfo.com/10121806/plus-ai-to-test-self-driving-trucks-with-multi-vehicle-approach"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 945
     height: 630
     isCached: true
-
-related:
-  - title: "Plus.ai partners with Transportation Research Center to test self-driving trucks"
-    excerpt: "Plus.ai, the Silicon Valley-based self-driving truck technology startup, announced on Tuesday an agreement with the Transportation Research Center (TRC) to test Plus.ai's"
-    publishedDateTime: 2020-07-21T15:59:00Z
-    webUrl: "https://www.benzinga.com/markets/20/07/16711823/plus-ai-partners-with-transportation-research-center-to-test-self-driving-trucks"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16711823"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16711823"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/screen_shot_2020-07-21_at_11.55.26_am_0.png"
-        width: 1468
-        height: 858
-        isCached: true
 
 secured: "38YyXlQmseYXmO9M2BlSSEB3fZviX+VNUkY9PzVuB3U3Xrv2lB3cyy2e9VtATTudPRc2xNdSmAgRjDYcXMh87Pd+NqtEMMYVFbKIgMmDWlZdoIl+iDnuinXD+60jEtfJwUxtbUlFsKRJvJQ9NPdfiftzfbZvZ88ZzwJnVVK2KHQ9ZLmcVb1MW6o9RqEtPisc8BhFD9XaAnz14Eo9QdnaQv2/TZ//YASxTMMPB5XDxINDalA9MbZqi8HJ9hhGCgXmk5R1CJUZ6lsb1Dps2Ws50VVQQKb5SWhV4bsBc++CCUsmdrQP2wFZ8RsbEAPbbnINU5lPQujvQsld0hp1RPPZlszqogFy7DkarG2cuL6GBp95ng+9L0cWfnzcdKhXEgZkYZc8IR4GMxB+UlXB17l8AUFUm281QJFa9pk9IKECiyi6+AwPfex3HAnDDAuopC7DuA8xCYC7lFX4hplF3iTxrtGRlvZrMxuiA4w2V/t9ayglpEEFW4X3uydFNWyZy065qjSrdUNswPFomPQ77ul77w==;zEK95QEpwbvaTIRojPFmKA=="
 ---

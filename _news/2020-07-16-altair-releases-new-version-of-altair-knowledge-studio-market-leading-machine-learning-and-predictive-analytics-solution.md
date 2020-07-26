@@ -1,19 +1,25 @@
 ---
 category: news
 title: "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution"
-excerpt: "Altair Knowledge Studio’s AutoML wizard automatically selects the top variables, which is useful when there are hundreds of variables. Alternatively, the user can select the number manually and ..."
-publishedDateTime: 2020-07-16T07:00:00Z
-webUrl: "https://www.nasdaq.com/press-release/altair-releases-new-version-of-altairr-knowledge-studior-market-leading-machine"
+excerpt: "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ..."
+publishedDateTime: 2020-07-16T11:11:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "RtWK6FN1EiO/g1U+AN+d0eaNLBkN/6pNZsXsQTnb3PQ5doCUE3fTq0V9uQx/x7euB1XFOcURe+w1WxXasmzrnlovRw5sACq/dgDH0XinR0uwcyNYlWo1C4Zl5HV55oHj2b9r7TBIl0nQ9Ex9UbrtUH64eY41YLQ2VbYSTFtp8fFmOPTWlC8Pdi8arpnRMagBhxB7b+aG52iqhkNWxi61EAxh/eH4X5gfma8zo5SFHQGhBltyZpMORvEhN9Z6twoCNECkkzKKzLWlB9MKjvPVmwafUoesCy6SnMrNPTyiozxkA2NHY6Hk+XAxXo8EHHJZieXgMc6KnUaM/D3tAqdJxA==;ynKCptzCQbmyEshRjuvSFw=="
+images:
+  - url: "https://ml.globenewswire.com/media/fe824bfb-2796-46db-84df-d3c016abf98d/medium/altair-knowledge-studios-wizard-will-select-all-models-but-t.PNG"
+    width: 300
+    height: 217
+    isCached: true
+
+secured: "kuQV0vY6QkLc6u7YMYU6raShxkJfuho3ZQYe3HoYikqRIfUls0DSjDP76MWtbzY3iUuSveMjeKZbxTU009vdJA8NdpSFbE4WaLVcPWMOfuB2UyFvOxhoVj+90PZ5qYKdUA2049ASFzPRAO4tHf8SW5wHE+IMfVeRtNr4sC+gCzmwYkGxBNItj5amUE9Yj+IsrkLIPcSwIcTg55CsRyiCBqHZZTyTIaoaSYCXR7nI8OfnR+xZypRfq48b2FPgN4m9AZS8gBmKpExjttzuQhdHa1EgLlD27dr2RBLoEn1ZuWvbVDFNQt9FY8CSc8na3McJaNEpL0AJcvHI06zpoN77MQ==;bjCIxzr1nj6zrCXx6Chdaw=="
 ---
 

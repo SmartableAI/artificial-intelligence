@@ -3,11 +3,11 @@ category: news
 title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
 excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
 publishedDateTime: 2020-07-23T16:49:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=27&itm_content=1x7&itm_term=2376504"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=20&itm_content=1x7&itm_term=2376504"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "New York bans use of facial recognition in schools statewide"
@@ -357,6 +363,6 @@ related:
         height: 630
         isCached: true
 
-secured: "VwjPjxkk4Nr3dcW1442DG8IUqpZ9tOvTGV0Hn01KwqyaDTuV5zoagBTLe22SNOmoPYpec4Lf4pJ/JFtzQjmic5P0ZKbCcj/MRee2c0jp0327/bRnkDR+MGI6+vuBWfJR+SQI0UHU4j1bag8sFbj7ALzQQrRn7LEvWLSkzkRecV0UHVAiUoLWb7htAdzemPukqqOAeGbjxtgIzHH3vJ4SO712rol/r35z6F6uizIgLL4Lf8xZBZ6N74VWzcVUNyc/Fft6uPFjXw8aBxr1fKF1CrGi/5t0Gzo7B5lPoFYoXooBuE8PY8RwrBrwzs4vT3lPjmKOldJlYSKXDbIXzGSKoepL1Cbr2D5qZn7F+ht+CMNMRuYDPDKYvlMyGOD00fudFlifqM71nx0o7BcT8ToRQl+ZvSTRnKRD6LXtkz9Oj+1f+4Upo9+mwdYgWVW/Pm8laxCDpeaM+YI3Q4KCnYRd9IBMB+sStaBEhwOyY0njM7gOHOfLFfuXYqgFGDcalximYWqUm70hBqZX1voNXQsGVQ==;v5XmDcd5pwS/OjAi1XWCdw=="
+secured: "nVy847aI4tfbBKB+WNllW6DC7lsHwEFJAuJDAbXVJXyQxWX3beMHRWSt7O85I9AEqEFzfe38UX5hPc+b6w8hHDCqOIvKi6Kxm+1vs+ZWTbabIq+5W7Ltwhk0XIB8nDe/6Pd9MgUtZaa34rBL8OrRvyaDvGaPK32SVzLFEAWSuo8pNaaapdA0jAEEvPOUTvxdw0UncRlAFYQusf+dJ0Cy8rqO2Fc1sfzF2rgpnlrJSdD0TCqbOatwXtA+aj35tJg5GpKp2EVaIKeLJJ5ep/cRbBr7wT3ZHw4jeasqC5EKq0ndGEAX4lIcRJ+VqfaKbv6KP2wlkbKxD4VY4WkGBDQhmQ==;rdr5FnpF98b9GqzVAicOQw=="
 ---
 

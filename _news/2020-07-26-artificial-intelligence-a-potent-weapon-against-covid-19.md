@@ -7,8 +7,8 @@ webUrl: "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-aga
 ampWebUrl: "https://inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/"
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/artificial-intelligence-a-potent-weapon-against-covid-19/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 78
+heat: 78
 published: true
 
 provider:
@@ -19,6 +19,7 @@ topics:
   - AI
   - Facebook AI
   - AI in Healthcare
+  - IBM AI
 
 images:
   - url: "https://inc42.com/wp-content/uploads/2020/07/Untitled-design-2020-07-26T094821.971.jpg"

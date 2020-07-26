@@ -42,20 +42,6 @@ related:
         width: 600
         height: 388
         isCached: true
-  - title: "Infoblox Inc. built a patent-pending homograph attack detection model for DNS with Amazon SageMaker"
-    excerpt: "This post is co-written by Femi Olumofin, an analytics architect at Infoblox. In the same way that you can conveniently recognize someone by name instead of government-issued ID or telephone number, the Domain Name System (DNS) provides a convenient means for naming and reaching internet services or"
-    publishedDateTime: 2020-07-21T15:30:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/infoblox-inc-built-a-patent-pending-homograph-attack-detection-model-for-dns-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 75
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/17/sagemaker-infoblox-3-2.jpg"
-        width: 1000
-        height: 417
-        isCached: true
 
 secured: "lKx3wxEg6yOED32RAUB3cHEJjWfT5l+PYu1IwKarHuzyi5siTrRvm0LxUGQ6pFQraHQwZd8Gn4zdkEUtgRabxGm8BJ2nwftj7XGHh8UWyfc/E1QhkiF1vNbEgln0c9htZiAMAsGHMFT1YITLmWZFUVb2luaVLakCJx+H4fWyNt6Vug/TmamJVd4F261guOWYYPYpORnQnzX1KiSyEnXy3jivZzy6yShOiSFUjz3ZNLmb8cEBDeOm/tDgSdB3oAYc9+DApaEfIDCFZ18GzUunof2ORBKkSDp13F/KbzxMVnxNlfylHmAg/OWfLN5KQWJAgzJqYMTUVxYOjoRCvgWX+Q==;Ec6mLtFA94oXRt2Hp697vw=="
 ---

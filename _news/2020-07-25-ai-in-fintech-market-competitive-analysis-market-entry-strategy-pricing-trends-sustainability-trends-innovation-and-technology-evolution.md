@@ -38,22 +38,6 @@ related:
         width: 800
         height: 428
         isCached: true
-  - title: "Digital Health Market Trends 2020, Size Projection, Applications, Growth Statistics, Regional Insights, Sales and Share Value By 2025"
-    excerpt: "New emerging technologies such as artificial intelligence, robotics ... Tongue-Stabilizing Devices (TSDs), Epap Therapy Devices, Position Control Devices, Chin Straps), Distribution Channel (Retail Pharmacies and Online Stores) and Region (Americas ..."
-    publishedDateTime: 2020-07-21T16:08:00Z
-    webUrl: "https://www.openpr.com/news/2094284/digital-health-market-trends-2020-size-projection"
-    ampWebUrl: "https://www.openpr.com/amp/2094284/digital-health-market-trends-2020-size-projection"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2094284/digital-health-market-trends-2020-size-projection"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
-    images:
-      - url: "https://cdn.openpr.com/T/7/T721162990_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "dHe1w20BPIgM0GzTBYC5IhYSVY3IW1ynlJjP38W7u+RllYsfo9Y7I4+naqzz8pnwjQIz7RRhEjp2xNIryI02QlBX3t3S/LS1rW10XDtW8bv1wCok02oOJm4lUYOC5Kok1GxyprtAvq5FOOnh3QKG4cuocKBA+okGQasCB5MLgY2yeNYQ3tCiJSHB6Q7Le67iKM8NjBQMamlQ6MiUMrwiKFyQorCfoG5WVO2ejJGlIZ2wi07gB3OtL4GKWerl9k+Gn2Yu6KaggjZcTozHnUVA8Rii+cP2wl3dYHeDck1FwOSwWU07b72ESOgFCRiqz+F77jDw0vcRhVD5uea8qzqJRA==;PR6tamzshz+QdircQLDMZw=="
 ---

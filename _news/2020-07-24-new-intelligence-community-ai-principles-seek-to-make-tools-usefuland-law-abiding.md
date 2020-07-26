@@ -40,20 +40,6 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Leading the Intelligence Community After 2020’s Upheavals"
-    excerpt: "The IC must be a leader in the application of game-changing technologies like artificial intelligence and quantum computing, but it must partner closely with private sector innovators to get there. Fourth, ensure opportunities for underrepresented groups."
-    publishedDateTime: 2020-07-21T16:56:00Z
-    webUrl: "https://www.govexec.com/management/2020/07/leading-intelligence-community-after-2020s-upheavals/167030/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 22
-    images:
-      - url: "https://cdn.govexec.com/media/img/upload/2020/07/20/shutterstock_765005305/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "ODNI issues guiding principles for ethical artificial intelligence"
     excerpt: "The Office of the Director for National Intelligence issued guidance Thursday for the intelligence community‘s ethical development and use of artificial intelligence. The two documents — new principles and a supporting framework — aim to set a foundation for how and when members of the IC should use,"
     publishedDateTime: 2020-07-23T19:34:00Z
