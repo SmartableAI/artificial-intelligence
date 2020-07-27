@@ -2,6 +2,321 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-06-25-a-black-man-in-detroit-was-arrested-and-detained-for-30-hours-after-being-falsely-identified-by-facial-recognition.md",
+      "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+      "excerpt": "Activists have objected to the use of facial recognition by law enforcement for years, as the technology has been shown to display racial bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5d9b1756138e4a2e893e4931?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Black man in Detroit was arrested and detained for 30 hours after being falsely identified by facial recognition",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/black-man-arrested-after-being-falsely-identified-by-facial-recognition-2020-6?amp",
+      "publishedDateTime": "2020-06-25T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
+      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
+      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
+      "sourceUrl": null,
+      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
+          "width": 715,
+          "height": 398,
+          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-25T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Broadcast",
+        "domain": "broadcastnow.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-aws-upgrades-sagemaker-labeling-tool.md",
+      "title": "AWS Upgrades SageMaker Labeling Tool",
+      "excerpt": "Amazon Web Services has added a 3D visualization capability to its SageMaker data labeling tool used to build training data sets for machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2020/06/10/aws-sagemaker-adds-ml-labeling-tool/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/self-Driving_car_shutterstock_metamorworks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-real-ai-robot-cast-in-lead-role-of-sci-fi-movie.md",
+      "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
+      "excerpt": "A new sci-fi movie is set to become the first-ever film to rely on an artificial intelligence robot named Erica.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/12/07/robotaicapital-markets.jpg",
+          "width": 1200,
+          "height": 848,
+          "title": "Real AI Robot Cast In Lead Role Of Sci-Fi Movie",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/real-ai-robot-cast-lead-role-sci-fi-movie-3000166?amp=1",
+      "publishedDateTime": "2020-06-24T20:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-how-technology-will-create-these-7-jobs-in-the-future.md",
+      "title": "How Technology Will Create These 7 Jobs In The Future",
+      "excerpt": "These seven futuristic LinkedIn job ads can offer a small glimpse into a future where our children grow up to be hologram stylists, chief empathy officers, or even augmented reality life designers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3f7eec4f2390006f0c356%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "How Technology Will Create These 7 Jobs In The Future",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cathyhackl/2020/06/24/how-technology-will-create-these-7-jobs-in-the-future/amp/",
+      "publishedDateTime": "2020-06-24T18:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-sino-us-tech-race-turbocharges-china-chip-investment-triggering-bubble-fear.md",
+      "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
+      "excerpt": "An investment boom across China’s semiconductor industry is driving prices of both publicly traded and venture-backed firms into bubble territory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/06/25/9ab56d58-b679-11ea-94a5-08ba74052128_image_hires_091527.jpeg?itok=dswalvtC&v=1593047733",
+          "width": 1200,
+          "height": 630,
+          "title": "Sino-US tech race turbocharges China chip investment, triggering bubble fear",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3090507/sino-us-tech-race-turbocharges-china-chip-investment-triggering",
+      "publishedDateTime": "2020-06-24T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-25-artificial-intelligence-positioned-to-be-a-game-changer.md",
+      "title": "Artificial intelligence positioned to be a game-changer",
+      "excerpt": "As we first reported last fall, the technology is so promising that IBM has staked its 106-year-old reputation on its version of artificial intelligence called Watson -- one of the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/artificial-intelligence-positioned-to-be-a-game-changer/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2016/10/07/4c200094-7e27-4334-8024-4d671b1d0625/thumbnail/1200x630/920095fe5576a423e4eb2cfdd3e5124e/ai-main.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial intelligence positioned to be a game-changer",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/artificial-intelligence-positioned-to-be-a-game-changer/",
+      "publishedDateTime": "2020-06-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-25-building-gpu-accelerated-workflows-with-tensorflow-and-kubernetes.md",
       "title": "Building GPU Accelerated Workflows with TensorFlow and Kubernetes",
       "excerpt": "Daniel Whitenack spoke at the recent KubeCon + CloudNativeCon North America 2017 Conference about GPU based deep learning workflows using TensorFlow and Kubernetes technologies. He started off ...",
@@ -810,325 +1125,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report.md",
-      "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
-      "excerpt": "As technology advances, many TV organizations have begun to wonder if AI can spur innovations that streamline tasks to help the TV industry use AI to its advantage",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/24/011bd9ff-ccaf-447b-b78a-b6faf18cd326/veritone-ai-uses-eileen-brown-zdnet.png",
-          "width": 453,
-          "height": 690,
-          "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
-      "publishedDateTime": "2020-06-24T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-artificial-intelligence-for-medical-technology.md",
-      "title": "Artificial Intelligence for Medical Technology",
-      "excerpt": "Small and medium medical-technology enterprises (SME) in Baden Württemberg are set to soon use artifical intelligence (AI) methods for the improvement and new development of their products. The expertise for this has been provided by the Project Group for Automation in Medicine and Biotechnology (PAMB) at Fraunhofer IPA and the Application Center for Intelligent Machines in Medical Technology (ANIMMED) at Mannheim University Hospital.",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news749988",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/corona_idw.png",
-          "width": 615,
-          "height": 284,
-          "title": "Artificial Intelligence for Medical Technology",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-taking-on-talent-managements-most-urgent-challenge-with-ai.md",
-      "title": "Taking On Talent Management's Most Urgent Challenge With AI",
-      "excerpt": "The most urgent talent management issue every business is facing today is how to improve Diversity and Inclusion (DI) by reducing the potential of bias and evaluating candidates on capabilities first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3606977416e0007c6d575%2F0x0.jpg",
-          "width": 1199,
-          "height": 458,
-          "title": "Taking On Talent Management's Most Urgent Challenge With AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
-      "publishedDateTime": "2020-06-24T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-facial-recognition-to-predict-criminals-sparks-row-over-ai-bias.md",
-      "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
-      "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-53165286",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53165286",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286",
-      "publishedDateTime": "2020-06-24T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-you-can-now-get-a-botox-treatment-plan-with-help-from-ai.md",
-      "title": "You can now get a Botox treatment plan with help from AI",
-      "excerpt": "Using Botox to enhance your cheekbones or alter your appearance is all the rage, thanks to the Kardashians and Hadids of the world. One doctor is trying to bring Botox back to its wrinkle-fighting basics — with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fa3%252F79defb9eb0a74d5a948f15bab526fad3.abb42.jpg%252F1200x630.jpg?signature=Jb-PPpyXWIZZNj5VRsPtL14uX6Y=",
-          "width": 1200,
-          "height": 630,
-          "title": "You can now get a Botox treatment plan with help from AI",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
-      "publishedDateTime": "2020-06-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-blue-ridge-enhances-machine-learning-capabilities-for-price-optimization.md",
-      "title": "Blue Ridge Enhances Machine Learning Capabilities for Price Optimization",
-      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... which leverage machine learning to quickly identify opportunities and simulate pricing ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-ridge-enhances-machine-learning-capabilities-for-price-optimization-1029338347",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-24T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
-      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
-      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
-      "publishedDateTime": "2020-06-24T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

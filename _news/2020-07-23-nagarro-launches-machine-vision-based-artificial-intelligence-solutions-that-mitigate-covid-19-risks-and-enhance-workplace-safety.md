@@ -24,18 +24,20 @@ images:
 
 related:
   - title: "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat"
-    excerpt: "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close"
+    excerpt: "Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as"
     publishedDateTime: 2020-07-23T17:37:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html"
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16756509/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-chea"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16756509"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16756509"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
     images:
-      - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook"
-        width: 1920
-        height: 1005
+      - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "1m0tGB9regSYJzGrOmyDD/4ufego73OFdBGecuVP2hVMlq5rjRvwa8WzapYXkb7jwd2Y+UOYj1bNfBqJrPAOzdaNneekPMV1JNNmOX8zzMH80IYZeMpdWtlfOH7cWFAFCFzBb0ei9TuP0t6bZr85rcWIbKNUoa4TUS/XfOuuzg3kwJD676lcYn5oiqTUkqhWYC/biSs4w1z0t34Ab9megdbPFvvckzZ8g4BsYbh79++Lo4HBkEMJziIlVnfpJGmDv6/jbCoil38Wdk79C6WyR0udppg5td6JPF2DTk0BZTzrJ41ax3mGFb+pHv+NohsEOqcoU7bEJKKkp0ygXbRaOw==;aOqkaPF3JhpRpaFQhcBAJA=="

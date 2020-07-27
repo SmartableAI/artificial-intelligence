@@ -70,22 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Construction Market Growth, Analysis, Trends and Forecast - 2025"
-    excerpt: "The global AI in construction market is expected to show a significant growth rate during the forecast period. The cloud solution offers advanced scalability, intensified security, better compliance, and lower costs. This cloud computing has witnessed ..."
-    publishedDateTime: 2020-07-23T12:40:00Z
-    webUrl: "https://www.openpr.com/news/2095631/artificial-intelligence-in-construction-market-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095631/artificial-intelligence-in-construction-market-growth"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 47
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723650314_g.jpg"
-        width: 800
-        height: 500
-        isCached: true
   - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
     excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
     publishedDateTime: 2020-07-23T09:30:00Z

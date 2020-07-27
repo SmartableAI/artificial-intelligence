@@ -8,8 +8,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/353773"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,54 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Autodesk Acquires Construction AI Company Pype"
-    excerpt: "It is the first AI-related acquisition by Autodesk, a San Rafael, Calif.-based design software company."
-    publishedDateTime: 2020-07-22T13:50:00Z
-    webUrl: "https://www.wsj.com/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
-    ampWebUrl: "https://www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/autodesk-acquires-construction-ai-company-pype-11595422800"
+  - title: "Apple Acquires More AI Startup Than Other Tech Companies"
+    excerpt: "Apple has made 20 acquisitions since the 2010 purchase of Siri, and most center on artificial intelligence. These purchases include Novauris Technologies and Voysis to improve speech recognition of its voice assistant platform,"
+    publishedDateTime: 2020-07-24T14:42:00Z
+    webUrl: "https://www.mediapost.com/publications/article/354009/apple-acquires-more-ai-startup-than-other-tech-com.html"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-211866/social"
-        width: 1279
-        height: 640
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market"
-    excerpt: "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ..."
-    publishedDateTime: 2020-07-24T13:33:00Z
-    webUrl: "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting"
-    ampWebUrl: "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 72
-    images:
-      - url: "https://cdn.openpr.com/T/7/T724430476_g.jpg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Pype Dream - Autodesk to Change Construction Workflow with AI"
-    excerpt: "Autodesk has announced its plans to acquire Pype, a DC-area based startup that has created AI-based software to manage spec books and submittals, documents common to the construction industry. Submittals are composed of shop drawings,"
-    publishedDateTime: 2020-07-23T15:51:00Z
-    webUrl: "https://www.engineering.com/BIM/ArticleID/20547/Pype-Dream--Autodesk-to-Change-Construction-Workflow-with-AI.aspx"
-    ampWebUrl: "https://mobile.engineering.com/amp/20547.html"
-    cdnAmpWebUrl: "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20547.html"
-    type: article
-    provider:
-      name: Engineering
-      domain: engineering.com
-    quality: 59
-    images:
-      - url: "https://res.cloudinary.com/engineering-com/image/upload/w_350,c_limit,q_auto,f_auto/Sunil_Dorairajan_taec5i.jpg"
-        width: 350
-        height: 350
-        isCached: true
+      name: MediaPost
+      domain: mediapost.com
+    quality: 17
 
 secured: "STmyo+6HMUk2NlzMqEzxORLakLeH5yyfzg6EzFCwistwYdyk3gjTKwFEyH2XX5MSfWA2DLNoW09VncAZKPxQ//g9ErrK4QtFdWQ6NsNW4I+BITojA99TzKGlq2yIzc6bTaCG+FAFxcVRuXEt7WT2Dzw3yihTkeQfYvkqFPeOju/xCJdy8PEFglQe4LII+8PNm0Nukq+b2iUko3wnovAE8QV6Pfy+yiTXgPZ+CV5tEpEp+5FMLaXGAX96UYUaOK27Nn6VQLY2JzzN3gk+CPMkBE+5sDKTZZPmYdjGGVn8fPDDFMcVVmxbzqOV/dhmj/uFq3isIzrPik8yyL281rUwdWMLLSmRe6vIvYfLqg5iqh33CYpjT4raN9Z/zU6mUZPiF2KT7EuihWOm51wfJqzCnCtDdE6UUXkDuAfwT6xCSLhApkNmdGBoZPMklV7XjwfyKBAIOH9Lq4GXFciJejwpKhefTcG9D1Pg6/Zrm14l58P0CsYYDOVkkgkN9PAOuwggugYoD7kWapM9mJTngF6RsA==;wPpMupUCUFjCPxKJuqFT/g=="
 ---

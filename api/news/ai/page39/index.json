@@ -2,6 +2,327 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-06-22-inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20.md",
+      "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+      "excerpt": "Inspur, a data center and AI full-stack solutions provider, releases NF5468M6 and NF5468A5 AI servers supporting the",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/inspur-launches-new-ai-servers-to-support-latest-nvidia-a100-pcie-gen-4-at-isc20/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_coronavirus_11-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": "Inspur Launches New AI Servers to Support Latest NVIDIA A100 PCIe Gen 4 at ISC20",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19.md",
+      "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
+      "excerpt": "In the rush to “help now,” we cannot throw responsible AI out the window. In fact, in the age of COVID-19 is more important than ever before to understand the unintended consequences and long term effects of the AI systems we create.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211620809.jpg?w=1024",
+          "width": 1024,
+          "height": 647,
+          "title": "Use AI responsibly to uplift historically disenfranchised people during COVID-19",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/use-ai-responsibly-to-uplift-historically-disenfranchised-people-during-covid-19/amp/",
+      "publishedDateTime": "2020-06-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-azure-iot-business.md",
+      "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
+      "excerpt": "Another big acquisition out of Israel this week points to how bigger tech companies are using the economic slowdown to focus on their longer-term strategies and shore up assets to support that. Today Microsoft announced that it would be acquiring CyberX,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1175327728.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": "Microsoft confirms acquisition of CyberX to boost security in its Azure IoT business",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/06/22/microsoft-confirms-acquisition-of-cyberx-to-boost-security-in-its-iot-business/amp/",
+      "publishedDateTime": "2020-06-22T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-the-impact-of-artificial-intelligence-on-influencer-marketing.md",
+      "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
+      "excerpt": "Not long before, New York-based influencer marketing agency Amra & Elma had developed a platform that ingested data from Instagram, and allowed its client to use AI image classifiers to find very specific influencers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1171685700%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Impact Of Artificial Intelligence On Influencer Marketing",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/22/the-impact-of-artificial-intelligence-on-influencer-marketing/amp/",
+      "publishedDateTime": "2020-06-22T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers.md",
+      "title": "Samsung debuts a drone-based AI system to remotely adjust 5G towers",
+      "excerpt": "The 5G cellular tower hardware maker will let installers use drones and AI as a safer, faster alternative to climbing towers for network testing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/samsungdroneai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Samsung debuts a drone-based AI system to remotely adjust 5G towers",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/22/samsung-debuts-a-drone-based-ai-system-to-remotely-adjust-5g-towers/amp/",
+      "publishedDateTime": "2020-06-22T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-the-key-differences-between-teslas-driving-aids-autopilot-and-full-self-driving.md",
+      "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
+      "excerpt": "In this edition of Shift Basics, we take a look at what Tesla's Autopilot and Full Self-Driving are, how they're different, and what they cost.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/06/22/differences-between-teslas-autopilot-and-full-self-driving-system-adas-tech/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/second-Autopilot-tesla-propilot-cruise-self-driving-autonomy-cars-EV-future-mobility-driving-796x448.png",
+          "width": 796,
+          "height": 448,
+          "title": "The key differences between Tesla’s driving aids: Autopilot and Full Self-Driving",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-objex-inc-joins-google-cloud-partner-program.md",
+      "title": "Objex, Inc. Joins Google Cloud Partner Program",
+      "excerpt": "AutoML, Google Cloud Vision, Natural Language and Speech APIs Digital transformation is rethinking old operating models and to become more agile in your ability to experiment and respond to ever changing customer needs. Objex is a call away to help you in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/06/n16336534/objex-inc-joins-google-cloud-partner-program",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16336534",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16336534",
+      "publishedDateTime": "2020-06-22T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-how-data-scientists-are-linking-ai-and-data-analysis-to-find-coronavirus-cure.md",
       "title": "How data scientists are linking AI and data analysis to find coronavirus cure",
       "excerpt": "In the last three months, it feels as if all of us have become armchair data scientists. As scientists across the globe race to find a cure for the scourge that is COVID-19, we’re all learning hard lessons about bell curves and epidemiological models.",
@@ -1075,337 +1396,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-dive-into-ai-and-machine-learning-for-just-35.md",
-      "title": "Dive into AI and machine learning for just $35",
-      "excerpt": "It’s no secret that some of the world’s most important technologies and innovations are increasingly fueled by Artificial Intelligence (AI) and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/dive-into-ai-and-machine-learning-175503638.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F8976d670-b19d-11ea-bf3c-cfa9c5973137&client=amp-blogside-v2&signature=897136f6e645595efaee92715fc68511ec724c1a",
-          "width": 600,
-          "height": 350,
-          "title": "Dive into AI and machine learning for just $35",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/dive-into-ai-and-machine-learning-175503638.html",
-      "publishedDateTime": "2020-06-21T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era.md",
-      "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-      "excerpt": "Robots are changing the way the travel industry approaches cleaning as it grapples with how to restore confidence amid the Coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eeb8cacda69980007712aa2%2F0x0.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": "Robots Play Pivotal Role In Keeping Travel Safe During Covid-19 Era",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ramseyqubein/2020/06/21/robots-play-pivotal-role-in-keeping-travel-safe-during-covid-19-era/amp/",
-      "publishedDateTime": "2020-06-21T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits.md",
-      "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-      "excerpt": "Join leading AI executives: Register for the free livestream. That means all the rules you think you know about building a tech startup have been completely flipped. Which is ultimately a good ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/brainstorm.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": "The new startup playbook: It’s about avoiding ridiculous ‘unicorn’ habits",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/06/21/the-new-startup-playbook-its-about-avoiding-ridiculous-unicorn-habits/amp/",
-      "publishedDateTime": "2020-06-21T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-can-artificial-intelligence-guess-your-age.md",
-      "title": "Can Artificial Intelligence Guess Your Age?",
-      "excerpt": "Some of us are able to hide our age from each other but what if you can’t hide your age from artificial intelligence (AI)? Scientists at the Institute for Neural Computation at Ruhr-Universität Bochum (RUB) have developed an algorithm that can catch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.unsplash.com/photo-1534768654272-e97681c3a2c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/17982/artificial-intelligence-guess-age/amp",
-      "publishedDateTime": "2020-06-21T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-how-ethical-is-your-ai.md",
-      "title": "How Ethical Is Your AI?",
-      "excerpt": "Samasource is setting out to prove that ethical data-labeling is not only good for people, but is also good for business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecd17de48a850006bf0594%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Ethical Is Your AI?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meghanmccormick/2020/06/21/how-ethical-is-your-ai/amp/",
-      "publishedDateTime": "2020-06-21T01:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-model-inference-using-tensorflow-and-tensorrt.md",
-      "title": "Model inference using TensorFlow and TensorRT",
-      "excerpt": "NVIDIA TensorRT is a high-performance inference optimizer and runtime that delivers low latency and high-throughput for deep learning inference applications. The following notebook demonstrates our recommended inference workflow.",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/azure/databricks/applications/deep-learning/inference/resnet-model-inference-tensorrt",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Model inference using TensorFlow and TensorRT",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-20T21:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-06-21-what-to-know-about-computer-vision-syndrome.md",
-      "title": "What To Know About Computer Vision Syndrome",
-      "excerpt": "Computer vision syndrome (CVS) is the term for a group of eye and vision-related problems that develop following the prolonged use of devices with digital screens.",
-      "sourceUrl": null,
-      "webUrl": "https://southfloridareporter.com/what-to-know-about-computer-vision-syndrome/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/southfloridareporter/wp-content/uploads/2020/06/20183231/asian-woman-worker-eye-pain-with-eyeglasses_34670-739.jpg",
-          "width": 626,
-          "height": 417,
-          "title": "What To Know About Computer Vision Syndrome",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-20T20:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SouthFlorida Reporter",
-        "domain": "southfloridareporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

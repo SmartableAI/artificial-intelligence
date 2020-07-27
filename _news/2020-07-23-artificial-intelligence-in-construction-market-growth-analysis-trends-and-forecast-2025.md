@@ -25,81 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence And Robotics In Aerospace And Defense Market Technological Advancement and Growth Analysis to 2026"
-    excerpt: "The Global Artificial Intelligence And Robotics In Aerospace And Defense Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic ..."
-    publishedDateTime: 2020-07-23T12:23:00Z
-    webUrl: "https://www.openpr.com/news/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
-    ampWebUrl: "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
+  - title: "Artificial Intelligence (AI) in Construction Market"
+    excerpt: "QMI comes with an in-depth analysis and prediction report on the Artificial intelligence (AI) in construction Market. A new research has been carried out across many regions and sectors. It offers a wide-ranging survey report of market players, product ..."
+    publishedDateTime: 2020-07-24T13:33:00Z
+    webUrl: "https://www.openpr.com/news/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    ampWebUrl: "https://www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096500/artificial-intelligence-ai-in-construction-market-expecting"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 63
+    quality: 72
     images:
-      - url: "https://cdn.openpr.com/T/7/T723421293_g.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Deep Learning Market Global Outlook 2020-2026: Qualcomm Technologies, Inc, Baidu Inc., Hewlett Packard Enterprise"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 23, 2020 (Market Insight Reports) -- The Global Deep Learning Market Research Report Forecast 2020 – 2026 is a valuable source of insightful data for business strategists."
-    publishedDateTime: 2020-07-23T08:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-global-outlook-2020-2026-qualcomm-technologies-inc-baidu-inc-hewlett-packard-enterprise-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Non-Medical Biomimetic Robots Market to Witness a Pronounce Growth During 2017 to 2028"
-    excerpt: "This XploreMR study offers detailed insights and in-depth research on the global non-medical biomimetic robots market between 2018 and 2028. This study highlights the non-medical biomimetic robot market potential over three intervals,"
-    publishedDateTime: 2020-07-23T16:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/non-medical-biomimetic-robots-market-to-witness-a-pronounce-growth-during-2017-to-2028-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market Evolving Technology, Trends and Demand 2020-2026 : Fractal Analytics Inc., Microsoft Corporation, Dataiku"
-    excerpt: "The report discusses many vital industry facets that influence global Machine Learning Market industry acutely which includes extensive study of competitive edge, latest advancements, region-wise industry environment, contemporary market and emerging ..."
-    publishedDateTime: 2020-07-23T13:42:00Z
-    webUrl: "https://www.openpr.com/news/2095713/machine-learning-market-evolving-technology-trends-and-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2095713/machine-learning-market-evolving-technology-trends-and-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095713/machine-learning-market-evolving-technology-trends-and-demand"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723733587_g.jpg"
+      - url: "https://cdn.openpr.com/T/7/T724430476_g.jpg"
         width: 800
-        height: 500
-        isCached: true
-  - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
-    excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
-    publishedDateTime: 2020-07-23T09:30:00Z
-    webUrl: "https://www.openpr.com/news/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    ampWebUrl: "https://www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095401/57-2-growth-rate-for-artificial-intelligence-in-manufacturing"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-    images:
-      - url: "https://cdn.openpr.com/T/7/T723907848_g.jpg"
-        width: 640
-        height: 413
+        height: 480
         isCached: true
 
 secured: "bFgrEJwC+Ggb/V7lXsigeQhEHGRjkXK8KMTXsKT0iXQHY46SuJFzWj1gVe9hxz26G0QmEdZaAsY8JNE3KX7mzEUYIV+OnN+a/X5+r0nI+ZvW/ia92qf4J/uygWdiV7NGklX/h7AM/hcjsuqxsZYOrZyndye/Tla2/+Sr601cAEwU9WagXSJC8XjiW2oJEoxQHLsr7XzZBSDMeQURPvsfok4gvHccoOZ0KKe/U0LqIwTmahnnsSqvp/P3U2T+3KvBjNwU4ye3+cO5Cu09aifqBDnqqymVcGMWQrFqv6c9dpFeKMwdRzXkcUYz4k/BhqxAmYVSWS7mIiMbrlu9wwGY6NOkIoWMo0YDR+5IqIjL8VKTJf1oDYLNMCODXKMWUEUa9IQVVrW3PSjaX29rbwYuP8kgSN5opde+Xr5SdcPfsrR/9OXQSp4h3mpYiqYV8uzAplfurpkisKhQwv7vDj4+kAAZlt2Ai6frcoZs77K6zzsQHrP5KJKg/5EfPA0YQJCccdXKYvi7GO1omLJ0Vu/fAw==;MkohzV57hoZTrJpMwv8IgQ=="

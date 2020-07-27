@@ -23,6 +23,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers build first AI tool capable of identifying individual birds"
+    excerpt: "New research demonstrates for the first time that artificial intelligence (AI) can be used to train computers to recognize individual birds, a task humans are unable to do. The research is published in the British Ecological Society journal Methods in Ecology and Evolution."
+    publishedDateTime: 2020-07-27T07:18:00Z
+    webUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.html"
+    ampWebUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/7-researchersb.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
   - title: "AI software which recognises individual birds could boost conservation efforts, researchers say"
     excerpt: "Birds could be spared the stressful process of identification tagging after researchers developed facial recognition software which can recognise individual birds, something humans are unable to do.|  Individual recognition of animals is one of the most expensive and time-consuming problems in research,"
     publishedDateTime: 2020-07-27T05:18:00Z
@@ -54,6 +70,6 @@ related:
         height: 1875
         isCached: true
 
-secured: "DF93xB36zogDD4zhRKyeZmyCGzAfQsX1XS8kG/Cr0jiIYLBTU0HFGskuXOzCBS+KpDP+7aAlwzIE1pXeSszWCAuZmgF1ctYxQ4+nsO4yvGVOa6GIaGJ9JtEA7Z9HHAafwualIIETPLENUXaqvljgjwmML89BWXMKmBtCU0pD2zHA6COxP68xQ6se62Q8j/25rsLPYDixGV9PoVkZrLTqsNTFMKqmgwqGWF/O+5KQnhSO1Pjcb0NXbbwFHC8crkZDXCb9RB/qc9144KrltSNq6h++3ryMKgTQ5trt4kaCC1LRm8tows1fsvb/WSa/jh7qL54cDg9ZD3BGbVJS5pOc6w==;5Pv6qBHF+VjYCVA6uX/0iA=="
+secured: "7cfDP4dpfFLl3BKfAlGtJQ8kceraaJoaoceSfsKLYqZtplzY6X3AaDBjwafmaeFPs9epMOSxOOE2kPxUOzF/3dd0wtFkFkVSKWiEMI0gLNHrkbw1Ek1v34t516VDOVg00O0/23GMNYBi+EcM8hs34TnHXpvFF1CsoYVemtSl9FFtypt+9KHZ0eus8sxa4JOmGayzwRByPBZf5sZANtCpZSnRot1e7btUjJE4unxCg+P7miC4tHX3rHpX0k8K2r/WCZ2O5YgH/GDl5vsBWTJ+CVb+ap3byV0fp3+mfarIAQz6Az5DIEG0lhbM6RQOOHg5wH/100hg6GuXsSMUTGL5300EYcHBOm86hQAvRCPTGygCSY3+6r6vEjc2IkJ0XThnJH3Y14cIPB9B/jdJKFDe5Ic4oW8z6FecnwY+PznktDcN7NYyb6YX1QVaBWzMlv6S0nfbDP9QXuK5jf/R7+h69FWJCNxghts2K8oTpb+ABMF5xesJUbsTIEBPAu3BJFqil6aRJc9ZVoGPTKdQf25n+w==;NV3u97wAHO96I/JkZN0VsQ=="
 ---
 

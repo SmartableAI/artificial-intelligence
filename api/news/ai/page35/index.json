@@ -2,6 +2,325 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-06-24-two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report.md",
+      "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
+      "excerpt": "As technology advances, many TV organizations have begun to wonder if AI can spur innovations that streamline tasks to help the TV industry use AI to its advantage",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/06/24/011bd9ff-ccaf-447b-b78a-b6faf18cd326/veritone-ai-uses-eileen-brown-zdnet.png",
+          "width": 453,
+          "height": 690,
+          "title": "Two in three CEOs are in the driver’s seat for AI adoption, according to report",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/two-in-three-ceos-are-in-the-drivers-seat-for-ai-adoption-according-to-report/",
+      "publishedDateTime": "2020-06-24T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-artificial-intelligence-for-medical-technology.md",
+      "title": "Artificial Intelligence for Medical Technology",
+      "excerpt": "Small and medium medical-technology enterprises (SME) in Baden Württemberg are set to soon use artifical intelligence (AI) methods for the improvement and new development of their products. The expertise for this has been provided by the Project Group for Automation in Medicine and Biotechnology (PAMB) at Fraunhofer IPA and the Application Center for Intelligent Machines in Medical Technology (ANIMMED) at Mannheim University Hospital.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news749988",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": "Artificial Intelligence for Medical Technology",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-taking-on-talent-managements-most-urgent-challenge-with-ai.md",
+      "title": "Taking On Talent Management's Most Urgent Challenge With AI",
+      "excerpt": "The most urgent talent management issue every business is facing today is how to improve Diversity and Inclusion (DI) by reducing the potential of bias and evaluating candidates on capabilities first.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef3606977416e0007c6d575%2F0x0.jpg",
+          "width": 1199,
+          "height": 458,
+          "title": "Taking On Talent Management's Most Urgent Challenge With AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/06/24/taking-on-talent-managements-most-urgent-challenge-with-ai/amp/",
+      "publishedDateTime": "2020-06-24T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-facial-recognition-to-predict-criminals-sparks-row-over-ai-bias.md",
+      "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
+      "excerpt": "A US university's claim it can use facial recognition to \"predict criminality\" has renewed debate over racial bias in technology. Harrisburg University researchers said their software \"can predict if someone is a criminal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-53165286",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/9F70/production/_113061804_gettyimages-1141687200.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Facial recognition to 'predict criminals' sparks row over AI bias",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53165286",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53165286",
+      "publishedDateTime": "2020-06-24T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-you-can-now-get-a-botox-treatment-plan-with-help-from-ai.md",
+      "title": "You can now get a Botox treatment plan with help from AI",
+      "excerpt": "Using Botox to enhance your cheekbones or alter your appearance is all the rage, thanks to the Kardashians and Hadids of the world. One doctor is trying to bring Botox back to its wrinkle-fighting basics — with the help of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F06%252F24%252Fa3%252F79defb9eb0a74d5a948f15bab526fad3.abb42.jpg%252F1200x630.jpg?signature=Jb-PPpyXWIZZNj5VRsPtL14uX6Y=",
+          "width": 1200,
+          "height": 630,
+          "title": "You can now get a Botox treatment plan with help from AI",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/botox-wrinkle-prevention-artificial-intelligence-peachy.amp",
+      "publishedDateTime": "2020-06-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-blue-ridge-enhances-machine-learning-capabilities-for-price-optimization.md",
+      "title": "Blue Ridge Enhances Machine Learning Capabilities for Price Optimization",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... which leverage machine learning to quickly identify opportunities and simulate pricing ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/blue-ridge-enhances-machine-learning-capabilities-for-price-optimization-1029338347",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-un-telcos-in-africa-take-on-covid-19-with-ai-and-digital-service.md",
+      "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+      "excerpt": "The United Nations Economic Commission for Africa joined forces with a group of telecoms operating in Africa to reach over 600 million mobile subscribers with coronavirus health advice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2020/06/24/africa/un-africa-telcos-coronavius-intl/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200624084633-02-cameroon-coronavirus-0306-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "UN, telcos in Africa take on Covid-19 with AI and digital service",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/06/24/africa/un-africa-telcos-coronavius-intl/index.html",
+      "publishedDateTime": "2020-06-24T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-24-sqream-technologies-raises-394-million-for-gpu-accelerated-databases.md",
       "title": "SQream Technologies raises $39.4 million for GPU-accelerated databases",
       "excerpt": "Tel Aviv-based startup SQream Technologies raised $39.4 million in venture capital to further develop its GPU-accelerated database product offerings.",
@@ -1040,319 +1359,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated.md",
-      "title": "Alphabet, Google CEO: Artificial intelligence needs to be regulated",
-      "excerpt": "Recent developments, however, indicate Brussels and Washington might not be on the exact same page when it comes to artificial intelligence. In early January, the Trump administration rolled out new light-touch guidelines for regulating driverless cars and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1142126498-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/alphabet-google-ceo-artificial-intelligence-needs-to-be-regulated/amp/",
-      "publishedDateTime": "2020-06-23T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-samsung-promotes-ai-expert-to-lead-research-arm.md",
-      "title": "Samsung promotes AI expert to lead research arm",
-      "excerpt": "Samsung Electronics has promoted one of its key artificial intelligence (AI) experts to head its research unit. Dr Sebastian Seung will be the new head of Samsung Research, the company said on Wednesday. He will oversee research conducted at Samsung's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/06/24/3f920c62-5cf9-486f-b0da-def272dec5a8/dr-sebastian-seung-main-1.jpg",
-          "width": 705,
-          "height": 430,
-          "title": "Samsung promotes AI expert to lead research arm",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-promotes-ai-expert-to-lead-research-arm/",
-      "publishedDateTime": "2020-06-23T20:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-how-cloud-and-ai-powered-data-insights-are-helping-f1-attract-new-fans.md",
-      "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
-      "excerpt": "F1 chief engineer Rob Smedley explains how and why the sport is unlocking the power of historical and real-time data to engage new and existing fans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef1c4146867d4000608b8f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How Cloud And AI-Powered Data Insights Are Helping F1 Attract New Fans",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/06/23/how-cloud-and-ai-powered-data-insights-are-helping-f1s-digital-push/amp/",
-      "publishedDateTime": "2020-06-23T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years.md",
-      "title": "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years",
-      "excerpt": "Max Chuard, CEO at Temenos , a Switzerland-based banking software company, notes that the COVID-19 outbreak has accelerated the demand for the latest banking technologies and othe",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/01/Bank-Banking-Teller-Wait-Queue-Delay-600x800.jpg",
-          "width": 600,
-          "height": 800,
-          "title": "Digital Transformation Report: AI, Cloud based SaaS, and the Latest Fintech will Transform Banking in Next 5 Years",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/06/163117-digital-transformation-report-ai-cloud-based-saas-and-the-latest-fintech-will-transform-banking-in-next-5-years/amp/",
-      "publishedDateTime": "2020-06-23T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization.md",
-      "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
-      "excerpt": "Artificial intelligence has been put to amazing use. However, AI systems can’t do anything at all without access to data to train the machine learning models. And much of that data is locked in documents in paper or electronic form or in human-controlled processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef270f1c708900006e39c79%2F0x0.jpg",
-          "width": 749,
-          "height": 407,
-          "title": "AI Runs Into The Document And People Barrier: Digitization And Digitalization",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/06/23/ai-runs-into-the-document-and-people-barrier-digitization-and-digitalization/amp/",
-      "publishedDateTime": "2020-06-23T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-4-reasons-to-use-artificial-intelligence-in-your-next-embedded-design.md",
-      "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
-      "excerpt": "For many, just mentioning artificial intelligence brings up mental images of sentient robots at war with mankind and man’s struggle to avoid the endangered species list. While this may one day be a real scenario for when (perhaps a big if?) mankind ever ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/difference_between_ai__machine_learning_and_deep_learning.png",
-          "width": 2526,
-          "height": 1442,
-          "title": "4 Reasons to Use Artificial Intelligence in Your Next Embedded Design",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-24-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
-      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
-      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

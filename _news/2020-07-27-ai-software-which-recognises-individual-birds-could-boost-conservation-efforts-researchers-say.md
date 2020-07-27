@@ -8,7 +8,7 @@ ampWebUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-i
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers build first AI tool capable of identifying individual birds"
+    excerpt: "New research demonstrates for the first time that artificial intelligence (AI) can be used to train computers to recognize individual birds, a task humans are unable to do. The research is published in the British Ecological Society journal Methods in Ecology and Evolution."
+    publishedDateTime: 2020-07-27T07:18:00Z
+    webUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.html"
+    ampWebUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/7-researchersb.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
   - title: "AI used to train computers to recognise individual birds for first time"
     excerpt: "Computers can be trained by artificial intelligence to recognise birds on an individual level, a new study has demonstrated. Researchers collected thousands of labelled images of birds and then used the data to train and test artificial intelligence (AI) models,"
     publishedDateTime: 2020-07-27T04:31:00Z

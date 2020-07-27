@@ -138,6 +138,22 @@ related:
         width: 1057
         height: 630
         isCached: true
+  - title: "Facial recognition style artificial intelligence has been created…for birds"
+    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92% accurate – and will boost conservation efforts."
+    publishedDateTime: 2020-07-27T06:18:00Z
+    webUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/"
+    ampWebUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Does your congressperson support a facial recognition ban?"
     excerpt: "A new scoreboard launched by several advocacy groups shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2020-07-22T18:33:00Z
@@ -201,22 +217,6 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_2522202.jpg"
         width: 916
         height: 630
-        isCached: true
-  - title: "NY lawmakers vote to pause facial recognition in schools"
-    excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district's adoption of the technology as part of its security plans and a lawsuit from civil rights advocates challenging that move."
-    publishedDateTime: 2020-07-23T17:22:00Z
-    webUrl: "https://www.chron.com/news/article/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    ampWebUrl: "https://www.chron.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/NY-lawmakers-vote-to-pause-facial-recognition-in-15429056.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://s.hdnux.com/photos/01/13/16/07/19718632/5/375x250.jpg"
-        width: 344
-        height: 250
         isCached: true
   - title: "Facebook offers $650M settlement in facial recognition suit"
     excerpt: "That’s what lawyers for the social media site are saying with their latest offer to settle a class-action lawsuit based on what plantiffs say is abuse of their facial recognition system."

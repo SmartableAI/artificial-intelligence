@@ -44,22 +44,6 @@ related:
         width: 4000
         height: 2667
         isCached: true
-  - title: "Experts’ dismissal of Tesla’s Full Self Driving push proves Elon Musk is still not taken seriously"
-    excerpt: "Despite delays, Elon Musk remains optimistic that Tesla’s efforts to achieve Full Self Driving will bear fruit soon. This was highlighted in a statement during his appearance at the recently held 2020 World Artificial Intelligence Conference in China,"
-    publishedDateTime: 2020-07-22T13:28:00Z
-    webUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-is-absurd-experts/"
-    ampWebUrl: "https://www.teslarati.com/tesla-elon-musk-fsd-is-absurd-experts/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-elon-musk-fsd-is-absurd-experts/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 60
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-autopilot-left-hand-turn-1-1024x483.jpg"
-        width: 1024
-        height: 483
-        isCached: true
 
 secured: "kTKWrLimUFKxdXUTPgQHwf0/TAvUaLKPK8INA3l5EERzmis+6+XAxuwTf1ddZzczoUBDiBTe+08s3RVWytCEPWuSFjeQXqZVQjLm+viqF0MJI6N5tRgJiUCYLvG4EtPSDO8giVvFF1ZJO1LtROkp+Yr8PkQP4+BK0cDrX//LoTJJLY2Vp9FP3Br2Fh+ncwrXPUGEfWcGz9RMkCiHb6+ykG8TzY+HKIEorlQMPr7EaGZggzqAMifjevIWIR4NyNd9w5oGeRtKrEcw8RqYW0LfsWG1h9zxQny71zYW6GkO++6UOjBoYHHhgQ0DKUftkNmtEeboBRy3ZGuRTDbLpX0ZvK0FTET7vzT8xd9dMmoTEuI3o1llaSWX+6jLoYHxTXjeA0MxERd+8YqKKkQNqaZHXpiv+XdhzuCCAsxtMd3g5GeXbQ40IJ/+6f2BnPoRMebAXd8AQFp1WCwMkMveSf8CUTI4K5WmkNvmdsGOPOn3L354YfzpNDW6G9G3+B6EjM1I7CLVOoom584vthAR+y68IA==;8Trj6J+D9z3akuPBVocSyQ=="
 ---
