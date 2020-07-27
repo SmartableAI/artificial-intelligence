@@ -2,6 +2,47 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-07-18-dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training.md",
+      "title": "Dive into Microsoft Azure and Prep for Key Certifications with this Training",
+      "excerpt": "“Machine Learning in the Cloud with Azure Machine Learning” uses real data and Azure’s UI and predetermined algorithms to build understanding with Azure ML. Data Management and ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/07/sale_25748_primary_image_wide-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/dive-into-microsoft-azure-and-prep-for-key-certifications-with-this-training/amp",
+      "publishedDateTime": "2020-07-18T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-18-ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality.md",
       "title": "AI needs systemic solutions to systemic bias, injustice, and inequality",
       "excerpt": "Griffin said that Hypergiant has a heuristic for its AI projects called “TOME,” for “top of mind ethics,” which they break down by use case. “With thus use case, is there a positive ...",
@@ -1364,9 +1405,9 @@
     {
       "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
       "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
-      "excerpt": "In addition, the WWT Advanced Technology Center (ATC) offers Lab-as-a-service environments for AI development, MLOps, Deep Learning, and testing of storage and networking with GPU-accelerated compute. WWT [also] engineered and deployed some of the largest ...",
+      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1384,7 +1425,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T07:26:00-07:00",
+      "publishedDateTime": "2020-07-17T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1398,58 +1439,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-female-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast.md",
-      "title": "Female leaders talk ethics, advancing representation, and more at Transform’s Women in AI breakfast",
-      "excerpt": "Powerful women from tech companies across the industry talk about how women can take their seats at the table in the technology industry.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-17-at-7.57.57-AM.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-women-leaders-talk-ethics-advancing-representation-and-more-at-transforms-women-in-ai-breakfast/amp/",
-      "publishedDateTime": "2020-07-17T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

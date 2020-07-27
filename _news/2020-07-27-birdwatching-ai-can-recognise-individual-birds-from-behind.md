@@ -85,6 +85,15 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Artificial Intelligence to identify individual birds of same species"
+    excerpt: "CNRS. (2020, July 27). Artificial Intelligence to identify individual birds of same species. ScienceDaily. Retrieved July 27, 2020 from www.sciencedaily.com/releases/2020/07/200727114745.htm CNRS. \"Artificial Intelligence to identify individual birds of ..."
+    publishedDateTime: 2020-07-27T19:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/07/200727114745.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "AI used to train computers to recognise individual birds for first time"
     excerpt: "Computers can be trained by artificial intelligence to recognise birds on an individual level, a new study has demonstrated. Researchers collected thousands of labelled images of birds and then used the data to train and test artificial intelligence (AI) models,"
     publishedDateTime: 2020-07-27T04:31:00Z

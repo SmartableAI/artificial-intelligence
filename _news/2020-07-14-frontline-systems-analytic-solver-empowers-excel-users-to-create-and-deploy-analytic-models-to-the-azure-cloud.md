@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
-excerpt: "Analytic Solver works with RASON, Frontline's Azure-hosted platform ... management suite\" that supports the full range of business rules, forecasting, machine learning, optimization and simulation methods, from small models to large, multi-stage analytics ..."
-publishedDateTime: 2020-07-14T04:19:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16611060"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16611060"
+excerpt: "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud"
+publishedDateTime: 2020-07-14T04:00:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "hpWYX/RYSpdy5c8X/SAZhCDvwChzCVN/o6+UiQMiNk8ROTG+05/yDOCFb58jznSkQTrqbBXnFPjI25iLwvagiww3Vp01qX2Y/AMCl3aRXGaW+XJ5SWGX3mTmVC+MBoCZKKnDlBTt0AC0sJE8X33MXBPFfummKBtsGFj7r6stPUGAFe4+Z2QBQYhME2sXzDQJqvthh0q4AZ8QojR1bwKKCmlY1+sKG003WGaimo4f7DAezDW3Vw0tkxzH05G6sijfg86Q8MnfL1eTxnxQLlWClLWWH1ioKWyDazv55nGKWwM5aS62OES0fyBouCKra2SpUCyOIvEAEMNMUHP5XZRj5A==;7SHHQxwuWm6tHkfIjB88eA=="
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "Oka00SCM2ubKny9ERHQYUY/3o/sC3MmrAKlQufwuy2nf++HJL1tBMM36HjIl28VL1q7FO1kLKBFKZ66Ih46V+GmBMpEsYJZ7PEfHgXQ9M2O1Yzas7+xXkBmw4IOnRGqNU5D/5q2LYEwWRUs/YbCQ8wSzC5sziFaElyZsvxXySvDez0RvRM49kXTxVYGPgJqCY3pJr/hyNRXXL0rJ7KzTO0c/v5chNMfrjWaUViPB7xdpAMbagtFrIWrNZ2goKZqVygiKILgtqDSTw3ypz6nhz3wVdj5WjwLr3NYS3giu0n3VLw8o0WgNgsjgRooeds8mAQWan6u1P8JXPYOSbl7lFg==;eEBc2aDHS7tpRDaAA06IrA=="
 ---
 

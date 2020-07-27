@@ -2,6 +2,55 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-26-where-ai-is-delivering-a-competitive-edge-in-2020.md",
+      "title": "Where AI Is Delivering A Competitive Edge In 2020",
+      "excerpt": "One in five enterprises sees modernizing its data infrastructure for AI as the top AI initiative to ... [+] gain a competitive edge today. getty. IDC forecasts that spending on AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1cd8680d707a6f84e96b81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/07/26/where-ai-is-delivering-a-competitive-edge-in-2020/amp/",
+      "publishedDateTime": "2020-07-26T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-26-how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups.md",
       "title": "How EQT Ventures’ Motherbrain uses AI to find promising startups",
       "excerpt": "Sweden's EQT Ventures embraced AI by creating Motherbrain to identify startups. Development hasn't been easy, but the firm is starting to reap the benefits.",
@@ -9,7 +58,7 @@
       "webUrl": "https://venturebeat.com/2020/07/26/how-eqt-ventures-motherbrain-uses-ai-to-find-promising-startups/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -812,7 +861,7 @@
       "title": "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars",
       "excerpt": "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 82,
@@ -1115,55 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-a-journey-to-emotional-and-artificial-intelligence.md",
-      "title": "A Journey To Emotional (and Artificial) Intelligence",
-      "excerpt": "For Rana el Kaliouby, building her company and writing her book have been major steps on the journey to overcome self-doubt, reconcile cultures, and decode herself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1a024690b254e22055790c%2F0x0.jpg",
-          "width": 1200,
-          "height": 973,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-07-24T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

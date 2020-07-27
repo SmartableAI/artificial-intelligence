@@ -42,6 +42,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Scientists have created a facial recognition software for birds"
+    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92 percent"
+    publishedDateTime: 2020-07-27T07:56:00Z
+    webUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/"
+    ampWebUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/birds-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "vL97OqU5F0vt9Xmc62LlwQm7Tk1x4wwU628mTP6TmRzAR837dZIPmgbizp1t+Yw9nUlCNpnwLCw1dyOBn1xAp9wmSaIRMJ/dptOQMBWpIyAU6mXUt+5PbNUN+/jYfs1pO/kRs67miQlT9lDwoio/mxgYkVh2BHTzYSGev7wKqPzyogypqkEoycR6ceddl4qrv8SBDUJPyoxGE24UTZODnhrV31Pr8nsBkles2RlrCnOCxmYeYeUv1ViEghtO0GyKOfuhognqiI9pTKKqev4DS2g17083YS7ZvlracJe+5CsFvH6MW9xAM5X7bcVz/Sxtu+TSCFebR/CoLsy0l/wsiA==;BduT1kymVeZVNeF+/7XceQ=="
 ---

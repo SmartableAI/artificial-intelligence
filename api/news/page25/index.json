@@ -2,6 +2,100 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
+      "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+      "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "publishedDateTime": "2020-07-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-the-us-china-and-the-ai-arms-race-cutting-through-the-hype.md",
+      "title": "The US, China and the AI arms race: Cutting through the hype",
+      "excerpt": "The reality is that US and China efforts to develop AI are entwined, even if the tensions of coronavirus and trade disagreements may spur a separation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/DVYxHNtyKp5XHMiiLCfbwOo6_Yo=/756x567/2020/06/30/fbf0e0ea-8dfc-4bcb-9793-f6eaa8993108/gettyimages-1039282538.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "The US, China and the AI arms race: Cutting through the hype",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-us-china-and-the-ai-arms-race-cutting-through-the-hype/",
+      "publishedDateTime": "2020-07-08T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-artificial-intelligence-drives-this-brand-new-bluetooth-headset-from-epos.md",
       "title": "Artificial Intelligence Drives This Brand New Bluetooth Headset From EPOS",
       "excerpt": "Artificial Intelligence is now helping wireless headsets to help people sound clearer and take part in calls and video chats with real audio clarity.",
@@ -1019,105 +1113,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025.md",
-      "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
-      "excerpt": "Jul 07, 2020 (Market Insight Reports) -- Selbyville, Delaware According to Market Study Report LLC has added a new report on Artificial Intelligence (AI) in Precision Medicine market that provides a comprehensive review of this industry with respect to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-precision-medicine-market-size-report-till-2025-2020-07-07",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Growth of Global Artificial Intelligence (AI) in Precision Medicine Market Size Report Till 2025",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-07T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-adobe-tests-an-ai-recommendation-tool-for-headlines-and-images.md",
-      "title": "Adobe tests an AI recommendation tool for headlines and images",
-      "excerpt": "Team members at Adobe have built a new way to use artificial intelligence to automatically personalize a blog for different visitors. This tool was built as part of the Adobe Sneaks program, where employees can create demos to show off new ideas,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/For-Thrillseekers-copy.jpg?w=680",
-          "width": 680,
-          "height": 292,
-          "title": "Adobe tests an AI recommendation tool for headlines and images",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/07/adobe-ai-for-content-creators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/07/adobe-ai-for-content-creators/amp/",
-      "publishedDateTime": "2020-07-07T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

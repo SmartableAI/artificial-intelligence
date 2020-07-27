@@ -31,20 +31,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Global Voice Recognition Systems Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 21, 2020 (CDN Newswire via Comtex) -- Global Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth ..."
-    publishedDateTime: 2020-07-23T01:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-systems-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2025-2020-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple's Patent-Pending invention for Face ID for Macs may be coming to market if hidden code in macOS Big Sur pans out"
     excerpt: "Patently Apple posted a patent report titled \"Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more.\" The patent laid out the camera module providing Face ID technologies such light pattern recognition and a dot projector that will be used for unlocking computers along with capturing face gestures and emotions for Animojis and Memojis."
     publishedDateTime: 2020-07-24T19:53:00Z

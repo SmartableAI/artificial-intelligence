@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/27/ai-ethicists-clash-o
 ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/07/27/ai-ethicists-clash-over-real-world-aptness-of-the-controversial-trolley-problem-but-for-self-driving-cars-it-is-the-real-deal/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/27/ai-ethicists-clash-over-real-world-aptness-of-the-controversial-trolley-problem-but-for-self-driving-cars-it-is-the-real-deal/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5edac038d1ce2e0007151d41%2F0x0.jpg%3FcropX1%3D307%26cropX2%3D5299%26cropY1%3D0%26cropY2%3D3744"
@@ -29,6 +30,6 @@ images:
     height: 900
     isCached: true
 
-secured: "5MN03lnuY32Tc2PjXseel9RjvY59WMKYzx13Xey0XxX7W8a4okCe9YrLwGaZzf3dXp1cF0HUUxDZ9kGcZy7kOVp4Bad9egeltdkVRjOpAMxM4q2WSDEGwMSE+vokZ/dYiplFsXhqK6BCcOX6RxHMzijIFpGzVHmqJe5fnFFrLa6fSspXW5zrS3S+ptpvAHhxGkOSIM5o+zHuv36FE0VbmNaE0PMEF3FSuiZM3yZ9s/eX3jtA00ROup//wBJIcmWDSYxMAk6+XAMo3Xp0EoaypBMg8D0LZc58RK3t4ATJbUpYMWfYkaMCB9Ajhae6EIyqOr9P+alKpuhr4YGnUrauUw==;oO/Y+y4iE6+YUCoon9+kkA=="
+secured: "XT4zgyh3Zco79UKo32ZiRxlezS0NKlHzoPv3HaRgY5b0/ZPe4kelIwk+NcGKcVbclUUjnlk8OE0CU892KSg6VCP3zs9csnJRFbx6ywvXgmrr95M7oXopYF+tVLRfJLjvnD8vR2r9uUlagpgXuxlQFsGhQZG1MQ6WwvIKAkT456pTEULHLNQSg8YyzmyGXeTPthzhoIn7nDlxA3TrVqxiG8MU/00hc8XTbC7O0OZwRsACGMFMfZpPzOl7EqRRTXFoBuLPfSht1HbAFD/p8oSBAQaTOWSUCrJOG9rRdbBHuWx5MnI8hJrEXPM6mG42iBis0ORe9vsXMHX1MV6PakMUtF0sCajPN9lt+QFOBt8L0MJEv1/lnKWL+KCc+ycuXWS1BW56a6gAFjqZquVe7Zyii3BDDqmGbUvJRQ1LxVi4O4o7dRqDIqk0/xIAYyU8snybQTF7C0cgClVNkIdGuAPl/TLNPbAOYXid8QKbmDtQBvl9llo+Bz54vQovUO+Wht7LcoUzg4qwbrcU2GUzHkEfBA==;7QDsxp4B7UhKbvfi+BJT8g=="
 ---
 

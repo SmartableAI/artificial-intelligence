@@ -8,7 +8,7 @@ ampWebUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-i
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists have created a facial recognition software for birds"
+    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92 percent"
+    publishedDateTime: 2020-07-27T07:56:00Z
+    webUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/"
+    ampWebUrl: "https://nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/07/27/facial-recognition-style-artificial-intelligence-has-been-created-for-birds/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/07/birds-18.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AI software which recognises individual birds could boost conservation efforts, researchers say"
     excerpt: "Birds could be spared the stressful process of identification tagging after researchers developed facial recognition software which can recognise individual birds, something humans are unable to do.|  Individual recognition of animals is one of the most expensive and time-consuming problems in research,"
     publishedDateTime: 2020-07-27T05:18:00Z

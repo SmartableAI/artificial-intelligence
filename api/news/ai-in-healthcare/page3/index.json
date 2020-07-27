@@ -2,6 +2,56 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-06-22-10-wonderful-examples-of-using-artificial-intelligence-ai-for-good.md",
+      "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+      "excerpt": "There are many ways artificial intelligence can be used for good and to help solve some of the world’s biggest problems. Many researchers and organizations are prioritizing projects where artificial intelligence can be used for good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ef030968548c80006be69fb%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "10 Wonderful Examples Of Using Artificial Intelligence (AI) For Good",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/06/22/10-wonderful-examples-of-using-artificial-intelligence-ai-for-good/amp/",
+      "publishedDateTime": "2020-06-21T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-06-21-can-artificial-intelligence-guess-your-age.md",
       "title": "Can Artificial Intelligence Guess Your Age?",
       "excerpt": "Some of us are able to hide our age from each other but what if you can’t hide your age from artificial intelligence (AI)? Scientists at the Institute for Neural Computation at Ruhr-Universität Bochum (RUB) have developed an algorithm that can catch ...",

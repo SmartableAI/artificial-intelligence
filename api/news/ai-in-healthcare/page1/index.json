@@ -818,6 +818,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-16-fda-approves-data-streaming-from-the-impella-console-setting-the-stage-for-artificial-intelligence-algorithms-to-further-improve-patient-outcomes.md",
+      "title": "FDA Approves Data Streaming from the Impella Console, Setting the Stage for Artificial Intelligence Algorithms to Further Improve Patient Outcomes",
+      "excerpt": "The United States Food and Drug Administration (FDA) has approved one-way digital data streaming during patient support from Abiomed's (NASDAQ: ABMD)",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200716005318/en/FDA-Approves-Data-Streaming-Impella-Console-Setting",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200716005318/en/805904/23/original-1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-artificial-intelligence-in-healthcare-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2024.md",
       "title": "Artificial Intelligence In Healthcare Market-Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2024",
       "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
@@ -1303,47 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-can-ai-really-distinguish-between-back-pain.md",
-      "title": "Can AI Really Distinguish Between Back Pain?",
-      "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/can-ai-really-distinguish-between-back-pain",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/back-pain-2402708_1920.jpg",
-          "width": 1920,
-          "height": 1271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

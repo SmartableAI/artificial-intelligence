@@ -31,20 +31,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
-  - title: "Global Voice Recognition Systems Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2025"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 21, 2020 (CDN Newswire via Comtex) -- Global Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth ..."
-    publishedDateTime: 2020-07-23T01:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-systems-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2025-2020-07-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new market research report \"Agricultural Robots Market with COVID-19 Impact Analysis by Offering Type (UAVs,"
     publishedDateTime: 2020-07-25T23:40:00Z

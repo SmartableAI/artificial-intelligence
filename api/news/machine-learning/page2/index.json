@@ -2,6 +2,56 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-16-dows-machine-learning-journey-in-international-trade.md",
+      "title": "Dow’s Machine Learning Journey In International Trade",
+      "excerpt": "Dr. John Wassick, Integrated Supply Chain Technology Fellow, Dow Inc., was on a supply chain panel at the ARC Industry Forum in Orlando.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1227496813%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/07/16/dows-machine-learning-journey-in-international-trade/amp/",
+      "publishedDateTime": "2020-07-16T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-ai-machine-learning-market-may-see-a-big-move-google-ibm-baidu.md",
       "title": "Ai Machine Learning Market May See a Big Move | GOOGLE, IBM, BAIDU",
       "excerpt": "Latest Market intelligence report released by HTF MI with title \"Ai Machine Learning Market Insights 2019, Global and Chinese Analysis and Forecast to 2024\" is designed covering micro level of analysis by manufacturers and key business segments. The Ai ...",
@@ -1363,48 +1413,6 @@
         "AI in Autos",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-from-chess-to-neural-networks-how-machine-learning-went-deep.md",
-      "title": "From Chess to Neural Networks: How Machine Learning Went Deep",
-      "excerpt": "The man vs. machine debate is one that’s captivated the minds of scientists, sci-fi writers, and anyone with an interest in technology for decades. Ever since the notion of intelligent, self-learning computers was first posited by Arthur Samuel in 1952,",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2019/06/tp-website-header-logo-e1590226509506.png",
-          "width": 500,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/from-chess-to-neural-networks-how-machine-learning-went-deep/?amp",
-      "publishedDateTime": "2020-07-09T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

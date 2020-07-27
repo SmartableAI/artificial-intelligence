@@ -5,8 +5,8 @@ excerpt: "The global Artificial Neural Network (ANN) Market size is expected to 
 publishedDateTime: 2020-07-23T17:51:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-neural-network-market-growing-at-a-cagr-205-key-player-google-ibm-microsoft-oracle-intel-2020-07-23"
 type: article
-quality: 51
-heat: 51
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

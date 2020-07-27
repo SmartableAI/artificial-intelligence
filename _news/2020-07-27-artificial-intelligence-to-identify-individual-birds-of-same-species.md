@@ -1,29 +1,24 @@
 ---
 category: news
-title: "Robot can identify birds with around 90 per cent accuracy"
-excerpt: "The technology was trained using pictures of wild great tits and sociable weavers (pictured), as well as captive zebra finches."
-publishedDateTime: 2020-07-27T04:07:00Z
-webUrl: "https://www.dailymail.co.uk/news/article-8562983/Robot-identify-birds-90-cent-accuracy.html"
-ampWebUrl: "https://www.dailymail.co.uk/news/article-8562983/amp/Robot-identify-birds-90-cent-accuracy.html"
-cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8562983/amp/Robot-identify-birds-90-cent-accuracy.html"
+title: "Artificial Intelligence to identify individual birds of same species"
+excerpt: "CNRS. (2020, July 27). Artificial Intelligence to identify individual birds of same species. ScienceDaily. Retrieved July 27, 2020 from www.sciencedaily.com/releases/2020/07/200727114745.htm CNRS. \"Artificial Intelligence to identify individual birds of ..."
+publishedDateTime: 2020-07-27T19:29:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/07/200727114745.htm"
 type: article
-quality: 59
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Daily Mail
-  domain: dailymail.co.uk
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
-
-images:
-  - url: "https://i.dailymail.co.uk/1s/2020/07/27/01/31230338-0-image-a-38_1595811222501.jpg"
-    width: 636
-    height: 382
-    isCached: true
 
 related:
   - title: "This AI tool can identify individual birds with 90% accuracy"
@@ -41,6 +36,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png"
         width: 796
         height: 417
+        isCached: true
+  - title: "Robot can identify birds with around 90 per cent accuracy"
+    excerpt: "The technology was trained using pictures of wild great tits and sociable weavers (pictured), as well as captive zebra finches."
+    publishedDateTime: 2020-07-27T04:07:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8562983/Robot-identify-birds-90-cent-accuracy.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8562983/amp/Robot-identify-birds-90-cent-accuracy.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8562983/amp/Robot-identify-birds-90-cent-accuracy.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/27/01/31230338-0-image-a-38_1595811222501.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Researchers build first AI tool capable of identifying individual birds"
     excerpt: "New research demonstrates for the first time that artificial intelligence (AI) can be used to train computers to recognize individual birds, a task humans are unable to do. The research is published in the British Ecological Society journal Methods in Ecology and Evolution."
@@ -72,15 +83,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Artificial Intelligence to identify individual birds of same species"
-    excerpt: "CNRS. (2020, July 27). Artificial Intelligence to identify individual birds of same species. ScienceDaily. Retrieved July 27, 2020 from www.sciencedaily.com/releases/2020/07/200727114745.htm CNRS. \"Artificial Intelligence to identify individual birds of ..."
-    publishedDateTime: 2020-07-27T19:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/07/200727114745.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
   - title: "AI used to train computers to recognise individual birds for first time"
     excerpt: "Computers can be trained by artificial intelligence to recognise birds on an individual level, a new study has demonstrated. Researchers collected thousands of labelled images of birds and then used the data to train and test artificial intelligence (AI) models,"
     publishedDateTime: 2020-07-27T04:31:00Z
@@ -124,6 +126,6 @@ related:
         height: 800
         isCached: true
 
-secured: "q4DccEKPgH9MbfMOQNiPEnzvOsUFEyHrYaAVYVA7C1KgT+wjq6hTpdOpHL3XHFsRyZ22NcFyOpHPKR82TD9/lnNq6eSKrR3J66UU5LnirpkBuFS2srB0AL1s6+aid2/wb1fW2V22Bf14tYP4gIRKyIaoDu2puu/ayYNKfdMqA6RDo4Lg5DtZ34h7P75cXOHRPg1smvRps2eIVBMrnp7eS/SzmXAfO/WYlOjulnOzUvfZ9PkD0GNCIl1XmHx9NQJ/z2MaNQKBw2rfJlEFxyIuwknZoGUif/CsFfBlUkmRHvsZY0TSoVuEhox9hiAwED8852h366Gurwim14e+ZJx84Q==;MnpN75FOAI2vFEiVTz03UQ=="
+secured: "4TaqPlad9ksCTSlPQaq72rgZHz1S/rJS/f6dE+j3AznLqPem2EKbiCsensem9MXkgkpryX2Aol6rQRpPrscrJaAITbqOGhkeY6ZqCkhSueM+BTyAqhbe9YoXC6Ib4rsNgBOqe0rt3zYWmXMqSlcZIZRMd3Jj8rtEVTueAg+m1LUA+z6+Ua5ANZDuu9EzIq10zosu1q0ln7zIeaT2SSkifEWeX7t3y1Ki4COFISI/caKls8guGbZgrtVk0KIeAKymacvTaMw28R6gwZyxAK2UZOj1ab7GnecGKmdniAVg3L9BcslnI00/jspS/pJDDCyYH5ogYaspopqkVUhB8M9PQQ==;/y+eHLoZwvIkLWTpylx2mg=="
 ---
 
