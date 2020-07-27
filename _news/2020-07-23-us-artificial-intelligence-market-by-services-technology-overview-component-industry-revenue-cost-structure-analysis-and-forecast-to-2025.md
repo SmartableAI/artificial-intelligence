@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Software Market, Forecast to 2025 - ResearchAndMarkets.com"
+    excerpt: "Software Market, Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering. The global AI software market revenue will grow at a CAGR of 41.6% between 2019 and 2025, with IBM representing the highest revenue among all competitors during 2016-2018."
+    publishedDateTime: 2020-07-24T09:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16765498/global-artificial-intelligence-ai-software-market-forecast-to-2025-researchandmarkets-com"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16765498"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16765498"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 42
 
 secured: "Z8pD67uRr3+KZ2LeW1NCRggxQxe8bncUrXJvE5nwTHWLftaEU31wEDUZMtFfg7IWqQHBZnGxTdZWZs7bIbMtE9Z4BWdHHaEyIpk0BLAxkrB1fV5gQrUCi1yXEfJd/SFaRrcV688DlxijUAFqg6ZLxMGahdaBlRSy/X9kXRXSYhayxVgHB1pkv7YvCdAdih2u4TkqsvhfQP7k5jv7ZGBaphZw+XeCR/ODOUxo97QwDNT5OG1cOUu29E8kIDFMXhdMzXw3jcLID3V5N+6l78cL1uwJvKWazs9xvpPfy7pvmflV87u10U5kIWqSi4rxTa7+j3/5tGeEis58L98mOqKi0g==;v74mJFGsaAweyW6NufthRw=="
 ---

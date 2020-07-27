@@ -74,22 +74,6 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "Here are the lawmakers who are backing a national facial recognition ban"
-    excerpt: "The scorecard keeping track of which Congress members support a federal moratorium on facial recognition comes after Sen. Bernie Sanders and Sen. Elizabeth Warren joined as co-sponsors on the bill. If you're wondering whether or not your Congress ..."
-    publishedDateTime: 2020-07-22T17:40:00Z
-    webUrl: "https://www.cnet.com/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-lawmakers-who-are-backing-a-national-facial-recognition-ban/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 88
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/M2ugk7HeWp64WGbHDqCQ0MW_2fE=/756x567/2020/05/01/8c12d2b9-11e2-41b5-8691-c40889483848/facial-recognition-face-id-passw.jpg"
-        width: 756
-        height: 567
-        isCached: true
   - title: "New York legislature votes to halt facial recognition tech in schools for two years"
     excerpt: "The state of New York voted this week to pause any implementation of facial recognition technology in schools for two years. The moratorium, approved by the New York Assembly and Senate Wednesday, comes after an upstate school district adopted the technology earlier this year,"
     publishedDateTime: 2020-07-23T20:06:00Z
@@ -149,22 +133,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Does your congressperson support a facial recognition ban?"
-    excerpt: "A new scoreboard launched by several advocacy groups shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
-    publishedDateTime: 2020-07-22T18:33:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-bill-scoreboard/"
-    ampWebUrl: "https://www.dailydot.com/debug/facial-recognition-bill-scoreboard/?amp"
-    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facial-recognition-bill-scoreboard/?amp"
-    type: article
-    provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 59
-    images:
-      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/Facial-Recognition-Scoreboard.jpg"
-        width: 1555
-        height: 778
-        isCached: true
   - title: "New York lawmakers vote to pause facial recognition in schools"
     excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
     publishedDateTime: 2020-07-23T18:00:00Z

@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.wired.com/story/facebooks-red-team-hacks-ai-programs</loc>
+    <lastmod>2020-07-27T04:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.infoworld.com/article/3568148/6-ways-alibaba-cloud-challenges-aws-azure-and-gcp.html</loc>
+    <lastmod>2020-07-27T03:30:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techradar.com/au/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience</loc>
     <lastmod>2020-07-27T02:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -157,13 +169,19 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.bbc.com/news/technology-53530454</loc>
+    <loc>https://aws.amazon.com/blogs/machine-learning/setting-up-human-review-of-your-nlp-based-entity-recognition-models-with-amazon-sagemaker-ground-truth-amazon-comprehend-and-amazon-a2i/</loc>
+    <lastmod>2020-07-24T09:11:38-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.bbc.com/news/technology-53530454?at_campaign=64&amp;</loc>
     <lastmod>2020-07-24T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars</loc>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
     <lastmod>2020-07-24T08:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -243,6 +261,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/</loc>
     <lastmod>2020-07-23T12:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23</loc>
+    <lastmod>2020-07-23T12:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1363,7 +1387,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
+    <loc>https://qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
     <lastmod>2020-07-17T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2095,7 +2119,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2509,6 +2533,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.technewsworld.com/story/86752.html?rss=1</loc>
+    <lastmod>2020-07-13T05:02:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.abc.net.au/news/2020-07-13/afp-use-of-facial-recocognition-sofware-clearview-ai-revealed/12451554</loc>
     <lastmod>2020-07-13T04:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2523,12 +2553,6 @@
   <url>
     <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
     <lastmod>2020-07-13T04:05:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.technewsworld.com/story/86752.html</loc>
-    <lastmod>2020-07-13T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

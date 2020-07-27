@@ -35,6 +35,20 @@ related:
         width: 800
         height: 452
         isCached: true
+  - title: "The Computer Vision Industry In India Is Sized At $2.46 Bn: Report By AIMResearch"
+    excerpt: "According to a recent research report by AIMResearch, the Indian Computer Vision market is valued at $2.46 Bn as of July 2020. The report titled, State of Computer Vision in India – 2020, takes a deep dive into the computer vision market as it emerges as a priority Data Science technology across Enterprises and"
+    publishedDateTime: 2020-07-27T10:57:00Z
+    webUrl: "https://analyticsindiamag.com/the-computer-vision-industry-in-india-is-sized-at-2-46-bn-report-by-aimresearch/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 49
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/Brochure-Banner.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Deep Learning Market: Quantitative Market Analysis, Current And Future Trends Apheresis 2017 to 2027"
     excerpt: "XploreMR has published a new report on the global deep learning market titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027)’ and presented in-depth insights into the various market forces impacting revenue ..."
     publishedDateTime: 2020-07-24T10:40:00Z

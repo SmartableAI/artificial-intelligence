@@ -2,6 +2,179 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-07-19-autox-gets-permit-to-run-driverless-testing-in-california.md",
+      "title": "AutoX gets permit to run driverless testing in California",
+      "excerpt": "Alibaba-backed autonomous vehicle startup AutoX Technologies has become only the third company to receive permission to conduct driverless ... the world with Artificial Intelligence (AI) drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/Articles/Science/20200719/3595133.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-19T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-19-enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors.md",
+      "title": "Enabling humanoid robot movement with imitation learning and mimicking of animal behaviors",
+      "excerpt": "Humanoid robots have not stood up to the expectation set forth by Rosie from The Jetsons in the 1960s, but they’re finally becoming good enough to come to market.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1135729958.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/19/enabling-humanoid-robot-movement-with-imitation-learning-and-mimicking-of-animal-behaviors/amp/",
+      "publishedDateTime": "2020-07-19T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-07-19-caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow.md",
+      "title": "Caja Robotics offers smart machines for the warehouses of tomorrow",
+      "excerpt": "From the Spanish word for ‘box’ or ‘present,’ Caja offers a flexible set of solutions in an age when COVID-19 is making online shopping bigger than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/460907",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/caja-robotics-offers-smart-machines-for-the-warehouses-of-tomorrow-635600/amp",
+      "publishedDateTime": "2020-07-19T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-19-weird-ai-illustrates-why-algorithms-still-need-people.md",
+      "title": "Weird AI illustrates why algorithms still need people",
+      "excerpt": "These days, it can be very hard to determine where to draw the boundaries around artificial intelligence. What it can and can’t do is often not very clear, as well as where it’s future is headed. In fact,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-1-5-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/18/weird-ai-illustrates-why-algorithms-still-need-people-syndication/amp/",
+      "publishedDateTime": "2020-07-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-19-even-the-best-ai-models-are-no-match-for-the-coronavirus.md",
       "title": "Even the Best AI Models Are No Match for the Coronavirus",
       "excerpt": "Many so-called “quantitative funds” that mine historical data to make trading decisions fared poorly in March, when stocks fell sharply amid coronavirus fears.",
@@ -1239,205 +1412,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ebay-cto-ai-is-now-an-ecosystem-for-us.md",
-      "title": "eBay CTO: AI is now an ‘ecosystem’ for us",
-      "excerpt": "Watch the final day of VB Transform live on YouTube! While eBay could have used any number of existing AI platforms to enhance its various products, the company instead elected to build its own AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ebay-cto-ai-is-now-an-ecosystem-for-us/amp/",
-      "publishedDateTime": "2020-07-17T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free.md",
-      "title": "AI tool lets startups determine the value of their e-commerce business in 24 hours for free",
-      "excerpt": "Kelly Blue Book has done it for decades for cars. Now Clearbanc, a VC firm that specializes in helping startups, has launched an AI-based platform that lets startup founders know how much their company is worth—in 24 hours, for free. Michele Romanow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/04/11/7f14de97-e97a-4051-a342-644378ddf1d4/resize/1200x/2fe4d638fcfc2c8d05a64a57d184b147/istock-912675036.jpg",
-          "width": 1200,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-tool-lets-startups-determine-the-value-of-their-e-commerce-business-in-24-hours-for-free/",
-      "publishedDateTime": "2020-07-17T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex.md",
-      "title": "Building a scalable outbound call engine using Amazon Connect and Amazon Lex",
-      "excerpt": "&shy; This is a guest post by AWS Machine Learning Hero Cyrus Wong. Staying connected with family, friends, and colleagues is easy for most people who live with or close to others. For educators who need to communicate lessons and schedules with their students, or businesses who communicate with new",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-outbound-call-engine-using-amazon-connect-and-amazon-lex/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/14/scalable-outbound-call-engine-001.jpg",
-          "width": 800,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T11:35:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-17-ai-weekly-transform-2020-showcased-the-practical-side-of-ai-and-ml.md",
-      "title": "AI Weekly: Transform 2020 showcased the practical side of AI and ML",
-      "excerpt": "Luminaries including Google Brain ethicist Timnit Gebru and IBM AI ethics leader Francesca Rossi spoke about how women are advancing AI and leading the trend of AI fairness, ethics, and human ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rich-roth-commonspirit-health-transform-2020.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/ai-weekly-at-transform-2020-ai-and-ml-took-center-stage/amp/",
-      "publishedDateTime": "2020-07-17T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

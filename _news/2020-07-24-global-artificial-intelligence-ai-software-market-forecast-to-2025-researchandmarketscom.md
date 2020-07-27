@@ -20,21 +20,33 @@ topics:
   - AI
 
 related:
-  - title: "Software Development AI Market"
-    excerpt: "dbmr=global-software-development-ai-market “Product definition” The increase in the fraction of novel start-ups and improvements in technology has directed to an expansion in expenditure in AI technologies. Furthermore, an increase in requirement ..."
-    publishedDateTime: 2020-07-22T18:17:00Z
-    webUrl: "https://www.openpr.com/news/2095042/software-development-ai-market-2020-2027-by-top-key-companies"
-    ampWebUrl: "https://www.openpr.com/amp/2095042/software-development-ai-market-2020-2027-by-top-key-companies"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095042/software-development-ai-market-2020-2027-by-top-key-companies"
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size Historical Growth, Analysis, Opportunities and Forecast To 2025"
+    excerpt: "Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020a??, the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25. Machine learning algorithms are used in healthcare institutions to ..."
+    publishedDateTime: 2020-07-23T19:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
-      - url: "https://cdn.openpr.com/T/7/T722401047_g.jpg"
-        width: 707
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US Artificial Intelligence Market by Services, Technology, Overview, Component, Industry Revenue, Cost Structure Analysis and Forecast to 2025"
+    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
+    publishedDateTime: 2020-07-23T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-by-services-technology-overview-component-industry-revenue-cost-structure-analysis-and-forecast-to-2025-2020-07-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NWIDV1HDHrTFg+9giN6FuXTUY5qdO1JuqB84CUdswJ/7lB+OgO1AbKt5txl85gFHrsfM0ej6w7z2MPkApue7k6LzsVfT8xLuNmtaMW8F2lYZ9yvEiQJolOUExxvUQoHRNBc+jZQ2TA+o8UZ/83NC6Pyipal5pBL4JGz4PDWDkiyWsCYHUbHEM6Xoj72jZJr2JSHwjMFoz8UiUIeyhQ/Qdfc7dTuLE4VOCYvl6YFm+6/mGsoS2gT9Squj7mi5rKOTeNB9d0Y30UlifA5DzkyFObkKI4WhO8jZDAMqh8g4drkmC/Nk0YDOtfeNgT6/UF88aIcMcgx7LDm4SbAEsjNbl7qphKbX8BhdRi9JLwmZEoGDsuQ8FEXHUsFqfuIgI0gY6nU5sXY6AHgJ5csMMuQPfjpGF4CXuzDt7We/b27wvIR4ygz3A6BxwUG2FihUG4xw+S1sgxFHoc9w8arId5IA4C5t0bFLvhy68MdYxCipjT6pXY/ayHQvkyhjGqNACzwbx82SoHkQ5+GOETZmZIAu4Q==;atudvHYfseAWBV1oz8nkBg=="

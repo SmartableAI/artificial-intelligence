@@ -42,6 +42,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "Artificial intelligence model trained to identify birds in new images"
+    excerpt: "For the first time, researchers have developed an AI model that is able to identify individual small. Identifying individual animals in animal behaviour studies is an important step to answering many questions in evolutionary biology."
+    publishedDateTime: 2020-07-27T11:20:00Z
+    webUrl: "https://www.computing.co.uk/news/4018265/ai-model-identify-birds"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 52
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/7be45f3/f470d7ef-6800-4fcc-bab3-b282f392de30/4/bird-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "AI used to train computers to recognise individual birds for first time"
     excerpt: "Computers can be trained by artificial intelligence to recognise birds on an individual level, a new study has demonstrated. Researchers collected thousands of labelled images of birds and then used the data to train and test artificial intelligence (AI) models,"
     publishedDateTime: 2020-07-27T04:31:00Z

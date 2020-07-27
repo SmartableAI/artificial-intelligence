@@ -34,6 +34,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Students are driving — locally and globally — innovations with Samsung’s new programme called PRISM"
+    excerpt: "To ensure it continues to excel, the company has launched a unique industry-academia programme called Samsung PRISM — Preparing and Inspiring Student Minds — to stimulate the Indian innovation ecosystem,"
+    publishedDateTime: 2020-07-27T10:11:00Z
+    webUrl: "https://www.telegraphindia.com/science-tech/students-are-driving-locally-and-globally-innovations-with-samsungs-new-programme-called-prism/cid/1787473"
+    ampWebUrl: "https://www.telegraphindia.com/amp/science-tech/students-are-driving-locally-and-globally-innovations-with-samsungs-new-programme-called-prism/cid/1787473"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/students-are-driving-locally-and-globally-innovations-with-samsungs-new-programme-called-prism/cid/1787473"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 30
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2020/Jul/1595841706_img_1859.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "AyfUI0+BrHWQZcaoH1o+qBpJkfVCLLhRMag/epvAQrFBQYztt6ZCW3uIkt9TaYFun2oH3gDw+Cw91IrtTM8d0ygOQOINqCBBozT5XEtSSX9/0NjB/2sJ+J/TLMy7pwErQnecYUxvq0KlK3eqn886IFIAirPPul2QsHPvkF2MqE4Zsi7wHeVfS4e8kvhmyt7mzqnoOYnol+Zee4cIHXl0ff0LnuDzrz+WpKFto7RbYbNuzwYcPT4dKrz6mQ996ifJ75isRJgY27M/r6V9e8NoKo86cc3ckxTezjev51r8puhWZRWO5EKD2c81jA3ZRM8PL+OVCDLhLXcj4ra76Wn1wA==;f6hmP7hU0psLCW1lk7j5vQ=="
 ---

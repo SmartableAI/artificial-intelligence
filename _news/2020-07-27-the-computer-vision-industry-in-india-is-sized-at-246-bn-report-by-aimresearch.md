@@ -1,0 +1,73 @@
+---
+category: news
+title: "The Computer Vision Industry In India Is Sized At $2.46 Bn: Report By AIMResearch"
+excerpt: "According to a recent research report by AIMResearch, the Indian Computer Vision market is valued at $2.46 Bn as of July 2020. The report titled, State of Computer Vision in India – 2020, takes a deep dive into the computer vision market as it emerges as a priority Data Science technology across Enterprises and"
+publishedDateTime: 2020-07-27T10:57:00Z
+webUrl: "https://analyticsindiamag.com/the-computer-vision-industry-in-india-is-sized-at-2-46-bn-report-by-aimresearch/"
+type: article
+quality: 49
+heat: -1
+published: false
+
+provider:
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/07/Brochure-Banner.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence in Accounting Market Research Report"
+    excerpt: "An informative data report titled Artificial Intelligence in Accounting Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients"
+    publishedDateTime: 2020-07-25T05:28:00Z
+    webUrl: "https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report"
+    ampWebUrl: "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/7/T725964590_g.jpg"
+        width: 800
+        height: 452
+        isCached: true
+  - title: "Deep Learning Market: Quantitative Market Analysis, Current And Future Trends Apheresis 2017 to 2027"
+    excerpt: "XploreMR has published a new report on the global deep learning market titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027)’ and presented in-depth insights into the various market forces impacting revenue ..."
+    publishedDateTime: 2020-07-24T10:40:00Z
+    webUrl: "https://www.openpr.com/news/2096293/deep-learning-market-quantitative-market-analysis-current"
+    ampWebUrl: "https://www.openpr.com/amp/2096293/deep-learning-market-quantitative-market-analysis-current"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096293/deep-learning-market-quantitative-market-analysis-current"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/T/7/T724513139_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Diabetes Management Market Research Report"
+    publishedDateTime: 2020-07-23T18:46:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16757674/artificial-intelligence-in-diabetes-management-market-research-report-by-device-global-forecast-to"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16757674"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16757674"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 4
+
+secured: "8Q5ksh0T/zQZ/Zr/8YkC/L4cwEWuHCACqCAb8q87GILC46V/v9CYh5wjQsTBZjf7LrqCGYT0818kWnG0hfcJq4DVlwOfV4vTMXwstifXA515kpbJLgOPDH91clHGY+L8gJQKj9V9EukxSOD2M6L+rWQODXPIq4OfqYPE3/jtVlPMXefMlrFOnlxmUANCnliqiFhQdXFvfp7s7jZEuQGqyh17V6nz0GMD6PbvdCO20BF7PFOu/oL+7meHhnFl//T4khuItpWC4zxX93+T5oK3Fugc5E0IuooIrOLVrd/dPCS2+bXDfyjkxLSzJmK6XY+2pYig4l1MRanLn2nIr2rqxA==;QXLmr0IRyWlwhc/c/jcz3g=="
+---
+

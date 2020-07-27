@@ -24,52 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Innovation Preview: Automation of AI"
-    excerpt: "\nIBM’s second Innovation Preview event features AI experts and IBM executives as they share exciting new developments made by IBM Research in the field of Automation of AI. In the event, now available online, these leaders present three ways to leverage automation for AI: Accurately digitize and streamline"
-    publishedDateTime: 2020-07-22T18:26:35Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/07/ibm-innovation-preview-automation-of-ai/"
+  - title: "DataRobot Extends Pro Bono AI Platform Licenses to Nonprofit and Social Good Organizations"
+    excerpt: "DataRobot launched its AI for Good program last July to help nonprofit and social good organizations accelerate their efforts to solve the world’s most pressing problems. After an extensive evaluation process,"
+    publishedDateTime: 2020-07-23T13:00:00Z
+    webUrl: "https://apnews.com/bffd3b824255437587b804c81db0b7ab"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/07/1097_Automation_of_AI_Blog_Leadspace_Final-990x498.jpg"
-        width: 990
-        height: 498
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "DeepMind presents a solution for automatic generation of reinforcement learning algorithms"
-    excerpt: "DeepMind researchers presented on July 17th in an article on Arxiv a study on reinforcement learning algorithms. Junhyuk Oh, Matteo Hessel, Wojciech M. Czarnecki, Zhongwen Xu, Hado van Hasselt, Satinder Singh and David Silver worked on a solution for generating reinforcement learning (RL) algorithms that interact with environments to know what to predict and how"
-    publishedDateTime: 2020-07-23T09:21:00Z
-    webUrl: "https://www.actuia.com/english/deepmind-presents-a-solution-for-automatic-generation-of-reinforcement-learning-algorithms/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 29
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2020/07/DeepMind-Reinforcement-Learning-LPG.jpg"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Delving Into the Weaponization of AI"
-    excerpt: "Leveraging AI and automation enables bad actors to commit more attacks at a faster rate – and that means security teams are going to have to likewise quicken their speed to keep up. Adding fuel to the fire,"
-    publishedDateTime: 2020-07-24T08:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/weaponization-ai/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 17
-  - title: "Afternoon Coffee: GEP adds AI-backed AP automation solution; Procurement Spark is job board for practitioners; the electric ‘Tesla Semi’ in Texas"
-    excerpt: "GEP says it is a stand-alone solution that is built in the Microsoft Azure cloud, and the provider sees it as a launching pad for businesses to start their digital transformation or to add the solution to continue their digital maturity. The new AP ..."
-    publishedDateTime: 2020-07-24T18:50:00Z
-    webUrl: "https://spendmatters.com/2020/07/24/afternoon-coffee-gep-adds-ai-backed-ap-automation-solution-procurement-spark-is-job-board-for-practitioners-the-tesla-semi-in-texas/"
-    type: article
-    provider:
-      name: Trade Financing
-      domain: spendmatters.com
-    quality: 0
 
 secured: "tjmHCMHzVv9S5mArBDtWn1pVZXr+0tK0GrqlS6lEzNCP+IVhRQ1jBs0kUgty20oVuFGU2JpDkRxh4fuZ1pLuOigV7QCY77FxEMQI35gDzpmCWPhHYBIDsTwQSSyPPcgxveDWFSXZusNJIXEEdpTBlfS8NinChgMbxxFRwoaMtDbAv1/EYvDDBHGkKk6y46+apzP1EUyeHPRnBws20N0cSGpyROMqmFC18N5fv58wCbmNDkWOaRyZft4XT5oWwSB3+6YIDHQp0wOxdcwWdFK/s/z44QsykLo9uh0bNv4/12q0BHf178HUJTw3RA587tTId2T7qMnVZ0leOkoltYsLog==;U4f2329YPdoeXPHZzbb+bQ=="
 ---

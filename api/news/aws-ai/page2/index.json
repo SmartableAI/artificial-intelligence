@@ -2,6 +2,97 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-08-accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights.md",
+      "title": "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights",
+      "excerpt": "FORMULA 1 (F1) turns 70 years old in 2020 and is one of the few sports that combines real-time skill with engineering and technical prowess. Technology has always played a central role in F1; where the evolution of the rules and tools is built into the DNA of F1. This keeps fans engaged and drivers […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerating-innovation-how-serverless-machine-learning-on-aws-powers-f1-insights/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/03/accelerating-innovation-1.gif",
+          "width": 1000,
+          "height": 501,
+          "title": "Accelerating innovation: How serverless machine learning on AWS powers F1 Insights",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-08T08:52:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-08-petroai-and-aws-partner-to-operationalize-modern-analytics-reduce-costs.md",
+      "title": "Petro.ai and AWS Partner to Operationalize Modern Analytics, Reduce Costs",
+      "excerpt": "The automated integration of Petro.ai with Amazon S3, AWS Lambda, and AWS VPC minimizes time spent loading, normalizing, and managing data while providing the elastic compute power required for modern analytics at enterprise scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/petroai-and-aws-partner-operationalize-modern-analytics-reduce-costs-188507?amp",
+      "publishedDateTime": "2020-07-08T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
       "title": "Decision points in storage for artificial intelligence, machine learning and big data",
       "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
@@ -1279,97 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-amazon-partners-with-formula-1-for-new-2020-racing-performance-stats.md",
-      "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
-      "excerpt": "The Formula 1 season begins on July 3 in Spielberg, Austria and Amazon Web Services will help the league roll out six new, real-time racing statistics that will be shown as the ra",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/06/25/3657df80-765d-48af-bf16-4110fd6d0261/resize/1200x/94c3ec5113c8d020d33728a0a7338236/optimized-carperfsingledetail-02.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Amazon partners with Formula 1 for new 2020 racing performance stats",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazon-partners-with-formula-1-for-new-2020-racing-performance-stats/",
-      "publishedDateTime": "2020-06-25T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-amazon-adds-media-analysis-tools-to-amazon-rekognition-video.md",
-      "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-      "excerpt": "Machine learning service automates workflows such as creating promo videos, ad insertion and packaging content for streaming services",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadcastnow.co.uk/tech/amazon-adds-media-analysis-tools-to-amazon-rekognition-video/5151053.article",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d11p0alxbet5ud.cloudfront.net/Pictures/2000x2000fit/2/0/5/1327205_screenshot20200625at10.14.00_839733.png",
-          "width": 715,
-          "height": 398,
-          "title": "Amazon adds media analysis tools to Amazon Rekognition Video",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-25T02:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcast",
-        "domain": "broadcastnow.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

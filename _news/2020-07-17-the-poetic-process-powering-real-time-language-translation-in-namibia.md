@@ -3,13 +3,10 @@ category: news
 title: "The poetic process powering real-time language translation in Namibia"
 excerpt: "If we can design applications that are able to translate what we’re saying in real time,” Nekoto says, “then that’s one step closer toward economic [development].” That’s one of the goals of the Masakhane project,"
 publishedDateTime: 2020-07-17T08:00:00Z
-webUrl: "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/"
-ampWebUrl: "https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/"
-cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/"
+webUrl: "https://qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/"
+ampWebUrl: "https://qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/"
+cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/amp/"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: Quartz
@@ -29,6 +26,6 @@ images:
     height: 761
     isCached: true
 
-secured: "si5q89/DycuJ9yvQ/+Fj0xI6zdjKrtZ/bDUda3+Hu6CRPKhH0AaAgEEPoXXKi70W+nXjuGKRb4R5eRVZOFG0mR0/ZdCCh1pvEgx6FI2vkUbCuF8nMc6XJn77VruMSnQTPiVAFZxYLw/4y1AD/93fag7B6tTFlIsdw5Vr/oQpAw6jmvrmYnpDbvAm/usUq6I7XYC42ohyuHa/IWtkMrVjZjfbYbn9gi6Cf4T/xLODsr7vvhj81A4ipsfK4AcfooMQD1X9PpqX73Gh04MOS07zH1oDD9y6FqsZj5OSlNa2X/r4LVpt8XmPAWgdNk+Dt6DEYoh1Ex4Dgm8E1fvz2tYYsMNHHDaEx48v9szchRMG7qhkCXBkAEOPcyfpsb91F97g7vjyQrTubruEcu6k+hCiiV+LEKWyOZGuxdDzNCbuhvMATetbOhr1ebf+ubyjGeDVfMXPRBjGdrkiAWwo7IOYImajLiqreGoGzC3eDY6Lqba+2vXCoVTL+c5G0PG6H3A2WxieIoH2/8nwTK0hU/xlzA==;QWjZz8eiVXAmLqQt9jb9UQ=="
+secured: "fa/LUSqqsfIqbJ7nV4vv+DTMfFp47l4j34/aIh4ebDbbKt2P6mbQvMPbXP5DgAmA1eQP4A5IKVykPHs6YrBreUVfEHQnr163Few3uzAOEwsaVorjsAitzRRRRxGPgrqlZWPVgQz2LjZ1HTGPKqGP5q/w3l/sKs7szxqACKhD71cNnK9a3+Vz8xjMtjOywo/RdKF9fMFrlMAKDSevxyXdlIqoE80w3Kgxmk4a4kHpcFCM0Ge6GmDb0Kk7Yx1wLUMOzyke2Zsp/6pmiU4xB+ClI5pIRNBYhMh8cxLFXFU884Jis8J1xIn+Q9IhAMDY/TI6n54JPd0vzCh/hckNSQ/NZg==;DvDZnAU4G72PLf4F6Zt5Fw=="
 ---
 

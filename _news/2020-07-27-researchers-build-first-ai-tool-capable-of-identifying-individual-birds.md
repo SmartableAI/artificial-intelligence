@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-ai-tool-capable-individual-birds.amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence model trained to identify birds in new images"
+    excerpt: "For the first time, researchers have developed an AI model that is able to identify individual small. Identifying individual animals in animal behaviour studies is an important step to answering many questions in evolutionary biology."
+    publishedDateTime: 2020-07-27T11:20:00Z
+    webUrl: "https://www.computing.co.uk/news/4018265/ai-model-identify-birds"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 52
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/7be45f3/f470d7ef-6800-4fcc-bab3-b282f392de30/4/bird-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "AI software which recognises individual birds could boost conservation efforts, researchers say"
     excerpt: "Birds could be spared the stressful process of identification tagging after researchers developed facial recognition software which can recognise individual birds, something humans are unable to do.|  Individual recognition of animals is one of the most expensive and time-consuming problems in research,"
     publishedDateTime: 2020-07-27T05:18:00Z

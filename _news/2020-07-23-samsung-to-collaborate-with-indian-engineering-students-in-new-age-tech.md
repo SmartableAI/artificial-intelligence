@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Students are driving — locally and globally — innovations with Samsung’s new programme called PRISM"
+    excerpt: "To ensure it continues to excel, the company has launched a unique industry-academia programme called Samsung PRISM — Preparing and Inspiring Student Minds — to stimulate the Indian innovation ecosystem,"
+    publishedDateTime: 2020-07-27T10:11:00Z
+    webUrl: "https://www.telegraphindia.com/science-tech/students-are-driving-locally-and-globally-innovations-with-samsungs-new-programme-called-prism/cid/1787473"
+    ampWebUrl: "https://www.telegraphindia.com/amp/science-tech/students-are-driving-locally-and-globally-innovations-with-samsungs-new-programme-called-prism/cid/1787473"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/science-tech/students-are-driving-locally-and-globally-innovations-with-samsungs-new-programme-called-prism/cid/1787473"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 30
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2020/Jul/1595841706_img_1859.jpg"
+        width: 900
+        height: 506
+        isCached: true
   - title: "Samsung launches PRISM project in India, selects students for AI, IoT, 5G research"
     excerpt: "The teams worked on ‘Make for India’ projects such as handwriting recognition for Indian languages and AI-based Indian language translation. Some teams worked on research projects such as intelligent navigation via in-home object recognition and ..."
     publishedDateTime: 2020-07-24T05:59:00Z
