@@ -1130,36 +1130,27 @@
       ]
     },
     {
-      "path": "_news/2020-07-15-peacock-opens-wide-heres-whats-streaming-on-its-free-and-premium-tiers.md",
-      "title": "Peacock Opens Wide: Here’s What’s Streaming On Its Free And Premium Tiers",
-      "excerpt": "Peacock, the NBCUniversal streaming service that launched in April in Comcast homes, started expanding nationally overnight as Tuesday turned to Wednesday on the East Coast. Along with",
+      "path": "_news/2020-07-15-frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-platform-dynamics.md",
+      "title": "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics",
+      "excerpt": "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,",
       "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 131,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T21:11:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568",
+      "publishedDateTime": "2020-07-14T21:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1175,6 +1166,7 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

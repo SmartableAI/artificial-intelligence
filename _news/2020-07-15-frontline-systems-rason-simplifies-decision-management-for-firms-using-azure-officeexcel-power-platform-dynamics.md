@@ -2,20 +2,24 @@
 category: news
 title: "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics"
 excerpt: "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,"
-publishedDateTime: 2020-07-15T04:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16623858"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16623858"
+publishedDateTime: 2020-07-15T04:15:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "1N/S2WXRonWaHsUYpL4CzYKMhLy3TbE8zZm5FlrX2rvKucvWXrIlXeGRRuQvR30NSLinIPsJdPg7Xdjxerck0jENtZ4CIXwxIn9yYPR5MnFRPC71uwhJiuoXD1X4urwn4xi3gT9t2TM3k4VHQ5pFh9teglYVykerPy3zCRh3LKoFjzMm9zTx9IcSKGSQ6qegXgRZDovkvYJ1FV+UmOkA7oNKNPbWS9rwB+MU8X4sTf3nBNPk8gq99l6/0UUhEBLYWDpsyUcTR6bb1+jpT9J3gSMxvblQk7gxzFAGANSv+Uz7Xu17a5qnA12EdfPT8vjllkn4ugF5By8VV0UffDgXwg==;caCGpCJbLfdCsQmw0q0krg=="
+secured: "eHNIcHvdGrva9835SwOipv93eCtVNvn6ssw1i5gSVWrKh2yJPD+xDh0sOkBHFEnsgc03esbJlqtdgRdiK0A/1qKzzfhQDl/X5qaacBTudJ8C1N3iuN5UxfO4J7l4zKzA//yHmMFw9LC4Vmm1+aLd/KhlGziglS3xMK+V1oKPYc8YNYcUxK9ltU/0B33hsmMXKkZQmSBJK/0K23mET0ocz0Txt6w+GP2LchEOiublJ/A3TYcpFsO7lqXn7ahOyn7CahL0cq4RKfh54n4zoC01zpkNTiqUGMviEgmFKHOGR7nNMVKS2nAdJ8oheF+h3sWjrgryxpZZe/pgyWaMXrllIQ==;/fD2Kwg9Cw/srkphxHCy5g=="
 ---
 

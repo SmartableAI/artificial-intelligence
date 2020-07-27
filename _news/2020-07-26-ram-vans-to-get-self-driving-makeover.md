@@ -184,20 +184,6 @@ related:
       name: Motor Trend
       domain: motortrend.com
     quality: 35
-  - title: "FCA to add Waymo self-driving system to commercial vans, eventually whole lineup"
-    excerpt: "Waymo is perhaps the leader in the race to develop a safe and robust self-driving system, and it's just strengthened its relationship with Fiat Chrysler Automobiles. The two companies announced Wednesday plans to start testing a Level 4 version of Waymo's ..."
-    publishedDateTime: 2020-07-22T10:03:00Z
-    webUrl: "https://www.motorauthority.com/news/1128955_fca-to-add-waymo-self-driving-system-to-commercial-vans-eventually-whole-lineup"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 34
-    images:
-      - url: "https://images.hgmsites.net/hug/2019-ram-promaster_100664713_h.jpg"
-        width: 1920
-        height: 1281
-        isCached: true
 
 secured: "k+DDFbCkWTokJ54Emg/xcs26DRs1joN80Z+AVUBszk3LLkfNJuzhJ7BYc9PqlTqjY5x5JNHo/SPadw0g5ztapGgYKkbPdQB4nMAUSX6suxtYEHMptZv8XpQAHwqph8Ph3DbEOWQATuNavvNeQ/29Vn/bRyaRvbNPnGmWmUniSrJqCzB02jW4Gg+EeL11Hdjs8tsefUcoh61or+0PHHIIiZQUUN2q+iOMhU/NOfaZBUuwk6YEFymwRWZbfDICeBs5yEY6FV/bkdy7xPEB0u8f0alDKsn/Akyf+ViVcje3yeZcixNQs5baYl/Bt4NR0BW34inOEgXBEOuoH38AKlXxbw==;n7u54/6CVI3mcye7MiOEPg=="
 ---

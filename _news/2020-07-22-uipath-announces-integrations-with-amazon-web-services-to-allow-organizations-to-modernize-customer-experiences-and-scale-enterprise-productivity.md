@@ -38,17 +38,6 @@ related:
         width: 1973
         height: 1033
         isCached: true
-  - title: "AVEVA introduces a smart app embedded with artificial intelligence to improve manufacturing and industrial operations in real-time"
-    excerpt: "Artificial Intelligence is Integrated into AVEVA System Platform for Unsupervised Detection of Operational Anomalies"
-    publishedDateTime: 2020-07-22T10:18:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/AVEVA_introduces_a_smart_app_embedded_with_artificial_intelligence_to_improve_manufacturing_and_industrial_operations_in_realtime-ZAWYA20200722094730/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200722094730/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200722094730/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 7
 
 secured: "Pyoqho/nGlhJJuzhurVhJ9Ijq/dv+ehKHhoPYDo3+T8++0COp3KddiYeSUkOCXTqKnZHQ8z99d8s9T2JMGU4/5zHXoLLliIflehV0/utG3C1oodNRxTb7w5LPt44wocwcW5GfRRjuKTlnb+lelWP49S+XYbXJDajMAl2QkobxB5IleDj+yskptHriXOuKZ5HSd7qBIAcx6o56CP5hGhjOpmiL5KoKtDsip6wV5W+Ch5vt0zVm0RI7xIa8F6jNkRLl4XVy3F0FUO0hds+guWc+rUD8iTD4TAogRUeHQHO2C8/zVxrk0ZGxDWg1LTtOoSPJ7R5FPuiznIvlVEoOfQ8uw==;tzjOjbt4NZQh1MiP3DaC8w=="
 ---

@@ -2,25 +2,43 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-07-15-frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-platform-dynamics.md",
-      "title": "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics",
-      "excerpt": "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,",
+      "path": "_news/2020-07-15-peacock-opens-wide-heres-whats-streaming-on-its-free-and-premium-tiers.md",
+      "title": "Peacock Opens Wide: Here’s What’s Streaming On Its Free And Premium Tiers",
+      "excerpt": "Peacock, the NBCUniversal streaming service that launched in April in Comcast homes, started expanding nationally overnight as Tuesday turned to Wednesday on the East Coast. Along with",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla",
+      "webUrl": "https://inside.com/premium?campaign_id=22107&list_id=6&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": null,
+      "heat": 131,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
+          "width": 530,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/16623858",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16623858",
-      "publishedDateTime": "2020-07-14T21:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T21:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Deadline.com",
+        "domain": "deadline.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -29,7 +47,6 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },

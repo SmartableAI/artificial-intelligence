@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T04:27:00Z
 webUrl: "https://www.bendbulletin.com/opinion/commentary-trumps-crackdown-in-portland-is-an-attack-on-free-speech/article_c04b79f4-cc45-11ea-a804-b7f8aa2045b9.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Trump’s crackdown in Portland is an attack on free speech"
-    excerpt: "Among these are questions about freedom of speech and use of the streets, or whether protesters have a right to occupy those streets. The federal government appears to believe they do not, moving to forcibly remove them in the name of public order."
-    publishedDateTime: 2020-07-22T10:11:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2020/07/22/trumps-crackdown-portland-is-an-attack-free-speech/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3QY6KSGLTAI6VGNQQQTOE3JAHM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Commentary: Trump’s crackdown on cities targets free speech"
     excerpt: "On Monday, President Trump announced plans to deploy Department of Homeland Security agents in Chicago as well as cities where protests against police brutality continue — Portland, Ore.; Philadelphia;"
     publishedDateTime: 2020-07-23T08:30:00Z

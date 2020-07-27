@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AVEVA introduces a smart app embedded with artificial intelligence to improve manufacturing and industrial operations in real-time"
-    excerpt: "Artificial Intelligence is Integrated into AVEVA System Platform for Unsupervised Detection of Operational Anomalies"
-    publishedDateTime: 2020-07-22T10:18:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/AVEVA_introduces_a_smart_app_embedded_with_artificial_intelligence_to_improve_manufacturing_and_industrial_operations_in_realtime-ZAWYA20200722094730/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200722094730/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200722094730/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 7
   - title: "UiPath Announces Integrations with Amazon Web Services to Allow Organizations to Modernize Customer Experiences and Scale Enterprise Productivity"
     excerpt: "UiPath, a leading enterprise Robotic Process Automation software company, today announced it has integrated its end-to-end platform for hyperautomation"
     publishedDateTime: 2020-07-22T12:37:00Z
