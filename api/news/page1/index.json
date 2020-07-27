@@ -2,6 +2,97 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-27-disinfectant-robots-tested-at-tokyo-train-station.md",
+      "title": "Disinfectant robots tested at Tokyo train station",
+      "excerpt": "A railway operator is testing disinfectant robots at a station in Tokyo to help prevent the spread of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20200727_22_864046_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20200727_22/amp.html",
+      "publishedDateTime": "2020-07-26T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-the-6-biggest-technology-trends-in-accounting-and-finance.md",
+      "title": "The 6 Biggest Technology Trends In Accounting And Finance",
+      "excerpt": "New technology, fueled by the explosion of data, is transforming business as well as accounting and finance functions and firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1e55e18ba283c9ad86684a%2F0x0.jpg",
+          "width": 1200,
+          "height": 804,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/07/27/the-6-biggest-technology-trends-in-accounting-and-finance/amp/",
+      "publishedDateTime": "2020-07-26T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-26-artificial-intelligence-loses-some-of-its-edginess-but-is-poised-to-take-off.md",
       "title": "Artificial Intelligence Loses Some Of Its Edginess, But Is Poised To Take Off",
       "excerpt": "As adoption becomes ubiquitous, AI-powered organizations may have to work harder to maintain an edge over their industry peers.'",
@@ -481,7 +572,7 @@
       "webUrl": "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -511,6 +602,46 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-25-artificial-intelligence-in-accounting-market-research-report.md",
+      "title": "Artificial Intelligence in Accounting Market Research Report",
+      "excerpt": "An informative data report titled Artificial Intelligence in Accounting Market was published by Primary and secondary research methodologies have been used by researchers to analyse the data effectively It throws light on industry key factors such as global clients",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2096670/artificial-intelligence-in-accounting-market-research-report",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/7/T725964590_g.jpg",
+          "width": 800,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report",
+      "publishedDateTime": "2020-07-24T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -852,7 +983,7 @@
       "title": "Tech Tent: Have we seen our AI future?",
       "excerpt": "On this week’s Tech Tent we find out what the big fuss is about something called GPT-3. OpenAI is a Californian company started in 2015 with a high-minded mission - to ensure that artificial general intelligence systems that could outperform humans in most jobs would benefit all humanity.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-53530454?at_campaign=64&",
+      "webUrl": "https://www.bbc.com/news/technology-53530454",
       "originalUrl": null,
       "featuredContent": null,
       "heat": 87,
@@ -901,10 +1032,10 @@
       "title": "Our Neanderthal DNA Might Get Triggered By AI, Initially Set Off By Self-Driving Cars",
       "excerpt": "Modern-day genetic hunters are using all the tricks of the trade-in conducting DNA analyses to possibly discover a fluke or some standout innate genomic characteristic that might account for the widespread differences in how people react upon COVID-19 exposure.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 80,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -942,6 +1073,7 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1032,146 +1164,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-a-journey-to-emotional-and-artificial-intelligence.md",
-      "title": "A Journey To Emotional (and Artificial) Intelligence",
-      "excerpt": "For Rana el Kaliouby, building her company and writing her book have been major steps on the journey to overcome self-doubt, reconcile cultures, and decode herself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1a024690b254e22055790c%2F0x0.jpg",
-          "width": 1200,
-          "height": 973,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-07-24T04:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
-      "title": "Machine learning: How embeddings make complex data simple",
-      "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/a1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
-      "publishedDateTime": "2020-07-23T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-this-cheap-coding-course-is-perfect-for-total-beginners.md",
-      "title": "This cheap coding course is perfect for total beginners",
-      "excerpt": "Beyond that, you'll learn the fundamentals of JavaScript, Java for Android, Swift, Tensorflow, React, and even dabble in Python. Whether you're 18 or 68, it never hurts to learn something new.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F07%252F24%252F49%252F8f2ae3e8f79748b2966621fd02a63c05.104e0.jpg%252F1200x630.jpg?signature=GX9ozoWEpRmOgCQTxJ5D24a4ksE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
-      "publishedDateTime": "2020-07-23T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
-    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
-    publishedDateTime: 2020-07-22T12:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-07-20?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Z8pD67uRr3+KZ2LeW1NCRggxQxe8bncUrXJvE5nwTHWLftaEU31wEDUZMtFfg7IWqQHBZnGxTdZWZs7bIbMtE9Z4BWdHHaEyIpk0BLAxkrB1fV5gQrUCi1yXEfJd/SFaRrcV688DlxijUAFqg6ZLxMGahdaBlRSy/X9kXRXSYhayxVgHB1pkv7YvCdAdih2u4TkqsvhfQP7k5jv7ZGBaphZw+XeCR/ODOUxo97QwDNT5OG1cOUu29E8kIDFMXhdMzXw3jcLID3V5N+6l78cL1uwJvKWazs9xvpPfy7pvmflV87u10U5kIWqSi4rxTa7+j3/5tGeEis58L98mOqKi0g==;v74mJFGsaAweyW6NufthRw=="
 ---

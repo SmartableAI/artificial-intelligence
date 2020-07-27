@@ -8,8 +8,8 @@ ampWebUrl: "https://www.openpr.com/amp/2096670/artificial-intelligence-in-accoun
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096670/artificial-intelligence-in-accounting-market-research-report"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: openpr.com
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Market: Quantitative Market Analysis, Current And Future Trends Apheresis 2017 to 2027"
+    excerpt: "XploreMR has published a new report on the global deep learning market titled ‘Deep Learning Market: Global Industry Analysis (2012 – 2016) & Forecast (2017 – 2027)’ and presented in-depth insights into the various market forces impacting revenue ..."
+    publishedDateTime: 2020-07-24T10:40:00Z
+    webUrl: "https://www.openpr.com/news/2096293/deep-learning-market-quantitative-market-analysis-current"
+    ampWebUrl: "https://www.openpr.com/amp/2096293/deep-learning-market-quantitative-market-analysis-current"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2096293/deep-learning-market-quantitative-market-analysis-current"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/T/7/T724513139_g.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Diabetes Management Market Research Report"
     publishedDateTime: 2020-07-23T18:46:00Z

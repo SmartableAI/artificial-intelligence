@@ -101,22 +101,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Fiat Chrysler, Waymo to put self-driving tech in Ram vans, other vehicles"
-    excerpt: "Fiat Chrysler Automobiles will place Waymo's self-driving car technology on its vehicles, including immediate plans for the Ram ProMaster van."
-    publishedDateTime: 2020-07-22T12:50:00Z
-    webUrl: "https://www.tennessean.com/story/money/cars/2020/07/22/fiat-chrysler-waymo-self-driving-cars-ram/5485167002/"
-    ampWebUrl: "https://amp.tennessean.com/amp/5485167002"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/5485167002"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 58
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/07/21/PDTF/a1fe0eb6-4dbb-4b59-a791-df85ea6c3cec-010817_naias_2017_rg_65.jpg?auto=webp&crop=2399,1349,x0,y122&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chrysler, Alphabet Arm Team for Self-Driving Car Contract"
     excerpt: "Jul 22, 2020 (Baystreet.ca via COMTEX) -- Fiat Chrysler (NYSE:FCAU) and Waymo have agreed on an exclusive deal to develop self-driving commercial"
     publishedDateTime: 2020-07-22T14:10:00Z

@@ -294,6 +294,47 @@
       ]
     },
     {
+      "path": "_news/2020-07-22-a-residual-based-deep-learning-approach-for-ghost-imaging.md",
+      "title": "A residual-based deep learning approach for ghost imaging",
+      "excerpt": "Ghost imaging using deep learning (GIDL) is a kind of computational quantum imaging method devised to improve the imaging efficiency. However, among most proposals of GIDL so far, the same set of random patterns were used in both the training and test set ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-020-69187-5",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-020-69187-5/MediaObjects/41598_2020_69187_Fig3_HTML.png",
+          "width": 685,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-22T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-22-tencent-and-chinese-scientists-use-deep-learning-to-predict-fatal-covid-19-cases.md",
       "title": "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases",
       "excerpt": "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%.",
@@ -1005,9 +1046,9 @@
     {
       "path": "_news/2020-07-17-wwt-named-partner-of-the-year-for-deep-learning-ai-by-nvidia.md",
       "title": "WWT Named Partner of the Year for Deep Learning AI by NVIDIA",
-      "excerpt": "World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the",
+      "excerpt": "ST. LOUIS--(BUSINESS WIRE)--World Wide Technology (WWT) today announced that it has been selected by the NVIDIA Partner Network (NPN) as the 2019 Deep Learning AI Partner of the Year for the Americas. This is the third year that WWT has been honored in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/WWT-Named-Partner-Year-Deep-Learning-AI",
+      "webUrl": "https://www.businesswire.com/news/home/20200717005015/en/",
       "originalUrl": null,
       "featuredContent": null,
       "heat": null,
@@ -1025,7 +1066,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-17T06:30:00-07:00",
+      "publishedDateTime": "2020-07-17T07:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Wire",
@@ -1040,8 +1081,7 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -1364,47 +1404,6 @@
       "provider": {
         "name": "TV Technology",
         "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
-      "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
-      "excerpt": "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/media/fe824bfb-2796-46db-84df-d3c016abf98d/medium/altair-knowledge-studios-wizard-will-select-all-models-but-t.PNG",
-          "width": 300,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-16T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

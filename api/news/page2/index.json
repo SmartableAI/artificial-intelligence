@@ -2,6 +2,146 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-24-a-journey-to-emotional-and-artificial-intelligence.md",
+      "title": "A Journey To Emotional (and Artificial) Intelligence",
+      "excerpt": "For Rana el Kaliouby, building her company and writing her book have been major steps on the journey to overcome self-doubt, reconcile cultures, and decode herself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1a024690b254e22055790c%2F0x0.jpg",
+          "width": 1200,
+          "height": 973,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisacohn/2020/07/24/a-journey-to-emotional-and-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-07-24T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-machine-learning-how-embeddings-make-complex-data-simple.md",
+      "title": "Machine learning: How embeddings make complex data simple",
+      "excerpt": "Working with non-numerical data can be tough, even for experienced data scientists. A typical machine learning model expects its features to be numbers, not words, emails, website pages ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/a1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/machine-learning-how-embeddings-make-complex-data-simple-syndication/amp/",
+      "publishedDateTime": "2020-07-23T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-24-this-cheap-coding-course-is-perfect-for-total-beginners.md",
+      "title": "This cheap coding course is perfect for total beginners",
+      "excerpt": "Beyond that, you'll learn the fundamentals of JavaScript, Java for Android, Swift, Tensorflow, React, and even dabble in Python. Whether you're 18 or 68, it never hurts to learn something new.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F07%252F24%252F49%252F8f2ae3e8f79748b2966621fd02a63c05.104e0.jpg%252F1200x630.jpg?signature=GX9ozoWEpRmOgCQTxJ5D24a4ksE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/july-24-coding-courses-on-sale.amp",
+      "publishedDateTime": "2020-07-23T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
       "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
       "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
@@ -237,56 +377,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence (AI) in Precision Medicine Market Size Historical Growth, Analysis, Opportunities and Forecast To 2025",
-      "excerpt": "Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020a??, the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25. Machine learning algorithms are used in healthcare institutions to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-23T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1105,105 +1195,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-developers-should-consider-using-graph-databases.md",
-      "title": "Developers should consider using graph databases",
-      "excerpt": "Twenty years ago, my development team built a natural language processing engine that scanned employment, auto, and real estate advertisements for searchable categories. I knew that we had a difficult data management challenge. The data in some ad types ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3567771/developers-should-consider-using-graph-databases.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/08/thinkstockphotos-509731276-100677664-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3567771/developers-should-consider-using-graph-databases.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3567771/developers-should-consider-using-graph-databases.amp.html",
-      "publishedDateTime": "2020-07-23T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-quantexa-raises-647-million-for-ai-platform-that-extracts-insights-from-big-data.md",
-      "title": "Quantexa raises $64.7 million for AI platform that extracts insights from big data",
-      "excerpt": "Quantexa uses AI tools to uncover risk and opportunities ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/95cc9fbd-7a4c-473e-9616-83dc4e071dd2-e1595264197627.png?w=1200&#038;strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/amp/",
-      "publishedDateTime": "2020-07-23T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

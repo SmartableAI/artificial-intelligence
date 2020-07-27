@@ -2,6 +2,147 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-07-14-global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025.md",
+      "title": "Global Vehicle Speech Recognition System Market 2020 Industry Research, Business Growth, Future Investment and Emerging Trend to 2025",
+      "excerpt": "MarketsandResearch.biz has announced a new report entitled Global Vehicle Speech Recognition System Market 2020",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-2020-industry-research-business-growth-future-investment-and-emerging-trend-to-2025-2020-07-14",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-bae-systems-mindful-technology-to-provide-transparency-and-build-user-trust-in-machine-learning-systems.md",
+      "title": "BAE Systems’ MindfuL Technology to Provide Transparency and Build User Trust in Machine Learning Systems",
+      "excerpt": "BAE Systems recently delivered software to the Defense Advanced Research Projects Agency (DARPA) as part of a contract under the agency’s Competency-Aware Machine Learning (CAML) program. The delivery of the MindfuL TM software is the first milestone in the program to improve the transparency of machine learning systems.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/9d9f2fd55aca4991af788bab7dbf9168",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-14T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-14-an-ex-googlers-new-robot-reimagines-the-future-of-home-automation.md",
+      "title": "An ex-Googler’s new robot reimagines the future of home automation",
+      "excerpt": "Stretch is not a consumer robot that’s ready to roll into your apartment and start doing the dishes, but rather a research platform that Edsinger and Kemp hope will lay the groundwork for home automation in the years to come.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-PmDXq435kQhWD4PExbF03KZkDk=/480x0/cdn.vox-cdn.com/uploads/chorus_asset/file/20082684/Hello_Robot_Stretch_Low.jpg",
+          "width": 480,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch",
+      "publishedDateTime": "2020-07-14T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning.md",
       "title": "AI Start-Up, Focused on Artificial General Intelligence, Demonstrates First Steps Toward Human Reasoning",
       "excerpt": "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated the first steps towards human",
@@ -1010,146 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent.md",
-      "title": "53% of enterprises spending more than $20 million a year on AI technology, talent",
-      "excerpt": "Among seasoned adopters, 68% have spent more than $20 million over the past year on AI, according to Deloitte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/07/09/123183af-a6a0-48bf-9891-86cdc7247104/ai-spending-2020.png",
-          "width": 658,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/",
-      "publishedDateTime": "2020-07-13T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud.md",
-      "title": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
-      "excerpt": "Frontline Systems' Analytic Solver® Empowers Excel Users to Create and Deploy Analytic Models to the Azure Cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-booyaaa-australian-federal-police-use-of-clearview-ai-detailed.md",
-      "title": "'Booyaaa': Australian Federal Police use of Clearview AI detailed",
-      "excerpt": "One staff member used the application on her personal phone, while another touted the success of the Clearview AI tool for matching a mug shot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/02/07/f9505b32-b5b7-444e-b118-26ef7aac0688/thumbnail/1200x675/464bc1c92770038b1e169494a5ca1b3d/istock-458668953.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/booyaaa-australian-federal-police-use-of-clearview-ai-detailed/",
-      "publishedDateTime": "2020-07-13T20:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

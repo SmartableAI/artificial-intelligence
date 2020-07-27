@@ -2,47 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-06-28-from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap.md",
-      "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-      "excerpt": "Twenty-eight-year-old Bharadwaj Karanth’s company, Suvidha Foods and Beverages, procures fruits and vegetables directly from farmers and processes them into chips and dry fruits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/6/29/w600X390/karanth094206.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "From PhD in AI to fruit chips company, youngster takes a big leap",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/good-news/2020/jun/28/from-phd-in-ai-to-fruit-chips-company-youngster-takes-a-big-leap-2162479.amp",
-      "publishedDateTime": "2020-06-27T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-06-26-covid-19-significant-shift-in-strategy-of-mobile-artificial-intelligence-market-2020-2024-increasing-use-of-ai-chip-enabled-mobile-devices.md",
       "title": "COVID-19: Significant Shift in Strategy of Mobile Artificial Intelligence Market 2020-2024 | Increasing Use of AI Chip-Enabled Mobile Devices to Augment Growth | Technavio",
       "excerpt": "Technavio has announced its latest market research report titled Global Mobile Artificial Intelligence Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--Technavio has been monitoring the mobile artificial intelligence market and it is poised to grow by USD 13.",
@@ -1349,6 +1308,56 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-djay-pro-uses-ai-to-turn-songs-into-acapellas-and-instrumentals-on-the-fly.md",
+      "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+      "excerpt": "Algoriddim leveraged AI for an update to its djay Pro software a couple years back, improving its Automix capability. It seems the company has been developing some more interesting uses since then with today’s launch of Neural Mix,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-06%2F6166e7f0-b0b3-11ea-befc-1b5b61691050&client=amp-blogside-v2&signature=2f23a148969e4a88bc23ffb15d74a859a99bc761",
+          "width": 600,
+          "height": 350,
+          "title": "Djay Pro uses AI to turn songs into acapellas and instrumentals on-the-fly",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/djay-pro-ai-machine-learning-neural-mix-isolate-audio-elements-on-the-fly-130014409.html",
+      "publishedDateTime": "2020-06-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
