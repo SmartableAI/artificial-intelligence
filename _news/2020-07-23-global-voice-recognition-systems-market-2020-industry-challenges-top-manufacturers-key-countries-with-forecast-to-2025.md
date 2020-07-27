@@ -39,6 +39,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 35
+  - title: "Apple's Patent-Pending invention for Face ID for Macs may be coming to market if hidden code in macOS Big Sur pans out"
+    excerpt: "Patently Apple posted a patent report titled \"Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more.\" The patent laid out the camera module providing Face ID technologies such light pattern recognition and a dot projector that will be used for unlocking computers along with capturing face gestures and emotions for Animojis and Memojis."
+    publishedDateTime: 2020-07-24T19:53:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/07/apples-patent-pending-invention-for-face-id-for-macs-may-be-coming-to-market-if-hidden-code-in-macos-big-sur-pans-out.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263ec29d5bb200c-600wi"
+        width: 600
+        height: 356
+        isCached: true
   - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
     excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
     publishedDateTime: 2020-07-27T09:13:00Z

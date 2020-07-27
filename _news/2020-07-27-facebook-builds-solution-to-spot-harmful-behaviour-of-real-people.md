@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-27T13:33:00Z
 webUrl: "https://www.sify.com/finance/facebook-builds-solution-to-spot-harmful-behaviour-of-real-people-news-topnews-uh1n4Cfjhjjjd.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+related:
+  - title: "Facebook Builds AI Tool To Identify Harmful Behavior of People"
+    excerpt: "The latest development can significantly improve software testing for complicated environments, specifically in areas related to privacy, safety and security"
+    publishedDateTime: 2020-07-27T14:20:00Z
+    webUrl: "https://www.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140"
+    ampWebUrl: "https://amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/facebook-builds-ai-tool-identify-harmful-behavior-people-49140"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 59
+    images:
+      - url: "https://data.ibtimes.sg/en/full/31511/artificial-intelligence.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
 
 secured: "ST7iNffJPSlR28prIfTWGBY1PhDvev1vpmHxHoy9HFx7DbeBuGopzCrjucMiLVlXHrul9PfdNGeTaCg73nDuTu7bnuDSyNjEywSgnGPj+GA7w9OPxhs6uGfwF/82SCkOoknd+I03wwxM0I2vy4phF8umGSs9/K31/VfzdsNYqRaF8VKzFsKh78wlJzU4S7UV0mlHJEq1u6Zt6mqOZnMIyDm2VMEvdQNbsUmeAw81KuFGyImfr/h97S40B+mP1UkW/e7EWrzEh1dEtkj4nWuDdDTdTZW+1A7FVych92vZcByFy4Vax6xnyUuMM6vZw8ZUWBYj2lAb+SPjk2NcZXD7hA==;toKF0V+THsGKwDlxZkzr6Q=="
 ---

@@ -2,33 +2,33 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-07-25-2020-macbook-rumors-facial-recognition-technology-unearthed-in-macos-big-sur-beta.md",
-      "title": "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta",
-      "excerpt": "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality.",
+      "path": "_news/2020-07-27-facial-recognition-style-artificial-intelligence-has-been-createdfor-birds.md",
+      "title": "Facial recognition style artificial intelligence has been created…for birds",
+      "excerpt": "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92% accurate – and will boost conservation efforts.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026",
+      "webUrl": "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1",
-      "publishedDateTime": "2020-07-25T03:40:00-07:00",
+      "ampWebUrl": "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/",
+      "publishedDateTime": "2020-07-26T23:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
+        "name": "Metro",
+        "domain": "metro.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -39,7 +39,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -93,36 +94,86 @@
       ]
     },
     {
-      "path": "_news/2020-07-23-facebook-will-pay-650-million-to-settle-facial-recognition-privacy-lawsuit.md",
-      "title": "Facebook will pay $650 million to settle facial recognition privacy lawsuit",
-      "excerpt": "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,",
+      "path": "_news/2020-07-23-new-york-legislature-votes-to-halt-facial-recognition-tech-in-schools-for-two-years.md",
+      "title": "New York legislature votes to halt facial recognition tech in schools for two years",
+      "excerpt": "The state of New York voted this week to pause any implementation of facial recognition technology in schools for two years. The moratorium, approved by the New York Assembly and Senate Wednesday, comes after an upstate school district adopted the technology earlier this year,",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html",
+      "webUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 137,
+      "heat": 113,
       "tags": null,
       "images": [
         {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57",
-          "width": 600,
-          "height": 350,
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1157932923.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
       "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html",
-      "publishedDateTime": "2020-07-23T12:29:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/",
+      "publishedDateTime": "2020-07-23T13:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-facebook-ordered-to-pay-650-million-in-facial-recognition-lawsuit.md",
+      "title": "Facebook ordered to pay $650 million in facial recognition lawsuit",
+      "excerpt": "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp",
+      "publishedDateTime": "2020-07-23T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1383,56 +1434,6 @@
         "AI",
         "AI Hardware",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-supermarket-chain-mercadona-faces-gdpr-probe-over-facial-recognition-system.md",
-      "title": "Supermarket chain Mercadona faces GDPR probe over facial recognition system",
-      "excerpt": "Spanish supermarket chain Mercadona is under investigation by the country’s data protection regulator over the use of a new facial recognition system in 40 of its stores. The company introduced the AI-powered facial recognition system on 2 July in the cities of Zaragoza and Mallorca,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 202,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1594717953/itpro/2020/07/shutterstock_mercadona_supermarket.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/policy-legislation/general-data-protection-regulation-gdpr/356436/supermarket-chain-mercadona-under?amp",
-      "publishedDateTime": "2020-07-14T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

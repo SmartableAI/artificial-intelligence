@@ -3,7 +3,7 @@ category: news
 title: "Etihad Airways strengthens work culture with Microsoft Teams, Power Apps, and Power BI"
 excerpt: "Etihad Airways needed a way to unite its diverse employee base. Standardizing on Microsoft Teams, Power Apps, and Power BI, the airline broke down regional and departmental silos. Citizen developers used Power Apps to build apps that reduced manual workloads."
 publishedDateTime: 2020-07-24T20:04:00Z
-webUrl: "https://www.microsoft.com/en-gb/microsoft-365/customer-stories/821087-etihad-airways-travel-and-transportation-teams"
+webUrl: "https://www.microsoft.com/hu-hu/microsoft-365/customer-stories/821087-etihad-airways-travel-and-transportation-teams"
 type: article
 quality: 46
 heat: 46
@@ -27,6 +27,6 @@ images:
     height: 400
     isCached: true
 
-secured: "0yePtxyYIWiOb0xH7gq8LQpGp9VuVPIpBfAKJXbJsnQb1DPB9Wq4polutSBCXEH73n5u/aYk9yPH1ofGs2x0jR2OR8/xxkABzc+C4i+jhsLk06aOa5fTcMZ2Q1cb8bNZGzDKWdqCoAulIgq1OXgOgb9ANBUNC3I2QtEOvQzzuFkJbdewDLXMi48W6xcAmDjW6a2RBjgQqx81oxbouSudg+PaE8VrD0W8xGtgu1+TxZ+g/mIHNlzpSk93SUu3z1xMEg7oBTmPf1PR/s9hqFSSOWwV0Do10ct5wEvunIncBgGa9CkyHCosS8zaArQD0XdGVInNScuzqNmQqHKd6UPw2g==;TZlQcTSs+RXbLkReZV732g=="
+secured: "QJHOb+DIZbLd6XlYm22Ylm11LLhohLmOJ8obIiahYrxhrwaNWC0bC9NPeixX8XImpwfS/ru36zl3/80Z1beD+agY/LYm1Xu7avGIWScJsSoL+ntGInBAukxp8WXeWpWbIKNNPwry2ESf9mlDr0ZCeiGObCiIp00vSSyTRQqJhzhMi3QEuiMlngqrIcRThjKOqjD8VJ7Qp3TPB4iwJSkVfDxUJoSIlDGQVr/9fCgHLjgjSycVmLgKw+4XhR/zpNQi9HN2A9RCm2EXxA13dbF1HPOCV4WJJNy3v+43C3ikyQSMbrXDFohl9jKOQiDcdt/bV2BXVT3Gh6zB0AO3BxG21w==;xCD0NJ6ER17H5ga7r4/heA=="
 ---
 

@@ -85,6 +85,20 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Artificial Intelligence to identify individual birds of a same species"
+    excerpt: "at Porto University** have for the very first time identified individual birds with the help of artificial intelligence technology. They have developed a technique that enables them to gather a large number of photographs, taken from various angles ..."
+    publishedDateTime: 2020-07-27T15:27:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/c-ait072720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/238553_web.jpg"
+        width: 720
+        height: 404
+        isCached: true
   - title: "Birdwatching AI can recognise individual birds from behind"
     excerpt: "Artificial intelligence that can recognise individual birds is being developed for biologists studying wild animals, but could also be adapted so that people can identify individual birds in their sur"
     publishedDateTime: 2020-07-27T04:19:00Z

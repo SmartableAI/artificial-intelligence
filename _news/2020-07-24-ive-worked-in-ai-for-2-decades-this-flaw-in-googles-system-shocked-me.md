@@ -3,7 +3,7 @@ category: news
 title: "I’ve worked in AI for 2 decades. This flaw in Google’s system shocked me"
 excerpt: "The Aible founder’s unsettling experience with Google’s advertising AI reveals the importance of ensuring there is human oversight of automated systems."
 publishedDateTime: 2020-07-24T11:00:00Z
-webUrl: "https://www.fastcompany.com/90531673/ive-worked-in-ai-for-2-decades-this-flaw-in-googles-system-shocked-me?partner=feedburner"
+webUrl: "https://www.fastcompany.com/90531673/ive-worked-in-ai-for-2-decades-this-flaw-in-googles-system-shocked-me"
 type: article
 quality: 38
 heat: 38
@@ -23,6 +23,6 @@ images:
     height: 768
     isCached: true
 
-secured: "sjxihXUoexzKvYpojGyMs7oTsoB6VGcxEr7l2Cq2aYFKnpRpoLuXTaDtYybVmn+oNzEYjAbpsevMmGdFITZtQ6KC2WQ9ERVC2KW05RUhXL3qXnyjbVMKFiOmVSRs+nV5gwdWlhcHhFVGATaV2QIASwC9YhmW6yj8OYE4c+rNEhLeKVI99Bo2Bs4wOlBmxDjGJPM3ugSpwt6gr+xoWq90hfwYYbJIcGGlGRRywc5gOwe3JyfqPjVLpnGyp12pxqo8++K/KpPk787vuDk5U/q1VtT0gKuxRK0rsAtqJjkjyvbfm4w2mWBCzpKA8+B4tRnzl9s1ykW37Xr3AP+MMCKEYw==;y/VabGVhTLwlwyJVybDFuQ=="
+secured: "PiKOtnscuNM2K6iAxrLb5dkQ53r/Ps0vDufypTs93jfNld0hO2PCd5HoxOU2FtjE6DCFgGCQ09Or1G3AMED4Rf3KZHXqV5SlGLSeyJhoZEuVknoROggB6dh6E2h0sF59rkIuTrCZSEu1+5Dejv+6nA1NvX9Y1cP7RqLsvQEAGjHzaThrQZu10t3yIEvVGYRqHJxVQEjCy9odzSEME4gdGC7UdgnGYWLlBtPtSY7zIS6U+vZeZ7MOU2xL7RD7hwadmadtVoUp4BBsENrtPlA1QhRwrao0pyal9Cv2nQ9V1JxCB1k0sYfPz97cQdKWjMvcDN2vw5y6X8vovCnojk2HRQ==;/0vfxI4SRsR1t00Z1PKj8g=="
 ---
 

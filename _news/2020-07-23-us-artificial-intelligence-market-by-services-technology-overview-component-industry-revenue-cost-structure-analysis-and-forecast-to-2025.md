@@ -53,6 +53,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 42
+  - title: "Personalis: Buy This Disruptor In Precision Medicine And Machine Learning"
+    excerpt: "Company's proprietary NeXT platform is a precision medicine and machine learning analytics platform that helps pharma companies develop new compounds tailored for each patient."
+    publishedDateTime: 2020-07-27T13:16:00Z
+    webUrl: "https://seekingalpha.com/article/4360959-personalis-buy-this-disruptor-in-precision-medicine-and-machine-learning"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 40
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/7/23/167303-1595492989003069_origin.png"
+        width: 1082
+        height: 632
+        isCached: true
 
 secured: "Z8pD67uRr3+KZ2LeW1NCRggxQxe8bncUrXJvE5nwTHWLftaEU31wEDUZMtFfg7IWqQHBZnGxTdZWZs7bIbMtE9Z4BWdHHaEyIpk0BLAxkrB1fV5gQrUCi1yXEfJd/SFaRrcV688DlxijUAFqg6ZLxMGahdaBlRSy/X9kXRXSYhayxVgHB1pkv7YvCdAdih2u4TkqsvhfQP7k5jv7ZGBaphZw+XeCR/ODOUxo97QwDNT5OG1cOUu29E8kIDFMXhdMzXw3jcLID3V5N+6l78cL1uwJvKWazs9xvpPfy7pvmflV87u10U5kIWqSi4rxTa7+j3/5tGeEis58L98mOqKi0g==;v74mJFGsaAweyW6NufthRw=="
 ---

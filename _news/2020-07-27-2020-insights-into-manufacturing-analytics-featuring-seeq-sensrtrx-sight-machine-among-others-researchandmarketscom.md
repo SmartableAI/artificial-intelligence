@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple's Patent-Pending invention for Face ID for Macs may be coming to market if hidden code in macOS Big Sur pans out"
+    excerpt: "Patently Apple posted a patent report titled \"Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more.\" The patent laid out the camera module providing Face ID technologies such light pattern recognition and a dot projector that will be used for unlocking computers along with capturing face gestures and emotions for Animojis and Memojis."
+    publishedDateTime: 2020-07-24T19:53:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/07/apples-patent-pending-invention-for-face-id-for-macs-may-be-coming-to-market-if-hidden-code-in-macos-big-sur-pans-out.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 0
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263ec29d5bb200c-600wi"
+        width: 600
+        height: 356
+        isCached: true
 
 secured: "GLHm8jhRQ2QFvdgS1mdaHHwPh0RFKafvoiMlygCXjpx4CUYecsRVMGxT2HuV9eOJ9Z1r4nKs9pDNiHMk1dgb2R2Bvfnye2KLhJo9Bm1K9es1QXku9lhBjb4V5aDwiB+YtmLG0hb7/4RsUZYSzDR0OHk/2FqDAlj1LNT/mh+GvLGI0Y2GBFCu/ZBJI6nS5PToTYcG2EN30RamXAv/DG/rhn/k38xQAaC8kqKIJyxwGOcYG+MWpKmy2NHPER4pvy4V0Mn5ge0dYQcmkU9YhDxo8vy6ywmcTSEvco7mC9dD8CmtVM4CQSSSN/uqS2gMj8htgVBIL/twD8ovO6pttsJXb6MXuVB5bNq5VSfRdqBCZXuLn1ozYPTySJu4zau4lpcnl7KujIjr5YWNFfFjjwudfKKSjCPq3ZvFzFxoCfX7TuugL4h6HvXBDCVVsLDzdMvWUfJ86fNkx61z4L3nUjJWcZ3mypZUG4r/5mKjxbwCIvTjLtHbLJjDmDum1jg99OX2RgGSUCtGDmTJ6oWmu3T6Lg==;x0OWaW6AHn9W0j/oZNbRlg=="
 ---

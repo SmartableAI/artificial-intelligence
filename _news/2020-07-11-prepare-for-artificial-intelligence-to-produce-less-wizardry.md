@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.wired.com/photos/5f0663989798446ce8080282/191:100/w_1280,c_limit/business_artificial-intelligence_687292162.jpg"
@@ -26,6 +27,6 @@ images:
     height: 670
     isCached: true
 
-secured: "D3HONMImo+3OGJICjPxa18VRTFTn3RsArUQ1P+zQIKXgXHup+q7uiTAymV/NP03n5aJtIyPLnpQJMVmU9MGNi2lZwjk2BnhMrCKtylOPg7/Yrmhu8dS6UIsGAU2gsloxqpvPWvXnjDO/4TDMyFfVPQnSqxekAADtjP6OeGNo4LhEBHA23tbp01+gfydkKaJaDGUg+Ui5uWvQferaaUMU+0A7ZNYnbws3yoXdsNoVeYfCHE1IgQBKPx30fFMQCi6YGT0Xm3scu2b9iiPqBQALbTYeWYTmKdCK05rj1hNQG5/O135A0rJw4XbMwZ0AjH6Gb3XHDKiJRxD4hwhUyO1/Wg==;05D+JbZ/SV29/0dkEy7pug=="
+secured: "ZpVlxasoCV1pt6IFqLpERQbTI6crC6lSrzizIGxNR7vBVGsC94lGGuilciHy5aj0BNAQBpIppa0sCGLHltgY4LYoBEkLYG3eQ3udTjDjZCNQxCCJEaY3ffc+CG4wUtkJn562AskM/aXgVRcH7QudbUq6zKzZ3O+P1UtPwGGGi26D/fhS8gDZNVZ85lXMM/66+97LiFrQDkKaKh3oEwfixmld+obY6JIby5kuaFGwuJqttrGFePn5V71D7Pl4slnov6r5fsmGDd6zGGyP+PiTyZNqQas6KTzIFMlipX9q5LhcphV76wlXeoatqjCotrR4tfhYvxbRs+78R4ruRVDf9wFkFsVRyGWGDi+EjlaoUBuoOhttO9fTkL/bADph+JeBhTVgvQ5ZQXHD0u9n3VzFtU7VBFDMDR5pYnThtEEkM67sCEI9G129mDeD6/8b3mPjFBkStBJtRVIR4lmBVOZ9spPmk/cGfY4WG9CjoHNU5kLzDWV62kjTqjCMTWAHlC2S;tdCGRZx6H0nF94Q8hWZH+w=="
 ---
 

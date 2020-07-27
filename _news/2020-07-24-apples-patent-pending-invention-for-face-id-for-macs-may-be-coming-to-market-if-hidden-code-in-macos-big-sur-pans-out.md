@@ -24,47 +24,42 @@ images:
     isCached: true
 
 related:
-  - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
-    excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
-    publishedDateTime: 2020-07-25T10:40:00Z
-    webUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026"
-    ampWebUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
+    publishedDateTime: 2020-07-23T06:19:00Z
+    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 53
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Global Voice Recognition Systems Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 21, 2020 (CDN Newswire via Comtex) -- Global Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth ..."
+    publishedDateTime: 2020-07-23T01:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-systems-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2025-2020-07-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Innovative Technology Launches Facial Recognition API for the Gaming Industry"
-    excerpt: "Innovative Technology (ITL) has released an online API alternative to their ICU Intelligent Identification device aimed at the growing online gaming market. ICU API will enable your website to perform facial recognition & age estimation."
-    publishedDateTime: 2020-07-22T22:38:00Z
-    webUrl: "https://www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22"
-    ampWebUrl: "https://www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22?amp"
-    cdnAmpWebUrl: "https://www-programmableweb-com.cdn.ampproject.org/c/s/www.programmableweb.com/news/innovative-technology-launches-facial-recognition-api-gaming-industry/announcement/2020/07/22?amp"
+  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
+    publishedDateTime: 2020-07-27T09:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
     type: article
     provider:
-      name: ProgrammableWeb
-      domain: programmableweb.com
-    quality: 36
-  - title: "Facial recognition technology: In our rush to deploy it, are we ignoring the risks?"
-    excerpt: "Taylor Swift uses it to identify stalkers. Retail stores are using it to provide a no-checkout, cashierless experience. Even churches are getting in on it to keep track of their congregants. Increasingly,"
-    publishedDateTime: 2020-07-23T19:41:00Z
-    webUrl: "https://cssh.northeastern.edu/informationethics/facial-recognition-technology-in-our-rush-to-deploy-it-are-we-ignoring-the-risks/"
-    type: article
-    provider:
-      name: Northeastern University
-      domain: northeastern.edu
-    quality: 33
-    images:
-      - url: "https://cssh.northeastern.edu/informationethics/wp-content/uploads/sites/44/2020/07/Screen-Shot-2020-07-17-at-2.13.52-PM.png"
-        width: 1488
-        height: 962
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "GcSEO8h3byct5fyn5GBC1VdQtToGSuA+j8bGg3mt7Sfn7aaXjYclCLVJacMx+oEqEgPYHpGF91ur6m2as/PrBm4eOhuO5QfQ5xU8SO/Ld6O2lHMNxL6hfMcIO1EIqDZ8CFX7Mf3QTWBu++cIzUHI4rv6Qh88Qk0GixGtp1BI62+f5jSJ1vqz6i7DZVVjjhlPOeE7Xwq81ekxfWkXpXIe99Gozfv7eHNN2uIdl96NMfv8OM1QL8112t8j46ez9S7BimGTvsW9Lv3soIWwtEqZY9OO+u24RKZ3DaAhifFu8Qb0bwnigXfFlo7VtsuqJaPSDazYRd28Wncy5f0z36R/bw==;pqPn0q5UrMeAsIveT6uwtQ=="
 ---

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "New York bans use of facial recognition in schools statewide"
-    excerpt: "New York state passed legislation that would ban the use of facial recognition in schools, if signed by Governor Andrew Cuomo."
-    publishedDateTime: 2020-07-22T21:23:00Z
-    webUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/"
-    ampWebUrl: "https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s1.reutersmedia.net_-e1579126395666.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 601
-        isCached: true
   - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
     excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
     publishedDateTime: 2020-07-23T16:49:00Z
@@ -88,53 +72,21 @@ related:
         width: 756
         height: 567
         isCached: true
-  - title: "New York legislature votes to halt facial recognition tech in schools for two years"
-    excerpt: "The state of New York voted this week to pause any implementation of facial recognition technology in schools for two years. The moratorium, approved by the New York Assembly and Senate Wednesday, comes after an upstate school district adopted the technology earlier this year,"
-    publishedDateTime: 2020-07-23T20:06:00Z
-    webUrl: "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/"
-    ampWebUrl: "https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/amp/"
+  - title: "Facebook will pay $650 million to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will now hand over a total of $650 million to settle a lawsuit over the company’s use of facial recognition technology. The social network added $100 million to its initial $550 million settlement,"
+    publishedDateTime: 2020-07-23T19:29:00Z
+    webUrl: "https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
+      name: Engadget
+      domain: engadget.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1157932923.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Facial Recognition Moratorium Awaits Gov. Cuomo’s Signature"
-    excerpt: "A bill that will temporarily ban facial recognition in New York state public schools just needs a signature from the governor. The bill comes a year after the Lockport School District proposed using the technology."
-    publishedDateTime: 2020-07-23T20:44:00Z
-    webUrl: "https://www.governing.com/security/Facial-Recognition-Moratorium-Awaits-Gov-Cuomos-Signature.html"
-    ampWebUrl: "https://www.governing.com/security/Facial-Recognition-Moratorium-Awaits-Gov-Cuomos-Signature.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/Facial-Recognition-Moratorium-Awaits-Gov-Cuomos-Signature.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 74
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_617755883.jpg"
-        width: 1057
-        height: 630
-        isCached: true
-  - title: "Facial recognition style artificial intelligence has been created…for birds"
-    excerpt: "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92% accurate – and will boost conservation efforts."
-    publishedDateTime: 2020-07-27T06:18:00Z
-    webUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/"
-    ampWebUrl: "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 74
-    images:
-      - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1"
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-07%2Fb0c98480-cd17-11ea-b7df-42d28b4fcd7a&client=amp-blogside-v2&signature=dc0d69e167c7cfbe47f3f01dc25d4fa863b96a57"
         width: 600
-        height: 337
+        height: 350
         isCached: true
   - title: "New York lawmakers vote to pause facial recognition in schools"
     excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
@@ -216,37 +168,37 @@ related:
         width: 344
         height: 250
         isCached: true
-  - title: "New York legislature bans use of facial recognition technology in schools"
-    excerpt: "New York's state legislature voted to pause the use of facial recognition at schools for two years. The moratorium, approved by both the state Assembly and Senate on Wednesday, follows an attempt ..."
-    publishedDateTime: 2020-07-23T22:51:00Z
-    webUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools"
-    ampWebUrl: "https://thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/508809-new-york-legislature-bans-use-of-facial-recognition-technology-in-schools?amp"
+  - title: "Facebook agrees to pay record $650M to settle facial recognition lawsuit"
+    excerpt: "Facebook has agreed to pay a record $650 million to settle an Illinois class-action lawsuit against the company's use of facial recognition technology, according to a new court filing. Continue Reading Below \"We are focused on settling as it is in the best ..."
+    publishedDateTime: 2020-07-24T17:01:00Z
+    webUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition"
+    ampWebUrl: "https://www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/facebook-650m-settlement-facial-recognition.amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Fox Business
+      domain: foxbusiness.com
     quality: 58
     images:
-      - url: "https://thehill.com/sites/default/files/facialrecognition2_getty.jpg"
-        width: 645
-        height: 363
+      - url: "http://media.foxbusiness.com/BrightCove/854081161001/202002/2373/854081161001_6133890425001_6133890195001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "New York state approves bill that bans facial recognition technology in schools"
-    excerpt: "The New York state legislature voted Wednesday to pause the use of facial recognition technology in schools until 2022.  Both the state Senate and"
-    publishedDateTime: 2020-07-23T21:50:00Z
-    webUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/"
-    ampWebUrl: "https://www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
-    cdnAmpWebUrl: "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/education-2/new-york-state-approves-bill-that-bans-facial-recognition-technology-in-schools/amp/"
+  - title: "Facebook adds $100 million to facial recognition settlement over tagged photos"
+    excerpt: "Facebook has agreed to up its settlement stemming from a facial recognition lawsuit by $100 million, making the total settlement now $650 million, according to a new report. The higher settlement comes a week after a California judge ruled that the initial ..."
+    publishedDateTime: 2020-07-24T17:45:00Z
+    webUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/"
+    ampWebUrl: "https://www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
+    cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition-settlement-650-million/?amp"
     type: article
     provider:
-      name: AM New York
-      domain: amny.com
+      name: The Daily Dot
+      domain: dailydot.com
     quality: 55
     images:
-      - url: "https://www.amny.com/wp-content/uploads/2020/06/GettyImages-1157932923-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.dailydot.com/wp-content/uploads/2020/07/facebook-money.jpg"
+        width: 2000
+        height: 1000
         isCached: true
   - title: "New York takes major step to keep facial recognition from being used on children"
     excerpt: "New York state legislatures passed companion bills that place a 2-year moratorium on facial recognition and other biometric surveillance use in schools."
@@ -280,36 +232,61 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
-    excerpt: "This project involves the installation of thousands of smart surveillance cameras with object and facial recognition features. The cameras were procured as part of a bundle that included an artificial intelligence system used to analyse the feed captured ..."
-    publishedDateTime: 2020-07-27T08:57:00Z
-    webUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/"
-    ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
-    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
+  - title: "2020 MacBook Rumors: Facial Recognition Technology Unearthed In macOS Big Sur Beta"
+    excerpt: "The macOS Big Sur beta was found to contain code pointing to the possible coming of high-end cameras in the next MacBooks and iMacs. The next macOS also hints at integrating iOS for broader use and functionality."
+    publishedDateTime: 2020-07-25T10:40:00Z
+    webUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026"
+    ampWebUrl: "https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026?amp=1"
     type: article
     provider:
-      name: Global Voices Online
-      domain: globalvoices.org
+      name: International Business Times
+      domain: ibtimes.com
     quality: 53
     images:
-      - url: "https://globalvoices.org/wp-content/uploads/2020/07/hiljadekamera-wp-13-800x367.jpg"
-        width: 800
-        height: 367
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/13-inch-macbook-pro.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Lockport school chief criticizes bill that would block facial recognition system"
-    excerpt: "Bradley said she is \"profoundly disappointed\" by the passage of a bill in Albany that would prevent the district from using its facial recognition security system. If Gov. Andrew M. Cuomo signs ..."
-    publishedDateTime: 2020-07-24T17:32:00Z
-    webUrl: "https://buffalonews.com/news/local/education/lockport-school-chief-criticizes-bill-that-would-block-facial-recognition-system/article_71ed8d20-cdc5-11ea-9b91-935a6d477634.html"
+  - title: "Facebook Agrees To Pay $650 Million As Part Of Lawsuit Over Facial Recognition Technology"
+    excerpt: "The lawsuit was originally filed in 2015 by three Illinois residents who alleged the social media giant violated the state's Biometric Information Privacy Act, which requires written consent for a company to collect facial recognition data."
+    publishedDateTime: 2020-07-24T17:15:00Z
+    webUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844"
+    ampWebUrl: "https://www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-agrees-pay-650-million-part-lawsuit-over-facial-recognition-technology-3016844?amp=1"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 50
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/07/21/facebook-placed-an-informational-disclaimer-on-a-post.jpg"
+        width: 1024
+        height: 700
+        isCached: true
+  - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
+    excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
+    publishedDateTime: 2020-07-23T22:50:00Z
+    webUrl: "https://www.law.com/therecorder/2020/07/23/judge-poised-to-approve-updated-650m-facebook-settlement-over-facial-recognition/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
     quality: 34
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/36/8366195e-0495-5406-83ec-cd45b9768ba8/5ef21c25a05d1.image.jpg?crop=1175%2C661%2C12%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2020/07/James-Donato-Article-202007231555.jpg"
+        width: 620
+        height: 372
         isCached: true
+  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
+    publishedDateTime: 2020-07-27T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "QThTTr4Cm7NoTLwfHwuuJ6bjZTqInM7Q9g9Vj2IUTjHql53lLD93jfFjZ++tuIcfkXqSYV57GXqPptfTOWEao6ZaXp6M/tNeYDPCnKN3g/BGz/YmRh170TflySi3FypGmHwbnKOBMHhiGEVaU5S1+BwV2ZACPGYzFk/0ovmnR6XQ8mVHXex7FIwHeJXsbZ8jw45JSDi3Zv4GDhxDx33j5VEb9BwEEmbVSh6G2lS30NP0zzVxqe7mV5/YbJzpy75eHunES7zx7D8uXJu42IQfBmDxSwPDDC2R9Z23AvVss7rjEtSJbJQi4HYRd6Bovabtd85ssCjnJSNkxpaUZQT5mw==;W23L9iUYnL+VaZU6hxExHQ=="
 ---

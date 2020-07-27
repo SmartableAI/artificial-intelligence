@@ -99,6 +99,20 @@ related:
         width: 2500
         height: 1875
         isCached: true
+  - title: "Artificial Intelligence to identify individual birds of a same species"
+    excerpt: "at Porto University** have for the very first time identified individual birds with the help of artificial intelligence technology. They have developed a technique that enables them to gather a large number of photographs, taken from various angles ..."
+    publishedDateTime: 2020-07-27T15:27:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-07/c-ait072720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/238553_web.jpg"
+        width: 720
+        height: 404
+        isCached: true
 
 secured: "7cfDP4dpfFLl3BKfAlGtJQ8kceraaJoaoceSfsKLYqZtplzY6X3AaDBjwafmaeFPs9epMOSxOOE2kPxUOzF/3dd0wtFkFkVSKWiEMI0gLNHrkbw1Ek1v34t516VDOVg00O0/23GMNYBi+EcM8hs34TnHXpvFF1CsoYVemtSl9FFtypt+9KHZ0eus8sxa4JOmGayzwRByPBZf5sZANtCpZSnRot1e7btUjJE4unxCg+P7miC4tHX3rHpX0k8K2r/WCZ2O5YgH/GDl5vsBWTJ+CVb+ap3byV0fp3+mfarIAQz6Az5DIEG0lhbM6RQOOHg5wH/100hg6GuXsSMUTGL5300EYcHBOm86hQAvRCPTGygCSY3+6r6vEjc2IkJ0XThnJH3Y14cIPB9B/jdJKFDe5Ic4oW8z6FecnwY+PznktDcN7NYyb6YX1QVaBWzMlv6S0nfbDP9QXuK5jf/R7+h69FWJCNxghts2K8oTpb+ABMF5xesJUbsTIEBPAu3BJFqil6aRJc9ZVoGPTKdQf25n+w==;NV3u97wAHO96I/JkZN0VsQ=="
 ---

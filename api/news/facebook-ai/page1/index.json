@@ -94,6 +94,48 @@
       ]
     },
     {
+      "path": "_news/2020-07-27-facial-recognition-style-artificial-intelligence-has-been-createdfor-birds.md",
+      "title": "Facial recognition style artificial intelligence has been created…for birds",
+      "excerpt": "Facial recognition style artificial intelligence has been created…for birds. It can tell individuals apart – which humans find impossible. The machine learning tool is up to 92% accurate – and will boost conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/amp/",
+      "publishedDateTime": "2020-07-26T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-26-artificial-intelligence-a-potent-weapon-against-covid-19.md",
       "title": "Artificial Intelligence: A Potent Weapon Against Covid-19",
       "excerpt": "The pandemic has ensured that AI has now evolved to the level of being Augmented Intelligence, helping humans in every segment and sector. With the knowledge and insights gathered from the Corona ...",
@@ -973,7 +1015,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1400,57 +1443,6 @@
       "topics": [
         "AI Ethics",
         "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-04-how-ai-can-empower-communities-and-strengthen-democracy.md",
-      "title": "How AI can empower communities and strengthen democracy",
-      "excerpt": "A look at AI projects and prototypes built with justice in mind to strengthen communities, improve democracies, and defend free societies and people.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/9-6-14_0217.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "How AI can empower communities and strengthen democracy",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/04/how-ai-can-empower-communities-and-strengthen-democracy/amp/",
-      "publishedDateTime": "2020-07-04T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
         "Facebook AI"
       ]
     }

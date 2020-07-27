@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://venturebeat.com/2020/07/27/mit-csail-employs-machine-learning-to-optimize-vaccine-designs/</loc>
+    <lastmod>2020-07-27T08:05:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/neilsahota/2020/07/27/will-ai-save-us-from-ourselves/</loc>
+    <lastmod>2020-07-27T07:18:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
     <lastmod>2020-07-27T06:31:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -55,6 +67,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://azure.microsoft.com/blog/aiming-for-more-than-just-net-zero/</loc>
+    <lastmod>2020-07-27T01:00:01-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece</loc>
     <lastmod>2020-07-27T00:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -63,6 +81,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27</loc>
     <lastmod>2020-07-27T00:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://metro.co.uk/2020/07/27/facial-recognition-style-artificial-intelligence-has-created-birds-13041853/</loc>
+    <lastmod>2020-07-26T23:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -135,12 +159,6 @@
   <url>
     <loc>https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html</loc>
     <lastmod>2020-07-25T06:23:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.ibtimes.com/2020-macbook-rumors-facial-recognition-technology-unearthed-macos-big-sur-beta-3017026</loc>
-    <lastmod>2020-07-25T03:40:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -277,8 +295,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.engadget.com/facebook-facial-recognition-lawsuit-650-million-191451396.html</loc>
-    <lastmod>2020-07-23T12:29:00-07:00</lastmod>
+    <loc>https://techcrunch.com/2020/07/23/new-york-facial-recognition-moratorium/</loc>
+    <lastmod>2020-07-23T13:06:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -315,6 +333,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/23/google-claims-its-ai-system-can-grade-prostate-cancer-samples-with-72-accuracy/</loc>
     <lastmod>2020-07-23T09:53:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/</loc>
+    <lastmod>2020-07-23T09:49:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2245,12 +2269,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html</loc>
-    <lastmod>2020-07-14T06:49:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech</loc>
     <lastmod>2020-07-14T06:39:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2259,6 +2277,12 @@
   <url>
     <loc>https://www.techrepublic.com/article/new-end-to-end-platform-uses-ai-and-distributed-tracing-to-secure-cloud-native-apps/</loc>
     <lastmod>2020-07-14T06:12:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning-301092990.html</loc>
+    <lastmod>2020-07-14T06:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2593,8 +2617,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.prnewswire.com/in/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-828476315.html</loc>
-    <lastmod>2020-07-13T01:43:00-07:00</lastmod>
+    <loc>https://www.prnewswire.com/news-releases/aureus-to-upgrade-e-discovery-solution-for-legal-profession-powered-by-microsoft-azure-301091851.html</loc>
+    <lastmod>2020-07-13T01:34:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

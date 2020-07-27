@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T19:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 42
+  - title: "Personalis: Buy This Disruptor In Precision Medicine And Machine Learning"
+    excerpt: "Company's proprietary NeXT platform is a precision medicine and machine learning analytics platform that helps pharma companies develop new compounds tailored for each patient."
+    publishedDateTime: 2020-07-27T13:16:00Z
+    webUrl: "https://seekingalpha.com/article/4360959-personalis-buy-this-disruptor-in-precision-medicine-and-machine-learning"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 40
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2020/7/23/167303-1595492989003069_origin.png"
+        width: 1082
+        height: 632
+        isCached: true
   - title: "US Artificial Intelligence Market by Services, Technology, Overview, Component, Industry Revenue, Cost Structure Analysis and Forecast to 2025"
     excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
     publishedDateTime: 2020-07-23T09:29:00Z
