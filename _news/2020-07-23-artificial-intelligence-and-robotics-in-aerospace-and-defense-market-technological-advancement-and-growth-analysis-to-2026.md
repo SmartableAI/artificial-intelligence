@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2095605/artificial-intelligence-and-robot
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095605/artificial-intelligence-and-robotics-in-aerospace-and-defense"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robotics Market 2020: Global Covid-19 Analysis by Current Industry Status, Growth Opportunities, Top Companies and Trends by Forecast to 2024"
+    excerpt: "The major players of the global robotics market are BOSTON DYNAMICS (US), Universal Robots A/S (Denmark), iROBOT Corporation (US), Nachi-Fujikoshi Corp (Jap"
+    publishedDateTime: 2020-07-27T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-global-covid-19-analysis-by-current-industry-status-growth-opportunities-top-companies-and-trends-by-forecast-to-2024-2020-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -20,41 +20,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
-    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
-    publishedDateTime: 2020-07-23T06:19:00Z
-    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+  - title: "Automating Multicloud Management Using AI, 2020 Report"
+    excerpt: "The \"Automating Multicloud Management Using AI\" report has been added to ResearchAndMarkets.com's offering. Increased adoption of multicloud"
+    publishedDateTime: 2020-07-27T21:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/automating-multicloud-management-using-ai-2020-report-301100426.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Agricultural Robots Market Worth $20.3 Billion by 2025 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Agricultural Robots Market with COVID-19 Impact Analysis by Offering Type (UAVs,"
-    publishedDateTime: 2020-07-25T23:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/n16602856/agricultural-robots-market-worth-20-3-billion-by-2025-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16602856"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16602856"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 12
-  - title: "Apple's Patent-Pending invention for Face ID for Macs may be coming to market if hidden code in macOS Big Sur pans out"
-    excerpt: "Patently Apple posted a patent report titled \"Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more.\" The patent laid out the camera module providing Face ID technologies such light pattern recognition and a dot projector that will be used for unlocking computers along with capturing face gestures and emotions for Animojis and Memojis."
-    publishedDateTime: 2020-07-24T19:53:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/07/apples-patent-pending-invention-for-face-id-for-macs-may-be-coming-to-market-if-hidden-code-in-macos-big-sur-pans-out.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 0
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
     images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0263ec29d5bb200c-600wi"
-        width: 600
-        height: 356
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "GLHm8jhRQ2QFvdgS1mdaHHwPh0RFKafvoiMlygCXjpx4CUYecsRVMGxT2HuV9eOJ9Z1r4nKs9pDNiHMk1dgb2R2Bvfnye2KLhJo9Bm1K9es1QXku9lhBjb4V5aDwiB+YtmLG0hb7/4RsUZYSzDR0OHk/2FqDAlj1LNT/mh+GvLGI0Y2GBFCu/ZBJI6nS5PToTYcG2EN30RamXAv/DG/rhn/k38xQAaC8kqKIJyxwGOcYG+MWpKmy2NHPER4pvy4V0Mn5ge0dYQcmkU9YhDxo8vy6ywmcTSEvco7mC9dD8CmtVM4CQSSSN/uqS2gMj8htgVBIL/twD8ovO6pttsJXb6MXuVB5bNq5VSfRdqBCZXuLn1ozYPTySJu4zau4lpcnl7KujIjr5YWNFfFjjwudfKKSjCPq3ZvFzFxoCfX7TuugL4h6HvXBDCVVsLDzdMvWUfJ86fNkx61z4L3nUjJWcZ3mypZUG4r/5mKjxbwCIvTjLtHbLJjDmDum1jg99OX2RgGSUCtGDmTJ6oWmu3T6Lg==;x0OWaW6AHn9W0j/oZNbRlg=="

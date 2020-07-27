@@ -46,17 +46,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 12
-  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
-    publishedDateTime: 2020-07-27T09:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "GcSEO8h3byct5fyn5GBC1VdQtToGSuA+j8bGg3mt7Sfn7aaXjYclCLVJacMx+oEqEgPYHpGF91ur6m2as/PrBm4eOhuO5QfQ5xU8SO/Ld6O2lHMNxL6hfMcIO1EIqDZ8CFX7Mf3QTWBu++cIzUHI4rv6Qh88Qk0GixGtp1BI62+f5jSJ1vqz6i7DZVVjjhlPOeE7Xwq81ekxfWkXpXIe99Gozfv7eHNN2uIdl96NMfv8OM1QL8112t8j46ez9S7BimGTvsW9Lv3soIWwtEqZY9OO+u24RKZ3DaAhifFu8Qb0bwnigXfFlo7VtsuqJaPSDazYRd28Wncy5f0z36R/bw==;pqPn0q5UrMeAsIveT6uwtQ=="
 ---

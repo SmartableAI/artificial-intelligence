@@ -8,7 +8,7 @@ ampWebUrl: "https://www.business2community.com/product-management/how-ai-is-tran
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/product-management/how-ai-is-transforming-global-supply-chain-management-02329487/amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 750
     height: 352
     isCached: true
-
-related:
-  - title: "Push is on for more artificial intelligence in supply chains"
-    excerpt: "The word on the street is that artificial intelligence efforts have not been delivering the impressive results everyone has been hoping for. The payoff, however, is likely to be found in well-targeted placements in which AI is handling, in real-time ..."
-    publishedDateTime: 2020-07-23T03:43:00Z
-    webUrl: "https://www.zdnet.com/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/push-is-on-for-more-artificial-intelligence-in-the-supply-chain/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 102
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/04/3cd4dc4c-450b-4b23-bc14-c6bfca2f43cf/thumbnail/1200x675/bef5ecfbcd3f707a7894abde7d72b053/data-center-nasa-photo-credit-nasa-office-of-the-cio.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "iLwSR0dLfTpD8I0FtyiM+duDFzbjK13atqHp4OB1A+S+tbk5cDtbIHiTJD1si6mYhWMEVBLmOqPycXLBagliouoUWxZwDIL0fHFBzQ6CviHELvCVCSKmdh8wGWp0ft5/4YEwmu7Ybg0JbNB5tMFE4jkl78Y3T7R4FzySa8BKnnQxpILG935Xig5RBtdLXRaqO50fK7Rk/4TpKfA8d+dMKkT72E1jS9jk75KdHr05Gfz97pgTd0wUJ/hlQ/A4SZr4tJXCFMA2nc2aPSUCNQtcnFb7UpXl4sJ+8HJmBBR4JEeBGZcZ/bqBfFQ+3OeMBydwn/0HVoIqiv9L0Pu2OKZqPg==;gW5fbMm9ZI7G3Fumr5p69A=="
 ---

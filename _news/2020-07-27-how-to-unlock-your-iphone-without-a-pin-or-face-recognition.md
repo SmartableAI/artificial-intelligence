@@ -3,13 +3,13 @@ category: news
 title: "How to unlock your iPhone without a PIN or face recognition"
 excerpt: "Wearing a mask can be a pain when trying to unlock an iPhone using Face ID. Here's how to unlock your iPhone without a PIN or face recognition."
 publishedDateTime: 2020-07-27T14:54:00Z
-webUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?itm_source=8&itm_content=1x6&itm_term=2361344"
+webUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/"
 ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-unlock-your-iphone-without-a-pin-or-face-recognition/?amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Digital Trends
@@ -22,7 +22,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
-secured: "Q/hSjJ45ohDTQRblJ3sPf9XC8aOStWADx3eIq5JJZfntpUjyqlZXUEPZknBPeW0t1Qdr5KBvnAAG6wNGHzuAft32jtSXZsvpiW8syEi/KC0zXK3pBCwEbmG1ja8T9EQaxP6jgU/ulXXXVrjiRo9Vqwxa7W0g3MbB7YtLydCUAeZO2bc2aUjnHno/MPi0GADE7w0s8Irj4FuvQIqBtjUf8U4vVLXd+KjGy4aXML7Hh0EIn5Sud8PV4rr8KvKZMGnfJJb4FDSiEXS+XyW3QxKGCNaY34RXXOuWNISgpDWO3Yq+a8Sz8o1M0/SEFk2evoYwHkiZWlLrXMbuUdGhg2T0Dk+J6ZhMFyjDA6ctrYZprB0AFAB/At+l8NCFEmBpJpNbQ3CBJpEc2OHbFbcA3DMpxbe3aKl+EIUnhouoNsTrnHPRYvI/3RzfbFVZvzQNYv7s1Qwb0tR+eMh8272BolG9KVKxF60rggx/Ofbf8XEEC0emSud3AApiKLGVDVzqGD8RNqKQTGe6En/OMqxNd6U2GA==;HulUpDwWjKEBfF77jIRCBQ=="
+secured: "EYi6rL+pgTFO91lXXo1NW9kjPVJMMnVwMxKzEy6K3oMTu9wAVwBBQrRRBfNAj0VUYR4vRvQPm35Vza/5am0EUQ1E3DxF378xlwXqWQDbW9ppD6PZgFIn/zTFmQ9uP7b7Rh1w3G13AF80FDTpWlwHFnoooxYeJw8/V/FgPNe+Bpw9VSjRyIi/3t4+2PdFBqRmnS5WeTG6P/j0KwR4/BrUXbQBygn2YGw8j7tayW+19IQ3vQaYJ5ZmnWcI8zBQvLbjllZTVLascbSqeMd0uRwHlqyFujT/wnIP0z7JDgNBDCDN564hiS+AEcxWaBEaJDn00UtbL5/K5vl9q3zOkDYa+bZ42nhLtJ7fluICm8JfXYKLOcptlJJX3TM2QQXe6xbbvVQ3Ki2YkYzM0C7sYWVBHUeHcog/fIFb2H5/cTrxxg8dHT/pbqGjFkxcQxIrgWouondy+rf7WHMPQChDEX/pSmIh9B8toAVTr+sNVY/XmH/IcyQJUp9mQ18Oe5zqmG1AE1IO+fJJ0uICF1k4FWZL8w==;m682bTlqs6JnJ3V24Ijpsg=="
 ---
 

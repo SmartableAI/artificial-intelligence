@@ -24,22 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk on Tesla Self-Driving: ‘I can almost go from my house to work with no intervention’"
-    excerpt: "Elon Musk said that he is testing Tesla’s latest alpha built of its self-driving system and claim that he can “almost” go from his house to work without intervention. Last year, Musk announced Tesla’s plan to deploy 1 million “Robotaxi” vehicles for a self-driving ride-sharing network by the end of 2020."
-    publishedDateTime: 2020-07-23T04:11:00Z
-    webUrl: "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/"
-    ampWebUrl: "https://electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/07/23/tesla-self-driving-elon-musk-house-to-work/amp/"
+  - title: "Why the complete version of Tesla Full Self-Driving will take longer than Elon Musk says it will"
+    excerpt: "Driving, or FSD, today for $8,000, but it's not feature complete. CNBC explores why the complete version of FSD has yet to be released."
+    publishedDateTime: 2020-07-25T13:23:00Z
+    webUrl: "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
+      name: CNBC
+      domain: cnbc.com
+    quality: 76
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
-        width: 2564
-        height: 1236
+      - url: "https://image.cnbcfm.com/api/v1/image/104243259-GettyImages-609781368.jpg?v=1532563927"
+        width: 4000
+        height: 2667
         isCached: true
+  - title: "Why Tesla Full Self-Driving and robotaxis are taking so long"
+    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis. But some say Musk's driverless dream is far from becoming a reality."
+    publishedDateTime: 2020-07-25T14:40:00Z
+    webUrl: "https://www.cnbc.com/video/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 69
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/104670924-GettyImages-492682160-autonomous-car.jpg?v=1581096145"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Video: Why Tesla's full self-driving feature is taking so long"
+    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis."
+    publishedDateTime: 2020-07-27T08:31:00Z
+    webUrl: "https://www.arabianbusiness.com/video/450116-video-why-teslas-full-self-driving-feature-is-taking-so-long"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "m4o2MCvWuW85yKWsGcJJmls0NSdpXAI6PDioxnIYafqxMgC1lo15EJT+9gXLHk1K84IOC/oY6gcJLTUVOw7gW7eiRIuXyHoLqOPL3dV7eImIYAZ93ThLXW2R0Zi9FcpnySRvNX83t4D2xKT9G/1fBsb421Q5LGurL+V1mof92oGQoAwlb93mniBb4podsU3KlTziyfZNfViJrTWXrGA5Y13AEGvjOdO8fGuGEA+H9Ibg6+v2osRQF47Tgv+rXUmY7MMgkTFik+x8gqRT+O8Vp4uaUFOySQtpz+6I9FEZKKjflz2Aq0bdgAMJlQTEz6KMjIi4BReY2KtbZrmiIVPYf3GL+iJ/RqNJovQwwPBEzOrJZIcZ1E+C066NISWJ/9oAmZXp+uA9uQ4TU1G6Sr19hKgTo6B281Y10RuETykpz5xLinmtyMHXzBEGXdY3prnh5tAe0o0cqTsePqbhz4+e3sHGO9eBf+ruYo5FiNmPUjsKKy8HgtzwG1QSKzOs0vs2;yd/q2Zyp1qt2KxUDs23xjg=="
 ---

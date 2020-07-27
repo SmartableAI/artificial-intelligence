@@ -48,6 +48,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "World's first fully self-driving car will be ready this year, Elon Musk claims"
+    excerpt: "Tesla CEO Elon Musk has said the electric car maker will have fully self-driving vehicles on the road by the end of the year. During an earnings call with investors on Wednesday, the serial entrepreneur revealed that he is already testing an updated ..."
+    publishedDateTime: 2020-07-23T14:36:00Z
+    webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/elon-musk-self-driving-tesla-artificial-intelligence-a9634311.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 35
+    images:
+      - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/07/23/14/tesla-self-driving-elon-musk.jpg"
+        width: 1202
+        height: 901
+        isCached: true
 
 secured: "qkx9bUJuvG+gRoifpup5gZpQQCq3vMsT2/BQxW1VEhCvYSzte7ssx/SEve+NzLEkTeMU2Qmf0DLrGFbtw4SRayqwcutfQD9RKXcuJLCg9ZuJxAc9SXMO4ShH4IGh13HggSf895KZSSgAJ9NzZOAh+jn26ZGptUROLBIfpZFpSee3FLYf0y3x1WHFd230BQG17MbGlUzH7yz9/NgBkjhvtzcSD6txk4W0xBmifO34Cy0DHFyRZVQoJfvlIO8HR/8+HUiBBorMJn29RghfMQhSIYPxNBcspRbubqKWsc+Q/5FXAJuLBsmsbWPUHECHvhtFckiV9nsp9gTcDcDVVcSsEUlX53cXMNKjfhEFPICgtrkBZF+z4+SBBBaVuA/x0UlWMxjFookbOoFybZ8epmLeE6wzw3nyf8CSLXfy1BCTsITMbp/xAEIN9z32bH081sXue+c0F+Mb6npIfiyzTwqf/tsnns5/NFu4e+F1zZFxsGjbrauvxS++sbXYyYRHKCPcFVPrgIPYZT0Dv6UGhs7qRA==;tfMtnRGic7QfufMGfKy+3Q=="
 ---

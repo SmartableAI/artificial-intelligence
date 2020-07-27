@@ -45,17 +45,6 @@ related:
         width: 600
         height: 356
         isCached: true
-  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
-    publishedDateTime: 2020-07-27T09:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "gJWNjV98T1sZ16ocvvwe4IfXKCIU9uokt5PmQ5Vf7dn6Rs/wD4EcmWE5aMuIKZH7kElnVvr0DnpqyvdYSukB5zMmkj+iT64jeLK+MhlVtFS08mPePrhGrIODkCgrkpX8or54CcQdZkw96i4gWb5Q8uFO6TNZaOPt3Scq+r0VoISge3RREEFK1m+v1yC+oVboU2EshxhNWV8CD2lHqqc/+/pXNF0/8czm6V+SBU0splqifOVOkcx3x2iD0uFRZ+w2VEP/nG/wkd51KE/+4sNTppC1RQu/4GZbIfiOX/LVgalAk7H16HCsSc08qlPxbhr12CJEFmo2nN4roXmjqvSkqnmaiRC0zHjlP5nQU2zLeqqXJvsdFORf3tWbdldvhNO19Zc7G7obI46g96wt02p2oIIrzDPi/9WXhEBsXi2rjZDFAFTSyyvo0trq1c0lQH1oIvSSwkAyiRqUc1mnh6BiADAhtkaEMpLutkmpluOvUAmApTaNDlANn5eYLHxZQphs;ZDyZI0t8Uw1vSIA/DXNghg=="
 ---

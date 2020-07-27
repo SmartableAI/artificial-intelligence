@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robotics Market 2020: Global Covid-19 Analysis by Current Industry Status, Growth Opportunities, Top Companies and Trends by Forecast to 2024"
+    excerpt: "The major players of the global robotics market are BOSTON DYNAMICS (US), Universal Robots A/S (Denmark), iROBOT Corporation (US), Nachi-Fujikoshi Corp (Jap"
+    publishedDateTime: 2020-07-27T21:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-2020-global-covid-19-analysis-by-current-industry-status-growth-opportunities-top-companies-and-trends-by-forecast-to-2024-2020-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "57.2% Growth Rate for Artificial Intelligence in Manufacturing Market by 2026 | Latest Innovation, Advance Technology, Top Companies"
     excerpt: "The report titled “Artificial Intelligence in Manufacturing Market” sheds a concentrated ... and handle big data and its applications in real-time speech translation, robotics, and facial analysis are fuelling its growth in the manufacturing market."
     publishedDateTime: 2020-07-23T09:30:00Z

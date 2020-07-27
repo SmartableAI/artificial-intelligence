@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/05/28/ab7c4fa5-c627-4cc5-b909-1b7edf72255b/resize/1200x900/61da627e58048bffe3cbbd70ae16edca/12.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
+    excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
+    publishedDateTime: 2020-07-27T21:43:00Z
+    webUrl: "https://www.cnet.com/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png"
+        width: 756
+        height: 567
         isCached: true
   - title: "Last Word: Time to reject facial recognition"
     excerpt: "... Moratorium Act announced this week would place a moratorium on federal law enforcement using facial recognition technology (as well as voice recognition software) until Congress passes a bill to lift the ban. Research has shown that facial recognition ..."

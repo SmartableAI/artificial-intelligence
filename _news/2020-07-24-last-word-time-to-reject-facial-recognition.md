@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Face masks are thwarting even the best facial recognition algorithms, study finds"
+    excerpt: "Researchers from NIST found that face masks are causing facial recognition algorithms to fail as frequently as 50% of the time."
+    publishedDateTime: 2020-07-27T21:43:00Z
+    webUrl: "https://www.cnet.com/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/face-masks-are-thwarting-even-the-best-facial-recognition-algorithms-study-finds/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/MXKfN-YizAVPgI2BlAXBDDUGEvY=/756x567/2020/07/27/440f5d19-a0fa-4cb1-ba2d-3d4555ab8581/nist-masks.png"
+        width: 756
+        height: 567
+        isCached: true
   - title: "Lawmakers pass facial recognition ban"
     excerpt: "ALBANY, N.Y. (WIVB) — The New York State Legislature is taking action against facial recognition technology being used in schools. It passed a bill which blocks the technology from being used for two years. Assembly member Monica Wallace sponsored the ..."
     publishedDateTime: 2020-07-23T12:49:00Z
