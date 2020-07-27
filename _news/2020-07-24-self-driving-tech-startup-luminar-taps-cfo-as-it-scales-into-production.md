@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fiat Chrysler, Waymo to put self-driving tech into vans"
+    excerpt: "Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ProMaster Vans ..."
+    publishedDateTime: 2020-07-24T23:08:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/300064787/fiat-chrysler-waymo-to-put-selfdriving-tech-into-vans"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/f/h/2/image.related.StuffLandscapeSixteenByNine.1420x800.4ynfgz.png/1595632028459.jpg"
+        width: 1420
+        height: 797
+        isCached: true
   - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
     excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
     publishedDateTime: 2020-07-23T11:01:00Z
@@ -35,6 +49,34 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 24
+  - title: "Ram vans to get self-driving makeover"
+    excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
+    publishedDateTime: 2020-07-26T07:35:00Z
+    webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 24
+    images:
+      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
+        width: 340
+        height: 246
+        isCached: true
+  - title: "Rimac using self-driving tech to develop track coaching"
+    excerpt: "Dubbed Rimac Driver Coach, the feature will help drivers who have the money to buy a supercar but lack the skills to get the most out of it on a track. The system acts as a \"guardian angel,\" allowing drivers to push the limits while still maintaining a safety net,"
+    publishedDateTime: 2020-07-26T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1128989_rimac-using-self-driving-tech-to-develop-track-coaching"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/kia-stinger-development-mule-for-rimac-driver-coach_100753485_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "uclU+zJHo+I+7m4mxeTv1dRA8wTeBr6Nkc6DbiRmJvQDQWRNPK9GK0E2gvBK363NyhgBVsg5AetwURmE9R8ILLjr+nhCl191AkVLbUS/fLyDijth+X1taARQSFCAvtol0sy+stDtjohKWrgnCesj9NivYKwuWXCUhmG/uEPO6c4H/MEAu/ZJHzbGYdGfuAXZh9Fk9u4iq81UTvMIz8Zd8GJ2AYrg/c1vXMOoq7x1J26QEVHIJRRIWkDn/e5F1EdT41sbpkOZzrJQZ+wFhJnEMKfpHkEgIRbGMYd3biuOq6DU3wJOSkogMPZBAD26GNtOJYXNxRkD6finr5XPl4GnFA==;xGXkLELFIEwAMEf/9dS/ZQ=="
 ---

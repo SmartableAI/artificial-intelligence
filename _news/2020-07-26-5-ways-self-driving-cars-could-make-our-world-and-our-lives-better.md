@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-26T12:59:00Z
 webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -26,50 +26,6 @@ images:
     width: 1158
     height: 720
     isCached: true
-
-related:
-  - title: "Fiat Chrysler, Waymo to create self-driving delivery vans"
-    excerpt: "Fiat Chrysler Automotive will be working with Google’s self-driving tech company, Waymo, to develop an autonomous delivery van. Continue Reading Below ELON MUSK SAYS TESLA ‘VERY CLOSE TO SELF-DRIVING CARS The announcement was made on Wednesday in Waymo ..."
-    publishedDateTime: 2020-07-23T00:39:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/fiat-chrysler-waymo-self-driving-delivery-vans"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Waymo-Fiat-Chrysler-LOGO.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fiat Chrysler, Waymo to put self-driving tech into vans"
-    excerpt: "Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ProMaster Vans ..."
-    publishedDateTime: 2020-07-24T23:08:00Z
-    webUrl: "https://www.stuff.co.nz/motoring/300064787/fiat-chrysler-waymo-to-put-selfdriving-tech-into-vans"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 39
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/n/f/h/2/image.related.StuffLandscapeSixteenByNine.1420x800.4ynfgz.png/1595632028459.jpg"
-        width: 1420
-        height: 797
-        isCached: true
-  - title: "Ram vans to get self-driving makeover"
-    excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
-    publishedDateTime: 2020-07-26T07:35:00Z
-    webUrl: "https://www.arkansasonline.com/news/2020/jul/26/ram-vans-to-get-self-driving-makeover/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 24
-    images:
-      - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
-        width: 340
-        height: 246
-        isCached: true
 
 secured: "+bB8GInJsew2TG3jBX2zmLyz1ISYPxVdHF8fXzo7pL1Cwkfp/Wkqzs+1ea8MEehhcfZWAoIUM5nl28c2Hlp8G3a+9dgG6Wsi35VYsAWLyMuq6ml1BfwO9jUa45QHwh94UPBGW6C3oJFW9gbg5RNsM97nQoIq+uvBunoXgl/e0DEVTIK5pOKPPsbq60K8OBBC1jST52CdfP9ZkFEQKiayu/60YNZxjR+IyWHc+BOMxIZdsB2IyDUjgB7/uKsLybwdsig1JiqtAXj6auNJn/r/hFuBKRAzfW8kodaepFpqBzR7Ee2LdVRIU6LFm9ujsrK3kPN4QEWwwIMgSnAeJQecGQ==;4AddaCqxEBr6iii3GQiNSA=="
 ---

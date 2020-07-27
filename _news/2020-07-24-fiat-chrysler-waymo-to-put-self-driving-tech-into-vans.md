@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T23:08:00Z
 webUrl: "https://www.stuff.co.nz/motoring/300064787/fiat-chrysler-waymo-to-put-selfdriving-tech-into-vans"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,33 +24,30 @@ images:
     isCached: true
 
 related:
-  - title: "Fiat Chrysler, Waymo to create self-driving delivery vans"
-    excerpt: "Fiat Chrysler Automotive will be working with Google’s self-driving tech company, Waymo, to develop an autonomous delivery van. Continue Reading Below ELON MUSK SAYS TESLA ‘VERY CLOSE TO SELF-DRIVING CARS The announcement was made on Wednesday in Waymo ..."
-    publishedDateTime: 2020-07-23T00:39:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/fiat-chrysler-waymo-self-driving-delivery-vans"
+  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
+    excerpt: "Self-driving sensor #startup #Luminar hires CFO as it scales up for production. #autotech #siliconvalley #autonomousvehicle #selfdriving"
+    publishedDateTime: 2020-07-23T11:01:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/07/23/luminar-technologies-hires-cfo.amp.html"
     type: article
     provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/07/0/0/Waymo-Fiat-Chrysler-LOGO.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
-    excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
-    publishedDateTime: 2020-07-26T12:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+  - title: "Self-driving tech startup Luminar taps CFO as it scales into production"
+    excerpt: "Luminar Technologies Inc., a prominent tech firm in Orlando, is staffing up key positions, including chief financial officer, as it prepares to begin shipping its self-driving sensor platform in the coming year."
+    publishedDateTime: 2020-07-24T20:22:00Z
+    webUrl: "https://www.wftv.com/news/local/self-driving-tech-startup-luminar-taps-cfo-it-scales-into-production/YEDS2ZOMEZF23HJRX2H2GGVWLQ/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: WFTV
+      domain: wftv.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjl8qn1-EZTA/article-cover_image-shrink_720_1280/0?e=1601510400&v=beta&t=dp_Ufk0YRawMkk9NQJyh0KddUF423Jk-MiyXrd3WQZc"
-        width: 1158
-        height: 720
+      - url: "https://www.wftv.com/resizer/9kJDlUhAE6KU9txoYzbd7_v7vC4=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/cmg/G3CRDHOT6FFV5GHRJFI7XD5SWM.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Ram vans to get self-driving makeover"
     excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
@@ -65,6 +62,20 @@ related:
       - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
         width: 340
         height: 246
+        isCached: true
+  - title: "Rimac using self-driving tech to develop track coaching"
+    excerpt: "Dubbed Rimac Driver Coach, the feature will help drivers who have the money to buy a supercar but lack the skills to get the most out of it on a track. The system acts as a \"guardian angel,\" allowing drivers to push the limits while still maintaining a safety net,"
+    publishedDateTime: 2020-07-26T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1128989_rimac-using-self-driving-tech-to-develop-track-coaching"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/kia-stinger-development-mule-for-rimac-driver-coach_100753485_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "Mal8GTrHQqo72KTfQqPHkRbKaeS6mKAcTmTTqkvinKI0kLZnoHneortx6rLOumIHzf5gHb9g/iCDSxgDp07YT7uuKIemarEL9gbTQBBx/YcpiUjH5uNjhnDlNWPgtP4ijFXVSwwqaGIBNlxFLXoDwDJq21JBaSS23j/NmEr3b859SpHkl8Qvr9JgfF9JIUqntjARFvXNBD/x59eTzPTuxtDWNmjvHHA3iJmSlY2JrHsuPkeFYB8ZDgH5OmJD/TJSt3fSVzka7bSW1T48rbffEkHqAM/5eH0fuRqI63kCF0MG+oMhQ7nc5FA7E5UxyMXQhkTDJPKmrbjBfC4K6/ESE1yyDDumLg6HuYSyKf+X2w1btRJRBgg/Ahym/T/D1lgJryOBB03WSDDTZoYx4PCpo11mKR6AfRMuYDJT95ygVfTwGc9XdGMVzlt46LbpluRhqVYwdP+dRjlZUyMKVSnUs2zo2GOrXHmiVZ+LZDAUyulSgZnB1dYesNQs8XllMS8JF7HSFteBNV1OUmuASQrhvA==;3h9gakuhS2p9SKxjuPdcSQ=="

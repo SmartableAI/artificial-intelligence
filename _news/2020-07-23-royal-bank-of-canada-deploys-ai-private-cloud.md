@@ -40,6 +40,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "Royal Bank of Canada, Borealis AI partner with Red Hat, NVIDIA on new AI computing platform"
+    excerpt: "RBC has developed its own cloud-based artificial intelligence computing platform upon which to create and maintain AI-powered banking applications."
+    publishedDateTime: 2020-07-23T18:47:00Z
+    webUrl: "https://betakit.com/royal-bank-of-canada-borealis-ai-partner-with-red-hat-nvidia-on-new-ai-computing-platform/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 29
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2020/07/RBC-1-1024x768.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Royal Bank and Borealis AI announce new AI private cloud platform"
     excerpt: "TORONTO — Royal Bank of Canada (RBC) and its AI research institute Borealis AI have partnered with enterprise software provider Red Hat and hardware and chip manufacturer NVIDIA to develop a new AI computing platform. RBC says it and Borealis AI set out ..."
     publishedDateTime: 2020-07-23T14:06:00Z

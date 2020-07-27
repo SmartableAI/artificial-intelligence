@@ -264,6 +264,20 @@ related:
         width: 1024
         height: 700
         isCached: true
+  - title: "N.Y. passes moratorium on use of facial recognition in education"
+    excerpt: "A moratorium on facial recognition in education may soon become a reality, as both chambers of the state legislature now have passed bills mandating a temporary ban, with the state senate passing the bill on Wednesday after the assembly passed its own bill on Tuesday."
+    publishedDateTime: 2020-07-27T17:23:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21147758/ny-passes-moratorium-on-use-of-facial-recognition-in-education"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/07/bigstock_Facial_Recognition_Security_Sy_295494367__1_.5f1f06deeaeb0.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Judge Poised to Approve Updated $650M Facebook Settlement Over Facial Recognition"
     excerpt: "U.S. District Judge James Donato of the Northern District of California Facebook and lawyers for the platform’s users stacked another $100 million on top of a proposed class action settlement over the social media company’s use of facial recognition ..."
     publishedDateTime: 2020-07-23T22:50:00Z

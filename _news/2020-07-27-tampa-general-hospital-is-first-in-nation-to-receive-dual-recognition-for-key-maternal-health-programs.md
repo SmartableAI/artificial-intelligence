@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Tampa General Hospital is First in Nation to Receive Dual Recognition for Key Maternal Health Programs"
-excerpt: "Tampa General Hospital is first in the nation to receive dual recognition for two key maternal health programs, providing women"
-publishedDateTime: 2020-07-27T13:44:00Z
-webUrl: "https://www.prnewswire.com/news-releases/tampa-general-hospital-is-first-in-nation-to-receive-dual-recognition-for-key-maternal-health-programs-301100229.html"
+excerpt: "July 27, 2020 /PRNewswire/ -- Tampa General Hospital is first in the nation to receive dual recognition for two key maternal health ... Women should have a voice and be able to share in the decision-making at delivery and that's why we have worked so ..."
+publishedDateTime: 2020-07-27T16:19:00Z
+webUrl: "https://stockhouse.com/news/press-releases/2020/07/27/tampa-general-hospital-is-first-in-nation-to-receive-dual-recognition-for-key"
 type: article
-quality: 8
-heat: 8
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/262001/tgh.jpg?p=facebook"
-    width: 1250
-    height: 654
-    isCached: true
-
-secured: "Hlf549oCsa/kl7xXdpAsKDOdYYo2IIYHi/WRG6E5rYybN58v40YUDZNSN64OVOh641sO0e2JRQMA8WhnKjfMn3rfxDZf8F3FKh3uysGLOamBx+Eudm8PtHLvSjxs8RzLgRCWi9GNSo6rfppEZO6o1fyO0k6OFX9gI+d+lm3B+xvzvJ2Xwk7QISTGc/h5vaU0cyWRnrAkO23Qg15045TDYHtBNo654waAzlEGjzagtbwpSgnfTG1QN2frfR4sQ8pXR1QmeG60kTLwAVH9PnKxwPYMaKIoaQfgUtJ25UzAm9hBQcwfk9RarDnzJVppPSp3ia5KnaC+9Tk9JTii1jmayfSyqQghtq4EGB1uzEDxbMrJDzn+ONxROZSyNLNAou5rTKv0bTNqYlrob9GhKAcocFPYgbFpzcrmO8kW12Mt+kT6gJdMcUmyPF+MBR6iDxLc8CmmmRp6keP8Up7XWHsALF+yu+BQdaidZrf00GtiH1JaNqvnsGQ6lUcbGOn3sFSOqkbRAmHLdrnRW5qiFeSpyg==;jjH7kA+niWSo+NtvICft+Q=="
+secured: "oIBA0ypMJIObz5lvQqkDI0B9r1VR1GVSKC5eKBeXt+w0DDPTzewbbQvvvng4M8m0uXxmSjrHGo54Wbi+h1exrsOlJklE87zXHGLfgJfNKAx941nOSl3fzqFFMtWvEuXLjvEo63jMd4KqvX33zpfiOGkbE8JEXzJpQGvFbywSwnAH2gX1phE0OfC8lIRJHDdjQc7FHpIMuIoMKuS0J56Kb/XPTb6AJTwvvO3eafOo8sVljpE8iGI/395261nlakqfGDaBmZCbGVEDaXsK93S1dPydTyBkkQ8JgA63+Q4U3fERguIyGpuQJvtnF+kevEW3Kdhev5pyU/pjIu4FGa8c8A==;M+x/0BtDNdu4EPOG5AwhRg=="
 ---
 

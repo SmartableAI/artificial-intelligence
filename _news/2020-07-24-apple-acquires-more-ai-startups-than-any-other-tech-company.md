@@ -8,7 +8,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/353773"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/353773"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "VC Daily: AI Startup Aims to Prevent Wildfires; Biotech Startup SmartPharm Therapeutics Acquired; Lidar Startup Taps New CFO"
+    excerpt: "While Silicon Valley churns out one startup innovation after another, the vast majority don’t have immediate potential to save lives."
+    publishedDateTime: 2020-07-27T16:40:00Z
+    webUrl: "https://www.wsj.com/articles/vc-daily-ai-startup-aims-to-prevent-wildfires-biotech-startup-smartpharm-therapeutics-acquired-lidar-startup-taps-new-cfo-11595855531"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 40
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Apple Acquires More AI Startup Than Other Tech Companies"
     excerpt: "Apple has made 20 acquisitions since the 2010 purchase of Siri, and most center on artificial intelligence. These purchases include Novauris Technologies and Voysis to improve speech recognition of its voice assistant platform,"
     publishedDateTime: 2020-07-24T14:42:00Z

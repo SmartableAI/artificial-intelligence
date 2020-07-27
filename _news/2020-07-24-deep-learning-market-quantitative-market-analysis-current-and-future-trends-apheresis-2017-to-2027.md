@@ -56,17 +56,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Diabetes Management Market Research Report"
-    publishedDateTime: 2020-07-23T18:46:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/07/g16757674/artificial-intelligence-in-diabetes-management-market-research-report-by-device-global-forecast-to"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/16757674"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16757674"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "pCx70wPNpEOpM9pHRLcROWkL43uIygNG5l4BNl8OkfSGs2x2234m736H813evJyNL4H3yF3h+ff+/VnhbcLlbBk/xnND57yQc6m9dxMIuBoALWNYbgC1NbReS5Ea2wBcs5lNFIfMKNdWQEz83RSDYJ4xTwCpB5i2fevw/yw8LBHLH30UakBlMj12/3EucwTE0DUVcBJLF7vpBDUDPNREjWbkrijnuAkwSXzuMWG84ZeZ38uvHrjoCh8E8MI9jzUFSShkxJWzHKb+pWYt8lP9jhwJqaJpQjwfkAu1DTHk6ateyfJP5PevIWsucO+LjTLP/61lk3FIrQmqm6LSnMyJ9g==;bCEju7LOv+DL7a5nX4F74w=="
 ---

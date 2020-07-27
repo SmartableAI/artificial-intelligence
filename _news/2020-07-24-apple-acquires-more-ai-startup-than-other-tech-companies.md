@@ -33,6 +33,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "VC Daily: AI Startup Aims to Prevent Wildfires; Biotech Startup SmartPharm Therapeutics Acquired; Lidar Startup Taps New CFO"
+    excerpt: "While Silicon Valley churns out one startup innovation after another, the vast majority don’t have immediate potential to save lives."
+    publishedDateTime: 2020-07-27T16:40:00Z
+    webUrl: "https://www.wsj.com/articles/vc-daily-ai-startup-aims-to-prevent-wildfires-biotech-startup-smartpharm-therapeutics-acquired-lidar-startup-taps-new-cfo-11595855531"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 40
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "VMzvIKDVSTKDrgh4SWS92izZekieHB5twGK7cQEz1lwjDRhtGwZ5nd6Baw2kfYsVWr9x93FjsIg0Vi95AEkYwYz9QAdlwm0Myfodv0TYZBMKODkdsUfxEmE5uzmULxWiqeSwxmZSR2OEh6TjVXDstsVItr4CKYMXGOHeRnoxK3VmT/SZEnfI7aM8CqQmCzn7jOvaFG0E89FzfuQxgWSzCLqvwtniQw2ktFBwW6FUgWnFJL3kJuQmATiWHyAwn538OwlK8MQmLHDuzZXg0UkSmdJgpMGVGLdkYmmyZGlby19/vs6nbvbFFmQMocabnabRWDM9OnxKGsyp5m17UKbyDg==;MLmOT/Nx0U/rCvrR7yei3Q=="
 ---

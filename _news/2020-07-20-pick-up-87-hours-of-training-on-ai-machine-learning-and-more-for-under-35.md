@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/07/sale_29690_article_image-100851817-large.3x2.jpg"
