@@ -7,8 +7,8 @@ webUrl: "https://www.crowdfundinsider.com/2020/07/164468-artificial-intelligence
 ampWebUrl: "https://www.crowdfundinsider.com/2020/07/164468-artificial-intelligence-royal-bank-of-canada-shifts-apps-under-development-at-ai-reserach-unit-borealis-ai-to-private-cloud-platform/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/07/164468-artificial-intelligence-royal-bank-of-canada-shifts-apps-under-development-at-ai-reserach-unit-borealis-ai-to-private-cloud-platform/amp/"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Canada-300x225.jpeg"

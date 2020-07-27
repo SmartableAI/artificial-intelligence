@@ -23,6 +23,38 @@ images:
     isCached: true
 
 related:
+  - title: "This AI tool can identify individual birds with 90% accuracy"
+    excerpt: "Luckily for them, a new AI tool can do the tricky task for them — and potentially offer new insights into bird behaviors. Scientists first trained the AI on labeled images of wild great tits and ..."
+    publishedDateTime: 2020-07-27T13:31:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-27T135305.160-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Robot can identify birds with around 90 per cent accuracy"
+    excerpt: "The technology was trained using pictures of wild great tits and sociable weavers (pictured), as well as captive zebra finches."
+    publishedDateTime: 2020-07-27T04:07:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-8562983/Robot-identify-birds-90-cent-accuracy.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-8562983/amp/Robot-identify-birds-90-cent-accuracy.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-8562983/amp/Robot-identify-birds-90-cent-accuracy.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 59
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2020/07/27/01/31230338-0-image-a-38_1595811222501.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Researchers build first AI tool capable of identifying individual birds"
     excerpt: "New research demonstrates for the first time that artificial intelligence (AI) can be used to train computers to recognize individual birds, a task humans are unable to do. The research is published in the British Ecological Society journal Methods in Ecology and Evolution."
     publishedDateTime: 2020-07-27T07:18:00Z
@@ -52,22 +84,6 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/7be45f3/f470d7ef-6800-4fcc-bab3-b282f392de30/4/bird-370x229.jpg"
         width: 370
         height: 229
-        isCached: true
-  - title: "AI software which recognises individual birds could boost conservation efforts, researchers say"
-    excerpt: "Birds could be spared the stressful process of identification tagging after researchers developed facial recognition software which can recognise individual birds, something humans are unable to do.|  Individual recognition of animals is one of the most expensive and time-consuming problems in research,"
-    publishedDateTime: 2020-07-27T05:18:00Z
-    webUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/"
-    ampWebUrl: "https://www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/07/27/ai-software-recognises-individual-birds-could-boost-conservation/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 47
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/news/2020/07/26/TELEMMGLPICT000000856081_trans_NvBQzQNjv4Bqqe94gVf5fwATDoCZ63F3bFnimEKN_wSPya1OD16I6gM.jpeg"
-        width: 2501
-        height: 1563
         isCached: true
   - title: "AI used to train computers to recognise individual birds for first time"
     excerpt: "Computers can be trained by artificial intelligence to recognise birds on an individual level, a new study has demonstrated. Researchers collected thousands of labelled images of birds and then used the data to train and test artificial intelligence (AI) models,"

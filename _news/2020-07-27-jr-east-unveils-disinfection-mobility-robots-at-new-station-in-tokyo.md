@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Robots Tested On Ability To Clean Tokyo Station"
+    excerpt: "Disinfectant robots were tested and revealed on Monday for the first time at Tokyo's Takanawa Gateway Station amid the coronavirus outbreak."
+    publishedDateTime: 2020-07-27T12:38:00Z
+    webUrl: "https://www.republicworld.com/world-news/rest-of-the-world-news/robots-tested-on-ability-to-clean-tokyo-station.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 39
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/3gdwis8bmyqlz1de_1595853070.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
 
 secured: "la4fsRv6pfofsMQJMgkTv0FgvGwENuLVHEJ8iOms1Ni7X779dL5Tlg5/rka5imAOc7qeHsqQdEM1BzrIqn2thjgPqbd30UGSmJCiqiqzJ7kHTtpX+cVyf5RNCL4i5e3LU+tn8LoebP64rhV1ICFYt5Z2Umeo+C/eRCgLovWjn0x+dmvDB41YM3D/ZoYi5y49wcNESB2VvUGvuu09MKKolQO757jx/F2usbpTlDM+/5IlthXrdtvKIMEX2hS7LlStjDgjYXcT0e6fa09LfLmVNQYe8UPt2OebeWzUggMjAutCjiEA7cgJhWPo2m1NKEuwRtVIubPsk14nKq8q0LQFWw==;A24BtYo51QY83iwjwUmKXQ=="
 ---

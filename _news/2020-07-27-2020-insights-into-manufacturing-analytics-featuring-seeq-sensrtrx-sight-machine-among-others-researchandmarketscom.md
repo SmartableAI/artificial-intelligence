@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market by Technology, Deployment, Enterprise, Industry Type, and Region - Global Forecast to 2026"
-    excerpt: "Cognitive Computing Market by Technology Deployment Enterprise Industry Type and Region ndash Global Forecast to 2026"
-    publishedDateTime: 2020-07-22T19:08:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/265859144/cognitive-computing-market-by-technology-deployment-enterprise-industry-type-and-region---global-forecast-to-2026"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 1
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1595361904.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "GLHm8jhRQ2QFvdgS1mdaHHwPh0RFKafvoiMlygCXjpx4CUYecsRVMGxT2HuV9eOJ9Z1r4nKs9pDNiHMk1dgb2R2Bvfnye2KLhJo9Bm1K9es1QXku9lhBjb4V5aDwiB+YtmLG0hb7/4RsUZYSzDR0OHk/2FqDAlj1LNT/mh+GvLGI0Y2GBFCu/ZBJI6nS5PToTYcG2EN30RamXAv/DG/rhn/k38xQAaC8kqKIJyxwGOcYG+MWpKmy2NHPER4pvy4V0Mn5ge0dYQcmkU9YhDxo8vy6ywmcTSEvco7mC9dD8CmtVM4CQSSSN/uqS2gMj8htgVBIL/twD8ovO6pttsJXb6MXuVB5bNq5VSfRdqBCZXuLn1ozYPTySJu4zau4lpcnl7KujIjr5YWNFfFjjwudfKKSjCPq3ZvFzFxoCfX7TuugL4h6HvXBDCVVsLDzdMvWUfJ86fNkx61z4L3nUjJWcZ3mypZUG4r/5mKjxbwCIvTjLtHbLJjDmDum1jg99OX2RgGSUCtGDmTJ6oWmu3T6Lg==;x0OWaW6AHn9W0j/oZNbRlg=="
 ---

@@ -22,6 +22,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Hardware
 
 related:
   - title: "Nvidia And University Of Florida Supercharge Education With AI Supercomputer"

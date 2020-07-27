@@ -3,12 +3,12 @@ category: news
 title: "Facebook’s ‘Red Team’ Hacks Its Own AI Programs"
 excerpt: "Attackers increasingly try to confuse and bypass machine-learning systems. So the companies that deploy them are getting creative."
 publishedDateTime: 2020-07-27T11:00:00Z
-webUrl: "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs"
+webUrl: "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/"
 ampWebUrl: "https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebooks-red-team-hacks-ai-programs/amp"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -28,6 +29,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "bpLMCV4qmTKJnq5IDb1zTl7tGvtXIBf/RFEPfFDmQsvkDGMBzJpjeDHBGhoaNSbFhRK3Hw9Mln7moU8EbiaCsBSzITkzKfWAJapdgtTxq6BBV13QX6JQEipd+CAMcHysBqxDlajBYAQkKlUvd46T40cHnkmK1Am/VvyecjuBvDbg0BA+FfzSAMsJo7c4FyWcic0weeBf1w3BfNianPCd2oAdFxkFlmnRWlX0lxO44VKt+JpycLoF4zwvWL/mS2TObfM5pL3TavwvK1YzTVLf8QPj/FNfZoLDwYldO2GIoT1fVkhd6IPUNEH6mEiT8QNM+OGNcjOmYXuOlN3vPW8OuA==;e+b7jgDJHFywWyKW5o7Kow=="
+secured: "JFNt3v+J5PlyqgG2FXSmfmEqJchmDu0Fur5TlD3JGye4q/b94yQ/ppL0k4HQKodMp92Pic5b0XJ6xCQ9nYr3wGlcMLPI8Dj62KkQUK/d5+uLHiNnPx9MmTPDWpC5QGqIy3AsDnT6bq6rq7wK4uLL/KqLQe9lrp5j/NbmnuRXa7JCvZccAGZfn64vXwbyfOM5GOFxAiFhS7wx+SSnvy53hBErET52XZdwfJLWZ60ROiY9PaftEnj6CejowI0uU5m5TsSPuvlRI3H8qQpr804I+D1pvAmeW5uZOSqTAA0n8eB44YwhTGdHK+VeKHMpXuQGKYE06/gswLX2axcymxXcfA==;JAptcm7Qn0V2xmzciYacvw=="
 ---
 

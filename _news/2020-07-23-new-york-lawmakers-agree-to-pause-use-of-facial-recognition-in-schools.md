@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 601
         isCached: true
+  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
+    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
+    publishedDateTime: 2020-07-23T16:49:00Z
+    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
+    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 89
+    images:
+      - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Sens. Sanders, Warren, Wyden back national facial recognition ban bill"
     excerpt: "A new scorecard shows which members of Congress support the Facial Recognition and Biometric Technology Moratorium Act."
     publishedDateTime: 2020-07-23T19:12:00Z
@@ -109,33 +125,6 @@ related:
       - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1"
         width: 600
         height: 337
-        isCached: true
-  - title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
-    excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
-    publishedDateTime: 2020-07-23T16:49:00Z
-    webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=25&itm_content=2x2&itm_term=2356592"
-    ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-  - title: "New York State pauses use of facial recognition systems in schools"
-    excerpt: "The decision comes a month after the New York Civil Liberties Union filed a lawsuit targeting facial recognition technology to be used at the Lockport City Schools."
-    publishedDateTime: 2020-07-22T20:26:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-state-pauses-use-of-facial-recognition-systems-in-schools/71-2bcf5d7d-c683-4679-932b-718f3538aeab"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-pauses-use-of-facial-recognition-systems-in-schools/71-2bcf5d7d-c683-4679-932b-718f3538aeab"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-pauses-use-of-facial-recognition-systems-in-schools/71-2bcf5d7d-c683-4679-932b-718f3538aeab"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 59
-    images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "New York lawmakers vote to pause facial recognition in schools"
     excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."

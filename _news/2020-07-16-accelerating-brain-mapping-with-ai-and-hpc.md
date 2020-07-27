@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/07/neural-network-100852010-large.jpg"

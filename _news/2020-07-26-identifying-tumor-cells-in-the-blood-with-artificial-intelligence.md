@@ -7,8 +7,8 @@ webUrl: "https://www.labroots.com/trending/cancer/18223/identifying-tumor-cells-
 ampWebUrl: "https://www.labroots.com/trending/cancer/18223/identifying-tumor-cells-blood-artificial-intelligence/amp"
 cdnAmpWebUrl: "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/cancer/18223/identifying-tumor-cells-blood-artificial-intelligence/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://assets.labroots.com/_public/_files/system/ck/trending/machine%20learning%20TNBC%20article%20image_cb405ef6943400d8e7d5bddc77255151.jpg"

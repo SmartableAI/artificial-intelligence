@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T00:39:00Z
 webUrl: "https://www.foxbusiness.com/lifestyle/fiat-chrysler-waymo-self-driving-delivery-vans"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ram ProMaster Vans Will Test Waymo's Self-Driving Technology for Commercial Use"
-    excerpt: "The road to autonomous driving is an extremely long journey. While some companies are going it alone, FCA has decided teaming up with Waymo is the best way to bring Level 4 self-driving to its lineup. This means that, when the technology is ready ..."
-    publishedDateTime: 2020-07-22T21:02:00Z
-    webUrl: "https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/"
-    ampWebUrl: "https://www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/"
-    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 55
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ram-promaster-mmp-1-1593097917.jpg?crop=0.667xw:0.686xh;0.176xw,0.187xh&resize=1200:*"
-        width: 960
-        height: 480
-        isCached: true
   - title: "Fiat Chrysler, Waymo to put self-driving tech into vans"
     excerpt: "Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ProMaster Vans ..."
     publishedDateTime: 2020-07-24T23:08:00Z
@@ -54,6 +38,20 @@ related:
         width: 1420
         height: 797
         isCached: true
+  - title: "5 Ways Self-Driving Cars Could Make Our World (And Our Lives) Better"
+    excerpt: "With more than 40 companies actively investing in autonomous vehicle technology, it’s fair to say that most traditional car manufacturers – plus the odd tech heavyweight, like Google parent company Alphabet – are busy chasing the self-driving car dream."
+    publishedDateTime: 2020-07-26T12:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/5-ways-self-driving-cars-could-make-our-world-lives-better-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFjl8qn1-EZTA/article-cover_image-shrink_720_1280/0?e=1601510400&v=beta&t=dp_Ufk0YRawMkk9NQJyh0KddUF423Jk-MiyXrd3WQZc"
+        width: 1158
+        height: 720
+        isCached: true
   - title: "Ram vans to get self-driving makeover"
     excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
     publishedDateTime: 2020-07-26T07:31:00Z
@@ -67,20 +65,6 @@ related:
       - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
         width: 340
         height: 246
-        isCached: true
-  - title: "Rimac using self-driving tech to develop track coaching"
-    excerpt: "Dubbed Rimac Driver Coach, the feature will help drivers who have the money to buy a supercar but lack the skills to get the most out of it on a track. The system acts as a \"guardian angel,\" allowing drivers to push the limits while still maintaining a safety net,"
-    publishedDateTime: 2020-07-26T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1128989_rimac-using-self-driving-tech-to-develop-track-coaching"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/kia-stinger-development-mule-for-rimac-driver-coach_100753485_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "XlfjqSYuaiYkmFv/yOcNUFEb8UcEW7WNsc8hQIF/9P5T2ZFQgsJA6GWv1g0Wphu+K+MyJLnB9bo+1cPV//680P93wfMJfxQAKdcgOgcQ+tm9Ko1k3UTTKeSYXjkGNOt5oX1Oaabmyni+naI/uylWA0g7eysmtnnYjC/DgesHK2fXtPPuSeiPFu2LRijTSjmlCzG0P1yYDzrOXGInhY4TZeJ7D+9d/1b96k1cF8Qto1yAARZBPZx7w+wEXrafV2FwHPyxVvFAY7VGT0ri5djFGb3o9je1Ql0mvwiPry8AO1yEomnbR/+rQn6dxLQTp6jUjxh2O1FZVjZRhsjR7Hyhr/y/Zz/WPgU4eFVj6NqrsLto5vAWv4JCdTmJH6JSfw4HJMYQ16EpQ8nFXrQ6vya+u+TkX4oJz9fwdA8GGohmVPdCHT3NLVZ1fGJ6mcFmO4V9+s5VZ5FQu7htF7MVkHrkQhtz0ylvfUU+1x+2HMUuobctcEsHoufC9QPseS8zlyl5bjENeL6Su4UioWVA0ERK/w==;ppjaNItfwQ4l6zT0+bPEaA=="

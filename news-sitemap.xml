@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.wired.com/story/facebooks-red-team-hacks-ai-programs</loc>
+    <loc>https://thenextweb.com/neural/2020/07/27/this-ai-tool-can-identify-individual-birds-with-90-accuracy/</loc>
+    <lastmod>2020-07-27T06:31:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.businesstoday.in/current/economy-politics/ai-can-add-25-to-gdp-with-policy-push-investment-nasscom/story/411198.html</loc>
+    <lastmod>2020-07-27T06:10:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/07/27/12-ways-machine-learning-can-revamp-your-sales-process/</loc>
+    <lastmod>2020-07-27T05:15:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.benzinga.com/pressreleases/20/07/g16786243/pluralsight-to-help-machine-learning-enthusiasts-skill-up-with-aws-deepracer</loc>
+    <lastmod>2020-07-27T05:03:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.wired.com/story/facebooks-red-team-hacks-ai-programs/</loc>
     <lastmod>2020-07-27T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -33,12 +57,6 @@
   <url>
     <loc>https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece</loc>
     <lastmod>2020-07-27T00:50:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://phys.org/news/2020-07-ai-tool-capable-individual-birds.html</loc>
-    <lastmod>2020-07-27T00:18:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -157,6 +175,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://aws.amazon.com/blogs/machine-learning/processing-pdf-documents-with-a-human-loop-using-amazon-textract-and-amazon-augmented-ai/</loc>
+    <lastmod>2020-07-24T12:24:58-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.techrepublic.com/article/higher-ed-institutions-are-using-otters-ai-technology-to-transfer-lectures-into-notes/</loc>
     <lastmod>2020-07-24T11:13:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -169,19 +193,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://aws.amazon.com/blogs/machine-learning/setting-up-human-review-of-your-nlp-based-entity-recognition-models-with-amazon-sagemaker-ground-truth-amazon-comprehend-and-amazon-a2i/</loc>
-    <lastmod>2020-07-24T09:11:38-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.bbc.com/news/technology-53530454?at_campaign=64&amp;</loc>
+    <loc>https://www.bbc.com/news/technology-53530454</loc>
     <lastmod>2020-07-24T09:08:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars/</loc>
+    <loc>https://www.forbes.com/sites/lanceeliot/2020/07/24/our-neanderthal-dna-might-get-triggered-by-ai-initially-set-off-by-self-driving-cars</loc>
     <lastmod>2020-07-24T08:59:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -212,6 +230,12 @@
   </url>
   <url>
     <loc>https://www.zdnet.com/article/azure-synapse-analytics-a-progress-report/</loc>
+    <lastmod>2020-07-24T06:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.prnewswire.com/news-releases/tangent-works-predictive-analytics-now-available-in-the-microsoft-azure-marketplace-301099420.html</loc>
     <lastmod>2020-07-24T06:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -715,6 +739,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://gcn.com/whitepapers/2020/07/ibm-watson-providing-ai-solutions-to-government-072120.aspx?tc=page0</loc>
+    <lastmod>2020-07-21T11:33:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/21/researchers-propose-game-based-benchmark-for-ais-common-sense-reasoning/</loc>
     <lastmod>2020-07-21T10:47:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -1047,6 +1077,12 @@
   <url>
     <loc>https://www.marketwatch.com/press-release/neural-network-software-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20</loc>
     <lastmod>2020-07-19T23:21:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/edge-ai-market-growth-by-manufacturers-type-and-application-forecast-to-2026-2020-07-20</loc>
+    <lastmod>2020-07-19T22:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1387,7 +1423,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://qz.com/africa/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
+    <loc>https://qz.com/1881656/the-poetic-process-powering-machine-translation-in-namibia/</loc>
     <lastmod>2020-07-17T01:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
@@ -2119,7 +2155,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14</loc>
+    <loc>https://www.marketwatch.com/story/mr-roboto-and-artificial-intelligence-are-social-distancing-winners-2020-07-14?mod=exchange-traded-funds</loc>
     <lastmod>2020-07-14T11:28:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

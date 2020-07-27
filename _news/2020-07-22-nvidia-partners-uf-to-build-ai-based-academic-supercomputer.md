@@ -18,6 +18,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 secured: "xtZX2W7MzaMKQA/FFSPNQG3zIBDFXwj25TzYWTVroQ/GT8LNSYayKl6fchKisu5nXZjrxc6A6cPIwUh9yo42m7xdOHXFFCHQQpykr0fexcQT62SUlPyXgBvlGmSG6w1IqA5wnOszHJUjopLWcdOesAqqdSaF7S/S9nyVmxcg6DDvhzIIUOaXHLthqEuUt48J1O+3mLb5fd64bIB/UiffLUIYZtZJnnUVTw4pWrXHst/6rkiIzcq/uzKyNSOsQxIO1swhAM2oTXNjulnaM5pJY+UV21x7lsTZudlBFZ9yajrKa90DWUAjEvFwL1BLn40SY03R21nX5gi2HdvwOvhpYQ==;ZhoOTgIUdGI5EoN44fAlLw=="
 ---

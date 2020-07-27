@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2020/aiupscalesap.jpg"

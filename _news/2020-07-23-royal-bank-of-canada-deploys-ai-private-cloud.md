@@ -34,7 +34,7 @@ related:
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Canada-300x225.jpeg"
         width: 300

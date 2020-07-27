@@ -3,11 +3,11 @@ category: news
 title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
 excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
 publishedDateTime: 2020-07-23T16:49:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=25&itm_content=2x2&itm_term=2356592"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "New York bans use of facial recognition in schools statewide"
@@ -119,22 +125,6 @@ related:
       - url: "https://i1.wp.com/metro.co.uk/wp-content/uploads/2020/07/PRI_159293120.jpg?quality=90&strip=all&zoom=1&resize=600%2C337&ssl=1"
         width: 600
         height: 337
-        isCached: true
-  - title: "New York State pauses use of facial recognition systems in schools"
-    excerpt: "The decision comes a month after the New York Civil Liberties Union filed a lawsuit targeting facial recognition technology to be used at the Lockport City Schools."
-    publishedDateTime: 2020-07-22T20:26:00Z
-    webUrl: "https://www.wgrz.com/article/news/education/new-york-state-pauses-use-of-facial-recognition-systems-in-schools/71-2bcf5d7d-c683-4679-932b-718f3538aeab"
-    ampWebUrl: "https://www.wgrz.com/amp/article/news/education/new-york-state-pauses-use-of-facial-recognition-systems-in-schools/71-2bcf5d7d-c683-4679-932b-718f3538aeab"
-    cdnAmpWebUrl: "https://www-wgrz-com.cdn.ampproject.org/c/s/www.wgrz.com/amp/article/news/education/new-york-state-pauses-use-of-facial-recognition-systems-in-schools/71-2bcf5d7d-c683-4679-932b-718f3538aeab"
-    type: article
-    provider:
-      name: WGRZ
-      domain: wgrz.com
-    quality: 59
-    images:
-      - url: "https://media.wgrz.com/assets/WGRZ/images/471e47c5-7cde-4629-8b4a-2cdfd62b7e53/471e47c5-7cde-4629-8b4a-2cdfd62b7e53_750x422.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "New York lawmakers vote to pause facial recognition in schools"
     excerpt: "The New York Legislature has passed a two-year moratorium on the use of facial recognition in schools. The ban approved by the House and Senate on Wednesday follows an upstate district’s adoption of the technology as part of its security plans and a ..."
@@ -325,6 +315,6 @@ related:
         height: 630
         isCached: true
 
-secured: "9C7Nd/qHW5HrBF5hulxL7x6HVi5tFrmB4GnZIi8g/V1eHsRi7+VuIehSAyihJo8vY0zUpRuHgYxGmK/OJ2MSMPL9dJWe6IKJQKZARwUA4iUpnM5XhEqynRUZqtuj8bLZqZbdsoalkt0mUauZNhjcjTjZMk7UV4dMheUKssiQ+k4ulFUPclkBXSyxZ7faczjAa0gvlJNOzx0SbT0o/Zp+kQ2hN7v7bl3b96l1+6vE+MhmXOJRcjfn3rVuc1nhyV54HAG7Ug9RjEsSKAcTXDjr0l4Th1JB9H7ipx4KeWsRB6C16fmYglqlAME7gSqAp9XxjrNZfyrHUaofzXU4NJWqTBms0F7tFKFxtsBb/crqi+IentyBGaS8aM7lKJbZ6y+Atsc285cLFZmZ4qC2VdzIvqVJh5RH2yYpNHS7zTEJHHRE3yvBin74cCS97TxW/3pWvUAXUm7roxt8sLBr/1H6ZHVGD0HW9v7ONyMn6RWb/WNu83BLkhCUjoCdjUklsr0tgGXGZ3OcMaT8U7RK0iJKJg==;JoCF3Zb2L1+OHv+Ud0mKpw=="
+secured: "hHZIn4QSkpCb52jSks+UHkNCTQHIslu0xWJWEaYpFxnybEhofS3RgjBV2IJyYYf+aA/J5OvjWoWH7tbenqlnSAuZftiA8t0TEwkBA0pRxSSTGcmxxBCshLB1I+3IEGsIopNQCpYP/9V03Xp0mph1lRRx4CvqThPtYDRfl8x6+MfP0TuC+Rgdqc8sM8Bo3kw5hdXhTalu857e7EUrusniIQuCck6Cgrj/uZEEMdubJAT7st8LjSDDYUHVNBJsgg4pN3NFDbDO3kPFei9weUD2SCzilseM84ydt943kfB9P/IiATgmcRBJDVyxSpBE4nd3uCjeqAWj4k3jIXOKLXfo1Q==;1HwF0/R0SISc78+vJBEslg=="
 ---
 
