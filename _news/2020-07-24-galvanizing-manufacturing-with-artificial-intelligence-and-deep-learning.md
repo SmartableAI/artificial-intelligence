@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
 type: article
 quality: 66
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -23,32 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
-    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
-    publishedDateTime: 2020-07-23T06:19:00Z
-    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+  - title: "Learn Machine Learning and AI – Online Training Program @ 93% OFF"
+    excerpt: "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification."
+    publishedDateTime: 2020-07-27T09:06:00Z
+    webUrl: "https://thehackernews.com/2020/07/artificial-intelligence-training.html"
+    ampWebUrl: "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1"
+    cdnAmpWebUrl: "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
-  - title: "Machine Learning In Manufacturing Market Global Outlook 2020-2026: Dell Inc., Oracle Corporation, SAP SE, Amazon Web Services Inc"
-    excerpt: "The Global Machine Learning In Manufacturing Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and ..."
-    publishedDateTime: 2020-07-23T10:41:00Z
-    webUrl: "https://www.openpr.com/news/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: The Hacker News
+      domain: thehackernews.com
+    quality: 74
     images:
-      - url: "https://cdn.openpr.com/T/7/T723138481_g.jpg"
-        width: 409
-        height: 400
+      - url: "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg"
+        width: 728
+        height: 380
         isCached: true
 
 secured: "Bdmsm07aSoLmj3euYVWK89Jbh4o333P124AlZInLnJtjipKqrb+7p8IoA+/OWJFh+dfjKbg3oDjX9+qNCn1h0vdfZGIC1jxIuUYWVNSz917M8puPYsiYlaf8l+lnYy3V5TiniXXkRlK2IyJpcNc9GUculxryeZslCVSsIS8HHZ+EkUY2i/Y268Soa9Em3LJfb2vVDAQt1sncMChFt5LO46mR7I4xYt1fPdChDAr2dA8YPyeI5ayPuMg2OWzkIp+ba8tvVD4lOH5xsymgoWid6Uru0HNfozViFRkpE6jV3QuZ8EYP+j46+KWeQmtypMeQK/B2pI9D9LMIxGlGbQkJLw==;Hh+L8KxUjkoE5IKPQnxQ+A=="

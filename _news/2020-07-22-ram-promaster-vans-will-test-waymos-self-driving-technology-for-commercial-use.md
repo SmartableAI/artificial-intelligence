@@ -8,8 +8,8 @@ ampWebUrl: "https://www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaste
 cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp33395020/waymo-fca-ram-promaster-self-driving/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Car and Driver
@@ -26,38 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo and Fiat Chrysler Agree to Build Self-Driving Delivery Vans"
-    excerpt: "Fiat Chrysler Automobiles and Waymo said that they will work together to develop and build a series of self-driving commercial vans, the two companies announced in a statement on"
-    publishedDateTime: 2020-07-22T15:36:00Z
-    webUrl: "https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 89
-    images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F583253%2Fram-promaster-2018-orange.jpg&w=1200&op=resize"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Waymo partners with Fiat Chrysler (FCA) to make self-driving Ram vans"
-    excerpt: "FCA also plans to use the self-driving tech across its brands. Autonomous vehicle development firm Waymo and Fiat Chrysler Automobiles have been working together for a while now. Waymo's pilot program vans are based on the Chrysler Pacifica minivan ..."
-    publishedDateTime: 2020-07-22T15:46:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-fiat-chrysler-fca-partnership-autonomous-self-driving-ram-van-commercial-vehicles/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-fiat-chrysler-fca-partnership-autonomous-self-driving-ram-van-commercial-vehicles/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-fiat-chrysler-fca-partnership-autonomous-self-driving-ram-van-commercial-vehicles/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/sh59czTv07-USGuvMDBUi3kShMs=/2018/06/26/98fe0842-a9a4-4477-b19e-094af787eea0/rm019-001pm.jpg"
-        width: 1200
-        height: 644
-        isCached: true
   - title: "Fiat Chrysler, Waymo to create self-driving delivery vans"
     excerpt: "Fiat Chrysler Automotive will be working with Google’s self-driving tech company, Waymo, to develop an autonomous delivery van. Continue Reading Below ELON MUSK SAYS TESLA ‘VERY CLOSE TO SELF-DRIVING CARS The announcement was made on Wednesday in Waymo ..."
     publishedDateTime: 2020-07-23T00:39:00Z
@@ -86,17 +54,6 @@ related:
         width: 1420
         height: 797
         isCached: true
-  - title: "Fiat Chrysler Partners With Waymo on Self-Driving Delivery Vans Now, More Later"
-    excerpt: "The Ram ProMaster commercial van is only the start—the same SAE Level 4 autonomous driving tech will be used across FCA's lineup."
-    publishedDateTime: 2020-07-22T15:45:00Z
-    webUrl: "https://www.motortrend.com/news/fiat-chrysler-fca-waymo-delivery-van-ram-promaster-autonomous-partnership/"
-    ampWebUrl: "https://www.motortrend.com/news/fiat-chrysler-fca-waymo-delivery-van-ram-promaster-autonomous-partnership/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/fiat-chrysler-fca-waymo-delivery-van-ram-promaster-autonomous-partnership/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 35
   - title: "Ram vans to get self-driving makeover"
     excerpt: "DETROIT -- Fiat Chrysler Automobiles and Waymo are moving well beyond developing self-driving minivans together. In a dramatic expansion of their four-year-old partnership, FCA and Waymo, once known as Google's Self-Driving Car Project, plan to fit Ram ..."
     publishedDateTime: 2020-07-26T07:31:00Z
@@ -110,6 +67,20 @@ related:
       - url: "https://media.arkansasonline.com/static/ao_redesign/graphics/adgog.jpg"
         width: 340
         height: 246
+        isCached: true
+  - title: "Rimac using self-driving tech to develop track coaching"
+    excerpt: "Dubbed Rimac Driver Coach, the feature will help drivers who have the money to buy a supercar but lack the skills to get the most out of it on a track. The system acts as a \"guardian angel,\" allowing drivers to push the limits while still maintaining a safety net,"
+    publishedDateTime: 2020-07-26T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1128989_rimac-using-self-driving-tech-to-develop-track-coaching"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/kia-stinger-development-mule-for-rimac-driver-coach_100753485_h.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "MY5aLkY89FFsGda7sxk+QWHn/XUS5XHa2b+l/UMvuVhfuEDc3hXpuet0ftFEpEF/Cf3knGGCKJa2KjbV94fq9YROj9PJqw5pX4RFsC1QE62P8jnm7EKxjgFoGnbaSMt3kBrq9Eivv++4Ytg1iVShsnAsG8fIViqpprT6r1v/ZfWSOKM6hht87JwOZ6pbROExSNkGBsloJdLiKLUjJIrWIVc+g5rTZ5hEeRTG9x5zjjFWZAOyIQ8iiuy/Pyuq5cSeRebjQIV/zx5Rxo1D9peuMOCNsRuQXmB7KFOYSPn6EKOFrrsyFS6TE9EYOq5715UYkAzJZp4/H3CNckZWfOmVeKSb7AcwMMCsgv67QXNHZGAqkXNUn0DVKcZSAbek681KSO9TVDu0LkEU2AIhNJr2ChNnlVeFXFVf7L3Crjqv3PVo9/ydcuQBhEqocwa1h+G9BHFXJ9b8vwyDnUAI7TTrcFa/3I26Rhi42t1CtRW/VvNwirtYsPVrUMsQSVOiKL57e57rTIVbTM+M0mCy9LOPLw==;EVab9oav2M5t5gLkMOtQrg=="

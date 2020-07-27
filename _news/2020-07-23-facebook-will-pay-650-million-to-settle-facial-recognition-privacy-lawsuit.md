@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-facial-recognition-lawsuit-650
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-facial-recognition-lawsuit-650-million-191451396.html"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
+    publishedDateTime: 2020-07-27T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "fC12cmE/wiZdLCjrv4rabVEgEi1MH8IyAnr8M5kZfDxEAW83qJCbapa07iGCBYVjGGyvdER6tRUzz2ZjZyts/sdTwlSGgoo0qfqQr7MoejhRIM/CFbW0hDJxvkNYxJCIeNiPKKhruQOE843viNCW6UEqyYca5xBOGzvzsaTHAChrmn4QkLVsvzKvO6hWFcV7vQnh+k46mg2gu0GOSguN0/NU4dXeK+tPy4nsEdNIn30df2V9aIgx/qJ+ny3lY+7QMQw2yXCUM4HfsyDHUgO/iR6+Hj7HO0n+d9dPUHIiSXQHdJ3LjINQVyzlS/1daJPiRG6d+c023R1Kz61uEOFJsnzi2cK7ArI8xn8l/oCCJnTnhtLJ+eD5ZwvW4cAvmgmxprpXLepdeU86JYUTZ3DeZUKh6Hk2nuIZT1jAiZtxTWmhqWJSDoO+HeQZ5Skq2iAfRP8+8ySr8lC3GQvSV7vVFHJ2gpQ0cH+F5y5n7y8rmNBjsT/py7GDwM1447Da9/au;WjOtTbmnz2CJEnP8u30h9Q=="
 ---

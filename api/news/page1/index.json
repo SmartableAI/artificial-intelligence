@@ -2,6 +2,137 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-27-how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience.md",
+      "title": "How 5G, Wi-Fi 6 and AI will provide a smarter home experience",
+      "excerpt": "The demand for smart home technology is driving diversification in device categories – virtually any appliance you can think of comes in a connected variant today – and also opening up new ways in which advanced technologies like AI and 5G can be used to drive new consumer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YXL4dK3RBKZ4viQ5Jqnj2M-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience",
+      "publishedDateTime": "2020-07-27T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
+      "title": "The real reason we’re afraid of robots",
+      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "publishedDateTime": "2020-07-27T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-27-learn-machine-learning-and-ai-online-training-program-93-off.md",
+      "title": "Learn Machine Learning and AI – Online Training Program @ 93% OFF",
+      "excerpt": "Essential AI & Machine Learning Certification Training Bundle aims to help you explore the technology, with four hands-on video courses working towards certification.",
+      "sourceUrl": null,
+      "webUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehackernews.com/images/-FUHLQOfZuO8/Xx6QR2PQ7cI/AAAAAAAAAdQ/P84ceUYGkSkXV_G5w9KVVkijiPJvFfBBACLcBGAsYHQ/s728-e100/machine-learning-artificial-intelligence.jpg",
+          "width": 728,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2020/07/artificial-intelligence-training.html?amp=1",
+      "publishedDateTime": "2020-07-27T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hacker News",
+        "domain": "thehackernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-how-india-can-become-a-powerhouse-in-artificial-intelligence.md",
       "title": "How India can become a powerhouse in Artificial Intelligence",
       "excerpt": "India should declare data as a national resource to prevent misuse. An institution that helps leverage data for AI is called for",
@@ -91,7 +222,7 @@
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-is-booming-worldwide-with-cagr-of-448-during-2020-to-2025-2020-07-27",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -654,7 +785,7 @@
       "webUrl": "https://www.cnbc.com/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -922,46 +1053,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-24-galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning.md",
-      "title": "Galvanizing manufacturing with Artificial Intelligence and Deep Learning",
-      "excerpt": "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
-      "publishedDateTime": "2020-07-24T12:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
       "title": "This AI protects BLM protestors from facial recognition",
       "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
@@ -969,7 +1060,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1042,105 +1133,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-python-language-what-you-need-to-know.md",
-      "title": "Python Language: What You Need To Know",
-      "excerpt": "Python is a high-level programming language, easy for beginners and advanced users to get started with,” said Jory Schwach, who is the CEO of Andium.com . “It’s forgiving in its usage, allowing coders to skip learning the nuances that are necessary in other,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1b0df21f4b0a28b2202528%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3988%26cropY1%3D202%26cropY2%3D2445",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/07/24/python-language-what-you-need-to-know/amp/",
-      "publishedDateTime": "2020-07-24T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-tech-tent-have-we-seen-our-ai-future.md",
-      "title": "Tech Tent: Have we seen our AI future?",
-      "excerpt": "On this week’s Tech Tent we find out what the big fuss is about something called GPT-3. OpenAI is a Californian company started in 2015 with a high-minded mission - to ensure that artificial general intelligence systems that could outperform humans in most jobs would benefit all humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-53530454",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/7F5F/production/_108470623_robotwriter.gif",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-53530454",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-53530454",
-      "publishedDateTime": "2020-07-24T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

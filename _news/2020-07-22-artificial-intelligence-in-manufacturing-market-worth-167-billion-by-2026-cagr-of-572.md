@@ -52,6 +52,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "This report also researches and evaluates the impact of Covid-19 outbreak on the Medical Imaging Artificial Intelligence industry, involving potential opportunity and challenges, drivers and risks. We present the impact assessment of Covid-19 effects on ..."
+    publishedDateTime: 2020-07-27T07:26:00Z
+    webUrl: "https://www.openpr.com/news/2097049/global-medical-imaging-artificial-intelligence-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2097049/global-medical-imaging-artificial-intelligence-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2097049/global-medical-imaging-artificial-intelligence-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
   - title: "Artificial Intelligence in the Military Market Worldwide Share, Business Growth, Key Players and CAGR of 14.35% by Foresight to 2024"
     excerpt: "Artificial Intelligence in the Military Market Worldwide Share Business Growth Key Players and CAGR of 1435 by Foresight to 2024"
     publishedDateTime: 2020-07-23T19:36:00Z

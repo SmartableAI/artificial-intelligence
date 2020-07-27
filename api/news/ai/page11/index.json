@@ -2,6 +2,206 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-15-how-intuit-is-moving-from-mobile-first-to-ai-first.md",
+      "title": "How Intuit is moving from mobile-first to AI-first",
+      "excerpt": "App developers will increasingly have to adopt an \"AI-first\" mindset by default, according to Intuit chief technology officer Marianna Tessel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/GettyImages-940325272.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/how-intuit-is-moving-from-mobile-first-to-ai-first/amp/",
+      "publishedDateTime": "2020-07-15T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars.md",
+      "title": "Strong AI Versus Weak AI Is Completely Misunderstood, Including For AI Self-Driving Cars",
+      "excerpt": "Or, if you prefer, you can state it as weak versus strong AI (it’s okay to list them in either order). If you’ve been reading about AI in the popular press, the odds are that you’ve seen references to so-called strong AI and so-called weak AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1098040634%2F0x0.jpg",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/07/15/strong-ai-versus-weak-ai-is-completely-misunderstood-including-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-07-15T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-mit-researchers-find-systematic-shortcomings-in-imagenet-data-set.md",
+      "title": "MIT researchers find ‘systematic’ shortcomings in ImageNet data set",
+      "excerpt": "MIT researchers say the influential ImageNet data set has \"systematic annotation issues\" when used as a benchmark for evaluating object recognition models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/mit1.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/mit-researchers-find-systematic-shortcomings-in-imagenet-data-set/amp/",
+      "publishedDateTime": "2020-07-15T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue.md",
+      "title": "Machine Learning In The Enterprise: Where Will The Next Trillion Dollars Of Value Accrue?",
+      "excerpt": "Who will create and capture the next trillion dollars of value in machine learning? From large incumbents to startups creating horizontal tools and vertically-integrated applications, machine learning is upending the status quo across industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e3acab019f50006489bbf%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisaxu/2020/07/15/machine-learning-in-the-enterprise-where-will-the-next-trillion-dollars-of-value-accrue/amp/",
+      "publishedDateTime": "2020-07-15T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-fine-tuning-a-pytorch-bert-model-and-deploying-it-with-amazon-elastic-inference-on-amazon-sagemaker.md",
       "title": "Fine-tuning a PyTorch BERT model and deploying it with Amazon Elastic Inference on Amazon SageMaker",
       "excerpt": "Text classification is a technique for putting text into different categories, and has a wide range of applications: email providers use text classification to detect spam emails, marketing agencies use it for sentiment analysis of customer reviews, and discussion forum moderators use it to detect inappropriate",
@@ -1213,199 +1413,6 @@
         "name": "Waste360",
         "domain": "waste360.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-caption-health-raises-53m-to-democratize-heart-scans-with-ai.md",
-      "title": "Caption Health Raises $53M To ‘Democratize’ Heart Scans With AI",
-      "excerpt": "We've really kind of cracked this problem where our AI empowers these medical providers to perform and interpret ultrasounds,” says Cadieu, who launched the company in 2013, along with CTO Kilian Koepsell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e47d55de5350006a46be9%2F0x0.jpg",
-          "width": 1199,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2020/07/15/caption-health-raises-53m-to-democratize-heart-scans-with-ai/amp/",
-      "publishedDateTime": "2020-07-15T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-could-graphcores-second-chip-challenge-nvidia.md",
-      "title": "Could Graphcore’s Second Chip Challenge NVIDIA?",
-      "excerpt": "Today it introduced its second-generation product for AI, a massively parallel chip with 59.4 billion transistors that delivers some 250 Trillion Operations per Second (TOPS). However, the company’s potential to challenge NVIDIA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0e8c05c604cd0007da11ee%2F0x0.jpg",
-          "width": 974,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/07/15/could-graphcores-second-chip-challenge-nvidia/amp/",
-      "publishedDateTime": "2020-07-15T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-graphcore-claims-its-m2000-ai-computer-hits-1-petaflop.md",
-      "title": "Graphcore claims its M2000 AI computer hits 1 petaflop",
-      "excerpt": "Chip startup Graphcore detailed its second-generation IPU and the M2000 AI computer, which the company claims can achieve up to a petaflop of compute.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/graphcore1-e1573576308782.jpeg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/15/graphcores-m2000-ai-computer-can-achieve-a-petaflop-of-processing-power/amp/",
-      "publishedDateTime": "2020-07-15T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens.md",
-      "title": "Miso Robotics' Brings Advanced Robotics and AI to UK Fast-food and Commercial Kitchens",
-      "excerpt": "First UK funding round and crowdfunding campaign gives retail investors the opportunity to invest in a services sector seeing new impetus for",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/miso-robotics-brings-advanced-robotics-and-ai-to-uk-fast-food-and-commercial-kitchens-1029395565",
-      "publishedDateTime": "2020-07-14T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

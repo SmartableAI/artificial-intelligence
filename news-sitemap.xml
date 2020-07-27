@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techradar.com/au/news/how-5g-wi-fi-6-and-ai-will-provide-a-smarter-home-experience</loc>
+    <lastmod>2020-07-27T02:37:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300</loc>
+    <lastmod>2020-07-27T02:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://thehackernews.com/2020/07/artificial-intelligence-training.html</loc>
+    <lastmod>2020-07-27T02:06:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.thehindubusinessline.com/opinion/how-india-can-become-an-ai-powerhouse/article32197434.ece</loc>
     <lastmod>2020-07-27T00:50:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -117,12 +135,6 @@
   <url>
     <loc>https://venturebeat.com/2020/07/24/ai-weekly-the-promise-and-shortcomings-of-openais-gpt-3/</loc>
     <lastmod>2020-07-24T12:45:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/</loc>
-    <lastmod>2020-07-24T12:42:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -427,8 +439,20 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.neowin.net/news/googles-ai-based-product-recommendations-tool-is-now-available-in-beta</loc>
+    <lastmod>2020-07-22T14:44:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://venturebeat.com/2020/07/22/new-york-bans-use-of-facial-recognition-in-schools-statewide/</loc>
     <lastmod>2020-07-22T14:23:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.caranddriver.com/news/a33395020/waymo-fca-ram-promaster-self-driving/</loc>
+    <lastmod>2020-07-22T14:02:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2287,12 +2311,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.benzinga.com/pressreleases/20/07/n16611060/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the</loc>
-    <lastmod>2020-07-13T21:19:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://markets.businessinsider.com/news/stocks/smart-retail-tech-startup-cloudpick-raises-series-a-funding-1029389776</loc>
     <lastmod>2020-07-13T21:09:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -2301,6 +2319,12 @@
   <url>
     <loc>https://www.zdnet.com/article/53-of-enterprises-spending-more-than-20-million-a-year-on-ai-technology-talent/</loc>
     <lastmod>2020-07-13T21:01:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.finanzen.net/nachricht/aktien/frontline-systems-analytic-solver-empowers-excel-users-to-create-and-deploy-analytic-models-to-the-azure-cloud-9065770</loc>
+    <lastmod>2020-07-13T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -2497,14 +2521,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.technewsworld.com/story/The-Secrets-of-How-IBM-Maintains-AI-Leadership-86752.html</loc>
-    <lastmod>2020-07-13T04:36:00-07:00</lastmod>
+    <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
+    <lastmod>2020-07-13T04:05:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.wired.com/story/intersection-self-driving-cars-electric/</loc>
-    <lastmod>2020-07-13T04:05:00-07:00</lastmod>
+    <loc>https://www.technewsworld.com/story/86752.html</loc>
+    <lastmod>2020-07-13T04:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>

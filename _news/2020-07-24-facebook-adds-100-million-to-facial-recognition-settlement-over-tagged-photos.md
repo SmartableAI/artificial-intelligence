@@ -88,6 +88,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Facebook will pay USD 650 mln to settle facial recognition privacy lawsuit"
+    excerpt: "Facebook will pay a total of USD 650 million to settle a lawsuit over the company's use of facial recognition technology, writes local publication Facebook citing court documents presented by Facebook."
+    publishedDateTime: 2020-07-27T08:14:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-will-pay-usd-650-mln-to-settle-facial-recognition-privacy-lawsuit--1348000"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 17
 
 secured: "I0519d1oh+0dCA1MLBJ4jzQuFVPhwQu0kclwTajcjITEHmtcc3ePe+HZ2RzAqKKUIM7o9Rgvi3xHbBidOqFN8nqLPLprsC1fUBPKewmjfBcAk66VYNWS787Qpg6Pd4M3q2E93esC/ei2fJ5N/qve89Mx72mw4iAgBah7TPmtzDg9L3ZB3WLbXgkD43nlmXB1x1mxXoUNQBwRNgXuBMy60dU08j5UpLf2DShaHb1PSmd6bY23sbgvM12fHe07hJx7rg6nGkeZHXom1IMYL1aywEo7xfZ6ht0g0hjT+QiqZzMTxWdCziWpcWjaK/T1nlpCuKyqvW2lv6LixkbytljpCySo9pHp671H1UlH2xj9DvaygZ4kA/FpM5FcpizJ6N1MADiNDNMCX0aEEC/gWWLBGJAAXbVXqgbGGvJth+9lRG/clv0cvN8EspPOgh0bdS3BDS5SG8GmweC4EwxV4LRX1Sr7/0Js2T8YlnVWm6vYyfbxNrKq2UGAj6rCw7ySURAEdJhPIfSwafq3X9hI9gcQdg==;2jrfpUMljhCLNFohmHle6w=="
 ---

@@ -3,11 +3,11 @@ category: news
 title: "Facebook ordered to pay $650 million in facial recognition lawsuit"
 excerpt: "Facebook has to pay a new total of $650 million in a settlement of an Illinois facial recognition lawsuit over its photo-tagging facial recognition feature."
 publishedDateTime: 2020-07-23T16:49:00Z
-webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/"
+webUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?itm_source=25&itm_content=2x2&itm_term=2356592"
 ampWebUrl: "https://www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-ordered-to-pay-100-million-more-in-facial-recognition-lawsuit/?amp"
 type: article
-quality: 89
+quality: 69
 heat: -1
 published: false
 
@@ -22,12 +22,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://icdn3.digitaltrends.com/image/digitaltrends/facebook-login-2-1200x630-c-ar1.91.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "New York bans use of facial recognition in schools statewide"
@@ -318,6 +312,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Documentary exposes the threat of facial recognition surveillance system in Serbia"
+    excerpt: "This project involves the installation of thousands of smart surveillance cameras with object and facial recognition features. The cameras were procured as part of a bundle that included an artificial intelligence system used to analyse the feed captured ..."
+    publishedDateTime: 2020-07-27T08:57:00Z
+    webUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/"
+    ampWebUrl: "https://globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
+    cdnAmpWebUrl: "https://globalvoices-org.cdn.ampproject.org/c/s/globalvoices.org/2020/07/27/documentary-exposes-the-threat-of-facial-recognition-surveillance-system-in-serbia/amp/"
+    type: article
+    provider:
+      name: Global Voices Online
+      domain: globalvoices.org
+    quality: 53
+    images:
+      - url: "https://globalvoices.org/wp-content/uploads/2020/07/hiljadekamera-wp-13-800x367.jpg"
+        width: 800
+        height: 367
+        isCached: true
   - title: "NY Bans Biometric Facial Recognition in Lockport City Schools Until 2022"
     excerpt: "The New York State legislature has passed a bill banning the use of biometric identification in Lockport schools until the year 2022"
     publishedDateTime: 2020-07-24T01:03:00Z
@@ -347,6 +357,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8MIGq1aczMi567f9+rC5u0b0kzKPgTKIg9fOU7YbFCV/TIZ/lbhfGa+d2Tw//Aj8cmkMXy0bgVAe8e6195UjzZXvio226lDLUSqeyQ0ILiZTsUCmA8fXR7pPzPZGFkokJjM4YyQsBe9RPah+NGLJUALbJsa4BhdY2GoTZBVYNJcJ61D8dkE2tPR/6EtDBvw0l/tvWHB5AI8APKIFQWnQhIkpePfKOPIW60AUZYdMTETKNnLKF0RHfpT2tc2imvZVizNEedgwP/bbGirsQ/DgYG0SLPI9RJ2HdyXxVUC1zqkvEBGUEPtFRmYRsXVf2LfYX6TexboAbBpSs95bxr+4JQ==;JRjDnHjhYCCBFgX0VJpIPA=="
+secured: "9C7Nd/qHW5HrBF5hulxL7x6HVi5tFrmB4GnZIi8g/V1eHsRi7+VuIehSAyihJo8vY0zUpRuHgYxGmK/OJ2MSMPL9dJWe6IKJQKZARwUA4iUpnM5XhEqynRUZqtuj8bLZqZbdsoalkt0mUauZNhjcjTjZMk7UV4dMheUKssiQ+k4ulFUPclkBXSyxZ7faczjAa0gvlJNOzx0SbT0o/Zp+kQ2hN7v7bl3b96l1+6vE+MhmXOJRcjfn3rVuc1nhyV54HAG7Ug9RjEsSKAcTXDjr0l4Th1JB9H7ipx4KeWsRB6C16fmYglqlAME7gSqAp9XxjrNZfyrHUaofzXU4NJWqTBms0F7tFKFxtsBb/crqi+IentyBGaS8aM7lKJbZ6y+Atsc285cLFZmZ4qC2VdzIvqVJh5RH2yYpNHS7zTEJHHRE3yvBin74cCS97TxW/3pWvUAXUm7roxt8sLBr/1H6ZHVGD0HW9v7ONyMn6RWb/WNu83BLkhCUjoCdjUklsr0tgGXGZ3OcMaT8U7RK0iJKJg==;JoCF3Zb2L1+OHv+Ud0mKpw=="
 ---
 

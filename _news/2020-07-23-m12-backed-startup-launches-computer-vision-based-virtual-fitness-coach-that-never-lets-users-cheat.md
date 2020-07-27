@@ -1,28 +1,26 @@
 ---
 category: news
 title: "M12-backed startup launches computer vision based virtual fitness coach that never lets users cheat"
-excerpt: "Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as"
+excerpt: "PRNewswire/ - Twenty Billion Neurons (TwentyBN) today announced the launch of Fitness Ally, a workout experience powered by AI that brings users as close"
 publishedDateTime: 2020-07-23T17:37:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/07/n16756509/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-chea"
-ampWebUrl: "https://amp.benzinga.com/amp/content/16756509"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16756509"
+webUrl: "https://www.prnewswire.com/news-releases/m12-backed-startup-launches-computer-vision-based-virtual-fitness-coach-that-never-lets-users-cheat-301099015.html"
 type: article
-quality: 45
-heat: 45
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1218896/Twenty_Billion_Neurons_M12_backed_startup_launches_computer_visi.jpg?p=facebook"
+    width: 1920
+    height: 1005
     isCached: true
 
 related:
@@ -41,6 +39,6 @@ related:
         height: 785
         isCached: true
 
-secured: "J/TXLVHkdTveAKWmIlP1s8JpWec/1ykbKk8uIaWkeUguhmvmKV4PCpHcl6jV3lQ+1wT7oZDUTmeOPBKl8ON7mPVnw96CvO2Phc7JAu2TZWJofN4K1D88MPLJA1WGkHJdeIi/3B5VFI6Kr9ct/lhAwSVtUxodXWyfRQJmT2PD3ryGMtZR2cmgK+ZYwpphr+Q9lINBrOUXKYI/QBSutCKu2ngips3bCEKSZjO7EfaV9S2CZml0DdqCP0u/v+SVabkodEPx5GlEa+NV5bNQ9wiO+xjBj72USVWOE5CTOGd15aGWqNZGldQb4tXJnOTCndpOTk3V4yhfVibr9s/xaC1dsg==;TeAOxh0QBjHjpiNsSLYkhQ=="
+secured: "BoW6/krFlMDBmHsZri3FysNcK8rxVKCuiapYFC9jVhCdbnahvWBh5GEfFe/cAcIj1xTzN3vxo+Y149yLSdpVlJcJ2f1vpb4U6BLhx38PljeYasOCa6rJu78nsqpiwnOgpJyQb47ilKoEOiZqTuHxrXsQqTOInPjhTWXDuHtvg4BbiG0oepyrH16fobt1JD/qMVtkLFC4nZBNwrrUTbmycjXirPc+1i2lk+/tlTdr+cc4zcY5GR9LnFRxczmEMrFmdl/deJAPWPrSO9qOMhYvL07ktRK34txRaz8vfCs6GN37sYqFZMui2fma5Lf7z9Oxs+tZzmiR/L+ArNz2Qnr/hA==;AxIqS3f6rzpnGj8pNYLTNw=="
 ---
 

@@ -2,6 +2,195 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-07-10-one-dimensional-organic-artificial-multi-synapses-enabling-electronic-textile-neural-network-for-wearable-neuromorphic-applications.md",
+      "title": "One-dimensional organic artificial multi-synapses enabling electronic textile neural network for wearable neuromorphic applications",
+      "excerpt": "Furthermore, crossbar-type e-textiles based on weaving technology using a 1D fiber device are highly suitable for implementing artificial neural networks (ANNs) capable of efficient parallel signal processing and recognizing timely signal features.",
+      "sourceUrl": null,
+      "webUrl": "https://advances.sciencemag.org/content/6/28/eaba1178.full",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://advances.sciencemag.org/content/6/28/eaba1178/F1.large.jpg",
+          "width": 1280,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation.md",
+      "title": "Natural Language Processing (NLP) Market Opportunities And Analysis By Apple Inc., Google, Dolbey System Inc., Hewlett-Packard, IBM Corporation",
+      "excerpt": "Jul 10, 2020 (Market Insight Reports) -- Reports and Data released the research report of Natural Language Processing (NLP) Market, a study that offers a meticulously studied overview of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-opportunities-and-analysis-by-apple-inc-google-dolbey-system-inc-hewlett-packard-ibm-corporation-2020-07-10",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-the-best-way-for-companies-to-incorporate-esg-goals-is-by-using-data-science-and-ai.md",
+      "title": "The best way for companies to incorporate ESG goals is by using data science and AI",
+      "excerpt": "Junta Nakai, global industry leader for financial services at Databricks, explains why using tech is the key to truly realizing the benefits of ESG.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f089ff34dca681cf8372305?width=1200&format=jpeg",
+          "width": 667,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/esg-tech-ai-data-science-wall-street-2020-7?amp",
+      "publishedDateTime": "2020-07-10T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-10-facebooks-ai-separates-speech-in-recordings-of-up-to-5-people.md",
+      "title": "Facebook’s AI separates speech in recordings of up to 5 people",
+      "excerpt": "Facebook researchers describe an AI system that can isolate speech from recordings of multiple speakers on a single microphone.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/white-paper/the-state-of-ai-and-machine-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2020/07/Appen_State_of_AI_report.png",
+          "width": 462,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-10T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-tools-for-language-access-during-covid-19.md",
       "title": "Tools for language access during COVID-19",
       "excerpt": "Translation services make it easier to communicate with someone who doesn’t speak the same language, whether you’re traveling abroad or living in a new country. But in the context of a global pandemic, government and health officials urgently need to deliver vital information to their communities, and",
@@ -1199,205 +1388,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-a-sushi-restaurant-chain-in-japan-is-using-ai-to-evaluate-tuna-cuts.md",
-      "title": "A sushi restaurant chain in Japan is using AI to evaluate tuna cuts",
-      "excerpt": "A Japanese advertising agency has created an app that uses AI to allow humans to easily grade the quality of a tuna cut.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ai-dreams-of-sushi-224552215.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-07%2Ff6e525a0-c231-11ea-9767-ba6e4c96ee25&client=amp-blogside-v2&signature=36229eb63dc4f49c07c0bb822fe8f32f26476ac0",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ai-dreams-of-sushi-224552215.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ai-dreams-of-sushi-224552215.html",
-      "publishedDateTime": "2020-07-09T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-detecting-and-analyzing-incorrect-model-predictions-with-amazon-sagemaker-model-monitor-and-debugger.md",
-      "title": "Detecting and analyzing incorrect model predictions with Amazon SageMaker Model Monitor and Debugger",
-      "excerpt": "Convolutional neural networks (CNNs) achieve state-of-the-art results in tasks such as image classification and object detection. They are used in many diverse applications, such as in autonomous driving to detect traffic signs and objects on the street, in healthcare to more accurately classify anomalies",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detecting-and-analyzing-incorrect-model-predictions-with-amazon-sagemaker-model-monitor-and-debugger/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/detecting-analyzing-model-predictions-021.jpg",
-          "width": 800,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T14:25:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints.md",
-      "title": "Announcing the launch of Amazon Comprehend custom entity recognition real-time endpoints",
-      "excerpt": "Amazon Comprehend is a natural language processing (NLP) service that can extract key phrases, places, names, organizations, events, sentiment from unstructured text, and more (for more information, see Detect Entities). But what if you want to add entity types unique to your business, like proprietary",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-amazon-comprehend-custom-entity-recognition-real-time-endpoints/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/09/comprehend-custom-real-time-endpoints-001.jpg",
-          "width": 800,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T13:53:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-09-optimizing-io-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker.md",
-      "title": "Optimizing I/O for GPU performance tuning of deep learning training in Amazon SageMaker",
-      "excerpt": "GPUs can significantly speed up deep learning training, and have the potential to reduce training time from weeks to just hours. However, to fully benefit from the use of GPUs, you should consider the following aspects: Optimizing code to make sure that underlying hardware is fully utilized Using the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-i-o-for-gpu-performance-tuning-of-deep-learning-training-in-amazon-sagemaker/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/07/01/gpu-performance-sagemaker-1.gif",
-          "width": 719,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-09T12:11:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

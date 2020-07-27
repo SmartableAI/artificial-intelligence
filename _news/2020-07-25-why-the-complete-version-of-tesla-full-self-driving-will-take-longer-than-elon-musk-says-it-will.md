@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/07/25/why-tesla-full-self-driving-and-robotaxis-are-taking-so-long.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Video: Why Tesla's full self-driving feature is taking so long"
+    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis."
+    publishedDateTime: 2020-07-27T08:31:00Z
+    webUrl: "https://www.arabianbusiness.com/video/450116-video-why-teslas-full-self-driving-feature-is-taking-so-long"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "cQ+AkpfZ6S2aktZ6L1pACQzLEBL/R7UjeyyZhpGwa4ZQdQhdsmF6TDsPQOxWFWVIC6nreE6633zek6JlcoK4zMv1o48nqGTvvvZJ1t4j3hNAe7yCaAyicj3cZwee5Fa7OJCn0G8EZCxrxnoIVJMXeQmTDbh+ewc7z4KoTb0jDf8jtQ5NEf55n/B7QsL/L6J1Qf9Wy73D1wqy4uezxgV9yc98lMSbnbRnlwLZ1i6pfGGl5KJuqkxoTPdlwmk9eCpYiVbsgr+PNoQsE+mEbLNeX7Xc3qyLn+eHrBJ2fL/RtSz+Zeocp+rL7BLqgkVyKjRYtfvOBJ82yVyQastcwqzf/g==;Omm1JDRlNjnxhOWgGAWY3w=="
 ---

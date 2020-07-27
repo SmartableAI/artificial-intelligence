@@ -8,7 +8,7 @@ ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufa
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -19,33 +19,45 @@ topics:
   - AI
 
 related:
-  - title: "Galvanizing manufacturing with Artificial Intelligence and Deep Learning"
-    excerpt: "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ..."
-    publishedDateTime: 2020-07-24T19:42:00Z
-    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
+  - title: "Global Voice Recognition Systems Market 2020 Industry Challenges, Top Manufacturers, Key Countries with Forecast to 2025"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Jul 21, 2020 (CDN Newswire via Comtex) -- Global Voice Recognition Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth ..."
+    publishedDateTime: 2020-07-23T01:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-systems-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2025-2020-07-21"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 66
-  - title: "Machine Learning In Manufacturing Market Global Outlook 2020-2026: Dell Inc., Oracle Corporation, SAP SE, Amazon Web Services Inc"
-    excerpt: "The Global Machine Learning In Manufacturing Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and ..."
-    publishedDateTime: 2020-07-23T10:41:00Z
-    webUrl: "https://www.openpr.com/news/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    ampWebUrl: "https://www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
-      - url: "https://cdn.openpr.com/T/7/T723138481_g.jpg"
-        width: 409
-        height: 400
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Cognitive Computing Market by Technology, Deployment, Enterprise, Industry Type, and Region - Global Forecast to 2026"
+    excerpt: "Cognitive Computing Market by Technology Deployment Enterprise Industry Type and Region ndash Global Forecast to 2026"
+    publishedDateTime: 2020-07-22T19:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265859144/cognitive-computing-market-by-technology-deployment-enterprise-industry-type-and-region---global-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 1
+    images:
+      - url: "https://cdn.bignewsnetwork.com/voa1595361904.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
+    publishedDateTime: 2020-07-27T09:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "kSpanS/xo4UOWNet764xAkXuEuYF4J3s8T00V1YqRRRAzJlIH6EhVQCF/TICG92O6o9JmEArTEeSkOo3JfAYLSlayVH4DSJf8gz3w/ZI6OJcIG9zLyDEclfK6kffV23FQ1IrF8qBayykyN8DqhbFJLZKVF9LkOGIFDln+m372lQVlwg9vTG1VA+Bv26NqpI09XX/NtTKtE1xErmF9L4C/1v8WFDbsvtx247Y6zh3rDFvAQuZVncetfVT/Os//3SW04Er/DXGixYEo1OoTGeTkqaA9HUVQCJkLHcOW8dyKTRWeTkgJSNjnS9MiSsRumVzQlTSL53sNBd//Ut4jcH2zg==;xdjEP61+Rtax/dmjyM9S1g=="
 ---

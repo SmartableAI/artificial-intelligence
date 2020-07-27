@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-23T01:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-systems-market-2020-industry-challenges-top-manufacturers-key-countries-with-forecast-to-2025-2020-07-21"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,44 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
+    publishedDateTime: 2020-07-23T06:19:00Z
+    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
+  - title: "Cognitive Computing Market by Technology, Deployment, Enterprise, Industry Type, and Region - Global Forecast to 2026"
+    excerpt: "Cognitive Computing Market by Technology Deployment Enterprise Industry Type and Region ndash Global Forecast to 2026"
+    publishedDateTime: 2020-07-22T19:08:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/265859144/cognitive-computing-market-by-technology-deployment-enterprise-industry-type-and-region---global-forecast-to-2026"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 1
+    images:
+      - url: "https://cdn.bignewsnetwork.com/voa1595361904.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "2020 Insights into Manufacturing Analytics - Featuring Seeq, Sensrtrx & Sight Machine Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Manufacturing Analytics, 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies are constantly looking for new ways"
+    publishedDateTime: 2020-07-27T09:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/07/b16783818/2020-insights-into-manufacturing-analytics-featuring-seeq-sensrtrx-sight-machine-among-others-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/16783818"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16783818"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "B78nUPS+MS29akNTwdDGd1kHa6p26Alf/d3Q8WHoz3j99t8ZVKb281IxornDp8mNlRxkQtrkivfdyLeSmGrLeMSQh9Ynvu6HeEA2hCSzvhj8DdT3V2MRR4VoatAwjuLAtdy0BjBempAyf+zryZKABGouYnRImXVie81GvIjQ71MMEx9EvwioIYzUNF6weSVICmJiEyr+9GHYwtmbfsbZGRUE7iaAFeaK2wIz/1qwbh0dn0znJl4gheP9nUeG1igHrObLZGbkq7tXA5gDRBS30BjecehX5+14D1zyOjL/qQEfkOc5D/h/S68H95kP9rSx+RYN6poQUOX28ZNzRBPUhw==;wm/7SBIP89pPWuW7e2c8lQ=="
 ---

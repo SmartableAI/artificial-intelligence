@@ -2,6 +2,47 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-07-27-the-real-reason-were-afraid-of-robots.md",
+      "title": "The real reason we’re afraid of robots",
+      "excerpt": "Make no mistake AI does pose many real dangers to us: to our personal privacy and security and to the future of the economy. These are all very good reasons to watch it closely and regulate it aggressively.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/07/15/Artificial-Intelligence--AI-_16bf61c847a_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/the-real-reason-were-afraid-of-robots-1.72819300",
+      "publishedDateTime": "2020-07-27T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-27-disinfectant-robots-tested-at-tokyo-train-station.md",
       "title": "Disinfectant robots tested at Tokyo train station",
       "excerpt": "A railway operator is testing disinfectant robots at a station in Tokyo to help prevent the spread of the coronavirus.",
@@ -1240,56 +1281,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic.md",
-      "title": "Study finds 195 robot deployments worldwide in response to the pandemic",
-      "excerpt": "A new preprint study identified over 195 robot deployments launched in response to the ongoing novel coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/01/amazon-scout.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-finds-195-robot-deployments-worldwide-in-response-to-the-pandemic/amp/",
-      "publishedDateTime": "2020-07-14T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

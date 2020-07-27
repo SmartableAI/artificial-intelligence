@@ -42,20 +42,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Translating presentation files with Amazon Translate"
-    excerpt: "As solutions architects working in Brazil, we often translate technical content from English to other languages. Doing so manually takes a lot of time, especially when dealing with presentations—in contrast to plain text documents, their content is spread across various areas in multiple slides. To solve"
-    publishedDateTime: 2020-07-22T15:41:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/translating-presentation-files-with-amazon-translate/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
 
 secured: "vKZevqeu0tvfplUTVcecL1GGRjEo+LLP6p5W9GNlWTV24okBVUhUk3ntAb4GzjXqyjxwzXYb0La7ck1UcJP0hHNj+8i2vVT+Oao/mL2eACBL7/7QvMA86n7KdroddEFUep1P2+UbwwxoGD3kE0yNnCZZHgPr/PNeLPlr28+JqDokZx2Zf0ml7OZmbCvEnFbNNUBF5KCIxvL5Qimy0ibNdxXzHWE4Z1Ig9WonLUqlnKSyU2wxGl83M+jiXxqN2fSluGnxMIUVreXsUexN+16WPo0eFsQbUBkXbuozs96mqscg6hruK6VMpAlQYVED9w+p1U1DQ/NsD8fPjr4IsJFGIw==;IdN3Wetg5V1vxc8lTIvuoQ=="
 ---

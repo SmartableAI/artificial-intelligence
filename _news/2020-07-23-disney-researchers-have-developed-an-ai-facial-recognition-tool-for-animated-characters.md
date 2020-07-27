@@ -40,6 +40,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "This AI uses emoji to protect BLM protestors from facial recognition"
+    excerpt: "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji."
+    publishedDateTime: 2020-07-27T07:59:00Z
+    webUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-24T201426.546-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Fawkes protects your identity from facial recognition systems, pixel by pixel"
     excerpt: "Deep learning tools and facial recognition software has now permeated our daily lives. From surveillance cameras equipped with facial trackers to photo-tagging suggestions on soci"
     publishedDateTime: 2020-07-23T11:26:00Z

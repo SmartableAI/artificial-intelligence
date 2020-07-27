@@ -27,6 +27,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Image Recognition Market In Depth Analysis By Total Revenue And Industry Growth Rate Forecast Till 2026"
+    excerpt: "The global image recognition market size is projected to reach USD 81.88 billion by 2026. The increasing incorporation"
+    publishedDateTime: 2020-07-27T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-in-depth-analysis-by-total-revenue-and-industry-growth-rate-forecast-till-2026-2020-07-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "p8Kw9v5c0PphPobeoNwds+5uf51fFcU48X0+OeEdenpiiqZdMoCc9l8rC4LU+JYfzDO0cARqgEYfKPF/QW6b0zBzD7kHu5tFDsSrPt+7MDbnjt7J/QP5fWU7HKjfS5Igk3HWNugwQxC/eXR8ulIR1SRHdcSPw1uEPGyFWmyC4XG1ZUd9pABILUt34p3NcgYYtHGmIzNlqcJN6hdsD4VoJ5t8G7+yqoV5GaleQDUBNq0h5SN8q0qGI51RrNcy6ajEFajzzHP/M9lQZDBBOMq2gPbI+5f/C/JlDuH+sQUdAby7CQ/whiQVkkFRGdZ22Zbu8oG5ciQy+MwjdPytdYfeZQ==;AMwG1Z4v8SDAp18d9WtVaQ=="
 ---
 

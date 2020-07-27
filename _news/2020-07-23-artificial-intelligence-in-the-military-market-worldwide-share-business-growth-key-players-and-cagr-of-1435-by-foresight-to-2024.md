@@ -63,6 +63,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "This report also researches and evaluates the impact of Covid-19 outbreak on the Medical Imaging Artificial Intelligence industry, involving potential opportunity and challenges, drivers and risks. We present the impact assessment of Covid-19 effects on ..."
+    publishedDateTime: 2020-07-27T07:26:00Z
+    webUrl: "https://www.openpr.com/news/2097049/global-medical-imaging-artificial-intelligence-market-2020"
+    ampWebUrl: "https://www.openpr.com/amp/2097049/global-medical-imaging-artificial-intelligence-market-2020"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2097049/global-medical-imaging-artificial-intelligence-market-2020"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "zsA8FDIimdIccVcVvZJHRnAg4/haX+kQVxJ4n54py1KogeE4mnZofK5ZFtGiA/LSIG/J28r0MhuNX48G0PmrOMHTQofFJrRODegfQaTDUW1jv/+MNOG2nasFJbQXGSG72/x9ot48fV66V03GDtd3XGBgZyK+XEafzxgdFpUQL8SYM/IwT5rUFBR7fjHGEeSrJGn28nl1bP81KOIZBSRX2nCeUU3ShqZm4t3fC3De+1HlBsLxUv5gZ+5o3IugEIbhN7ZMj+g3wJYP+lxxoH+ByubsYRjfEiYVjlwJLUvQjOy8yU64O9NzKsO/8R15PCmRH9/9mNOzw7J0yOvIleDDog==;VCrU/DtDRVeECymnM2V2fA=="
 ---

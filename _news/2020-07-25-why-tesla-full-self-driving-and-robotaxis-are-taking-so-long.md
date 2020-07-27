@@ -44,6 +44,15 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Video: Why Tesla's full self-driving feature is taking so long"
+    excerpt: "Autonomy Day, Elon Musk said the company is expected to have one million vehicles on the road by the end of 2020 that could function as robotaxis."
+    publishedDateTime: 2020-07-27T08:31:00Z
+    webUrl: "https://www.arabianbusiness.com/video/450116-video-why-teslas-full-self-driving-feature-is-taking-so-long"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "kTKWrLimUFKxdXUTPgQHwf0/TAvUaLKPK8INA3l5EERzmis+6+XAxuwTf1ddZzczoUBDiBTe+08s3RVWytCEPWuSFjeQXqZVQjLm+viqF0MJI6N5tRgJiUCYLvG4EtPSDO8giVvFF1ZJO1LtROkp+Yr8PkQP4+BK0cDrX//LoTJJLY2Vp9FP3Br2Fh+ncwrXPUGEfWcGz9RMkCiHb6+ykG8TzY+HKIEorlQMPr7EaGZggzqAMifjevIWIR4NyNd9w5oGeRtKrEcw8RqYW0LfsWG1h9zxQny71zYW6GkO++6UOjBoYHHhgQ0DKUftkNmtEeboBRy3ZGuRTDbLpX0ZvK0FTET7vzT8xd9dMmoTEuI3o1llaSWX+6jLoYHxTXjeA0MxERd+8YqKKkQNqaZHXpiv+XdhzuCCAsxtMd3g5GeXbQ40IJ/+6f2BnPoRMebAXd8AQFp1WCwMkMveSf8CUTI4K5WmkNvmdsGOPOn3L354YfzpNDW6G9G3+B6EjM1I7CLVOoom584vthAR+y68IA==;8Trj6J+D9z3akuPBVocSyQ=="
 ---

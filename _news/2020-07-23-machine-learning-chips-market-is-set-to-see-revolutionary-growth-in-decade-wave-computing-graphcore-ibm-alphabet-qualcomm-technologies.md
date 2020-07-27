@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning In Manufacturing Market Global Outlook 2020-2026: Dell Inc., Oracle Corporation, SAP SE, Amazon Web Services Inc"
+    excerpt: "The Global Machine Learning In Manufacturing Market Research Report 2020-2026 is a valuable source of insightful data for business strategists. It provides the industry overview with growth analysis and historical & futuristic cost, revenue, demand and ..."
+    publishedDateTime: 2020-07-23T10:41:00Z
+    webUrl: "https://www.openpr.com/news/2095473/machine-learning-in-manufacturing-market-global-outlook"
+    ampWebUrl: "https://www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095473/machine-learning-in-manufacturing-market-global-outlook"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
+    images:
+      - url: "https://cdn.openpr.com/T/7/T723138481_g.jpg"
+        width: 409
+        height: 400
+        isCached: true
 
 secured: "orQUcObUieY7NLkCwVCVVY9tkOUROxsZhFcTEePSvg9O2+LUN0P6AQeErk4lkEXjkSjeKlOA48rQvR/EDQ8QSAYLqbc6G6H2UI0wfkGBt7XyA1DTLRVSJJZ3v6fpP0TzgUTYF+88mFCMOIZaNl+0jM4IZwWCsy7ouPk7y8+vcj0cfvu68HJxKZmp2OkU0OcM4a6k10c8jqg2oyLaM+PUdxrHUGa1kQN9TB9+X5h8R9CLk4cWGWmE3xsCo/WEpMOeWKEdPZGMyAGvQRF2NABAxuLDwnbzyzxirhibhpmOLRyq6GoEWnnE6FM9LG1NyB2AVLaLtelC3K9GhItmzsiMLQ==;oi068ZLTm6JXsAwzViFZPQ=="
 ---

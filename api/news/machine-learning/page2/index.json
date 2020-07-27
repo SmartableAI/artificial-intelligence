@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-16-deep-learning-in-the-media-supply-chain.md",
+      "title": "Deep Learning in the Media Supply Chain",
+      "excerpt": "Deep Learning is a subset of machine learning and uses artificial neural networks that enable the system to learn autonomously. Deep Learning enables the processing of amounts of data that is not practical to process manually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvtechnology.com/opinion/deep-learning-in-the-media-supply-chain",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/UVp4toMBipUZUtxdepAUBb-1200-80.jpg",
+          "width": 726,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/opinion/deep-learning-in-the-media-supply-chain",
+      "publishedDateTime": "2020-07-16T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TV Technology",
+        "domain": "tvtechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
       "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
       "excerpt": "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ...",
@@ -1355,57 +1396,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-explainer-what-is-machine-learning.md",
-      "title": "Explainer: What Is Machine Learning?",
-      "excerpt": "Machine learning (ML) is the study of computer systems that automatically improve with experience, a hot topic in the last few years, but a concept that's been around for decades. IBM programmer and AI pioneer Arthur Samuel coined the term \"machine learning\" in 1952.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/article/2048-machine-learning-explained/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/2048/images/2020-07-04-image.jpg",
-          "width": 2560,
-          "height": 1764,
-          "title": "Explainer: What Is Machine Learning?",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/article/2048-machine-learning-explained/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/2048-machine-learning-explained/",
-      "publishedDateTime": "2020-07-08T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
