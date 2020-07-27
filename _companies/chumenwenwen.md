@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: "Mobvoi_Official"
   url: "https://twitter.com/Mobvoi_Official"
-  followers: 55249
+  followers: 55204
 
 size: 501-1,000 employees
 yearFounded: 2012
