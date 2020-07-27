@@ -28,15 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Europe 3D Sensor Market Share, Industry Growth, Size, Statistics and Opportunity During 2020 to 2025"
-    excerpt: "Global 3D Sensor Market is valued at USD 1537.61 Million in 2018 and expected to reach USD 7221.75 Million by 2025 with the CAGR of 24.73% over the forecast period. Get Sample of This Report@  The 3D sensor market is growing due to its application in various end user industries such as consumer electronics,"
-    publishedDateTime: 2020-07-23T21:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-3d-sensor-market-share-industry-growth-size-statistics-and-opportunity-during-2020-to-2025-2020-07-23"
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size Historical Growth, Analysis, Opportunities and Forecast To 2025"
+    excerpt: "Global Artificial Intelligence (AI) in Precision Medicine Market Analysis, 2020a??, the Global AI in Precision Medicine market is anticipated to grow at a CAGR of around 50% during 2020-25. Machine learning algorithms are used in healthcare institutions to ..."
+    publishedDateTime: 2020-07-23T19:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Supply Chain Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025"
+    excerpt: "Global Artificial Intelligence in Supply Chain Industry was valued at USD 767.8 Million in the year 2018. Global"
+    publishedDateTime: 2020-07-22T12:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-07-20?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "US Artificial Intelligence Market by Services, Technology, Overview, Component, Industry Revenue, Cost Structure Analysis and Forecast to 2025"
-    excerpt: "Based on end-user, the market is segmented into media & advertising, BFSI, it & telecom, retail, healthcare, automotive & transportation and others. The regions covered in this Artificial Intelligence Market report are North America, Europe, Asia-Pacific ..."
-    publishedDateTime: 2020-07-23T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-artificial-intelligence-market-by-services-technology-overview-component-industry-revenue-cost-structure-analysis-and-forecast-to-2025-2020-07-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "p8Kw9v5c0PphPobeoNwds+5uf51fFcU48X0+OeEdenpiiqZdMoCc9l8rC4LU+JYfzDO0cARqgEYfKPF/QW6b0zBzD7kHu5tFDsSrPt+7MDbnjt7J/QP5fWU7HKjfS5Igk3HWNugwQxC/eXR8ulIR1SRHdcSPw1uEPGyFWmyC4XG1ZUd9pABILUt34p3NcgYYtHGmIzNlqcJN6hdsD4VoJ5t8G7+yqoV5GaleQDUBNq0h5SN8q0qGI51RrNcy6ajEFajzzHP/M9lQZDBBOMq2gPbI+5f/C/JlDuH+sQUdAby7CQ/whiQVkkFRGdZ22Zbu8oG5ciQy+MwjdPytdYfeZQ==;AMwG1Z4v8SDAp18d9WtVaQ=="
 ---
 

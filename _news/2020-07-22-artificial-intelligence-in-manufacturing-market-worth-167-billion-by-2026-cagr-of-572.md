@@ -6,8 +6,8 @@ publishedDateTime: 2020-07-22T19:07:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MarketWatch
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
-    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
-    publishedDateTime: 2020-07-23T06:19:00Z
-    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
   - title: "Artificial Intelligence in Manufacturing Market Research Report by Technology, by End User - Global Forecast to 2025 - Cumulative Impact of COVID-19"
     excerpt: "NEW YORK, July 22, 2020 /PRNewswire/ -- Artificial Intelligence in Manufacturing Market Research Report by Technology (Deep Learning, Machine Learning Platforms, Machine Vision, Robotic Processes Automation,"
     publishedDateTime: 2020-07-22T12:43:00Z

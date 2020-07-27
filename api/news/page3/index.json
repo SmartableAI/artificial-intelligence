@@ -2,6 +2,105 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-23-quantexa-raises-647-million-for-ai-platform-that-extracts-insights-from-big-data.md",
+      "title": "Quantexa raises $64.7 million for AI platform that extracts insights from big data",
+      "excerpt": "Quantexa uses AI tools to uncover risk and opportunities ... Sign up for Funding Weekly to start your week with VB's top funding stories.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/95cc9fbd-7a4c-473e-9616-83dc4e071dd2-e1595264197627.png?w=1200&#038;strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/23/quantexa-raises-64-7-million-for-ai-platform-that-extracts-insights-from-big-data/amp/",
+      "publishedDateTime": "2020-07-23T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-23-facebook-is-training-an-army-of-malicious-bots-to-research-anti-spam-methods.md",
+      "title": "Facebook is training an army of malicious bots to research anti-spam methods",
+      "excerpt": "In a new experiment, Facebook is training an army of automated bots to simulate bad behavior for testing and researching anti-spam methods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/image_treatment_facebook_hacked_200716-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/facebook-bots-experiment-predict-bad-behaviour/?amp",
+      "publishedDateTime": "2020-07-23T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-facebook-is-using-bots-to-figure-out-how-to-stop-harassment.md",
       "title": "Facebook is using bots to figure out how to stop harassment",
       "excerpt": "Facebook says its researchers are developing new technology they hope will aid in ongoing efforts to make its platform’s AI have the ability to snuff out harassment. In the Web-Enabled Simulation (WES),",
@@ -749,55 +848,6 @@
       ]
     },
     {
-      "path": "_news/2020-07-22-artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572.md",
-      "title": "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026 | CAGR of 57.2%",
-      "excerpt": "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-22-increasing-engagement-with-personalized-online-sports-content.md",
       "title": "Increasing engagement with personalized online sports content",
       "excerpt": "This is a guest post by Mark Wood at Pulselive. In their own words, “Pulselive, based out of the UK, is the proud digital partner to some of the biggest names in sports.” At Pulselive, we create experiences sports fans can’t live without; whether that’s the official Cricket World Cup website or the English",
@@ -1154,7 +1204,7 @@
       "webUrl": "https://www.fool.com/investing/2020/07/22/waymo-and-fiat-chrysler-agree-to-build-self-drivin.aspx",
       "originalUrl": null,
       "featuredContent": null,
-      "heat": 269,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -1194,57 +1244,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-22-opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic.md",
-      "title": "Opportunities in Artificial Intelligence Market Amidst COVID-19 Pandemic",
-      "excerpt": "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/opportunities-in-artificial-intelligence-market-amidst-covid-19-pandemic-2020-07-22",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-22T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

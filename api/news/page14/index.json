@@ -2,6 +2,88 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-07-15-frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-platform-dynamics.md",
+      "title": "Frontline Systems' RASON® Simplifies Decision Management for Firms Using Azure, Office/Excel, Power Platform, Dynamics",
+      "excerpt": "Frontline Systems has released a major new version of RASON® Decision Services, its cloud service on Azure, that enables companies to easily embed 'decision intelligence' in activities ranging from annual or quarterly planning to everyday business processes – yielding reduced costs and risks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/16623858",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16623858",
+      "publishedDateTime": "2020-07-14T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-15-fundamentally-flawed-study-describes-facial-recognition-system-designed-to-identify-non-binary-people.md",
+      "title": "‘Fundamentally flawed’ study describes facial recognition system designed to identify non-binary people",
+      "excerpt": "In a study, researchers describe a controversial approach to designing facial recognition systems that can identify non-binary people.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/14/study-describes-facial-recognition-system-designed-to-identify-non-binary-people/amp/",
+      "publishedDateTime": "2020-07-14T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-14-how-facebook-is-combining-augmented-reality-and-ai.md",
       "title": "How Facebook Is Combining Augmented Reality and AI",
       "excerpt": "further explained to the audience that the AI technology for Facebook's AR platform is a “revolution in computer vision” and the culmination of research that can be traced back to the 1990s. To recognize people and objects Facebook's AI leverages a ...",
@@ -1096,87 +1178,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning.md",
-      "title": "AI Start-Up, Focused on Artificial General Intelligence, Demonstrates First Steps Toward Human Reasoning",
-      "excerpt": "PRNewswire/ -- Cognitive Science & Solutions, an AI start-up business focused on Artificial General Intelligence (AGI), announces that it has demonstrated the first steps towards human",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-start-up-focused-on-artificial-general-intelligence-demonstrates-first-steps-toward-human-reasoning/article_667f89cc-a41f-56b3-94b9-0ed46a43739f.html",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-14T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-07-14-abacusais-autonomous-ai-cloud-service-reaches-general-availability.md",
-      "title": "Abacus.AI’s Autonomous AI Cloud Service Reaches General Availability",
-      "excerpt": "RealityEngines.AI announced the general availability of its autonomous cloud AI service as well as a re-branding to Abacus.AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/?ss=consumertech",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0c70b424c99300079a255e%2F0x0.jpg",
-          "width": 1199,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2020/07/14/abacusais-autonomous-ai-cloud-service-reaches-general-availability/amp/",
-      "publishedDateTime": "2020-07-14T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

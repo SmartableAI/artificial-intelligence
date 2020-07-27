@@ -26,34 +26,28 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipsets Market May Set New Growth Story | Google, Intel, Qualcomm, IBM"
-    excerpt: "A new business intelligence report released by HTF MI with title “Global Deep Learning Chipsets Market Size, Status and Forecast 2019-2025” is designed covering micro level of analysis by manufacturers and key business segments."
-    publishedDateTime: 2020-07-23T16:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipsets-market-may-set-new-growth-story-google-intel-qualcomm-ibm-2020-07-23"
+  - title: "Galvanizing manufacturing with Artificial Intelligence and Deep Learning"
+    excerpt: "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ..."
+    publishedDateTime: 2020-07-24T19:42:00Z
+    webUrl: "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Chips Market is set to see Revolutionary growth in decade | Wave Computing, Graphcore, IBM, Alphabet, Qualcomm Technologies"
-    excerpt: "Latest released the research study on Global Machine Learning Chips Market, offers a detailed overview of the factors influencing the global business scope. Machine Learning Chips Market research report shows the latest market insights,"
-    publishedDateTime: 2020-07-23T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-chips-market-is-set-to-see-revolutionary-growth-in-decade-wave-computing-graphcore-ibm-alphabet-qualcomm-technologies-2020-07-23"
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 66
+  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
+    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
+    publishedDateTime: 2020-07-23T06:19:00Z
+    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 35
 
 secured: "t2k3Btci8gGVrg4g0n091TucfaeOTIRv/MM7eMmnHqYDpihbUvqzVTpYnSsNw8HwpC/E57kwIwruJvLd/MiU7DplFEStDgalgP6VPMwByvCoarSkQ5NYhCGmybClb++Jm1Vk4cQPlRI8xMWhT37ocHIU1iSo9ggHrO7jPh+AAwLyIk6hOBqv5fL6dYfH23exgt5GnwB+iPqTVXSOVJf2by41DoisjwNd5LqfwUmSmH062lwcrnF/MsHeVkUpoLczKxLoR6T9ywTk4IdxMvza/RWOi4uujMyCi1cQGpA7QUF1BbnCi/y18jAc6HJCRj+dVa/K8rn2Ukt6CMDq5IFa4A==;c0BR+PwL8KH87YNfp2HKUQ=="
 ---

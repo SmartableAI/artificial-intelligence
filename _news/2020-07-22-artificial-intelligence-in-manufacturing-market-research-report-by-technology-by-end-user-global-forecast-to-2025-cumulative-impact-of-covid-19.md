@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market worth $16.7 billion by 2026"
-    excerpt: "The report \"Artificial Intelligence in Manufacturing Market by Offering (Hardware, Software, and Services), Technology (Machine Learning, Computer Vision, Context-Aware Computing, and NLP), Application, End-user Industry and Region - Global Forecast to ..."
-    publishedDateTime: 2020-07-23T06:19:00Z
-    webUrl: "https://www.openpr.com/news/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    ampWebUrl: "https://www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2095227/artificial-intelligence-in-manufacturing-market-worth-16-7"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 35
 
 secured: "6SCHqDKJg3BSXoYE8Nht11OTo4bjUeW6KNp4pxS7jURY4viLYALD95Ysfm5Ut6h+JcSPvsasYvGnnF4F4roF/Tb3uOzCgOPed27s89asPDf24kRkKexVARE+XR1Eb3vlhCgSwQthpZk3zzmb67/YrTulz6upMO1ZycWdSzqYcPbcBG2WLYyKg/k+jjoO0qURF0ZAyia5jV01jfnhtTfSoYLb7Qiq4SB9T3fqWitEwdAlfGXTd+sE3oFwlH/iN8JOBiuJ3NjgQEZScV7xYCjv7O9gxaViQ8ZZjhnqARDgA+McpdcODvPkunUctkvEwlO1Gev+vYNsfXTvHnVwfNI8sw==;EuU83hjYkTthLbFExUBiJA=="
 ---

@@ -659,6 +659,46 @@
       ]
     },
     {
+      "path": "_news/2020-07-24-galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning.md",
+      "title": "Galvanizing manufacturing with Artificial Intelligence and Deep Learning",
+      "excerpt": "As a market leader in CAE solutions, Hewlett Packard Enterprise is delivering a purpose-built solutions portfolio jointly with NVIDIA® and several independent software vendors (ISVs) in the manufacturing industry to help manufacturers improve their AI/DL ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/",
+      "publishedDateTime": "2020-07-24T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-24-this-ai-protects-blm-protestors-from-facial-recognition.md",
       "title": "This AI protects BLM protestors from facial recognition",
       "excerpt": "Stanford Machine Learning researchers have develop an anonymization tool called the BLMPrivacyBot that covers the faces of protestors with a BLM fist emoji.",
@@ -1133,46 +1173,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-24-railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature.md",
-      "title": "Railways to revamp the IRCTC website with Artificial Intelligence feature",
-      "excerpt": "Mr. Yadav said the portal will have Artificial Intelligence capabilities integrated into it. “When passengers book the ticket, based on the analysis of the past data, the AI feature will be able to forecast the chances of reservation confirmation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/railways-to-revamp-the-irctc-website-with-artificial-intelligence-feature/article32176868.ece/amp/",
-      "publishedDateTime": "2020-07-23T18:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

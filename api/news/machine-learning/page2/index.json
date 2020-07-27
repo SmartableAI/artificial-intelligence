@@ -2,6 +2,47 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-16-altair-releases-new-version-of-altair-knowledge-studio-market-leading-machine-learning-and-predictive-analytics-solution.md",
+      "title": "Altair Releases New Version of Altair® Knowledge Studio® Market-leading Machine Learning and Predictive Analytics Solution",
+      "excerpt": "At the outset, data is improved automatically by replacing missing values and dealing with outliers. AutoML then builds and compares many different models to identify the best available option. Compared to manual approaches, results are optimized in ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2020/07/16/altair-releases-new-version-of-altair-xae-knowledge-studio-xae-market-leading",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/media/fe824bfb-2796-46db-84df-d3c016abf98d/medium/altair-knowledge-studios-wizard-will-select-all-models-but-t.PNG",
+          "width": 300,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-16T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-why-supervised-learning-is-more-common-than-reinforcement-learning.md",
       "title": "Why supervised learning is more common than reinforcement learning",
       "excerpt": "Unlike supervised learning, reinforcement learning algorithms must observe, and that can take time, said UC Berkeley professor Ion Stoica at Transform.",
@@ -1365,49 +1406,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
-      "title": "Decision points in storage for artificial intelligence, machine learning and big data",
-      "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": "Decision points in storage for artificial intelligence, machine learning and big data",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
-      "publishedDateTime": "2020-07-08T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

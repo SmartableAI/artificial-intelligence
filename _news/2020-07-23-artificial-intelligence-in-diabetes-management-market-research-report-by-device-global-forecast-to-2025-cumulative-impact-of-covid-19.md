@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence in Diabetes Management Market Research Report by Device - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-excerpt: "New York, July 23, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of"
-publishedDateTime: 2020-07-23T19:01:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-research-report-by-device---global-forecast-to-2025---cumulative-impact-of-covid-19-2020-07-23"
+excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Diabetes Management Market Research Report"
+publishedDateTime: 2020-07-23T18:46:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/07/g16757674/artificial-intelligence-in-diabetes-management-market-research-report-by-device-global-forecast-to"
+ampWebUrl: "https://amp.benzinga.com/amp/content/16757674"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/16757674"
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial Intelligence in Accounting Market Research Report"
@@ -44,6 +36,6 @@ related:
         height: 452
         isCached: true
 
-secured: "K1eiQgFeifuTGEfpgkKEDF+eCIjAhWbAllE/9gVDhODkSr4cvNRUcCrKnZDNJSBVYIm9DDbPTiyVa21zNjj/ZjTJGec0/2DPsabjDiCpF+R3dTOuaEuIlH4m2+FYcG3b5qZIDYdfVYBePnGEG5whFXaeu05VuARu8vqstRhVHV9r2kKVPcGQPrQYaYboVa287UqNxrxte0S5map/dLJzVGbhOyl+U3iv+fkF5yhRQ0pDbewSdfljr4yvcRApXKJ1lmSYd9ivYomlt5vncIoOtg9SZkZOG74d2gmX6gmdlXbO8TAnoC4GkdKDufEoH55bdEfMiyeECyX0PBv7kEYMjw==;20w1veF3OR83CDbQlDKr7g=="
+secured: "o8Ow4itsJJN4W1gqz2Ni7Nz9Xwj4H6UBsydXqDgdy7lEtFIUTma1iKqhU9Y8ZYzgF5EaJw00zTaT1a3wgrHHnna6kv0DWmSL1dGEK3O6fbaZLy4x+csSD78lKBEfdvxQ3Kttr3lfm05mB2DyIFc0+LjNlbg+C+V6PfcvcMPJPTOtcDUMaKYerYKK3BJR50KDfGwoh3wFdAJTNDHRUDP+Bl/niyYeHB4aBPiifSfiFhUYoKTtNAZMxRUThMdk+UERvfwSXusZbkXhlGfrUPvAc9WRM+GxU5FpnB7e8Xck2VywDAJqDnphz+iLljDxOoebtKaaKkHcwMvXLfEYRoh+/Ke0g5hMr1VWwgr9azkMoxiC5Ioecmc3bmBiKfX3K31JLR2aVbYEUJWTHY9V85/9ccAYMS8ZSf9Sj+BqISAEorxFEvDby5hJ/E1XX9Y1Yrh++IbK01o7GVXCZjV/0IX7r39kT6nFv2z7+z4qA36X3BqUXkM6/r/0HzWHGktLMa2O;Pgd6M9bhwB3ojDTB/RM7Lw=="
 ---
 

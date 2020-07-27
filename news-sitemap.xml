@@ -85,6 +85,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.techrepublic.com/resource-library/whitepapers/galvanizing-manufacturing-with-artificial-intelligence-and-deep-learning/</loc>
+    <lastmod>2020-07-24T12:42:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://thenextweb.com/neural/2020/07/24/this-ai-protects-blm-protestors-from-facial-recognition/</loc>
     <lastmod>2020-07-24T12:37:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -171,6 +177,12 @@
   <url>
     <loc>https://venturebeat.com/2020/07/23/researchers-ai-system-infers-music-from-silent-videos-of-musicians/</loc>
     <lastmod>2020-07-23T12:24:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2020-07-23</loc>
+    <lastmod>2020-07-23T12:14:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -391,12 +403,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-worth-167-billion-by-2026-cagr-of-572-2020-07-22</loc>
-    <lastmod>2020-07-22T12:07:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://aws.amazon.com/blogs/machine-learning/increasing-engagement-with-personalized-online-sports-content/</loc>
     <lastmod>2020-07-22T11:27:30-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -547,6 +553,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://www.designnews.com/electronics-test/autonomous-cars-big-challenge-using-hyperscale-server-fleet-train-ai-neural</loc>
+    <lastmod>2020-07-21T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://www.theverge.com/2020/7/21/21333405/facebook-instagram-racial-bias-equity-team-formed-ai-algorithms</loc>
     <lastmod>2020-07-21T16:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -589,8 +601,8 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX</loc>
-    <lastmod>2020-07-21T12:01:00-07:00</lastmod>
+    <loc>https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer</loc>
+    <lastmod>2020-07-21T12:12:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -1933,14 +1945,14 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://markets.businessinsider.com/news/stocks/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-office-excel-power-platform-dynamics-1029394568</loc>
-    <lastmod>2020-07-14T21:15:00-07:00</lastmod>
+    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
+    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://inside.com/premium?campaign_id=22107&amp;list_id=6&amp;outbound_id=---OUTBOUND-ID---&amp;section_id=---SECTION-ID---&amp;subscriber_token=---SUBSCRIBER-TOKEN---</loc>
-    <lastmod>2020-07-14T21:11:00-07:00</lastmod>
+    <loc>https://www.benzinga.com/pressreleases/20/07/n16623858/frontline-systems-rason-simplifies-decision-management-for-firms-using-azure-officeexcel-power-pla</loc>
+    <lastmod>2020-07-14T21:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>
   </url>
@@ -3679,12 +3691,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://www.nationthailand.com/sport/30390973</loc>
-    <lastmod>2020-07-06T19:24:00-07:00</lastmod>
-    <changefreq>hourly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://www.clickz.com/5-tips-to-accelerate-your-companys-ai-implementation/</loc>
     <lastmod>2020-07-06T19:19:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
@@ -3704,6 +3710,12 @@
   </url>
   <url>
     <loc>https://www.nextplatform.com/microsite-landing/hpe-solutions/leverage-ai-innovation-gpu-optimized-solutions/</loc>
+    <lastmod>2020-07-06T17:00:00-07:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://news.microsoft.com/en-xm/2020/07/07/one-championship-and-microsoft-partner-to-further-accelerate-and-reinvent-the-digital-fan-experience/</loc>
     <lastmod>2020-07-06T17:00:00-07:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1</priority>

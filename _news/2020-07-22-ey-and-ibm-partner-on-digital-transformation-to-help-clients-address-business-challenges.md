@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Digital and AI is about scaling and moving from experimentation to transformation: Sandip Patel, IBM"
-    excerpt: "AI requires machine learning; machine learning requires analytics; and analytics requires the right data and information architecture"
-    publishedDateTime: 2020-07-22T08:42:00Z
-    webUrl: "https://www.dqindia.com/digital-ai-scaling-moving-experimentation-transformation-sandip-patel-ibm/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 4
-
 secured: "pVZjnxN8NPPnNwCJt11dCE1id+X2g5bJjUfuSxla+w4LVZTH1wOdJukp/7pBTxh64pOPofP8B5N5dx5AoJvt+cBLGDVZ8/lzgt/+D55iqDowLEqq8HLBKp5ip6TvXhdVxUD0PkmRxWwQi1MN8R6N6BJpjY4Qz2ZYu621V/3sxiw1HPowTiNzpWe0pYQKEdAvo/SZ22ubkYq8BS499SUHrE4ZC4ev97AYoj6NjXCp6IV/SErxuvT+DJPNrCJr5ufK6ounhby4iFSoKSVEQCasaRYnGxE4hsSsH2ZGqPZQGcPGtJVZkHa4cOTWxjjIouWjSf/cTjsXt858Q5/FXAIgextxWcL6IAOV4mtiYKMtDxR1jlv8+I6ZPADu5s22aQlgxVT2IHJhqeC2UPe6G6pImTiLfLUZmI3klgn1G/BzXiBD7LnftELhHLZzuI3wn2VlHmcJTG53mXAq8Hxn5A6XMBJs7zKh7P0XGSXWlMZG9WHDIaFxYpIb/1ieKDtV445fZyJsFQCsRu/SGJT06uzBtQ==;JDUkDz4tn0xFQdA1iEgIgA=="
 ---
 

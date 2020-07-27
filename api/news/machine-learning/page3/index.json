@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-07-08-decision-points-in-storage-for-artificial-intelligence-machine-learning-and-big-data.md",
+      "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+      "excerpt": "Advanced analytics needs powerful computing to turn data into insights. Machine learning (ML) and AI takes this to another level because such systems need rich datasets for training and rapid access to new data for operations. These can run to multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/searchEnterpriseAI/infrastructure/searchEnterpriseAI_050.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Decision points in storage for artificial intelligence, machine learning and big data",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/Decision-points-in-storage-for-AI-ML-and-big-data?amp=1",
+      "publishedDateTime": "2020-07-08T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-07-08-nanowire-network-could-advance-design-of-ai.md",
       "title": "Nanowire Network Could Advance Design of AI",
       "excerpt": "The network is part of a larger scientific aim to improve artificial intelligence through what’s called ... citing some recent developments in the areas such as the development of neural chips such as the Intel’s Nervana and IBM’s True North Chip.",
@@ -1354,56 +1397,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-26-what-you-should-know-about-investing-in-ai-during-economic-downturn.md",
-      "title": "What you should know about investing in AI during economic downturn",
-      "excerpt": "Over the past few months, the COVID-19 virus has had a huge impact on the globe. As of April 28, according to the World Health Organization, there have been more than 2.8 million confirmed cases worldwide and nearly 198,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/shutterstock_144055459_stocks_stock-market-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": "What you should know about investing in AI during economic downturn",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/06/26/what-you-should-know-about-investing-in-ai-during-economic-downturn/amp/",
-      "publishedDateTime": "2020-06-26T13:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

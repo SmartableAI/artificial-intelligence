@@ -2,6 +2,109 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-07-09-how-ibm-is-fighting-covid-19-with-ai.md",
+      "title": "How IBM is fighting COVID-19 with AI",
+      "excerpt": "Dr. David Cox, IBM Director of the MIT-IBM Watson AI lab of IBM Research, tells Tonya Hall about ten new projects IBM has launched to combat COVID-19 and highlights some of the biggest projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/how-ibm-is-fighting-covid-19-with-ai/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/07/09/8a8ac6f5-dccb-4ccb-844b-825f89213789/thumbnail/770x578/5ff5a512761d1c086e057fcc8956b566/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-09T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-09-break-into-artificial-intelligence-with-this-four-course-online-training-for-35.md",
+      "title": "Break into artificial intelligence with this four-course online training for $35",
+      "excerpt": "Finally, there's the top-rated Tensorflow course, which will teach you how to bring all of this new knowledge together in order to create AI solutions to everyday problems, how to maintain and develop your own neural networks, and more. You don't need to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/06/29/e320cd29-461a-4c3d-962b-e37a0b349a5a/thumbnail/1200x675/4ef0589d4d8a8d6bf48b94ec3a85550f/uhsvr.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/break-into-artificial-intelligence-with-this-four-course-online-training-for-35/",
+      "publishedDateTime": "2020-07-09T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-07-09-dissent-suppression-apart-uae-using-its-extensive-surveillance-network-in-bid-to-curb-coronavirus.md",
       "title": "Dissent suppression apart, UAE using its extensive surveillance network in bid to curb coronavirus",
       "excerpt": "But multiplied across the cameras watching public spaces, buses, the driverless Metro ... a new surveillance camera program powered by artificial intelligence called “Oyoon,” or “Eyes ...",
@@ -1047,104 +1150,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-ai-save-me-from-my-rude-self-please.md",
-      "title": "AI, save me from my rude self (please)",
-      "excerpt": "Carnegie Mellon University scientists come up with an automated method for making communication more polite, thank you very much.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-save-me-from-my-rude-self-please/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/tZdIT-Bs6FsJAx4IkvaJhDduYvU=/2020/07/08/fcbb5699-47eb-4649-9f76-c340715e67bc/667394822.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "AI, save me from my rude self (please)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-save-me-from-my-rude-self-please/",
-      "publishedDateTime": "2020-07-08T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-08-garry-kasparov-on-ai-people-always-called-me-an-optimist.md",
-      "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
-      "excerpt": "Garry Kasparov is a political activist who’s written books and articles on artificial intelligence, cybersecurity and online privacy, but he’s best known for being the former World Chess Champion who took on the IBM computer known as Big Blue in the mid-1990s.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/05/img_9735.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Garry Kasparov on AI: ‘People always called me an optimist’",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/08/garry-kasparov-on-ai-people-always-called-me-an-optimist/amp/",
-      "publishedDateTime": "2020-07-08T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

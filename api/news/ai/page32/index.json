@@ -2,6 +2,96 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-06-26-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "Dr. Seuss taught young readers the endless possibilities of an active imagination with his classic story, \"Oh, the Thinks You Can Think!\" But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the University of Minnesota have helped to prove the possibilities of using brain-computer interface technology to reach and grasp objects with a robotic arm using only their thoughts. The work represents the first time anyone has been able to accomplish such tasks in a complex 3-D environment, according to Bin He, a University of Minnesota biomedical engineering professor and lead researcher on the project. \"Just by imagining to move their arms, they were able to move the robotic arm,\" He said. \"We were surprised to find out from the work that a group of human subjects can learn to do a good job controlling complex tasks, such as reach and grasp in 3-D space using a noninvasive device,\" He said. \"It is only research now,\" said He, who also serves as the director for the University of Minnesota's Institute of Engineering in Medicine. \"But we hope such line of research [will] benefit lots of people in the future.\" By wearing the EEG cap during experimental sessions, study participants gradually learned to imagine moving their own arms without actually moving them to control a robotic arm in 3-D space. They started from learning to control a virtual cursor on a computer screen. From there, the participants learned to control a robotic arm to reach and grasp objects, such as a wooden block, that were in a fixed location on a table at an average success rate above 80 percent. Eventually, the participants learned to how to move the robotic arm to reach and grasp objects in random locations on the table and move them to a three-tier shelf with an average success rate above 70 percent, just by thinking about the movements. To explain how the brain-computer interface technology works, the researchers credit the geography of the motor cortex, the part of the brain that governs movement. When people move, or think about a movement, neurons in the motor cortex produce tiny electric currents. Thinking about a different movement activates a new assortment of neurons, a phenomenon He confirmed with functional MRI in an earlier study. That earlier work, published three years ago, showed participants could fly a small quadcopter using the EEG technology. But even then, He admits the team was not sure how well it would work with a more complex robotic arm. The researchers plan to further develop the technology using a robotic prosthetic limb. They also want to see how well the EEG cap works for someone who has had a stroke or is paralyzed. The study was funded by the National Science Foundation, the National Center for Complementary and Integrative Health, National Institute of Biomedical Imaging and Bioengineering, and National Institute of Neurological Disorders and Stroke of the National Institutes of Health, and the University of Minnesota's state-funded initiative called Minnesota Discovery, Research and InnoVation Economy (MnDRIVE).",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": "Does The Future Of Robotics Lie In The Imagination?",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-26T01:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-26-why-ai-is-the-next-way-patients-will-choose-their-doctors.md",
+      "title": "Why AI is the next way patients will choose their doctors",
+      "excerpt": "Web reviews and personal recommendations are imperfect solutions to finding the best doctor to handle your heath. Can AI help?",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/06/RTR4AF6R-e1592382796908.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 790,
+          "title": "Why AI is the next way patients will choose their doctors",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1869760/how-ai-can-help-solve-the-coming-post-covid-patient-backlog/amp/",
+      "publishedDateTime": "2020-06-26T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-06-26-how-driverless-scooters-could-boost-healthcare.md",
       "title": "How Driverless Scooters Could Boost Healthcare",
       "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore,",
@@ -1233,105 +1323,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-voice-ai-is-coming-to-the-workplace-loud-and-clear.md",
-      "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
-      "excerpt": "While many of us have grown to rely on voice-based devices in our personal lives, our professional lives have yet to leverage the power of voice and AI, until now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1128057578%2F0x0.jpg",
-          "width": 1200,
-          "height": 556,
-          "title": "Voice + AI Is Coming To The Workplace Loud And Clear",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninaachadjian/2020/06/25/voice--ai-is-coming-to-the-workplace-loud-and-clear/amp/",
-      "publishedDateTime": "2020-06-25T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-25-machine-learning-platform-mlflow-joins-the-linux-foundation.md",
-      "title": "Machine learning platform MLflow joins the Linux Foundation",
-      "excerpt": "Handing the platform run by Databricks to the vendor-neutral foundation will speed growth, the organizations say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/01/24/815af793-11d7-4337-8ab0-cc3048fe78cf/resize/1200x/fe1818e94dbdea2e87869e3264c8e2b5/opensourceistock-479493570boygovideo.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": "Machine learning platform MLflow joins the Linux Foundation",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-platform-mlflow-joins-the-linux-foundation/",
-      "publishedDateTime": "2020-06-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
