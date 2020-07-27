@@ -8,7 +8,7 @@ ampWebUrl: "https://phys.org/news/2020-07-people-artificial-intelligence-divorce
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-07-people-artificial-intelligence-divorce.amp"
 type: article
 quality: 51
-heat: -1
+heat: 51
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1356
     height: 668
     isCached: true
-
-related:
-  - title: "Artificial Intelligence is Now Being Used to Resolve Divorces"
-    excerpt: "An online app called Amica is now using artificial intelligence to help separating couples make parenting arrangements and divide their assets. For many people, the coronavirus pandemic has put even the strongest of relationships to the test."
-    publishedDateTime: 2020-07-22T07:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/07/artificial-intelligence-is-now-being-used-to-resolve-divorces/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 57
-    images:
-      - url: "https://www.gizmodo.com.au/content/uploads/sites/2/2020/07/22/divorce-artificial-intelligence.png"
-        width: 1085
-        height: 589
-        isCached: true
 
 secured: "uh1FeWQymZSQZgXhrtaeWm4zdreLEevmye2N+y6W1Sq868ka1RftQtufDFJnU1YvBGuA/MkJsFZdQ/0xwObQJOrDVc/+gy1xCP43Uq59gisHlq75qDoaHL3/hZ+r6wW0W9VxgYButiKWuxc5LLNNG5En+PGXEbm1Lsnp1Bl9LcKmvVtivAcG7giI5FtTSbPx3bSnvL0d/7YM62gHX6i3AAmx3zkG732S7PGWhk5pqP1tlOj6b3eGSZNO5UZHHr9/SN+bq+YtSfWh2/OqgzWupj4WBHC7lS8/3Xrkz6wRQ8lyVCcaHux9bQJ3wkDwslrBIC4Jq4WKnZVyhZ5X/m9/40IqfPafBOjffOFcdeGw5i6PSSeIC4OXvLycJChcmPG6e4q4+s9hKNXdwwgGviQYZqX772pKomot6s2GW1SosW/htnevQ3BxabjgQIPkCILkcwfBKsdCUMSTpjyI40MErU7+/xviS6SXCaHpRUziCtw8SUPuOAZEjW8PMO/8q3qPsog1gJOURBXSfp+YWlP2Bg==;haMj3epNP4I5lI2vzCV9DQ=="
 ---

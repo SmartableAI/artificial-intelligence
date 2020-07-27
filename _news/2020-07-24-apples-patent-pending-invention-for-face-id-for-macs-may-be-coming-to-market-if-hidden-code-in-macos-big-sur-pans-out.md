@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Counterpoint: The hidden threat of facial recognition technology"
+    excerpt: "Civil rights advocates have long warned that facial recognition technology was open to abuse by government efforts to identify and track protesters. Those"
+    publishedDateTime: 2020-07-22T11:23:00Z
+    webUrl: "https://www.scmagazine.com/perspectives/counterpoint-the-hidden-threat-of-facial-recognition-technology/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 39
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/01/SC-MEDIACYBERSOURCEnotag.jpg"
+        width: 1125
+        height: 941
+        isCached: true
   - title: "Innovative Technology Launches Facial Recognition API for the Gaming Industry"
     excerpt: "Innovative Technology (ITL) has released an online API alternative to their ICU Intelligent Identification device aimed at the growing online gaming market. ICU API will enable your website to perform facial recognition & age estimation."
     publishedDateTime: 2020-07-22T22:38:00Z

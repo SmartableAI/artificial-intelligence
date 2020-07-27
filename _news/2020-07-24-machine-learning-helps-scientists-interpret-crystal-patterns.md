@@ -6,7 +6,7 @@ publishedDateTime: 2020-07-24T03:36:00Z
 webUrl: "https://www.eurekalert.org/features/doe/2020-07/dnl-mlh072320.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tencent and Chinese scientists use deep learning to predict fatal COVID-19 cases"
-    excerpt: "Tech firms around the world are in an overdrive to help battle the coronavirus pandemic. Research showed that 6.5% of COVID-19 patients can suddenly progress to serious illness, and among them the mortality rate can be as high as 49%."
-    publishedDateTime: 2020-07-22T06:49:00Z
-    webUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/"
-    ampWebUrl: "https://techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/07/21/tencent-coronavirus-prediction/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1209271729.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "How AI helps scientists fight COVID-19"
     excerpt: "Artificial intelligence is useful for sorting through massive amounts of data and identifying anomalies within that data. Given the swaths of data healthcare workers and scientists are sorting through due to the coronavirus pandemic,"
     publishedDateTime: 2020-07-24T18:29:00Z

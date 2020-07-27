@@ -2,56 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-07-17-intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot.md",
-      "title": "Intel VP: AI-aided defect detection is a killer app for industrial IoT",
-      "excerpt": "Computer vision has become one of AI’s most promising applications, combining ever-improving cameras with faster and smarter automated object recognition. During today’s Transform 2020 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/07/inteltransform2020-e1594304433845.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/07/17/intel-vp-ai-aided-defect-detection-is-a-killer-app-for-industrial-iot/amp/",
-      "publishedDateTime": "2020-07-17T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-07-17-nvidia-faces-a-tough-new-rival-in-artificial-intelligence-chips.md",
       "title": "NVIDIA Faces a Tough New Rival in Artificial Intelligence Chips",
       "excerpt": "The chip offers eight times the performance of its predecessor, the Colossus MK1, and is powered by 59.4 billion transistors -- which surpasses the 54 billion transistors in NVIDIA 's ( NASDAQ:NVDA) newest top-tier A100 data center GPU.",
@@ -1187,6 +1137,55 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-07-16-how-an-ai-graphic-designer-convinced-clients-it-was-human.md",
+      "title": "How an AI graphic designer convinced clients it was human",
+      "excerpt": "Art. Lebedev Studio has built an AI designer that creates original company logos. Sergey Kulinkovich, the company's art director, told TNW how it works.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/",
+      "originalUrl": null,
+      "featuredContent": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Untitled-design-2020-07-16T172150.239-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/07/16/how-an-ai-graphic-designer-convinced-clients-it-was-human/amp/",
+      "publishedDateTime": "2020-07-16T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Nvidia Partners With University of Florida to Build AI Supercomputer"
-excerpt: "Nvidia was long known as a supplier of graphics chips for personal computers to make video games look more realistic, but researchers now also use its chips inside data centers to"
-publishedDateTime: 2020-07-21T19:12:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-07-21/nvidia-partners-with-university-of-florida-to-build-ai-supercomputer?context=amp"
+title: "Nvidia partners with University of Florida to build AI supercomputer"
+excerpt: "Nvidia Corp and the University of Florida have partnered to build the world's fastest artificial intelligence based-supercomputer in higher education, the chipmaker said on Tuesday."
+publishedDateTime: 2020-07-21T19:01:00Z
+webUrl: "https://www.reuters.com/article/us-nvidia-university-of-florida-idUSKCN24M2NX"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN24M2NX"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN24M2NX"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -20,6 +20,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "PlGTHfqIVSU5k8qoRHxlc1mIXmSl6V85OP1p/8i9bYVr54J6alZYdsSOEAlvJtIszIT2sdU9s1K/HU8s8cH4aoWHbQizBRSC0JnxW2wGkxQyxBdg8qXoV5mW1w+BvxfycRY+cKyf1ZIlTPn1SefcNWyVRP1qtpT8lMIvavW6C0zaTkoIjetkGLmu9lozbMN6MEjtLPPJfm+yTj+IgFuppRb3tZJlEXrBLWhO9on/P2i1ydcxfL7MXnb+g9kWAZpYRtoyGs7FrYSf4pWjSzQfdrWjYureRplXD5D/Pe4GaGD49Bar52a5wNVLdSjs070KoJIsh4XihYpzizKkU8sVHBTEwwiA6OkCQE8l7oMpSckYyUKrrweF55plaNGkwG1YkzYcFAugyaMd6KIJw/WG4PVy9auTIC4U/K/CLojs+ZCFP92fyqjXziVpaoyZDbWi/rFXk7avi9Z5KWvUYu9sQIiSPBlvtRRp5VsgrrI5MD3v0AXxdDuGf0V3/qQ1giKErfEZM1/TtiD4CdTST2C6nw==;1ZJ57SL6RCzI45ks+lcX8w=="
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20200721&t=2&i=1526604517&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG6K1IK"
+    width: 818
+    height: 545
+    isCached: true
+
+secured: "bE/9vHQbUfML16SXs1m8GJtNZiPmHvN/EmD9xomuJbV9uEwpTWLH/++G0QRbRduG8sIWN0pwrNzYbFLWrHErFWJEc6HuiwANyXpyCzLRcXvKtn2BwYfHseR8bI7B0TMX0n99WhE1yKwLnD5Iv5sMfLw1ikmGgWv+Vv5thzvSq4faPLJi9i4QRnbit5dwGLaPDhtVdlVyzLuwdher1zryU9Llq6wktKVQWPQS/mRm1P75FS60MgRB0XtGPDhoxqrQKBSbEZYmuYVavKWkjTyjK+AmZvXfSoNORF8YruKcOKsiZFvCap0SbaFvxHxWBPABHyzM50bvxylfv6l0XKB23A==;nVtZUfuYNI2iYCW8AABGUA=="
 ---
 
